@@ -47,12 +47,12 @@ do
 	## write the results to a tmp file. 
 	search_cmd="t search all -ldn $n '$query' | cat - $filename | sort | uniq | grep -v ^ID > $scriptdir/tmp"
 	echo "Search:\t$search_cmd"
-	eval $search_cmd
+	# eval $search_cmd
 
 	## rename the tmp file to the original filename
 	rename_cmd="mv $scriptdir/tmp $filename"
 	echo "Rename:\t$rename_cmd"
-	eval $rename_cmd
+	# eval $rename_cmd
 
 	echo
 done
