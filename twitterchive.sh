@@ -23,7 +23,7 @@ declare -a arr=(\#bioinformatics metagenomics rna-seq)
 n=200
 
 ## cd into where the script is being executed from.
-DIR=$(dirname $(readlink $0))
+DIR="$(dirname "$(readlink $0)")"
 cd $DIR
 echo $DIR
 echo $(pwd)
