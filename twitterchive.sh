@@ -44,7 +44,7 @@ do
 	## use t (https://github.com/sferik/t) to search the last $n tweets in the query, 
 	## concatenating that output with the existing file, sort and uniq that, then 
 	## write the results to a tmp file. 
-	search_cmd="t search all -ldn $n '$query' | cat - $filename | sort | uniq > $scriptdir/tmp"
+	search_cmd="t search all -cdn $n '$query' | cat - $filename | sort | uniq > $scriptdir/tmp"
 	echo "Search:\t$search_cmd"
 	eval $search_cmd
 
