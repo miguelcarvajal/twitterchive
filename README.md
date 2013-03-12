@@ -1,4 +1,4 @@
-twitterchive - archive twitter search results
+twitterchive - Archive Twitter search results
 =============================================
 
 `twittershive.sh`
