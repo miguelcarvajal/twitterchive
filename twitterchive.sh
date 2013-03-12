@@ -22,9 +22,8 @@ declare -a arr=(\#bioinformatics metagenomics rna-seq)
 ## How many results would you like for each query?
 n=200
 
-## get the full path of the script
-scriptdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-cd $scriptdir
+## cd into where the script is being executed from.
+cd $(dirname $(readlink $0))
 
 echo
 
@@ -32,7 +31,7 @@ echo
 for query in ${arr[@]}
 do
 	## if your query contains a hashtag, remove the "#" from the filename
-	filename=$scriptdir/${query/\#/}.txt
+	filename=${query/\#/}.txt
 	echo "Query:\t$query"
 	echo "File:\t$filename"
 
@@ -45,12 +44,12 @@ do
 	## use t (https://github.com/sferik/t) to search the last $n tweets in the query, 
 	## concatenating that output with the existing file, sort and uniq that, then 
 	## write the results to a tmp file. 
-	search_cmd="t search all -ldn $n '$query' | cat - $filename | sort | uniq | grep -v ^ID > $scriptdir/tmp"
+	search_cmd="t search all -ldn $n '$query' | cat - $filename | sort | uniq | grep -v ^ID > tmp"
 	echo "Search:\t$search_cmd"
 	# eval $search_cmd
 
 	## rename the tmp file to the original filename
-	rename_cmd="mv $scriptdir/tmp $filename"
+	rename_cmd="mv tmp $filename"
 	echo "Rename:\t$rename_cmd"
 	# eval $rename_cmd
 
