@@ -24,7 +24,6 @@ n=200
 
 ## get the full path of the script
 scriptdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-#cd $scriptdir
 
 echo
 
