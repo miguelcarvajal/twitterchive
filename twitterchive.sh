@@ -24,6 +24,7 @@ n=200
 
 ## get the full path of the script
 scriptdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+#cd $scriptdir
 
 echo
 
@@ -57,6 +58,14 @@ do
 done
 
 ## push changes to github
+# git init
+# git touch README.md
+# git add README.md
+# git commit -m 'first commit'
+# git remote add origin https://github.com/stephenturner/twitterchive.git
+# git push origin master
 git add -A
 git commit -a -m "Update search results: $(date)"
 git push origin master
+
+## Run with a cronjob: 00 12 * * * /path/to/twitterchive.sh
