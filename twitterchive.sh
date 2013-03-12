@@ -31,7 +31,7 @@ echo
 for query in ${arr[@]}
 do
 	## if your query contains a hashtag, remove the "#" from the filename
-	filename=$scriptdir/${query/\#/}.txt
+	filename=$scriptdir/${query/\#/}.csv
 	echo "Query:\t$query"
 	echo "File:\t$filename"
 
