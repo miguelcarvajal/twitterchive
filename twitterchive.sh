@@ -49,12 +49,12 @@ do
 	## write the results to a tmp file. 
 	search_cmd="t search all -ldn $n '$query' | cat - $filename | sort | uniq | grep -v ^ID > $DIR/tmp"
 	echo "Search:\t$search_cmd"
-	# eval $search_cmd
+	eval $search_cmd
 
 	## rename the tmp file to the original filename
 	rename_cmd="mv $DIR/tmp $filename"
 	echo "Rename:\t$rename_cmd"
-	# eval $rename_cmd
+	eval $rename_cmd
 
 	echo
 done
@@ -68,6 +68,6 @@ done
 # git push origin master
 git add -A
 git commit -a -m "Update search results: $(date)"
-# git push origin master
+git push origin master
 
 ## Run with a cronjob: 00 12 * * * /path/to/twitterchive.sh
