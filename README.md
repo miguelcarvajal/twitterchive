@@ -18,4 +18,4 @@ I'm not sure what these limitations are, but I've hit them a few times. To be sa
 Other .txt files
 ----------------
 
-I'm also archiving all the search results from "#bioinformatics", "metagenomics", and "rna-seq" daily. The results from those searches are also in this repo.
+I'm also archiving all the search results from "#bioinformatics", "metagenomics", and "rna-seq" daily. The results from those searches are also in this repo. Each of these results is a delimited text file (unfortunately, fixed-width, not tab). I had trouble with getting CSV output (`t search -c`) to work properly - results had incomplete lines.
