@@ -23,7 +23,10 @@ declare -a arr=(\#bioinformatics metagenomics rna-seq)
 n=200
 
 ## cd into where the script is being executed from.
-cd $(dirname $(readlink $0))
+DIR=$(dirname $(readlink $0))
+cd $DIR
+echo $DIR
+echo $(pwd)
 
 echo
 
@@ -31,7 +34,7 @@ echo
 for query in ${arr[@]}
 do
 	## if your query contains a hashtag, remove the "#" from the filename
-	filename=${query/\#/}.txt
+	filename=$DIR/${query/\#/}.txt
 	echo "Query:\t$query"
 	echo "File:\t$filename"
 
@@ -44,14 +47,14 @@ do
 	## use t (https://github.com/sferik/t) to search the last $n tweets in the query, 
 	## concatenating that output with the existing file, sort and uniq that, then 
 	## write the results to a tmp file. 
-	search_cmd="t search all -ldn $n '$query' | cat - $filename | sort | uniq | grep -v ^ID > tmp"
+	search_cmd="t search all -ldn $n '$query' | cat - $filename | sort | uniq | grep -v ^ID > $DIR/tmp"
 	echo "Search:\t$search_cmd"
-	eval $search_cmd
+	# eval $search_cmd
 
 	## rename the tmp file to the original filename
-	rename_cmd="mv tmp $filename"
+	rename_cmd="mv $DIR/tmp $filename"
 	echo "Rename:\t$rename_cmd"
-	eval $rename_cmd
+	# eval $rename_cmd
 
 	echo
 done
@@ -65,6 +68,6 @@ done
 # git push origin master
 git add -A
 git commit -a -m "Update search results: $(date)"
-git push origin master
+# git push origin master
 
 ## Run with a cronjob: 00 12 * * * /path/to/twitterchive.sh
