@@ -4,7 +4,7 @@ twitterchive - Archive Twitter search results
 `twittershive.sh`
 -----------------
 
-`twitterchive.sh` by [Stephen Turner](http://stephenturner.us): Script to search and save results from a Twitter search.
+`twitterchive.sh`: Script to search and save results from a Twitter search.
 
 Script uses [sferki's `t` command line client](https://github.com/sferik/t) to search twitter for keywords stored in the arr variable inside the script.
 
