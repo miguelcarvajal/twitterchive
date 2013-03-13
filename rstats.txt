@@ -198,3 +198,22 @@
 311810071963267072  Mar 13 08:04  @sebastienjoly    RT @joelgombin: Excellent : un manuel de R pour l'analyse spatiale et la géographie, en français http://elementr.parisgeo.cnrs.fr/ #rstats
 311812529926045698  Mar 13 08:14  @sjcockell        turns out it's *really* hard to get BeadArray data into Bioconductor from the standard repositories #rstats
 311813197780905986  Mar 13 08:17  @joshua_ulrich    Adding vertical lines to quantmod charts (chartSeries and chart_Series): http://goo.gl/jAfyG #rstats
+311814996860473344  Mar 13 08:24  @richardbadge     But not impossible? MT: @sjcockell: turns out it's *really* hard to get BeadArray data into Bioconductor from the standard repos... #rstats
+311819423344365568  Mar 13 08:41  @datagistips      [pdf] "R pour les géographes" - un manuel en, fra sur R et la carto. Très sympa! http://elementr.parisgeo.cnrs.fr/  #rstats cc @ElCep @joelgombin
+311821214815490048  Mar 13 08:49  @HarlanH          R Users DC (RUDC) becomes Statistical Programming DC (SPDC) http://buff.ly/YmyawQ #RStats #Statistics
+311821293177696256  Mar 13 08:49  @DataCommunityDC  RT @HarlanH: R Users DC (RUDC) becomes Statistical Programming DC (SPDC) http://buff.ly/YmyawQ #RStats #Statistics
+311827525854707713  Mar 13 09:14  @StrictlyStat     .@hadleywickham  interested in the bigvis package. When you say it's ready. #ENAR2013. #rstats
+311832228202176512  Mar 13 09:32  @_bmartinez_      orgullosa de haber (medio)solucionado por primera vez una duda de la lista r-help-es #rstats 8|
+311835305944682496  Mar 13 09:45  @hossiet          @pwilliamhughes It's a love-hate relationship... #Rstats
+311836488667115520  Mar 13 09:49  @wahalulu         R Users DC (RUDC) becomes Statistical Programming DC (SPDC) http://datacommunitydc.org/blog/2013/03/r-users-dc-is-becoming-statistical-programming-dc/ via @datacommunitydc #rstats #datascience
+311836758381830144  Mar 13 09:50  @chakrabarty2004  RT @kdnuggets: Statistical computation in JavaScript faster than in R ? Not a completely crazy  idea #rstats http://bit.ly/XOdU7S
+311849227942776832  Mar 13 10:40  @rOpenSci         For the morning crowd: Our #rstats pkg for scholarly #metadata - rmetadata - howto: http://bit.ly/16qsMNz code: http://bit.ly/TrC0PB
+311859857630314497  Mar 13 11:22  @revodavid        A map of WW email traffic looks like Huntington's Clash of Civilizations: http://bit.ly/YZTULV #rstats
+311859934142795777  Mar 13 11:22  @inside_R         RT @wahalulu: R Users DC (RUDC) becomes Statistical Programming DC (SPDC) http://datacommunitydc.org/blog/2013/03/r-users-dc-is-becoming-statistical-programming-dc/ via @datacommunitydc #rstats #datascience
+311860521362137088  Mar 13 11:25  @graemeknows      RT @revodavid: A map of WW email traffic looks like Huntington's Clash of Civilizations: http://bit.ly/YZTULV #rstats
+311860623963222017  Mar 13 11:25  @jmgomez          RT @gsantosgo Do you have ideas for Use R! books http://bit.ly/14VCBg? Contact @SpringerStats share your idea w/ #Springer editor, #rstats
+311860984581062656  Mar 13 11:27  @BlairReeves      RT @revodavid: A map of WW email traffic looks like Huntington's Clash of Civilizations: http://bit.ly/YZTULV #rstats
+311861068093857793  Mar 13 11:27  @SamuelRufat      R pour les enfants http://freakonometrics.hypotheses.org/4733 | processing est un bon outil pour débuter la programmation enfant via @datagistips #rstats
+311864843265265666  Mar 13 11:42  @scheidegger      turns out #rstats's NULL is pretty similar to #javascript's undefined. No, that's not a compliment.
+311866202660159489  Mar 13 11:47  @psnively         RT @scheidegger: turns out #rstats's NULL is pretty similar to #javascript's undefined. No, that's not a compliment.
+311866777057521665  Mar 13 11:50  @treycausey       Better logging in #rstats with futile.logger. http://bit.ly/Y9FIUz
