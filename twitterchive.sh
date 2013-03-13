@@ -70,4 +70,4 @@ git add -A
 git commit -a -m "Update search results: $(date)"
 git push origin master
 
-## Run with a cronjob: 00 12 * * * /path/to/twitterchive.sh
+## Run with a cronjob: 00 12 * * * /path/to/twitterchive.sh .
