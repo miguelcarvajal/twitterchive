@@ -217,3 +217,25 @@
 311864843265265666  Mar 13 11:42  @scheidegger      turns out #rstats's NULL is pretty similar to #javascript's undefined. No, that's not a compliment.
 311866202660159489  Mar 13 11:47  @psnively         RT @scheidegger: turns out #rstats's NULL is pretty similar to #javascript's undefined. No, that's not a compliment.
 311866777057521665  Mar 13 11:50  @treycausey       Better logging in #rstats with futile.logger. http://bit.ly/Y9FIUz
+311869699489165313  Mar 13 12:01  @RLangTip         How to source an R file from GitHub (or any other site via https): http://bit.ly/rLysv3 #rstats
+311872898124115968  Mar 13 12:14  @SamuelRufat      Enfin un manuel de R pour l'analyse spatiale et la géographie, en français http://elementr.parisgeo.cnrs.fr/ #rstats #geoviz
+311874641956323328  Mar 13 12:21  @3ioshha          RT @RLangTip: How to source an R file from GitHub (or any other site via https): http://bit.ly/rLysv3 #rstats
+311874882516422657  Mar 13 12:22  @mattmoehr        Currently tinkering with idea to make stats class model parental "choice" of hitting children. Too morbid? #rstats #gradSchoolProblems
+311875524525969408  Mar 13 12:24  @akastrin         RT @RLangTip: How to source an R file from GitHub (or any other site via https): http://bit.ly/rLysv3 #rstats
+311876497273139201  Mar 13 12:28  @sc_evans         #Rstats geom_point: when using scale_alpha, how do I keep the overlapping area of two lightly-shaded points from appearing darker? (1/2)
+311876902921060352  Mar 13 12:30  @hylopsar         RT @rOpenSci: For the morning crowd: Our #rstats pkg for scholarly #metadata - rmetadata - howto: http://bit.ly/16qsMNz code: http://t.co/K4cllo979E
+311877457038938112  Mar 13 12:32  @sc_evans         #Rstats (2/2) Clusters of lightly-shaded points (i.e. lower values) give the false impression of containing darker (higher) points
+311880277079244802  Mar 13 12:43  @fernando_mayer   RT @RLangTip: How to source an R file from GitHub (or any other site via https): http://bit.ly/rLysv3 #rstats
+311886175109541888  Mar 13 13:07  @jcchurch         RT @RLangTip: How to source an R file from GitHub (or any other site via https): http://bit.ly/rLysv3 #rstats
+311886424288927744  Mar 13 13:08  @kobriendublin    Details of the next LondonR meeting can be found here: http://www.meetup.com/LondonR/events/102934702/ #rstats
+311888035497246720  Mar 13 13:14  @conjugateprior   Want to make pretty latex for your fitted R models? Here are the options: http://conjugateprior.org/2013/03/r-to-latex-packages-coverage/ Did I miss anything? #rstats
+311888341299761152  Mar 13 13:15  @cloudHPC         http://blog.comsysto.com/2013/03/13/big-data-analyses-with-r/ #bigdata Analyses with #rstats training in #munich, Germany in April @comsysto @cloudHPC
+311894973685563392  Mar 13 13:42  @Rbloggers        New package for ensembling R models:  (This article was first published on   Modern Toolmaking, and ki... http://bit.ly/Yo3Bqy #rstats
+311896994677407744  Mar 13 13:50  @Malarky67        Teaching #rstats tough, 2 quit day 1, 5 say OK, 3 say too easy. Inherent_ability <- runif(1:10)
+311897433795858432  Mar 13 13:51  @treycausey       MT @Rbloggers: New package for ensembling #rstats models:  http://bit.ly/Ys5P58
+311905327677308928  Mar 13 14:23  @ElCep            RT @datagistips: [pdf] "R pour les géographes" - un manuel en, fra sur R et la carto. Très sympa! http://elementr.parisgeo.cnrs.fr/  #rstats cc @ElCep @joelgombin
+311907312652648448  Mar 13 14:31  @genetics_blog    DESeq2 for RNA-seq now available on #Bioconductor http://www.bioconductor.org/packages/devel/bioc/html/DESeq2.html details: http://seqanswers.com/forums/showthread.php?t=28350 #rstats #bioinformatics #NGS @myen
+311907581960519680  Mar 13 14:32  @abcruzm          RT @genetics_blog: DESeq2 for RNA-seq now available on #Bioconductor http://www.bioconductor.org/packages/devel/bioc/html/DESeq2.html details: http://seqanswers.com/forums/showthread.php?t=28350 #rstats #bioinformatics #NGS @myen
+311909524648890369  Mar 13 14:40  @genetics_blog    Count-based differential expression analysis of RNA sequencing data using #Rstats and #Bioconductor http://arxiv.org/abs/1302.3685 #arXiv @myen
+311911842878472192  Mar 13 14:49  @Bob_Kinley       #conclave #pope more pressingly, where can I find the code for the kernapply() function #Rstats
+311913521287942145  Mar 13 14:55  @LOiseauLibre     RT @weSolveInc: Social network visualization an emerging voice in the Arab world using R! http://youtu.be/9EqhUUdDlWY #rstats #igraph #sna #tunisia...
