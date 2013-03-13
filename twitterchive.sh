@@ -49,25 +49,27 @@ do
 	## write the results to a tmp file. 
 	search_cmd="t search all -ldn $n '$query' | cat - $filename | sort | uniq | grep -v ^ID > $DIR/tmp"
 	echo "Search:\t$search_cmd"
-	# eval $search_cmd
+	eval $search_cmd
 
 	## rename the tmp file to the original filename
 	rename_cmd="mv $DIR/tmp $filename"
 	echo "Rename:\t$rename_cmd"
-	# eval $rename_cmd
+	eval $rename_cmd
 
 	echo
 done
 
-## push changes to github
+## push changes to github.
+## errors running git push via cron necessitated authenticating over ssh instead of https
 # git init
 # git touch README.md
 # git add README.md
 # git commit -m 'first commit'
 # git remote add origin https://github.com/stephenturner/twitterchive.git
+# git remote set-url origin git@github.com:stephenturner/twitterchive.git 
 # git push origin master
 git add -A
 git commit -a -m "Update search results: $(date)"
 git push origin master
 
-## Run with a cronjob: 00 12 * * * /path/to/twitterchive.sh .
+## Run with a cronjob: 00 12 * * * cd /path/to/twitterchive/ && ./twitterchive.sh

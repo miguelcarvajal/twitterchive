@@ -174,3 +174,26 @@
 311507037160878080  Mar 12 12:00  @chrisgrassa      RT @ctitusbrown: New arXiv paper: "RNA-Seq Mapping Errors When Using Incomplete Reference Transcriptomes of Vertebrates" http://t.co/EAT9v5T7Jn
 311507895453880323  Mar 12 12:04  @rnomics          How to separate strands in sequencing data obtained via directional #RNA-seq library... http://bit.ly/12M1ZMz #rnomics_bioinfo @MyEN
 311512541379579904  Mar 12 12:22  @ctitusbrown      RT @Graham_Coop: .@ctitusbrown #arXiv papers @Haldanessieve  http://wp.me/p2FPFS-kp http://wp.me/p2FPFS-ku
+311554700568838144  Mar 12 15:10  @phylofoundation  Genome/Transcriptome Assembly and RNA Seq Training http://bit.ly/10J422A
+311567590348685313  Mar 12 16:01  @vsbuffalo        Nice new paper on ArXiv by @ctitusbrown and others: "RNA-Seq Mapping Errors When Using Incomplete Reference Transcriptomes of Vertebrates"
+311568386645700608  Mar 12 16:04  @vsbuffalo        Grouping genes in RNA-seq has been the approach I've taken & advocated. Read deconvolution models make some assumptions I can't stomach.
+311573072866054144  Mar 12 16:23  @genomematt       RT @ctitusbrown: New arXiv paper: "RNA-Seq Mapping Errors When Using Incomplete Reference Transcriptomes of Vertebrates" http://t.co/EAT9v5T7Jn
+311575251806982144  Mar 12 16:31  @attilacsordas    "we've compared it 2 the latest mRNA seq & getting close w/proteomics [using IEF] 2 the same coverage as w/RNA seq" http://www.genomeweb.com/proteomics/qa-janne-lehtio-mass-spec-and-proteomics-swedens-science-life-laboratory
+311605088231772163  Mar 12 18:30  @rnomics          RNA-seq data characterization of transcriptional dynamics during... http://bit.ly/12N8uPl #Publications #axolotl #blastema #RNAseq @MyEN
+311605090945482753  Mar 12 18:30  @rnomics          Presentation – #RNA-Seq Analysis: Mikael Huss – Bioinformatics Scientist at... http://bit.ly/12N8v5D #Presentations #RNASeq #RNAseq @MyEN
+311613285466267648  Mar 12 19:02  @genetics_blog    A Robust Method for Transcript Quantification with RNA-Seq Data http://www.ncbi.nlm.nih.gov/pubmed/23461570
+311684408115601408  Mar 12 23:45  @MolecularTuple   RT @brent_p: comparison of RNA-seq DE methods:  http://www.biomedcentral.com/1471-2105/14/91/abstract
+311696469071630337  Mar 13 00:33  @rnomics          Transcriptional profiling of the Arabidopsis abscission mutant hae hsl2 by #RNA-Seq: Abstract... http://bit.ly/X5dGWW #WWS @MyEN
+311696473475653632  Mar 13 00:33  @rnomics          Improved moderation for gene-wise variance estimation in #RNA-Seq via the exploitation of external... http://bit.ly/X5dJC6 #WWS @MyEN
+311696478282338304  Mar 13 00:33  @rnomics          #RNA-Seq analysis reveals new gene models and alternative splicing in the fungal pathogen Fusarium... http://bit.ly/X5dHdp #WWS @MyEN
+311710730841903104  Mar 13 01:30  @assemblathon     RT @phylofoundation: Genome/Transcriptome Assembly and RNA Seq Training http://bit.ly/10J422A
+311712307896008705  Mar 13 01:36  @BioStarQuestion  Fixing ENCODE RNA-seq FASTQ Files http://goo.gl/fb/O1QET
+311756837529743360  Mar 13 04:33  @renelaennec      RT @genetics_blog: A Robust Method for Transcript Quantification with RNA-Seq Data http://www.ncbi.nlm.nih.gov/pubmed/23461570
+311774490411552768  Mar 13 05:43  @mikaelhuss       Proud to have my presentation featured on one of my favorite blogs, RNA-Seq Blog: http://www.rna-seqblog.com/presentations/presentation-rna-seq-analysis/
+311789870727184384  Mar 13 06:44  @fabiomarroni     RT @genetics_blog: A Robust Method for Transcript Quantification with RNA-Seq Data http://www.ncbi.nlm.nih.gov/pubmed/23461570
+311790344738070528  Mar 13 06:46  @genetics_blog    Nice overview of tools for RNA-seq transcript assembly, quantitation, & DE: http://seqanswers.com/forums/showpost.php?p=98949&postcount=32 http://t.co/Fo8H9RBYMQ
+311792433040093184  Mar 13 06:54  @manuelcorpas     #iscbafrica #bioinformatics #ISCB Sheila Ommeh indigenous chicken from Africa analysis using RNA seq
+311792606206103552  Mar 13 06:55  @druvus           RNA-Seq Mapping Errors When Using Incomplete Reference Transcriptomes of Vertebrates http://bit.ly/ZIDTyd #sequencing
+311793338221228032  Mar 13 06:58  @fredebibs        RT @druvus: RNA-Seq Mapping Errors When Using Incomplete Reference Transcriptomes of Vertebrates http://bit.ly/ZIDTyd #sequencing
+311793539627483136  Mar 13 06:59  @AndreaCiolfi     RT @genetics_blog: Nice overview of tools for RNA-seq transcript assembly, quantitation, & DE: http://seqanswers.com/forums/showpost.php?p=98949&postcount=32 http://t.co/Fo8H9RBYMQ
+311801592041070592  Mar 13 07:31  @Integromics      RT @genetics_blog: A Robust Method for Transcript Quantification with RNA-Seq Data http://www.ncbi.nlm.nih.gov/pubmed/23461570
