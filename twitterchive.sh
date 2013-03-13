@@ -17,7 +17,7 @@
 
 ## declare an array variable containing all your search terms. 
 ## prefix any hashtags with a \
-declare -a arr=(\#bioinformatics metagenomics rna-seq)
+declare -a arr=(bioinformatics metagenomics rna-seq \#rstats)
 
 ## How many results would you like for each query?
 n=200
