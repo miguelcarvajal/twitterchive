@@ -239,3 +239,65 @@
 311909524648890369  Mar 13 14:40  @genetics_blog    Count-based differential expression analysis of RNA sequencing data using #Rstats and #Bioconductor http://arxiv.org/abs/1302.3685 #arXiv @myen
 311911842878472192  Mar 13 14:49  @Bob_Kinley       #conclave #pope more pressingly, where can I find the code for the kernapply() function #Rstats
 311913521287942145  Mar 13 14:55  @LOiseauLibre     RT @weSolveInc: Social network visualization an emerging voice in the Arab world using R! http://youtu.be/9EqhUUdDlWY #rstats #igraph #sna #tunisia...
+311914982998671361  Mar 13 15:01  @Evyan            RT @weSolveInc: Social network visualization an emerging voice in the Arab world using R! http://youtu.be/9EqhUUdDlWY #rstats #igraph #sna #tunisia...
+311915492812156928  Mar 13 15:03  @kaggle           Another kaggler creates an #rstats ensembling package: #caretEnsemble (#medley for caret models) http://ow.ly/iSIvF
+311915772068900864  Mar 13 15:04  @carlyziter       Note to self: next time you don't feel like trying "just one more" analysis in #Rstats, you should probably do it! Yippee for cool results!
+311916371611095040  Mar 13 15:07  @EduEyras         RT @genetics_blog: DESeq2 for RNA-seq now available on #Bioconductor http://www.bioconductor.org/packages/devel/bioc/html/DESeq2.html details: http://seqanswers.com/forums/showthread.php?t=28350 #rstats #bioinformatics #NGS @myen
+311918161425481728  Mar 13 15:14  @M_T_Patterson    Decisions and R: Using maps and ggplot2 to visualize college hockey championships http://bit.ly/15N0ueJ #RStats
+311919476641783810  Mar 13 15:19  @abellogin        RT @kaggle: Another kaggler creates an #rstats ensembling package: #caretEnsemble (#medley for caret models) http://ow.ly/iSIvF
+311922389095161857  Mar 13 15:31  @sleight82        RT @genetics_blog: Count-based differential expression analysis of RNA sequencing data using #Rstats and #Bioconductor http://t.co/C3Ia6ytg0g #arXiv @myen
+311925395471597570  Mar 13 15:43  @rudyl313         RT @kaggle: Another kaggler creates an #rstats ensembling package: #caretEnsemble (#medley for caret models) http://ow.ly/iSIvF
+311929458351280128  Mar 13 15:59  @aDataHead        #DC^2 #rstats R Users DC (RUDC) becomes Statistical Programming DC (SPDC) http://datacommunitydc.org/blog/2013/03/r-users-dc-is-becoming-statistical-programming-dc/ via @datacommunitydc
+311932285698052096  Mar 13 16:10  @phylorich        RT @treycausey: Better logging in #rstats with futile.logger. http://bit.ly/Y9FIUz
+311933631469846528  Mar 13 16:15  @hspter           Super helpful explanation of margins in plots in R. http://bit.ly/YbsbII #rstats helping me make reproducible paper figs
+311935344687849475  Mar 13 16:22  @DrDanielSwan     RT @genetics_blog: DESeq2 for RNA-seq now available on #Bioconductor http://www.bioconductor.org/packages/devel/bioc/html/DESeq2.html details: http://seqanswers.com/forums/showthread.php?t=28350 #rstats #bioinformatics #NGS @myen
+311935452758278144  Mar 13 16:23  @BioMickWatson    RT @hspter Super helpful explanation of margins in plots in R. http://bit.ly/YbsbII #rstats helping me make reproducible paper figs
+311935683306594304  Mar 13 16:23  @MikeyJ           RT @BioMickWatson: RT @hspter Super helpful explanation of margins in plots in R. http://bit.ly/YbsbII #rstats helping me make reproducible paper figs
+311936378231459840  Mar 13 16:26  @kwbroman         .@hspter I’d add mention of the mgp argument to par() - critical for controlling spacing of axes’ labels. mgp & mar go together. #rstats
+311938267601858560  Mar 13 16:34  @AmandaKraha      how should I #analyze interaction effects in #factorial #anova? http://bit.ly/15N7Jn7 #phd #statistics #statwisdom #rstats
+311942148566163456  Mar 13 16:49  @runforsushi      RT @RLangTip: How to source an R file from GitHub (or any other site via https): http://bit.ly/rLysv3 #rstats
+311947958394425346  Mar 13 17:12  @rOpenSci         What other scholarly metadata sources do you want in rmetadata? http://bit.ly/TrC0PB #rstats (ps seealso rpubmed http://bit.ly/XOjrHR)
+311953409001541632  Mar 13 17:34  @AliRebaie        RT @revodavid: My interview w #BBBT's @Claudia_Imhoff on @RevolutionR, #rstats, #DataScience & their connection w BI http://bit.ly/Yf97f5
+311957319753805825  Mar 13 17:49  @flash_us         RT @kaggle: Another kaggler creates an #rstats ensembling package: #caretEnsemble (#medley for caret models) http://ow.ly/iSIvF
+311967656116903936  Mar 13 18:30  @John_B_Howard    RT @rOpenSci: What other scholarly metadata sources do you want in rmetadata? http://bit.ly/TrC0PB #rstats (ps seealso rpubmed http://t.co/UyWVNqr0XJ)
+311970559934218240  Mar 13 18:42  @MoreHazards      RT @randyzwitch: Alright, going with a soft-launch on this one: RSiteCatalyst, an #rstats package for the #omniture Reporting API https://t.co/fSOJ3tU9JZ
+311974110194462720  Mar 13 18:56  @JokeReumers      RT @genetics_blog: Count-based differential expression analysis of RNA sequencing data using #Rstats and #Bioconductor http://t.co/C3Ia6ytg0g #arXiv @myen
+311975303805280256  Mar 13 19:01  @phnk             @chrishanretty Class exercise inspired by your "Chris Giles on IMF multipliers" gist, slowly taking form: http://f.briatte.org/teaching/ida/083_practice.html #rstats
+311976340062625792  Mar 13 19:05  @Lisa_Crossman    RT @BioMickWatson: RT @hspter Super helpful explanation of margins in plots in R. http://bit.ly/YbsbII #rstats helping me make reproducible paper figs
+311977619904155648  Mar 13 19:10  @Emperor045       Fuck yeah. OAuth authenticatie met #rstats werkt. En dan ben je vier uur verder #fml
+311979554895953921  Mar 13 19:18  @Rbloggers        Webinar tomorrow: 100% R and More:  (This article was first published on   Revolutions, and kindly con... http://bit.ly/XvBsB7 #rstats
+311979555994877952  Mar 13 19:18  @Rbloggers        In case you missed it: February 2013 Roundup:  (This article was first published on   Revolutions, and... http://bit.ly/XvBsRv #rstats
+311980045713436672  Mar 13 19:20  @PPUAMX           RT @RLangTip: How to source an R file from GitHub (or any other site via https): http://bit.ly/rLysv3 #rstats
+311989179196264449  Mar 13 19:56  @romeroescobar    the countdown to #Rstats 3.0.0 is on! I hope I am no #AprilFool for not updating to #SecurityBlanket to do it again in less than a month #in
+312007979287343105  Mar 13 21:11  @zenrhino         Are there any great examples of using #rstats to extract data from JSON? Stack didn't have much and the package examples aren't much help.
+312013228609794048  Mar 13 21:32  @jrnld            new #rstats package DataFrameConstr: S4 classes for data frames with column/global constraints, homogenous lists http://bit.ly/YpOmxp
+312018632949514241  Mar 13 21:53  @kevin_ushey      Whenever I look at the #rstats source code I can't help but think it's a miracle it even works. It's so... messy.
+312041243553169408  Mar 13 23:23  @dlizcano         R package for today. IPMpack: R package for integral projection models Metcalf 2012 Methods in Ecol and Evol #rstats http://onlinelibrary.wiley.com/doi/10.1111/2041-210x.12001/abstract
+312044051593568256  Mar 13 23:34  @JJVenky          No time like the present to prep nitrogen deposition data for the Mann-Kendall trend test. Woo. #rstats http://cran.r-project.org/web/packages/Kendall/index.html
+312066056145494017  Mar 14 01:02  @StrictlyStat     .@JayPykw I think it's worth the cost for #shiny and #slidify. Especially since #glimmer hosts shiny online #rstats. And #slidify rocks
+312072860153831424  Mar 14 01:29  @openscience      The @rOpenSci #rstats pkg for scholarly #metadata how-to page: http://buff.ly/XHtJxK and code: http://buff.ly/XHtHpF #openscience
+312075228639543296  Mar 14 01:38  @LizNeeley        RT @openscience: The @rOpenSci #rstats pkg for scholarly #metadata how-to page: http://buff.ly/XHtJxK and code: http://buff.ly/XHtHpF #openscience
+312075406956195841  Mar 14 01:39  @openscience      RT @rOpenSci: What other scholarly metadata sources do you want in rmetadata? http://bit.ly/TrC0PB #rstats (ps seealso rpubmed http://t.co/UyWVNqr0XJ)
+312096622211383297  Mar 14 03:03  @coolbutuseless   Best #rstats error: "FUN" is missing, with no default.
+312096919075823617  Mar 14 03:04  @JodyEdmondson    Google buys Toronto ML start up DNNresearch http://bit.ly/XKugz3 #datascience #Rstats
+312098500047425536  Mar 14 03:10  @Evyan_For_Life   RT @weSolveInc: Social network visualization an emerging voice in the Arab world using R! http://youtu.be/9EqhUUdDlWY #rstats #igraph #sna #tunisia...
+312106059466694656  Mar 14 03:40  @Rbloggers        qdap 0.2.1 Released:  (This article was first published on   TRinker's R Blog » R, and kindly contribu... http://bit.ly/14ZM74v #rstats
+312117558939615232  Mar 14 04:26  @drchriscole      RT @genetics_blog: DESeq2 for RNA-seq now available on #Bioconductor http://www.bioconductor.org/packages/devel/bioc/html/DESeq2.html details: http://seqanswers.com/forums/showthread.php?t=28350 #rstats #bioinformatics #NGS @myen
+312133424213278720  Mar 14 05:29  @tslumley         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312136192542007296  Mar 14 05:40  @conjugateprior   A version parameter for 'library' would help with replication materials too. #rstats http://feedproxy.google.com/~r/RBloggers/~3/U1mGoYpUPr8/
+312159746742431744  Mar 14 07:14  @lgatt0           Next CambR #rstats meeting on the 25th March - http://www.cambr.org.uk/ for details. Spread the word!
+312161688671641602  Mar 14 07:22  @attilacsordas    RT @lgatt0: Next CambR #rstats meeting on the 25th March - http://www.cambr.org.uk/ for details. Spread the word!
+312162233012596736  Mar 14 07:24  @monsoontrader    RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312173795588849664  Mar 14 08:10  @cos_name         R 语言函数式编程支持 RT @Rbloggers: Lambda.r 1.1.1 released (and introducing the EMPTY keyword): http://bit.ly/YFMXCv #rstats
+312175683474423809  Mar 14 08:17  @AstroRJS         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312189769801166848  Mar 14 09:13  @themba           Save 50% on Math & Science Ebooks in Celebration of Pi Day at O'Reilly http://shop.oreilly.com/category/deals/pi-dotd.do?code=DEAL #science #data #edtech #statistics #rstats #pi
+312206162256867329  Mar 14 10:18  @reyman64         RT @SamuelRufat: Enfin un manuel de R pour l'analyse spatiale et la géographie, en français http://elementr.parisgeo.cnrs.fr/ #rstats #geoviz
+312209278633115649  Mar 14 10:31  @JodyEdmondson    Geoffrey Hinton's neural network start up DNNresearch purchased by Google    http://bit.ly/ZqjSKJ #Rstats #Datascience
+312211908226863104  Mar 14 10:41  @hadleywickham    RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312211956335534081  Mar 14 10:41  @griverorz        RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312212000405061632  Mar 14 10:41  @therealprotonk   RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312212224548687873  Mar 14 10:42  @RusersMtl        Data dive scheduled for April 3rd 6-9 @notman house. RSVP: http://www.meetup.com/Montreal-R-User-Group/ #rstats
+312212315208577024  Mar 14 10:43  @msonnabaum       RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312212876335124481  Mar 14 10:45  @datalies         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312215011227488257  Mar 14 10:53  @CjBayesian       Happy pi day! Estimate pi with monte carlo in #rstats http://bayesianbiologist.com/2012/03/14/%CF%80-day-special-estimating-%CF%80-using-monte-carlo/
+312215030814879744  Mar 14 10:53  @sc_evans         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
