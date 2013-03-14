@@ -301,3 +301,48 @@
 312212876335124481  Mar 14 10:45  @datalies         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312215011227488257  Mar 14 10:53  @CjBayesian       Happy pi day! Estimate pi with monte carlo in #rstats http://bayesianbiologist.com/2012/03/14/%CF%80-day-special-estimating-%CF%80-using-monte-carlo/
 312215030814879744  Mar 14 10:53  @sc_evans         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312215641056768000  Mar 14 10:56  @webbedfeet       RT @StackOverflowR Multtest package in R returning not properly adjusting p-values  #rstats #bioinformatics
+312217992060620801  Mar 14 11:05  @jadler           RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312218514020769793  Mar 14 11:07  @felixaverlant    RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312222254719201281  Mar 14 11:22  @alexhanna        Can't find the files I'm looking for but I did find that #rstats script I wrote when a friend dared me to Sweave @adam_slez's website
+312222743280091137  Mar 14 11:24  @philipdarling    RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312226520066293760  Mar 14 11:39  @mattfrost        Guys, it's seriously time to replace the #RStats website. I'm a little embarrassed to send colleagues there.
+312226810240839680  Mar 14 11:40  @statisticsblog   RT @PeterFlomStat: Best short description of #rstats "Expert friendly"
+312228132063174656  Mar 14 11:46  @erikriverson     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312229745263771648  Mar 14 11:52  @sarcozona        RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312230066870439936  Mar 14 11:53  @benjaminlind     @alexhanna I'm a bit behind on this, but I just learned how to use optim() in #rstats. I've been doing plenty of model estimation since.
+312232131906662400  Mar 14 12:01  @RLangTip         List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312232249510744066  Mar 14 12:02  @denisparra       RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312232431241531393  Mar 14 12:03  @adolfoalvarez    RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312232916883222529  Mar 14 12:05  @MatusStraznicky  RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312232937108156417  Mar 14 12:05  @spsaaibi         RT “@RLangTip: List of 100+ prob distributions (densities, quantiles, simulation) in R: http://bit.ly/y3ecGN #rstats” cc @aentropico
+312233182370074624  Mar 14 12:06  @lucaborger       RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN  #rstats
+312234048682614784  Mar 14 12:09  @gianlucaemireni  RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312234427763785728  Mar 14 12:11  @3ioshha          RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312234746396680193  Mar 14 12:12  @portfolioprobe   Upcoming events http://bit.ly/ZqENgL #quant #finance #rstats
+312237711606026240  Mar 14 12:24  @cbumg            RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312237727733141504  Mar 14 12:24  @mercifr1         RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312238751030071296  Mar 14 12:28  @Edgar_Chip       RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312239949539840002  Mar 14 12:32  @revodavid        Catch up on R news from the Revolutions blog in our monthly roundup: http://bit.ly/ZKQpen #rstats
+312241387821219840  Mar 14 12:38  @BrockTibert      @John4man Haven't used this, but this might be close to what you mentioned below... http://en.wikipedia.org/wiki/RExcel    #rstats
+312243324994072576  Mar 14 12:46  @gvegayon         CRAN's New package submission interface (no more ftp connections =) ) http://cran.r-project.org/submit.html #rstats
+312244902945767424  Mar 14 12:52  @randyzwitch      I'm not proud of my use of the "<<-" global assignment operator in my #rstats work, but I do admit that it's handy in a pinch
+312246487671242752  Mar 14 12:58  @Valdieu          RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312248412928110593  Mar 14 13:06  @cpsievert        pitchRx made the list! Thanks @revodavid "Catch up on R news from the Revolutions blog: http://bit.ly/ZKQpen #rstats"
+312248474852810752  Mar 14 13:06  @JamesMeadow      RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312252533978570752  Mar 14 13:23  @cboettig         anyone else suddenly have trouble with @github highlighting #rstats in markdown? e.g. https://github.com/cboettig/multiple_uncertainty/blob/master/inst/examples/smalltable.md @xieyihui @hadleywickham ?
+312257682474139649  Mar 14 13:43  @Rbloggers        Data Science Education gets personal:  (This article was first published on   Revolutions, and kindly ... http://bit.ly/XzShuK #rstats
+312259539028307969  Mar 14 13:50  @SbusisoNdzukuma  Trying 2 fit PLS model using plsda&validate functions but I can't get fit stats. How do I measure performance of my model #rstats #mixOmics
+312260329402941441  Mar 14 13:53  @alexhanna        Finally getting into ML for hackers for reals. Lovin' it. Reads like a long, book-length nerdy #rstats post. Very enjoyable.
+312264431725850625  Mar 14 14:10  @LewisSpurgin     Population geneticists - a new #rstats package for approximate Bayesian computation. http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12050/abstract  (HT @cboettig)
+312265131750985728  Mar 14 14:13  @phnk             @JeromyAnglim I'm in the process of recycling your oecd_life_analysis repo for a class: http://f.briatte.org/teaching/ida/081_correlation.html #rstats
+312266669772914688  Mar 14 14:19  @SpringerStats    retweet this to win free book this #piday / #statistics #rstats #giveaway
+312267811324047360  Mar 14 14:23  @millerdl         can we just ban Vincent Granville from posting to ALLSTAT? #rstats
+312270306293207041  Mar 14 14:33  @revodavid        Thoughts from @revojoe on Coursera and other MOOCs, and educational needs for #DataScience and #rstats: http://bit.ly/16v3U7b
+312271001436184576  Mar 14 14:36  @datennutzen      #rstats mit openstreetmap  verbinden - @resultasservice http://journal.r-project.org/accepted/2012-06/Eugster+Schlesinger.pdf
+312274490426019840  Mar 14 14:50  @Piboonrungroj    RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312275199754117121  Mar 14 14:53  @Springernomics   RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312275318377414656  Mar 14 14:53  @NickJanusch      RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312275417765654528  Mar 14 14:53  @DataCommunityDC  RT @revodavid: Thoughts from @revojoe on edu needs for #DataScience & #rstats http://bit.ly/16v3U7b < featuring our own @tonyojeda3!
+312275554978107392  Mar 14 14:54  @giudici_paolo    RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312276614530617344  Mar 14 14:58  @tonyojeda3       RT @DataCommunityDC: RT @revodavid: Thoughts from @revojoe on edu needs for #DataScience & #rstats http://bit.ly/16v3U7b < featuring our own @tonyojeda3!
