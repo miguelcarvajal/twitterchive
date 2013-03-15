@@ -346,3 +346,63 @@
 312275417765654528  Mar 14 14:53  @DataCommunityDC  RT @revodavid: Thoughts from @revojoe on edu needs for #DataScience & #rstats http://bit.ly/16v3U7b < featuring our own @tonyojeda3!
 312275554978107392  Mar 14 14:54  @giudici_paolo    RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
 312276614530617344  Mar 14 14:58  @tonyojeda3       RT @DataCommunityDC: RT @revodavid: Thoughts from @revojoe on edu needs for #DataScience & #rstats http://bit.ly/16v3U7b < featuring our own @tonyojeda3!
+312277899552116736  Mar 14 15:03  @bryleonard       RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312280017348485121  Mar 14 15:12  @adolfoalvarez    RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312281768273248256  Mar 14 15:19  @triffin90        RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312284720031477760  Mar 14 15:30  @StrictlyStat     RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312285646544830465  Mar 14 15:34  @pharmrdk         RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312287111829135360  Mar 14 15:40  @hadleywickham    write functions that modify functions in #rstats: https://github.com/hadley/devtools/wiki/Function-operators (FP in R 3/3). As always, feedback much appreciated!
+312287246491459584  Mar 14 15:40  @chriscesar       RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312287442730373121  Mar 14 15:41  @tjmahr           "print.Trial <- function(trial) str(trial)" for our eye-tracking trials is the smartest line of #rstats code i wrote this week
+312290029256994816  Mar 14 15:51  @nrjones8         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312291728486973440  Mar 14 15:58  @tim_yates        RT @hadleywickham: write functions that modify functions in #rstats: https://github.com/hadley/devtools/wiki/Function-operators (FP in R 3/3). As always, feedback much appreciated!
+312291895030185984  Mar 14 15:59  @EliManfredStein  RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312293499691216896  Mar 14 16:05  @zenrhino         Ain't that the truth. RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312303559754543105  Mar 14 16:45  @thomaslevine     How do I open a file as one big string in #rstats?
+312304230851543041  Mar 14 16:48  @chlalanne        New package for ensembling #rstats models http://bit.ly/10TnPws
+312307409525800960  Mar 14 17:01  @ttso             Blogged (in Finnish): SPARQLing @EuropeanaEU on videos and plotting the result on a map with #soRvi http://tts2.blogspot.fi/2013/03/videoita-suomen-kunnista-europeanassa.html #louhos #rstats
+312307999739875329  Mar 14 17:03  @MP702            RT @SpringerStats: retweet this to win free book this #piday / #statistics #rstats #giveaway
+312308765338783745  Mar 14 17:06  @phylorich        RT @mattfrost: Guys, it's seriously time to replace the #RStats website. I'm a little embarrassed to send colleagues there.
+312312534839488512  Mar 14 17:21  @randyzwitch      Update to RSiteCatalyst #omniture #rstats package. Removed need to guess at datacenter during API authentication. https://github.com/randyzwitch/RSiteCatalyst
+312318673392115712  Mar 14 17:45  @dzidorius        RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312319361450913793  Mar 14 17:48  @rahuldave        RT @hadleywickham: write functions that modify functions in #rstats: https://github.com/hadley/devtools/wiki/Function-operators (FP in R 3/3). As always, feedback much appreciated!
+312319432124952576  Mar 14 17:48  @rahuldave        RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312320667292930048  Mar 14 17:53  @flash_us         RT @revodavid: Thoughts from @revojoe on Coursera and other MOOCs, and educational needs for #DataScience and #rstats: http://t.co/v928xAVJmv
+312323076077518848  Mar 14 18:03  @ozjimbob         I love it when a NMDS ordination just looks so nice. #rstats
+312323259507040257  Mar 14 18:04  @geospacedman     RT @mattfrost: Guys, it's seriously time to replace the #RStats website. I'm a little embarrassed to send colleagues there.
+312326458037137410  Mar 14 18:16  @whitcher         RT @mattfrost: Guys, it's seriously time to replace the #RStats website. I'm a little embarrassed to send colleagues there.
+312332216468377600  Mar 14 18:39  @zimmeee          Why is theme_grey() the default in ggplot2? #rstats #ggplot2 http://qr.ae/TPOm8” cc @medriscoll
+312338989686337536  Mar 14 19:06  @adamhsparks      RT @mattfrost: Guys, it's seriously time to replace the #RStats website. I'm a little embarrassed to send colleagues there.
+312340713146814464  Mar 14 19:13  @abellogin        RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312342917748490240  Mar 14 19:22  @neal_lathia      RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312351297355517954  Mar 14 19:55  @frenchrh         A map of worldwide email traffic, created with R:  (This article was first published on   Revolutions,... http://bit.ly/10KFJBv #rstats
+312351601258016768  Mar 14 19:56  @frenchrh         RT @gvegayon CRAN's New package submission interface (no more ftp connections =) ) http://cran.r-project.org/submit.html #rstats
+312352598529290240  Mar 14 20:00  @brianabelson     'call me maybe' in #rstats: https://dl.dropbox.com/u/6535582/callmemaybeR.mp3 http://t.co/zhd0e3rthr
+312353057113509889  Mar 14 20:02  @romeroescobar    @revodavid Thanks for the clarification. BTW thanks to #Reader I keep up to date with #Rstats through R-bloggers. #SaveReader #in
+312353101946429440  Mar 14 20:02  @DanHillReports   This is why we #RallyForR RT @brianabelson: 'call me maybe' in #rstats: https://dl.dropbox.com/u/6535582/callmemaybeR.mp3 http://t.co/qgx79Bd87B
+312354032104660992  Mar 14 20:06  @zthomae          RT @DanHillReports: This is why we #RallyForR RT @brianabelson: 'call me maybe' in #rstats: https://dl.dropbox.com/u/6535582/callmemaybeR.mp3 http://t.co/qgx79Bd87B
+312357654070689792  Mar 14 20:20  @Rbloggers        Veterinary Epidemiologic Research: GLM – Logistic Regression:  (This article was first published on   ... http://bit.ly/Z8d0m4 #rstats
+312371315921264642  Mar 14 21:14  @ResearchProcess  I'm just lazy enough to google for  #Rstats  functions rather than write my own. Sometimes it pays off. This time… https://plus.google.com/106268032364497388036/posts/UHkcEUE1HSc
+312371333205987329  Mar 14 21:15  @ResearchProcess  Another kaggler creates an #rstats ensembling package: #caretEnsemble (#medley for caret models) http://ow.ly/iSIvF
+312380777239298048  Mar 14 21:52  @phylorich        What would you tell to biologists just starting out with #rstats? Teaching intro for complete beginners next week.
+312383241363537920  Mar 14 22:02  @stevendborrelli  Awesome: http://badhessian.org/lipsyncing-for-your-life-a-survival-analysis-of-rupauls-drag-race/ #rstats #ggplot
+312393443072684033  Mar 14 22:42  @econohammer      section notes on max likelihood and returns to educ in #rstats for the @ucanr econometrics course i instruct (https://dl.dropbox.com/u/5365589/twitter/mle-educ.pdf)
+312398794354483200  Mar 14 23:04  @drago_carlo      RT @CjBayesian: Happy pi day! Estimate pi with monte carlo in #rstats http://bayesianbiologist.com/2012/03/14/%CF%80-day-special-estimating-%CF%80-using-monte-carlo/
+312405572219723776  Mar 14 23:31  @zenrhino         Amen. RT @mattfrost: Guys, it's seriously time to replace the #RStats website. I'm a little embarrassed to send colleagues there.
+312412552053260288  Mar 14 23:58  @keithly12        RT @mattfrost: Guys, it's seriously time to replace the #RStats website. I'm a little embarrassed to send colleagues there.
+312412607191584768  Mar 14 23:59  @edwinbenere      RT @kaggle: Another kaggler creates an #rstats ensembling package: #caretEnsemble (#medley for caret models) http://ow.ly/iSIvF
+312428940746706944  Mar 15 01:03  @aviwiki          Today was epic. Extreme value theory, Delaporte distribution, 2-sample Cramer von Mises,  custom #rstats code, #actuarial goodness abounded!
+312442112287313920  Mar 15 01:56  @DanChitwood      Multiple fugal analyses all at once http://goo.gl/xDkVR #rstats #bach #datavisualization
+312446299725234176  Mar 15 02:12  @mickteaching     RT @phylorich: What would you tell to biologists just starting out with #rstats? Teaching intro for complete beginners next week.
+312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
+312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
+312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
+312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
+312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
+312527545901912064  Mar 15 07:35  @EDENextDMT       New #Rstats package from @_NickGolding_  : GRaF: Species distribution modelling using latent Gaussian random fields. http://cran.r-project.org/web/packages/GRaF/index.html
+312528772823928832  Mar 15 07:40  @MattGeary        RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
+312529596551684097  Mar 15 07:43  @PeterOwlett      Looking forwards to #envhack tomorrow, I'll be bringing my R hat #rstats
+312530169371955200  Mar 15 07:46  @dzidorius        Wow,#Orange Telecom made sample of its db available back in '09-you can build your #churn models! http://goo.gl/86Y0t #datamining #rstats
+312532333314064384  Mar 15 07:54  @duffy_ma         RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
