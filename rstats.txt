@@ -406,3 +406,45 @@
 312529596551684097  Mar 15 07:43  @PeterOwlett      Looking forwards to #envhack tomorrow, I'll be bringing my R hat #rstats
 312530169371955200  Mar 15 07:46  @dzidorius        Wow,#Orange Telecom made sample of its db available back in '09-you can build your #churn models! http://goo.gl/86Y0t #datamining #rstats
 312532333314064384  Mar 15 07:54  @duffy_ma         RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
+312553517921497089  Mar 15 09:19  @lucaborger       RT @StatModeling:New post: How do I make my graphs? http://andrewgelman.com/?p=18205 #rstats
+312553988027461634  Mar 15 09:20  @webbedfeet       RT @HarlanH: R Users DC (RUDC) becomes Statistical Programming DC (SPDC) http://buff.ly/YmyawQ #RStats #Statistics
+312555341437075456  Mar 15 09:26  @webbedfeet       rpy2 on Windows (finally works)!! This is a #python to #rstats interface.  http://goo.gl/t7cFn  #spdc @DataCommunityDC
+312556124496871425  Mar 15 09:29  @hadleywickham    RT @DanHillReports: This is why we #RallyForR RT @brianabelson: 'call me maybe' in #rstats: https://dl.dropbox.com/u/6535582/callmemaybeR.mp3 http://t.co/qgx79Bd87B
+312557557321433088  Mar 15 09:35  @mathew_hall      RT @brianabelson: 'call me maybe' in #rstats: https://dl.dropbox.com/u/6535582/callmemaybeR.mp3 http://t.co/zhd0e3rthr
+312561675670786049  Mar 15 09:51  @mrgunn           RT @DanHillReports: This is why we #RallyForR RT @brianabelson: 'call me maybe' in #rstats: https://dl.dropbox.com/u/6535582/callmemaybeR.mp3 http://t.co/qgx79Bd87B
+312563265433645056  Mar 15 09:57  @XiaoyunS         RT @RLangTip: Tutorial on lattice graphics, from the National Park Service http://bit.ly/163DWYo #rstats (via @zachstednick)
+312563827835293697  Mar 15 09:59  @mjillster        RT @DanHillReports: This is why we #RallyForR RT @brianabelson: 'call me maybe' in #rstats: https://dl.dropbox.com/u/6535582/callmemaybeR.mp3 http://t.co/qgx79Bd87B
+312567529048535042  Mar 15 10:14  @erk_subasi       > @dzidorius: RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312569195684573188  Mar 15 10:21  @jbkunst          RT @webbedfeet: rpy2 on Windows (finally works)!! This is a #python to #rstats interface.  http://goo.gl/t7cFn  #spdc @DataCommunityDC
+312574274395312128  Mar 15 10:41  @CoreySparks1     Veterinary Epidemiologic Research: GLM – Logistic Regression #rstats http://denishaine.wordpress.com/2013/03/14/veterinary-epidemiologic-research-glm-logistic-regression/
+312578892168830976  Mar 15 10:59  @nadrowka         checking out twitteR and textmining #rstats
+312586579187220482  Mar 15 11:30  @dzidorius        Don't use formula in randomForest, #rstats. http://goo.gl/RCqQC Well, my tests didn't reveal any performance gain.
+312593842970951680  Mar 15 11:59  @IstvanHajnal     Leaving for the #rstats usergroup meeting in Louvan-La-Neuve, Belgium
+312594592128172034  Mar 15 12:02  @RLangTip         List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+312594687707996163  Mar 15 12:02  @kobriendublin    RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+312595210674769920  Mar 15 12:04  @NKSBarker        RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+312595515084783616  Mar 15 12:05  @xenocryptsite    RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+312595915972153345  Mar 15 12:07  @CSciBio          Seeing many an #rstats plot at the #2013maizemeeting
+312595999547875328  Mar 15 12:07  @Zagal_ermitanyo  RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+312600496512851969  Mar 15 12:25  @revodavid        Revolution R Enterprise 6.2 coming April 22. #rstats 2.15.3, #BigData Stepwise Regression, more: http://bit.ly/156dZnJ @thomaswdinsmore
+312601939605086208  Mar 15 12:31  @odbmsorg         RT @revodavid: Revolution R Enterprise 6.2 coming April 22. #rstats 2.15.3, #BigData Stepwise Regression, more: http://bit.ly/156dZnJ @thomaswdinsmore
+312602076989517824  Mar 15 12:31  @adolfoalvarez    RT @revodavid: Revolution R Enterprise 6.2 coming April 22. #rstats 2.15.3, #BigData Stepwise Regression, more: http://bit.ly/156dZnJ @thomaswdinsmore
+312602738972303360  Mar 15 12:34  @u_ot             RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+312604538571980801  Mar 15 12:41  @bshor            RT @revodavid: Revolution R Enterprise 6.2 coming April 22. #rstats 2.15.3, #BigData Stepwise Regression, more: http://bit.ly/156dZnJ @thomaswdinsmore
+312605872524230657  Mar 15 12:47  @xenocryptsite    RT @revodavid: Revolution R Enterprise 6.2 coming April 22. #rstats 2.15.3, #BigData Stepwise Regression, more: http://bit.ly/156dZnJ @thomaswdinsmore
+312608510112313344  Mar 15 12:57  @rOpenSci         New blog post on getting scholarly metadata in #rstats http://bit.ly/ZNqwKV
+312608534623834113  Mar 15 12:57  @recology_        RT @rOpenSci: New blog post on getting scholarly metadata in #rstats http://bit.ly/ZNqwKV
+312609466992427009  Mar 15 13:01  @calejero         RT @revodavid: Revolution R Enterprise 6.2 coming April 22. #rstats 2.15.3, #BigData Stepwise Regression, more: http://bit.ly/156dZnJ @thomaswdinsmore
+312609806303252482  Mar 15 13:02  @bshor            @StatModeling @hadleywickham I used to do all base graphs and struggled w #ggplot2 but after an a-ha moment, I can't do without it. #rstats
+312610290170740736  Mar 15 13:04  @cascading        we've got Lingual working with #rstats. read about it here http://www.cascading.org/lingual/ and don't forget to join our list https://groups.google.com/forum/?fromgroups#!forum/lingual-user
+312610900492308481  Mar 15 13:07  @cwensel          RT @cascading: we've got Lingual working with #rstats. read about it here http://www.cascading.org/lingual/ and don't forget to join our list https://t.co/t55mqf2pCj
+312611190419365888  Mar 15 13:08  @inkredabull      RT @cascading: we've got Lingual working with #rstats. read about it here http://www.cascading.org/lingual/ and don't forget to join our list https://t.co/t55mqf2pCj
+312611298288488448  Mar 15 13:08  @NEONInc          RT @rOpenSci: New blog post on getting scholarly metadata in #rstats http://bit.ly/ZNqwKV
+312613011741343744  Mar 15 13:15  @recology_        #rstats RT @willpearse: Here's my talk on programming in R - hope someone finds it useful! https://dl.dropbox.com/u/4149392/R_for_the_brave.pdf
+312613323646566402  Mar 15 13:16  @Bioconductor     #rstats / #Bioconductor Annual Conference BioC2013 July 17, 18, 19 Seattle WA Registration open http://bit.ly/12Wr2ww
+312613379682492416  Mar 15 13:16  @mutanthumb       RT @rOpenSci: New blog post on getting scholarly metadata in #rstats http://bit.ly/ZNqwKV
+312615652101857280  Mar 15 13:25  @PPUAMX           RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+312617962727157760  Mar 15 13:35  @larysar          RT @recology_: #rstats RT @willpearse: Here's my talk on programming in R - hope someone finds it useful! https://dl.dropbox.com/u/4149392/R_for_the_brave.pdf
+312623833096007681  Mar 15 13:58  @scheidegger      (I moved the Rserve bits from RCloud to its own package, so you can) call #rstats's rserve from js via websockets: https://github.com/cscheid/rserve-js
+312629349062950912  Mar 15 14:20  @kevin_ushey      Get a peek at the internals of an R object with .Internal( inspect(<obj>) ) #rstats
+312632037058158596  Mar 15 14:31  @otherside        RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
