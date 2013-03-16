@@ -448,3 +448,30 @@
 312623833096007681  Mar 15 13:58  @scheidegger      (I moved the Rserve bits from RCloud to its own package, so you can) call #rstats's rserve from js via websockets: https://github.com/cscheid/rserve-js
 312629349062950912  Mar 15 14:20  @kevin_ushey      Get a peek at the internals of an R object with .Internal( inspect(<obj>) ) #rstats
 312632037058158596  Mar 15 14:31  @otherside        RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+312639472917438465  Mar 15 15:00  @kevin_ushey      Using bigmemory with Rcpp http://gallery.rcpp.org/articles/using-bigmemory-with-rcpp/ #rstats #Rcpp
+312639700156424194  Mar 15 15:01  @mwpennell        RT @rOpenSci: New blog post on getting scholarly metadata in #rstats http://bit.ly/ZNqwKV
+312641535856504832  Mar 15 15:08  @SpringerStats    RT @kevin_ushey: Using bigmemory with Rcpp http://gallery.rcpp.org/articles/using-bigmemory-with-rcpp/ #rstats #Rcpp
+312642280681000960  Mar 15 15:11  @adaptive_plant   Useful tips on  #rstats program by @willpearse  https://dl.dropbox.com/u/4149392/R_for_the_brave.pdf
+312642874728652800  Mar 15 15:14  @adaptive_plant   RT @rOpenSci: New blog post on getting scholarly metadata in #rstats http://bit.ly/ZNqwKV
+312647981226668033  Mar 15 15:34  @timelyportfolio  Timely Portfolio: How Did I Miss “The Golden Dilemma”? http://timelyportfolio.blogspot.com/2013/03/how-did-i-miss-golden-dilemma.html?spref=tw #rstats $gld $$ ht @abnormalreturns
+312667539194933248  Mar 15 16:52  @Rbloggers        How Did I Miss “The Golden Dilemma”?:  (This article was first published on   Timely Portfolio, and ki... http://bit.ly/YzJ6Y5 #rstats
+312672419368275970  Mar 15 17:11  @Rbloggers        Evaluation of Orthogonal Signal Correction for PLS modeling (OSC-PLS and OPLS):  (This article was fir... http://bit.ly/ZWij9u #rstats
+312680795124928512  Mar 15 17:44  @adolfoalvarez    Mañana 1era reunión del grupo de usuarios de #rstats en Chile. http://www.meetup.com/useRchile/events/106722642/ Si está en SCL no se la pierda.
+312683311568941056  Mar 15 17:54  @frod_san         RT @rOpenSci: New blog post on getting scholarly metadata in #rstats http://bit.ly/ZNqwKV
+312685778297843712  Mar 15 18:04  @frod_san         RT @recology_: #rstats RT @willpearse: Here's my talk on programming in R - hope someone finds it useful! https://dl.dropbox.com/u/4149392/R_for_the_brave.pdf
+312719592793460736  Mar 15 20:18  @ProbablePattern  Anyone going to R/Fin 2013 want to split a hotel room? #rfin #rstats
+312750322839867392  Mar 15 22:21  @JakeRuss         Are there any #rstats people out there willing and able to explain how to use Revolution R's product to apply func by group? like #plyr?
+312752912512196608  Mar 15 22:31  @supergirlsaurus  @mnblrmkr smell one for me.... what else am I missing? Please don't say pork belly. Has @zenrhino stepped away from #rstats yet?
+312758546238435328  Mar 15 22:53  @ramnath_vaidya   Slidify now supports 12 frameworks including revealJS, impressJS, flowtimeJS, fathomJS, Showoff https://github.com/ramnathv/slidifyExamples #slidify #rstats
+312760970277699584  Mar 15 23:03  @ramnath_vaidya   Execute R code within Slidify (proof-of-concept) http://ramnathv.github.com/slidifyExamples/examples/probability/ILE.html#22 #slidify #rstats
+312770049184247809  Mar 15 23:39  @jaredlander      RT @ramnath_vaidya: Execute R code within Slidify (proof-of-concept) http://ramnathv.github.com/slidifyExamples/examples/probability/ILE.html#22 #slidify #rstats
+312771579346034688  Mar 15 23:45  @systbiol         RT @rOpenSci: New blog post on getting scholarly metadata in #rstats http://bit.ly/ZNqwKV
+312775140800872448  Mar 15 23:59  @don9z            RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+312775590845493248  Mar 16 00:01  @JonesZM          RT @ramnath_vaidya: Execute R code within Slidify (proof-of-concept) http://ramnathv.github.com/slidifyExamples/examples/probability/ILE.html#22 #slidify #rstats
+312789111889072128  Mar 16 00:55  @ChrisGandrud     Nice RT @ramnath_vaidya: Execute R code within Slidify (proof-of-concept) http://ramnathv.github.com/slidifyExamples/examples/probability/ILE.html#22 #slidify #rstats
+312806019162071040  Mar 16 02:02  @sacred_kau       RT @ChrisGandrud: Nice RT @ramnath_vaidya: Execute R code within Slidify (proof-of-concept) http://ramnathv.github.com/slidifyExamples/examples/probability/ILE.html#22 #slidify #rstats
+312822467620134912  Mar 16 03:07  @osazuwa          RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+312835842555138048  Mar 16 04:00  @DavoOZ           #rstats @RlangTip Need an English dictionary to solve word puzzles in R? Download GNU CIDE.
+312841355590250497  Mar 16 04:22  @DrLyndonWalker   First half of the #rstats workshop done. Students have gone from beginners to programming functions.
+312849043527184384  Mar 16 04:53  @HassanMamdani    Up early for a spot of Twitter mining with #rstats, #ggplot2 and #LaTeX.  The holy triumvirate of doing stuff with data!
+312873521099456512  Mar 16 06:30  @osazuwa          @phylorich @oreillymedia has a book #Rstats in a Nutshell that has @bioconductor walkthrough using data from GEO. Great intro for biologists
