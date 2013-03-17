@@ -398,6 +398,7 @@
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
 312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -478,3 +479,28 @@
 312938917924044800  Mar 16 10:50  @erikriverson     RT @DanHillReports: This is why we #RallyForR RT @brianabelson: 'call me maybe' in #rstats: https://dl.dropbox.com/u/6535582/callmemaybeR.mp3 http://t.co/qgx79Bd87B
 312961010787037184  Mar 16 12:18  @rmounce          Tried to demo the twitteR #rstats package to @waxscience at #shdl but it didn't work. :( Has Twitter changed their API or something?
 312962298132172800  Mar 16 12:23  @waxscience       RT @rmounce: Tried to demo the twitteR #rstats package to @waxscience at #shdl but it didn't work. :( Has Twitter changed their API or something?
+312966026449006592  Mar 16 12:38  @psychemedia      Interesting - Scholarly metadata in R http://bit.ly/XfSHRj [@ostephens @mhawksey] #oaipmh #rstats
+312967533575671809  Mar 16 12:44  @ostephens        RT @psychemedia: Interesting - Scholarly metadata in R http://bit.ly/XfSHRj [@ostephens @mhawksey] #oaipmh #rstats
+312970692754812928  Mar 16 12:56  @mel__hall        RT @psychemedia: Interesting - Scholarly metadata in R http://bit.ly/XfSHRj [@ostephens @mhawksey] #oaipmh #rstats
+312973135563603968  Mar 16 13:06  @recology_        [BLOG] Scholarly metadata in R http://bit.ly/YgaUS6 #rstats
+312973683125792769  Mar 16 13:08  @geoffjentry      @rmounce @waxscience yes, the1.1 API requires the 1.1 version of twitteR (and OAuth login) #rstats
+313018015560130560  Mar 16 16:04  @planarrowspace   Guest Tweet from @thomaslevine: Error in do.call("c", res) : variable names are limited to 10000 bytes #data4good #rstats #bigmetadata
+313019863226515457  Mar 16 16:12  @Rbloggers        GNU R loop speed comparison:  (This article was first published on   R snippets, and kindly contribute... http://bit.ly/15b4wLL #rstats
+313043452084514816  Mar 16 17:45  @JodyEdmondson    @turian #Rstats 4 Machine Learning Sessions at Structure:Data that Shouldn’t Be Missed – MetaOptimize http://bit.ly/YgCaQb
+313054407665270784  Mar 16 18:29  @eldritchideen    pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313069157564416000  Mar 16 19:27  @geospacedman     RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313075188667387904  Mar 16 19:51  @gvegayon         Primer meetup de usuaRios de R en Chile #rstats :-) http://t.co/JdE3vla7bs
+313084486663434241  Mar 16 20:28  @eddelbuettel     @CRANberriesFeed has a new look and feel, more at http://goo.gl/rfk3I #rstats
+313089449451978752  Mar 16 20:48  @TorvicLeunam     http://www.idata.com.co #Analytics #bigdata #logo #rstats #spss #BI #SPSS #CRM #statistic #risk #people… http://instagr.am/p/W8GdN7ltNV/
+313095569138663424  Mar 16 21:12  @saranonline      RT @TorvicLeunam: http://www.idata.com.co #Analytics #bigdata #logo #rstats #spss #BI #SPSS #CRM #statistic #risk #people… http://t.co/E7ie7OsAfm
+313096395462672384  Mar 16 21:16  @paredespablo     RT @gvegayon: Primer meetup de usuaRios de R en Chile #rstats :-) http://t.co/JdE3vla7bs
+313101854626164736  Mar 16 21:37  @NHoughSnee       #Pizza, #Rstats and #Nirvana. Super early part of Saturday night before watching @ncaawrestling #D3Wrestle finals. March is shaping up...
+313164927131058177  Mar 17 01:48  @zentree          Q: How do I make my #Rstats graphs? A: I do everything in base graphics. Andrew Gelman. http://andrewgelman.com/2013/03/15/how-do-i-make-my-graphs/
+313166537911570432  Mar 17 01:54  @jbkunst          "@gvegayon: Primer meetup de usuaRios de R en Chile #rstats :-) http://t.co/iUS3HWt8v1" de lo poco, bueno ;-)
+313177522303021057  Mar 17 02:38  @cloudHPC         @nosqlrs please use #rstats instead of #R
+313177749751730176  Mar 17 02:39  @cloudHPC         "@nosqlrs in #Munich on 16.04.Register with an #earlybird rate to join our #riak, #neo4j and  #BigData Analyses with #rstats #trainings!"
+313186058907029504  Mar 17 03:12  @ChPietsch        RT @psychemedia: Interesting - Scholarly metadata in R http://bit.ly/XfSHRj [@ostephens @mhawksey] #oaipmh #rstats
+313233875734261760  Mar 17 06:22  @fwild            RT @psychemedia: Interesting - Scholarly metadata in R http://bit.ly/XfSHRj [@ostephens @mhawksey] #oaipmh #rstats
+313241153707335680  Mar 17 06:51  @lernys           RT @psychemedia: Interesting - Scholarly metadata in R http://bit.ly/XfSHRj [@ostephens @mhawksey] #oaipmh #rstats
+313247225088204800  Mar 17 07:15  @Rbloggers        caretEnsemble Classification example:  (This article was first published on   Modern Toolmaking, and k... http://bit.ly/10ZrapS #rstats
+313260961467342850  Mar 17 08:10  @cos_name         神曲再临 RT @brianabelson: 'call me maybe' in #rstats: http://bit.ly/YxUq73 http://bit.ly/YdFjjX
