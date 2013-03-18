@@ -530,3 +530,43 @@
 313385116305092609  Mar 17 16:23  @portfolioprobe   RT @eddelbuettel: Agenda for R/Finance 2013 now posted: http://goo.gl/htLg6 #rstats #rfinance
 313388341770997760  Mar 17 16:36  @EpiFunky         Practical exercises: Measures of Disease Occurrence - Analysis of #Epidemiological Data with #rstats http://www.bendixcarstensen.com/NSCE/pracs.pdf
 313390422623924226  Mar 17 16:44  @StrictlyStat     I think I should just write a function lenght into my startup due to how frequently I misspell it. #rstats
+313401509268299777  Mar 17 17:28  @DrLyndonWalker   RT @eddelbuettel: Agenda for R/Finance 2013 now posted: http://goo.gl/htLg6 #rstats #rfinance
+313415781096497152  Mar 17 18:25  @StrictlyStat     .@PeteHaitch in R, you can use NROW (in caps) - which will treat vectors as matrices. #rstats
+313417019066290177  Mar 17 18:30  @flash_us         RT @portfolioprobe: Variability of garch predcitions http://bit.ly/15e3DlR #quant #finance #rstats
+313446341009346560  Mar 17 20:26  @CoreySparks1     Wiekvoet: Ordinal Data #rstats http://wiekvoet.blogspot.com/2013/03/ordinal-data.html?spref=tw
+313459606233948160  Mar 17 21:19  @teoliphant       RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313459954570907648  Mar 17 21:20  @Rbloggers        Mumbai, Mar 2013 – Portfolio Tutorial:  (This article was first published on   Rmetrics blogs, and kin... http://bit.ly/XRkcqe #rstats
+313460543686049794  Mar 17 21:23  @yungyuc          RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313486272347914240  Mar 17 23:05  @julian_urbano    Blazing fast data manipulation in #Rstats with data.table package http://cran.r-project.org/web/packages/data.table/index.html
+313492690954235904  Mar 17 23:30  @Rbloggers        Extracting Information From Objects Using Names():  (This article was first published on   R for Publi... http://bit.ly/XRL7lB #rstats
+313493975984136193  Mar 17 23:36  @cos_name         caret + ensemble: 统计学习实验梦之队 RT @Rbloggers: New package for ensembling R models http://bit.ly/YaFUme #rstats
+313494971573481474  Mar 17 23:40  @srchvrs          RT @julian_urbano: Blazing fast data manipulation in #Rstats with data.table package http://cran.r-project.org/web/packages/data.table/index.html
+313496493157937152  Mar 17 23:46  @rhatol           Data Analysis by Jeff Leek @coursera. What got me going in data analysis and got me started in R programming.#rstats  Thanks Jeff!
+313503326983557121  Mar 18 00:13  @timelyportfolio  liked this #rstats @rstudioapp shiny example A reactive sliced 3D surface response in a html report with Shiny http://bit.ly/112Iydq
+313509133955522560  Mar 18 00:36  @fperez_org       RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313511782050320384  Mar 18 00:46  @jkff             RT @julian_urbano: Blazing fast data manipulation in #Rstats with data.table package http://cran.r-project.org/web/packages/data.table/index.html
+313524860343160832  Mar 18 01:38  @ctitusbrown      RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313526121507475456  Mar 18 01:43  @tslumley         Even for uniform behavior, may be able to get good bounds, cf #rstats testing of non-uniform RNGs @jmichaethompson @ctitusbrown
+313529084649037824  Mar 18 01:55  @ctitusbrown      RT @tslumley: Even for uniform behavior, may be able to get good bounds, cf #rstats testing of non-uniform RNGs @jmichaethompson @ctitusbrown
+313529948046491648  Mar 18 01:58  @tsclausing       RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313535388604047361  Mar 18 02:20  @pyblogme         RT @tslumley: Even for uniform behavior, may be able to get good bounds, cf #rstats testing of non-uniform RNGs @jmichaethompson @ctitusbrown
+313539098864414722  Mar 18 02:35  @Gliders_Coach    Interview Jeroen Ooms OpenCPU #rstats http://lnkd.in/YpbjNp
+313547564525961217  Mar 18 03:08  @Insider_sales    Interview Jeroen Ooms OpenCPU #rstats http://bit.ly/XSrkTf #b2bsales
+313550780416266240  Mar 18 03:21  @Phaseit          RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313553879973388289  Mar 18 03:34  @EnigmaticDev     RT @julian_urbano: Blazing fast data manipulation in #Rstats with data.table package http://cran.r-project.org/web/packages/data.table/index.html
+313557137412481024  Mar 18 03:47  @lexnederbragt    RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313566441993551872  Mar 18 04:24  @ZhiboXiao        RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313568908261064706  Mar 18 04:33  @Canadell_X       Interview Jeroen Ooms OpenCPU #rstats http://bit.ly/XSrkTf #b2bsales via @Insider_sales
+313571192739082240  Mar 18 04:42  @davetangdotorg   Using the #Rstats function cut() http://www.sigmafield.org/2009/09/23/r-function-of-the-day-cut
+313585457252429824  Mar 18 05:39  @bencomp          Still having a strange situation with #rstats and #mysql (#rmysql): http://stackoverflow.com/q/15391483/1445526 (fetching all rows doesn't close resultset)...
+313594544253964288  Mar 18 06:15  @oscarperpinan    rasterVis updated http://bit.ly/133NOTg. Now levelplot handles categorical rasters properly.  #rstats #visualization
+313594828812349440  Mar 18 06:16  @jcborras         Attempting to reuse code that makes graphs in an hopefully elegant way. Week starts with a gist: https://gist.github.com/jcborras/5186154 #rstats #ggplot2
+313595359878344705  Mar 18 06:18  @BusinessSchools  Summer School: Longitudinal Network Analysis with RSiena http://bit.ly/YKxNfI #quant #rstats
+313595360041922560  Mar 18 06:18  @moneyscience     Summer School: Longitudinal Network Analysis with RSiena http://bit.ly/YKxNfI #quant #rstats
+313595360079642624  Mar 18 06:18  @Risk_Mgmt        Summer School: Longitudinal Network Analysis with RSiena http://bit.ly/YKxNfI #quant #rstats
+313600156446629888  Mar 18 06:37  @Mark_Gardener    You can make an R matrix in various ways: http://www.dataanalytics.org.uk/Data%20Analysis/tips%20and%20tricks.htm #rstats
+313611079068557312  Mar 18 07:21  @Rbloggers        Veterinary Epidemiologic Research: GLM – Logistic Regression (part 2):  (This article was first publis... http://bit.ly/1071A3u #rstats
+313620590424621058  Mar 18 07:59  @OmicsOmicsBlog   RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313625807715180545  Mar 18 08:19  @DinosaurusGrace  Wow, #Rstats can calculate single and double integrals. Now to check my dodgy maths...
+313634398564143104  Mar 18 08:54  @LouBajuk         Just announced @TIBCOSpotfire 5.5, includes new real-time integration of @TIBCO Enterprise Runtime for R #rstats http://m.yahoo.com/w/legobpengine/finance/news/tibco-spotfire-offer-unmatched-combination-120000037.html?.intl=us&.lang=en-us
+313634431241965568  Mar 18 08:54  @jdtonkin         #ggplot2 had me at hello!  #rstats

@@ -289,3 +289,26 @@
 313270177112399873  Mar 17 08:46  @CancerComputeCl  MG1 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 66605739 aligned reads, 68.57% clonal; CuffLinks: OK
 313344246201610240  Mar 17 13:41  @rnomics          SEQanswers - View Single Post - Isoform expression quanification from rna seq: flood of tools http://bit.ly/16yRtY4 http://seqanswers.com…
 313382928954564610  Mar 17 16:14  @RNAsecrets       RT @genetics_blog: Nice overview of tools for RNA-seq transcript assembly, quantitation, & DE: http://seqanswers.com/forums/showpost.php?p=98949&postcount=32 http://t.co/Fo8H9RBYMQ
+313431484017025024  Mar 17 19:27  @SAGRudd          EBARDenovo: Highly accurate de novo assembly of RNA-Seq with efficient chimera-detection @ http://buff.ly/YiBASf
+313453306330615809  Mar 17 20:54  @razoralign       RNA-seqパイプラインにおける複数ツールの有用性を示した図。exon-DEではDSGSeq、transcript quantificationではcufflinks, eXpressにアドバンテージ。iReckonはリソース高負荷 http://seqanswers.com/forums/showpost.php?p=98949&postcount=32&buffer_share=75dad&utm_source=buffer
+313454179626655746  Mar 17 20:57  @n0rr             RT @razoralign: RNA-seqパイプラインにおける複数ツールの有用性を示した図。exon-DEではDSGSeq、transcript quantificationではcufflinks, eXpressにアドバンテージ。iReckonはリソース高負荷 http://t.co/kjoEeopEu4
+313455038506889217  Mar 17 21:01  @yoshidamasaaki   RT @razoralign: RNA-seqパイプラインにおける複数ツールの有用性を示した図。exon-DEではDSGSeq、transcript quantificationではcufflinks, eXpressにアドバンテージ。iReckonはリソース高負荷 http://t.co/kjoEeopEu4
+313456569792724995  Mar 17 21:07  @yuifu            RT @razoralign: RNA-seqパイプラインにおける複数ツールの有用性を示した図。exon-DEではDSGSeq、transcript quantificationではcufflinks, eXpressにアドバンテージ。iReckonはリソース高負荷 http://t.co/kjoEeopEu4
+313466914137583617  Mar 17 21:48  @n0rr             RNA-seq で絞ってウェットで確認←意味わからん。お前のデータどこから出てんじゃい
+313474360868499456  Mar 17 22:18  @davetangdotorg   Reference paper for RNA-Seq analysis, including hands-on tutorial with example data http://www.sciencedirect.com/science/article/pii/S1360138513000241 #bioinformatics via @LinkedIn
+313476194634964993  Mar 17 22:25  @tjkwon75         RT @davetangdotorg: Reference paper for RNA-Seq analysis, including hands-on tutorial with example data http://www.sciencedirect.com/science/article/pii/S1360138513000241 #bioinformatics via @LinkedIn
+313484976601567232  Mar 17 23:00  @SAGRudd          EBSeq: an empirical Bayes hierarchical model for inference in RNA-seq experiments @ http://buff.ly/YiB7iV
+313493118198636545  Mar 17 23:32  @JChrisPires      RT @SAGRudd: EBSeq: an empirical Bayes hierarchical model for inference in RNA-seq experiments @ http://buff.ly/YiB7iV
+313496084985032706  Mar 17 23:44  @JChrisPires      RT @davetangdotorg: Reference paper for RNA-Seq analysis, including hands-on tutorial with example data http://www.sciencedirect.com/science/article/pii/S1360138513000241 #bioinformatics via @LinkedIn
+313500154638499840  Mar 18 00:00  @SAGRudd          BRANCH: boosting RNA-Seq assemblies with partial or related genomic sequences = #IsThatCheating? @ http://buff.ly/YiB8TO
+313500385950171136  Mar 18 00:01  @TatianaAriasGar  RT @SAGRudd: EBSeq: an empirical Bayes hierarchical model for inference in RNA-seq experiments @ http://buff.ly/YiB7iV
+313501240728375296  Mar 18 00:04  @TatianaAriasGar  RT @davetangdotorg: Reference paper for RNA-Seq analysis, including hands-on tutorial with example data http://www.sciencedirect.com/science/article/pii/S1360138513000241 #bioinformatics via @LinkedIn
+313514748203376641  Mar 18 00:58  @MarcosEgeaCorti  "@SAGRudd: BRANCH: boosting RNA-Seq assemblies with partial or related genomic sequences @ http://buff.ly/YiB8TO"#nonmodelorganisms
+313553068102926336  Mar 18 03:30  @rnomics          EBARDenovo: Highly accurate de novo assembly of #RNA-Seq with efficient chimera-detection:... http://bit.ly/YJZZiN #rnomics_bioinfo @MyEN
+313565968485990400  Mar 18 04:22  @Articles4Serps   RT @rnomics: EBARDenovo: Highly accurate de novo assembly of #RNA-Seq with efficient chimera-detection:... http://bit.ly/YJZZiN #rnomics_bioinfo @MyEN
+313614384985427969  Mar 18 07:34  @KZ_Cornell       RT @davetangdotorg: Reference paper for RNA-Seq analysis, including hands-on tutorial with example data http://www.sciencedirect.com/science/article/pii/S1360138513000241 #bioinformatics via @LinkedIn
+313620107056263168  Mar 18 07:57  @CancerComputeCl  MG2 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 80875665 aligned reads, 73.45% clonal; CuffLinks: OK
+313630355141828608  Mar 18 08:37  @laplap10         Congrats! The PMI paper on RNA-seq is among top downloaded papers in Trends in Plant Science http://www.cell.com/trends/plant-science/mostread
+313631404124676099  Mar 18 08:42  @KamounLab        RT @laplap10: Congrats! The PMI paper on RNA-seq is among top downloaded papers in Trends in Plant Science http://www.cell.com/trends/plant-science/mostread
+313635225747992577  Mar 18 08:57  @rnomics          EBSeq: an empirical Bayes hierarchical model for inference in #RNA-seq experiments:... http://bit.ly/134claR #rnomics_bioinfo @MyEN
+313635229183123457  Mar 18 08:57  @rnomics          BRANCH: boosting #RNA-Seq assemblies with partial or related genomic sequences:... http://bit.ly/134clrf #rnomics_bioinfo @MyEN
