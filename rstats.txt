@@ -570,3 +570,39 @@
 313625807715180545  Mar 18 08:19  @DinosaurusGrace  Wow, #Rstats can calculate single and double integrals. Now to check my dodgy maths...
 313634398564143104  Mar 18 08:54  @LouBajuk         Just announced @TIBCOSpotfire 5.5, includes new real-time integration of @TIBCO Enterprise Runtime for R #rstats http://m.yahoo.com/w/legobpengine/finance/news/tibco-spotfire-offer-unmatched-combination-120000037.html?.intl=us&.lang=en-us
 313634431241965568  Mar 18 08:54  @jdtonkin         #ggplot2 had me at hello!  #rstats
+313641924382818305  Mar 18 09:23  @hadleywickham    RT @jdtonkin: #ggplot2 had me at hello!  #rstats
+313643735193894912  Mar 18 09:31  @Rbloggers        Which political science journals will have a data policy?:  (This article was first published on   Wil... http://bit.ly/107t74Q #rstats
+313648115230048257  Mar 18 09:48  @LuwayneThomas    It was worth the effort #Rstats
+313650652029022208  Mar 18 09:58  @tartansolutions  RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313659532414959616  Mar 18 10:33  @SbusisoNdzukuma  Does the plsDA f(x) in the #DiscriMiner package scale/center the data automatically or you have to do the data pretreament yourself #rstats
+313661749473726464  Mar 18 10:42  @M_T_Patterson    Short R Tutorial: reading HTML content into R (prepping for text analysis)  http://bit.ly/15VRvYT #RStats
+313665531368579073  Mar 18 10:57  @katatrepsis      Free, interactive course introducing #R through @codeschool http://www.codeschool.com/courses/try-r #rstats
+313667874873032704  Mar 18 11:07  @DaniFraser2      RT @katatrepsis: Free, interactive course introducing #R through @codeschool http://www.codeschool.com/courses/try-r #rstats
+313670602080804865  Mar 18 11:17  @TIBCOSpotfire    RT @LouBajuk: Just announced @TIBCOSpotfire 5.5, includes new real-time integration of @TIBCO Enterprise Runtime for R #rstats http://t.co/ZlLJnTiEzG
+313671344384512000  Mar 18 11:20  @sjackman         RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313671972431220740  Mar 18 11:23  @samueljohn_de    RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313672309451931648  Mar 18 11:24  @JAdP             RT @LouBajuk: Just announced @TIBCOSpotfire 5.5, includes new real-time integration of @TIBCO Enterprise Runtime for R #rstats http://t.co/ZlLJnTiEzG
+313674609637588992  Mar 18 11:33  @gvegayon         RT @jbkunst: "@gvegayon: Primer meetup de usuaRios de R en Chile #rstats :-) http://t.co/iUS3HWt8v1" de lo poco, bueno ;-)
+313674665908383744  Mar 18 11:34  @M_T_Patterson    Quick R tip: use which.max() is a nice shortcut for finding largest value in a vector. #RStats
+313674912789319681  Mar 18 11:35  @Jowanza          RT @M_T_Patterson: Quick R tip: use which.max() is a nice shortcut for finding largest value in a vector. #RStats
+313676714024771584  Mar 18 11:42  @M_T_Patterson    Scraping html tables into R data frames http://bit.ly/YLY0um #RStats
+313679394700931072  Mar 18 11:52  @gdr1892          wow, much needed resource! RT @katatrepsis Free, interactive course introducing #R through @codeschool http://www.codeschool.com/courses/try-r  #rstats
+313681450979434497  Mar 18 12:01  @joeyrichar       RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313682655688400898  Mar 18 12:05  @RLangTip         file.path is a fast, platform-independent function to create paths to filenames http://bit.ly/sxv5Hx #rstats
+313683851530620929  Mar 18 12:10  @mmparker         RT @RLangTip: file.path is a fast, platform-independent function to create paths to filenames http://bit.ly/sxv5Hx #rstats
+313688367462219777  Mar 18 12:28  @hadleywickham    RT @LuwayneThomas: It was worth the effort #Rstats
+313688612136951808  Mar 18 12:29  @ChetanChawla     Ditto RT @LuwayneThomas: It was worth the effort #Rstats
+313690591198339072  Mar 18 12:37  @jameskeirstead   @hadleywickham Since you're pretty high up in the #rstats world, I think the royal 'we' would be forgiveable
+313690992136032256  Mar 18 12:38  @xpysol           RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313691726210560000  Mar 18 12:41  @kenniajin        RT @RLangTip: file.path is a fast, platform-independent function to create paths to filenames http://bit.ly/sxv5Hx #rstats
+313692043450912768  Mar 18 12:43  @prabhasp         More on #rstats #dataviz : "Why aren't all of our graphs interactive?" http://kbroman.wordpress.com/2013/03/16/why-arent-all-of-our-graphs-interactive/ (My answer: because r2d3 doesn't exist yet.)
+313693611537600512  Mar 18 12:49  @jameskeirstead   @ucfagls @hadleywickham Good question!  'We' might only be for the #rstats king and not lesser princes http://en.wikipedia.org/wiki/Majestic_plural
+313694135385214976  Mar 18 12:51  @smonux           RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313694958114713601  Mar 18 12:54  @revodavid        If you missed my webinar last week on #rstats and Revolution R Enterprise, you can catch the replay here: http://bit.ly/Wz6O6Q
+313698369245683712  Mar 18 13:08  @abellogin        RT @julian_urbano: Blazing fast data manipulation in #Rstats with data.table package http://cran.r-project.org/web/packages/data.table/index.html
+313699892533010433  Mar 18 13:14  @OpenCPU          Interview Jeroen Ooms OpenCPU #rstats http://wp.me/p9q8Y-2R2 via @Gliders_Coach
+313702014217515008  Mar 18 13:22  @kindlyviking     Having a hard time using odfWeave, mostly because LibreOffice puts all kinds of markup in the file that messes up odfWeave. #rstats
+313703581616332800  Mar 18 13:28  @M_T_Patterson    R Color Reference: http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf #RStats
+313704857372598274  Mar 18 13:34  @tanyacash21      Excited for @gigaom Structure Data this week. Let me know if you want to talk #riak, #rstats, @tableau or anything data-related. #dataconf
+313709622701723648  Mar 18 13:52  @sc_evans         ddply: for when your original dataframe just won't cooperate. :~B #Rstats #dontbeaplyrhater
+313722089356005376  Mar 18 14:42  @riktammdaniels   MT @loubajuk: Just announced @TIBCOSpotfire 5.5, includes new real-time integration of @TIBCO Enterprise R #rstats http://m.yahoo.com/w/legobpengine/finance/news/tibco-spotfire-offer-unmatched-combination-120000037.html?.intl=us&.lang=en-us
