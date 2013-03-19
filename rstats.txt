@@ -606,3 +606,47 @@
 313704857372598274  Mar 18 13:34  @tanyacash21      Excited for @gigaom Structure Data this week. Let me know if you want to talk #riak, #rstats, @tableau or anything data-related. #dataconf
 313709622701723648  Mar 18 13:52  @sc_evans         ddply: for when your original dataframe just won't cooperate. :~B #Rstats #dontbeaplyrhater
 313722089356005376  Mar 18 14:42  @riktammdaniels   MT @loubajuk: Just announced @TIBCOSpotfire 5.5, includes new real-time integration of @TIBCO Enterprise R #rstats http://m.yahoo.com/w/legobpengine/finance/news/tibco-spotfire-offer-unmatched-combination-120000037.html?.intl=us&.lang=en-us
+313728389947195392  Mar 18 15:07  @LuwayneThomas    Extracting Information From Objects Using Names() #Rstats http://rforpublichealth.blogspot.com/2013/03/extracting-information-from-objects.html?spref=tw
+313729394705330176  Mar 18 15:11  @hadleywickham    RT @sc_evans: ddply: for when your original dataframe just won't cooperate. :~B #Rstats #dontbeaplyrhater
+313729411545456640  Mar 18 15:11  @timelyportfolio  Timely Portfolio: One Pager Performance Report with #knitr, #Rstats, and a ... http://timelyportfolio.blogspot.com/2013/03/one-pager-performance-report-with-knitr.html?spref=tw
+313731791158644736  Mar 18 15:21  @amestadmx        RT @RLangTip: file.path is a fast, platform-independent function to create paths to filenames http://bit.ly/sxv5Hx #rstats
+313731896351793152  Mar 18 15:21  @John_B_Cole      RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313733104017747968  Mar 18 15:26  @DevNambi         RT @sc_evans: ddply: for when your original dataframe just won't cooperate. :~B #Rstats #dontbeaplyrhater
+313733521426501632  Mar 18 15:27  @Philip_A_Martin  RT @sc_evans: ddply: for when your original dataframe just won't cooperate. :~B #Rstats #dontbeaplyrhater
+313757019888824320  Mar 18 17:01  @Gliders_Coach    RT @tanyacash21: Excited for @gigaom Structure Data this week. Let me know if you want to talk #riak, #rstats, @tableau or anything data-related. #dataconf
+313757088239218688  Mar 18 17:01  @Gliders_Coach    RT @rOpenSci: New blog post on getting scholarly metadata in #rstats http://bit.ly/ZNqwKV
+313757212747128832  Mar 18 17:02  @Gliders_Coach    RT @riktammdaniels: MT @loubajuk: Just announced @TIBCOSpotfire 5.5, includes new real-time integration of @TIBCO Enterprise R #rstats http://t.co/AMIMkSmg0y
+313761215606321152  Mar 18 17:17  @t3kcit           RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313761455537278976  Mar 18 17:18  @jitendra_        RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313762307891146752  Mar 18 17:22  @nakali_keti      RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313764208036700161  Mar 18 17:29  @lingwhatics      RT @sc_evans: ddply: for when your original dataframe just won't cooperate. :~B #Rstats #dontbeaplyrhater
+313764637738942464  Mar 18 17:31  @Rbloggers        One Pager Performance Report with knitr, R, and a Different Font:  (This article was first published o... http://bit.ly/XW2BgJ #rstats
+313765032137719808  Mar 18 17:33  @statisticsblog   Video review of Mathematica 9 and its tools for connecting with R. http://bit.ly/WzDjBZ #mathematica #R #Rstats #simulations
+313766384012234752  Mar 18 17:38  @DGleebits        RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313768330525827072  Mar 18 17:46  @JAdP             RT @statisticsblog: Video review of Mathematica 9 and its tools for connecting with R. http://bit.ly/WzDjBZ #mathematica #R #Rstats #simulations
+313770876262830080  Mar 18 17:56  @RickSaporta      Nice n clean MT @Rbloggers: One Pager Performance Report with knitr, R, and a Different Font: http://po.st/7wSUPQ #rstats
+313778120874422272  Mar 18 18:25  @wunderkid        RT @statisticsblog: Video review of Mathematica 9 and its tools for connecting with R. http://bit.ly/WzDjBZ #mathematica #R #Rstats #simulations
+313778261622669312  Mar 18 18:25  @thomas_seward    RT @eldritchideen: pandas, scipy and scikit-learn are so good that I have now given up R. #python #rstats
+313786396122947584  Mar 18 18:58  @Rbloggers        Review of Mathematica 9 and R-link:  (This article was first published on   Probability and statistics... http://bit.ly/YNMChq #rstats
+313808409973649408  Mar 18 20:25  @agnesevardanega  Which political science journals will have a data policy? http://flip.it/POZc7 #rstats
+313810109358809088  Mar 18 20:32  @jaredlander      @xieyihui Can I run parallel examples in #knitr block? So far just empty results. #rstats Will keep troubleshooting.
+313818547858075649  Mar 18 21:05  @bencomp          Freaking #rstats, why do you give me "subscript out of bounds" without line number, calling method and/or values?!
+313829932235112448  Mar 18 21:51  @joshua_ulrich    Updated TTR on CRAN now http://goo.gl/jRsAA #rstats
+313837375971274752  Mar 18 22:20  @i_314            Updated TTR on CRAN http://goo.gl/jRsAA #rstats #trading #finance #stocks via @joshua_ulrich
+313837843694899200  Mar 18 22:22  @spssjapan        RユーザーのためのSPSS Statistics Developerは、フリーの統計解析ツール R をSPSS上で稼動させることが可能です 分析機能以外のデータ加工やグラフ等はSPSS、統計解析はRをご利用ください http://bit.ly/yOxPro #rstats
+313841830204698624  Mar 18 22:38  @idigdata         RT @useR_2013: Are you attending the next #rstats International Conference? Use the hashtag #useR2013
+313844223478755329  Mar 18 22:47  @monsoontrader    hahahah #SPSS riding on #rstats graphics capabilities. Do you have NO shame?
+313845518180691968  Mar 18 22:52  @flash_us         RT @joshua_ulrich: Updated TTR on CRAN now http://goo.gl/jRsAA #rstats
+313862514712670209  Mar 19 00:00  @inside_R         #rstats user group meetings this week: Melbourne, London and Raleigh_Durham (http://bit.ly/9hVAPE)
+313867879525253121  Mar 19 00:21  @PPUAMX           RT @RLangTip: file.path is a fast, platform-independent function to create paths to filenames http://bit.ly/sxv5Hx #rstats
+313883922033414144  Mar 19 01:25  @davetangdotorg   I've updated my blog post on creating a correlation matrix with #Rstats http://davetang.org/muse/2012/01/31/creating-a-correlation-matrix-with-r/
+313900778572115969  Mar 19 02:32  @certifiedwaif    Rage quit SAS and got my data into R using ff. Works brilliantly! #Rstats
+313916442380750848  Mar 19 03:34  @useR_2013        #rstats Tutorial at #useR2013: Interactive web graphics with R and googleVis. http://www3.uclm.es/congresos/useR-2013/Tutorials/Gesmann.html
+313916488304189440  Mar 19 03:34  @emilopezcano     RT @useR_2013: #rstats Tutorial at #useR2013: Interactive web graphics with R and googleVis. http://www3.uclm.es/congresos/useR-2013/Tutorials/Gesmann.html
+313917104816533504  Mar 19 03:37  @useR_2013        #useR2013 Important dates:      March 31: submission deadline for abstracts http://www3.uclm.es/congresos/useR-2013/index.html#Dates #rstats
+313917195296071680  Mar 19 03:37  @emilopezcano     RT @useR_2013: #useR2013 Important dates:      March 31: submission deadline for abstracts http://www3.uclm.es/congresos/useR-2013/index.html#Dates #rstats
+313927897897373696  Mar 19 04:20  @grserrano_       RT @emilopezcano: RT @useR_2013: #useR2013 Important dates:      March 31: submission deadline for abstracts http://www3.uclm.es/congresos/useR-2013/index.html#Dates #rstats
+313950454918811648  Mar 19 05:49  @bencomp          Right, should try traceback() next time #rstats raises an uncaught error. Thanks @hadleywickham and @geoffjentry!
+313965903312199680  Mar 19 06:51  @druau            How not to reveal your MySQL DB login/password when sharing code on GitHub or BitBucket? http://bit.ly/YQaGAv #Rstats #git
+313990957701922817  Mar 19 08:30  @Rbloggers        The evolution of EU legislation (graphed with ggplot2 and R):  (This article was first published on   ... http://bit.ly/10cgq8I #rstats
+313995586330320896  Mar 19 08:49  @oscarperpinan    Material didáctico sobre R http://wp.me/pNSqK-kJ #rstats
