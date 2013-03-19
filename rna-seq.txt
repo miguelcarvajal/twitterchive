@@ -338,3 +338,8 @@
 313959846523318272  Mar 19 06:27  @imohorianu       #bmcbioinformatics A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91
 313993899007942657  Mar 19 08:42  @rnomics          BRANCH – boosting #RNA-Seq assemblies with... http://bit.ly/YQH2Lr #TranscriptomeAssemblyTools #bioinformatics #BRANCH #RNAseq @MyEN
 313996552433717248  Mar 19 08:53  @razoralign       BRANCH: boosting RNA-Seq assemblies with partial genomic sequences: improve the sensitivity Velvet/Oases/Trinity...  http://bioinformatics.oxfordjournals.org/content/early/2013/03/14/bioinformatics.btt127.abstract
+314050280205467650  Mar 19 12:26  @BlueSEQ          I picked the RNA track so I could see Dr. Laurent's talk on single cell RNA-Seq for cancer and stem cells #XGN13
+314051359961907200  Mar 19 12:30  @Integromics      List of Methods to study Event/Isoform   Expression and Alternative Splicing from RNA-Seq http://bit.ly/ZboCSf
+314053812056903680  Mar 19 12:40  @gabeinformatics  Louise Lauren UC San Diego: Shows singlecell RNA-Seq, circulating tumor cells having different transcripts expressed vs tissue cells. #XGN13
+314057981530619905  Mar 19 12:57  @CancerComputeCl  MG7 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 99871520 aligned reads, 70.40% clonal; CuffLinks: OK
+314061454284320768  Mar 19 13:11  @BioStarQuestion  Removing duplicates from RNA-seq data http://goo.gl/fb/20w41

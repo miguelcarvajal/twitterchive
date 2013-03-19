@@ -650,3 +650,32 @@
 313965903312199680  Mar 19 06:51  @druau            How not to reveal your MySQL DB login/password when sharing code on GitHub or BitBucket? http://bit.ly/YQaGAv #Rstats #git
 313990957701922817  Mar 19 08:30  @Rbloggers        The evolution of EU legislation (graphed with ggplot2 and R):  (This article was first published on   ... http://bit.ly/10cgq8I #rstats
 313995586330320896  Mar 19 08:49  @oscarperpinan    Material didáctico sobre R http://wp.me/pNSqK-kJ #rstats
+314009475977719809  Mar 19 09:44  @yrochat          #Rstats I <3 igraph #readingbooksdifferently http://t.co/XBNthVo7Tn
+314016483401416704  Mar 19 10:12  @coulmont         Cartographie historique... réutilisation avec R de données cartographiques d'archives http://coulmont.com/blog/2013/03/19/sociologie-quartier/ #rstats
+314017780510904323  Mar 19 10:17  @rmflight         so much fun to watch 8 #parallel #rstats jobs run after sfInit() -> sfLapply(), 8 cores at 100%
+314023203871797249  Mar 19 10:39  @sharon000        Principal Component Analysis of Bach's Fugue No. 2 in C Minor http://bit.ly/149Ch4l video by @DanChitwood #dataviz with #rstats
+314024746134159362  Mar 19 10:45  @GenomeGal        RT @druau: How not to reveal your MySQL DB login/password when sharing code on GitHub or BitBucket? http://bit.ly/YQaGAv #Rstats #git
+314025212763045888  Mar 19 10:46  @IronistM         Using #rstats : Fugue No. 2, c minor (BWV 847). Well-Tempered Clavier I. J.S. Bach" @YouTube  http://buff.ly/149Djxp
+314034710395375616  Mar 19 11:24  @timelyportfolio  very nice #rstats update to #ttr TTR_0.22-0 on CRAN http://bit.ly/10d04Nn
+314036251034546176  Mar 19 11:30  @Rbloggers        Dealing with different object types in a vector in R:  (This article was first published on   We think... http://bit.ly/XZU0tm #rstats
+314039400319295489  Mar 19 11:43  @Gliders_Coach    RT @SpringerStats did you apply for IASC Data Analysis Competition?  Int Association for Stat Computing http://bit.ly/XAytBm #rstats #jmp
+314045013526974465  Mar 19 12:05  @RLangTip         Type ?Startup for a description of R's initialization process and how to configure it: http://bit.ly/pYrMeM #rstats
+314045072087863296  Mar 19 12:05  @datasaur         RT @MonetDB: column-store R or: how i learned to stop worrying and love monetdb http://www.r-bloggers.com/column-store-r-or-how-i-learned-to-stop-worrying-and-love-monetdb/ #rstats
+314045601706827777  Mar 19 12:08  @VidCanC          RT @RLangTip: Type ?Startup for a description of R's initialization process and how to configure it: http://bit.ly/pYrMeM #rstats
+314047676138278912  Mar 19 12:16  @M_T_Patterson    Web Scraping with R: Very informative reference on Regular Expressions by Cosma Shalizi: http://bit.ly/10dcNQ0 #RStats
+314049803396972545  Mar 19 12:24  @Jowanza          RT @M_T_Patterson: Web Scraping with R: Very informative reference on Regular Expressions by Cosma Shalizi: http://bit.ly/10dcNQ0 #RStats
+314053350326951937  Mar 19 12:38  @BrockTibert      Has anyone had moderate success parsing XML using #rstats?  I might be spoiled by rjson + lists, but navigating the XML tree is awful
+314054805515558912  Mar 19 12:44  @LouBajuk         Looking forward to talking about @Tibco Enterprise Runtime for R at #LondonR tonight #Rstats
+314061257332387840  Mar 19 13:10  @quantlabs        Youtube video on How to integrate your #Rstats #trading model using Interactive Brokers TWS? http://ow.ly/jdxH4
+314063612417277952  Mar 19 13:19  @MattGeary        RT @RLangTip: Type ?Startup for a description of R's initialization process and how to configure it: http://bit.ly/pYrMeM #rstats
+314064120657870848  Mar 19 13:21  @geojulien        Sociologie d'un quartier : http://coulmont.com/blog/2013/03/19/sociologie-quartier/ #Rstats #gdal #GoogleMaps http://t.co/7wOryIeRvu
+314065547929219072  Mar 19 13:27  @ucdatalab        RT @M_T_Patterson: Web Scraping with R: Very informative reference on Regular Expressions by Cosma Shalizi: http://bit.ly/10dcNQ0 #RStats
+314065646960926721  Mar 19 13:27  @skishchampi      RT @M_T_Patterson: Web Scraping with R: Very informative reference on Regular Expressions by Cosma Shalizi: http://bit.ly/10dcNQ0 #RStats
+314072044474093568  Mar 19 13:53  @revodavid        New features in #rstats open source R 2.15, coming soon to @RevolutionR 6.2 (by @thomaswdinsmore) http://bit.ly/YSdhtE
+314072114162454528  Mar 19 13:53  @dzidorius        I have updated #rstats script to track Twitter's #unfollowers http://goo.gl/sW1Gr Twitter now requires authorisation...
+314073784304930818  Mar 19 14:00  @RyanGrannell     RT @dzidorius: I have updated #rstats script to track Twitter's #unfollowers http://goo.gl/sW1Gr Twitter now requires authorisation...
+314075501318791169  Mar 19 14:06  @herrcafe         RT @LouBajuk: Looking forward to talking about @Tibco Enterprise Runtime for R at #LondonR tonight #Rstats
+314077736765382656  Mar 19 14:15  @TIBCOSpotfire    RT @LouBajuk: Looking forward to talking about @Tibco Enterprise Runtime for R at #LondonR tonight #Rstats
+314080076327161856  Mar 19 14:25  @noticiasSobreR   Material didáctico sobre R: Durante los últimos meses he tenido la oportunidad de impartir varios curs... http://tinyurl.com/cwxg2ub #rstats
+314084343066808320  Mar 19 14:41  @johnjhorton      A little script for including custom header & footer (e.g. disqus) when using R & markdown outside rstudio  #rstats  https://github.com/johnjosephhorton/md2blog
+314085474392240128  Mar 19 14:46  @tanyacash21      On my way to NYC for @structureconf 2013! #dataconf. Let me know if you want to talk @tableau, #rstats, #riak, #dataviz, #bizintelligence
