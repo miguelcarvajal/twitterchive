@@ -343,3 +343,29 @@
 314053812056903680  Mar 19 12:40  @gabeinformatics  Louise Lauren UC San Diego: Shows singlecell RNA-Seq, circulating tumor cells having different transcripts expressed vs tissue cells. #XGN13
 314057981530619905  Mar 19 12:57  @CancerComputeCl  MG7 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 99871520 aligned reads, 70.40% clonal; CuffLinks: OK
 314061454284320768  Mar 19 13:11  @BioStarQuestion  Removing duplicates from RNA-seq data http://goo.gl/fb/20w41
+314095355597815808  Mar 19 15:25  @CancerComputeCl  MG5 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 118508514 aligned reads, 81.22% clonal; CuffLinks: OK
+314108412428447745  Mar 19 16:17  @seandavis12      New to #bioconductor http://bioconductor.org/packages/2.12/bioc/html/RNASeqPower.html RNASeqPower Sample size for RNAseq studies: RNA-seq…
+314122176355774464  Mar 19 17:12  @genetics_blog    RNA-seq power calculations in #rstats  http://bioconductor.org/packages/2.12/bioc/html/RNASeqPower.html #Bioinformatics #bioconductor
+314122744323268608  Mar 19 17:14  @vsbuffalo        RT @genetics_blog: RNA-seq power calculations in #rstats  http://bioconductor.org/packages/2.12/bioc/html/RNASeqPower.html #Bioinformatics #bioconductor
+314143971460927490  Mar 19 18:38  @genetics_blog    A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/abstract #bioinformatics
+314144685067210753  Mar 19 18:41  @DanielSprockett  RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/abstract #bioinformatics
+314145596506243072  Mar 19 18:45  @megalodonatron   RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/abstract #bioinformatics
+314147202828210178  Mar 19 18:51  @SAGRudd          Sequencing the Underdogs | RNA-Seq Blog @ http://buff.ly/139wFHU
+314149721763627008  Mar 19 19:01  @CrowdedHead      RT @SAGRudd: Sequencing the Underdogs | RNA-Seq Blog @ http://buff.ly/139wFHU
+314152869932711936  Mar 19 19:14  @sara_cuadros     RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/abstract #bioinformatics
+314170642310250496  Mar 19 20:24  @smideros         RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/abstract #bioinformatics
+314177618092126208  Mar 19 20:52  @CancerComputeCl  MG6 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 102224233 aligned reads, 76.08% clonal; CuffLinks: OK
+314183613962924032  Mar 19 21:16  @notSoJunkDNA     I am curious: do people use this? Is it useful? RT @genetics_blog: RNA-seq power calculations in #rstats  http://bioconductor.org/packages/2.12/bioc/html/RNASeqPower.html
+314185236902735872  Mar 19 21:22  @aemonten         RT @notSoJunkDNA: I am curious: do people use this? Is it useful? RT @genetics_blog: RNA-seq power calculations in #rstats  http://t.co/PxO74DW8Xc
+314190415060422656  Mar 19 21:43  @CancerComputeCl  MG9 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 109907263 aligned reads, 72.45% clonal; CuffLinks: OK
+314204706538938369  Mar 19 22:40  @CancerComputeCl  TEF_10-18_con primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 66738544 aligned reads, 72.33% clonal; CuffLinks: OK
+314218227188252673  Mar 19 23:33  @mwanger          RT @genetics_blog: Nice overview of tools for RNA-seq transcript assembly, quantitation, & DE: http://seqanswers.com/forums/showpost.php?p=98949&postcount=32 http://t.co/Fo8H9RBYMQ
+314221516181098496  Mar 19 23:47  @Rodymon          Debo diseñar un experimento de RNA-seq... Alguien me ayuda? Algo se me ocurrira... Espero. Buenas noches !
+314222130856329216  Mar 19 23:49  @DNAmlin          @joe_pickrell @benoitbruneau nb Guttman looked at K4/K36 ChIP-seq, Cabilit at RNA-seq - two very different lenses to look for lincRNAs
+314257324409769984  Mar 20 02:09  @cntalavera       RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/abstract #bioinformatics
+314272563205386240  Mar 20 03:09  @socialego        RNA-Seq을 통해 물고기 색을 정하는 유전자 발견. http://www.biomedcentral.com/1471-2164/14/171/abstract … http://t.co/Q9wEhtiueM
+314273629401669632  Mar 20 03:14  @Azazel_kr        RT @socialego: RNA-Seq을 통해 물고기 색을 정하는 유전자 발견. http://www.biomedcentral.com/1471-2164/14/171/abstract … http://t.co/Q9wEhtiueM
+314280099421765633  Mar 20 03:39  @CancerComputeCl  MG8 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 121612439 aligned reads, 72.68% clonal; CuffLinks: OK
+314285512666005504  Mar 20 04:01  @psyche79s        RT @socialego: RNA-Seq을 통해 물고기 색을 정하는 유전자 발견. http://www.biomedcentral.com/1471-2164/14/171/abstract … http://t.co/Q9wEhtiueM
+314303670701391872  Mar 20 05:13  @ksmbandi         BRANCH: boosting RNA-Seq assemblies with partial or related genomic sequences http://bioinformatics.oxfordjournals.org/cgi/content/long/btt127v1
+314304913876324352  Mar 20 05:18  @dopaminergic13   RT @ksmbandi: BRANCH: boosting RNA-Seq assemblies with partial or related genomic sequences http://bioinformatics.oxfordjournals.org/cgi/content/long/btt127v1
