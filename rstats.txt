@@ -946,3 +946,42 @@
 315064235724009472  Mar 22 07:35  @JonathanPSadler  RT @DinosaurusGrace: If you want to use #Rstats in tasks that require batch processing then try ?list.files
 315083828911804416  Mar 22 08:53  @statisticsblog   Creating a "perfect" sampling from a probability distribution in R: http://bit.ly/ZEvn29 #montecarlo #rstats #r #fakeData
 315083876236156930  Mar 22 08:53  @treycausey       Quantum Forest, blog with lots info for mixed-effects/multilevel models in #rstats. Found via an old @revodavid post. http://bit.ly/ZEvRWd
+315099751307698176  Mar 22 09:56  @cmprsk           RT Plotting lm and glm models with ggplot #rstats:  (This article was first published on   Strenge... http://bit.ly/Yg98Db #R-Bloggers
+315099751433519105  Mar 22 09:56  @Rbloggers        Plotting lm and glm models with ggplot #rstats:  (This article was first published on   Strenge Jacke!... http://bit.ly/Yg98D3 #rstats
+315100637262131202  Mar 22 10:00  @MikeGruz         RT @Rbloggers: Plotting lm and glm models with ggplot #rstats:  (This article was first published on   Strenge Jacke!... http://t.co/m78Pyasysz #rstats
+315103126103400451  Mar 22 10:10  @CoreySparks1     Plotting lm and glm models with ggplot #rstats http://wp.me/pIrDl-9p via @strengejacke
+315105278691520513  Mar 22 10:18  @nicolas__evans   RT @Rbloggers: Plotting lm and glm models with ggplot #rstats:  (This article was first published on   Strenge Jacke!... http://t.co/m78Pyasysz #rstats
+315113811579392002  Mar 22 10:52  @dlizcano         RT @Rbloggers: Plotting lm and glm models with ggplot #rstats:  (This article was first published on   Strenge Jacke!... http://t.co/m78Pyasysz #rstats
+315120061373374465  Mar 22 11:17  @UnAutreChris     RT @le_girafe: Optimal Meeting Point on the Paris Metro http://jean-robert.github.com/2013/03/20/metro-meeting-point.html #RATP #rstats Play with the app here: http://jean-robert.github.com/metro.html
+315122069044080640  Mar 22 11:25  @milktrader       Experimental time series type in Julia looks promising. Compared execution times against R's xts. https://gist.github.com/milktrader/5222122 #rstats #JuliaLang
+315130599444725761  Mar 22 11:59  @sjcockell        2 weeks collaborating with @csgillespie using #rstats and #knitr and I can safely say I've learnt a lot about both :)
+315132178226872320  Mar 22 12:05  @RLangTip         Generate a LaTeX table from an R variable: http://bit.ly/rOOucD #rstats
+315132294778200064  Mar 22 12:06  @Bill_Gardner     RT @RLangTip: Generate a LaTeX table from an R variable: http://bit.ly/rOOucD #rstats
+315133495439667200  Mar 22 12:10  @GueyeNono        RT @RLangTip: Generate a LaTeX table from an R variable: http://bit.ly/rOOucD #rstats
+315134446070284288  Mar 22 12:14  @everydayanalyst  Visualizing Season Performance by NCAA Tournament Teams, awesome #dataviz by @rodzam: http://www.rodrigozamith.com/2013/03/20/visualizing-season-performance-by-ncaa-tournament-teams/ #rstats #ncaa
+315134889240444928  Mar 22 12:16  @hadleywickham    RT @Rbloggers: Plotting lm and glm models with ggplot #rstats:  (This article was first published on   Strenge Jacke!... http://t.co/m78Pyasysz #rstats
+315134897251565568  Mar 22 12:16  @woodrad          RT @RLangTip: Generate a LaTeX table from an R variable: http://bit.ly/rOOucD #rstats
+315135359614861315  Mar 22 12:18  @graemeleehickey  Does anybody know how to submit a Lightning Talk title proposal to useR 2013? #rstats #useR2013
+315136429699244032  Mar 22 12:22  @damiano10        RT @RLangTip: Generate a LaTeX table from an R variable: http://bit.ly/rOOucD #rstats
+315136865734889473  Mar 22 12:24  @delsweil         RT @Rbloggers: Plotting lm and glm models with ggplot #rstats:  (This article was first published on   Strenge Jacke!... http://t.co/m78Pyasysz #rstats
+315138612624756736  Mar 22 12:31  @PPUAMX           RT @RLangTip: Generate a LaTeX table from an R variable: http://bit.ly/rOOucD #rstats
+315141707089985537  Mar 22 12:43  @ronert_obst      Plotting lm and glm models with ggplot #rstats http://www.r-bloggers.com/plotting-lm-and-glm-models-with-ggplot-rstats/
+315143313772650496  Mar 22 12:49  @unBrujo          RT @RLangTip: Generate a LaTeX table from an R variable: http://bit.ly/rOOucD #rstats
+315144280773644290  Mar 22 12:53  @ronert_obst      R Commands for Cleaning Data #rstats http://datascience101.wordpress.com/2013/03/22/r-commands-for-cleaning-data/
+315147219781165056  Mar 22 13:05  @kobriendublin    RT @ronert_obst: R Commands for Cleaning Data #rstats http://datascience101.wordpress.com/2013/03/22/r-commands-for-cleaning-data/
+315153595588825090  Mar 22 13:30  @estebanmoro      Data mining is sometimes this beautiful (done with #rstats and @Ranzher) http://yfrog.com/g0q9xvp
+315154222570156032  Mar 22 13:33  @gisc_group       RT @estebanmoro: Data mining is sometimes this beautiful (done with #rstats and @Ranzher) http://yfrog.com/g0q9xvp
+315156069842305025  Mar 22 13:40  @HarlanH          RT @estebanmoro: Data mining is sometimes this beautiful (done with #rstats and @Ranzher) http://yfrog.com/g0q9xvp
+315156400605102080  Mar 22 13:41  @mediaczar        RT @estebanmoro: Data mining is sometimes this beautiful (done with #rstats and @Ranzher) http://yfrog.com/g0q9xvp
+315157533167853568  Mar 22 13:46  @siah             Doing joins in R is very slow. Is there a way to improve that? maybe using SQL database? send me some ideas please #rstats
+315158093623332864  Mar 22 13:48  @jaredlander      @siah sqldf is fast but not a fan. plyr's merge is faster than base. And data.table joins are faster still. #rstats
+315158689763958784  Mar 22 13:51  @cjpberry         RT @siah: Doing joins in R is very slow. Is there a way to improve that? maybe using SQL database? send me some ideas please #rstats
+315159576314007552  Mar 22 13:54  @Jowanza          Anyone interested in helping with the development of an R foursquare package for fun?  #Rstats
+315161055682785281  Mar 22 14:00  @jimineep         RT @RLangTip: Google's style guide for writing maintainable R code: http://bit.ly/unTY2g #rstats
+315161249900015617  Mar 22 14:01  @iC               @siah SSD? #rstats
+315162567494479874  Mar 22 14:06  @IronistM         Publish on #Wordpress your #rstats using knitr2wordpress and gradient_cloud Revisited | TRinker's R Blog http://buff.ly/10iKuzM
+315166881424228353  Mar 22 14:23  @camilopcalderon  RT @estebanmoro: Data mining is sometimes this beautiful (done with #rstats and @Ranzher) http://yfrog.com/g0q9xvp
+315167069572329472  Mar 22 14:24  @jcanistrum       RT @estebanmoro: Data mining is sometimes this beautiful (done with #rstats and @Ranzher) http://yfrog.com/g0q9xvp
+315167365602095105  Mar 22 14:25  @tsaari1          RT @Rbloggers: Plotting lm and glm models with ggplot #rstats:  (This article was first published on   Strenge Jacke!... http://t.co/m78Pyasysz #rstats
+315174674814357505  Mar 22 14:54  @bearloga         @siah I (and probably everyone else) would recommend sqldf #rstats package which works using SQLite, I think.
+315174763435794432  Mar 22 14:54  @revodavid        Awesome online app compares #NCAA team stats in #MarchMadness face-offs: http://bit.ly/ZhR4SB #rstats (via @everydayanalyst)

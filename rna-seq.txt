@@ -406,3 +406,6 @@
 314991262673551360  Mar 22 02:45  @bio_impact       【Bioimpact PR】 【無料ウェビナー】 de novoシリーズ：「非モデル生物のRNA-seq解析 -- 実験デザインから解析パイプラインまで」 開催:                    de novoシリ... http://bit.ly/WQFNxc
 315024071496716289  Mar 22 04:56  @bio_impact       【Bioimpact PR】 【無料ウェビナー】 de novoシリーズ：「非モデル生物のRNA-seq解析 -- 実験デザインから解析パイプラインまで」 開催 http://goo.gl/fb/NPCSg
 315033492255825921  Mar 22 05:33  @ksmbandi         Accuracy of RNA-Seq and its dependence on sequencing depth http://www.biomedcentral.com/1471-2105/13/S13/S5
+315093186999619585  Mar 22 09:30  @CancerComputeCl  GFI1_1 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 82298860 aligned reads, 65.46% clonal; CuffLinks: OK
+315110335285690369  Mar 22 10:38  @rnomics          Accuracy of #RNA-Seq and its dependence on sequencing depth | #RNA-Seq Blog:... http://bit.ly/Z7s43H #rnomics_bioinfo @MyEN
+315134958639407104  Mar 22 12:16  @CancerComputeCl  34_plus_2 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 106456194 aligned reads, 67.47% clonal; CuffLinks: OK
