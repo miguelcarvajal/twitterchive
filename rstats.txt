@@ -1385,3 +1385,58 @@
 317239707861925888  Mar 28 07:40  @moorejh          #datascience MT @kdnuggets: rminer: R package, simplifies use of #datamining algorithms #rstats #MachineLearning http://bit.ly/11HNU1H
 317249218232320000  Mar 28 08:18  @johnpharmd       RT @moorejh: #datascience MT @kdnuggets: rminer: R package, simplifies use of #datamining algorithms #rstats #MachineLearning http://t.co/3YPon85ek7
 317251641843785729  Mar 28 08:27  @Jersig           RT @datagistips: R et TileMill se promenaient dans les bois http://datagistips.blogspot.fr/2013/03/cartokilogrammes-de-bois.html #rstats #tilemill #mapnik http://t.co/peS0RsGrnQ
+317264617502019585  Mar 28 09:19  @JLZIMMERMANN     RT @datagistips: R et TileMill se promenaient dans les bois http://datagistips.blogspot.fr/2013/03/cartokilogrammes-de-bois.html #rstats #tilemill #mapnik http://t.co/peS0RsGrnQ
+317265049234337792  Mar 28 09:20  @IronistM         Check this : @rstudioapp For fast worldwide downloads, choose "0-Cloud" or add this to .Rprofile: http://bit.ly/YKUqON #rstats
+317266523947421696  Mar 28 09:26  @Romain_MEHUT     RT @datagistips: R et TileMill se promenaient dans les bois http://datagistips.blogspot.fr/2013/03/cartokilogrammes-de-bois.html #rstats #tilemill #mapnik http://t.co/peS0RsGrnQ
+317267097149399040  Mar 28 09:29  @sc_evans         1/2 Still not quite grasping how geom_ribbon is supposed to work--or any geom that requires ymin and ymax, for that matter #ggplot #Rstats
+317267866934194176  Mar 28 09:32  @M_T_Patterson    Lectures on Open Social Science -- ChristopherGandrud on github:  http://bit.ly/102Eytq #ReproducibleResearch, #RStats
+317268490534912000  Mar 28 09:34  @sc_evans         I know I'm doing something wrong here, but my point is I don't grasp why geom_ribbon doesn't work that way by default #Rstats
+317269044610859008  Mar 28 09:36  @sc_evans         ... And here I go again, using Twitter as an outlet to vent about my data analysis/visualization struggles :~B #Rstats #LoveHateRelationship
+317269913221857280  Mar 28 09:40  @sc_evans         I'm so spoiled by #ggplot's versatility that I now get easily frustrated when it doesn't immediately work the way I want #Rstats
+317273803950546944  Mar 28 09:55  @hylopsar         is there any way to make a wind rose plot using #ggplot2 without ignoring factors with zero counts? #rstats
+317273924645822465  Mar 28 09:56  @michaelzeller    RT @Zementis: RT @jamet123 First Look: Revolution Analytics Update  #decisionmgt http://bit.ly/YTFEVd #PMML #rstats #bigdata
+317277004913340416  Mar 28 10:08  @aDataHead        Moving to #Rstats 3.0.0 on Ubuntu: http://bit.ly/11RPwSZ
+317279035937923072  Mar 28 10:16  @hadleywickham    I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317279325781118976  Mar 28 10:17  @seanjtaylor      RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317279437454446593  Mar 28 10:18  @infoecho         RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317279486141947904  Mar 28 10:18  @therealprotonk   Wait a minute… RT @hadleywickham I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317279772277370881  Mar 28 10:19  @janhove          RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317280297886552066  Mar 28 10:21  @joscani          RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317280333244559360  Mar 28 10:21  @mizmay           RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317280856928559104  Mar 28 10:23  @tonyfujs         @AnnKEmery Looks like this one needs more than a few lines of #Rstats code... But you can easily aim for this: http://bit.ly/nlTAnp
+317281104644145155  Mar 28 10:24  @thmcmahon        RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317281716840566784  Mar 28 10:27  @thinkbluecrew    RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317282169288531968  Mar 28 10:28  @lgatt0           "@hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats" agreed!
+317283195437584385  Mar 28 10:33  @datailluminator  Retail Analytics Part 1a: Time Analysis http://bit.ly/ZqML7k   #rstats #retail #analytics #time #SQL #hadley #viz #hadoop #database
+317284481025331203  Mar 28 10:38  @AnnKEmery        RT @tonyfujs: @AnnKEmery Looks like this one needs more than a few lines of #Rstats code... But you can easily aim for this: http://t.co/PqDHen21B4
+317286215512649728  Mar 28 10:45  @hardlurker       RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317286216309542916  Mar 28 10:45  @StrictlyStat     RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317286216737370113  Mar 28 10:45  @adolfoalvarez    RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317286466692710403  Mar 28 10:46  @cpsievert        RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317286474250870784  Mar 28 10:46  @adamhsparks      RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317288228107460610  Mar 28 10:53  @drago_carlo      What does a data scientist do? http://prsm.tc/AKIfdl via @prismatic #DataScience #rstats
+317288511038447616  Mar 28 10:54  @rahuldave        RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317291735808081921  Mar 28 11:06  @colinr23         cool paper describing the principles behind #plyr and #ggplot2 packages in #rstats http://vita.had.co.nz/papers/tidy-data.pdf
+317292497028132864  Mar 28 11:10  @statsepi         RT @EpiFunky: Great ressources for the use of bayesian analysis in #epidemiology (with #rstats code) http://goo.gl/F9gbW
+317296496930353154  Mar 28 11:25  @josefslerka      1.3 GB velky CSV soubor v Rku mne vzdy naplni uctou:) #rstats
+317301794835402752  Mar 28 11:46  @cargomoose       RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317305583915130881  Mar 28 12:02  @emjonaitis       "I showed this to my brother and said, 'Look! I can program!!' I was so proud!" - my student mentee. #metoo #rstats
+317306305884848128  Mar 28 12:04  @SpringerStats    Statistics and Computing has new editor in chief Mark Girolami from @uclnews (& journal has great impact factor!) #rstats
+317306331054874626  Mar 28 12:04  @rmflight         RT @colinr23: cool paper describing the principles behind #plyr and #ggplot2 packages in #rstats http://vita.had.co.nz/papers/tidy-data.pdf
+317306545547378688  Mar 28 12:05  @RLangTip         fitdistr fits a univariate probability distribution to a vector of data using maximum likelihood estimation: http://bit.ly/HbMcJo #rstats
+317309920586395648  Mar 28 12:19  @kleinschmidt     RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317312068946628609  Mar 28 12:27  @arvi1000         Finally using #ggplot2 on the reg at work now. Thanks, @qmss_columbia  #rstats
+317312862810947589  Mar 28 12:30  @Rbloggers        Rencontres R, Lyon 27-28 June:  (This article was first published on   JAGS News » R, and kindly contr... http://bit.ly/YICUAG #rstats
+317313536898510848  Mar 28 12:33  @DrSkippy27       Anybody know why stat_ecdf layer applies the x-limits from the plot to the data? Can't think of the case where this is what I wanted #rstats
+317316048632295424  Mar 28 12:43  @datailluminator  Visualizing Farmers' Markets Geo Data  http://bit.ly/WUrbOf        #rstats #viz #farmers #maps #wine #vegetables #food  #google
+317318196908683264  Mar 28 12:52  @amestadmx        RT @RLangTip: How to generate random numbers in R: http://bit.ly/yGdRZ7 #rstats
+317321337519611904  Mar 28 13:04  @datailluminator  Retail Analytics Part 1a: Time Analysis http://bit.ly/ZqML7k    #rstats #retail #analytics #time #SQL #viz #hadoop #database #python
+317328800482459650  Mar 28 13:34  @datailluminator  Retail Analytics Part 1a: Time Analysis http://bit.ly/ZqML7k     #rstats #retail #analytics #time #timeseries #SQL #viz #hadoop #database
+317334511471951872  Mar 28 13:56  @KevinLDavenport  RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317336472552370176  Mar 28 14:04  @petrolheaddebs   RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317337677647196161  Mar 28 14:09  @revodavid        Lots of data isn't the same thing as #BigData, says @joerickert: http://bit.ly/1606waf #rstats
+317338132515274753  Mar 28 14:11  @Gastove          If you, like me, have been munging datetimes in #rstats and hating every second of it: https://github.com/hadley/lubridate (h/t @hadleywickham)
+317338404192915456  Mar 28 14:12  @treycausey       RT @revodavid: Lots of data isn't the same thing as #BigData, says @joerickert: http://bit.ly/1606waf #rstats
+317338594106806273  Mar 28 14:13  @freakoPLo        RT @revodavid: Lots of data isn't the same thing as #BigData, says @joerickert: http://bit.ly/1606waf #rstats
+317345904946462720  Mar 28 14:42  @numbercruncha    @revodavid32m Lots of data isn't the same thing as #BigData, says @joerickert: http://bit.ly/1606waf  #rstats
+317347079678738432  Mar 28 14:46  @RobertsPaige     RT @Altons: Class DataScientist{} http://zite.to/ZZHR4E #stats #machinelearning #sas #rstats #python
