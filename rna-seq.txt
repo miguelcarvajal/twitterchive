@@ -409,3 +409,78 @@
 315093186999619585  Mar 22 09:30  @CancerComputeCl  GFI1_1 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 82298860 aligned reads, 65.46% clonal; CuffLinks: OK
 315110335285690369  Mar 22 10:38  @rnomics          Accuracy of #RNA-Seq and its dependence on sequencing depth | #RNA-Seq Blog:... http://bit.ly/Z7s43H #rnomics_bioinfo @MyEN
 315134958639407104  Mar 22 12:16  @CancerComputeCl  34_plus_2 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 106456194 aligned reads, 67.47% clonal; CuffLinks: OK
+315216698917675009  Mar 22 17:41  @CancerComputeCl  GFI1_2 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 68366083 aligned reads, 62.51% clonal; CuffLinks: OK
+315277039982764032  Mar 22 21:41  @CancerComputeCl  HUV_1 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 84055066 aligned reads, 69.66% clonal; CuffLinks: OK
+315408650485260288  Mar 23 06:24  @BioStarQuestion  Bacterial RNA-seq http://goo.gl/fb/ESnJV
+315449266594254848  Mar 23 09:05  @CancerComputeCl  HUV_2 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 96925807 aligned reads, 70.15% clonal; CuffLinks: OK
+315461815834394624  Mar 23 09:55  @CancerComputeCl  SPI1_1 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 99182929 aligned reads, 69.78% clonal; CuffLinks: OK
+315531904403251200  Mar 23 14:34  @BioStarQuestion  de novo bacterial RNA-Seq http://goo.gl/fb/JL4Nd
+315537944792403968  Mar 23 14:58  @rnomics          What are recommend approaches for studying Bacterial #RNA-seq data - BioStar:... http://bit.ly/ZdbEqt #rnomics_bioinfo @MyEN
+315539209454747648  Mar 23 15:03  @CancerComputeCl  SPI1_2 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 78270144 aligned reads, 69.68% clonal; CuffLinks: OK
+315540261436534784  Mar 23 15:07  @Articles4Serps   RT @rnomics: What are recommend approaches for studying Bacterial #RNA-seq data - BioStar:... http://bit.ly/ZdbEqt #rnomics_bioinfo @MyEN
+315580583134773250  Mar 23 17:47  @SEQquestions     How to calculate gene expression level (RPKM) in RNA-seq with BED input file http://bit.ly/13m9IRT
+315641004608851970  Mar 23 21:47  @rnomics          SplicingCompass: differential splicing detection using #RNA-Seq data: Motivation:... http://bit.ly/13mAxFB #bioinformaticsj @MyEN
+315641006953488384  Mar 23 21:47  @rnomics          EBARDenovo: highly accurate de novo assembly of #RNA-Seq with efficient chimera-detection:... http://bit.ly/13mAwBr #bioinformaticsj @MyEN
+315831822837768193  Mar 24 10:25  @CancerComputeCl  2FD_plus_minus primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 95663008 aligned reads, 83.60% clonal; CuffLinks: OK
+315878962490400768  Mar 24 13:33  @Dwro8ea          #RNA-seq on the menu today
+315885444921430016  Mar 24 13:58  @CancerComputeCl  2F_minus_minus primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 174118949 aligned reads, 80.09% clonal; CuffLinks: OK
+315897131108012032  Mar 24 14:45  @CancerComputeCl  2F_plus_minus primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 129505787 aligned reads, 80.99% clonal; CuffLinks: OK
+316016575666860032  Mar 24 22:39  @VujkovicM        RT @genetics_blog: Nice overview of tools for RNA-seq transcript assembly, quantitation, & DE: http://seqanswers.com/forums/showpost.php?p=98949&postcount=32 http://t.co/Fo8H9RBYMQ
+316173629245239298  Mar 25 09:04  @rnomics          ) Identification of Cytokinin Responsive Genes Using... http://bit.ly/13qffXu #Publications #Arabidopsisthaliana #Cytokinin #RNAseq @MyEN
+316187966999502849  Mar 25 10:01  @SahaSurya        A comparison of methods for differential expression analysis of #RNA-seq data http://lnkd.in/vpZTCC #OA #NGS
+316208105757237248  Mar 25 11:21  @BioStarQuestion  What type of normalization should be applied to different RNA-seq experiments performed on the same platform http://goo.gl/fb/V55Si
+316243956235108352  Mar 25 13:43  @CancerComputeCl  2F_plus_plus primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 72977800 aligned reads, 84.83% clonal; CuffLinks: OK
+316354143411380226  Mar 25 21:01  @rnomics          What type of normalization should be applied to different #RNA-seq experiments performed... http://bit.ly/Znx2tk #rnomics_bioinfo @MyEN
+316372573392875520  Mar 25 22:14  @antiplastics     @yuifu ちょいとRNA-Seqの事で教えて欲しいんだけど...
+316419622838616064  Mar 26 01:21  @SurfikiTrends    rna seq
+316421884155678720  Mar 26 01:30  @CancerComputeCl  9EMM primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 8588678 aligned reads, 88.85% clonal; CuffLinks: OK
+316422042515808257  Mar 26 01:31  @SurfikiTrends    rna seq
+316462925554532353  Mar 26 04:13  @SurfikiTrends    rna seq
+316465097335783424  Mar 26 04:22  @SurfikiTrends    rna seq
+316490413953396736  Mar 26 06:02  @rnomics          #RNA-Seq reveals differentially expressed isoforms and novel splice variants in buccal... http://1.usa.gov/ZpiaKS #Gene #Pubmed @MyEN
+316524340181098497  Mar 26 08:17  @CancerComputeCl  4F_plus_plus primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 41666057 aligned reads, 77.90% clonal; CuffLinks: OK
+316532507103334400  Mar 26 08:50  @rnomics          Early Registration Closing Friday – #RNA-Seq 2013: You have until this... http://bit.ly/Zq0OgR #Events #RNASeq #RNASeq2013 #RNAseq @MyEN
+316532511293440002  Mar 26 08:50  @rnomics          Zinc-mediated #RNA fragmentation allows robust transcript... http://bit.ly/Zq0Mpu #LibraryPreparation #Publications #RNAseq @MyEN
+316538393662222336  Mar 26 09:13  @nextgenseek      @joe_pickrell 151-ChIP-seq 25: RNA-seq, 12: Exon Array, 8-CAGE, FAIRE-seq, 7:DNase-seq HeLa cell seq in ENCODE alone http://www.genome.ucsc.edu/ENCODE/dataSummary.html
+316538671983628288  Mar 26 09:14  @golifescience    EBSeq: an empirical Bayes hierarchical model for inference in RNA-seq experiments. Leng N et al. Bioinformatic... http://bit.ly/ZTEBb3
+316546251174866944  Mar 26 09:44  @JamesLZ          RT @nextgenseek: @joe_pickrell 151-ChIP-seq 25: RNA-seq, 12: Exon Array, 8-CAGE, FAIRE-seq, 7:DNase-seq HeLa cell seq in ENCODE alone http://t.co/yguYuwHCor
+316558778529095681  Mar 26 10:34  @toni_segovia     RT @nextgenseek: @joe_pickrell 151-ChIP-seq 25: RNA-seq, 12: Exon Array, 8-CAGE, FAIRE-seq, 7:DNase-seq HeLa cell seq in ENCODE alone http://t.co/yguYuwHCor
+316562487950573569  Mar 26 10:49  @Diane_McKenna_   Would like to welcome @MaverixBiomics as a spotlight partner sponsor at RNA-Seq, Boston,MA 18-20 June #sequencing http://rna-seqsummit.com/
+316567119955378177  Mar 26 11:07  @Diane_McKenna_   Early Registration Closing for RNA-Seq meeting 2013. Register by 29 March for best rate to attend #sequencing #rnaseq http://rna-seqsummit.com/register
+316577071935660033  Mar 26 11:47  @dasmoth          @Jelena_Aleksic1 @SarahHCarl that sounds alarmingly like Clippy from old versions of MS Office.  "It looks like you're comparing RNA-seq..."
+316579700623421440  Mar 26 11:57  @notSoJunkDNA     Zinc-mediated RNA fragmentation allows robust transcript reassembly upon whole transcriptome RNA-Seq http://www.sciencedirect.com/science/article/pii/S1046202313000789
+316643803668828161  Mar 26 16:12  @SEQquestions     RNA-seq based mouse transcriptome abundance estimation http://bit.ly/XEJNgm
+316663696996831233  Mar 26 17:31  @abhishekpratap   slides from my JGI Genome Tech Workshop #Rnaseq https://speakerdeck.com/apratap/2013-march-jgi-genome-tech-workshop-rna-seq-talk
+316712693446885376  Mar 26 20:46  @rnomics          Development of Strategies for SNP Detection in #RNA-Seq Data: Application to Lymphoblastoid Cell... http://bit.ly/13vaXOx #PLoS @MyEN
+316713401453801474  Mar 26 20:48  @Articles4Serps   RT @rnomics: Development of Strategies for SNP Detection in #RNA-Seq Data: Application to Lymphoblastoid Cell... http://bit.ly/13vaXOx #PLoS @MyEN
+316724836355407872  Mar 26 21:34  @rnomics          Differential expression analysis for paired #RNA-seq data: Background #RNA-Seq technology measures the... http://bit.ly/13vij4H #BMC @MyEN
+316731837793845249  Mar 26 22:02  @natarajang       Differential expression analysis for paired RNA-seq data: Background RNA-Seq technology measures the transcrip... http://bit.ly/10N5SNN
+316749067029991427  Mar 26 23:10  @BiologIT         Differential expression analysis for paired RNA-seq data: Background RNA-Seq technology measures the transcrip...  http://bit.ly/lgZD8f
+316768729595801601  Mar 27 00:28  @neilfws          Bookmarked: Differential expression analysis for paired RNA-seq data http://bit.ly/15SzDMD
+316790566312628225  Mar 27 01:55  @NucDiv           Differential expression analysis for paired RNA-seq data http://flip.it/UZVRL @myen
+316846859337474048  Mar 27 05:39  @CRS4Galaxy       EDGE, a software to estimate gene expression levels in prokaryotic genomes from RNA-seq data is now available
+316848027874762752  Mar 27 05:43  @D_science        #bmcbioinformatics Differential expression analysis for paired RNA-seq data http://www.biomedcentral.com/1471-2105/14/110
+316885458737041408  Mar 27 08:12  @SEQquestions     RNA-Seq: Merge files before or after counting? http://bit.ly/YIaVv3
+316893195755732992  Mar 27 08:43  @rnomics          Differential expression analysis for paired #RNA-seq data: RNA-Seq... http://bit.ly/13wFoE5 #ExpressionandQuantification #RNAseq @MyEN
+316893214911127553  Mar 27 08:43  @ypriverol        #Bioinformatics rna-seq #proteomics Java developer  http://www.indeed.com/viewjob?jk=624810702bdbc046 via @indeed
+316932900480233472  Mar 27 11:21  @genetics_blog    "Differential expression analysis for paired RNA-seq data" http://feedly.com/k/13x9mrB
+316936425234907138  Mar 27 11:35  @melinaGALL       RT @genetics_blog: "Differential expression analysis for paired RNA-seq data" http://feedly.com/k/13x9mrB
+316973723511054336  Mar 27 14:03  @rnomics          Differential expression analysis for paired #RNA-seq data: Background #RNA-Seq technology measures the... http://bit.ly/Zxk6kH #BMC @MyEN
+316981876428525569  Mar 27 14:35  @WorldNewsEU      Differential expression analysis for paired RNA-seq data ... - http://bit.ly/XHjWo3
+316982127533109250  Mar 27 14:36  @MediaTower       Differential expression analysis for paired RNA-seq data ... - http://bit.ly/XHjWo3
+316982665565839360  Mar 27 14:38  @Articles4Serps   RT @rnomics: Differential expression analysis for paired #RNA-seq data: Background #RNA-Seq technology measures the... http://t.co/ij8nIA7gtJ #BMC @MyEN
+316988812704239616  Mar 27 15:03  @IWeissAU         Differential expression analysis for paired RNA-seq data http://bit.ly/ZZCnai
+316988823433273344  Mar 27 15:03  @RogerUSA1        Check out: Differential expression analysis for paired RNA-seq data http://bit.ly/ZZCnai
+316988836158767105  Mar 27 15:03  @MedStu21         Great: Differential expression analysis for paired RNA-seq data http://bit.ly/ZZCnai
+316992448352116736  Mar 27 15:17  @NewsStories24    Differential expression analysis for paired RNA-seq data ... - http://bit.ly/XHjWo3
+316992466182103040  Mar 27 15:17  @7Journals        Differential expression analysis for paired RNA-seq data http://adf.ly/LjaeJ #BioMed #Journals
+316996723996250113  Mar 27 15:34  @worldtopics      Differential expression analysis for paired RNA-seq data - 7thSpace Interactive (press release) http://bit.ly/11N9l1u
+317006512390303745  Mar 27 16:13  @BiologyMag       http://sciencealerts.com Differential expression analysis for paired RNA-seq data http://dlvr.it/387w72
+317007546382696449  Mar 27 16:17  @NewsReactions    Differential expression analysis for paired RNA-seq data ... - http://bit.ly/XHjWo3
+317022649295458306  Mar 27 17:17  @PressOfficeEU    Press Alert: Differential expression analysis for paired RNA-seq data ... http://bit.ly/XHjWo3
+317030095464329217  Mar 27 17:47  @SEQquestions     Mapping paired-end stranded RNA-seq data http://bit.ly/16io2IC
+317031386991190017  Mar 27 17:52  @CofactorGenomic  We've posted the video for our RNA-seq Webinar, check it out!  http://www.cofactorgenomics.com/blog/2013/rna-seq-webinar-video
+317224799757803520  Mar 28 06:41  @nextgenseek      #ngs #jobs collaborative stat/comp bio post-doc opening at Colin Dewey's group, which developed RSEM for RNA-Seq   http://nextgenseek.com/ngs-jobs/
+317227661866975233  Mar 28 06:52  @Paul_R_Johnston  #bmcbioinformatics Very useful paper: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91
+317255261213556736  Mar 28 08:42  @rnomics          RNA-Seq versus genome-predicted transcriptomes: #evolutionary studies... http://bit.ly/ZBxi7Y #Publications #454 #hydra #RNAseq @MyEN
+317256546042146817  Mar 28 08:47  @Articles4Serps   RT @rnomics: RNA-Seq versus genome-predicted transcriptomes: #evolutionary studies... http://bit.ly/ZBxi7Y #Publications #454 #hydra #RNAseq @MyEN
