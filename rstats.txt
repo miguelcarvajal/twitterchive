@@ -985,6 +985,206 @@
 315167365602095105  Mar 22 14:25  @tsaari1          RT @Rbloggers: Plotting lm and glm models with ggplot #rstats:  (This article was first published on   Strenge Jacke!... http://t.co/m78Pyasysz #rstats
 315174674814357505  Mar 22 14:54  @bearloga         @siah I (and probably everyone else) would recommend sqldf #rstats package which works using SQLite, I think.
 315174763435794432  Mar 22 14:54  @revodavid        Awesome online app compares #NCAA team stats in #MarchMadness face-offs: http://bit.ly/ZhR4SB #rstats (via @everydayanalyst)
+315270160741179395  Mar 22 21:13  @IanDworkin       RT @SiveFinlay: Super useful #morphometrics #rstats code courtesy of Thomas Claverie http://www.ocf.berkeley.edu/~claverie/ and the Polly Lab http://t.co/mXpMVm3WNa
+315273109437571072  Mar 22 21:25  @gammasync        RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315273238819266560  Mar 22 21:26  @Aidan_M_Keith    RT @lucaborger: R2 for mixed models? Here are the functions for lme4/lme -- http://bit.ly/YuXsXp but don't forget the caveats ... #rstats
+315284218810871809  Mar 22 22:09  @ecadair          RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315293064396693504  Mar 22 22:44  @mspan            RT @revodavid: Nifty #rstats Shiny app by @le_girafe finds central point of 3 or more stations in a subway map: http://bit.ly/Y0ewrN #opendata
+315293147917869057  Mar 22 22:45  @dggoldst         Workshop on Crowdsourcing and Online Behavioral Experiments http://www.decisionsciencenews.com/2013/03/22/workshop-on-crowdsourcing-and-online-behavioral-experiments/ #RStats
+315296167011442689  Mar 22 22:57  @v1pl             RT @RLangTip: Generate a LaTeX table from an R variable: http://bit.ly/rOOucD #rstats
+315300835812859904  Mar 22 23:15  @monsoontrader    feelin rigid RT @omfgteamrobo: I think you should start playing dwarf fortress. It's basically the #rstats of gaming.
+315314829227331584  Mar 23 00:11  @gappy3000        there are pythonistas, racketeers, schemers, clojurians, but #Rstats? Rians sounds racist, Ristas too alcoholic, Reers sounds like debt.
+315318830962450432  Mar 23 00:27  @geoffjentry      @gappy3000 I've never cared for it but useRs seems popular as a term for #rstats users
+315326698486906880  Mar 23 00:58  @fperez_org       RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315335158708453376  Mar 23 01:32  @drago_carlo      Hyndsight - Batch forecasting in R http://feedly.com/k/WV4N6w #forecasting #TimeSeries #econometrics #rstats
+315348100233457664  Mar 23 02:23  @chrisbrunsdon    http://jean-robert.github.com/2013/03/20/metro-meeting-point.html interesting Paris Metro demo using #Rstats and #shiny
+315358457488343040  Mar 23 03:04  @cnrlwlss         RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315358491818733568  Mar 23 03:04  @favstar_pop      RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315364490642329600  Mar 23 03:28  @McWillemsen      RT @dggoldst: Workshop on Crowdsourcing and Online Behavioral Experiments http://www.decisionsciencenews.com/2013/03/22/workshop-on-crowdsourcing-and-online-behavioral-experiments/ #RStats
+315384445265924096  Mar 23 04:48  @tomezard         RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315385294679584768  Mar 23 04:51  @rcalsaverini     RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315385365328457728  Mar 23 04:51  @ecolandlab       RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315386159423438848  Mar 23 04:54  @silverlangur     RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315387703409643520  Mar 23 05:01  @gravitate_to_me  RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315389648274874369  Mar 23 05:08  @terngirl         RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315409009609961473  Mar 23 06:25  @mspan            If you in Connecticut on Tuesday, stop by “@NPHard: Decision Trees in R at the Next Connecticut RUG http://lnkd.in/u4z3uA” #rstats #ctdata
+315411595754876928  Mar 23 06:35  @MichelBallings   Plotting lm and glm models with ggplot #rstats http://flip.it/ZpZog
+315413587013283840  Mar 23 06:43  @NKSBarker        RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315425547243094016  Mar 23 07:31  @flash_us         RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315436971419906048  Mar 23 08:16  @CjBayesian       Introduction to Simulation using R https://speakerdeck.com/cjbayesian/introduction-to-simulation-using-r #rstats
+315437791095975936  Mar 23 08:20  @gappy3000        so for #rstats we have R-ic, R-ese, R-ish, R人, useRs, Rgonauts, pirates. Curious about julialang coders too..
+315440273872273408  Mar 23 08:29  @joshua_ulrich    @gappy3000 useRs? Too junkie? #Rstats
+315440670317895680  Mar 23 08:31  @joshua_ulrich    @joshua_ulrich @gappy3000 ah, I see I was 10 minutes late. #Rstats
+315441468984659969  Mar 23 08:34  @joshua_ulrich    @gappy3000 rsonists? #rstats
+315447308634447872  Mar 23 08:57  @gvwilson         RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315450426302545921  Mar 23 09:10  @YoungEcoBES      RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315455715374419968  Mar 23 09:31  @frenchrh         RT @chrisbrunsdon http://jean-robert.github.com/2013/03/20/metro-meeting-point.html interesting Paris Metro demo using #Rstats and #shiny
+315455817480556544  Mar 23 09:31  @MikePearmain     It's time to put #rstats development work with #ess and #emacs to bed. #rstudio it's your time to shine
+315472323337662464  Mar 23 10:37  @statalgo         @gappy3000 For #Rstats: this name is already taken, but I like Randomista's. Or related to the creators: Ihackar's or Gentlemen.
+315475257848897538  Mar 23 10:48  @mgwhitfield      RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315483525996498944  Mar 23 11:21  @ChrisDiehl       RT @dggoldst: Workshop on Crowdsourcing and Online Behavioral Experiments http://www.decisionsciencenews.com/2013/03/22/workshop-on-crowdsourcing-and-online-behavioral-experiments/ #RStats
+315491551344197632  Mar 23 11:53  @NKSBarker        RT @CjBayesian: Introduction to Simulation using R https://speakerdeck.com/cjbayesian/introduction-to-simulation-using-r #rstats
+315498253036683266  Mar 23 12:20  @barbosaandres    RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315498319013101570  Mar 23 12:20  @barbosaandres    My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats -- ecolandlab (@ecolan…
+315500450340294657  Mar 23 12:29  @infixum          RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315512034076815360  Mar 23 13:15  @eddelbuettel     New Rcpp version 0.10.3 now on CRAN http://goo.gl/kYEoE #rstats #Rcpp
+315513086809346048  Mar 23 13:19  @Gliders_Coach    RT @eddelbuettel: New Rcpp version 0.10.3 now on CRAN http://goo.gl/kYEoE #rstats #Rcpp
+315514046759714816  Mar 23 13:23  @ctitusbrown      RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315514507717922816  Mar 23 13:24  @PhJulien         RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315522011873038336  Mar 23 13:54  @Rbloggers        Split, Apply, and Combine for ffdf:  (This article was first published on   Data and Analysis with R, ... http://bit.ly/10xlV21 #rstats
+315522013118750720  Mar 23 13:54  @Rbloggers        Production Quality Report with R and knitr on Yen:  (This article was first published on   Timely Port... http://bit.ly/10xlS6n #rstats
+315522014511247360  Mar 23 13:54  @Rbloggers        Rcpp 0.10.3:  (This article was first published on   Thinking inside the box   , and kindly contribute... http://bit.ly/10xlS6t #rstats
+315532403546390528  Mar 23 14:36  @millerdl         RT @gappy3000: so for #rstats we have R-ic, R-ese, R-ish, R人, useRs, Rgonauts, pirates. Curious about julialang coders too..
+315549402678837248  Mar 23 15:43  @HassanMamdani    Love the font and layout. Might steal this! “@Rbloggers: Production Quality Report with R and knitr on Yen: http://bit.ly/10xlS6n #rstats”
+315551942447353856  Mar 23 15:53  @LuwayneThomas    Just got my @coursera #DataAnalysis certificate. Wonderful feeling of accomplishment & discipline! Learnt so much #rstats & #BigData
+315556875427012609  Mar 23 16:13  @IronistM         Makes it easily on a researcher's toolset : World Bank API R package available! | R-Chart http://buff.ly/15wOVGJ #rstats
+315562729203183616  Mar 23 16:36  @rmcgibbo         RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315602898769825792  Mar 23 19:16  @treycausey       Plotting multiple ARIMA forecasts on the same plot with #rstats http://bit.ly/ZWTOr4
+315630912853393408  Mar 23 21:07  @fellgernon       Finally, posted my #NFL at half time #prediction work for #jhsph753!! http://goo.gl/fb/MWSSt 1st #shiny app :) hosted by #rstudio #rstats
+315630988145348611  Mar 23 21:07  @johannux         Proud to have passed Data Analysis taught by Jeff Leek of John Hopkins University @coursera  https://www.dropbox.com/s/eog4ee9xxh901mj/Data%20analysis%20certificate.pdf #dataanalysis #rstats
+315631761151369217  Mar 23 21:10  @M_T_Patterson    RT @dggoldst: Workshop on Crowdsourcing and Online Behavioral Experiments http://www.decisionsciencenews.com/2013/03/22/workshop-on-crowdsourcing-and-online-behavioral-experiments/ #RStats
+315652664048373760  Mar 23 22:33  @mspan            RT @burnsstat: The three-dots construct in R http://bit.ly/TWbLb6 #rstats
+315662802226384897  Mar 23 23:14  @manboubird       RT @siah: The ebook version of "Learning Statistics with R" is now free to download http://ow.ly/hK3QZ #rstats
+315665381610119169  Mar 23 23:24  @b1205            <3 #rstats RT @igrigorik: R-google-analytics: http://bit.ly/10yvC0h - accessing GA data right from within R! awesome stuff.
+315696742907670528  Mar 24 01:29  @openscience      RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://buff.ly/16P4zQY #rstats
+315701538251227136  Mar 24 01:48  @JoeyBernhardt    RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315704807254016001  Mar 24 02:01  @sessan60jp       RT @RevolutionR: The March 2013 Revolution Analytics newsletter is out! #rstats news, tips and events: http://bit.ly/ZhRiZS
+315707571371646976  Mar 24 02:12  @DrLyndonWalker   RT @RLangTip: R scripts for managing and processing data, with equivalent code in #SAS and #SPSS: http://bit.ly/11BYwhL #rstats
+315707637243183104  Mar 24 02:12  @DrLyndonWalker   RT @revodavid: Can it be done in R? There's a package for that! Great list of #rstats equivalents to #SAS/#SPSS from @BobMuenchen: http://t.co/ZJaaOE4q
+315716581344825344  Mar 24 02:47  @ChrisGandrud     Finally got around to put the repmis package on CRAN. InstallOldPackages, LoadandCite, source_data functions #rstats http://bit.ly/13n2ahA
+315732688877256704  Mar 24 03:51  @gsantosgo        Accessing Google Analytics data from the #RStats language https://code.google.com/p/r-google-analytics/ C This is a great job!
+315762926013272064  Mar 24 05:52  @frenchrh         RT @gsantosgo Accessing Google Analytics data from the #RStats language https://code.google.com/p/r-google-analytics/ C This is a great job!
+315779404779368448  Mar 24 06:57  @mspan            ErroR analysis for #machinelearning algos in R... with visualizations #rstats http://bit.ly/ZLs5dF
+315798658413113346  Mar 24 08:14  @gsantosgo        How-to. Resample from a Large Data Set in Parallel (with R on Hadoop) #rstats #hadoop http://blog.cloudera.com/blog/2013/02/how-to-resample-from-a-large-data-set-in-parallel-with-r-on-hadoop/ https://github.com/cloudera/poisson_sampling
+315802329003745281  Mar 24 08:28  @MikejMcDermott   @StuBearhop @BrendanGodley Might B of use 2 some your students #Rstats Course vids http://www.youtube.com/user/jtleek2007/videos?sort=dd&tag_id=UC8xNPQ-3a5t9uMU7Vah-jWA.3.coursera&view=46 Lect notes https://github.com/jtleek/dataanalysis
+315810414120300545  Mar 24 09:00  @larysar          RT @CjBayesian: Introduction to Simulation using R https://speakerdeck.com/cjbayesian/introduction-to-simulation-using-r #rstats
+315824346797072385  Mar 24 09:56  @muellern         RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+315826584898650114  Mar 24 10:05  @Biff_Bruise      MT @RDataMining Lecture videos of course Data Analysis (with R) now on YouTube: http://bit.ly/16PPtuI #rstats
+315827385834565632  Mar 24 10:08  @Rbloggers        Parsing complex text files using regular expressions and vectorization:  (This article was first publi... http://bit.ly/15Hnom2 #rstats
+315828450105634820  Mar 24 10:12  @ScottSibbel      RT @Biff_Bruise: MT @RDataMining Lecture videos of course Data Analysis (with R) now on YouTube: http://bit.ly/16PPtuI #rstats
+315829031490691074  Mar 24 10:14  @eddelbuettel     First upload of R 3.0.0 (as of rev62384) into #Debian unstable to prepare for April 3 release. #rstats
+315829696766042113  Mar 24 10:17  @treycausey       RT @gsantosgo Accessing Google Analytics data from the #RStats language https://code.google.com/p/r-google-analytics/ C This is a great job!
+315829990363107329  Mar 24 10:18  @adolfoalvarez    RT @treycausey: RT @gsantosgo Accessing Google Analytics data from the #RStats language https://code.google.com/p/r-google-analytics/ C This is a great job!
+315830404173139968  Mar 24 10:20  @kwcollins        RT @treycausey: RT @gsantosgo Accessing Google Analytics data from the #RStats language https://code.google.com/p/r-google-analytics/ C This is a great job!
+315833720525443073  Mar 24 10:33  @drewconway       RT @eddelbuettel: First upload of R 3.0.0 (as of rev62384) into #Debian unstable to prepare for April 3 release. #rstats
+315834176932814848  Mar 24 10:35  @hspter           RT @treycausey: RT @gsantosgo Accessing Google Analytics data from the #RStats language https://code.google.com/p/r-google-analytics/ C This is a great job!
+315834375415668738  Mar 24 10:35  @HidingInABunker  RT @eddelbuettel: First upload of R 3.0.0 (as of rev62384) into #Debian unstable to prepare for April 3 release. #rstats
+315836451768115201  Mar 24 10:44  @emisshula        RT @treycausey: RT @gsantosgo Accessing Google Analytics data from the #RStats language https://code.google.com/p/r-google-analytics/ C This is a great job!
+315839261184249856  Mar 24 10:55  @khan_io          RT @gsantosgo: Accessing Google Analytics data from the #RStats language https://code.google.com/p/r-google-analytics/ C This is a great job!
+315839335742205952  Mar 24 10:55  @khan_io          RT @gsantosgo: How-to. Resample from a Large Data Set in Parallel (with R on Hadoop) #rstats #hadoop http://blog.cloudera.com/blog/2013/02/how-to-resample-from-a-large-data-set-in-parallel-with-r-on-hadoop/ https://t.co/owtOgWj1OK
+315841484161167361  Mar 24 11:04  @WomenInStats     Plotting lm and glm models with ggplot #rstats http://fb.me/2yhHYngQd
+315852088645144576  Mar 24 11:46  @baogorek         RT @eddelbuettel: First upload of R 3.0.0 (as of rev62384) into #Debian unstable to prepare for April 3 release. #rstats
+315856171049312256  Mar 24 12:02  @recology_        Introduction to Simulation using #rstats http://wp.me/p1C5UP-dK via @cjbayesian
+315856284509409281  Mar 24 12:03  @gsantosgo        Big Data Machine Learning. Patterns for predictive analytics. #redcarfz @DZone #rstats #dataanalysis http://refcardz.dzone.com/refcardz/machine-learning-predictive
+315856380881956864  Mar 24 12:03  @Rbloggers        Web Hosted R Syntax Highlighter:  (This article was first published on   R Enthusiasts, and kindly con... http://bit.ly/11zBiK2 #rstats
+315857519471890432  Mar 24 12:07  @romain_francois  RT @eddelbuettel: New Rcpp version 0.10.3 now on CRAN http://goo.gl/kYEoE #rstats #Rcpp
+315860074801291264  Mar 24 12:18  @lucaborger       Cool! RT @recology_: Introduction to Simulation using #rstats http://wp.me/p1C5UP-dK  via @cjbayesian
+315860642986881026  Mar 24 12:20  @ricardojcolon    RT @lucaborger: Cool! RT @recology_: Introduction to Simulation using #rstats http://wp.me/p1C5UP-dK  via @cjbayesian
+315862825975296000  Mar 24 12:29  @desertnaut       RT @kaggle: Another kaggler creates an #rstats ensembling package: #caretEnsemble (#medley for caret models) http://ow.ly/iSIvF
+315866846807072768  Mar 24 12:44  @oazarate         Brought #Rstats work home with me - time to change all my reference file paths and install new libraries!
+315875270659809281  Mar 24 13:18  @coulmont         Directement de R vers du html/d3.js ! #rstats https://github.com/nachocab/clickme via @3wen
+315875945791774720  Mar 24 13:21  @cynorrhodon      Wowowow RT @coulmont Directement de R vers du html/d3.js ! #rstats https://github.com/nachocab/clickme via @3wen
+315875993963360257  Mar 24 13:21  @srsupp           @ethanwhite @caitpickens Yes, and for all you #rstats folks out there, PLEASE indent your code even though R doesn't force you! #goodstyle
+315880869426515968  Mar 24 13:40  @tomezard         RT @lucaborger: Cool! RT @recology_: Introduction to Simulation using #rstats http://wp.me/p1C5UP-dK  via @cjbayesian
+315884118418272257  Mar 24 13:53  @mgwhitfield      Looks useful > RT @recology_: Introduction to Simulation using #rstats http://wp.me/p1C5UP-dK via @cjbayesian
+315886748456611840  Mar 24 14:04  @Rbloggers        Not all proportion data are binomial outcomes:  (This article was first published on   Are you cereal?... http://bit.ly/11zTWBs #rstats
+315896776861302787  Mar 24 14:43  @c2graph          RT @estebanmoro: Temporal networks with igraph and R (with 20 lines of code!) http://markov.uc3m.es/2012/11/temporal-networks-with-igraph-and-r-with-20-lines-of-code/ #rstats #sna
+315897234006892544  Mar 24 14:45  @caitpickens      RT @srsupp: @ethanwhite @caitpickens Yes, and for all you #rstats folks out there, PLEASE indent your code even though R doesn't force you! #goodstyle
+315911107241975809  Mar 24 15:40  @jmgomez          RT @gsantosgo: How-to. Resample from a Large Data Set in Parallel (with R on Hadoop) #rstats #hadoop http://blog.cloudera.com/blog/2013/02/how-to-resample-from-a-large-data-set-in-parallel-with-r-on-hadoop/
+315938761198415872  Mar 24 17:30  @ramnath_vaidya   Slidify deck synchronized with video using PopcornJS (proof-of-concept) http://ramnathv.github.com/slidifyExamples/examples/popcornjs/#1 #rstats @simplystats
+315939098886021120  Mar 24 17:32  @CjBayesian       RT @ramnath_vaidya: Slidify deck synchronized with video using PopcornJS (proof-of-concept) http://ramnathv.github.com/slidifyExamples/examples/popcornjs/#1 #rstats @simplystats
+315942080398651393  Mar 24 17:43  @asedgwick        RT @PMeins: looks promising RT @recology_: "a package that lets u use #rstats objects as input 4 JavaScript visualizations" #d3js http://t.co/VyqwzVQ3UN
+315942683833151488  Mar 24 17:46  @phylorich        @_inundata Though not sure how many industry/CS folk know #rstats. They seem to hate it for some reason (perhaps they miss install probs?)
+315953701816778753  Mar 24 18:30  @quantlabs        Youtube video on #Quant finance #Rstats #Matlab #Meetup in New York April 24 2013? Let me know! http://ow.ly/jn2fG
+315974429668696064  Mar 24 19:52  @datacmdr         Just a little tutorial I wrote for psychology students who are just starting out with R. Pretty basic stuff. #rstats http://talklab.psy.gla.ac.uk/R
+315975690749083648  Mar 24 19:57  @rapporters       We've just deployed a redesigned, more responsive user interface with handy widgets in the sidebar to http://rapporter.net #rstats #cloud
+315985322045485056  Mar 24 20:35  @gjreda           That moment where you remember indexing in #rstats is not 0-based.
+315994925596545024  Mar 24 21:13  @treycausey       RT @gjreda That moment where you remember indexing in #rstats is not 0-based.
+316004134430072832  Mar 24 21:50  @Rbloggers        R Help tooltips:  (This article was first published on   R Enthusiasts, and kindly contributed to R-bl... http://bit.ly/15JbQP7 #rstats
+316008762274086912  Mar 24 22:08  @PlantDevo        RT @DanChitwood: Watch #ggplot2 and Bach dance together! My last one for awhile. Fugue No. 5 here: http://goo.gl/hV0jY #rstats #datavisualization #bach
+316072075158753282  Mar 25 02:20  @kateboersma      RT @CjBayesian: Introduction to Simulation using R https://speakerdeck.com/cjbayesian/introduction-to-simulation-using-r #rstats
+316088658971209728  Mar 25 03:26  @Rbloggers        Using R: reading tables that need a little cleaning:  (This article was first published on   There is ... http://bit.ly/ZOmdQJ #rstats
+316088660082708481  Mar 25 03:26  @Rbloggers        Writing a MS-Word document using R (with as little overhead as possible):  (This article was first pub... http://bit.ly/ZOmfZ4 #rstats
+316104989741301761  Mar 25 04:31  @nhcooper123      @AndrewLLJackson for your UG project student? RT “@CjBayesian: Introduction to Simulation using R https://speakerdeck.com/cjbayesian/introduction-to-simulation-using-r #rstats”
+316109695041564672  Mar 25 04:49  @StuBearhop       Ta @MikejMcDermott. @UoExeterCEC please RT  #Rstats Course vids http://www.youtube.com/user/jtleek2007/videos?sort=dd&tag_id=UC8xNPQ-3a5t9uMU7Vah-jWA.3.coursera&view=46 Lect notes https://github.com/jtleek/dataanalysis
+316115552563249152  Mar 25 05:13  @masemresearch    R-Statistics Blog: Writing a MS-Word document using #rstats | @scoopit http://sco.lt/7KOZQP
+316122077910401024  Mar 25 05:39  @gawbul           RT @BobMuenchen: #Rstats 2012 Growth in Capability Exceeds @SASsoftware All Time Total | http://r4stats.com http://bit.ly/r-2012-growth #analytics #bigdata
+316133932456357889  Mar 25 06:26  @MangoTheCat      Another great LondonR; large attendance showing the growth of interest in R http://goo.gl/X1aKx #Rstats http://t.co/nvZ2Zvn8JG
+316147730579865600  Mar 25 07:21  @Rbloggers        Does It Make Sense to Segment Using Individual Estimates from a Hierarchical Bayes Choice Model?:  (Th... http://bit.ly/X3yD8X #rstats
+316173659154837505  Mar 25 09:04  @cargomoose       My favourite "sales" material for R : google image search "ggplot" #rstats #ggplot2 @hadleywickham
+316176343488421892  Mar 25 09:14  @BrockTibert      Recommendations for **starter** book on getting my feet wet with bayesian analysis -- reference point is marketing/CRM-type work in #rstats
+316178478020038656  Mar 25 09:23  @larysar          RT @lucaborger: R2 for mixed models? Here are the functions for lme4/lme -- http://bit.ly/YuXsXp but don't forget the caveats ... #rstats
+316180521401073664  Mar 25 09:31  @treycausey       Wish something like this existed for #rstats. (Does it?) Step-wise visualization of execution and objects/values. http://bit.ly/16cE8Ue
+316184158865068032  Mar 25 09:45  @M_T_Patterson    A useful resource for estimating fixed effects and cluster-robust standard errors in R: http://bit.ly/14iYMn7 #Econometrics, #Rstats, #plm
+316184794557980673  Mar 25 09:48  @JohnCluverius    @M_T_Patterson how does it compare to apsrtable? #rstats
+316189194680672259  Mar 25 10:05  @kobriendublin    Writing up a list of handy, simple, but often overlooked R commands. So far jitter, edit, addmargins merge etc. Suggestions welcome #rstats
+316189243598835715  Mar 25 10:06  @hadleywickham    RT @cargomoose: My favourite "sales" material for R : google image search "ggplot" #rstats #ggplot2 @hadleywickham
+316190572870262785  Mar 25 10:11  @Nicolas_Fay      RT @datacmdr: Just a little tutorial I wrote for psychology students who are just starting out with R. Pretty basic stuff. #rstats http://t.co/B7QGZPxajj
+316196078003306497  Mar 25 10:33  @RickWicklin      Wesleyan prof to teach "Passion For #Statistics" MOOC using #SAS and #RStats  http://www.forbes.com/sites/tomgroenfeldt/2013/03/19/wesleyan-takes-a-passion-for-statistics-to-the-mooc-world-with-sas/
+316198980528766977  Mar 25 10:44  @tjmahr           Reading through the #rstats language definition on spring break
+316206905854922752  Mar 25 11:16  @GeorgiaMariani   RT @RickWicklin: Wesleyan prof to teach "Passion For #Statistics" MOOC using #SAS and #RStats  http://www.forbes.com/sites/tomgroenfeldt/2013/03/19/wesleyan-takes-a-passion-for-statistics-to-the-mooc-world-with-sas/
+316207937876029442  Mar 25 11:20  @Gliders_Coach    RT @kdnuggets: Check rOpenSci project - bridge between APIs & R #rstats:  Ajay Ohri interviews Karthik Ram, co-creator of rOpenSci http://t.co/GjTDOViMHs
+316208155145146368  Mar 25 11:21  @Gliders_Coach    RT @RickWicklin: Wesleyan prof to teach "Passion For #Statistics" MOOC using #SAS and #RStats  http://www.forbes.com/sites/tomgroenfeldt/2013/03/19/wesleyan-takes-a-passion-for-statistics-to-the-mooc-world-with-sas/
+316208323802329089  Mar 25 11:21  @Gliders_Coach    RT @cargomoose: My favourite "sales" material for R : google image search "ggplot" #rstats #ggplot2 @hadleywickham
+316208650966401026  Mar 25 11:23  @tanyacash21      RT @kdnuggets: Check rOpenSci project - bridge between APIs & R #rstats:  Ajay Ohri interviews Karthik Ram, co-creator of rOpenSci http://t.co/GjTDOViMHs
+316210678090326016  Mar 25 11:31  @wkmor1           @InsectEcology give "spgrass6" package a go sometime #rstats
+316216331013857281  Mar 25 11:53  @Altons           If R had an equiv object to #SAS Data Step for data processing would be unbeatable. SAS still king in this arena imhv #rstats
+316217465581481985  Mar 25 11:58  @drago_carlo      RT @Altons: If R had an equiv object to #SAS Data Step for data processing would be unbeatable. SAS still king in this arena imhv #rstats
+316218405172674560  Mar 25 12:01  @emilopezcano     RT @Altons: If R had an equiv object to #SAS Data Step for data processing would be unbeatable. SAS still king in this arena imhv #rstats
+316220536541835264  Mar 25 12:10  @ttso             The trouble w/ Rauma. Constructing RDF triples from @EuropeanaEU w/ rrdf etc http://tts2.blogspot.fi/2013/03/some-europeana-av-resources-related-to.html (@egonwillighagen) #rstats
+316221629950746625  Mar 25 12:14  @egonwillighagen  RT @ttso: The trouble w/ Rauma. Constructing RDF triples from @EuropeanaEU w/ rrdf etc http://tts2.blogspot.fi/2013/03/some-europeana-av-resources-related-to.html (@egonwillighagen) #rstats
+316221945370800128  Mar 25 12:16  @M_T_Patterson    RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+316221983287283712  Mar 25 12:16  @kaz_yos          RT @treycausey: Wish something like this existed for #rstats. (Does it?) Step-wise visualization of execution and objects/values. http://t.co/c6vMfmOiIJ
+316223449171390466  Mar 25 12:22  @M_T_Patterson    RT @kdnuggets: 10 R Packages that data scientists should know, and 10 more for anybody working in social sciences #rstats http://t.co/RE0CKbw39k
+316223710895931392  Mar 25 12:23  @sergey_tihon     R Type Provider in Action http://bit.ly/ZlxfgC #fsharp #rstats // cc @hmansell
+316223917259890689  Mar 25 12:23  @plepilov         RT @sergey_tihon: R Type Provider in Action http://bit.ly/ZlxfgC #fsharp #rstats // cc @hmansell
+316224033488252928  Mar 25 12:24  @Jowanza          RT @kdnuggets: 10 R Packages that data scientists should know, and 10 more for anybody working in social sciences #rstats http://t.co/RE0CKbw39k
+316224513190797312  Mar 25 12:26  @treycausey       Every so often, I find a procedure that takes a second in Excel but 10 lines of #rstats code and ten minutes of thinking. Personal failure.
+316227265233051648  Mar 25 12:37  @_NickGolding_    RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+316228187090718721  Mar 25 12:40  @AndrewLLJackson  RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+316228573209964544  Mar 25 12:42  @revodavid        @Altons There's a Data Step for #rstats in @RevolutionR called rxDataStep. Info in this white paper (direct link) http://bit.ly/MVK5dQ
+316232705849319425  Mar 25 12:58  @NPHard           Connecticut R Users Group Meetup tomorrow. #rstats http://lnkd.in/SneJ3B
+316235271366651904  Mar 25 13:08  @markschaver      "Writing a MS-Word document using R (with as little overhead as possible)" #rstats http://feedproxy.google.com/~r/RBloggers/~3/TivTbjbjnvw/
+316236086412201984  Mar 25 13:12  @revodavid        ICYMI: @rodzam'S #NCAA data visualizer for real-time statistical match-ups between #MarchMadness teams: http://bit.ly/ZhR4SB #rstats
+316236890485428225  Mar 25 13:15  @PMeins           For sharing w/ those who still need your report in Word: http://www.r-bloggers.com/writing-a-ms-word-document-using-r-with-as-little-overhead-as-possible/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29 #rstats "Writing a MS-Word document using R"
+316238212190310400  Mar 25 13:20  @bendmorris       RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+316239391267897344  Mar 25 13:25  @quantlabs        New York #Meetup for Apr 24 on #quant #finance and #Rstats #Matlab users  http://ow.ly/joHHC
+316239670256234496  Mar 25 13:26  @JakeRuss         5 hours to clean data and get it into the right shape, 10 minutes to get 30 plots. #ggplot2 #rstats
+316242007624413184  Mar 25 13:35  @RLangTip         How to generate random numbers in R: http://bit.ly/yGdRZ7 #rstats
+316244097138569217  Mar 25 13:44  @MikejMcDermott   RT @RLangTip: How to generate random numbers in R: http://bit.ly/yGdRZ7 #rstats
+316249325267218433  Mar 25 14:04  @kwcollins        RT @RLangTip: How to generate random numbers in R: http://bit.ly/yGdRZ7 #rstats
+316249612912570369  Mar 25 14:05  @inside_R         #rstats user group meetings this week: Amsterdam, Canberra, Dallas, Edmonton, LA, Seattle, Singapore, Stamford and Sydney...
+316250726697431040  Mar 25 14:10  @Gliders_Coach    RT @Altons: If R had an equiv object to #SAS Data Step for data processing would be unbeatable. SAS still king in this arena imhv #rstats
+316251754851356673  Mar 25 14:14  @DavidHaskiya     RT @ttso: The trouble w/ Rauma. Constructing RDF triples from @EuropeanaEU w/ rrdf etc http://tts2.blogspot.fi/2013/03/some-europeana-av-resources-related-to.html (@egonwillighagen) #rstats
+316255840191512576  Mar 25 14:30  @adrianaviteri    RT @RLangTip: How to generate random numbers in R: http://bit.ly/yGdRZ7 #rstats
+316256143112536065  Mar 25 14:31  @GraveleyLab      RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+316258453314207744  Mar 25 14:41  @chris_harrod     RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+316261122158252032  Mar 25 14:51  @Rbloggers        Submit a talk for the first R in Insurance conference:  (This article was first published on   mages' ... http://bit.ly/Zm8QYj #rstats
+316261123391365121  Mar 25 14:51  @Rbloggers        April 18, 2013Third Milano R net meeting: agenda:  (This article was first published on   Milano R net... http://bit.ly/Zm8ReA #rstats
+316261124544802818  Mar 25 14:51  @Rbloggers        Simpler R help tooltips:  (This article was first published on   R Enthusiasts, and kindly contributed... http://bit.ly/Zm8ReC #rstats
+316261735474536450  Mar 25 14:54  @DrColinBean      RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+316265180654891008  Mar 25 15:07  @srmulcahy        Plot confidence regions in ternary diagrams with #rstats http://srmulcahy.github.com/2013/03/23/ternary-ci-r.html
+316265973411901440  Mar 25 15:10  @HarlanH          #Rstats How to generate correlated multivariate uniformly-distributed random numbers http://bit.ly/YPYi06 http://t.co/67su0mCKz2
+316271827439742976  Mar 25 15:34  @arcalb           RT @RLangTip: How to generate random numbers in R: http://bit.ly/yGdRZ7 #rstats
+316272679663583233  Mar 25 15:37  @ZackBrym         RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+316276374254002176  Mar 25 15:52  @timpatten        RT @kdnuggets: 10 R Packages that data scientists should know, and 10 more for anybody working in social #rstats http://tmmy.me/15LG0RC
+316276915298267138  Mar 25 15:54  @ValisJason       .@xenocryptsite estimates produced via @kinggary ecological inference model with a geographically weighted covariant in @rstudioapp #rstats
+316277591126470656  Mar 25 15:57  @BioinfoTools     RT @_inundata: My lab group in Berkeley is looking for a strong R programmer. Apply or pass this on! http://bit.ly/Y4UFHP #rstats
+316278607548907520  Mar 25 16:01  @xieyihui         I'm wondering how I should cite #rstats reference classes in the references of a paper; simply citing R sounds too vague
+316281129235791872  Mar 25 16:11  @Rbloggers        Podcast #6: Data Analysis MOOC Post-mortem:  (This article was first published on   Simply Statistics ... http://bit.ly/X5uD7O #rstats
+316281597831823360  Mar 25 16:13  @IronistM         One of the rare times I tested for the difference of two #correlation coefficients. In case u need too... | http://bit.ly/14l0YuD #rstats
+316295992490209280  Mar 25 17:10  @geoffrey_stoel   #rstats I am working on a tutorial like blog post on 'apply functions in R for the uninitiated'. What would you like to share about them?
+316297449872441344  Mar 25 17:16  @timelyportfolio  very nicely done in #rstats Maximum Sharpe Portfolio http://bit.ly/Yur2lH
+316318415755309057  Mar 25 18:39  @DistribEcology   re-inventing the wheel....swap and fill algorithms for null models by hand #rstats.
+316318713865461761  Mar 25 18:40  @Rbloggers        Massive online data stream mining with R:  (This article was first published on   BNOSAC - Belgium Net... http://bit.ly/11Epqmc #rstats
+316327501515325440  Mar 25 19:15  @JodyEdmondson    #Rstats #bigdata @laserson post on using R to resample large data sets with #Hadoop: http://blog.cloudera.com/blog/2013/02/how-to-resample-from-a-large-data-set-in-parallel-with-r-on-hadoop/
+316328598321655809  Mar 25 19:19  @BrockTibert      Good post, great blog name! 4D pie charts FTW.  diff between with, within, and transform  in #rstats http://4dpiecharts.com/2011/04/29/friday-function-triple-bill-with-vs-within-vs-transform/
+316328968645144576  Mar 25 19:21  @BrockTibert      and to follow up..... ?attach in #rstats is the devil
+316329707945746432  Mar 25 19:24  @BrockTibert      But to my larger question... which do you prefer #rstats     ?within --or--  ?transform
+316339317981184002  Mar 25 20:02  @johnsarealtwit   Porting the wonderful Sofia library to #rstats Adding sparse matrix support and sparse kmeans intergration. Works! http://t.co/qn3mORlYch
+316341593898618880  Mar 25 20:11  @mizmay           What's "extreme heat" in San Francisco? Well 77°F puts it in the 95th percentile. 70°F by the beach. http://mapnostic.tumblr.com #Rstats #ggplot
+316354237867106305  Mar 25 21:01  @kunjee           RT @sergey_tihon: R Type Provider in Action http://bit.ly/ZlxfgC #fsharp #rstats // cc @hmansell
+316355528823541760  Mar 25 21:06  @mjturner99       RT @BrockTibert: Good post, great blog name! 4D pie charts FTW.  diff between with, within, and transform  in #rstats http://4dpiecharts.com/2011/04/29/friday-function-triple-bill-with-vs-within-vs-transform/
 316359100311154688  Mar 25 21:21  @johnsarealtwit   #rstats #rcpp tip. When access element of a matrix you must use (i,j) NOT [i,j] R style. This one got me for an hour. http://stackoverflow.com/questions/5931092/rcpp-matrix-loop-over-rows-one-column-at-a-time-easy-subscripting-question
 316363487712538625  Mar 25 21:38  @joshua_ulrich    @treycausey do you have a specific example in mind? #rstats
 316365003198443522  Mar 25 21:44  @romain_francois  Now showing tooltips on the R code section of the graph gallery page. #rstats #rgraphgallery #jquery http://t.co/nXfp77hSk8
