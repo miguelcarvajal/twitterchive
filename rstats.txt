@@ -1491,3 +1491,27 @@
 317611086763401216  Mar 29 08:15  @rmflight         RT @siah: The ebook version of "Learning Statistics with R" is now free to download http://ow.ly/hK3QZ #rstats
 317613235190759424  Mar 29 08:24  @CjBayesian       Got an introducty genetics review session coming up? Try demonstrating Hardy-Weinberg using simulation. #rstats http://bayesianbiologist.com/2011/06/13/using-simulation-to-demonstrate-theory-hardy-weinberg-equilibrium/
 317616741528248320  Mar 29 08:38  @Biff_Bruise      "@Rbloggers: Creating a Business Dashboard in R: http://bit.ly/YKU94g #rstats" Decent starting point, but significant red/green issue.
+317630000998268929  Mar 29 09:31  @M_T_Patterson    (Just for fun)  The adventure of writing code : http://www.r-bloggers.com/swimming-in-a-sea-of-code/ #RStats
+317631652299931651  Mar 29 09:37  @IBMbigdata       Agree? >> RT @revodavid: Lots of data isn't the same thing as #BigData, says @JoeRickert: http://bit.ly/1606waf #rstats
+317634275602223104  Mar 29 09:48  @raulpacheco      RT @BobMuenchen: Here's a nice example of how to call #Rstats from #Stata by @StatLore http://statlore.wordpress.com/2013/01/21/how-to-call-r-from-stata/
+317641555081052160  Mar 29 10:17  @samarthbhaskar   Does anyone have example code for a Shiny web app created and launched in #rstats? Tutorials are tex suxors and community doesn't yet exist.
+317645593235296256  Mar 29 10:33  @webcommunicatie  RT @/samarthbhaskar2013Does anyone have example code for a Shiny web app created and launched in #rstats? Tutorials are tex suxors an...
+317646445115219970  Mar 29 10:36  @alexhanna        Best #rstats question thus far RT @StackOverflowR: Drawing an excellent cow http://bit.ly/ZHzScD
+317646946510700544  Mar 29 10:38  @treycausey       Knew account would pay off RT @alexhanna: Best #rstats question thus far RT @StackOverflowR: Drawing an excellent cow http://bit.ly/11VlQZ1
+317653735193075712  Mar 29 11:05  @davidcoallier    Build a search engine in 20 minutes or less: http://anythingbutrbitrary.blogspot.ie/2013/03/build-search-engine-in-20-minutes-or.html #rstats #bigdata ;)
+317657134303170561  Mar 29 11:18  @tanyacash21      Drawing an excellent cow in #rstats http://stackoverflow.com/questions/15705301/drawing-an-excellent-cow
+317660362562469889  Mar 29 11:31  @lopantano        RT @RLangTip: List of R functions and packages for robust statistics: http://bit.ly/zhOVTI #rstats
+317661017394016256  Mar 29 11:34  @jugander         #rstats : Can anyone recommend a good host for playing with Shiny server? I considered ds.js, but porting my code to it would be hell.
+317663912994676736  Mar 29 11:45  @ramnath_vaidya   Embed D3.js animation in Slidify https://github.com/ramnathv/slidifyExamples/wiki/Embed-D3.js-Animations-in-Slidify #rstats #slidify
+317668823790665728  Mar 29 12:05  @DMastroianni     RT @ramnath_vaidya: Embed D3.js animation in Slidify https://github.com/ramnathv/slidifyExamples/wiki/Embed-D3.js-Animations-in-Slidify #rstats #slidify
+317668896960303104  Mar 29 12:05  @RLangTip         Check availability status of CRAN mirrors: http://bit.ly/zZ4eL3 #rstats
+317671480773193728  Mar 29 12:15  @csvsoundsystem   chernoff cows? cc @thomaslevine MT @tanyacash21: Drawing an excellent cow in #rstats http://stackoverflow.com/questions/15705301/drawing-an-excellent-cow
+317681366244421632  Mar 29 12:55  @abmathewks       Anything but R-bitrary: Build a search engine in 20 minutes or less http://anythingbutrbitrary.blogspot.com/2013/03/build-search-engine-in-20-minutes-or.html?spref=tw #rstats
+317688681072820226  Mar 29 13:24  @chriscesar       RT @M_T_Patterson: (Just for fun)  The adventure of writing code : http://www.r-bloggers.com/swimming-in-a-sea-of-code/ #RStats
+317690880813330432  Mar 29 13:33  @HarlanH          #Rstats painfully_slow_model_fit(); system("say your painfully slow model fit is done")
+317698676262842368  Mar 29 14:04  @Rbloggers        Open Data Exchange 2013, April 6. Montreal:  (This article was first published on   bayesianbiologist ... http://bit.ly/164J6QU #rstats
+317700349068722179  Mar 29 14:10  @AStavrakoudis    The Elements of Statistical Learning: Data Mining, Inference, and Prediction. http://www-stat.stanford.edu/~tibs/ElemStatLearn/ #statistics #rstats
+317702096386420736  Mar 29 14:17  @jaimefitzgerald  "@cargomoose: My favourite "sales" material for R : google image search "ggplot" #rstats #ggplot2 @hadleywickham
+317702345049915394  Mar 29 14:18  @mizmay           Analysis of the Facebook profile pic changes in support of marriage equality by @eytan #FacebookDataScience #ggplot #rstats
+317702484787331072  Mar 29 14:19  @chlalanne        RT @abmathewks: Anything but R-bitrary: Build a search engine in 20 minutes or less http://anythingbutrbitrary.blogspot.com/2013/03/build-search-engine-in-20-minutes-or.html?spref=tw #rstats
+317712126359769088  Mar 29 14:57  @rmflight         RT @jaimefitzgerald: "@cargomoose: My favourite "sales" material for R : google image search "ggplot" #rstats #ggplot2 @hadleywickham
