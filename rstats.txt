@@ -1515,3 +1515,57 @@
 317702345049915394  Mar 29 14:18  @mizmay           Analysis of the Facebook profile pic changes in support of marriage equality by @eytan #FacebookDataScience #ggplot #rstats
 317702484787331072  Mar 29 14:19  @chlalanne        RT @abmathewks: Anything but R-bitrary: Build a search engine in 20 minutes or less http://anythingbutrbitrary.blogspot.com/2013/03/build-search-engine-in-20-minutes-or.html?spref=tw #rstats
 317712126359769088  Mar 29 14:57  @rmflight         RT @jaimefitzgerald: "@cargomoose: My favourite "sales" material for R : google image search "ggplot" #rstats #ggplot2 @hadleywickham
+317713077200093186  Mar 29 15:01  @genspire         Besides Big Data, there is #FastData: stream R package is for massive online stream data mining #rstats http://bit.ly/14zlojL
+317716615015829504  Mar 29 15:15  @abmathewks       Hey #rstats users, if you're not following @Rbloggers you're missing out. http://www.r-bloggers.com/
+317725516562055169  Mar 29 15:50  @Richard_Weber    RT @kdnuggets: Besides Big Data, there is #FastData:  stream R package is for massive online stream data mining #rstats http://t.co/7Fes1Q6WmP
+317727446961115138  Mar 29 15:58  @nyhackr          Come see @thomaslevine & @brianabelson discuss music videos in #rstats http://bit.ly/1657jqi
+317728921594503168  Mar 29 16:04  @Gliders_Coach    I feel, in 2013 , while Data Storage goes No SQL, statistical computing comes closer to SQL #rstats #python
+317730659877658625  Mar 29 16:11  @Rbloggers        Julia builds for Ubuntu precise/quantal:  (This article was first published on   OpenCPU » R-bloggers,... http://bit.ly/11Wplyj #rstats
+317736004104617985  Mar 29 16:32  @recology_        RT @ramnath_vaidya: Embed D3.js animation in Slidify https://github.com/ramnathv/slidifyExamples/wiki/Embed-D3.js-Animations-in-Slidify #rstats #slidify
+317737099849789440  Mar 29 16:36  @Kikapp           Writing a wrapper function for paste0() called pasteo(), will likely save me an hour's worth of time over the rest of my life. #rstats
+317740777239363585  Mar 29 16:51  @eddelbuettel     R/Finance 2013 registration is now open -- more at http://goo.gl/qVG0e #rstats #rfinance
+317740929081544704  Mar 29 16:51  @zentree          RT @abmathewks: Anything but R-bitrary: Build a search engine in 20 minutes or less http://anythingbutrbitrary.blogspot.com/2013/03/build-search-engine-in-20-minutes-or.html?spref=tw #rstats
+317741608864993280  Mar 29 16:54  @statalgo         RT @eddelbuettel: R/Finance 2013 registration is now open -- more at http://goo.gl/qVG0e #rstats #rfinance
+317744236474793984  Mar 29 17:05  @inside_R         RT @eddelbuettel: R/Finance 2013 registration is now open -- more at http://goo.gl/qVG0e #rstats #rfinance
+317744624489869312  Mar 29 17:06  @isomorphisms     Surprised there is no ?numbers in #Rstats the way there are ?letters and ?months.
+317744881697181697  Mar 29 17:07  @tallent_e        RT @eddelbuettel: R/Finance 2013 registration is now open -- more at http://goo.gl/qVG0e #rstats #rfinance
+317746017976074240  Mar 29 17:12  @harunozkan       RT @eddelbuettel: R/Finance 2013 registration is now open -- more at http://goo.gl/qVG0e #rstats #rfinance
+317746393689231361  Mar 29 17:13  @benmazzotta      RT @eddelbuettel: R/Finance 2013 registration is now open -- more at http://goo.gl/qVG0e #rstats #rfinance
+317748214495326208  Mar 29 17:20  @Rbloggers        R / Finance 2013 Open for Registration:  (This article was first published on   Thinking inside the bo... http://bit.ly/XpBpWg #rstats
+317750915081859073  Mar 29 17:31  @eg_mast3r        RT @ramnath_vaidya: Embed D3.js animation in Slidify https://github.com/ramnathv/slidifyExamples/wiki/Embed-D3.js-Animations-in-Slidify #rstats #slidify
+317752438717284353  Mar 29 17:37  @emilopezcano     RT @eddelbuettel: R/Finance 2013 registration is now open -- more at http://goo.gl/qVG0e #rstats #rfinance
+317752888707403777  Mar 29 17:39  @AmeliaMN         Just getting to know the difference between depends and import in #rstats and I'm already frustrated.
+317754737263009792  Mar 29 17:46  @johannux         RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+317759869136556033  Mar 29 18:07  @chlalanne        RT @revodavid: Lots of data isn't the same thing as #BigData, says @joerickert: http://bit.ly/1606waf #rstats
+317761069730902016  Mar 29 18:11  @moorejh          #datascience RT @revodavid: Lots of data isn't the same thing as #BigData, says @joerickert: http://bit.ly/1606waf #rstats
+317761229802332160  Mar 29 18:12  @revodavid        Facebook data scientist @eytan analyses profile pic changes, finds support for same sex marriage USA-wide: http://bit.ly/ZJuxlg #rstats
+317763238441914369  Mar 29 18:20  @bushrazmat       RT @moorejh: #datascience RT @revodavid: Lots of data isn't the same thing as #BigData, says @joerickert: http://bit.ly/1606waf #rstats
+317764501447536641  Mar 29 18:25  @abresler         Big #Brooklynnets game tonight-had to mock up this #rstats viz quickly because I expect another big game from him?? http://t.co/o9GPbSLq3W
+317764592778502146  Mar 29 18:25  @joshua_ulrich    R/Finance 2013 registration is open. Hope to see you there! http://goo.gl/m0FDB #rstats #rfinance
+317771833904599040  Mar 29 18:54  @johannux         RT @RLangTip: The lubridate package simplifies operations on dates and times: http://bit.ly/zIdY6J #rstats
+317786142504284160  Mar 29 19:51  @hadleywickham    the only thing worse than polishing ggplot2 graphics for publication: polishing base graphics. I've just done both :/ #rstats
+317792283976163333  Mar 29 20:15  @brianabelson     RT @nyhackr: Come see @thomaslevine & @brianabelson discuss music videos in #rstats http://bit.ly/1657jqi
+317799018619076608  Mar 29 20:42  @thomaslevine     RT @nyhackr: Come see @thomaslevine & @brianabelson discuss music videos in #rstats http://bit.ly/1657jqi
+317803692881498113  Mar 29 21:01  @datailluminator  Visualizing Farmers' Markets Geo Data  http://bit.ly/WUrbOf          #rstats #viz #farmers #maps #wine #vegetables #food  #google
+317832375763619840  Mar 29 22:55  @zenrhino         Bummed to find out the PBSmapping package in #RStats doesn't provide maps of Sesame Street or even Mr. Rogers' Neighborhood.
+317834279105216512  Mar 29 23:02  @sc_evans         RT @zenrhino: Bummed to find out the PBSmapping package in #RStats doesn't provide maps of Sesame Street or even Mr. Rogers' Neighborhood.
+317835015608205312  Mar 29 23:05  @hoxo_m           RT @RLangTip: The lubridate package simplifies operations on dates and times: http://bit.ly/zIdY6J #rstats
+317904050282708992  Mar 30 03:40  @Rbloggers        Identify 2/3 vacation photos, win $5 Starbucks gift card:  (This article was first published on   BioS... http://bit.ly/112zkzr #rstats
+317908337830293505  Mar 30 03:57  @dphdk            #ggplot2 making me a convert to R #rstats. Question is if its a good idea when ETA of the phd is 10 months? :-)
+317921266990460928  Mar 30 04:48  @useR_2013        #useR2013 #rstats international conference is approaching. Have you already sent your abstract? Hurry up! http://www.r-project.org/useR-2013/
+317921469076213760  Mar 30 04:49  @emilopezcano     RT @useR_2013: #useR2013 #rstats international conference is approaching. Have you already sent your abstract? Hurry up! http://t.co/brrvsMCGTX
+317930762114576384  Mar 30 05:26  @Malarky67        #rstats what is the point of Julia when we have Rcpp ? not a computer guy so am I missing something?
+317939128547295232  Mar 30 05:59  @portfolioprobe   RT @eddelbuettel: R/Finance 2013 registration is now open -- more at http://goo.gl/qVG0e #rstats #rfinance
+317940922316898304  Mar 30 06:06  @CMastication     RT @eddelbuettel: R/Finance 2013 registration is now open -- more at http://goo.gl/qVG0e #rstats #rfinance
+317943485237968896  Mar 30 06:16  @msgbi            RT @revodavid: Lots of data isn't the same thing as #BigData, says @joerickert: http://bit.ly/1606waf #rstats
+317968860999475200  Mar 30 07:57  @iantist          RT @eddelbuettel: R/Finance 2013 registration is now open -- more at http://goo.gl/qVG0e #rstats #rfinance
+317979634631327745  Mar 30 08:40  @frenchrh         RT @rmflight RT @siah: The ebook version of "Learning Statistics with R" is now free to download http://ow.ly/hK3QZ #rstats
+317982291056021504  Mar 30 08:51  @emilopezcano     @useR_2013: #useR2013 #rstats international conference is approaching. Have you already sent your abstract? Hurry up! http://www.r-project.org/useR-2013/
+317985446867116034  Mar 30 09:03  @Piboonrungroj    Special Session for MFU MBA in logistics & supply chain management - "Econometrics with R for IS and Thesis" #rstats  http://pairach.com/rstats-dissertation-mfu-mba-lscm/
+317990697271689216  Mar 30 09:24  @furukama         Analyzing support for same-sex marriage with R RT @revodavid ... @eytan analyses profile pic changes ... http://flip.it/jKVAY #rstats
+317998576531812353  Mar 30 09:55  @jmgomez          RT @kdnuggets Besides BigData, there is #FastData stream R pkg for massive online stream #datamining #rstats http://bit.ly/14zlojL / @mspan
+318003913364209664  Mar 30 10:16  @richierocks      Today is the last day to submit abstracts for #rstats #user2013
+318009323018153986  Mar 30 10:38  @jbkunst          RT @ramnath_vaidya: Embed D3.js animation in Slidify https://github.com/ramnathv/slidifyExamples/wiki/Embed-D3.js-Animations-in-Slidify #rstats #slidify
+318013234269523968  Mar 30 10:53  @Rbloggers        the catR package for Computer Adaptive Test design:  (This article was first published on   Econometri... http://bit.ly/ZMUTme #rstats
+318019331168555008  Mar 30 11:18  @gsantosgo        RT @kdnuggets Besides BigData, there is #FastData stream R pkg for massive online stream #datamining #rstats http://bit.ly/14zlojL / @mspan
+318037907774525441  Mar 30 12:32  @skardhamar       Facebook profile photo changes reveal trends in support for same-sex marriage - http://blog.revolutionanalytics.com/2013/03/facebook-profile-photo-changes-reveal-trends-in-support-for-same-sex-marriage.html #rstats
