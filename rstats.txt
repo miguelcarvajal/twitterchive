@@ -1569,3 +1569,26 @@
 318013234269523968  Mar 30 10:53  @Rbloggers        the catR package for Computer Adaptive Test design:  (This article was first published on   Econometri... http://bit.ly/ZMUTme #rstats
 318019331168555008  Mar 30 11:18  @gsantosgo        RT @kdnuggets Besides BigData, there is #FastData stream R pkg for massive online stream #datamining #rstats http://bit.ly/14zlojL / @mspan
 318037907774525441  Mar 30 12:32  @skardhamar       Facebook profile photo changes reveal trends in support for same-sex marriage - http://blog.revolutionanalytics.com/2013/03/facebook-profile-photo-changes-reveal-trends-in-support-for-same-sex-marriage.html #rstats
+318047880998973440  Mar 30 13:11  @sc_evans         I'm tempted to try data.table today. Is it really just faster/more efficient than DFs? Any caveats I should be aware of? #Rstats
+318049412217704450  Mar 30 13:17  @genetics_blog    20 nice #dataviz tools. #Rstats as a pro tool: http://www.netmagazine.com/features/top-20-data-visualisation-tools
+318051722490695680  Mar 30 13:26  @withbioinformat  RT @genetics_blog: 20 nice #dataviz tools. #Rstats as a pro tool: http://www.netmagazine.com/features/top-20-data-visualisation-tools
+318052814398058496  Mar 30 13:31  @jebibault        RT @genetics_blog: 20 nice #dataviz tools. #Rstats as a pro tool: http://www.netmagazine.com/features/top-20-data-visualisation-tools
+318059532507029506  Mar 30 13:57  @NEdgingtonPhD    RT @genetics_blog: 20 nice #dataviz tools. #Rstats as a pro tool: http://www.netmagazine.com/features/top-20-data-visualisation-tools
+318071782873649152  Mar 30 14:46  @datailluminator  Visualizing Farmers' Markets Geo Data  http://bit.ly/WUrbOf #rstats #viz #farmers #maps #wine #vegetables #food  #google #farmersmarkets
+318073896521830400  Mar 30 14:55  @MMA_CRM          RT @RLangTip: List of R packages for survival analysis, censored data, and failure time modeling: http://bit.ly/A6eN6I #rstats
+318075088266207234  Mar 30 14:59  @MMA_CRM          RT @kdnuggets: R #rstats capability (packages) grows exponentially, added more packages in 2012 than all SAS functions http://t.co/whATUX17hC
+318091309879525376  Mar 30 16:04  @fellgernon       RT @useR_2013: #useR2013 #rstats international conference is approaching. Have you already sent your abstract? Hurry up! http://t.co/brrvsMCGTX
+318105542130294784  Mar 30 17:00  @EstadisticaUVa   RT @useR_2013: #useR2013 #rstats international conference is approaching. Have you already sent your abstract? Hurry up! http://t.co/brrvsMCGTX
+318147753685426176  Mar 30 19:48  @jonsedar         Then wrap in knitr to make great PDF reports “@Kikapp: @hild0146 xtable creates html / LaTeX tables from data tables and matrices.” #rstats
+318148357782654976  Mar 30 19:50  @Rbloggers        RSAGA: Getting Started:  (This article was first published on   Misanthrope's Thoughts, and kindly con... http://bit.ly/10bXG8y #rstats
+318155592936091648  Mar 30 20:19  @sharon000        Mapping farmers market data with R http://bit.ly/WUrbOf #dataviz by @datailluminator #rstats #gis
+318164110338560000  Mar 30 20:53  @IronistM         @johannux @hadleywickham #rstats heil to the (always) great R community :-)
+318229942397726721  Mar 31 01:15  @alexcpsec        Level of frustration with #rstats (lack of) speed = downloading #julialang
+318245275946864642  Mar 31 02:16  @askeluv          @jonsedar Broaden your #rstats horizon with @DailyRpackage ! #sorryforsoundinglikespam
+318264962919301120  Mar 31 03:34  @jonsedar         Alright, I will :) “@askeluv: @jonsedar Broaden your #rstats horizon with @DailyRpackage ! #sorryforsoundinglikespam”
+318276373808553985  Mar 31 04:19  @KCoussement      RT @kdnuggets: R #rstats capability (packages) grows exponentially, added more packages in 2012 than all SAS functions http://t.co/whATUX17hC
+318297852583485441  Mar 31 05:44  @yoavram          How to plot with #ggplot2 from IPython notebook http://nbviewer.ipython.org/5280132 #python #ipynb #rstats #ipython
+318302320423206912  Mar 31 06:02  @darrenjw         Introduction to Approximate Bayesian Computation (ABC) using #rstats -  http://wp.me/pB0wL-iN
+318310546074136578  Mar 31 06:35  @osazuwa          #Rstats #igraph quick and dirty tutorial for visualizing 6 degrees of separation in a network  http://ow.ly/jBp5K
+318334478495916033  Mar 31 08:10  @rouli            RT @yoavram: How to plot with #ggplot2 from IPython notebook http://nbviewer.ipython.org/5280132 #python #ipynb #rstats #ipython
+318338668152619009  Mar 31 08:27  @gappy3000        @vsbuffalo pet project: an anthology of the best Ripley moments from 15 years of mailing lists. That's something really unique to #rstats

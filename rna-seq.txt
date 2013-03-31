@@ -529,3 +529,19 @@
 318045055401222144  Mar 30 13:00  @figshare         RT @mitramith: Nice flowchart for quick reference. “@figshare: RNA-seq Workflows and Tools: http://shar.es/d2D8k #statistics #bioinformatics”
 318046309561032704  Mar 30 13:05  @nailest          RT @mitramith: Nice flowchart for quick reference. “@figshare: RNA-seq Workflows and Tools: http://shar.es/d2D8k #statistics #bioinformatics”
 318046627304730624  Mar 30 13:06  @sujaik           RT @mitramith: Nice flowchart for quick reference. “@figshare: RNA-seq Workflows and Tools: http://shar.es/d2D8k #statistics #bioinformatics”
+318065119894568960  Mar 30 14:20  @Bioconductor     http://bioconductor.org/packages/2.12/bioc/html/SeqGSEA.html SeqGSEA Gene Set Enrichment Analysis (GSEA) of RNA-Seq…
+318066871482073088  Mar 30 14:27  @antiplastics     RT @Bioconductor: http://bioconductor.org/packages/2.12/bioc/html/SeqGSEA.html SeqGSEA Gene Set Enrichment Analysis (GSEA) of RNA-Seq…
+318067512740835328  Mar 30 14:29  @CancerComputeCl  MP1 primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 95903328 aligned reads, 75.18% clonal; CuffLinks: OK
+318073203408912384  Mar 30 14:52  @seandavis12      New to #bioconductor http://bioconductor.org/packages/2.12/bioc/html/SeqGSEA.html SeqGSEA Gene Set Enrichment Analysis (GSEA) of RNA-Seq…
+318081652289060864  Mar 30 15:25  @CancerComputeCl  MP4 primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 101935859 aligned reads, 75.13% clonal; CuffLinks: OK
+318116726871035904  Mar 30 17:45  @CancerComputeCl  MP2 primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 89858032 aligned reads, 76.77% clonal; CuffLinks: OK
+318133944732250113  Mar 30 18:53  @CancerComputeCl  MP5 primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 80197796 aligned reads, 77.11% clonal; CuffLinks: OK
+318144402767896576  Mar 30 19:35  @aemonten         CRAC: an integrated approach to the analysis of RNA-seq reads http://bit.ly/10bVFct
+318145137228263425  Mar 30 19:38  @rnomics          #RNA-seq Workflows and Tools: http://figshare.com posted by friends:  (1)... http://bit.ly/13FozqA #rnomics_bioinfo @MyEN
+318147857796431872  Mar 30 19:48  @fukuit           RT @Bioconductor: http://bioconductor.org/packages/2.12/bioc/html/SeqGSEA.html SeqGSEA Gene Set Enrichment Analysis (GSEA) of RNA-Seq…
+318153780476653568  Mar 30 20:12  @CancerComputeCl  MP3 primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 90653254 aligned reads, 74.45% clonal; CuffLinks: OK
+318168813948510208  Mar 30 21:12  @Articles4Serps   RT @rnomics: #RNA-seq Workflows and Tools: http://figshare.com posted by friends:  (1)... http://bit.ly/13FozqA #rnomics_bioinfo @MyEN
+318173375979737089  Mar 30 21:30  @CancerComputeCl  MP6 primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 87729544 aligned reads, 74.78% clonal; CuffLinks: OK
+318205904094887937  Mar 30 23:39  @Symbionticism    Curious program name that is not an april fool's joke - CRAC: an integrated approach to the analysis of RNA-seq http://buff.ly/168Z9NN
+318251385336500224  Mar 31 02:40  @SpunkyScientist  RT @Symbionticism: Curious program name that is not an april fool's joke - CRAC: an integrated approach to the analysis of RNA-seq http://t.co/YpMBYRJ39Y
+318332656653852673  Mar 31 08:03  @gawbul           RNA-Seq Mapping Errors When Using Incomplete Reference Transcriptomes of  Vertebrates http://arxiv.org/abs/1303.2411 #arXiv via @ctitusbrown
