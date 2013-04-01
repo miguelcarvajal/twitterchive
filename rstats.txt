@@ -1662,3 +1662,60 @@
 318670949518032898  Apr  1 06:27  @CMastication     RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
 318690402964226048  Apr  1 07:44  @portfolioprobe   A pictorial history of US large cap correlation http://bit.ly/ZwbTcY #quant #finance #rstats
 318703577638006785  Apr  1 08:37  @noticiasSobreR   rPython ya está en CRAN: Después de bastante trabajo, rPython ya está disponible en CRAN, ya es un paq... http://tinyurl.com/d2km5oy #rstats
+318710983973560321  Apr  1 09:06  @CjBayesian       Mini #rstats hackathon this Weds. eve. We'll dive into some data and see what we can find! http://www.meetup.com/Montreal-R-User-Group/events/108945922/ @notman @RusersMtl
+318716959413907456  Apr  1 09:30  @genetics_blog    It's a good thing #Rstats 3.0.0 final release is Wednesday, #notaprilfools  http://www.r-project.org/
+318719033732120576  Apr  1 09:38  @Rbloggers        The R-Podcast Episode 12: Using Version Control with R:  (This article was first published on   The R-... http://bit.ly/XAHMGk #rstats
+318719442110533633  Apr  1 09:40  @siah             The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318719773112418304  Apr  1 09:41  @frankwwu         RT @gagliol: R Graphical Manual, yet another good site to learn #rstats graphics by example http://rgm2.lab.nig.ac.jp/RGM2/
+318719910937260032  Apr  1 09:42  @arnicas          RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318719931871014913  Apr  1 09:42  @JeremyHouska     RT @siah The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ  #rstats
+318719953102581760  Apr  1 09:42  @LJVillanuevaSci  RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318719953110978560  Apr  1 09:42  @ljvillanueva     RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318720029648621569  Apr  1 09:42  @gepasi           RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318720136179748866  Apr  1 09:42  @hakmem           RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318720864738762753  Apr  1 09:45  @JDHL18           "@siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats" RT @gepasi
+318721833966919680  Apr  1 09:49  @BobMuenchen      #Rstats Tackles Big Garbage!  #BigData #Analytics @SASsoftware  http://bit.ly/BigGarbage
+318723184427954176  Apr  1 09:55  @alexhutton       RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318725036653559808  Apr  1 10:02  @gjuggler         RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318725203335204866  Apr  1 10:03  @atulbutte        RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318725484101918720  Apr  1 10:04  @dgermain21       RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318726734931456002  Apr  1 10:09  @jasonpbecker     I can finally use R for serious analysis thanks to the brand new ggply function with VBA plugin! http://r4stats.com/2013/03/01/r-tackles-big-garbage/ #rstats
+318726760852226049  Apr  1 10:09  @laurieskelly     RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318727436240031744  Apr  1 10:11  @Janis3_14159     RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318728890598162432  Apr  1 10:17  @nextgenseek      RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318729477607792641  Apr  1 10:20  @jacarrico        RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318731477892354048  Apr  1 10:28  @baogorek         Logistic regression tip in R: plogis(x) is the same as exp(x)/(1 + exp(x)), the logistic function. #rstats
+318733340398215168  Apr  1 10:35  @infotroph        Hey #Rstats: Where do I read up on post-hoc comparisons between groups w/ differing variance? Can't decide if glht is doing what I need.
+318733345670443009  Apr  1 10:35  @Shirin_Homa      RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318734527969255425  Apr  1 10:40  @twitt1388        RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318735495792308225  Apr  1 10:43  @davetangdotorg   RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318736247285760000  Apr  1 10:46  @miguelacevedopr  RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318740488872144896  Apr  1 11:03  @doikon           RT @siah: The ebook for "Learning Statistics with R" is available for free http://ow.ly/jCmoJ #rstats
+318743493461803010  Apr  1 11:15  @rvimieiro        RT @genetics_blog: It's a good thing #Rstats 3.0.0 final release is Wednesday, #notaprilfools  http://www.r-project.org/
+318744395979571200  Apr  1 11:19  @Aidan_M_Keith    RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318746934900842496  Apr  1 11:29  @revodavid        RT @BobMuenchen: #Rstats Tackles Big Garbage!  #BigData #Analytics @SASsoftware  http://bit.ly/BigGarbage
+318749725039935489  Apr  1 11:40  @RevolutionR      RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318750407809699841  Apr  1 11:43  @revodavid        Facebook uses #rstats to analyze profile picture changes, finds trends in support for #samesexmarriage http://bit.ly/ZJuxlg
+318750703805935616  Apr  1 11:44  @NestorMontano    RT @revodavid: Facebook uses #rstats to analyze profile picture changes, finds trends in support for #samesexmarriage http://bit.ly/ZJuxlg
+318750895296901120  Apr  1 11:45  @Minkoo           RT @revodavid: Facebook uses #rstats to analyze profile picture changes, finds trends in support for #samesexmarriage http://bit.ly/ZJuxlg
+318751163497472000  Apr  1 11:46  @levyrecruits     +1 RT @revodavid FB uses #rstats 2 analyze prof pic changes, finds trends in support 4 #samesexmarriage http://bit.ly/ZJuxlg cc @JoFrhwld
+318751379810299905  Apr  1 11:47  @DThatJones       RT @revodavid: Facebook uses #rstats to analyze profile picture changes, finds trends in support for #samesexmarriage http://bit.ly/ZJuxlg
+318751674787303424  Apr  1 11:48  @C_Bravo_R        RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318752200241344512  Apr  1 11:50  @kateboersma      R Programming Style Guide (aka What You Wish You Knew Earlier):  #rstats #hindsightis2020 http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html
+318752696016461824  Apr  1 11:52  @RyanGrannell     RT @BobMuenchen: #Rstats Tackles Big Garbage!  #BigData #Analytics @SASsoftware  http://bit.ly/BigGarbage
+318752868821786624  Apr  1 11:53  @cjpberry         RT @revodavid: Facebook uses #rstats to analyze profile picture changes, finds trends in support for #samesexmarriage http://bit.ly/ZJuxlg
+318753658181410816  Apr  1 11:56  @secretmirth      RT@siah: The ebook for "Learning Statistics with R" is available for free   http://bit.ly/1790PtY #rstats
+318753672123265025  Apr  1 11:56  @AliRebaie        "@revodavid: Facebook uses #rstats to analyze profile picture changes, finds trends in support for #samesexmarriage http://bit.ly/ZJuxlg"
+318753716993929217  Apr  1 11:56  @genetics_blog    SeqGSEA: Gene Set Enrichment Analysis w/ RNA-seq data http://bioconductor.org/packages/2.12/bioc/html/SeqGSEA.html #NGS #bioinformatics #rstats #bioconductor
+318754135887454208  Apr  1 11:58  @CjBayesian       If you have a cool data set, bring it along to the mini #rstats hackathon this Weds. eve. http://www.meetup.com/Montreal-R-User-Group/events/108945922/ …  @RusersMtl
+318755094004908033  Apr  1 12:01  @jwindz           RT @revodavid: Facebook uses #rstats to analyze profile picture changes, finds trends in support for #samesexmarriage http://bit.ly/ZJuxlg
+318755963920334848  Apr  1 12:05  @RLangTip         Access Bloomberg data from R with the Rbbg package. Get it with install.packages("Rbbg", repos = "http://r.findata.org") #rstats
+318757249868775426  Apr  1 12:10  @inside_R         #rstats meetups this week in Raleigh-Durham, Dublin, Montreal, Santa Barbara, NYC and Berkeley (http://bit.ly/9hVAPE)
+318757506358853632  Apr  1 12:11  @yannabraham      RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318760236347424768  Apr  1 12:22  @rguha            RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318764351844659200  Apr  1 12:38  @ge_parada        RT @genetics_blog: SeqGSEA: Gene Set Enrichment Analysis w/ RNA-seq data http://bioconductor.org/packages/2.12/bioc/html/SeqGSEA.html #NGS #bioinformatics #rstats #bioconductor
+318767617269706752  Apr  1 12:51  @ahs85            server monitoring using #rstats, #ggplot2, #knitr and #sqlite: http://www.ahschulz.de/2013/04/01/monitor-using-r-for-server-monitoring/
+318770477483032576  Apr  1 13:02  @dongwoo          RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318773370642636802  Apr  1 13:14  @b1205            RT @revodavid: Facebook uses #rstats to analyze profile picture changes, finds trends in support for #samesexmarriage http://bit.ly/ZJuxlg
+318780061501239296  Apr  1 13:41  @inside_R         New #rstats user groups in NZ, Thailand, S Africa, Belgium, Germany, Australia, Russia, USA: http://bit.ly/16rQCrd
+318780698322427904  Apr  1 13:43  @nhcooper123      RT @kateboersma: R Programming Style Guide (aka What You Wish You Knew Earlier):  #rstats #hindsightis2020 http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html
