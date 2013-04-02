@@ -1719,3 +1719,58 @@
 318773370642636802  Apr  1 13:14  @b1205            RT @revodavid: Facebook uses #rstats to analyze profile picture changes, finds trends in support for #samesexmarriage http://bit.ly/ZJuxlg
 318780061501239296  Apr  1 13:41  @inside_R         New #rstats user groups in NZ, Thailand, S Africa, Belgium, Germany, Australia, Russia, USA: http://bit.ly/16rQCrd
 318780698322427904  Apr  1 13:43  @nhcooper123      RT @kateboersma: R Programming Style Guide (aka What You Wish You Knew Earlier):  #rstats #hindsightis2020 http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html
+318801435049472001  Apr  1 15:05  @jacopoanselmi    RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318801984423620610  Apr  1 15:08  @jbkunst          El grupo de usuarios de R (#rstats) en Chile apareciendo en la intertents (http://blog.revolutionanalytics.com/2013/04/r-user-groups-continue-to-grow.html)
+318802119161438208  Apr  1 15:08  @ypriverol        RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+318804561206865920  Apr  1 15:18  @mianromu         Updating R (on Windows) through a menu-bar: installr 0.9 released on CRAN #rstats http://bit.ly/10t3b0b
+318811442251984896  Apr  1 15:45  @orlandomezquita  RT @BobMuenchen: #Rstats Tackles Big Garbage!  #BigData #Analytics @SASsoftware  http://bit.ly/BigGarbage
+318812828515577858  Apr  1 15:51  @genetics_blog    Code to create a limma expressionset object from Illumina BeadArray https://gist.github.com/stephenturner/4165059 #Rstats #bioconductor
+318813767821578241  Apr  1 15:55  @jjgibaja         RT @mianromu: Updating R (on Windows) through a menu-bar: installr 0.9 released on CRAN #rstats http://bit.ly/10t3b0b
+318815835072376832  Apr  1 16:03  @mattfrost        Unlikely #RStats use case: back-end production for @TheSlurve_  If you dig baseball, check it out.
+318816173946978308  Apr  1 16:04  @michaelbd        RT @mattfrost: Unlikely #RStats use case: back-end production for @TheSlurve_  If you dig baseball, check it out.
+318816301416062976  Apr  1 16:05  @TheSlurve_       True Story. Tech co-friend RT @mattfrost: Unlikely #RStats use case: back-end production for @TheSlurve_  If you dig baseball, check it out.
+318817400189489152  Apr  1 16:09  @mattfrost        Those of us who never use #RStats for statistics should have our own hashtag. Like #REverythingElse .
+318824278478962690  Apr  1 16:36  @datailluminator  Visualizing Farmers' Markets Geo Data  http://bit.ly/WUrbOf  #rstats #viz #farmers #maps #wine #vegetables #food  #google #farmersmarkets
+318834471510110208  Apr  1 17:17  @jacopoanselmi    RT @ahs85: server monitoring using #rstats, #ggplot2, #knitr and #sqlite: http://www.ahschulz.de/2013/04/01/monitor-using-r-for-server-monitoring/
+318837030937296897  Apr  1 17:27  @Rbloggers        R User Groups Continue to Grow:  (This article was first published on   Revolutions, and kindly contri... http://bit.ly/127ue7M #rstats
+318837032371765248  Apr  1 17:27  @Rbloggers        New Toy package wingui:  (This article was first published on   R Blog, and kindly contributed to R-bl... http://bit.ly/1295M1X #rstats
+318838256093495296  Apr  1 17:32  @MarkHornick      Have you taken the Rexer Analytics 2013 Data Miner Survey? Access Code: ER3X7 http://www.RexerAnalytics.com/Data-Miner-Survey-2013-Intro.html #datamining #RStats #advancedanalytics
+318843928805781504  Apr  1 17:54  @alexhanna        whenever I use binwidth + geom_histogram and I give it any parameter #rstats grinds to a halt. what gives?
+318844594144043009  Apr  1 17:57  @alexhanna        #ggplot2 #rstats data frame of 7k freezes R when I try to use geom_histogram() with a custom binwidth. what am I doin' wrong?
+318849256653991937  Apr  1 18:16  @causalityblog    RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318850274028564480  Apr  1 18:20  @alexhanna        Solved my #ggplot2 #rstats issue -- binwidth seems to hate lubridate date objects?
+318850361467219968  Apr  1 18:20  @zentree          Sure #Rstats, or your favorite stats package, is superior. However, for most people, Excel will be good-enough for quick and dirty.
+318853483388350464  Apr  1 18:32  @seandavis12      RT @genetics_blog: slick. RT @yoavram: How to plot with #ggplot2 from #IPython notebook http://nbviewer.ipython.org/5280132 #python #ipynb #rstats #dataviz
+318854073329799168  Apr  1 18:35  @flash_us         RT @portfolioprobe: A pictorial history of US large cap correlation http://bit.ly/ZwbTcY #quant #finance #rstats
+318858700964110336  Apr  1 18:53  @mc_hankins       RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318859999512240128  Apr  1 18:58  @rOpenSci         Need #SNPS data? ropensnp is now rsnps - now with @openSNPorg & Broad Institute SNP data http://bit.ly/14JnihI #rstats / @kevin_ushey
+318861613732089857  Apr  1 19:05  @BKDrinkwater     RT @zentree: Sure #Rstats, or your favorite stats package, is superior. However, for most people, Excel will be good-enough for quick and dirty.
+318868124428546048  Apr  1 19:30  @wesmckinn        RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318869126904942592  Apr  1 19:34  @Adrian_H         RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318872429902585858  Apr  1 19:48  @treycausey       @sean_forman @Neil_Paine My preferred method is #rstats, using rsql to interface with database.
+318884589647052800  Apr  1 20:36  @flash_us         RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318885705524846594  Apr  1 20:40  @Rbloggers        Le Monde puzzle [#814]:  (This article was first published on   Xi'an's Og » R, and kindly contributed... http://bit.ly/ZZIeN2 #rstats
+318886753954041856  Apr  1 20:45  @rcalsaverini     RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318893350503718912  Apr  1 21:11  @random_effects   RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+318902365862379520  Apr  1 21:47  @hadleywickham    if you use devtools, please consider trying the dev version (install_github("devtools")) and letting me know if you have problems #rstats
+318903417290510336  Apr  1 21:51  @geojulien        RT @datagistips: R et TileMill se promenaient dans les bois http://datagistips.blogspot.fr/2013/03/cartokilogrammes-de-bois.html #rstats #tilemill #mapnik http://t.co/peS0RsGrnQ
+318914934140440578  Apr  1 22:37  @StrictlyStat     RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+318920289868214272  Apr  1 22:58  @theoneamit       RT @RLangTip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+318921624365715457  Apr  1 23:03  @gappy3000        SciDB is a DBMS for large-scale out-of-core numerical computations. The #rstats API is finally here. Upcoming webinar:http://bit.ly/125EQ3g
+318926074501292032  Apr  1 23:21  @timabe           Predicting which #athletics pitcher threw the ball using pitchFx data and #rstats. Go A's! Happy #OpeningNight http://picklesanddata.com/data/
+318930601547800577  Apr  1 23:39  @jfreels4         And so it begins... Hello World! in shiny with #d3js. http://glimmer.rstudio.com/jfreels/d3js_helloWorld/ #rstats #rstudio @timelyportfolio
+318938899831480322  Apr  2 00:12  @xieyihui         here are some Easter eggs with #rstats http://vis.supstat.com/2013/03/draw-easter-eggs/ http://t.co/UtXxpBqtWt
+318943673352081408  Apr  2 00:31  @JackK            RT @timabe: Predicting which #athletics pitcher threw the ball using pitchFx data and #rstats. Go A's! Happy #OpeningNight http://t.co/j7DuS1qNse
+318944928040374272  Apr  2 00:36  @hspter           RT @xieyihui: here are some Easter eggs with #rstats http://vis.supstat.com/2013/03/draw-easter-eggs/ http://t.co/UtXxpBqtWt
+318977069893693441  Apr  2 02:43  @BioMickWatson    RT @xieyihui here are some Easter eggs with #rstats http://vis.supstat.com/2013/03/draw-easter-eggs/ http://t.co/lo1Oy01pBf
+319005177174700032  Apr  2 04:35  @jmgomez          RT @gsantosgo: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in &lt;5s in #rstats @hadleywickham
+319025749938028544  Apr  2 05:57  @flash_us         #Julia from #rstats programmer perspective http://dmbates.blogspot.ru/2012/04/r-programmer-looks-at-julia.html
+319033871133970433  Apr  2 06:29  @gawbul           RT @xieyihui: here are some Easter eggs with #rstats http://vis.supstat.com/2013/03/draw-easter-eggs/ http://t.co/UtXxpBqtWt
+319041453961641984  Apr  2 06:59  @carmenbeat       RT @revodavid: Facebook uses #rstats to analyze profile picture changes, finds trends in support for #samesexmarriage http://bit.ly/ZJuxlg
+319044289135005697  Apr  2 07:11  @Rbloggers        Top 10 tips to get started with R:  (This article was first published on   mages' blog, and kindly con... http://bit.ly/11geSep #rstats
+319044387696939008  Apr  2 07:11  @timelyportfolio  RT @jfreels4: And so it begins... Hello World! in shiny with #d3js. http://glimmer.rstudio.com/jfreels/d3js_helloWorld/ #rstats #rstudio @timelyportfolio
+319053588041175040  Apr  2 07:47  @InsectEcology    Has anyone come across a simple growing degree day model developed in R and can be projected spatially? #rstats
+319057015211163648  Apr  2 08:01  @drago_carlo      Machine Learning: Algorithms that Produce Clusters http://prsm.tc/f0jOSg via @prismatic #statistics #MachineLearning #DataMining #rstats
+319059902393884672  Apr  2 08:13  @IronistM         Really nice overview of Ordinal Data [feedly]  http://bit.ly/175Bv83 #rstats
+319064423069278208  Apr  2 08:31  @Alex_Royan       So #RandomForest is good for small n to large p ratios. Anyone know of guidelines as to what the optimal ratio is? #Rstats
+319070897971544064  Apr  2 08:56  @M_T_Patterson    RT @datailluminator: Visualizing Farmers' Markets Geo Data  http://bit.ly/WUrbOf  #rstats #viz #farmers #maps #wine #vegetables #food  #google #farmersmarkets
