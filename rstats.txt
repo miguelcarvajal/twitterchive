@@ -1774,3 +1774,59 @@
 319059902393884672  Apr  2 08:13  @IronistM         Really nice overview of Ordinal Data [feedly]  http://bit.ly/175Bv83 #rstats
 319064423069278208  Apr  2 08:31  @Alex_Royan       So #RandomForest is good for small n to large p ratios. Anyone know of guidelines as to what the optimal ratio is? #Rstats
 319070897971544064  Apr  2 08:56  @M_T_Patterson    RT @datailluminator: Visualizing Farmers' Markets Geo Data  http://bit.ly/WUrbOf  #rstats #viz #farmers #maps #wine #vegetables #food  #google #farmersmarkets
+319072955046952960  Apr  2 09:04  @StrictlyStat     Great post about sna library in R #rstats  http://bit.ly/WbLH6y Thanks from @isDotR
+319073728711507968  Apr  2 09:07  @stuartbasten     Really great new paper on time conversion in #Rstats by Willekens in @DemographicRes http://www.demographic-research.org/volumes/vol28/23/default.htm
+319074975107670016  Apr  2 09:12  @Demografia_CSIC  RT @stuartbasten: Really great new paper on time conversion in #Rstats by Willekens in @DemographicRes http://www.demographic-research.org/volumes/vol28/23/default.htm
+319081935253159936  Apr  2 09:40  @StrictlyStat     Really good workup of transform, mutate, within, with syntax #rstats http://bit.ly/WcXJjR
+319083450198016000  Apr  2 09:46  @sharon000        Useful tutorial for text mining and analysis of tweets using R http://bit.ly/17aSJB3 #rstats #data
+319083877354336257  Apr  2 09:48  @rmflight         RT @sharon000: Useful tutorial for text mining and analysis of tweets using R http://bit.ly/17aSJB3 #rstats #data
+319083889471672320  Apr  2 09:48  @rmflight         RT @StrictlyStat: Really good workup of transform, mutate, within, with syntax #rstats http://bit.ly/WcXJjR
+319085379783364608  Apr  2 09:54  @arnicas          #rstats RT @spsaaibi: RT “@sgourley: ML: Algorithms that Produce Clusters. From K-means to hidden variable models. http://prsm.tc/D6BXSU”
+319087029784813569  Apr  2 10:00  @simplystats      Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319088061352910849  Apr  2 10:04  @gapereyra        RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319088423359111169  Apr  2 10:06  @camjstark        RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319089685802663936  Apr  2 10:11  @Biff_Bruise      "@Bill_Gardner: New to R programming? Daunted by the vertical learning curve? Try this: http://www.burns-stat.com/documents/books/the-r-inferno/" you won't get burnt #rstats
+319092469662879744  Apr  2 10:22  @ahs85            RT @arnicas: #rstats RT @spsaaibi: RT “@sgourley: ML: Algorithms that Produce Clusters. From K-means to hidden variable models. http://t.co/UrRsuX6mTx”
+319094101121314817  Apr  2 10:28  @rahuldave        RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319094517288554496  Apr  2 10:30  @Biff_Bruise      "@simplystats: Introducing the healthvis R package - one line D3 gfx w/ R #rstats http://simplystatistics.org/?p=1130" no guarantee to make you healthier
+319094987683938305  Apr  2 10:32  @joscani          RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319097558045708289  Apr  2 10:42  @StrictlyStat     RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319102204940279809  Apr  2 11:01  @arvi1000         D3 graphics in R!! Sounds promising. Check it out: http://simplystatistics.org/2013/04/02/introducing-the-healthvis-r-package-one-line-d3-graphics-with-r/ #rstats #DataVizQMSS
+319102985286348802  Apr  2 11:04  @abhi9u           RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319103429706412033  Apr  2 11:06  @aDataHead        Top 10 tips to get started with #Rstats: http://www.r-bloggers.com/top-10-tips-to-get-started-with-r/
+319104463250006016  Apr  2 11:10  @hspter           RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319104553796644864  Apr  2 11:10  @zimmeee          Fantastic! D3 + R bliss RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130”
+319106428935745536  Apr  2 11:17  @alexcpsec        RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319109564060557312  Apr  2 11:30  @DiffusePrioR     Really helpful and concise notes on spatial data and mapping with R http://www.frankdavenport.com/blog/2012/6/19/notes-from-a-recent-spatial-r-class-i-gave.html/ #rstats
+319110423477641216  Apr  2 11:33  @kwbroman         @d3visualization RT @StrictlyStat  Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319110736943140865  Apr  2 11:35  @TamboDUC         RT @DiffusePrioR: Really helpful and concise notes on spatial data and mapping with R http://www.frankdavenport.com/blog/2012/6/19/notes-from-a-recent-spatial-r-class-i-gave.html/ #rstats
+319115811782524929  Apr  2 11:55  @mmparker         What's the best way to display data.frame rows in RMarkdown? Using @JeromyAnglim's cat method right now. #rstats
+319115967290568704  Apr  2 11:55  @rOpenSci         Video describing app we entered http://bit.ly/16jkNiq in the USGS app contest http://1.usa.gov/VXZrVB #rstats - taxonomy, phylogeny, maps
+319116456237350914  Apr  2 11:57  @csgillespie      Last chance to register for the Newcastle #rstats courses: http://www.ncl.ac.uk/maths/rcourse/
+319118410074189825  Apr  2 12:05  @RLangTip         Locate the largest number in a vector with which.max(mydata) http://bit.ly/Y21xrG (via @M_T_Patterson) #rstats
+319119152012988416  Apr  2 12:08  @kwcollins        RT @RLangTip: Locate the largest number in a vector with which.max(mydata) http://bit.ly/Y21xrG (via @M_T_Patterson) #rstats
+319123696436514818  Apr  2 12:26  @orlandomezquita  RT @StrictlyStat: Great post about sna library in R #rstats  http://bit.ly/WbLH6y Thanks from @isDotR
+319123775180402689  Apr  2 12:26  @vybstat          Wrote my first Shiny app @rstudioapp #rstats
+319124103485353984  Apr  2 12:28  @orlandomezquita  “@StrictlyStat: Really good workup of transform, mutate, within, with syntax #rstats http://bit.ly/WcXJjR”
+319130156595814400  Apr  2 12:52  @mpastell         RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+319131851467943936  Apr  2 12:58  @shoha99          RT @arvi1000: D3 graphics in R!! Sounds promising. Check it out: http://simplystatistics.org/2013/04/02/introducing-the-healthvis-r-package-one-line-d3-graphics-with-r/ #rstats #DataVizQMSS
+319132776173547520  Apr  2 13:02  @MasterEBP        Voor de R aanhangers “@simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130”
+319134607276654592  Apr  2 13:09  @CjBayesian       Data hackers of Montreal, come out tmro eve for an @RusersMtl mini data dive! http://www.meetup.com/Montreal-R-User-Group/events/108945922/ They'll be pizza and beer! #rstats
+319138014725021696  Apr  2 13:23  @datailluminator  Retail Analytics Part 1a: Time Analysis http://bit.ly/ZqML7k #rstats #retail #analytics #time #timeseries #SQL #viz #hadoop #database
+319141229411565568  Apr  2 13:36  @Biff_Bruise      "@abmathewks: A nifty line plot to visualize multivariate time series http://wp.me/p2ZqvQ-bF" parallel coordinates in #rstats (code incl)
+319144690530271232  Apr  2 13:49  @dorageh          RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319147726799523840  Apr  2 14:02  @revodavid        17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
+319148495820959744  Apr  2 14:05  @cloudHPC         RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+319148830077628419  Apr  2 14:06  @drdrewsteen      RT @revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
+319149656393269248  Apr  2 14:09  @hylopsar         WOOT! First paper published using our #Rstats package! I wasn't even aware of this one! http://onlinelibrary.wiley.com/doi/10.1111/1365-2435.12086/abstract
+319150465797459968  Apr  2 14:12  @ctitusbrown      RT @hylopsar: WOOT! First paper published using our #Rstats package! I wasn't even aware of this one! http://onlinelibrary.wiley.com/doi/10.1111/1365-2435.12086/abstract
+319152216193773568  Apr  2 14:19  @gawbul           RT @hylopsar: WOOT! First paper published using our #Rstats package! I wasn't even aware of this one! http://onlinelibrary.wiley.com/doi/10.1111/1365-2435.12086/abstract
+319152302059560961  Apr  2 14:20  @gawbul           @hylopsar Awesome stuff! Congrats ;-) #rstats
+319154827567435776  Apr  2 14:30  @hcorrada         MT: @simplystats "Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130" @app_engine
+319156190053543936  Apr  2 14:35  @ndoogan          @geoffjentry better, but still getting dupes. searchTwitter("#rstats",n=2000,...) returned 2000 results, 390 of which were unique messages.
+319156607223226368  Apr  2 14:37  @burnsstat        100 savvy sites on statistics http://bit.ly/16u5tBA #stats #rstats
+319158945610612736  Apr  2 14:46  @RevolutionR      #DataScience tools overview from @bigdata: @RevolutionR for data wrangling, #DataViz and scalable modeling: http://bit.ly/ZyiQu8 #rstats
+319159670143074304  Apr  2 14:49  @Sergio_Soage     RT @revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
+319159742847148032  Apr  2 14:49  @jaredlander      @QuaintM Using #rstats programming to analyze programming. Awesome.
+319160130103021568  Apr  2 14:51  @kj_gilbert       RT @revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
+319161698051297280  Apr  2 14:57  @AndrewMarritt    RT @revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
