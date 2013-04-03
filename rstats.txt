@@ -1830,3 +1830,103 @@
 319159742847148032  Apr  2 14:49  @jaredlander      @QuaintM Using #rstats programming to analyze programming. Awesome.
 319160130103021568  Apr  2 14:51  @kj_gilbert       RT @revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
 319161698051297280  Apr  2 14:57  @AndrewMarritt    RT @revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
+319162530314473472  Apr  2 15:00  @quantlabs        How to integrate #Rstats with your Interactive Brokers #TWS for #trading execution?   http://ow.ly/jFrpk
+319163282034417666  Apr  2 15:03  @EHRworkflow      Will 2015 be the Beginning of the End for #SAS and #SPSS? #rstats http://bit.ly/YXyLJo
+319163601149640704  Apr  2 15:05  @winston_chang    RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+319165775690731520  Apr  2 15:13  @EHRworkflow      Review: 8th International R User Conference, Vanderbilt University, 12th-15th June 2012 #rstats http://bit.ly/YXyzd0 @openbillc
+319168819660734464  Apr  2 15:25  @wabarree         great tips for getting started in #Rstats http://bit.ly/YtWdLN
+319176281285591040  Apr  2 15:55  @rcmorriss        RT @wabarree: great tips for getting started in #Rstats http://bit.ly/YtWdLN
+319176556419371009  Apr  2 15:56  @RiaRGhai         RT @wabarree: great tips for getting started in #Rstats http://bit.ly/YtWdLN
+319177246160080896  Apr  2 15:59  @omearabrian      ouwie has been updated on CRAN. Now with fewer features (no contour maps) due to akima licensing conflict with our license. #rstats
+319180428357562368  Apr  2 16:11  @Rbloggers        Push hard on a problem here and it might just pop up over there:  (This article was first published on... http://bit.ly/16kju2O #rstats
+319180762450644993  Apr  2 16:13  @IronistM         Α book to check | Statistical Modeling: A Fresh Approach http://bit.ly/Z4pOHk #rstats #statistical #models
+319193002939645952  Apr  2 17:01  @timelyportfolio  great week for #d3js and #rstats have http://trifacta.github.com/vega, @rhealthvis, @patrickm145 library, and @nachocab #clickme
+319196315730993155  Apr  2 17:15  @stephaniehicks   Ten tips to getting started in R http://www.r-bloggers.com/top-10-tips-to-get-started-with-r/ #rstats #statistics
+319196535843856385  Apr  2 17:15  @d3visualization  RT @timelyportfolio: great week for #d3js and #rstats have http://trifacta.github.com/vega, @rhealthvis, @patrickm145 library, and @nachocab #clickme
+319197143351042048  Apr  2 17:18  @Precog           Use #R and in Denver area? Come to a Meetup on 4/16 with the R User Group & learn how #Quirrel relates to R http://bit.ly/XbPZiC #rstats
+319198214312058883  Apr  2 17:22  @sc_evans         At least when I screw up in #ggplot, I end up creating amazing modern art: http://d.pr/i/DSrM Perhaps I have a future in this... #Rstats
+319198409347186688  Apr  2 17:23  @hadleywickham    speaking about visualising 100,000,000 observations in #rstats at ucla on Monday: http://www.polisci.ucla.edu/workshops/ap
+319198919349379072  Apr  2 17:25  @sc_evans         As if on cue... RT @hadleywickham speaking about visualising 100,000,000 observations in #rstats at ucla on Monday: http://www.polisci.ucla.edu/workshops/ap
+319199133657354241  Apr  2 17:26  @stephaniehicks   RT @revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
+319200048250490880  Apr  2 17:29  @lucaborger       Wow! RT @hadleywickham: speaking about visualising 100,000,000 observations in #rstats at ucla on Monday: http://www.polisci.ucla.edu/workshops/ap
+319203440557441025  Apr  2 17:43  @hylopsar         per @sc_evans request, made a quick #Rstats script to plot XY convex hulls grouped by factor; if anyone's interested https://gist.github.com/rmaia/5296401
+319204662031032323  Apr  2 17:48  @sc_evans         RT @hylopsar: per @sc_evans request, made a quick #Rstats script to plot XY convex hulls grouped by factor; if anyone's interested https://t.co/XEDUpASkoE
+319204978742927361  Apr  2 17:49  @joscani          RT @hadleywickham: speaking about visualising 100,000,000 observations in #rstats at ucla on Monday: http://www.polisci.ucla.edu/workshops/ap
+319210365097492480  Apr  2 18:10  @Rbloggers        What’s New in Release 6.2: Additional ScaleR Features:  (This article was first published on   Revolut... http://bit.ly/10nyBHU #rstats
+319212034157850624  Apr  2 18:17  @orlandomezquita  RT @RLangTip: Locate the largest number in a vector with which.max(mydata) http://bit.ly/Y21xrG (via @M_T_Patterson) #rstats
+319212323543846912  Apr  2 18:18  @aindap           RT @kdnuggets: Besides Big Data, there is #FastData:  stream R package is for massive online stream data mining #rstats http://t.co/7Fes1Q6WmP
+319216690611253248  Apr  2 18:36  @gagliol          RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319217291495612417  Apr  2 18:38  @ShujianBu        RT @arvi1000: D3 graphics in R!! Sounds promising. Check it out: http://simplystatistics.org/2013/04/02/introducing-the-healthvis-r-package-one-line-d3-graphics-with-r/ #rstats #DataVizQMSS
+319217715996942336  Apr  2 18:40  @nachocaballero   RT @timelyportfolio great week for #d3js and #rstats http://havetrifacta.github.com/vega, @rhealthvis, @patrickm145library, and @nachocaballero  #clickme
+319222953990557696  Apr  2 19:00  @joshua_ulrich    @RLangTip @M_T_Patterson only the first occurrence though, right? #rstats
+319234322076925952  Apr  2 19:46  @flash_us         RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319256699062059009  Apr  2 21:15  @ChrisGandrud     RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319261340449505280  Apr  2 21:33  @shevy            DroolMeetsFloor <- merge(R, D3) http://healthvis.org. #D3 #rstats @rhealthvis
+319261406010679297  Apr  2 21:33  @romeroescobar    rep("done",10) #RStats #in http://www.r-bloggers.com/top-10-tips-to-get-started-with-r/
+319268603251806209  Apr  2 22:02  @zentree          Don't like the look of <- in #Rstats? Use = instead and move on. You are welcome.
+319269220020015105  Apr  2 22:04  @WyoWeeds         NEVER! RT @zentree: Don't like the look of <- in #Rstats? Use = instead and move on. You are welcome.
+319274966610767872  Apr  2 22:27  @carlyziter       Watching @ericJpedersen explain an ecological model of Jaguar movement to a couple of engineers at a coffee shop #RStats #interdisciplinary
+319275333566222339  Apr  2 22:29  @NHoughSnee       R version 3.0 comes out tomorrow. I'm staying up all night and will eat ice cream for breakfast. #Rstats http://r-project.org
+319280063239573505  Apr  2 22:47  @imusicmash       HealthVis R to D3 visualization tools.   install: http://healthvis.org/install/  and examples http://healthvis.org/2013/03/28/announcing-healthvis/ … #dataviz #rstats
+319284417094897664  Apr  2 23:05  @secretmirth      Introducing the healthvis R package  - one line D3 graphics with R #rstats http://bit.ly/XVakWI via @simustats
+319284598695673856  Apr  2 23:05  @hspter           I wrote a quick blog post inspired by @kwbroman's organizational genius! http://bit.ly/Z0qoqv #rstats
+319301672079855617  Apr  3 00:13  @b1205            @jalbertbowdenii @Raelshark #rstats stream and http://rseek.org are good resources. ggplot2 by @hadleywickham is a must.
+319302935534268416  Apr  3 00:18  @ocean_zen        "@zentree: Don't like the look of <- in #Rstats? Use = instead and move on. You are welcome."
+319304534402953216  Apr  3 00:25  @kwbroman         Blog: In #rstats, x[[c(5,3)]] is the same as x[[5]][[3]] http://wp.me/s1MjYA-xc53
+319304892214804480  Apr  3 00:26  @hspter           I have a new found appreciation for devtools by @hadleywickham. Makes #rstats almost too easy with installing packages from github...
+319306001989922816  Apr  3 00:30  @Rbloggers        2013-3 Generating unique names in gridSVG:  (This article was first published on   Stat Tech » R, and ... http://bit.ly/12d7YJK #rstats
+319309524207038464  Apr  3 00:44  @kwbroman         Blog: apply vs for in #rstats http://wp.me/p1MjYA-pY
+319311108815065088  Apr  3 00:51  @zenrhino         Going to bed while #RStats is still making sense. #ToSleepPerchanceToDreamOfGGPlot2
+319311998951243776  Apr  3 00:54  @PPUAMX           RT @RLangTip: Locate the largest number in a vector with which.max(mydata) http://bit.ly/Y21xrG (via @M_T_Patterson) #rstats
+319325819195498496  Apr  3 01:49  @kwbroman         More #ProcrastinationViaBlog: Beware of grep with a list in #rstats http://wp.me/p1MjYA-qi
+319331226190217217  Apr  3 02:11  @Jimichanga1      RT @bkeegan: 20 essential #Rstats packages for data science http://wp.me/p2PwnO-2X
+319334412108046336  Apr  3 02:23  @hansijzerman     RT @dggoldst: Workshop on Crowdsourcing and Online Behavioral Experiments http://www.decisionsciencenews.com/2013/03/22/workshop-on-crowdsourcing-and-online-behavioral-experiments/ #RStats
+319344051696570368  Apr  3 03:02  @PeteJamesDotCom  Looking forward to R meetup in Dublin this evening. Come along if interested in #Rstats #data http://bit.ly/16kIDKy @AndrewLlJackson
+319352889007017985  Apr  3 03:37  @boris_gorelik    Is it possible to close @rstudioapp figures from its command line? #rstats #rstudio
+319356516517945344  Apr  3 03:51  @AndrewLLJackson  RT @PeteJamesDotCom: Looking forward to R meetup in Dublin this evening. Come along if interested in #Rstats #data http://t.co/8N0U8Lx90D @AndrewLlJackson
+319359223119110144  Apr  3 04:02  @datennutzen      Hilfreiche Kurzvorstellung von 10 wichtigen R-Paketen http://bit.ly/X0xNIk  #rstats, #datamining
+319362199359471616  Apr  3 04:14  @oscarperpinan    Easier and more predictable development of interactivity with gridSVG http://bit.ly/XcN1uu #rstats #visualization #svg
+319368100929732608  Apr  3 04:37  @Rbloggers        CFP: the 11th Australasian Data Mining Conference (AusDM 2013), submission due 15 July:  (This article... http://bit.ly/16msK6l #rstats
+319390475255681024  Apr  3 06:06  @aafgarci         RT @revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
+319393660489838593  Apr  3 06:19  @cloudHPC         R-3.0.0 is released http://cran.r-project.org/src/base/R-3/R-3.0.0.tar.gz and you have to reinstall all your #packages #rstats
+319394216092512256  Apr  3 06:21  @mspan            RT @secretmirth: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://bit.ly/XVakWI via @simustats
+319395640054530049  Apr  3 06:27  @kwbroman         R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319396151939981313  Apr  3 06:29  @gilbellosta      RT @cloudHPC: R-3.0.0 is released http://cran.r-project.org/src/base/R-3/R-3.0.0.tar.gz and you have to reinstall all your #packages #rstats
+319396432891215872  Apr  3 06:30  @andradjaafara    RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319398281941745664  Apr  3 06:37  @nextgenseek      RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319400008669618176  Apr  3 06:44  @datennutzen      R 3.0 is released! #rstats http://cran.r-project.org/
+319400206477189120  Apr  3 06:45  @axelopp          RT @datennutzen: R 3.0 is released! #rstats http://cran.r-project.org/
+319400975976783872  Apr  3 06:48  @mikeloukides     RT @secretmirth: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://bit.ly/XVakWI via @simustats
+319401615436156929  Apr  3 06:50  @JamesLZ          RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319406054658162689  Apr  3 07:08  @Piboonrungroj    New R 3.0.0 released !!! Download source code here http://cran.r-project.org/src/base/R-3/R-3.0.0.tar #rstats @Rstats4Econ @ChiangMaiR
+319406118537404416  Apr  3 07:08  @PairachCMSE      RT @Piboonrungroj: New R 3.0.0 released !!! Download source code here http://cran.r-project.org/src/base/R-3/R-3.0.0.tar #rstats @Rstats4Econ @ChiangMaiR
+319406577977270272  Apr  3 07:10  @sevve            RT @Piboonrungroj: New R 3.0.0 released !!! Download source code here http://cran.r-project.org/src/base/R-3/R-3.0.0.tar #rstats @Rstats4Econ @ChiangMaiR
+319409187815817216  Apr  3 07:20  @statsepi         RT @secretmirth: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://bit.ly/XVakWI via @simustats
+319410358156681216  Apr  3 07:25  @egschmitt        RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319412668387700736  Apr  3 07:34  @lcoullet         RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319413448129789952  Apr  3 07:37  @SamuelPEAN       Free ebook: Learning Statistics with R > http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/ || #Rstats #OpenAccess #OpenScience #PhDChat #SciChat
+319416691002060800  Apr  3 07:50  @sharon000        Taking online class Statistics: Making Sense of Data  to help learn R for basic stats work https://www.coursera.org/course/introstats #rstats
+319419800222855168  Apr  3 08:03  @tonyfischetti    R 3.0.0 is released! #rstats
+319419952245391360  Apr  3 08:03  @onertipaday      R 3.0.0 is released: http://cran.r-project.org/src/base/R-3/ #rstats
+319420419675414528  Apr  3 08:05  @genetics_blog    #Rstats 3.0.0 officially released http://cran.r-project.org/src/base/R-3/
+319420733166080000  Apr  3 08:06  @Krisztab         RT @genetics_blog: #Rstats 3.0.0 officially released http://cran.r-project.org/src/base/R-3/
+319421574337921024  Apr  3 08:10  @cos_name         使用 R 制作复活节彩蛋！RT @xieyihui: here are some Easter eggs with #rstats http://bit.ly/XUYuft http://bit.ly/YQ1Fby
+319422293115813888  Apr  3 08:13  @rvimieiro        RT @onertipaday: R 3.0.0 is released: http://cran.r-project.org/src/base/R-3/ #rstats
+319422646334943234  Apr  3 08:14  @lifescientology  RT @SamuelPEAN: Free ebook: Learning Statistics with R > http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/ || #Rstats #OpenAccess #OpenScience #PhDChat #SciChat
+319422825964392449  Apr  3 08:15  @maurotortonesi   RT @onertipaday: R 3.0.0 is released: http://cran.r-project.org/src/base/R-3/ #rstats
+319423973463040001  Apr  3 08:19  @dave_bridges     RT @genetics_blog: #Rstats 3.0.0 officially released http://cran.r-project.org/src/base/R-3/
+319424680454914049  Apr  3 08:22  @ronert_obst      RT @onertipaday: R 3.0.0 is released: http://cran.r-project.org/src/base/R-3/ #rstats
+319424726130884609  Apr  3 08:22  @kwcollins        RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319425377950896128  Apr  3 08:25  @treycausey       RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319425499929665537  Apr  3 08:25  @josefslerka      RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319425817140670464  Apr  3 08:27  @prisonrodeo      RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319426031620616192  Apr  3 08:27  @chrishanretty    RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319427179190558720  Apr  3 08:32  @metiuuitem       RT @onertipaday: R 3.0.0 is released: http://cran.r-project.org/src/base/R-3/ #rstats
+319427240792293377  Apr  3 08:32  @wnomikos         VERY exciting RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319427321721389056  Apr  3 08:33  @jleinaweaver     RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319428065312792576  Apr  3 08:36  @jcaverley        RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319429135502036992  Apr  3 08:40  @sharon000        It's here: R version 3.0.0 released http://bit.ly/13R2sgQ Alas, packages must be re-installed #rstats #data
+319430900691636224  Apr  3 08:47  @zimmeee          R version 3.0 released today, first major release version since I've been a user. Is it significant? #rstats #datascience #statistics
+319430910342737920  Apr  3 08:47  @jfrazee          New #rstats came this morning! Big version bump to 3. https://stat.ethz.ch/pipermail/r-announce/2013/000561.html
+319433433325633536  Apr  3 08:57  @dnusinow         RT @onertipaday: R 3.0.0 is released: http://cran.r-project.org/src/base/R-3/ #rstats
+319433625877770240  Apr  3 08:58  @itscientist      RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
