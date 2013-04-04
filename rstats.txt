@@ -1930,3 +1930,180 @@
 319430910342737920  Apr  3 08:47  @jfrazee          New #rstats came this morning! Big version bump to 3. https://stat.ethz.ch/pipermail/r-announce/2013/000561.html
 319433433325633536  Apr  3 08:57  @dnusinow         RT @onertipaday: R 3.0.0 is released: http://cran.r-project.org/src/base/R-3/ #rstats
 319433625877770240  Apr  3 08:58  @itscientist      RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+319434180842901505  Apr  3 09:00  @IronistM         Nifty! Splitting a Large CSV File into Separate Smaller Files Based on Values Within a Specific Column http://feedly.com/k/17cPXLz #rstats
+319438769180782593  Apr  3 09:18  @verosk           RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319439069480378369  Apr  3 09:19  @hadleywickham    RT @hspter: I have a new found appreciation for devtools by @hadleywickham. Makes #rstats almost too easy with installing packages from github...
+319441355296358400  Apr  3 09:28  @hadleywickham    best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319441494958297089  Apr  3 09:29  @woodrad          RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319441795853463553  Apr  3 09:30  @shabbychef       RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319442009179967490  Apr  3 09:31  @LluisR_Tgn       RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319442135986368512  Apr  3 09:31  @crozierrj        RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319442254873907200  Apr  3 09:32  @Mosaic92         有意思…RT @cos_name: 使用 R 制作复活节彩蛋！RT @xieyihui: here are some Easter eggs with #rstats http://bit.ly/XUYuft http://bit.ly/YQ1Fby
+319443265977991168  Apr  3 09:36  @rmflight         RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319443592701677569  Apr  3 09:37  @TrestleJeff      @hadleywickham Seems reasonable. It's been years, and working with #rstats connections is still awkward for me... Thanks for the help!
+319443649488367616  Apr  3 09:37  @DashingD3js      RT @ramnath_vaidya: Embed D3.js animation in Slidify https://github.com/ramnathv/slidifyExamples/wiki/Embed-D3.js-Animations-in-Slidify #rstats #slidify
+319443691859218432  Apr  3 09:38  @TrestleJeff      RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319445041955344385  Apr  3 09:43  @Jowanza          RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319445399075160065  Apr  3 09:44  @genetics_blog    @rstudioapp when will #Rstats 3.0.0 binaries be available at http://cran.rstudio.com/bin/macosx/ ?
+319446533672144896  Apr  3 09:49  @jjgibaja         R version 3.0.0 has been released! http://www.r-project.org/ #rstats
+319446764820242433  Apr  3 09:50  @Rbloggers        R 3.0.0 is released! (what’s new, and how to upgrade):  (This article was first published on   R-stati... http://bit.ly/12gvRfD #rstats
+319446823389507586  Apr  3 09:50  @reid_jf          R 3.0.0 is released #rstats http://bit.ly/14EpuXC
+319447042646761473  Apr  3 09:51  @GrunerDaniel     RT @Rbloggers: R 3.0.0 is released! (what’s new, and how to upgrade): http://bit.ly/12gvRfD #rstats
+319447139069612032  Apr  3 09:51  @reid_jf          Moving to R 3.0.0 on Ubuntu #rstats http://bit.ly/14EpAyl
+319447766969511936  Apr  3 09:54  @hrbrmstr         (not much new/improved but will help w/"big data") // RT @Rbloggers: R 3.0.0 is released! http://www.r-bloggers.com/r-3-0-0-is-released-whats-new-and-how-to-upgrade #rstats
+319447929792389120  Apr  3 09:54  @gilbellosta      RT @jjgibaja: R version 3.0.0 has been released! http://www.r-project.org/ #rstats
+319448301785210881  Apr  3 09:56  @hylopsar         #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319448379241426944  Apr  3 09:56  @BrownJosephW     RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319448822206038016  Apr  3 09:58  @ctitusbrown      RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319448956549623808  Apr  3 09:59  @gawbul           RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319449256454942721  Apr  3 10:00  @davetangdotorg   RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319449355788627969  Apr  3 10:00  @gsantosgo        RT R version 3.0.0 has been released! http://www.r-project.org/ #rstats
+319449566774702081  Apr  3 10:01  @alexhanna        #rstats 3.0 is out today! ZOMG (via @rbloggers) http://www.r-bloggers.com/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319449980194664450  Apr  3 10:03  @joe_pickrell     RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319450004118982656  Apr  3 10:03  @vitojph          RT @jjgibaja: R version 3.0.0 has been released! http://www.r-project.org/ #rstats
+319451070210392064  Apr  3 10:07  @adriana_ct       R v3.0.0 "Masked Marvel"released today. Get it now @ http://cran.wustl.edu ! #rstats #WUStL
+319452015010906113  Apr  3 10:11  @randyzwitch      Automated Re-Install of Packages for R 3.0 #rstats http://randyzwitch.com/automated-re-install-of-packages-for-r-3-0/
+319452136100478976  Apr  3 10:11  @jdtonkin         Any tips on how to change default colours in the following? p1 + geom_boxplot(aes(fill = factor(interaction(flow, slope)))) #rstats #ggplot2
+319452365143035906  Apr  3 10:12  @GaiaTek          RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319452742408085507  Apr  3 10:14  @skardhamar       R has been updated to V 3.0.0! - See all the upgrades here: http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/ #rstats
+319453763951800321  Apr  3 10:18  @theoneamit       RT @genetics_blog: #Rstats 3.0.0 officially released http://cran.r-project.org/src/base/R-3/
+319454065891356672  Apr  3 10:19  @emilopezcano     RT @jjgibaja: R version 3.0.0 has been released! http://www.r-project.org/ #rstats
+319456271789076480  Apr  3 10:28  @fcastanedo       RT @jjgibaja: R version 3.0.0 has been released! http://www.r-project.org/ #rstats
+319456784995725312  Apr  3 10:30  @KevinLDavenport  RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319457905243983879  Apr  3 10:34  @fellgernon       RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319459645217464320  Apr  3 10:41  @fellgernon       R 3.0.0 change long and update info #rstats http://bit.ly/Z8kDWM -- very useful!
+319460327051886592  Apr  3 10:44  @dgermain21       RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319461789198848000  Apr  3 10:50  @BMMillsy         Has anyone else had issues with #Rstats communication with Dropbox? Can only find 6month old script, rather than most updated in the folder
+319462110612570112  Apr  3 10:51  @paleogenomics    RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319463146047807488  Apr  3 10:55  @BrynRWilliams    RT @hspter: I have a new found appreciation for devtools by @hadleywickham. Makes #rstats almost too easy with installing packages from github...
+319463240050540547  Apr  3 10:55  @GraemeTLloyd     RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319463380878520320  Apr  3 10:56  @hrbrmstr         RT @randyzwitch: Automated Re-Install of Packages for R 3.0 #rstats http://randyzwitch.com/automated-re-install-of-packages-for-r-3-0/
+319464329835589632  Apr  3 11:00  @onertipaday      RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319464393870028800  Apr  3 11:00  @BMMillsy         In other words, what is the deal with this (see pic). #rstats http://t.co/8psr9wex6X
+319467245636055040  Apr  3 11:11  @gawbul           Anyone been able to update to R 3.0.0 on Windows using installR/updateR? Save me going through all the mirrors in turn? #rstats
+319469091058487298  Apr  3 11:19  @gappy3000        I didn't know that x[[c('a', 'b')]] is like x[['a']][['b']]. This is useful. #rstats
+319469254531485697  Apr  3 11:19  @walkingrandomly  Version 3.0 of #rstats has been released! https://stat.ethz.ch/pipermail/r-announce/2013/000561.html
+319469478637359104  Apr  3 11:20  @msgbi            RT @walkingrandomly: Version 3.0 of #rstats has been released! https://stat.ethz.ch/pipermail/r-announce/2013/000561.html
+319469660980514817  Apr  3 11:21  @griverorz        RT @walkingrandomly: Version 3.0 of #rstats has been released! https://stat.ethz.ch/pipermail/r-announce/2013/000561.html
+319469680223997952  Apr  3 11:21  @kdnuggets        Top 10 tips to get started with R #rstats.  7. Learn how to modify and reshape data http://bit.ly/10xbJUY
+319471017493925888  Apr  3 11:26  @recology_        RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319472049666023424  Apr  3 11:30  @hadleywickham    @gawbul windows binaries of #rstats 3.0 won't be available for at least a day (or two)
+319472121300529152  Apr  3 11:31  @mianromu         R 3.0.0 #rstats http://bit.ly/12gUTLK
+319472815545909249  Apr  3 11:33  @gawbul           @hadleywickham Thanks for the reply. Will try building myself :) #rstats
+319472927605137409  Apr  3 11:34  @erikriverson     RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319473033972707329  Apr  3 11:34  @sjGoring         R 3.0.0 will allow users to create data.frames with more than 2 billion rows! I don't need it, but I want it. #rstats http://www.r-bloggers.com/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319473257315201025  Apr  3 11:35  @JAlexBranham     Debating switching from @Stata to #Rstats. Pros: free and open source! (plus beautiful graphs) cons: steep learning curve...
+319473638329942016  Apr  3 11:37  @BenPourquoi      RT @kdnuggets: Top 10 tips to get started with R #rstats.  7. Learn how to modify and reshape data http://bit.ly/10xbJUY
+319474504264978435  Apr  3 11:40  @M_T_Patterson    For great practice with R programming, try out Project Euler Problems:  http://projecteuler.net/ #RStats, #Programming
+319476289033601024  Apr  3 11:47  @i_314            Running R 3.0.0 on Debian 6.0.7  R version 3.0.0 (2013-04-03) -- "Masked Marvel" #rstats
+319476490603470848  Apr  3 11:48  @lexnederbragt    RT @kwbroman: R 3.0.0 was released #rstats http://bit.ly/10y0lXQ
+319477702438580224  Apr  3 11:53  @since1968        Healthvis: R package for interactive graphics: http://healthvis.org/ #rstats
+319478571259265026  Apr  3 11:56  @DNAmlin          RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319479169652256768  Apr  3 11:59  @jsonstat         JSON-stat considered a "clean integration into R". Request opened at #RODProt package https://plus.google.com/b/100216285107678706979/100216285107678706979/posts/b62Bvr8zctp #rstats #json #opendata #stats
+319480350155886592  Apr  3 12:03  @badosa           RT @jsonstat: JSON-stat considered a "clean integration into R". Request opened at #RODProt package https://plus.google.com/b/100216285107678706979/100216285107678706979/posts/b62Bvr8zctp #rstats #json #opendata #stats
+319480810443010048  Apr  3 12:05  @RLangTip         Deleting a function from a package will surprise your users. Deprecate it instead: http://bit.ly/100gwhr (via @TrestleJeff) #rstats
+319481111241703424  Apr  3 12:06  @jaredlander      RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319481358047137794  Apr  3 12:07  @ecolandlab       RT @sjGoring: R 3.0.0 will allow users to create data.frames with more than 2 billion rows! I don't need it, but I want it. #rstats http://t.co/nNByFZkOkv
+319481654152413184  Apr  3 12:08  @Aaron_Baggett    R 3.0.0 -- "Masked Marvel" is released! http://goo.gl/RfZfQ #rstats
+319482706046103552  Apr  3 12:13  @NestorMontano    R 3.0.0 está ya listo para ser descargado !!... http://cran.r-project.org/ #RStats
+319483717754171392  Apr  3 12:17  @rOpenSci         Adding local search of ITIS database to taxize using sqlite - try it this e.g. & let us know what you think: http://bit.ly/YSWcAA #rstats
+319486322706366464  Apr  3 12:27  @sharon000        Create interactive D3 graphics using R and new healthvis package http://bit.ly/XpZn4F #rstats #d3 #dataviz
+319486899876163584  Apr  3 12:29  @eponvert         #Rstats 3.0.0 http://www.r-bloggers.com/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319490562510176256  Apr  3 12:44  @deanabb          RT @kdnuggets: Top 10 tips to get started with R #rstats.  7. Learn how to modify and reshape data http://bit.ly/10xbJUY
+319495515828011009  Apr  3 13:04  @moorejh          #rstats #bioinformatics #datascience RT @MichelBallings: R 3.0.0 is released! (what’s new, and how to upgrade) http://flip.it/9uiaE
+319495976526151680  Apr  3 13:05  @quantlabs        My Youtube video on is Deltix the fastest #HFT #trading platform with #Rstats or Matlab for #forex and market prediction...
+319496070784749568  Apr  3 13:06  @forexgood        RT @quantlabs: My Youtube video on is Deltix the fastest #HFT #trading platform with #Rstats or Matlab for #forex and market prediction...
+319498835804184578  Apr  3 13:17  @richierocks      #rstats 3.0.0 "Masked Marvel" is here to avenge your data crimes.
+319500648360067073  Apr  3 13:24  @Rbloggers        ISBA on INLA [webinar]:  (This article was first published on   Xi'an's Og » R, and kindly contributed... http://bit.ly/12hmU5W #rstats
+319501295251755008  Apr  3 13:26  @odbmsorg         RT @revodavid: Lots of data isn't the same thing as #BigData, says @joerickert: http://bit.ly/1606waf #rstats
+319502437222346752  Apr  3 13:31  @Rbloggers        Managing memory in a list of lists data structure:  (This article was first published on   Nathan VanH... http://bit.ly/11mVkVM #rstats
+319502733151444992  Apr  3 13:32  @MgNantes         RT @sjGoring: R 3.0.0 will allow users to create data.frames with more than 2 billion rows! I don't need it, but I want it. #rstats http://t.co/nNByFZkOkv
+319504361371869185  Apr  3 13:39  @MelinaNG         "@NestorMontano: R 3.0.0 está ya listo para ser descargado !!... http://cran.r-project.org/ #RStats" Trabaja!!
+319505020997480448  Apr  3 13:41  @mglbranco        RT @mianromu: R 3.0.0 #rstats http://bit.ly/12gUTLK
+319507252874735617  Apr  3 13:50  @M_T_Patterson    10 Tips for getting started with R (via @Rbloggers)   http://www.r-bloggers.com/top-10-tips-to-get-started-with-r/ #RStats
+319508622596001793  Apr  3 13:56  @M_T_Patterson    Changes in facebook profiles predictably vary with support for gay marriage: #RStats, #ggplot2 http://www.r-bloggers.com/facebook-profile-photo-changes-reveal-trends-in-support-for-same-sex-marriage/
+319508999424847873  Apr  3 13:57  @dloss            Rdatasets: a collection of 680 datasets (in CSV format) that were originally distributed alongside R. #rstats http://vincentarelbundock.github.com/Rdatasets/
+319509690717462528  Apr  3 14:00  @quantlabs        My Youtube video on is Deltix the fastest #HFT #trading platform with #Rstats or #Matlab for #forex and #futures http://ow.ly/jHRei
+319510722402979840  Apr  3 14:04  @Gliders_Coach    Interview Dr. Ian Fellows http://Fellstat.com #rstats Deducer http://lnkd.in/j_gJ-D
+319512405426204672  Apr  3 14:11  @sean_tuck        RT @hadleywickham: best new feature of #rstats 3.0: non Sweave vignettes. looking forward to writing my first Rmarkdown vignette with knitr!
+319513296682237952  Apr  3 14:14  @gawbul           Just built R3.0.0 and Mac-GUI 1.6 on my OSX 10.8 iMac at uni :) Much fun! #rstats #xcode http://t.co/mEzkbURhvF
+319513359072497666  Apr  3 14:14  @davidjayharris   Looks like profiling (Rprof) got sone very nice improvements in #Rstats 3.0. Yay! http://www.r-bloggers.com/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319513876637048833  Apr  3 14:16  @davidjayharris   Ooh, and #Rstats linear algebra is faster for ints now, too :-) http://www.r-bloggers.com/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319515558309658624  Apr  3 14:23  @KTInvasion       How do I get confidence intervals from lmer obj w/ poisson or binomial distrib.? Far as I can tell, gmodels ci() won't do it. #rstats
+319518242257387522  Apr  3 14:34  @fresseng         RT @sjGoring: R 3.0.0 will allow users to create data.frames with more than 2 billion rows! I don't need it, but I want it. #rstats http://t.co/nNByFZkOkv
+319518283407691777  Apr  3 14:34  @noamross         RT @davidjayharris: Looks like profiling (Rprof) got sone very nice improvements in #Rstats 3.0. Yay! http://www.r-bloggers.com/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319522600596422656  Apr  3 14:51  @marcosluis2186   Interview Dr. Ian Fellows http://Fellstat.com #rstats Deducer « DECISION STATS http://decisionstats.com/2013/04/03/interview-dr-ian-fellows-fellstat-com-rstats-deducer/
+319523700179341312  Apr  3 14:56  @the_pollinator   Same here RT “@hylopsar is there a specific fortran library I need to install for #Rstats 3? getting "configure: error: cannot use Fortran"”
+319523765014913027  Apr  3 14:56  @_inundata        Is there no separate 64 bit gui for osx in R 3.0? #rstats
+319524791122001920  Apr  3 15:00  @Trangucc         RT @hadleywickham: speaking about visualising 100,000,000 observations in #rstats at ucla on Monday: http://www.polisci.ucla.edu/workshops/ap
+319531086113808384  Apr  3 15:25  @jeffreyhorner    @gappy3000 Can we nominate that tweet as an #rstats fortune entry?
+319532041534308352  Apr  3 15:29  @skotlander       New project for statistical analysis of Stock Trends indicators in well underway. #Rstats #Quant #trading
+319538350899990529  Apr  3 15:54  @alexcarisey      RT @walkingrandomly: Version 3.0 of #rstats has been released! https://stat.ethz.ch/pipermail/r-announce/2013/000561.html
+319538577778290688  Apr  3 15:55  @gawbul           @hylopsar You got the logs? :) #rstats
+319538746854887424  Apr  3 15:55  @noamross         Can you silence deprecation warnings in #rstats? Since upgrading to 3.0.0 everything I do reminds me that ".path.package" is deprecated.
+319540470181150720  Apr  3 16:02  @robertvesco      R 3.0 released - changelog #rstats:  http://bit.ly/Z9sgmU
+319541234085556224  Apr  3 16:05  @tkoskela         RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://simplystatistics.org/?p=1130
+319543585051660288  Apr  3 16:15  @boysenandrew     Good times! RT @robertvesco: R 3.0 released - changelog #rstats:  http://bit.ly/Z9sgmU
+319543670695149570  Apr  3 16:15  @prabhasp         Data discovery of the day: plyr's idata.frame (immutable data frame). SUBSTANTIAL perf improvements, on a 100K row dataset group-by. #rstats
+319544715613716480  Apr  3 16:19  @prabhasp         Data discovery of the day: plyr's idata.frame: http://stackoverflow.com/questions/3685492/r-speeding-up-group-by-operations SUBSTANTIAL perf improvements, on a 100K row dataset group-by. #rstats
+319545590981738496  Apr  3 16:23  @timelyportfolio  Timely Portfolio: Tables Are Like Cockroaches http://timelyportfolio.blogspot.com/2013/04/tables-are-like-cockroaches.html?spref=tw #rstats #html
+319553828888387584  Apr  3 16:55  @mhsorens         RT @StrictlyStat: Great post about sna library in R #rstats  http://bit.ly/WbLH6y Thanks from @isDotR
+319555547236020224  Apr  3 17:02  @jbkunst          RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+319555865499807744  Apr  3 17:03  @johnbaums        Time to update #rstats. http://cran.r-project.org/
+319557232549326848  Apr  3 17:09  @attilacsordas    "R version 3 released" #rstats http://feedly.com/k/Xeemwc
+319557261074767872  Apr  3 17:09  @revodavid        Major thanks to the R Core Team for the release of Rv3. Statistical Computing has advanced because of them. http://bit.ly/Xeelsf #rstats
+319559065237876736  Apr  3 17:16  @zentree          Tal Galili on what’s new in, and how to upgrade to #Rstats 3.  http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/ HT: @revodavid
+319561149072957441  Apr  3 17:24  @nicoleradziwill  @sgoggins swimming too. And coding. Especially in #rstats
+319562224899338240  Apr  3 17:29  @piezunka         RT @robertvesco: R 3.0 released - changelog #rstats:  http://bit.ly/Z9sgmU
+319562264422268928  Apr  3 17:29  @secretmirth      Great resource RT@revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/14Llq8q
+319562679566102530  Apr  3 17:30  @Rbloggers        R version 3 released:  (This article was first published on   Revolutions, and kindly contributed to R... http://bit.ly/16p8X6n #rstats
+319564357870694400  Apr  3 17:37  @martinmev        RT @jjgibaja: R version 3.0.0 has been released! http://www.r-project.org/ #rstats
+319570702653071360  Apr  3 18:02  @cwhelan          I seriously hate messing with par, mar, oma, etc. #rstats
+319571606982770688  Apr  3 18:06  @n0rr             RT @attilacsordas: "R version 3 released" #rstats http://feedly.com/k/Xeemwc
+319573156857802752  Apr  3 18:12  @antu             just installed R 3.0.0..did not get time to look but am excited to see if it can now (efficiently) handle next gen seq data #rstats
+319576794820927488  Apr  3 18:26  @fernando_mayer   R 3.0.0 "Masked Marvel" is released! Big changes available: http://bit.ly/XHNSDk #rstats
+319582035008184320  Apr  3 18:47  @d3visualization  RT @ramnath_vaidya: Embed D3.js animation in Slidify https://github.com/ramnathv/slidifyExamples/wiki/Embed-D3.js-Animations-in-Slidify #rstats #slidify
+319582747544915968  Apr  3 18:50  @Rbloggers        A brief note: R 3.0.0 and bioinformatics:  (This article was first published on   What You're Doing Is... http://bit.ly/16pmQSb #rstats
+319583287523815424  Apr  3 18:52  @nareal           RT @walkingrandomly: Version 3.0 of #rstats has been released! https://stat.ethz.ch/pipermail/r-announce/2013/000561.html
+319603399865802752  Apr  3 20:12  @romeroescobar    #Rstats 3 is released... Windows  binaries soon to come #in https://stat.ethz.ch/pipermail/r-announce/2013/000561.html
+319606478904365057  Apr  3 20:24  @zentree          I'm a 'defensive' early adopter. Usually running 1-2 versions old, as I put a premium on system stability (RE: most software & #Rstats).
+319612106922147840  Apr  3 20:47  @kwd4bytecodes    brought some @kwd4bytecodes data to the R mini-hackathon at the #montreal R user group, CRAN nnet couldn't take it sadly #rstats
+319634429481975808  Apr  3 22:16  @Gliders_Coach    R 3.0 launched #rstats http://wp.me/p9q8Y-2RB
+319638715423145985  Apr  3 22:33  @tomschenkjr      R now supports more than 2^31-1 elements in a vector. Hooray huge datasets! Can we define >2.1*10^9 rows as as #bigdata now? #rstats
+319643599828557824  Apr  3 22:52  @wabarree         #Rstats 3.0 is here.  Who has tried it? Stability issues? Do you like it?
+319659578818183168  Apr  3 23:55  @Insider_sales    R 3.0 launched #rstats http://bit.ly/10sPwZB #b2bsales
+319667734239666177  Apr  4 00:28  @number_three     Mighty impressed with new #Rstats 3.0.0 released today http://bit.ly/108pZ8b and the MacOS build updated tonight http://cran.r-project.org/
+319669562259955714  Apr  4 00:35  @rrm1003          RT @Insider_sales: R 3.0 launched #rstats http://bit.ly/10sPwZB #b2bsales
+319677754851344384  Apr  4 01:08  @gdolniak         With the new R 3.0 installed, I'm ready to impressed http://cran.r-project.org/ #Rstats #in
+319685833445761024  Apr  4 01:40  @AndrewMarritt    Great interview by Ajay Ohri: Dr. Ian Fellows http://Fellstat.com #rstats Deducer  http://wp.me/p9q8Y-2Rw via @Gliders_Coach
+319697109458767872  Apr  4 02:25  @jbkunst          Ejale! #rstats v 3.0.0, :)
+319710426579468288  Apr  4 03:18  @askeluv          R version 3 released http://blog.revolutionanalytics.com/2013/04/r-version-3-released.html #rstats
+319716277646155776  Apr  4 03:41  @cloudHPC         my favorite command after installing R-3.0.0  update.packages(checkBuilt=TRUE) #rstats
+319724901051293696  Apr  4 04:15  @boris_gorelik    How to properly highlight points in ggplot2 plots that use facets http://ow.ly/jJjNa my #rstats Stack Overflow question
+319732852126257152  Apr  4 04:47  @BusinessSchools  Open Source Finance 1. QuantLib - Interview with QuantLib co-founder, Luigi Ballabio http://bit.ly/13yoS5e  #quant #rstats @lballabio
+319732852302442496  Apr  4 04:47  @fin_tech         Open Source Finance 1. QuantLib - Interview with QuantLib co-founder, Luigi Ballabio http://bit.ly/13yoS5e  #quant #rstats @lballabio
+319732852377939968  Apr  4 04:47  @Risk_Mgmt        Open Source Finance 1. QuantLib - Interview with QuantLib co-founder, Luigi Ballabio http://bit.ly/13yoS5e  #quant #rstats @lballabio
+319732852407291904  Apr  4 04:47  @moneyscience     Open Source Finance 1. QuantLib - Interview with QuantLib co-founder, Luigi Ballabio http://bit.ly/13yoS5e  #quant #rstats @lballabio
+319732852579258368  Apr  4 04:47  @hedgefundfocus   Open Source Finance 1. QuantLib - Interview with QuantLib co-founder, Luigi Ballabio http://bit.ly/13yoS5e  #quant #rstats @lballabio
+319734925475598336  Apr  4 04:55  @AndrewLLJackson  annoying feature on v3 #Rstats on mac osx. If i type ?mea then tab to autocomplete, it adds a ? to return ??mean. This is not what i want!
+319739564937863168  Apr  4 05:13  @spatialanalysis  Loads of people now using #rstats for spatial data analysis / visualisation- a real shift from previous years at #GISRUK.  Great to see!
+319739695800147968  Apr  4 05:14  @spatialanalysis  Loads of people now using #rstats for spatial data analysis / visualisation- a real shift from previous years at #GISRUK2013.  Great to see!
+319740916480999424  Apr  4 05:19  @GISRUK2013       RT @spatialanalysis: Loads of people now using #rstats for spatial data analysis / visualisation- a real shift from previous years at #GISRUK.  Great to see!
+319750320379019264  Apr  4 05:56  @frod_san         Easily updating #rstats and R packages http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319757421276971008  Apr  4 06:24  @InsectEcology    Overnight twitter has become a dating site for shy nerds who love data. hashtag = #rstats to join in.
+319765535229374464  Apr  4 06:56  @HeidiKayDeidi    RT @InsectEcology: Overnight twitter has become a dating site for shy nerds who love data. hashtag = #rstats to join in.
+319766579418107906  Apr  4 07:01  @MacDiva          There's a new R! Here's how to upgrade to the latest version (3.0.0): http://j.mp/YU9mxj Binaries will be out soon. #rstats
+319766899321884672  Apr  4 07:02  @sc_evans         RT @InsectEcology: Overnight twitter has become a dating site for shy nerds who love data. hashtag = #rstats to join in.
+319766929432780800  Apr  4 07:02  @sh1mmer          RT @MacDiva: There's a new R! Here's how to upgrade to the latest version (3.0.0): http://j.mp/YU9mxj Binaries will be out soon. #rstats
+319767332157263872  Apr  4 07:04  @sc_evans         Just realizing I basically live and breathe #Rstats right now. I read more vignettes than biology papers nowadays...
+319768755863445505  Apr  4 07:09  @mikeloukides     R 3.0.0 released! Binaries coming soon. Most important change: very long vectors, data frames > 2B rows. #rstats http://bit.ly/XZzELn
+319769936924905472  Apr  4 07:14  @MireiaBartrons   RT @MacDiva: There's a new R! Here's how to upgrade to the latest version (3.0.0): http://j.mp/YU9mxj Binaries will be out soon. #rstats
+319772639499534337  Apr  4 07:25  @ajpelu           RT @frod_san: Easily updating #rstats and R packages http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319773624825425920  Apr  4 07:29  @AStavrakoudis    RT @mikeloukides: R 3.0.0 released! Binaries coming soon. Most important change: very long vectors, data frames > 2B rows. #rstats http://t.co/rtZhX8OioI
+319774454915936256  Apr  4 07:32  @harrisj          RT @MacDiva: There's a new R! Here's how to upgrade to the latest version (3.0.0): http://j.mp/YU9mxj Binaries will be out soon. #rstats
+319784107993341952  Apr  4 08:10  @datennutzen      R Version 3.0.0 ist veröffentlicht mit weiteren Verbesserungen für #BigData  Analysen http://blog.eoda.de/2013/04/04/r-version-3-0-0-ist-da-und-bringt-weitere-verbesserungen-fur-big-data/ via @datennutzen #rstats
+319784692612231170  Apr  4 08:13  @IronistM         Wharton Customer Analytics Initiative Announces Buy ‘Til You Die (BTYD) Models Package Release | http://bit.ly/XO6Vxr #rstats
+319789551570808832  Apr  4 08:32  @agrueneberg      RT @mikeloukides: R 3.0.0 released! Binaries coming soon. Most important change: very long vectors, data frames > 2B rows. #rstats http://t.co/rtZhX8OioI
+319790241718341632  Apr  4 08:35  @web_martin       RT @mikeloukides: R 3.0.0 released! Binaries coming soon. Most important change: very long vectors, data frames > 2B rows. #rstats http://t.co/rtZhX8OioI
+319792079100313603  Apr  4 08:42  @thedesertgate    Nerds. RT @spatialanalysis: Loads of people now using #rstats for spatial data analysis / visualisation
+319793843346235393  Apr  4 08:49  @jeeltcraft       RT @ramnath_vaidya: Embed D3.js animation in Slidify https://github.com/ramnathv/slidifyExamples/wiki/Embed-D3.js-Animations-in-Slidify #rstats #slidify
