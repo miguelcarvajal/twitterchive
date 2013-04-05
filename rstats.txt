@@ -2210,3 +2210,56 @@
 320139288601849858  Apr  5 07:42  @joshua_ulrich    @ramhiser quantmod has similar functions: findPeaks and findValleys #rstats
 320148195994894337  Apr  5 08:17  @chlalanne        RT @reid_jf: Bioconductor 2.12 is released following R 3.0.0 "Masked Marvel" #rstats http://bit.ly/XhhGXr
 320151504726159360  Apr  5 08:30  @sharon000        Lynda-dot-com adds course on learning R http://bit.ly/16BjahZ #rstats @lynda
+320158875741466626  Apr  5 08:59  @rmflight         I wonder how many *new* @Bioconductor packages will use the new vignette options (ie knitr) in R 3.0, and how many will switch?? #rstats
+320166694016397312  Apr  5 09:31  @statslabdublin   RT @revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
+320168703679410176  Apr  5 09:39  @sc_evans         I'm looking to write #Java code that starts an #Rstats session, tells R to source .R files, terminates R, repeat. Help?
+320173136718991360  Apr  5 09:56  @rmflight         reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320177474132643840  Apr  5 10:13  @BDataScientist   RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://flip.it/QU47E #datascience
+320177819927867392  Apr  5 10:15  @jeanburgess      RT @BDataScientist: RT @simplystats: Introducing the healthvis R package  - one line D3 graphics with R #rstats http://flip.it/QU47E #datascience
+320184213116686336  Apr  5 10:40  @hrbrmstr         Rly good example of getting data out of R and into #D3 with interactivity // R, D3.Js And Sna Course http://ow.ly/jMpUf #rstats
+320184528004055043  Apr  5 10:41  @hadleywickham    RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320185508015792129  Apr  5 10:45  @DevNambi         RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320186810141638656  Apr  5 10:50  @geospacedman     RT @spatialanalysis: Loads of people now using #rstats for spatial data analysis / visualisation- a real shift from previous years at #GISRUK2013.  Great to see!
+320187256772128769  Apr  5 10:52  @sjGoring         RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320187534162411521  Apr  5 10:53  @CoreySparks1     An Introduction to SAS for R Programmers #rstats @SASsoftware   http://blog.revolutionanalytics.com/2013/04/an-introduction-to-sas-for-the-r-programmer.html
+320188294010920960  Apr  5 10:56  @samuelcrane      RT @genetics_blog: List of #Bioinformatics Workshops and Training Resources http://gettinggeneticsdone.blogspot.com/2013/04/list-of-bioinformatics-workshops-training.html #NGS #Rstats #Genomics #Genetics
+320190538118729730  Apr  5 11:05  @cpsievert        RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320190766045605888  Apr  5 11:06  @tarekisfree      RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320191199992492033  Apr  5 11:08  @rOpenSci         Vote for our app -> TaxaViewer - In the USGS App Contest #rstats #ecology  http://1.usa.gov/10Cxzqu
+320191228312440832  Apr  5 11:08  @recology_        RT @rOpenSci: Vote for our app -> TaxaViewer - In the USGS App Contest #rstats #ecology  http://1.usa.gov/10Cxzqu
+320191309761617920  Apr  5 11:08  @ethanwhite       RT @rOpenSci: Vote for our app -> TaxaViewer - In the USGS App Contest #rstats #ecology  http://1.usa.gov/10Cxzqu
+320191310277525505  Apr  5 11:08  @weecology        RT @rOpenSci: Vote for our app -> TaxaViewer - In the USGS App Contest #rstats #ecology  http://1.usa.gov/10Cxzqu
+320191457690525696  Apr  5 11:09  @rOpenSci         And here's the TaxaViewer app -> http://bit.ly/10CxLWQ #rstats #ecology
+320192351681273857  Apr  5 11:13  @revodavid        MT @izamryan: A visualization tool that analyses Twitter and Google Trends. Uses  @RevolutionR and PostgreSQL http://bit.ly/XRlYXc #rstats
+320193297228365824  Apr  5 11:16  @cboettig         RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320193420410900481  Apr  5 11:17  @cboettig         RT @rOpenSci: Vote for our app -> TaxaViewer - In the USGS App Contest #rstats #ecology  http://1.usa.gov/10Cxzqu
+320194003456897024  Apr  5 11:19  @jameskeirstead   Brilliant idea! RT @rmflight: reproducible papers as #rstats packages http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320199163625209858  Apr  5 11:40  @_inundata        RT @rOpenSci: Vote for our app -> TaxaViewer - In the USGS App Contest #rstats #ecology  http://1.usa.gov/10Cxzqu
+320202173235474432  Apr  5 11:52  @revodavid        Scatterplots are not a good #DataViz for #BigData. How to make hexbin charts with millions of points in #rstats http://bit.ly/12oeGN8
+320202859104854017  Apr  5 11:54  @sean_tuck        RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320203894674296832  Apr  5 11:58  @PMeins           endorse!: RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320204016170704896  Apr  5 11:59  @Minkoo           RT @revodavid: Scatterplots are not a good #DataViz for #BigData. How to make hexbin charts with millions of points in #rstats http://t.co/1YgQd3gyCg
+320204129391759360  Apr  5 11:59  @nextgenseek      apply vs for http://wp.me/p1MjYA-pY  #rstats
+320205567979319297  Apr  5 12:05  @RLangTip         Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320205653941575681  Apr  5 12:05  @statsepi         RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320206180863578113  Apr  5 12:07  @chlalanne        RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320206665922269184  Apr  5 12:09  @CasalsTMarti     RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320211642879201280  Apr  5 12:29  @TATA_BOX         "@RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae"
+320211922081427456  Apr  5 12:30  @DEAGiles         RT @revodavid: Scatterplots are not a good #DataViz for #BigData. How to make hexbin charts with millions of points in #rstats http://t.co/1YgQd3gyCg
+320216880948334592  Apr  5 12:50  @jasonpbecker     RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320220033378816001  Apr  5 13:03  @jmanelsg         Taller gratuït intro programari R a VI congrés català sociologia http://acs-congres.espais.iec.cat/?page_id=12 +info: https://docs.google.com/file/d/0B1Wy5ZILAh2YX1Fneng0WTRtTGs/edit @ACSociologia #rstats
+320221083770974208  Apr  5 13:07  @ACSociologia     "@jmanelsg: Taller gratuït intro programari R a VI congrés català sociologia http://acs-congres.espais.iec.cat/?page_id=12 +info: https://docs.google.com/file/d/0B1Wy5ZILAh2YX1Fneng0WTRtTGs/edit #rstats"
+320227737925206017  Apr  5 13:33  @cloudHPC         http://m.heise.de/newsticker/meldung/Programmiersprache-R-3-0-fuehrt-Lang-Vektoren-ein-1835822.html #rstats 3.0.0 nun auch in den #deutschland medien
+320228794659127296  Apr  5 13:37  @chlalanne        RT @kwbroman: @d3visualization RT @StrictlyStat  Introducing the healthvis R package  - one line D3 graphics with R #rstats http://t.co/0PqBDYRN9Y
+320231727018676224  Apr  5 13:49  @mike_malecki     Anyone like getting dirty with #Rstats C++, cross-platform compilation issues?
+320232635618181121  Apr  5 13:53  @eddelbuettel     Sure, frame it as an Rcpp question for our list @mike_malecki Anyone like getting dirty with #Rstats C++, cross-platform compilation issues?
+320232691310157824  Apr  5 13:53  @ibartomeus       RT @rOpenSci: Vote for our app -> TaxaViewer - In the USGS App Contest #rstats #ecology  http://1.usa.gov/10Cxzqu
+320234218582056961  Apr  5 13:59  @KirkDBorne       RT @revodavid: Scatterplots are not a good #DataViz for #BigData. How to make hexbin charts with millions of points in #rstats http://t.co/1YgQd3gyCg
+320235967845920769  Apr  5 14:06  @kribys           God idé! | reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham (via @rmflight)
+320239381287940096  Apr  5 14:19  @newmedian        RT @drewconway: Why not try R? http://bit.ly/REEuzL #rstats
+320244536523776000  Apr  5 14:40  @hywelm           Metafor: http://bit.ly/16Ca9Fw pecyn #rstats ar gyfer dadansoddiadau meta
+320246975004024833  Apr  5 14:50  @PhDStudents      RT @revodavid: Scatterplots are not a good #DataViz for #BigData. How to make hexbin charts with millions of points in #rstats http://t.co/1YgQd3gyCg
+320247083066064896  Apr  5 14:50  @frod_san         RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html @xieyihui @hadleywickham
+320247290952568832  Apr  5 14:51  @Rbloggers        Estimated Follower Accession Charts for Twitter:  (This article was first published on   OUse... http://bit.ly/Zj4FA6 #rstats
+320247292164730880  Apr  5 14:51  @Rbloggers        Interview by DescisionStats:  (This article was first published on   Fells Stats » R, and kindly contr... http://bit.ly/16xWBsM #rstats
+320247646130425856  Apr  5 14:52  @frod_san         RT @rOpenSci: And here's the TaxaViewer app -> http://bit.ly/10CxLWQ #rstats #ecology
