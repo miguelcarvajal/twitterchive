@@ -2148,3 +2148,65 @@
 319877837458903040  Apr  4 14:23  @kristiholmes     RT @genetics_blog: List of #Bioinformatics Workshops and Training Resources http://gettinggeneticsdone.blogspot.com/2013/04/list-of-bioinformatics-workshops-training.html #NGS #Rstats #Genomics #Genetics
 319879254609362945  Apr  4 14:28  @kdnuggets        Ajay Ohri interviews Ian Fellows, creator of an acclaimed R Deducer package, founder http://Fellstat.com #rstats http://bit.ly/11ssAem
 319880381249748993  Apr  4 14:33  @richmanmax       Fellow open-sourcerers, how do you thank the #os packages you use most? Too many to track ie #python, #mvim, #rstats, #qgis, #inkscape, #AOO
+319888107388424193  Apr  4 15:04  @revodavid        Heard about SAS, but not really sure how it's used? Check out @revojoe's a guide to SAS for #rstats users http://bit.ly/ZCaD8b
+319888173729714176  Apr  4 15:04  @JBezivin         RT @sjGoring: R 3.0.0 will allow users to create data.frames with more than 2 billion rows! I don't need it, but I want it. #rstats http://t.co/nNByFZkOkv
+319888946203086848  Apr  4 15:07  @mmalohlava       RT @sjGoring: R 3.0.0 will allow users to create data.frames with more than 2 billion rows! I don't need it, but I want it. #rstats http://t.co/nNByFZkOkv
+319892203101122560  Apr  4 15:20  @mspan            RT @kdnuggets: Ajay Ohri interviews Ian Fellows, creator of an acclaimed R Deducer package, founder http://Fellstat.com #rstats http://t.co/wZhawIJdP0
+319899365038768129  Apr  4 15:48  @recology_        kinda neat, but an @rstudioapp interface would be better MT @statace_com: free online #rstats system: http://www.statace.com
+319900208471355392  Apr  4 15:52  @treycausey       The GAMens #rstats package implements the GAMbag, GAMrsm and GAMens ensemble classiﬁers for binary classiﬁcation. http://bit.ly/10zNS7r
+319901926638645248  Apr  4 15:58  @zentree          STATACE web version of #Rstats. Can't quite find the user case but looks cool. http://www.statace.com HT: @recology_
+319901960218226688  Apr  4 15:59  @SpringerStats    May 17 & 18 we'll be at the R/Finance conference in Chicago, http://www.rinfinance.com/  #rstats
+319902426566123521  Apr  4 16:00  @arcalb           RT @RLangTip: Use mapply to call a multi-argument function repeatedly, e.g. mapply(sample, list(1:56, 1:46), c(5,1)) #rstats http://t.co/FioGPKfO00
+319903576333901824  Apr  4 16:05  @JGreenbrookHeld  I have CSV files with spaces in column names. Is there an easy way to import these into #rstats? I'm formatting them in excel at the moment.
+319903594277138433  Apr  4 16:05  @nachocaballero   Enjoy @trifacta's Vega from R by using clickme: http://bit.ly/clickme_vega   #d3js #rstats #dataviz
+319903629618327552  Apr  4 16:05  @rOpenSci         USGS app competition entries now publicly visible, including ours: http://1.usa.gov/11sRn1W #rstats @rstudioapp  #shiny
+319903666620485632  Apr  4 16:05  @recology_        RT @rOpenSci: USGS app competition entries now publicly visible, including ours: http://1.usa.gov/11sRn1W #rstats @rstudioapp  #shiny
+319908276856819712  Apr  4 16:24  @d3visualization  RT @nachocaballero: Enjoy @trifacta's Vega from R by using clickme: http://bit.ly/clickme_vega   #d3js #rstats #dataviz
+319908915292811265  Apr  4 16:26  @JGreenbrookHeld  @brianabelson I've been doing a find-and-replace in Excel and just deleting the spaces. Thought #rstats might be able to do that for me...
+319909075263553536  Apr  4 16:27  @eddelbuettel     See you there! MT @SpringerStats May 17 & 18 we'll be at the R/Finance conference in Chicago, http://www.rinfinance.com/   #rstats #rfinance
+319909590173093889  Apr  4 16:29  @Chris_Bilder     RT @revodavid Heard about SAS, but not really sure how it's used? Check out @revojoe's guide to SAS for #rstats users http://bit.ly/ZCaD8b
+319922209894305793  Apr  4 17:19  @statisticsblog   Getting some interesting comments on my review of Mathematica 9 and Rlink http://bit.ly/10wgbEO @WolframResearch #rstats #statisticsblog
+319926152162590720  Apr  4 17:35  @Biff_Bruise      RT @statace_com: A new, free online #rstats system with a nice and easy interface: http://www.statace.com
+319932971262021632  Apr  4 18:02  @Ercan__Yilmaz    R 3.0.0 is released http://www.r-bloggers.com/r-3-0-0-is-released-whats-new-and-how-to-upgrade/ #rstats
+319935957753290753  Apr  4 18:14  @crozierrj        Also true in stats coding world #rstats MT @WSJ "In today's real world, there are only two meaningful [movie] ratings: R and not R."...
+319946485905096704  Apr  4 18:56  @alexchubaty      R v 3.0.0 released. Notable improvements in memory allocation! #rstats http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319958626930421761  Apr  4 19:44  @sjackman         RT @hylopsar: #Rstats 3.0.0 is released! (what’s new, and how to upgrade) http://www.r-statistics.com/2013/04/r-3-0-0-is-released-whats-new-and-how-to-upgrade/
+319958994682781696  Apr  4 19:45  @ajverster        Am I the only one who always uses set.seed(7) in #rstats?
+319968136533254144  Apr  4 20:22  @mathematicoffee  anyone done location matching (string to GPS)? e.g. "seoul korea", "stockhom" (spelling mistake), "not a location"? #rstats
+319968495414681600  Apr  4 20:23  @imusicmash       preparing for an interview on data mining on my company's blog talk radio channel. Frid 3pm PT #datamining #rstats http://www.blogtalkradio.com/allegiance/2013/04/05/telling-a-story-with-data-mining
+319973978829635585  Apr  4 20:45  @geoffjentry      @ndoogan Of course it doesn't help that #rstats is one giant retweet :) I know some folks said 1.1.5 solved this for them, which is curious
+319987931253194752  Apr  4 21:40  @Rbloggers        Announcing eeptools 0.2:  (This article was first published on   Data, Evidence, and Policy - Jared Kn... http://bit.ly/12nFadU #rstats
+319994996356968448  Apr  4 22:08  @noamross         Today at Davis #Rstats Users' Group: Kara Moore O'Leary shows how to use the popbio package for demographic analysis http://goo.gl/UmdZz
+320005099227324416  Apr  4 22:48  @deckerego        Wondering if there is OSS to parse CC stmts to find possible fraud... mebbe an #rstats script could do the job http://www.sersc.org/journals/IJSEIA/vol6_no4_2012/5.pdf
+320015612573270016  Apr  4 23:30  @lucaborger       Looks cool! RT @larysar: Temporal networks with igraph and R (with 20 lines of code!) http://markov.uc3m.es/2012/11/temporal-networks-with-igraph-and-r-with-20-lines-of-code/ #rstats
+320015714222223361  Apr  4 23:31  @ramhiser         Useful #rstats function to find local maxima (aka peaks) in a vector https://gist.github.com/ramey/5316385
+320019477687308288  Apr  4 23:46  @rhatol           Data-Science-as-a-service, is it worth building it in-house? #rstats
+320028346849304577  Apr  5 00:21  @FastBigData      RT @genspire: Besides Big Data, there is #FastData: stream R package is for massive online stream data mining #rstats http://bit.ly/14zlojL
+320028626185756672  Apr  5 00:22  @jaredlander      @xieyihui Is there a way to adjust the font size of #WebTex equtions through #knitr ? #rstats
+320029931948081152  Apr  5 00:27  @jacopoanselmi    Amazing #Julia tutorial from #mit #rstats http://julialang.org/blog/2013/03/julia-tutorial-MIT/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JuliaLang+%28The+Julia+Blog%29&utm_content=FeedBurner
+320031904101437441  Apr  5 00:35  @flash_us         RT @ramhiser: Useful #rstats function to find local maxima (aka peaks) in a vector https://gist.github.com/ramey/5316385
+320032056233033730  Apr  5 00:36  @mathematicoffee  how to do advanced searching in #rstats? e.g. 'seoul korea', 'soul', 'korea seoul' should match the row with cols 'seoul' and 'south korea'?
+320033982064508928  Apr  5 00:43  @stewthedeluxe    RT @ndoogan: .@geoffjentry thanks for your efforts developing the twitteR #rstats package!
+320043370661687297  Apr  5 01:21  @timelyportfolio  RT @nachocaballero: Enjoy @trifacta's Vega from R by using clickme: http://bit.ly/clickme_vega   #d3js #rstats #dataviz
+320047929865953280  Apr  5 01:39  @SAGRudd          feeling pretty empowered with fresh install of #Rstats 3.0.0 - then discover ShortReads package not yet available = #doh
+320049237389881344  Apr  5 01:44  @recology_        RT @jacopoanselmi: Amazing #Julia tutorial from #mit #rstats http://julialang.org/blog/2013/03/julia-tutorial-MIT/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JuliaLang+%28The+Julia+Blog%29&utm_content=FeedBurner
+320049388867182593  Apr  5 01:44  @timelyportfolio  RT @ramhiser: Useful #rstats function to find local maxima (aka peaks) in a vector https://gist.github.com/ramey/5316385
+320051095399436288  Apr  5 01:51  @deeptwit         Gr8 #rstats #meetup @ #ucsb 2nite, 3 xlnt talks & 20 smart r users, thx 2 @RevolutionR 4 sponsoring & Garret Glasgow 4 organizing!
+320056881345347585  Apr  5 02:14  @arjenpdevries    RT @julian_urbano: Blazing fast data manipulation in #Rstats with data.table package http://cran.r-project.org/web/packages/data.table/index.html
+320058882586198017  Apr  5 02:22  @zenrhino         Got another Euler problem in #Rstats tonight. The hard part isn't the math (yet), it's the doing the math R-ly. After that, it's a breeze.
+320068657684303872  Apr  5 03:01  @PPUAMX           RT @RLangTip: Use mapply to call a multi-argument function repeatedly, e.g. mapply(sample, list(1:56, 1:46), c(5,1)) #rstats http://t.co/FioGPKfO00
+320079991805210625  Apr  5 03:46  @marcoscan        Tutorial- Building Biological Networks  http://wp.me/p2zWKm-61 #rstats
+320088087508185088  Apr  5 04:18  @Rbloggers        R, D3.js and SNA Course:  (This article was first published on   http://jkunst.com: Entries for ca... http://bit.ly/10hII1a #rstats
+320101345350782976  Apr  5 05:11  @yokofakun        RT @genetics_blog: List of #Bioinformatics Workshops and Training Resources http://gettinggeneticsdone.blogspot.com/2013/04/list-of-bioinformatics-workshops-training.html #NGS #Rstats #Genomics #Genetics
+320104148848742400  Apr  5 05:22  @reid_jf          Bioconductor 2.12 is released following R 3.0.0 "Masked Marvel" #rstats http://bit.ly/XhhGXr
+320106976422027264  Apr  5 05:33  @v1pl             R 3.0.0 Released http://bit.ly/Z5Wsct #Rstats (via @slashdot)
+320112508285370368  Apr  5 05:55  @bishwasapkota    RT @genetics_blog: List of #Bioinformatics Workshops and Training Resources http://gettinggeneticsdone.blogspot.com/2013/04/list-of-bioinformatics-workshops-training.html #NGS #Rstats #Genomics #Genetics
+320114261789663232  Apr  5 06:02  @torstenseemann   RT @genetics_blog: List of #Bioinformatics Workshops and Training Resources http://gettinggeneticsdone.blogspot.com/2013/04/list-of-bioinformatics-workshops-training.html #NGS #Rstats #Genomics #Genetics
+320115609927041024  Apr  5 06:08  @statace_com      @recology_ that's a great idea! while we aim to make it easy for stat novices, we will def look into enabling @rstudioapp for #rstats users
+320120132292706304  Apr  5 06:26  @malinoj          RT @genetics_blog: List of #Bioinformatics Workshops and Training Resources http://gettinggeneticsdone.blogspot.com/2013/04/list-of-bioinformatics-workshops-training.html #NGS #Rstats #Genomics #Genetics
+320136285614403584  Apr  5 07:30  @jonesor          RT @lucaborger: Looks cool! RT @larysar: Temporal networks with igraph and R (with 20 lines of code!) http://markov.uc3m.es/2012/11/temporal-networks-with-igraph-and-r-with-20-lines-of-code/ #rstats
+320138656985776128  Apr  5 07:39  @chrishanretty    R3.0 released, pie to celebrate: pie(c(85,15),init.angle=25,col=c("yellow",1),labels=c("pacman","not pacman")) #rstats h/t anon coward on /.
+320139216946348032  Apr  5 07:41  @MangoTheCat      Version 3 of R now released http://cran.r-project.org/ #Rstats
+320139288601849858  Apr  5 07:42  @joshua_ulrich    @ramhiser quantmod has similar functions: findPeaks and findValleys #rstats
+320148195994894337  Apr  5 08:17  @chlalanne        RT @reid_jf: Bioconductor 2.12 is released following R 3.0.0 "Masked Marvel" #rstats http://bit.ly/XhhGXr
+320151504726159360  Apr  5 08:30  @sharon000        Lynda-dot-com adds course on learning R http://bit.ly/16BjahZ #rstats @lynda
