@@ -667,3 +667,15 @@
 320218383612256256  Apr  5 12:56  @jacobnix         integrando toda la parte bioestadistica para RNA-Seq en Galaxy #usegalaxy !! #fb
 320224053191405568  Apr  5 13:18  @johnpharmd       RT @illumina: #AACR #DiscoSymp  CM - exome or RNA-Seq?? CM says RNA-Seq to find fusions and expression for biological meaning - it worked!
 320227665778978816  Apr  5 13:33  @CancerComputeCl  primary analysis done (RNA-seq, 2x51PE, mm9): TopHat:  aligned reads, % clonal; CuffLinks: OK
+320269927787401216  Apr  5 16:21  @SEQquestions     unknown bases in a RNA-Seq data http://bit.ly/Y3d18W
+320324780970631169  Apr  5 19:59  @tukangtropong    EBARDenovo 1.2.1 Build 20120903 (Freeware): De novo assembler for paired-end RNA-Seq http://bit.ly/uGJU5Q
+320324802290282496  Apr  5 19:59  @Adeola           EBARDenovo 1.2.1 Build 20120903 (Freeware): De novo assembler for paired-end RNA-Seq http://bit.ly/uGJU5Q
+320324812700532738  Apr  5 19:59  @Adeola           EBARDenovo 1.2.1 Build 20120903 (Freeware): De novo assembler for paired-end RNA-Seq http://bit.ly/10lIBBH
+320324821193994240  Apr  5 19:59  @holumydey_hoye   EBARDenovo 1.2.1 Build 20120903 (Freeware): De novo assembler for paired-end RNA-Seq http://bit.ly/uGJU5Q
+320324830069149696  Apr  5 19:59  @novemba23rd      EBARDenovo 1.2.1 Build 20120903 (Freeware): De novo assembler for paired-end RNA-Seq http://bit.ly/uGJU5Q
+320324851447508992  Apr  5 19:59  @atlasoftware     EBARDenovo 1.2.1 Build 20120903 (Freeware): De novo assembler for paired-end RNA-Seq http://bit.ly/10lICpm
+320358302825447424  Apr  5 22:12  @SEQquestions     RNA-Seq variance-based filter before differential expression analysis http://bit.ly/12soHVV
+320373806243913728  Apr  5 23:14  @winappz          #Freeware: EBARDenovo 1.2.1 Build 20120903: [http://softpedia.com] De novo assembler for paired-end RNA-Seq http://j.mp/13ZrZVr
+320467826714484736  Apr  6 05:27  @CancerComputeCl  ACC11 primary analysis done (RNA-seq, 2x51PE, hg19): TopHat: 95569505 aligned reads, 65.82% clonal; CuffLinks: OK
+320473214277017600  Apr  6 05:49  @CancerComputeCl  BCA primary analysis done (RNA-seq, 2x51PE, hg19): TopHat: 97628240 aligned reads, 71.40% clonal; CuffLinks: OK
+320480990982184960  Apr  6 06:19  @CancerComputeCl  FAZA primary analysis done (RNA-seq, 2x51PE, hg19): TopHat: 94387758 aligned reads, 65.47% clonal; CuffLinks: OK

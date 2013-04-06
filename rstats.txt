@@ -2263,3 +2263,53 @@
 320247290952568832  Apr  5 14:51  @Rbloggers        Estimated Follower Accession Charts for Twitter:  (This article was first published on   OUse... http://bit.ly/Zj4FA6 #rstats
 320247292164730880  Apr  5 14:51  @Rbloggers        Interview by DescisionStats:  (This article was first published on   Fells Stats » R, and kindly contr... http://bit.ly/16xWBsM #rstats
 320247646130425856  Apr  5 14:52  @frod_san         RT @rOpenSci: And here's the TaxaViewer app -> http://bit.ly/10CxLWQ #rstats #ecology
+320251409738113024  Apr  5 15:07  @Aidan_M_Keith    RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320251867022106624  Apr  5 15:09  @boris_gorelik    Wonders of #rstats > n=6 > x=seq(n) > x[n/2:n] [1] 3 2 1 1 1 > x[(n/2):n]  [1] 3 4 5 6
+320259857624203266  Apr  5 15:41  @gsantosgo        R v3 released - what is new, how to upgrade. New features allow going beyond 2B rows for #BigData #rstats processing http://bit.ly/12oN1vn
+320262534265450496  Apr  5 15:51  @NestorMontano    Crear gráficos D3 (web javascript) desde R http://simplystatistics.org/2013/04/02/introducing-the-healthvis-r-package-one-line-d3-graphics-with-r/ #RStats
+320265592844210176  Apr  5 16:04  @AutoPublication  Des québécois sur cette liste ? #RStats Boucherville? ;-)
+320265824738869248  Apr  5 16:04  @AutoPublication  RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320266421227622400  Apr  5 16:07  @mrgunn           Nice tutorial on parsing XML with #rstats from @cboettig: http://www.carlboettiger.info/2011/08/26/fishbase-from-r-some-xml-parsing.htm
+320268050207223808  Apr  5 16:13  @algaebarnacle    Wow! Just learned about the as.date() function in R - lots of other helpful time series hints here: http://bit.ly/YY9HPz #rstats
+320272719428071425  Apr  5 16:32  @oscarperpinan    RT @nachocaballero: Enjoy @trifacta's Vega from R by using clickme: http://bit.ly/clickme_vega   #d3js #rstats #dataviz
+320274893990150144  Apr  5 16:40  @recology_        Link bad, this one: http://bit.ly/Y3fdwV RT @mrgunn: Nice tutorial on parsing XML with #rstats from @cboettig: http://www.carlboettiger.info/2011/08/26/fishbase-from-r-some-xml-parsing.htm
+320277174865252352  Apr  5 16:50  @timelyportfolio  @nachocaballero will work on ractive/vega combo to add shaded blocks to #rstats xts for #d3js first try http://bl.ocks.org/timelyportfolio/5322390 @trifacta
+320277953625849857  Apr  5 16:53  @GSwithR          RT @recology_: Link bad, this one: http://bit.ly/Y3fdwV RT @mrgunn: Nice tutorial on parsing XML with #rstats from @cboettig:...
+320278312356290560  Apr  5 16:54  @GSwithR          RT @ramhiser: Useful #rstats function to find local maxima (aka peaks) in a vector http://gist.github.com/ramey/5316385
+320278892990590978  Apr  5 16:56  @GSwithR          RT @rlangtip: Use mapply to call a multi-argument function repeatedly, e.g. mapply(sample, list(1:56, 1:46), c(5,1)) #rstats...
+320280746944253954  Apr  5 17:04  @kozo2            RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320285081484816386  Apr  5 17:21  @phylorich        @TheAtavism @hylopsar @sc_evans Yup - this should become the #rstats version of #python's "if __name__ == "__main__" idiom.
+320286371044524032  Apr  5 17:26  @frod_san         RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320299910958284802  Apr  5 18:20  @geoffjentry      Argh, #rstats REPL cntrl-c cancels current line whereas the #scala REPL it exits the REPL. Guess which one I tend to try to do w/ cntrl-c?
+320314869792530432  Apr  5 19:19  @kateboersma      Wow, publish your paper as an r-pkg! RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html
+320320219442716672  Apr  5 19:41  @gappy3000        Watched a couple of MIT of talks about #julialang. I think I'll stick with python and #rstats for a while
+320325159691096064  Apr  5 20:00  @quantlabs        Performance of #Matlab with fast Deltix #HFT trading platform even with C# #Python #Rstats #FPGA is best for low latency?...
+320329988807225344  Apr  5 20:19  @M_T_Patterson    It's always useful to hear others talking though their code.  @drewconway has several excellent examples:  http://drewconway.com/talks/ #RStats
+320345472243994624  Apr  5 21:21  @geoffjtest       RT @geoffjentry: Argh, #rstats REPL cntrl-c cancels current line whereas the #scala REPL it exits the REPL. Guess which one I tend to try to do w/ cntrl-c?
+320345984477589504  Apr  5 21:23  @frenchrh         Wow, publish your paper as an r-pkg! RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html
+320348326186852353  Apr  5 21:32  @romeroescobar    Error: requested primitive type is not consistent with cached value #Rstats 3.0.0 lost workspace when opening #Rstudio #BackUpYourData #in
+320359721515220992  Apr  5 22:18  @TheDougW         Friday night, can't sleep. It's time for #Rstats! o_o #gradschool
+320361507848351744  Apr  5 22:25  @quantlabs        The advantages of Matlab Simulink and #FPGA with cost analysis over any #HFT #Rstats #Python http://ow.ly/jJXFV
+320361698844352512  Apr  5 22:25  @timelyportfolio  RT @frenchrh: Wow, publish your paper as an r-pkg! RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://t.co/yQgV1C9ozk
+320365300841345024  Apr  5 22:40  @drago_carlo      RT @frenchrh: Wow, publish your paper as an r-pkg! RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://t.co/yQgV1C9ozk
+320367234038001664  Apr  5 22:47  @jayjacobs        Reading about contrasts in R makes me want to kick Minitab in the shin and run.  #rstats
+320367469615267841  Apr  5 22:48  @Rbloggers        Security in R: RAppArmor package & paper updates:  (This article was first published on   OpenCPU » R-... http://bit.ly/12qevkf #rstats
+320367470642855936  Apr  5 22:48  @Rbloggers        Worry about correctness and repeatability, not p-values:  (This article was first published on   Win-V... http://bit.ly/12su5YQ #rstats
+320368732855742466  Apr  5 22:53  @bad_tradecraft   This MT @Rbloggers: Worry about correctness and repeatability, not p-values: http://po.st/cxWr3i #rstats
+320369605950455809  Apr  5 22:57  @aaronchall       Enjoyed today's #Python in Finance convention. A bit annoyed with the MS Azure and F# pitch, but glad to see #RStats make an appearance.
+320378149349244929  Apr  5 23:31  @gammasync        RT @frenchrh: Wow, publish your paper as an r-pkg! RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://t.co/yQgV1C9ozk
+320392030394150913  Apr  6 00:26  @moorejh          #datascience #bioinformatics RT @Rbloggers: Worry about correctness and repeatability, not p-values http://bit.ly/12su5YQ #rstats
+320392167812124672  Apr  6 00:27  @moorejh          #datascience RT @frenchrh @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html
+320414910133723136  Apr  6 01:57  @webbedfeet       RT @moorejh RT @frenchrh @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://robertmflight.blogspot.com/2013/04/reproducible-publications-as-r-packages.html
+320418753550618624  Apr  6 02:12  @JeromyAnglim     Data science course on coursera starting in May https://www.coursera.org/course/datasci #rstats #python #sql
+320418828641247232  Apr  6 02:12  @wgi_pr31ea       Ready for a day of hardcore quantitative variationism. #rstats #bealfest
+320420719139889152  Apr  6 02:20  @danielapaolotti  RT @frenchrh: Wow, publish your paper as an r-pkg! RT @rmflight: reproducible papers as #rstats packages, and markdown vignettes http://t.co/yQgV1C9ozk
+320434440528617473  Apr  6 03:14  @ChrisDiehl       RT @gappy3000: Watched a couple of MIT of talks about #julialang. I think I'll stick with python and #rstats for a while
+320440278278365184  Apr  6 03:38  @JeromyAnglim     Daily build of RStudio 0.98.83, cursor no longer jumps when command is run on highlighted script. Made my day @rstudioapp  #rstats
+320448115998093312  Apr  6 04:09  @ajpelu           RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320461127857356800  Apr  6 05:01  @monsoontrader    lubridate is da shizzle #rstats
+320480304735326208  Apr  6 06:17  @davetangdotorg   #Rstats Bioconductor package for Cap Analysis Gene Expression (CAGE) analysis http://www.bioconductor.org/packages/release/bioc/html/CAGEr.html
+320491564839337985  Apr  6 07:01  @BobMuenchen      RT @Gliders_Coach: Interview Dr. Ian Fellows http://Fellstat.com #rstats Deducer http://lnkd.in/j_gJ-D
+320499062015156224  Apr  6 07:31  @frenchrh         RT @RLangTip Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320500720115798017  Apr  6 07:38  @monsoontrader    RT @frenchrh: RT @RLangTip Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320511974335184897  Apr  6 08:23  @tjkwon75         RT @davetangdotorg: #Rstats Bioconductor package for Cap Analysis Gene Expression (CAGE) analysis http://www.bioconductor.org/packages/release/bioc/html/CAGEr.html
