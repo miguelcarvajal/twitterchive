@@ -2313,3 +2313,21 @@
 320499062015156224  Apr  6 07:31  @frenchrh         RT @RLangTip Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
 320500720115798017  Apr  6 07:38  @monsoontrader    RT @frenchrh: RT @RLangTip Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
 320511974335184897  Apr  6 08:23  @tjkwon75         RT @davetangdotorg: #Rstats Bioconductor package for Cap Analysis Gene Expression (CAGE) analysis http://www.bioconductor.org/packages/release/bioc/html/CAGEr.html
+320540007238606848  Apr  6 10:14  @hadleywickham    RT @monsoontrader: lubridate is da shizzle #rstats
+320540223459188736  Apr  6 10:15  @hadleywickham    #rstats 3.0.0 binaries finally available for mac and windows :)
+320540317721960448  Apr  6 10:15  @Jowanza          RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320540507891707904  Apr  6 10:16  @hrbrmstr         RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320540768307671040  Apr  6 10:17  @jadler           RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320541803294117889  Apr  6 10:21  @hrbrmstr         AppArmor FTW (still be careful, tho) // Security in R: RAppArmor pkg & paper updates : http://ow.ly/jO2rc #rstats
+320543112734846976  Apr  6 10:26  @randyzwitch      Woo hoo! I know what I'm doing this weekend RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320546028484980736  Apr  6 10:38  @hadleywickham    custom R_LIBS + update.packages(checkBuilt = T, ask = F) + rstudio cloud mirror = 5 minutes to upgrade all packages to 3.0 #rstats
+320549730742587394  Apr  6 10:53  @southmapr        Using R and #maps for social activism #rstats #IDSpetition http://t.co/KkcFIapTVp
+320550780933386240  Apr  6 10:57  @nilanp           RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320550804761231360  Apr  6 10:57  @kleinschmidt     excited and scared that all my code is gonna break RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320554725248479234  Apr  6 11:12  @ChrisDiehl       RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320558513267036160  Apr  6 11:27  @adolfoalvarez    RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320558595680923648  Apr  6 11:28  @adolfoalvarez    RT @revodavid: Heard about SAS, but not really sure how it's used? Check out @revojoe's a guide to SAS for #rstats users http://t.co/6IbuxwyYbh
+320559231440928769  Apr  6 11:30  @quantlabs        The advantages of Matlab Simulink and #FPGA with cost analysis over any #HFT, #Rstats. #Python http://ow.ly/jJXMN
+320559438639542274  Apr  6 11:31  @adolfoalvarez    RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320563178234859521  Apr  6 11:46  @JAdP             RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320602449423507456  Apr  6 14:22  @PPUAMX           RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae

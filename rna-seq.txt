@@ -679,3 +679,4 @@
 320467826714484736  Apr  6 05:27  @CancerComputeCl  ACC11 primary analysis done (RNA-seq, 2x51PE, hg19): TopHat: 95569505 aligned reads, 65.82% clonal; CuffLinks: OK
 320473214277017600  Apr  6 05:49  @CancerComputeCl  BCA primary analysis done (RNA-seq, 2x51PE, hg19): TopHat: 97628240 aligned reads, 71.40% clonal; CuffLinks: OK
 320480990982184960  Apr  6 06:19  @CancerComputeCl  FAZA primary analysis done (RNA-seq, 2x51PE, hg19): TopHat: 94387758 aligned reads, 65.47% clonal; CuffLinks: OK
+320571995345543168  Apr  6 12:21  @BiologyMag       http://sciencealerts.com Identifying host pathogenic pathways in bovine digital dermatitis by RNA-Seq analysis http://dlvr.it/3Bbv7z
