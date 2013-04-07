@@ -680,3 +680,7 @@
 320473214277017600  Apr  6 05:49  @CancerComputeCl  BCA primary analysis done (RNA-seq, 2x51PE, hg19): TopHat: 97628240 aligned reads, 71.40% clonal; CuffLinks: OK
 320480990982184960  Apr  6 06:19  @CancerComputeCl  FAZA primary analysis done (RNA-seq, 2x51PE, hg19): TopHat: 94387758 aligned reads, 65.47% clonal; CuffLinks: OK
 320571995345543168  Apr  6 12:21  @BiologyMag       http://sciencealerts.com Identifying host pathogenic pathways in bovine digital dermatitis by RNA-Seq analysis http://dlvr.it/3Bbv7z
+320645979118374912  Apr  6 17:15  @ScienceIndex_    http://scienceindex.com Identifying host pathogenic pathways in bovine digital dermatitis by RNA-Seq analysis http://dlvr.it/3Bf10Q
+320651282857750528  Apr  6 17:36  @aemonten         I want to do poly-A RNA-seq to compare transcriptome under two conditions. How many Ilumina reads do I need if the genome is of about 40 Mb?
+320816083927961600  Apr  7 04:31  @CancerComputeCl  4F_plus_minus primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 217516087 aligned reads, 86.84% clonal; CuffLinks: OK
+320884751399538691  Apr  7 09:04  @MauricioLopes    “@plantbiology: Trends in Plant Science 'RNA-Seq: revelation of the messengers' http://ow.ly/iRIk5”

@@ -2331,3 +2331,33 @@
 320559438639542274  Apr  6 11:31  @adolfoalvarez    RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
 320563178234859521  Apr  6 11:46  @JAdP             RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
 320602449423507456  Apr  6 14:22  @PPUAMX           RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320612881571905537  Apr  6 15:04  @sc_evans         Looking for a really simple explanation of how to edit my .Rprofile. Very confused by the explanation on the Kickstarting R page... #Rstats
+320613326449164288  Apr  6 15:05  @hurricanejim     RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320627143392514048  Apr  6 16:00  @kdnuggets        You need to know both sides: an introduction to SAS for R Programmers #rstats http://bit.ly/YCXiRJ
+320631759270199296  Apr  6 16:19  @divyakkm         RT @kdnuggets: You need to know both sides: an introduction to SAS for R Programmers #rstats http://bit.ly/YCXiRJ
+320633811509600257  Apr  6 16:27  @chlalanne        RT @kdnuggets: You need to know both sides: an introduction to SAS for R Programmers #rstats http://bit.ly/YCXiRJ
+320637205771075584  Apr  6 16:40  @Rbloggers        Guide to accessing MS SQL Server and MySQL server on Mac OS X:  (This article was first published on... http://bit.ly/12vacAp #rstats
+320668428925030400  Apr  6 18:44  @tkoskela         RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320678574573096961  Apr  6 19:25  @wpostbot         How to handle a troublesome html page at reading it in R. #rstats http://wp.me/p3hIgE-T http://t.co/YYAmrXGxz6
+320712185804386305  Apr  6 21:38  @JChrisPires      RT @genetics_blog: List of #Bioinformatics Workshops and Training Resources http://gettinggeneticsdone.blogspot.com/2013/04/list-of-bioinformatics-workshops-training.html #NGS #Rstats #Genomics #Genetics
+320712231824285697  Apr  6 21:38  @JChrisPires      RT @ngsgene: Neat! MT List of #Bioinformatics Workshops & Training Resources http://gettinggeneticsdone.blogspot.com/2013/04/list-of-bioinformatics-workshops-training.html … #NGS #Rstats #Genomics #Genetics #bioinformatics
+320717595189850112  Apr  6 22:00  @ChemViper        Free Podcasts for R http://www.tcd.ie/Zoology/research/research/theoretical/Rpodcasts.php #rstats via @AndrewLLJackson
+320720638870425600  Apr  6 22:12  @ottawaskeptics   @Corey_Yanofsky check out the #rstats hashtag while you are here. And I make no apologies for RAS Syndrome.
+320721484714745856  Apr  6 22:15  @GSwithR          RT @revodavid: Scatterplots are not a good #DataViz for #BigData. How to make hexbin charts with millions of points in #rstats http://t.co/1YgQd3gyCg
+320723289372778496  Apr  6 22:22  @TheDougW         Okay, sleep time. Lots of writing, reading, and #rstats for tomorrow. #gradschool
+320729454076891136  Apr  6 22:47  @davetangdotorg   Top 10 tips to get started with #Rstats http://www.r-bloggers.com/top-10-tips-to-get-started-with-r/ via @Rbloggers
+320746393218191361  Apr  6 23:54  @timelyportfolio  very nice #rstats @rstudioapp #shiny Retirement : simulating wealth with random returns, inflation and withdrawals http://bit.ly/Z0NoIU
+320760189299068928  Apr  7 00:49  @timelyportfolio  @jeffrey_heer @nachocaballero for #rstats users, can convert these by asPOSIXct(lifelinedata/1000,origin="1970-01-01")
+320771026873094144  Apr  7 01:32  @cloudHPC         RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+320790663245471745  Apr  7 02:50  @xieyihui         When can we say goodbye to emails for #rstats packages on CRAN? http://yihui.name/en/2013/04/travis-ci-for-r/
+320801145704550400  Apr  7 03:32  @Rbloggers        Travis CI for R?:  (This article was first published on   Yihui Xie, and kindly contributed to R-blo... http://bit.ly/10GzdIC #rstats
+320801528938106880  Apr  7 03:33  @patrickm145      @kdnuggets The only side that matters to me is that I can afford R. #rstats
+320805792603336704  Apr  7 03:50  @recology_        RT @xieyihui: When can we say goodbye to emails for #rstats packages on CRAN? http://yihui.name/en/2013/04/travis-ci-for-r/
+320819317266608129  Apr  7 04:44  @phylorich        RT @xieyihui: When can we say goodbye to emails for #rstats packages on CRAN? http://yihui.name/en/2013/04/travis-ci-for-r/
+320844189942284288  Apr  7 06:23  @frenchrh         Useful.  MT @Rbloggers p-values are (possibly biased) estimates of probability that null hypothesis is true  http://bit.ly/11amAqA #rstats
+320856072917233664  Apr  7 07:10  @sessan60jp       RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+320867285977944064  Apr  7 07:54  @irecsys          RT @kdnuggets: You need to know both sides: an introduction to SAS for R Programmers #rstats http://bit.ly/YCXiRJ
+320869759463862272  Apr  7 08:04  @gawbul           Bayesian Computation with R (Use R) @AmazonKindle edition for the awesome price of £0.00 on @AmazonUK now :-) #rstats http://www.amazon.co.uk/Bayesian-Computation-Use-ebook/dp/B001E5C56W/ref=wl_it_dp_o_pC_nS_nC?ie=UTF8&colid=1PWC13L1NS1LH&coliid=I8CY1FNZ0X8AW
+320883781965856768  Apr  7 09:00  @coffee001        Hey #rstats people, who has pointers to resources on using machine learning (esp.  semi-supervised) for computational content analysis?
+320890130300809217  Apr  7 09:25  @GaiaTek          RT @gawbul: Bayesian Computation with R (Use R) @AmazonKindle edition for the awesome price of £0.00 on @AmazonUK now :-) #rstats http://t.co/ipLNbNHGdg
+320890532744273920  Apr  7 09:27  @TomTensfeldt     RT @gawbul: Bayesian Computation with R (Use R) @AmazonKindle edition for the awesome price of £0.00 on @AmazonUK now :-) #rstats http://t.co/ipLNbNHGdg
