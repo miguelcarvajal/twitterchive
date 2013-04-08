@@ -2450,3 +2450,43 @@
 321243260087590913  Apr  8 08:48  @drago_carlo      RT @i_314: Learning by training: Artificial Neural Networks. ANN example on R. #rstats http://tanyarawat.wordpress.com/2013/04/07/learning-by-training-artificial-neural-networks/?goback=.gmp_127449.gde_127449_member_229957800
 321244980721090561  Apr  8 08:55  @jmgomez          RT @gsantosgo: Análisis de Redes Sociales caso Enron por @ConcejeroPedro #RStats https://github.com/gsantosgo/RStats/tree/master/R-Social%20Network%20Analysis
 321245009049427968  Apr  8 08:55  @KCoussement      RT @i_314: Learning by training: Artificial Neural Networks. ANN example on R. #rstats http://tanyarawat.wordpress.com/2013/04/07/learning-by-training-artificial-neural-networks/?goback=.gmp_127449.gde_127449_member_229957800
+321246770346729474  Apr  8 09:02  @kognitio         RT @JulieWiseOwl: RT @kognitio: "Statistical algorithms executed in #Rstats run 1000s times faster when parallelized" http://t.co/asxE1qZCaf #MPP_R
+321246787140730880  Apr  8 09:02  @algonpaje        RT @i_314: Learning by training: Artificial Neural Networks. ANN example on R. #rstats http://tanyarawat.wordpress.com/2013/04/07/learning-by-training-artificial-neural-networks/?goback=.gmp_127449.gde_127449_member_229957800
+321249083211780096  Apr  8 09:12  @frod_san         Analysis and Visualisation of Spatial Data with #rstats http://bit.ly/16HDu1e via @spatialanalysis
+321250684186001408  Apr  8 09:18  @romeroescobar    #MaskedMarvel ate my homework... err.. workspace #Rstats
+321255418124959745  Apr  8 09:37  @SbusisoNdzukuma  @StatSoft Which optimization method is STATISTICA using 2 fit conti. distributions? I get diff par estimates from #rstats #gamlss #JohnsonSU
+321264239027306496  Apr  8 10:12  @zenrhino         Is there anything in #Rstats that works like list.append in Python?
+321266441972244481  Apr  8 10:21  @sharon000        Intro to analyzing & visualizing spatial data with R http://bit.ly/144TfSj via @spatialanalysis #rstats #dataviz #gis
+321266779513032707  Apr  8 10:22  @derekcslater     RT @sharon000: Intro to analyzing & visualizing spatial data with R http://bit.ly/144TfSj via @spatialanalysis #rstats #dataviz #gis
+321272014595817473  Apr  8 10:43  @rukku            RT @sharon000: Intro to analyzing & visualizing spatial data with R http://bit.ly/144TfSj via @spatialanalysis #rstats #dataviz #gis
+321272180056944641  Apr  8 10:43  @chrishanretty    Here's my Italian presidential elections interactive: http://chrishanretty.co.uk/blog/index.php/2013/04/07/italian-presidential-elections-interactive/ #quirinale <- made with #rstats and #svg
+321272847169355776  Apr  8 10:46  @millerdl         PQL, you are ruining my life. #rstats
+321273889541988353  Apr  8 10:50  @matguidi         RT @chrishanretty: Here's my Italian presidential elections interactive: http://chrishanretty.co.uk/blog/index.php/2013/04/07/italian-presidential-elections-interactive/ #quirinale <- made with #rstats and #svg
+321274486676668416  Apr  8 10:53  @dzidorius        Today at 7 P.M - data science community meeting in #Luxembourg: http://goo.gl/VKA1a #rstats
+321283080872665088  Apr  8 11:27  @statisticsblog   Shoutout to the R-pocast and their series on "Data Munging" in R: http://bit.ly/Y8jn6T @theRcast #rstats #dataAnalysis
+321283218328412160  Apr  8 11:27  @VidCanC          RT @statisticsblog: Shoutout to the R-pocast and their series on "Data Munging" in R: http://bit.ly/Y8jn6T @theRcast #rstats #dataAnalysis
+321283346426654720  Apr  8 11:28  @Rbloggers        Spring Cleaning Data: 1of 6- Downloading the Data & Opening Excel Files:  (This article was first pu... http://bit.ly/12AuZ5M #rstats
+321285397705523200  Apr  8 11:36  @grischard        RT @dzidorius: Today at 7 P.M - data science community meeting in #Luxembourg: http://goo.gl/VKA1a #rstats
+321291093067059200  Apr  8 11:59  @kognitio         @TMCnet: Parallelizing #Rstats is a novel competence offered by the revolutionary external scripting functionality http://bit.ly/Z1Buyw
+321291665467916289  Apr  8 12:01  @inside_R         #rstats user groups meetings this week in: Luxembourg, Sydney, Melbourne, Berkeley, NYC, Durbin, Princeton, Twin Cities, Torino and Köln...
+321292057991847936  Apr  8 12:02  @noticiasSobreR   Mapa de los terremotos en la península ibérica: Me sorprendió hace un tiempo averiguar que en la penín... http://tinyurl.com/cp4px5g #rstats
+321292877495939072  Apr  8 12:06  @RLangTip         List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
+321293332653424641  Apr  8 12:07  @fgilardi         @zicu http://cran.r-project.org/ #rstats
+321293400232054784  Apr  8 12:08  @davetangdotorg   RT @RLangTip: List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
+321306157094424579  Apr  8 12:58  @alexcpsec        More than a few MBs of data? Use this! // @RLangTip: R packages for high-performance and parallel computing: http://bit.ly/yk582p #rstats
+321308818543874048  Apr  8 13:09  @ridwanchi        @lalureza_pr RT @i_314: Learning by training: Artificial Neural Networks. ANN example on R. #rstats http://tanyarawat.wordpress.com/2013/04/07/learning-by-training-artificial-neural-networks/?goback=.gmp_127449.gde_127449_member_229957800
+321309650538606593  Apr  8 13:12  @BeckyAGilbert    Just discovered match and %in% functions in #Rstats, e.g. v=c(5,6,7), match(6,v) returns 2 (position), 6 %in% v returns TRUE. Useful!
+321314291074621440  Apr  8 13:31  @revodavid        Some interesting discussion in the comments of this Slashdot post on R 3.0.0 http://bit.ly/12BpljS #rstats
+321314660324343808  Apr  8 13:32  @suburbanlion     RT @revodavid: Some interesting discussion in the comments of this Slashdot post on R 3.0.0 http://bit.ly/12BpljS #rstats
+321314739395387394  Apr  8 13:32  @ajreeves         RT @revodavid: Some interesting discussion in the comments of this Slashdot post on R 3.0.0 http://bit.ly/12BpljS #rstats
+321315592072212480  Apr  8 13:36  @therealprotonk   "Statistical Software from a Blind Person's Perspective" http://journal.r-project.org/accepted/2012-14/Godfrey.pdf Accessibility matters. via @revodavid #rstats
+321315685273853952  Apr  8 13:36  @sjGoring         RT @revodavid: Some interesting discussion in the comments of this Slashdot post on R 3.0.0 http://bit.ly/12BpljS #rstats
+321318865999106048  Apr  8 13:49  @revodavid        New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321319172753743872  Apr  8 13:50  @ecpolley         RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321319691714981888  Apr  8 13:52  @treycausey       RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321322885450964992  Apr  8 14:05  @tonyfischetti    Have any mac users got rattle (data miner) working with #rstats 3.0.0? I'm getting an obstinate cairoDevice error
+321324617799196672  Apr  8 14:12  @mjcavaretta      Cool! Sending 2 my team now. MT @treycausey @revodavid bigvis from @hadleywickham #DataViz of #BigData w/ R: http://bit.ly/11K3WpO #rstats
+321327092996386816  Apr  8 14:22  @fire_fox         RT @RLangTip: List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
+321333363573129217  Apr  8 14:46  @ElwinKoster      RT @sharon000: Intro to analyzing & visualizing spatial data with R http://bit.ly/144TfSj via @spatialanalysis #rstats #dataviz #gis
+321336405076877312  Apr  8 14:59  @drdrewsteen      MT @ExpressScripts "#Rx abuse is deadlier than cocaine and heroin combined". Misread as '#Rstats abuse', was really worried for a second.
+321336580721754112  Apr  8 14:59  @drdrewsteen      RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
