@@ -586,6 +586,7 @@
 318951169982619648  Apr  2 01:00  @rnomics          Top #tweeted story in #bioinformatics: RNA-seq Workflows and Tools http://figshare.com/articles/RNA_seq_Workflows_and_Tools/662782, see more http://tweetedtimes.com/rnomics/bioinfo
 318953955675758592  Apr  2 01:12  @rnomics          #RNA-seq Workflows and Tools: http://figshare.com posted by friends:  (2) @bffo:... http://bit.ly/13FozqA #rnomics_bioinfo @MyEN
 318956118233722881  Apr  2 01:20  @davetangdotorg   Interesting name for bioinformatic software: GANESH http://genome.cshlp.org/content/13/9/2195.full e.g. Through the wisdom of GANESH, we annotated our RNA-Seq reads
+318978411450228736  Apr  2 02:49  @davetang31       Scotty - Power Analysis for RNA Seq Experiments #bioinformatics http://euler.bc.edu/marthlab/scotty/scotty.php
 318978411450228736  Apr  2 02:49  @davetangdotorg   Scotty - Power Analysis for RNA Seq Experiments #bioinformatics http://euler.bc.edu/marthlab/scotty/scotty.php
 319012106252992513  Apr  2 05:03  @Integromics      CRAC – an integrated approach to the analysis of RNA-Seq reads http://bit.ly/14BCBZz
 319057899592769536  Apr  2 08:05  @tukangtropong    Bridger 20130321: De novo Transcriptome Assembler for RNA-Seq data http://bit.ly/XFlIdD
@@ -696,3 +697,36 @@
 321315793272991745  Apr  8 13:37  @illumina         JC: HiSeq2500 is awesome, it enables tumor:normal exome (100x), long insert reads (5-8x) & RNA Seq in a single 27 hour run! #AACR
 321327188131598336  Apr  8 14:22  @micro_biome      [web_biome] Depletion of Ribosomal RNA for Mosquito Gut Metagenomic ... - JoVE: A ribosomal RNA (rRNA) depleti... http://bit.ly/12BzXPJ
 321354345675366400  Apr  8 16:10  @huskiepuppie     RT @illumina: JC: HiSeq2500 is awesome, it enables tumor:normal exome (100x), long insert reads (5-8x) & RNA Seq in a single 27 hour run! #AACR
+321363446417465344  Apr  8 16:46  @genetics_blog    SplicingCompass: differential splicing detection using RNA-Seq data http://bioinformatics.oxfordjournals.org/content/early/2013/03/22/bioinformatics.btt101.long #Bioinformatics
+321388068714201088  Apr  8 18:24  @rnomics          Announcing rlsim, a package for simulating #RNA-seq library preparation with parameter... http://bit.ly/146B7aK #rnomics_bioinfo @MyEN
+321389666559479808  Apr  8 18:30  @EduEyras         SplicingCompass: differential splicing detection using RNA-Seq data http://bioinformatics.oxfordjournals.org/cgi/content/long/btt101v1 - OA software but non-OA article
+321410636988948480  Apr  8 19:54  @rnomics          Characterization of FUS Mutations in Amyotrophic Lateral Sclerosis Using #RNA-Seq: by Marka van... http://bit.ly/146LviK #PLoS @MyEN
+321477745978789889  Apr  9 00:20  @JChrisPires      RT @genetics_blog: SplicingCompass: differential splicing detection using RNA-Seq data http://bioinformatics.oxfordjournals.org/content/early/2013/03/22/bioinformatics.btt101.long #Bioinformatics
+321494386364010496  Apr  9 01:26  @BioStarQuestion  Query regarding RNA-Seq hit count http://goo.gl/fb/IKsKc
+321543046493786113  Apr  9 04:40  @jergosh          RT @4a6a5a: The #effest tool estimates fragment size distribution and relative #GC dependent #biases from RNA-seq data http://t.co/ewmQdzlpbr #rlsim
+321569826965442561  Apr  9 06:26  @Integromics      A new model provides higher sensitivity  to detect differential expression in paired RNA-seq data http://bit.ly/Z5kOGD
+321578799563145216  Apr  9 07:02  @cdessimoz        My pal @4a6a5a has just released *rlsim*, the most realistic RNA-seq simulator, incl. priming/PCR/GC/length biases… http://github.com/sbotond/rlsim
+321583124939145217  Apr  9 07:19  @rnomics          Your comprehensive guide to applying #RNA-Seq in research and drug... http://bit.ly/10E1DmZ #Events #RNASeq #RNASeqSummit #RNAseq @MyEN
+321585981889335296  Apr  9 07:30  @rnomics          SEECER – SEquencing Error CorrEction in Rna-seq data:... http://bit.ly/1484OZ6 #TranscriptomeAssemblyTools #RNASeq #SEECER #RNAseq @MyEN
+321586968158949376  Apr  9 07:34  @mtothen          RT @rnomics: SEECER – SEquencing Error CorrEction in Rna-seq data:... http://bit.ly/1484OZ6 #TranscriptomeAssemblyTools #RNASeq #SEECER #RNAseq @MyEN
+321590371564003329  Apr  9 07:48  @kevin_gori       RT @cdessimoz: My pal @4a6a5a has just released *rlsim*, the most realistic RNA-seq simulator, incl. priming/PCR/GC/length biases… http://t.co/vnztNgDW7m
+321596782968713217  Apr  9 08:13  @notSoJunkDNA     RT @cdessimoz: My pal @4a6a5a has just released *rlsim*, the most realistic RNA-seq simulator, incl. priming/PCR/GC/length biases… http://t.co/vnztNgDW7m
+321596997373136896  Apr  9 08:14  @genetics_blog    #Bioinformatics: A tool for RNA-seq sample identity check http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt155.long
+321597098493612032  Apr  9 08:14  @genetics_blog    DiffSplice: the genome-wide detection of differential splicing events with RNA-seq http://nar.oxfordjournals.org/content/41/2/e39.long
+321597205469351936  Apr  9 08:15  @genetics_blog    BMC #Bioinformatics: PASTA - splice junction identification from RNA-Seq data http://www.biomedcentral.com/1471-2105/14/116/abstract
+321597274562105344  Apr  9 08:15  @genetics_blog    A new method for stranded whole transcriptome RNA-seq http://www.sciencedirect.com/science/article/pii/S1046202313000923 #bioinformatics
+321597711486947331  Apr  9 08:17  @JChrisPires      RT @genetics_blog: #Bioinformatics: A tool for RNA-seq sample identity check http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt155.long
+321597728754892801  Apr  9 08:17  @JChrisPires      RT @genetics_blog: BMC #Bioinformatics: PASTA - splice junction identification from RNA-Seq data http://www.biomedcentral.com/1471-2105/14/116/abstract
+321597740230533121  Apr  9 08:17  @JChrisPires      RT @genetics_blog: A new method for stranded whole transcriptome RNA-seq http://www.sciencedirect.com/science/article/pii/S1046202313000923 #bioinformatics
+321597862481899520  Apr  9 08:18  @notSoJunkDNA     RT @genetics_blog: #Bioinformatics: A tool for RNA-seq sample identity check http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt155.long
+321598789553094656  Apr  9 08:21  @JChrisPires      RT @genetics_blog: DiffSplice: the genome-wide detection of differential splicing events with RNA-seq http://nar.oxfordjournals.org/content/41/2/e39.long
+321599680465211393  Apr  9 08:25  @mtothen          RT @genetics_blog: DiffSplice: the genome-wide detection of differential splicing events with RNA-seq http://nar.oxfordjournals.org/content/41/2/e39.long
+321599822979280896  Apr  9 08:25  @Cute_Scientist   RT @genetics_blog: #Bioinformatics: A tool for RNA-seq sample identity check http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt155.long
+321600477064212480  Apr  9 08:28  @SBGenomics       Expression is identity. IdCheck tool for RNA-Seq data http://eqtl.rc.fas.harvard.edu/idcheck/ and the abstract http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt155.abstract.
+321600951687475200  Apr  9 08:30  @TopDevTweets     RT @genetics_blog: #Bioinformatics: A tool for RNA-seq sample identity check http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt155.long
+321601035250577408  Apr  9 08:30  @hardikshah007    RT @genetics_blog: A new method for stranded whole transcriptome RNA-seq http://www.sciencedirect.com/science/article/pii/S1046202313000923 #bioinformatics
+321601063381782529  Apr  9 08:30  @hardikshah007    RT @genetics_blog: DiffSplice: the genome-wide detection of differential splicing events with RNA-seq http://nar.oxfordjournals.org/content/41/2/e39.long
+321601102732738560  Apr  9 08:30  @hardikshah007    RT @genetics_blog: #Bioinformatics: A tool for RNA-seq sample identity check http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt155.long
+321601573245558785  Apr  9 08:32  @evolvability     RT @cdessimoz: My pal @4a6a5a has just released *rlsim*, the most realistic RNA-seq simulator, incl. priming/PCR/GC/length biases… http://t.co/vnztNgDW7m
+321602561083834369  Apr  9 08:36  @lpryszcz         RT @genetics_blog: A new method for stranded whole transcriptome RNA-seq http://www.sciencedirect.com/science/article/pii/S1046202313000923 #bioinformatics
+321608198580731904  Apr  9 08:59  @MrTRodriguez     RT @genetics_blog: #Bioinformatics: A tool for RNA-seq sample identity check http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt155.long

@@ -2472,6 +2472,7 @@
 321292057991847936  Apr  8 12:02  @noticiasSobreR   Mapa de los terremotos en la península ibérica: Me sorprendió hace un tiempo averiguar que en la penín... http://tinyurl.com/cp4px5g #rstats
 321292877495939072  Apr  8 12:06  @RLangTip         List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
 321293332653424641  Apr  8 12:07  @fgilardi         @zicu http://cran.r-project.org/ #rstats
+321293400232054784  Apr  8 12:08  @davetang31       RT @RLangTip: List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
 321293400232054784  Apr  8 12:08  @davetangdotorg   RT @RLangTip: List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
 321306157094424579  Apr  8 12:58  @alexcpsec        More than a few MBs of data? Use this! // @RLangTip: R packages for high-performance and parallel computing: http://bit.ly/yk582p #rstats
 321308818543874048  Apr  8 13:09  @ridwanchi        @lalureza_pr RT @i_314: Learning by training: Artificial Neural Networks. ANN example on R. #rstats http://tanyarawat.wordpress.com/2013/04/07/learning-by-training-artificial-neural-networks/?goback=.gmp_127449.gde_127449_member_229957800
@@ -2500,3 +2501,100 @@
 321349587417829376  Apr  8 15:51  @recology_        w00t! new version of geiger http://bit.ly/10NQqxi #rstats #phylogenetics
 321351236945338368  Apr  8 15:57  @WrightingApril   RT @recology_: w00t! new version of geiger http://bit.ly/10NQqxi #rstats #phylogenetics
 321354949235716096  Apr  8 16:12  @abxda            RT @nachocaballero: Enjoy @trifacta's Vega from R by using clickme: http://bit.ly/clickme_vega   #d3js #rstats #dataviz
+321355830609997824  Apr  8 16:16  @Hacktuarial      Every time I feel stuck in #rstats, tapply rescues me.
+321357449711992835  Apr  8 16:22  @bshor            RT @hadleywickham: #rstats 3.0.0 binaries finally available for mac and windows :)
+321357951849881600  Apr  8 16:24  @suzannTee        Just saw #csvsoundsystem's music video by @brianabelson made with the #Rstats package, incredible! http://fms.csvsoundsystem.com #Rart
+321358551341744128  Apr  8 16:27  @republicofmath   R News Tweetpaper http://bit.ly/YbxtZy #rstats
+321359216575123456  Apr  8 16:29  @KTInvasion       RT @southmapr: Using R and #maps for social activism #rstats #IDSpetition http://t.co/KkcFIapTVp
+321367899426152448  Apr  8 17:04  @dsatya           RT @RLangTip: List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
+321377065096056832  Apr  8 17:40  @sjGoring         RNeotoma, an #RStats package to interface with the Neotoma Paleoecology Database: http://dx.doi.org/10.6084/m9.figshare.677131 #figshare thanks to @rOpenSci!
+321380498637217793  Apr  8 17:54  @JohnCluverius    Link for #mpsa2013 presenters: colorblind-friendlier ggplot2 palettes #rstats http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
+321380714710974464  Apr  8 17:55  @ucfagls          RT @sjGoring: RNeotoma, an #RStats package to interface with the Neotoma Paleoecology Database: http://dx.doi.org/10.6084/m9.figshare.677131 #figshare thanks to @rOpenSci!
+321381318376169472  Apr  8 17:57  @rOpenSci         RT @sjGoring: RNeotoma, an #RStats package to interface with the Neotoma Paleoecology Database: http://dx.doi.org/10.6084/m9.figshare.677131 #figshare thanks to @rOpenSci!
+321381318501994496  Apr  8 17:57  @recology_        RT @sjGoring: RNeotoma, an #RStats package to interface with the Neotoma Paleoecology Database: http://dx.doi.org/10.6084/m9.figshare.677131 #figshare thanks to @rOpenSci!
+321381755200348160  Apr  8 17:59  @kwcollins        RT @JohnCluverius: Link for #mpsa2013 presenters: colorblind-friendlier ggplot2 palettes #rstats http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
+321383030667239424  Apr  8 18:04  @geospacedman     Computational Ecologist job looks interesting for someone with #rstats knowledge and wants to work in marine eco https://jobs-consolidatedsafety.icims.com/jobs/1486/job
+321383558797225985  Apr  8 18:06  @MikeGruz         RT @JohnCluverius: Link for #mpsa2013 presenters: colorblind-friendlier ggplot2 palettes #rstats http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
+321383813278216193  Apr  8 18:07  @nyhackr          Come to @knewton to see @thomaslevine & @brianabelson discuss music videos in #rstats http://bit.ly/1657jqi #meetup
+321384087904481281  Apr  8 18:08  @jaredlander      #rstats #meetup tomorrow at @knewton w/ @thomaslevine & @brianabelson http://bit.ly/1657jqi
+321385016443695104  Apr  8 18:12  @DanMcGlinn       RT @sjGoring: RNeotoma, an #RStats package to interface with the Neotoma Paleoecology Database: http://dx.doi.org/10.6084/m9.figshare.677131 #figshare thanks to @rOpenSci!
+321389756992860163  Apr  8 18:31  @thomaslevine     RT @nyhackr: Come to @knewton to see @thomaslevine & @brianabelson discuss music videos in #rstats http://bit.ly/1657jqi #meetup
+321390109058547712  Apr  8 18:32  @sportsdataviz    This #rstats library is awesome for #pitchFX and #sabermetrics junkies: http://sportsdataviz.com/pitchrx-an-r-library-for-analyzing-and-visualizing-pitchfx-data/
+321390183163502592  Apr  8 18:32  @tanyacash21      RT @sportsdataviz: This #rstats library is awesome for #pitchFX and #sabermetrics junkies: http://sportsdataviz.com/pitchrx-an-r-library-for-analyzing-and-visualizing-pitchfx-data/
+321390588018688000  Apr  8 18:34  @zentree          Building Biological Networks using #Rstats. http://imdevsoftware.wordpress.com/2013/04/04/tutorial-building-biological-networks/
+321392615826259968  Apr  8 18:42  @wyang72          RT @RLangTip: List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
+321394099628412928  Apr  8 18:48  @cocoahn          RT @RLangTip: List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
+321395576572887040  Apr  8 18:54  @TClippardsSpecs  RT @sportsdataviz: This #rstats library is awesome for #pitchFX and #sabermetrics junkies: http://sportsdataviz.com/pitchrx-an-r-library-for-analyzing-and-visualizing-pitchfx-data/
+321396045210853377  Apr  8 18:56  @planarrowspace   @mshron "In [22]: test300 <- make_graph(statdata) - NameError" hahaha #Rstats vs. #Python
+321400695221788673  Apr  8 19:14  @flash_us         RT @spatialanalysis: Starting Analysis and Visualisation with #rstats: http://bit.ly/144TfSj <- intro worksheets from me, @socstatistics and  @chrisbrunsdon
+321402317683437568  Apr  8 19:20  @lucaborger       Got massive dataset but it's too much plot it well? Use the bigvis R package http://blog.revolutionanalytics.com/2013/04/visualize-large-data-sets-with-the-bigvis-package.html #rstats HT @EdwardTufte
+321403012889333760  Apr  8 19:23  @josh_wills       RT @sportsdataviz: This #rstats library is awesome for #pitchFX and #sabermetrics junkies: http://sportsdataviz.com/pitchrx-an-r-library-for-analyzing-and-visualizing-pitchfx-data/
+321408955924484098  Apr  8 19:47  @cpsievert        I knew I followed you for a reason! MT @josh_wills This #rstats library is awesome for #sabermetrics junkies: http://sportsdataviz.com/pitchrx-an-r-library-for-analyzing-and-visualizing-pitchfx-data/
+321410771361865728  Apr  8 19:54  @CjBayesian       Just pointed to this by @b0rk Get your #python AND #rstats on with Jonathan Taylor @ stanford http://www.stanford.edu/class/stats202/
+321411926976512000  Apr  8 19:59  @figshare         RT @sjGoring: RNeotoma, an #RStats package to interface with the Neotoma Paleoecology Database: http://dx.doi.org/10.6084/m9.figshare.677131 #figshare thanks to @rOpenSci!
+321412374399696896  Apr  8 20:00  @PUPolitics       RT @JohnCluverius: Link for #mpsa2013 presenters: colorblind-friendlier ggplot2 palettes #rstats http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
+321413244394799104  Apr  8 20:04  @zentree          RT @CjBayesian: Just pointed to this by @b0rk Get your #python AND #rstats on with Jonathan Taylor @ stanford http://www.stanford.edu/class/stats202/
+321413936492724225  Apr  8 20:07  @sharon000        45K signed up for Coursera's Statistics: Making Sense of Data class with optional #rstats lessons http://bit.ly/V5SB0p
+321416573745262592  Apr  8 20:17  @b0rk             RT @CjBayesian: Just pointed to this by @b0rk Get your #python AND #rstats on with Jonathan Taylor @ stanford http://www.stanford.edu/class/stats202/
+321416943322152960  Apr  8 20:19  @lynngr           RT @sharon000: 45K signed up for Coursera's Statistics: Making Sense of Data class with optional #rstats lessons http://bit.ly/V5SB0p
+321417304179109888  Apr  8 20:20  @Knewton          RT @nyhackr: Come to @knewton to see @thomaslevine & @brianabelson discuss music videos in #rstats http://bit.ly/1657jqi #meetup
+321423969137864704  Apr  8 20:47  @GregRahn         Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321424488443047937  Apr  8 20:49  @josh_wills       RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321426549796634624  Apr  8 20:57  @BrianPardy       RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321427849120739328  Apr  8 21:02  @jonlee           I love this new CRAN package submission process. No more awkward e-mails! #rstats #cran
+321432665347743744  Apr  8 21:21  @Rbloggers        Visualize large data sets with the bigvis package:  (This article was first published on   Revolutio... http://bit.ly/12CNJBu #rstats
+321437969863016448  Apr  8 21:42  @webbedfeet       Just found the healthvis #rstats package developed by @leekgroup for #d3 graphics generation #datadc
+321437972895514625  Apr  8 21:42  @DataCommunityDC  Just found the healthvis #rstats package developed by @leekgroup for #d3 graphics generation #datadc via @webbedfeet
+321449971083796480  Apr  8 22:30  @cpsievert        @xieyihui Finally transferring my #rstats Journal submission to a LyX file. I'm already sold on LyX. So clean. So intuitive.
+321450144736374784  Apr  8 22:31  @Rbloggers        Instructions for Installing & Using R on Amazon EC2:  (This article was first published on   randyzw... http://bit.ly/YcLvu2 #rstats
+321457260951912448  Apr  8 22:59  @mattmoehr        .@BadHessian we should test @harrisj's hypothesis that Mad Men previews are Markov chains just like @Horse_ebooks. #rstats #mcmc
+321462759420215297  Apr  8 23:21  @hadleywickham    RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321463682175483904  Apr  8 23:24  @ajreeves         RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321464039391756288  Apr  8 23:26  @SimonJGreenhill  RT @recology_: w00t! new version of geiger http://bit.ly/10NQqxi #rstats #phylogenetics
+321464135571349505  Apr  8 23:26  @Kikapp           RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321465770301337600  Apr  8 23:33  @tomschenkjr      Hey #Chicago #rstats folks, wants to have a couple of lab nights learning bigvis? http://j.mp/Y9qGv2
+321468112111300608  Apr  8 23:42  @isragaytan       RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321468664555655168  Apr  8 23:44  @GenomeGal        RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321470631885553665  Apr  8 23:52  @cyaged           RT @revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/ZyeB1y
+321475504052006913  Apr  9 00:11  @max_webster      RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321477737103642624  Apr  9 00:20  @Rbloggers        painful truncnorm:  (This article was first published on   Xi'an's Og » R, and kindly contributed to... http://bit.ly/10CuOXx #rstats
+321483402446528512  Apr  9 00:43  @PPUAMX           RT @RLangTip: List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
+321488122267435008  Apr  9 01:01  @ChrisAntognini   RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321499131258486785  Apr  9 01:45  @LuwayneThomas    Updating #rstats
+321499245247098881  Apr  9 01:46  @BrynRWilliams    RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321500970859245568  Apr  9 01:52  @kateboersma      Top ten tips to get started with R from @Rbloggers = motivation to finally get comfortable with functions... #rstats http://www.r-bloggers.com/top-10-tips-to-get-started-with-r/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29
+321514648455241728  Apr  9 02:47  @SAGRudd          everything was running fine. Then I commented and tidied my #rstats code and now it's broken ~ #TypicalBioinformatics #CodePortabilitySucks
+321516391188537345  Apr  9 02:54  @adolfoalvarez    RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321520378906300417  Apr  9 03:10  @Rbloggers        Package-Wide Variables/Cache in R Packages:  (This article was first published on   Trestle Technolo... http://bit.ly/10OsIUi #rstats
+321520948270473216  Apr  9 03:12  @davidjayharris   Arcane but useful tidbit for #Rstats packages: Specifying the order to load S4 & reference classes/methods. http://stackoverflow.com/questions/13510234/how-to-specify-in-which-order-to-load-s4-methods-when-using-roxygen2
+321523246954602496  Apr  9 03:21  @geospacedman     Can't wait to see what Salvador Dali does with #ggplot in #rstats http://stackoverflow.com/questions/15890877/how-to-find-the-list-of-different-geoms-and-aesthetics
+321538705863098368  Apr  9 04:22  @kobriendublin    RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321543682832601088  Apr  9 04:42  @eniton           RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321545447963512832  Apr  9 04:49  @dataJujitsu      RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321545730743468032  Apr  9 04:50  @Rbloggers        How to set axis options in googleVis:  (This article was first published on   mages' blog, and kindl... http://bit.ly/10Dp0wU #rstats
+321548056321482752  Apr  9 05:00  @coulmont         grâce à http://sexualitics.github.io/ un petit graphe des proximités entre "tags" #rstats #sna #porn cc @mazieres @gsvoss http://t.co/Mr2ft4hW3z
+321559451658248193  Apr  9 05:45  @twytof           RT @coulmont: grâce à http://sexualitics.github.io/ un petit graphe des proximités entre "tags" #rstats #sna #porn cc @mazieres @gsvoss http://t.co/Mr2ft4hW3z
+321561142524788736  Apr  9 05:52  @fournier_r       RT @coulmont: grâce à http://sexualitics.github.io/ un petit graphe des proximités entre "tags" #rstats #sna #porn cc @mazieres @gsvoss http://t.co/Mr2ft4hW3z
+321562672040652800  Apr  9 05:58  @fsvoros          RT @coulmont: grâce à http://sexualitics.github.io/ un petit graphe des proximités entre "tags" #rstats #sna #porn cc @mazieres @gsvoss http://t.co/Mr2ft4hW3z
+321563914590621696  Apr  9 06:03  @sexualitics      RT @coulmont: grâce à http://sexualitics.github.io/ un petit graphe des proximités entre "tags" #rstats #sna #porn cc @mazieres @gsvoss http://t.co/Mr2ft4hW3z
+321565033161179136  Apr  9 06:07  @osazuwa          RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321565065532801024  Apr  9 06:07  @osazuwa          RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321576400874262529  Apr  9 06:52  @p5k12            RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321577671635107841  Apr  9 06:57  @sociographie     RT @coulmont: grâce à http://sexualitics.github.io/ un petit graphe des proximités entre "tags" #rstats #sna #porn cc @mazieres @gsvoss http://t.co/Mr2ft4hW3z
+321580071154511873  Apr  9 07:07  @moorejh          Teaching #bioinformatics & #genetics this month & next. Today giving lecture on biostats & #datamining. Thursday giving intro to #rstats.
+321582343599042560  Apr  9 07:16  @msgbi            RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+321585532364804096  Apr  9 07:29  @timelyportfolio  @nachocaballero @trifacta @jeffrey_heer  agree #rstats is better :) but trying to provide samples.
+321586386811625473  Apr  9 07:32  @ErynMcFarlane    Spent 3 hours working on an R plot only to realize that my problem was a mis-named column. Productivity level: #gradschool #Rstats
+321586980003663874  Apr  9 07:34  @ibartomeus       Cool trick: use clip( ) & abline( ) to draw the line just in some region of the plot (i.e. to avoid extrapolating beyond the data) #rstats
+321589108847812608  Apr  9 07:43  @ajmackey         RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321590599562194944  Apr  9 07:49  @Rbloggers        Happy biRthday:  (This article was first published on   Marginally significant » Rstats, and kindly ... http://bit.ly/12EwgsB #rstats
+321594115664011265  Apr  9 08:03  @masemresearch    Instructions for Installing & Using R on Amazon EC2 | http://randyzwitch.com #rstats | @scoopit http://sco.lt/8r0kEL
+321594427401461761  Apr  9 08:04  @romain_francois  highlight #rstats package version 0.4.1 on #cran. Yesterday's 0.4.0 was not portable enough.
+321600135299751937  Apr  9 08:27  @msgbi            RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321600378338672640  Apr  9 08:27  @jvonneumann      RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+321602811081146369  Apr  9 08:37  @JKirchartz       RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321602859932205057  Apr  9 08:37  @msgbi            RT @RLangTip: Free e-book on multilevel modeling with #rstats using nlme and multilevel packages: http://bit.ly/H9pAae
+321604034991628288  Apr  9 08:42  @lauramclay       RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience via @msgbi
+321605910189457408  Apr  9 08:49  @BrockTibert      Awesome! I have been wanting to get started with my own AMI for a while now.   http://randyzwitch.com/r-amazon-ec2/ #rstats #python #mongodb
+321606121267810304  Apr  9 08:50  @NicolasChapados  RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321606781874872320  Apr  9 08:53  @famo2spaghi      RT @lauramclay: RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience via @msgbi
