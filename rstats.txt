@@ -2598,3 +2598,45 @@
 321605910189457408  Apr  9 08:49  @BrockTibert      Awesome! I have been wanting to get started with my own AMI for a while now.   http://randyzwitch.com/r-amazon-ec2/ #rstats #python #mongodb
 321606121267810304  Apr  9 08:50  @NicolasChapados  RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
 321606781874872320  Apr  9 08:53  @famo2spaghi      RT @lauramclay: RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience via @msgbi
+321608694242615299  Apr  9 09:01  @Rbloggers        Tit for Tat – Axelrod tournament style competitive simulation:  (This article was first published on... http://bit.ly/10Evn37 #rstats
+321620044012466176  Apr  9 09:46  @TATA_BOX         Visualize large data sets with the bigvis package | (R news & tutorials) http://www.r-bloggers.com/visualize-large-data-sets-with-the-bigvis-package/ #rstats
+321621452761739265  Apr  9 09:51  @BobMuenchen      Knoxville R Users Group Formed, Free Training Offered | http://r4stats.com http://bit.ly/Knoxville-R #Rstats
+321622486519250948  Apr  9 09:55  @hashonomy_gus    Zed A. Shaw http://hashonomy.com/qEAe/ #datascience #rstats #statistics (via @GregRahn)
+321624626310549504  Apr  9 10:04  @gappy3000        #rstats release comments on slashdot http://tech.slashdot.org/story/13/04/05/0137242/r-300-released
+321624769105641474  Apr  9 10:04  @vishnebo         RT @gappy3000: #rstats release comments on slashdot http://tech.slashdot.org/story/13/04/05/0137242/r-300-released
+321625562399526913  Apr  9 10:08  @baogorek         Want faster matrix operations in #rstats? Nice tutorial on using an optimized BLAS: http://www.rochester.edu/college/gradstudents/jolmsted/files/computing/BLAS.pdf
+321631275712647168  Apr  9 10:30  @kdnuggets        Mike Stonebraker: Lots of people love R, or at least love to hate R #rstats #BigDataTechCon
+321631792962621440  Apr  9 10:32  @OzBigwave        RT @kdnuggets: Mike Stonebraker: Lots of people love R, or at least love to hate R #rstats #BigDataTechCon
+321631975993643009  Apr  9 10:33  @mikado_hito      RT @kdnuggets: Mike Stonebraker: Lots of people love R, or at least love to hate R #rstats #BigDataTechCon
+321634190728769536  Apr  9 10:42  @jonesor          RT @lucaborger: Got massive dataset but it's too much plot it well? Use the bigvis R package http://blog.revolutionanalytics.com/2013/04/visualize-large-data-sets-with-the-bigvis-package.html #rstats HT @EdwardTufte
+321634482681704448  Apr  9 10:43  @RobFreckleton    RT @lucaborger: Got massive dataset but it's too much plot it well? Use the bigvis R package http://blog.revolutionanalytics.com/2013/04/visualize-large-data-sets-with-the-bigvis-package.html #rstats HT @EdwardTufte
+321634880310108161  Apr  9 10:45  @KoyamaKei_       RT @kdnuggets: Mike Stonebraker: Lots of people love R, or at least love to hate R #rstats #BigDataTechCon
+321635021020618754  Apr  9 10:45  @tomjwebb         RT @lucaborger: Got massive dataset but it's too much plot it well? Use the bigvis R package http://blog.revolutionanalytics.com/2013/04/visualize-large-data-sets-with-the-bigvis-package.html #rstats HT @EdwardTufte
+321646208701583362  Apr  9 11:30  @cloudHPC         RT @kdnuggets: Mike Stonebraker: Lots of people love R, or at least love to hate R #rstats #BigDataTechCon
+321655155915362307  Apr  9 12:05  @RLangTip         Use NROW/NCOL instead of nrow/ncol to treat vectors as 1-column matrices #rstats http://bit.ly/HDgsfu
+321656363329679363  Apr  9 12:10  @michaelhoffman   What genius came up with this UI gem? RT @RLangTip Use NROW/NCOL instead of nrow/ncol to treat vectors as… #rstats http://www.inside-r.org/r-doc/base/nrow
+321656541977657345  Apr  9 12:11  @amansk           RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+321656723419062272  Apr  9 12:11  @michaelhoffman   Bad enough that #rstats doesn't capitalize consistently but now I have to remember diff. btw capital & lowercase versions of the same func?
+321658564001292290  Apr  9 12:19  @hermesh2         RT @kdnuggets: Mike Stonebraker: Lots of people love R, or at least love to hate R #rstats #BigDataTechCon
+321660751817347074  Apr  9 12:27  @adolfoalvarez    RT @RLangTip: Use NROW/NCOL instead of nrow/ncol to treat vectors as 1-column matrices #rstats http://bit.ly/HDgsfu
+321660887943503872  Apr  9 12:28  @Jowanza          Why is reading a JSON file into #Rstats impossible?
+321664549948383232  Apr  9 12:42  @ramnath_vaidya   rNVD3: Interactive D3.js charts from R using a familiar plotting interface. https://github.com/ramnathv/rNVD3 #rstats
+321665198916251648  Apr  9 12:45  @kevin_ushey      RT @ramnath_vaidya: rNVD3: Interactive D3.js charts from R using a familiar plotting interface. https://github.com/ramnathv/rNVD3 #rstats
+321665413983375360  Apr  9 12:46  @Jowanza          RT @ramnath_vaidya: rNVD3: Interactive D3.js charts from R using a familiar plotting interface. https://github.com/ramnathv/rNVD3 #rstats
+321665840594436096  Apr  9 12:48  @recology_        RT @ramnath_vaidya: rNVD3: Interactive D3.js charts from R using a familiar plotting interface. https://github.com/ramnathv/rNVD3 #rstats
+321667672767090689  Apr  9 12:55  @M_T_Patterson    Some excellent discussion of data analysis at http://simplystatistics.org -- they're also tweeting:@simplystats  #RStats
+321668205603090432  Apr  9 12:57  @jjgibaja         RT @M_T_Patterson: Some excellent discussion of data analysis at http://simplystatistics.org -- they're also tweeting:@simplystats  #RStats
+321669817545420800  Apr  9 13:03  @ramnath_vaidya   rNVD3 in use as Shiny App. http://glimmer.rstudio.com/ramnathv/rNVD3/ #rstats
+321670486402682880  Apr  9 13:06  @ramnath_vaidya   rNVD3 charts in a Slidify deck http://ramnathv.github.io/slidifyExamples/examples/rNVD3/#1 #rstats #rnvd3 #slidify
+321670620666552320  Apr  9 13:07  @JamesMeadow      RT @RLangTip: Use NROW/NCOL instead of nrow/ncol to treat vectors as 1-column matrices #rstats http://bit.ly/HDgsfu
+321673694567088128  Apr  9 13:19  @nhcooper123      May be of interest to Sheffield people MT “@kobriendublin: SheffieldR user group meeting at end of month! http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/” #rstats
+321676133257080832  Apr  9 13:29  @EdwardTufte      ET textbook, Data Analysis for Policy: free PDF files  http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00001F … #rstats #datascience
+321677134538108928  Apr  9 13:33  @colortinist      RT @EdwardTufte: ET textbook, Data Analysis for Policy: free PDF files  http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00001F … #rstats #datascience
+321681920486424577  Apr  9 13:52  @revodavid        Webinar on Thurs from Bryan Lewis on SciDB-R #rstats package looks interesting: http://bit.ly/11K4Q5C
+321682060311945217  Apr  9 13:52  @abhutt           RT @EdwardTufte: ET textbook, Data Analysis for Policy: free PDF files  http://flip.it/NBHEs … #rstats #datascience
+321686628013858816  Apr  9 14:10  @planarrowspace   doing pre-pub @ManningBooks review of "Practical Data Science with R" by Nina and John @WinVectorLLC - super fun! #Rstats #datascience
+321688349683351553  Apr  9 14:17  @rstudioapp       Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio
+321689124216111104  Apr  9 14:20  @michaelangeles   RT @EdwardTufte: ET textbook, Data Analysis for Policy: free PDF files  http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00001F … #rstats #datascience
+321690802931789825  Apr  9 14:27  @Altons           RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio
+321696345540923394  Apr  9 14:49  @revodavid        Tools to build NCAA #DataViz web app? Python, R and JavaScript. Thanks @rodzam for instructions and code http://bit.ly/Yb3RqP #rstats
+321697210700005376  Apr  9 14:52  @NEdgingtonPhD    RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio

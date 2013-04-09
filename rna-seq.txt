@@ -730,3 +730,33 @@
 321601573245558785  Apr  9 08:32  @evolvability     RT @cdessimoz: My pal @4a6a5a has just released *rlsim*, the most realistic RNA-seq simulator, incl. priming/PCR/GC/length biases… http://t.co/vnztNgDW7m
 321602561083834369  Apr  9 08:36  @lpryszcz         RT @genetics_blog: A new method for stranded whole transcriptome RNA-seq http://www.sciencedirect.com/science/article/pii/S1046202313000923 #bioinformatics
 321608198580731904  Apr  9 08:59  @MrTRodriguez     RT @genetics_blog: #Bioinformatics: A tool for RNA-seq sample identity check http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt155.long
+321617401089232896  Apr  9 09:35  @EduEyras         Methods to study splicing from RNA-Seq data (updated)  http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/
+321622230222127104  Apr  9 09:54  @EduEyras         We've tried to capture in an image the diversity of methods to study splicing from RNA-Seq http://t.co/Jrke6gyikN
+321622837611884545  Apr  9 09:57  @notSoJunkDNA     RT @EduEyras: We've tried to capture in an image the diversity of methods to study splicing from RNA-Seq http://t.co/Jrke6gyikN
+321623095884533762  Apr  9 09:58  @mtothen          RT @EduEyras: SplicingCompass: differential splicing detection using RNA-Seq data http://bioinformatics.oxfordjournals.org/cgi/content/long/btt101v1 - OA software but non-OA article
+321623158828462083  Apr  9 09:58  @mtothen          RT @EduEyras: Methods to study splicing from RNA-Seq data (updated)  http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/
+321623344464150529  Apr  9 09:59  @SahaSurya        RT @EduEyras: We've tried to capture in an image the diversity of methods to study splicing from #RNA-Seq http://t.co/1Bv9GyBe2A
+321626387075198978  Apr  9 10:11  @yoshidamasaaki   (RT↓) non-model animalのde novo RNA-Seqで、組織の場合20M、全身の場合は30MあればS/N比が良いらしい。60M以上読んでも新規transcriptは少ない。Velvet/Oases, Trinityでcheck。
+321627778619408384  Apr  9 10:16  @Alfons_Valencia  RT @EduEyras: We've tried to capture in an image the diversity of methods to study splicing from RNA-Seq http://t.co/Jrke6gyikN
+321628749672095744  Apr  9 10:20  @toni_gabaldon    RT @EduEyras: We've tried to capture in an image the diversity of methods to study splicing from RNA-Seq http://t.co/Jrke6gyikN
+321629267349876737  Apr  9 10:22  @susaopina        RT @EduEyras: We've tried to capture in an image the diversity of methods to study splicing from RNA-Seq http://t.co/Jrke6gyikN
+321629813918019584  Apr  9 10:24  @MatthewBStocks   RT @EduEyras: We've tried to capture in an image the diversity of methods to study splicing from RNA-Seq http://t.co/Jrke6gyikN
+321630603969712128  Apr  9 10:28  @larsgt           RT @EduEyras: We've tried to capture in an image the diversity of methods to study splicing from RNA-Seq http://t.co/Jrke6gyikN
+321633301225930752  Apr  9 10:38  @yuifu            RT @yoshidamasaaki: (RT↓) non-model animalのde novo RNA-Seqで、組織の場合20M、全身の場合は30MあればS/N比が良いらしい。60M以上読んでも新規transcriptは少ない。Velvet/Oases, Trinityでcheck。
+321635887916150784  Apr  9 10:49  @DrViborilla      RT @EduEyras: We've tried to capture in an image the diversity of methods to study splicing from RNA-Seq http://t.co/Jrke6gyikN
+321639203333087232  Apr  9 11:02  @SEQquestions     RNA Seq: differential gene expression with multiple factors http://bit.ly/10F96SL
+321644250620125184  Apr  9 11:22  @genetics_blog    Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
+321644685607186433  Apr  9 11:24  @tadKeys          RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
+321645979453493248  Apr  9 11:29  @CancerComputeCl  2FD_minus_minus primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 58140063 aligned reads, 75.20% clonal; CuffLinks: OK
+321646237508067328  Apr  9 11:30  @0rald            RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
+321650164387426304  Apr  9 11:45  @tiagoantao       RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
+321650406730133505  Apr  9 11:46  @MickeyAtwal      Mo RNA-Seq methods mo problems. http://t.co/LpMClgGTaN
+321652626913624065  Apr  9 11:55  @GuiomeNicolas    RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
+321659336386551809  Apr  9 12:22  @gerlach_d        RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
+321663130075799553  Apr  9 12:37  @assemblathon     RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/8YS9x0quB4
+321666338269581312  Apr  9 12:50  @jacobnix         RT @assemblathon: RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/8YS9x0quB4
+321675092193054720  Apr  9 13:24  @jjmerkin         RT @EduEyras: We've tried to capture in an image the diversity of methods to study splicing from RNA-Seq http://t.co/Jrke6gyikN
+321683974651011072  Apr  9 14:00  @mfbiscaia        #PLOSONE: Characterization of FUS Mutations in Amyotrophic Lateral Sclerosis Using RNA-Seq http://dx.plos.org/10.1371/journal.pone.0060788
+321689952595353600  Apr  9 14:23  @ArtemPankin      RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
+321696514537844736  Apr  9 14:50  @vasantika        RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
+321698221355315201  Apr  9 14:56  @JokeReumers      RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
