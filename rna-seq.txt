@@ -802,3 +802,26 @@
 321928710406144000  Apr 10 06:12  @SEQquestions     Suggestions on trimming RNA-seq file and compare splice-junction tools results http://bit.ly/12H6zLK
 321935404146249729  Apr 10 06:39  @jklemm           RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
 321937344460644352  Apr 10 06:46  @kenpcg           RT @dgmacarthur: ! RT @EduEyras: We've tried to capture in an image the diversity of methods to study splicing from RNA-Seq http://t.co/FJh2cZGNEI
+322009732191760384  Apr 10 11:34  @genetics_blog    RNA-seq now in #Rstats limma package. Manual: http://www.bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf #Bioconductor #bioinformatics h/t @mattVDiLeo
+322010061306216449  Apr 10 11:35  @genetics_blog    RE last tweet, recent RNA-seq methods comparison paper recommends limma w/ VST http://www.biomedcentral.com/1471-2105/14/91/ #Rstats #Bioinformatics
+322013855251320832  Apr 10 11:51  @MarcosEgeaCorti  RT @genetics_blog: RE last tweet, recent RNA-seq methods comparison paper recommends limma w/ VST http://www.biomedcentral.com/1471-2105/14/91/ #Rstats #Bioinformatics
+322019621429448704  Apr 10 12:13  @kaittenage       RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
+322040133404741633  Apr 10 13:35  @WorldNewsEU      Gene set enrichment analysis of RNA-Seq data: integrating differential expression and splicing ... - http://bit.ly/14XMIIe
+322040383016140801  Apr 10 13:36  @MediaTower       Gene set enrichment analysis of RNA-Seq data: integrating differential expression and splicing ... - http://bit.ly/14XMIIe
+322040636201123841  Apr 10 13:37  @WorldNewsEU      CLASS: constrained transcript assembly of RNA-seq reads ... - http://bit.ly/14XMSiZ
+322040884919152641  Apr 10 13:38  @MediaTower       CLASS: constrained transcript assembly of RNA-seq reads ... - http://bit.ly/14XMSiZ
+322042840106541056  Apr 10 13:46  @IWeissAU         Gene set enrichment analysis of RNA-Seq data: integrating differential expression and splicing http://bit.ly/ZG5BPc
+322042842421805057  Apr 10 13:46  @IWeissAU         CLASS: constrained transcript assembly of RNA-seq reads http://bit.ly/16Rt3qc
+322042850214813699  Apr 10 13:46  @RogerUSA1        Check out: Gene set enrichment analysis of RNA-Seq data: integrating differential expression and splicing http://bit.ly/ZG5BPc
+322042852467175424  Apr 10 13:46  @RogerUSA1        Check out: CLASS: constrained transcript assembly of RNA-seq reads http://bit.ly/16Rt3qc
+322042865318506496  Apr 10 13:46  @MedStu21         Great: Gene set enrichment analysis of RNA-Seq data: integrating differential expression and splicing http://bit.ly/ZG5BPc
+322042867554062336  Apr 10 13:46  @MedStu21         Great: CLASS: constrained transcript assembly of RNA-seq reads http://bit.ly/16Rt3qc
+322043968915402752  Apr 10 13:50  @worldtopics      CLASS: constrained transcript assembly of RNA-seq reads - 7thSpace Interactive (press release) http://bit.ly/12KFBPH
+322043970052034561  Apr 10 13:50  @worldtopics      Gene set enrichment analysis of RNA-Seq data: integrating differential ... - 7thSpace Interactive (press release) http://bit.ly/12IEjIG
+322045072990433280  Apr 10 13:55  @rnomics          Gene set enrichment analysis of #RNA-Seq data: integrating differential expression and splicing:... http://bit.ly/10LGEP2 #BMC @MyEN
+322045075758665728  Apr 10 13:55  @rnomics          CLASS: constrained transcript assembly of #RNA-seq reads: Background: #RNA-seq has r#evolutionized our... http://bit.ly/10LGCXA #BMC @MyEN
+322048944559509504  Apr 10 14:10  @NewsStories24    Gene set enrichment analysis of RNA-Seq data: integrating differential expression and splicing ... - http://bit.ly/14XMIIe
+322049446827413504  Apr 10 14:12  @NewsStories24    CLASS: constrained transcript assembly of RNA-seq reads ... - http://bit.ly/14XMSiZ
+322050400872173568  Apr 10 14:16  @genetics_blog    RNA-seq: New version of Cufflinks released http://cufflinks.cbcb.umd.edu/, w/ some much-needed benchmarking http://cufflinks.cbcb.umd.edu/report.html #bioinformatics
+322056677673291776  Apr 10 14:41  @_r_am            RT @genetics_blog: RNA-seq: New version of Cufflinks released http://cufflinks.cbcb.umd.edu/, w/ some much-needed benchmarking http://t.co/IevEGAQ3Os #bioinformatics
+322058990437666817  Apr 10 14:50  @AgilentNGS       eSEMINAR Apr 25: Selecting #RNA-SEQ or #Microarrays: More Agile, More Flexible Solutions for mRNA or Targeted RNA-SEQ http://bit.ly/1540HfW

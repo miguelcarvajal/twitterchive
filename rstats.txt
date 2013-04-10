@@ -2691,3 +2691,30 @@
 321963281969459200  Apr 10 08:30  @RealTimeChem     RT @drdrewsteen: Drinking coffee, listening to the birds sing, and writing #Rstats code. Most pleasant.  #RealTimeChem
 321964436527140864  Apr 10 08:34  @M_T_Patterson    R users in the Pittsburgh area: we've (finally) got a useR group: http://www.meetup.com/Pittsburgh-useR-Group/ #RStats
 321965557719117824  Apr 10 08:39  @arnicas          Position paper with R? RT @Rbloggers: 2013-4 Generating Structured and Labelled SVG: Stat Tech » R... http://bit.ly/11RYT6F #rstats
+321978639531008000  Apr 10 09:31  @rapporters       Highlight rows, columns or any cells of #markdown #tables in #rstats with pander package: http://blog.rapporter.net/2013/04/hihglight-cells-in-markdown-tables.html
+321983565887844352  Apr 10 09:50  @rapporters       Changing figure options mid-chunk (in a loop) using the #rstats pander package: http://www.r-bloggers.com/changing-figure-options-mid-chunk-in-a-loop-using-the-pander-package/ via @rbloggers
+321986110995701760  Apr 10 10:00  @Rbloggers        Milano (Italy). April 18, 2013. Third Milano R net meeting: agenda:  (This article was first publish... http://bit.ly/10Uy28D #rstats
+321987369689563137  Apr 10 10:05  @mattVDiLeo       #Rstats limma now includes #RNAseq: http://www.bioconductor.org/packages/2.12/bioc/html/limma.html
+321989725848219648  Apr 10 10:15  @hadleywickham    assertthat: https://github.com/hadley/assertthat - an easy way to specify pre and post conditions in #rstats functions with user friendly error messages
+321991390332596224  Apr 10 10:21  @Rbloggers        Spring Cleaning Data: 3 of 6- The Little but Big Correction:  (This article was first published on  ... http://bit.ly/16QHieV #rstats
+321991656884813825  Apr 10 10:22  @rmflight         RT @hadleywickham: assertthat: https://github.com/hadley/assertthat - an easy way to specify pre and post conditions in #rstats functions with user friendly error messages
+321992472014229504  Apr 10 10:26  @tanyacash21      RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321996101408391169  Apr 10 10:40  @Rbloggers        A few lists for data scientists and statisticians:  (This article was first published on   Revolutio... http://bit.ly/11TIv5D #rstats
+321996996812627971  Apr 10 10:44  @TheDougW         Lack of moving quickly caused me to stop using JGR #Rstats MT @UnixToolTip: Seven habits of effective text editing http://ow.ly/faYHr
+321997952744845312  Apr 10 10:47  @delferts         Patīkami redzēt vairākus savus argumentus informācijā par RStudio un R izmantošanu @luitserviss sniegtajā informācijā. #rstats
+321998094793330689  Apr 10 10:48  @ErynMcFarlane    Feeling powerful (I wrote my own power analysis!) Using for loops!!! #Rstats #happydance
+322000351572160515  Apr 10 10:57  @recology_        RT @hadleywickham: assertthat: https://github.com/hadley/assertthat - an easy way to specify pre and post conditions in #rstats functions with user friendly error messages
+322001400651460608  Apr 10 11:01  @scisus           RT @hadleywickham: assertthat: https://github.com/hadley/assertthat - an easy way to specify pre and post conditions in #rstats functions with user friendly error messages
+322009732191760384  Apr 10 11:34  @genetics_blog    RNA-seq now in #Rstats limma package. Manual: http://www.bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf #Bioconductor #bioinformatics h/t @mattVDiLeo
+322010061306216449  Apr 10 11:35  @genetics_blog    RE last tweet, recent RNA-seq methods comparison paper recommends limma w/ VST http://www.biomedcentral.com/1471-2105/14/91/ #Rstats #Bioinformatics
+322011234587258880  Apr 10 11:40  @ramnath_vaidya   rCharts: Interactive visualizations from R using Polycharts.js http://ramnathv.github.io/rCharts/ #rstats @Polychart
+322013855251320832  Apr 10 11:51  @MarcosEgeaCorti  RT @genetics_blog: RE last tweet, recent RNA-seq methods comparison paper recommends limma w/ VST http://www.biomedcentral.com/1471-2105/14/91/ #Rstats #Bioinformatics
+322017131069845504  Apr 10 12:04  @burnsstat        R and social media http://bit.ly/Ykykaj #rstats
+322019542375211008  Apr 10 12:13  @drago_carlo      RT @burnsstat: R and social media http://bit.ly/Ykykaj #rstats
+322020170384175105  Apr 10 12:16  @raphg            @ramnath_vaidya @polychart Great. Look forward to testing it. #rstats #dataviz
+322031181703024641  Apr 10 12:59  @themindfulgeek   Wondering if anyone is using Big Data and R analysis to help NPO's and NGO's - and not just with fund-raising.  #bigdata #rstats
+322036375014748160  Apr 10 13:20  @masemresearch    Finding the Distribution Parameters | Statistical Research #rstats | @scoopit http://sco.lt/7Ueovh
+322041497132355585  Apr 10 13:40  @afflorezr        RT @masemresearch: Finding the Distribution Parameters | Statistical Research #rstats | @scoopit http://sco.lt/7Ueovh
+322042565006344192  Apr 10 13:45  @timelyportfolio  RT @burnsstat: R and social media http://bit.ly/Ykykaj #rstats
+322042636192063488  Apr 10 13:45  @timelyportfolio  @burnsstat great set of resources for the new #rstats user
+322057474305826816  Apr 10 14:44  @sc_evans         @BioInFocus @hossiet @hylopsar Yup, that was the consensus. We had an author contribute #Rstats code for his paper, though
