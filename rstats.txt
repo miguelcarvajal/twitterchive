@@ -2640,3 +2640,54 @@
 321690802931789825  Apr  9 14:27  @Altons           RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio
 321696345540923394  Apr  9 14:49  @revodavid        Tools to build NCAA #DataViz web app? Python, R and JavaScript. Thanks @rodzam for instructions and code http://bit.ly/Yb3RqP #rstats
 321697210700005376  Apr  9 14:52  @NEdgingtonPhD    RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio
+321701609446977536  Apr  9 15:10  @CaptainGiraffe   RT @EdwardTufte: ET textbook, Data Analysis for Policy: free PDF files  http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00001F … #rstats #datascience
+321701845393371136  Apr  9 15:11  @biocs            RT @michaelhoffman: What genius came up with this UI gem? RT @RLangTip Use NROW/NCOL instead of nrow/ncol to treat vectors as… #rstats http://t.co/UD8zmdXFdY
+321701856457945088  Apr  9 15:11  @biocs            RT @michaelhoffman: Bad enough that #rstats doesn't capitalize consistently but now I have to remember diff. btw capital & lowercase versions of the same func?
+321702377323388929  Apr  9 15:13  @SpringerStats    Working on 2nd ed of Applied Spatial Data Analysis with R for UseR! meeting http://bit.ly/ZBtjfn #rstats #stats2013 http://t.co/ijDQzmxytk
+321711232749035520  Apr  9 15:48  @evomics          RT @ramnath_vaidya: rNVD3: Interactive D3.js charts from R using a familiar plotting interface. https://github.com/ramnathv/rNVD3 #rstats
+321711250843258880  Apr  9 15:48  @gappy3000        Who's attending R in Finance in Chicago? Don't care too much for the content, but the company should be excellent. #rstats
+321714506935959553  Apr  9 16:01  @fredbenenson     It still confuses me that you have to use cbind(…) to cast a table into a data.frame in #Rstats.
+321714850030026752  Apr  9 16:02  @leighadlr        RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio
+321717307795714049  Apr  9 16:12  @frank_foerster   RT @ramnath_vaidya: rNVD3: Interactive D3.js charts from R using a familiar plotting interface. https://github.com/ramnathv/rNVD3 #rstats
+321720896622579712  Apr  9 16:26  @joshua_ulrich    @hadleywickham what are your thoughts on iPlots eXtreme? #rstats
+321721529853435904  Apr  9 16:29  @MDubins          Looks like the latest version of RStudio disables the old View functionality.  Boo :( I want to see >1000 rows!  #rstats #rstudio
+321723327846703104  Apr  9 16:36  @Rbloggers        Spring Cleaning Data: 2 of 6- Changing Column Names and Adding a Column:  (This article was first pu... http://bit.ly/16NMsIm #rstats
+321723328987533314  Apr  9 16:36  @Rbloggers        Behind the NCAA Visualizer: Python, R and JavaScript:  (This article was first published on   Revolu... http://bit.ly/16NMsIq #rstats
+321724318755205120  Apr  9 16:40  @hadleywickham    RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio
+321728306401652736  Apr  9 16:56  @wgi_pr31ea       Need to learn R? Only $1,440! RT @rstudioapp Intro R Workshop in NYC: http://goo.gl/DOHUa #rstats #rstudio
+321728882933899264  Apr  9 16:58  @revodavid        R user groups in Europe are really taking off. @revojoe found some links to some excellent #rstats presentations http://bit.ly/YbjXko
+321732251232645121  Apr  9 17:12  @NEdgingtonPhD    On the other hand, I will be testing some new clever ways to plot Likert scales in #Rstats #silverlining #HHpackage ? #ggplot2
+321733434307395584  Apr  9 17:16  @arjenpdevries    RT @hadleywickham: bigvis: http://vita.had.co.nz/papers/bigvis.html and https://github.com/hadley/bigvis. visualising 100 million obs in <5s in #rstats
+321734898056589312  Apr  9 17:22  @thmcmahon        RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio
+321735253830029313  Apr  9 17:23  @tomassino        RT @revodavid: R user groups in Europe are really taking off. @revojoe found some links to some excellent #rstats presentations http://t.co/hsJVyaAsP5
+321739019769749504  Apr  9 17:38  @carlyziter       Anybody know a way to REMOVE empty panels in a facet grid? #ggplot2 #Rstats
+321743172592095232  Apr  9 17:55  @mljockers        RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio
+321758924963459072  Apr  9 18:58  @nachocaballero   @StrictlyStat nice work and yay for reusable javascript. I'd love to see more of this in @rhealthvis or http://bit.ly/rclickme #rstats ♥ #js
+321772222626811904  Apr  9 19:50  @nyhackr          Call me maybe in #rstats.
+321772261063417856  Apr  9 19:50  @nyhackr          Live coding at #rstats meetup
+321772312972120065  Apr  9 19:51  @jaredlander      Music videos in #rstats
+321772354474758145  Apr  9 19:51  @drjerrynyc       @brianabelson demos data-driven-rhythm at @nyhackr #Rstats #callmemaybe http://t.co/M2NNTjFNK1
+321774584779116545  Apr  9 20:00  @sjackman         RT @ramnath_vaidya: rNVD3: Interactive D3.js charts from R using a familiar plotting interface. https://github.com/ramnathv/rNVD3 #rstats
+321782609438986240  Apr  9 20:32  @hoxo_m           RT @RLangTip: Use NROW/NCOL instead of nrow/ncol to treat vectors as 1-column matrices #rstats http://bit.ly/HDgsfu
+321788821698121728  Apr  9 20:56  @bishoyh          RT @ramnath_vaidya: rNVD3: Interactive D3.js charts from R using a familiar plotting interface. https://github.com/ramnathv/rNVD3 #rstats
+321794627210473474  Apr  9 21:19  @jessemun         RT @revodavid: New bigvis package from @hadleywickham for fast #DataViz of #BigData with R: http://bit.ly/11K3WpO #rstats
+321799789161357312  Apr  9 21:40  @slidingca        RT @edwardtufte: ET textbook, Data Analysis for Policy: free PDF files  http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00001F … #rstats #datascience
+321818926487044096  Apr  9 22:56  @sc_evans         "Error in fork(): unable to create a pipe". Well now. That's a new one. #Rstats #forks #pipes #wtf
+321834811083866113  Apr  9 23:59  @amestadmx        RT @RLangTip: List of R packages and functions for high-performance and parallel computing with R: http://bit.ly/yk582p #rstats
+321852849749381120  Apr 10 01:11  @Rbloggers        Some R User Group Presentations from Europe:  (This article was first published on   Revolutions, an... http://bit.ly/12Gjiy8 #rstats
+321857124160389121  Apr 10 01:28  @PPUAMX           RT @RLangTip: Use NROW/NCOL instead of nrow/ncol to treat vectors as 1-column matrices #rstats http://bit.ly/HDgsfu
+321859730547040256  Apr 10 01:38  @PPUAMX           RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio
+321861129594863616  Apr 10 01:44  @web_miner        Helped a colleague (a mathematician) debug a problem in his R code. I think I have never felt prouder :-) #rstats
+321874996089716736  Apr 10 02:39  @ChrisGandrud     RT @ramnath_vaidya: rNVD3: Interactive D3.js charts from R using a familiar plotting interface. https://github.com/ramnathv/rNVD3 #rstats
+321883088068149248  Apr 10 03:11  @Rbloggers        2013-4 Generating Structured and Labelled SVG:  (This article was first published on   Stat Tech » R... http://bit.ly/11RYT6F #rstats
+321909472236818432  Apr 10 04:56  @Rbloggers        Finding the Distribution Parameters:  (This article was first published on   Statistical Research » ... http://bit.ly/10Jg2hS #rstats
+321921950144397312  Apr 10 05:45  @AndrewLLJackson  i want to update a fitting algorithm to my #rstats pkg. Whats best way to document the change given its in corresponding journal article?
+321922894647152640  Apr 10 05:49  @datagistips      geoanalysis | Estimating The Welfare Cost of Somali Piracy - #rstats l'article: http://www.trfetzer.com/welfare-cost-somalian-piracy/ ...et le code: http://freigeist.devmag.net/economics/683-computing-maritime-routes-in-r.html
+321924444622827520  Apr 10 05:55  @stevepowell99    http://bit.ly/10Jv07t Changing figure options mid-chunk (in a loop) using the #pander package. #rstats
+321937168744460288  Apr 10 06:46  @masemresearch    Going Under the Hood of the NCAA Tournament Visualization - Rodrigo Zamith #rstats | @scoopit http://sco.lt/6BU4lF
+321941305582305281  Apr 10 07:02  @moorejh          #rstats #datamining MT @masemresearch Going Under the Hood of the #NCAA Tournament #Visualization http://www.rodrigozamith.com/2013/03/27/going-under-the-hood-of-the-ncaa-tournament-visualization/
+321960391418724352  Apr 10 08:18  @Ercan__Yilmaz    Installing & Using R on Amazon EC2 http://www.r-bloggers.com/instructions-for-installing-using-r-on-amazon-ec2/ #rstats
+321962590219677698  Apr 10 08:27  @drdrewsteen      Drinking coffee, listening to the birds sing, and writing #Rstats code. Most pleasant.  #RealTimeChem
+321963281969459200  Apr 10 08:30  @RealTimeChem     RT @drdrewsteen: Drinking coffee, listening to the birds sing, and writing #Rstats code. Most pleasant.  #RealTimeChem
+321964436527140864  Apr 10 08:34  @M_T_Patterson    R users in the Pittsburgh area: we've (finally) got a useR group: http://www.meetup.com/Pittsburgh-useR-Group/ #RStats
+321965557719117824  Apr 10 08:39  @arnicas          Position paper with R? RT @Rbloggers: 2013-4 Generating Structured and Labelled SVG: Stat Tech » R... http://bit.ly/11RYT6F #rstats
