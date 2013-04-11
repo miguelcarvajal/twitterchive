@@ -2818,3 +2818,55 @@
 322319808882434048  Apr 11 08:06  @skclaros         RT @RLangTip: List of R packages for analysis of ecological and environmental data: http://bit.ly/x0y4JC #rstats
 322327615081943040  Apr 11 08:37  @joshua_ulrich    @hadleywickham do you have ways to avoid do.call in your bag of tricks? #rstats
 322328862728019971  Apr 11 08:42  @muellern         RT @RLangTip: List of R packages for analysis of ecological and environmental data: http://bit.ly/x0y4JC #rstats
+322334252433817600  Apr 11 09:04  @andharris        This is a test from R #rstats
+322336732764852224  Apr 11 09:14  @moorejh          Will have our QBS #bioinformatics I students do an #rstats homework to estimate power of a statistical test using simulation.
+322338782915461120  Apr 11 09:22  @frod_san         Great intro to data visualization in #rstats with ggplot2 http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/
+322348120736403457  Apr 11 09:59  @grjenkin         RT @revodavid: Catch up on R tips and news from the Revolutions blog in the March roundup: http://bit.ly/14cnvuG #rstats
+322352357264486400  Apr 11 10:16  @BlasMBenito      RT @frod_san: Great intro to data visualization in #rstats with ggplot2 http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/
+322353850319241216  Apr 11 10:22  @hadleywickham    RT @frod_san: Great intro to data visualization in #rstats with ggplot2 http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/
+322354579033452545  Apr 11 10:24  @jmsidhu          RT @frod_san: Great intro to data visualization in #rstats with ggplot2 http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/
+322358710695518209  Apr 11 10:41  @grserrano_       Acceder a Dropbox desde R: https://github.com/karthikram/rDrop #rstats
+322364527805091844  Apr 11 11:04  @nilanp           RT @frod_san: Great intro to data visualization in #rstats with ggplot2 http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/
+322366105895174145  Apr 11 11:10  @twizardoz        @hadleywickham been using #ggplot2 for months now. Just made a plot that makes me say: it rocks! Thanks! #rstats
+322375191160299521  Apr 11 11:46  @statisticsblog   Is there an Obesity epidemic among fat-tailed distributions? I investigate using R: http://bit.ly/ZbFufW #rstats #fatTails #Obesity
+322375404788797442  Apr 11 11:47  @b1205            RT @frod_san: Great intro to data visualization in #rstats with ggplot2 http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/
+322376574051696640  Apr 11 11:52  @wontfix          Trolled again #rstats. Double ampersand in a '['-index never does what I think it should.
+322379963707842561  Apr 11 12:05  @RLangTip         search() displays the "search list" of packages where R searches for functions and other objects #rstats http://bit.ly/nkzXJi
+322382840312520704  Apr 11 12:17  @Ojall            RT @statisticsblog: Is there an Obesity epidemic among fat-tailed distributions? I investigate using R: http://bit.ly/ZbFufW #rstats #fatTails #Obesity
+322387653175689216  Apr 11 12:36  @phnk             RT @hadleywickham: I love the fact that when I don't know how to do something in ggplot2, I can google it and find out #rstats
+322389830946398209  Apr 11 12:45  @jebyrnes         A quick intro to #ggplot2 from @_inundata http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ #rstats
+322389914471772160  Apr 11 12:45  @researchremix    RT @jebyrnes: A quick intro to #ggplot2 from @_inundata http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ #rstats
+322390135507386369  Apr 11 12:46  @WildaboutBrum    RT @dataJujitsu: My beginner's tutorial on subsetting and cleaning data in #Rstats  built with #Rstudio and #knitr: http://rpubs.com/daspringate/subsetting
+322390338209734656  Apr 11 12:47  @recology_        RT @dataJujitsu: My beginner's tutorial on subsetting and cleaning data in #Rstats  built with #Rstudio and #knitr: http://rpubs.com/daspringate/subsetting
+322390351774097409  Apr 11 12:47  @recology_        RT @jebyrnes: A quick intro to #ggplot2 from @_inundata http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ #rstats
+322390641579532288  Apr 11 12:48  @WildaboutBrum    RT @GuillemSalazar: RT @RLangTip: List of R packages for analysis of ecological and environmental data: http://bit.ly/x0y4JC #rstats a really complete list!
+322390641936039936  Apr 11 12:48  @JonathanPSadler  RT @GuillemSalazar: RT @RLangTip: List of R packages for analysis of ecological and environmental data: http://bit.ly/x0y4JC #rstats a really complete list!
+322391244141641728  Apr 11 12:50  @rvidal           RT @jebyrnes: A quick intro to #ggplot2 from @_inundata http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ #rstats
+322392083770007554  Apr 11 12:53  @TATA_BOX         A quick introduction to ggplot2 | (R news & tutorials) http://www.r-bloggers.com/a-quick-introduction-to-ggplot2/ #rstats
+322392724307341312  Apr 11 12:56  @MikejMcDermott   RT @dataJujitsu: My beginner's tutorial on subsetting and cleaning data in #Rstats  built with #Rstudio and #knitr: http://rpubs.com/daspringate/subsetting
+322393123974172673  Apr 11 12:58  @Alex_Royan       RT @GuillemSalazar: RT @RLangTip: List of R packages for analysis of ecological and environmental data: http://bit.ly/x0y4JC #rstats a really complete list!
+322394821383831553  Apr 11 13:04  @mgwhitfield      RT @dataJujitsu: My beginner's tutorial on subsetting and cleaning data in #Rstats  built with #Rstudio and #knitr: http://rpubs.com/daspringate/subsetting
+322394908138799105  Apr 11 13:05  @orlandomezquita  RT @Rbloggers: Download Files from Dropbox Programmatically with R:  http://bit.ly/17s7vmY  #rstats
+322395447203332096  Apr 11 13:07  @mgwhitfield      RT @jebyrnes: A quick intro to #ggplot2 from @_inundata http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ #rstats
+322396224252690433  Apr 11 13:10  @mfitzp           RT @jebyrnes: A quick intro to #ggplot2 from @_inundata http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ #rstats
+322397302331420672  Apr 11 13:14  @PhyloPic         Nice to see the API getting use! MT @recology_ A little #rstats interface - add silhouettes to ggphylo phylogenies -> http://bit.ly/10V4I0Q
+322401272584089600  Apr 11 13:30  @ibartomeus       RT @jebyrnes: A quick intro to #ggplot2 from @_inundata http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ #rstats
+322401882100338689  Apr 11 13:32  @systbiol         RT @PhyloPic: Nice to see the API getting use! MT @recology_ A little #rstats interface - add silhouettes to ggphylo phylogenies -> http://t.co/XqV7i1shYe
+322402558318620672  Apr 11 13:35  @rOpenSci         travis-ci build status on two ropensci repos rplos http://bit.ly/ZpUZN7 and rgbif  http://bit.ly/VFkA6v #rstats
+322403394964836353  Apr 11 13:38  @tmkeesey         RT @PhyloPic: Nice to see the API getting use! MT @recology_ A little #rstats interface - add silhouettes to ggphylo phylogenies -> http://t.co/XqV7i1shYe
+322404384975749120  Apr 11 13:42  @FuSchmu          RT @jebyrnes: A quick intro to #ggplot2 from @_inundata http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ #rstats
+322406438813184000  Apr 11 13:50  @Rbloggers        Spring Cleaning Data: 4 of 6- Combining the files & Changing the Dates/Credit Type:  (This article w... http://bit.ly/10ZSyoh #rstats
+322409727155908608  Apr 11 14:04  @Philip_A_Martin  RT @dataJujitsu: My beginner's tutorial on subsetting and cleaning data in #Rstats  built with #Rstudio and #knitr: http://rpubs.com/daspringate/subsetting
+322411855899398146  Apr 11 14:12  @starfishnats     RT @ricardojcolon: "@RLangTip: List of R packages for analysis of ecological and environmental data: http://bit.ly/x0y4JC #rstats"  @starfishnats
+322412419991367680  Apr 11 14:14  @brianabelson     @treycausey @seanjtaylor a wise man once said the first thing you should learn about #rstats is stringsAsFactors=FALSE
+322412497342705664  Apr 11 14:15  @treycausey       RT @brianabelson: @treycausey @seanjtaylor a wise man once said the first thing you should learn about #rstats is stringsAsFactors=FALSE
+322413777003900928  Apr 11 14:20  @chrishanretty    Good news: got @UEAHPCC #Rstats + foreach script to work properly. Bad news: the R package I use keeps segfaulting (also on home machine).
+322416211667329024  Apr 11 14:29  @acablag          all(NULL) is TRUE. really #rstats, really?
+322418296047689728  Apr 11 14:38  @acablag          @revodavid is.element is pretty close to what I need. I was just stunned by newly discovered #rstats feature =)
+322418415828606976  Apr 11 14:38  @smkent22         RT @jebyrnes: A quick intro to #ggplot2 from @_inundata http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ #rstats
+322419345554817025  Apr 11 14:42  @UAI_Analytics    El 13/02 arrancamos con la Diplomatura. Primera Materia: Introducción a Data Mining y Estadística con R. #rstats http://www.noticias.uai.edu.ar/events/diplomatura-an-lisis-de-datos-para-negocios-finanzas-e
+322419546243866624  Apr 11 14:43  @i_314            RT @UAI_Analytics: El 13/02 arrancamos con la Diplomatura. Primera Materia: Introducción a Data Mining y Estadística con R. #rstats http://t.co/zGkqD78E3s
+322421345780641793  Apr 11 14:50  @zenrhino         Word. RT  @treycausey @seanjtaylor a wise man once said the first thing you should learn about #rstats is stringsAsFactors=FALSE
+322421894500458497  Apr 11 14:52  @mattmoehr        I really want a "Gespatial without @Esri" #MOOC @AngelaLee_gis @A_C_Robinson with @MapBox #qgis #rstats @foss4gna etc. #aag2013
+322422765653221376  Apr 11 14:55  @kwbroman         Couldn’t get #rstats 3.0 to run on the command line on my Mac b/c my bashrc file had “export R_ARCH=/x86_64”. Deleted that and all’s well.
+322422849006624769  Apr 11 14:56  @AbeGong          Debugging in #Rstats gets ever so slightly more friendly. hadley/assertthat · GitHub http://buff.ly/10Zkmta
