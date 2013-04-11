@@ -684,6 +684,7 @@
 320645979118374912  Apr  6 17:15  @ScienceIndex_    http://scienceindex.com Identifying host pathogenic pathways in bovine digital dermatitis by RNA-Seq analysis http://dlvr.it/3Bf10Q
 320651282857750528  Apr  6 17:36  @aemonten         I want to do poly-A RNA-seq to compare transcriptome under two conditions. How many Ilumina reads do I need if the genome is of about 40 Mb?
 320816083927961600  Apr  7 04:31  @CancerComputeCl  4F_plus_minus primary analysis done (RNA-seq, 2x51PE, mm9): TopHat: 217516087 aligned reads, 86.84% clonal; CuffLinks: OK
+320816793784553472  Apr  7 04:34  @ksmbandi         Transcriptome Profiling of Giardia intestinalis Using Strand-specific RNA-Seq | http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003000
 320884751399538691  Apr  7 09:04  @MauricioLopes    “@plantbiology: Trends in Plant Science 'RNA-Seq: revelation of the messengers' http://ow.ly/iRIk5”
 320966655977091073  Apr  7 14:29  @rnomics          Depletion of Ribosomal #RNA for Mosquito Gut Metagenomic #RNA-seq: A... http://bit.ly/10v5xOR #Genetics #Issue74 #Infection #Jove @MyEN
 321074016909656065  Apr  7 21:36  @animesh1977      Probe region expression estimation for RNA-seq data for improved microarray comparability. (arXiv:1304.1698v1 [... http://bit.ly/17lRAqc
@@ -825,3 +826,19 @@
 322050400872173568  Apr 10 14:16  @genetics_blog    RNA-seq: New version of Cufflinks released http://cufflinks.cbcb.umd.edu/, w/ some much-needed benchmarking http://cufflinks.cbcb.umd.edu/report.html #bioinformatics
 322056677673291776  Apr 10 14:41  @_r_am            RT @genetics_blog: RNA-seq: New version of Cufflinks released http://cufflinks.cbcb.umd.edu/, w/ some much-needed benchmarking http://t.co/IevEGAQ3Os #bioinformatics
 322058990437666817  Apr 10 14:50  @AgilentNGS       eSEMINAR Apr 25: Selecting #RNA-SEQ or #Microarrays: More Agile, More Flexible Solutions for mRNA or Targeted RNA-SEQ http://bit.ly/1540HfW
+322064040874635264  Apr 10 15:10  @NewsReactions    Gene set enrichment analysis of RNA-Seq data: integrating differential expression and splicing ... - http://bit.ly/14XMIIe
+322064544425992192  Apr 10 15:12  @NewsReactions    CLASS: constrained transcript assembly of RNA-seq reads ... - http://bit.ly/14XMSiZ
+322071901537185792  Apr 10 15:41  @cwarden45        RT @genetics_blog: RNA-seq: New version of Cufflinks released http://cufflinks.cbcb.umd.edu/, w/ some much-needed benchmarking http://t.co/IevEGAQ3Os #bioinformatics
+322073016890712065  Apr 10 15:46  @7Journals        CLASS: constrained transcript assembly of RNA-seq reads http://adf.ly/MiK46 #BioMed #Journals
+322079138678730752  Apr 10 16:10  @PressOfficeEU    Press Alert: Gene set enrichment analysis of RNA-Seq data: integrating differential expression and splicing ... http://bit.ly/14XMIIe
+322079641567375364  Apr 10 16:12  @PressOfficeEU    Press Alert: CLASS: constrained transcript assembly of RNA-seq reads ... http://bit.ly/14XMSiZ
+322160128205938688  Apr 10 21:32  @OUPAcJapan       RT @hamajit: RNA-Seq data http://bfg.oxfordjournals.org/cgi/content/long/els066v1 先日の論文の共著者が、小さい記事を書いていました：葉緑体・ミトコンドリアのオーミクス研究に既に公開されているRNA-seqデータが利用できると
+322169509727313921  Apr 10 22:09  @KatherineMejia   RT @genetics_blog: RNA-seq: New version of Cufflinks released http://cufflinks.cbcb.umd.edu/, w/ some much-needed benchmarking http://t.co/IevEGAQ3Os #bioinformatics
+322178094054133760  Apr 10 22:43  @davetang31       Very useful Q&A via @BioStarQuestion on "How much coverage do we need for an RNA-seq experiment?" http://www.biostars.org/p/65501/
+322241710635773953  Apr 11 02:56  @Dwro8ea          SEECER - SEquencing Error CorrEction in Rna-seq data  - http://bit.ly/16Oshw3 via @Shareaholic
+322298254102503425  Apr 11 06:41  @IBESHBIR         BMC Bioinformatics | Full text | A comparison o... http://fb.me/2APgitbwt
+322310953943310336  Apr 11 07:31  @sjcockell        Paper: CRAC: an integrated approach to the analysis of RNA-seq reads. http://dlvr.it/3CqCg2
+322312379188793345  Apr 11 07:37  @ossieace         Some interesting posters at the #posterday2013 check out @HammersteinABC's poster no.33 for a nice introduction to RNA-Seq and neutrophils.
+322328351631101953  Apr 11 08:40  @dsun1971         Michigan Team Develops Strategy to ID Cancer Drug Targets from RNA-seq Data: http://www.genomeweb.com/sequencing/michigan-team-develops-strategy-id-cancer-drug-targets-rna-seq-data
+322329319303159811  Apr 11 08:44  @SWE_lab          RT @ossieace: Some interesting posters at the #posterday2013 check out @HammersteinABC's poster no.33 for a nice introduction to RNA-Seq and neutrophils.
+322332981102530560  Apr 11 08:59  @genetics_blog    @EduEyras care to upload your rna-seq figure to http://figshare.com so I can cite it? you'll instantly get a DOI.
