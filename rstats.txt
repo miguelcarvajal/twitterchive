@@ -2870,3 +2870,60 @@
 322421894500458497  Apr 11 14:52  @mattmoehr        I really want a "Gespatial without @Esri" #MOOC @AngelaLee_gis @A_C_Robinson with @MapBox #qgis #rstats @foss4gna etc. #aag2013
 322422765653221376  Apr 11 14:55  @kwbroman         Couldn’t get #rstats 3.0 to run on the command line on my Mac b/c my bashrc file had “export R_ARCH=/x86_64”. Deleted that and all’s well.
 322422849006624769  Apr 11 14:56  @AbeGong          Debugging in #Rstats gets ever so slightly more friendly. hadley/assertthat · GitHub http://buff.ly/10Zkmta
+322424821369675776  Apr 11 15:04  @brianabelson     for those of you at the last @nyhackr meetup, you can download my data music library for #rstats here: https://github.com/csv/ddr
+322424947412697089  Apr 11 15:04  @stephaniehicks   Intro to #bayesian data analysis with Bradley Carlin on June 10-14 http://www.sph.umn.edu/details/course/11230/ Bonus: no calculus needed! #statistics #rstats
+322428301354348544  Apr 11 15:17  @StrictlyStat     @seanjtaylor @hspter Just wish the default was factor.as.numeric <- function(x) as.numeric(as.character(x)), not other way around. #rstats
+322429042567548928  Apr 11 15:20  @hadleywickham    @acablag it makes sense: length(NULL)=0; and all(c(T, logical())) is T, and if all(x, y) is T then all(c(x, y)) should be T #rstats
+322431104575496192  Apr 11 15:29  @systbiol         RT @rOpenSci: travis-ci build status on two ropensci repos rplos http://bit.ly/ZpUZN7 and rgbif  http://bit.ly/VFkA6v #rstats
+322431274541273090  Apr 11 15:29  @ssuri            Submit your latest behavioral research to: Workshop on Crowdsourcing and Online Behavioral Experiments http://decisionresearchlab.com/cobe/ #MTurk #Rstats
+322432528172605441  Apr 11 15:34  @arcalb           RT @RLangTip: search() displays the "search list" of packages where R searches for functions and other objects #rstats http://t.co/p09MqFlGs2
+322439115192795137  Apr 11 16:00  @datennutzen      Summary of the latest tweets about #rstats http://service.eoda.de/socialyzR/result/1365709040267/
+322441888047173632  Apr 11 16:11  @rapporters       @xieyihui awesome, thank you very much for letting us know about how to build and check #rstats packages on Travis CI. That's really cool!
+322442903697899520  Apr 11 16:15  @nyhackr          RT @brianabelson: for those of you at the last @nyhackr meetup, you can download my data music library for #rstats here: https://t.co/xUMmVAf5yX
+322443048359456769  Apr 11 16:16  @nyhackr          Spots to see @hadleywickham at the #rstats meetup are filling up fast http://bit.ly/YfWX3J
+322448470231379968  Apr 11 16:38  @Rbloggers        Stepwise Regression for Big Data with RevoScaleR:  (This article was first published on   Revolution... http://bit.ly/120OZzT #rstats
+322453323515047938  Apr 11 16:57  @data_nerd        RT @revodavid: Catch up on R tips and news from the Revolutions blog in the March roundup: http://bit.ly/14cnvuG #rstats
+322453607893053441  Apr 11 16:58  @0xD1             RT @revodavid: Catch up on R tips and news from the Revolutions blog in the March roundup: http://bit.ly/14cnvuG #rstats
+322456170570870785  Apr 11 17:08  @hadleywickham    RT @nyhackr: Spots to see @hadleywickham at the #rstats meetup are filling up fast http://bit.ly/YfWX3J
+322458103259992064  Apr 11 17:16  @denisparra       RT @nyhackr: Spots to see @hadleywickham at the #rstats meetup are filling up fast http://bit.ly/YfWX3J don't miss it @shoha99 April 23rd
+322459657455157250  Apr 11 17:22  @raphg            Join us (http://rglab.org/jobs.html): #Postdoc, programer, #bioinformatics positions in Seattle. #rstats #dataviz #immunology #singlecell #Rcpp
+322465359665979394  Apr 11 17:45  @OpenCPU          @useR_2013 #rstats a new domain for the #user2013 website: http://user2013.org. Let us know if you need more help.
+322478598676164609  Apr 11 18:37  @rOpenSci         Based on a user question: A short primer on getting all @GBIF occurrences in a genus http://bit.ly/Yrc0Mh #rstats #biodiversity #data
+322478713117761536  Apr 11 18:38  @recology_        RT @rOpenSci: Based on a user question: A short primer on getting all @GBIF occurrences in a genus http://bit.ly/Yrc0Mh #rstats #biodiversity #data
+322478904310890497  Apr 11 18:38  @VertNetOrg       Niiice. MT @rOpenSci: A short primer on getting all @GBIF occurrences in a genus http://bit.ly/Yrc0Mh #rstats #biodiversity #data
+322479163955109888  Apr 11 18:39  @cathwaller       RT @rOpenSci: Based on a user question: A short primer on getting all @GBIF occurrences in a genus http://bit.ly/Yrc0Mh #rstats #biodiversity #data
+322482169903714304  Apr 11 18:51  @openfisheries    RT @rOpenSci: Based on a user question: A short primer on getting all @GBIF occurrences in a genus http://bit.ly/Yrc0Mh #rstats #biodiversity #data
+322485656318267392  Apr 11 19:05  @M_T_Patterson    short tutorial on creating causal graphs in R with the Rgraphviz and graph packages #RStats, #Teaching, #Tutorials http://www.youtube.com/watch?v=Yfwye_H9tmU&feature=youtu.be
+322486133449715712  Apr 11 19:07  @jessicablois     RT @sjGoring: RNeotoma, an #RStats package to interface with the Neotoma Paleoecology Database: http://dx.doi.org/10.6084/m9.figshare.677131 #figshare thanks to @rOpenSci!
+322487024818987008  Apr 11 19:11  @xieyihui         RT @raphg: Join us (http://rglab.org/jobs.html): #Postdoc, programer, #bioinformatics positions in Seattle. #rstats #dataviz #immunology #singlecell #Rcpp
+322489637916516352  Apr 11 19:21  @DrPardi          RT @sjGoring: RNeotoma, an #RStats package to interface with the Neotoma Paleoecology Database: http://dx.doi.org/10.6084/m9.figshare.677131 #figshare thanks to @rOpenSci!
+322497390324105216  Apr 11 19:52  @JGreenbrookHeld  Drawing a blank here: what's the change to the URL you make to import straight from #Dropbox into #rstats?
+322499537568669696  Apr 11 20:00  @Rbloggers        Dropbox & R Data:  (This article was first published on   Christopher Gandrud  (간드루드 크리스토파), and kin... http://bit.ly/12QGPsx #rstats
+322502135151484928  Apr 11 20:11  @Rbloggers        Le Monde puzzle [#815]:  (This article was first published on   Xi'an's Og » R, and kindly contribut... http://bit.ly/ZMmS9s #rstats
+322515706161799169  Apr 11 21:05  @orlandomezquita  RT @RLangTip: List of R packages for analysis of ecological and environmental data: http://bit.ly/16Og1vf #rstats
+322519438245130240  Apr 11 21:20  @ramnath_vaidya   Interactive Visualizations with rCharts, PolychartJS and Shiny http://ramnathv.github.io/rChartsShiny/ #rstats @Polychart @lisaczhang @jcheng
+322520527841398785  Apr 11 21:24  @apcharding       RT @jebyrnes: A quick intro to #ggplot2 from @_inundata http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ #rstats
+322535669941559296  Apr 11 22:24  @ErikJohnline     RT @RLangTip: List of R packages for analysis of ecological and environmental data: http://bit.ly/x0y4JC #rstats
+322545840780607488  Apr 11 23:04  @georgebernhard   @phil_nash i want to repurpose it to so assignment so i can write idiomatic #rstats code in C++ ...;)
+322552015936962560  Apr 11 23:29  @TATA_BOX         Signal hunting !! #rstats
+322557776599609344  Apr 11 23:52  @atrox10          RT @VertNetOrg: Niiice. MT @rOpenSci: A short primer on getting all @GBIF occurrences in a genus http://bit.ly/Yrc0Mh #rstats #biodiversity #data
+322561322896216064  Apr 12 00:06  @ramhiser         RT @raphg: Join us (http://rglab.org/jobs.html): #Postdoc, programer, #bioinformatics positions in Seattle. #rstats #dataviz #immunology #singlecell #Rcpp
+322576450450518016  Apr 12 01:06  @TomEdWhite       Obscure #Rstats advice - where should I start looking in to build a tetrahedron in R? (cc: @hylopsar ?) I have an x-y-z dataframe to plot.
+322579069638172672  Apr 12 01:16  @abhik1368        RT @links4R: A good list of R tutorial links http://pairach.com/2012/02/26/r-tutorials-from-universities-around-the-world/ #rstats
+322581312303157248  Apr 12 01:25  @abhik1368        RT @bkeegan: A really nice tutorial for using #Rstats to analyze sentiment on Twitter http://bit.ly/vGfrPs
+322605994876211200  Apr 12 03:03  @denisohora       Using R for causal inference in a study of expensive public policy decisions http://www.r-bloggers.com/video-using-r-for-causal-inference-in-a-study-of-expensive-public-policy-decisions/ @Rbloggers #rstats
+322606903286960128  Apr 12 03:07  @denisohora       Visualize large data sets with the bigvis package http://www.r-bloggers.com/visualize-large-data-sets-with-the-bigvis-package/ @Rbloggers #rstats
+322610203059171328  Apr 12 03:20  @systbiol         RT @VertNetOrg: Niiice. MT @rOpenSci: A short primer on getting all @GBIF occurrences in a genus http://bit.ly/Yrc0Mh #rstats #biodiversity #data
+322619418439999488  Apr 12 03:57  @AndrewMarritt    Integrating #rstats and @tableau. I can't thank the Tableau community enough: http://community.tableausoftware.com/message/206708#206708
+322620237377847297  Apr 12 04:00  @SAGRudd          Random forest methodology for model-based recursive partitioning: the mobForest package for #Rstats = #clusters @ http://buff.ly/111UpZY
+322634767839408128  Apr 12 04:58  @portfolioprobe   Vincent Zoonekynd on optimization http://bit.ly/10Tw9cw including the use of random portfolios #quant #finance #rstats
+322635686090006528  Apr 12 05:01  @KCoussement      RT @SAGRudd: Random forest methodology for model-based recursive partitioning: the mobForest package for #Rstats = #clusters @ http://t.co/6dpLUsSk9k
+322670662332321792  Apr 12 07:20  @Rbloggers        Spring Cleaning Data: 5 of 6- 2 ifelse vs Merge:  (This article was first published on   OutLie..R, ... http://bit.ly/12SYO1s #rstats
+322677330743029761  Apr 12 07:47  @nachocaballero   Cool. More reusable Javascript https://github.com/metagraf/rVega https://github.com/ramnathv/rNVD3 What do you think @timelyportfolio ? #rstats
+322681255420375040  Apr 12 08:03  @JulieWiseOwl     Statistical algorithms executed in #Rstats run 1000s of times faster due to the ability to simply parallelize http://bit.ly/Z1Buyw #MPP_R
+322681290505723904  Apr 12 08:03  @JeromyAnglim     Coursera Mathematical Statistics starts again April 16th; #calculus+#rstats+math-stats ; great course https://www.coursera.org/course/biostats
+322681445539799040  Apr 12 08:03  @bayesian_stats   RT @JeromyAnglim: Coursera Mathematical Statistics starts again April 16th; #calculus+#rstats+math-stats ; great course https://t.co/vrBc7zx9Pq
+322683026649776128  Apr 12 08:10  @treycausey       RT @JeromyAnglim: Coursera Mathematical Statistics starts again April 16th; #calculus+#rstats+math-stats ; great course https://t.co/vrBc7zx9Pq
+322683561423548416  Apr 12 08:12  @yy               RT @JeromyAnglim: Coursera Mathematical Statistics starts again April 16th; #calculus+#rstats+math-stats ; great course https://t.co/vrBc7zx9Pq
+322685591252766720  Apr 12 08:20  @kwcollins        RT @JeromyAnglim: Coursera Mathematical Statistics starts again April 16th; #calculus+#rstats+math-stats ; great course https://t.co/vrBc7zx9Pq
+322688727694581761  Apr 12 08:32  @flavioclesio     RT @JeromyAnglim: Coursera Mathematical Statistics starts again April 16th; #calculus+#rstats+math-stats ; great course https://t.co/vrBc7zx9Pq
