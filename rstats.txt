@@ -2927,3 +2927,81 @@
 322683561423548416  Apr 12 08:12  @yy               RT @JeromyAnglim: Coursera Mathematical Statistics starts again April 16th; #calculus+#rstats+math-stats ; great course https://t.co/vrBc7zx9Pq
 322685591252766720  Apr 12 08:20  @kwcollins        RT @JeromyAnglim: Coursera Mathematical Statistics starts again April 16th; #calculus+#rstats+math-stats ; great course https://t.co/vrBc7zx9Pq
 322688727694581761  Apr 12 08:32  @flavioclesio     RT @JeromyAnglim: Coursera Mathematical Statistics starts again April 16th; #calculus+#rstats+math-stats ; great course https://t.co/vrBc7zx9Pq
+322696939806261249  Apr 12 09:05  @arnicas          RT @JeromyAnglim: Coursera Mathematical Statistics starts again April 16th; #calculus+#rstats+math-stats ; great course https://t.co/vrBc7zx9Pq
+322698499089121282  Apr 12 09:11  @flash_us         RT @portfolioprobe: Vincent Zoonekynd on optimization http://bit.ly/10Tw9cw including the use of random portfolios #quant #finance #rstats
+322698827859640320  Apr 12 09:12  @joshua_ulrich    @wayoutmind maybe TTR::SMA(foo^p, n)^(1/p) #rstats
+322700282192609281  Apr 12 09:18  @cloudHPC         Finalizing slides for "#BigData with #rstats" at @nosqlrs #munich. See you and get discout with comsyst30
+322700911979933696  Apr 12 09:21  @nosqlrs          RT @cloudHPC: Finalizing slides for "#BigData with #rstats" at @nosqlrs #munich. See you and get discout with comsyst30
+322707158049357825  Apr 12 09:45  @Chicco_Stat      just discovered tryCatch() #cran #r #rstats... changed my life!! no more #omgmysimulationbroke10minsafterleavingtheoffice :D
+322721818261733376  Apr 12 10:44  @RickWicklin      RT @nnfuzzy: #julialang might be a fast alternative to #Rstats. It's still new and beta, but promising. http://julialang.org
+322723597816823808  Apr 12 10:51  @cboettig         Students - Work with the amazing @rvosa for an Summer of Code bringing NeXML into #rstats http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013#Implementing_semantically_rich_NeXML_I.2FO_in_R
+322723945415593984  Apr 12 10:52  @omearabrian      Student summer opportunities to code in phylo, have great mentors: http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013 #gsoc #phylosc #rstats
+322725663498981376  Apr 12 10:59  @trayc7           RT @omearabrian: Student summer opportunities to code in phylo, have great mentors: http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013 #gsoc #phylosc #rstats
+322726763186757632  Apr 12 11:03  @recology_        RT @cboettig: Students - Work with the amazing @rvosa for an Summer of Code bringing NeXML into #rstats http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013#Implementing_semantically_rich_NeXML_I.2FO_in_R
+322727458812084224  Apr 12 11:06  @SpringerStats    At #MPSA2013? stop by the Springer booth to check out #rstats books and meet @Springernomics folks
+322728601978015744  Apr 12 11:11  @PPUAMX           RT @RLangTip: search() displays the "search list" of packages where R searches for functions and other objects #rstats http://t.co/p09MqFlGs2
+322730383089217537  Apr 12 11:18  @pmidford         RT @cboettig: Students - Work with the amazing @rvosa for an Summer of Code bringing NeXML into #rstats http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013#Implementing_semantically_rich_NeXML_I.2FO_in_R
+322731248634195969  Apr 12 11:21  @planarrowspace   #ggplot2 theme_classic() is the new-school throwback hotness! #Rstats FRESH... for 0.9.3 #hiphopdata
+322736066794774528  Apr 12 11:40  @Rbloggers        Extending RevoScaleR for Mining Big Data – Discretization:  (This article was first published on   R... http://bit.ly/170bJPV #rstats
+322738068262092800  Apr 12 11:48  @fredbenenson     @drewconway @brianabelson @seanjtaylor @vsbuffalo @hspter @treycausey I have https://github.com/tdsmith/aRrgh bookmarked to send to #Rstats newbs
+322739162954469376  Apr 12 11:53  @hadleywickham    RT @planarrowspace: #ggplot2 theme_classic() is the new-school throwback hotness! #Rstats FRESH... for 0.9.3 #hiphopdata
+322742315762458625  Apr 12 12:05  @RLangTip         Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322742440027119616  Apr 12 12:06  @eldromedario     RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322742508524285952  Apr 12 12:06  @Kurren           RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322742550911913985  Apr 12 12:06  @hrbrmstr         RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322742735230607363  Apr 12 12:07  @ag_la_u          RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322743162915389441  Apr 12 12:09  @MikejMcDermott   RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322745921110671360  Apr 12 12:19  @larysar          I needed this yesterday! RT @RLangTip: Use the plyr package to easily sort a data frame by a column #rstats http://bit.ly/IyE1Wa
+322746010168352768  Apr 12 12:20  @larysar          RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322749649515585536  Apr 12 12:34  @kbecklbeck       RT @planarrowspace: #ggplot2 theme_classic() is the new-school throwback hotness! #Rstats FRESH... for 0.9.3 #hiphopdata
+322754582264557568  Apr 12 12:54  @JeremyNeedle     RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322756746936451072  Apr 12 13:02  @acepor           RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322758611598192641  Apr 12 13:10  @jmmurp           Anyone from the #rstats data hacking community going to #MPSA in Chicago this weekend?
+322764189498212352  Apr 12 13:32  @dom_muller       RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322765684746641408  Apr 12 13:38  @randyzwitch      @usujason psssst….the hashtag is #rstats (also, try Deducer for a quick GUI based way to get into ggplot2)
+322776169323843584  Apr 12 14:20  @MacDiva          Reading slides and code for a quick introduction to ggplot2: http://j.mp/158J6nb #rstats
+322776985162113024  Apr 12 14:23  @nachocaballero   Clickme: R => JS in a single line. New features and documentation overhaul for v0.2.0 (see the FAQ) http://bit.ly/rclickme #rstats #dataviz
+322777534523645952  Apr 12 14:25  @JohnCluverius    Seeing more freely available #rstats code & packages associated w/ book offerings is very encouraging #mpsa2013
+322781089376636928  Apr 12 14:39  @Bioconductor     Work on Google Summer of Code projects for #Bioconductor - contact us now with project proposals. #rstats http://www.bioconductor.org/developers/gsoc2013/
+322785825953828864  Apr 12 14:58  @amestadmx        RT @RLangTip: List of R packages for analysis of ecological and environmental data: http://bit.ly/x0y4JC #rstats
+322787449602441218  Apr 12 15:04  @JamesMeadow      RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322793366184161281  Apr 12 15:28  @kindlyviking     R has an internal method for unzipping files, but it needs an external program to zip them back up. I wonder why. #rstats
+322802185043849216  Apr 12 16:03  @HarlanH          @corynissen @kindlyviking I think because the compression part of ZIP is/was maybe patented. http://oreil.ly/Ywzkby #Rstats
+322804415411142656  Apr 12 16:12  @sirishasun       Reminder: %o% is binary operator providing a wrapper for outer(x, y, "*"). #rstats
+322805069709971457  Apr 12 16:15  @sirishasun       FUN = "*" is handled internally as special case, via as.vector(X) %*% t(as.vector(Y)), intended only for numeric vectors and arrays #rstats
+322807439223304196  Apr 12 16:24  @sirishasun       outer can be used on non-numeric vectors like: outer(month.abb, 1999:2003, FUN = "paste") #rstats
+322810572833964032  Apr 12 16:36  @kevin_ushey      .@biotimylated ‏MT @fredbenenson @drewconway @brianabelson @seanjtaylor @vsbuffalo I've https://github.com/tdsmith/aRrgh bookmarked for #Rstats newbs
+322817523143815168  Apr 12 17:04  @satuelisa        RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322832202373160961  Apr 12 18:02  @hadleywickham    Garrett Grolemund talks with @courtneynash about #rstats as a programming language http://oreil.ly/10ZLsQL
+322833174327599104  Apr 12 18:06  @lgatt0           RT @Bioconductor: Work on Google Summer of Code projects for #Bioconductor - contact us now with project proposals. #rstats http://t.co/4n5RXJIosG
+322835809139060736  Apr 12 18:17  @jacopoanselmi    RT @hadleywickham: Garrett Grolemund talks with @courtneynash about #rstats as a programming language http://oreil.ly/10ZLsQL
+322842528057552897  Apr 12 18:43  @rOpenSci         Blog: Use case - how to get species occurrence data from @GBIF for a genus http://bit.ly/17w7zSP #rstats #ecology
+322842574136147968  Apr 12 18:44  @recology_        RT @rOpenSci: Blog: Use case - how to get species occurrence data from @GBIF for a genus http://bit.ly/17w7zSP #rstats #ecology
+322847600724287490  Apr 12 19:04  @andyteucher      RT @rOpenSci: Blog: Use case - how to get species occurrence data from @GBIF for a genus http://bit.ly/17w7zSP #rstats #ecology
+322849619589615617  Apr 12 19:12  @kleinschmidt     yup RT @hadleywickham: Garrett Grolemund talks with @courtneynash about #rstats as a programming language http://bit.ly/154lzng
+322870354500526080  Apr 12 20:34  @sharon000        R is 'no more complicated than using a TI-89 graphing calculator' says Garrett Grolemund http://bit.ly/YiVgT3 #rstats
+322883608127864833  Apr 12 21:27  @Sadistician      Writing a lesson plan for #rstats. New client on Mon & wants 2 learn R & #stats (basic & adv) in a week. #ILoveTeaching #challengeaccepted
+322883635747356672  Apr 12 21:27  @rtraborn         My day, in chronological order: promoter prediction, intron evolution, genomic analysis with #Rstats, squash, & a emacs lesson from my buddy
+322893920772173824  Apr 12 22:08  @ecolandlab       RT @rOpenSci: Blog: Use case - how to get species occurrence data from @GBIF for a genus http://bit.ly/17w7zSP #rstats #ecology
+322897520319672320  Apr 12 22:22  @sjGoring         I'm getting the hang of #github now! Made my first bug-fix and pull request for the #Rstats #neotoma package. https://github.com/ropensci/neotoma
+322898885146181635  Apr 12 22:27  @rOpenSci         RT @sjGoring: I'm getting the hang of #github now! Made my first bug-fix and pull request for the #Rstats #neotoma package. https://t.co/8WXh2sdJst
+322901825433001984  Apr 12 22:39  @DanMcGlinn       RT @sjGoring: I'm getting the hang of #github now! Made my first bug-fix and pull request for the #Rstats #neotoma package. https://t.co/8WXh2sdJst
+322919027221594113  Apr 12 23:47  @drago_carlo      Overdispersed Poisson et bootstrap | Freakonometrics http://freakonometrics.hypotheses.org/5770 #statistics #econometrics #rstats
+322935691472408576  Apr 13 00:54  @Rbloggers        Mathematical abstraction and the robustness to assumptions:  (This article was first published on   ... http://bit.ly/172O7tT #rstats
+322957731067723776  Apr 13 02:21  @gilromera        RT @rOpenSci: Blog: Use case - how to get species occurrence data from @GBIF for a genus http://bit.ly/17w7zSP #rstats #ecology
+322970750107660288  Apr 13 03:13  @gsantosgo        Garrett Grolemund talks with @courtneynash about #rstats as a programming language http://oreil.ly/10ZLsQL
+322981414322720769  Apr 13 03:55  @JeromyAnglim     I just noticed that R Commander now plays nicely with RStudio. This could be great for teaching purposes. #rstats
+322983009089359872  Apr 13 04:02  @GaryPowney       RT @rOpenSci: Blog: Use case - how to get species occurrence data from @GBIF for a genus http://bit.ly/17w7zSP #rstats #ecology
+323033568299347969  Apr 13 07:22  @hylopsar         been getting a LOT of segfault errors (memory not mapped) since upgrading to #RStats 3.0.0. Anyone else or is it just me?
+323040260986642432  Apr 13 07:49  @stephaniehicks   RT @hadleywickham: Garrett Grolemund talks with @courtneynash about #rstats as a programming language http://oreil.ly/10ZLsQL
+323064418315411456  Apr 13 09:25  @davdittrich      RT @statmodeling: New post: Stan 1.3.0 and RStan 1.3.0 Ready for Action http://andrewgelman.com/2013/04/12/stan-1-3-0-and-rstan-1-3-0-ready-for-action/ #rstats
+323064571789209600  Apr 13 09:26  @moorejh          #bioinformatics MT @ajantriks: #rstats as a #programming language http://programming.oreilly.com/2013/04/r-as-a-programming-language.html
+323067651129745409  Apr 13 09:38  @hadleywickham    debugging #rstats without browser(), traceback() and options(error = recover) is like ____________
+323072772987293696  Apr 13 09:58  @Rbloggers        Meta-Anlaysis Simulation – Monte Carlo:  (This article was first published on   Econometrics by Simu... http://bit.ly/118LUME #rstats
+323078313113423872  Apr 13 10:20  @AmyT_Tweets      Pi Day is over, but Monte Carlo methods are sexy on any day of the year http://www.r-bloggers.com/%CF%80-day-special-estimating-%CF%80-using-monte-carlo/ #rstats
+323093526680326144  Apr 13 11:21  @Ercan__Yilmaz    RT @JodyEdmondson: Venue Recommendation - A Simple Use Case Connecting R and Neo4j http://bit.ly/12LgVq7 #Rstats #bigdata
+323096195339788289  Apr 13 11:31  @CortRudolph      #siop13 master tutorial on data analysis and visualization with #rstats
+323124730506919936  Apr 13 13:25  @carlyziter       Tips on how to easily do statistical analysis & create graphs at the same time using #RStats. #CEEBRetreat
+323125753355067392  Apr 13 13:29  @gappy3000        @_plumber_ I'll test it personally. If it works I'll champion it with my employer (we use mostly #rstats but also python).
+323136108265345024  Apr 13 14:10  @eddelbuettel     .@hadleywickham well we could mention ESS tracebug (but why bother with non-believers :)  / cc @kevin_ushey #rstats #emacs
+323138451778199552  Apr 13 14:19  @carlyziter       Illustrator can be useful for modifying graphs, for those of us a touch less savvy with #RStats #CEEBRetreat
