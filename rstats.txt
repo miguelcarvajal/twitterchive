@@ -2953,6 +2953,7 @@
 322743162915389441  Apr 12 12:09  @MikejMcDermott   RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
 322745921110671360  Apr 12 12:19  @larysar          I needed this yesterday! RT @RLangTip: Use the plyr package to easily sort a data frame by a column #rstats http://bit.ly/IyE1Wa
 322746010168352768  Apr 12 12:20  @larysar          RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+322747600765870080  Apr 12 12:26  @tonyfujs         Nice series of posts on data cleaning using #rstats http://0utlier.blogspot.com/2013/04/spring-cleaning-data-1of-6-downloading.html
 322749649515585536  Apr 12 12:34  @kbecklbeck       RT @planarrowspace: #ggplot2 theme_classic() is the new-school throwback hotness! #Rstats FRESH... for 0.9.3 #hiphopdata
 322754582264557568  Apr 12 12:54  @JeremyNeedle     RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
 322756746936451072  Apr 12 13:02  @acepor           RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
@@ -3005,3 +3006,23 @@
 323125753355067392  Apr 13 13:29  @gappy3000        @_plumber_ I'll test it personally. If it works I'll champion it with my employer (we use mostly #rstats but also python).
 323136108265345024  Apr 13 14:10  @eddelbuettel     .@hadleywickham well we could mention ESS tracebug (but why bother with non-believers :)  / cc @kevin_ushey #rstats #emacs
 323138451778199552  Apr 13 14:19  @carlyziter       Illustrator can be useful for modifying graphs, for those of us a touch less savvy with #RStats #CEEBRetreat
+323153087298682880  Apr 13 15:17  @PPUAMX           RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+323153888339456001  Apr 13 15:21  @Rbloggers        Spring Cleaning Data: 6 of 6- Saving the Data:  (This article was first published on   OutLie..R, an... http://bit.ly/12ZBMGj #rstats
+323156346595848192  Apr 13 15:30  @Rbloggers        Classification Tree Models:  (This article was first published on   ExploringDataBlog, and kindly co... http://bit.ly/12X4Emu #rstats
+323173386534670337  Apr 13 16:38  @frenchrh         RT @RLangTip: Use the plyr package to easily sort a data frame by a column: arrange(df, desc(colname)) #rstats http://bit.ly/IyE1Wa
+323184067526926338  Apr 13 17:21  @geospacedman     @carlyziter or keep it open source by writing SVG graphs from #rstats and edit with inkscape...
+323217117589692417  Apr 13 19:32  @kleinschmidt     @knile is it sad that I garden pathed on "R"? (as in #Rstats)
+323220951342931968  Apr 13 19:47  @M_T_Patterson    Excellent talk on reproducible research (RMarkdown, Knitr, Sweave) by @JeromyAnglim   http://www.youtube.com/watch?v=XqzHnYLr5BE&feature=youtu.be #RStats #Teaching
+323232335543824384  Apr 13 20:32  @Rbloggers        Block separated coding or not?:  (This article was first published on   Econometrics by Simulation, ... http://bit.ly/ZWMuAE #rstats
+323244643217178625  Apr 13 21:21  @zentree          On the pain of submitting packages to #Rstats CRAN. Some of the personality issues sound pathetic. http://yihui.name/en/2013/04/travis-ci-for-r/
+323254417971355648  Apr 13 22:00  @Rbloggers        Using ddply to select the first record of every group:  (This article was first published on   Data ... http://bit.ly/YD5vWY #rstats
+323282577437904896  Apr 13 23:52  @frenchrh         RT @M_T_Patterson Excellent talk on reproducible research (RMarkdown, Knitr, Sweave) by @JeromyAnglim   http://www.youtube.com/watch?v=XqzHnYLr5BE&feature=youtu.be #RStats
+323317894974955520  Apr 14 02:12  @qx               #rstats Tired of 2-step Excel-CSV-R imports? XLConnect is an easy way to read Excel worksheets directly into R: http://www.dummies.com/how-to/content/how-to-read-data-from-excel-into-r.html
+323317986058461184  Apr 14 02:13  @monsoontrader    RT @qx: #rstats Tired of 2-step Excel-CSV-R imports? XLConnect is an easy way to read Excel worksheets directly into R: http://t.co/FvxXkhmAIb
+323318533926834176  Apr 14 02:15  @lastAtheist      RT @qx: #rstats Tired of 2-step Excel-CSV-R imports? XLConnect is an easy way to read Excel worksheets directly into R: http://t.co/FvxXkhmAIb
+323320880849616897  Apr 14 02:24  @josefslerka      Classification Tree Models in R http://j.mp/ZtPL37 #rstats
+323331279707844610  Apr 14 03:05  @vojtechkopal     RT @josefslerka: Classification Tree Models in R http://j.mp/ZtPL37 #rstats
+323361000701165568  Apr 14 05:04  @Gliders_Coach    Using R for Cricket Analysis #rstats http://wp.me/p9q8Y-2Sa
+323362197604552705  Apr 14 05:08  @Gliders_Coach    Using R for Cricket Analysis #rstats http://lnkd.in/RpUnvG
+323366968608583680  Apr 14 05:27  @masemresearch    Fitting Distributions in R - by V. Ricci - Free PDF #rstats | @scoopit http://sco.lt/8qZvxh
+323386926050734080  Apr 14 06:47  @boris_gorelik    IRR - nice collection of inter-rater reliability and agreement coefficients for #rstats  http://ow.ly/k2Qna
