@@ -3036,3 +3036,33 @@
 323474927804088322  Apr 14 12:36  @jonsedar         RT @YhatHQ: Style guide for R https://github.com/hadley/devtools/wiki/Style #rstats
 323482759916027906  Apr 14 13:07  @frenchrh         RT @YhatHQ Style guide for R https://github.com/hadley/devtools/wiki/Style #rstats
 323484081432190976  Apr 14 13:13  @Piboonrungroj    Colours in R #Rstats http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf #colours #dataviz
+323515642407972865  Apr 14 15:18  @SelectStats      Really useful list of R tricks - http://sas.uwaterloo.ca/stats_navigation/StatSoftware/R/statsRus.htm If you're not using R already you should definitely try it. #rstats #statistics
+323532751070453760  Apr 14 16:26  @ChiangMaiR       RT @Piboonrungroj: Colours in R #Rstats http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf #colours #dataviz
+323532784205443072  Apr 14 16:26  @PairachCMSE      RT @Piboonrungroj: Colours in R #Rstats http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf #colours #dataviz
+323541431199346688  Apr 14 17:01  @Rbloggers        Benchmarking Machine Learning Models Using Simulation:  (This article was first published on   Blog ... http://bit.ly/133Zi5a #rstats
+323541434470903808  Apr 14 17:01  @Rbloggers        Tip: Julia vs. R – introduction videos and more:  (This article was first published on   OpenCPU » R... http://bit.ly/131MoZ5 #rstats
+323547158974431233  Apr 14 17:23  @eoinbrazil       RT @SAGRudd: Random forest methodology for model-based recursive partitioning: the mobForest package for #Rstats = #clusters @ http://t.co/6dpLUsSk9k
+323561448741679104  Apr 14 18:20  @Rbloggers        PSID data set builder for R:  (This article was first published on   plausibel, and kindly contribut... http://bit.ly/100Wjxr #rstats
+323565968448184322  Apr 14 18:38  @YisongSong       RT @GregRahn: Great Read: Programmers Need To Learn Statistics - http://bit.ly/ZxtkRv #rstats #statistics #datascience
+323570939663089664  Apr 14 18:58  @nathanzim25      Created a baseball simulation app using RStudio Shiny. http://nathanzim.com  #sabermetrics #rstats
+323585136476184579  Apr 14 19:54  @chlalanne        Tip: #julialang vs. #rstats – introduction videos and more http://prsm.tc/9KMaVy via @prismatic
+323592175692685312  Apr 14 20:22  @aDataHead        Tip: Julia vs. #Rstats – introduction videos and more http://blog.opencpu.org/2013/04/tip-julia-vs-r-introduction-videos-and-more/ via @Rbloggers
+323601179084980224  Apr 14 20:58  @JGreenbrookHeld  @georgedarroch #rstats has a geo-spacial package....?
+323618762471387136  Apr 14 22:08  @info_ignacio     "RT Random forest methodology for model-based recursive partitioning: the mobForest package for #Rstats = #clusters http://t. ..." Via @eoin
+323619375741546497  Apr 14 22:10  @Rbloggers        BayesComp homepage:  (This article was first published on   Xi'an's Og » R, and kindly contributed t... http://bit.ly/101DFFQ #rstats
+323628701755527169  Apr 14 22:47  @datailluminator  Retail Analytics Part 1a: Time Analysis http://bit.ly/ZqML7k  #rstats #retail #analytics #time #timeseries #SQL #viz #hadoop #database
+323628751957139457  Apr 14 22:48  @datailluminator  Visualizing Farmers' Markets Geo Data  http://bit.ly/WUrbOf   #rstats #viz #farmers #maps #wine #vegetables #food  #google #farmersmarkets
+323629442087940096  Apr 14 22:50  @IreneDeines      RT @datailluminator: Visualizing Farmers' Markets Geo Data  http://bit.ly/WUrbOf   #rstats #viz #farmers #maps #wine #vegetables #food  #google #farmersmarkets
+323638741145096193  Apr 14 23:27  @timelyportfolio  might have to try this out PSID data set builder for #Rstats http://bit.ly/10WfB2d
+323662666042339328  Apr 15 01:02  @enterthesloth    Just discovered 'Cairo' for producing awesome looking anti-aliased plots in R http://cran.r-project.org/web/packages/Cairo/Cairo.pdf #rstats
+323676935030984704  Apr 15 01:59  @BestExPlus       RT @moneyscience: Summer School: Longitudinal Network Analysis with RSiena http://bit.ly/YKxNfI #quant #rstats
+323699667244314624  Apr 15 03:29  @JGreenbrookHeld  Tonight, I've cracked Flock to write some #rstats code, and to get my head around discriminant function analysis. Working so far. #ttrttpt
+323711517348478976  Apr 15 04:16  @portfolioprobe   stock-picking opportunity and the ratio of variabilities http://bit.ly/YoP8ZC #quant #finance #rstats
+323731815955329024  Apr 15 05:37  @RolfFredheim     First attempts at graphing the GDELT data http://quantifyingmemory.blogspot.co.uk/2013/04/mapping-gdelt-data-involving-russia.html #GDELT #rstats
+323735244844978177  Apr 15 05:51  @nhcooper123      Want to try using @drnickisaac's methods on biological records data? See their new R pkg sparta on GitHub #TCDPG #rstats
+323737697472618496  Apr 15 06:00  @Rbloggers        Simulating the Gambler’s Ruin:  (This article was first published on   Statistical Research » R, and... http://bit.ly/11fQj0v #rstats
+323739815893946368  Apr 15 06:09  @useR_2013        The official #useR2013 conference url is working again: http://www.r-project.org/useR-2013 #rstats, please always access through it.
+323740256472035329  Apr 15 06:11  @zentree          'Using #RStats — Working with Geospatial Data'. http://mazamascience.com/WorkingWithData/?p=1277. This could be useful for @georgedarroch
+323740740154961920  Apr 15 06:13  @emilopezcano     RT @useR_2013: The official #useR2013 conference url is working again: http://www.r-project.org/useR-2013 #rstats, please always access through it.
+323745810049286145  Apr 15 06:33  @monsoontrader    postgrads in my #rstats workshops http://i.imgur.com/ksw1ZBH.gif
+323766463754301441  Apr 15 07:55  @emisshula        Attn #RStats users: Time to learn another language http://bit.ly/17Aat9a not #Python but #Julia
