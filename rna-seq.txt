@@ -944,3 +944,33 @@
 323834609550884864  Apr 15 12:26  @jongbeau         RT @genetics_blog: Excellent comprehensive list and graphical display of RNA-seq methods http://regulatorygenomics.upf.edu/Software/RNA-Seq_and_splicing/ http://t.co/Lh5xnTEADZ
 323862158217723904  Apr 15 14:15  @Diane_McKenna_   Presentation- @AstraZenecaUS "Using #RNA-Seq to Characterize Explant Models to Support Research and Drug Discovery."  http://rna-seqsummit.com/
 323862893030424576  Apr 15 14:18  @Diane_McKenna_   RNA-Seq meeting with Networking Drinks Reception sponsored by @Affymetrix on 19 June in Boston #sequencing #genomics http://rna-seqsummit.com/register
+323921393056092160  Apr 15 18:10  @RSGArgentina     RT @genetics_blog: Software for simulating RNA-seq library preparation https://github.com/sbotond/rlsim #bioinformatics
+323936735052578816  Apr 15 19:11  @rnomics          Synthetic spike-in standards for #RNA-seq experiments: http://ncbi.nlm.nih.gov posted by... http://1.usa.gov/14r3sJ8 #rnomics_bioinfo @MyEN
+323961070974820352  Apr 15 20:48  @lauribe          M.Snyder PErsonal Omics profiling of himself. 59 samples , RNA-Seq of 29 of the samples show allele specific expression
+323964039619289088  Apr 15 21:00  @GenoLogics       RT @Diane_McKenna_: RNA-Seq meeting with Networking Drinks Reception sponsored by @Affymetrix on 19 June in Boston http://ow.ly/1V8Jdg
+323968330270658560  Apr 15 21:17  @SEQquestions     SeqGSEA: Gene Set Enrichment Analysis of RNA-Seq Data http://bit.ly/15gZp1s
+323971871576051712  Apr 15 21:31  @tosnam           Methods to Study Splicing from RNA-Seq http://goo.gl/CV9LV RNA-Seq 용 splicing 분석 프로그램들을 분석 단계별 isoform과 event 기준으로 잘 정리한 포스트.
+323994176402378752  Apr 15 23:00  @rnomics          Shrinkage estimation of dispersion in Negative Binomial models for #RNA-seq experiments... http://bit.ly/14rtGLz #bioinformaticsj @MyEN
+323994192697245696  Apr 15 23:00  @rnomics          BRANCH: boosting #RNA-Seq assemblies with partial or related genomic sequences:... http://bit.ly/14rtL1I #bioinformaticsj @MyEN
+324006192714240000  Apr 15 23:47  @Ilovepigenetics  @leonidkruglyak I should submit my masterpieces to a gallery. With my RNA-seq study + 100s of Sanger runs, I'm thinking the Musee D'Orsay.
+324006859654713344  Apr 15 23:50  @kei_bi           RefExは、4つの異なる実験手法（EST、GeneChip、CAGE、RNA-seq）によって得られた40種類の正常組織における遺伝子発現データを統合し並列に表現することで、手法間の比較とともに各遺伝子の発現量を直感的に比較することが可能なリファレンス(参照)データセットです
+324033634665377793  Apr 16 01:36  @YoshiKawahara    RNA-Seq解析を自分でやってみようと思っている人に良さそうなレビュー。SupplementalのHands-On Tutorialはサンプルデータまで付いていて超親切。http://www.sciencedirect.com/science/article/pii/S1360138513000241
+324034526059851776  Apr 16 01:40  @yoshidamasaaki   RT @YoshiKawahara: RNA-Seq解析を自分でやってみようと思っている人に良さそうなレビュー。SupplementalのHands-On Tutorialはサンプルデータまで付いていて超親切。http://www.sciencedirect.com/science/article/pii/S1360138513000241
+324060524323172353  Apr 16 03:23  @DEMETER298       RT @YoshiKawahara: RNA-Seq解析を自分でやってみようと思っている人に良さそうなレビュー。SupplementalのHands-On Tutorialはサンプルデータまで付いていて超親切。http://www.sciencedirect.com/science/article/pii/S1360138513000241
+324061939389067264  Apr 16 03:29  @awieeeee         RT @YoshiKawahara: RNA-Seq解析を自分でやってみようと思っている人に良さそうなレビュー。SupplementalのHands-On Tutorialはサンプルデータまで付いていて超親切。http://www.sciencedirect.com/science/article/pii/S1360138513000241
+324080647880712193  Apr 16 04:43  @shignak          RT @YoshiKawahara: RNA-Seq解析を自分でやってみようと思っている人に良さそうなレビュー。SupplementalのHands-On Tutorialはサンプルデータまで付いていて超親切。http://www.sciencedirect.com/science/article/pii/S1360138513000241
+324081002630758400  Apr 16 04:45  @Alien_Evolve     RT @YoshiKawahara: RNA-Seq解析を自分でやってみようと思っている人に良さそうなレビュー。SupplementalのHands-On Tutorialはサンプルデータまで付いていて超親切。http://www.sciencedirect.com/science/article/pii/S1360138513000241
+324104822217375744  Apr 16 06:19  @ZeeThaBQF        RT @YoshiKawahara: RNA-Seq解析を自分でやってみようと思っている人に良さそうなレビュー。SupplementalのHands-On Tutorialはサンプルデータまで付いていて超親切。http://www.sciencedirect.com/science/article/pii/S1360138513000241
+324129017684975616  Apr 16 07:55  @genetics_blog    Time Series Expression Analyses Using RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23586021 #bioinformatics
+324129118377615360  Apr 16 07:56  @genetics_blog    Accurate detection of differential RNA processing with RNA-seq data http://www.ncbi.nlm.nih.gov/pubmed/23585274 #bioinformatics
+324129342219231232  Apr 16 07:57  @notSoJunkDNA     RT @genetics_blog: Accurate detection of differential RNA processing with RNA-seq data http://www.ncbi.nlm.nih.gov/pubmed/23585274 #bioinformatics
+324129797989085184  Apr 16 07:59  @KatherineMejia   RT @genetics_blog: Time Series Expression Analyses Using RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23586021 #bioinformatics
+324129827860926464  Apr 16 07:59  @asharmaiisc      RT @genetics_blog: Time Series Expression Analyses Using RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23586021 #bioinformatics
+324129848354279426  Apr 16 07:59  @asharmaiisc      RT @genetics_blog: Accurate detection of differential RNA processing with RNA-seq data http://www.ncbi.nlm.nih.gov/pubmed/23585274 #bioinformatics
+324131167131561984  Apr 16 08:04  @moorejh          #genomics RT @genetics_blog: Time Series Expression Analyses Using RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23586021 #bioinformatics
+324132303129411584  Apr 16 08:08  @GenomicsCore     RT @genetics_blog: Accurate detection of differential RNA processing with RNA-seq data http://www.ncbi.nlm.nih.gov/pubmed/23585274 #bioinformatics
+324134520595034113  Apr 16 08:17  @jeshoff1         RT @moorejh: #genomics RT @genetics_blog: Time Series Expression Analyses Using RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23586021 #bioinformatics
+324134981326757888  Apr 16 08:19  @dkuo             RT @genetics_blog: Accurate detection of differential RNA processing with RNA-seq data http://www.ncbi.nlm.nih.gov/pubmed/23585274 #bioinformatics
+324141985168519171  Apr 16 08:47  @genetics_blog    SeqGSEA - gene set / pathway analysis for RNA-seq w/ #Rstats #Bioconductor http://bioconductor.org/packages/release/bioc/html/SeqGSEA.html #NGS #Bioinformatics
+324142406389874688  Apr 16 08:49  @dave_bridges     RT @genetics_blog: SeqGSEA - gene set / pathway analysis for RNA-seq w/ #Rstats #Bioconductor http://bioconductor.org/packages/release/bioc/html/SeqGSEA.html #NGS #Bioinformatics
+324145099770568704  Apr 16 08:59  @rnomics          RNA-Seq – revelation of the messengers: Next-generation... http://bit.ly/11938tx #AnalysisPipelines #RNASeq #TheNetherlands #RNAseq @MyEN

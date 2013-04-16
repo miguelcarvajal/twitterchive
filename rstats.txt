@@ -3091,3 +3091,52 @@
 323868619337515009  Apr 15 14:41  @KognitioCloud    RT @kognitio: Webinar showcases 'external scripting' a demo of #MPP_R Using #Rstats #InMemory - http://bit.ly/TO5me9
 323870884903391232  Apr 15 14:50  @recology_        Travis CI for R! (not yet) http://bit.ly/17BWrnw from @xieyihui #rstats
 323872193253629952  Apr 15 14:55  @gsantosgo        R Is Not So Hard! A Tutorial, Part 4  by David Lillis #RStats http://www.theanalysisfactor.com/r-tutorial-4/
+323873813223841792  Apr 15 15:01  @OpenGamma        Registration for the R/Finance conference is open - join us in Chicago 17-18 May: http://rinfinance.com/ #rstats #rfinance
+323876632152637440  Apr 15 15:13  @slendrmeans      @fonnesbeck Tweeted w/ #rstats folk recently and they couldn't see diff. b/w ipynb and knitr. Hard to convey value of ipynb interactivity.
+323877062073004032  Apr 15 15:14  @zachstednick     My first use of D3 and #Rstats out in the open: http://zachstednick.name/blog/2013/04/14/analysis-of-the-listserve-emails/
+323885652909359104  Apr 15 15:48  @PPUAMX           RT @RLangTip: How to unshorten a bit.ly, t.co or other short URL with R: http://bit.ly/IfI9Zw #rstats
+323887607496994817  Apr 15 15:56  @psychemedia      Ooh... GDELT data in R http://bit.ly/17eWQJB /via Rbloggers #ddj #rstats
+323889296484478976  Apr 15 16:03  @tresquintos      #Venezuela. pronóstico y simulación electoral hecho con #Bayes y #Rstats: http://www.tresquintos.com/2013/04/15/pronosticos-electorales-para-venezuela-2013/.
+323895790856728576  Apr 15 16:29  @vijaybarve       Remember write.csv function does NOT support append. Need to use write.table to use append=T. #rstats
+323904565944668160  Apr 15 17:04  @vijaybarve       RT @rOpenSci: Blog: Use case - how to get species occurrence data from @GBIF for a genus http://bit.ly/17w7zSP #rstats #ecology
+323907723295072256  Apr 15 17:16  @LouBajuk         RT @useR_2013: The official #useR2013 conference url is working again: http://www.r-project.org/useR-2013 #rstats, please always access through it.
+323908396648628224  Apr 15 17:19  @Rbloggers        Bioconductor looking for Google Summer of Code Applicants: On April 8, Google announced the 177 mentor... http://bit.ly/11iOWOk #rstats
+323910341249626114  Apr 15 17:26  @TATA_BOX         Bioconductor looking for Google Summer of Code Applicants | (R news & tutorials) http://www.r-bloggers.com/bioconductor-looking-for-google-summer-of-code-applicants/ #rstats
+323911200175960064  Apr 15 17:30  @ramnath_vaidya   rCharts | One Interface, Multiple JS Libraries (PolyCharts, NVD3 and MorrisJS) http://ramnathv.github.io/rCharts/r2js/ #rstats #dataviz #nvd3 #morrisjs
+323926613819523073  Apr 15 18:31  @flash_us         RT @portfolioprobe: stock-picking opportunity and the ratio of variabilities http://bit.ly/YoP8ZC #quant #finance #rstats
+323932085209403392  Apr 15 18:53  @timelyportfolio  RT @ramnath_vaidya: rCharts | One Interface, Multiple JS Libraries (PolyCharts, NVD3 and MorrisJS) http://ramnathv.github.io/rCharts/r2js/ #rstats #dataviz #nvd3 #morrisjs
+323936989743300609  Apr 15 19:12  @badnetworker     RT @RolfFredheim: First attempts at graphing the GDELT data http://quantifyingmemory.blogspot.co.uk/2013/04/mapping-gdelt-data-involving-russia.html #GDELT #rstats
+323940662229737472  Apr 15 19:27  @JGreenbrookHeld  Using R — Working with Geospatial Data: http://www.r-bloggers.com/using-r-working-with-geospatial-data/ #rstats cc @georgedarroch
+323947330183249921  Apr 15 19:53  @siah             Is there a ggplot2 package for R 3.0? #rstats
+323947917218045956  Apr 15 19:56  @Jowanza          RT @siah: Is there a ggplot2 package for R 3.0? #rstats
+323953028774383616  Apr 15 20:16  @johnbaums        "Math symbols in #rstats charts: a cheat sheet" http://feedly.com/k/12fSORF
+323954947064467457  Apr 15 20:24  @siah             Was there any major plyr update recently? none of my old ddply codes work now #rstats
+323961558977900544  Apr 15 20:50  @Rbloggers        MCMSki IV, Jan. 6-8, 2014, Chamonix (news #5):  (This article was first published on   Xi'an's Og » ... http://bit.ly/YMxGmk #rstats
+323983195618041856  Apr 15 22:16  @revodavid        Tess Nesbitt of @UpStreamMPM talking about using #rstats and @RevolutionR for marketing attribution analysis #BARUG http://t.co/ZAoStThozs
+323985625650954242  Apr 15 22:26  @marcosluis2186   RT @revodavid: Tess Nesbitt of @UpStreamMPM talking about using #rstats and @RevolutionR for marketing attribution analysis #BARUG http://t.co/ZAoStThozs
+323996287626272768  Apr 15 23:08  @JamesToll        .@PhilFedResearch @stlouisfed Thanks, but I'd rather use the getSymbols.FRED function from #rstats quantmod package
+324001291363840001  Apr 15 23:28  @wahalulu         A forecast and simulation of the #Venezuela election results using #rstats (in spanish) http://www.tresquintos.com/2013/04/15/pronosticos-electorales-para-venezuela-2013/ via @tresquintos
+324002850642485249  Apr 15 23:34  @tresquintos      RT @wahalulu: A forecast and simulation of the #Venezuela election results using #rstats (in spanish) http://www.tresquintos.com/2013/04/15/pronosticos-electorales-para-venezuela-2013/ via @tresquintos
+324003813386227712  Apr 15 23:38  @wahalulu         @tresquintos me encantaria ver la data y el codigo de #rstats si se puede. FYI - soy venezolano :)
+324024924014534656  Apr 16 01:02  @UpStreamMPM      RT @revodavid: Tess Nesbitt of @UpStreamMPM talking about using #rstats and @RevolutionR for marketing attribution analysis #BARUG http://t.co/ZAoStThozs
+324026759567769602  Apr 16 01:09  @kateboersma      Neat summary of useful #rstats packages for ecology, by @ucfagls. RT @RLangTip  http://cran.r-project.org/web/views/Environmetrics.html
+324032961777373184  Apr 16 01:34  @chlalanne        "Benchmarking #machinelearning Models Using Simulation"  • featuring Max Kuhn, author of the caret #rstats package http://www.r-bloggers.com/benchmarking-machine-learning-models-using-simulation/
+324033695755415552  Apr 16 01:37  @chlalanne        "Stan 1.3.0 and RStan 1.3.0 Ready for Action"  #rstats http://www.r-bloggers.com/stan-1-3-0-and-rstan-1-3-0-ready-for-action/
+324044283604762624  Apr 16 02:19  @my_witz_end      RT @chlalanne: "Benchmarking #machinelearning Models Using Simulation"  • featuring Max Kuhn, author of the caret #rstats package http://t.co/iZRCDCBK0A
+324061877804089344  Apr 16 03:29  @lucaborger       Benchmarking #machinelearning Models Using Simulation http://www.r-bloggers.com/benchmarking-machine-learning-models-using-simulation/ & caret&AppliedPredictiveModeling - cool! HT @chlalanne #rstats
+324068874125471746  Apr 16 03:56  @kirkwy           RT @OpenGamma: Registration for the R/Finance conference is open - join us in Chicago 17-18 May: http://rinfinance.com/ #rstats #rfinance
+324068961811562496  Apr 16 03:57  @ananelson        RT @OpenGamma: Registration for the R/Finance conference is open - join us in Chicago 17-18 May: http://rinfinance.com/ #rstats #rfinance
+324077853425684480  Apr 16 04:32  @nicoleradziwill  Anyone have a favorite package/function for data imputation in #rstats?
+324083774541418497  Apr 16 04:56  @mj_kallen        bij @HKVlijninwater hebben we nu #rstats draaien op ons 96-core @IBMPlatform LSF cluster. Werkt als een tierelier! #leukspeelgoed
+324094714343223297  Apr 16 05:39  @psychemedia      COuld be handy - writing maths notation in R graphics http://bit.ly/17hBuLx #rstats /via Rbloggers
+324111072942518273  Apr 16 06:44  @zentree          Flotsam 11: books, tips in Quantum Forest. #Rstats http://www.quantumforest.com/2013/04/flotsam-11/
+324130334897758208  Apr 16 08:01  @mathew_hall      Sheffield R Users Group, first meeting next Thursday: http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/ #rstats
+324141394539212800  Apr 16 08:45  @comsysto         @cloudHPC: @TDWI Munich 2013 (17.-19. June) accepted talk: "Using #rstats for #BI in #BigData" powered by @comsysto
+324141985168519171  Apr 16 08:47  @genetics_blog    SeqGSEA - gene set / pathway analysis for RNA-seq w/ #Rstats #Bioconductor http://bioconductor.org/packages/release/bioc/html/SeqGSEA.html #NGS #Bioinformatics
+324141990344290304  Apr 16 08:47  @Rbloggers        RStudio is reminding me of the older Macs:  (This article was first published on   Realizations in B... http://bit.ly/13aEBrP #rstats
+324142384768221184  Apr 16 08:49  @mizmay           If I could get back the time I've spent manipulating POSIXct... thankful for all the bloggers who came before http://blog.revolutionanalytics.com/2009/06/converting-time-zones.html #Rstats
+324142406389874688  Apr 16 08:49  @dave_bridges     RT @genetics_blog: SeqGSEA - gene set / pathway analysis for RNA-seq w/ #Rstats #Bioconductor http://bioconductor.org/packages/release/bioc/html/SeqGSEA.html #NGS #Bioinformatics
+324142667363667969  Apr 16 08:50  @comsysto         #BigData with #Rstats, #MongoDB and #Hadoop Tutorial by @comsysto on @nosqlrs #Munich. @cloudHPC is very passionate. http://t.co/M6nbaWEAwU
+324142802709651456  Apr 16 08:50  @badbud65         RT @mathew_hall: Sheffield R Users Group, first meeting next Thursday: http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/ #rstats
+324143002870247424  Apr 16 08:51  @DianaKnezevic    RT @comsysto: #BigData with #Rstats, #MongoDB and #Hadoop Tutorial by @comsysto on @nosqlrs #Munich. @cloudHPC is very passionate. http://t.co/M6nbaWEAwU
+324143298900008961  Apr 16 08:52  @nosqlrs          RT @comsysto: #BigData with #Rstats, #MongoDB and #Hadoop Tutorial by @comsysto on @nosqlrs #Munich. @cloudHPC is very passionate. http://t.co/M6nbaWEAwU
