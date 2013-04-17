@@ -980,3 +980,22 @@
 324192652570546176  Apr 16 12:08  @mtothen2         RT @genetics_blog: Nice overview of tools for RNA-seq transcript assembly, quantitation, & DE: http://seqanswers.com/forums/showpost.php?p=98949&postcount=32 http://t.co/Fo8H9RBYMQ
 324206181189042176  Apr 16 13:02  @SEQquestions     Supervised & Unsupervised Clustering for RNA-seq data http://bit.ly/13bVMJF
 324221268234731520  Apr 16 14:02  @SEQquestions     Does RNA-Seq sequence randomly? http://bit.ly/Zol97q
+324243937810321408  Apr 16 15:32  @Zelkova5         @Bacterioskeptic RNA-seq!!... better than rt-PCR
+324244328031584256  Apr 16 15:34  @Bacterioskeptic  @Zelkova5 that was my 'something more global' but yes RNA-seq would be my preference
+324254588783955968  Apr 16 16:14  @CUrdmsg          CBSU offers reference based RNA-seq data analysis workshop 4/22 and 4/29: http://bit.ly/ZoDBN3
+324281482136932352  Apr 16 18:01  @pitman_mark      Trends in Plant Science - RNA-Seq: revelation of the messengers http://goo.gl/Y6Rni
+324286723171422208  Apr 16 18:22  @rnomics          Time Series Expression Analyses Using #RNA-seq... [Biomed Res Int. 2013] - PubMed - NCBI:... http://1.usa.gov/11aJEoq #rnomics_bioinfo @MyEN
+324287509284671488  Apr 16 18:25  @notSoJunkDNA     @marcohbello seems to me that RNA-Seq is much better suited for "orphan organisms". You need good ref. and annotations for arrays...
+324302654564102144  Apr 16 19:25  @DaleYuzuki       @genetics_blog Time Series Expression Analyses Using RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23586021  #bioinformatics
+324307644598865920  Apr 16 19:45  @hiroky_3         RT @YoshiKawahara: RNA-Seq解析を自分でやってみようと思っている人に良さそうなレビュー。SupplementalのHands-On Tutorialはサンプルデータまで付いていて超親切。http://www.sciencedirect.com/science/article/pii/S1360138513000241
+324326639456616448  Apr 16 21:01  @JChrisPires      RT @genetics_blog: Software for simulating RNA-seq library preparation https://github.com/sbotond/rlsim #bioinformatics
+324326957317763072  Apr 16 21:02  @JChrisPires      RT @genetics_blog: Time Series Expression Analyses Using RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23586021 #bioinformatics
+324326979430121472  Apr 16 21:02  @JChrisPires      RT @genetics_blog: Accurate detection of differential RNA processing with RNA-seq data http://www.ncbi.nlm.nih.gov/pubmed/23585274 #bioinformatics
+324326999801856000  Apr 16 21:02  @JChrisPires      RT @genetics_blog: SeqGSEA - gene set / pathway analysis for RNA-seq w/ #Rstats #Bioconductor http://bioconductor.org/packages/release/bioc/html/SeqGSEA.html #NGS #Bioinformatics
+324328419255021568  Apr 16 21:08  @CrowdedHead      RT @DaleYuzuki: @genetics_blog Time Series Expression Analyses Using RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23586021  #bioinformatics
+324332973585473536  Apr 16 21:26  @VaillancourtLab  RT @genetics_blog: Accurate detection of differential RNA processing with RNA-seq data http://www.ncbi.nlm.nih.gov/pubmed/23585274 #bioinformatics
+324444383543963648  Apr 17 04:49  @riccombeni       #bioconductor package for deconvolution of heterogeneous tissue samples from RNA-seq data  http://bioinformatics.oxfordjournals.org/cgi/content/long/29/8/1083
+324463928048496640  Apr 17 06:06  @BioStarQuestion  error while running Trinity RNA-seq Assembler http://goo.gl/fb/Id1TA
+324496003514372098  Apr 17 08:14  @JohnMHancock     Catalyzing plant science research with RNA-seq http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612697/?tool=pmcentrez&rendertype=abstract #OA
+324506488133521408  Apr 17 08:55  @rnomics          Comparative meta-RNA-seq of the vaginal... http://bit.ly/11cPh5t #Publications #alternativesplice #Bacterialvaginosis #RNAseq @MyEN
+324506490364899329  Apr 17 08:55  @rnomics          SeqGSEA – Gene Set Enrichment Analysis of #RNA-Seq Data http://bit.ly/11cPh5z #PathwayAnalysis #genesetenrichment #RNASeq #RNAseq @MyEN
