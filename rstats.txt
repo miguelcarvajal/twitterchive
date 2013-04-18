@@ -3270,3 +3270,121 @@
 324497529360236544  Apr 17 08:20  @JulieWiseOwl     Webinar showcases 'external scripting' a demo of #MPP_R Using #Rstats #InMemory - http://bit.ly/TO5me9 TOMORROW @ 4pm - Don't miss it!
 324500947176923136  Apr 17 08:33  @johnb30          RT @YhatHQ: R at 12,000 Cores - http://www.r-bloggers.com/r-at-12000-cores/ @rbloggers #rstats http://librestats.com/2012/10/16/r-at-12000-cores/
 324501052688838656  Apr 17 08:34  @williamrandolph  RT @mattfrost: Here's my "come to Jesus" slide deck, in which I encourage my colleagues to use #RStats instead of Excel. http://t.co/j9yTB0q8rp
+324511675585802241  Apr 17 09:16  @258r             RT @statalgo: Using Druid and R for mining large datasets.  http://vimeo.com/m/63512886 https://github.com/metamx/RDruid #rstats #bigdata
+324513216950587392  Apr 17 09:22  @anshul           RT @statalgo: Using Druid and R for mining large datasets.  http://vimeo.com/m/63512886 https://github.com/metamx/RDruid #rstats #bigdata
+324514859649748992  Apr 17 09:29  @woodrad          RT @statalgo: Using Druid and R for mining large datasets.  http://vimeo.com/m/63512886 https://github.com/metamx/RDruid #rstats #bigdata
+324518237473755136  Apr 17 09:42  @treycausey       A Framework for combining caret models into ensembles in #rstats http://bit.ly/Z2Zwde
+324518268704550912  Apr 17 09:42  @purasiibo        RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+324519491268665344  Apr 17 09:47  @cd_lucas         RT @statalgo: Using Druid and R for mining large datasets.  http://vimeo.com/m/63512886 https://github.com/metamx/RDruid #rstats #bigdata
+324519629638746112  Apr 17 09:48  @cdhowe           Finally upgrading to R 3.0.0. The R install is easy; it's waiting to download all the packages again that takes time. #rstats
+324519911193993218  Apr 17 09:49  @cdhowe           Every R users should have two scripts: save-R-packages.R and restore-R-packages.R. They make upgrades tolerable. #rstats
+324521079622234114  Apr 17 09:53  @portfolioprobe   RT @burnsstat: Interview with a forced convert from matlab to R http://bit.ly/ZzgcEE #rstats #matlab
+324528890624237570  Apr 17 10:24  @gsantosgo        Using Druid and R for mining large datasets. http://vimeo.com/m/63512886 https://github.com/metamx/RDruid #rstats #bigdata
+324537376124837888  Apr 17 10:58  @ramnath_vaidya   NY Times Interactive Graphic recreated with rCharts and PolychartJS #rstats @Polychart #dataviz  @d3visualization http://glimmer.rstudio.com/ramnathv/strikeouts/
+324541795688124416  Apr 17 11:16  @mja              Care less about R users switching than having statisticians and psychometricians who Matlab switch to Julia. #rstats #julialang
+324541936692232192  Apr 17 11:16  @timelyportfolio  #rstats $$ GSoC 2013: At the starting line http://wp.me/p2cL7R-5m
+324544305165369344  Apr 17 11:26  @ahs85            Presentation about #data #structures in #rstats - newcomer level: http://www.ahschulz.de/2013/04/17/presentation-data-structures-in-r/
+324550190323347456  Apr 17 11:49  @hadleywickham    devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
+324550555626262529  Apr 17 11:50  @jmgomez          RT @gsantosgo: Cheat sheet for prediction and classification models in #RStats http://blog.revolutionanalytics.com/2012/08/cheat-sheet-for-prediction-and-classification-models-in-r.html #DataMining
+324550722597302272  Apr 17 11:51  @winston_chang    RT @hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
+324550918379024385  Apr 17 11:52  @recology_        RT @hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
+324551212043218944  Apr 17 11:53  @Gliders_Coach    RT @hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
+324554244545982464  Apr 17 12:05  @RLangTip         Avoid namespace clashes! Use :: to specify an object within a specific package, e.g. MASS::mvnorm #rstats http://bit.ly/Hft5M9
+324555236209483776  Apr 17 12:09  @xiddw            RT @RLangTip: Avoid namespace clashes! Use :: to specify an object within a specific package, e.g. MASS::mvnorm #rstats http://t.co/dJ0bNdQwFS
+324556472635781120  Apr 17 12:14  @kozo2            RT @hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
+324557964209967105  Apr 17 12:20  @Jowanza          Duke produced this nice guide to #DataViz: http://bit.ly/Z3nTr6 #JS #Rstats
+324558339193315328  Apr 17 12:21  @emilopezcano     RT @hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
+324558900563173377  Apr 17 12:24  @d_ijk_stra       RT @RLangTip: Avoid namespace clashes! Use :: to specify an object within a specific package, e.g. MASS::mvnorm #rstats http://t.co/dJ0bNdQwFS
+324564148086267905  Apr 17 12:44  @NestorMontano    RT @hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
+324570167931711489  Apr 17 13:08  @datanauta        Interfaces to R http://wp.me/p9q8Y-1e5 vía #Rstats
+324572051006451712  Apr 17 13:16  @rmflight         #roxygen is great. Documenting before I even write funct. forces me to plan function behavior #rstats .@hadleywickham
+324572620148322306  Apr 17 13:18  @gappy3000        Presto #machinelearning #rstats http://prsm.tc/hsth09 via @prismatic
+324574725466644480  Apr 17 13:26  @datanauta        8 Open-Source Tools for Data Mining in Social Science - InTech  http://bit.ly/17GPpOh #Rstats
+324582867009142786  Apr 17 13:59  @siemvaessen      Handy indeed -  writing maths notation in R graphics http://bit.ly/17hBuLx  #rstats /via Rbloggers via @psychemedia
+324585553293082624  Apr 17 14:10  @kognitio         #CFO - tored of your big @SAS_Analytics bill?  #Rstats in-memory is the answer! http://bit.ly/17vxBFJ >> Webinar tomorrow 8am PT
+324589950458810368  Apr 17 14:27  @timelyportfolio  RT @ramnath_vaidya: NY Times Interactive Graphic recreated with rCharts and PolychartJS #rstats @Polychart #dataviz  @d3visualization http://t.co/Rj41rPVS5E
+324593639344967682  Apr 17 14:42  @pedroeltercer    RT @datanauta: 8 Open-Source Tools for Data Mining in Social Science - InTech  http://bit.ly/17GPpOh #Rstats
+324596276480057345  Apr 17 14:52  @nachocaballero   RT @ramnath_vaidya: NY Times Interactive Graphic recreated with rCharts and PolychartJS #rstats @Polychart #dataviz  @d3visualization http://t.co/Rj41rPVS5E
+324597102023950337  Apr 17 14:55  @alexhanna        @mollyshewrote *stands at the #rstats pulpit*
+324597359172517888  Apr 17 14:56  @mollyshewrote    RT @alexhanna: @mollyshewrote *stands at the #rstats pulpit*
+324597923545505793  Apr 17 14:59  @arnicas          RT @ramnath_vaidya: NY Times Interactive Graphic recreated with rCharts and PolychartJS #rstats @Polychart #dataviz  @d3visualization http://t.co/Rj41rPVS5E
+324612677160824832  Apr 17 15:57  @d3visualization  NY Times Interactive Graphic recreated with rCharts and PolychartJS #rstats @Polychart #dataviz  http://glimmer.rstudio.com/ramnathv/strikeouts/ via @ramnath_vaidya
+324615827250876417  Apr 17 16:10  @Valentina9       RT @d3visualization: NY Times Interactive Graphic recreated with rCharts and PolychartJS #rstats @Polychart #dataviz  http://t.co/LKln8BpZ4i via @ramnath_vaidya
+324619634248650752  Apr 17 16:25  @vishnebo         “@gappy3000: Presto #machinelearning #rstats http://prsm.tc/hsth09 via @prismatic”  Wow, really interesting!
+324622335334313985  Apr 17 16:36  @kdnuggets        Really cool project: Mapping recent political protest in Russia with R #rstats and #python #GDELT http://bit.ly/11hzj7t
+324623505381543936  Apr 17 16:40  @qdrgsm           RT @kdnuggets: Really cool project: Mapping recent political protest in Russia with R #rstats and #python #GDELT http://bit.ly/11hzj7t
+324623863667384322  Apr 17 16:42  @jacopoanselmi    RT @vishnebo: “@gappy3000: Presto #machinelearning #rstats http://prsm.tc/hsth09 via @prismatic”  Wow, really interesting!
+324632278565257217  Apr 17 17:15  @timelyportfolio  @nachocaballero @ramnath_vaidya  jgb yields #d3js small multiples  #rstats #clickme http://bl.ocks.org/timelyportfolio/5407807 code https://github.com/timelyportfolio/clickme_line_small_multiples
+324633709338849281  Apr 17 17:21  @romeroescobar    http://feedproxy.google.com/~r/StatisticalModelingCausalInferenceAndSocialScience/~3/Rk7f4WfouVY/ The excel error fallout continues #rstats #in
+324636038419058690  Apr 17 17:30  @fellgernon       “@hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats” Great update! #knitr vignettes 4tw + more checks for gists
+324648537168171008  Apr 17 18:20  @siah             Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices (based on R) http://ow.ly/k8Dz3 #rstats
+324650791342313472  Apr 17 18:29  @nachocaballero   An example of how #rstats and #js can work together using Clickme @timelyportfolio's small multiple's ractive https://github.com/timelyportfolio/clickme_line_small_multiples
+324662230870261760  Apr 17 19:14  @tavisrudd        http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/114670912/ Vancouver #rstats meetup with @hadleywickham (author of ggplot2 and oodles of other good stuff)
+324662277452210176  Apr 17 19:14  @recology_        RT @tavisrudd: http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/114670912/ Vancouver #rstats meetup with @hadleywickham (author of ggplot2 and oodles of other good stuff)
+324670200752517120  Apr 17 19:46  @tonyfujs         @isaac_outcomes #rstats can handle that pretty well. I'll send you some references tomorrow
+324673629323399168  Apr 17 20:00  @DataScholars     RT @tavisrudd: http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/114670912/ Vancouver #rstats meetup with @hadleywickham (author of ggplot2 and oodles of other good stuff)
+324676018503831552  Apr 17 20:09  @revodavid        A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324676293473992705  Apr 17 20:10  @p7_stats         RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324679841670647809  Apr 17 20:24  @marcosluis2186   I don´t have words to describe the brilliance behind this code http://bit.ly/14xecWo thanks @RolfFredheim #rstats #DataVisualization
+324679898507640833  Apr 17 20:24  @arnaudsj         RT @siah: Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices (based on R) http://ow.ly/k8Dz3 #rstats
+324681378107113475  Apr 17 20:30  @arnaudsj         RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324684659604733952  Apr 17 20:43  @NestorMontano    RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324689810855952384  Apr 17 21:04  @hadleywickham    RT @tavisrudd: http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/114670912/ Vancouver #rstats meetup with @hadleywickham (author of ggplot2 and oodles of other good stuff)
+324690044440944642  Apr 17 21:05  @hadleywickham    RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324690318257704960  Apr 17 21:06  @quevedin         RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324701036797382657  Apr 17 21:48  @mcdickenson      @jkertzer I thought we might get to have the Stata-#rstats throwdown in public. Would've been fun to watch, like a train wreck
+324703384684883968  Apr 17 21:58  @saqueenborough   RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324706766669635584  Apr 17 22:11  @saimaware        RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324707322872078338  Apr 17 22:13  @philipdarling    RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324708176412934145  Apr 17 22:17  @mjmoore52        RT @d3visualization: NY Times Interactive Graphic recreated with rCharts and PolychartJS #rstats @Polychart #dataviz  http://t.co/LKln8BpZ4i via @ramnath_vaidya
+324709891988144129  Apr 17 22:24  @flash_us         RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324711504266014722  Apr 17 22:30  @timelyportfolio  Timely Portfolio: Banging on the JGBs http://timelyportfolio.blogspot.com/2013/04/banging-on-jgbs.html?spref=tw #rstats #d3js
+324713228267556864  Apr 17 22:37  @M_T_Patterson    Using Gaussian Mixture Models to analyze the weight of CrossFit athletes: http://bit.ly/ZARsfg #Tutorials, #RStats
+324717458055393280  Apr 17 22:54  @lingwhatics      RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324718703268732932  Apr 17 22:59  @ericnovik        New Post: First two weeks of writing "Predictive Analytics with #rstats."
+324724737127366657  Apr 17 23:23  @will_secor       Excel is great for playing Where's Waldo with your data and methods of analysis. Learn to code. http://bit.ly/11wwrpS #rstats
+324734134440316929  Apr 18 00:00  @noelweichbrodt   RT @mattfrost: Here's my "come to Jesus" slide deck, in which I encourage my colleagues to use #RStats instead of Excel. http://t.co/j9yTB0q8rp
+324747746898763776  Apr 18 00:54  @AStavrakoudis    How to avoid making an Excel mistake like Rogoff and Reinhart http://qz.com/75119/how-to-avoid-making-an-excel-mistake-like-rogoff-and-reinhart/ Or learn a real statistics software #rstats
+324749992025796608  Apr 18 01:03  @Sakkaden         .@invisiblecomma But your PHP code much more concise and efficient than my journeyman #rstats efforts.
+324751851935371264  Apr 18 01:10  @lucasdicioccio   RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324755496781348865  Apr 18 01:25  @helendewitt      RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324761272644145152  Apr 18 01:48  @panemma          RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324761970572132355  Apr 18 01:51  @panemma          @GSwithR 'Stop clicking, Start typing' Nice presentation from @mattfrost via @revodavid http://bit.ly/XHiYLE #rstats
+324764543588909056  Apr 18 02:01  @edieangelo       RT @i_314: Learning by training: Artificial Neural Networks. ANN example on R. #rstats http://tanyarawat.wordpress.com/2013/04/07/learning-by-training-artificial-neural-networks/?goback=.gmp_127449.gde_127449_member_229957800
+324768827214790656  Apr 18 02:18  @lynaghk          twenty minute #rstats debugging session; turns out commas aren't whitespace. #clojure, you've ruined me.
+324772112218865664  Apr 18 02:31  @adaptive_plant   RT @cboettig: slidify -- Make beautiful html5 slides for #rstats with reproducible results using knitr. http://ramnathv.github.com/slidify/
+324773337224077313  Apr 18 02:36  @adaptive_plant   I love #knitr for #rstats with @rstudioapp! Made my first report yesterday, now generating customised reports for >50 data contributors.
+324773890519871488  Apr 18 02:38  @alfonsotwr       RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324774199510040576  Apr 18 02:39  @gsantosgo        Really cool project: Mapping recent political protest in Russia with R #rstats and #python #GDELT http://bit.ly/11hzj7t
+324776833319059456  Apr 18 02:50  @phylorich        RT @adaptive_plant: I love #knitr for #rstats with @rstudioapp! Made my first report yesterday, now generating customised reports for >50 data contributors.
+324779956901122048  Apr 18 03:02  @mavircm          RT @jmgomez: RT @gsantosgo: Cheat sheet for prediction and classification models in #RStats http://blog.revolutionanalytics.com/2012/08/cheat-sheet-for-prediction-and-classification-models-in-r.html #DataMining
+324780218743140352  Apr 18 03:03  @PipAscough       RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324786942891917312  Apr 18 03:30  @adaptive_plant   So much happening in #openscience,#oa & reproducible sci space it's mind blowing. Thx @rOpenSci @github #knitr @rstudioapp #markdown #rstats
+324787470602489856  Apr 18 03:32  @ApostataTa       RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324787997331554305  Apr 18 03:34  @IstvanHajnal     'Stop clicking, start typing'. Matt Frost making the case for #rstats versus #excel. Obvious, but well put @revodavid http://bit.ly/XS6bbw
+324788050368540672  Apr 18 03:34  @noticiasSobreR   Obtaining (macroecological) data with R: species occurrence data: In 1989, Brown & Maurer applied the ... http://tinyurl.com/d6dcm49 #rstats
+324789508790964225  Apr 18 03:40  @davdittrich      Data problems, coding errors…what can be done? « Statistical Modeling, Causal Inference, and Social Science http://ow.ly/1VfRJD #rstats
+324791635454083072  Apr 18 03:48  @Juancmselma      “@jmgomez: RT @gsantosgo: Cheat sheet for prediction and classification models in #RStats http://blog.revolutionanalytics.com/2012/08/cheat-sheet-for-prediction-and-classification-models-in-r.html #DataMining” @VictorDart
+324808707387047936  Apr 18 04:56  @ronert_obst      RT @siah: Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices (based on R) http://ow.ly/k8Dz3 #rstats
+324809729534742528  Apr 18 05:00  @Rbloggers        Interview with a forced convert from Matlab to R:  (This article was first published on   Burns Stat... http://bit.ly/11An5JR #rstats
+324809730897883136  Apr 18 05:00  @Rbloggers        Intro R training from RStudio: NYC May 13-14, SF May 20-21 (and discounts): At RStudio, we’re hosting ... http://bit.ly/YYTZW2 #rstats
+324809731975823360  Apr 18 05:00  @Rbloggers        Version 1.2 of devtools released:  (This article was first published on   RStudio Blog, and kindly c... http://bit.ly/11An88h #rstats
+324809733527728128  Apr 18 05:00  @Rbloggers        Banging on the JGBs:  (This article was first published on   Timely Portfolio, and kindly contribute... http://bit.ly/11An6xe #rstats
+324815860130783233  Apr 18 05:25  @geschichtenpost  #rstats color reference sheet http://bc.bojanorama.pl/2013/04/r-color-reference-sheet/
+324820390465634304  Apr 18 05:43  @ChrisMaslanka    RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324820531448778752  Apr 18 05:43  @kylehamilton     Maybe next time :-/ @Rbloggers: Intro R training from RStudio: NYC May 13-14, SF May 20-21 (and discounts) http://bit.ly/YYTZW2 #rstats
+324825006804701184  Apr 18 06:01  @Sakkaden         Open science in action: @invisiblecomma rewrote my #rstats code published @thePeerJ in PHP to independently replicate the study. In 1 day.
+324825808344584192  Apr 18 06:04  @strengejacke     Examples for sjPlotting functions, including correlations and proportional tables with ggplot #rstats http://wp.me/pIrDl-a4
+324826624300290050  Apr 18 06:07  @u_ot             RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+324840363451899905  Apr 18 07:02  @ddolling         Totally missed the release of #rstats 3.0 two weeks ago. Sounds good - handles memory better, long vectors, etc. http://blog.revolutionanalytics.com/2013/01/r-version-3-scheduled-for-april.html
+324843080308117504  Apr 18 07:13  @kognitio         RT @JulieWiseOwl: RT @kognitio: #CFO - tired of your big @SAS_Analytics bill?  #Rstats in-memory is the answer! http://bit.ly/17vxBFJ
+324843124524457984  Apr 18 07:13  @kognitio         RT @_Kognitio: RT @KognitioCloud: RT @kognitio: Webinar showcases 'external scripting' a demo of #MPP_R Using #Rstats #InMemory - http://t.co/YtzOsrjpOy
+324843239565828096  Apr 18 07:13  @KognitioCloud    RT @_Kognitio: RT @KognitioCloud: RT @kognitio: Webinar showcases 'external scripting' a demo of #MPP_R Using #Rstats #InMemory - http://t.co/YtzOsrjpOy
+324857232820936705  Apr 18 08:09  @RolfFredheim     3.3 million GDELT events mapped and visualised http://www.youtube.com/watch?v=foQvgbo7lOw #dataviz #bigdata #rstats #GDELT
+324858095660589056  Apr 18 08:13  @kognitio         WEBINAR TODAY - Demo of MPP iterative product forecasting, using #RStats - the statistical language of choice http://bit.ly/10Qv6IO
+324859739974557699  Apr 18 08:19  @chlalanne        Analysis of Twin Data in Health Research, http://bit.ly/ZBED4h #rstats #openmx #stata
+324860324312408064  Apr 18 08:21  @MangoTheCat      Manchester R user Group meeting on 2nd May - all welcome http://goo.gl/UNbv0  #rstats
+324866543957712896  Apr 18 08:46  @johannux         RT @RLangTip: Avoid namespace clashes! Use :: to specify an object within a specific package, e.g. MASS::mvnorm #rstats http://t.co/dJ0bNdQwFS
+324866576186757120  Apr 18 08:46  @johannux         RT @hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
+324866591936376833  Apr 18 08:46  @dnusinow         @aeliasen @fogus All of a sudden I want to embed frink in an #rstats package.
+324867655506984962  Apr 18 08:50  @hadleywickham    RT @adaptive_plant: I love #knitr for #rstats with @rstudioapp! Made my first report yesterday, now generating customised reports for >50 data contributors.
