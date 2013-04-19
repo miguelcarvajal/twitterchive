@@ -1121,3 +1121,12 @@
 325197355064365056  Apr 19 06:41  @dritoshien       RT @GenomeBiology: Quartz-Seq-highly reproducible single-cell RNA-Seq http://bit.ly/ZA17DX Shows expression heterogeneity even in sychronized cells #genomics
 325208295126212611  Apr 19 07:24  @ryotat           RT @dritoshi: 論文でました。現在のところ世界最高の精度を持つ1細胞RNA-Seq技術です。 #LoveLab #ngsfield  http://goo.gl/r33mD
 325222893715861505  Apr 19 08:22  @rnomics          Integromics partners with CITRE and CEIT to... http://bit.ly/11kLSll #IndustryNews #PressRelease #alternativesplicing #RNAseq @MyEN
+325274758742675456  Apr 19 11:48  @wk77             RT @dritoshi: 論文でました。現在のところ世界最高の精度を持つ1細胞RNA-Seq技術です。 #LoveLab #ngsfield  http://goo.gl/r33mD
+325275271324368899  Apr 19 11:50  @wk77             RT @dritoshi: 実験プロトコールを作製した co-first author の笹川さんのブログです。#ngsfield #LoveLab Single-cell RNA-seq: 論文アクセプト：1細胞RNA-Seq法 http://ecpdcnra.blogspot.com/2013/04/1rna-seq.html
+325275339297271808  Apr 19 11:50  @wk77             RT @dritoshi: http://Quartz-Seq.Org: Single-Cell RNA-Seq Database for Embryonic Stem Cell http://quartz-seq.org/
+325275356951097346  Apr 19 11:51  @wk77             RT @dritoshi: 世の中で知られている1細胞RNA-Seq/GeneChipのデータのデータベースから集めて自分で再データ解析して、我々の方法とスペック比較を徹底的にやりました。そういったレビューとしても読めると思います。
+325275630138687489  Apr 19 11:52  @wk77             RT @dritoshi: 自分達の手法のあらゆるパラメータを振ったデータをサプリに全部積めこみました。そのうえ利点と弱点の両方をフェアに定量的に、記載した初めての1細胞RNA-Seqの論文になったと思います。サプリをみると正直かなり変態的なデータが盛り沢山な論文だと思いますよ。
+325275655342276608  Apr 19 11:52  @wk77             RT @dritoshi: 1細胞RNA-Seqを行うと、細胞集団の不均一性を明らかにすることができます。例えば、再生医療の現場で、iPSや分化細胞に異質な細胞が混入していると安全性に問題が出ます。この方法を使えば、1細胞レベルで、全遺伝子レベルで安全性を確認することができます。
+325278981937045505  Apr 19 12:05  @Dnephi           MT @notSoJunkDNA: Analysis and design of RNA seq experiments for identifying RNA editing and other SNVs http://rnajournal.cshlp.org/content/early/2013/04/18/rna.037903.112.short?rss=1 @PriceLab_ISB
+325298765558841345  Apr 19 13:24  @rnomics          Comparative meta-#RNA-seq of the vaginal microbiota and differential expression | #RNA-Seq... http://bit.ly/14Cd8R6 #rnomics_bioinfo @MyEN
+325311671641993216  Apr 19 14:15  @pypi             blacktie 0.2.0rc1: A python wrapper for analysis of RNA-seq data with the popular tophat/cufflinks pipeline. http://bit.ly/Z5Xyd6

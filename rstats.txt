@@ -3485,3 +3485,91 @@
 325220537947275264  Apr 19 08:13  @IronistM         Examples for sjPlotting functions, incld. correlations and proportional tables with ggplot #rstats | Strenge Jacke!  http://bit.ly/13r0tQ3
 325222990910455808  Apr 19 08:22  @monsoontrader    RT @enterthesloth: vegan > ggplot > Cairo #rstats #sopretty http://t.co/PBkhTQTbYK
 325229532246327298  Apr 19 08:48  @nachocaballero   I'm taking the plunge and going against the current. Goodbye R's most annoying gotcha and hello options(stringsAsFactors = FALSE) #rstats
+325234215828471808  Apr 19 09:07  @BESPlantSoilEco  Use #rstats to analyse your spatial data? Check out the @BES_CE_SIG & @BESMacroecol course on 12 July, Sheffield Uni: http://on.fb.me/14BxkCE
+325234482338750464  Apr 19 09:08  @guerreroclaudia  RT @jjgibaja: R en "Nada es Gratis" http://buff.ly/11JaAf8 (vía @gilbellosta) #rstats
+325235341441257473  Apr 19 09:12  @KCoussement      R and social media http://bit.ly/10Myd4y #bigdata #rstats
+325236991455285248  Apr 19 09:18  @BESMacroecol     Here it is then: spatial analysis in #rstats with us & @BES_CE_SIG Free workshop in Sheffield http://db.tt/BkKrGZxP
+325237449779462144  Apr 19 09:20  @tomjwebb         RT @BESMacroecol: Here it is then: spatial analysis in #rstats with us & @BES_CE_SIG Free workshop in Sheffield http://db.tt/BkKrGZxP
+325242409648791554  Apr 19 09:40  @BESMacroecol     Register for our #rstats / spatial ecology course here: http://www.surveymonkey.com/s/MFM35K2 Hurry, places limited!
+325242845172752385  Apr 19 09:41  @nhcooper123      RT @BESMacroecol: Here it is then: spatial analysis in #rstats with us & @BES_CE_SIG Free workshop in Sheffield http://db.tt/BkKrGZxP
+325242987447721985  Apr 19 09:42  @tomjwebb         RT @BESMacroecol: Register for our #rstats / spatial ecology course here: http://www.surveymonkey.com/s/MFM35K2 Hurry, places limited!
+325243258655625217  Apr 19 09:43  @lucaborger       RT @BESMacroecol: Register for our #rstats / spatial ecology course here: http://www.surveymonkey.com/s/MFM35K2 Hurry, places limited!
+325243590374727681  Apr 19 09:44  @nhcooper123      RT @BESMacroecol: Register for our #rstats / spatial ecology course here: http://www.surveymonkey.com/s/MFM35K2 Hurry, places limited!
+325246934875004931  Apr 19 09:58  @mpastell         Linear regression with #python and statsmodels using #rstats style formulas http://bit.ly/ZC0U37
+325249022463991809  Apr 19 10:06  @chriscesar       Registered! MT @BESMacroecol: Register for our #rstats /spatial ecology course here: http://www.surveymonkey.com/s/MFM35K2 Hurry, places limited!
+325251514140614656  Apr 19 10:16  @dataJujitsu      The #rstats sets package looks pretty tasty: data structures and algorithms for sets fuzzy sets, multisets, and fuzzy multisets...
+325251862792122368  Apr 19 10:17  @ramnath_vaidya   Preliminary integration of Rickshaw into rCharts http://bl.ocks.org/ramnathv/b39c6c079c71b307cb6f #rstats http://t.co/fGgFr6HC4K
+325252857928491011  Apr 19 10:21  @sathishkumar_4   RT @KCoussement: R and social media http://bit.ly/10Myd4y #bigdata #rstats
+325253398393933824  Apr 19 10:23  @dataJujitsu      Only faults with @rstudioapp server: No multicore and no control-D to crash out of a frozen process.  Otherwise fantastic! #rstats
+325256202755907586  Apr 19 10:34  @LauraJaneGraham  RT @BESMacroecol: Here it is then: spatial analysis in #rstats with us & @BES_CE_SIG Free workshop in Sheffield http://db.tt/BkKrGZxP
+325262205614444545  Apr 19 10:58  @hylopsar         if I want to build an #RStats pkg that is compatible with an older version of R than I'm using, do I have to build it using that version?
+325264725149642753  Apr 19 11:08  @hylopsar         Nevermind, just discovered RSwitch #Rstats
+325266410500661248  Apr 19 11:15  @TATA_BOX         The OpenStreetMap Package Opens Up | (R news & tutorials) http://www.r-bloggers.com/the-openstreetmap-package-opens-up/ #rstats
+325272182945091584  Apr 19 11:38  @rOpenSci         We're adding some @dpla functionality to our metadata pkg for #rstats http://bit.ly/XVdIGD
+325272239236845571  Apr 19 11:38  @hauschke         RT @rOpenSci: We're adding some @dpla functionality to our metadata pkg for #rstats http://bit.ly/XVdIGD
+325272510625091585  Apr 19 11:39  @hadleywickham    RT @TATA_BOX: The OpenStreetMap Package Opens Up | (R news & tutorials) http://www.r-bloggers.com/the-openstreetmap-package-opens-up/ #rstats
+325272738216411136  Apr 19 11:40  @BrynRWilliams    RT @TATA_BOX: The OpenStreetMap Package Opens Up | (R news & tutorials) http://www.r-bloggers.com/the-openstreetmap-package-opens-up/ #rstats New R goodness
+325273592382230531  Apr 19 11:44  @sharon000        New OpenStreetMap package for R gives access to high-rez base maps http://bit.ly/Z8OW4k #rstats #gis via @TATA_BOX
+325275030458077187  Apr 19 11:49  @PPUAMX           RT @RLangTip: List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+325276312300294144  Apr 19 11:54  @djq              RT @TATA_BOX: The OpenStreetMap Package Opens Up | (R news & tutorials) http://www.r-bloggers.com/the-openstreetmap-package-opens-up/ #rstats
+325276873754025984  Apr 19 11:57  @omearabrian      I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325276874269941761  Apr 19 11:57  @eoinomahony      RT @TATA_BOX: The OpenStreetMap Package Opens Up | (R news & tutorials) http://www.r-bloggers.com/the-openstreetmap-package-opens-up/ #rstats
+325277280291131393  Apr 19 11:58  @RamiroHojas      RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325278460304035841  Apr 19 12:03  @recology_        RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325278577727782912  Apr 19 12:03  @joscani          RT @TATA_BOX: The OpenStreetMap Package Opens Up | (R news & tutorials) http://www.r-bloggers.com/the-openstreetmap-package-opens-up/ #rstats
+325278988136222720  Apr 19 12:05  @RLangTip         with(mydf, { <<R code>> }) is a cleaner way to use columns of a data frame in #rstats code. Examples: http://bit.ly/onqu7V
+325279384476983296  Apr 19 12:07  @cubismwonder     RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325279443197235200  Apr 19 12:07  @drdrewsteen      RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325279598461976579  Apr 19 12:07  @FranciscaSconce  RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325279921717002241  Apr 19 12:09  @_inundata        RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325280048636645376  Apr 19 12:09  @adolfoalvarez    New version of OpenStreetMap in #Rstats  http://www.r-bloggers.com/the-openstreetmap-package-opens-up/
+325280630562758657  Apr 19 12:12  @PPUAMX           RT @RLangTip: with(mydf, { <<R code>> }) is a cleaner way to use columns of a data frame in #rstats code. Examples: http://t.co/uiCjBXqGKg
+325280993944678400  Apr 19 12:13  @arcalb           RT @RLangTip: with(mydf, { <<R code>> }) is a cleaner way to use columns of a data frame in #rstats code. Examples: http://t.co/uiCjBXqGKg
+325281033283055617  Apr 19 12:13  @noamross         RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325281489463947265  Apr 19 12:15  @ManAboutCouch    Nice: #OpenStreetMap + #rstats, includes support for loads of tileservers in R: http://www.r-bloggers.com/the-openstreetmap-package-opens-up/ (via @djq)
+325281873393750017  Apr 19 12:16  @andyteucher      RT @RLangTip: with(mydf, { <<R code>> }) is a cleaner way to use columns of a data frame in #rstats code. Examples: http://t.co/uiCjBXqGKg
+325282675155943425  Apr 19 12:20  @maurotortonesi   RT @RLangTip: with(mydf, { <<R code>> }) is a cleaner way to use columns of a data frame in #rstats code. Examples: http://t.co/uiCjBXqGKg
+325282763521536000  Apr 19 12:20  @JulieWiseOwl     #Rstats, #Perl, #Python with MPP execution? Enabled by @Kognitio Analytical Platform - Watch & learn -- http://youtu.be/OZ-qFwohwkQ
+325284081128570881  Apr 19 12:25  @tomezard         RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325284089722728448  Apr 19 12:25  @raphg            @iGenomics @NIAIDNews So even if you want to reproduce the results you can’t if don’t have licenses. Use #rstats and #knitr @xieyihui. Free!
+325284094672007169  Apr 19 12:25  @d3visualization  RT @ramnath_vaidya: Preliminary integration of Rickshaw into rCharts http://bl.ocks.org/ramnathv/b39c6c079c71b307cb6f #rstats http://t.co/fGgFr6HC4K
+325284692867813377  Apr 19 12:28  @trayc7           RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325286541981261824  Apr 19 12:35  @scisus           RT @RLangTip: with(mydf, { <<R code>> }) is a cleaner way to use columns of a data frame in #rstats code. Examples: http://t.co/uiCjBXqGKg
+325288135288291328  Apr 19 12:41  @kcranstn         RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325288253685104640  Apr 19 12:42  @murciego         RT @ramnath_vaidya: Preliminary integration of Rickshaw into rCharts http://bl.ocks.org/ramnathv/b39c6c079c71b307cb6f #rstats http://t.co/fGgFr6HC4K
+325290191453552642  Apr 19 12:49  @tomjwebb         RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325290291366080513  Apr 19 12:50  @8legs2fangs      RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325290543150149633  Apr 19 12:51  @useR_2013        #userR2013 registered participants can now propose a title for a lightning talk. http://R-Project.org/useR-2013/lightning.html #rstats
+325290581779681281  Apr 19 12:51  @emilopezcano     RT @useR_2013: #userR2013 registered participants can now propose a title for a lightning talk. http://R-Project.org/useR-2013/lightning.html #rstats
+325290658589978624  Apr 19 12:51  @VidCanC          RT @useR_2013: #userR2013 registered participants can now propose a title for a lightning talk. http://R-Project.org/useR-2013/lightning.html #rstats
+325291794835320832  Apr 19 12:56  @tanmoy77         @profsufi or perhaps "R" http://www.r-project.org/ as used by Professor Chris Sims here - http://sims.princeton.edu/yftp/VARtools/ #rstats
+325293486284873728  Apr 19 13:03  @jjgibaja         Stop clicking & start typing: why you should use #rstats to perform serious data analysis tasks: http://buff.ly/170Zogf (via @revodavid)
+325295860709736449  Apr 19 13:12  @shabbychef       #rstats Q: for S3 class 'foo' should it be the case that 'as.foo' perhaps does computations and 'foo' is a lightweight struct packer?
+325295908944228353  Apr 19 13:12  @DiogoProvete     RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325296165027463168  Apr 19 13:13  @useR_2013        #useR2013 #rstats Tutorial: Statistical Analysis of Computer Models using R  http://R-Project.org/useR-2013/Tutorials/Paulo.html
+325296192437248001  Apr 19 13:13  @emilopezcano     RT @useR_2013: #useR2013 #rstats Tutorial: Statistical Analysis of Computer Models using R  http://R-Project.org/useR-2013/Tutorials/Paulo.html
+325296929472929792  Apr 19 13:16  @ramnath_vaidya   rCharts example pages coming soon! #rstats #rCharts http://t.co/S5Xt85f2YE
+325297059626360834  Apr 19 13:17  @mja              RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325297081151541249  Apr 19 13:17  @VidCanC          RT @useR_2013: #useR2013 #rstats Tutorial: Statistical Analysis of Computer Models using R  http://R-Project.org/useR-2013/Tutorials/Paulo.html
+325297218854715395  Apr 19 13:17  @davidcoallier    Another Lazy GistBlog: "Mapping the Streets of Ireland with R and ggplot2" — Ye Olde Plote Style. https://gist.github.com/davidcoallier/5421734 #rstats
+325297276861943809  Apr 19 13:18  @emilopezcano     RT @jjgibaja: R en "Nada es Gratis" http://buff.ly/11JaAf8 (vía @gilbellosta) #rstats
+325298563053674497  Apr 19 13:23  @pme1123          @runckb New OpenStreetMap package for R gives access to high-rez base maps http://bit.ly/Z8OW4k  #rstats #gis via @TATA_BOX
+325300999373877248  Apr 19 13:32  @Gastove          #rstats find of the day: @hadleywickham 's #plyr has parallelization baked right in. Freaking. Sweet. (Protip: read the docs, kids.)
+325302900886736899  Apr 19 13:40  @adamlaiacano     do people really use attach() in #rstats? seems like you're just asking for confusion down the road.
+325303122882859010  Apr 19 13:41  @Jowanza          Anyone interested in helping me develop a package in #Rstats for @rapgenius?  Mostly for #NLP and #Viz
+325303212070539266  Apr 19 13:41  @CondorOptions    RT @Jowanza: Anyone interested in helping me develop a package in #Rstats for @rapgenius?  Mostly for #NLP and #Viz
+325304075795169280  Apr 19 13:45  @frenchrh         RT @monsoontrader if only Reinhart-Rogoff used #rstats.
+325305826640293889  Apr 19 13:52  @hylopsar         RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+325306067850506241  Apr 19 13:53  @traviskorte      RT @Jowanza: Anyone interested in helping me develop a package in #Rstats for @rapgenius?  Mostly for #NLP and #Viz
+325306201787215872  Apr 19 13:53  @robertvesco      Anyone have luck with orgstruct-mode in ess? Allows R source structure like org-mode.  #rstats http://stackoverflow.com/questions/14941429/structuring-a-statistical-analysis-with-r-using-emacs-ess
+325307973272481793  Apr 19 14:00  @fredbenenson     AVOID AT ALL COSTS RT @adamlaiacano: do people really use attach() in #rstats? seems like you're just asking for confusion down the road.
+325308355935604736  Apr 19 14:02  @Zagal_ermitanyo  RT @useR_2013: #useR2013 #rstats Tutorial: Statistical Analysis of Computer Models using R  http://R-Project.org/useR-2013/Tutorials/Paulo.html
+325310676987944961  Apr 19 14:11  @TheDougW         I have a bad habit when using R to just nest lists within lists within lists within... "Ugh, how do I store this? Just use a list!" #Rstats
+325312172651606016  Apr 19 14:17  @Gliders_Coach    R community uses the hashtag #rstats mostly #BBBT just saying
+325312631089016832  Apr 19 14:19  @Gliders_Coach    RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+325312775654096897  Apr 19 14:19  @Gliders_Coach    RT @ramnath_vaidya: Preliminary integration of Rickshaw into rCharts http://bl.ocks.org/ramnathv/b39c6c079c71b307cb6f #rstats http://t.co/fGgFr6HC4K
+325312788090191872  Apr 19 14:19  @ryanagillespie   RT @TATA_BOX: The OpenStreetMap Package Opens Up | (R news & tutorials) http://www.r-bloggers.com/the-openstreetmap-package-opens-up/ #rstats
+325312835368402945  Apr 19 14:19  @Gliders_Coach    RT @kdnuggets: Julia vs R #rstats: introduction videos and more ; Julia is fast, has native support for parallel computing http://t.co/njK855SAvd
+325314139369119745  Apr 19 14:25  @raphg            flowCore is one of @Bioconductor’s most downloaded package! http://bioconductor.org/packages/stats/ #cytometry New features in latest vers. @rbrinky #rstats
+325317081417523201  Apr 19 14:36  @TheDougW         When nesting lists within lists within lists within... the str() function is SUPER useful. #Rstats #inception
+325318410105925633  Apr 19 14:42  @noamross         Another great #UCDavis #rstats users group talk: Debugging tools w/ Michael Hannon. Code and notes here: http://www.noamross.net/blog/2013/4/18/r-debug-tools.html
