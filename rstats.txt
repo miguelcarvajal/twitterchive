@@ -3573,3 +3573,15 @@
 325314139369119745  Apr 19 14:25  @raphg            flowCore is one of @Bioconductor’s most downloaded package! http://bioconductor.org/packages/stats/ #cytometry New features in latest vers. @rbrinky #rstats
 325317081417523201  Apr 19 14:36  @TheDougW         When nesting lists within lists within lists within... the str() function is SUPER useful. #Rstats #inception
 325318410105925633  Apr 19 14:42  @noamross         Another great #UCDavis #rstats users group talk: Debugging tools w/ Michael Hannon. Code and notes here: http://www.noamross.net/blog/2013/4/18/r-debug-tools.html
+325324228700282880  Apr 19 15:05  @amestadmx        RT @RLangTip: Avoid namespace clashes! Use :: to specify an object within a specific package, e.g. MASS::mvnorm #rstats http://t.co/dJ0bNdQwFS
+325324397009313794  Apr 19 15:05  @amestadmx        RT @RLangTip: List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+325326573987307520  Apr 19 15:14  @andyjudson       RT @mattfrost: Here's my "come to Jesus" slide deck, in which I encourage my colleagues to use #RStats instead of Excel. http://t.co/j9yTB0q8rp
+325332482243305472  Apr 19 15:38  @jacopoanselmi    The Excel Depression http://www.nytimes.com/2013/04/19/opinion/krugman-the-excel-depression.html?_r=0 -- it's time for #rstats and #reproducible #research with #open #software
+325335529883312128  Apr 19 15:50  @Rbloggers        Photos of the third Milano R net meeting:  (This article was first published on   Milano R net, and ... http://bit.ly/17xhqF5 #rstats
+325335530973851649  Apr 19 15:50  @Rbloggers        The OpenStreetMap Package Opens Up:  (This article was first published on   Fells Stats, and kindly ... http://bit.ly/15o75yI #rstats
+325335532047568897  Apr 19 15:50  @Rbloggers        Third Milano R net meeting: leave a comment:  (This article was first published on   Milano R net, a... http://bit.ly/15o75P0 #rstats
+325335533058392065  Apr 19 15:50  @Rbloggers        Using the SVD to find the needle in the haystack:  (This article was first published on   G-Forge » ... http://bit.ly/17xhrsG #rstats
+325335534065049600  Apr 19 15:50  @Rbloggers        A Course in Data and Computing Fundamentals:  (This article was first published on   Citizen-Statist... http://bit.ly/17xhrJ2 #rstats
+325341314965176322  Apr 19 16:13  @sirishasun       #rstats: To get comprehensive information for a package: library(help = packageName).
+325341535937896448  Apr 19 16:14  @denisohora       Interview with a forced convert from Matlab to R http://www.r-bloggers.com/interview-with-a-forced-convert-from-matlab-to-r/ #rstats @Rbloggers
+325341851223748608  Apr 19 16:15  @sirishasun       #rstats: To see all objects in a package: ls("package:packageName") To see all functions in a package:  lsf.str("package:packageName")
