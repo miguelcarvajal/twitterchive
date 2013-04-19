@@ -3388,3 +3388,100 @@
 324866576186757120  Apr 18 08:46  @johannux         RT @hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
 324866591936376833  Apr 18 08:46  @dnusinow         @aeliasen @fogus All of a sudden I want to embed frink in an #rstats package.
 324867655506984962  Apr 18 08:50  @hadleywickham    RT @adaptive_plant: I love #knitr for #rstats with @rstudioapp! Made my first report yesterday, now generating customised reports for >50 data contributors.
+324874251406553088  Apr 18 09:17  @gvegayon         (Watch out with solver) "On the accuracy of statistical procedures in Microsoft Excel 2010" http://bit.ly/YxfkkQ #rstats
+324874484731494400  Apr 18 09:18  @gvegayon         (cuidado con solver) "On the accuracy of statistical procedures in Microsoft Excel 2010" http://bit.ly/YxfkkQ #rstats
+324874704164880387  Apr 18 09:19  @StrictlyStat     I wish the default for gee() was  gee2 <- function(...) { data <- data[order(data$id),] gee(data=data, ...) } #rstats
+324878031455911936  Apr 18 09:32  @adolfoalvarez    RT @gvegayon: (cuidado con solver) "On the accuracy of statistical procedures in Microsoft Excel 2010" http://bit.ly/YxfkkQ #rstats
+324878334242725890  Apr 18 09:33  @M_T_Patterson    More reasons not to use Excel for modeling | (R news & tutorials) http://bit.ly/12puwoA  (A bit harsh, but probably right) #RStats,  #Excel
+324879737946267650  Apr 18 09:39  @chrishouser      RT @lynaghk: twenty minute #rstats debugging session; turns out commas aren't whitespace. #clojure, you've ruined me.
+324880733783085056  Apr 18 09:42  @Piboonrungroj    FREE #Rstats Tutorial No.95 Graphical Models with R by Soren Hojsgaard, Aalborg University, #Denmark http://pairach.com/2012/02/26/r-tutorials-from-universities-around-the-world/ #graphics
+324882235629109248  Apr 18 09:48  @CasalsTMarti     RT @Piboonrungroj: FREE #Rstats Tutorial No.95 Graphical Models with R by Soren Hojsgaard, Aalborg University, #Denmark http://t.co/eg8jhwoo2R #graphics
+324882257972174850  Apr 18 09:49  @kognitio         Webinar on Product Forecasting with #Rstats in one hour - materials available on @slideshare NOW!:  http://www.slideshare.net/Kognitio/product-forecastingwebinar-20130417 #DataSci #MPP_R
+324884858436472832  Apr 18 09:59  @MarkHornick      How much do you really know about your R linear model? https://blogs.oracle.com/R/entry/is_the_size_of_your #OracleREnterprise #RStats #Oracle
+324885870811430914  Apr 18 10:03  @MarkHornick      #OracleREnterprise 1.3.1 is now available for download http://www.oracle.com/technetwork/database/options/advanced-analytics/r-enterprise/ore-downloads-1502823.html #Rstats #Oracle
+324887148920721409  Apr 18 10:08  @hongqin          RT @genetics_blog: SeqGSEA - gene set / pathway analysis for RNA-seq w/ #Rstats #Bioconductor http://bioconductor.org/packages/release/bioc/html/SeqGSEA.html #NGS #Bioinformatics
+324888035596578816  Apr 18 10:11  @ChiangMaiR       RT @Piboonrungroj: FREE #Rstats Tutorial No.95 Graphical Models with R by Soren Hojsgaard, Aalborg University, #Denmark http://t.co/eg8jhwoo2R #graphics
+324888059919343616  Apr 18 10:12  @PairachCMSE      RT @Piboonrungroj: FREE #Rstats Tutorial No.95 Graphical Models with R by Soren Hojsgaard, Aalborg University, #Denmark http://t.co/eg8jhwoo2R #graphics
+324888084577656832  Apr 18 10:12  @Rstats4Econ      RT @Piboonrungroj: FREE #Rstats Tutorial No.95 Graphical Models with R by Soren Hojsgaard, Aalborg University, #Denmark http://t.co/eg8jhwoo2R #graphics
+324888911514058752  Apr 18 10:15  @quantlabs        Cannot afford expensive #Matlab or Simulink? #Opensource solutions like Octave, Scilab, Scicos #Python, or #Rstats http://ow.ly/kbC0n
+324889577611464704  Apr 18 10:18  @brendantierney   RT @MarkHornick: #OracleREnterprise 1.3.1 is now available for download http://www.oracle.com/technetwork/database/options/advanced-analytics/r-enterprise/ore-downloads-1502823.html #Rstats #Oracle
+324889696293498882  Apr 18 10:18  @baogorek         #rstats P<-setRefClass("Person",fields =c("age")) P$methods(get_older=function() .self$age<-.self$age+7) ben = P$new(age=31) ben$get_older()
+324891965550370816  Apr 18 10:27  @kognitio         WEBINAR starts in 30 mins: #Rstats, #Perl, #Python - w/MPP Execution - Enable @Kognitio Analytical Platform REGISTER http://bit.ly/10Qv6IO
+324894548369240064  Apr 18 10:37  @_Kognitio        WEBINAR starts in 20 mins: #Rstats, #Perl, #Python - w/MPP Execution - Enable @Kognitio Analytical Platform REGISTER http://bit.ly/10Qv6IO
+324896243006455809  Apr 18 10:44  @KyleLundstedt    RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+324896985985470464  Apr 18 10:47  @rmflight         #rstats dont forget that "vignette" sources go in the "vignettes" directory of your package
+324899895003713536  Apr 18 10:59  @statsjobs        Statistician- #Rstats will relo and transfer visas http://sndts.co/7ffc68ed6c7e449cabdf855fec45153e
+324903207367213056  Apr 18 11:12  @davidcoallier    Lazy blogging via gist: Load, Shape and Visualise Data with R: https://gist.github.com/davidcoallier/5413432 #rstats
+324904881280393216  Apr 18 11:18  @juokaz           RT @davidcoallier: Lazy blogging via gist: Load, Shape and Visualise Data with R: https://gist.github.com/davidcoallier/5413432 #rstats
+324905499256557571  Apr 18 11:21  @tim_yates        And I think my EnsemblRest #rstats package https://github.com/acbb/EnsemblRest should now be up to date with the ensembl rest API http://beta.rest.ensembl.org/
+324908127290019840  Apr 18 11:31  @hadleywickham    RT @davidcoallier: Lazy blogging via gist: Load, Shape and Visualise Data with R: https://gist.github.com/davidcoallier/5413432 #rstats
+324908444110966785  Apr 18 11:33  @b1205            RT @davidcoallier: Lazy blogging via gist: Load, Shape and Visualise Data with R: https://gist.github.com/davidcoallier/5413432 #rstats
+324908450503086080  Apr 18 11:33  @rOpenSci         RT @tim_yates: And I think my EnsemblRest #rstats package https://github.com/acbb/EnsemblRest should now be up to date with the ensembl rest API http://t.co/6nLbO2d2gO
+324908841676439552  Apr 18 11:34  @tim_yates        RT @davidcoallier: Lazy blogging via gist: Load, Shape and Visualise Data with R: https://gist.github.com/davidcoallier/5413432 #rstats
+324909859076202496  Apr 18 11:38  @BrynRWilliams    RT @davidcoallier: Lazy blogging via gist: Load, Shape and Visualise Data with R: https://gist.github.com/davidcoallier/5413432 #rstats some Geek joy
+324910163641372672  Apr 18 11:39  @PPUAMX           RT @RLangTip: Avoid namespace clashes! Use :: to specify an object within a specific package, e.g. MASS::mvnorm #rstats http://t.co/dJ0bNdQwFS
+324911160858136576  Apr 18 11:43  @kognitio         #MPP_R join the conversant with fellow #DataSci colleagues on massively parallel #Rstats with @kognitio right now on @WebEx !!
+324913667340660736  Apr 18 11:53  @MacDiva          RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in NYC. 10% off with this tweet (limit 5): http://goo.gl/DOHUa #rstats #rstudio
+324916658269470720  Apr 18 12:05  @RLangTip         List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+324920217111248898  Apr 18 12:19  @cocoahn          RT @RLangTip: List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+324922835615232000  Apr 18 12:30  @segmenta         RT @RLangTip: List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+324923966361858048  Apr 18 12:34  @rmflight         RT @RLangTip: List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+324924845483761665  Apr 18 12:38  @hamanosakura     RT @RLangTip: List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+324928505852882944  Apr 18 12:52  @Research4Truth   Two life changers in today's #HBRWebinar : Sparklines in Excel and Random Forests in R #rstats Great, thanks @jeremyphoward
+324931197304188929  Apr 18 13:03  @ecologyJMB       RT @RLangTip: List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+324931614402547712  Apr 18 13:05  @statsjobs        Statistician with #Rstats background - will relo and transfer visas: http://lnkd.in/KBCJ74
+324931807126618112  Apr 18 13:05  @szul             RT @mattfrost: Here's my "come to Jesus" slide deck, in which I encourage my colleagues to use #RStats instead of Excel. http://t.co/j9yTB0q8rp
+324936298043424768  Apr 18 13:23  @jeremyphoward    RT @Research4Truth: Two life changers in today's #HBRWebinar : Sparklines in Excel and Random Forests in R #rstats Great, thanks @jeremyphoward
+324941276371898370  Apr 18 13:43  @pssGuy           Given #BlueJays start I have whipped up #rstats Shiny app to cf Salary and WAR for every #MLB team 2013 & 2012 post @ http://wp.me/p17axt-lQ
+324947419374690305  Apr 18 14:07  @dom_muller       RT @RLangTip: List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+324954738703613952  Apr 18 14:37  @raphg            @iGenomics @NIAIDNews Nice, but it would be good if the authors share the code for full reproducibility and use #opensource software #rstats
+324961299404558339  Apr 18 15:03  @sirishasun       table count functions in #rstats: table(), xtabs(), and ftable()
+324962179822546945  Apr 18 15:06  @brianabelson     gzipping your csvs before reading into #rstats increases read speed by 3x! http://blog.revolutionanalytics.com/2009/12/r-tip-save-time-and-space-by-compressing-data-files.html
+324962596006535170  Apr 18 15:08  @jobvanwolferen   Fun analysis of 2536 dissertations. Median number of pages in Psychology = 137 http://www.r-bloggers.com/how-long-is-the-average-dissertation/ #Rstats
+324968097427632128  Apr 18 15:30  @M_T_Patterson    nice post (via @StatModeling) on coding practices to catch errors. http://andrewgelman.com/2013/04/17/data-problems-coding-errors-what-can-be-done/#comment-144999 #RStats
+324968350562283520  Apr 18 15:31  @corynissen       Didn't expect this... RT @brianabelson: gzipping your csvs before reading into #rstats increases read speed by 3x! http://blog.revolutionanalytics.com/2009/12/r-tip-save-time-and-space-by-compressing-data-files.html
+324979017390366720  Apr 18 16:13  @M_T_Patterson    Cosma's lecture notes: functions in R: http://www.stat.cmu.edu/~cshalizi/402/programming/writing-functions.pdf #RStats
+324980482733375488  Apr 18 16:19  @sirishasun       Function to convert Data Frame to Matrix in #rstats: data.matrix(). Factors replaced by internal codes, to make everything numeric.
+324982103504715776  Apr 18 16:25  @AndrewRAConway   RT @RLangTip: List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+324992014049488896  Apr 18 17:05  @wahalulu         Next #spdc meetup: Step up to #bigdata with #rstats and #python http://meetu.ps/13zHDq #bdw13 @datacommunitydc
+324992817950773250  Apr 18 17:08  @moneywithwings   ftable(diamonds) Error in table(x, exclude = exclude) :    attempt to make a table with >= 2^31 elements OK, good point. #rstats
+325011295676014592  Apr 18 18:21  @HarlanH          RT @wahalulu: Next #spdc meetup: Step up to #bigdata with #rstats and #python http://meetu.ps/13zHDq #bdw13 @datacommunitydc
+325027284920713216  Apr 18 19:25  @data_Rtist       They’re teaching my daughter R in 1st grade?!? Oh, they mean the letter R… #rstats http://t.co/emadWLZbSE
+325027306483625984  Apr 18 19:25  @recology_        2nd try- an awesome thing about using travis-ci on your @github repo- this http://bit.ly/116bwZk then this http://bit.ly/116bzo5 #rstats
+325029206524321793  Apr 18 19:32  @andysannier      RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+325029478424264704  Apr 18 19:34  @SeemaSheth       I just discovered the semPlot package for plotting path diagrams in R...SO useful!!! No more tinkering with curved arrows in PPT #rstats
+325034399181725696  Apr 18 19:53  @monsoontrader    Wow a huge time saver MT @SeemaSheth: I just discovered the semPlot package for plotting path diagrams in R. SO useful!! No more PPT #rstats
+325048710075658240  Apr 18 20:50  @frenchrh         How to avoid making an Excel mistake like Rogoff and Reinhart http://qz.com/75119/how-to-avoid-making-an-excel-mistake-like-rogoff-and-reinhart/ Or learn a real statistics software #rstats
+325048896164356096  Apr 18 20:51  @frenchrh         Cannot afford expensive #Matlab or Simulink? #Opensource solutions like Octave, Scilab, Scicos #Python, or #Rstats http://ow.ly/kbC0n
+325048987654692866  Apr 18 20:51  @frenchrh         RT @revodavid: A persuasive argument why you shouldn't use Excel for serious data analysis, from @mattfrost http://bit.ly/XHiYLE #rstats
+325062527165792256  Apr 18 21:45  @jmmurp           Anyone know how to make slidify slides go one line at a time? #rstats
+325065029336571905  Apr 18 21:55  @isragaytan       RT @RLangTip: List of answers to common questions about R on StackOverflow: http://bit.ly/HGLpQF #rstats
+325069794766356481  Apr 18 22:14  @fernando_mayer   #Orgmode v 8.0 released http://orgmode.org/Changes.html Besides #Rstats, it now supports #Julialang for code evaluation
+325072171653287936  Apr 18 22:23  @enterthesloth    vegan > ggplot > Cairo #rstats #sopretty http://t.co/PBkhTQTbYK
+325085379927621633  Apr 18 23:16  @gappy3000        oldie but goldie: "What’s there to like about R?", for those who call #rstats "wonky"... http://yz.mit.edu/wp/whats-there-to-like-about-r/
+325095280938733569  Apr 18 23:55  @kevin_ushey      Want a fun way to get started in #bioinformatics and test your #rstats , #python , other programming skills? Try http://www.rosalind.info
+325097962567000064  Apr 19 00:06  @jaykreps         RT @gappy3000: oldie but goldie: "What’s there to like about R?", for those who call #rstats "wonky"... http://yz.mit.edu/wp/whats-there-to-like-about-r/
+325099785386356737  Apr 19 00:13  @johann8384       RT @gappy3000: oldie but goldie: "What’s there to like about R?", for those who call #rstats "wonky"... http://yz.mit.edu/wp/whats-there-to-like-about-r/
+325100520702365698  Apr 19 00:16  @ucfagls          .@enterthesloth more impetus to move my ggVegan #rstats package from pipe dream to something with actual code!
+325107026428563456  Apr 19 00:42  @recology_        RT @kevin_ushey: Want a fun way to get started in #bioinformatics and test your #rstats , #python , other programming skills? Try http://t.co/al12G4rrxh
+325107268335050752  Apr 19 00:43  @yoavram          RT @kevin_ushey: Want a fun way to get started in #bioinformatics and test your #rstats , #python , other programming skills? Try http://t.co/al12G4rrxh
+325111934661836801  Apr 19 01:01  @divyakkm         RT @davidcoallier: Lazy blogging via gist: Load, Shape and Visualise Data with R: https://gist.github.com/davidcoallier/5413432 #rstats
+325141047959236608  Apr 19 02:57  @druau            Correct title: Grad student finds out top economists use Excel and made clicking error http://nymag.com/daily/intelligencer/2013/04/grad-student-who-shook-global-austerity-movement.html #DataScience  #Rstats
+325142597293191168  Apr 19 03:03  @ehud             RT @kevin_ushey: Want a fun way to get started in #bioinformatics and test your #rstats , #python , other programming skills? Try http://t.co/al12G4rrxh
+325150818540072960  Apr 19 03:36  @frenchrh         RT @druau Grad student finds out top economists use Excel and made clicking error http://nymag.com/daily/intelligencer/2013/04/grad-student-who-shook-global-austerity-movement.html #DataScience  #Rstats
+325151561552642048  Apr 19 03:39  @chlalanne        RT @gappy3000: oldie but goldie: "What’s there to like about R?", for those who call #rstats "wonky"... http://yz.mit.edu/wp/whats-there-to-like-about-r/
+325156072392368128  Apr 19 03:57  @marcoscan        Examples for sjPlotting functions, incl. correlations and proportional tables with ggplot #rstats http://wp.me/pIrDl-a4 via @strengejacke
+325159099450925056  Apr 19 04:09  @msgbi            RT @gappy3000: oldie but goldie: "What’s there to like about R?", for those who call #rstats "wonky"... http://yz.mit.edu/wp/whats-there-to-like-about-r/
+325163109046185984  Apr 19 04:25  @JulieWiseOwl     RT @kognitio: Webinar on Product Forecasting with #Rstats - materials available on @slideshare:  http://www.slideshare.net/Kognitio/product-forecastingwebinar-20130417 #DataSci #MPP_R
+325184649666109440  Apr 19 05:50  @frod_san         Very useful reference sheet for using colours in #rstats http://bc.bojanorama.pl/2013/04/r-color-reference-sheet/
+325186979186741248  Apr 19 05:59  @FastBigData      #Rstats is winning hearts and minds of all Uni and research students now #sas #spss #analytics http://bit.ly/Instaframe http://t.co/fKC5GqFrt4
+325203633492877313  Apr 19 07:06  @frenchrh         RT @frod_san Very useful reference sheet for using colours in #rstats http://bc.bojanorama.pl/2013/04/r-color-reference-sheet/
+325207398828613633  Apr 19 07:21  @jjgibaja         R en "Nada es Gratis" http://buff.ly/11JaAf8 (vía @gilbellosta) #rstats
+325214126836162560  Apr 19 07:47  @afflorezr        "@jjgibaja: R en "Nada es Gratis" http://buff.ly/11JaAf8 (vía @gilbellosta) #rstats interesantes argumemtos estoy d acuerdo con la mayoria.
+325214479677792258  Apr 19 07:49  @zentree          RT @kevin_ushey: Want a fun way to get started in #bioinformatics and test your #rstats , #python , other programming skills? Try http://t.co/al12G4rrxh
+325215809251192832  Apr 19 07:54  @zentree          RT @jjgibaja: R en "Nada es Gratis" http://buff.ly/11JaAf8 (vía @gilbellosta) #rstats
+325216528800837633  Apr 19 07:57  @monsoontrader    if only Reinhart-Rogoff used #rstats.
+325219743512535041  Apr 19 08:10  @hadleywickham    RT @enterthesloth: vegan > ggplot > Cairo #rstats #sopretty http://t.co/PBkhTQTbYK
+325220537947275264  Apr 19 08:13  @IronistM         Examples for sjPlotting functions, incld. correlations and proportional tables with ggplot #rstats | Strenge Jacke!  http://bit.ly/13r0tQ3
+325222990910455808  Apr 19 08:22  @monsoontrader    RT @enterthesloth: vegan > ggplot > Cairo #rstats #sopretty http://t.co/PBkhTQTbYK
+325229532246327298  Apr 19 08:48  @nachocaballero   I'm taking the plunge and going against the current. Goodbye R's most annoying gotcha and hello options(stringsAsFactors = FALSE) #rstats
