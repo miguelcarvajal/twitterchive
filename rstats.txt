@@ -3720,3 +3720,47 @@
 326073249526067201  Apr 21 16:41  @Rbloggers        Evaluating Event Impact Through Social Media Follower Histories, With Possible Relevance to cMOOC Lear... http://bit.ly/13IcwZs #rstats
 326074212722819072  Apr 21 16:45  @JGreenbrookHeld  Is it possible to import tables straight from Access database into #rstats? The Access -> txt -> R process is tedious (and drops var names).
 326085214516428801  Apr 21 17:29  @secretmirth      RT@siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+326101439501959169  Apr 21 18:33  @kj_gilbert       #Rstats Created a function to produce an object accessible outside the scope of the function with '<<-'. Does this hold any hidden dangers?
+326103607739043840  Apr 21 18:42  @polesasunder     @kj_gilbert they never stop opening either! #rstats & I had our 6year anniversary in Jan and I still feel like a beginner.
+326110591603310593  Apr 21 19:09  @alexhanna        what's a good way to display hourly time-series data for about three weeks that is not geom_line? #rstats #ggplot2
+326111065983299584  Apr 21 19:11  @polesasunder     6yrs ago I swore to learn #rstats by using it alone. I now swear on my bird guide to graph using only #ggplot2 'til I get it @hadleywickham
+326118033716289536  Apr 21 19:39  @ucfagls          .@kj_gilbert what's wrong with returning the object when the function finishes? #rstats
+326134448083046400  Apr 21 20:44  @corynissen       CSV file of #bostonmarathon tweets, ready for some #rstats analysis...https://www.dropbox.com/s/h8wezi2y6pzqfh4/041513_1606-1704_tweets.zip. Cool #dataviz of it... http://vortex.starshipnexis.com/boston/
+326137221235228672  Apr 21 20:55  @marcosluis2186   Open Source software's opportunity to reform government from @revodavid http://blog.revolutionanalytics.com/2013/04/open-source-softwares-opportunity-to-reform-government.html #OpenSource #Analytics #rstats
+326145230627811328  Apr 21 21:27  @alexhanna        How do you subset a data frame with a date and plot it such that all of the dates from the original data frame don't appear? #rstats
+326147795193053184  Apr 21 21:37  @ucfagls          .@alexhanna Did you cast your date variable as class "Date" using `as.Date()`? Sounds like you have a factor not a Date. #rstats
+326150999305777154  Apr 21 21:50  @JGreenbrookHeld  Still very much learning #rstats, so I get a little excited when something works as I anticipate it.
+326155497721954305  Apr 21 22:08  @timelyportfolio  RT @ramnath_vaidya: Thanks to @thorei, #rCharts now integrates Highcharts! http://glimmer.rstudio.com/reinholdsson/strikeouts/ #rstats @d3visualization
+326155770867625985  Apr 21 22:09  @MacDiva          Ooo. @robjhyndman has published a new (free!) textbook on forecasting: http://j.mp/15zJdby #rstats
+326156362490978305  Apr 21 22:11  @ucfagls          ggvegan - ggplot-based plots for the vegan #rstats package - on github now http://bit.ly/11BLvjJ Very much pre-alpha!
+326157857693253632  Apr 21 22:17  @Sal_Keith        RT @BESMacroecol: Register for our #rstats / spatial ecology course here: http://www.surveymonkey.com/s/MFM35K2 Hurry, places limited!
+326168191061606400  Apr 21 22:58  @mspan            RT @secretmirth: RT@siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+326181952195538944  Apr 21 23:53  @monsoontrader    RT @ucfagls: ggvegan - ggplot-based plots for the vegan #rstats package - on github now http://bit.ly/11BLvjJ Very much pre-alpha!
+326182329137643521  Apr 21 23:55  @perisaccadic     The first thing I miss from #rstats when writing #python: default arguments evaluated at call time, not definition time
+326183014197514240  Apr 21 23:57  @perisaccadic     The first thing I miss about #python after writing #rstats: interactive debugging that's worth a damn
+326186368529211394  Apr 22 00:11  @chrisbrunsdon    RT @Gliders_Coach: What has #rstats got  that a billion dollars of #SAS cant buy. We got @hadleywickham . yippie kay yay, .....
+326190395128160256  Apr 22 00:27  @reiver           RT @MacDiva: Ooo. @robjhyndman has published a new (free!) textbook on forecasting: http://j.mp/15zJdby #rstats
+326190491668463616  Apr 22 00:27  @reiver           RT @siah: The ebook for "Learning Statistics with R" is available for free   http://ow.ly/jCmoJ #rstats
+326198082779885569  Apr 22 00:57  @recology_        RT @BESMacroecol: Register for our #rstats / spatial ecology course here: http://www.surveymonkey.com/s/MFM35K2 Hurry, places limited!
+326214075690397696  Apr 22 02:01  @Rbloggers        You Can Quote Me on That:  (This article was first published on   Econometrics Beat: Dave Giles' Blo... http://bit.ly/11Cqgyc #rstats
+326215444082077696  Apr 22 02:06  @conikeec         Great new online book on "Forecasting : Principles & Practice" http://otexts.com/fpp/ Using R! #rstats
+326254285589475328  Apr 22 04:40  @jmgomez          RT @drago_carlo R function to analyze your Google Scholar Citations page http://prsm.tc/sdSqFy / @prismatic #DataMining #TextMining #Rstats
+326260258135756800  Apr 22 05:04  @psychemedia      THis looks like it could be handy - free online textbook on statistical forecasting http://bit.ly/ZDgpuJ /via Rbloggers #rstats #ddj
+326261530045857792  Apr 22 05:09  @RolfFredheim     More R resources RT @psychemedia: free online textbook on statistical forecasting http://bit.ly/ZDgpuJ /via Rbloggers #rstats #ddj
+326262886617997313  Apr 22 05:15  @_NickGolding_    #rstats challenge: can anyone speed up this function?: or<-function(x) 1-(prod(1-x))  where x is vector of probabilities (bounded 0, 1)
+326263326600466433  Apr 22 05:16  @portfolioprobe   garch and the distribution of returns http://bit.ly/17HJG81 #quant #finance #rstats
+326270522713309184  Apr 22 05:45  @JGreenbrookHeld  Tonight, I discovered "Little Book of R for Time Series" - lifesaver. http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/ #rstats
+326276798335823872  Apr 22 06:10  @skclaros         RT @BESMacroecol: Register for our #rstats / spatial ecology course here: http://www.surveymonkey.com/s/MFM35K2 Hurry, places limited!
+326287854114316288  Apr 22 06:54  @flash_us         Gibbs sampling in #Julialang compared to #rstats http://dmbates.blogspot.ru/2012_05_01_archive.html
+326292624917004288  Apr 22 07:13  @JeromyAnglim     Free ebook: "An introduction to psychometric theory with applications in #rstats" http://personality-project.org/r/book/
+326293358769209345  Apr 22 07:16  @statsepi         RT @JeromyAnglim: Free ebook: "An introduction to psychometric theory with applications in #rstats" http://personality-project.org/r/book/
+326302695965196288  Apr 22 07:53  @hadleywickham    RT @ucfagls: ggvegan - ggplot-based plots for the vegan #rstats package - on github now http://bit.ly/11BLvjJ Very much pre-alpha!
+326304202789883904  Apr 22 07:59  @Leaderamp        RT @JeromyAnglim: Free ebook: "An introduction to psychometric theory with applications in #rstats" http://personality-project.org/r/book/
+326307445746049024  Apr 22 08:12  @nhcooper123      For those who missed it Friday. Register for @BESMacroecol #rstats spatial ecology course here: http://www.surveymonkey.com/s/MFM35K2 Hurry places limited!
+326309699668557824  Apr 22 08:21  @kwren88          RT @nhcooper123: For those who missed it Friday. Register for @BESMacroecol #rstats spatial ecology course here: http://www.surveymonkey.com/s/MFM35K2 Hurry places limited!
+326310269389242370  Apr 22 08:23  @Chronotope       RT @MacDiva: Ooo. @robjhyndman has published a new (free!) textbook on forecasting: http://j.mp/15zJdby #rstats
+326311587906465792  Apr 22 08:28  @oscarperpinan    Using data.table for binning http://wp.me/pNSqK-kR #rstats #visualization
+326313042377838592  Apr 22 08:34  @grserrano_       RT @oscarperpinan: Using data.table for binning http://wp.me/pNSqK-kR #rstats #visualization
+326315831036358656  Apr 22 08:45  @johannux         RT @RLangTip: with(mydf, { <<R code>> }) is a cleaner way to use columns of a data frame in #rstats code. Examples: http://t.co/uiCjBXqGKg
+326317312493891585  Apr 22 08:51  @stevepowell99    RT @JeromyAnglim: Free ebook: "An introduction to psychometric theory with applications in #rstats" http://personality-project.org/r/book/
+326318305197555712  Apr 22 08:55  @JayPykw          RT @ucfagls: ggvegan - ggplot-based plots for the vegan #rstats package - on github now http://bit.ly/11BLvjJ Very much pre-alpha!
