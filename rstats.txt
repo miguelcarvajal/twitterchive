@@ -3867,3 +3867,40 @@
 326664919737069569  Apr 23 07:52  @gvegayon         What the Reinhart & Rogoff Debacle Really Shows: Verifying Empirical Results Needs to be Routine http://themonkeycage.org/2013/04/19/what-the-reinhart-rogoff-debacle-really-shows-verifying-empirical-results-needs-to-be-routine/#.UXZ1ZLJ0EVY.twitter #rstats
 326670634161668096  Apr 23 08:15  @martinmev        RT @chlalanne: #rstats: Quo Vadis?, by BIll Venables http://bit.ly/ZkUmKx
 326673246537801728  Apr 23 08:25  @lenwood          Just came across an R style guide on Google Code. I've only skimmed, looks pretty useful. http://bit.ly/17N0Scg #rstats
+326683263567544320  Apr 23 09:05  @Rbloggers        Upcoming GDAT Class May 6-10, 2013:  (This article was first published on   The Pith of Performance,... http://bit.ly/12ag5DJ #rstats
+326683264616124416  Apr 23 09:05  @Rbloggers        Adding Percentiles to PDQ:  (This article was first published on   The Pith of Performance, and kind... http://bit.ly/13UMkL7 #rstats
+326683265576624128  Apr 23 09:05  @Rbloggers        Installation of WRS package (Wilcox’ Robust Statistics):  (This article was first published on   Nic... http://bit.ly/13UMl1E #rstats
+326683266562285568  Apr 23 09:05  @Rbloggers        The Foundation for Open Access Statistics:  (This article was first published on   OpenCPU » R-blogg... http://bit.ly/12ag6aA #rstats
+326683288590745600  Apr 23 09:05  @Rbloggers        Review: Kölner R Meeting 12 April 2013:  (This article was first published on   mages' blog, and kin... http://bit.ly/13UMlib #rstats
+326689509683126272  Apr 23 09:30  @dotcomken        R Thought: na.rm is a lot better than na.omit, unless you want 92% of your data removed.. #rstats #analytics - http://ow.ly/kk5vb
+326693905338863616  Apr 23 09:47  @lcdutoit         bivariate histogram: 20mill observations n<-10000000;autoplot(peel(condense(bin(rnorm(n),0.1),bin(rnorm(n),0.1)))) < 5sec #rstats #bigvis :)
+326705055304646657  Apr 23 10:32  @ucfagls          .@dotcomken ?? they are the same thing for a vector #rstats
+326707218479206400  Apr 23 10:40  @Rbloggers        wapply: A faster (but less functional) ‘rollapply’ for vector setups: For some cryptic reason I needed... http://bit.ly/13Vplzv #rstats
+326709061708046337  Apr 23 10:48  @cpsievert        #pitchRx 0.4 now on CRAN with #rstats markdown vignette & tiled bar chart strike-zones! http://cpsievert.wordpress.com/?p=170&preview=true #MLB #PITCHfx
+326710650959167489  Apr 23 10:54  @Gliders_Coach    RT @cpsievert: #pitchRx 0.4 now on CRAN with #rstats markdown vignette & tiled bar chart strike-zones! http://cpsievert.wordpress.com/?p=170&preview=true #MLB #PITCHfx
+326711387009204224  Apr 23 10:57  @cpsievert        RT @Aaron_Baggett: I feel guilty using xtable, but not really. #LaTeX, #rstats
+326713540725592064  Apr 23 11:05  @DrQz             Adding Percentiles to PDQ (Pretty Damn Quick) http://is.gd/xB2xov #performance #modeling #capacityplanning #rstats
+326715550745108480  Apr 23 11:13  @UCSB_OakleyLab   RT @omearabrian: I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+326716663410081799  Apr 23 11:18  @northworx        RT @DrQz: Adding Percentiles to PDQ (Pretty Damn Quick) http://is.gd/xB2xov #performance #modeling #capacityplanning #rstats
+326722183160291328  Apr 23 11:40  @CoreySparks1     Veterinary Epidemiologic Research: Count and Rate Data #rstats  http://denishaine.wordpress.com/2013/04/22/veterinary-epidemiologic-research-count-and-rate-data-poisson-negative-binomial-regressions/
+326724144622338048  Apr 23 11:48  @revodavid        Interesting webinar on #rstats in Finance: Searching for Equity Alpha with Volatility Data: Exploring OVS with R http://bit.ly/12CXLnQ
+326724238067240961  Apr 23 11:48  @NestorMontano    RT @revodavid: Interesting webinar on #rstats in Finance: Searching for Equity Alpha with Volatility Data: Exploring OVS with R http://t.co/LHamtGcdeX
+326726203480367105  Apr 23 11:56  @rmflight         still amazed, compile and install old versions of #rstats to reproduce old work, just works (on linux at least)
+326727132141203458  Apr 23 11:59  @ramnath_vaidya   Tutorial: Recreating NYT Interactive Graph with rCharts, Shiny and Polychart http://ramnathv.github.io/rChartsNYT/ #rstats  @Polychart @jcheng @xieyihui
+326728646322712576  Apr 23 12:05  @RLangTip         Explore the capabilities of your installed R packages with browseVignettes() #rstats http://bit.ly/I2UQ0v
+326729249669120000  Apr 23 12:08  @mianromu         Comida de trabajo & #beertime con @kekogl @antonmeixome y @rrgaioso #OSL #SWL #rstats #viticultura. Hay peña con la que apetece trabajar.
+326732196117352448  Apr 23 12:20  @revodavid        Reproducible research FTW. RT @rmflight: still amazed, compile and install old versions of #rstats to reproduce old work, just works
+326732780903993346  Apr 23 12:22  @Gliders_Coach    RT @revodavid: Reproducible research FTW. RT @rmflight: still amazed, compile and install old versions of #rstats to reproduce old work, just works
+326734929151008768  Apr 23 12:30  @adrianco         RT @DrQz: Adding Percentiles to PDQ (Pretty Damn Quick) http://is.gd/xB2xov #performance #modeling #capacityplanning #rstats
+326737261959999488  Apr 23 12:40  @rstudioapp       Need to learn R? - RStudio Intro R Workshop in Bay Area. 10% off with this tweet: http://goo.gl/ZEkv9 #rstats #rstudio
+326738803102461953  Apr 23 12:46  @arcalb           RT @RLangTip: Explore the capabilities of your installed R packages with browseVignettes() #rstats http://bit.ly/I2UQ0v
+326739472781819904  Apr 23 12:48  @kribys           Eksempel til etterfølgelse for andre fagfelt: The Foundation for Open Access Statistics http://bit.ly/12ag6aA #rstats (via @Rbloggers)
+326740430119108608  Apr 23 12:52  @Curly_McGee      So many new things going in, I wonder what's going out. Probably my #Rstats abilities. #brains
+326742588050796546  Apr 23 13:01  @dotcomken        Finally got a new date for Web Visualizations Meetup in Boston #measure #analytics #rstats - http://ow.ly/kk5vd
+326743350881431553  Apr 23 13:04  @revodavid        RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in Bay Area. 10% off with this tweet: http://goo.gl/ZEkv9 #rstats #rstudio
+326753851392802816  Apr 23 13:46  @coburnw          RT @DrQz: Adding Percentiles to PDQ (Pretty Damn Quick) http://is.gd/xB2xov #performance #modeling #capacityplanning #rstats
+326755447333867521  Apr 23 13:52  @cloudHPC         @lc0d3r @ifesdjeen rmongodb package works great with aggregation in #mongodb. BSON objects are a bit difficult but manageable #rstats
+326759351509467138  Apr 23 14:07  @quakerscientist  RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in Bay Area. 10% off with this tweet: http://goo.gl/ZEkv9 #rstats #rstudio
+326762239581368322  Apr 23 14:19  @graemeleehickey  Some top quality #rstats functions for plotting regression coefficients here courtesy of @strengejacke. Hope to see an R package soon!
+326769206387412992  Apr 23 14:47  @rOpenSci         RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in Bay Area. 10% off with this tweet: http://goo.gl/ZEkv9 #rstats #rstudio
+326770956162981888  Apr 23 14:54  @mjcavaretta      Good list, if a little old. MT @yecidvilla @hellerme @KCoussement Tips & tricks in R http://buff.ly/129hQSA #bigdata #datamining #Rstats
