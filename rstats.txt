@@ -3764,3 +3764,106 @@
 326315831036358656  Apr 22 08:45  @johannux         RT @RLangTip: with(mydf, { <<R code>> }) is a cleaner way to use columns of a data frame in #rstats code. Examples: http://t.co/uiCjBXqGKg
 326317312493891585  Apr 22 08:51  @stevepowell99    RT @JeromyAnglim: Free ebook: "An introduction to psychometric theory with applications in #rstats" http://personality-project.org/r/book/
 326318305197555712  Apr 22 08:55  @JayPykw          RT @ucfagls: ggvegan - ggplot-based plots for the vegan #rstats package - on github now http://bit.ly/11BLvjJ Very much pre-alpha!
+326322572541194240  Apr 22 09:12  @ahs85            Debugging at it's best: Error: unexpected '}' in "}" #rstats
+326325723205877760  Apr 22 09:24  @sharon000        RT @Chronotope: RT @MacDiva: Ooo. @robjhyndman has published a new (free!) textbook on forecasting: http://j.mp/15zJdby #rstats
+326330859147898880  Apr 22 09:45  @manboubird       RT @ramnath_vaidya: rCharts: xCharts Integration (preliminary) #rstats @tenXer @d3visualization http://bl.ocks.org/ramnathv/21fdcdfe86a2b886fa0d http://t.co/nyajn7U4BF
+326330927288557568  Apr 22 09:45  @ibartomeus       Variance function is like magic. Perfect residuals without logtransform or use non-normal error distributions #rstats #nlme
+326332296598786048  Apr 22 09:50  @sharon000        RT @JGreenbrookHeld: Tonight, I discovered "Little Book of R for Time Series" - lifesaver. http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/ #rstats
+326338158268657665  Apr 22 10:14  @wabarree         my collection of resources for getting staRted with #Rstats http://bit.ly/17IMbH6
+326338354088120320  Apr 22 10:15  @manboubird       RT @ramnath_vaidya: Publish a visualization created with rCharts in one line https://github.com/ramnathv/rCharts/wiki/Publish #rstats #rCharts
+326338548263424000  Apr 22 10:15  @quantlabs        My 3 FREE open source projects with Matlab coder to #DotNet C#, C, C++, open source #Rstats #Hadoop for #bigdata analysis...
+326345196801503233  Apr 22 10:42  @MangoTheCat      free workshop "Writing Functions and Debugging" ahead of Manchester R user group meeting  http://goo.gl/UNbv0  #rstats  #rug
+326346680083558401  Apr 22 10:48  @omearabrian      Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://brianomeara.info/ad
+326347616629686272  Apr 22 10:51  @hylopsar         RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326347620035461120  Apr 22 10:51  @americanbeetles  RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326347903771746304  Apr 22 10:52  @BrownJosephW     RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326349309761163265  Apr 22 10:58  @CMacQuar         RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326349532663263233  Apr 22 10:59  @mrvaidya         RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326349568855916546  Apr 22 10:59  @je_light         RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326349729531310080  Apr 22 11:00  @_inundata        RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326358561187844096  Apr 22 11:35  @M_T_Patterson    introduction to multilevel modeling in R: http://cran.r-project.org/doc/contrib/Bliese_Multilevel.pdf #RStats
+326358977862590464  Apr 22 11:36  @raulpacheco      RT @M_T_Patterson: introduction to multilevel modeling in R: http://cran.r-project.org/doc/contrib/Bliese_Multilevel.pdf #RStats
+326359135702622208  Apr 22 11:37  @drunself         RT @raulpacheco: RT @M_T_Patterson: introduction to multilevel modeling in R: http://cran.r-project.org/doc/contrib/Bliese_Multilevel.pdf #RStats
+326360331708403712  Apr 22 11:42  @dggoldst         Submission deadlines: SJDM (Deadline Jun 17) Crowdsourcing & Online Behavioral Experiments (Deadline Apr 26) http://bit.ly/XZWKGY #Rstats
+326363436646797312  Apr 22 11:54  @EpiFunky         RT @JeromyAnglim: Free ebook: "An introduction to psychometric theory with applications in #rstats" http://personality-project.org/r/book/
+326366224709722112  Apr 22 12:05  @inside_R         #rstats R user group meetings this week in Durban, Stockholm, Birmingham, Cincinnati, LA, Pittsburgh, Singapore, Sheffield...
+326367493864161280  Apr 22 12:10  @inside_R         More #rstats R User Groups this week: NYC, Edmonton, Toronto, Dallas, Alamo CIty http://bit.ly/9hVAPE
+326367622679638019  Apr 22 12:11  @nmatasci         RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326368151191306240  Apr 22 12:13  @ucfagls          For the am crowd: ggvegan, ggplot2-based plots for the vegan #rstats pkg. Pre-alpha code on github http://bit.ly/11BLvjJ feedback welcome!
+326378363352645632  Apr 22 12:54  @AmyT_Tweets      RT @CjBayesian: Simple and efficient access to #Rstats from #Python  http://rpy.sourceforge.net/
+326380914005393409  Apr 22 13:04  @LeviABowles      so apparently when I tweet about R I'm supposed to use the #rstats hasthag.... who knew?
+326382465499410432  Apr 22 13:10  @DanMcGlinn       RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326389751835930625  Apr 22 13:39  @arvestad         RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326392363117314048  Apr 22 13:49  @leomrtns         RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326394175006310404  Apr 22 13:56  @recology_        RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326394295273799682  Apr 22 13:57  @drdrewsteen      RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326394338261209090  Apr 22 13:57  @NEONInc          RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326394409673428993  Apr 22 13:57  @ToruOkada69      RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326394748321542144  Apr 22 13:59  @CampOther        RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326394748766126082  Apr 22 13:59  @cocoahn          RT @RLangTip: with(mydf, { <<R code>> }) is a cleaner way to use columns of a data frame in #rstats code. Examples: http://t.co/uiCjBXqGKg
+326394913270927360  Apr 22 13:59  @CWKopp           RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326400368915394560  Apr 22 14:21  @KirkwoodLab      RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326400771438542848  Apr 22 14:23  @bergmanlab       RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326400992054751232  Apr 22 14:23  @ethanwhite       RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326400992058949632  Apr 22 14:23  @weecology        RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326405278511796224  Apr 22 14:40  @gappy3000        How can I implement a multiple assignment operator in #rstats? e.g. a, b <- b, a
+326405717865144320  Apr 22 14:42  @gappy3000        RT @siah Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices http://ow.ly/k8Dz3  #rstats /cc @brendan642
+326407327790006274  Apr 22 14:49  @NIMBioS          RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326410725348237312  Apr 22 15:02  @rmflight         @gappy3000 you can do "a <- b <- 1" #rstats
+326412410284023808  Apr 22 15:09  @gvwilson         RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326415129795252224  Apr 22 15:20  @ucfagls          .@gappy3000 something like `c(a, b) %<-% c(b, a)` then write `%<-%` so it works how you want? #rstats
+326416585654931457  Apr 22 15:25  @RobertsPaige     RT @mjcavaretta: Based on #rstats. MT @LeapingLlamas Free, online book: "Forecasting: principles and practice" http://otexts.com/fpp/ #stats #machinelearning
+326434495710515200  Apr 22 16:37  @noticiasSobreR   Using data.table for binning: I discovered the impressive data.table package more than a year ago. In ... http://tinyurl.com/cdqcj7m #rstats
+326436677671325697  Apr 22 16:45  @TATA_BOX         2D plot with histograms for each dimension (2013 edition) | (R news & tutorials) http://www.r-bloggers.com/2d-plot-with-histograms-for-each-dimension-2013-edition/ #rstats
+326439447455465472  Apr 22 16:56  @OpenCPU          @kinggary @pmphlt #rstats The Foundation for Open Access Statistics http://blog.opencpu.org/2013/04/the-foundation-for-open-access-statistics/
+326442602079596544  Apr 22 17:09  @sjGoring         The supp material for my next paper will be the paper in #Rstats markdown. Reproducible, and a good learning tool. For me and others! #knitr
+326444486572003328  Apr 22 17:16  @bjdewilde        AMEN #rstats RT @chasedavis: Cool: aRrgh: a newcomer's (angry) guide to data types in R https://github.com/tdsmith/aRrgh
+326446958514413569  Apr 22 17:26  @researchremix    RT @sjGoring: The supp material for my next paper will be the paper in #Rstats markdown. Reproducible, and a good learning tool. For me and others! #knitr
+326454721453903872  Apr 22 17:57  @chlalanne        Learning Statistics with #rstats http://prsm.tc/GVKpUT via @prismatic
+326455045933654018  Apr 22 17:58  @moorejh          #datascience #bioinformatics RT @chlalanne: Learning Statistics with #rstats http://prsm.tc/GVKpUT via @prismatic
+326456933479497732  Apr 22 18:06  @flash_us         RT @portfolioprobe: garch and the distribution of returns http://bit.ly/17HJG81 #quant #finance #rstats
+326459789288804352  Apr 22 18:17  @terngirl         RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326460320619036673  Apr 22 18:19  @mmparker         RT @sjGoring: The supp material for my next paper will be the paper in #Rstats markdown. Reproducible, and a good learning tool. For me and others! #knitr
+326460646885556224  Apr 22 18:20  @rOpenSci         [Blog] Some thoughts on on our USGS App http://bit.ly/ZiZsXG #rstats #shiny
+326460665432780800  Apr 22 18:21  @recology_        RT @rOpenSci: [Blog] Some thoughts on on our USGS App http://bit.ly/ZiZsXG #rstats #shiny
+326460822589161473  Apr 22 18:21  @DistribEcology   RT @rOpenSci: [Blog] Some thoughts on on our USGS App http://bit.ly/ZiZsXG #rstats #shiny
+326462029361713152  Apr 22 18:26  @druau            RT @moorejh: #datascience #bioinformatics RT @chlalanne: Learning Statistics with #rstats http://prsm.tc/GVKpUT via @prismatic
+326462600130998273  Apr 22 18:28  @D0CT0R_Dave      RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326463371060862977  Apr 22 18:31  @agnesevardanega  More reasons not to use #Excel for modeling http://flip.it/6kY8m #rstats
+326463414115377153  Apr 22 18:31  @marciopie        RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326464110785093632  Apr 22 18:34  @frenchrh         RT @JGreenbrookHeld Tonight, I discovered "Little Book of R for Time Series" - lifesaver. http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/ #rstats
+326465813659914240  Apr 22 18:41  @ChrisGandrud     Yet more evidence that we should automate the creation of results tables: http://read.bi/ZKVCkX #rstats
+326469938539810818  Apr 22 18:57  @raclinton        Awesome roundup of charts on gun violence. @businessinsider looks like most done with #rstats http://www.businessinsider.com/americas-gun-problem-explained-2013-4?op=1
+326471676286083074  Apr 22 19:04  @timelyportfolio  RT @portfolioprobe: garch and the distribution of returns http://bit.ly/17HJG81 #quant #finance #rstats
+326475189745483776  Apr 22 19:18  @hadleywickham    RT @sjGoring: The supp material for my next paper will be the paper in #Rstats markdown. Reproducible, and a good learning tool. For me and others! #knitr
+326482653673037824  Apr 22 19:48  @SteveQinEmory    RT @moorejh: #datascience #bioinformatics RT @chlalanne: Learning Statistics with #rstats http://prsm.tc/GVKpUT via @prismatic
+326488899708919811  Apr 22 20:13  @arnoldrosielle   RT @moorejh: #datascience #bioinformatics RT @chlalanne: Learning Statistics with #rstats http://prsm.tc/GVKpUT via @prismatic
+326492799438553088  Apr 22 20:28  @rmflight         RT @sjGoring: The supp material for my next paper will be the paper in #Rstats markdown. Reproducible, and a good learning tool. For me and others! #knitr
+326503507639283712  Apr 22 21:11  @M_T_Patterson    RT @JeromyAnglim: Free ebook: "An introduction to psychometric theory with applications in #rstats" http://personality-project.org/r/book/
+326504012885135361  Apr 22 21:13  @M_T_Patterson    RT @frenchrh: RT @JGreenbrookHeld Tonight, I discovered "Little Book of R for Time Series" - lifesaver. http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/ #rstats
+326505888435273728  Apr 22 21:20  @kgryte           RT @sjGoring: The supp material for my next paper will be the paper in #Rstats markdown. Reproducible, and a good learning tool. For me and others! #knitr
+326510194144206848  Apr 22 21:37  @jrmontag         Today's 'less-than-useful' #rstats plot, "The Bird" : http://t.co/Q0UVItG1ZI
+326513535553249281  Apr 22 21:51  @pierreroudier    I'm now a member of the Foundation for Open Access Statistics. You can join too at http://www.foastat.org #foastat #openscience #rstats
+326513742135320576  Apr 22 21:51  @pierreroudier    Also, consider following and reading @jstatsoft #ttrtlt #openscience #rstats
+326518756400570370  Apr 22 22:11  @gvegayon         @paredespablo @wordpressdotcom @jorgefabrega Arrepentido? ;) #rstats
+326518936516562944  Apr 22 22:12  @gvegayon         @paredespablo @wordpressdotcom @jorgefabrega "use R damnit!" #rstats
+326520257026080768  Apr 22 22:17  @jorgefabrega     "@gvegayon: @paredespablo @wordpressdotcom @jorgefabrega "use R damnit!" #rstats"/ R=1, python=0
+326522550622494721  Apr 22 22:26  @mjcavaretta      RT @maialson #Datamining with R #rstats http://ow.ly/kjU7S
+326523049421705216  Apr 22 22:28  @ZacharyRDM       RT @mjcavaretta: RT @maialson #Datamining with R #rstats http://ow.ly/kjU7S
+326528368352841728  Apr 22 22:50  @znmeb            CRAN: Contributed Documentation http://ow.ly/kjlTH #rstats #data #journalism
+326572094089469954  Apr 23 01:43  @drago_carlo      Checking out "Simple solutions to make videos with R" on AnalyticBridge: http://ning.it/10v5bM1 #rstats
+326586884564320258  Apr 23 02:42  @berkeleymalagon  How much are Data Scientists getting paid? Machine Learning? #DataScience #Rstats #Salaries
+326591784673222656  Apr 23 03:02  @Aaron_Baggett    I feel guilty using xtable, but not really. #LaTeX, #rstats
+326600971369213952  Apr 23 03:38  @mj_kallen        Vandaag nog een groep van 8 collega's bij @HKVlijninwater de fijne kneepjes van #rstats leren. #cursus
+326606555992702979  Apr 23 04:00  @martinmev        RT @chlalanne: Learning Statistics with #rstats http://prsm.tc/GVKpUT via @prismatic
+326610312293908480  Apr 23 04:15  @moneyscience     RT @timelyportfolio: RT @portfolioprobe: garch and the distribution of returns http://bit.ly/17HJG81 #quant #finance #rstats
+326618659936145408  Apr 23 04:48  @dataJujitsu      @jstatsoft really is a fantastic journal! http://www.foastat.org/initiatives.html #rstats #openaccess
+326621340142542849  Apr 23 04:59  @yannabraham      RT @sjGoring: The supp material for my next paper will be the paper in #Rstats markdown. Reproducible, and a good learning tool. For me and others! #knitr
+326628978288906241  Apr 23 05:29  @Gliders_Coach    I interview @YhatHQ  founders here #rstats #apis #python #models #predictive http://blog.programmableweb.com/2013/04/22/pw-interview-greg-lamp-and-austin-ogilvie-of-yhat-on-shipping-predictive-models-via-api/
+326631209889308672  Apr 23 05:38  @msgbi            RT @chlalanne: Learning Statistics with #rstats http://prsm.tc/GVKpUT via @prismatic
+326634595741229057  Apr 23 05:52  @chlalanne        #rstats: Quo Vadis?, by BIll Venables http://bit.ly/ZkUmKx
+326646770509692928  Apr 23 06:40  @dataJujitsu      My updated, fully-functional lisp interpreter in 140 lines of #rstats !  https://github.com/DASpringate/SchemeR
+326661241269518338  Apr 23 07:38  @cigrainger       Looking for info on using multiple fixed effects for linear models w/ panel data in #rstats. @jasonpbecker?
+326664919737069569  Apr 23 07:52  @gvegayon         What the Reinhart & Rogoff Debacle Really Shows: Verifying Empirical Results Needs to be Routine http://themonkeycage.org/2013/04/19/what-the-reinhart-rogoff-debacle-really-shows-verifying-empirical-results-needs-to-be-routine/#.UXZ1ZLJ0EVY.twitter #rstats
+326670634161668096  Apr 23 08:15  @martinmev        RT @chlalanne: #rstats: Quo Vadis?, by BIll Venables http://bit.ly/ZkUmKx
+326673246537801728  Apr 23 08:25  @lenwood          Just came across an R style guide on Google Code. I've only skimmed, looks pretty useful. http://bit.ly/17N0Scg #rstats
