@@ -3904,3 +3904,95 @@
 326762239581368322  Apr 23 14:19  @graemeleehickey  Some top quality #rstats functions for plotting regression coefficients here courtesy of @strengejacke. Hope to see an R package soon!
 326769206387412992  Apr 23 14:47  @rOpenSci         RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in Bay Area. 10% off with this tweet: http://goo.gl/ZEkv9 #rstats #rstudio
 326770956162981888  Apr 23 14:54  @mjcavaretta      Good list, if a little old. MT @yecidvilla @hellerme @KCoussement Tips & tricks in R http://buff.ly/129hQSA #bigdata #datamining #Rstats
+326775631352299521  Apr 23 15:12  @OpenCPU          The Foundation for Open Access Statistics http://www.r-bloggers.com/the-foundation-for-open-access-statistics/ via @rbloggers #rstats
+326781434943643649  Apr 23 15:35  @deronaucoin      RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in Bay Area. 10% off with this tweet: http://goo.gl/ZEkv9 #rstats #rstudio
+326783946270576641  Apr 23 15:45  @dotcomken        na.omit = the super destructo bad data incinerator. I lost 98% of a data set today... now thats dirty data #rstats #analytics
+326787995355213824  Apr 23 16:01  @markhuberty      @kjhealy just put #rstats graphs on your kids bags. Educational AND artistic.
+326789617418387456  Apr 23 16:08  @nachocaballero   RT @ramnath_vaidya: Tutorial: Recreating NYT Interactive Graph with rCharts, Shiny and Polychart http://ramnathv.github.io/rChartsNYT/ #rstats  @Polychart @jcheng @xieyihui
+326790871808880642  Apr 23 16:13  @IronistM         You can have so much fun with rga & Google analytics if you throw in a pinch of ggplot.... #rstats #measure (kudos @skardhamar)
+326792833279328258  Apr 23 16:20  @hadleywickham    RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in Bay Area. 10% off with this tweet: http://goo.gl/ZEkv9 #rstats #rstudio
+326794530928095232  Apr 23 16:27  @noticiasSobreR   Mosaic plot con R: Los gráficos de mosaico (mosaic plot) me gustan cada vez más. Hoy quería confesaros... http://tinyurl.com/cjdan3v #rstats
+326799666672963585  Apr 23 16:48  @IronistM         I use 2.15.3 and 3.0.0 (at home 2.15.1) -> not 100% updated. Updating R from R (Win) using the {installr} lib http://bit.ly/11yluDf #rstats
+326799715737944065  Apr 23 16:48  @JamesMeadow      RT @omearabrian: Please let folks know: RT I am looking for a postdoc to work on #phylogeography and #speciesdelimitation in #rstats: http://t.co/9HsRkyzINl
+326809948996644864  Apr 23 17:28  @msgbi            RT @chlalanne: #rstats: Quo Vadis?, by BIll Venables http://bit.ly/ZkUmKx
+326819448650600448  Apr 23 18:06  @maialson         RT @mjcavaretta: RT @maialson #Datamining with R #rstats http://ow.ly/kjU7S
+326822441454284800  Apr 23 18:18  @timelyportfolio  RT @ramnath_vaidya: Tutorial: Recreating NYT Interactive Graph with rCharts, Shiny and Polychart http://ramnathv.github.io/rChartsNYT/ #rstats  @Polychart @jcheng @xieyihui
+326826241426612224  Apr 23 18:33  @sc_evans         list = list of numeric df's.  list[[x]][r,c] returns a single value from df x. So why can't list[[]][r,c] return a vector of values? #Rstats
+326831527046545408  Apr 23 18:54  @sc_evans         @phylorich Aha, that makes too much sense. Probably a sign I should take a break from the #Rstats. #brainfried
+326833106948612096  Apr 23 19:00  @frenchrh         RT @RLangTip Explore the capabilities of your installed R packages with browseVignettes() #rstats http://bit.ly/I2UQ0v
+326833794424389632  Apr 23 19:03  @pjpuglia         RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in Bay Area. 10% off with this tweet: http://goo.gl/ZEkv9 #rstats #rstudio
+326838843439456256  Apr 23 19:23  @hossiet          I forgot how useful Mahalanobis distance can be for quantifying #mimicry http://www.r-bloggers.com/mahalanobis-distance-with-r-exercice/ #rstats http://www.christopherhassall.com/wp-content/uploads/2013/01/Penney-et-al-2012-Nature-ARCHIVED.pdf @katatrepsis
+326842976678576128  Apr 23 19:40  @quantlabs        Top 6 reasons why I use #Matlab over #Rstats with it draw backs when building #HFT #trading platform http://ow.ly/klKXE
+326849506371072001  Apr 23 20:06  @Gastove          @Strabd truth. Just wish the solutions were similar! #python is different than #rstats is different than #php is different than #scala, etc.
+326850322268041216  Apr 23 20:09  @revodavid        Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326855506763329536  Apr 23 20:30  @saimaware        RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326855810821005312  Apr 23 20:31  @jfzeac           RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326856671093731328  Apr 23 20:34  @simplystats      RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326857709746008065  Apr 23 20:38  @widged           RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326858443120054272  Apr 23 20:41  @eyegeek          RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326859285973852161  Apr 23 20:45  @zentree          'Using data.table for binning' in #Rstats. http://procomun.wordpress.com/2013/04/22/using-data-table-for-binning/
+326859845103910912  Apr 23 20:47  @influx           RT @DrQz: Adding Percentiles to PDQ (Pretty Damn Quick) http://is.gd/xB2xov #performance #modeling #capacityplanning #rstats
+326862196422348802  Apr 23 20:56  @ThembeK          RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326862830785675264  Apr 23 20:59  @Skorz3ny         RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326868528034611201  Apr 23 21:21  @miskaknapek      RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326872080698208256  Apr 23 21:35  @gappy3000        Are there packages for fast joins of matrices/arrays using dimnames in #rstats?
+326874087689445376  Apr 23 21:43  @ramnath_vaidya   Best Location to store oAuth tokens http://stackoverflow.com/q/16182009/235349?stw=2 #rstats
+326876153107320833  Apr 23 21:52  @SteveQinEmory    RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326876583979806723  Apr 23 21:53  @mspan            It is a great class!“@revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats”
+326880100631068672  Apr 23 22:07  @amestadmx        RT @RLangTip: Explore the capabilities of your installed R packages with browseVignettes() #rstats http://bit.ly/I2UQ0v
+326880914565124096  Apr 23 22:10  @urbandata        RT @CoreySparks1: Learn how to analyze data with R with Coursera's "Data Analysis" videos http://feedly.com/k/ZHy9oC #rstats #nnip #MOOC
+326882776882225153  Apr 23 22:18  @orlandomezquita  RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326883040896892928  Apr 23 22:19  @_Baylink         RT @urbandata: RT @CoreySparks1: Learn how to analyze data with R with Coursera's "Data Analysis" videos http://feedly.com/k/ZHy9oC #rstats #nnip #MOOC
+326886908057747457  Apr 23 22:34  @angelx03         RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326886940735590400  Apr 23 22:34  @JGreenbrookHeld  Is there an easy way to concatenate variables excluding NAs using paste in #rstats?
+326889910176980992  Apr 23 22:46  @ramnath_vaidya   RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in Bay Area. 10% off with this tweet: http://goo.gl/ZEkv9 #rstats #rstudio
+326891269085335554  Apr 23 22:52  @idigdata         RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326892206172545024  Apr 23 22:55  @HlthAnalysis     RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326893069502914560  Apr 23 22:59  @geoffjentry      RT @dataJujitsu: My updated, fully-functional lisp interpreter in 140 lines of #rstats !  https://github.com/DASpringate/SchemeR
+326893382003744768  Apr 23 23:00  @garyweissman     Off to Denver for #SGIM13 - who there is talking about #BigData #chws #rstats  #analytics ?
+326902728221659136  Apr 23 23:37  @jacalvache       RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326903486501511168  Apr 23 23:40  @Rbloggers        Slides from my R intro seminar:  (This article was first published on   There is grandeur in this vi... http://bit.ly/11My7cD #rstats
+326903487730417664  Apr 23 23:40  @Rbloggers        Python Compliments R’s Shortcomings:  (This article was first published on   Climate Change Ecology ... http://bit.ly/11My8Nr #rstats
+326903488770613248  Apr 23 23:40  @Rbloggers        Learn how to analyze data with R with Coursera’s "Data Analysis" videos:  (This article was first pu... http://bit.ly/11My8Nx #rstats
+326907814305992704  Apr 23 23:57  @sc_evans         Tomorrow I'm gonna take my first stab at using Amazon EC2 for #Rstats. Any pointers will be appreciated.
+326923495630049280  Apr 24 01:00  @fellgernon       @leekgroup Coursera course highlighted in #Revolutions #rstats
+326924417848455168  Apr 24 01:03  @adilkhash        RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+326938919029583872  Apr 24 02:01  @PPUAMX           RT @rstudioapp: Need to learn R? - RStudio Intro R Workshop in Bay Area. 10% off with this tweet: http://goo.gl/ZEkv9 #rstats #rstudio
+326939970931666944  Apr 24 02:05  @PPUAMX           RT @RLangTip: Explore the capabilities of your installed R packages with browseVignettes() #rstats http://bit.ly/I2UQ0v
+326941349662302208  Apr 24 02:11  @zimmeee          RT @Rbloggers: Learn how to analyze data with R on Coursera’s "Data Analysis":  http://bit.ly/11My8Nx #rstats #dscience
+326941592848056320  Apr 24 02:12  @ChrisGandrud     New #rstats repmis ver. Borrows from #devtools SHA1 tag and match files. See if you are downloading the file you want http://bit.ly/12QA9e1
+326951155592728577  Apr 24 02:50  @ABC_Research     RT @darrenjw: Introduction to Approximate Bayesian Computation (ABC) using #rstats -  http://wp.me/pB0wL-iN
+326969745356226561  Apr 24 04:03  @ErynMcFarlane    Just had a data problem solved with a really simple solution. Amazing how excited I get when I'm making stupid mistakes. #easyfix #Rstats
+326974353709363200  Apr 24 04:22  @mianromu         Aprende R: Grupo de Lectura del libro "Analyzing Linguistic Data" http://ow.ly/kmP82 #rstats
+326983061180915712  Apr 24 04:56  @EnigmaticDev     RT @darrenjw: Introduction to Approximate Bayesian Computation (ABC) using #rstats -  http://wp.me/pB0wL-iN
+326989374598291456  Apr 24 05:21  @dzidorius        If you consider a career in #finance industry, then learn #Excel by heart. #Rstats doesn't count at all.
+326996767650500608  Apr 24 05:51  @Mark_Gardener    Naming rows and columns of a matrix in R with colnames, rownames and dimnames commands http://www.dataanalytics.org.uk/Data%20Analysis/tips%20and%20tricks.htm #rstats
+327000071763787776  Apr 24 06:04  @jmgomez          RT @vitojph: en 10 días arrancamos el grupo de lectura de Estadística y R orientado a PLN http://ow.ly/kmO0v ¡gratis! :) #Rstats #NLProc
+327005576385159168  Apr 24 06:26  @Demografia_CSIC  Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats @revodavid
+327005606101782528  Apr 24 06:26  @gjabel22         Inspired by @undunc, @bankofengland fan charts in R. #visualisation of forecast uncertainty http://gjabel.wordpress.com/2013/04/24/bank-of-england-fan-charts-in-r/. #rstats
+327013319150034944  Apr 24 06:57  @mgwhitfield      Happy to be of assistance @sioakley! MT @sioakley: @mgwhitfield you are an #Rstats guru, thanks for the help!
+327014402467450881  Apr 24 07:01  @AndrewLLJackson  #SIAR v4.2 for #rstats now available on cran. Bug fixed and It will now run on 64 bit OS and offers small speed up  http://cran.r-project.org/web/packages/siar/index.html
+327015417715511297  Apr 24 07:05  @manetomapping    MT this is a great class! “@Rbloggers: Learn how to analyze data w R Coursera’s "Data Analysis" videos:  http://bit.ly/11My8Nx #rstats”
+327015544270237697  Apr 24 07:05  @poblacion_csic   RT @Demografia_CSIC: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats @revodavid
+327016574659731456  Apr 24 07:10  @Leaderamp        RT @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+327018012169342976  Apr 24 07:15  @Polychart        RT @ramnath_vaidya: Tutorial: Recreating NYT Interactive Graph with rCharts, Shiny and Polychart http://ramnathv.github.io/rChartsNYT/ #rstats  @Polychart @jcheng @xieyihui
+327021692050358272  Apr 24 07:30  @mmarboeuf        RT @RolfFredheim: 3.3 million GDELT events mapped and visualised http://bit.ly/11CUpPx … #dataviz #bigdata #rstats #GDELT
+327021716779974656  Apr 24 07:30  @RubenMartinezS   Simple solutions to make videos with R http://bit.ly/11BlDar #Rstats
+327023112652730369  Apr 24 07:36  @frenchrh         RT @Rbloggers Python Compliments R’s Shortcomings:  (This article published on   Climate Change Ecology ... http://bit.ly/11My8Nr #rstats
+327026055338676226  Apr 24 07:47  @M_T_Patterson    Time Series in R: http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/ #Rstats
+327026638980272129  Apr 24 07:50  @gvegayon         Recomiendo el curso "Data and Computing Fundamentals" http://bit.ly/11jZL1q #rstats
+327027121606238208  Apr 24 07:51  @gvegayon         Foundation for Open Access Statistics - for free soft, open access pubs, and reproducible research in stats. http://bit.ly/11jZSdp #rstats
+327028095305519105  Apr 24 07:55  @Rosacelia        RT @Demografia_CSIC: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats @revodavid
+327028317628801025  Apr 24 07:56  @StuBearhop       RT @AndrewLLJackson: #SIAR v4.2 for #rstats now available on cran. Bug fixed and It will now run on 64 bit OS and offers small speed up  http://t.co/TOFch4us7n
+327029507150196737  Apr 24 08:01  @undunc           RT @gjabel22: Inspired by @undunc, @bankofengland fan charts in R. #visualisation of forecast uncertainty http://gjabel.wordpress.com/2013/04/24/bank-of-england-fan-charts-in-r/. #rstats
+327030271583068161  Apr 24 08:04  @jjgibaja         RT @chlalanne: #rstats: Quo Vadis?, by BIll Venables http://bit.ly/ZkUmKx
+327030359491481600  Apr 24 08:04  @M_T_Patterson    First Pittsburgh useR group today @ 7:00pm! location: Management Science Associates  6585 Penn Ave #RStats
+327030434720526338  Apr 24 08:05  @jjgibaja         RT @chlalanne: Learning Statistics with #rstats http://prsm.tc/GVKpUT via @prismatic
+327030660281802753  Apr 24 08:06  @chrishanretty    RT @gjabel22: Inspired by @undunc, @bankofengland fan charts in R. #visualisation of forecast uncertainty http://gjabel.wordpress.com/2013/04/24/bank-of-england-fan-charts-in-r/. #rstats
+327031994485719040  Apr 24 08:11  @philiplederer    RT @garyweissman: Off to Denver for #SGIM13 - who there is talking about #BigData #chws #rstats  #analytics ?
+327034029075472384  Apr 24 08:19  @wpostbot         How to know the reliability of integrate function #rstats http://t.co/dTSZDkKKVH
+327035961043206144  Apr 24 08:27  @ChetanChawla     RT @M_T_Patterson: Time Series in R: http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/ #Rstats
+327038329377927168  Apr 24 08:36  @vitojph          RT @chlalanne: Learning Statistics with #rstats http://prsm.tc/GVKpUT via @prismatic
+327039527115948033  Apr 24 08:41  @Rbloggers        Bank of England Fan Charts in R:  (This article was first published on   Guy Abel » R, and kindly co... http://bit.ly/12gjhxu #rstats
+327040697221910530  Apr 24 08:45  @M_T_Patterson    RT @chlalanne: #rstats: Quo Vadis?, by BIll Venables http://bit.ly/ZkUmKx
+327043112453169153  Apr 24 08:55  @danmartines      RT @Rbloggers: Bank of England Fan Charts in R: http://bit.ly/12gjhxu #rstats
