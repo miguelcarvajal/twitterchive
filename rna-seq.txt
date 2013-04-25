@@ -1199,3 +1199,21 @@
 327113679445323776  Apr 24 13:35  @benkhall         I'm happy there's no more compulsory systems courses left. Some were useful. Some were a waste of time. Learned RNA seq assembly I suppose!
 327113833216897024  Apr 24 13:36  @aemonten         Measurement of mRNA abundance using RNA-Seq  data: RPKM is inconsistent among samples http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf
 327114778386513920  Apr 24 13:40  @notSoJunkDNA     RT @aemonten: Measurement of mRNA abundance using RNA-Seq  data: RPKM is inconsistent among samples http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf
+327142853824364548  Apr 24 15:31  @Life_Sciences_   http://scienceindex.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3H8K0J
+327148537454403585  Apr 24 15:54  @pialim           RT @genetics_blog: SeqGSEA - gene set / pathway analysis for RNA-seq w/ #Rstats #Bioconductor http://bioconductor.org/packages/release/bioc/html/SeqGSEA.html #NGS #Bioinformatics
+327152321085702144  Apr 24 16:09  @ppgardne         RT @aemonten: Measurement of mRNA abundance using RNA-Seq  data: RPKM is inconsistent among samples http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf
+327168456338321408  Apr 24 17:13  @notSoJunkDNA     RNA-Seq data presented by a prestigious speaker in RPKM and colored in green and red based on fold-change. So many mistakes in one slide!
+327228323786813441  Apr 24 21:11  @tosnam           RNA sequencing of cancer reveals novel splicing alterations http://feedly.com/k/ZJzJGA Caner RNA-Seq에서 splicing 보는 사람에게 꽤 괜찮은 참고논문이 될 듯.
+327231075715788800  Apr 24 21:22  @tosnam           잘 만든 라이브러리로 충분히 sequencing하고 replication까지 해주면 당연히 좋겠지만 연구비의 압박이 있으므로... RNA-Seq에서의 SNV는 결국 돈 많은 랩에서나 해라 이건가?ㅋ
+327250968829898752  Apr 24 22:41  @Science_Alerts   http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HCctF
+327252456096534529  Apr 24 22:47  @Life_Sciences_   http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HCfgD
+327252487360884737  Apr 24 22:47  @JamesLZ          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
+327272525732143104  Apr 25 00:07  @BiologyMag       http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HDF79
+327317362514739200  Apr 25 03:05  @drchriscole      RT @aemonten: Measurement of mRNA abundance using RNA-Seq  data: RPKM is inconsistent among samples http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf
+327317562297835520  Apr 25 03:06  @Masamichi_C2     RNA-Seqの発現量データの解析に手こずるとか情弱すぎる。
+327319911472959488  Apr 25 03:15  @Masamichi_C2     今やっているデータの解析が終わったら、「RNA-Seqデータの解析なんて簡単だから誰でもできるよ〜」ってドヤ顔したい。
+327345928329625600  Apr 25 04:58  @novoseeker       Strategies for SNP Detection in RNA-Seq Data: Application to  Lymphoblastoid Cell Lines and Eval Using 1000 Genomes http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0058815
+327357473562427392  Apr 25 05:44  @Matt_Landau      .@PlantMethods article in RNA-Seq Blog: identifying over-represented plant transcription factor binding sites http://www.rna-seqblog.com/data-analysis/unspliced-mapping-tools/marina-for-identifying-over-represented-plant-transcription-factor-binding-sites/ …
+327361109659090944  Apr 25 05:59  @LuckyStrike1984  RT @dritoshi: 論文でました。現在のところ世界最高の精度を持つ1細胞RNA-Seq技術です。 #LoveLab #ngsfield  http://goo.gl/r33mD
+327366492645642240  Apr 25 06:20  @novoseeker       RNA-Seq & Variant Calling: Samtools beats GATK in http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3608647/ Samtools detected 8-10% more variants... but also + false positives
+327392047059304449  Apr 25 08:02  @motthy           @nubata @n0rr (結構大変だった…RNA-seqの解析の手伝い。ちょっとずつ進める)

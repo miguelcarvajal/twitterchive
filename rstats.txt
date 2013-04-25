@@ -4025,3 +4025,66 @@
 327133328832606208  Apr 24 14:53  @SarahBisbing     RT @frod_san: Displaying #uncertainty of time series with fanplot package http://gjabel.wordpress.com/2012/08/13/the-fanplot-package-for-r/ #rstats
 327133552229629952  Apr 24 14:54  @noticiasSobreR   Stamen maps with spplot: Several R packages provide an interface to query map services (Google Maps, S... http://tinyurl.com/a8km3uz #rstats
 327133786280173570  Apr 24 14:55  @quantlabs        Top 6 reasons why I use #Matlab over #Rstats with it draw backs when building #HFT #trading platform http://ow.ly/klLqQ
+327145543665086464  Apr 24 15:42  @yoavram          %R works pretty well http://goo.gl/6l1Xy RT @recology_: Haskell version of #iPython notebook - possible to do an #rstats version?
+327148537454403585  Apr 24 15:54  @pialim           RT @genetics_blog: SeqGSEA - gene set / pathway analysis for RNA-seq w/ #Rstats #Bioconductor http://bioconductor.org/packages/release/bioc/html/SeqGSEA.html #NGS #Bioinformatics
+327149692779634689  Apr 24 15:58  @pialim           RT @genetics_blog: List of #Bioinformatics Workshops and Training Resources http://gettinggeneticsdone.blogspot.com/2013/04/list-of-bioinformatics-workshops-training.html #NGS #Rstats #Genomics #Genetics
+327156021321682944  Apr 24 16:24  @ramnath_vaidya   .@hadleywickham  What are some issues involved with using readline to get username and password? #rstats
+327157812885090304  Apr 24 16:31  @JodyEdmondson    #datascience #Rstats adding to it's recent acquisition of DNNresearch Google acquires ML start up wavii http://bit.ly/12iCuPi
+327161860631691265  Apr 24 16:47  @emorisse         Ok #OpenShift ers, and #Rstats geeks.  I have rpy2 running on OpenShift.  What's next? http://r-howweknowus.rhcloud.com/
+327163285365481472  Apr 24 16:53  @Rbloggers        Stamen maps with spplot:  (This article was first published on   Omnia sunt Communia! » R-english, a... http://bit.ly/17TWQ1T #rstats
+327170213651038208  Apr 24 17:20  @zimmeee          What the heck! that shit cray RT @Rbloggers: @Stamen maps with spplot http://bit.ly/17TWQ1T #dscience #rstats #ggplot2 #dataviz
+327171267419594752  Apr 24 17:24  @marcosluis2186   Visualizing Season Performance by NCAA Tournament Teams  http://bit.ly/13vm9GS #DataVisualization #rstats thanks @revodavid
+327171593086332930  Apr 24 17:26  @marcosluis2186   An incredible map of which countries e-mail each other, and why http://www.washingtonpost.com/blogs/worldviews/wp/2013/03/07/an-incredible-map-of-which-countries-email-each-other-and-why/ #rstats
+327174249297096704  Apr 24 17:36  @manetomapping    Whoa! Very cool! “@Rbloggers: Stamen maps with spplot: http://bit.ly/17TWQ1T #rstats”
+327177071564570625  Apr 24 17:47  @gjreda           Just hit for the data analysis cycle: csv -> #pydata -> SQL -> excel -> #rstats. I'm ashamed.
+327185546302599168  Apr 24 18:21  @oscarperpinan    Stamen maps with spplot http://wp.me/pNSqK-kX #rstats #visualization #maps
+327192287337648130  Apr 24 18:48  @ghelleks         RT @emorisse: Ok #OpenShift ers, and #Rstats geeks.  I have rpy2 running on OpenShift.  What's next? http://r-howweknowus.rhcloud.com/
+327204167649214464  Apr 24 19:35  @noamross         Seeking feedback on "A Guide to Speeding Up Your R Code for Busy People", written for the #UCDavis #rstats user group http://goo.gl/MGI32
+327204478006738945  Apr 24 19:36  @recology_        RT @noamross: Seeking feedback on "A Guide to Speeding Up Your R Code for Busy People", written for the #UCDavis #rstats user group http://t.co/mEI8mVujbE
+327206437979844608  Apr 24 19:44  @AlyssaYStark     Downloaded R!! and a graphing package too. Now to figure out how to use it so I can be an official user! #rstats
+327208847490039808  Apr 24 19:54  @frod_san         RT @noamross: Seeking feedback on "A Guide to Speeding Up Your R Code for Busy People", written for the #UCDavis #rstats user group http://t.co/mEI8mVujbE
+327211385790545921  Apr 24 20:04  @GSwithR          RT @noamross: Seeking feedback on "A Guide to Speeding Up Your R Code for Busy People", written for the #UCDavis #rstats user group http://t.co/mEI8mVujbE
+327217105852321792  Apr 24 20:26  @znmeb            @leeannoneal If you're a data/code journo, the 'animation' package in #rstats makes GIFs. There are other tools, though. #wjchat
+327217475588595713  Apr 24 20:28  @amylieumedia     RT @znmeb: @leeannoneal If youre a data/code journo, the animation package in #rstats makes GIFs. There are other tools, though. #wjchat
+327219434810900483  Apr 24 20:36  @danmartines      RT @Rbloggers: Stamen maps with spplot:  http://bit.ly/17TWQ1T #rstats
+327220398632628225  Apr 24 20:39  @znmeb            @wjchat For all you #rstats folks - http://cran.r-project.org/web/packages/animation/index.html #wjchat
+327221690956382208  Apr 24 20:45  @almostMike       RT @recology_: Haskell version of #iPython notebook - possible to do an #rstats version? http://prsm.tc/kljLM9
+327238214689628160  Apr 24 21:50  @timelyportfolio  Strongly encourage #rstats #d3js users check out @ramnath_vaidya #rCharts http://github.com/ramnathv/rCharts
+327239010877583360  Apr 24 21:53  @Aaron_Baggett    Simulate, predict MLB at-bats and games using @nathanzim25's baseball simulator: http://glimmer.rstudio.com/nathanzim/Simulator/ #rstats
+327248281459630081  Apr 24 22:30  @davidjayharris   RT @noamross: Seeking feedback on "A Guide to Speeding Up Your R Code for Busy People", written for the #UCDavis #rstats user group http://t.co/mEI8mVujbE
+327250093310889984  Apr 24 22:37  @mspan            Looking forward to Bigvis: visualising 100,000,000 observations in R with Hadley Wickham 2morrow. Livestream  http://bit.ly/YSTb0q #rstats
+327255169677017089  Apr 24 22:58  @Graham_Coop      RT @noamross: Seeking feedback on "A Guide to Speeding Up Your R Code for Busy People", written for the #UCDavis #rstats user group http://t.co/mEI8mVujbE
+327260883556388864  Apr 24 23:20  @Rbloggers        A brainfuck interpreter for R:  (This article was first published on   4D Pie Charts » R, and kindly... http://bit.ly/1499tto #rstats
+327263002543943680  Apr 24 23:29  @ramnath_vaidya   rCharts | Install, create and publish interactive charts from R in under 5 minutes #rstats @d3visualization #dataviz http://www.youtube.com/watch?v=nYr5KzaR1Vc
+327264103104122880  Apr 24 23:33  @datanauta        Grupo de lectura de "Analyzing Linguistic Data" con R de @gilbellosta y @vitojph http://www.datanalytics.com/blog/2013/04/24/leemos-analyzing-linguistic-data-juntos/ #rstats
+327273218295611392  Apr 25 00:09  @PPUAMX           RT @RLangTip: Find the closest CRAN mirror to you at http://www.inside-r.org/download (it will be selected by default) #rstats
+327284740359061504  Apr 25 00:55  @TATA_BOX         R tips and tricks – Modified Pairs Plot | MusicRoamer Ramblings http://musicroamer.com/blog/2011/01/16/r-tips-and-tricks-modified-pairs-plot/ #rstats
+327299398914670593  Apr 25 01:53  @estebanmoro      @arutherfordium #rstats
+327301032927444993  Apr 25 02:00  @ziyuang          RT @ramnath_vaidya: rCharts | Install, create and publish interactive charts from R in under 5 minutes #rstats @d3visualization #dataviz http://t.co/yT8p2w4nsL
+327301805438541826  Apr 25 02:03  @znmeb            Oh. My. God. #rstats http://j.mp/ZQ3qSp
+327320034991022080  Apr 25 03:15  @jmgomez          #Python Compliments R’s Shortcomings via @KirkDBorne and @ProfAbelMendez http://ow.ly/kmHuE #RStats #datamining
+327324908851970048  Apr 25 03:35  @denisohora       Learn how to analyze data with R with Coursera’s "Data Analysis" videos http://www.r-bloggers.com/learn-how-to-analyze-data-with-r-with-courseras-data-analysis-videos/ @Rbloggers #rstats
+327327359491530752  Apr 25 03:44  @_NickGolding_    MT @Rbloggers A brainfuck interpreter for R:  http://bit.ly/1499tto #rstats
+327328038884880385  Apr 25 03:47  @vitojph          RT @datanauta: Grupo de lectura de "Analyzing Linguistic Data" con R de @gilbellosta y @vitojph http://www.datanalytics.com/blog/2013/04/24/leemos-analyzing-linguistic-data-juntos/ #rstats
+327328766319800321  Apr 25 03:50  @vitojph          RT @jmgomez: #Python Compliments R’s Shortcomings via @KirkDBorne and @ProfAbelMendez http://ow.ly/kmHuE #RStats #datamining
+327332170639220736  Apr 25 04:04  @datanauta        Gracias @grserrano_  ! Me ha encantado tu post sobre cómo explotar google Trends con R http://goo.gl/iGSz6 #trends #rstats #enjoystats
+327333084984909824  Apr 25 04:07  @mateus_justino   RT @jmgomez: #Python Compliments R’s Shortcomings via @KirkDBorne and @ProfAbelMendez http://ow.ly/kmHuE #RStats #datamining
+327340439680188417  Apr 25 04:36  @KCoussement      RT @ramnath_vaidya: rCharts | Install, create and publish interactive charts from R in under 5 minutes #rstats @d3visualization #dataviz http://t.co/yT8p2w4nsL
+327340879457169409  Apr 25 04:38  @BoyceWP          RT @denisohora: Learn how to analyze data with R with Coursera’s "Data Analysis" videos http://www.r-bloggers.com/learn-how-to-analyze-data-with-r-with-courseras-data-analysis-videos/ @Rbloggers #rstats
+327343194822029312  Apr 25 04:47  @ciaran_mc_c      RT @ramnath_vaidya: rCharts | Install, create and publish interactive charts from R in under 5 minutes #rstats @d3visualization #dataviz http://t.co/yT8p2w4nsL
+327345119734947840  Apr 25 04:55  @jmgomez          RT @mspan: A great class! @revodavid: Learn how to use R for data analysis with @leekgroup's Coursera videos: http://bit.ly/10xSsrZ #rstats
+327359432214335488  Apr 25 05:52  @Altons           Detecting Language in Twitter http://altons.github.io/R/2013/01/15/detecting-language-in-twitter/ #rstats
+327360470979862528  Apr 25 05:56  @Gliders_Coach    doing statistical analysis on Sachin Tendulkar in honor of his 40th birthday #rstats #God #IPL #cricket Why Sachin is statistically number 1
+327361161743974400  Apr 25 05:59  @mathematicoffee  @drjerrynyc @brianabelson @nyhackr are the slides for http://t.co/8FxRGw1vRb available? intrigued #rstats #callmemaybe
+327362788605431810  Apr 25 06:05  @WillemGPaling    RT @Gliders_Coach: doing statistical analysis on Sachin Tendulkar in honor of his 40th birthday #rstats #God #IPL #cricket Why Sachin is statistically number 1
+327368572294799360  Apr 25 06:28  @moorsd           RT @Altons: Detecting Language in Twitter http://altons.github.io/R/2013/01/15/detecting-language-in-twitter/ #rstats
+327373668604850176  Apr 25 06:48  @IronistM         Gotta spend some time with data.table | http://bit.ly/17gyT6q #rstats #datamanagement
+327377374519898112  Apr 25 07:03  @timelyportfolio  RT @ramnath_vaidya: rCharts | Install, create and publish interactive charts from R in under 5 minutes #rstats @d3visualization #dataviz http://t.co/yT8p2w4nsL
+327391123742007296  Apr 25 07:58  @Gliders_Coach    Using R for Cricket Analysis #rstats #IPL http://wp.me/p9q8Y-2SC
+327392233064132608  Apr 25 08:02  @dataJujitsu      Check out my new in-development package for rendering/generating html in  #Rstats: https://github.com/DASpringate/samatha #Rfortheweb comments welcome!
+327394678410461186  Apr 25 08:12  @modernscientist  Looking forward to attending “Bigvis: visualising 100,000,000 observations in R with Hadley Wickham” tonight http://www.meetup.com/nyhackr/events/112271042/?a=ea1_grp&rv=ea1 #rstats
+327394719074222080  Apr 25 08:12  @jfreels4         RT @ramnath_vaidya: rCharts | Install, create and publish interactive charts from R in under 5 minutes #rstats @d3visualization #dataviz http://t.co/yT8p2w4nsL
+327394827127885827  Apr 25 08:13  @IronistM         RT @RLangTip: Explore the capabilities of your installed R packages with browseVignettes() #rstats  http://bit.ly/11jqwmL
+327401426580025344  Apr 25 08:39  @Gliders_Coach    Using R for Cricket Analysis #rstats #IPL http://lnkd.in/7imUCs
+327405388188229633  Apr 25 08:55  @_NickGolding_    Oooh, the #rstats RasterVis package looks pretty! http://rastervis.r-forge.r-project.org/
+327406680830795776  Apr 25 09:00  @noticiasSobreR   Lectura conjunta de “Analyzing Linguistic Data”: Mi compañero y amigo Carlos Gil junto con Victor Pein... http://tinyurl.com/asdstle #rstats
