@@ -1,9 +1,6 @@
 #http://nsaunders.wordpress.com/2012/08/16/twitter-coverage-of-the-ismb-2012-meeting-some-statistics/
-library(ggplot2)
 setwd("~/code/twitterchive/analysis/")
-
-# keywords <- c("bioinformatics", "metagenomics")
-# f <- paste("../", keywords, ".txt", sep="")
+library(ggplot2)
 
 trim.whitespace <- function(x) gsub("^\\s+|\\s+$", "", x)
 
