@@ -68,8 +68,8 @@ done
 # git remote add origin https://github.com/stephenturner/twitterchive.git
 # git remote set-url origin git@github.com:stephenturner/twitterchive.git 
 # git push origin master
-git add -A
-git commit -a -m "Update search results: $(date)"
-git push origin master
+# git add -A
+# git commit -a -m "Update search results: $(date)"
+# git push origin master
 
 ## Run with a cronjob: 00 12 * * * cd /path/to/twitterchive/ && ./twitterchive.sh

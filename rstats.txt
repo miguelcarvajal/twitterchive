@@ -4113,3 +4113,122 @@
 327492523708805120  Apr 25 14:41  @TheCricketTrap   Using R for Cricket Analysis #rstats #IPL http://trap.it/c8FwdL #cwc #cricket #icc
 327497006622851072  Apr 25 14:59  @FindnMeet        at the @nyhackr event 2nite? View the 190+ attendee profiles http://bit.ly/13xNmbT, get a headstart on #networking  #business #nyc #rstats
 327497559146917888  Apr 25 15:01  @quantlabs        Bye bye #Rstats, #Python and C++ used for #FPGA and #HFT with spot #forex in banks like JP Morgan with video proof http://ow.ly/klLGw
+327508719707512832  Apr 25 15:45  @mroutley         The magic of findInterval() just saved me a lot of nasty If-Else code #rstats
+327511331701919745  Apr 25 15:56  @ChuckKillerDoll  RT @ramnath_vaidya: rCharts | Install, create and publish interactive charts from R in under 5 minutes #rstats @d3visualization #dataviz http://t.co/yT8p2w4nsL
+327512213634027520  Apr 25 15:59  @Lewis_Lab        Downloading country map data in #Rstats http://www.stanford.edu/~cengel/cgi-bin/anthrospace/download-global-administrative-areas-as-rdata-files
+327526572280143873  Apr 25 16:56  @Colin_at_cu      Made a graph of tumblr reblogs using #rstats and rainbows for one of my posts http://t.co/Af6AEOUClV
+327534159578923008  Apr 25 17:26  @M_T_Patterson    RT (via @Rbloggers ):  Lahman: A New R Package for Baseball Stats:   http://bit.ly/14dnINZ   #rstats
+327534992479637504  Apr 25 17:30  @Piboonrungroj    Econometry of Financial Market with R-project by Daniel Herlemont  http://www.yats.com/doc/r-trading-projet-index-en.html #rstats #econ #finance #Econometrics
+327535632744329219  Apr 25 17:32  @pacoramon        RT @Piboonrungroj: Econometry of Financial Market with R-project by Daniel Herlemont  http://www.yats.com/doc/r-trading-projet-index-en.html #rstats #econ #finance #Econometrics
+327535962265616385  Apr 25 17:33  @Rstats4Econ      RT @Piboonrungroj: Econometry of Financial Market with R-project by Daniel Herlemont  http://www.yats.com/doc/r-trading-projet-index-en.html #rstats #econ #finance #Econometrics
+327536074631036928  Apr 25 17:34  @PairachCMSE      RT @Piboonrungroj: Econometry of Financial Market with R-project by Daniel Herlemont  http://www.yats.com/doc/r-trading-projet-index-en.html #rstats #econ #finance #Econometrics
+327537627442081792  Apr 25 17:40  @iamkimiam        Is there a way to enter all predictors in an R glm and have it figure out forward, backward, stepwise methods automagically? #rstats
+327540797358620672  Apr 25 17:53  @ucfagls          .@iamkimiam see the glmnet pkg for an alternative which uses shrinkage via the Lasso or Elastic net, + CV, to determine the model #rstats
+327541008277573633  Apr 25 17:53  @noamross         FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327541291451809793  Apr 25 17:55  @recology_        RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327544738234380288  Apr 25 18:08  @frod_san         RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327546228185374720  Apr 25 18:14  @jebyrnes         RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327546283122368512  Apr 25 18:14  @JacquelynGill    RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327547585231458305  Apr 25 18:20  @lingwhatics      Sounds like a neat R package http://blog.revolutionanalytics.com/2013/04/lahman-a-new-r-package-for-baseball-stats.html #rstats
+327548639352340481  Apr 25 18:24  @doctorjackpine   RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327549453668069376  Apr 25 18:27  @andyteucher      RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327553193066237953  Apr 25 18:42  @_inundata        RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327553650698366976  Apr 25 18:44  @corynissen       Dug up some old #rstats work from my Allstate days. Interns + robotics + nice budget = fun! http://blog.corynissen.com/2013/04/3d-model-using-rgl-package.html
+327563631006978049  Apr 25 19:23  @nyhackr          Crowded space at @knewton for @hadleywickham talk #rstats
+327568825283383298  Apr 25 19:44  @SteveAuscavitch  RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327569923205365760  Apr 25 19:48  @sirishasun       #rstats: use unlist() to flatten a list to a vector that contains all atomic components.
+327569994210758656  Apr 25 19:49  @sirishasun       #rstats: Non-vector components of a list like names, formulas and calls cannot be coerced, and a list cannot be "unlisted" by unlist().
+327573236583899136  Apr 25 20:02  @Rbloggers        GSoC and R: Off to the Races:  (This article was first published on   tradeblotter » R, and kindly c... http://bit.ly/ZxeglS #rstats
+327574140804534272  Apr 25 20:05  @jfstn            Version 2.0 of #rstats free eBook on #BigData now available at http://po.st/p4G2z9 with fix for Twitter OAuth
+327574278797148160  Apr 25 20:06  @mike_malecki     Packed house at @Knewton for @hadleywickham on his new #bigviz package for #rstats at @nyhackr http://t.co/ytbTwdXQYs
+327574294374793216  Apr 25 20:06  @RickSaporta      .@hadleywickham says next version of #plyr will be able to use #data.table -  very awesome!  #rstats #nyhackr
+327574373848457218  Apr 25 20:06  @recology_        RT @RickSaporta: .@hadleywickham says next version of #plyr will be able to use #data.table -  very awesome!  #rstats #nyhackr
+327575961639985153  Apr 25 20:12  @Bioconductor     #Bioconductor / #rstats 2013 conference updated sponsors, speakers, activities, and deadlines http://bit.ly/12Wr2ww.
+327578301155651585  Apr 25 20:22  @drdrewsteen      RT @RickSaporta: .@hadleywickham says next version of #plyr will be able to use #data.table -  very awesome!  #rstats #nyhackr
+327584039823360001  Apr 25 20:44  @kevin_ushey      RT @RickSaporta: .@hadleywickham says next version of #plyr will be able to use #data.table -  very awesome!  #rstats #nyhackr
+327588807304167426  Apr 25 21:03  @Leaderamp        RT @jfstn: Version 2.0 of #rstats free eBook on #BigData now available at http://po.st/p4G2z9 with fix for Twitter OAuth
+327589118139842561  Apr 25 21:05  @dorageh          RT @Bioconductor: #Bioconductor / #rstats 2013 conference updated sponsors, speakers, activities, and deadlines http://bit.ly/12Wr2ww.
+327589621372424192  Apr 25 21:07  @Leaderamp        RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327592676088221696  Apr 25 21:19  @hadleywickham    RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327592789439283200  Apr 25 21:19  @treycausey       RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327593118427918336  Apr 25 21:21  @sharon000        RT @_NickGolding_: Oooh, the #rstats RasterVis package looks pretty! http://rastervis.r-forge.r-project.org/
+327593175554342912  Apr 25 21:21  @i_314            RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327593401342107648  Apr 25 21:22  @sirishasun       #rstats: "filehash" package for a key-value database implementation. Use when access to some (not all) elements of the data at a time needed
+327593588236103681  Apr 25 21:22  @JonesZM          RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327593747011485697  Apr 25 21:23  @JonesZM          RT @RickSaporta: .@hadleywickham says next version of #plyr will be able to use #data.table -  very awesome!  #rstats #nyhackr
+327593822278254593  Apr 25 21:23  @kwcollins        RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327599601945288704  Apr 25 21:46  @kleinschmidt     RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327600916427575297  Apr 25 21:51  @rmflight         RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327601283844423681  Apr 25 21:53  @kinow            RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327602054472286208  Apr 25 21:56  @ramnath_vaidya   Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327604114760531968  Apr 25 22:04  @erinshellman     RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327605897151000577  Apr 25 22:11  @eddelbuettel     RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327607369011974145  Apr 25 22:17  @mattVDiLeo       #Rstats for microbial diversity: phyloseq  http://phylogenomics.blogspot.com/2013/04/if-you-are-into-microbial-diversity-and.html?m=1
+327609031046868993  Apr 25 22:24  @ChrisGandrud     RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327609162425049089  Apr 25 22:24  @simplystats      RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327609376456183808  Apr 25 22:25  @woodrad          RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327610811898019840  Apr 25 22:31  @dartdog          RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327611420470554625  Apr 25 22:33  @ChrisGandrud     RT @jfstn: Version 2.0 of #rstats free eBook on #BigData now available at http://po.st/p4G2z9 with fix for Twitter OAuth
+327613249208061952  Apr 25 22:41  @iantist          RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327613854173495297  Apr 25 22:43  @PonderPolitical  RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327613967939813376  Apr 25 22:43  @davidcoallier    RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327614039393964033  Apr 25 22:44  @modernscientist  RT @mike_malecki: Packed house at @Knewton for @hadleywickham on his new #bigviz package for #rstats at @nyhackr http://t.co/ytbTwdXQYs
+327614191076794368  Apr 25 22:44  @NYaraghi         RT: @ramnath_vaidya Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ … #rstats
+327614193039704065  Apr 25 22:44  @franklinchen     RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327614918457176064  Apr 25 22:47  @angelx03         RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327615797998534656  Apr 25 22:51  @RMSeals          RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327616132217438208  Apr 25 22:52  @bshor            RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327616388673970176  Apr 25 22:53  @bohbobo          RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327617128343691264  Apr 25 22:56  @timelyportfolio  @ramnath_vaidya really liking #rCharts with @olly_smith #morrisjs for #d3js from #rstats
+327619564890370049  Apr 25 23:06  @shatnerandsulu   RT @emorisse: Ok #OpenShift ers, and #Rstats geeks.  I have rpy2 running on OpenShift.  What's next? http://r-howweknowus.rhcloud.com/
+327620053765861376  Apr 25 23:08  @tslumley         RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327620559129153537  Apr 25 23:10  @hylopsar         Computer crashed, now same exact #Rstats code is giving very different results…! goddamn you, phantom objects!! *shakes tiny fist*
+327623708472643584  Apr 25 23:22  @gauravjain49     RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327625131235082241  Apr 25 23:28  @PPUAMX           RT @RLangTip: Robust regression in R (PDF, Fox & Weisberg): http://bit.ly/I7rm0p #rstats
+327628068871086081  Apr 25 23:39  @flash_us         RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327632386886086656  Apr 25 23:57  @lingwhatics      RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327632730693185536  Apr 25 23:58  @pythondj         RT @emorisse: Ok #OpenShift ers, and #Rstats geeks.  I have rpy2 running on OpenShift.  What's next? http://flip.it/nVPxT
+327633198035120129  Apr 26 00:00  @SAGRudd          A brainfuck interpreter for R = #mindboggling language package for #rstats @ http://buff.ly/YWVCiu
+327633507331477504  Apr 26 00:01  @PhilippBayer     RT @SAGRudd: A brainfuck interpreter for R = #mindboggling language package for #rstats @ http://buff.ly/YWVCiu
+327637092630937600  Apr 26 00:15  @zentree          'Learning to code in #Rstats' in Quantum Forest. http://www.quantumforest.com/2013/04/learning-to-code-in-r/
+327637621511684097  Apr 26 00:17  @james_gilbert    @americanbeetles @CMacQuar Definitely enough good quality tutorials and helpful tweeps out there to justify taking the R pill.  #rstats
+327641604808638464  Apr 26 00:33  @TomTensfeldt     RT @hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
+327646003945684992  Apr 26 00:51  @drago_carlo      FasteR! HigheR! StongeR! - A Guide to Speeding Up R Code for Busy People http://prsm.tc/SyaICk via @prismatic #Programming #Rstats
+327647049497579520  Apr 26 00:55  @raviupanishad    RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327654312748650496  Apr 26 01:24  @geoffjentry      RT @SAGRudd: A brainfuck interpreter for R = #mindboggling language package for #rstats @ http://buff.ly/YWVCiu
+327657856243470337  Apr 26 01:38  @ialuronico       RT @zentree: 'Learning to code in #Rstats' in Quantum Forest. http://www.quantumforest.com/2013/04/learning-to-code-in-r/
+327661112512348160  Apr 26 01:51  @chlalanne        RT @hadleywickham: devtools 1.2 released: http://blog.rstudio.org/2013/04/17/devtools-1-2/ #rstats
+327661430490939392  Apr 26 01:52  @griverorz        RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327661434735566848  Apr 26 01:52  @chlalanne        RT @zentree: 'Learning to code in #Rstats' in Quantum Forest. http://www.quantumforest.com/2013/04/learning-to-code-in-r/
+327663014776012800  Apr 26 01:58  @winston_chang    RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327663227636944896  Apr 26 01:59  @BrynRWilliams    RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327663545749737472  Apr 26 02:00  @my_witz_end      RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327665492305260544  Apr 26 02:08  @zoltanvarju      RT @zentree: 'Learning to code in #Rstats' in Quantum Forest. http://www.quantumforest.com/2013/04/learning-to-code-in-r/
+327666275759304704  Apr 26 02:11  @estebanmoro      RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327667180860755968  Apr 26 02:15  @iamdavecampbell  Awesome! RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327668766760636418  Apr 26 02:21  @Rbloggers        Learning to code in R:  (This article was first published on   Quantum Forest » rblogs, and kindly c... http://bit.ly/1808f0f #rstats
+327680841188773888  Apr 26 03:09  @z6lc7vj7v        RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327680980427083776  Apr 26 03:10  @whitcher         @m_wall @seanfw Don't know about guidelines but check out the medical imaging task view at http://cran.r-project.org for examples #rstats
+327681132332187650  Apr 26 03:10  @3wen             (via http://bit.ly/ZR16vi) MT @noamross: My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327681306370650112  Apr 26 03:11  @alizardx         RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327683760084615171  Apr 26 03:21  @lgatt0           RT @Bioconductor: #Bioconductor / #rstats 2013 conference updated sponsors, speakers, activities, and deadlines http://bit.ly/12Wr2ww.
+327684589625688064  Apr 26 03:24  @conjugateprior   RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+327686716443996160  Apr 26 03:32  @drchriscole      RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327687367098003456  Apr 26 03:35  @useR_2013        #useR2013 #rstats Tutorial: Programming with Big Data in R. http://161.67.142.97/congresos/useR-2013/Tutorials/Ostrouchov.html
+327687368733753344  Apr 26 03:35  @DonGoginho       RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327687733151670272  Apr 26 03:36  @VidCanC          RT @useR_2013: #useR2013 #rstats Tutorial: Programming with Big Data in R. http://161.67.142.97/congresos/useR-2013/Tutorials/Ostrouchov.html
+327693014875127808  Apr 26 03:57  @ronert_obst      RT @iamdavecampbell: Awesome! RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://t.co/wjpWDCK1ic
+327693578451169280  Apr 26 04:00  @eaxitect         RT @useR_2013: #useR2013 #rstats Tutorial: Programming with Big Data in R. http://161.67.142.97/congresos/useR-2013/Tutorials/Ostrouchov.html
+327702740983758848  Apr 26 04:36  @datennutzen      Debugging und Profiling mit #rstats am 16. Mai 2013 bei der Kasseler useR Group by eoda http://bit.ly/13z3OJa
+327704057944883200  Apr 26 04:41  @erikgahner       RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327707747057532928  Apr 26 04:56  @Aidan_M_Keith    break up problems into chunks MT@Rbloggers: Learning to code in R:ly c... http://bit.ly/1808f0f #rstats
+327719064820654082  Apr 26 05:41  @superbobry       RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327729881758711808  Apr 26 06:24  @HarlanH          RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327732066739429376  Apr 26 06:33  @jcborras         No, using *ply or *pply it's not pedantic for the same reason you use a computer for many tasks instead of pen and paper. #rstats
+327744875544064000  Apr 26 07:24  @bendesky         RT @ramnath_vaidya: Reinhart-Rogoff Study visualized with rCharts and Shiny http://glimmer.rstudio.com/ramnathv/rChartsRogoff/ #rstats @simplystats @StatModeling http://t.co/hhBwViRhBf
+327756515194839040  Apr 26 08:10  @01fetischist     RT @datennutzen: Debugging und Profiling mit #rstats am 16. Mai 2013 bei der Kasseler useR Group by eoda http://bit.ly/13z3OJa
+327757227341529088  Apr 26 08:13  @IronistM         Reinhart-Rogoff Study visualized with rCharts and Shiny  http://bit.ly/17ZVJOc #rstats @simplystats @StatModeling http://bit.ly/17ZVJhe
+327757882449862657  Apr 26 08:15  @tomjwebb         Course, Barcelona Oct 7-11: Disentangling Evolutionary Relationships with Phylogenetic Comparative Methods http://bit.ly/11JsPjy #rstats
+327758579551584256  Apr 26 08:18  @Rbloggers        The Financial Crisis on Tape Part II:  (This article was first published on   Joe's Data Diner, and ... http://bit.ly/181e4ue #rstats
+327764839978119169  Apr 26 08:43  @kartik_sxn       RT @kdnuggets: Sound of #BigData and Million Songs Dataset: video map of the hottest songs in the US #rstats http://bit.ly/PWvW2A
+327768928505966594  Apr 26 08:59  @gappy3000        all, how was @hadleywickham at NYHackr yesterday? @jaredlander will you post a video for the rest of us? #rstats

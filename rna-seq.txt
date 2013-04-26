@@ -1230,3 +1230,20 @@
 327486182567075840  Apr 25 14:16  @genetics_blog    Analysis and design of RNA-seq for identifying RNA editing and single-nucleotide variants http://rnajournal.cshlp.org/content/early/2013/04/18/rna.037903.112.long #bioinformatics @myen
 327487451973173249  Apr 25 14:21  @stochastic_jedi  RT @genetics_blog: Analysis and design of RNA-seq for identifying RNA editing and single-nucleotide variants http://rnajournal.cshlp.org/content/early/2013/04/18/rna.037903.112.long #bioinformatics @myen
 327492830245289984  Apr 25 14:42  @LilithElina      Hey #science people! Do you know any interesting (and probably new) #bioinformatics papers, preferably about #RNA-Seq in #bacteria? Or #SNPs
+327511487918776321  Apr 25 15:56  @NucDiv           Analysis and design of RNA-seq for identifying RNA editing and single-nucleotide variants http://flip.it/oFRCX #bioinformatics @myen
+327518248000176128  Apr 25 16:23  @galaxyproject    The Tuxedo RNA-Seq analysis tool set (Bowtie, Tophat, Cufflinks, Cuffmerge, ...) now has a user support forum http://bit.ly/tuxedornaseq
+327518329742970880  Apr 25 16:23  @lizworthey       JdD: Suggesting reflex to RNA_Seq testing for uncertain variants in some cases where variant looks promising for RNA change #mutdet
+327518771667410944  Apr 25 16:25  @SahaSurya        RT @galaxyproject: The Tuxedo RNA-Seq analysis tool set (Bowtie, Tophat, Cufflinks, Cuffmerge, ...) now has a user support forum http://t.co/WJDGiy2pru
+327521812361650176  Apr 25 16:37  @bffo             RT @galaxyproject: The Tuxedo RNA-Seq analysis tool set (Bowtie, Tophat, Cufflinks, Cuffmerge, ...) now has a user support forum http://t.co/WJDGiy2pru
+327523388530761729  Apr 25 16:43  @stochastic_jedi  RT @galaxyproject: The Tuxedo RNA-Seq analysis tool set (Bowtie, Tophat, Cufflinks, Cuffmerge, ...) now has a user support forum http://t.co/WJDGiy2pru
+327573051808034816  Apr 25 20:01  @vsbuffalo        @Graham_Coop @mbeisen Do you mean in RNA-seq? Quantile is far better than scaling factor based normalization (i.e. RPKM).
+327573893621624834  Apr 25 20:04  @vsbuffalo        @mbeisen @graham_coop For RNA-seq, scaling factors impose null H. Slide 36 from Dudoit's April 9, 2010 talk is great: http://bit.ly/13ykQac
+327605693421080577  Apr 25 22:10  @rnomics          RNA-Seq analyses reveal the order of tRNA processing events and the maturation of C/D box and CRISPR RNAs in the hyperthermophile Methano...
+327616612070981632  Apr 25 22:54  @rnomics          RNA-Seq analyses reveal the order of tRNA processing events and the maturation of C/D box and CRISP... http://bit.ly/11Xaw8U #NAR @MyEN
+327640256914538496  Apr 26 00:28  @rnomics          Time Series Expression Analyses Using #RNA-seq: A Statistical Approach http://bit.ly/14UgTBr #WWS @MyEN
+327711491455336449  Apr 26 05:11  @kiwi_k1          RT @galaxyproject: The Tuxedo RNA-Seq analysis tool set (Bowtie, Tophat, Cufflinks, Cuffmerge, ...) now has a user support forum http://t.co/WJDGiy2pru
+327711657948237825  Apr 26 05:12  @razoralign       Analysis and design of RNA-Seq for identifying RNA editing / single-nucleotide variants: RDD解析におけるストラテジー毎の統計的有意性の評価設計 http://rnajournal.cshlp.org/content/early/2013/04/18/rna.037903.112.full.pdf
+327761482420998145  Apr 26 08:30  @EduEyras         Nice summary and picture about methods to analyze RNA-Seq for isoform quantification and diff. splicing  http://seqanswers.com/forums/showpost.php?p=102911&postcount=60
+327765593824575488  Apr 26 08:46  @tebubio          #SFGCurie2013: Poster Session! It’s time to learn more about the revolution in RNA-seq....(http://bit.ly/ZOwrhg) #TotalScript
+327766067025940480  Apr 26 08:48  @fiamh            RT @EduEyras: Nice summary and picture about methods to analyze RNA-Seq for isoform quantification and diff. splicing  http://t.co/Hc16hDB3UO
+327766517867495426  Apr 26 08:50  @laxvid           RT @EduEyras: Nice summary and picture about methods to analyze RNA-Seq for isoform quantification and diff. splicing  http://t.co/Hc16hDB3UO
