@@ -7609,3 +7609,885 @@
 327761975255912448  Apr 26 08:31  @Karelman         Bioinformatics is out! http://paper.li/Karelman/1353414629 ▸ Top stories today via @lukejostins @genetics_blog @metagenomics
 327763342208937984  Apr 26 08:37  @Emory_R          RT @FierceBiotech: From http://FierceBiotechIT.com: 'Jeff Bezos of #bioinformatics' finds capital and customers for #startup http://t.co/DOS2CGe5lD
 327766258625949696  Apr 26 08:49  @bjovicic         RT @SBGenomics: Final answer submitted to @GenomeBio DNA60 Bioinformatics Challenge from our camp by @lingerzl. #DNA60IFX
+327769225848573954  Apr 26 09:00  @AdamHargreaves5  My current challenge in bioinformatics is having an incompetent IT department...
+327769885990080512  Apr 26 09:03  @currentprotocol  Proteomics & the Analysis of Proteomic Data: Protein‐Profiling Technologies #CurrentProtocols #CP #Bioinformatics http://ow.ly/ks3gc
+327771692539719680  Apr 26 09:10  @softbuz          The Digital Seed Vault 0.5.0 (Other): The Digital Seed Vault A seed stock database mainly developed for resear... http://bit.ly/12sPIcm
+327774524345032706  Apr 26 09:21  @ch_frei          RT @DidacBiol: Canada invests in research; what a progress! RT @BiologyMews. #Bioinformatics and Computational biology. http://t.co/n25XKX8TIX
+327775460878602244  Apr 26 09:25  @ontariogenomics  7 Ontario-led projects funded in @GenomeCanada Bioinformatics comp w/ @CIHR_IRSC - investment in Ont rsch = $4.7M http://ow.ly/kr4wv
+327777326052024320  Apr 26 09:32  @lexnederbragt    RT @genetics_blog: Cool. Snakemake for managing workflows in #Bioinformatics https://bitbucket.org/johanneskoester/snakemake/wiki/Home paper: http://bioinformatics.oxfordjournals.org/content/28/19/2520. h/t @intipedroso
+327778359977336832  Apr 26 09:37  @moorejh          my #bioinformatics intro for path residents 1) #genomics 2) databases 3) data integration 4) web tools 5) #machinelearning 6) #visualization
+327778746885087232  Apr 26 09:38  @GenomeBiology    If you missed it yesterday - the TopHat2 paper is now out http://bit.ly/12nGqhL Time to get splice-aligning! #bioinformatics #genomics #oa
+327778889210413056  Apr 26 09:39  @nextgenseek      RT @GenomeBiology: If you missed it yesterday - the TopHat2 paper is now out http://bit.ly/12nGqhL Time to get splice-aligning! #bioinformatics #genomics #oa
+327779040486363136  Apr 26 09:39  @Nasser_GH        @MohDul  لمن جيت بتكلم عن bioinformatics  حسيت زي احساسك الحين لمن محد عطاني وجه :p
+327779761415929856  Apr 26 09:42  @moorejh          A robustness study of par/non-par tests in model-based MDR for #epistasis detection http://www.biodatamining.org/content/6/1/9/abstract #genomics #bioinformatics
+327781087092805632  Apr 26 09:47  @roberternst      RT @genetics_blog: Cool. Snakemake for managing workflows in #Bioinformatics https://bitbucket.org/johanneskoester/snakemake/wiki/Home paper: http://bioinformatics.oxfordjournals.org/content/28/19/2520. h/t @intipedroso
+327781379314155520  Apr 26 09:49  @CamGameCreators  New research projects enhance bioinformatics, computational biology tools: $11 million in... http://bit.ly/14jKZO5 #gpgpu #hpc #compute
+327782313415016448  Apr 26 09:52  @TommieHata       Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave - http://pulse.me/s/kWbBP
+327782490125254656  Apr 26 09:53  @BioCodersNet     RT @GenomeBiology: If you missed it yesterday - the TopHat2 paper is now out http://bit.ly/12nGqhL Time to get splice-aligning! #bioinformatics #genomics #oa
+327784355802005504  Apr 26 10:00  @subhamadhavan    #IOMPCORI workshop on Observational Studies in a Learning Health System http://ow.ly/ks0Wl application of data mining and bioinformatics
+327784706831691776  Apr 26 10:02  @BioInfo          RT @GenomeBiology: If you missed it yesterday - the TopHat2 paper is now out http://bit.ly/12nGqhL Time to get splice-aligning! #bioinformatics #genomics #oa
+327786414433501184  Apr 26 10:09  @ypriverol        Big biology: The ’omes puzzle http://www.nature.com/news/big-biology-the-omes-puzzle-1.12484 #proteomics #genomics #bioinformatics ... what about "omics" puzzle?
+327787016957865984  Apr 26 10:11  @mcaccamo         RT @froggleston: Still time to apply for jobs in the Seq Informatics team at @GenomeAnalysis! http://bit.ly/12lokNp http://bit.ly/XYD3gq #bioinformatics
+327788177081368576  Apr 26 10:16  @Bonnieera7730    #ladygaga Transactions on Computational Biology & Bioinformatics: Transactions on Computational Biology and Bi... http://q.gs/48hGY
+327790722856148994  Apr 26 10:26  @SC_Online        New research projects enhance bioinformatics, computational biology tools http://dlvr.it/3Hd2wm
+327794172851531776  Apr 26 10:39  @robin_andersson  RT @GenomeBiology: If you missed it yesterday - the TopHat2 paper is now out http://bit.ly/12nGqhL Time to get splice-aligning! #bioinformatics #genomics #oa
+327796740474404864  Apr 26 10:50  @UofTNews         Two #UofT research projects have won $1 million each in Canadian government funding for #bioinformatics: http://bit.ly/15M9BPz
+327798449179344897  Apr 26 10:56  @UofTGradlife     RT @UofTNews: Two #UofT research projects have won $1 million each in Canadian government funding for #bioinformatics: http://t.co/zOinhkwpBL
+327798596189700097  Apr 26 10:57  @AishwaryaRavi13  RT @UofTNews: Two #UofT research projects have won $1 million each in Canadian government funding for #bioinformatics: http://t.co/zOinhkwpBL
+327799351780970496  Apr 26 11:00  @damaskoschris    Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave | TechCrunch http://tcrn.ch/ZmmgFj
+327800701021478912  Apr 26 11:05  @Drinker_Health   #Bioinformatics: .@Stanford seeks to use #EHR data to predict harmful #drug side effects before #FDA alert: http://www.forbes.com/sites/zinamoukheiber/2013/04/10/mining-electronic-health-records-reveals-clues-of-harmful-drug-reactions/ .@Forbes
+327803615244873728  Apr 26 11:17  @ProfLHunter      Thx! RT @ian_harrow: Excellent review from @ProfLHunter Text Mining for Translational Bioinformatics @ploscompbiol @http://t.co/CLHNwG8zLe
+327805109922824192  Apr 26 11:23  @lachlancoin      Our @BBSRC tools and development grant led to 3 publications so far http://bit.ly/ZzMl4M http://bit.ly/14khVGo http://bit.ly/14VQWBo
+327805538689773570  Apr 26 11:25  @UofTNews         #Bioinformatics funding from the Canadian government will allow #UofT researchers to test & refine software: http://bit.ly/10hjHj8
+327805567584313344  Apr 26 11:25  @isugif           RT @genetics_blog: bioawk https://github.com/lh3/bioawk/blob/master/README.bio #bioinformatics #awk
+327805856185999360  Apr 26 11:26  @GEANTnews        Learn how ORIENTplus is enabling collaborative #genome research between #Europe & #China http://tinyurl.com/cr79rch @emblebies #bioinformatics
+327806443212394496  Apr 26 11:28  @phd_jobs         Bioinformatics Associate Research Scientist - St. Jude Children's Research Hospital is a world-renowned institutio... http://ow.ly/2wrNs9
+327806513274036225  Apr 26 11:28  @naturejobs_feed  Bioinformatics Associate Research Scientist - St. Jude Children's Research Hospital is a world-renowned institutio... http://ow.ly/2wrNeI
+327807338142629888  Apr 26 11:32  @mcaccamo         RT @lachlancoin: Our @BBSRC tools and development grant led to 3 publications so far http://bit.ly/ZzMl4M http://bit.ly/14khVGo http://t.co/86OlNkhxmY
+327808372713861120  Apr 26 11:36  @richardmleggett  RT @froggleston: Still time to apply for jobs in the Seq Informatics team at @GenomeAnalysis! http://bit.ly/12lokNp http://bit.ly/XYD3gq #bioinformatics
+327809127126548481  Apr 26 11:39  @sjackman         RT @GenomeBC: BC researchers take lion’s share of funds in national #bioinformatics competition http://ow.ly/kqrgv #genomics @CMMT_UBC @UBC @SFU
+327810103199805441  Apr 26 11:43  @sjackman         RT @vsbuffalo: With @Github around, there's really no excuse for hosting bioinformatics programs as an unversioned .tar.gz on your academic homepage.
+327810437573922816  Apr 26 11:44  @genetics_blog    Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+327811105189687297  Apr 26 11:47  @sciencepostings  Bioinformatics Associate Research Scientist: St. Jude Children’s Research Hospital is a world-renowned institu... http://bit.ly/15WDL2t
+327812000933621761  Apr 26 11:50  @AndersGabriella  RT @ProfLHunter: Thx! RT @ian_harrow: Excellent review from @ProfLHunter Text Mining for Translational Bioinformatics @ploscompbiol @http://t.co/CLHNwG8zLe
+327812138800390144  Apr 26 11:51  @hiro_h           RT @genetics_blog: Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+327813575085260800  Apr 26 11:57  @BBSRC            RT @lachlancoin: Our @BBSRC tools and development grant led to 3 publications so far http://bit.ly/ZzMl4M http://bit.ly/14khVGo http://t.co/86OlNkhxmY
+327814339140653056  Apr 26 12:00  @biotechcalendar  Functional Genomics and Systems Biology Intensive Training Course http://hub.am/10hyYjT #RNAResearch #Bioinformatics #Genetics #UKEvent
+327814354961567744  Apr 26 12:00  @hnOPM            Counsyl is Pioneering A New Bioinformatics Wave https://news.ycombinator.com/item?id=5599134
+327815297593643009  Apr 26 12:03  @sjackman         RT @genetics_blog: Cool. Snakemake for managing workflows in #Bioinformatics https://bitbucket.org/johanneskoester/snakemake/wiki/Home paper: http://bioinformatics.oxfordjournals.org/content/28/19/2520. h/t @intipedroso
+327815511364747264  Apr 26 12:04  @sjackman         RT @GenomeBiology: If you missed it yesterday - the TopHat2 paper is now out http://bit.ly/12nGqhL Time to get splice-aligning! #bioinformatics #genomics #oa
+327820385682870272  Apr 26 12:24  @DanPurvis        The new disruptive tech? "Thru..Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave" http://buff.ly/14RVoBg @TechCrunch
+327820472022597632  Apr 26 12:24  @kiwi_k1          RT @genetics_blog: Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+327820966992429056  Apr 26 12:26  @theoneamit       RT @JohnMHancock: Protein–protein interactions: switch from classical methods to proteomics and bioinformatics-based approaches http://t.co/YwVhztqIxO #notOA
+327821216666775555  Apr 26 12:27  @lhamaker9        Henry's tiny sock in my pocket to make me feel like titanium. Have to argue my case again today for my dream of bioinformatics. #myway
+327822646458843136  Apr 26 12:33  @searchresume     Quality Control Assurance Curriculum Vitae Experience in bhubaneswar, OR, 751019, India: odisha http://postjobfree.com/resume/abs07z
+327823668585570305  Apr 26 12:37  @rnomics          Top #tweeted story in #bioinformatics: Harvard Professor Re-Identifies Anonymous Vo… http://www.forbes.com/sites/adamtanner/2013/04/25/harvard-professor-re-identifies-anonymous-volunteers-in-dna-study, see more http://tweetedtimes.com/rnomics/bioinfo
+327825245471928321  Apr 26 12:43  @genetics_blog    A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+327827387695894528  Apr 26 12:51  @stochastic_jedi  RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+327827661885952002  Apr 26 12:52  @n5jky            @W0EA @la4sga @ke9v The Mac I have at work is new and loaded for bioinformatics bear, but that does me no good at home
+327829335119634433  Apr 26 12:59  @CantuLab         RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+327829417030193153  Apr 26 12:59  @razZ0r           RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+327830013137272832  Apr 26 13:02  @Tabloidmed       Consumer driven genomics  http://www.fiercebiotechit.com/story/jeff-bezos-bioinformatics-finds-capital-and-customers-startup/2013-04-25
+327831918437605376  Apr 26 13:09  @jpmattos         It's good to see experimental researchers convinced that bioinformatics is also a source of new hypothesis, a "fresh eye" for their findings
+327833027789090816  Apr 26 13:14  @bestjobsonline   Bioinformatics/Genomic Lead - http://bit.ly/11qaPub #jobs #RandstadTechnologies #Cambridge
+327833541142528001  Apr 26 13:16  @dnanexus         RT @genetics_blog: Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+327837013757800448  Apr 26 13:30  @righelp          Bio Careers: Bioinformatics Associate Research Scientist (Memphis, Tennessee) http://bit.ly/10G8rnQ  #OilrigJobs
+327837088433180672  Apr 26 13:30  @righelp          Bio Careers: Bioinformatics Research Scientist (Memphis, Tennessee) http://bit.ly/10G8vE0  #OilrigJobs
+327837113506754560  Apr 26 13:30  @righelp          Bio Careers: Bioinformatics Faculty Positions (open rank and multiple positions) (Blacksburg, Virginia) http://bit.ly/10G8ujt  #OilrigJobs
+327840927014084608  Apr 26 13:45  @CMMT_UBC         Congratulations to our Co-Director Dr. Wyeth Wasserman! Recipient of 2013 UBC Killam Teaching Prize  http://ow.ly/ksN7M #Bioinformatics
+327841904291102720  Apr 26 13:49  @PrevGenetics     Next-Gen sequencing computer scientist job at PreventionGenetics http://preventiongenetics.com/files/8413/6277/5522/CS_NextGen_bulleted-2.pdf #bioinformatics #job http://preventiongenetics.com/careers/
+327842323625033728  Apr 26 13:51  @endnilsson       Use of next gen. sequencing to analyse RNA gene expression levels http://www.biomedcentral.com/1471-2105/14/91 #bioinformatics #geneexpression
+327842581893496832  Apr 26 13:52  @MaRSInnovation   RT @UofTNews: #Bioinformatics funding from the Canadian government will allow #UofT researchers to test & refine software: http://t.co/eYQXZxn0Gr
+327843242295062528  Apr 26 13:54  @natferraro       #Bioinformatics funding from the Can government will allow #UofT researchers to test & refine software: http://bit.ly/10hjHj8 @fosterg88
+327843732269432834  Apr 26 13:56  @RAGladstone      Bioinformatics has warped my perception of the world around me :-/ http://t.co/L2QaEJQ6ao
+327844782183432192  Apr 26 14:01  @expatjoboffers   Bioinformatics Associate Research Scientist - United States http://bit.ly/182x8Z8  #expat #jobs
+327845058340605953  Apr 26 14:02  @Podcasts_now     How Genomics and Bioinformatics are Changing the Practice and Business of Medicine http://dlvr.it/3HgS1M
+327845320690118656  Apr 26 14:03  @HeyYoungc        News -Web based research: Bioinformatics - http://is.gd/gyPAJV
+327848041946152962  Apr 26 14:13  @Ezrathewuff      Oh god, we'd better not have TWO assignments to do for bioinformatics today. Nope nope nope. Ain't nobody got time fo dat!
+327848345592815618  Apr 26 14:15  @promocalendars   "Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave"  http://buff.ly/Zo4EcV
+327848832396312577  Apr 26 14:17  @altrickter       RT @RAGladstone: Bioinformatics has warped my perception of the world around me :-/ http://t.co/L2QaEJQ6ao
+327848942211575808  Apr 26 14:17  @NeuroDevNet      RT @CMMT_UBC: Congratulations to our Co-Director Dr. Wyeth Wasserman! Recipient of 2013 UBC Killam Teaching Prize  http://ow.ly/ksN7M #Bioinformatics
+327849110096969728  Apr 26 14:18  @heyaudy          RT @RAGladstone: Bioinformatics has warped my perception of the world around me :-/ http://t.co/L2QaEJQ6ao
+327849346550870018  Apr 26 14:19  @BioDataGanache   How important is it to give your new bioinformatics method a cutesy name? A re-post of my analysis on this http://jasonya.com/wp/how-important-is-having-a-name-for-your-computational-method/
+327849745001353217  Apr 26 14:20  @levm_94          Bioinformatics for dummies! hahahaha enserio!?
+327849798612955136  Apr 26 14:20  @jennomics        RT @RAGladstone: Bioinformatics has warped my perception of the world around me :-/ http://t.co/L2QaEJQ6ao
+327850866105262080  Apr 26 14:25  @gedankenstuecke  RT @RAGladstone: Bioinformatics has warped my perception of the world around me :-/ http://t.co/L2QaEJQ6ao
+327852084626071555  Apr 26 14:30  @JobSearchProcom  Bioinformatics Associate Research Scientist-United States-Memphis http://bit.ly/ZMOubG  #Jobs
+327852165030875137  Apr 26 14:30  @JobSearchProcom  Bioinformatics Faculty Positions (open rank and multiple positions)-United States-Blacksburg http://bit.ly/ZMOys2  #Jobs
+327852169896267776  Apr 26 14:30  @JobSearchProcom  Bioinformatics Research Scientist-United States-Memphis http://bit.ly/ZMOyIo  #Jobs
+327853695817617408  Apr 26 14:36  @vbi_vt           Video: GOlab preview. This plus kid's events like 3-story egg drop and more tomorrow 10-3. FREE! #bioinformatics http://bit.ly/ZTyyjR
+327854849813254144  Apr 26 14:41  @Ezrathewuff      Thanks bioinformatics for adding two more assignments to the list of things to be done for next week!!
+327858433078476801  Apr 26 14:55  @NS_LifeSciences  Perl - Bioinformatics Programmer  - Cambridge, England - Paramount Recruitment #lifesciences #jobs http://jobs.newscientist.com/job/1401431076/perl-bioinformatics-programmer-/?TrackID=24920
+327858720937746434  Apr 26 14:56  @Jobalized        #job Bioinformatics Associate Research #Scientist #Memphis, Tennessee Open: Bioinformatics Associate... http://dlvr.it/3HgwLX #jobs
+327859778569244673  Apr 26 15:00  @geekeconomist    RT @GEANTnews: Learn how ORIENTplus is enabling collaborative #genome research between #Europe & #China http://tinyurl.com/cr79rch @emblebies #bioinformatics
+327861005596127232  Apr 26 15:05  @IRIC_UdeM        Researcher from IRIC gets $1M from Genome Canada to support development of bioinformatics tools applied to proteomics http://shar.es/lngq1
+327862988612714497  Apr 26 15:13  @Bacterioskeptic  RT @RAGladstone: Bioinformatics has warped my perception of the world around me :-/ http://t.co/L2QaEJQ6ao
+327864881942515713  Apr 26 15:20  @SahaSurya        Boosting the Detection of Transposable Elements Using #MachineLearning  http://link.springer.com/chapter/10.1007/978-3-319-00578-2_12 #transposons #bioinformatics
+327865781675233280  Apr 26 15:24  @arnim_w          RT "@RAGladstone: Bioinformatics has warped my perception of the world around me :-/ http://t.co/bYrs4NvE9F"
+327866652546973697  Apr 26 15:27  @BioInformGW      April's Bioinformatics Papers of Note http://bit.ly/14lFy1k
+327866693349175296  Apr 26 15:28  @7thSpaceCom      News: Standardization of human stem cell pluripotency using bioinformatics - http://7thspace.com/go/436568/
+327869270434390017  Apr 26 15:38  @singulr          Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave - For cynics who say... http://tmblr.co/ZbItHyjbRi9W
+327869446221869057  Apr 26 15:39  @JokeReumers      RT @genetics_blog: Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+327870907462852611  Apr 26 15:44  @jlvazpol         And another academic year is over for our #Master in #Bioinformatics (http://masterbioinformatica.com/)! Attending gala dinner at S. Bernabeu Stadium.
+327876476802330625  Apr 26 16:06  @wikipolis        Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave http://techcrunch.com/2013/04/23/counsyl/
+327879666692145152  Apr 26 16:19  @SC_Online        New research projects enhance bioinformatics, computational biology tools http://dlvr.it/3HhXxL
+327879858048868353  Apr 26 16:20  @medstudentwiki   Bioinformatics: Genes, Proteins and Computers (Advanced Texts) http://qk1.us/3HhZMs #biochem
+327879859764342784  Apr 26 16:20  @medstudentwiki   Bioinformatics: Genes, Proteins and Computers (Advanced Texts) http://qk1.us/3HhZNr #micro
+327880627762388992  Apr 26 16:23  @SahaSurya        PASQUAL: Parallel Techniques for Next Generation Genome Sequence Assembly http://www.computer.org/csdl/trans/td/2013/05/ttd2013050977-abs.html #bioinformatics #NGS
+327880826236850177  Apr 26 16:24  @NowOverAndOut    "reformatting this file shouldn't take very long" #statementsThatArePredominantlyFalse #bioinformatics
+327884335254474752  Apr 26 16:38  @dkemmer34        RT @CMMT_UBC: Congrats Wyeth! Recipient of 2013 UBC Killam Teaching Prize  http://ow.ly/ksN7M #Bioinformatics
+327884988588621824  Apr 26 16:40  @ontariogenomics  RT @sickkidsnews: 2 SickKids-led teams awarded bioinformatics & computational biology grants from @GenomeCanada & @ontariogenomics:...
+327887310781825024  Apr 26 16:50  @ngsgene          Good One! MT @ypriverol Big biology The ’omes puzzle http://www.nature.com/news/big-biology-the-omes-puzzle-1.12484 … #proteomics #genomics #bioinformatics #ngs
+327888926150885376  Apr 26 16:56  @jennomics        RT @SahaSurya: PASQUAL: Parallel Techniques for Next Generation Genome Sequence Assembly http://www.computer.org/csdl/trans/td/2013/05/ttd2013050977-abs.html #bioinformatics #NGS
+327888996078325761  Apr 26 16:56  @ngsgene          Emperor has no clothes! Dangers of publicly available #sequencing data: http://www.forbes.com/sites/adamtanner/2013/04/25/harvard-professor-re-identifies-anonymous-volunteers-in-dna-study/ #bioinformatics #ngs #genomics #Harvard
+327889801531498497  Apr 26 16:59  @AMathelier       RT @CMMT_UBC: Congratulations to our Co-Director Dr. Wyeth Wasserman! Recipient of 2013 UBC Killam Teaching Prize  http://ow.ly/ksN7M #Bioinformatics
+327895367767183360  Apr 26 17:22  @robinysmith      Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave | TechCrunch http://buff.ly/11AKpYj
+327897235146813440  Apr 26 17:29  @apfejes          RT @CMMT_UBC: Congratulations to our Co-Director Dr. Wyeth Wasserman! Recipient of 2013 UBC Killam Teaching Prize  http://ow.ly/ksN7M #Bioinformatics
+327899464008351745  Apr 26 17:38  @SahaSurya        Plantagora: Modeling Whole Genome Sequencing and #Assembly of Plant Genomes http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0028436 #PLOSONE #bioinformatics
+327900568976769024  Apr 26 17:42  @julponchart      RT @SahaSurya: Boosting the Detection of Transposable Elements Using #MachineLearning  http://link.springer.com/chapter/10.1007/978-3-319-00578-2_12 #transposons #bioinformatics
+327902127475261441  Apr 26 17:48  @illumina         RT @GenomeScience: Our #sequencing ctr has new blog - http://ow.ly/ko4lL check out "highly multiplexed 16s sequencing on MiSeq" #bioinformatics #genomics
+327905011352879105  Apr 26 18:00  @sstava           Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave http://tcrn.ch/15GZQSI #startup
+327905152285687808  Apr 26 18:00  @RTStartups       RT @sstava: Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave http://tcrn.ch/15GZQSI #startup
+327905325539794945  Apr 26 18:01  @Ferdix           RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+327905522311368705  Apr 26 18:02  @startups_rt      RT @sstava: Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave http://tcrn.ch/15GZQSI #startup
+327907458221752320  Apr 26 18:10  @peccoud          Join us: open Faculty Positions at the Virginia Bioinformatics Institute http://ow.ly/ksKFK
+327907892369973248  Apr 26 18:11  @assemblathon     “@SahaSurya: PASQUAL: Parallel Techniques for Next Generation Genome Sequence Assembly http://www.computer.org/csdl/trans/td/2013/05/ttd2013050977-abs.html #bioinformatics #NGS”
+327912264361459712  Apr 26 18:29  @kiharalab        Protein Function Prediction for Omics Era (D. Kihara ed.), http://alturl.com/e88qu http://alturl.com/fxe35  #bioinformatics @SpringerSysBio
+327912811852341248  Apr 26 18:31  @Genome10K        RT @assemblathon: “@SahaSurya: PASQUAL: Parallel Techniques for Next Generation Genome Sequence Assembly http://www.computer.org/csdl/trans/td/2013/05/ttd2013050977-abs.html #bioinformatics #NGS”
+327915011689299971  Apr 26 18:40  @msfhr            Congrats to MSFHR Scholar @sohrabshah on receiving two @CIHR_IRSC/@genomecanada bioinformatics grants! http://molonc.bccrc.ca/shah_bcb/
+327917283240443904  Apr 26 18:49  @ExtensoIntel     RT @IRIC_UdeM: Researcher from IRIC gets $1M from Genome Canada to support development of bioinformatics tools applied to proteomics http://t.co/7ovCeLi8s4
+327920578092756992  Apr 26 19:02  @clingo           Detection is key - Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave http://tcrn.ch/15MFjMC #disruption
+327922026851491842  Apr 26 19:07  @rnomics          Top #tweeted story in #bioinformatics: Why predicting the phenotypic effect of muta… http://www.genomesunzipped.org/2013/04/why-predicting-the-phenotypic-effect-of-mutations-is-hard.php, see more http://tweetedtimes.com/rnomics/bioinfo
+327922736192172032  Apr 26 19:10  @Salameh_ar       Bioengineers Build Open Source Language for Programming Cells. http://www.wired.com/wiredenterprise/2013/04/bio-fab-open-source-language #bioinformatics #opensource #programming
+327923169950302208  Apr 26 19:12  @nwe23            RT @RAGladstone: Bioinformatics has warped my perception of the world around me :-/ http://t.co/L2QaEJQ6ao
+327924516313513985  Apr 26 19:17  @OmicsOmicsBlog   RT @GenomeScience: Our #sequencing ctr has new blog - http://ow.ly/ko4lL check out "highly multiplexed 16s sequencing on MiSeq" #bioinformatics #genomics
+327925356159971328  Apr 26 19:21  @KitKotte         Alert -Web based research: Bioinformatics - http://dld.bz/bJ5GS
+327926321638412288  Apr 26 19:25  @dgermain21       RT @GenomeScience: Our #sequencing ctr has new blog - http://ow.ly/ko4lL check out "highly multiplexed 16s sequencing on MiSeq" #bioinformatics #genomics
+327930873687191552  Apr 26 19:43  @Ilovepigenetics  RT @GenomeScience: Our #sequencing ctr has new blog - http://ow.ly/ko4lL check out "highly multiplexed 16s sequencing on MiSeq" #bioinformatics #genomics
+327938924481757184  Apr 26 20:15  @GuiomeNicolas    RT @SahaSurya: Plantagora: Modeling Whole Genome Sequencing and #Assembly of Plant Genomes http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0028436 #PLOSONE #bioinformatics
+327939557398036480  Apr 26 20:17  @GuiomeNicolas    RT @SahaSurya: PASQUAL: Parallel Techniques for Next Generation Genome Sequence Assembly http://www.computer.org/csdl/trans/td/2013/05/ttd2013050977-abs.html #bioinformatics #NGS
+327941720945864706  Apr 26 20:26  @ctitusbrown      @karmel_a I don't think you're just doing bioinformatics...
+327943079128596482  Apr 26 20:31  @heisenbergdog    Group Members, CIBIV - Center for Integrative Bioinformatics Vienna http://bit.ly/Y2XNDX
+327943079422214144  Apr 26 20:31  @snowtwhite       Group Members, CIBIV - Center for Integrative Bioinformatics Vienna http://bit.ly/Y2XNDX
+327943079443173376  Apr 26 20:31  @mkrpooh          Group Members, CIBIV - Center for Integrative Bioinformatics Vienna http://bit.ly/Y2XNDX
+327943079929716736  Apr 26 20:31  @kmrpooh          Group Members, CIBIV - Center for Integrative Bioinformatics Vienna http://bit.ly/Y2XNDX
+327949293065486336  Apr 26 20:56  @PennStateCSI     JOBS: Scientist II, Bioinformatics, Life Technologies - Austin, TX. http://www.indeed.com/m/viewjob?jk=ad5d0de97e222f1d&from=serp
+327953426581426176  Apr 26 21:12  @MenakaSanthush   Web based research: Bioinformatics - Helium http://goo.gl/niqhs
+327955668621475841  Apr 26 21:21  @mfuzail          Stumbled across #counsyl it's an interesting startup working on genetic testing. #bioinformatics
+327956307049062400  Apr 26 21:24  @realperfectnose  On being a #pet #bioinformatics officer http://biomickwatson.wordpress.com/2013/04/23/a-guide-for-the-lonely-bioinformatician/ #Science
+327959483080929283  Apr 26 21:36  @animesh1977      Measuring gene functional similarity based on group-wise comparison of GO terms http://bit.ly/14XfUjP
+327959485287124992  Apr 26 21:36  @animesh1977      LibSBMLSim: a reference implementation of fully functional SBML simulator http://bit.ly/17nIgRW
+327959487887593472  Apr 26 21:36  @animesh1977      KGVDB: a population-based genomic map of CNVs tagged by SNPs in Koreans http://bit.ly/14XfUk5
+327959490257379328  Apr 26 21:36  @animesh1977      OCSANA: Optimal Combinations of Interventions from Network Analysis http://bit.ly/14XfWrZ
+327959494447476736  Apr 26 21:36  @animesh1977      Incorporating Key Position and Amino Acid Residue Features to Identify General and Species-specific Ubiquitin C... http://bit.ly/17nIeJQ
+327959497089892353  Apr 26 21:36  @animesh1977      NetworkTrail - A web service for identifying and visualizing deregulated subnetworks http://bit.ly/17nIgRY
+327974661449187328  Apr 26 22:37  @sdbnjobs         SDBN Jobs: Software QA Engineer - PM Talent Global -  Solana Beach, CA: QA Engineer (Bioinformatics) Summary T... http://bit.ly/ZBKyvR
+327980795321020417  Apr 26 23:01  @jwatsondp        Anybody else using MS Office to create #bioinformatics solutions on Rosalind?
+327982745181634560  Apr 26 23:09  @jwatsondp        @BioDataGanache @andrewsu I use Word, Excel and Access to create #bioinformatics solutions on Rosalind.
+327983131242151939  Apr 26 23:10  @jwatsondp        @andrewsu I'm using MS Office to create #bioinformatics solutions on Rosalind.
+327988944409075712  Apr 26 23:33  @Aberystwyth_Job  Aberystwyth Jobs: Bioinformatician / Analyst - Plant Bioinformatics: Aberystwyth, Ceredigion -... http://dlvr.it/3HlgJP #Jobs #Aberystwyth
+327990401803894785  Apr 26 23:39  @chrisamiller     Why is bioinformatics code often ugly? Because a scientist's first priority is never programming. We have real shit to get done.
+327999929400295426  Apr 27 00:17  @chrisamiller     Big challenge of doing real research with bioinformatics is balancing quick answers against long-term solutions. There's a time for both.
+328001103855767552  Apr 27 00:22  @rnomics          Sequence Assembly - Home | Santa Fe Institute: 1Division of Genetics and Bioinformatics, IBHV, ...... http://bit.ly/12NEOkS #bing @MyEN
+328001106405900289  Apr 27 00:22  @rnomics          Publications - Bioinformatics Leipzig: bcheck: a wrapper tool for detecting #RNAse P #RNA genes BMC... http://bit.ly/Mgm19O #bing @MyEN
+328001110759583744  Apr 27 00:22  @rnomics          Kaushik Bhattacharjee | LinkedIn: ... Dept. of Biotechnology & Bioinformatics, North ... The... http://linkd.in/11JTq1f #bing @MyEN
+328015831835504641  Apr 27 01:20  @Geek_y           Interested in learning NGS Data Analysis ? A 5 day workshop http://www.interpretomics.co/education #NGS #Bioinformatics #Workshop @prahalad_ha
+328018851545624577  Apr 27 01:32  @rajdeeppoddar    News in Bioinformatics is out! http://paper.li/rajdeeppoddar/1358939090 ▸ Top stories today via @bioitworld
+328020452826042368  Apr 27 01:39  @rnomics          BMC Bioinformatics | Full text | A comparison of methods for differential expression... http://bit.ly/106CvFa #rnomics_bioinfo @MyEN
+328024778671796224  Apr 27 01:56  @vrraghy          If I buy a plot of land, I'll name it 'Ramachandran Plot' #Bioinformatics
+328025928166961153  Apr 27 02:00  @GTCbio           Bioinformatics & Data Management Strategies Workshop is on June 19 in San Francisco. Grab your seat at http://ht.ly/klNym
+328030681219338240  Apr 27 02:19  @MarionKoopmans   Reduced Tissue Repair by influenza infection results in Lethal Viral-Bacterial Coinfection in mouse model  http://sco.lt/5EGifZ
+328030749313863680  Apr 27 02:19  @ironorehopper    RT @MarionKoopmans: Reduced Tissue Repair by influenza infection results in Lethal Viral-Bacterial Coinfection in mouse model  http://t.co/TRiQb2tnhU
+328034481720147970  Apr 27 02:34  @larsjuhljensen   Chapter 16: Text Mining for Translational Bioinformatics http://feedly.com/k/ZNHU4O
+328036732152971264  Apr 27 02:43  @ynancy           RT @CMMT_UBC: Congratulations to our Co-Director Dr. Wyeth Wasserman! Recipient of 2013 UBC Killam Teaching Prize  http://ow.ly/ksN7M #Bioinformatics
+328039762248208386  Apr 27 02:55  @MarionKoopmans   Development of a transmission mouse model for dengue virus @scoopit http://sco.lt/5O96aP
+328040056537362432  Apr 27 02:56  @MarionKoopmans   And broader contaxt for Animal Models of Dengue Virus Infection. Each model had pro and con's | @scoopit http://sco.lt/8aGZHN
+328040275471634432  Apr 27 02:57  @DNADigest        RT @larsjuhljensen: Chapter 16: Text Mining for Translational Bioinformatics http://feedly.com/k/ZNHU4O
+328040299123322880  Apr 27 02:57  @mortm            RT @moorejh: my #bioinformatics intro for path residents 1) #genomics 2) databases 3) data integration 4) web tools 5) #machinelearning 6) #visualization
+328041045290016768  Apr 27 03:00  @expatjoboffers   Senior Bioinformatics Scientist - United States http://bit.ly/12OOHMQ  #expat #jobs
+328042526172913666  Apr 27 03:06  @SwissGator       Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave http://techcrunch.com/2013/04/23/counsyl/ via @TechCrunch
+328049185616171009  Apr 27 03:33  @DominiqueVanpee  RT @larsjuhljensen: Chapter 16: Text Mining for Translational Bioinformatics http://feedly.com/k/ZNHU4O
+328057617924644864  Apr 27 04:06  @animesh1977      Japan Bioinformatics Announces Release of a Case Study on Detecting SNPs ... - http://DigitalJournal.com (press release) http://bit.ly/10j8ONO
+328061820151689216  Apr 27 04:23  @phd_jobs         Field Application Scientist Bioinformatics - Life Technologies currently has a vacancy for an experienced molecula... http://ow.ly/2wsO8c
+328062955868532736  Apr 27 04:27  @Frederickavj614  New Research Projects to Enhance Bioinformatics and Computational Biology Tools and Methodologies: http://urlin.me/rqf4 #lasko
+328064848695009281  Apr 27 04:35  @cntalavera       RT @assemblathon: “@SahaSurya: PASQUAL: Parallel Techniques for Next Generation Genome Sequence Assembly http://www.computer.org/csdl/trans/td/2013/05/ttd2013050977-abs.html #bioinformatics #NGS”
+328072669377490944  Apr 27 05:06  @Buttons_Magnets  CHARLES DARWIN 6 Button Magnet set Science EVOLUTION, BIOLOGY, DNA, EVOLVE @eBay! http://r.ebay.com/EGKgcF #BIOLOGY #BIOINFORMATICS #ENGLAND
+328076960582479873  Apr 27 05:23  @YGFSnipez        anybody wana do my bioinformatics test for me? :)
+328078373123416064  Apr 27 05:29  @pfern            Mastery Learning in MOOCs | @scoopit via @AnaCristinaPrts http://sco.lt/6A3Bpp
+328079090089336832  Apr 27 05:32  @researchbible    4th International Conference on Computational Systems-Biology and Bioinformatics http://dlvr.it/3HpCRv ReseachBib
+328080813071667202  Apr 27 05:38  @AliMahmoudHabib  @ewanbirney @ajmackey am looking for PhD scholarship to study and search in the field of caner analysis and medication using bioinformatics
+328082064983351296  Apr 27 05:43  @YGFSnipez        come do mi bioinformatics test fi me RT @Jenablez I love Biology.
+328086362811146240  Apr 27 06:00  @lexnederbragt    RT @GenomeScience: Our #sequencing ctr has new blog - http://ow.ly/ko4lL check out "highly multiplexed 16s sequencing on MiSeq" #bioinformatics #genomics
+328087828154167296  Apr 27 06:06  @MatthewBashton   RT @vrraghy: If I buy a plot of land, I'll name it 'Ramachandran Plot' #Bioinformatics
+328092713062907904  Apr 27 06:26  @NYtelecomJOBS    Senior Bioinformatics Scientist - New York, NY #job #jobs #hiring #career http://bit.ly/14pG6mF
+328096500410351616  Apr 27 06:41  @skalvala         Game theory, bioinformatics, medicine... interdisciplinary science in action. http://www.independent.co.uk/life-style/health-and-families/features/this-chart-could-save-your-life-how-mathematicians-are-fighting-the-war-on-cancer-8586687.html via @Independent
+328098302321119232  Apr 27 06:48  @Bio_Careers      #JOB: Bioinformatics Faculty Positions, Virginia Bioinformatics Institute at Virginia Tech, Blacksburg, VA, http://bit.ly/ZNW9qa
+328099533470978048  Apr 27 06:53  @IBAB4            Japan Bioinformatics Announces Release of a Case Study on Detecting SNPs and Short INDELs Read more: http://www.digitaljournal.com/pr/1207818#ixzz2Reyi72WD
+328100391994658816  Apr 27 06:56  @IBAB4            Bioinformatics Software aids bio-design and gene synthesis. - http://news.thomasnet.com/fullstory/Bioinformatics-Software-aids-bio-design-and-gene-synthesis-20006551
+328101565061808129  Apr 27 07:01  @rnomics          Bioinformatics Answers: http://biostars.org posted by friends:  (1) @BioStarQuestion:... http://bit.ly/11KzbjN #rnomics_bioinfo @MyEN
+328106919837442050  Apr 27 07:22  @SonamShah2901    Stressful times. Phones going off. Needa concentrate #bioinformatics #mindfuck
+328111508687028224  Apr 27 07:40  @osazuwa          Two big data projects in medicine; the Beagle supercomputer and the Bionimbus Cloud. #datascience #bigdata http://ow.ly/ktSzr
+328118209213497345  Apr 27 08:07  @JessAzure        Mim asked me, "define a sexy guy"... unfortunately, I find it hard to answer that question.... lagi senang jawab bioinformatics question!
+328121575943593984  Apr 27 08:20  @usdotjobs        Bioinformatics Research Scientist for St. Jude Children's Research Hospital (Memphis, TN) http://bit.ly/ZD6RBi #jobs
+328124273510211585  Apr 27 08:31  @ypriverol        MODexplorer: an integrated tool for exploring protein sequence, structure and function relationships http://bioinformatics.oxfordjournals.org/cgi/content/long/btt062v2
+328124375528271872  Apr 27 08:32  @Karelman         Bioinformatics is out! http://paper.li/Karelman/1353414629 ▸ Top stories today via @Genomicswatch @attilacsordas @jrkelly
+328127825225842689  Apr 27 08:45  @donkeychallenge  #Recensioni: Sa Turra #bioinformatics http://is.gd/WGgOZk #amos #bottarga #burrida #cozze #cozzepanate
+328132249335767041  Apr 27 09:03  @joachimbaran     http://trenchescomic.com/tales/post/please-help-us-test-dont-report-bugs Describing testing experience in gaming industry -- no lessons learned. Probably just the same in bioinformatics.
+328141448040038400  Apr 27 09:39  @aminusfu         RT @vsbuffalo: With @Github around, there's really no excuse for hosting bioinformatics programs as an unversioned .tar.gz on your academic homepage.
+328145383299612674  Apr 27 09:55  @DataDiviner      It is becoming clear that #bioinformatics needs to be a data engineering field, and it currently isn't.  Look 4 next piece on @BioCodersNet
+328148102106189826  Apr 27 10:06  @HeloisedDufour   RT @BorisAdryan: Very nice tool, this http://med.kuleuven.be/lcb/i-cisTarget/ i-CisTarget. Makes a whole lot of bioinformatics accessible to bench biologists.
+328165376338821120  Apr 27 11:14  @marc_rr          RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+328167847840870401  Apr 27 11:24  @flashton2003     Not many tweets on #eccmid2013 also, not many bioinformatics talks or posters.
+328168810668519425  Apr 27 11:28  @flashton2003     There should be an #eccmid2013  bioinformatics study group, would be good to have a session as bioinformatics gets closer to front line.
+328170473449984001  Apr 27 11:35  @kerryhood        RT @flashton2003: There should be an #eccmid2013  bioinformatics study group, would be good to have a session as bioinformatics gets closer to front line.
+328178588874588160  Apr 27 12:07  @anilsiri19       Alert Line - Web based research: Bioinformatics http://tinyurl.com/3un6lld
+328180277539115008  Apr 27 12:14  @huichiendora     With two #crazyfriends from MMU Bioinformatics does that make me a half MMUian too? Hahaha. #throwback… http://instagram.com/p/YnUvccue2R/
+328183615055863808  Apr 27 12:27  @paul_r_fisher    RT @assemblathon: “@SahaSurya: PASQUAL: Parallel Techniques for Next Generation Genome Sequence Assembly http://www.computer.org/csdl/trans/td/2013/05/ttd2013050977-abs.html #bioinformatics #NGS”
+328190079224918016  Apr 27 12:53  @pulistbook       http://www.pulist.net/bioinformatics-2nd-ed.html #2nd #ED Bioinformatics 2nd Ed
+328190598987268096  Apr 27 12:55  @arneelof         RT @larsjuhljensen: Chapter 16: Text Mining for Translational Bioinformatics http://feedly.com/k/ZNHU4O
+328199849449226241  Apr 27 13:31  @gawbul           Thank you @benjaminnicolau for giving me +K about Bioinformatics! http://klout.com/user/gawbul/topics?n=tw&v=plusK_thanks&i=171981219796833777
+328200322772246530  Apr 27 13:33  @rajesh_v         @Noahpinion in as much as bioinformatics is one
+328201550788968450  Apr 27 13:38  @MaryMaryViolet   Which reminds me of last Wednesday when our group leader all of a sudden asks me and one of my senpais (from my course) about bioinformatics
+328201772122374144  Apr 27 13:39  @MaryMaryViolet   And we're nodding like "yeaaaahhh we had a class on bioinformatics, thing is, the teacher sucked ass so we learnt nothing"
+328204151299387392  Apr 27 13:49  @fateyn_nabella   Be patient .. Keep calm n study bioinformatics hahahahaa
+328206287106105344  Apr 27 13:57  @HeyYoungc        News -Web based research: Bioinformatics - http://is.gd/gyPAJV
+328206752648671236  Apr 27 13:59  @naimahrozali     alhamdulillah..we spend about 4 hours studying bioinformatics..killer subject..thank you miss andi rosnita for teaching us =D
+328206916285255680  Apr 27 14:00  @ORIONNetwork     Two @UofTNews projects receive $1 million each for bioinformatics research http://bit.ly/ZAmjye #researchON #HigherEDUON
+328207578515517440  Apr 27 14:02  @yusrashazwani    RT @naimahrozali: alhamdulillah..we spend about 4 hours studying bioinformatics..killer subject..thank you miss andi rosnita for teaching us =D
+328210177222381570  Apr 27 14:12  @Kenzibit         A mobile genetic element with unknown function found in distantly related viruses | @scoopit http://sco.lt/6DmAuv
+328211616921432064  Apr 27 14:18  @TristanCarland   RT @vsbuffalo: With @Github around, there's really no excuse for hosting bioinformatics programs as an unversioned .tar.gz on your academic homepage.
+328218482573455361  Apr 27 14:45  @teamrework       SV Angel Says Health Informatics Is One Of Its New “Megatrends” http://ow.ly/kuggW #bioinformatics #genome
+328227466265120768  Apr 27 15:21  @mara_fitzgerald  Doing bioinformatics until I die. At least I have Florence and the Machine!
+328230408187703296  Apr 27 15:33  @gra_cairdeas     Take that bioinformatics ! Now I can look forward to tackling the Peak District tomorrow with @UniofNottingham @Ramsoc
+328231250764644352  Apr 27 15:36  @BiotechArticles  Nanotechnology and its Application in Crop Improvement Programme: Similar to the concept of the electronic nos... http://tinyurl.com/d88dfac
+328233231117860868  Apr 27 15:44  @rnomics          Top #tweeted story in #bioinformatics: Genome Biology | Abstract | TopHat2: accurat… http://genomebiology.com/2013/14/4/R36/abstract, see more http://tweetedtimes.com/rnomics/bioinfo
+328233594424291329  Apr 27 15:46  @nikitaljohnson   SV Angel Says Health Informatics Is One Of Its New “Megatrends” http://ow.ly/kugn7 #bioinformatics #genome
+328234401072824320  Apr 27 15:49  @GigaScience      Huanming plugging BGI's bioinformatics software such as SOAP suite. We published most recent eg w/ SOAPdenovo2 http://www.gigasciencejournal.com/content/1/1/18 #G10K
+328236394055086080  Apr 27 15:57  @3kwa             RT @vsbuffalo: With @Github around, there's really no excuse for hosting bioinformatics programs as an unversioned .tar.gz on your academic homepage.
+328255421359980544  Apr 27 17:12  @LisaDMurphy1     Bioinformatics##h n un##bc
+328262055717138432  Apr 27 17:39  @mj_bell          @phillord I'm sure you will have seen this, but if not: http://bioinformatics.oxfordjournals.org/content/29/9/1238.short
+328267375415803905  Apr 27 18:00  @nikai3d          RT @vsbuffalo: With @Github around, there's really no excuse for hosting bioinformatics programs as an unversioned .tar.gz on your academic homepage.
+328276082325344256  Apr 27 18:34  @Georgiannazc51   New Research Projects to Enhance Bioinformatics and Computational Biology Tools and Methodologies: Disallowed Key Characters. #lasko
+328277775310008320  Apr 27 18:41  @HeyYoungc        Daily read -Web based research: Bioinformatics - http://dld.bz/bJ4nP
+328306312326807552  Apr 27 20:34  @Brianstaats      "Counsyl Is Pioneering A New Bioinformatics Wave" How much if you supply your own sequence? http://feedproxy.google.com/~r/Techcrunch/~3/0txAiQvd_1E/
+328307164777152512  Apr 27 20:38  @AnthonyNystrom   RT @DataDiviner: It is becoming clear that #bioinformatics needs to be a data engineering field, and it currently isn't.  Look 4 next piece on @BioCodersNet
+328307207944933378  Apr 27 20:38  @AnthonyNystrom   RT @Biologyreport: New research projects to enhance bioinformatics and computational biology ... - http://Phys.Org (press... http://t.co/3U5HmuTgpw
+328307259430027265  Apr 27 20:38  @AnthonyNystrom   RT @phylogenomics: The Tree of Life:  Announcement: Intntl. BioInformatics Workshop on Virus Evolution & Molecular Epidemiology http://t.co/d48nxQACPI
+328312867998814208  Apr 27 21:01  @JACKLIFE1        News -Web based research: Bioinformatics - http://is.gd/gyPAJV
+328313797171347456  Apr 27 21:04  @stilenius        Software will eat healthcare and we are entering the age of bioinformatics http://techcrunch.com/2013/04/25/sv-angel-health-informatics/
+328315080666132480  Apr 27 21:09  @mattturck        Next wave: “Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave http://tcrn.ch/15FhOFb by @kimmaicutler”
+328324479182848000  Apr 27 21:47  @BiologyD         RT @illumina: Bioinformatics for bacterial pathogens in the clinic - Dr. Torsten Seemann #ISSAPAC
+328328315096154112  Apr 27 22:02  @MenakaSanthush   Web based research: Bioinformatics - Helium http://goo.gl/niqhs
+328336813905297411  Apr 27 22:36  @AnthonyNystrom   RT @MenakaSanthush: Web based research: Bioinformatics - Helium http://goo.gl/niqhs
+328337684567322624  Apr 27 22:39  @DMACmullin       Imagine what REAL innovation could do here: Software will eat healthcare.. We are entering the age of bioinformatics http://shrd.by/CMvBnS
+328338591258386432  Apr 27 22:43  @micro_biome      [web_biome] Analyzing genome coverage profiles with applications to quality ...: We introduce use cases with f... http://bit.ly/12BmdVF
+328338897664888832  Apr 27 22:44  @PaidbyAttention  Bioinformatics is registered as a CNIT course but all the information in it is strictly biology and pharmacy.
+328347447053135873  Apr 27 23:18  @number_three     RT @vsbuffalo: With @Github around, there's really no excuse for hosting bioinformatics programs as an unversioned .tar.gz on your academic homepage.
+328350306528264192  Apr 27 23:29  @hyphaltip        RT @vsbuffalo: With @Github around, there's really no excuse for hosting bioinformatics programs as an unversioned .tar.gz on your academic homepage.
+328354308619911168  Apr 27 23:45  @jmichaethompson  RT @vsbuffalo: With @Github around, there's really no excuse for hosting bioinformatics programs as an unversioned .tar.gz on your academic homepage.
+328355898974162944  Apr 27 23:52  @bahtiyarhp       bioinformatics, it seem interesting
+328357718899437569  Apr 27 23:59  @haiqus           Rosalind is a platform for learning bioinformatics through problem solving http://bit.ly/184Pdse
+328362512481394689  Apr 28 00:18  @cwhittle         RT @vsbuffalo: With @Github around, there's really no excuse for hosting bioinformatics programs as an unversioned .tar.gz on your academic homepage.
+328366218534850560  Apr 28 00:33  @alwaysalpha      Bioinformatics software business investments getting more attention http://m.techcrunch.com/2013/04/25/sv-angel-health-informatics/
+328367919354507264  Apr 28 00:39  @DonnyGilbreath   #download Statistical Bioinformatics: with R - Sunil K. Mathur @DonnyGilbreath
+328367922626056193  Apr 28 00:39  @DonnyGilbreath   Statistical Bioinformatics: with R - Sunil K. Mathur http://dlvr.it/3Hy6CL
+328377159628513280  Apr 28 01:16  @tokwanohtokwan   Wish they have book "bioinformatics for dummy" ;P
+328381247099383808  Apr 28 01:32  @rajdeeppoddar    News in Bioinformatics is out! http://paper.li/rajdeeppoddar/1358939090
+328394992018141184  Apr 28 02:27  @sjcundy          Also mtg w/ @ubcscience on future of #research computing at UBC. #bioinformatics #genomics #datamanagement #bigdata, scientific sup on menu
+328397184418594816  Apr 28 02:36  @sjcundy          RT @GenomeBC: BC researchers take lion’s share of funds in national #bioinformatics competition http://ow.ly/kqrgv #genomics @CMMT_UBC @UBC @SFU
+328407041179783168  Apr 28 03:15  @jaganadhg        Text Mining for Translational Bioinformatics http://lnkd.in/EGED5Z #nlproc
+328414700427689984  Apr 28 03:45  @MarionKoopmans   @wvschaik on SNP,s: No, just means that it requires studies on what diversity is informative. The challenge of NGS is bioinformatics.
+328418306094669824  Apr 28 04:00  @Critical_Proof   Do you need help with your Bioinformatics essay? Contact http://criticalproof.com
+328419484257894400  Apr 28 04:04  @KitKotte         News line -Web based research: Bioinformatics - http://www.helium.com/items/2050293-web-based-research-bioinformatics
+328423466246213633  Apr 28 04:20  @anilsiri19       NW Line - Web based research: Bioinformatics http://dld.bz/bJ5sW
+328424079382155265  Apr 28 04:22  @phd_jobs         Staff Engineer Software - Bioinformatics R&amp;D is seeking a highly motivated individual who will make a large im... http://ow.ly/2wtSOg
+328437616871612417  Apr 28 05:16  @arnim_w          Started with #Python  after years of #Perl . Simply great especially with #biopython #bioinformatics
+328444646789361664  Apr 28 05:44  @JamesLZ          Bioinformatics Tools and Novel Challenges in Long Non-Coding RNAs (lncRNAs) Functional Analysis http://www.mdpi.com/1422-0067/13/1/97
+328444646789361664  Apr 28 05:44  @jameslz          Bioinformatics Tools and Novel Challenges in Long Non-Coding RNAs (lncRNAs) Functional Analysis http://www.mdpi.com/1422-0067/13/1/97
+328448646121140224  Apr 28 06:00  @shevtiawan       BlueSNP. R package for highly scalable genome wide association studies using Hadoop clusters. https://github.com/ibm-bioinformatics/BlueSNP
+328456631807516672  Apr 28 06:32  @zombiecalypse    The @unibern has a MSc Bioinformatics program. I might peek into some of the lectures http://www.biology.unibe.ch/content/bioinformatics/msc_bioinformatics/index_eng.html
+328476133760839681  Apr 28 07:49  @akuhn            @onierstrasz @zombiecalypse @unibern bummer :( but great to hear @iam_unibe is on board, bioinformatics is quite the deal!
+328478876701446145  Apr 28 08:00  @Stemformatics    Upgrade to v4.1 is done. It includes a User defined gene expression and improvements to hierarchical clustering. #bioinformatics #stemcells
+328479348736786432  Apr 28 08:02  @Stemformatics    Hierarchical clustering also includes the ability to remove samples, cluster samples or genes only and improve the quality. #bioinformatics
+328486751465254912  Apr 28 08:31  @Karelman         Bioinformatics is out! http://paper.li/Karelman/1353414629 ▸ Top stories today via @KatherineMejia @sbmlnews
+328487652447891457  Apr 28 08:35  @liyanaibrahim69  @Iszuansalleh biotecnology. But this is more to bioinformatics. For the forensics.
+328493021219917824  Apr 28 08:56  @gawbul           Bioinformatics Research Assistant - University of Edinburgh - http://jobs.ac.uk http://j.mp/17qGVtq
+328497649672130560  Apr 28 09:15  @moorejh          "in #datascience: we care less..about modeling..more about results" http://www.analyticbridge.com/profiles/blogs/from-chaos-to-clusters-statistical-modeling-without-models #bioinformatics #genomics
+328497843230871553  Apr 28 09:16  @chrisfall        RT @moorejh: "in #datascience: we care less..about modeling..more about results" http://www.analyticbridge.com/profiles/blogs/from-chaos-to-clusters-statistical-modeling-without-models #bioinformatics #genomics
+328498588785192962  Apr 28 09:19  @spitshine        RT @moorejh: "in #datascience: we care less..about modeling..more about results" http://www.analyticbridge.com/profiles/blogs/from-chaos-to-clusters-statistical-modeling-without-models #bioinformatics #genomics
+328498915185930240  Apr 28 09:20  @suk211           RT @moorejh: "in #datascience: we care less..about modeling..more about results" http://www.analyticbridge.com/profiles/blogs/from-chaos-to-clusters-statistical-modeling-without-models #bioinformatics #genomics
+328499873894760450  Apr 28 09:24  @moorejh          user-centred design methods in #bioinformatics http://www.biomedcentral.com/1471-2105/14/103 #informatics
+328501321336516610  Apr 28 09:29  @Artieux32        New Research Projects to Enhance Bioinformatics and Computational Biology Tools and Methodologies: http://urlin.me/rs2m #lasko
+328503094923124736  Apr 28 09:36  @aadeoye7         Bioinformatics can be a good way to study #DevelopmentalGenetics
+328503123507294208  Apr 28 09:37  @nachocaballero   RT @moorejh: user-centred design methods in #bioinformatics http://www.biomedcentral.com/1471-2105/14/103 #informatics
+328503811599642626  Apr 28 09:39  @jevangelista     RT @moorejh: user-centred design methods in #bioinformatics http://www.biomedcentral.com/1471-2105/14/103 #informatics
+328508669887135744  Apr 28 09:59  @tokwanohtokwan   Bioinformatics overload !!!!
+328515472138055682  Apr 28 10:26  @ks_liu           RT @moorejh: user-centred design methods in #bioinformatics http://www.biomedcentral.com/1471-2105/14/103 #informatics
+328524209783447553  Apr 28 11:00  @isugif           RT @genetics_blog: Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+328529042376630272  Apr 28 11:20  @GigaScience      Nice to see @iotorrent using opensource tools such as MIRA. There are commercial options too if you are "bioinformatics limited" #G10K
+328532957876846592  Apr 28 11:35  @VisualSoftInc    Hiring a C/C++ Bioinformatics Developer in Bethesda, MD http://bull.hn/l/NK05/3 #job
+328533641619730432  Apr 28 11:38  @SriniRaghavan    Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave - the next internet. http://m.techcrunch.com/2013/04/23/counsyl/
+328534098131951617  Apr 28 11:40  @dopaminergic13   : Text Mining for Translational Bioinformatics http://buff.ly/15TxJQc
+328539078486274049  Apr 28 11:59  @BioStarQuestion  Higher Studies in Bioinformatics http://goo.gl/fb/oMfT8
+328547604801675264  Apr 28 12:33  @moorejh          #bioinformatics #informatics #NLP MT @_bobwilliams 15 Natural Language Processing APIs http://prsm.tc/53XWQ4
+328553563322191873  Apr 28 12:57  @divyarathore     RT @moorejh: #bioinformatics #informatics #NLP MT @_bobwilliams 15 Natural Language Processing APIs http://prsm.tc/53XWQ4
+328556557744873474  Apr 28 13:09  @DNADigest        RT @moorejh: #bioinformatics #informatics #NLP MT @_bobwilliams 15 Natural Language Processing APIs http://prsm.tc/53XWQ4
+328564058842337281  Apr 28 13:39  @AhmedMoustafa    RT @RAGladstone: Bioinformatics has warped my perception of the world around me :-/ http://t.co/L2QaEJQ6ao
+328569814400528385  Apr 28 14:02  @patrickDurusau   RP Manual Gene Ontology annotation workflow... #topicmaps #ontology #mouse #bioinformatics - http://ow.ly/kgNGK
+328570704750592000  Apr 28 14:05  @monsieurracs     RT @RAGladstone: Bioinformatics has warped my perception of the world around me :-/ http://t.co/L2QaEJQ6ao
+328584551016300544  Apr 28 15:00  @GraphicLogo      Visual Designer at VA Tech (Virginia): The Virginia Bioinformatics Institute (VBI) at Vir... http://bit.ly/18aTJCW #GraphicDesign #Jobs
+328593244088836097  Apr 28 15:35  @DNADigest        #PLOSCompBio: Chapter 16: Text Mining for Translational Bioinformatics http://buff.ly/163rfhE #phenotype #genotype #datamining
+328598012588879873  Apr 28 15:54  @rnomics          M.Sc. Bioinformatics syllabus - Scribd: Bioinformatics Biostatistics Data ...... http://bit.ly/RCjnYg #bing @MyEN
+328612228142084096  Apr 28 16:50  @firegenome       If anyone is curious, you can also follow their news at @DNADigest #genomics #bioinformatics
+328612333351993345  Apr 28 16:51  @rbgayle          "He’s like the Jeff Bezos of bioinformatics" http://wp.me/pdMsm-6ft
+328620558814175232  Apr 28 17:23  @moorejh          An efficient algorithm to perform multiple testing in #epistasis screening http://www.ncbi.nlm.nih.gov/pubmed/23617239 #bioinformatics #genomics #GWAS
+328620937840836609  Apr 28 17:25  @cntalavera       My fellows M.D's and Molecular Biologist who are also pursuing a bioinformatics path; you MUST read this http://merenlin.com/2013/04/how-to-learn-programming-for-biologists/
+328625222196527106  Apr 28 17:42  @DNADigest        RT @firegenome: If anyone is curious, you can also follow their news at @DNADigest #genomics #bioinformatics
+328626567343382528  Apr 28 17:47  @showjumper42     RT @moorejh: An efficient algorithm to perform multiple testing in #epistasis screening http://www.ncbi.nlm.nih.gov/pubmed/23617239 #bioinformatics #genomics #GWAS
+328638736722173952  Apr 28 18:35  @AshevilleOnline  GeneBoy - DNALC Bioinformatics http://www.dnai.org/geneboy/index.html
+328638821346467840  Apr 28 18:36  @HeyYoungc        Daily read -Web based research: Bioinformatics - http://dld.bz/bJ4nP
+328649544910905345  Apr 28 19:18  @sofaf            Babraham bioinformatics more like BABERAHAM amirite.
+328650449169309697  Apr 28 19:22  @PhilippBayer     Nifty: Edis, a replacement for Redis when your datasets are larger than available RAM http://inaka.github.io/edis/ (for bioinformatics?)
+328671720225513474  Apr 28 20:46  @mkrpooh          Maria Vittoria Schiaffino - Ospedale San Raffaele http://bit.ly/11vpqV7
+328671720284233729  Apr 28 20:46  @kmrpooh          Maria Vittoria Schiaffino - Ospedale San Raffaele http://bit.ly/11vpqV7
+328671720569466881  Apr 28 20:46  @snowtwhite       Maria Vittoria Schiaffino - Ospedale San Raffaele http://bit.ly/11vpqV7
+328671720657526784  Apr 28 20:46  @heisenbergdog    Maria Vittoria Schiaffino - Ospedale San Raffaele http://bit.ly/11vpqV7
+328672273038987264  Apr 28 20:49  @kmrpooh          Massimo Alessio - Ospedale San Raffaele http://bit.ly/Zun62C
+328672273093521409  Apr 28 20:49  @snowtwhite       Massimo Alessio - Ospedale San Raffaele http://bit.ly/Zun62C
+328672273206755328  Apr 28 20:49  @heisenbergdog    Massimo Alessio - Ospedale San Raffaele http://bit.ly/Zun62C
+328672273210953728  Apr 28 20:49  @mkrpooh          Massimo Alessio - Ospedale San Raffaele http://bit.ly/Zun62C
+328672735591014400  Apr 28 20:51  @mkrpooh          Giorgio Casari - Ospedale San Raffaele http://bit.ly/11vpLXS
+328672735939133441  Apr 28 20:51  @snowtwhite       Giorgio Casari - Ospedale San Raffaele http://bit.ly/11vpLXS
+328672736031416320  Apr 28 20:51  @kmrpooh          Giorgio Casari - Ospedale San Raffaele http://bit.ly/11vpLXS
+328672736304037890  Apr 28 20:51  @heisenbergdog    Giorgio Casari - Ospedale San Raffaele http://bit.ly/11vpLXS
+328673830090469377  Apr 28 20:55  @JACKLIFE1        News -Web based research: Bioinformatics - http://is.gd/gyPAJV
+328680864823250945  Apr 28 21:23  @yag_ays          このゴールデンウィークは「MAU M&L 博物図譜」で遊びます/ 思わずReblogしたくなるような博物画が見られるiPhone/iPadアプリ「MAU M&L 博物図譜」 - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/04/29/mau-natural-history/
+328681645215457280  Apr 28 21:26  @LisbethH_        Aiming to finish this AWFUL bioinformatics assignment tonight.
+328681932558835712  Apr 28 21:27  @riv7             RT @yag_ays: このゴールデンウィークは「MAU M&L 博物図譜」で遊びます/ 思わずReblogしたくなるような博物画が見られるiPhone/iPadアプリ「MAU M&L 博物図譜」 - Wolfeyes Bioinformatics beta http://t.co/sT2saXGNr9
+328682673847545859  Apr 28 21:30  @kumetaka         RT @yag_ays: このゴールデンウィークは「MAU M&L 博物図譜」で遊びます/ 思わずReblogしたくなるような博物画が見られるiPhone/iPadアプリ「MAU M&L 博物図譜」 - Wolfeyes Bioinformatics beta http://t.co/sT2saXGNr9
+328685940115652609  Apr 28 21:43  @mudWHO           No more lectures for the day but I've to meet my team for some bioinformatics MEH
+328693302591381504  Apr 28 22:12  @natalja_de_8337  Evolutionary Computation, Machine Learning and Data Mining in Bioinformatics: 6th European Conference, EvoBIO 2008 http://twitpic.com/cmqaec
+328695259456475136  Apr 28 22:20  @lgbtcareerlink_  Now Hiring: Senior Research Scientist - Bioinformatics Job | MERCK: US - Asia Umu Nka | http://joburl.ws/5304217 #jobs
+328696095913959425  Apr 28 22:23  @mudWHO           @mrshfqs of cos not. Haha one of my course prac requires bioinformatics
+328703259118272512  Apr 28 22:52  @MenakaSanthush   Web based research: Bioinformatics - Helium http://goo.gl/niqhs
+328705723758419968  Apr 28 23:02  @dale_liebrecht   RT @moorejh: An efficient algorithm to perform multiple testing in #epistasis screening http://www.ncbi.nlm.nih.gov/pubmed/23617239 #bioinformatics #genomics #GWAS
+328719407612297216  Apr 28 23:56  @tokwanohtokwan   Thousand slides of bioinformatics but need only few paper just to answer it..bioinformatics done !!! Alhamdulilah ^^
+328719954209804288  Apr 28 23:58  @NSLohsepet       RT @tokwanohtokwan: Thousand slides of bioinformatics but need only few paper just to answer it..bioinformatics done !!! Alhamdulilah ^^
+328720363569704962  Apr 29 00:00  @NSLohsepet       Bioinformatics was sooooo niceeeeeeeeee love youuu
+328736685888262144  Apr 29 01:05  @mendelspod       Editor of Bio-IT World Shares Overview of Bioinformatics in 2013  | http://bit.ly/1675sWl
+328737852772978688  Apr 29 01:09  @ARIBASBiotech    A good start of bioinformatics training for collage teachers ARIBAS, thanks to team of teachers and PhD students
+328743651561848832  Apr 29 01:32  @rajdeeppoddar    News in Bioinformatics is out! http://paper.li/rajdeeppoddar/1358939090
+328750553943388162  Apr 29 02:00  @SAGRudd          A support vector machine for identification of #SNPs from next-generation sequencing data = #magnificent #SVM @ http://buff.ly/ZdV3AU
+328753231536742400  Apr 29 02:10  @bimluckyvicky    Bioinformatics Pigment QA QC #แต่ละตัว #น่าเรียนทั้งนั้นนนนนนนนน #กัดฟันพูด #ลงทะเบียน
+328765654498951168  Apr 29 03:00  @SAGRudd          Shimmer: Detection of genetic alterations in tumors using next generation sequences = #awesome #NGSeq #clonality @ http://buff.ly/10MEdj3
+328769105333202944  Apr 29 03:13  @PhdGeek          Found you. Stupid script error. #bioinformatics #Iwin
+328770282842103809  Apr 29 03:18  @abrahamdsl       On page 7 of 441 of Bioinformatics, by Zoe LaCroix http://bit.ly/Y7QBqf
+328771425802534912  Apr 29 03:23  @FoNofiny         RT @bimluckyvicky: Bioinformatics Pigment QA QC #แต่ละตัว #น่าเรียนทั้งนั้นนนนนนนนน #กัดฟันพูด #ลงทะเบียน
+328773664768151552  Apr 29 03:32  @INCForg          Internet based course on Pharmaceutical Bioinformatics http://www.pharmbio.org
+328777113194856448  Apr 29 03:45  @KitKotte         News line -Web based research: Bioinformatics - http://www.helium.com/items/2050293-web-based-research-bioinformatics
+328777866819039235  Apr 29 03:48  @GenaliceDNA      Personalizing an End to Cancer - Bio-IT World http://www.bio-itworld.com/2013/4/26/personalizing-end-cancer.html #GENALICE #bioinformatics #NGS #cancer
+328783383901646850  Apr 29 04:10  @anilsiri19       NW Line - Web based research: Bioinformatics http://dld.bz/bJ5sW
+328786835939672064  Apr 29 04:24  @phd_jobs         IT Integration Software\Bioinformatics Manager - IT Integration Software/Bioinformatics Manager  The Enterprise So... http://ow.ly/2wuYTZ
+328786837231517698  Apr 29 04:24  @phd_jobs         Scientist III Bioinformatics - This position is a for critical Bioinformatics Scientist role within the Ion Torren... http://ow.ly/2wuYU0
+328789933999394816  Apr 29 04:36  @animesh1977      New Canadian bioinformatics projects - http://separationsNOW.com http://bit.ly/Yg7Esk
+328794570424991745  Apr 29 04:55  @OmixonBio        RT @SAGRudd: A support vector machine for identification of #SNPs from next-generation sequencing data = #magnificent #SVM @ http://t.co/RcuVOegZ7p
+328797232130306048  Apr 29 05:05  @INBIOMEDVision   RT ‏@INCForg Internet based course on Pharmaceutical Bioinformatics http://www.pharmbio.org
+328802058574626816  Apr 29 05:24  @sciencepostings  Research Chair in Bioinformatics: Research Chair in Bioinformatics Background The University of the Witwatersr... http://bit.ly/12Hz1K8
+328802438700232704  Apr 29 05:26  @AndersGabriella  @GigaScience Sign up for article alerts to read this exciting and innovative research: http://www.gigasciencejournal.com/logon?url=%2Fmy%2Fpreferences #genomics #bioinformatics
+328809898907426816  Apr 29 05:56  @zeeshan_smile    @ssaurav884 @AnnuChawrsia @Mrs_RithvikD @rashsweets @sshummaila Bioinformatics
+328809989416304640  Apr 29 05:56  @zeeshan_smile    @ssaurav884 @AnnuChawrsia @Mrs_RithvikD @rashsweets @sshummaila mera research feild Bioinformatics hai
+328817250477932547  Apr 29 06:25  @phd_jobs         Research Chair in Bioinformatics - Research Chair in Bioinformatics Background The University of the Witwatersrand... http://ow.ly/2wv65m
+328823662318858240  Apr 29 06:50  @malinoj          RT @moorejh: An efficient algorithm to perform multiple testing in #epistasis screening http://www.ncbi.nlm.nih.gov/pubmed/23617239 #bioinformatics #genomics #GWAS
+328827349456003072  Apr 29 07:05  @GiiResearch      Global #Bioinformatics Market to Reach $7.5 billion by 2017, Data Analysis and Software Market to Reach $2.9 billion by 2017...
+328827674753642497  Apr 29 07:06  @malinoj          RT @SAGRudd: Shimmer: Detection of genetic alterations in tumors using next generation sequences = #awesome #NGSeq #clonality @ http://t.co/gh5ID0MNIZ
+328829494653747201  Apr 29 07:13  @ksmbandi         I'm being zombified by bioinformatics with novice scripting prowess.
+328829517877608449  Apr 29 07:14  @pathogenomenick  “@mocost: ".. better cognitive performance from curry consumption" http://bit.ly/12aIdnA” wow Balti and bioinformatics makes you smarter!
+328830641720397824  Apr 29 07:18  @froggleston      RT @pathogenomenick: “@mocost: ".. better cognitive performance from curry consumption" http://bit.ly/12aIdnA” wow Balti and bioinformatics makes you smarter!
+328831609467990016  Apr 29 07:22  @JohnMHancock     Anonymous nuclear loci in non-model organisms: making the most of high-throughput genome surveys http://bioinformatics.oxfordjournals.org/content/28/14/1807.abstract #notOA
+328833469192998912  Apr 29 07:29  @NBIC_nl          NBIC Bioinformaticians in Berlin http://www.nbic.nl/about-nbic/news-press/bioinformatics-news/detail/article/bioinformatics-in-berlin/#.UX5ZhYNFoGQ.twitter
+328837439907041281  Apr 29 07:45  @jacarrico        RT @flashton2003: There should be an #eccmid2013  bioinformatics study group, would be good to have a session as bioinformatics gets closer to front line.
+328841803535114240  Apr 29 08:02  @NevilleTheRed    @TifosoTuli haha. I'm supposed to be doing Bioinformatics work whenever I get time from playing Minesweeper.
+328841983114235904  Apr 29 08:03  @Stanisce         Bioinformatics was ma worst course in ma final year ...n d lecturer hated me ...but I still got an A ...u shudav seen d luk on his face ^.^
+328842612511473666  Apr 29 08:06  @Jacqueto         SEX was my best course, I got F sha RT @Stanisce: Bioinformatics was ma worst course in ma final year ...n d ... http://m.tmi.me/TFwyG
+328842719919210496  Apr 29 08:06  @Diekololamy      LOL! I remember pissing you off "@Stanisce: Bioinformatics was ma worst course in ma final year ...n d lecturer hated me ...but I still got
+328844241390415872  Apr 29 08:12  @Genialis         RT @kristjanp: Bioinformatics Market: Technologies, Patenting Trends & 2017 Forecasts http://zite.to/XNle3Q cc @Genialis
+328845120134856704  Apr 29 08:16  @MarkMillerITPro  Our son graduating 2013>>>Bioinformatics The application of statistics and computer science to the field of molecular biology.
+328849153629237248  Apr 29 08:32  @Karelman         Bioinformatics is out! http://paper.li/Karelman/1353414629 ▸ Top stories today via @genetics_blog @metagenomics @moorejh
+328850466589003776  Apr 29 08:37  @RobAboukhalil    Using Excel for bioinformatics is a bad idea: it interprets genes like DEC1 and OCT4 as dates! http://bit.ly/ZYlnyj
+328851915603603458  Apr 29 08:43  @marc_rr          Our paper on the Hourglass and the Early Conservation Models is out in @PLOSGenetics: http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003476 #evodevo #bioinformatics
+328852531356774400  Apr 29 08:45  @PurdueCS         Cyber Center and Bioinformatics Core Seminar: April 30, 2013, 10:30 a.m., MRGN 121 (http://tinyurl.com/bmtvamz)
+328852572398043137  Apr 29 08:45  @lenovere         RT @marc_rr: Our paper on the Hourglass and the Early Conservation Models is out in @PLOSGenetics: http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003476 #evodevo #bioinformatics
+328856274093633537  Apr 29 09:00  @victoriapan_     Yeh. That bioinformatics assignment. I should probably get on it.
+328860330409205760  Apr 29 09:16  @gaboentropy      RT @pathogenomenick: “@mocost: ".. better cognitive performance from curry consumption" http://bit.ly/12aIdnA” wow Balti and bioinformatics makes you smarter!
+328861592844374017  Apr 29 09:21  @maricelkann      RT @PLOSCompBiol: 3 new chapters added to the @PLOSCompBiol Translational Bioinformatics collection http://www.ploscollections.org/translationalbioinformatics Also available in epub/mobi/pdf
+328865167926501379  Apr 29 09:35  @gawbul           RT @marc_rr: Our paper on the Hourglass and the Early Conservation Models is out in @PLOSGenetics: http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003476 #evodevo #bioinformatics
+328865363477544961  Apr 29 09:36  @Alfons_Valencia  RT @PLOSCompBiol: 3 new chapters added to the @PLOSCompBiol Translational Bioinformatics collection http://www.ploscollections.org/translationalbioinformatics Also available in epub/mobi/pdf
+328865408159457280  Apr 29 09:36  @gawbul           RT @moorejh: "in #datascience: we care less..about modeling..more about results" http://www.analyticbridge.com/profiles/blogs/from-chaos-to-clusters-statistical-modeling-without-models #bioinformatics #genomics
+328867912628707328  Apr 29 09:46  @kenpcg           RT @DNADigest: #PLOSCompBio: Chapter 16: Text Mining for Translational Bioinformatics http://buff.ly/163rfhE #phenotype #genotype #datamining
+328870206883631105  Apr 29 09:55  @BioStarQuestion  Biology SE: how to see what elements are shown in #pymol http://goo.gl/fb/vc51B #bioinformatics
+328871585496846337  Apr 29 10:01  @nutjob4life      Cancer Biomarkers Bioinformatics Bioworkshop starting in just 1 hour at Caltech: https://edrn.nci.nih.gov/cancer-bioinformatics-workshop/program-information
+328874326055059456  Apr 29 10:12  @tedslater        RT @PLOSCompBiol: 3 new chapters added to the @PLOSCompBiol Translational Bioinformatics collection http://www.ploscollections.org/translationalbioinformatics Also available in epub/mobi/pdf
+328876055756697600  Apr 29 10:18  @DrugSafetyNavig  'Jeff Bezos of bioinformatics' finds capital and customers for startup - FierceBiotechIT: http://www.fiercebiotechit.com/story/jeff-bezos-bioinformatics-finds-capital-and-customers-startup/2013-04-25?utm_campaign=AddThis&utm_medium=AddThis&utm_source=twitter#.UX6BLONS1hg.twitter
+328876785322323970  Apr 29 10:21  @sianlaw12        Bioinformatics is a nightmare
+328878098399494145  Apr 29 10:27  @PLOSGenetics     RT @marc_rr: Our paper on the Hourglass and the Early Conservation Models is out in @PLOSGenetics: http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003476 #evodevo #bioinformatics
+328882849660948480  Apr 29 10:45  @PubLect2013      In that peer group there is a biochemistry group, including bioinformatics research groups.
+328882972600188928  Apr 29 10:46  @PubLect2013      We are going to talk more about the Bioinformatics Research Group tomorrow. So keep following our timeline!
+328883846823153665  Apr 29 10:49  @ctitusbrown      RT @pathogenomenick: “@mocost: ".. better cognitive performance from curry consumption" http://bit.ly/12aIdnA” wow Balti and bioinformatics makes you smarter!
+328884804034633728  Apr 29 10:53  @Jphono1          I'm at Bioinformatics Bldg UNC (Chapel Hill, NC) [pic]: http://4sq.com/ZfL4vb
+328887930829545473  Apr 29 11:06  @ypriverol        Bioinformatics: Biological models in Python http://go.nature.com/KnMu6a #bioinformatics #phyton
+328889499390201857  Apr 29 11:12  @GenomeBiology    EMu identifies mutational processes in #cancer genomes, offers new insights into kataegis http://bit.ly/11QvFEN  #genomics #bioinformatics
+328889598178623489  Apr 29 11:12  @Dwro8ea          Sitting in the 1st Quarterly Edinburgh Bioinformatics Meeting at the QMRI. Some very interesting projects going on  around Edinburgh
+328890352402575362  Apr 29 11:15  @raniewina        @okkysri ka okky, ikutan Public Lecture 2013 yuk, 3 international speakers in bioinformatics field. 250513, di Balai Sidang UI. @PubLect2013
+328892110617059328  Apr 29 11:22  @iphonelabs       Bioinformatics: Technologies and Global Markets http://bit.ly/154iaG9 #cloudcomputing
+328892451978891266  Apr 29 11:24  @JesusFan2009     Reasons To Believe : Bioinformatics and a Literal Adam and Eve http://www.reasons.org/articles/bioinformatics-and-a-literal-adam-and-eve#.UX6Qk8SHQ34.twitter
+328892772218204160  Apr 29 11:25  @foodtechconnect  ADAPTmap: Genome and Meta-Data for Genetic Improvement of Goats - http://bit.ly/ZfQwOG #openagdata #hackmeat
+328892773799444481  Apr 29 11:25  @dhgisme          ADAPTmap: Genome and Meta-Data for Genetic Improvement of Goats - http://bit.ly/ZfQwOG #openagdata #hackmeat
+328892898206691328  Apr 29 11:25  @juliemaccartee   RT @dhgisme: ADAPTmap: Genome and Meta-Data for Genetic Improvement of Goats - http://bit.ly/ZfQwOG #openagdata #hackmeat
+328893014913216512  Apr 29 11:26  @tmj_CHI_gensci   Kelly Services #GeneralScience #Job: Bioinformatics Analyst ( #Schaumburg , IL) http://bit.ly/10bupei #KellyJobs #KellyServices
+328893227329536003  Apr 29 11:27  @kaenkay          RT @dhgisme: ADAPTmap: Genome and Meta-Data for Genetic Improvement of Goats - http://bit.ly/ZfQwOG #openagdata #hackmeat
+328893886875447296  Apr 29 11:29  @GlobalAgDev      RT @foodtechconnect: ADAPTmap: Genome and Meta-Data for Genetic Improvement of Goats - http://bit.ly/ZfQwOG #openagdata #hackmeat
+328894002541756417  Apr 29 11:30  @subasmileyyy     @attilacsordas Much interested in pursuing a course in the field of bioinformatics. Please advise.
+328894375033716736  Apr 29 11:31  @chachasikes      RT @dhgisme: ADAPTmap: Genome and Meta-Data for Genetic Improvement of Goats - http://bit.ly/ZfQwOG #openagdata #hackmeat
+328894697357598721  Apr 29 11:33  @NationalNews247  New post: Bioinformatics: Technologies and Global Markets http://www.nationalnewsnow.com/bioinformatics-technologies-and-global-markets/
+328894831390752768  Apr 29 11:33  @AMathelier       #Bioinformatics Training and Interdisciplinary #Oncology Programs annual research day at @CFRI today http://tinyurl.com/c9syuo7 #vancouver
+328895106780393472  Apr 29 11:34  @XSilverMermaidX  "Set up Lab experiment safely and effectively" WHAT??? for Bioinformatics? nooo~ they were placing bombs in our computer instead :P
+328897503204364289  Apr 29 11:44  @ayeee_cassie     This bioinformatics presentation <
+328897801192894464  Apr 29 11:45  @GTCbio           SAVE up to $179 when you register for the 4th RNAi Research & Therapeutics Conference by May 19 at  http://ht.ly/klNyL
+328898731128782849  Apr 29 11:49  @IgniteSrini      RT @dhgisme: ADAPTmap: Genome and Meta-Data for Genetic Improvement of Goats - http://bit.ly/ZfQwOG #openagdata #hackmeat
+328898801609879552  Apr 29 11:49  @fabianopais      Switching posts to Bioinformatics and Genomics trends for now on. One must choose which way to go on Twitter. I choose Science.
+328898907293749248  Apr 29 11:49  @IgniteSrini      “@foodtechconnect: ADAPTmap: Genome and Meta-Data for Genetic Improvement of Goats - http://bit.ly/ZfQwOG #openagdata # Open Goat
+328899036113408000  Apr 29 11:50  @crc8             RT @IgniteSrini: “@foodtechconnect: ADAPTmap: Genome and Meta-Data for Genetic Improvement of Goats - http://bit.ly/ZfQwOG #openagdata # Open Goat
+328901538602950656  Apr 29 12:00  @Genome10K        RT @GigaScience: Nice to see @iotorrent using opensource tools such as MIRA. There are commercial options too if you are "bioinformatics limited" #G10K
+328902273151414274  Apr 29 12:03  @theoneamit       RT @PLOSCompBiol: 3 new chapters added to the @PLOSCompBiol Translational Bioinformatics collection http://www.ploscollections.org/translationalbioinformatics Also available in epub/mobi/pdf
+328904601568935937  Apr 29 12:12  @carlosqgvader    RT @PLOSCompBiol: 3 new chapters added to the @PLOSCompBiol Translational Bioinformatics collection http://www.ploscollections.org/translationalbioinformatics Also available in epub/mobi/pdf
+328906656232640513  Apr 29 12:20  @yikakayika       RT @PubLect2013: In that peer group there is a biochemistry group, including bioinformatics research groups.
+328906673836130304  Apr 29 12:20  @yikakayika       RT @PubLect2013: We are going to talk more about the Bioinformatics Research Group tomorrow. So keep following our timeline!
+328907707144871936  Apr 29 12:24  @GarimaKushwaha   Translational Bioinformatics: PLOS Computational Biology presents an educational resource for an emerging field  http://blogs.plos.org/biologue/2012/12/28/translational-bioinformatics-plos-computational-biology-presents-an-educational-resource-for-an-emerging-field/
+328908324382842880  Apr 29 12:27  @fathiyahfithrii  RT @PubLect2013: In that peer group there is a biochemistry group, including bioinformatics research groups.
+328908360466436097  Apr 29 12:27  @fathiyahfithrii  RT @PubLect2013: We are going to talk more about the Bioinformatics Research Group tomorrow. So keep following our timeline!
+328908384365592578  Apr 29 12:27  @adnan24x7x365    with UB's Hunter James Kelly Research Institute at the NYS Center of Excellence in Bioinformatics and Life Sciences; Nicolo
+328908547851161601  Apr 29 12:28  @ZillionJobs      Bioinformatics Specialist With Java Job (Rochester, MN)  http://zillionjobs.com/Job-8713299.html #With #Java #job #jobs #Rochester
+328911864383811584  Apr 29 12:41  @GenomeAnalysis   #Python for Life Scientists workshop now open for registration (deadline 10 July!) http://bit.ly/ZLgGNR #bioinformatics #training
+328912046806671361  Apr 29 12:41  @druvus           RT @GenomeAnalysis: #Python for Life Scientists workshop now open for registration (deadline 10 July!) http://bit.ly/ZLgGNR #bioinformatics #training
+328916961285263361  Apr 29 13:01  @Nestornotabilis  @KayleighDodd Clues: Bioinformatics. Dodgy hair. Beard. Social skills of a walnut. *waves!*
+328917804944343040  Apr 29 13:04  @Genotyping       News: Bioinformatics: Technologies and Global Markets - Sacramento Bee: Bioinformatics: Technologies and Globa... http://bit.ly/14ItozH
+328924156659916800  Apr 29 13:30  @biotechcalendar  12th Symposium on Bacterial Genetics and Ecology http://hub.am/11RZ2oL #Bioinformatics #Genetics #Microscopy #Evolution&Ecology #Symposium
+328926517549727744  Apr 29 13:39  @genetics_blog    PathVisio-Faceted Search: An Exploration Tool for Multi-Dimensional Navigation of Large Pathways http://www.ncbi.nlm.nih.gov/pubmed/23547033 #bioinformatics
+328926744667123713  Apr 29 13:40  @genetics_blog    MonaLisa—visualization and analysis of functional modules in biochemical networks http://bioinformatics.oxfordjournals.org/content/early/2013/04/29/bioinformatics.btt165.long #bioinformatics
+328926848174141440  Apr 29 13:40  @OmicsOmicsBlog   RT @genetics_blog: MonaLisa—visualization and analysis of functional modules in biochemical networks http://bioinformatics.oxfordjournals.org/content/early/2013/04/29/bioinformatics.btt165.long #bioinformatics
+328926879786602496  Apr 29 13:40  @OmicsOmicsBlog   RT @genetics_blog: PathVisio-Faceted Search: An Exploration Tool for Multi-Dimensional Navigation of Large Pathways http://www.ncbi.nlm.nih.gov/pubmed/23547033 #bioinformatics
+328927692743393280  Apr 29 13:44  @OmicsOmicsBlog   RT @GenomeAnalysis: #Python for Life Scientists workshop now open for registration (deadline 10 July!) http://bit.ly/ZLgGNR #bioinformatics #training
+328931988016861185  Apr 29 14:01  @chrisfall        RT @GenomeAnalysis: #Python for Life Scientists workshop now open for registration (deadline 10 July!) http://bit.ly/ZLgGNR #bioinformatics #training
+328932074394357760  Apr 29 14:01  @chrisfall        RT @genetics_blog: MonaLisa—visualization and analysis of functional modules in biochemical networks http://bioinformatics.oxfordjournals.org/content/early/2013/04/29/bioinformatics.btt165.long #bioinformatics
+328935876111527936  Apr 29 14:16  @grandebruno      @matthewmascioni It ain’t over yet. Grad school next year in bioinformatics. Where you’re at in terms of education?
+328938798551547904  Apr 29 14:28  @cdessimoz        RT @marc_rr: Our paper on the Hourglass and the Early Conservation Models is out in @PLOSGenetics: http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003476 #evodevo #bioinformatics
+328938948833447936  Apr 29 14:28  @subsurface_life  Postdoc in bioinformatics available at the Navy Research Lab: https://docs.google.com/document/d/1M62NmPvUuNbLoqIVTjAsCK2HZ5KQYWwcYQCRRIwMHq0/edit?usp=sharing
+328939783529316353  Apr 29 14:32  @caseybergman     RT @marc_rr: Our paper on the Hourglass and the Early Conservation Models is out in @PLOSGenetics: http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003476 #evodevo #bioinformatics
+328943289837428736  Apr 29 14:46  @Field_Trish      RT @ontariogenomics: RT @sickkidsnews: 2 SickKids-led teams awarded bioinformatics & computational biology grants from @GenomeCanada & @ontariogenomics:...
+328944844800143360  Apr 29 14:52  @jabawack         "#Bioinformatics: #Biological #models in #Python" http://feedly.com/k/154TcX2
+328945822987321344  Apr 29 14:56  @Alfons_Valencia  RT @genetics_blog: MonaLisa—visualization and analysis of functional modules in biochemical networks http://bioinformatics.oxfordjournals.org/content/early/2013/04/29/bioinformatics.btt165.long #bioinformatics
+328948626707587072  Apr 29 15:07  @animesh1977      Swedish government gives its backing to Qlucore as bioinformatics Company ... - The Swedish Wire http://bit.ly/15V2dBF
+328948630117560320  Apr 29 15:07  @animesh1977      Bioinformatics: Technologies and Global Markets - PR Newswire (press release) http://bit.ly/15V2aWx
+328949413898772481  Apr 29 15:10  @NewtVerity       “@illumina: Bioinformatics for bacterial pathogens in the clinic - Dr. Torsten Seemann #ISSAPAC”
+328950885264789504  Apr 29 15:16  @SlippySanchez    Making a life decision this week. Have to choose between Microbiology or Bioinformatics.  #ChooseWisely
+328952292122439680  Apr 29 15:21  @fjossinet        PyRNA is now tightly linked to #pandas #python #RNA #bioinformatics http://goo.gl/acXeY
+328952294534164480  Apr 29 15:21  @TheeLarryBirdd   @SlippySanchez Bioinformatics my friend. #choosewiselyindeed #itsthefuture
+328955121927090176  Apr 29 15:33  @Bethesda_Buzz    Classified Job Ads & #JobSearch STAFF SCIENTIST/BIOINFORMATICS ANALYSIS LEAD at Science... Find this Job&More: http://goo.gl/fC4WD
+328956238824083457  Apr 29 15:37  @oceandata        RT @subsurface_life: Postdoc in bioinformatics available at the Navy Research Lab: https://docs.google.com/document/d/1M62NmPvUuNbLoqIVTjAsCK2HZ5KQYWwcYQCRRIwMHq0/edit?usp=sharing
+328958903347982336  Apr 29 15:48  @JoachimGreenwoo  Bioinformatics staple scape headed for 2015
+328959031479791616  Apr 29 15:48  @swag12373        Bioinformatics: Technologies and Global Markets: REPORT HIGHLIGHTS The report provides: • An overview of the g... http://bit.ly/12KyE1F
+328963172650323971  Apr 29 16:05  @SUMedicine       Q&A w/ Stanford systems-medicine chief @atulbutte about why #bigdata is a big deal in #biomedicine: http://stan.md/12djijx #bioinformatics
+328964558117015552  Apr 29 16:10  @dusenberrymw     RT @SUMedicine: Q&A w/ Stanford systems-medicine chief @atulbutte about why #bigdata is a big deal in #biomedicine: http://t.co/QRKh8h7rT6 #bioinformatics
+328965397036535808  Apr 29 16:13  @lexnederbragt    RT @GenomeAnalysis: #Python for Life Scientists workshop now open for registration (deadline 10 July!) http://bit.ly/ZLgGNR #bioinformatics #training
+328965520219054082  Apr 29 16:14  @RPoretsky        Here you go @DarleneWagner1! RT @subsurface_life Postdoc in bioinformatics available at the Navy Research Lab: https://docs.google.com/document/d/1M62NmPvUuNbLoqIVTjAsCK2HZ5KQYWwcYQCRRIwMHq0/edit?usp=sharing …
+328967414438051840  Apr 29 16:21  @SFBIZchrisraube  RT @SUMedicine: Q&A w/ Stanford systems-medicine chief @atulbutte about why #bigdata is a big deal in #biomedicine: http://t.co/QRKh8h7rT6 #bioinformatics
+328969377003229184  Apr 29 16:29  @vera_na_1208009  R Programming for Bioinformatics book download Robert Gentleman Download here http://ballosec.info/1/books http://twitpic.com/cmy4ni
+328969421408317440  Apr 29 16:29  @sheplusplus      Calling all women interested in medtech, biotech, and bioinformatics! HealthTech Women is hosting an event this... http://fb.me/1fEbtRm8W
+328970551395749888  Apr 29 16:34  @olachaflocka     I really don't care about bioinformatics and how it will affect my career
+328971686219227137  Apr 29 16:38  @westr            Doesn't it seem like a no-brainer for new couples? @Counsyl Pioneering A New Bioinformatics Wave http://tcrn.ch/15FhOFb #pm101 @kimmaicutler
+328973368747507712  Apr 29 16:45  @Anmoran7         RT @SUMedicine: Q&A w/ Stanford systems-medicine chief @atulbutte about why #bigdata is a big deal in #biomedicine: http://t.co/QRKh8h7rT6 #bioinformatics
+328973397407170561  Apr 29 16:45  @bioinfosm        RT @ngsgene: Emperor has no clothes! Dangers of publicly available #sequencing data: http://www.forbes.com/sites/adamtanner/2013/04/25/harvard-professor-re-identifies-anonymous-volunteers-in-dna-study/ #bioinformatics #ngs #genomics #Harvard
+328976556766662656  Apr 29 16:58  @pfern            Roche Shuts Down Third-Generation NGS Research Programs - Bio-IT World | @scoopit http://sco.lt/6oSoPh
+328976830952513536  Apr 29 16:59  @pfern            Clinical Bioinformatician and Trainer - NaVeeNBioinFoRmaTiCs ... | @scoopit http://sco.lt/6c2rTN
+328977008245743619  Apr 29 17:00  @pfern            Genotypic successfully sequences turmeric using NGS, proves anticancer, anti  - http://pharmabiz.com | @scoopit http://sco.lt/5Q5WwT
+328977238118764544  Apr 29 17:01  @pfern            Python For Bioinformatics and Your First Python for Bioinformatics Program | @scoopit http://sco.lt/6J1jl3
+328977415156142080  Apr 29 17:01  @counsyl          RT @westr: Doesn't it seem like a no-brainer for new couples? @Counsyl Pioneering A New Bioinformatics Wave http://tcrn.ch/15FhOFb #pm101 @kimmaicutler
+328977416997462017  Apr 29 17:01  @pfern            Phenome code, How behavior predicts the future of the brain: Cedric Notredame at TEDxBarcelona | @scoopit http://sco.lt/4rKUef
+328977497893007361  Apr 29 17:02  @pfern            New York Genome Center Lease Signing Ceremony | @scoopit http://sco.lt/85Yqcz
+328977615610343425  Apr 29 17:02  @pfern            Human Genetics and Genomics: The Science for the 21st Century | @scoopit http://sco.lt/7Z5QWn
+328978463291736064  Apr 29 17:05  @razibkhan        RT @westr: Doesn't it seem like a no-brainer for new couples? @Counsyl Pioneering A New Bioinformatics Wave http://tcrn.ch/15FhOFb #pm101 @kimmaicutler
+328980714915766272  Apr 29 17:14  @pfern            George Church interview | @scoopit via @Socrates_Logos http://sco.lt/8xRsqv
+328983930499903489  Apr 29 17:27  @srb_unl          RT @ngsgene: Emperor has no clothes! Dangers of publicly available #sequencing data: http://www.forbes.com/sites/adamtanner/2013/04/25/harvard-professor-re-identifies-anonymous-volunteers-in-dna-study/ #bioinformatics #ngs #genomics #Harvard
+328984460160819200  Apr 29 17:29  @subsurface_life  Someone at #SMBEEuks may be a good candidate: Postdoc in bioinformatics available at the Navy Research Lab: https://docs.google.com/document/d/1M62NmPvUuNbLoqIVTjAsCK2HZ5KQYWwcYQCRRIwMHq0/edit?usp=sharing
+328984702172147712  Apr 29 17:30  @editorCLPmag     RT @westr: Doesn't it seem like a no-brainer for new couples? @Counsyl Pioneering A New Bioinformatics Wave http://tcrn.ch/15FhOFb #pm101 @kimmaicutler
+328985558430912512  Apr 29 17:34  @ctitusbrown      RT @subsurface_life: Someone at #SMBEEuks may be a good candidate: Postdoc in bioinformatics available at the Navy Research Lab: https://t.co/KBYFFjUVm0
+328985678283157505  Apr 29 17:34  @gilbertjacka     RT @subsurface_life: Someone at #SMBEEuks may be a good candidate: Postdoc in bioinformatics available at the Navy Research Lab: https://t.co/KBYFFjUVm0
+328987584984399872  Apr 29 17:42  @ProfLHunter      Ingenuity bought by Qiagen for $105M. @felciano became a rich man today. Most valuable knowledge-based bioinformatics company yet. Congrats!
+328988851785826306  Apr 29 17:47  @cloudjobsus      Bioinformatics Software Engineer II (Cloud Computing) at University of Maryland, Baltimore (Baltimore, MD) http://dlvr.it/3JLqbp
+328998408721424385  Apr 29 18:25  @rubygems         bioinform (0.1.10): http://is.gd/ZRvw6T A bunch of useful classes for bioinformatics
+329001002348982273  Apr 29 18:35  @AnthonyNystrom   RT @SUMedicine: Q&A w/ Stanford systems-medicine chief @atulbutte about why #bigdata is a big deal in #biomedicine: http://t.co/QRKh8h7rT6 #bioinformatics
+329005245495664640  Apr 29 18:52  @KitKotte         Alert -Web based research: Bioinformatics - http://dld.bz/bJ5GS
+329007925970497536  Apr 29 19:02  @ngsgene          #IndividualizedMedicine & treatment http://www.nytimes.com/2013/04/28/business/in-cancer-treatment-new-dna-tools.html?pagewanted=all&_r=0  comes with a tagline "once and for all"  http://www.foundationone.com/ #bioinformatics
+329016021564416000  Apr 29 19:35  @moorejh          MT @genetics_blog #visualization & analysis of functional modules in biochemical networks http://bioinformatics.oxfordjournals.org/content/early/2013/04/29/bioinformatics.btt165.abstract #bioinformatics
+329017282762264580  Apr 29 19:40  @rnomics          LIX Bioinformatics Colloquium 2010: LIX Bioinformatics Colloquium 2010 Ecole Polytechnique November... http://bit.ly/155tCBk #bing @MyEN
+329017285987688449  Apr 29 19:40  @rnomics          Transcriptome database? - SEQanswers: Bioinformatics: 4: 02-25-2011 05:39 PM: ... If you want to get... http://bit.ly/PCjGFo #bing @MyEN
+329021142385954816  Apr 29 19:55  @atulbutte        RT @ProfLHunter: Ingenuity bought by Qiagen for $105M. @felciano became a rich man today. Most valuable knowledge-based bioinformatics company yet. Congrats!
+329025579884101632  Apr 29 20:13  @rubygems         bioinform (0.1.11): http://is.gd/ZRvw6T A bunch of useful classes for bioinformatics
+329032667402227713  Apr 29 20:41  @rtraborn         Big biotech play for #Bioinformatics // MT @RongChenBioinfo: Qiagen buys genetic data processor Ingenuity for $105mil http://lnkd.in/riMs_f
+329035937461960704  Apr 29 20:54  @HealthFactsFeed  RT @SUMedicine: Q&A w/ Stanford systems-medicine chief @atulbutte about why #bigdata is a big deal in #biomedicine: http://t.co/QRKh8h7rT6 #bioinformatics
+329038816893599746  Apr 29 21:05  @Sci_Computing    RT @ProfLHunter: Ingenuity bought by Qiagen for $105M. @felciano became a rich man today. Most valuable knowledge-based bioinformatics company yet. Congrats!
+329043152084287490  Apr 29 21:22  @cbtadvisors      The curse of bioinformatics: Ingenuity acq'd 4 $105m after 15 (FIFTEEN) yrs for 5x sales. That sound? VCs saying "aaaaah" and "never again"
+329043746916286464  Apr 29 21:25  @Adrian_H         RT @cbtadvisors: The curse of bioinformatics: Ingenuity acq'd 4 $105m after 15 (FIFTEEN) yrs for 5x sales. That sound? VCs saying "aaaaah" and "never again"
+329050620835266560  Apr 29 21:52  @cwvhogue         Why use SmartOS? http://ow.ly/kxr5g Add: Free open source, Git-like VM version control, 9842 pkgs, Chef, FiFo. #bioinformatics
+329051014734938113  Apr 29 21:54  @ppgardne         RT @fjossinet: PyRNA is now tightly linked to #pandas #python #RNA #bioinformatics http://goo.gl/acXeY
+329051802521706496  Apr 29 21:57  @cobracmder       RT @cwvhogue: Why use SmartOS? http://ow.ly/kxr5g Add: Free open source, Git-like VM version control, 9842 pkgs, Chef, FiFo. #bioinformatics
+329051965118091264  Apr 29 21:57  @cwvhogue         RT @cbtadvisors: The curse of bioinformatics: Ingenuity acq'd 4 $105m after 15 (FIFTEEN) yrs for 5x sales. That sound? VCs saying "aaaaah" and "never again"
+329053274248462336  Apr 29 22:03  @Nfairuzia        All the best for bioinformatics presentation, self
+329055893549350913  Apr 29 22:13  @ItsSkylarrr      @oldxwise @_AmiPatel14 http://po.st/kxXIYl
+329057705849389056  Apr 29 22:20  @djmer1           Problems Securing the safety of #genetic modification http://theconversation.com/securing-the-safety-of-genetic-modification-13102 #DNA #genomics #bioinformatics #epigenetics #microbiome
+329057780466085888  Apr 29 22:21  @ItsShellE_       @lavettekscherm What kind of coding are you working on? Bioinformatics?
+329064114380996608  Apr 29 22:46  @ReSurfX          RT @cbtadvisors: The curse of bioinformatics: Ingenuity acq'd 4 $105m after 15 (FIFTEEN) yrs for 5x sales. That sound? VCs saying "aaaaah" and "never again"
+329064772660232193  Apr 29 22:48  @Andhika_Gusti    Bioinformatics Seminar with Prof. Shigehiko Kanaya & Prof. Naoaki Ono from NAIST (Japan)...
+329065528180215808  Apr 29 22:51  @animesh1977      BioBlend: automating pipeline analyses within Galaxy and CloudMan http://bit.ly/17un5xI
+329065530826846209  Apr 29 22:51  @animesh1977      RUbioSeq: a suite of parallelized pipelines to automate exome variation and bisulfite-seq analyses. http://bit.ly/17un7pa
+329065533737680896  Apr 29 22:51  @animesh1977      PathVisio-Faceted Search: an exploration tool for multi-dimensional navigation of large pathways http://bit.ly/17un5O2
+329065536552046593  Apr 29 22:51  @animesh1977      Detecting regulatory gene-environment interactions with unmeasured environmental factors http://bit.ly/17un7pg
+329065539093798912  Apr 29 22:51  @animesh1977      MonaLisa--visualization and analysis of functional modules in biochemical networks http://bit.ly/17un7Fy
+329065541593616384  Apr 29 22:51  @animesh1977      ELOPER: elongation of paired-end reads as a pre-processing tool for improved de novo genome assembly http://bit.ly/17un5O8
+329065544185700352  Apr 29 22:51  @animesh1977      Intervention in Gene Regulatory Networks with Maximal Phenotype Alteration http://bit.ly/155PhJF
+329071878746566657  Apr 29 23:17  @rlb_93           best part about this #bioinformatics project: the free time i have while my alignments are being processed @ScienceMjrProbs
+329072149430157313  Apr 29 23:18  @arseeru          New Canadian bioinformatics projects http://www.world-news.me/sh/dpyoMU
+329073207585951744  Apr 29 23:22  @MenakaSanthush   Web based research: Bioinformatics - Helium http://goo.gl/niqhs
+329075639577608192  Apr 29 23:32  @AditrianR        bioinformatics seminar (@ Auditorium Jannes Humuntal Hutasoit FAPET w/ @adhi_rnb) http://4sq.com/ZhBibX
+329084036259647489  Apr 30 00:05  @Amit_Rupani      Will soon be working with a different department focused at Bioinformatics in Monsanto. Look forward to it. :)
+329084159907725313  Apr 30 00:05  @ARIBASBiotech    Successfully completed Bioinformatics workshop yesterday today it is chemoinformatics
+329085851755749377  Apr 30 00:12  @L_Young34        Bioinformatics  68 pages later-done annotation report 85 pages later-lab manual completed Presentation tmrw File confusion #begladuarenotme
+329089445355745281  Apr 30 00:26  @jamilaryanah     BioInformatics class #sitin
+329102480757637121  Apr 30 01:18  @BrianKrent       RT @moorejh: MT @genetics_blog #visualization & analysis of functional modules in biochemical networks http://bioinformatics.oxfordjournals.org/content/early/2013/04/29/bioinformatics.btt165.abstract #bioinformatics
+329106019764559872  Apr 30 01:32  @rajdeeppoddar    News in Bioinformatics is out! http://paper.li/rajdeeppoddar/1358939090 ▸ Top stories today via @Science_Jobs
+329114195545190401  Apr 30 02:05  @evoldir          Postdoc: UTurku.Bioinformatics http://tinyurl.com/cmwcy2e
+329115736003989504  Apr 30 02:11  @aivelo           Craig Primmer is a great guy and Turku is a nice city! MT @evoldir: Postdoc: @UniTurku .Bioinformatics http://tinyurl.com/cmwcy2e
+329119082785939457  Apr 30 02:24  @evoldir          RT @aivelo: Craig Primmer is a great guy and Turku is a nice city! MT @evoldir: Postdoc: @UniTurku .Bioinformatics http://tinyurl.com/cmwcy2e
+329119134627536896  Apr 30 02:24  @systbiol         RT @aivelo: Craig Primmer is a great guy and Turku is a nice city! MT @evoldir: Postdoc: @UniTurku .Bioinformatics http://tinyurl.com/cmwcy2e
+329122538783383552  Apr 30 02:38  @pfern            focus@will | @scoopit http://sco.lt/99BzA9
+329124845910638593  Apr 30 02:47  @RAJASASIKIRANK   ANY BODY KNOWS MISS SUDHA WHO WAS 33 YEARS OLD HAS BEEN COMPLETED HER MTECH FROM ANDHRAUNIVERSITY IN BIOINFORMATICS. PLEASE  CON; 9393514664
+329126602598408192  Apr 30 02:54  @MostPopularJobs  #Job Opening: Bioinformatics Associate Scientist at Children's Hospital Philadelphia in Philadelphia, PA http://bit.ly/14Masjy #employment
+329128071644979203  Apr 30 03:00  @rnomics          Top #tweeted story in #bioinformatics: Chatzy - Ensembl http://www.chatzy.com/27850549952475, see more http://tweetedtimes.com/rnomics/bioinfo
+329133071498633216  Apr 30 03:20  @tdseher          Ugg! I'm having problems integrating Unified Genotyper into my sequence analysis pipeline #NGS #bioinformatics
+329140642917793793  Apr 30 03:50  @jobs4SD          #jobs4u #jobs Bioinformatics Scientist 1 http://bit.ly/12NkEUI #SD #sandiego #CA
+329141374228254720  Apr 30 03:53  @victoriapan_     Pressed the backspace button one too many times on my online blog for bioinformatics and lost everything. Fuck shit fuck.
+329158785711079425  Apr 30 05:02  @paleogenomics    another one from #GeoGenetics mapDamage2 approximate Bayesian estimates of ancient DNA damage patterns. http://bioinformatics.oxfordjournals.org/cgi/content/long/btt193v1
+329164548034682880  Apr 30 05:25  @phd_jobs         Research Scientist in Bioinformatics/Computional Biology - Research Scientist in Bioinformatics/Computational Biol... http://ow.ly/2wwBDF
+329164580930605056  Apr 30 05:25  @naturejobs_feed  Research Scientist in Bioinformatics/Computional Biology - Research Scientist in Bioinformatics/Computational Biol... http://ow.ly/2wwBuo
+329165656517910528  Apr 30 05:29  @sciencepostings  Research Scientist in Bioinformatics/Computional Biology: Research Scientist in Bioinformatics/Computational B... http://bit.ly/14MQ1TA
+329167690772127744  Apr 30 05:37  @DeepFriedDNA     RT @paleogenomics: another one from #GeoGenetics mapDamage2 approximate Bayesian estimates of ancient DNA damage patterns. http://t.co/dqaM5FJBbs
+329178078230224897  Apr 30 06:19  @mcaccamo         RT @GenomeAnalysis: #Python for Life Scientists workshop now open for registration (deadline 10 July!) http://bit.ly/ZLgGNR #bioinformatics #training
+329179609004384258  Apr 30 06:25  @phd_jobs         6 PhD positions in Bioinformatics at Bielefeld University - The German-Canadian international research training gr... http://ow.ly/2wwFnY
+329179609025372160  Apr 30 06:25  @graduates_jobs   6 PhD positions in Bioinformatics at Bielefeld University - The German-Canadian international research training gr... http://ow.ly/2wwFnT
+329182089046003712  Apr 30 06:35  @marc_rr          .@eyalprivman shares his experience as embedded bioinformatician with @ISBSIB: http://biomickwatson.wordpress.com/2013/04/23/a-guide-for-the-lonely-bioinformatician/#comment-1561 #bioinformatics
+329184880351125507  Apr 30 06:46  @JenniferRaff     RT @paleogenomics: another one from #GeoGenetics mapDamage2 approximate Bayesian estimates of ancient DNA damage patterns. http://t.co/dqaM5FJBbs
+329191123094487040  Apr 30 07:10  @genetics_blog    tmVar: A text mining approach for extracting sequence variants in biomedical literature http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt156.abstract (free)
+329191220259741696  Apr 30 07:11  @genetics_blog    NetworkPrioritizer: a versatile tool for network-based prioritization of candidate disease genes http://bioinformatics.oxfordjournals.org/content/early/2013/04/17/bioinformatics.btt164.abstract ($)
+329192678241746954  Apr 30 07:17  @GraphicLogo      Visual Designer at VA Tech (Virginia): The Virginia Bioinformatics Institute (VBI) at Vir... http://bit.ly/12OfWWV #GraphicDesign #Jobs
+329197078104383488  Apr 30 07:34  @WvSchaik         Comparison standard diagnostics and MiSeq sequencing (Nextera kit). Bioinformatics was performed blinded to clinical data #eccmid
+329200585247170561  Apr 30 07:48  @Alfons_Valencia  Talking about #bioinformatics for #personalized #medicine. Host by @BULLWORLD @EMCcorp. (Also Fatima Al-shahrour http://bit.ly/11S3yb4)
+329201319044853763  Apr 30 07:51  @gilbertjacka     RT @WvSchaik: Comparison standard diagnostics and MiSeq sequencing (Nextera kit). Bioinformatics was performed blinded to clinical data #eccmid
+329209647930150913  Apr 30 08:24  @pathogenomenick  RT @WvSchaik: Comparison standard diagnostics and MiSeq sequencing (Nextera kit). Bioinformatics was performed blinded to clinical data #eccmid
+329211534947516417  Apr 30 08:32  @Karelman         Bioinformatics is out! http://paper.li/Karelman/1353414629 ▸ Top stories today via @Massgenomics @jrkelly @fjossinet
+329214162595102721  Apr 30 08:42  @DocWithTheSocs   Teaching bioinformatics using Jurassic Park http://wp.me/p1XI3n-a8 via @russo_cristina @MorissaBradnick
+329215063166705664  Apr 30 08:46  @showjumper42     Marc-Oliver Gewaltig - Workflows for modeling and simulation http://www.youtube.com/watch?v=55kfnYwh9E0&list=UU6FYCVath84rVzs99Ecfxyw #bioinformatics
+329215389395464194  Apr 30 08:47  @showjumper42     Maryann Martone - Where do we go from here? (databases and ontologies) #bioinformatics http://www.youtube.com/watch?v=fnN9fYeKiSo&list=UU6FYCVath84rVzs99Ecfxyw via @youtube
+329215594467581952  Apr 30 08:48  @genetics_blog    #Bioinformatics progress in metaproteogenomics for bridging the gap between genomic sequences and metabolic functions http://onlinelibrary.wiley.com/doi/10.1002/pmic.201200566/abstract
+329217281781530625  Apr 30 08:54  @druvus           RT @WvSchaik: Comparison standard diagnostics and MiSeq sequencing (Nextera kit). Bioinformatics was performed blinded to clinical data #eccmid
+329218754129055744  Apr 30 09:00  @ClaireRioualen   What are the most common stupid mistakes in #bioinformatics? - http://www.biostars.org/p/7126/ cc @BioStarQuestion
+329219107385909248  Apr 30 09:02  @Ideas3wBiosanit  Development of Tomato Non-Host to Tomato Virus through Targeted Mutagenomics and Bioinformatics Approaches http://ow.ly/kdtLK
+329219720622534656  Apr 30 09:04  @tonets           PLoS Comput Biol | EDUCATION | PLoS COLLECTIONS | Chapter 16: Text Mining for Translational Bioinformatics http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003044?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ploscompbiol%2FNewArticles+%28Ambra+-+Computational+Biology+New+Articles%29
+329219856941588482  Apr 30 09:05  @feketerigoremet  RT @tonets: PLoS Comput Biol | EDUCATION | PLoS COLLECTIONS | Chapter 16: Text Mining for Translational Bioinformatics http://t.co/eb0Czvo7nu
+329221345466531840  Apr 30 09:11  @russo_cristina   RT @DocWithTheSocs: Teaching bioinformatics using Jurassic Park http://wp.me/p1XI3n-a8 via @russo_cristina @MorissaBradnick
+329222438632169473  Apr 30 09:15  @cory_foy         RT @DocWithTheSocs: Teaching bioinformatics using Jurassic Park http://wp.me/p1XI3n-a8 via @russo_cristina @MorissaBradnick
+329224783839514624  Apr 30 09:24  @CareersTS        Senior #Bioinformatics Architect - #Genomics needed.  More info here http://bit.ly/16hLTL6 #agro #biotech #science #careers
+329227386530967554  Apr 30 09:35  @renelaennec      RT @genetics_blog: tmVar: A text mining approach for extracting sequence variants in biomedical literature http://bioinformatics.oxfordjournals.org/content/early/2013/04/04/bioinformatics.btt156.abstract (free)
+329228059704164352  Apr 30 09:37  @HPCwire          News: New Canadian Bioinformatics and Computational Biology Tools Maximize Genomics Research -- http://bit.ly/17vjT4N -- #HPC
+329228461241663489  Apr 30 09:39  @YaraAlzahid      Bioinformatics is just plain crap. #Frustrated
+329229119491543041  Apr 30 09:41  @GenomeBiology    jMOSAiCS - a method for joint analysis of multiple ChIP-seq datasets, outperforms chromHMM http://bit.ly/15WYcg4 #genomics #bioinformatics
+329229537755934722  Apr 30 09:43  @renelaennec      RT @genetics_blog: PathVisio-Faceted Search: An Exploration Tool for Multi-Dimensional Navigation of Large Pathways http://www.ncbi.nlm.nih.gov/pubmed/23547033 #bioinformatics
+329230975898877952  Apr 30 09:49  @renelaennec      RT @GenomeBiology: jMOSAiCS - a method for joint analysis of multiple ChIP-seq datasets, outperforms chromHMM http://bit.ly/15WYcg4 #genomics #bioinformatics
+329232077037920256  Apr 30 09:53  @rubygems         bio-gadget (0.4.4): http://is.gd/j1PaI0 Gadgets for bioinformatics
+329232164099088384  Apr 30 09:53  @bio_insilico     New Canadian Bioinformatics and Computational Biology Tools Maximize ... - HPCwire: New Can... http://bit.ly/12P5PB5 #biotech #genomics
+329233334964219904  Apr 30 09:58  @bricehoff        Development of the Knowledge-Based and Empirical Combined Scoring Algorithm (KECSA) To Score Protein–Ligand ... http://sco.lt/5IElBB
+329233679194927105  Apr 30 10:00  @bricehoff        Ranking multiple docking solutions based on the conservation of inter-residue contacts http://sco.lt/8lfTl3
+329233748690362368  Apr 30 10:00  @SFEWS            The World Databank - An Amazing Resource | General, Nextgenediting Global Initiative, Data, Bioinformatics, Gene… http://bit.ly/ZvSSMO
+329233806278156289  Apr 30 10:00  @bricehoff        Analyzing the effect of homogeneous frustration in protein folding http://sco.lt/5r8b21
+329234348597465089  Apr 30 10:02  @hirooshi007      @Izhmash_Saiga12  BI→BioInformatics
+329234517967663104  Apr 30 10:03  @UoNCareers       @UoNScience STP applications for bioinformatics genetics opening early May! Follow #nhsstp for more info. Deadline @ the end of May
+329234955555196928  Apr 30 10:05  @BUbioinfo        Posted this on Facebook yesterday. Such a great article & we needed to share it again: http://ow.ly/kz8UD via @Wired #bioinformatics
+329235904558399488  Apr 30 10:08  @UoNScience       RT @UoNCareers: @UoNScience STP applications for bioinformatics genetics opening early May! Follow #nhsstp for more info. Deadline @ the end of May
+329237520862830592  Apr 30 10:15  @MedThinkSciCom   Using bioinformatics and RWD we will be able to separate which patients may experience which adverse events #ismppam13
+329242295281020930  Apr 30 10:34  @rnomics          Interview – Brian Haas Manager of Genome Annotation, Outreach, Bioinformatics and Analysis... http://bit.ly/YjCU9G #News #RNAseq @MyEN
+329242300985262080  Apr 30 10:34  @BioMedCentral    RT @GenomeBiology: jMOSAiCS - a method for joint analysis of multiple ChIP-seq datasets, outperforms chromHMM http://bit.ly/15WYcg4 #genomics #bioinformatics
+329242532519223296  Apr 30 10:35  @quicksandyrs     RT @GenomeBiology: jMOSAiCS - a method for joint analysis of multiple ChIP-seq datasets, outperforms chromHMM http://bit.ly/15WYcg4 #genomics #bioinformatics
+329243581334298624  Apr 30 10:39  @PhdGeek          Making mistakes, going home to avoid them #ecrchat #bioinformatics
+329244717873250305  Apr 30 10:43  @genetics_blog    What are folks doing with downstream (pathway, etc) analysis of mass spec data? #bioinformatics
+329245155011989507  Apr 30 10:45  @GenomeScience    RT @GenomeBiology: jMOSAiCS - a method for joint analysis of multiple ChIP-seq datasets, outperforms chromHMM http://bit.ly/15WYcg4 #genomics #bioinformatics
+329245936167567362  Apr 30 10:48  @27andaphd        RT @CareersTS: Senior #Bioinformatics Architect - #Genomics needed.  More info here http://bit.ly/16hLTL6 #agro #biotech #science #careers
+329246428541108224  Apr 30 10:50  @michelebusby     RT @rnomics: Interview – Brian Haas Manager of Genome Annotation, Outreach, Bioinformatics and Analysis... http://bit.ly/YjCU9G #News #RNAseq @MyEN
+329246955286978560  Apr 30 10:52  @bioinfosm        NetworkPrioritizer: network-based prioritization of candidate disease genes.. http://bioinformatics.oxfordjournals.org/cgi/content/long/btt164v2 #bioinformatics HT @genetics_blog
+329247746995392512  Apr 30 10:55  @pegasuscrs       RT @GenomeBiology: jMOSAiCS - a method for joint analysis of multiple ChIP-seq datasets, outperforms chromHMM http://bit.ly/15WYcg4 #genomics #bioinformatics
+329249311743418370  Apr 30 11:02  @moorejh          #bioinformatics MT @NKrasnogor P-system model optimisation by means of evolutionary based search algorithms http://tinyurl.com/c57e5e6
+329249724743946241  Apr 30 11:03  @SilkRoadTrans    New Canadian Bioinformatics and Computational Biology Tools Maximize ... - HPCwire http://bit.ly/14OCYkz #Translation
+329249812539142144  Apr 30 11:04  @moorejh          #genomics MT @bioinfosm: NetworkPrioritizer: network-based prioritization of candidate disease genes http://bioinformatics.oxfordjournals.org/cgi/content/long/btt164v2 #bioinformatics
+329250508357373952  Apr 30 11:06  @silParacchini    RT @moorejh: #genomics MT @bioinfosm: NetworkPrioritizer: network-based prioritization of candidate disease genes http://bioinformatics.oxfordjournals.org/cgi/content/long/btt164v2 #bioinformatics
+329252150075084800  Apr 30 11:13  @HealthIT_News    Bioinformatics grows by billions http://bit.ly/100oVkp #OnlineOnly #healthit #HIT
+329252644839366658  Apr 30 11:15  @ClinicaMedTech   Qiagen buys into bioinformatics; lowers 2013 guidance: Highlighting the growing importance of bioinfo... http://bit.ly/12PxCkQ #medtech
+329254031992168449  Apr 30 11:20  @pharma411        #SocialRx News: Bioinformatics grows by billions http://shrd.by/px5ssn
+329255095244046336  Apr 30 11:25  @marc_rr          The strategies which a class of students uses to annotate bacterial genomes with #bioinformatics and #biocuration: http://bit.ly/16ifXGw
+329255413998551040  Apr 30 11:26  @rob_rix          @jnozzi Someday I would like to buy you a coffee and have you explain bioinformatics in depth.
+329255538506465281  Apr 30 11:26  @tmj_RAM_eng      Philips North America: Bioinformatics Scientist/Engineer with ... ( #BriarcliffManor , NY) http://bit.ly/ZFhKxe #Engineering #Job
+329256425509494785  Apr 30 11:30  @SahaSurya        RT @marc_rr: The strategies which a class of students uses to annotate bacterial genomes with #bioinformatics and #biocuration: http://t.co/9yrk7vdBIm
+329258328393908225  Apr 30 11:37  @jennomics        RT @marc_rr: The strategies which a class of students uses to annotate bacterial genomes with #bioinformatics and #biocuration: http://t.co/9yrk7vdBIm
+329259108110848002  Apr 30 11:41  @DukeNews         How #genomics and #bioinformatics are changing practice & business of #medicine (vid): http://bit.ly/ZgBvMt ~@DukeFuqua
+329259568347635712  Apr 30 11:42  @anilsiri19       Alert Line - Web based research: Bioinformatics http://tinyurl.com/3un6lld
+329259621783068672  Apr 30 11:43  @id_ezy           Bioinformatics grows by billions http://goo.gl/fb/Z3y03
+329260770955239424  Apr 30 11:47  @imbiogeek        Where can bioinformaticians find work then when there is actual demand of it !? #UK #Bioinformatics http://www.eaglegenomics.com/2010/09/where-in-the-world-are-the-bioinformaticians/
+329261930336358400  Apr 30 11:52  @philozzie        Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave http://techcrunch.com/2013/04/23/counsyl/ via @techcrunch
+329262277423398912  Apr 30 11:53  @BioStarQuestion  Biology SE: BLAST #DNA Sequences Reversed http://goo.gl/fb/xhEGY #bioinformatics #dnasequencing
+329262582034735105  Apr 30 11:54  @FabulousFittiex  Module choices??? @lagreekgoddess @rheaevelyn16 .. I've only chosen bioinformatics so far cause I'm good at it 😂😂
+329262662343090177  Apr 30 11:55  @BioMickWatson    I have added a poll: would you attend a workshop on "embedded bioinformatics"? http://biomickwatson.wordpress.com/2013/04/23/a-guide-for-the-lonely-bioinformatician/
+329264240290590720  Apr 30 12:01  @thinkgenome      New Canadian Bioinformatics and Computational Biology Tools Maximize ...: We are proud to be working together ... http://bit.ly/ZQxAL0
+329266311484043264  Apr 30 12:09  @bioinfosm        jMOSAiCS: joint analysis of multiple ChIP-seq datasets, outperforms chromHMM http://bit.ly/15WYcg4 #genomics #bioinformatics @GenomeBiology
+329269004306894848  Apr 30 12:20  @ardalby71        @dawnuptheroad yes this is for non-work the other was getting too full of stats and bioinformatics ;-) I couldn't see real people
+329269295022477313  Apr 30 12:21  @EMRAnswers       Bioinformatics grows by billions http://goo.gl/zrM8x #genomics #pharma #HITsm #hcsm
+329269811702018048  Apr 30 12:23  @cistronic        RT @bioinfosm: jMOSAiCS: joint analysis of multiple ChIP-seq datasets, outperforms chromHMM http://bit.ly/15WYcg4 #genomics #bioinformatics @GenomeBiology
+329270628697899008  Apr 30 12:26  @StephaniePoulte  RT @UoNCareers: @UoNScience STP applications for bioinformatics genetics opening early May! Follow #nhsstp for more info. Deadline @ the end of May
+329271391281106944  Apr 30 12:29  @bioinfosm        #Bioinformatics grows by billions http://goo.gl/zrM8x .. perhaps #BigData & #NGS #sequencing are the reason .. cc #genomics @HITNewsTweet
+329272064450105344  Apr 30 12:32  @Nod_of_Science   RT @bioinfosm: #Bioinformatics grows by billions http://goo.gl/zrM8x .. perhaps #BigData & #NGS #sequencing are the reason .. cc #genomics @HITNewsTweet
+329272096540737536  Apr 30 12:32  @dlmilleruams     Bioinformatics grows by billions http://goo.gl/zrM8x
+329272993983377408  Apr 30 12:36  @ngsgene          Interesting results! #XinbinChen from #UCDavis talks about #RNPC1 RNA-binding protein regulating #p53 #Lymphoma #genomics #bioinformatics
+329274155809787904  Apr 30 12:40  @HITleaders       #Bioinformatics market to grow to nearly $7.5 billion by 2017: http://ow.ly/kzAm3
+329276499997900800  Apr 30 12:50  @NCBI             Publication on  recent improvements in NCBI BLAST output format now in Nucleic Acids Research http://1.usa.gov/10q1nnX #bioinformatics
+329276605790814209  Apr 30 12:50  @32nm             RT @NCBI: Publication on  recent improvements in NCBI BLAST output format now in Nucleic Acids Research http://1.usa.gov/10q1nnX #bioinformatics
+329277603951300609  Apr 30 12:54  @GenomicsPlaza    New Canadian Bioinformatics and Computational Biology Tools Maximize ... - HPCwire http://dlvr.it/3JYb7Y
+329277604299407361  Apr 30 12:54  @Genomicswatch    New Canadian Bioinformatics and Computational Biology Tools Maximize ... - HPCwire http://dlvr.it/3JYb7F
+329278049541578752  Apr 30 12:56  @ChristianeTrue   RT @emranswers: Bioinformatics grows by billions http://goo.gl/zrM8x #genomics #pharma #HITsm #hcsm
+329278127782113280  Apr 30 12:56  @rcblt            RT @NCBI: Publication on  recent improvements in NCBI BLAST output format now in Nucleic Acids Research http://1.usa.gov/10q1nnX #bioinformatics
+329278194710618112  Apr 30 12:56  @pjsvalli         RT @NCBI: Publication on  recent improvements in NCBI BLAST output format now in Nucleic Acids Research http://1.usa.gov/10q1nnX #bioinformatics
+329279070279966720  Apr 30 13:00  @billh56          RT @Genomicswatch: New Canadian Bioinformatics and Computational Biology Tools Maximize ... - HPCwire http://dlvr.it/3JYb7F
+329279365848383489  Apr 30 13:01  @tongue_like_wow  ion have normal dreams like becomin aye football, basket ball or baseball i dream to study bioinformatics
+329280827563327489  Apr 30 13:07  @benbyu           Bioinformatics grows by billions http://goo.gl/zrM8x
+329280832990752769  Apr 30 13:07  @WillisCD         Reconstructing causal networks RT @genetics_blog What are you doing w/ downstream (pathway, etc) analysis of mass spec data? #bioinformatics
+329283947508940800  Apr 30 13:19  @usenix           USENIX Women in Advanced Computing (WiAC) Interview: Promita Bose, Bioinformatics Analyst/Developer http://ow.ly/kzHHz #wiac13
+329284008775143424  Apr 30 13:20  @Lewis_Lab        @gawbul @ctitusbrown @itteration @CameronNeylon @genetics_blog "bad for your career" I suspect bioinformatics people can get away with blog
+329284595726032896  Apr 30 13:22  @HeyYoungc        News -Web based research: Bioinformatics - http://is.gd/gyPAJV
+329285295155597313  Apr 30 13:25  @angel0ina        Remember when I thought about majoring in computer science? Can't even write a perl code for my bioinformatics class #jokesonjokesonjokes
+329285837604941824  Apr 30 13:27  @coxie10          Had to wait 2 weeks til graduation to finally get a field trip #VBI #bioinformatics
+329285897923207168  Apr 30 13:27  @bioinfojobs      New #job | PDF in mathematical/statistical genomics | #Bioinformatics.ca | http://bioinformatics.ca/node/17122 | #UofGuelph #Guelph #Ontario #Canada
+329286073203163137  Apr 30 13:28  @bffo             RT @bioinfojobs: New #job | PDF in mathematical/statistical genomics | #Bioinformatics.ca | http://bioinformatics.ca/node/17122 | #UofGuelph #Guelph #Ontario #Canada
+329286266212458496  Apr 30 13:28  @Jphono1          with Eric (@ Bioinformatics Bldg UNC) [pic]: http://4sq.com/157wn59
+329286558513500160  Apr 30 13:30  @Biologyreport    New Canadian Bioinformatics and Computational Biology Tools Maximize ... - HPCwire http://dlvr.it/3JYyDZ
+329286588779601921  Apr 30 13:30  @BiologyMews      New Canadian Bioinformatics and Computational Biology Tools Maximize ... - HPCwire http://dlvr.it/3JYyW2
+329287097502556161  Apr 30 13:32  @BioMickWatson    If I was to organise a workshop to discuss best practice for "embedded bioinformatics", would you come? http://biomickwatson.wordpress.com/2013/04/23/a-guide-for-the-lonely-bioinformatician/#pd_a_7072372
+329287200841805825  Apr 30 13:32  @pjacock          RT @BioMickWatson: If I was to organise a workshop to discuss best practice for "embedded bioinformatics", would you come? http://t.co/B3NTJCVjQK
+329287572603932672  Apr 30 13:34  @SahaSurya        RT @BioMickWatson: If I was to organise a workshop to discuss best practice for "embedded bioinformatics", would you come? http://t.co/B3NTJCVjQK
+329288293529309185  Apr 30 13:37  @pfern            Institutional repositories have work to do if they're going to solve the access problem | @scoopit http://sco.lt/8GGLVh
+329288386361827328  Apr 30 13:37  @evolvability     RT @BioMickWatson: If I was to organise a workshop to discuss best practice for "embedded bioinformatics", would you come? http://t.co/B3NTJCVjQK
+329289236660502528  Apr 30 13:40  @abhik1368        RT @NCBI: Publication on  recent improvements in NCBI BLAST output format now in Nucleic Acids Research http://1.usa.gov/10q1nnX #bioinformatics
+329291041045872640  Apr 30 13:47  @NRTRC            Bioinformatics grows by billions http://goo.gl/zrM8x
+329291573055590400  Apr 30 13:50  @GPMDB            RT @bioinfojobs: New #job | PDF in mathematical/statistical genomics | #Bioinformatics.ca | http://bioinformatics.ca/node/17122 | #UofGuelph #Guelph #Ontario #Canada
+329292316550524928  Apr 30 13:53  @innov8ion        Bluetooth Low Energy may be a bit dorky but soon this tech on my phone will serve as a home door key + bioinformatics hub for Fitbit Flex.
+329293754399858688  Apr 30 13:58  @bioontology      RT @showjumper42: Maryann Martone - Where do we go from here? (databases and ontologies) #bioinformatics http://shrd.by/vo4qHM via @youtube
+329294878406230016  Apr 30 14:03  @Frostylva        Awws! Just received some very positive feedback from a student. Heartwarming to know that my work is appreciated. #bioinformatics #teaching
+329297785893560320  Apr 30 14:14  @BeNicePrenatal   Bioinformatics Associate: Celmatix, Inc. is a rapidly expanding, New York City-based biotechnology company tar... http://bit.ly/12Qvd9E
+329297788963786753  Apr 30 14:14  @Rchlfth          RT @mdandersonjobs: Hiring a #STATISTICAL ANALYST - (Houston, Texas) http://dlvr.it/3JSj78 #Biostatistics #Bioinformatics #Mathematics
+329299065663791105  Apr 30 14:19  @Aracelibb64      New Canadian Bioinformatics and Computational Biology Tools Maximize ... - HPCwire: http://urlin.me/rv7e #lasko
+329299592833269760  Apr 30 14:21  @AEMalayerba      RT @NCBI: Publication on  recent improvements in NCBI BLAST output format now in Nucleic Acids Research http://1.usa.gov/10q1nnX #bioinformatics
+329299955720257537  Apr 30 14:23  @Journals_links   New journal added to MJL (Bio/Med #Informatics page): eGEMs (Generating Evidence & Methods to improve patient outc..) http://www.medical-journals-links.com/bioinformatics-medical-informatics-journals.php
+329301517599387648  Apr 30 14:29  @druvus           BioBlend: automating pipeline analyses within Galaxy and CloudMan http://bit.ly/11ViHUX #usegalaxy
+329301753554145280  Apr 30 14:30  @SahaSurya        RT @druvus: BioBlend: automating pipeline analyses within Galaxy and CloudMan http://bit.ly/11ViHUX #usegalaxy
+329302322456969216  Apr 30 14:32  @Nod_of_Science   The CENPERM (@uni_copenhagen) is hiring a postdoc in #Metagenomics of Cryospheric #Biodiversity. http://www.isme-microbes.org/jobs #bioinformatics
+329303288455516160  Apr 30 14:36  @latestwelshjobs  Welsh Jobs: Bioinformatician / Analyst - Plant Bioinformatics http://tinyurl.com/cgl48mc
+329303290145824768  Apr 30 14:36  @jobsearchwales   Welsh Jobs: Bioinformatician / Analyst - Plant Bioinformatics http://tinyurl.com/cgl48mc
+329304896711053312  Apr 30 14:43  @rosmith11        New Canadian Bioinformatics and Computational Biology Tools Maximize Genomics Research Genome Canada CIHR http://bit.ly/YbE3xT
+329305259887439872  Apr 30 14:44  @gawbul           RT @HRedestig: become an avid fan of http://code.google.com/p/bpipe/ #bioinformatics pipelines for people that are not afraid of programming
+329305492998483969  Apr 30 14:45  @russopar         Bioinformatics grows by billions http://goo.gl/zrM8x
+329307414446874624  Apr 30 14:53  @subsurface_life  @labroides Ah, that's why...right during my big bioinformatics workshop #wouldratherbeinFiji
+329312738373427200  Apr 30 15:14  @bendmorris       @recology_  that's right. I'm planning on releasing in 6 weeks, and presenting at iEvoBio/Bioinformatics Open Source Conference in June.
+329317216589860864  Apr 30 15:31  @HITNewsTweet     Bioinformatics grows by billions http://ow.ly/kzK1v | #Healthcare IT News from @Bernie_HITN
+329317566810042369  Apr 30 15:33  @Docentric        RT @HITNewsTweet: Bioinformatics grows by billions http://ow.ly/kzK1v | #Healthcare IT News from @Bernie_HITN
+329317591300579328  Apr 30 15:33  @alvezrodrigo     RT @HITNewsTweet: Bioinformatics grows by billions http://ow.ly/kzK1v | #Healthcare IT News from @Bernie_HITN
+329317653812486144  Apr 30 15:33  @vezzi84          RT @BioMickWatson: If I was to organise a workshop to discuss best practice for "embedded bioinformatics", would you come? http://t.co/B3NTJCVjQK
+329317747056078849  Apr 30 15:34  @JohnMHancock     NetworkPrioritizer: versatile tool for network-based prioritization of candidate disease genes... http://bioinformatics.oxfordjournals.org/content/early/2013/04/17/bioinformatics.btt164.abstract #notOA
+329317941474623488  Apr 30 15:34  @Georgiannazc51   New Canadian Bioinformatics and Computational Biology Tools Maximize ... - HPCwire: Disallowed Key Characters. #lasko
+329318031476002817  Apr 30 15:35  @vezzi84          RT @druvus: BioBlend: automating pipeline analyses within Galaxy and CloudMan http://bit.ly/11ViHUX #usegalaxy
+329319575080546304  Apr 30 15:41  @kbradnam         Bioinformatics tools that won’t run if you use a symlink to the binary file…I hate you with a passion. I’m talking about you BEDTools.
+329320584624353280  Apr 30 15:45  @theraltweet      RT @GoldenHelixInc: Dr. Christophe Lambert: Looking at the Big Picture of Bioinformatics @mendelspod interview. http://www.mendelspod.com/podcast/looking-a-the-big-picture-in-bioinformatics-with-christophe-lambert-golden-helix
+329321372604043264  Apr 30 15:48  @cbtadvisors      Curse of bioinformatics: Ingenuity acq'd for $105m after 15 (FIFTEEN) yrs for 5x sales. That sound? VCs saying "aaaaah" and "never again"
+329321561846845440  Apr 30 15:49  @InstatServices   BMC Bioinformatics | Abstract|An efficient algorithm to perform multiple testing in epistasis screening http://buff.ly/11wwJMe
+329323018394411008  Apr 30 15:55  @sparklebomb18    Is considering adding a bioinformatics minor...I want to actually help people with my major, not just make video games #thoughIDoLoveGaming
+329327235251179521  Apr 30 16:11  @kbradnam         Bioinformatics tools that don’t let you write to standard output…I’m not too fond of you either (<cough> bedtools fastaFromBed)
+329330098912239616  Apr 30 16:23  @fstrozzi         RT @BioMickWatson: If I was to organise a workshop to discuss best practice for "embedded bioinformatics", would you come? http://t.co/B3NTJCVjQK
+329333547968106497  Apr 30 16:36  @jmchilton        Awesome! https://github.com/jmchilton/blend4j is referenced in the discussion section of the new bioblend Bioinformatics article. http://bit.ly/11ViHUX
+329335896837079041  Apr 30 16:46  @ngsgene          Read point 5 then read point 1 again, if you see no promise make some decisions! http://biomickwatson.wordpress.com/2013/04/23/a-guide-for-the-lonely-bioinformatician/#comment-1561 #bioinformatics #genomics #NGS
+329337455142633475  Apr 30 16:52  @CedarlaneNews    17 bioinformatics & computational biology research projects across Canada are receiving $11 million in funding http://www.labcanada.com/news/11m-funding-to-enhance-use-of-data-collected-through-genomics-research/1002263704/274slyMr4xvqvzW2430sy0w4y01rM2vx/
+329340334494601216  Apr 30 17:03  @attilacsordas    watching The Method http://www.imdb.com/title/tt0427582/plotsummary?ref_=tt_ov_pl as long as I have blueberries, grapes & pistachios in front of me, then back to bioinformatics
+329341082972352512  Apr 30 17:06  @micro_biome      [web_biome] BMC Bioinformatics | Abstract | Compression-based distance (CBD ...: Perturbations in intestinal m... http://bit.ly/14Qzxtx
+329341392239341568  Apr 30 17:08  @AnthonyNystrom   RT @HITNewsTweet: Bioinformatics grows by billions http://ow.ly/kzK1v | #Healthcare IT News from @Bernie_HITN
+329341912949587968  Apr 30 17:10  @kajord           Also 5 mini-symposia at SciPy this year: astronomy, bioinformatics, geospatial, medical imaging, and met/oceanography http://conference.scipy.org/scipy2013/index.php
+329345313355726849  Apr 30 17:23  @rdmpage          RT @bendmorris: @recology_  that's right. I'm planning on releasing in 6 weeks, and presenting at iEvoBio/Bioinformatics Open Source Conference in June.
+329350777275555844  Apr 30 17:45  @DavidKushan      Bioinformatics grows by billions | Healthcare IT News http://ow.ly/kzNym
+329355907010015233  Apr 30 18:05  @HealthcareIS     Bioinformatics grows by billions | Healthcare IT News http://ow.ly/kzNyr
+329356038329483264  Apr 30 18:06  @HeyYoungc        Daily read -Web based research: Bioinformatics - http://dld.bz/bJ4nP
+329358318848077824  Apr 30 18:15  @ubcpathology     Researcher Dr. Sohrab Shah Awarded Two CIHR/Genome Canada Bioinformatics Grants. http://molonc.bccrc.ca/shah_bcb/
+329359035973394432  Apr 30 18:18  @jemtzl           Bioinformatics grows by billions http://zite.to/14QTNLM via @zite
+329359529689096192  Apr 30 18:20  @donkeychallenge  #Recensioni Giu 2010 Sa Turra #bioinformatics [http://is.gd/WGgOZk] #amos #opinioni #Valutazione #spaghetti
+329366487389327360  Apr 30 18:47  @galaxyproject    "BioBlend: automating pipeline analyses within Galaxy and CloudMan" by Sloggett et al. http://bit.ly/11AuV4O #usegalaxy
+329366832567947265  Apr 30 18:49  @worldmediafiles  Télécharger - Bioinformatics: A Concept-Based Introduction http://goo.gl/Gx6xE
+329367021424873474  Apr 30 18:49  @worldmediafiles  Télécharger - Bioinformatics: A Concept-Based Introduction http://goo.gl/tjEZN
+329367490398392320  Apr 30 18:51  @katatonikkat     RT @galaxyproject: "BioBlend: automating pipeline analyses within Galaxy and CloudMan" by Sloggett et al. http://bit.ly/11AuV4O #usegalaxy
+329367822545342466  Apr 30 18:53  @genetics_blog    ELOPER: elongation of paired-end reads as a pre-processing tool for improved de novo genome assembly http://feedly.com/k/ZjroGN #bioinformatics
+329367977914925056  Apr 30 18:53  @AndySchwab5AM    Congrats to @ING_SYS and @ingenuityjake on sale to $QGEN! Most bioinformatics cos didn't survive the Y2K genomics bubble. #perserverence
+329368839978635264  Apr 30 18:57  @LifeSciVC        Very true. MT @AndySchwab5AM: Congrats to @ING_SYS & @ingenuityjake on sale! Most bioinformatics cos didn't survive the Y2K genomics bubble
+329370979455356928  Apr 30 19:05  @AlliJHarrison    Bioinformatics grows by billions | Healthcare IT News http://ow.ly/kzNwZ
+329371469815631872  Apr 30 19:07  @SAGRudd          bioinformatics - outrageously expensive but indispensable ~ BobPhillips #dhpforum
+329376926777090049  Apr 30 19:29  @marklcrowe       RT @SAGRudd: bioinformatics - outrageously expensive but indispensable ~ BobPhillips #dhpforum
+329377343539916802  Apr 30 19:30  @izaak_slays      in that time we had an additional bioinformatics exercise in which we cut the recombinant plasmid vector with restriction digest enzymes
+329377813981458433  Apr 30 19:32  @izaak_slays      dried, so the for second half of the lab i just walked around helping other people with the bioinformatics since i couldn't leave early.
+329379986358288384  Apr 30 19:41  @mathildesselle   RT @SAGRudd: bioinformatics - outrageously expensive but indispensable ~ BobPhillips #dhpforum
+329383122380656640  Apr 30 19:53  @druvus           RT @BioMickWatson: If I was to organise a workshop to discuss best practice for "embedded bioinformatics", would you come? http://t.co/B3NTJCVjQK
+329387297562841088  Apr 30 20:10  @imemeread        #Johnny #Hujol http://www.memeread.com/book/032133485x-java-for-bioinformatics.html Java for Bioinformatics
+329388619955572737  Apr 30 20:15  @Brian_Fitz00     RT @SAGRudd: bioinformatics - outrageously expensive but indispensable ~ BobPhillips #dhpforum
+329389117987233793  Apr 30 20:17  @WenbinWei        RT @WvSchaik: Comparison standard diagnostics and MiSeq sequencing (Nextera kit). Bioinformatics was performed blinded to clinical data #eccmid
+329391038198325249  Apr 30 20:25  @JACKLIFE1        News -Web based research: Bioinformatics - http://is.gd/gyPAJV
+329392897487163392  Apr 30 20:32  @googlyfish_uk    New #Job Post Bioinformatician / Analyst - Plant Bioinformatics http://gfi.sh/2wxKzs
+329394760223711232  Apr 30 20:40  @SegueHealth      Bioinformatics grows by billions http://goo.gl/zrM8x @hitnewstweet
+329396143421267969  Apr 30 20:45  @Hftysmrf         Say, this bioinformatics stuff is kinda fun.
+329397342346289152  Apr 30 20:50  @6sig             #Bioinformatics grows by billions on demand for #commercializing #proprietary information - http://goo.gl/qhRek
+329398103956402177  Apr 30 20:53  @netnewgrowth     RT @SegueHealth: Bioinformatics grows by billions http://goo.gl/zrM8x @hitnewstweet
+329402338194370561  Apr 30 21:10  @TheJobTweets     Bioinformatics Scientist - Affymetrix, Inc. -  Santa Clara, CA: candidate will work closely w... http://bit.ly/12jReuO #jobs #scientist
+329410465014890496  Apr 30 21:42  @heatherbowerman  RT @sheplusplus: Calling all women interested in medtech, biotech, and bioinformatics! HealthTech Women is hosting an event this... http://t.co/lfZWCgS1yx
+329411630041546755  Apr 30 21:47  @Bunds_Of_Steel   Being done with bioinformatics is easily one of the greater feelings of all time
+329414933429231616  Apr 30 22:00  @neilfws          Reviewers/editors. Please try to filter out the phrase "a novel web server" in future bioinformatics article titles: http://bioinformatics.oxfordjournals.org/cgi/content/short/btt168v2
+329416958296588288  Apr 30 22:08  @rnomics          A tool for #RNA sequencing sample identity check: Summary: #RNA sequencing data are... http://bit.ly/Yl1aZg #bioinformaticsj @MyEN
+329418376269139970  Apr 30 22:13  @healthcareITwiz  Bioinformatics grows by billions http://goo.gl/zrM8x
+329418856558891010  Apr 30 22:15  @cabreasy         bioinformatics mapping all night, gonna get wild #sciencetweets
+329420333096517632  Apr 30 22:21  @animesh1977      Improved ancestry inference using weights from external reference panels http://bit.ly/10r4GLQ
+329420335722151936  Apr 30 22:21  @animesh1977      MCScanX-transposed: detecting transposed gene duplications based on multiple colinearity scans http://bit.ly/18byvHN
+329420339878719488  Apr 30 22:21  @animesh1977      Bayesian hierarchical model of protein-binding microarray k-mer data reduces noise and identifies transcription... http://bit.ly/10r4GLU
+329420342529503233  Apr 30 22:21  @animesh1977      A tool for RNA sequencing sample identity check http://bit.ly/18byu6D
+329420345322901504  Apr 30 22:21  @animesh1977      A novel web server predicts amino acid residue protection against hydrogen-deuterium exchange http://bit.ly/10r4ImJ
+329420347621388289  Apr 30 22:21  @animesh1977      A support vector machine for identification of single-nucleotide polymorphisms from next-generation sequencing data http://bit.ly/18byu6F
+329420350209269760  Apr 30 22:21  @animesh1977      KGVDB: a population-based genomic map of CNVs tagged by SNPs in Koreans http://bit.ly/10r4H2n
+329422326951182336  Apr 30 22:29  @jkhedron         RT @genetics_blog: ELOPER: elongation of paired-end reads as a pre-processing tool for improved de novo genome assembly http://t.co/cqF6itv33E #bioinformatics
+329424694107316225  Apr 30 22:39  @EpiExperts       Over at RNA-Seq Blog is a Q&A with Broad Inst Mgr of Genome Annotatn, Outreach, Bioinf, and Analysis http://www.rna-seqblog.com/news/interview-brian-haas-manager-of-genome-annotation-outreach-bioinformatics-and-analysis-broad-institute/ -CW
+329426476644564993  Apr 30 22:46  @isugif           RT @genetics_blog: PathVisio-Faceted Search: An Exploration Tool for Multi-Dimensional Navigation of Large Pathways http://www.ncbi.nlm.nih.gov/pubmed/23547033 #bioinformatics
+329429081152172032  Apr 30 22:56  @ppgardne         http://bit.ly/11WjqoL (Bioinformatics grows by billions - Healthcare IT News)
+329430158161350657  Apr 30 23:00  @homolog_us       RT @genetics_blog: ELOPER: elongation of paired-end reads as a pre-processing tool for improved de novo genome assembly http://t.co/cqF6itv33E #bioinformatics
+329431603740819457  Apr 30 23:06  @temgc            RT @vsbuffalo: With @Github around, there's really no excuse for hosting bioinformatics programs as an unversioned .tar.gz on your academic homepage.
+329432220827795456  Apr 30 23:08  @Irisic7          New Canadian Bioinformatics and Computational Biology Tools Maximize ... - HPCwire: http://urlin.me/rvrq #lasko
+329441411353169921  Apr 30 23:45  @WetmoreAshley    Bioinformatics grows by billions | Healthcare IT News http://ow.ly/kzNyk
+329442867300925441  Apr 30 23:51  @victoriapan_     Changed my domain for bioinformatics and have done more in the last few hours than I have in the last few days.
+329444296468074498  Apr 30 23:56  @HaleyDoc         Bioinformatics grows by billions http://goo.gl/zrM8x
+329446597991727104  May  1 00:06  @SearchJobs_US    United States - Software Developer – Bioinformatics / Pharmaceutical / Life Sciences (USA) http://dlvr.it/3Jfpr1 - #Science
+329448163595390976  May  1 00:12  @MenakaSanthush   Web based research: Bioinformatics - Helium http://goo.gl/niqhs
+329448809237188609  May  1 00:14  @Biotwitlogy      RT @WvSchaik: Comparison standard diagnostics and MiSeq sequencing (Nextera kit). Bioinformatics was performed blinded to clinical data #eccmid
+329451501070213121  May  1 00:25  @stevepiccolo     Nice intro to current #bioinformatics tools and challenges: "Computational solutions for omics data" http://bit.ly/11B44Wj
+329468396360056832  May  1 01:32  @rajdeeppoddar    News in Bioinformatics is out! http://paper.li/rajdeeppoddar/1358939090 ▸ Top stories today via @NCBI
+329471199417626624  May  1 01:43  @GreekGeekGrl     Finally done with bioinformatics! Yay sleep time!! #isotired #doublemajorprobs
+329475060941340672  May  1 01:59  @RahmanJohnsonMD  RT @HaleyDoc: Bioinformatics grows by billions http://goo.gl/zrM8x
+329476659831009281  May  1 02:05  @inexorablist     Argh, bioinformatics.  But yay, literature! Unfortunately, the bioinformatics assignment is due this Friday.
+329478371706802176  May  1 02:12  @jdcarballeira    RT @robinysmith: Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave | TechCrunch http://buff.ly/11AKpYj
+329487125936488448  May  1 02:47  @Sry_i8theAPPLE   @DJ_Req statistics applied in bioinformatics
+329491968918953984  May  1 03:06  @CLIMBERcom       Bioinformatics Leader - (#jobs) http://goo.gl/fb/MFNQk
+329491986790883328  May  1 03:06  @KitKotte         News line -Web based research: Bioinformatics - http://www.helium.com/items/2050293-web-based-research-bioinformatics
+329493567384993792  May  1 03:12  @drchriscole      RT @BioMickWatson: If I was to organise a workshop to discuss best practice for "embedded bioinformatics", would you come? http://t.co/B3NTJCVjQK
+329493924555157504  May  1 03:14  @FindJobsUS       St. Jude Children's Research Hospital: Bioinformatics Associate Research Scientist (two openings): not specifi... http://bit.ly/ZTwyOk
+329504418942816256  May  1 03:55  @anilsiri19       NW Line - Web based research: Bioinformatics http://dld.bz/bJ5sW
+329507790995484672  May  1 04:09  @sciencepostings  St. Jude Children's Research Hospital: Bioinformatics Associate Research Scientist (two openings): not specifi... http://bit.ly/14Td3In
+329507792236982274  May  1 04:09  @sciencepostings  St. Jude Children's Research Hospital: Bioinformatics Associate Research Scientist (two openings): not specifi... http://bit.ly/14Td3ID
+329509404128985089  May  1 04:15  @BioMickWatson    @pjacock we have 2.4.3 as standard on all of our University servers.  Literally nothing I download for bioinformatics works.
+329510624931495936  May  1 04:20  @pjballester      Our paper on machine learning for cancer pharmacogenomics is out http://pedroballester.com/2013/05/01/new-paper-on-machine-learning-for-cancer-pharmacogenomics/ #chemoinformatics #bioinformatics #drugdiscovery
+329515577523707905  May  1 04:40  @Nikita_4189      I used to hate #bioinformatics but now, it seems #cool...Kinda like it..♥♥
+329520598059470849  May  1 05:00  @YourJobCoach1    | Research Scientist - Bioinformatics and Analytical Genomics | #Johnston IA | http://bit.ly/11WQjBL | #Hiring #Jobs #ApplyNow
+329522655202004992  May  1 05:08  @ardalby71        @TofuJude i just migrated you to divide students stats and bioinformatics from reality ;-)
+329528908636626945  May  1 05:33  @PhdGeek          Very relevant to many #bioinformatics scripts http://xkcd.com/1205/ #savingtime #ecrchat
+329529011137032192  May  1 05:33  @jameslz          HAL: a hierarchical format for storing and analyzing multiple genome alignments , http://bioinformatics.oxfordjournals.org/content/early/2013/04/10/bioinformatics.btt128.long
+329539937756135424  May  1 06:16  @EvaAlloza        RT @SAGRudd: bioinformatics - outrageously expensive but indispensable ~ BobPhillips #dhpforum
+329541718607269889  May  1 06:24  @imbiogeek        Currently seeking opportunities within bioinformatics (Life Science and Pharmaceutical Industry) or Finance Industry.
+329544243364372480  May  1 06:34  @yag_ays          Atul Gawandeの本読んだ． / 「コード・ブルー―外科研修医救急コール」読了 - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/05/01/review-complications/
+329546833368055808  May  1 06:44  @Diane_McKenna_   Download Exclusive Interview with Brian Haas, Manager of Genome Annotation,Bioinformatics & Analysis,Broad Institute http://rna-seqsummit.com/library
+329551849332015105  May  1 07:04  @Sri_Devan        RT @ppgardne: http://bit.ly/11WjqoL (Bioinformatics grows by billions - Healthcare IT News)
+329551997353205761  May  1 07:04  @FatGuyFix        find it interesting that google is hiring people in the field of bioinformatics ... Huge emerging field for those into computers & science.
+329557170683277312  May  1 07:25  @Feargal_Ryan     @ebacteriosivan It's true!! Well a bioinformatics post doc told me
+329557195966513152  May  1 07:25  @stk_tcr          bioinformaticsに決めた
+329557306578706432  May  1 07:25  @biovindhya       @Shraddhha Bioinformatics...on a job hunt rite nw...;)
+329568733846704128  May  1 08:11  @ogawa_tter       Canada: New research projects to enhance bioinformatics and computational biology tools & methodologies, Apr 25 2013 http://www.genomecanada.ca/en/about/news.aspx?i=431
+329569227444998145  May  1 08:13  @joanna_cyro      @mahaliahazaanes What kind of coding are you working on? Bioinformatics?
+329569705448837121  May  1 08:15  @naokob52         PeptideLocator: prediction of bioactive peptides in protein sequences http://bioinformatics.oxfordjournals.org/content/29/9/1120.short?rss=1
+329569925901467648  May  1 08:16  @naokob52         Peakr: simulating solid-state NMR spectra of proteins http://bioinformatics.oxfordjournals.org/content/29/9/1134.short?rss=1
+329571114168758272  May  1 08:20  @exp11            RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+329572549916774402  May  1 08:26  @PubLect2013      With all due respect, we are sorry that we weren't be able to discuss about the Bioinformatics Research Group yesterday
+329573921546452994  May  1 08:32  @Karelman         Bioinformatics is out! http://paper.li/Karelman/1353414629 ▸ Top stories today via @peccoud @emotiv
+329574427341750273  May  1 08:34  @PubLect2013      The bioinformatics research group (next:BRG) is leaded by Prof.Dr.Usman Sumo Friend Tambunan.,Msc
+329576231441948674  May  1 08:41  @PubLect2013      This metabolism class is lectured by both of them, and facilitated by other assistants from The Bioinformatics research Group.
+329576313264422913  May  1 08:41  @PubLect2013      The bioinformatics research group is using the groundbreaking softwares , such as MOE, GROMACS, Autodock, and others.
+329576813800075264  May  1 08:43  @C05T4            “@GENbio: Qiagen Snaps Up Ingenuity for $105m http://bit.ly/11zqqrh” Big money! Worthit, #Ingenuity offers unique bioinformatics services!
+329577127596941312  May  1 08:44  @PubLect2013      and primer design discoveries. However, the group had been working as well for the industrial application of bioinformatics,
+329578872314146816  May  1 08:51  @rnomics          Top #tweeted story in #bioinformatics: More advice to scientists on blogging http://ivory.idyll.org/blog/advice-to-scientists-on-blogging.html, see more http://tweetedtimes.com/rnomics/bioinfo
+329581185485398016  May  1 09:00  @BioMickWatson    please vote! If I was to organise a workshop to discuss best practice for "embedded bioinformatics", would you come? http://biomickwatson.wordpress.com/2013/04/23/a-guide-for-the-lonely-bioinformatician/#pd_a_7072372
+329581676885848066  May  1 09:02  @rskains1         Bioinformatics is projected to grow from $3.2B to $7.5B by 2017 http://ow.ly/kzK1v
+329582255666245632  May  1 09:05  @nathanbroon      RT @pjballester: Our paper on machine learning for cancer pharmacogenomics is out http://pedroballester.com/2013/05/01/new-paper-on-machine-learning-for-cancer-pharmacogenomics/ #chemoinformatics #bioinformatics #drugdiscovery
+329582857536286721  May  1 09:07  @PubLect2013      That's a bit information about The Bioinformatics Research Group in Department of Chemistry, University of Indonesia.
+329583631980961793  May  1 09:10  @Spencerc1991     "We have three penis foreskins!" #Bioinformatics #MisinterpretedSentence
+329585457908293632  May  1 09:17  @HealthTechOrg    Bioinformatics grows by billions http://goo.gl/zrM8x #Bioinformatics #Informatics #BigData #EHR #HIE #HealthcareIT #HIT #Healthcare
+329585529995804673  May  1 09:18  @GTRA             Bioinformatics grows by billions http://goo.gl/zrM8x #Bioinformatics #Informatics #BigData #EHR #HIE #HealthcareIT #HIT #Healthcare
+329586073565024257  May  1 09:20  @PhdGeek          It's years since I've thought in terms of FPs & FNs, Sensitivity & Specificity etc. Taking a while to get back into it. #bioinformatics
+329588039296901120  May  1 09:28  @MITBiology       5/1: Bioinformatics Seminar Series, 11:30am-1:00pm, TOC Lab Stata Center 32-G575http://bit.ly/102T5T6
+329588770045313024  May  1 09:31  @apinhellgod      RT @MITBiology: 5/1: Bioinformatics Seminar Series, 11:30am-1:00pm, TOC Lab Stata Center 32-G575http://bit.ly/102T5T6
+329588920293675008  May  1 09:31  @SahaSurya        @InSequence covers @PLOSCompBiol @iontorrent error paper http://www.genomeweb.com/sequencing/study-delves-nature-indel-errors-ion-torrent-pgm-data ppr: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003031 #NGS #bioinformatics
+329588939063169025  May  1 09:31  @Bunds_Of_Steel   Bioinformatics, stats, teaching, microeconomics. Way to put the last day on a Wednesday eastern. #cmonson
+329589284866768896  May  1 09:33  @KDMPremierCare   RT @HealthTechOrg: Bioinformatics grows by billions http://goo.gl/zrM8x
+329595040890507266  May  1 09:55  @matthew_ryan     Pretty neat. #UIUC bioinformatics student made this interactive world map showing campus diversity: http://www.claygregory.com/projects/diversity-at-illinois/#countries
+329595061782331392  May  1 09:56  @JohnMHancock     ChemoPy: freely available #python package for computational biology and chemoinformatics http://bioinformatics.oxfordjournals.org/content/29/8/1092.abstract #notOA
+329595216065605632  May  1 09:56  @moyocatur        @MsIsna waa ternyata isna ahli bioinformatics. Ajari aku kak ajari, aku cm org service komputer
+329601467688316929  May  1 10:21  @OpenHelix        RT @ResearchBlogs: Video Tip of the Week: My Cancer Genome http://goo.gl/fb/pon9A #bioinformatics #genomics
+329602000465575937  May  1 10:23  @DrDuaneHassane   Potentially useful ... A tool for RNA sequencing sample identity check http://ow.ly/kBvLG
+329602305655721984  May  1 10:24  @DrDuaneHassane   RSVSim: an R/Bioconductor package for the simulation of structural variations http://ow.ly/kBvYy
+329606513943539712  May  1 10:41  @victordillard    #Genetic research tools firm secures $20M funding. #bioinformatics #DNA #genetics #lifesciences http://www.genomeweb.com/pcrsample-prep/raindance-technologies-closes-20m-series-e-financing-myriad-genetics-buys
+329608435446468608  May  1 10:49  @pathogenomenick  Set up a Galaxy instance and Galaxy LIMS in under an hour. Impressive stuff. http://bioinformatics.oxfordjournals.org/content/29/9/1233.long Need to adapt it for MiSeq runs though
+329608546234798082  May  1 10:49  @naokob52         The role of structural bioinformatics resources in the era of integrative structural biology http://onlinelibrary.wiley.com/doi/10.1107/S0907444913001157/pdf
+329609936692719616  May  1 10:55  @druvus           ELOPER: elongation of paired-end reads as a pre-processing tool for improved de novo genome assembly http://bit.ly/Zy6mYj #sequencing
+329610370681540609  May  1 10:56  @GreenwayMedical  Global bioinformatics projected to grow over $4 billion by 2017. See what that means for the future of #healthcare: http://ow.ly/kBqp2
+329612426435760128  May  1 11:05  @ARTEMIA_Comm     Big data for healthcare continues to be a profitable area: Bioinformatics grows by billions http://hub.am/101PF30 via @HealthcareITNew
+329612515266928641  May  1 11:05  @TimWhitworth     Bioinformatics and biological resources fund that align with BBSRC three key research priorities http://www.bbsrc.ac.uk/funding/opportunities/2013/2013-bioinformatics-biological-resources-fund.aspx?utm_source=SEG+Internal+Newsletter&utm_campaign=29f6591ca1-SEG+April+Int+Newsletter&utm_medium=email#.UYEuy656Yb8.twitter
+329613953057554432  May  1 11:11  @ctitusbrown      RT @pathogenomenick: Set up a Galaxy instance and Galaxy LIMS in under an hour. Impressive stuff. http://bioinformatics.oxfordjournals.org/content/29/9/1233.long Need to adapt it for MiSeq runs though
+329614824738783233  May  1 11:14  @bioinformatics   I feel like a "github for science" needs to handle extremely large files and continuously integrate so you know the analysis actually works.
+329615017718714370  May  1 11:15  @pathogenomenick  @bioinformatics I agree
+329616781876531201  May  1 11:22  @notSoJunkDNA     RT @DrDuaneHassane: RSVSim: an R/Bioconductor package for the simulation of structural variations http://ow.ly/kBvYy
+329616963179524096  May  1 11:23  @HMShlthexperts   RT @HITNewsTweet: Bioinformatics grows by billions http://ow.ly/kzK1v | #Healthcare IT News from @Bernie_HITN
+329618043925831680  May  1 11:27  @tmj_RAM_eng      #Engineering #Job in #BriarcliffManor , NY: Clinical Bioinformatics Scientist -... at Philips North America http://bit.ly/YdiOsj
+329619083035299840  May  1 11:31  @HITNewsTweet     Bioinformatics grows by billions http://ow.ly/kBtqW | #Healthcare IT News
+329619116442918912  May  1 11:31  @ctitusbrown      Listening to George Djorgovski keynote at EDRN Cancer Biomarker Bioinformatics workshop http://edrn.nci.nih.gov/cancer-bioinformatics-workshop #edrn
+329619649559924737  May  1 11:33  @johnrzaleski     RT @HITNewsTweet: Bioinformatics grows by billions http://ow.ly/kBtqW | #Healthcare IT News
+329620361077469184  May  1 11:36  @UTHealth_SBMI    A career in #bioinformatics looks promising, to say the least. RT @HITNewsTweet Bioinformatics grows by billions http://ow.ly/kBtqW
+329621307937406976  May  1 11:40  @AllieMacLeay     RT @HITNewsTweet: Bioinformatics grows by billions http://ow.ly/kBtqW | #Healthcare IT News
+329621528847204352  May  1 11:41  @AEGISnet         #Bioinformatics grows by billions. http://goo.gl/yBbxl
+329623086817218563  May  1 11:47  @genetics_blog    RT @HITNewsTweet: #Bioinformatics grows by billions http://ow.ly/kBtqW
+329623560551272450  May  1 11:49  @kebubu           Bioinformatics kind of stuff on Ted today :-)
+329623962147487745  May  1 11:50  @GenomeScience    RT @genetics_blog: RT @HITNewsTweet: #Bioinformatics grows by billions http://ow.ly/kBtqW
+329624479577808897  May  1 11:52  @DNAmlin          RT @genetics_blog: RT @HITNewsTweet: #Bioinformatics grows by billions http://ow.ly/kBtqW
+329624704296038401  May  1 11:53  @cmualum2008      RT @westr: Doesn't it seem like a no-brainer for new couples? @Counsyl Pioneering A New Bioinformatics Wave http://tcrn.ch/15FhOFb #pm101 @kimmaicutler
+329625185873436673  May  1 11:55  @GenomeInABottle  New blog at http://www.genomeinabottle.org: [Working Group - Bioinformatics, Data Integration, and Data Representation] May 10 Bioinformatics Wo...
+329627193418330113  May  1 12:03  @mariochao        RT @HITNewsTweet: Bioinformatics grows by billions http://ow.ly/kBtqW | #Healthcare IT News
+329627746311499776  May  1 12:05  @dr_ohsopretty    but i might need to audit this Bioinformatics: Analyzing High Throughput Sequencing Data course tho
+329628492570439680  May  1 12:08  @druvus           RT @pathogenomenick: Set up a Galaxy instance and Galaxy LIMS in under an hour. Impressive stuff. http://bioinformatics.oxfordjournals.org/content/29/9/1233.long Need to adapt it for MiSeq runs though
+329628601806897155  May  1 12:09  @ericmiska        RT @DrDuaneHassane: RSVSim: an R/Bioconductor package for the simulation of structural variations http://ow.ly/kBvYy
+329629336338579456  May  1 12:12  @HMShlthexperts   RT @HITNewsTweet: Bioinformatics grows by billions http://ow.ly/kBtqW | #Healthcare IT News
+329629558909325312  May  1 12:13  @SEQquestions     List of RNA-Seq bioinformatics tools http://bit.ly/159J5jN
+329632574131535873  May  1 12:25  @cyphergenomics   Market growth driven by clinical #genomics.  #Bioinformatics grows by billions @HITNewsTweet http://bit.ly/11Cqab5
+329632615458013186  May  1 12:25  @SciSolutions     #Bioinformatics Population Frequency of B allele file http://bit.ly/12VOAOu
+329633066706419713  May  1 12:27  @VisualSoftInc    Are you a good fit for this job? C/C++ Bioinformatics Developer in Bethesda, MD http://bull.hn/l/NK05/6 #job
+329633452011945984  May  1 12:28  @EduEyras         RT @SEQquestions: List of RNA-Seq bioinformatics tools http://bit.ly/159J5jN
+329635973795287040  May  1 12:38  @ajay1rana        RT @SciSolutions: #Bioinformatics Population Frequency of B allele file http://bit.ly/12VOAOu
+329636589917569025  May  1 12:41  @evolvability     RT @cyphergenomics: Market growth driven by clinical #genomics.  #Bioinformatics grows by billions @HITNewsTweet http://bit.ly/11Cqab5
+329637207780491265  May  1 12:43  @phil_colson      @K_Mart319 Biochem major for three years, bioinformatics for two.  I still don't know what they do.  Just that more decimal places is better
+329638431296720896  May  1 12:48  @Bonnieera7730    #ladygaga Classification and Learning Using Genetic Algorithms: Applications in Bioinformatics and Web Intelli... http://q.gs/4BWjy
+329638630639419392  May  1 12:49  @_AJV_            bioinformatics market to grow to over 7 bn dollar market.. http://www.healthcareitnews.com/news/bioinformatics-grows-billions
+329639582599626753  May  1 12:52  @biogrid          Our 100th BioGRID Release! Version 3.2.100 has 4,092 new physical and genetic interactions. http://thebiogrid.org/ #bioinformatics #biology
+329639825684701184  May  1 12:53  @Carroll_Chamber  RT @GreenwayMedical: Global bioinformatics projected to grow over $4 billion by 2017. See what that means for the future of #healthcare: http://t.co/2x3TuaIXPY
+329639911823126528  May  1 12:54  @ctitusbrown      Storify of Djorgovski talk tweets at #edrn Cancer Biomarker Bioinformatics wkshp: http://sfy.co/hIpp @augustmuench @EpgntxEinstein
+329639967175356416  May  1 12:54  @EpgntxEinstein   RT @ctitusbrown: Storify of Djorgovski talk tweets at #edrn Cancer Biomarker Bioinformatics wkshp: http://sfy.co/hIpp @augustmuench @EpgntxEinstein
+329641095321497600  May  1 12:58  @pjacock          @bioinformatics @pathogenomenick If you use @GitHub with @TravisCI you’re part way there (continuous integration testing). Large data harder
+329641291371667456  May  1 12:59  @F1000Posters     #Computational model of transcription factor binding in prokaryotes http://f1000.com/posters/browse/summary/1090104 #bioinformatics #cell #biology #microbiology #DNA
+329641685770436608  May  1 13:01  @alanmrice        RT @biogrid: Our 100th BioGRID Release! Version 3.2.100 has 4,092 new physical and genetic interactions. http://thebiogrid.org/ #bioinformatics #biology
+329643606140915713  May  1 13:08  @pk_tweets        RT @SickKidsNews: 2 SickKids-led teams awarded bioinformatics & computational biology grants from @GenomeCanada & @ontariogenomics: http://t.co/YwXSufkWK3
+329646727923642369  May  1 13:21  @SahaSurya        @cwvhogue: Inverting #Metagenomics Pipelines - 10 things you may not know about RPS-BLAST http://bioimplement.blogspot.sg/2013/04/open-science-inverting-metagenomics.html #bioinformatics #NGS
+329648365681917952  May  1 13:27  @NEdgingtonPhD    RT @F1000Posters: #Computational model of transcription factor binding in prokaryotes http://f1000.com/posters/browse/summary/1090104 #bioinformatics #cell #biology #microbiology #DNA
+329649946586398721  May  1 13:34  @theoneamit       RT @ctitusbrown: Storify of Djorgovski talk tweets at #edrn Cancer Biomarker Bioinformatics wkshp: http://sfy.co/hIpp @augustmuench @EpgntxEinstein
+329650568467451905  May  1 13:36  @isugif           RT @genetics_blog: RT @HITNewsTweet: #Bioinformatics grows by billions http://ow.ly/kBtqW
+329650961410822144  May  1 13:38  @waspsystem       RT @ctitusbrown: Storify of Djorgovski talk tweets at #edrn Cancer Biomarker Bioinformatics wkshp: http://sfy.co/hIpp @augustmuench @EpgntxEinstein
+329654705171095553  May  1 13:53  @bioinformatics   We need a "travis.ci for science" rather than a "github for science." /cc @pjacock @pathogenomenick
+329655053080211456  May  1 13:54  @arthegall        @edwardbenson there'd be a ton in bioinformatics...
+329655579243061248  May  1 13:56  @biovindhya       Any #socialmedia jobs in the field of #lifesciences #biotech #bioinformatics  Please lemme knw at vindhya@live.in
+329660575024033793  May  1 14:16  @augustmuench     RT @ctitusbrown: Storify of Djorgovski talk tweets at #edrn Cancer Biomarker Bioinformatics wkshp: http://sfy.co/hIpp @augustmuench @EpgntxEinstein
+329664012444893185  May  1 14:30  @TwoGiraffes      @vsbuffalo Vince, this tweet gave me a hearty chuckle this morning. I agree, but offered some more insight here http://www.reddit.com/r/bioinformatics/comments/1dey7o/banyan_the_github_of_science_launched_here_months/c9q5bo1
+329666109588533248  May  1 14:38  @dkemmer34        New Canadian #Bioinformatics and Computational Biology Tools Maximize Genomics Research http://www.hpcwire.com/hpcwire/2013-04-30/new_canadian_bioinformatics_and_computational_biology_tools_maximize_genomics_research.html #Canada
+329666717032787969  May  1 14:40  @IcarianCPS       Bioinformatics grows by billions | Healthcare IT News - Mozilla Firefox http://ow.ly/kBpXY

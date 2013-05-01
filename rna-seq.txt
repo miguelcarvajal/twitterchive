@@ -1208,6 +1208,7 @@
 327250968829898752  Apr 24 22:41  @Science_Alerts   http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HCctF
 327252456096534529  Apr 24 22:47  @Life_Sciences_   http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HCfgD
 327252487360884737  Apr 24 22:47  @JamesLZ          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
+327252487360884737  Apr 24 22:47  @jameslz          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
 327272525732143104  Apr 25 00:07  @BiologyMag       http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HDF79
 327317362514739200  Apr 25 03:05  @drchriscole      RT @aemonten: Measurement of mRNA abundance using RNA-Seq  data: RPKM is inconsistent among samples http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf
 327317562297835520  Apr 25 03:06  @Masamichi_C2     RNA-Seqの発現量データの解析に手こずるとか情弱すぎる。
@@ -1247,3 +1248,57 @@
 327765593824575488  Apr 26 08:46  @tebubio          #SFGCurie2013: Poster Session! It’s time to learn more about the revolution in RNA-seq....(http://bit.ly/ZOwrhg) #TotalScript
 327766067025940480  Apr 26 08:48  @fiamh            RT @EduEyras: Nice summary and picture about methods to analyze RNA-Seq for isoform quantification and diff. splicing  http://t.co/Hc16hDB3UO
 327766517867495426  Apr 26 08:50  @laxvid           RT @EduEyras: Nice summary and picture about methods to analyze RNA-Seq for isoform quantification and diff. splicing  http://t.co/Hc16hDB3UO
+327780460333780992  Apr 26 09:45  @rnomics          Exponential-negative-Binomial model – for gene... http://bit.ly/11HZzeb #ExpressionandQuantification #deepsequencing #RNAseq @MyEN
+327780462506409984  Apr 26 09:45  @rnomics          Analysis of a simple #RNA-Seq experiment: This tutorial shows the analysis of... http://bit.ly/11HZx5Y #DataAnalysis #RNASeq #RNAseq @MyEN
+327799241063944192  Apr 26 11:00  @CambioLtd        New TotalScript RNA-Seq kits for low input RNA-seq library prep retains all transcripts http://www.cambio.co.uk/1486/68/products/totalscript-rna-seq-kit/
+327810437573922816  Apr 26 11:44  @genetics_blog    Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+327812138800390144  Apr 26 11:51  @hiro_h           RT @genetics_blog: Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+327814173759258626  Apr 26 11:59  @notSoJunkDNA     A model based criterion for gene expression calls using RNA-seq data  http://link.springer.com/article/10.1007%2Fs12064-013-0178-3 (via http://RNA-Seqblog.com)
+327820472022597632  Apr 26 12:24  @kiwi_k1          RT @genetics_blog: Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+327825245471928321  Apr 26 12:43  @genetics_blog    A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+327826642921717761  Apr 26 12:48  @DrDuaneHassane   RT @notSoJunkDNA: A model based criterion for gene expression calls using RNA-seq data  http://link.springer.com/article/10.1007%2Fs12064-013-0178-3 (via http://RNA-Seqblog.com)
+327827387695894528  Apr 26 12:51  @stochastic_jedi  RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+327829335119634433  Apr 26 12:59  @CantuLab         RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+327829417030193153  Apr 26 12:59  @razZ0r           RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+327833541142528001  Apr 26 13:16  @dnanexus         RT @genetics_blog: Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+327844443082338304  Apr 26 13:59  @n5jky            @AB3UM Yes, we're getting ready for some rounds of RNA-seq
+327866994693120000  Apr 26 15:29  @drchriscole      RT @notSoJunkDNA: A model based criterion for gene expression calls using RNA-seq data  http://link.springer.com/article/10.1007%2Fs12064-013-0178-3 (via http://RNA-Seqblog.com)
+327869446221869057  Apr 26 15:39  @JokeReumers      RT @genetics_blog: Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+327874876759228416  Apr 26 16:00  @LaoSaal          RT @vsbuffalo: @mbeisen @graham_coop For RNA-seq, scaling factors impose null H. Slide 36 from Dudoit's April 9, 2010 talk is great: http://t.co/3A5d0llstp
+327905325539794945  Apr 26 18:01  @Ferdix           RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+327954662164668416  Apr 26 21:17  @SEQquestions     How do you calculate standard deviation on replicate RNA-seq data? http://bit.ly/Y32A8o
+328093120170446848  Apr 27 06:27  @rnomics          Identifying differentially spliced genes from two groups of #RNA-seq samples.: Related... http://1.usa.gov/11KuTcd #Gene #Pubmed @MyEN
+328165376338821120  Apr 27 11:14  @marc_rr          RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+328285108828258304  Apr 27 19:10  @amfoes           RT @EduEyras: The short review about methods to study splicing from RNA-Seq is now available at http://arxiv.org/abs/1304.5952
+328323141480882176  Apr 27 21:41  @BiologyD         RT @BlueSEQ: RT @EduEyras: We've tried to capture the diversity of methods to study splicing from RNA-Seq http://t.co/ADzyDSZf6e (via @daleyuzuki)
+328523741405528064  Apr 28 10:58  @mcaccamo         @KathyBelov platypus venom causes excruciating pain that can last for months. Genome/RNA-seq has helped to map  "88 venom genes" #G10K
+328524209783447553  Apr 28 11:00  @isugif           RT @genetics_blog: Tophat2 paper out. Compares with STAR, GSNAP, others. PDF: http://genomebiology.com/content/pdf/gb-2013-14-4-r36.pdf #bioinformatics RNA-seq #NGS @myen
+328525900356395008  Apr 28 11:07  @KathyBelov       RT @mcaccamo: @KathyBelov platypus venom causes excruciating pain that can last for months. Genome/RNA-seq has helped to map  "88 venom genes" #G10K
+328850935692537857  Apr 29 08:39  @rnomics          RNA-Seq analyses reveal the order of tRNA... http://bit.ly/153S7yZ #Publications #TranscriptomeSequenced #deepsequencing #RNAseq @MyEN
+328851174776262656  Apr 29 08:40  @CambioLtd        EpiCentral: Introducing TotalScript RNA-Seq kit http://epicentral.blogspot.com/#.UX5p_sal9u4.twitter
+329029815363596288  Apr 29 20:29  @CancerComputeCl  primary analysis done (RNA-seq, 2x51PE, mm9): TopHat:  aligned reads, % clonal; CuffLinks: OK
+329117426946039808  Apr 30 02:18  @PlantTeaching    Free Primer: Principles of transcriptome analysis.. an RNA-seq tutorial. JB Wolf. HT @fmartin1954 http://sco.lt/5EvLe5
+329176992526245888  Apr 30 06:14  @WvSchaik         Wow! Vincent used Helicos sequencing for RNA-seq! Only application of Helicos ever? #eccmid
+329238416833269762  Apr 30 10:18  @NucDiv           MMAPPR: Mutation Mapping Analysis Pipeline for Pooled RNA-seq http://flip.it/a42Q8 @myen
+329253399365287936  Apr 30 11:18  @MGClaros         Tutorial práctico para aprender a hacer RNA-Seq, desde extraer el RNA hasta el análisis http://www.rna-seqblog.com/methods/workflow/principles-of-transcriptome-analysis-and-gene-expression-quantification-an-rna-seq-tutorial/
+329288408847495168  Apr 30 13:37  @SahaSurya        #SMBEeuks @pdcountway Single cell protist isolation > RNA seq > DNA seq for getting higher resolution of metagenomic diversity
+329302038347395072  Apr 30 14:31  @ALFAnimalLib     Cute!Lets torture her w/useless experiments RT“Anole Lizard genome,which uses RNA-Seq data.Very cute lizard pic too" http://buff.ly/11guYEh
+329302166399488000  Apr 30 14:32  @simon_oldman     RT @ALFAnimalLib: Cute!Lets torture her w/useless experiments RT“Anole Lizard genome,which uses RNA-Seq data.Very cute lizard pic too" http://t.co/6BbVjW4Nr8
+329346623916363776  Apr 30 17:28  @rnomics          Exploring Differentially Expressed Genes by #RNA-Seq in Cashmere Goat (Capra hircus) Skin during Hair... http://bit.ly/101suac #PLoS @MyEN
+329397326953189377  Apr 30 20:50  @rnomics          Simultaneous Transcriptome Analysis of Sorghum and Bipolaris sorghicola by Using #RNA-seq in... http://bit.ly/YkTmH1 #PLoS @MyEN
+329420021854007297  Apr 30 22:20  @dritoshi         Single-cell RNA-Seq: Quartz-Seqの名前由来 http://ecpdcnra.blogspot.com/2013/04/quartz-seq.html
+329420159473295361  Apr 30 22:21  @dritoshi         Single-cell RNA-Seq: LIMprep protocol (Quartz-Seq) http://ecpdcnra.blogspot.com/2013/04/limprep-protocol-from-quartz-seq.html
+329424694107316225  Apr 30 22:39  @EpiExperts       Over at RNA-Seq Blog is a Q&A with Broad Inst Mgr of Genome Annotatn, Outreach, Bioinf, and Analysis http://www.rna-seqblog.com/news/interview-brian-haas-manager-of-genome-annotation-outreach-bioinformatics-and-analysis-broad-institute/ -CW
+329440946519420928  Apr 30 23:43  @Biotwitlogy      RT @WvSchaik: Wow! Vincent used Helicos sequencing for RNA-seq! Only application of Helicos ever? #eccmid
+329447728742543360  May  1 00:10  @blackshadow0     [400 science][464 RNA][651 NGS]『Quartz-Seqは2013/4/23現在、最も感度が高く最も再現性の高い1細胞RNA-Seq法です』 / “Single-cell RNA-Seq: Quartz…” http://htn.to/HU4PT9
+329516785114165249  May  1 04:44  @ecSeq            Nice little overview of RNA-seq, its possibilities and problems (http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12109/full)
+329529868230467585  May  1 05:36  @EduEyras         RT @ecSeq: Nice little overview of RNA-seq, its possibilities and problems (http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12109/full)
+329547926089134080  May  1 06:48  @Diane_McKenna_   Exhibit at RNA-Seq 2013 focusing exclusively on the methods and applications of RNA #sequencing. #RNAseq #genomics http://rna-seqsummit.com/sponsor-or-exhibit
+329548626609176576  May  1 06:51  @kiwi_k1          RT @ecSeq: Nice little overview of RNA-seq, its possibilities and problems (http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12109/full)
+329571114168758272  May  1 08:20  @exp11            RT @genetics_blog: A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91/ #bioinformatics cc @isugif
+329581436573196289  May  1 09:01  @gedankenstuecke  Simultaneous Transcript. Analysis of Sorghum & Bipolaris sorghicola using RNA-seq & De Novo assebl. http://j.mp/18cuzGS /cc @PhilippBayer
+329583773047988225  May  1 09:11  @rnomics          RNA-Seq vs Microarray for Differential Expression: Researchers at the National... http://bit.ly/YmczIc #Publications #RNAseq @MyEN
+329585769582821377  May  1 09:19  @rnomics          Introductory Course – The Power of #RNA-seq: General... http://bit.ly/YmdHLR #Events #DataAnalysis #differentialexpression #RNAseq @MyEN
+329629558909325312  May  1 12:13  @SEQquestions     List of RNA-Seq bioinformatics tools http://bit.ly/159J5jN
+329633452011945984  May  1 12:28  @EduEyras         RT @SEQquestions: List of RNA-Seq bioinformatics tools http://bit.ly/159J5jN
+329652350308470785  May  1 13:43  @Clontech         Happy to announce our new RNA-Seq kit for cDNA synthesis from low input FFPE samples http://ht.ly/kBZog http://t.co/vKdHJwKRc7
