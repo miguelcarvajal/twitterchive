@@ -104,7 +104,7 @@ twitterchivePlots <- function (filename=NULL) {
     head(wordstable)
     png(paste(searchTerm, "wordcloud.png", sep="--"), w=800, h=800)
     wordcloud(wordstable$words, wordstable$Freq, scale = c(8, .2), min.freq = 3, max.words = 200, random.order = FALSE, rot.per = .15, colors = brewer.pal(8, "Dark2"))
-    mtext(paste(paste("Term:", searchTerm), paste("Date:", Sys.Date()), sep=";"), cex=1.5)
+    #mtext(paste(paste("Term:", searchTerm), paste("Date:", Sys.Date()), sep=";"), cex=1.5)
     dev.off()
     
     message(paste(searchTerm, ": All done!\n"))
