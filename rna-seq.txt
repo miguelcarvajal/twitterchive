@@ -1540,3 +1540,97 @@
 334328048176488448  May 14 11:23  @finchtalk        Sneak Peek: Elucidating the Effects of the Deep Water Horizon Oil Spill on the Atlantic Oyster Using RNA-Seq http://bit.ly/14kbGyp
 334328215562756100  May 14 11:23  @DNAmlin          RT @nextgenseek: Large Scale Genetics of Human Gene Expression Studies Turn To Next-Gen Sequencing  http://nextgenseek.com/2013/05/large-scale-genetics-of-human-gene-expression-studies-turn-to-next-gen-sequencing/#.UZIZkEoOTC8.twitter #bog13 #rna-seq #ngs
 334345131744440320  May 14 12:31  @sleight82        RT @galaxyproject: Just discovered: Tutorials by Lance Parsons on RNA-Seq, ChIP-Seq, SNP & Indels, and IGV all using Galaxy  http://t.co/xHyIX98HpP #usegalaxy
+334375322822799363  May 14 14:31  @rnomics          Optimizing de novo assembly of short-read #RNA-seq data for phylogenomics: Background: #RNA-seq has... http://bit.ly/19oPLHf #BMC @MyEN
+334397972982931456  May 14 16:01  @rnomics          Featured #RNA-Seq Job – Scientist – Genome Analysis Unit – Amgen: Auto req 18388BR Job... http://bit.ly/YTUdP1 #Jobs #RNAseq @MyEN
+334415224100773888  May 14 17:09  @DrJCThrash       Optimizing de novo assembly of short-read RNA-seq data for phylogenomics http://www.biomedcentral.com/1471-2164/14/328/abstract?utm_source=feedly
+334420580885475329  May 14 17:30  @GuiomeNicolas    RT @DrJCThrash: Optimizing de novo assembly of short-read RNA-seq data for phylogenomics http://www.biomedcentral.com/1471-2164/14/328/abstract?utm_source=feedly
+334559939458658304  May 15 02:44  @dritoshi         「KAPA Biosystems社製品を用いて開発された”LIMprep法”が応用されている「高感度な単一細胞のRNA-Seq」に関する論文が発表されました。」 次世代DNAシーケンサー関連製品(LP, LA, LQキットなど）  http://www.n-genetics.com/product_detail.html?item_id=4332
+334561148890386432  May 15 02:49  @kaittenage       checking out the seqware VM to check details on how UNC pre-processed some of the lung adenocarcinoma rna-seq data in cancer genome atlas
+334586287363342336  May 15 04:29  @CancerComputeCl  lung primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 69757602 aligned reads, 79.03% clonal; CuffLinks: OK
+334586338777120768  May 15 04:29  @rnomics          Are all of the human exons alternatively spliced? | #RNA-Seq Blog: http://rna-seqblog.com... http://bit.ly/19kAU0E #rnomics_bioinfo @MyEN
+334592120084123648  May 15 04:52  @CancerComputeCl  heart primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 83153140 aligned reads, 64.56% clonal; CuffLinks: OK
+334606253487706112  May 15 05:48  @ecPDCNRA         少ないボリュームに最適化したマグネットスタンドの商品化。磁力と位置取りがよい。NGS MagnaStand 8Ch（日本ジェネティクス社）Single-cell RNA-Seq: 微量サンプル用マグネットスタンドの商品化 http://ecpdcnra.blogspot.com/2013/05/blog-post.html?spref=tw
+334608844414124032  May 15 05:58  @dritoshi         RT @ecPDCNRA: 少ないボリュームに最適化したマグネットスタンドの商品化。磁力と位置取りがよい。NGS MagnaStand 8Ch（日本ジェネティクス社）Single-cell RNA-Seq: 微量サンプル用マグネットスタンドの商品化 http://t.co/zOdnzeEy2Y
+334609967879434240  May 15 06:03  @yoshidamasaaki   RT @ecPDCNRA: 少ないボリュームに最適化したマグネットスタンドの商品化。磁力と位置取りがよい。NGS MagnaStand 8Ch（日本ジェネティクス社）Single-cell RNA-Seq: 微量サンプル用マグネットスタンドの商品化 http://t.co/zOdnzeEy2Y
+334613060822118401  May 15 06:15  @CancerComputeCl  kidney primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 87842253 aligned reads, 62.64% clonal; CuffLinks: OK
+334651909308829696  May 15 08:50  @rnomics          Small #RNA-seq of human granulosa cells reveals miRNAs in FSHR... http://bit.ly/19sw6Xc #Publications #FSHR #granulosacell #RNAseq @MyEN
+334651912303570944  May 15 08:50  @rnomics          Sequence Comparative Analysis using Networks (SCAN) – software... http://bit.ly/19sw7ds #TranscriptomeAssemblyTools #RNASeq #RNAseq @MyEN
+334668628563738625  May 15 09:56  @rnomics          Updating #RNA-Seq analyses after re-annotation: The estimation of isoform abundances from... http://bit.ly/19sNkDB #bioinformaticsj @MyEN
+334671231175512064  May 15 10:06  @animesh1977      Updating RNA-Seq analyses after re-annotation http://bit.ly/17uz150
+334674045264089088  May 15 10:18  @rnomics          BRANCH: boosting #RNA-Seq assemblies with partial or related genomic sequences:... http://bit.ly/YVPYT6 #bioinformaticsj @MyEN
+334674048082653184  May 15 10:18  @rnomics          Shrinkage estimation of dispersion in Negative Binomial models for #RNA-seq experiments... http://bit.ly/YVQ0uf #bioinformaticsj @MyEN
+334684458701684736  May 15 10:59  @BiologIT         Shrinkage estimation of dispersion in Negative Binomial models for RNA-seq experiments with small sample size:...  http://bit.ly/lgZD8f
+334684462220722177  May 15 10:59  @BiologIT         BRANCH: boosting RNA-Seq assemblies with partial or related genomic sequences: Motivation: De novo transcripto...  http://bit.ly/lgZD8f
+334686490015703041  May 15 11:07  @DrNyao           RT @ecPDCNRA: 少ないボリュームに最適化したマグネットスタンドの商品化。磁力と位置取りがよい。NGS MagnaStand 8Ch（日本ジェネティクス社）Single-cell RNA-Seq: 微量サンプル用マグネットスタンドの商品化 http://t.co/zOdnzeEy2Y
+334699482581180418  May 15 11:59  @DrJCThrash       BRANCH: boosting RNA-Seq assemblies with partial or related genomic sequences http://bioinformatics.oxfordjournals.org/content/29/10/1250.short?rss=1&utm_source=feedly
+334700362428735489  May 15 12:02  @SEQquestions     Supplementing WGS variant calls with RNA-Seq http://bit.ly/13luZFc
+334701773229010945  May 15 12:08  @BioMickWatson    BRANCH: boosting RNA-Seq assemblies with partial or related genomic sequences http://bioinformatics.oxfordjournals.org/cgi/content/long/29/10/1250
+334705673361293312  May 15 12:23  @hquesneville     RT @BioMickWatson: BRANCH: boosting RNA-Seq assemblies with partial or related genomic sequences http://bioinformatics.oxfordjournals.org/cgi/content/long/29/10/1250
+334711078380511233  May 15 12:45  @Point_Mutation   RT @BioMickWatson: BRANCH: boosting RNA-Seq assemblies with partial or related genomic sequences http://bioinformatics.oxfordjournals.org/cgi/content/long/29/10/1250
+334716937387008000  May 15 13:08  @genetics_blog    Updating RNA-Seq analyses after re-annotation. #Bioinformatics paper:  http://bioinformatics.oxfordjournals.org/content/early/2013/05/14/bioinformatics.btt197.short?rss=1&utm_source=feedly App: http://bio.math.berkeley.edu/ReXpress/
+334719700493799425  May 15 13:19  @cistronic        RT @genetics_blog: Updating RNA-Seq analyses after re-annotation. #Bioinformatics paper:  http://bioinformatics.oxfordjournals.org/content/early/2013/05/14/bioinformatics.btt197.short?rss=1&utm_source=feedly App: http://bio.math.berkeley.edu/ReXpress/
+334729825346539521  May 15 13:59  @CancerComputeCl  MG11 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 84688997 aligned reads, 70.11% clonal; CuffLinks: OK
+334742298543943681  May 15 14:49  @CancerComputeCl  MG10 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 90318014 aligned reads, 71.47% clonal; CuffLinks: OK
+334750433857908737  May 15 15:21  @CancerComputeCl  MG12 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 96627651 aligned reads, 79.34% clonal; CuffLinks: OK
+334756682049679360  May 15 15:46  @NucDiv           Optimizing de novo assembly of short-read RNA-seq data for phylogenomics http://flip.it/yZi6O @myen
+334759519848628224  May 15 15:57  @lexnederbragt    RT @BioMickWatson: BRANCH: boosting RNA-Seq assemblies with partial or related genomic sequences http://bioinformatics.oxfordjournals.org/cgi/content/long/29/10/1250
+334805441601208321  May 15 19:00  @genetics_blog    TrueSight: algorithm for splice junction detection using RNA-seq http://nar.oxfordjournals.org/content/41/4/e51.long #bioinformatics
+334806022730420224  May 15 19:02  @stochastic_jedi  RT @genetics_blog: TrueSight: algorithm for splice junction detection using RNA-seq http://nar.oxfordjournals.org/content/41/4/e51.long #bioinformatics
+334807734119698432  May 15 19:09  @CancerComputeCl  MG9 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 105617911 aligned reads, 79.80% clonal; CuffLinks: OK
+334823405851385857  May 15 20:11  @yoshidamasaaki   RT @dritoshi: 「KAPA Biosystems社製品を用いて開発された”LIMprep法”が応用されている「高感度な単一細胞のRNA-Seq」に関する論文が発表されました。」 次世代DNAシーケンサー関連製品(LP, LA, LQキットなど）  http://t.co/9QSmt0pGj8
+334832250329899008  May 15 20:46  @ma_ko            RT @ecPDCNRA: 少ないボリュームに最適化したマグネットスタンドの商品化。磁力と位置取りがよい。NGS MagnaStand 8Ch（日本ジェネティクス社）Single-cell RNA-Seq: 微量サンプル用マグネットスタンドの商品化 http://t.co/zOdnzeEy2Y
+334832554320465922  May 15 20:47  @thinkeroid       RT @ecPDCNRA: 少ないボリュームに最適化したマグネットスタンドの商品化。磁力と位置取りがよい。NGS MagnaStand 8Ch（日本ジェネティクス社）Single-cell RNA-Seq: 微量サンプル用マグネットスタンドの商品化 http://t.co/zOdnzeEy2Y
+334842218215006209  May 15 21:26  @razoralign       Sequence Comparative Analysis using Networks (SCAN): ノード・ネットワークを用いたde Novoアセンブリの統計的比較。Velvet、ABySS、CLCゲノミクスワークベンチでの試用 http://www.rna-seqblog.com/data-analysis/transcriptome-assembly-tools/sequence-comparative-analysis-using-networks-scan-software-for-evaluating-de-novo-transcript-assembly-from-rna-seq-data/
+334855735127199744  May 15 22:20  @dritoshi         【イルミナ】RNA-Seq をはじめよう！シリーズ：「0.1 pg の mRNA をシーケンスする高精度なRNA-Seq法: Quartz-Seq」 無料ウェビナー開催 日経バイオテクONLINE https://special.nikkeibp.co.jp/ts/article/ac0e/143884/
+334858309368680448  May 15 22:30  @DEMETER298       RT @razoralign: Sequence Comparative Analysis using Networks (SCAN): ノード・ネットワークを用いたde Novoアセンブリの統計的比較。Velvet、ABySS、CLCゲノミクスワークベンチでの試用 http://t.co/SsVgmhM8ly
+334859553516711936  May 15 22:35  @dritoshi         Single-cell RNA-Seq: 微量サンプル用マグネットスタンドの商品化 http://ecpdcnra.blogspot.com/2013/05/blog-post.html
+334877693436899328  May 15 23:47  @Awesomics        RT @rnomics: Are all of the human exons alternatively spliced? | #RNA-Seq Blog: http://rna-seqblog.com... http://bit.ly/19kAU0E #rnomics_bioinfo @MyEN
+334887368941240321  May 16 00:25  @CancerComputeCl  MV2_dot_3 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 91541321 aligned reads, 71.09% clonal; CuffLinks: OK
+334918817278996480  May 16 02:30  @tebubio          Start of the #URGV2013 meeting! Meet Dimitri to discuss our innovative offer for #RNA-seq (http://on.fb.me/15mREb9)
+334939795434393601  May 16 03:54  @rnomics          ReXpress Incremental #RNA-Seq Remapping: http://bio.math.berkeley.edu posted by friends:  (1)... http://bit.ly/YXSecv #rnomics_bioinfo @MyEN
+334939797703512065  May 16 03:54  @rnomics          Updating #RNA-Seq analyses after re-annotation: http://bioinformatics.oxfordjournals.org posted by friends:... http://bit.ly/YXSd8l #rnomics_bioinfo @MyEN
+334945663722860548  May 16 04:17  @razoralign       ReXpress: Incremental RNA-Seq Remapping: novel algorithm for updating abundance estimates from Seq upon re-annotation http://bio.math.berkeley.edu/ReXpress/rexpress_manual.html
+334946219426213888  May 16 04:19  @CancerComputeCl  MV2_dot_3_MYR_AKT primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 94054141 aligned reads, 69.31% clonal; CuffLinks: OK
+334960150383321090  May 16 05:14  @CancerComputeCl  MV2_dot_6 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 99078032 aligned reads, 72.16% clonal; CuffLinks: OK
+334974345308954624  May 16 06:11  @StrandLife       Research Resource: Small #RNA-seq of human granulosa cells reveals #miRNAs in #FSHR and #aromatase genes http://bit.ly/13yHII4
+334983110439620608  May 16 06:46  @pathogenomenick  Nick Wong using a random primed custom RNA-Seq method for Illumina sequencing of norovirus #ABPHM much better than Sanger tiled PCRstw
+334984618241585153  May 16 06:52  @CancerComputeCl  MG8 primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 175279563 aligned reads, 78.52% clonal; CuffLinks: OK
+334986692329099264  May 16 07:00  @tebubio          #URGC2013: Just before the afternoon session, discover our products for preparing your #RNA-Seq libraries (http://bit.ly/181GTZB)
+334992286645637120  May 16 07:22  @bioinformAnt     Tse Hua Nicholas Wong: Says that methdology to sequence viral genomes via random RNA-seq method will be out in PLOS ONE soon #ABPHM
+334993490310221824  May 16 07:27  @Chochmah256      Genomics, RNA seq, Population Genetics, Linux, Cluster Computing, Statistics. Nothing I'm familiar with and this course is really demanding.
+334994495030571009  May 16 07:31  @CancerComputeCl  MV2_dot_6_AKT primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 95911835 aligned reads, 72.62% clonal; CuffLinks: OK
+335005476033015808  May 16 08:15  @rnomics          ReXpress – for updating abundance estimates from #RNA-Seq... http://bit.ly/YYkVpN #ExpressionandQuantification #OtherTools #RNAseq @MyEN
+335018780554043394  May 16 09:07  @genetics_blog    Strand-Specific RNA-Seq Provides Greater Resolution of Transcript... http://www.ingentaconnect.com/content/ben/cg/2013/00000014/00000003/art00003 #icanhazpdf? http://stephenturner.us/email.html
+335019383564947457  May 16 09:10  @tebubio          #URGC2013: Short break! Discover our revolutionary kit to prepare your rNA-seq libraries from 1ng of total RNA ( http://bit.ly/10RnwBQ)
+335019395564859394  May 16 09:10  @CancerComputeCl  pancreas primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 78197547 aligned reads, 65.35% clonal; CuffLinks: OK
+335021356368404480  May 16 09:18  @nextgenseek      ICYMI: Genetics of gene expression studies embrace RNA-seq. http://nextgenseek.com/2013/05/large-scale-genetics-of-human-gene-expression-studies-turn-to-next-gen-sequencing/ #RNAseq #eqtl #ngs
+335023324931428352  May 16 09:25  @EduEyras         RT @genetics_blog: Strand-Specific RNA-Seq Provides Greater Resolution of Transcript... http://www.ingentaconnect.com/content/ben/cg/2013/00000014/00000003/art00003 #icanhazpdf? http://t.co/vinVxq3AJY
+335030082957631489  May 16 09:52  @genetics_blog    Extensive transcriptional heterogeneity revealed by rna-seq isoform profiling http://feedly.com/k/10Ld0My #bioinformatics @myen
+335039633970847746  May 16 10:30  @tebubio          #URGC2013: end of the meeting! Consult our brochure about RNA-seq in your congress bag to know more about our solutions.
+335049737554231296  May 16 11:10  @GPMDB            DSOTW (****) http://thegpm.org/dsotw_2013.html#201305161 Discovery and mass spectrometric analysis of novel splice-junction peptides using RNA-Seq
+335053954188709888  May 16 11:27  @ypriverol        RT @genetics_blog: Extensive transcriptional heterogeneity revealed by rna-seq isoform profiling http://feedly.com/k/10Ld0My #bioinformatics @myen
+335058695304138752  May 16 11:46  @rnomics          TrueSight: a new algorithm for splice junction detection using #RNA-seq:... http://bit.ly/19yL3XC #rnomics_bioinfo @MyEN
+335058697598414852  May 16 11:46  @rnomics          EBARDenovo 1.2.2 - Highly-accurate de novo Assembler of Paired-end #RNA-Seq:... http://bit.ly/19yL5Ph #rnomics_bioinfo @MyEN
+335078163682062337  May 16 13:03  @processstream    Request Process Stream for adding workflows on Methyl-Seq, RNA-Seq, DNA-Seq, Chip-Seq and Small RNA-Seq data into Sparta's TrackWise #EQMS
+335100516835147776  May 16 14:32  @EpiExperts       Man I heart #RNASeq Blog. Here's a post about plasma-derived RNA as disease biomarkers, & just checking 'em out http://www.rna-seqblog.com/publications/characterization-of-human-plasma-derived-exosomal-rnas-by-rna-seq/ -CW
+335105757609594881  May 16 14:53  @Sarklor          I could probably handle RNA-seq or human genetics on their own, but combined? I get quite, quite angry.
+335126317441904640  May 16 16:15  @ecSeq            Mapping the RNA-Seq trash bin: Unusual transcripts in prokaryotic transcriptome sequencing data http://www.landesbioscience.com/journals/rnabiology/article/24972/
+335140530671452160  May 16 17:11  @antelope36       @keschaberg interesting. I'm working on an RNA seq project right now. How much you know bout that? Because I'm gonna ask lots o ?s
+335148669944881153  May 16 17:44  @rnomics          EBSeq 1.1.6 - #RNA-Seq Differential Expression Analysis: http://mybiosoftware.com - admin... http://bit.ly/YZA2PO #rnomics_bioinfo @MyEN
+335151767580979202  May 16 17:56  @JChrisPires      RT @rnomics: EBSeq 1.1.6 - #RNA-Seq Differential Expression Analysis: http://mybiosoftware.com - admin... http://bit.ly/YZA2PO #rnomics_bioinfo @MyEN
+335183602918756352  May 16 20:02  @DrDuaneHassane   Will give this a whirl ... Updating RNA-Seq analyses after re-annotation http://ow.ly/l78l2
+335186009635565569  May 16 20:12  @CancerComputeCl  vpnkx primary analysis done (RNA-seq, 2x51PE, hg18): TopHat: 151985632 aligned reads, 71.33% clonal; CuffLinks: OK
+335190577559773184  May 16 20:30  @pypi             blacktie 0.2.1: A python wrapper for analysis of RNA-seq data with the popular tophat/cufflinks pipeline. http://bit.ly/17BOnES
+335237403864363008  May 16 23:36  @GraveleyLab      What's your favorite aligner for RNA-seq data and why?
+335255843501129728  May 17 00:49  @EncodeDCC        RT @GraveleyLab: What's your favorite aligner for RNA-seq data and why?
+335288621672321024  May 17 03:00  @druvus           Updating RNA-Seq analyses after re-annotation http://bit.ly/19v7ZqO #sequencing
+335290859060879360  May 17 03:09  @AleksiKallio     Happy participants on our Chipster RNA-seq short course in Valencia. And this was before wine and beer was served! http://t.co/nLLnFomJsP
+335328316229824513  May 17 05:37  @hypotheses       Exercise data on rnaSeq https://main.g2.bx.psu.edu/u/jeremy/p/galaxy-rna-seq-analysis-exercise
+335328413080498176  May 17 05:38  @taylorlabsoton   Hazel and Billy prepare for a month long experiment at INRA Nancy, to study drought tolerance in poplar, taking over 100 samples for RNA-seq
+335341848207974400  May 17 06:31  @notSoJunkDNA     STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data and why?”
+335343759107698689  May 17 06:39  @nextgenseek      RT @notSoJunkDNA: STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data and why?”
+335343773510926337  May 17 06:39  @nextgenseek      RT @GraveleyLab: What's your favorite aligner for RNA-seq data and why?
+335353715865292802  May 17 07:18  @evolvability     RT @notSoJunkDNA: STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data and why?”
+335370143662223362  May 17 08:24  @genetics_blog    also happy w/ STAR RT @notSoJunkDNA: STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data, why?”
+335370937853677569  May 17 08:27  @nextgenseek      RT @genetics_blog: also happy w/ STAR RT @notSoJunkDNA: STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data, why?”
+335388332693532673  May 17 09:36  @tayebwajb        RT @notSoJunkDNA: STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data and why?”
