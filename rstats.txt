@@ -7114,3 +7114,44 @@
 339362693964259328  May 28 08:49  @HarlanH          Bayesian model II regression - Ecology in silico http://buff.ly/116h5cN < #Rstats demo of modeling measurement error #statistics
 339367364481138689  May 28 09:07  @Gliders_Coach    I am designing and hosting 6 week training for data scientists in R starting June 1 for <$350. Check http://www.edureka.in/r-for-analytics #rstats
 339368184404660224  May 28 09:10  @joshua_ulrich    My review of #rfinance 2013: http://goo.gl/reGVI #rstats
+339369024783794176  May 28 09:14  @eddelbuettel     RT @joshua_ulrich: My review of #rfinance 2013: http://goo.gl/reGVI #rstats
+339370676974653440  May 28 09:20  @Gliders_Coach    6 weeks Data Scientist Online Courses #rstats http://wp.me/p9q8Y-2TU
+339371781729157121  May 28 09:25  @gvegayon         Using R to visualize geo optimization algorithms http://feedly.com/k/17241JH Good read #viz #rstats
+339375123960303616  May 28 09:38  @rmflight         anyone know of a package to parse #rss feeds using #rstats besides just using xml package?
+339375583345651712  May 28 09:40  @jbkunst          RT @gvegayon: Thanks to @jbkunst Next version of rgexf will include "plot" method = #sigmajs + rgexf #rstats #sna cc @gexf @ricotute
+339375876011606018  May 28 09:41  @phnk             @laspic pas vérifié si ça tourne encore, mais ça devrait (et donc aussi mouliner les données de la législature en cours) #rstats
+339375899910762497  May 28 09:41  @webbedfeet       Presentations from #rfinance #rstats #datadc http://goo.gl/8utML
+339375905237516288  May 28 09:41  @DataCommunityDC  Presentations from #rfinance #rstats #datadc http://goo.gl/8utML via @webbedfeet
+339382675938885633  May 28 10:08  @Rbloggers        Interactive presentation with slidify and googleVis:  (This article was first published on   mages' ... http://bit.ly/11uLuTH #rstats
+339382677583065088  May 28 10:08  @Rbloggers        dapply – tapply for dataframes – a new R function (?):  (This article was first published on   Econo... http://bit.ly/152Q9LG #rstats
+339382678669369347  May 28 10:08  @Rbloggers        R/Finance 2013 Review:  (This article was first published on   FOSS Trading, and kindly contributed ... http://bit.ly/152QbmT #rstats
+339383831310237697  May 28 10:13  @timelyportfolio  very nice use of @ramnath_vaidya #slidify package for #rstats   Interactive presentation with slidify and googleVis http://bit.ly/ZqIqbc
+339384131169435649  May 28 10:14  @msgbi            RT @chlalanne: An Introduction to Statistical Learning - with Applications in #rstats http://prsm.tc/oWnvlm via @prismatic
+339384324170317824  May 28 10:15  @msgbi            RT @revodavid: Missed any of last month's #rstats stories at the Revolutions blog? Catch up in the April roundup: http://bit.ly/14ib1O8
+339388460177707009  May 28 10:31  @chipmonkey75     Another good post about the R-Finance conference, with a number of useful links.  Thanks @joshua_ulrich!  #rstats #quant
+339388980275593216  May 28 10:33  @mjbommar         RT @kdnuggets: Text processing with R #rstats and Python: R + tm package  gets better, but Python + scikit + pandas still win http://t.co/WS9Ttkyi9Y
+339390306178977794  May 28 10:38  @edmundjackson    Returning to #RStats with #clojure under my belt has made it much more understandable but even more frustrating.
+339390356368023554  May 28 10:39  @_Kognitio        Only @Kognitio can run any programming language (like #Rstats) in-database, massively parallel https://451research.com/report-short?entityId=77206 by @451Research
+339391109509836802  May 28 10:42  @MarkHornick      Get started converting existing R scripts to #OracleREnterprise - 3 scenarios examples https://blogs.oracle.com/R/entry/converting_existing_r_scripts_to #Oracle #RStats
+339393349532397568  May 28 10:50  @MarkHornick      Big Data Analytics in R - the tORCH has been lit! Using #OracleRConnectorForHadoop https://blogs.oracle.com/R/entry/big_data_analytics_in_r #Oracle #RStats #Hadoop
+339395819616759808  May 28 11:00  @edmundjackson    #RStats is that wise old professor who knows everything, but can't talk to you without spitting everywhere... Learning to duck.
+339396870298275840  May 28 11:04  @kdnuggets        Oracle R Connector for Hadoop (ORCH) makes it easy to do #BigData Analytics in R #rstats http://bit.ly/130AHPn
+339398346710061056  May 28 11:10  @idigdata         RT @kdnuggets: Oracle R Connector for Hadoop (ORCH) makes it easy to do #BigData Analytics in R #rstats http://bit.ly/130AHPn
+339398448182865920  May 28 11:11  @jingbay          RT @kdnuggets: Oracle R Connector for Hadoop (ORCH) makes it easy to do #BigData Analytics in R #rstats http://bit.ly/130AHPn
+339398754962649088  May 28 11:12  @TopDevTweets     RT @kdnuggets: Oracle R Connector for Hadoop (ORCH) makes it easy to do #BigData Analytics in R #rstats http://bit.ly/130AHPn
+339400679628091394  May 28 11:20  @eggandspam       RT @kdnuggets: Text processing with R #rstats and Python: R + tm package  gets better, but Python + scikit + pandas still win http://t.co/WS9Ttkyi9Y
+339401430676942848  May 28 11:23  @tonyojeda3       We're putting on an R workshop on June 15th.  Register here: http://bit.ly/1auJ731 #rstats #datadc
+339401435366178818  May 28 11:23  @DataCommunityDC  We're putting on an R workshop on June 15th.  Register here: http://bit.ly/1auJ731 #rstats #datadc via @tonyojeda3
+339401816645185536  May 28 11:24  @HarlanH          RT @DataCommunityDC: We're putting on an R workshop on June 15th.  Register here: http://bit.ly/1auJ731 #rstats #datadc via @tonyojeda3
+339403274081943552  May 28 11:30  @ksamuda          RT @DataCommunityDC: We're putting on an R workshop on June 15th.  Register here: http://bit.ly/1auJ731 #rstats #datadc via @tonyojeda3
+339409658672463873  May 28 11:55  @quantlabs        Challenges of #HFT with #opensource #Rstats with C or #Cpp vs Matlab for quant LIVE trading in production http://ow.ly/lsXtA
+339410335389855744  May 28 11:58  @algonpaje        Sentiment Analysis of Enron emails (0.5M) with #rstats >> http://bit.ly/11f8dNz via @Rbloggers
+339413790296780801  May 28 12:12  @RLangTip         quantmod: An R package where quant traders can quickly and cleanly explore and build trading models: http://bit.ly/zpAoep #rstats #finance
+339414106098511872  May 28 12:13  @KognitioCloud    RT @_Kognitio: Only @Kognitio can run any programming language (like #Rstats) in-database, massively parallel https://451research.com/report-short?entityId=77206 by @451Research
+339415123812839424  May 28 12:17  @treycausey       It would be great if #rstats had a yield statement.
+339416206551420928  May 28 12:21  @ManningMEAP      "Log Transformations for Skewed and Wide Distributions" is featured on R-statistics blog http://bit.ly/11mPW10 @manningbooks #Rstats
+339429037879488513  May 28 13:12  @everydayanalyst  YYZ Climate data vs. a battery of statistical tests: Trend Analysis of Toronto Climate Data: http://www.everydayanalytics.ca/2013/05/the-heat-is-on-or-is-it-trend-analysis.html #rstats #climatechange
+339440003245539328  May 28 13:56  @SarahBisbing     Spatial stats run and maps made. Now back to #madwriting for #PhD2013. #Rstats #SaveMeFromMyself
+339442628418482178  May 28 14:06  @algonpaje        Alguien sabe porque razón hay muchas palabras de 6 caracteres en español? #rstats #dataviz http://t.co/RCtVr42aco
+339449920589271040  May 28 14:35  @mepner           Impact Report: #Rstats with #inmemory speed - how will it empower the #DataSci?  http://www.kognitio.com/451mppr/ ‎by @451Research #MPP_R
+339450750260375552  May 28 14:39  @statisticsblog   The state of text processing in #R. http://i.cx/10wphmN via @mjbommar #RStats
