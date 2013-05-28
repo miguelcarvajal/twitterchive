@@ -72,4 +72,5 @@ done
 git commit -a -m "Update search results: $(date)"
 git push origin master
 
-## Run with a cronjob: 00     09,15   *       *       *       cd /path/twitterchive/ && ./twitterchive.sh &> ~/cronlog.txt
+##	Run with a cronjob (make sure cron env has path to t executable (e.g., ~/bin)  
+##	00	09,15	*	*	*	export PATH=~/bin:$PATH && cd /path/twitterchive/ && ./twitterchive.sh &> ~/cronlog.txt
