@@ -35,8 +35,8 @@ for query in ${arr[@]}
 do
 	## if your query contains a hashtag, remove the "#" from the filename
 	filename=$DIR/${query/\#/}.txt
-	echo "Query:\t$query"
-	echo "File:\t$filename"
+	echo -e "Query:\t$query"
+	echo -e "File:\t$filename"
 
 	## create the file for storing tweets if it doesn't already exist.
 	if [ ! -f $filename ]
@@ -48,12 +48,12 @@ do
 	## concatenating that output with the existing file, sort and uniq that, then 
 	## write the results to a tmp file. 
 	search_cmd="t search all -ldn $n '$query' | cat - $filename | sort | uniq | grep -v ^ID > $DIR/tmp"
-	echo "Search:\t$search_cmd"
+	echo -e "Search:\t$search_cmd"
 	eval $search_cmd
 
 	## rename the tmp file to the original filename
 	rename_cmd="mv $DIR/tmp $filename"
-	echo "Rename:\t$rename_cmd"
+	echo -e "Rename:\t$rename_cmd"
 	eval $rename_cmd
 
 	echo
@@ -69,7 +69,7 @@ done
 # git remote set-url origin git@github.com:stephenturner/twitterchive.git 
 # git push origin master
 # git add -A
-# git commit -a -m "Update search results: $(date)"
-# git push origin master
+git commit -a -m "Update search results: $(date)"
+git push origin master
 
-## Run with a cronjob: 00 12 * * * cd /path/to/twitterchive/ && ./twitterchive.sh
+## Run with a cronjob: 00     09,15   *       *       *       cd /path/twitterchive/ && ./twitterchive.sh &> ~/cronlog.txt
