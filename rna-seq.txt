@@ -1634,3 +1634,173 @@
 335370143662223362  May 17 08:24  @genetics_blog    also happy w/ STAR RT @notSoJunkDNA: STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data, why?”
 335370937853677569  May 17 08:27  @nextgenseek      RT @genetics_blog: also happy w/ STAR RT @notSoJunkDNA: STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data, why?”
 335388332693532673  May 17 09:36  @tayebwajb        RT @notSoJunkDNA: STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data and why?”
+335426025150353408  May 17 12:06  @yukiotto         RT @ecPDCNRA: Quartz-SeqのcDNA増幅のプロトコルを見やすい形にしました。ダウンロード出来ます。　Single-cell RNA-Seq: Quartz WTA protocol (Original) http://ecpdcnra.blogspot.com/2013/05/quartz-wta-protocol-original.html?spref=tw
+335459359104573440  May 17 14:18  @notSoJunkDNA     Updating RNA-Seq analyses after re-annotation. Pachter and colleagues http://bioinformatics.oxfordjournals.org/content/early/2013/05/14/bioinformatics.btt197.short http://bio.math.berkeley.edu/ReXpress/
+335471173116764160  May 17 15:05  @Alfons_Valencia  RT @notSoJunkDNA: Updating RNA-Seq analyses after re-annotation. Pachter and colleagues http://bioinformatics.oxfordjournals.org/content/early/2013/05/14/bioinformatics.btt197.short http://bio.math.berkeley.edu/ReXpress/
+335482552649408512  May 17 15:50  @rnomics          biostar | Pearltrees: Counting mapped read of an exon in #RNA-Seq analysis. Course/Workshop: ... <... http://bit.ly/X7adqA #bing @MyEN
+335550791249170432  May 17 20:21  @wikishareideas   RT @StrandLife: Research Resource: Small #RNA-seq of human granulosa cells reveals #miRNAs in #FSHR and #aromatase genes http://t.co/6vnrPRbWib
+335558937006977024  May 17 20:54  @druoh            @YS_Engagement かなり早い時期に形態的な差があるというのを読んだことがあります。functionalな差がいつどうやって生まれるのかはいいマーカーが見つかればわかるかもしれませんねぇ。今なら初期胚の単一細胞RNA seqで面白い差が見れるのかも。
+335637684875825152  May 18 02:07  @BiologIT         Updating RNA-Seq analyses after re-annotation.: Publication Date: 2013 May 14 PMID: 23677943Authors: Roberts, ...  http://bit.ly/lgZD8f
+335648922066362368  May 18 02:51  @tomedicine       RNA-seq用のは、それ固有の難しい問題が着いてまわるので、やめとこう（・ｗ・）
+335680885665968128  May 18 04:58  @drchriscole      RT @notSoJunkDNA: Updating RNA-Seq analyses after re-annotation. Pachter and colleagues http://bioinformatics.oxfordjournals.org/content/early/2013/05/14/bioinformatics.btt197.short http://bio.math.berkeley.edu/ReXpress/
+335765541790822402  May 18 10:35  @notSoJunkDNA     @EduEyras @GraveleyLab did you try it for RNA-Seq? Does it do splice-alignment? Then what is the gem-RNA-mapper announced on their site?
+335772740403486722  May 18 11:03  @BioMickWatson    RT @notSoJunkDNA STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data and why?”
+335791878698041345  May 18 12:19  @Aquaskyline      “@BioMickWatson: RT @notSoJunkDNA STAR: speed, accuracy, support. RT “@GraveleyLab: What's your favorite aligner for RNA-seq data and why?””
+335803126391132160  May 18 13:04  @pypi             blacktie 0.2.1qf1: A python wrapper for analysis of RNA-seq data with the popular tophat/cufflinks pipeline. http://bit.ly/19LjcDC
+336260497307480064  May 19 19:22  @DEMETER298       RT @aogura: "A new method for stranded whole transcriptome RNA-seq"  http://www.rna-seqblog.com/methods/library-preparation-methods/a-new-method-for-stranded-whole-transcriptome-rna-seq/ good read
+336328311577907200  May 19 23:51  @yuta__c          ATGCじゃなくて0123ってなんやねん！ RNA-seqの前に立ちはだかる壁ェ…
+336384028594798592  May 20 03:32  @ggsimpsonrna     Beautiful clustered correlation matrix, from single cell RNA-seq  http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature12172.pdf #HarrisTweed http://t.co/VrOb3i7tcj
+336456406695833600  May 20 08:20  @rnomics          Optimizing de novo assembly of short-read #RNA-seq... http://bit.ly/Z7zMOL #AnalysisPipelines #OtherTools #analysispipeline #RNAseq @MyEN
+336461578331357185  May 20 08:41  @jameslz          Optimizing de novo assembly of short-read RNA-seq data for phylogenomics , http://www.biomedcentral.com/1471-2164/14/328/abstract
+336464360291586050  May 20 08:52  @MyBioTechniques  RNA-seq Showdown http://bit.ly/13BoIoW
+336483922819043329  May 20 10:09  @pathogenomenick  Tradis: similar to diff expression in RNA-seq so use DESeq for analysis #baltibio
+336498082416037888  May 20 11:06  @pathogenomenick  Liz Batty on Norovirus: reasonable correlation between viral titers and RNA-seq reads mapping to reference genome (range 0.1-99%) #baltibio
+336503096425476097  May 20 11:26  @rnomics          BEERS - Benchmarker for Evaluating the Effectiveness of #RNA-Seq Software:... http://bit.ly/Z81CKG #rnomics_bioinfo @MyEN
+336523381975437312  May 20 12:46  @naturemethods    AOP: Which RNA-seq protocol to use if there is only little RNA in the sample or the RNA is degraded? Answers here ($) http://bit.ly/13FWPzN
+336523693415084034  May 20 12:47  @MPAlonso         RT @naturemethods: AOP: Which RNA-seq protocol to use if there is only little RNA in the sample or the RNA is degraded? Answers here ($) http://t.co/uy7pH4E0Nm
+336523938035281920  May 20 12:48  @osamamos         RT @naturemethods: AOP: Which RNA-seq protocol to use if there is only little RNA in the sample or the RNA is degraded? Answers here ($) http://t.co/uy7pH4E0Nm
+336524271037845505  May 20 12:50  @Sarklor          This cunting RNA-seq data is such a cunt. It won't cunting behave and when it does, it points to genes that aren't cunting there.
+336531191874338816  May 20 13:17  @rdemes           RT @pathogenomenick: Liz Batty on Norovirus: reasonable correlation between viral titers and RNA-seq reads mapping to reference genome (range 0.1-99%) #baltibio
+336532729950793729  May 20 13:23  @ngl1145          Working on RNA Seq (@ Dana-Farber Cancer Institute) http://4sq.com/18Z0rz8
+336542790483845121  May 20 14:03  @Clontech         RNA-Seq from FFPE samples: http://ht.ly/kEWVx
+336548519789871104  May 20 14:26  @alisson_gontijo  Ana Conesa & P Fernandes showing us all the secrets of de novo RNA-Seq analyses. Bioinfo, I'm coming for you! ;) http://t.co/rLbJmirfkq
+336553857519865857  May 20 14:47  @nextgenseek      From Lior Pachter's group: Updating RNA-Seq analyses after re-annotation. http://dx.doi.org/10.1093/bioinformatics/btt197 #rnaseq #ngs
+336564616341635074  May 20 15:30  @genetics_blog    Comparative analysis of RNA-seq methods for degraded or low-input samples http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2483.html ($)
+336637191386185729  May 20 20:18  @chrisorr_        Gonna dream about monogenic diseases, RNA-seq and paternity tests. That counts as revision I reckon. #emaxs
+336641754554048512  May 20 20:37  @Hannele21        https://www.facebook.com/permalink.php?story_fbid=599139756770332&id=114295425254770&substory_index=0 Course: small RNA seq and assmbly for virus detection at CIP Lima
+336648435644121088  May 20 21:03  @Ricardo_Oliva_P  RT @Hannele21: https://www.facebook.com/permalink.php?story_fbid=599139756770332&id=114295425254770&substory_index=0 Course: small RNA seq and assmbly for virus detection at CIP Lima
+336713476485554176  May 21 01:22  @rnomics          BMC Genomics | Abstract | Optimizing de novo assembly of short-read #RNA-seq data for... http://bit.ly/19YA2zd #rnomics_bioinfo @MyEN
+336750162120687616  May 21 03:47  @rcblt            RT @genetics_blog: Comparative analysis of RNA-seq methods for degraded or low-input samples http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2483.html ($)
+336771932773048320  May 21 05:14  @ksmbandi         Optimizing de novo assembly of short-read RNA-seq data for phylogenomics http://www.biomedcentral.com/1471-2164/14/328
+336816153798275072  May 21 08:10  @rnomics          RNA-seq analysis of allele-specific expression, hybrid... http://bit.ly/1a0awtj #Publications #allelespecificexpression #RNAseq @MyEN
+336816156142866433  May 21 08:10  @rnomics          Voom! Precision weights unlock linear model... http://bit.ly/1a0axNV #AnalysisPipelines #ExpressionandQuantification #RNAseq @MyEN
+336834565324816385  May 21 09:23  @genetics_blog    eQTL Mapping Using RNA-seq Data http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3650863/
+336836249253969921  May 21 09:29  @notSoJunkDNA     RT @genetics_blog: eQTL Mapping Using RNA-seq Data http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3650863/
+336838686782132224  May 21 09:39  @bioinfosm        RT “@genetics_blog: eQTL Mapping Using RNA-seq Data http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3650863/” #sequencing #genomics
+336839603350810624  May 21 09:43  @dgmacarthur      @zevkronenberg @bioitworld We run Mendelian families too - start with exomes, then WGS and RNA-seq if no luck.
+336846201389465600  May 21 10:09  @dgmacarthur      @zevkronenberg We’ve really only just started our first WGS wave. But my expectation is not often - anticipate RNA-seq more useful.
+336847130612355072  May 21 10:13  @genetics_blog    Voom! `limma` linear models might just work better on RNA-seq data that all these count-based neg binomial models http://www.statsci.org/smyth/pubs/VoomTechReport.pdf
+336848996561723392  May 21 10:20  @nextgenseek      RT @genetics_blog: Voom! `limma` linear models might just work better on RNA-seq data that all these count-based neg binomial models http://t.co/bZQCzjsiDb
+336849941127372800  May 21 10:24  @EmiggDO          RT @naturemethods: AOP: Which RNA-seq protocol to use if there is only little RNA in the sample or the RNA is degraded? Answers here ($) http://t.co/uy7pH4E0Nm
+336859926330736640  May 21 11:03  @GaiaTek          RT @genetics_blog: Voom! `limma` linear models might just work better on RNA-seq data that all these count-based neg binomial models http://t.co/bZQCzjsiDb
+336859986640633856  May 21 11:04  @CantuLab         RT @genetics_blog: Voom! `limma` linear models might just work better on RNA-seq data that all these count-based neg binomial models http://t.co/bZQCzjsiDb
+336860774297374720  May 21 11:07  @evolvability     RT @genetics_blog: eQTL Mapping Using RNA-seq Data http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3650863/
+336906814866206720  May 21 14:10  @notSoJunkDNA     Voom! Precision weights unlock linear model analysis tools for RNA-seq read counts http://www.statsci.org/smyth/pubs/VoomTechReport.pdf
+336958442201829377  May 21 17:35  @biocompare       RNA-Seq and other tools for transcriptome analysis: http://ow.ly/lggpS
+336966464739356673  May 21 18:07  @ada_rob          New paper: Updating RNA-Seq analyses after re-annotation. http://bioinformatics.oxfordjournals.org/content/early/2013/05/21/bioinformatics.btt197
+336982247683022848  May 21 19:10  @socialego        RNA-Seq을 통해 물고기 색을 정하는 유전자 발견. http://www.biomedcentral.com/1471-2164/14/171/abstract … http://t.co/Q9wEhtiueM
+336982410593959938  May 21 19:10  @megablast        RT @socialego RNA-Seq을 통해 물고기 색을 정하는 유전자 발견. http://www.biomedcentral.com/1471-2164/14/171/abstract … http://t.co/KS5ILUPSiV
+337024209236684801  May 21 21:56  @rnomics          Updating #RNA-Seq analyses after re-annotation: The estimation of isoform abundances from... http://bit.ly/Zc1R7u #bioinformaticsj @MyEN
+337024716416110593  May 21 21:58  @Scienceness      Scienceness - RNA-seq Analysis in Hybrids http://www.scienceness.com/home/index.php/news/3151-rna-seq-analysis-in-hybrids
+337030477338783745  May 21 22:21  @animesh1977      Updating RNA-Seq analyses after re-annotation http://bit.ly/181ngmK
+337068455503204352  May 22 00:52  @kshameer         RT @mitramith: Nice flowchart for quick reference. “@figshare: RNA-seq Workflows and Tools: http://shar.es/d2D8k #statistics #bioinformatics”
+337069292652736512  May 22 00:55  @rvidal           RT @mitramith: Nice flowchart for quick reference. “@figshare: RNA-seq Workflows and Tools: http://shar.es/d2D8k #statistics #bioinformatics”
+337082729344663552  May 22 01:49  @ericmiska        RT @notSoJunkDNA: Voom! Precision weights unlock linear model analysis tools for RNA-seq read counts http://www.statsci.org/smyth/pubs/VoomTechReport.pdf
+337082923775823872  May 22 01:50  @hquesneville     RT @mitramith: Nice flowchart for quick reference. “@figshare: RNA-seq Workflows and Tools: http://shar.es/d2D8k #statistics #bioinformatics”
+337092484226228225  May 22 02:28  @BiologyMag       http://sciencealerts.com Transcriptional profiling by RNA-Seq of peri-attachment porcine embryos generated using a... http://dlvr.it/3Pgff8
+337135274234617856  May 22 05:18  @ScienceIndex_    http://scienceindex.com Transcriptional profiling by RNA-Seq of peri-attachment porcine embryos generated using a... http://dlvr.it/3PjcGh
+337141796117282816  May 22 05:44  @sjcockell        Paper: Updating RNA-Seq analyses after re-annotation. http://dlvr.it/3PjwSZ
+337142307419721729  May 22 05:46  @BioMickWatson    RT @sjcockell: Paper: Updating RNA-Seq analyses after re-annotation. http://dlvr.it/3PjwSZ
+337153388447936512  May 22 06:30  @rnomics          Identification of somatic mutations in human prostate #cancer by #RNA-Seq.: Related Articles... http://1.usa.gov/ZcOyDV #Gene #Pubmed @MyEN
+337155362266431490  May 22 06:37  @GeneQuan         Transcriptome Analysis: Microarrays, qPCR and RNA-Seq Biocompare The Buyer's Guide for Life Scientists http://www.biocompare.com/Editorial-Articles/137520-Transcriptome-Analysis-Microarrays-qPCR-and-RNA-Seq/ via @GeneQuan
+337160669860331522  May 22 06:59  @dgaston83        RT @sjcockell Paper: Updating RNA-Seq analyses after re-annotation. http://dlvr.it/3PjwSZ
+337177347025412096  May 22 08:05  @caddymob         For every hour I haven't slept though Ive made at least 10 awesome venn diagrams, heat maps and/or beeswarm plots. RNA-seq at the wazzzzzzo
+337183730206646273  May 22 08:30  @rnomics          eQTL Mapping Using #RNA-seq Data: As #RNA-seq is... http://bit.ly/Zd3Rwm #Review #StatisticalAnalysis #eQTLMapping #RNAseq @MyEN
+337192075139375104  May 22 09:03  @razoralign       eQTL Mapping Using RNA-seq Data: RNA-Seq→Mapped Reads as BAM + DNA haplotype data→ QC & Counting → eQTL (TReC & ASE)  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3650863/
+337197585653698560  May 22 09:25  @yusuk_k          RT @razoralign: eQTL Mapping Using RNA-seq Data: RNA-Seq→Mapped Reads as BAM + DNA haplotype data→ QC & Counting → eQTL (TReC & ASE)  http://t.co/mW3DCQAWSg
+337209159269355521  May 22 10:11  @erichhuang       RT @sjcockell: Paper: Updating RNA-Seq analyses after re-annotation. http://dlvr.it/3PjwSZ
+337209613789323264  May 22 10:13  @GenomeWeb        This week's @InSequence: a new #nanopore platform; epigenetic sequencing; RNA-seq comparison http://bit.ly/7cVhVf
+337209722023325698  May 22 10:13  @kilby_steve      RT @GenomeWeb: This week's @InSequence: a new #nanopore platform; epigenetic sequencing; RNA-seq comparison http://bit.ly/7cVhVf
+337210829743202304  May 22 10:18  @BioMickWatson    RT @GenomeWeb: This week's @InSequence: a new #nanopore platform; epigenetic sequencing; RNA-seq comparison http://bit.ly/7cVhVf
+337212580768657408  May 22 10:25  @DaleYuzuki       Free RNA-Seq webinar - 10am ET 5/23, 5/30 and 6/6. http://yuz.li/61
+337212714910887937  May 22 10:25  @BioStarQuestion  UCSC Genome Browser: correlating DNaseI hypersensitivity with RNA-seq? http://goo.gl/fb/Si8NZ
+337214255596179456  May 22 10:31  @EpiExperts       From the rna-seq blog Graphite Web: web tool for gene set analysis exploiting pathway topology - http://s.shr.lc/11bFnDL -NK
+337251576894849025  May 22 13:00  @genetics_blog    blacktie - #python wrapper for tuxedo tools for rna-seq (bowtie/tophat/cuff{links,merge,diff}) https://pypi.python.org/pypi/blacktie/0.2.1 #bioinformatics
+337265402369409025  May 22 13:55  @RNAJournal       AO: Use of Thermostable group II intron reverse transcriptase fusion proteins in cDNA synthesis and RNA-Seq http://rnajournal.cshlp.org/content/early/2013/05/21/rna.039743.113.abstract #RNA
+337265802099171328  May 22 13:56  @rnomics          #RNA-seq Workflows and Tools: http://figshare.com posted by friends:  (1) @kshameer:... http://bit.ly/13FozqA #rnomics_bioinfo @MyEN
+337271516393795584  May 22 14:19  @razoralign       RNA-seq Workflows & Tools: various workflows for analyzing differential gene/exon/isoform expression w/ RNA-seq data http://figshare.com/articles/RNA_seq_Workflows_and_Tools/662782
+337366293277708288  May 22 20:36  @dritoshi         Single-cell RNA-Seq: Quartz WTA protocol for 100 pg - 1 ng total RNA http://ecpdcnra.blogspot.com/2013/05/quartz-wta-protocol-for-100-pg-1-ng.html
+337370883108794371  May 22 20:54  @dritoshi         Quartz-Seqで1細胞/微量RNA-Seqを始めたい方へ http://blog.hackingisbelieving.org/2013/05/1rna-seq-quartz-seq-sasagawa-y-and.html
+337377409802321920  May 22 21:20  @LIFECorporation  Transcriptome Analysis: #Microarrays, #qPCR, #RNA-Seq Biocompare: The Buyer's Guide for Life...via @LIFECorporation. http://ow.ly/liESb
+337378535771611137  May 22 21:24  @iNut             RT @dritoshi: Quartz-Seqで1細胞/微量RNA-Seqを始めたい方へ http://blog.hackingisbelieving.org/2013/05/1rna-seq-quartz-seq-sasagawa-y-and.html
+337378757578997760  May 22 21:25  @Miiixn           RT @dritoshi: Quartz-Seqで1細胞/微量RNA-Seqを始めたい方へ http://blog.hackingisbelieving.org/2013/05/1rna-seq-quartz-seq-sasagawa-y-and.html
+337386271867543552  May 22 21:55  @Technosaurus     RT @dritoshi: Quartz-Seqで1細胞/微量RNA-Seqを始めたい方へ http://blog.hackingisbelieving.org/2013/05/1rna-seq-quartz-seq-sasagawa-y-and.html
+337389102427156480  May 22 22:06  @meso_cacase      すごく丁寧で親切な導入記事ですね RT @dritoshi: Quartz-Seqで1細胞/微量RNA-Seqを始めたい方へ http://blog.hackingisbelieving.org/2013/05/1rna-seq-quartz-seq-sasagawa-y-and.html
+337391138631716864  May 22 22:14  @yamanyan         RT @meso_cacase: すごく丁寧で親切な導入記事ですね RT @dritoshi: Quartz-Seqで1細胞/微量RNA-Seqを始めたい方へ http://blog.hackingisbelieving.org/2013/05/1rna-seq-quartz-seq-sasagawa-y-and.html
+337403859091722243  May 22 23:05  @yoshidamasaaki   RT @dritoshi: Quartz-Seqで1細胞/微量RNA-Seqを始めたい方へ http://blog.hackingisbelieving.org/2013/05/1rna-seq-quartz-seq-sasagawa-y-and.html
+337429222891069441  May 23 00:46  @dritoshi         シーケンス実験デザインやデータ解析についても加筆した。「Quartz-Seqで1細胞/微量RNA-Seqを始めたい方へ 」 http://blog.hackingisbelieving.org/2013/05/1rna-seq-quartz-seq-sasagawa-y-and.html
+337429808956968961  May 23 00:48  @shima_x          RT @dritoshi: シーケンス実験デザインやデータ解析についても加筆した。「Quartz-Seqで1細胞/微量RNA-Seqを始めたい方へ 」 http://blog.hackingisbelieving.org/2013/05/1rna-seq-quartz-seq-sasagawa-y-and.html
+337433475999215617  May 23 01:03  @rnomics          Encode Genome Browser: how to correlate DNaseI hypersensitivity with #RNA-seq? - BioStar:... http://bit.ly/ZeZlxm #rnomics_bioinfo @MyEN
+337546243381272576  May 23 08:31  @NBIC_nl          The Power of RNA seq course by EPS and NBIC: http://www.nbic.nl/about-nbic/news-press/bioinformatics-news/detail/article/the-power-of-rna-seq/#.UZ4L8iIom9U.twitter
+337547219894939648  May 23 08:35  @rnomics          Insights into organ-specific pathogen defense responses in plants: #RNA-seq analysis of potato... http://bit.ly/1ab8p5T #BMC @MyEN
+337573873975427073  May 23 10:20  @DaleYuzuki       Tim Triche (USC) on today's RNA-Seq webinar: 94-96% mappability on Proton I chip for total RNA-Seq dataset of ~65M raw reads/run.
+337577795582586880  May 23 10:36  @DaleYuzuki       T. Triche (RNA-Seq webinar): Sees intronic transcription on both primary and metastatic sarcoma tumor samples.
+337578551693955073  May 23 10:39  @DaleYuzuki       T. Triche (RNA-Seq webinar): PolyA+ RNA-Seq shows variable polyadenylation - some reads originating 5' past the gene 'end'.
+337579326117670913  May 23 10:42  @DaleYuzuki       T. Triche (RNA-Seq webinar): Discovered 3 exons that are spliced across >1MB of the genome.
+337579594049810432  May 23 10:43  @DaleYuzuki       T. Triche (RNA-Seq webinar): Discovered a 1.2MB of a very large non-coding RNA (vlncRNA), specific to specific tumors at specific states.
+337580119277330434  May 23 10:45  @DaleYuzuki       T. Triche (RNA-Seq webinar): vlncRNA expression is independent of methylation or CNV, and is not polyadenylated.
+337581641532862465  May 23 10:51  @DaleYuzuki       T. Triche (RNA-Seq webinar): Looks at variation in the spliceosomal gene machinery (~107 genes) and correlation to primary and met tumors.
+337582149135900673  May 23 10:53  @CrowdedHead      RT @DaleYuzuki: T. Triche (RNA-Seq webinar): vlncRNA expression is independent of methylation or CNV, and is not polyadenylated.
+337585088466403328  May 23 11:05  @mortm            RT @DaleYuzuki: T. Triche (RNA-Seq webinar): Looks at variation in the spliceosomal gene machinery (~107 genes) and correlation to primary and met tumors.
+337591961248743424  May 23 11:32  @yukiotto         RT @dritoshi: Quartz-Seqで1細胞/微量RNA-Seqを始めたい方へ http://blog.hackingisbelieving.org/2013/05/1rna-seq-quartz-seq-sasagawa-y-and.html
+337622095682994176  May 23 13:32  @SEQquestions     Analysis of RNA-seq data http://bit.ly/10U62TY
+337622805870940160  May 23 13:35  @BlueSEQ          MT @daleyuzuki: Tim Triche (USC): 94-96% mappability on Proton I chip for total RNA-Seq dataset of ~65M raw reads/run.
+337640983250481154  May 23 14:47  @SEQquestions     Clustering RNA-Seq RPKM/ReadsCount issues http://bit.ly/10nCUVy
+337659293086138368  May 23 16:00  @genetics_blog    SERE: Single-parameter quality control and sample comparison for RNA-Seq http://www.biomedcentral.com/1471-2164/13/524 #genomics #bioinformatics
+337663447305183232  May 23 16:16  @dr_ohsopretty    with real time analysis.... transgenes of every gene showing expression and localization and rna seq and multiplex digital quantification
+337666273448177666  May 23 16:28  @innovative_med   Which RNASeq library prep method do you use? Is it the 'winner' in the RNASeq-off? http://tinyurl.com/ogfcjuc via @MyBioTechniques
+337695922781814785  May 23 18:25  @BUbioinfo        Updating RNA-Seq analyses after re-annotation http://ow.ly/ldQId via #OxfordJournals #bioinformatics
+337758183730843649  May 23 22:33  @ecPDCNRA         2-6 ulからのマグネット精製も一応可能　Single-cell RNA-Seq: NGS MagnaStand 8Ch for 2-6 ul ultra low volume http://ecpdcnra.blogspot.com/2013/05/ngs-magnastand-8ch-for-2-6-ul-ultra-low.html?spref=tw
+337758619531624450  May 23 22:35  @dritoshi         RT @ecPDCNRA: 2-6 ulからのマグネット精製も一応可能　Single-cell RNA-Seq: NGS MagnaStand 8Ch for 2-6 ul ultra low volume http://ecpdcnra.blogspot.com/2013/05/ngs-magnastand-8ch-for-2-6-ul-ultra-low.html?spref=tw
+337814731412893696  May 24 02:18  @rnomics          Insights into organ-specific pathogen defense responses in plants: #RNA-seq analysis of potato... http://bit.ly/1aeaDl6 #BMC @MyEN
+337817755699015681  May 24 02:30  @mkasahara        例えばパラメータ変えてゲノムアセンブリとかRNA-seqとかのパイプラインをぶん回して統計値を集計、みたいなときに、各種ツールのログから JSON を吐くコンバータ（これは自分で書く）経由で欲しいデータだけ寄せ集めて Excel の表にする、とかそんな使い方ができます。
+337818133115043841  May 24 02:31  @kozo2            RT @mkasahara: 例えばパラメータ変えてゲノムアセンブリとかRNA-seqとかのパイプラインをぶん回して統計値を集計、みたいなときに、各種ツールのログから JSON を吐くコンバータ（これは自分で書く）経由で欲しいデータだけ寄せ集めて Excel の表にする、とかそんな使い方ができます。
+337821297398644736  May 24 02:44  @7Journals        Insights into organ-specific pathogen defense responses in plants: RNA-seq analysis of potato... http://adf.ly/PSxRl #BioMed #Journals
+337879036825042947  May 24 06:33  @Aquaskyline      “@genetics_blog: SERE: Single-parameter quality control and sample comparison for RNA-Seq http://www.biomedcentral.com/1471-2164/13/524 #genomics
+337927163896553473  May 24 09:44  @rnomics          RNA-seq Showdown: by Kelly Rae Chi –... http://bit.ly/ZikAOY #Information #LibraryPreparation #librarypreparation #RNAseq @MyEN
+337931071708610560  May 24 10:00  @genetics_blog    Accuracy of RNA-Seq and its dependence on sequencing depth http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3426807/ #bioinformatics
+337935888266952705  May 24 10:19  @xypan1232        RT @genetics_blog: Accuracy of RNA-Seq and its dependence on sequencing depth http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3426807/ #bioinformatics
+337949481423208449  May 24 11:13  @WorldNewsEU      Insights into organ-specific pathogen defense responses in plants: RNA-seq analysis of potato ... - http://bit.ly/18nYUBq
+337959386813186048  May 24 11:52  @erickong5        RT @DaleYuzuki: Tim Triche (USC) on today's RNA-Seq webinar: 94-96% mappability on Proton I chip for total RNA-Seq dataset of ~65M raw reads/run.
+337964582003957761  May 24 12:13  @MediaTower       Insights into organ-specific pathogen defense responses in plants: RNA-seq analysis of potato ... - http://bit.ly/18nYUBq
+337966654032052224  May 24 12:21  @marcohbello      eQTL Mapping Using RNA-seq Data | RNA-Seq Blog | @scoopit http://sco.lt/5hw2oT
+337975992620576768  May 24 12:58  @Janis3_14159     before this, I didn't like microarray data. Now, don't like expression data at all :-( -> Accuracy of RNA-Seq...  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3426807/
+337976383735205888  May 24 13:00  @genetics_blog    A bi-Poisson model for clustering gene expression profiles by RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23665510 #bioinformatics
+337976475221364736  May 24 13:00  @JGuimond         RT @genetics_blog: A bi-Poisson model for clustering gene expression profiles by RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23665510 #bioinformatics
+337979680147775491  May 24 13:13  @NewsStories24    Insights into organ-specific pathogen defense responses in plants: RNA-seq analysis of potato ... - http://bit.ly/18nYUBq
+337994783236714496  May 24 14:13  @NewsReactions    Insights into organ-specific pathogen defense responses in plants: RNA-seq analysis of potato ... - http://bit.ly/18nYUBq
+337996185916809217  May 24 14:19  @IBSAlamut        RT @genetics_blog: Accuracy of RNA-Seq and its dependence on sequencing depth http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3426807/ #bioinformatics
+338004625905041408  May 24 14:52  @lexnederbragt    RT @genetics_blog: Accuracy of RNA-Seq and its dependence on sequencing depth http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3426807/ #bioinformatics
+338006150278680578  May 24 14:58  @kaittenage       RT @genetics_blog: Accuracy of RNA-Seq and its dependence on sequencing depth http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3426807/ #bioinformatics
+338009880071909377  May 24 15:13  @PressOfficeEU    Press Alert: Insights into organ-specific pathogen defense responses in plants: RNA-seq analysis of potato ... http://bit.ly/18nYUBq
+338048776243646464  May 24 17:48  @rnomics          RSeQC 2.3.6 - #RNA-seq Quality Control package: http://mybiosoftware.com posted by friends:... http://bit.ly/1agG26w #rnomics_bioinfo @MyEN
+338075386078437376  May 24 19:33  @DrDanielSwan     G+:  Love this package for fusion detection in RNA-Seq. Requires blat and bowtie and a bit of patience,… [link] http://bit.ly/1agYegm
+338095068768518145  May 24 20:52  @notSoJunkDNA     RT @DrDanielSwan: G+:  Love this package for fusion detection in RNA-Seq. Requires blat and bowtie and a bit of patience,… [link] http://t.co/bu5xM7RsCl
+338101176232984576  May 24 21:16  @mattVDiLeo       #RNAseq library prep showdown. #yam http://www.rna-seqblog.com/information/rna-seq-showdown/
+338120351705870336  May 24 22:32  @SEQquestions     RNA-Seq and SNP p-value data http://bit.ly/10YTdI5
+338152163501023232  May 25 00:38  @Aquaskyline      “@genetics_blog: A bi-Poisson model for clustering gene expression profiles by RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23665510 #bioinformatics”
+338177389215490048  May 25 02:19  @fmartin1954      RNA-seq analysis of potato tuber-Phytophthora infestans interactions http://www.biomedcentral.com/1471-2164/14/340
+338179491195125760  May 25 02:27  @7thSpaceCom      News: Insights into organ-specific pathogen defense responses in plants: RNA-seq analysis of potato - http://7thspace.com/go/438406/
+338220802757496833  May 25 05:11  @Crinklers        RT @fmartin1954: RNA-seq analysis of potato tuber-Phytophthora infestans interactions http://www.biomedcentral.com/1471-2164/14/340
+338237076145315840  May 25 06:16  @rnomics          #RNA-seq analysis of single bovine blastocysts: Background: Use of #RNA-Seq presents unique benefits... http://bit.ly/ZkjfHc #BMC @MyEN
+338299103358353408  May 25 10:22  @drbachinsky      RNA-seq Showdown  http://www.rna-seqblog.com/information/rna-seq-showdown/
+338350885497339904  May 25 13:48  @Science_Alerts   http://sciencealerts.com RNA-seq analysis of single bovine blastocysts http://dlvr.it/3QYk3f
+338350885514121217  May 25 13:48  @Life_Sciences_   http://sciencealerts.com RNA-seq analysis of single bovine blastocysts http://dlvr.it/3QYk3l
+338358638727008257  May 25 14:19  @jxtx             RNA-seq + mass spec to understand parasitoid wasp venomes, http://dx.doi.org/10.1371/journal.pone.0064125 in @PLOSONE and http://dx.doi.org/10.1073/pnas.1222351110 in @PNASNews
+338367935993229313  May 25 14:56  @BiologyMag       http://sciencealerts.com RNA-seq analysis of single bovine blastocysts http://dlvr.it/3QZ9HB
+338371398881918976  May 25 15:10  @rnomics          BMC Bioinformatics | Article Statistics |: Comparative meta-RNA-seq of the vaginal microbiota ...... http://bit.ly/Zl6igg #bing @MyEN
+338474939902472192  May 25 22:01  @nextgenseek      RT @jxtx: RNA-seq + mass spec to understand parasitoid wasp venomes, http://dx.doi.org/10.1371/journal.pone.0064125 in @PLOSONE and http://dx.doi.org/10.1073/pnas.1222351110 in @PNASNews
+338560171670384640  May 26 03:40  @LilithElina      Insights into organ-specific pathogen defense responses in plants: #RNA-seq analysis of potato... http://j.mp/13RjskL #BMC @MyEN
+338602220964691968  May 26 06:27  @RTemanni         RNA-seq Showdown http://lnkd.in/3B2n_w
+338602560636215296  May 26 06:28  @RTemanni         Voom! Precision weights unlock linear model analysis tools for RNA-Seq read counts http://lnkd.in/i7GyJR
+338860233961136130  May 26 23:32  @SEQquestions     How to identify sense/antisense pairs with strand-specific RNA-seq data http://bit.ly/18lhDjq
+339058681981304832  May 27 12:41  @rnomics          RNA-seq analysis of single bovine blastocysts http://bit.ly/17bECxZ http://sciencealerts.com posted by friends:  (2) @Life_Sciences_: ...
+339063751795949568  May 27 13:01  @genetics_blog    RT @jxtx: RNA-seq + mass spec to understand parasitoid wasp venomes, http://dx.doi.org/10.1371/journal.pone.0064125 in @PLOSONE, http://dx.doi.org/10.1073/pnas.1222351110 in @PNASNews
+339067197043388416  May 27 13:14  @themarkist       RT @genetics_blog: RT @jxtx: RNA-seq + mass spec to understand parasitoid wasp venomes, http://dx.doi.org/10.1371/journal.pone.0064125 in @PLOSONE, http://t.co/j0VleB4788 in @PNASNews
+339098616314613760  May 27 15:19  @BioStarQuestion  Normalization procedure for the RNA-Seq data based on counts http://goo.gl/fb/Gg41x
+339141166140366848  May 27 18:08  @SnarkyScientist  If microarray/RNA-Seq +/- your fave transcription factor looks like + and - of equal numbers of genes, you probably didn't normalize right.
+339141499465895936  May 27 18:10  @NewEnglandite    RT @SnarkyScientist: If microarray/RNA-Seq +/- your fave transcription factor looks like + and - of equal numbers of genes, you probably didn't normalize right.
+339188852138860544  May 27 21:18  @rnomics          Small #RNAs derived from structural non-coding #RNAs | #RNA-Seq Blog:... http://bit.ly/Zpv4vN #rnomics_bioinfo @MyEN
+339260508152688640  May 28 02:03  @rnomics          Probabilistic error correction for #RNA sequencing: Sequencing of #RNAs (#RNA-Seq) has r#evolutionized... http://bit.ly/ZpTSE2 #NAR @MyEN
+339297627508195328  May 28 04:30  @rnomics          Normalization procedure for the #RNA-Seq data based on counts - BioStar:... http://bit.ly/Zq6IlK #rnomics_bioinfo @MyEN
+339335738938241025  May 28 07:01  @Shav_Robinson    RT @naturemethods: AOP: Which RNA-seq protocol to use if there is only little RNA in the sample or the RNA is degraded? Answers here ($) http://t.co/uy7pH4E0Nm
