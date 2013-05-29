@@ -1,6 +1,6 @@
 # twitterchive - Archive Twitter search results
  
-Blog post about what's in here coming soon on <http://gettinggeneticsdone.blogspot.com>.
+Blog post about this at <http://gettinggeneticsdone.blogspot.com/2013/05/automated-analysis-tweets-bioinformatics-twitterchive.html>.
 
 ## `twitterchive.sh`
 
