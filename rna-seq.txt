@@ -1207,8 +1207,8 @@
 327231075715788800  Apr 24 21:22  @tosnam           잘 만든 라이브러리로 충분히 sequencing하고 replication까지 해주면 당연히 좋겠지만 연구비의 압박이 있으므로... RNA-Seq에서의 SNV는 결국 돈 많은 랩에서나 해라 이건가?ㅋ
 327250968829898752  Apr 24 22:41  @Science_Alerts   http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HCctF
 327252456096534529  Apr 24 22:47  @Life_Sciences_   http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HCfgD
-327252487360884737  Apr 24 22:47  @JamesLZ          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
 327252487360884737  Apr 24 22:47  @jameslz          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
+327252487360884737  Apr 24 22:47  @JamesLZ          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
 327272525732143104  Apr 25 00:07  @BiologyMag       http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HDF79
 327317362514739200  Apr 25 03:05  @drchriscole      RT @aemonten: Measurement of mRNA abundance using RNA-Seq  data: RPKM is inconsistent among samples http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf
 327317562297835520  Apr 25 03:06  @Masamichi_C2     RNA-Seqの発現量データの解析に手こずるとか情弱すぎる。
@@ -1832,3 +1832,14 @@
 339682416065142785  May 29 05:59  @blackshadow0     [461 BioInformatics][614 R]DESeqは確定として他にどれ使ったものか / “Bioconductor R packages for the analysis of RNA-seq Data | Geno…” http://htn.to/KptRAy
 339688630199136259  May 29 06:24  @rnomics          Top @RNomics #tweeted story: Mapping the RNA-Seq trash bin: Unusual transcripts… http://www.rna-seqblog.com/publications/mapping-the-rna-seq-trash-bin-unusual-transcripts-in-prokaryotic-transcriptome-sequencing-data, see more http://tweetedtimes.com/rnomics
 339691604069732352  May 29 06:36  @rnomics          MMAPPR 0.83 - Mutation Mapping Analysis Pipeline for Pooled #RNA-seq:... http://bit.ly/1ay97dK #rnomics_bioinfo @MyEN
+339753480371716096  May 29 10:41  @Mukamiiiiiiiiii  「レベルを上げて物理で殴れ」「プライマーを作って酵素で増やせ」「RNA-seqデータを出して情報解析でなんか出せ」
+339756024628125697  May 29 10:52  @InAbsenceofMind  RT @Mukamiiiiiiiiii: 「レベルを上げて物理で殴れ」「プライマーを作って酵素で増やせ」「RNA-seqデータを出して情報解析でなんか出せ」
+339757791612899328  May 29 10:59  @rnomics          RNA-Seq Blog – Poll Results: We Asked – How long have you been... http://bit.ly/ZtcjHR #PollResults #pollresults #RNASeq #RNAseq @MyEN
+339774179958206466  May 29 12:04  @dgmacarthur      Formal announcement of the GTEx project, a very exciting multi-tissue RNA-seq study my group is contributing to: http://www.nature.com/ng/journal/v45/n6/full/ng.2653.html
+339774685455736832  May 29 12:06  @Clontech         New products for viral transduction, RNA-seq, cloning, protein purification, and more https://www.facebook.com/Clontech/app_190322544333196
+339777451800535040  May 29 12:17  @Erika_Check      RT @dgmacarthur: Formal announcement of the GTEx project, a very exciting multi-tissue RNA-seq study my group is contributing to: http://t.co/yE0hMrxeMj
+339778587093774336  May 29 12:21  @ma_ko            RT @dgmacarthur: Formal announcement of the GTEx project, a very exciting multi-tissue RNA-seq study my group is contributing to: http://t.co/yE0hMrxeMj
+339779970861776897  May 29 12:27  @DNADigest        RT @dgmacarthur: Formal announcement of the GTEx project, a very exciting multi-tissue RNA-seq study my group is contributing to: http://t.co/yE0hMrxeMj
+339783594245488640  May 29 12:41  @neveaire         RT @dgmacarthur: Formal announcement of the GTEx project, a very exciting multi-tissue RNA-seq study my group is contributing to: http://t.co/yE0hMrxeMj
+339789382301130752  May 29 13:04  @JChrisPires      SB: RNA-Seq #transcriptome in #tomato #root yielded 2 candidate genes/regulators from QTL of 11 genes ; but transformation problem #IPG2013
+339799995886747649  May 29 13:46  @NextGenSequence  Glad to be at #SFAF2013. Come say hi and ask about quantitative RNA-Seq analysis
