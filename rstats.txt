@@ -7335,6 +7335,7 @@
 340028376033140736  May 30 04:54  @BayeSNA          Bergm Tutorial (2) - Bayesian model selection for exponential random graph models http://tinyurl.com/ch5ese5  #rstats #sna
 340028515405680641  May 30 04:54  @tanmoy77         @mileskimball @yichuanw it seems to me you have used R and "ggplot2" package to produce charts in the qz article on R-R controversy- #rstats
 340028885565599744  May 30 04:56  @tanmoy77         @mileskimball @yichuanw if possible mention that - R community will be glad to know this. #rstats
+340032468923080704  May 30 05:10  @tanmoy77         It seems 2 me @mileskimball & @yichuanw usd "R" w/ ggplot2 here wht stat pkg @profsufi @rortybomb wld recomnd #rstats http://qz.com/88781/after-crunching-reinhart-and-rogoffs-data-weve-concludedthat-high-debt-does-not-cause-low-growth/
 340033120713719808  May 30 05:13  @Txt_Mining       Top 10 KDnuggets tweets, May 27-28: Must-know Statistical Formulas; Text processing with R #rstats and Python  http://goo.gl/RBwiX
 340038645824237568  May 30 05:35  @jmgomez          RT @SpringerStats: Check out the free journal articles up on #Springer's page for #STATS2013 here http://bit.ly/10BJ6pR #statistics #rstats
 340043966139494400  May 30 05:56  @yrochat          Excellente visualisation des notes données aux séries TV. Et utile. http://glimmer.rstudio.com/pssguy/TVShowRatings/ #Rstats
@@ -7349,3 +7350,52 @@
 340073943492857859  May 30 07:55  @jmgomez          RT @webbedfeet: Faster clustering in #rstats #pydata http://feedly.com/k/11bu8cS via @jstatsoft #datadc
 340074811055304704  May 30 07:58  @rvimieiro        RT @jmgomez @webbedfeet: Faster clustering in #rstats #pydata http://feedly.com/k/11bu8cS  via @jstatsoft #datadc
 340088558373175297  May 30 08:53  @monsoontrader    TIL that AIC is an acronym for ‘an information criterion’ not ‘Akaike’s information criterion’ as I had always assumed. #statistics #rstats
+340097010160005120  May 30 09:27  @erwtokritos      R code for Hugh's "Neural Nets: A Simple Example" http://euler.acadiau.ca/~hchipman/SpringSchool2006/nnet-intro.html #Rstats #neuralnetworks #nnet
+340102069358837760  May 30 09:47  @dlizcano         2do intento: Biodiversity by Colombian institutions http://rpubs.com/dlizcano/6351  #rstats
+340104028560175104  May 30 09:54  @gvegayon         Quandl Package – 5,000,000 free datasets at the tip of your fingers! (tutorial) http://feedly.com/k/18JJfup once again... #rstats #opendata
+340104866997346304  May 30 09:58  @OigaMen          "@dlizcano: 2do intento: Biodiversity by Colombian institutions http://rpubs.com/dlizcano/6351  #rstats" Excelente trabajo
+340106478981636096  May 30 10:04  @KirkDBorne       Great mind map of every package U need > Stepping Up To #BigData With R & #Python: http://www.r-bloggers.com/stepping-up-to-big-data-with-r-and-python-a-mind-map-of-all-the-packages-you-will-ever-need/ @Rbloggers #Rstats HT @drago_carlo
+340107559115575297  May 30 10:08  @rmflight         post: Storing package data in custom environments  http://robertmflight.blogspot.com/2013/05/storing-package-data-in-custom.html #rstats
+340110793511157760  May 30 10:21  @quandl           RT @gvegayon: Quandl Package – 5,000,000 free datasets at the tip of your fingers! (tutorial) http://feedly.com/k/18JJfup once again... #rstats #opendata
+340112469945118720  May 30 10:28  @Gliders_Coach    Tatvic bets on R http://wp.me/p9q8Y-2TZ via @Gliders_Coach #rstats
+340117641203171330  May 30 10:48  @baogorek         "A heatmap is a literal way of visualizing a table of numbers." Can't argue with that! Quick tutorial for R #rstats: http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/
+340123211998040064  May 30 11:11  @m4xl1n           flexclust #rstats package supports K-means++ as seed initialization. http://bit.ly/12QbINc
+340124718000656384  May 30 11:17  @Rbloggers        Are Fox News Polls Biased?:  (This article was first published on   Econometrics by Simulation, and ... http://bit.ly/15eDp4H #rstats
+340125077356044288  May 30 11:18  @RevoJoe          Get a glimpse of how R #rstats is used on the trading desk of a major bank http://bit.ly/177FT8A
+340127571628924929  May 30 11:28  @rOpenSci         Bug reports make #opensource software  better, like this one w/ ours  http://bit.ly/119ZGNc #rstats
+340128580648464386  May 30 11:32  @TTAnalytics      Interesting companies using R to do interesting things... http://ow.ly/lxSQs via @RevolutionR #rstats #datascience
+340129615655870465  May 30 11:36  @rmounce          What function should I use to compare the *shape* of the distribution of samples of discrete numbers? #rstats http://t.co/Dk226jAqNi
+340133250011906048  May 30 11:51  @revodavid        RT @RevoJoe: Get a glimpse of how R #rstats is used on the trading desk of a major bank http://bit.ly/177FT8A
+340133943133208576  May 30 11:53  @serapatyx        RT @RevoJoe: Get a glimpse of how R #rstats is used on the trading desk of a major bank http://bit.ly/177FT8A
+340134909890920449  May 30 11:57  @DEAGiles         RT @RevoJoe: Get a glimpse of how R #rstats is used on the trading desk of a major bank http://bit.ly/177FT8A
+340136423665590273  May 30 12:03  @Altons           Check out this mind map: "R for big data" http://www.xmind.net/m/LKF2/ #rstats
+340140568032206848  May 30 12:20  @gawbul           Got two variables - anyone know if you can use different alpha values for them with geom_area() using ggplot2? #Rstats cc @hadleywickham
+340144060461355008  May 30 12:33  @gawbul           @HarlanH Will give it a whirl, thanks for the speedy response :) #Rstats #SuperFastTechSupport
+340144865750953984  May 30 12:37  @winston_chang    RT @ramnath_vaidya: NYCBikeShare app with Shiny and rCharts (updates every 10 minutes) http://glimmer.rstudio.com/ramnathv/NYCBikeShare/ #rstats @CitibikeNYC @jcheng
+340145771510902784  May 30 12:40  @alexhanna        I guess my last tweets should have been tagged with #rstats. There. #rstats <----
+340146188722520065  May 30 12:42  @revodavid        High debt does not slow growth in countries (via @mattyglesias) http://bit.ly/11rfom5 #rstats #ggplot2
+340148217389932544  May 30 12:50  @timelyportfolio  more thoughts on Japan with #rstats Timely Portfolio: If…then in Japan http://timelyportfolio.blogspot.com/2013/05/ifthen-in-japan.html?spref=tw
+340148272830226432  May 30 12:50  @egonwillighagen  RT @rmounce: What function should I use to compare the *shape* of the distribution of samples of discrete numbers? #rstats http://t.co/Dk226jAqNi
+340149422778351616  May 30 12:55  @_inundata        Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340150418741006337  May 30 12:59  @timelyportfolio  RT @ramnath_vaidya: NYCBikeShare app with Shiny and rCharts (updates every 10 minutes) http://glimmer.rstudio.com/ramnathv/NYCBikeShare/ #rstats @CitibikeNYC @jcheng
+340151362983706624  May 30 13:02  @mjcavaretta      RT @LannyMorrow: "Stepping up to #BigData with #Python and R" - mind maps for #DataScience http://bit.ly/10KAFbz Via @Rbloggers #Rstats
+340151364145537024  May 30 13:02  @chriscesar       Sort of tempted... RT @_inundata Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340151749425897472  May 30 13:04  @therealprotonk   RT @revodavid: High debt does not slow growth in countries (via @mattyglesias) http://bit.ly/11rfom5 #rstats #ggplot2
+340152030951768064  May 30 13:05  @analysis_factor  Jumping in to learn linear regression in R next Friday. #rstats #stats http://ow.ly/ly7d9
+340152940713111554  May 30 13:09  @ramhiser         Why are there `rownames` and `row.names` functions in #rstats for arrays and data frames, respectively, but only `colnames` for both cases?
+340155826515886080  May 30 13:20  @HarlanH          RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340156800798167040  May 30 13:24  @my_witz_end      RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340160229532647425  May 30 13:38  @gawbul           .@HarlanH Was trying to do with a melt'd dataset. Had to split into two DFs. Must be way to do with melt'd though? #Rstats @hadleywickham?
+340161089843113984  May 30 13:41  @alexsisu         RT @analysis_factor: Jumping in to learn linear regression in R next Friday. #rstats #stats http://ow.ly/ly7d9
+340164601402494977  May 30 13:55  @NREL_EcoPress    This is how I did it… mapping in R with #ggplot2, http://bit.ly/Zh2k6g. #Rstats
+340164700350320640  May 30 13:55  @maaikefest       RT @revodavid: High debt does not slow growth in countries http://bit.ly/11rfom5 #rstats #ggplot2 @peterkwint @Markla94
+340165814445563904  May 30 14:00  @gawbul           @HarlanH Ah ha! Fantastic stuff! Thanks very muchly :) #Rstats @hadleywickham
+340166134701633536  May 30 14:01  @ATredennick      My post on R map making RT @NREL_EcoPress: This is how I did it… mapping in R with #ggplot2, http://bit.ly/Zh2k6g. #Rstats
+340166470212390912  May 30 14:03  @dnusinow         RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340172805444341760  May 30 14:28  @christoper_hamm  Is it just me, or does R 3.0 crash a lot more than R 2.* ? #Rstats
+340173379317428224  May 30 14:30  @gawbul           Steve 1 - ToDo List 0! Much fun with #Rstats & #ggplot2 today :-) #LateNight #HomeTime #PhD #PhDChat
+340174129460305920  May 30 14:33  @yichuanw         As a software nerd, I'm inclined to note that R has been amazing in my recent column with @mileskimball on the RR results #rstats
+340176800116248577  May 30 14:44  @geoffjentry      RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340178557428985856  May 30 14:51  @Rbloggers        Couch, apis and all that:  (This article was first published on   Recology - R, and kindly contribut... http://bit.ly/14bg9S5 #rstats
+340180540252635137  May 30 14:58  @vCTO             RT @revodavid: Looking forward to these forthcoming books on R: http://bit.ly/13ZvYPl #rstats
+340180720850976768  May 30 14:59  @nivertech        RT @revodavid: Looking forward to these forthcoming books on R: http://bit.ly/13ZvYPl #rstats
