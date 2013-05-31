@@ -7399,3 +7399,72 @@
 340178557428985856  May 30 14:51  @Rbloggers        Couch, apis and all that:  (This article was first published on   Recology - R, and kindly contribut... http://bit.ly/14bg9S5 #rstats
 340180540252635137  May 30 14:58  @vCTO             RT @revodavid: Looking forward to these forthcoming books on R: http://bit.ly/13ZvYPl #rstats
 340180720850976768  May 30 14:59  @nivertech        RT @revodavid: Looking forward to these forthcoming books on R: http://bit.ly/13ZvYPl #rstats
+340185369440043009  May 30 15:18  @jcborras         RT @masemresearch: Two MindMaps - Stepping up to big data with R and Python - Data Community DC #rstats #python #bigdata | @scoopit http://t.co/gl7G44Nvjz
+340185469134446593  May 30 15:18  @vCTO             RT @RevoJoe: Get a glimpse of how R #rstats is used on the trading desk of a major bank http://bit.ly/177FT8A” <- very cool!
+340189097895268353  May 30 15:32  @treycausey       That moment when you are googling an #rstats problem and find a message board posting from your student asking for help on their homework.
+340196021940408320  May 30 16:00  @genetics_blog    viRome: #Rstats pkg for #dataviz+analysis of viral small RNA-seq datasets. Paper: http://bioinformatics.oxfordjournals.org/content/early/2013/05/24/bioinformatics.btt297.abstract .. Software: http://virome.sf.net
+340198186805252096  May 30 16:09  @mattmoehr        Retail price for Bivand's spatial analysis book is $80. Or the pdf for free: http://www.sih.m.u-tokyo.ac.jp/english/seminar/pdf/GIS/Use%20R!.pdf #rstats #dontTellSpringer
+340201834599809024  May 30 16:23  @kdnuggets        SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+340202061188698114  May 30 16:24  @Ardi_MGMT        RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+340202248468574209  May 30 16:25  @kdnuggets        Data sonification with R: the sound of Twitter data (no, it is not "tweet") #rstats http://bit.ly/178kQTb
+340202288515792897  May 30 16:25  @mthielbar        RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+340203148713005058  May 30 16:28  @flatwire         RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+340203220435599360  May 30 16:29  @DHenschen        RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+340203607897022467  May 30 16:30  @josecamoessilva  Wondering whether I should convert some of my most popular class exercises from #Rstats to #Python (old examples were Matlab & Stata) #fb
+340203969374728193  May 30 16:32  @TopDevTweets     RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+340205188944109568  May 30 16:36  @andrew_wharrad   Codification of semantics? -> Data sonification with R: the sound of Twitter data  #rstats http://bit.ly/178kQTb @kdnuggets
+340205801606090752  May 30 16:39  @lrott            RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+340207380727996416  May 30 16:45  @HAStark          RT @kdnuggets: Data sonification with R: the sound of Twitter data (no, it is not "tweet") #rstats http://bit.ly/178kQTb
+340208964274880513  May 30 16:51  @moorejh          Would you #datascience & #rstats folks get excited about a R^2 effect size of 0.02%? You can publish it in Science! http://www.sciencemag.org/content/early/2013/05/29/science.1235488
+340211271335022592  May 30 17:01  @StrictlyStat     RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340212356514709504  May 30 17:05  @antbarros        RT @moorejh: Would you #datascience & #rstats folks get excited about a R^2 effect size of 0.02%? You can publish it in Science! http://t.co/foKlqO0yNk
+340219354320867328  May 30 17:33  @ElHass_          RT @kdnuggets: Data sonification with R: the sound of Twitter data (no, it is not "tweet") #rstats http://bit.ly/178kQTb
+340223252322471937  May 30 17:48  @KevinLDavenport  Best way to share R reports? I currently use knitr and then serve the html on my webserver.  #rstats
+340226835625414656  May 30 18:02  @ProfBunnie       卧槽R还排SPSS后面 RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd
+340227438275600384  May 30 18:05  @aindap           RT @moorejh: Would you #datascience & #rstats folks get excited about a R^2 effect size of 0.02%? You can publish it in Science! http://t.co/foKlqO0yNk
+340230569432596481  May 30 18:17  @Rbloggers        my 1st post for the Guardian Australia:  (This article was first published on   simon jackman's blog... http://bit.ly/17AvpiR #rstats
+340230981686525952  May 30 18:19  @Bioconductor     #Bioconductor / #rstats  2013 conference with about a dozen afternoon practicals http://bit.ly/1aFDjDT travel scholarship deadline June 10.
+340233361643679745  May 30 18:28  @adriana_ct       Today's lesson: for an exactly identified IV model, LIML=2SLS. Bayes IV beats them if you also have a weak instrument and/or small N.#Rstats
+340233826234138624  May 30 18:30  @papachan         RT @kdnuggets: Data sonification with R: the sound of Twitter data (no, it is not "tweet") #rstats http://bit.ly/178kQTb
+340238377267900416  May 30 18:48  @timelyportfolio  @ramnath_vaidya  think Simon needs to see #rstats #rCharts?  http://jackman.stanford.edu/blog/?p=2749
+340238389267804162  May 30 18:48  @lgatt0           RT @Bioconductor: #Bioconductor / #rstats  2013 conference with about a dozen afternoon practicals http://bit.ly/1aFDjDT travel scholarship deadline June 10.
+340238459354611712  May 30 18:49  @ksugimot         RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+340241014910488577  May 30 18:59  @cynorrhodon      RT @yrochat: Excellente visualisation des notes données aux séries TV. Et utile. http://glimmer.rstudio.com/pssguy/TVShowRatings/ #Rstats
+340241258016550912  May 30 19:00  @JGreenbrookHeld  @LaurieFleming I have a similar #rstats script which generates a nice, normally-distributed dataset. For when I generally can't be arsed.
+340242486196830208  May 30 19:05  @mattmoehr        A long day of trial & error and googling has left me reading Ripley & Venable's source code... and it's now #beerThirty #rstats #glmm
+340253293051777025  May 30 19:48  @moorejh          #bioinformatics #datascience MT @atulbutte @jnovembre A Guide to Speeding Up #Rstats Code for Busy People http://www.noamross.net/blog/2013/4/25/faster-talk.html
+340253402401484801  May 30 19:48  @PhilippBayer     RT @moorejh: #bioinformatics #datascience MT @atulbutte @jnovembre A Guide to Speeding Up #Rstats Code for Busy People http://t.co/qn32u86ygd
+340259609145118720  May 30 20:13  @C_Bravo_R        RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+340264058836111363  May 30 20:30  @jxchong          OMG blowing my mind as much as learning about paste0 RT @moorejh Guide to Speeding Up #Rstats Code for Busy People http://www.noamross.net/blog/2013/4/25/faster-talk.html
+340265942808408064  May 30 20:38  @bryan_howie      RT @jxchong: OMG blowing my mind as much as learning about paste0 RT @moorejh Guide to Speeding Up #Rstats Code for Busy People http://t.co/LpxNhlCeYH
+340266634923094018  May 30 20:41  @ThembeK          RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+340275658049601537  May 30 21:16  @monsoontrader    RT @moorejh: Would you #datascience & #rstats folks get excited about a R^2 effect size of 0.02%? You can publish it in Science! http://t.co/foKlqO0yNk
+340283763441401857  May 30 21:49  @cherrybobs       RT @chriscesar: Sort of tempted... RT @_inundata Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340285444010950657  May 30 21:55  @josecamoessilva  Interesting: Rattle (for #Rstats). Perhaps to replace a bunch of class examples with a single point of access  http://cran.r-project.org/web/packages/rattle/index.html #fb
+340289041763270657  May 30 22:10  @adamhsparks      Robert Hijmans gave a talk recently at the Davis R Users' Group. Great presentation on spatial analysis in #rstats. http://www.noamross.net/blog/2013/5/23/robert-hijmans-on-spatial-data-analysis.html
+340290852171681793  May 30 22:17  @mjcavaretta      RT @monsoontrader @moorejh: Would #datascience & #rstats folks get excited about a R^2 of 0.02%? Science did! http://www.sciencemag.org/content/early/2013/05/29/science.1235488
+340290969037582337  May 30 22:17  @BrockTibert      It may be me but the day that u forgive the idiosyncrasies of #rstats is the same day that you realize it doesnt scale easily out of the box
+340293444205420544  May 30 22:27  @gvegayon         "Two forthcoming R books" http://feedproxy.google.com/~r/RBloggers/~3/bhYaas4zGlY/ #rstats
+340296476452347904  May 30 22:39  @mattmoehr        Hmm: "partial quasi-likelihood estimation" doesn't give me warm fuzzies. Footnote: Venables and Ripley did it first, so ask them.  #rstats
+340297109846781952  May 30 22:42  @Rbloggers        ”How to draw the line” with ggplot2:  (This article was first published on   There is grandeur in th... http://bit.ly/15h96dR #rstats
+340302408095764480  May 30 23:03  @flash_us         RT @RevoJoe: Get a glimpse of how R #rstats is used on the trading desk of a major bank http://bit.ly/177FT8A
+340339439375093761  May 31 01:30  @kerfors          Great for my #datascience course > MT @KirkDBorne: Stepping Up To #BigData With R & #Python http://www.r-bloggers.com/stepping-up-to-big-data-with-r-and-python-a-mind-map-of-all-the-packages-you-will-ever-need/ @Rbloggers #Rstats
+340354472293314561  May 31 02:30  @kushan_s         RT @RevoJoe: Get a glimpse of how R #rstats is used on the trading desk of a major bank http://bit.ly/177FT8A
+340366235621539841  May 31 03:16  @gsantosgo        Mind Map R for Big Data #Rstats #bigdata http://www.xmind.net/m/LKF2/
+340369031687196672  May 31 03:27  @chlalanne        Stepping up to big data with #rstats and #python http://prsm.tc/2KlgMG via @prismatic
+340371208170246144  May 31 03:36  @chlalanne        Two forthcoming #rstats books http://prsm.tc/4OfpEQ via @prismatic
+340375674999144448  May 31 03:54  @gawbul           RT @chlalanne: Stepping up to big data with #rstats and #python http://prsm.tc/2KlgMG via @prismatic
+340389376645292032  May 31 04:48  @CelHern          Three types of regression lines RT: ”How to draw the line” with ggplot2 http://martinsbioblogg.wordpress.com/2013/05/31/how-to-draw-the-line-with-ggplot2/ @Rbloggers #Rstats
+340394434753617920  May 31 05:08  @askeluv          The death of #SPSS and #SAS, and the rise of #RStats. Great article by @BobMuenchen http://lnkd.in/2x_9MZ
+340394682372718592  May 31 05:09  @jjgibaja         RT @chlalanne: Two forthcoming #rstats books http://prsm.tc/4OfpEQ via @prismatic
+340397600144490496  May 31 05:21  @gawbul           .@sc_evans Lol! Great stuff! Mine is a meeting w/ @lifeaquatic, then 4 lots of tasks involving hacking with #Rstats :) #phdchat #FiveTaskPhD
+340397835264589825  May 31 05:22  @gawbul           @sc_evans That's why I'm making my things easy… like discrete blocks of code in #Rstats for today :) It worked well yesterday :) #phdchat
+340400627752501249  May 31 05:33  @jjgibaja         Parece que en breve haré un nuevo cursillo presencial de introducción a #rstats. Ahí lo dejo. #MisterioMisterioso
+340424021977989122  May 31 07:06  @JayPykw          RT @Bioconductor: #Bioconductor / #rstats  2013 conference with about a dozen afternoon practicals http://bit.ly/1aFDjDT travel scholarship deadline June 10.
+340430415766626304  May 31 07:31  @bayestheoremqed  RT @mattmoehr: Have we not progressed to the point where the damn computers can tune their own parameters? #rstats #bayes #theFutureBlows
+340433723101151233  May 31 07:44  @randyzwitch      @BrockTibert I became much more forgiving of #rstats once I learned how to use it on EC2 and use multicore
+340434116816297985  May 31 07:46  @MangoTheCat      Mango's Matt Aldridge to present (on his birthday!) on the commercial usage of R at Talking Data Southwest http://goo.gl/zXItf  #Rstats
+340440410033909761  May 31 08:11  @richierocks      Learning R also worth waiting for http://oreil.ly/18DCuw4  RT @revodavid Looking forward to these books on R: http://bit.ly/18DCxbb #rstats
+340441054165729281  May 31 08:14  @IronistM         Stepping up to big data with R and Python - Data Community DC  http://bit.ly/11eu1xj #rstats
+340441532316389376  May 31 08:16  @ryanpraski       Using #bigdata algorithms identify sentiment in Enron emails #rstats http://bit.ly/1awS4so
+340451590676824064  May 31 08:55  @randyzwitch      @BrockTibert The only downside to EC2 in my #rstats workflow is that I haven't figured out how to use rattle (since EC2 isn't a desktop)
