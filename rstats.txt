@@ -7411,6 +7411,7 @@
 340203148713005058  May 30 16:28  @flatwire         RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
 340203220435599360  May 30 16:29  @DHenschen        RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
 340203607897022467  May 30 16:30  @josecamoessilva  Wondering whether I should convert some of my most popular class exercises from #Rstats to #Python (old examples were Matlab & Stata) #fb
+340203611818688512  May 30 16:30  @iwjase           RT @josecamoessilva: Wondering whether I should convert some of my most popular class exercises from #Rstats to #Python (old examples were Matlab & Stata) #fb
 340203969374728193  May 30 16:32  @TopDevTweets     RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
 340205188944109568  May 30 16:36  @andrew_wharrad   Codification of semantics? -> Data sonification with R: the sound of Twitter data  #rstats http://bit.ly/178kQTb @kdnuggets
 340205801606090752  May 30 16:39  @lrott            RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
@@ -7468,3 +7469,73 @@
 340441054165729281  May 31 08:14  @IronistM         Stepping up to big data with R and Python - Data Community DC  http://bit.ly/11eu1xj #rstats
 340441532316389376  May 31 08:16  @ryanpraski       Using #bigdata algorithms identify sentiment in Enron emails #rstats http://bit.ly/1awS4so
 340451590676824064  May 31 08:55  @randyzwitch      @BrockTibert The only downside to EC2 in my #rstats workflow is that I haven't figured out how to use rattle (since EC2 isn't a desktop)
+340455208679260160  May 31 09:10  @gvegayon         "Shiny talk by Joe Cheng" http://feedly.com/k/14ebEX3 #rstats must read
+340460662734065665  May 31 09:32  @treycausey       Memory and load times in #rstats. RT @mcdickenson: In which my stinginess masquerades as a programming tip: http://wp.me/p1vcSX-Dr
+340464103237746688  May 31 09:45  @hadleywickham    RT @revodavid: High debt does not slow growth in countries (via @mattyglesias) http://bit.ly/11rfom5 #rstats #ggplot2
+340464180559749120  May 31 09:46  @hadleywickham    RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340464785189642241  May 31 09:48  @sandakano        RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340465453614891010  May 31 09:51  @Rbloggers        accurate ABC: comments by Oliver Ratman [guest post]:  (This article was first published on   Xi'an'... http://bit.ly/15jqZIR #rstats
+340465708674736129  May 31 09:52  @JeffHemsley      Nifty mindmap of #rstats packages for #datascience: http://bit.ly/14ejZKh
+340466268563972096  May 31 09:54  @jonsedar         RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340467139356012544  May 31 09:57  @followlori       RT @coffee001: Introducing GuardianR, an R wrapper for the @guardian Content API: http://blog.ynada.com/177 #rstats #ddj (cc @WLoosen @MrsBunz)
+340467835325255680  May 31 10:00  @drewconway       RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340467977394737153  May 31 10:01  @yokofakun        #python and #rstats for #bigdata http://www.xmind.net/m/WvfC/ http://www.xmind.net/m/LKF2/ via #biostar
+340467989822468096  May 31 10:01  @tonyfischetti    It will be interesting to see how the R tutorial series grows: http://onepager.togaware.com #rstats
+340468191375523843  May 31 10:01  @prisonrodeo      Whoa. RT @drewconway @_inundata Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg
+340468390516883456  May 31 10:02  @BadHessian       RT @prisonrodeo: Whoa. RT @drewconway @_inundata Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg
+340468768125894657  May 31 10:04  @jlove1982        RT @prisonrodeo: Whoa. RT @drewconway @_inundata Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg
+340468887365763073  May 31 10:04  @jlove1982        WANT! RT @prisonrodeo  Whoa. RT @drewconway @_inundata Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg
+340469442066653184  May 31 10:06  @gregoryjwolf     Should be free RT“@jlove1982: WANT! RT @prisonrodeo  Whoa. MT@drewconway @_inundata bizarre #rstats cards on @ebay. http://bit.ly/18BmwTg”
+340470094637441024  May 31 10:09  @DataCommunityDC  RT @JeffHemsley: Nifty mindmap of #rstats packages for #datascience: http://bit.ly/14ejZKh
+340470218382012416  May 31 10:10  @kleinschmidt     WUT “@_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui”
+340471701869576193  May 31 10:15  @kayuri           RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340471890034429952  May 31 10:16  @DevNambi         RT @revodavid: High debt does not slow growth in countries (via @mattyglesias) http://bit.ly/11rfom5 #rstats #ggplot2
+340472677041049602  May 31 10:19  @Gliders_Coach    http://blog.programmableweb.com/2013/05/30/pw-interview-francisco-j-martin-ceo-bigml-com/ Latest interview I wrote for @programmableweb  is with the CEO of @bigmlcom on ensemble models and @quandl #rstats
+340473253720096770  May 31 10:22  @andysannier      RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340473513238474753  May 31 10:23  @cjpberry         RT @JeffHemsley: Nifty mindmap of #rstats packages for #datascience: http://bit.ly/14ejZKh
+340474089565208576  May 31 10:25  @Jowanza          RT @JeffHemsley: Nifty mindmap of #rstats packages for #datascience: http://bit.ly/14ejZKh
+340474116861743104  May 31 10:25  @nyhackr          @ramnath_vaidya, creator of this @CitiBikeNYC viz http://bit.ly/1aIdqTR, will be speaking at June's #rstats meetup http://bit.ly/1aIdpiH
+340474244154667009  May 31 10:26  @cnrlwlss         RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340475667802116097  May 31 10:31  @JeffHemsley      How to make #Twitter data sing with #rstats: http://bit.ly/12lWFQs #datasonification
+340480873591869441  May 31 10:52  @kdnuggets        Edureka online class: Business Analytics with R, taught by Ajay Ohri, author of "R for Business Analytics" #rstats http://bit.ly/11ghEAJ
+340481823350063104  May 31 10:56  @knaverit         RT @kdnuggets: Edureka online class: Business Analytics with R, taught by Ajay Ohri, author of "R for Business Analytics" #rstats http://t.co/CRNK5649u0
+340482039730024451  May 31 10:56  @mjcavaretta      MT @kdnuggets: Edureka online class: Business #Analytics with R http://bit.ly/11ghEAJ #datamining #rstats cc @Gliders_Coach
+340482055039246336  May 31 10:57  @ucfagls          About to take over maintenance of the #rstats pcurve package. Sources just added to R-Forge https://r-forge.r-project.org/scm/viewvc.php?root=pcurve&view=rev
+340482979010854914  May 31 11:00  @JacquelynGill    RT @wabarree: really nice post on how to design an #Rstats project.  http://bit.ly/1704yfO This really matters for productivity and reproducibility!
+340483750951530497  May 31 11:03  @jsto7380         insane, but oh so cool RT@_inundata: Totally bizarre #rstats playing cards for sale on @eBay. http://bit.ly/18BmwTg ↬ @xieyihui
+340484870243483648  May 31 11:08  @RichardTol       RT @wabarree: really nice post on how to design an #Rstats project.  http://bit.ly/1704yfO This really matters for productivity and reproducibility!
+340486710490189824  May 31 11:15  @tomjwebb         +1, really good1 MT @wabarree: really nice post on how to design an #Rstats project.  http://bit.ly/1704yfO This really matters!
+340488473964314624  May 31 11:22  @ryanpraski       SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) #measure http://bit.ly/11tgYDM
+340496939240013824  May 31 11:56  @aDataHead        RT @kdnuggets: Data sonification with R: the sound of Twitter data (no, it is not "tweet") #rstats http://bit.ly/178kQTb
+340500219437412352  May 31 12:09  @m4xl1n           Why not #rstats?  Why Pandas (Python Data Analysis Library)? http://bit.ly/12SzSqu
+340500702352773120  May 31 12:11  @RLangTip         You can include mathematical equations in R charts. Cheat sheet of all the math symbols you can use: http://bit.ly/10WrbZo #rstats
+340501630720024576  May 31 12:14  @mercifr1         Useful cheat sheet indeed ...  MT @RLangTip include math equations in your R charts http://bit.ly/10WrbZo #rstats
+340502185555140608  May 31 12:17  @postureoDeusto   RT @jjgibaja: Parece que en breve haré un nuevo cursillo presencial de introducción a #rstats. Ahí lo dejo. #MisterioMisterioso
+340503264401428480  May 31 12:21  @leejb            RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340503490109530112  May 31 12:22  @RyanGuggenmos    Excellent cheat sheet! MT @RLangTip: include math eqns in R charts. Cheat sheet of the symbols you can use: http://bit.ly/10WrbZo #rstats
+340505125279899648  May 31 12:28  @cynandeleon      RT @_inundata: Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg ↬ @xieyihui
+340505637974863873  May 31 12:30  @Rbloggers        Are parallel computations interesting ?:  (This article was first published on   Freakonometrics » R... http://bit.ly/15kaeNL #rstats
+340506256534024193  May 31 12:33  @miguelrios       20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+340506714535243777  May 31 12:35  @kwcollins        RT @prisonrodeo: Whoa. RT @drewconway @_inundata Totally bizarre #rstats playing cards for sale on @ebay. http://bit.ly/18BmwTg
+340508021178368000  May 31 12:40  @BobMuenchen      RT @revodavid: My answer to What interesting companies, open source projects are using R in 2013? http://qr.ae/pH3SM #Rstats
+340517845035253760  May 31 13:19  @raphg            Glad to have @xieyihui work with us on #rstats visualization for #singlecell #cytometry. @kevin_ushey will join us soon to help too.
+340518039965544449  May 31 13:20  @genetics_blog    +1? RT @DistribEcology: I'm just going to say it. I like for loops in #Rstats, makes my code readable. All you [a-z]*ply snobs can shove it!
+340518165463302146  May 31 13:20  @BrianPardy       RT @genetics_blog: +1? RT @DistribEcology: I'm just going to say it. I like for loops in #Rstats, makes my code readable. All you [a-z]*ply snobs can shove it!
+340521935156953089  May 31 13:35  @jenkinsa         RT @kdnuggets: Edureka online class: Business Analytics with R, taught by Ajay Ohri, author of "R for Business Analytics" #rstats http://t.co/CRNK5649u0
+340524347682873344  May 31 13:45  @revodavid        You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340524534727835648  May 31 13:45  @QTFocus          RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340524688335839232  May 31 13:46  @StphaneAudic     RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340524894632673281  May 31 13:47  @paldhous         RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340526879444434944  May 31 13:55  @mckennapr        RT @paldhous: RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://t.co/GIMTTxUi6A
+340527216414830592  May 31 13:56  @caddymob         My plotmatrix depreciation tweet was one of my most popular tweets... Any way we can re-appreciate it @hadleywickham? #Rstats #ggplot2
+340527798638743552  May 31 13:58  @chlalanne        RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340528260754587648  May 31 14:00  @LRaykin          RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340528696186245120  May 31 14:02  @tanmoy77         "@rortybomb Large simple operations on data, you trust SAS. Complex operations on simple data, R. Rest Stata? " - Prefference abt #rstats
+340529818271617024  May 31 14:06  @hylopsar         second #Rstats segfault error of the week… argh…
+340529836386824192  May 31 14:06  @mcorey           RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+340530424931561473  May 31 14:09  @CatSwetel        where to find a #data #analyst in the #phx - #scottsdale area? not getting anything great from careerbuilder... #help #rstats
+340530578950602752  May 31 14:09  @kobriendublin    RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340534323377750017  May 31 14:24  @ramhiser         RT @raphg: Glad to have @xieyihui work with us on #rstats visualization for #singlecell #cytometry. @kevin_ushey will join us soon to help too.
+340538913947009024  May 31 14:42  @richmanmax       Great morning today teaching some #rstats and experimenting with survey #dataviz with folks from American @RedCross International Services
+340539228519804928  May 31 14:44  @jonsedar         RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340541435747119104  May 31 14:52  @therealprotonk   A little bit of #rstats and #ggplot2 powering the UN's #post2015hlp report for the UN http://www.un.org/sg/management/pdf/HLP_P2015_Report.pdf

@@ -445,3 +445,253 @@
 340365529120387072  May 31 03:14  @DanielCanueto    RT @bioinformer: 0.83% of reads from sewage water purification plants map to known organisms. Wow! #sfaf2013
 340412570798284800  May 31 06:20  @SahaSurya        Tweets from SFAF 2013 Day 2 storified at http://sfy.co/eK3S #storify #sfaf2013 #metagenomics
 340430691542114304  May 31 07:32  @ikardail         RT @Bacterioskeptic: Is it just my imagination or do @CLCbio have a lot of fingers in a lot of pies! #sfaf2013
+340485087672020992  May 31 11:09  @infoecho         RT @finchtalk: #SFAF2013 DC shows some gaps - not on any exome panels - that have genes that could be involved in neurodev. Put that in your GWAS.
+340485146769760256  May 31 11:09  @infoecho         RT @digitalbio: #SFAF2013 DC:  Extra copy of region in mouse C57bl makes it hard to distningusih between allelelic seqs & paralogous sequences
+340485199471194113  May 31 11:09  @aphillippy       RT @digitalbio: #SFAF2013 DC:  Remember an assembly is not the genome.  It is a model of a genome.  Reference assembly is neither - is model of ALL genomes.
+340485232539074561  May 31 11:09  @Bacterioskeptic  RT @aphillippy: #SFAF2013 D. Church makes important distinction between the "genome" (whats in you) and the "assembly" as only a model of the genome
+340485397962432513  May 31 11:10  @phylogenomics    RT @SahaSurya: #SFAF2013 #geekalert This is the only place where Google's hat tip to Julius Richard Petri https://www.google.com/ will get an Awww....
+340485504900399104  May 31 11:10  @SahaSurya        RT @aphillippy: #SFAF2013 D. Church makes important distinction between the "genome" (whats in you) and the "assembly" as only a model of the genome
+340485559736729604  May 31 11:10  @digitalbio       #SFAF2013 DC:  7 alternate representations of MHC region - one is in ref. and others are alongside with chr. context.
+340485561263484928  May 31 11:10  @finchtalk        #SFAF2013 DC. The reference assembly attempts to model all genomes. A good description.
+340485570499313664  May 31 11:11  @SahaSurya        RT @digitalbio: #SFAF2013 DC:  Remember an assembly is not the genome.  It is a model of a genome.  Reference assembly is neither - is model of ALL genomes.
+340485884942090242  May 31 11:12  @digitalbio       #SFAF2013 DC:  Some regions are now shown alongside reference to try and avoid having to disrupt chromosome coordinates w/ every new genome
+340486072607838209  May 31 11:13  @SahaSurya        RT @digitalbio: #SFAF2013 DC:  Some regions are now shown alongside reference to try and avoid having to disrupt chromosome coordinates w/ every new genome
+340486695571058690  May 31 11:15  @SahaSurya        #SFAF2013 @deannachurch's talk is essentially compendium of gotcha's in current human genome annot. Must see for anybody working on variants
+340486787594072065  May 31 11:15  @aphillippy       #SFAF2013 D. Church : people doing structural variation detection are often detecting assembly errors <-- also a problem in micro genomics
+340486960504270848  May 31 11:16  @digitalbio       #SFAF2013 - DC:  some probs. come from mistakes in assembling BAC clones.  Causes probs. in ID'ing structural variation.
+340487029584445440  May 31 11:16  @aphillippy       RT @SahaSurya: #SFAF2013 @deannachurch's talk is essentially compendium of gotcha's in current human genome annot. Must see for anybody working on variants
+340487034072350721  May 31 11:16  @digitalbio       RT @aphillippy: #SFAF2013 D. Church : people doing structural variation detection are often detecting assembly errors <-- also a problem in micro genomics
+340487044117721088  May 31 11:16  @finchtalk        #SFAF2013 DC assembly errors in the ref genome, really mess up structural variant analysis.  Good case for the importance of aCGH.
+340487060815224832  May 31 11:16  @digitalbio       RT @SahaSurya: #SFAF2013 @deannachurch's talk is essentially compendium of gotcha's in current human genome annot. Must see for anybody working on variants
+340487406836920320  May 31 11:18  @digitalbio       #SFAF2013 - DC:  When it comes to SNPs the clinical testing labs want to know which allele is non-pathogenic.
+340487590564200448  May 31 11:19  @infoecho         .@deannachurch  Will your slides for #SFAF2013 be available?
+340487996895801344  May 31 11:20  @SahaSurya        #SFAF2013 @deannachurch: Need to realize that 30000 errors in human genome even at 1 error per 100 bases 1/2
+340488010472767488  May 31 11:20  @digitalbio       #SFAF2013 DC:  sometimes reference allele is a minor allele.  Cases exist where some reference alleles aren't seen in any of 1000 genomes
+340488053862842370  May 31 11:20  @evolvability     RT @SahaSurya: #SFAF2013 @deannachurch: Need to realize that 30000 errors in human genome even at 1 error per 100 bases 1/2
+340488075417366529  May 31 11:20  @infoecho         RT @aphillippy: #SFAF2013 D. Church makes important distinction between the "genome" (whats in you) and the "assembly" as only a model of the genome
+340488278098731008  May 31 11:21  @SahaSurya        #SFAF2013 @deannachurch: 5800 are wrong, 48k bases are very rare from #1kgenomes data 2/2
+340488348504322048  May 31 11:22  @digitalbio       #SFAF2013 - DC:  they think some reference bases must be wrong - they are checking w/ 1000 genomes data & looking for HQ contigs
+340488434013585408  May 31 11:22  @SahaSurya        RT @digitalbio: #SFAF2013 DC:  sometimes reference allele is a minor allele.  Cases exist where some reference alleles aren't seen in any of 1000 genomes
+340488624292372481  May 31 11:23  @evolvability     RT @digitalbio: #SFAF2013 DC:  sometimes reference allele is a minor allele.  Cases exist where some reference alleles aren't seen in any of 1000 genomes
+340488856665206784  May 31 11:24  @digitalbio       #SFAF2013 DC:  reexamining BAC clones & switch points where reference seq changes from one clone to another & trying to correct.
+340488908410327040  May 31 11:24  @SahaSurya        RT @digitalbio: #SFAF2013 DC:  reexamining BAC clones & switch points where reference seq changes from one clone to another & trying to correct.
+340489234278400000  May 31 11:25  @digitalbio       #SFAF2013 - DC:  fixed 66 cases in upcoming reference assembly where gaps occurred because of diff. haplotypes
+340489308244951040  May 31 11:25  @SahaSurya        RT @digitalbio: #SFAF2013 - DC:  fixed 66 cases in upcoming reference assembly where gaps occurred because of diff. haplotypes
+340489669986877440  May 31 11:27  @stochastic_jedi  RT @aphillippy: #SFAF2013 D. Church : people doing structural variation detection are often detecting assembly errors <-- also a problem in micro genomics
+340490015513661440  May 31 11:28  @digitalbio       #SFAF2013 - DC:  next version of assembly will have more centromere sequence.  GRCh38 scheduled for release in Fall 2013
+340490323170037760  May 31 11:29  @pathogenomenick  RT @aphillippy: #SFAF2013 D. Church : people doing structural variation detection are often detecting assembly errors <-- also a problem in micro genomics
+340490500635242496  May 31 11:30  @digitalbio       #SFAF2013 - DC:  what does it mean to have a non-linear reference assembly?
+340490636039974912  May 31 11:31  @digitalbio       #SFAF2013 DC:  Current alignment tools can't distinguish between alignments to alternate assignments & alignments to reference sequence.
+340490711684243457  May 31 11:31  @MarcellaAtLife   #sfaf2013 non-linear reference!! Great benefits coming this summer with the new reference genome
+340490752138293249  May 31 11:31  @finchtalk        #SFAF2013 DC.  The challenge ahead is that the ref seq is really non-linear. At several loci, alternate assemblies better reflect pop diffs.
+340490800288899072  May 31 11:31  @SahaSurya        RT @finchtalk: #SFAF2013 DC.  The challenge ahead is that the ref seq is really non-linear. At several loci, alternate assemblies better reflect pop diffs.
+340490980945960961  May 31 11:32  @titojankowski    RT @digitalbio: #SFAF2013 @deannachurch quoting @dgmacarthur quoting Rong Chen - get 6% differences even when same genome is sequence twice
+340491026399629313  May 31 11:32  @stochastic_jedi  RT @digitalbio: #SFAF2013 DC:  Current alignment tools can't distinguish between alignments to alternate assignments & alignments to reference sequence.
+340491099514736641  May 31 11:32  @titojankowski    RT @digitalbio: #SFAF2013 - DC:  1000k genome browser - structural variation calls - copy number variation messes up aligners & reporting differs, too
+340491117923532801  May 31 11:33  @digitalbio       #SFAF2013 DC:  We should all be excited about new reference genome bc we can analyze everything again. (note: my paraphrasing)
+340491152727891968  May 31 11:33  @aphillippy       #SFAF2013 D. Church stresses the need for aligners aware of alternative alleles ... I interpret that as graph-based search, and agree
+340491179579801601  May 31 11:33  @digitalbio       RT @finchtalk: #SFAF2013 DC.  The challenge ahead is that the ref seq is really non-linear. At several loci, alternate assemblies better reflect pop diffs.
+340491197447540736  May 31 11:33  @SahaSurya        RT @aphillippy: #SFAF2013 D. Church stresses the need for aligners aware of alternative alleles ... I interpret that as graph-based search, and agree
+340491218632978434  May 31 11:33  @bioinformer      RT @aphillippy: #SFAF2013 D. Church stresses the need for aligners aware of alternative alleles ... I interpret that as graph-based search, and agree
+340491398929338368  May 31 11:34  @aphillippy       #SFAF2013 D. Church wins the award for highest density of memes in a talk at SFAF : "Brace yourself... GRCh38 is coming"
+340491496451084288  May 31 11:34  @titojankowski    RT @digitalbio: #SFAF2013 DC:  We should all be excited about new reference genome bc we can analyze everything again. (note: my paraphrasing)
+340491573756309504  May 31 11:34  @SahaSurya        RT @aphillippy: #SFAF2013 D. Church wins the award for highest density of memes in a talk at SFAF : "Brace yourself... GRCh38 is coming"
+340492109729628161  May 31 11:36  @digitalbio       #SFAF2013 @finchtalk asks @deannachurch about new tools to help community handle change.  Trying to develop heat map w/ difference scores
+340492200163020800  May 31 11:37  @digitalbio       RT @aphillippy: #SFAF2013 D. Church wins the award for highest density of memes in a talk at SFAF : "Brace yourself... GRCh38 is coming"
+340492603898339328  May 31 11:38  @geneiam          @DeannaChurch @NCBI @NIH GRCh38 is coming in September  2013! Genome Reference Consortium #SFAF2013 #humangenome
+340493080388055041  May 31 11:40  @stochastic_jedi  Mike Kay on deck presenting HAVANA #Sanger #SFAF2013
+340493089200275456  May 31 11:40  @SahaSurya        #SFAF2013 Now Mike Kay from Sanger on HAVANA Manual Annotation: the Cartography of a Genome http://www.sanger.ac.uk/research/projects/vertebrategenome/havana/
+340493379806822400  May 31 11:42  @geneiam          RT @BlueSEQ: Lots of great tweets from #SFAF2013 We're archiving them here: http://ngs.is/19qxdt4
+340493412820209664  May 31 11:42  @finchtalk        #SFAF2013 Mike Kay on Havana manual annotation and the cartography of a genome.
+340494181657083904  May 31 11:45  @BiooScientific   RT @NextGenSequence: Come visit us at #SFAF2013 before you say goodbye to Santa Fe! #qRNA-Seq #16SV4
+340494511564275712  May 31 11:46  @deannachurch     My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340494549250093056  May 31 11:46  @SahaSurya        RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340494756784250880  May 31 11:47  @OmicsOmicsBlog   RT @aphillippy: #SFAF2013 D. Church stresses the need for aligners aware of alternative alleles ... I interpret that as graph-based search, and agree
+340494834852839424  May 31 11:47  @digitalbio       RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340494951651606528  May 31 11:48  @geneiam          Someone likened GRCh38 to a new OS, where you can't force an update unless you're @Adobe or @Microsoft  #Brilliant @DeannaChurch #SFAF2013
+340495069121490945  May 31 11:48  @OmicsOmicsBlog   RT @aphillippy: #SFAF2013 D. Church makes important distinction between the "genome" (whats in you) and the "assembly" as only a model of the genome
+340495262898331648  May 31 11:49  @aphillippy       RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340495364501155840  May 31 11:49  @infoecho         RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340495418381176833  May 31 11:50  @ctitusbrown      RT @aphillippy: #SFAF2013 D. Church : people doing structural variation detection are often detecting assembly errors <-- also a problem in micro genomics
+340495497422848001  May 31 11:50  @evolvability     RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340495552846372865  May 31 11:50  @dnatimes         RT @aphillippy: #SFAF2013 D. Church stresses the need for aligners aware of alternative alleles ... I interpret that as graph-based search, and agree
+340495779791765505  May 31 11:51  @stochastic_jedi  Community gene annotation in practice: http://database.oxfordjournals.org/content/2012/bas009.full #SFAF2013 #GeneDB
+340495803212775425  May 31 11:51  @jaredtsimpson    RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340496446778388481  May 31 11:54  @pathogenomenick  RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340497336671301632  May 31 11:57  @stochastic_jedi  Really appreciate the work that @sangerinstitute does. Manual annotation/curation can be a pain in the arse #SFAF2013 #GeneDb
+340498183501275136  May 31 12:01  @digitalbio       #SFAF2013 Now:  Ward Wakeland on genetics of autoimmunity (AI)
+340498592248782849  May 31 12:02  @JoeyKaralius     Slides from @deannachurch talk at #SFAF2013 http://www.slideshare.net/deanna.church/church-sfaf13 HT: @infoecho
+340498866250055682  May 31 12:03  @cntalavera       RT @aphillippy: #SFAF2013 D. Church : people doing structural variation detection are often detecting assembly errors <-- also a problem in micro genomics
+340498922625695746  May 31 12:04  @digitalbio       #SFAF2013 WW:  SLE (lupus) affects 1 in 2000 people, mostly women.  Genetic predisposition is major component of susceptibility.
+340499559757279232  May 31 12:06  @digitalbio       #SFAF2013 WW: 26% of normal people have anti-nuclear antibodies.  Women have higher titers.  Immunochip shows 6 loci associated Caucasions
+340499747825651712  May 31 12:07  @DaleYuzuki       RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340500174570934272  May 31 12:09  @bioinformer      Great slide on the immune system balance from Ward Wakeland at #SFAF2013 http://t.co/6WKeqNcuch
+340500186075901954  May 31 12:09  @digitalbio       #SFAF2013 WW:  SLE is related to loss of ability to regulate benign AI.  40 common SLE risk loci found w/ Immunochip. Many genes contribute.
+340500268783394816  May 31 12:09  @finchtalk        #SFAF2013 Ward Wakeland on the genomics of autoimmunity. We have a lot of "self" antibodies lurking - disease occurs when disregulated.
+340500280938463234  May 31 12:09  @bioinformer      RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340500289650049025  May 31 12:09  @digitalbio       RT @stochastic_jedi: Community gene annotation in practice: http://database.oxfordjournals.org/content/2012/bas009.full #SFAF2013 #GeneDB
+340500652050489344  May 31 12:10  @bioinformer      RT @aphillippy: #SFAF2013 D. Church makes important distinction between the "genome" (whats in you) and the "assembly" as only a model of the genome
+340501334065295360  May 31 12:13  @GenomeNathan     RT @DaleYuzuki: RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340501958920126464  May 31 12:16  @digitalbio       #SFAF2013 WW: found two haplotypes of IRF5 with 15 functional variations, 3 in Encode-defined segments.  Two changed transcription levels.
+340502231742808066  May 31 12:17  @SahaSurya        RT @bioinformer: Great slide on the immune system balance from Ward Wakeland at #SFAF2013 http://t.co/6WKeqNcuch
+340502251049193474  May 31 12:17  @digitalbio       #SFAF2013 WW is showing some interesting graphs called MJ network graphs used to ID functional SNPs.
+340502609037250561  May 31 12:18  @deannachurch     Feature remapping tool I referenced in my talk but forgot to put links in my slides: http://www.ncbi.nlm.nih.gov/genome/tools/remap #SFAF2013
+340502765346373632  May 31 12:19  @SahaSurya        RT @deannachurch: Feature remapping tool I referenced in my talk but forgot to put links in my slides: http://www.ncbi.nlm.nih.gov/genome/tools/remap #SFAF2013
+340502795578916864  May 31 12:19  @digitalbio       RT @deannachurch: Feature remapping tool I referenced in my talk but forgot to put links in my slides: http://www.ncbi.nlm.nih.gov/genome/tools/remap #SFAF2013
+340502967851552768  May 31 12:20  @aphillippy       RT @deannachurch: Feature remapping tool I referenced in my talk but forgot to put links in my slides: http://www.ncbi.nlm.nih.gov/genome/tools/remap #SFAF2013
+340503047266512896  May 31 12:20  @GregStaskowski   RT @deannachurch: Feature remapping tool I referenced in my talk but forgot to put links in my slides: http://www.ncbi.nlm.nih.gov/genome/tools/remap #SFAF2013
+340503391262355459  May 31 12:21  @michaelhoffman   RT @deannachurch: Feature remapping tool I referenced in my talk but forgot to put links in my slides: http://www.ncbi.nlm.nih.gov/genome/tools/remap #SFAF2013
+340503768980406273  May 31 12:23  @SahaSurya        #SFAF2013 Matthew Scholz from LANL on Microbial Pathogen ID // unscheduled talk
+340503774495911938  May 31 12:23  @digitalbio       RT @bioinformer: Great slide on the immune system balance from Ward Wakeland at #SFAF2013 http://t.co/6WKeqNcuch
+340503809979727873  May 31 12:23  @msimangawp       RT @bioinformer: Great slide on the immune system balance from Ward Wakeland at #SFAF2013 http://t.co/6WKeqNcuch
+340503861640974336  May 31 12:23  @Bacterioskeptic  MScholz back to Microbes - id of pathogens in mixed samples #sfaf2013
+340504117707427840  May 31 12:24  @SahaSurya        #SFAF2013 OT For those debating entering the social media fracas - An Introduction to Social Media for Scientists http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001535
+340504318727815170  May 31 12:25  @Bacterioskeptic  RT @SahaSurya: #SFAF2013 OT For those debating entering the social media fracas - An Introduction to Social Media for Scientists http://t.co/gwOY8NdGXV
+340504322871799809  May 31 12:25  @aphillippy       #SFAF2013 Matthew Scholz (LANL) presenting on pathogen identification and microbial forensics workflows
+340504701051215874  May 31 12:27  @tjsharpton       RT @SahaSurya: #SFAF2013 OT For those debating entering the social media fracas - An Introduction to Social Media for Scientists http://t.co/gwOY8NdGXV
+340504951300165634  May 31 12:28  @davetang31       RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340505390833868801  May 31 12:29  @digitalbio       #SFAF2013 Fill-in speaker from LANL tells us about sequencing DNA from air filters - can detect pathogens from goat breath
+340505437675847682  May 31 12:29  @aphillippy       #SFAF2013 A Krona sighting in M. Scholz talk to display MetaPhlAn output. Users, yay! http://sourceforge.net/p/krona/home/krona/
+340505676692471809  May 31 12:30  @SahaSurya        RT @digitalbio: #SFAF2013 Fill-in speaker from LANL tells us about sequencing DNA from air filters - can detect pathogens from goat breath
+340505763640401920  May 31 12:31  @digitalbio       #SFAF2013 - Used qPCR to ID Coxiella burnetii in air - also detected some SNPs & INDELs
+340505808926289920  May 31 12:31  @dnatimes         RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340506140897079296  May 31 12:32  @assemblathon     RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340506215966707712  May 31 12:33  @Bacterioskeptic  Most abund. genera in air sample incld. 1% Brucella, 2% Burk with Francisella at 1% (which was target) - issues of confounders? #sfaf2013
+340506705874010112  May 31 12:34  @SahaSurya        #SFAF2013 MS: How to deal with very low copy pathogens in NGS metagenomic datasets? #openquestion
+340506716548526080  May 31 12:35  @aphillippy       #SFAF2013 M. Scholz points out weakness of current detection methods : hard to assign detection confidence to low abundance genomes
+340506846865539075  May 31 12:35  @digitalbio       RT @aphillippy: #SFAF2013 Matthew Scholz (LANL) presenting on pathogen identification and microbial forensics workflows
+340507353327751169  May 31 12:37  @bioinformer      0.1% lower limit on minor SNPs is VERY low … and in the error range of nearly all NGS platforms. #sfaf2013
+340507509724938240  May 31 12:38  @SahaSurya        +1 RT @bioinformer: 0.1% lower limit on minor SNPs is VERY low … and in the error range of nearly all NGS platforms. #sfaf2013
+340508440684285953  May 31 12:41  @bioinformer      ALso #SFAF2013 False negative rate can be determined using contrived samples and a standard assay development LOD approach
+340508775775629312  May 31 12:43  @SahaSurya        #SFAF2013 Now Ken Dewar from McGill on Tomorrow’s Genome: Complete Bacterial Genomes in <24 h for Outbreak Response
+340508794742243330  May 31 12:43  @SahaSurya        RT @bioinformer: ALso #SFAF2013 False negative rate can be determined using contrived samples and a standard assay development LOD approach
+340509328031219712  May 31 12:45  @aphillippy       #SFAF2013 Ken Dewar asking the Q: "Can we do 1 bacteria in 1 day for <$1k". Have a feeling this will be a good setup for my talk :)
+340509385216364544  May 31 12:45  @digitalbio       #SFAF2013 Ken Dewar:  how can we do single bacterial genomes quickly (<24 hrs) & for less than $1K?
+340509584898789376  May 31 12:46  @bioinformer      Ken Dewer's breakdown of cost/time/read lengths for rapid WGS is spot on. #agree #SFAF2013 http://t.co/ZGSDruYJdk
+340509695913639937  May 31 12:46  @digitalbio       #SFAF2013 Ken Dewar: compares PacBio (long reads but high error rate) & MiSeq (short reads, fewer errors).  Hybrid strategy combines both.
+340509911286956032  May 31 12:47  @digitalbio       RT @bioinformer: Ken Dewer's breakdown of cost/time/read lengths for rapid WGS is spot on. #agree #SFAF2013 http://t.co/ZGSDruYJdk
+340509918064951296  May 31 12:47  @stochastic_jedi  RT @bioinformer: Ken Dewer's breakdown of cost/time/read lengths for rapid WGS is spot on. #agree #SFAF2013 http://t.co/ZGSDruYJdk
+340510111229415425  May 31 12:48  @infoecho         RT @aphillippy: #SFAF2013 Ken Dewar asking the Q: "Can we do 1 bacteria in 1 day for <$1k". Have a feeling this will be a good setup for my talk :)
+340510206092001282  May 31 12:48  @SahaSurya        RT @aphillippy: #SFAF2013 Ken Dewar asking the Q: "Can we do 1 bacteria in 1 day for <$1k". Have a feeling this will be a good setup for my talk :)
+340510277663604736  May 31 12:49  @cwhelan          RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340510305371168768  May 31 12:49  @lexnederbragt    RT @digitalbio: #SFAF2013 DC:  Remember an assembly is not the genome.  It is a model of a genome.  Reference assembly is neither - is model of ALL genomes.
+340510445662244864  May 31 12:49  @lexnederbragt    RT @SahaSurya: #SFAF2013 @deannachurch's talk is essentially compendium of gotcha's in current human genome annot. Must see for anybody working on variants
+340510863633043457  May 31 12:51  @digitalbio       #SFAF2013 Ken Dewar: they made a custom password protected version of the UCSC genome browser to share bacterial genome data w/ users
+340510892863131649  May 31 12:51  @bioinformer      CGB: A UNIX shell program to create custom instances of the UCSC Genome Browser - by Ken Dewer at #sfaf2013 http://arxiv.org/abs/1211.1607
+340511209163997185  May 31 12:52  @aphillippy       RT @digitalbio: #SFAF2013 Ken Dewar: they made a custom password protected version of the UCSC genome browser to share bacterial genome data w/ users
+340511430669373440  May 31 12:53  @SahaSurya        RT @bioinformer: CGB: A UNIX shell program to create custom instances of the UCSC Genome Browser - by Ken Dewer at #sfaf2013 http://t.co/8SsLsInqlh
+340511609510305793  May 31 12:54  @digitalbio       RT @bioinformer: CGB: A UNIX shell program to create custom instances of the UCSC Genome Browser - by Ken Dewer at #sfaf2013 http://t.co/8SsLsInqlh
+340511651046518784  May 31 12:54  @bioinformer      @digitalbio @aphillippy http://arxiv.org/abs/1211.1607 This could be useful for like a zillion of my current contracts… another gem from #sfaf2013
+340511866805686273  May 31 12:55  @lexnederbragt    RT @aphillippy: #SFAF2013 D. Church stresses the need for aligners aware of alternative alleles ... I interpret that as graph-based search, and agree
+340512278308847617  May 31 12:57  @JChrisPires      RT @bioinformer: Ken Dewer's breakdown of cost/time/read lengths for rapid WGS is spot on. #agree #SFAF2013 http://t.co/ZGSDruYJdk
+340512391756398593  May 31 12:57  @mvschneiderg     RT @digitalbio: #SFAF2013 DC:  Remember an assembly is not the genome.  It is a model of a genome.  Reference assembly is neither - is model of ALL genomes.
+340512634208124928  May 31 12:58  @lexnederbragt    RT @bioinformer: Ken Dewer's breakdown of cost/time/read lengths for rapid WGS is spot on. #agree #SFAF2013 http://t.co/ZGSDruYJdk
+340512688193011713  May 31 12:58  @aphillippy       #SFAF2013 Ken Dewar sequencing complex mixtures with PacBio, seems to be assembling well
+340512882640953344  May 31 12:59  @infoecho         RT @bioinformer: CGB: A UNIX shell program to create custom instances of the UCSC Genome Browser - by Ken Dewer at #sfaf2013 http://t.co/8SsLsInqlh
+340513032813817858  May 31 13:00  @pjacock          RT @digitalbio: #SFAF2013 DC:  Remember an assembly is not the genome.  It is a model of a genome.  Reference assembly is neither - is model of ALL genomes.
+340513105564024832  May 31 13:00  @sleight82        RT @bioinformer: CGB: A UNIX shell program to create custom instances of the UCSC Genome Browser - by Ken Dewer at #sfaf2013 http://t.co/8SsLsInqlh
+340513550999093248  May 31 13:02  @lexnederbragt    RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340514072195899392  May 31 13:04  @lexnederbragt    @deannachurch Great slides and talk - as reflected on twitter. Wish I could have been there... #SFAF2013
+340516159961055233  May 31 13:12  @PacBio           RT @aphillippy: #SFAF2013 Ken Dewar sequencing complex mixtures with PacBio, seems to be assembling well
+340516302395428864  May 31 13:13  @aphillippy       #SFAF2013 As much as I would love to tweet on bioifx legends David Gordon and Jim Knight, going to unplug a bit before my talk
+340516473594314753  May 31 13:13  @SahaSurya        #SFAF2013 Now a legend IMO - David Gordon on the evergreen Consed and BamScape for Next-Gen Sequencing
+340516704088109056  May 31 13:14  @stochastic_jedi  RT @SahaSurya: #SFAF2013 Now a legend IMO - David Gordon on the evergreen Consed and BamScape for Next-Gen Sequencing
+340516836795891712  May 31 13:15  @lexnederbragt    RT @aphillippy: #SFAF2013 Ken Dewar asking the Q: "Can we do 1 bacteria in 1 day for <$1k". Have a feeling this will be a good setup for my talk :)
+340516967960166400  May 31 13:15  @lexnederbragt    RT @bioinformer: CGB: A UNIX shell program to create custom instances of the UCSC Genome Browser - by Ken Dewer at #sfaf2013 http://t.co/8SsLsInqlh
+340517219240910849  May 31 13:16  @larsgt           RT @bioinformer: CGB: A UNIX shell program to create custom instances of the UCSC Genome Browser - by Ken Dewer at #sfaf2013 http://t.co/8SsLsInqlh
+340517730325258241  May 31 13:18  @SahaSurya        #SFAF2013 DGordon: BamScape http://www.phrap.org/consed/consed.html uses only 400MB of RAM for 2billion reads, Rewrites reference after edits have been made
+340517808624525315  May 31 13:19  @stochastic_jedi  David Gordon unleashing at #SFAF2013, Consed & BamScape
+340518101428871168  May 31 13:20  @digitalbio       RT @SahaSurya: #SFAF2013 DGordon: BamScape http://www.phrap.org/consed/consed.html uses only 400MB of RAM for 2billion reads, Rewrites reference after edits have been made
+340519718039465986  May 31 13:26  @digitalbio       #SFAF2013 Dave Gordon is asking people to vote on new features for Consed.  Ballots are getting distributed now.
+340520028984188929  May 31 13:27  @Genome10K        RT @assemblathon: RT @deannachurch: My slides for #SFAF2013 are up: http://www.slideshare.net/deanna.church/church-sfaf13
+340520034709409793  May 31 13:27  @digitalbio       #SFAF2013 - The Consed demo is making me wonder:  do people really edit NGS assemblies by hand?
+340520290637451264  May 31 13:28  @deannachurch     #SFAF2013: David Gordon demonstrating software and demonstrating how to do user driven development. #nice
+340520583819313152  May 31 13:30  @SahaSurya        RT @deannachurch: #SFAF2013: David Gordon demonstrating software and demonstrating how to do user driven development. #nice
+340521600019472384  May 31 13:34  @mvschneiderg     RT @bioinformer: Ken Dewer's breakdown of cost/time/read lengths for rapid WGS is spot on. #agree #SFAF2013 http://t.co/ZGSDruYJdk
+340521922636947458  May 31 13:35  @SahaSurya        #SFAF2013 And now Jim Knight from @RocheSequencing/ 454 on Assembling Human Genomes
+340522293560213504  May 31 13:36  @digitalbio       #SFAF2013 Jim Knight - 250 gaps remain in human reference genome - the contiguous kind, as opposed the non-linear version
+340522652898820097  May 31 13:38  @finchtalk        #SFAF2013 Jim Knight on finishing the human reference genome. Specifically de novo assembly of RP11 with 454, MiSeq and fosmid data.
+340522874794307585  May 31 13:39  @SahaSurya        #SFAF2013 JK: Combining 454 FLX and Illumina Miseq and Hiseq data for resequencing the human genome. Assembling with Newbler, of course
+340522947817123841  May 31 13:39  @RocheSequencing  RT @finchtalk: #SFAF2013 Jim Knight on finishing the human reference genome. Specifically de novo assembly of RP11 with 454, MiSeq and fosmid data.
+340523093715992576  May 31 13:40  @SahaSurya        RT @finchtalk: #SFAF2013 Jim Knight on finishing the human reference genome. Specifically de novo assembly of RP11 with 454, MiSeq and fosmid data.
+340523341557411841  May 31 13:41  @nl_brown         RT @bioinformer: Ken Dewer's breakdown of cost/time/read lengths for rapid WGS is spot on. #agree #SFAF2013 http://t.co/ZGSDruYJdk
+340523779639881728  May 31 13:42  @stochastic_jedi  Q: Fasta + VCF OR Fastg? #SFAF2013
+340524256192512001  May 31 13:44  @bioinformer      Jim Knight @RocheSequencing shows newbler assembler improvements - FASTG? Yes please. #SFAF2013 http://t.co/RPLfpmKMa3
+340524600293199873  May 31 13:46  @bookhling        RT @digitalbio: #SFAF2013 Jim Knight - 250 gaps remain in human reference genome - the contiguous kind, as opposed the non-linear version
+340524669750874112  May 31 13:46  @SahaSurya        #SFAF2013 JK: Incorporated diploid genome handling & haplotype phasing in Newbler, 2 track scaffolding made this easier, VCF file o/p
+340524818820657152  May 31 13:46  @geneiam          "Assembling Human Genomes" Jim Knight poses a question: FASTA + VCF or FASTG #SFAF2013 #genomics
+340525273042784256  May 31 13:48  @stochastic_jedi  Regarding Fastg file, http://assemblathon.org/ #SFAF2013 @assemblathon
+340525773339377664  May 31 13:50  @SahaSurya        #SFAF2013 JK: Assembly validation using PE read distance deviation - mid contig or end contig gaps are different than scaffold gaps
+340525873998475267  May 31 13:51  @geneiam          RT @stochastic_jedi: Regarding Fastg file, http://assemblathon.org/ #SFAF2013 @assemblathon
+340526565895057408  May 31 13:53  @lexnederbragt    RT @SahaSurya: #SFAF2013 JK: Combining 454 FLX and Illumina Miseq and Hiseq data for resequencing the human genome. Assembling with Newbler, of course
+340526585079799808  May 31 13:53  @lexnederbragt    RT @bioinformer: Jim Knight @RocheSequencing shows newbler assembler improvements - FASTG? Yes please. #SFAF2013 http://t.co/RPLfpmKMa3
+340526606659497984  May 31 13:54  @lexnederbragt    RT @SahaSurya: #SFAF2013 JK: Incorporated diploid genome handling & haplotype phasing in Newbler, 2 track scaffolding made this easier, VCF file o/p
+340526639266004995  May 31 13:54  @lexnederbragt    RT @geneiam: "Assembling Human Genomes" Jim Knight poses a question: FASTA + VCF or FASTG #SFAF2013 #genomics
+340527081119182848  May 31 13:55  @bioinformer      @geneiam @lexnederbragt #sfaf2013 One file is better than two. :D #occamsrazor ?
+340527318567100416  May 31 13:56  @stochastic_jedi  Fastg specification doc http://fastg.sourceforge.net/FASTG_Spec_v1.00.pdf #SFAF2013
+340527361088954370  May 31 13:57  @bioinformer      RT @stochastic_jedi: Fastg specification doc http://fastg.sourceforge.net/FASTG_Spec_v1.00.pdf #SFAF2013
+340527386674208768  May 31 13:57  @GenIgnored       Problems with talking too fast, people think I was looking for pathogens in goat breath  #sfaf2013 #naughtypresenter @digitalbio @SahaSurya
+340527631608971264  May 31 13:58  @SahaSurya        RT @GenIgnored: Problems with talking too fast, people think I was looking for pathogens in goat breath  #sfaf2013 #naughtypresenter @digitalbio @SahaSurya
+340527764992049152  May 31 13:58  @lexnederbragt    RT @bioinformer: @geneiam @lexnederbragt #sfaf2013 One file is better than two. :D #occamsrazor ?
+340527768309743617  May 31 13:58  @stochastic_jedi  Newbler: Hadoop organized assembler implementation! Sweet... #SFAF2013
+340528092315516929  May 31 13:59  @SahaSurya        RT @stochastic_jedi: Newbler: Hadoop organized assembler implementation! Sweet... #SFAF2013
+340528159676039168  May 31 14:00  @lexnederbragt    RT @stochastic_jedi: Newbler: Hadoop organized assembler implementation! Sweet... #SFAF2013
+340528295655399425  May 31 14:00  @SahaSurya        #SFAF2013 JK: Future work to implement a full HADOOP organized assembler to handle memory and computing needs #cloud #parallelization
+340528344770699264  May 31 14:00  @bioinformer      Jim Knight - Newbler soon to be HADOOP enabled for @awscloud use. Cool! #sfaf2013
+340528384503332867  May 31 14:01  @bioinformer      RT @SahaSurya: #SFAF2013 JK: Future work to implement a full HADOOP organized assembler to handle memory and computing needs #cloud #parallelization
+340528584106053632  May 31 14:01  @lexnederbragt    RT @SahaSurya: #SFAF2013 JK: Future work to implement a full HADOOP organized assembler to handle memory and computing needs #cloud #parallelization
+340529291987140610  May 31 14:04  @stochastic_jedi  Jim Knight does "Fastg Tai Chi" to speak to polyploid organisms #SFAF2013
+340529301923446786  May 31 14:04  @SahaSurya        #SFAF2013 JK: Cannot handle plant polyploid genomes currently, Scaffolding algo is limited, Focus on doing diploid genomes well first
+340529377433509889  May 31 14:05  @GenIgnored       Don't call it a comeback, I've been here for years!! JK is making newbler hadoop compatible... #sfaf2013 #hadoop
+340529574913912833  May 31 14:05  @SahaSurya        #SFAF2013 Now Adam Phillippy/ @aphillippy from NBACC on Reducing Assembly Complexity of Microbial Genomes with Single-molecule Sequencing
+340529745064235009  May 31 14:06  @SahaSurya        #SFAF2013 See http://arxiv.org/abs/1304.3752 for background of Adam's talk
+340529792103350272  May 31 14:06  @abremges         RT @stochastic_jedi: Newbler: Hadoop organized assembler implementation! Sweet... #SFAF2013
+340529811292295169  May 31 14:06  @bioinformer      Fellow #sciencetweep @aphillippy up next #SFAF2013 http://t.co/WaNIdhfBVY
+340529818183536642  May 31 14:06  @CampOther        RT @digitalbio: #SFAF2013 WW:  SLE is related to loss of ability to regulate benign AI.  40 common SLE risk loci found w/ Immunochip. Many genes contribute.
+340530207301709825  May 31 14:08  @digitalbio       #SFAF2013 @aphillippy talking about single molecule sequencing and the benefits for sequencing assembly http://arxiv.org/abs/1304-3752
+340530334510751746  May 31 14:08  @GenIgnored       RT @stochastic_jedi: Jim Knight does "Fastg Tai Chi" to speak to polyploid organisms #SFAF2013
+340530391058362368  May 31 14:09  @SahaSurya        #SFAF2013 @aphillippy: Reads length matters due to repeats! So more sequencing with Miseq will not necessarily close your microbial  genome
+340530505629974528  May 31 14:09  @bioinformer      Size matters , but not depth #snarky paraphrase of @aphillippy #SFAF2013 http://t.co/J52FAXhlE2
+340530922736738305  May 31 14:11  @digitalbio       #SFAF2013 @aphillippy  - discusses the length of bacterial repeats & number of copies - biggest repeat is the rDNA operon (5-7 kb)
+340531101120479232  May 31 14:11  @stochastic_jedi  RT @SahaSurya: #SFAF2013 @aphillippy: Reads length matters due to repeats! So more sequencing with Miseq will not necessarily close your microbial  genome
+340531395443167233  May 31 14:13  @bioinformer      RT @digitalbio: #SFAF2013 @aphillippy  - discusses the length of bacterial repeats & number of copies - biggest repeat is the rDNA operon (5-7 kb)
+340531448081702912  May 31 14:13  @digitalbio       #SFAF2013 AP:  class I genomes 70% - few repeats, class II, 6% have lots of small repeats, class III - 23% longer repeats > 1 kb
+340531638444363776  May 31 14:14  @SahaSurya        #SFAF2013 @aphillippy: Once reads exceed 7kb for microbial genomes, it drastically reduces assembly complexity, see fig 5 in paper
+340531740407889920  May 31 14:14  @SahaSurya        RT @digitalbio: #SFAF2013 AP:  class I genomes 70% - few repeats, class II, 6% have lots of small repeats, class III - 23% longer repeats > 1 kb
+340531810553430016  May 31 14:14  @digitalbio       #SFAF2013 AP:  examples of each - class I Bacillus anthracis, class II Yersina pestis, class III E. coli
+340532131732283392  May 31 14:16  @SahaSurya        #SFAF2013 @aphillippy: @pacbio's latest XL-XL chemistry has 40% reads > 7kbp => makes assembly a lot simpler
+340532436171624448  May 31 14:17  @Bacterioskeptic  @aphillippy highlighted problem I'm heading back to - assembly of Yersinia with Miseq only. Rpt number and size = many contigs #sfaf2013
+340533272033505280  May 31 14:20  @digitalbio       #SFAF2013 I love this phrase from AP:  "last year's chemistry"
+340533664289017856  May 31 14:22  @bioinformer      Running theme at #sfaf2013 seems to me that @PacBio is king. @aphillippy talk on genome finishing with PacBio is pretty much sums it up.
+340533888432603136  May 31 14:23  @JoeyKaralius     RT @bioinformer: Running theme at #sfaf2013 seems to me that @PacBio is king. @aphillippy talk on genome finishing with PacBio is pretty much sums it up.
+340534052115324929  May 31 14:23  @PacBio           RT @bioinformer: Running theme at #sfaf2013 seems to me that @PacBio is king. @aphillippy talk on genome finishing with PacBio is pretty much sums it up.
+340534192616128514  May 31 14:24  @bioinformer      @digitalbio LOL. Also "A finished genome used to be a Science paper - now you finish 100 of them and it's a Genome Announcement" #sfaf2013
+340534472384598017  May 31 14:25  @bioinformer      $637 to finish a 5MB microbial genome using @PacBio -- @aphillippy estimates. #sfaf2013
+340534657877671936  May 31 14:26  @SahaSurya        #sfaf2013 AP: $1625 cost at Duke for closing a microbial genome with presented method http://t.co/Eytut3gsN6
+340534700135288832  May 31 14:26  @lexnederbragt    RT @SahaSurya: #SFAF2013 @aphillippy: Reads length matters due to repeats! So more sequencing with Miseq will not necessarily close your microbial  genome
+340534763318288384  May 31 14:26  @digitalbio       #SFAF2013 from @aphillippy remember every time you're sequencing bacteria, you are sequencing a population - not a clone
+340534796985970689  May 31 14:26  @surt_lab         RT @bioinformer: $637 to finish a 5MB microbial genome using @PacBio -- @aphillippy estimates. #sfaf2013
+340534811095601152  May 31 14:26  @digitalbio       RT @SahaSurya: #sfaf2013 AP: $1625 cost at Duke for closing a microbial genome with presented method http://t.co/Eytut3gsN6
+340534897087234048  May 31 14:27  @AdamHargreaves5  RT @bioinformer: Running theme at #sfaf2013 seems to me that @PacBio is king. @aphillippy talk on genome finishing with PacBio is pretty much sums it up.
+340534901126336512  May 31 14:27  @lexnederbragt    RT @bioinformer: Running theme at #sfaf2013 seems to me that @PacBio is king. @aphillippy talk on genome finishing with PacBio is pretty much sums it up.
+340534947020406784  May 31 14:27  @APMisLow         RT @bioinformer: Size matters , but not depth #snarky paraphrase of @aphillippy #SFAF2013 http://t.co/J52FAXhlE2
+340535068466483201  May 31 14:27  @digitalbio       #SFAF2013 @aphillippy  - it seems to be cheaper now to finish a genome than it is to publish them - need new way to cite these.
+340535093225467904  May 31 14:27  @SahaSurya        RT @digitalbio: #SFAF2013 from @aphillippy remember every time you're sequencing bacteria, you are sequencing a population - not a clone
+340535190285864961  May 31 14:28  @finchtalk        #SFAF2013 AP. @DELSA it's now cheaper to finish a bacterial genome than to publish it.  We need new ways to cite genomes.
+340535338625802241  May 31 14:28  @infoecho         RT @digitalbio: #SFAF2013 @aphillippy  - it seems to be cheaper now to finish a genome than it is to publish them - need new way to cite these.
+340535461783158784  May 31 14:29  @finchtalk        RT @SahaSurya: #sfaf2013 AP: $1625 cost at Duke for closing a microbial genome with presented method http://t.co/Eytut3gsN6
+340535479109816320  May 31 14:29  @APMisLow         RT @digitalbio: #SFAF2013 from @aphillippy remember every time you're sequencing bacteria, you are sequencing a population - not a clone
+340535607535210496  May 31 14:29  @JoeyKaralius     RT @finchtalk: #SFAF2013 AP. @DELSA it's now cheaper to finish a bacterial genome than to publish it.  We need new ways to cite genomes.
+340535611129737218  May 31 14:29  @lexnederbragt    RT @digitalbio: #SFAF2013 @aphillippy  - it seems to be cheaper now to finish a genome than it is to publish them - need new way to cite these.
+340535632298397696  May 31 14:29  @SahaSurya        #SFAF2013 @aphillippy: Krona link http://www.cbcb.umd.edu/software/PBcR/closure/report.log.krona.html
+340535646768738305  May 31 14:29  @digitalbio       #sfaf2013 @aphillippy interactive krono chart - showing read depth, chemistry, & genomes
+340535680302190592  May 31 14:30  @jlandolin        “@bioinformer: Size matters , but not depth #snarky paraphrase of @aphillippy #SFAF2013 http://t.co/kAThtXO7Su”
+340535686358777857  May 31 14:30  @surt_lab         RT @SahaSurya: #sfaf2013 AP: $1625 cost at Duke for closing a microbial genome with presented method http://t.co/Eytut3gsN6
+340535982677954561  May 31 14:31  @digitalbio       RT @SahaSurya: #SFAF2013 @aphillippy: Krona link http://www.cbcb.umd.edu/software/PBcR/closure/report.log.krona.html
+340537004049702913  May 31 14:35  @CampOther        RT @bioinformer: Great slide on the immune system balance from Ward Wakeland at #SFAF2013 http://t.co/6WKeqNcuch
+340537841723518976  May 31 14:38  @CampOther        RT @digitalbio: #SFAF2013 Fill-in speaker from LANL tells us about sequencing DNA from air filters - can detect pathogens from goat breath
+340538661642829824  May 31 14:41  @kc31958          RT @bioinformer: Running theme at #sfaf2013 seems to me that @PacBio is king. @aphillippy talk on genome finishing with PacBio is pretty much sums it up.
+340538700419178496  May 31 14:42  @genetics_blog    RT @bioinformer: $637 to finish a 5MB microbial genome using @PacBio -- @aphillippy estimates. #sfaf2013
+340538729963859969  May 31 14:42  @genetics_blog    RT @bioinformer: Running theme at #sfaf2013 seems to me that @PacBio is king. @aphillippy talk on genome finishing with PacBio is pretty much sums it up.
+340539097640730625  May 31 14:43  @JoeyKaralius     RT @bioinformer: $637 to finish a 5MB microbial genome using @PacBio -- @aphillippy estimates. #sfaf2013
+340539589527748609  May 31 14:45  @traingene        RT @SahaSurya: #sfaf2013 AP: $1625 cost at Duke for closing a microbial genome with presented method http://t.co/Eytut3gsN6
