@@ -7612,3 +7612,21 @@
 340772642418204672  Jun  1 06:11  @Minkoo           RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
 340793289261346816  Jun  1 07:33  @stennie          Your "data" is only available as an image? Stat hacker builds matching R model to estimate & extract data points :) #govhack #sydney #rstats
 340794921277595649  Jun  1 07:40  @jmgomez          Regression regularization example in #Rstats http://ow.ly/1WXNcc #datamining
+340821585902583808  Jun  1 09:26  @JMarquezP        RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+340822580443353088  Jun  1 09:30  @LilithElina      Stepping up to big data with #rstats and #python http://bit.ly/13rXYZw via @prismatic
+340836167777935360  Jun  1 10:24  @omearabrian      A bit scary that Wall Street financial modeling = excel, not #rstats or similar: http://nyti.ms/1aFiXKV
+340836441309474816  Jun  1 10:25  @reusswig         I hope @USGS updates NADA for #rstats 3.0. It's the only package I had for analyzing censored water data. I miss it. http://water.usgs.gov/software/NADA_for_R/
+340848509290950656  Jun  1 11:13  @gvegayon         "”How to draw the line” with ggplot2" http://feedly.com/k/17J4Acd #rstats #econometrics
+340855034705223682  Jun  1 11:39  @RdeTOCA_PELOTA   RT @rfans: This tweet comes from R! #rstats
+340856383152992256  Jun  1 11:44  @recology_        RT @omearabrian: A bit scary that Wall Street financial modeling = excel, not #rstats or similar: http://nyti.ms/1aFiXKV
+340858333688905728  Jun  1 11:52  @rcmorriss        RT @omearabrian: A bit scary that Wall Street financial modeling = excel, not #rstats or similar: http://nyti.ms/1aFiXKV
+340858443881652224  Jun  1 11:52  @mphnyc           RT @_Kognitio: Only @Kognitio can run any programming language (like #Rstats) in-database, massively parallel https://451research.com/report-short?entityId=77206 by @451Research
+340865745581899776  Jun  1 12:21  @Rbloggers        Flotsam 12: early June linkathon:  (This article was first published on   Quantum Forest » rblogs, a... http://bit.ly/14iehap #rstats
+340868750205145090  Jun  1 12:33  @saqueenborough   Why did I bother learning #rstats...? http://dealbook.nytimes.com/2013/05/30/wall-street-turns-to-boot-camps-to-bring-new-workers-up-to-speed/
+340871682724069376  Jun  1 12:45  @Migrahack        RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340872930852478977  Jun  1 12:50  @frenchrh         RT @revodavid: High debt does not slow growth in countries (via @mattyglesias) http://bit.ly/11rfom5 #rstats #ggplot2
+340873999305281536  Jun  1 12:54  @frenchrh         RT @Rbloggers Rmagic, A Handy Interface Bridging Python and R:  (This article published   Yet Another... http://bit.ly/17Hp596 #rstats
+340875480213364737  Jun  1 13:00  @genetics_blog    metagenomeSeq: #rstats pkg for analyzing sparse #NGS data for differentially abundant #metagenomics features http://www.bioconductor.org/packages/devel/bioc/html/metagenomeSeq.html
+340889015240753153  Jun  1 13:54  @GuiomeNicolas    RT @genetics_blog: metagenomeSeq: #rstats pkg for analyzing sparse #NGS data for differentially abundant #metagenomics features http://t.co/L0d7vQGLN9
+340895139394355201  Jun  1 14:18  @hadleywickham    RT @rOpenSci: New default #ggplot2 map outputs for rbison, #rstats wrapper to the @USGS BISON species occurrence #API http://t.co/BnudEt3wLU - #ecology
+340901029954588672  Jun  1 14:41  @gianlucaemireni  RT @recology_: #shiny Packages & Products http://prsm.tc/0MlkME #rstats @rstudioapp
