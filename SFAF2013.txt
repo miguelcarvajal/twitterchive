@@ -695,3 +695,59 @@
 340538729963859969  May 31 14:42  @genetics_blog    RT @bioinformer: Running theme at #sfaf2013 seems to me that @PacBio is king. @aphillippy talk on genome finishing with PacBio is pretty much sums it up.
 340539097640730625  May 31 14:43  @JoeyKaralius     RT @bioinformer: $637 to finish a 5MB microbial genome using @PacBio -- @aphillippy estimates. #sfaf2013
 340539589527748609  May 31 14:45  @traingene        RT @SahaSurya: #sfaf2013 AP: $1625 cost at Duke for closing a microbial genome with presented method http://t.co/Eytut3gsN6
+340543970469875714  May 31 15:03  @dnanexus         Today Anton Korobeynikov (1:30pm) presents SPAdes: assembling microbes in the #Cloud at #SFAF2013. New de novo assembler app in DNAnexus.
+340546424112545792  May 31 15:12  @Bacterioskeptic  Goodbye #sfaf2013 great meeting as always!
+340546474578419713  May 31 15:13  @den_bakker       RT @aphillippy: #SFAF2013 D. Church : people doing structural variation detection are often detecting assembly errors <-- also a problem in micro genomics
+340549326168260608  May 31 15:24  @aphillippy       #SFAF2013 The venerable Sante Gnerre of the Broad presenting reference assisted assembly. Related pub from 2009 http://genomebiology.com/2009/10/8/r88
+340551328419938305  May 31 15:32  @aphillippy       #SFAF2013 S. Gnerre : reference assisted code is included with ALLPATHS, just need to enable it with config flag
+340552634488455168  May 31 15:37  @CampOther        RT @digitalbio: #SFAF2013 @aphillippy  - it seems to be cheaper now to finish a genome than it is to publish them - need new way to cite these.
+340552780865482752  May 31 15:38  @aphillippy       #SFAF2013 Anton Korobeynikov presenting SPAdes. Very good assembler for both isolates and single cell. See GAGE-B http://bioinformatics.oxfordjournals.org/content/early/2013/05/10/bioinformatics.btt273.abstract
+340553326796095488  May 31 15:40  @SahaSurya        RT @aphillippy: #SFAF2013 Anton Korobeynikov presenting SPAdes. Very good assembler for both isolates and single cell. See GAGE-B http://t.co/WV0hYcNGuO
+340553686835146753  May 31 15:41  @MachaNikolski    RT @bioinformer: $637 to finish a 5MB microbial genome using @PacBio -- @aphillippy estimates. #sfaf2013
+340553915428917248  May 31 15:42  @aphillippy       #SFAF2013 SPAdes paper in J Comp Bio last year http://online.liebertpub.com/doi/abs/10.1089/cmb.2012.0021
+340555255974608898  May 31 15:47  @aphillippy       #SFAF2013 AK: SPAdes and QUAST assembly and validation pipelines available as apps on @dnanexus platform
+340556841023045632  May 31 15:54  @aphillippy       RT @bioinformer: Running theme at #sfaf2013 seems to me that @PacBio is king. @aphillippy talk on genome finishing with PacBio is pretty much sums it up.
+340557123069042688  May 31 15:55  @SahaSurya        #SFAF2013 Now Ted Sharpe from the BROAD on Inexpensive High Quality Genome Assemblies from a Single PCR-free Illumina Library
+340557165360193539  May 31 15:55  @assemblathon     Lots of assembly related information coming out from #SFAF2013 tagged tweets.
+340557753707806720  May 31 15:57  @aphillippy       #SFAF2013 Another Broad assembly talk, Ted Sharpe presenting DISCOVAR http://www.broadinstitute.org/software/allpaths-lg/blog/?p=671
+340558146894434305  May 31 15:59  @SahaSurya        RT @aphillippy: #SFAF2013 Another Broad assembly talk, Ted Sharpe presenting DISCOVAR http://www.broadinstitute.org/software/allpaths-lg/blog/?p=671
+340558294907240448  May 31 15:59  @evolvability     RT @aphillippy: #SFAF2013 Another Broad assembly talk, Ted Sharpe presenting DISCOVAR http://www.broadinstitute.org/software/allpaths-lg/blog/?p=671
+340558405146124289  May 31 16:00  @SahaSurya        #SFAF2013 TS: discussing the FASTG specification http://www.broadinstitute.org/software/allpaths-lg/blog/?p=625 // @assemblathon
+340558408547700736  May 31 16:00  @OmicsOmicsBlog   RT @SahaSurya: #SFAF2013 JK: Future work to implement a full HADOOP organized assembler to handle memory and computing needs #cloud #parallelization
+340558498037395456  May 31 16:00  @aphillippy       #SFAF2013 TS covering FASTG format for capturing variation in an assembly http://fastg.sourceforge.net/
+340558869426225153  May 31 16:02  @SahaSurya        #SFAF2013 RT @assemblathon: There is a piece on DISCOVAR at @GenomeWeb (free membership required) http://www.genomeweb.com/informatics/broad-researchers-launch-new-open-source-software-genome-assembly-variant-callin
+340558937097113600  May 31 16:02  @assemblathon     RT @digitalbio: #SFAF2013 DC:  Remember an assembly is not the genome.  It is a model of a genome.  Reference assembly is neither - is model of ALL genomes.
+340559211559796737  May 31 16:03  @assemblathon     RT @aphillippy: #SFAF2013 TS covering FASTG format for capturing variation in an assembly http://fastg.sourceforge.net/
+340559874872184833  May 31 16:06  @lexnederbragt    RT @aphillippy: #SFAF2013 S. Gnerre : reference assisted code is included with ALLPATHS, just need to enable it with config flag
+340560086747447296  May 31 16:07  @ShalleePage      RT @digitalbio: #SFAF2013 DC:  Remember an assembly is not the genome.  It is a model of a genome.  Reference assembly is neither - is model of ALL genomes.
+340560119463034881  May 31 16:07  @lexnederbragt    RT @aphillippy: #SFAF2013 TS covering FASTG format for capturing variation in an assembly http://fastg.sourceforge.net/
+340560473822990337  May 31 16:08  @aphillippy       #SFAF2013 Love the new breed of assemblers like DISCOVAR that are embracing sample diversity rather than smashing it all out
+340560580500918273  May 31 16:09  @SahaSurya        #SFAF2013 TS: DISCOVAR misses far fewer variants than GATK with 250bp reads, assembly >> alignment methods given deep and even coverage
+340561329066754049  May 31 16:12  @SahaSurya        RT @aphillippy: #SFAF2013 Love the new breed of assemblers like DISCOVAR that are embracing sample diversity rather than smashing it all out
+340562769197817856  May 31 16:17  @SahaSurya        #SFAF2013 Last one up - @bioinformer on Fat-Free Bioinformatics: Successful Microbial Genomics in a Lean Contract Research Environment
+340563053911343104  May 31 16:18  @evolvability     RT @SahaSurya: #SFAF2013 TS: DISCOVAR misses far fewer variants than GATK with 250bp reads, assembly >> alignment methods given deep and even coverage
+340563245658157057  May 31 16:19  @aphillippy       #SFAF2013 @bioinformer closing out the conference on a pertinent topic : doing microbial genomics when resources are tight
+340564468742361088  May 31 16:24  @SahaSurya        #SFAF2013 @bioinformer: Lean lab perspective - use benchtop platforms, stay lean, find partners and outsource the big jobs
+340564769436205057  May 31 16:25  @aphillippy       RT @SahaSurya: #SFAF2013 @bioinformer: Lean lab perspective - use benchtop platforms, stay lean, find partners and outsource the big jobs
+340565158885732352  May 31 16:27  @SahaSurya        #SFAF2013 @bioinformer: Lean lab pitfalls  - Don't overpromise!!, Build partnerships aka client trust
+340565950250233856  May 31 16:30  @SahaSurya        #SFAF2013 @bioinformer: Commercial tools vs open src tools sometimes offer ready made solutions i.e. @CLCBio @Geneious etc. // Sad but true
+340566430946836481  May 31 16:32  @aphillippy       #SFAF2013 From my talk: all the data is here http://www.cbcb.umd.edu/software/PBcR/closure/index.html and the Celera Assembler pipeline wiki here http://sourceforge.net/apps/mediawiki/wgs-assembler/index.php?title=PacBioToCA
+340567601820340226  May 31 16:36  @DavidBurt8       RT @BlueSEQ: Lots of great tweets from #SFAF2013 We're archiving them here: http://ngs.is/19qxdt4
+340567950635433984  May 31 16:38  @dnanexus         RT @aphillippy: #SFAF2013 AK: SPAdes and QUAST assembly and validation pipelines available as apps on @dnanexus platform
+340568553465974785  May 31 16:40  @aphillippy       Thanks to Chris Detter and co at LANL for a great meeting! #SFAF2013
+340568996254457858  May 31 16:42  @SahaSurya        #SFAF2013 Chris Detter giving the closing address. Fantastic job from him and his team at @LosAlamosNatLab!!
+340569881441341441  May 31 16:46  @deannachurch     RT @aphillippy: Thanks to Chris Detter and co at LANL for a great meeting! #SFAF2013
+340570858621911041  May 31 16:49  @lexnederbragt    RT @aphillippy: #SFAF2013 Love the new breed of assemblers like DISCOVAR that are embracing sample diversity rather than smashing it all out
+340571919571120128  May 31 16:54  @LosAlamosNatLab  Thanks! RT @sahasurya: #SFAF2013 Chris Detter giving the closing address. Fantastic job from him and his team at @LosAlamosNatLab!!
+340572312791285760  May 31 16:55  @BiooScientific   RT @aphillippy: Thanks to Chris Detter and co at LANL for a great meeting! #SFAF2013
+340575822014451712  May 31 17:09  @bioinformer      RT @aphillippy: Thanks to Chris Detter and co at LANL for a great meeting! #SFAF2013
+340576940052332544  May 31 17:14  @bioinformer      Feeling pretty good my "fat free bioinformatics" talk went well. Great Conferance, met some really great people too! #SFAF2013
+340577019173670912  May 31 17:14  @PacBio           RT @aphillippy: #SFAF2013 From my talk: all the data is here http://www.cbcb.umd.edu/software/PBcR/closure/index.html and the Celera Assembler pipeline wiki here http://t.co/6N1NoyyZEi
+340583364757168129  May 31 17:39  @sjackman         RT @bioinformer: CGB: A UNIX shell program to create custom instances of the UCSC Genome Browser - by Ken Dewer at #sfaf2013 http://t.co/8SsLsInqlh
+340583550623547392  May 31 17:40  @sjackman         RT @bioinformer: Jim Knight @RocheSequencing shows newbler assembler improvements - FASTG? Yes please. #SFAF2013 http://t.co/RPLfpmKMa3
+340583756530327553  May 31 17:41  @infoecho         RT @aphillippy: #SFAF2013 From my talk: all the data is here http://www.cbcb.umd.edu/software/PBcR/closure/index.html and the Celera Assembler pipeline wiki here http://t.co/6N1NoyyZEi
+340584938338402304  May 31 17:45  @infoecho         Thanks everyone tweeting about #SFAF2013.
+340589644016132096  May 31 18:04  @bioinformer      RT @SahaSurya: Day 1 tweets from SFAF 2013 storified http://sfy.co/aJz8 #storify #sfaf2013 #sfaf
+340591332299005952  May 31 18:11  @SahaSurya        #SFAF2013 Enjoyed tweeting the conf wt @aphillippy @bioinformer @Bacterioskeptic @digitalbio @finchtalk ... #sorryifimissedu
+340591538935578624  May 31 18:12  @SahaSurya        #SFAF2013 Had a grand time meeting colleagues old and new esp @aphillippy @bioinformer. Now off to enjoy the land of enchantment :-)
+340616745440133120  May 31 19:52  @erichhuang       RT @finchtalk: #SFAF2013 DC assembly errors in the ref genome, really mess up structural variant analysis.  Good case for the importance of aCGH.

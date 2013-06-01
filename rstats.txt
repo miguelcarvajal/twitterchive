@@ -7539,3 +7539,29 @@
 340538913947009024  May 31 14:42  @richmanmax       Great morning today teaching some #rstats and experimenting with survey #dataviz with folks from American @RedCross International Services
 340539228519804928  May 31 14:44  @jonsedar         RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
 340541435747119104  May 31 14:52  @therealprotonk   A little bit of #rstats and #ggplot2 powering the UN's #post2015hlp report for the UN http://www.un.org/sg/management/pdf/HLP_P2015_Report.pdf
+340545945001410560  May 31 15:10  @aofarre          RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340545994565496833  May 31 15:11  @IstvanHajnal     RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340549288968994817  May 31 15:24  @furukama         Beautiful! RT @revodavid: You can see the arteries of the world in geotagged Tweets #rstats #DataViz @miguelrios http://flip.it/4xbij
+340560269967253505  May 31 16:07  @ramhiser         New #rstats trick learned. Use `lapply(foo, "[[", "obj")` not `lapply(foo, function(x) x$obj)` to grab a common object from a list of lists.
+340563554237304835  May 31 16:20  @Rbloggers        The arteries of the world, in Tweets:  (This article was first published on   Revolutions, and kindl... http://bit.ly/17FyEW7 #rstats
+340567102681399298  May 31 16:34  @TATA_BOX         The arteries of the world, in Tweets | (R news & tutorials) http://www.r-bloggers.com/the-arteries-of-the-world-in-tweets/ #rstats
+340568084731555840  May 31 16:38  @pentalibra       RT @revodavid You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340569043322937345  May 31 16:42  @maxrothbarth     RT @pentalibra: RT @revodavid You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://t.co/3jLIFLPmtN
+340570847125327873  May 31 16:49  @baogorek         I've got a nice horizontal bar plot for pos/neg values, thanks to #ggplot2, #rstats, and this quick tutorial: http://learnr.wordpress.com/2009/06/01/ggplot2-positioning-of-barplot-category-labels/
+340571527940562944  May 31 16:52  @LRaykin          Maps of the world made entirely from geotagged Tweets and 20 (!) lines of #rstats code https://blog.twitter.com/2013/geography-tweets-3 via @revodavid
+340576971950014466  May 31 17:14  @wabarree         RT @LRaykin: Maps of the world made entirely from geotagged Tweets and 20 (!) lines of #rstats code https://blog.twitter.com/2013/geography-tweets-3 via @revodavid
+340580648005795841  May 31 17:28  @FastBigData      $ORCL just released v2.1 #BigData vm training workshop software. Get started with your idea now via http://www.oracle.com/technetwork/server-storage/engineered-systems/bigdata-appliance/overview/oracle-bigdatalite-2-1-1940762.html #NoSql #rstats
+340584390960762880  May 31 17:43  @hylopsar         Any tips on where to start on working with GIS data in #Rstats?
+340584441942536192  May 31 17:43  @tanyacash21      data.table really is insanely fast. #rstats http://www.r-bloggers.com/transforming-subsets-of-data-in-r-with-by-ddply-and-data-table/
+340585172942610433  May 31 17:46  @SeemaSheth       @hylopsar If you are using raster data, I find raster package very intuitive... #Rstats
+340585495799136256  May 31 17:48  @hadleywickham    RT @therealprotonk: A little bit of #rstats and #ggplot2 powering the UN's #post2015hlp report for the UN http://www.un.org/sg/management/pdf/HLP_P2015_Report.pdf
+340591650843799552  May 31 18:12  @ramnath_vaidya   RT @therealprotonk: A little bit of #rstats and #ggplot2 powering the UN's #post2015hlp report for the UN http://www.un.org/sg/management/pdf/HLP_P2015_Report.pdf
+340593150089367552  May 31 18:18  @timelyportfolio  RT @therealprotonk: A little bit of #rstats and #ggplot2 powering the UN's #post2015hlp report for the UN http://www.un.org/sg/management/pdf/HLP_P2015_Report.pdf
+340593763284049920  May 31 18:20  @EricMilgram      Fascinating!!! The geography of Tweets https://blog.twitter.com/2013/geography-tweets-3 #rstats
+340594028087218177  May 31 18:21  @berssange        RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+340594038560395264  May 31 18:22  @NiemannDan       RT @EricMilgram: Fascinating!!! The geography of Tweets https://blog.twitter.com/2013/geography-tweets-3 #rstats
+340605963717468161  May 31 19:09  @recology_        #shiny Packages & Products http://prsm.tc/0MlkME #rstats @rstudioapp
+340609769012338688  May 31 19:24  @conradopreto     RT @hylopsar: our @MethodsEcolEvol paper describing the #Rstats pkg for color analysis is online! http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12069/abstract (should be #OA; figuring it out)
+340612300677447680  May 31 19:34  @jasonpbecker     RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+340613032579317760  May 31 19:37  @marcportermagee  Amazing. RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+340625670944210944  May 31 20:27  @Rbloggers        Snowfall:  (This article was first published on   Econometrics Beat: Dave Giles' Blog, and kindly co... http://bit.ly/15m17MD #rstats
