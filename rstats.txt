@@ -7630,3 +7630,15 @@
 340889015240753153  Jun  1 13:54  @GuiomeNicolas    RT @genetics_blog: metagenomeSeq: #rstats pkg for analyzing sparse #NGS data for differentially abundant #metagenomics features http://t.co/L0d7vQGLN9
 340895139394355201  Jun  1 14:18  @hadleywickham    RT @rOpenSci: New default #ggplot2 map outputs for rbison, #rstats wrapper to the @USGS BISON species occurrence #API http://t.co/BnudEt3wLU - #ecology
 340901029954588672  Jun  1 14:41  @gianlucaemireni  RT @recology_: #shiny Packages & Products http://prsm.tc/0MlkME #rstats @rstudioapp
+340913783398596609  Jun  1 15:32  @frenchrh         RT @saqueenborough Why did I bother learning #rstats...? http://dealbook.nytimes.com/2013/05/30/wall-street-turns-to-boot-camps-to-bring-new-workers-up-to-speed/
+340930166178070530  Jun  1 16:37  @OmicsOmicsBlog   RT @genetics_blog: metagenomeSeq: #rstats pkg for analyzing sparse #NGS data for differentially abundant #metagenomics features http://t.co/L0d7vQGLN9
+340935355605864448  Jun  1 16:58  @figital          a list of sample datasets i finally found in #rstats : https://gist.github.com/figital/5691708
+340952015020630016  Jun  1 18:04  @attilacsordas    trying now on some of my data RT Get a quick visual overview of your data w/tabplot package http://bit.ly/KGRu37 via @suganthibala #rstats
+340954332205817856  Jun  1 18:13  @dindjic          RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+340954904434712576  Jun  1 18:15  @abbass_sharif    RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+340961767163322368  Jun  1 18:43  @baogorek         Controlling your rate of "false discoveries." Such a simple algorithm, so many citations: http://www.stat.purdue.edu/~doerge/BIOINFORM.D/FALL06/Benjamini%20and%20Y%20FDR.pdf p.adjust(,"fdr") in #rstats
+340966046020272128  Jun  1 19:00  @genetics_blog    Using #Rstats and #Bioconductor for #proteomics data analysis http://arxiv.org/abs/1305.6559
+340967510369255425  Jun  1 19:06  @ipnosimmia       RT @genetics_blog: Using #Rstats and #Bioconductor for #proteomics data analysis http://arxiv.org/abs/1305.6559
+340970432003985408  Jun  1 19:17  @yaacovp          Saturday night science #shiny #rstats #fluencyandcomprehension
+340980901917892608  Jun  1 19:59  @aaguiarn         RT @omearabrian: A bit scary that Wall Street financial modeling = excel, not #rstats or similar: http://nyti.ms/1aFiXKV
+340981139927863298  Jun  1 20:00  @rmflight         RT @genetics_blog: Using #Rstats and #Bioconductor for #proteomics data analysis http://arxiv.org/abs/1305.6559
