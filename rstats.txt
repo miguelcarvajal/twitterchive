@@ -7724,3 +7724,48 @@
 341511615943958528  Jun  3 07:08  @dataJujitsu      version 0.4 of Samatha #rstats blogging/static-site engine is now up: https://github.com/DASpringate/samatha
 341512540469198848  Jun  3 07:11  @RyanGuggenmos    RT @georgedarroch: Graphing in SPSS 17. After Hadley Wickham's glorious #RStats #ggplot2, this is like drawing with crayons.
 341516858102542336  Jun  3 07:28  @jjmullz          Nice. RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+341539944608698369  Jun  3 09:00  @eric_bickel      RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+341540658676396032  Jun  3 09:03  @hadleywickham    want to learn about package development in #rstats? I'll be speaking in Minneapolis about it next week: http://www.meetup.com/twincitiesrug/events/121858842/
+341540709557477376  Jun  3 09:03  @BadHessian       RT @hadleywickham: want to learn about package development in #rstats? I'll be speaking in Minneapolis about it next week: http://t.co/dreuR7JMU1
+341541202384023552  Jun  3 09:05  @mjcavaretta      #Ford hiring in #statistics/#machinelearning. Work with me on #HR #analytics.  See: http://goo.gl/R6vq3 via @FordCareers #rstats
+341541276962922496  Jun  3 09:06  @jayjacobs        RT @hadleywickham: want to learn about package development in #rstats? I'll be speaking in Minneapolis about it next week: http://t.co/dreuR7JMU1
+341562999062020099  Jun  3 10:32  @RevolutionR      RT @cloudhpc: thanks to @RevolutionR for sponsoring #Munich useR #meetup group #rstats. We meet again next Friday http://www.meetup.com/munich-useR-group/events/105518422/
+341563863822655488  Jun  3 10:35  @comsysto         #Munich useR Group meeting this week! Join us for a talk about #Shiny and RevolutionDeployR webinar. http://www.meetup.com/munich-useR-group/events/105518422/ #rstats #bigdata
+341567155353055233  Jun  3 10:48  @hadleywickham    two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341567343916359681  Jun  3 10:49  @Snider_James     RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341567392423485440  Jun  3 10:49  @anshul           RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341567724079693824  Jun  3 10:51  @Jowanza          RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341568058810302464  Jun  3 10:52  @recology_        RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341568532515008512  Jun  3 10:54  @bryanmparsons    day = made ::grabs popcorn:: ‏RT @hadleywickham two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 … #rstats
+341570216926519296  Jun  3 11:01  @kognitio         Only Kognitio can run any programming language (like #Rstats) in-database, massively parallel https://451research.com/report-short?entityId=77206 by @451Research
+341570594346790912  Jun  3 11:02  @jeanburgess      Sonification fans ahoy MT @JeffHemsley: How to make Twitter data sing with #rstats: http://bit.ly/12lWFQs (ping @snurb_dot_info)
+341570940976640002  Jun  3 11:03  @canerakdemir     RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341577137406484480  Jun  3 11:28  @rtraborn         RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341580440223760384  Jun  3 11:41  @erikgahner       RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341583867737677825  Jun  3 11:55  @naupakaz         RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341586380197076992  Jun  3 12:05  @bocoup           Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+341586407963377665  Jun  3 12:05  @therealprotonk   RT @bocoup: Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+341586527417151491  Jun  3 12:05  @OpenVisConf      RT @bocoup: Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+341586527501029377  Jun  3 12:05  @jorydotcom       RT @bocoup: Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+341586894230011904  Jun  3 12:07  @cowboy           RT @bocoup: Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+341587358392647680  Jun  3 12:09  @cassieirwin      RT @bocoup: Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+341588973040304128  Jun  3 12:15  @csathi           RT @hadleywickham: two hour intro to ggplot2: http://flip.it/RLYz7 #rstats
+341591279618101248  Jun  3 12:24  @therealprotonk   Global Name Data: An #rstats project for @ireneros and @natematias's Open Gender Tracker project: http://weblog.bocoup.com/global-name-data/
+341591347754569730  Jun  3 12:24  @natematias       RT @therealprotonk: Global Name Data: An #rstats project for @ireneros and @natematias's Open Gender Tracker project: http://weblog.bocoup.com/global-name-data/
+341591834436456448  Jun  3 12:26  @ianmcook         R presentation and hackathon 6:30pm Thu Jun 20 at Saladelia in Durham. Topic: Running R on the Amazon Cloud http://meetu.ps/1BGHZW #rstats
+341592339468386304  Jun  3 12:28  @sqrtnegative1    RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341593597298212865  Jun  3 12:33  @azadag           RT @bocoup: Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+341594030330757122  Jun  3 12:35  @mjcavaretta      Cool #opendata & #dataviz MT @therealprotonk: #rstats project for @ireneros & @natematias's Open Gender Tracker http://weblog.bocoup.com/global-name-data/
+341594345822093312  Jun  3 12:36  @hrbrmstr         Visualising data with ggplot2 // Great, open access 2 hour online intro lecture (from May 10th) by the #spiffy @hadleywickham #rstats
+341595199425871872  Jun  3 12:40  @joshua_ulrich    Performance fixes for #rstats packages doSNOW and doParallel http://goo.gl/qkHqb
+341596447017410561  Jun  3 12:45  @brlindsay88      RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341596820063010816  Jun  3 12:46  @joshua_ulrich    Performance fixes for #rstats packages doSNOW and doParallel http://goo.gl/4pCnq (ht @eddelbuettel for a better link)
+341596934190026752  Jun  3 12:47  @acfrazee         .@hadleywickham hits up my hometown! MT: I'll be speaking in Minneapolis about #rstats package development next week: http://bit.ly/11RyBmT
+341599446313877505  Jun  3 12:57  @revodavid        RT @joshua_ulrich: Performance fixes for #rstats packages doSNOW and doParallel http://goo.gl/qkHqb
+341600523138523136  Jun  3 13:01  @drago_carlo      Visualising data with ggplot2 http://prsm.tc/1DK9da via @prismatic #DataVisualization #Statistics #Rstats
+341605951234789376  Jun  3 13:23  @kognitio         Much has been said about #BigData and #BI, VOTE for talk @Hadoopsummit:  http://hadoopsummit2013na.uservoice.com/forums/151408-hadoop-summit-north-america-2013-call-for-lightni/suggestions/4022585-hadoop-meets-mature-bi-where-the-rubber-meets-the #Hadoop & #Rstats for the masses! #MPP_R
+341606105887170560  Jun  3 13:23  @ucfagls          #rstats package `pcurve` now back on CRAN http://cran.r-project.org/web/packages/pcurve/index.html
+341609579622309888  Jun  3 13:37  @hchotcold        Learned basic Excel, SQL.What else should I learn? Thanks the feedback and self project suggests ? #analytics #bigdata  #rstats #excel #job
+341615804309188608  Jun  3 14:02  @BadHessian       RT @drago_carlo: Visualising data with ggplot2 http://prsm.tc/1DK9da via @prismatic #DataVisualization #Statistics #Rstats
+341617284239998977  Jun  3 14:08  @perisaccadic     touching some code outside of #rstats and suddenly.... I actually want the vector-recycling rule, wth
+341618669551493120  Jun  3 14:13  @dmgfederal       RT @kognitio: Much has been said about #BigData and #BI, VOTE for talk @Hadoopsummit:  http://hadoopsummit2013na.uservoice.com/forums/151408-hadoop-summit-north-america-2013-call-for-lightni/suggestions/4022585-hadoop-meets-mature-bi-where-the-rubber-meets-the #Hadoop & #Rstats for the masses! #MPP_R
