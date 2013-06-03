@@ -397,8 +397,8 @@
 312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
-312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -7713,3 +7713,14 @@
 341439145945751552  Jun  3 02:20  @jmgomez          (Another) introduction to R http://ow.ly/lCTgX #rstats for data analysis introduction presentations by Marcus Beck / Sergey Berg
 341439980633206784  Jun  3 02:23  @pabloformoso     RT @jmgomez: (Another) introduction to R http://ow.ly/lCTgX #rstats for data analysis introduction presentations by Marcus Beck / Sergey Berg
 341441812260601856  Jun  3 02:30  @juanci           RT @jmgomez: (Another) introduction to R http://ow.ly/lCTgX #rstats for data analysis introduction presentations by Marcus Beck / Sergey Berg
+341452446972919808  Jun  3 03:13  @samcq            RT @georgedarroch: Graphing in SPSS 17. After Hadley Wickham's glorious #RStats #ggplot2, this is like drawing with crayons.
+341461648000839680  Jun  3 03:49  @MAsLuzON         RT @revodavid : You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+341462633964261376  Jun  3 03:53  @cloudHPC         #rstats meetup in #munich part of #mww13 http://isarnetz.com/freie-veranstaltungen/53-software/337-web-service-framework-mit-der-statistik-software-r
+341469660048408576  Jun  3 04:21  @MarkeD_NB        RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+341475863755366400  Jun  3 04:46  @v_kupriyanov     RT @georgedarroch: Graphing in SPSS 17. After Hadley Wickham's glorious #RStats #ggplot2, this is like drawing with crayons.
+341478219343601664  Jun  3 04:55  @frod_san         RT @recology_: [Blog] Fylopic, an #rstats wrapper to @phylopic  http://bit.ly/11wmd5O
+341479947698835457  Jun  3 05:02  @comsysto         "@cloudHPC: #rstats meetup in #munich part of #mww13 http://isarnetz.com/freie-veranstaltungen/53-software/337-web-service-framework-mit-der-statistik-software-r"
+341503024813973504  Jun  3 06:34  @Kartalon         RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+341511615943958528  Jun  3 07:08  @dataJujitsu      version 0.4 of Samatha #rstats blogging/static-site engine is now up: https://github.com/DASpringate/samatha
+341512540469198848  Jun  3 07:11  @RyanGuggenmos    RT @georgedarroch: Graphing in SPSS 17. After Hadley Wickham's glorious #RStats #ggplot2, this is like drawing with crayons.
+341516858102542336  Jun  3 07:28  @jjmullz          Nice. RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
