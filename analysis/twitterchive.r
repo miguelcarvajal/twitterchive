@@ -2,7 +2,7 @@
 ## http://nsaunders.wordpress.com/2012/08/16/twitter-coverage-of-the-ismb-2012-meeting-some-statistics/
 
 ## Modify this. This is where I keep this repo.
-repoDir <- ("~/code/twitterchive/")
+repoDir <- ("~/github/twitterchive/")
 
 ## Go to the analysis directory
 setwd(paste(repoDir, "analysis", sep=""))
@@ -110,5 +110,5 @@ twitterchivePlots <- function (filename=NULL) {
     message(paste(searchTerm, ": All done!\n"))
 }
 
-filelist <- list("../bioinformatics.txt", "../metagenomics.txt", "../rstats.txt", "../rna-seq.txt")
+filelist <- list("../bioinformatics.txt", "../metagenomics.txt", "../rstats.txt", "../rna-seq.txt", "../cville.txt", "../SFAF2013.txt")
 lapply(filelist, twitterchivePlots)
