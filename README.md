@@ -16,7 +16,7 @@ I'm not sure what these limitations are, but I've hit them a few times. To be sa
 
 ## Other `.txt` files
 
-I'm archiving all the search results from [bioinformatics](bioinformatics.txt), [metagenomics](metagenomics.txt), [rna-seq](rna-seq.txt), and [#rstats](rstats.txt) daily. I also archived all the tweets around the Biology of Genomes 2013 meeting ([#bog13](bog13.txt)) and the Finishing in the Future 2013 meeting ([#SFAF2013/#SFAF](SFAF2013.txt)). The results from those searches are also in this repo. Each of these results is a delimited text file (unfortunately, fixed-width, not tab - I had trouble with getting CSV output with `t search -c` to work properly, results having incomplete lines).
+I'm archiving all the search results from [bioinformatics](bioinformatics.txt), [metagenomics](metagenomics.txt), [rna-seq](rna-seq.txt), and [#rstats](rstats.txt) daily. I also archived all the tweets around the Biology of Genomes 2013 meeting ([#bog13](bog13.txt)) and the Finishing in the Future 2013 meeting ([#SFAF2013](SFAF2013.txt)). The results from those searches are also in this repo. Each of these results is a delimited text file (unfortunately, fixed-width, not tab - I had trouble with getting CSV output with `t search -c` to work properly, results having incomplete lines).
 
 ## `analysis/twitterchive.r`
 
