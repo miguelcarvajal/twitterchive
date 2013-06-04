@@ -7875,3 +7875,46 @@
 341900765897568256  Jun  4 08:54  @hadleywickham    RT @BobMuenchen: Webinar: Managing Data with #Rstats; learn plyr, reshape, stringr, lubridate... | http://r4stats.com http://t.co/Os7AufjCQd #analytics
 341901036514050048  Jun  4 08:55  @jmgomez          RDataMiningcom: R and Data Mining docs and case studies http://ow.ly/1X3BrK via @masemresearch #rstats #datamining
 341901117896130560  Jun  4 08:55  @deronaucoin      RT @BobMuenchen: Webinar: Managing Data with #Rstats; learn plyr, reshape, stringr, lubridate... | http://r4stats.com http://t.co/Os7AufjCQd #analytics
+341903887499923457  Jun  4 09:06  @eddelbuettel     RT @hadleywickham: Learn Rcpp with me and hear about working with big data in #rstats: http://www.londonr.org/
+341904367240232960  Jun  4 09:08  @juanci           RT @jmgomez: RDataMiningcom: R and Data Mining docs and case studies http://ow.ly/1X3BrK via @masemresearch #rstats #datamining
+341904390233411585  Jun  4 09:08  @randyzwitch      @hadleywickham @johannux That's the approach I took with my #rstats #omniture package…translate API calls, return DF http://cran.r-project.org/web/packages/RSiteCatalyst/
+341906312185126914  Jun  4 09:16  @Jowanza          #Rstats is great for things like #NLP and #ML algorithms, also good for solving #Sudoku: http://bit.ly/11foxhz
+341906872305061890  Jun  4 09:18  @tatvic           RT @PredictDE: Understanding the value of #predictive #analytics on web data by @kushan_s @Rbloggers http://www.r-bloggers.com/understanding-the-value-of-predictive-analytics-on-web-data/ #rstats #measure
+341906952495960065  Jun  4 09:19  @tatvic           RT @pawcon: Understanding the value of #predictive #analytics on web data, by @kushan_s @Rbloggers http://www.r-bloggers.com/understanding-the-value-of-predictive-analytics-on-web-data/ #rstats #measure
+341907011589505026  Jun  4 09:19  @elguillelmo      RT @jmgomez: RDataMiningcom: R and Data Mining docs and case studies http://ow.ly/1X3BrK via @masemresearch #rstats #datamining
+341908702724493313  Jun  4 09:26  @ravipathak       RT @pawcon: Understanding the value of #predictive #analytics on web data, by @kushan_s @Rbloggers http://www.r-bloggers.com/understanding-the-value-of-predictive-analytics-on-web-data/ #rstats #measure
+341908801072553986  Jun  4 09:26  @ravipathak       RT @PredictDE: Understanding the value of #predictive #analytics on web data by @kushan_s @Rbloggers http://www.r-bloggers.com/understanding-the-value-of-predictive-analytics-on-web-data/ #rstats #measure
+341909014046703616  Jun  4 09:27  @gvegayon         How to set up a reproducible R project http://feedly.com/k/14cyi5o #rstats researchers #mustread (#pleaseread)
+341909259258314752  Jun  4 09:28  @gvegayon         "Interactive slides with #googleVis on #shiny" (and #slidify) http://feedly.com/k/10NRAgX once again! #rstats
+341909692324380672  Jun  4 09:29  @gvegayon         UseR 2013 http://feedly.com/k/Zqk3bz nice logo R de la Mancha! #rstats #useR2013
+341910861641826304  Jun  4 09:34  @agapow           RT @hadleywickham: Learn Rcpp with me and hear about working with big data in #rstats: http://www.londonr.org/
+341912451387912195  Jun  4 09:40  @Rbloggers        Webinar: Managing Data with R:  (This article was first published on  http://r4stats.com » R, and k... http://bit.ly/17WHqiM #rstats
+341912852333985792  Jun  4 09:42  @datascifellows   RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341914532890959872  Jun  4 09:49  @maxious          #rstats confirms: Opinion polls tell us Labor can't win http://jackman.stanford.edu/blog/?p=2749
+341919262094553088  Jun  4 10:07  @carlyziter       Okay, time for some #madcoding. (Is #Madcoding a thing? It should be! I can't #madwrite without some #Rstats first!)
+341929450079928321  Jun  4 10:48  @jmgomez          RT @frod_san: Twitterchive: automatic archiving and analysis of twitter searches http://gettinggeneticsdone.blogspot.co.uk/2013/05/automated-analysis-tweets-bioinformatics-twitterchive.html #rstats
+341939202667208704  Jun  4 11:27  @jjgibaja         Designing projects in #rstats - Nice R Code  http://buff.ly/11SiwgU (via @revodavid)
+341942618051182593  Jun  4 11:40  @algonpaje        @gilbellosta Solucionado. Ya lo tengo en #rstats :) up and running!!
+341949051899625474  Jun  4 12:06  @RLangTip         Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+341949862272708608  Jun  4 12:09  @DinosaurusGrace  Anyone know how to iterate a loop in #Rstats until a specified condition is met? Instead of specifying no. of iterations
+341950480890617856  Jun  4 12:12  @corynissen       #rstats folks; Is there an image analysis package that would allow me to find similar images to a given image in a collection?
+341950593566375938  Jun  4 12:12  @algonpaje        @DavidMartinB ya lo tengo en #rstats ready for analysis!! :)
+341951704029331456  Jun  4 12:16  @xiddw            RT @RLangTip: Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+341951819116851201  Jun  4 12:17  @TJO_datasci      RT @RLangTip: Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+341952302028038145  Jun  4 12:19  @jacalvache       RT @siah: One Page R: A Survival Guide to Data Science with R http://ow.ly/lo7ej #rstats
+341953496494522368  Jun  4 12:24  @tachisto         RT @RLangTip: Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+341955562805813248  Jun  4 12:32  @Minkoo           ddply takes 75 seconds for processing a function, but dlply takes just 12 secs. Why? I suspect data frame merging is slow.  #rstats
+341955730296946688  Jun  4 12:32  @CurtisWeir       RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+341959013342265344  Jun  4 12:45  @jmcyap           RT @RLangTip: Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+341963296301256704  Jun  4 13:02  @southstep        RT @RLangTip: Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+341964128006578176  Jun  4 13:06  @UT_SSC           RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+341966864487948288  Jun  4 13:17  @hadleywickham    send an email (with attachments) from #rstats via @postmarkapp: https://gist.github.com/hadley/5707759
+341967745824468993  Jun  4 13:20  @lgatt0           RT @hadleywickham: send an email (with attachments) from #rstats via @postmarkapp: https://gist.github.com/hadley/5707759
+341970376810704896  Jun  4 13:31  @ar_usergroup     Libro de Optimización Matemática con R. Descarga gratuita en PDF. http://www.bubok.es/libros/224816/Optimizacion-Matematica-con-R-Volumen-I-Introduccion-al-modelado-y-resolucion-de-problemas #rstats
+341970618167738368  Jun  4 13:32  @ar_usergroup     A new Sudoku Solver in R. Part 1 http://hernanresnizky.wordpress.com/2013/06/04/a-new-sudoku-solver-in-r-part-1/ #rstats
+341971501001605120  Jun  4 13:35  @i_314            RT @ar_usergroup: A new Sudoku Solver in R. Part 1 http://hernanresnizky.wordpress.com/2013/06/04/a-new-sudoku-solver-in-r-part-1/ #rstats
+341971520689668097  Jun  4 13:35  @i_314            RT @ar_usergroup: Libro de Optimización Matemática con R. Descarga gratuita en PDF. http://www.bubok.es/libros/224816/Optimizacion-Matematica-con-R-Volumen-I-Introduccion-al-modelado-y-resolucion-de-problemas #rstats
+341971615485140992  Jun  4 13:36  @UT_SSC           MT Cheater! @ar_usergroup: A new Sudoku Solver in R. Part 1 http://hernanresnizky.wordpress.com/2013/06/04/a-new-sudoku-solver-in-r-part-1/ #rstats
+341972318186254336  Jun  4 13:38  @kushan_s         RT @secretmirth: Great resource RT@revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/14Llq8q
+341980921962037248  Jun  4 14:13  @grserrano_       RT @ar_usergroup: Libro de Optimización Matemática con R. Descarga gratuita en PDF. http://www.bubok.es/libros/224816/Optimizacion-Matematica-con-R-Volumen-I-Introduccion-al-modelado-y-resolucion-de-problemas #rstats
+341987731209076736  Jun  4 14:40  @jrmontag         @rtelmore There are two ggplots! Not much #rstats analysis, though. Perhaps another time, though.
