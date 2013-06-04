@@ -7820,3 +7820,26 @@
 341703953173585920  Jun  3 19:52  @BrianPardy       RT @genetics_blog: this is good RT @revodavid: Excellent advice for setting up #reproducible #rstats project from the Nice R Code blog: http://t.co/4nE3a6blN2
 341716496575234049  Jun  3 20:42  @monsoontrader    RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
 341717010553643008  Jun  3 20:44  @GSwithR          RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+341722383729688577  Jun  3 21:05  @tjmahr           i am not sure how to handle reaction time data #rstats
+341725961244532736  Jun  3 21:19  @nachocaballero   Been working on replacing #rstats plot() see a zoomable scatterplot: http://reasoniamhere.com/clickme/data-points.html clickme call hidden at bottom. Code coming soon
+341728118949683201  Jun  3 21:28  @pjpuglia         RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341731641921785857  Jun  3 21:42  @Rbloggers        How to set up a reproducible R project:  (This article was first published on  Revolutions, and kindly... http://bit.ly/14qdrIC #rstats
+341732115609686017  Jun  3 21:44  @stevenliaotw     "How to set up a reproducible R project" #rstats http://blog.revolutionanalytics.com/2013/06/how-to-set-up-a-reproducible-r-project.html
+341735136737521664  Jun  3 21:56  @gappy3000        minute's rant: Rstudio is nice 'n stuff, but the editor really sucks. #rstats
+341737340521312256  Jun  3 22:05  @tjmahr           the ascii package to the rescue #rstats
+341741520103288833  Jun  3 22:21  @nextgenseek      RT @genetics_blog: FasteR! HigheR! StrongeR! A Guide to Speeding Up #Rstats Code for Busy People http://www.noamross.net/blog/2013/4/25/faster-talk.html
+341746336917508097  Jun  3 22:40  @benjaminlind     @treycausey "Pie" for "py" and for #rstats, I "AR" like a pirate.
+341753959033233408  Jun  3 23:11  @Rbloggers        Plotting Oracle RMAN backup durations with R:  (This article was first published on  Bommarito Consult... http://bit.ly/11SZNlo #rstats
+341766396012789760  Jun  4 00:00  @ianmcook         RT @noamross: FasteR! HigheR! StrongeR! - My guide to speeding up #Rstats for busy people http://www.noamross.net/blog/2013/4/25/faster-talk.html
+341769197002571776  Jun  4 00:11  @timelyportfolio  RT @ramnath_vaidya: Dashifyr | Dashboards with R and Shiny http://glimmer.rstudio.com/ramnathv/dashifyr/ #rstats @winston_chang http://t.co/VtlQHXR9Yq
+341770790330576896  Jun  4 00:18  @hugoguzman       RT @ramnath_vaidya: Dashifyr | Dashboards with R and Shiny http://glimmer.rstudio.com/ramnathv/dashifyr/ #rstats @winston_chang http://t.co/VtlQHXR9Yq
+341772022390607872  Jun  4 00:22  @Gliders_Coach    @RevolutionR @rstudio @OracleAnalytics I am surprised why more statisticians are not supporting Open Access #rstats http://www.foastat.org/membership.html
+341773573700083712  Jun  4 00:29  @Gliders_Coach    Cost of 1 Year JSS= 0. 5 cost of Nature's Single Article. How? http://www.foastat.org/initiatives.html #rstats #python #jmp #sas #statistics
+341774307145416705  Jun  4 00:31  @Gliders_Coach    JSS  server gets about 15,000 hits per day, and articles are downloaded thousands of times #rstats http://archive.sciencewatch.com/inter/jou/2011/11decJofStatSoft/
+341774347041652736  Jun  4 00:32  @Gliders_Coach    RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+341775341636956161  Jun  4 00:36  @timelyportfolio  RT @nachocaballero: Been working on replacing #rstats plot() see a zoomable scatterplot: http://reasoniamhere.com/clickme/data-points.html clickme call hidden at bottom. Code coming soon
+341787522092920832  Jun  4 01:24  @StueyHorsman     In Australia? Come learn about Hadoop, Oracle NoSQL and R http://goo.gl/bh7tp with me, @FastBigData and @vrfalconer #Hadoop #rstats
+341788777188057090  Jun  4 01:29  @kuun_peal        I have successfully implemented a for loop to do something useful! #rstats #programming
+341801879342284800  Jun  4 02:21  @ahs85            RT @datennutzen: #datamining or Data Archaeology? Maritime shipping lines visualized by 20 lines of #rstats and some tweets #bigdata http://t.co/DM96rpbFFu
+341804983211134976  Jun  4 02:33  @ErynMcFarlane    finally, FINALLY, got asreml-R on my mac. Time to do some power analyses. *rubs hands together in an evil fashion* #Rstats #worlddomination
+341809679002914816  Jun  4 02:52  @ErynMcFarlane    Now I get to send in the license file... proprietary R packages might be the worst thing, after other software I have to pay for. #Rstats
