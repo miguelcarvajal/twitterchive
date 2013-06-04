@@ -7682,6 +7682,7 @@
 341264042591145984  Jun  2 14:44  @cloudHPC         thanks to @RevolutionR for sponsoring #Munich useR #meetup group #rstats. We will meet again next Friday http://www.meetup.com/munich-useR-group/events/105518422/
 341267898016342016  Jun  2 14:59  @ForecastWatch    RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
 341272232376545280  Jun  2 15:16  @tomassino        RT @cloudHPC: #rstats one of "7 Big Data Trends That Will Impact Your Business" http://soa.li/YiTdxTP. learn more at #TDWI #munich http://t.co/fgDip0XxyN
+341275312564338688  Jun  2 15:29  @fabiomarroni     MT metagenomeSeq: #rstats pkg for sparse #NGS data for  #metagenomics features http://www.bioconductor.org/packages/devel/bioc/html/metagenomeSeq.html @IGATechnology @genetics_blog
 341277384684740609  Jun  2 15:37  @hadleywickham    @sc_evans yes: loess + predict + rgl #rstats
 341279746581221377  Jun  2 15:46  @drago_carlo      An introduction to psychometric theory http://prsm.tc/lRLFID via @prismatic #Statistics #Psychometrics #Rstats
 341287006892064768  Jun  2 16:15  @msgbi            RT @chlalanne: Stepping up to big data with #rstats and #python http://prsm.tc/2KlgMG via @prismatic
@@ -7769,3 +7770,53 @@
 341615804309188608  Jun  3 14:02  @BadHessian       RT @drago_carlo: Visualising data with ggplot2 http://prsm.tc/1DK9da via @prismatic #DataVisualization #Statistics #Rstats
 341617284239998977  Jun  3 14:08  @perisaccadic     touching some code outside of #rstats and suddenly.... I actually want the vector-recycling rule, wth
 341618669551493120  Jun  3 14:13  @dmgfederal       RT @kognitio: Much has been said about #BigData and #BI, VOTE for talk @Hadoopsummit:  http://hadoopsummit2013na.uservoice.com/forums/151408-hadoop-summit-north-america-2013-call-for-lightni/suggestions/4022585-hadoop-meets-mature-bi-where-the-rubber-meets-the #Hadoop & #Rstats for the masses! #MPP_R
+341630436306460672  Jun  3 15:00  @masemresearch    Documents - http://RDataMining.com: R and Data Mining #datascience #rstats  | @scoopit http://sco.lt/816HtB
+341632737536524288  Jun  3 15:09  @yclian           RT @bocoup: Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+341633801748889601  Jun  3 15:13  @dangribbin       I KNOW HIM RT @bocoup Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+341635645216788483  Jun  3 15:20  @quantlabs        Is #Cpp to complex to develop #quant #financial models with? easier languages #dotnet, Matlab and #Rstats http://ow.ly/lFhAr
+341636236840169473  Jun  3 15:23  @liondatasystems  Affinity Clustering in R http://lnkd.in/WkDcPi #Rstats
+341638151460225024  Jun  3 15:30  @genetics_blog    Lots of great upcoming #bioinformatics workshops at http://bioinformatics.ca/workshops. Looking forward to seeing course material. #Rstats #genomics
+341642436650614785  Jun  3 15:47  @KognitioCloud    RT @kognitio: Much has been said about #BigData and #BI, VOTE for talk @Hadoopsummit:  http://hadoopsummit2013na.uservoice.com/forums/151408-hadoop-summit-north-america-2013-call-for-lightni/suggestions/4022585-hadoop-meets-mature-bi-where-the-rubber-meets-the #Hadoop & #Rstats for the masses! #MPP_R
+341644201672445954  Jun  3 15:54  @jaredlander      How well should #rstats run on a 1.8Ghz #Intel Atom processor with 2GB RAM? Good or bad idea?
+341646749519187969  Jun  3 16:05  @ramnath_vaidya   Dashifyr | Dashboards with R and Shiny http://glimmer.rstudio.com/ramnathv/dashifyr/ #rstats @winston_chang http://t.co/VtlQHXR9Yq
+341662017649782784  Jun  3 17:05  @datennutzen      #datamining or Data Archaeology? Maritime shipping lines visualized by 20 lines of #rstats and some tweets #bigdata http://blog.revolutionanalytics.com/2013/05/the-arteries-of-the-world-in-tweets.html
+341664955122188288  Jun  3 17:17  @d3visualization  RT @ramnath_vaidya: Dashifyr | Dashboards with R and Shiny http://glimmer.rstudio.com/ramnathv/dashifyr/ #rstats @winston_chang http://t.co/VtlQHXR9Yq
+341665296811175937  Jun  3 17:18  @spsaaibi         RT @ramnath_vaidya: Dashifyr | Dashboards with R and Shiny http://glimmer.rstudio.com/ramnathv/dashifyr/ #rstats @winston_chang http://t.co/VtlQHXR9Yq
+341668171641655296  Jun  3 17:30  @bobholt          RT @bocoup: Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+341670192084029440  Jun  3 17:38  @flowingdata      RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341670867052425217  Jun  3 17:40  @PollsAndVotes    Time well spent, geeks! RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341671498001559552  Jun  3 17:43  @kwcollins        RT @PollsAndVotes: Time well spent, geeks! RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341671530540982272  Jun  3 17:43  @revodavid        Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+341672023782735872  Jun  3 17:45  @GeneticSequence  RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+341672236048076800  Jun  3 17:46  @RobertsPaige     RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+341672406626209792  Jun  3 17:47  @drago_carlo      RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+341672629528313856  Jun  3 17:47  @tdhopper         RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341672771312570369  Jun  3 17:48  @zentree          Setting up reproducible #Rstats projects. http://nicercode.github.io/blog/2013-04-05-projects/ HT: @revodavid
+341673948959879168  Jun  3 17:53  @therealprotonk   @revodavid I had some fun opening up government name data with #rstats http://weblog.bocoup.com/global-name-data/
+341674519565565952  Jun  3 17:55  @IGATechnology    RT @fabiomarroni: MT metagenomeSeq: #rstats pkg for sparse #NGS data for  #metagenomics features http://www.bioconductor.org/packages/devel/bioc/html/metagenomeSeq.html @IGATechnology @genetics_blog
+341674624804868096  Jun  3 17:55  @ontariogenomics  MT @genetics_blog: Lots of great #bioinformatics workshops at http://bioinformatics.ca/workshops. #Rstats #genomics
+341674716303597570  Jun  3 17:56  @DrBosse          RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341675794915000320  Jun  3 18:00  @nivertech        RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341680281314537473  Jun  3 18:18  @hurricanejim     RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+341680594658406401  Jun  3 18:19  @cpsievert        RT @hadleywickham: want to learn about package development in #rstats? I'll be speaking in Minneapolis about it next week: http://t.co/dreuR7JMU1
+341682035770933248  Jun  3 18:25  @MattDabrowski    RT @PollsAndVotes: Time well spent, geeks! RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341683154224021504  Jun  3 18:29  @aloraine205      RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341683383895719936  Jun  3 18:30  @Rbloggers        Understanding the value of Predictive Analytics on Web Data:  (This article was first published on  Ta... http://bit.ly/17TVw4q #rstats
+341685800985038848  Jun  3 18:40  @WinVectorLLC     Treat data as read-only: YES. Excellent advice on setting up #R projects. http://nicercode.github.io/blog/2013-04-05-projects/  #rstats #RStudio
+341686726470799361  Jun  3 18:43  @Dongy            RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats #graphics #plots #R cc @SylVNR
+341690827682222080  Jun  3 19:00  @genetics_blog    FasteR! HigheR! StrongeR! A Guide to Speeding Up #Rstats Code for Busy People http://www.noamross.net/blog/2013/4/25/faster-talk.html
+341692287228715008  Jun  3 19:06  @frod_san         RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341693358273593345  Jun  3 19:10  @josecamoessilva  RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+341693403165237248  Jun  3 19:10  @tslumley         RT @zentree: Setting up reproducible #Rstats projects. http://nicercode.github.io/blog/2013-04-05-projects/ HT: @revodavid
+341694360854884352  Jun  3 19:14  @mjcavaretta      #Ford hiring in #statistics/#machinelearning. Work with me on #HR #analytics.  Webinar: http://goo.gl/R6vq3 via @FordCareers #rstats
+341694886715731968  Jun  3 19:16  @dlizcano         RT @frod_san: .@hylopsar I worked out this introductory tutorial #rstats #GIS https://github.com/Pakillo/R-GIS-tutorial/blob/master/R-GIS_tutorial.md
+341695161241305089  Jun  3 19:17  @genetics_blog    this is good RT @revodavid: Excellent advice for setting up #reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+341695220129345537  Jun  3 19:17  @BrynRWilliams    RT @flowingdata RT @hadleywickham two hour intro to ggplot2: http://bit.ly/15A5uDE #rstats ! And now its Mine! ...and yours too of course
+341695663702163456  Jun  3 19:19  @ananelson        RT @genetics_blog: this is good RT @revodavid: Excellent advice for setting up #reproducible #rstats project from the Nice R Code blog: http://t.co/4nE3a6blN2
+341695934561939456  Jun  3 19:20  @mjcavaretta      Great #dataviz/#visualization! RT @BrynRWilliams @flowingdata @hadleywickham two hour intro to ggplot2: http://bit.ly/15A5uDE #rstats
+341697780852588544  Jun  3 19:27  @jabawack         RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341698320818896897  Jun  3 19:30  @CMacQuar         RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341698946181251072  Jun  3 19:32  @GuiomeNicolas    RT @genetics_blog: FasteR! HigheR! StrongeR! A Guide to Speeding Up #Rstats Code for Busy People http://www.noamross.net/blog/2013/4/25/faster-talk.html
+341703953173585920  Jun  3 19:52  @BrianPardy       RT @genetics_blog: this is good RT @revodavid: Excellent advice for setting up #reproducible #rstats project from the Nice R Code blog: http://t.co/4nE3a6blN2
+341716496575234049  Jun  3 20:42  @monsoontrader    RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+341717010553643008  Jun  3 20:44  @GSwithR          RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
