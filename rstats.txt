@@ -7891,6 +7891,7 @@
 341912451387912195  Jun  4 09:40  @Rbloggers        Webinar: Managing Data with R:  (This article was first published on  http://r4stats.com » R, and k... http://bit.ly/17WHqiM #rstats
 341912852333985792  Jun  4 09:42  @datascifellows   RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
 341914532890959872  Jun  4 09:49  @maxious          #rstats confirms: Opinion polls tell us Labor can't win http://jackman.stanford.edu/blog/?p=2749
+341914665254797314  Jun  4 09:49  @kevinkeenan_     Now that's how you give directions to an #rstats meetup. http://brusers.tumblr.com/ by @BelfastRUsers
 341919262094553088  Jun  4 10:07  @carlyziter       Okay, time for some #madcoding. (Is #Madcoding a thing? It should be! I can't #madwrite without some #Rstats first!)
 341929450079928321  Jun  4 10:48  @jmgomez          RT @frod_san: Twitterchive: automatic archiving and analysis of twitter searches http://gettinggeneticsdone.blogspot.co.uk/2013/05/automated-analysis-tweets-bioinformatics-twitterchive.html #rstats
 341939202667208704  Jun  4 11:27  @jjgibaja         Designing projects in #rstats - Nice R Code  http://buff.ly/11SiwgU (via @revodavid)
@@ -7970,3 +7971,25 @@
 342151462249431040  Jun  5 01:30  @monkmanmh        Blog post: MLB run scoring trends with the Lahman package. #rstats http://tinyurl.com/m5ocoho
 342163346377826304  Jun  5 02:17  @adamhsparks      Nice, straight forward blog post on setting up projects in #rstats, also an example using @rstudioapp. http://nicercode.github.io/blog/2013-04-05-projects/
 342170894958997504  Jun  5 02:47  @kyloring         Fitting mixed models in #rstats #GLMM #mixedmodels ecology Any particular resources or techniques recommended to smooth the learning curve?
+342174898313129984  Jun  5 03:03  @KCoussement      Understanding the value of Predictive Analytics on Web Data http://buff.ly/11gZkn1 #rstats #datamining #bigdata #datamining
+342175899837407233  Jun  5 03:07  @praxsozi         RT @KCoussement: Understanding the value of Predictive Analytics on Web Data http://buff.ly/11gZkn1 #rstats #datamining #bigdata #datamining
+342185609806352384  Jun  5 03:46  @nhcooper123      Dublin R meet up tonight at 7.15pm in Zoology at TCD. RBugs with Jon Yearsley from UCD. All welcome! #rstats
+342185702852804608  Jun  5 03:46  @TriploidTree     RT @nhcooper123: Dublin R meet up tonight at 7.15pm in Zoology at TCD. RBugs with Jon Yearsley from UCD. All welcome! #rstats
+342189360373968896  Jun  5 04:01  @yodacomplex      RT @nhcooper123: Dublin R meet up tonight at 7.15pm in Zoology at TCD. RBugs with Jon Yearsley from UCD. All welcome! #rstats
+342190385952608256  Jun  5 04:05  @jmgomez          RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+342215192563834881  Jun  5 05:43  @denisohora       Coding Grace, who female friendly coding workshops and events, host a workshop on #rstats in Dublin, 8th of June http://codinggrace.com/?goback=.gde_4180165_member_245790455
+342217389229875200  Jun  5 05:52  @denisohora       If you're interested in #rstats, check out this @CodingGrace workshop in Dublin on 8 June http://codinggrace.com/?goback=%2Egde_4180165_member_245790455
+342218082254725120  Jun  5 05:55  @monsoontrader    RT @denisohora: If you're interested in #rstats, check out this @CodingGrace workshop in Dublin on 8 June http://codinggrace.com/?goback=%2Egde_4180165_member_245790455
+342234934087409665  Jun  5 07:02  @cloudHPC         "big advantages of using #rstats #Hadoop packages is that you only need to learn one language" by @revodavid more at http://www.tdwi.eu/veranstaltungen/konferenzen/tdwi-2013-munich/sessiondetails/?tx_mwconferences_pi1[showUid]=618
+342235429401133056  Jun  5 07:04  @visualoop        RT @KirkDBorne: Amazingly comprehensive list of R CRAN packages for Data Clustering: http://cran.r-project.org/web/views/Cluster.html #DataMining #DataScience #Rstats
+342239764289818624  Jun  5 07:21  @eddelbuettel     New RcppArmadillo release 0.3.900.0 with a few nice changes: http://goo.gl/tILNC #rstats #rcpp
+342241935932657665  Jun  5 07:30  @Rbloggers        A Big Data introduction:  (This article was first published on  Milano R net, and kindly contributed t... http://bit.ly/11Y7MO9 #rstats
+342242020863139840  Jun  5 07:30  @rguha            everyday I use ggplot, my love for it grows #rstats #visualization
+342244894804426752  Jun  5 07:41  @hadleywickham    RT @rguha: everyday I use ggplot, my love for it grows #rstats #visualization
+342245131614822401  Jun  5 07:42  @kayuri           RT @rguha: everyday I use ggplot, my love for it grows #rstats #visualization
+342248201933438976  Jun  5 07:55  @egonwillighagen  RT @rguha: everyday I use ggplot, my love for it grows #rstats #visualization
+342253276609265664  Jun  5 08:15  @rvimieiro        Among #datascience tools, the highest increase from 2012 to 2013 was for #Rstats #RapidMiner & #Tableau http://www.kdnuggets.com/2013/06/kdnuggets-annual-software-poll-rapidminer-r-vie-for-first-place.html
+342253868660428800  Jun  5 08:17  @InnaKolyshkina   RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+342254177730301952  Jun  5 08:18  @InnaKolyshkina   RT @kdnuggets: Top 3 R resources for beginners #rstats http://bit.ly/YP6rGu
+342261142883811329  Jun  5 08:46  @NEdgingtonPhD    Wow;  I wrote a short #Python script, put the data in #Rstats, & made a nice #ggplot density plot in under 5 min. #newbie #record
+342261565279588353  Jun  5 08:48  @sharon000        New R package to connect to Google Analytics data, with useful documentation http://bit.ly/11YfDLs by @johannux #rstats
