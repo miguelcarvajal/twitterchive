@@ -7918,3 +7918,36 @@
 341972318186254336  Jun  4 13:38  @kushan_s         RT @secretmirth: Great resource RT@revodavid: 17 savvy sites devoted to #rstats programming: http://bit.ly/14Llq8q
 341980921962037248  Jun  4 14:13  @grserrano_       RT @ar_usergroup: Libro de Optimización Matemática con R. Descarga gratuita en PDF. http://www.bubok.es/libros/224816/Optimizacion-Matematica-con-R-Volumen-I-Introduccion-al-modelado-y-resolucion-de-problemas #rstats
 341987731209076736  Jun  4 14:40  @jrmontag         @rtelmore There are two ggplots! Not much #rstats analysis, though. Perhaps another time, though.
+341993672725909504  Jun  4 15:03  @statslabdublin   OpenIntro Labs promote the understanding of statss through applied data analysis with R. Learning material at http://www.openintro.org/stat/labs.php #rstats
+341996756336254976  Jun  4 15:15  @idibon           MT @jmgomez: (Another) introduction to R http://ow.ly/lFlGm #rstats for data analysis introduction presentations by Beck/Berg
+341997571344060416  Jun  4 15:19  @kuun_peal        R programmers should be called R-tians. Those agitating for abandonment of #SAS and #SPSS should be the R-tian Mafia. #rstats #programming
+342004782547992579  Jun  4 15:47  @kuun_peal        RT @RLangTip: Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+342007002119143425  Jun  4 15:56  @joshlemaitre     6 years later, back 2 building forecasting & price elasticity models 4 retail. at least this time, it's not in excel. #rstats #fullcircle
+342008587889020929  Jun  4 16:02  @MDubins          Trying... to use... KNIME... at work for a project.... so.much.worse.than.R....  #rstats
+342014200157200385  Jun  4 16:25  @RevolutionR      RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://bit.ly/1aXutBj
+342014389446131713  Jun  4 16:25  @fjnogales        RT @ar_usergroup: Libro de Optimización Matemática con R. Descarga gratuita en PDF. http://www.bubok.es/libros/224816/Optimizacion-Matematica-con-R-Volumen-I-Introduccion-al-modelado-y-resolucion-de-problemas #rstats
+342014988879269888  Jun  4 16:28  @StrictlyStat     Finally discovered dput for recreating objects in R.  #rstats
+342018715119919104  Jun  4 16:43  @jxchong          I've wondered for years… why does R use header=TRUE/FALSE in read.table but  col.names=TRUE/FALSE in write.table? #Rstats
+342020483962785792  Jun  4 16:50  @michaelhoffman   @jxchong After using it for years, you still expect consistency in #Rstats?
+342021051968008192  Jun  4 16:52  @estevenow        RT @RevolutionR: RT @revodavid: Excellent advice for setting up reproducible #rstats project from the Nice R Code blog: http://t.co/FY4QqoVvSs
+342021416398487553  Jun  4 16:53  @michaelhoffman   @jxchong Dude. read.table()'s interface isn't even consistent with ITSELF. Lasciate ogne speranza, voi ch'intrate. #Rstats
+342022053710405634  Jun  4 16:56  @hadleywickham    @michaelhoffman plus write.table can create files that read.csv cannot read (no matter what options you set!) #rstats
+342022116830502912  Jun  4 16:56  @CjBayesian       I'm on the speaker lineup for next @mtlpy. Will be talking competitive data-mining with #rstats and #python. http://montrealpython.org/2013/06/mp38/ @kaggle
+342022299333038081  Jun  4 16:57  @michaelhoffman   @jxchong It gets better. RT @hadleywickham write.table can create files that read.csv cannot read (no matter what options you set!) #rstats
+342022300654256128  Jun  4 16:57  @mtlpy            RT @CjBayesian: I'm on the speaker lineup for next @mtlpy. Will be talking competitive data-mining with #rstats and #python. http://t.co/Es4fJtpFaQ @kaggle
+342022328567336960  Jun  4 16:57  @mlhamel          RT @CjBayesian: I'm on the speaker lineup for next @mtlpy. Will be talking competitive data-mining with #rstats and #python. http://t.co/Es4fJtpFaQ @kaggle
+342022680981168131  Jun  4 16:58  @LuwayneThomas    Reproducible #DataAnalysis #SPSS #Rstats
+342022775734673409  Jun  4 16:59  @jpcaissy         RT @CjBayesian: I'm on the speaker lineup for next @mtlpy. Will be talking competitive data-mining with #rstats and #python. http://t.co/Es4fJtpFaQ @kaggle
+342030216820060161  Jun  4 17:28  @romeroescobar    At work today I found one basic difference between #Rstats and #SPSS (and excel): Rounding of midpoint! To-Even vs Away-from-zero #in #ISO
+342031179421192195  Jun  4 17:32  @PPUAMX           RT @RLangTip: Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+342040352594722816  Jun  4 18:09  @mwallinga        I like #rstats, but every so often I have to re-wrap my head around data manipulation. But, when I figure it out again, I feel like a GENIUS
+342043113994465280  Jun  4 18:20  @katatrepsis      New book! Now to look at those zero-inflated time series! Also, book seems to smell faintly of vanilla... #rstats http://t.co/wdgc8jsI9L
+342045776953880577  Jun  4 18:30  @sakamotoki       RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+342045908722147328  Jun  4 18:31  @quantlabs        Another social #Meetup for #quant or wanabee or newbies or #Rstats or Matlab users: June 10 at 7pm! http://ow.ly/lHE33
+342045924924727296  Jun  4 18:31  @joscani          RT @ar_usergroup: Libro de Optimización Matemática con R. Descarga gratuita en PDF. http://www.bubok.es/libros/224816/Optimizacion-Matematica-con-R-Volumen-I-Introduccion-al-modelado-y-resolucion-de-problemas #rstats
+342050167719084033  Jun  4 18:48  @zentree          @stat110 @CjBayesian I find #Rstats ugly but more efficient than any of the alternatives.
+342055058478874627  Jun  4 19:07  @kmrhb            RT @CjBayesian: I'm on the speaker lineup for next @mtlpy. Will be talking competitive data-mining with #rstats and #python. http://t.co/Es4fJtpFaQ @kaggle
+342055879006363648  Jun  4 19:10  @druau            Love #Rstats... just coded a Rcpp package in two days
+342059527895650305  Jun  4 19:25  @periklis13       RT @mjcavaretta: Doesn't #rstats have something similar? RT @oiwoods a beautiful thing: free #data meets free #analytics http://t.co/btV4kDOpMg via @gigaom
+342070619682246656  Jun  4 20:09  @kaz_yos          RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+342078207270465536  Jun  4 20:39  @JamesKLavin      RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
