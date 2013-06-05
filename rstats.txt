@@ -7951,3 +7951,22 @@
 342059527895650305  Jun  4 19:25  @periklis13       RT @mjcavaretta: Doesn't #rstats have something similar? RT @oiwoods a beautiful thing: free #data meets free #analytics http://t.co/btV4kDOpMg via @gigaom
 342070619682246656  Jun  4 20:09  @kaz_yos          RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
 342078207270465536  Jun  4 20:39  @JamesKLavin      RT @hadleywickham: two hour intro to ggplot2: http://www.mathtube.org/lecture/video/visualising-data-ggplot2 #rstats
+342088558913413120  Jun  4 21:20  @Rbloggers        How old is the oldest person you know?:  (This article was first published on  Freakonometrics » R-eng... http://bit.ly/17Zpowi #rstats
+342089396595605504  Jun  4 21:24  @L_Aylesworth     RT @RLangTip: Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+342096270531362816  Jun  4 21:51  @Rbloggers        Veterinary Epidemiologic Research: Modelling Survival Data – Semi-Parametric Analyses:  (This article ... http://bit.ly/18TdRhD #rstats
+342099182091386880  Jun  4 22:02  @KevinLDavenport  F-test is that useless huh?http://www.stat.umn.edu/geyer/old03/5102/examp/rp.html #rstats
+342103551717289985  Jun  4 22:20  @gvegayon         "IntR – Interactive GUI for performing geostatistical analysis in R" http://feedly.com/k/1b2ulAA #rstats #viz cool+handy!
+342106116630671360  Jun  4 22:30  @JGreenbrookHeld  Using qplot, can you use colour and size for a scatter plot? If so, how? #rstats #ggplot2
+342107646389780480  Jun  4 22:36  @JGreenbrookHeld  @loljosh It's my most-used #lazyweb #rstats
+342107749771005952  Jun  4 22:36  @JGreenbrookHeld  @loljosh Don't worry - Phil's not a fan of #rstats - you're off the hook on that front.
+342108313099583488  Jun  4 22:39  @BeanWesterling   RT @RLangTip: Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+342116387508068353  Jun  4 23:11  @drago_carlo      IntR – Interactive GUI for performing geostatistical analysis in R http://feedly.com/k/ZMQovC #Statistics #SpatialStatistics #Rstats
+342118830358806528  Jun  4 23:21  @JGreenbrookHeld  @georgedarroch Having a R-mare today. #qplot is part of #ggplot2, right? I can't get it to work... #rstats
+342135204275703809  Jun  5 00:26  @recology_        Good stuff at Nice R Code http://bit.ly/12rQWIY / #rstats @adaptive_plant @phylorich
+342136346963505153  Jun  5 00:30  @TomEdWhite       RT @recology_: Good stuff at Nice R Code http://bit.ly/12rQWIY / #rstats @adaptive_plant @phylorich
+342139854257278978  Jun  5 00:44  @KirkDBorne       Amazingly comprehensive list of R CRAN packages for Data Clustering: http://cran.r-project.org/web/views/Cluster.html #DataMining #DataScience #Rstats
+342146802084106240  Jun  5 01:12  @joshua_ulrich    Rescaling (divide all rows by one row) an xts object using sweep http://goo.gl/tVBxV #rstats
+342149402602897408  Jun  5 01:22  @MassimoMorelli   RT @recology_: Good stuff at Nice R Code http://bit.ly/12rQWIY / #rstats @adaptive_plant @phylorich
+342151462249431040  Jun  5 01:30  @monkmanmh        Blog post: MLB run scoring trends with the Lahman package. #rstats http://tinyurl.com/m5ocoho
+342163346377826304  Jun  5 02:17  @adamhsparks      Nice, straight forward blog post on setting up projects in #rstats, also an example using @rstudioapp. http://nicercode.github.io/blog/2013-04-05-projects/
+342170894958997504  Jun  5 02:47  @kyloring         Fitting mixed models in #rstats #GLMM #mixedmodels ecology Any particular resources or techniques recommended to smooth the learning curve?
