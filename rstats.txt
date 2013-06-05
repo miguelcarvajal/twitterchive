@@ -7993,3 +7993,41 @@
 342254177730301952  Jun  5 08:18  @InnaKolyshkina   RT @kdnuggets: Top 3 R resources for beginners #rstats http://bit.ly/YP6rGu
 342261142883811329  Jun  5 08:46  @NEdgingtonPhD    Wow;  I wrote a short #Python script, put the data in #Rstats, & made a nice #ggplot density plot in under 5 min. #newbie #record
 342261565279588353  Jun  5 08:48  @sharon000        New R package to connect to Google Analytics data, with useful documentation http://bit.ly/11YfDLs by @johannux #rstats
+342272126373466113  Jun  5 09:30  @chipmonkey75     R used to play with: "How old is the oldest person you know?" | @Freakonometrics http://freakonometrics.hypotheses.org/7079 #rstats
+342273646225661953  Jun  5 09:36  @johannux         RT @sharon000: New R package to connect to Google Analytics data, with useful documentation http://bit.ly/11YfDLs by @johannux #rstats
+342277687383044098  Jun  5 09:52  @onelinetips      #rstats a nice overview of formula syntax for statistical models in R http://bit.ly/1b4cb1v
+342282095923703808  Jun  5 10:09  @sc_evans         Yesterday I could import my csv file, today same file gives "invalid multibyte string" error. Didn't move/rewrite it at all. Why?! #Rstats
+342284158967623681  Jun  5 10:17  @Gliders_Coach    RT @cloudHPC: "big advantages of using #rstats #Hadoop packages is that you only need to learn one language" by @revodavid more at http://t.co/fgDip0XxyN
+342284285564305410  Jun  5 10:18  @Gliders_Coach    RT @kdnuggets: SAS is the top skill for Analytics/Data Mining Job Market; SPSS 2nd, R #rstats is 3rd, (but up 42% ) http://bit.ly/10D0zl1
+342284432327180290  Jun  5 10:19  @Gliders_Coach    RT @kdnuggets: Text processing with R #rstats and Python: R + tm package  gets better, but Python + scikit + pandas still win http://t.co/WS9Ttkyi9Y
+342285137909780480  Jun  5 10:21  @Gliders_Coach    all that talk on reproducible research in #rstats and I think the best site reproducible research   is still @Rbloggers
+342285544803418112  Jun  5 10:23  @mjcavaretta      Had a great meeting with the Pivotal formerly (@Greenplum / @EMC) guys on #BigData / #analytics. Anyone use their #Rstats connectors?
+342288468430422016  Jun  5 10:35  @mjcavaretta      #Ford is hiring in #statistics/#machinelearning. Work with me on #HR #analytics.  See: http://goo.gl/R6vq3 via @FordCareers #rstats
+342291156777971713  Jun  5 10:45  @timelyportfolio  RT @joshua_ulrich: Rescaling (divide all rows by one row) an xts object using sweep http://goo.gl/tVBxV #rstats
+342295671447105536  Jun  5 11:03  @DiffusePrioR     New blogpost: The Frisch–Waugh–Lovell Theorem for Both OLS and 2SLS http://wp.me/p2jI3P-ax #rstats
+342297934928412676  Jun  5 11:12  @KevinLDavenport  R @googledevs  very cool http://research.google.com/pubs/pub37483.html #rstats
+342299409784119296  Jun  5 11:18  @Rbloggers        RcppArmadillo 0.3.900.0:  (This article was first published on  Thinking inside the box , and kindly c... http://bit.ly/18W53aK #rstats
+342301427642822658  Jun  5 11:26  @NKSBarker        Diving into #ggplot2. Not sure whether to be excited or scared. #Rstats
+342302967371808768  Jun  5 11:32  @nashturley       Yes yes yes yes! When you find that exact #R script that does exactly what you want to do #Geek #Rstats #StackOverflow
+342304096591683584  Jun  5 11:37  @yaacovp          RT @nashturley: Yes yes yes yes! When you find that exact #R script that does exactly what you want to do #Geek #Rstats #StackOverflow
+342304330352820224  Jun  5 11:38  @hadleywickham    interested in #rstats and green buildings? this postdoc fellowship might be a great fit! http://www.usgbc.org/Jobs_Internships_Postdoctoral_Fellow
+342310427335725056  Jun  5 12:02  @ecologyWatkins   @NKSBarker treat it as a gift from the #rstats gods. graphics will never be the same again! excited!
+342311409159401472  Jun  5 12:06  @RLangTip         A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342311506765029377  Jun  5 12:06  @drsong           RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342311609655500800  Jun  5 12:07  @MathGuyProblems  RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342311622120972290  Jun  5 12:07  @jmcyap           RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342311634519334912  Jun  5 12:07  @kwcollins        RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342311834335985664  Jun  5 12:07  @Curly_McGee      RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342312201048178689  Jun  5 12:09  @cocoahn          RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342312851769262081  Jun  5 12:11  @CarsonFarmer     RT @hadleywickham: interested in #rstats and green buildings? this postdoc fellowship might be a great fit! http://www.usgbc.org/Jobs_Internships_Postdoctoral_Fellow
+342315230786895873  Jun  5 12:21  @Greene_Thoughts  RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342315238290513921  Jun  5 12:21  @analysis_factor  Online workshop in 2 days: Linear Regression in R. #rstats #stats http://ow.ly/lHRde
+342317144370987008  Jun  5 12:29  @znmeb            RT @sharon000: New R package to connect to Google Analytics data, with useful documentation http://bit.ly/11YfDLs by @johannux #rstats
+342319474042601472  Jun  5 12:38  @recology_        RT @hadleywickham: interested in #rstats and green buildings? this postdoc fellowship might be a great fit! http://www.usgbc.org/Jobs_Internships_Postdoctoral_Fellow
+342321342118510592  Jun  5 12:45  @dom_muller       RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342336626334244864  Jun  5 13:46  @raulpacheco      For my #CIDE students and research assistants RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342337612893257729  Jun  5 13:50  @Rbloggers        The Frisch–Waugh–Lovell Theorem for Both OLS and 2SLS:  (This article was first published on  DiffuseP... http://bit.ly/18WDNsF #rstats
+342339256938807296  Jun  5 13:56  @bduckles         RT @hadleywickham: interested in #rstats and green buildings? this postdoc fellowship might be a great fit! http://www.usgbc.org/Jobs_Internships_Postdoctoral_Fellow
+342343940445454336  Jun  5 14:15  @emelaktas        RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342345367595122689  Jun  5 14:21  @isragaytan       RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342352559052292096  Jun  5 14:49  @AlexRVillalobos  RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
