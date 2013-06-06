@@ -8059,3 +8059,21 @@
 342429323782934528  Jun  5 19:54  @mjcavaretta      MT @revodavid @kdnuggets #analytics poll results: Rapidminer and R take top 2 spots; SAS declines http://bit.ly/15Cfegd #rstats #datamining
 342434369346080768  Jun  5 20:14  @algaebarnacle    Great paper on effect size in biology: http://bit.ly/vjHFL5 R code for all calculations & simulations here: http://bit.ly/12tqGxM #rstats
 342444338694995968  Jun  5 20:54  @kristin_linn     RT @hadleywickham: interested in #rstats and green buildings? this postdoc fellowship might be a great fit! http://www.usgbc.org/Jobs_Internships_Postdoctoral_Fellow
+342457352965984256  Jun  5 21:46  @qx               #rstats Anyone have any good resources for dealing with large datasets in R? I'm skating very close to memory limits & crashing frequently
+342460787476004865  Jun  5 21:59  @phylorich        RT @qx: #rstats Anyone have any good resources for dealing with large datasets in R? I'm skating very close to memory limits & crashing frequently
+342465361423261696  Jun  5 22:17  @tjmahr           as.percent <- function(x, digits = 4) round(x, digits) * 100 #rstats
+342465430868332544  Jun  5 22:18  @orlandomezquita  “@RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats”
+342466069698596864  Jun  5 22:20  @tjmahr           `%contains%` <- function(x, y) any(y %in% x) #rstats
+342466481625370625  Jun  5 22:22  @Sal_Keith        RT @qx: #rstats Anyone have any good resources for dealing with large datasets in R? I'm skating very close to memory limits & crashing frequently
+342466781794930689  Jun  5 22:23  @tjmahr           i just love writing functions in #rstats then applying the shit out of them
+342473736223608832  Jun  5 22:51  @mcorey           If my students would believe, I could teach #rstats!  "You Can Already Code - You Just Don’t Know It Yet" by @edrex_ https://medium.com/on-coding/862044601a5a
+342479594743545857  Jun  5 23:14  @nextgenseek      RT @hadleywickham: @michaelhoffman plus write.table can create files that read.csv cannot read (no matter what options you set!) #rstats
+342486238894358532  Jun  5 23:40  @Gliders_Coach    I interview the CEO of @algorithms_io for @programmableweb here http://blog.programmableweb.com/2013/06/04/pw-interview-andy-bartley-ceo-algorithms-io/ .  Quote- we really like   #rstats
+342490866843258880  Jun  5 23:59  @Gliders_Coach    RT @tjmahr: i just love writing functions in #rstats then applying the shit out of them
+342491172570288128  Jun  6 00:00  @Gliders_Coach    @qx put in mysql, and rodbc ? #rstats
+342494580521971713  Jun  6 00:14  @Gliders_Coach    computer languages are not religions, you can switch them without any shame in any country #rstats #python  #spss #julia #sas #jmp #go #java
+342494584598839297  Jun  6 00:14  @iwjase           RT @Gliders_Coach: computer languages are not religions, you can switch them without any shame in any country #rstats #python  #spss #julia #sas #jmp #go #java
+342499894201831424  Jun  6 00:35  @josek_net        RT @jmgomez: Interactive slides with googleVis on shiny http://ow.ly/lGEbq #rstats #visualization
+342503874931859456  Jun  6 00:51  @Rbloggers        KDNuggets 2013 software poll results:  (This article was first published on  Revolutions, and kindly c... http://bit.ly/1214Ekn #rstats
+342510820758003712  Jun  6 01:18  @vladimirzaytsev  RT @rguha: everyday I use ggplot, my love for it grows #rstats #visualization
+342530327509614592  Jun  6 02:36  @datennutzen      KDnuggets Annual Software Poll: RapidMiner and #Rstats vie for first place http://www.kdnuggets.com/2013/06/kdnuggets-annual-software-poll-rapidminer-r-vie-for-first-place.html via @kdnuggets
