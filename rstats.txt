@@ -8090,3 +8090,37 @@
 342606791202459648  Jun  6 07:39  @mbucken          RT @sharon000: Beginner's Guide to R for basic data work:  http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz & more #rstats
 342606793312194560  Jun  6 07:39  @Computerworld    RT @sharon000: Beginner's Guide to R for basic data work:  http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz & more #rstats
 342621334863495169  Jun  6 08:37  @ellenfanning     RT @sharon000: Beginner's Guide to R for basic data work:  http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz & more #rstats
+342627558740869122  Jun  6 09:02  @davetang31       Material for the course: Intermediate #Rstats / @Bioconductor for High Throughput Sequence Analysis http://bioconductor.org/help/course-materials/2013/SeattleMay2013/
+342629559818129412  Jun  6 09:10  @BioMath          RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342631885194792960  Jun  6 09:19  @lucasdicioccio   wondering which GIF should illustrate "when you try to use reshape in #rstats"
+342635964948156417  Jun  6 09:35  @kat_a_hartman    Do you say pop or soda? #Dataviz of various dialect indicators: http://spark-1590165977.us-west-2.elb.amazonaws.com/jkatz/SurveyMaps/ #rstats
+342637027470241792  Jun  6 09:40  @wabarree         Beautiful dialect map!! RT @kat_a_hartman: Do you say pop or soda? #Dataviz of various dialect indicators: http://spark-1590165977.us-west-2.elb.amazonaws.com/jkatz/SurveyMaps/ #rstats
+342643169944543232  Jun  6 10:04  @reiver           RT @moorejh: #datascience #bioinformatics #datamining RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342655574053384192  Jun  6 10:53  @NKSBarker        Verdict on #ggplot2: I think I'm in love. #Rstats @hadleywickham @revodavid @_inundata @ecologyWatkins @betheross
+342657709725847552  Jun  6 11:02  @AstroRJS         "I do exclusively figurative paintings anymore". Nice dialect dataviz, but some of the Qs were just *weird*! http://spark-1590165977.us-west-2.elb.amazonaws.com/jkatz/SurveyMaps #rstats
+342663875180761088  Jun  6 11:26  @ProbablePattern  After much wailing and gnashing of teeth, I finally have RStan installed on both Windows and OSX. #rstats
+342664000900841472  Jun  6 11:27  @mjcavaretta      Opinions from #Rstats? RT @borja3790: Nice, nice, Rice...R Is Not Enough For "Big Data" - Forbes http://onforb.es/ITCMT6 #bigdata #datamining
+342665118250848258  Jun  6 11:31  @JoFrhwld         @lucasdicioccio perhaps http://i.imgur.com/eokBs3M.gif #rstats
+342668124514045952  Jun  6 11:43  @alexhanna        Is there a way to round/floor to the nearest 15 minute interval in lubridate? #rstats
+342673503079776257  Jun  6 12:05  @belongworth      Who says what how! http://spark-1590165977.us-west-2.elb.amazonaws.com/jkatz/SurveyMaps/ Coding done using #rstats! Wicked Awesome.
+342673691563393024  Jun  6 12:05  @kfmcgregor       I wrote a new blog post on imputation of missing data: http://kfmcgregor.blogspot.com/2013/06/imputation-difficult-few-days.html #rstats
+342673979628195840  Jun  6 12:06  @RLangTip         Get an overview of documentation for an installed package: help(package="<package-name>") #rstats
+342682332194549760  Jun  6 12:40  @kushan_s         RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342683286071554048  Jun  6 12:43  @baogorek         R's multicore package will let your processors team up on bootstrap resamples (but set mc.preschedule=FALSE) http://cran.r-project.org/web/packages/multicore/index.html #rstats
+342687728376369152  Jun  6 13:01  @skardhamar       How to perform predictive analysis on your web analytics tool data using r - free webinar - http://www.tatvic.com/perform-predictive-analysis-on-your-web-analytics-tool/?utm_id=EJV4 #rstats #measure
+342688460576022529  Jun  6 13:04  @RevoJoe          #rstats Look at http://bit.ly/ZS3NT4 for an intro to parallel random number streams with RevoScaleR package
+342700567644213248  Jun  6 13:52  @datalies         #Rstats + RMySQL + MAMP + shiny = local R web dev. Tip: dbConnect(..., unix.sock = "/Applications/MAMP/tmp/mysql/mysql.sock") @JakeRuss
+342701367447650304  Jun  6 13:55  @analysis_factor  So looking forward to finally getting some R training, starts tomorrow #rstats http://ow.ly/lHRLY
+342701526546001921  Jun  6 13:56  @humanresearcher  RT @RLangTip: Get an overview of documentation for an installed package: help(package="<package-name>") #rstats
+342704459312410627  Jun  6 14:08  @tonyojeda3       Still a few seats left for our Intro to R Workshop on June 15th taught by @webbedfeet http://bit.ly/1auJ731 #rstats #datadc #datascience
+342704461753483264  Jun  6 14:08  @DataCommunityDC  Still a few seats left for our Intro to R Workshop on June 15th taught by @webbedfeet http://bit.ly/1auJ731 #rstats #datadc #datascience v
+342705122687717376  Jun  6 14:10  @HarlanH          RT @DataCommunityDC: Still a few seats left for our Intro to R Workshop on June 15th taught by @webbedfeet http://bit.ly/1auJ731 #rstats #datadc #datascience v
+342706989702459394  Jun  6 14:18  @statisticsblog   Learn to manage data in #R with this 4-hour webinar on June 21st. http://i.cx/11jD63R #RStats #Statistics
+342708301802381312  Jun  6 14:23  @revodavid        RT @statisticsblog: Learn to manage data in #R with this 4-hour webinar on June 21st. http://i.cx/11jD63R #RStats #Statistics
+342708672390107138  Jun  6 14:24  @andybeega        RT @_inundata: The #xckd R package is finally out.  http://bit.ly/16D36it let the nerdiness ensue. #rstats http://twitpic.com/cr2sju
+342710994277117954  Jun  6 14:34  @hugo_koopmans    RT @statisticsblog: Learn to manage data in #R with this 4-hour webinar on June 21st. http://i.cx/11jD63R #RStats #Statistics
+342711534411194368  Jun  6 14:36  @revodavid        RT @RevoJoe: #rstats Look at http://bit.ly/ZS3NT4 for an intro to parallel random number streams with RevoScaleR package
+342713833426657280  Jun  6 14:45  @quandl           The 7th R/Rmetrics workshop will be held in Switzerland, June 30-July 4: http://qndl.co/11s2KaE #rstats #data
+342716341813379073  Jun  6 14:55  @drchriscole      It was fun to see #Rstats on #landward
+342716599440125953  Jun  6 14:56  @EcologyVictoria  RT @kfmcgregor: I wrote a new blog post on imputation of missing data: http://kfmcgregor.blogspot.com/2013/06/imputation-difficult-few-days.html #rstats
+342717380163670016  Jun  6 14:59  @MDubins          Thank you @hadleywickham for making dplyr!  It's much faster for me to use summarise than ddply for the same purpose on a >200k df! #rstats
