@@ -8031,3 +8031,31 @@
 342343940445454336  Jun  5 14:15  @emelaktas        RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
 342345367595122689  Jun  5 14:21  @isragaytan       RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
 342352559052292096  Jun  5 14:49  @AlexRVillalobos  RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342358047370383360  Jun  5 15:11  @alexhanna        It took me four attempts to put the correct extension on an #rstats file. That sums up the pace of today.
+342359210111152128  Jun  5 15:16  @gvegayon         @gmiritello @Gephi Just saw your tweet! thxs to u! Next vers will include a 2-way igraph translator (already programmed!) #rstats #rgexf
+342361711036207104  Jun  5 15:26  @lucaborger       This looks important! RT @RobFreckleton: Really useful in regression, not used often enough: http://www.r-bloggers.com/the-frisch-waugh-lovell-theorem-for-both-ols-and-2sls/ #rstats
+342367957839646720  Jun  5 15:50  @jmgomez          Interactive slides with googleVis on shiny http://ow.ly/lGEbq #rstats #visualization
+342368687120056321  Jun  5 15:53  @gvegayon         @gmiritello @Gephi @yrochat @GrandjeanMartin BTW the project's site http://bit.ly/Zihzgd #rstats #sna
+342369297152233472  Jun  5 15:56  @jhibschman       My big gripe with data.table is how its magic makes it hard to use in code, but I think I finally get it. substitute+parse+indexing. #rstats
+342369795381022721  Jun  5 15:58  @rmflight         blogpost looking at Tim Hortons locations and Canadian census data http://robertmflight.blogspot.com/2013/06/tim-hortons-density.html  #rstats package on github https://github.com/rmflight/timmysDensity
+342370547549749248  Jun  5 16:01  @genetics_blog    @notSoJunkDNA simple enough to integrate into an #Rstats/DESeq/edgeR-based RNA-seq workflow
+342375719080435713  Jun  5 16:21  @gmckeown         RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342380264636416001  Jun  5 16:39  @mwallinga        Bigger time-sink: over-tweaking PowerPoint slides or over-tweaking #rstats graphics options? For me today, it’s definitely the latter.
+342386788549152769  Jun  5 17:05  @JGreenbrookHeld  @georgedarroch For some reason the ggplot2 package hadn't installed properly. Dropped it then required it, and vuala. #rstats
+342387880678801409  Jun  5 17:10  @cpikas           lazyweb q: in R ( #rstats #rproject) using pkg tm, when I remove punctuation, it smushes words together... way to prevent? use gsub? TIA
+342394499735121921  Jun  5 17:36  @buckley_tom      Are there any alternatives to browsing #rstats packages by list or date on CRAN?  For example, by topic/field/subject?
+342395977644253184  Jun  5 17:42  @jesterhazy       Generating multi-chart layouts in #rstats reminds me a bit too much of #latex. Maybe its time to try out some other tools?
+342397892079788033  Jun  5 17:49  @mrtnj            RT @rguha: everyday I use ggplot, my love for it grows #rstats #visualization
+342399605935312896  Jun  5 17:56  @revodavid        @buckley_tom Try the #rstats Task Views on CRAN http://bit.ly/1206SQY and tags on Crantastic http://bit.ly/1206Okk
+342400214457536512  Jun  5 17:59  @neilfws          This is very cool. Pathview: visualize quantitative data on KEGG pathways - http://bit.ly/16KYA2o #rstats
+342401935007154177  Jun  5 18:05  @aaronquinlan     RT @neilfws: This is very cool. Pathview: visualize quantitative data on KEGG pathways - http://bit.ly/16KYA2o #rstats
+342402371638398977  Jun  5 18:07  @ondrek           RT @bocoup: Global Name Data: Open Data, Open Gender Tracker, and the Open Web by @therealprotonk http://weblog.bocoup.com/global-name-data #rstats
+342404672163815424  Jun  5 18:16  @Lily_Robin       Trying to improve my #rstats and #python skills while I job hunt-looking for some fun data to play with! So much out there, where to begin..
+342404674453909505  Jun  5 18:16  @notSoJunkDNA     Awesome! Thanks RT @neilfws: This is very cool. Pathview: visualize quantitative data on KEGG pathways - http://bit.ly/16KYA2o #rstats
+342404677746434049  Jun  5 18:16  @iwjase           RT @Lily_Robin: Trying to improve my #rstats and #python skills while I job hunt-looking for some fun data to play with! So much out there, where to begin..
+342408048389804032  Jun  5 18:30  @JennyCabotage    Decided to just teach myself to program evolutionary simulations. This will take what, a week? #notaproblem #rstats #whatamidoingwithmylife
+342418795706589184  Jun  5 19:12  @PPUAMX           RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342420996743118848  Jun  5 19:21  @recology_        Anybody have experience saving #ggplot2 plots made with grid/gridExra as .eps files? look wrong gist eg: http://bit.ly/Zu9swn #rstats
+342429323782934528  Jun  5 19:54  @mjcavaretta      MT @revodavid @kdnuggets #analytics poll results: Rapidminer and R take top 2 spots; SAS declines http://bit.ly/15Cfegd #rstats #datamining
+342434369346080768  Jun  5 20:14  @algaebarnacle    Great paper on effect size in biology: http://bit.ly/vjHFL5 R code for all calculations & simulations here: http://bit.ly/12tqGxM #rstats
+342444338694995968  Jun  5 20:54  @kristin_linn     RT @hadleywickham: interested in #rstats and green buildings? this postdoc fellowship might be a great fit! http://www.usgbc.org/Jobs_Internships_Postdoctoral_Fellow
