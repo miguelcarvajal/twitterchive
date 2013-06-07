@@ -8201,3 +8201,65 @@
 342983305668476929  Jun  7 08:36  @mspan            RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
 342985174478356480  Jun  7 08:43  @rmflight         RT @drago_carlo: 10 Reasons Python Rocks for Research (And a Few Reasons it Doesn’t) http://www.stat.washington.edu/~hoytak/blog/whypython.html #Python #Rstats #Matlab #Mathematica #Research
 342986106603700224  Jun  7 08:47  @davetang31       RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342992904299626496  Jun  7 09:14  @kshameer         RT @neilfws: This is very cool. Pathview: visualize quantitative data on KEGG pathways - http://bit.ly/16KYA2o #rstats
+342992950122397696  Jun  7 09:14  @hadleywickham    RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+342997260642181120  Jun  7 09:31  @jmgomez          RT @KevinLDavenport R @googledevs  very cool - Large-Scale Parallel Statistical Forecasting Computations in R http://research.google.com/pubs/pub37483.html #rstats
+342998852904824833  Jun  7 09:37  @dataJujitsu      Want! RT: @eddelbuettel My Rcpp book is now out and shipping. http://goo.gl/V3f1S  #rstats #rcpp
+343002787744972800  Jun  7 09:53  @SpringerStats    Congratulations! RT @eddelbuettel My Rcpp book is now out and shipping. http://goo.gl/V3f1S  #rstats #rcpp
+343006005908615168  Jun  7 10:06  @cnrlwlss         RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+343007519016378370  Jun  7 10:12  @erwtokritos      Neural Networks with R – A Simple Example #Rstats http://gekkoquant.com/2012/05/26/neural-networks-with-r-simple-example/
+343008030033604608  Jun  7 10:14  @kognitio         MT @merv: News on #Rstats continues to gather momentum as more vendors talk about how they are parallelizing it. Need to dig deeper. < :-)
+343009685839949824  Jun  7 10:20  @jaredlander      RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+343013825588629504  Jun  7 10:37  @smacneil_        RT @cloudHPC: "big advantages of using #rstats #Hadoop packages is that you only need to learn one language" by @revodavid more at http://t.co/fgDip0XxyN
+343016959576780800  Jun  7 10:49  @StatsInTheWild   RT @drago_carlo: 10 Reasons Python Rocks for Research (And a Few Reasons it Doesn’t) http://www.stat.washington.edu/~hoytak/blog/whypython.html #Python #Rstats #Matlab #Mathematica #Research
+343017630145331200  Jun  7 10:52  @RobbyMeals       RT @drago_carlo: 10 Reasons Python Rocks for Research (And a Few Reasons it Doesn’t) http://www.stat.washington.edu/~hoytak/blog/whypython.html #Python #Rstats #Matlab #Mathematica #Research
+343018147688882177  Jun  7 10:54  @wligtenberg      RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+343018999073878016  Jun  7 10:57  @tjmahr           am i being too cute if i have a url and a qrcode to my dataset/scripts/markdown files on a conference poster? #rstats
+343019155747905536  Jun  7 10:58  @_inundata        RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+343021851305443329  Jun  7 11:09  @DanFranksRsrch   RT @katatrepsis: The Applications section of @MethodsEcolEvol is really brilliant, particularly for new #rstats packages: http://t.co/UZH0PuQhFa
+343021852270149632  Jun  7 11:09  @datalies         @nathanyau which #programming language do you use most? Where does #Rstats rank? #justcurious
+343024972517748736  Jun  7 11:21  @rmflight         one thing I would change in #python: pass by copy instead of pass by reference #rstats
+343034237269708800  Jun  7 11:58  @pickleswarlz     Why did I ever try to plot data in anything other than R? I don't believe in magic, but I do believe in beautifully coded packages. #rstats
+343036181526749184  Jun  7 12:06  @monsoontrader    @Malarky67 @dataJujitsu @swcarpentry so a list is like….Beuller, Bueller? #rstats
+343036298422001665  Jun  7 12:06  @RLangTip         Use the RMySQL package to read data from MySQL into R using SQL queries: http://bit.ly/zBaVM4 #rstats
+343036395960537088  Jun  7 12:07  @kuun_peal        RT @RLangTip: Use the RMySQL package to read data from MySQL into R using SQL queries: http://bit.ly/zBaVM4 #rstats
+343037510823342080  Jun  7 12:11  @Rbloggers        A Shiny App Goes Viral:  (This article was first published on  Econometrics by Simulation, and kindly ... http://bit.ly/14FHQmr #rstats
+343037511867723777  Jun  7 12:11  @Rbloggers        The Rcpp Book is now shipping:  (This article was first published on  Thinking inside the box , and ki... http://bit.ly/18bEaAa #rstats
+343038794246803456  Jun  7 12:16  @oscarperpinan    Happy Birthday rasterVis! http://wp.me/pNSqK-lb  #rstats #visualization #raster
+343041284061143040  Jun  7 12:26  @SylvainCF        RT @RLangTip: Use the RMySQL package to read data from MySQL into R using SQL queries: http://bit.ly/zBaVM4 #rstats
+343041629688565761  Jun  7 12:27  @cocoahn          RT @RLangTip: Use the RMySQL package to read data from MySQL into R using SQL queries: http://bit.ly/zBaVM4 #rstats
+343044693577302016  Jun  7 12:40  @ramnath_vaidya   Enclose R code between ```coffee and ``` to get some syntax highlighting in github for R code! #rstats #rtip
+343045300249837568  Jun  7 12:42  @frod_san         RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+343045755415699456  Jun  7 12:44  @NHoughSnee       RT @RLangTip: Use the RMySQL package to read data from MySQL into R using SQL queries: http://bit.ly/zBaVM4 #rstats
+343047740852408320  Jun  7 12:52  @kristw           RT @RLangTip: Use the RMySQL package to read data from MySQL into R using SQL queries: http://bit.ly/zBaVM4 #rstats
+343054755871989761  Jun  7 13:20  @cloudHPC         Great and ordered "@eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp"
+343055067689127937  Jun  7 13:21  @Gliders_Coach    RT @cloudHPC: Great and ordered "@eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp"
+343055316931465217  Jun  7 13:22  @cloudHPC         Great #rstats meetup in #munich with more than 20 people. Thanks @pentalibra @dakoller @RevolutionR for talks and sponsoring
+343056134355156992  Jun  7 13:25  @Gliders_Coach    RT @cloudHPC: Great #rstats meetup in #munich with more than 20 people. Thanks @pentalibra @dakoller @RevolutionR for talks and sponsoring
+343058258275213312  Jun  7 13:33  @Gliders_Coach    sure  collects a lot of data. what statistical software does the nsa use ? customized #rstats #python #sas or #mahout , does it break gpl ?
+343058261928448002  Jun  7 13:33  @iwjase           RT @Gliders_Coach: sure  collects a lot of data. what statistical software does the nsa use ? customized #rstats #python #sas or #mahout , does it break gpl ?
+343061434080567296  Jun  7 13:46  @EdwardTufte      RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343062305375911936  Jun  7 13:50  @BrianPardy       RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343062699611127810  Jun  7 13:51  @carolinedna      MT @edwardtufte @revodavid: The arteries of the world in geotagged Tweets #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343063247169134593  Jun  7 13:53  @brian_frantz     RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343063989057617920  Jun  7 13:56  @jim_unwin        RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343064336882888706  Jun  7 13:58  @pentalibra       RT @cloudHPC Great #rstats meetup in #munich with more than 20 people. Thanks @pentalibra @dakoller @RevolutionR for talks and sponsoring
+343064392230903808  Jun  7 13:58  @n_j_davis        @KathrynEccles “@RLangTip: Use the RMySQL package to read data from MySQL into R using SQL queries: http://bit.ly/zBaVM4 #rstats”
+343065436180578305  Jun  7 14:02  @davetroy         RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343066214219776001  Jun  7 14:05  @MikeWM           RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343067209465208832  Jun  7 14:09  @adoran2          RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343068091279880192  Jun  7 14:13  @WhitneyEpi       RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343068752365105152  Jun  7 14:15  @joaquimsanmarti  RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343068818555408384  Jun  7 14:15  @v1pl             RT @miguelrios: 20 lines of code on #rstats using ggmap: https://blog.twitter.com/2013/geography-tweets-3
+343069269652807680  Jun  7 14:17  @a_d_mackenzie    "@revodavid: You can see the arteries of the world in geotagged Tweets. #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV" go turkey!
+343071574020202498  Jun  7 14:26  @Irene_KF         RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343071613643796480  Jun  7 14:27  @gpeters          RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343073832229285890  Jun  7 14:35  @firststepsinc    RT @omearabrian: A bit scary that Wall Street financial modeling = excel, not #rstats or similar: http://nyti.ms/1aFiXKV
+343075704117813249  Jun  7 14:43  @SarahBisbing     Any #rstats geniuses have tips for extracting specific values from data? Could use some coding help. Need values >-20 and <-50. #PhD2013
+343076660083568642  Jun  7 14:47  @DavidBeegle      RT @drago_carlo: 10 Reasons Python Rocks for Research (And a Few Reasons it Doesn’t) http://www.stat.washington.edu/~hoytak/blog/whypython.html #Python #Rstats #Matlab #Mathematica #Research
+343077212020416512  Jun  7 14:49  @sianberry        RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343077213102555136  Jun  7 14:49  @raynetoday       RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343077350705070081  Jun  7 14:49  @gvegayon         KDnuggets Annual Software Poll: RapidMiner and R vie for first place http://www.kdnuggets.com/2013/06/kdnuggets-annual-software-poll-rapidminer-r-vie-for-first-place.html vía @kdnuggets #rstats
+343078601962438657  Jun  7 14:54  @DanWilsonMusic   RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
+343078634816405505  Jun  7 14:54  @SarahBisbing     @SchaunW @SeemaSheth you tweeps are so smart. Thank you! #rstats
+343079774194900992  Jun  7 14:59  @Tylerburkum      RT @revodavid: You can see the arteries of the world in geotagged Tweets. Stunning #rstats #DataViz by @miguelrios http://bit.ly/14fcdzV
