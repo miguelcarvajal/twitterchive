@@ -8167,3 +8167,37 @@
 342861856379109377  Jun  7 00:33  @amestadmx        RT @RLangTip: Get an overview of documentation for an installed package: help(package="<package-name>") #rstats
 342884293862895617  Jun  7 02:02  @JodyEdmondson    Bill Gates: Four Areas of Technology I'd look into  http://bit.ly/18SJwND #bigdata #rstats #ml
 342884984731877376  Jun  7 02:05  @jmgomez          RT @joscani: OpenIntro Labs promote the understanding of stats through applied data analysis with R http://www.openintro.org/stat/labs.php #rstats
+342901431445098496  Jun  7 03:10  @masemresearch    At what sample size do correlations stabilize? | Felix Schönbrodt's website #rstats | @scoopit http://sco.lt/5NjF7h
+342901954718085120  Jun  7 03:12  @masemresearch    Venue Recommendation - A Simple Use Case Connecting R and Neo4j #rstats | @scoopit http://sco.lt/5olXGL
+342905803092668416  Jun  7 03:28  @stefano_de_luca  RT @RevoJoe: #rstats Look at http://bit.ly/ZS3NT4 for an intro to parallel random number streams with RevoScaleR package
+342906146820063232  Jun  7 03:29  @neo4j            Thanks for the reminder @masemresearch Great read: Venue Recommendation - Use Case Connecting R and #Neo4j http://things-about-r.tumblr.com/post/47392314578/venue-recommendation-a-simple-use-case-connecting-r #rstats
+342917595630010369  Jun  7 04:15  @tatvic           RT @skardhamar: How to perform predictive analysis on your web analytics tool data using r - free webinar - http://www.tatvic.com/perform-predictive-analysis-on-your-web-analytics-tool/?utm_id=EJV4 #rstats #measure
+342924039850971136  Jun  7 04:40  @jmgomez          RT @rvimieiro Among #datascience tools, the highest increase from 2012 to 2013 was for #Rstats #RapidMiner & #Tableau http://www.kdnuggets.com/2013/06/kdnuggets-annual-software-poll-rapidminer-r-vie-for-first-place.html
+342929174387896320  Jun  7 05:01  @karinlag         RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342929379241902083  Jun  7 05:01  @MikeyJ           RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342929412985073664  Jun  7 05:01  @BioMickWatson    RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342929724626046977  Jun  7 05:03  @mincle           RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342934546171445248  Jun  7 05:22  @Rbloggers        Symmetric set differences in R:  (This article was first published on  Life in Code, and kindly contri... http://bit.ly/18a9WgX #rstats
+342935393068515328  Jun  7 05:25  @chlalanne        Binary classification evaluation in #rstats via ROCR, http://bit.ly/15Rmsh6 (via @brendan642)
+342937851446571008  Jun  7 05:35  @jmgomez          RT @InnaKolyshkina: Top 3 R resources for beginners #rstats http://bit.ly/YP6rGu
+342949652406095872  Jun  7 06:22  @dataJujitsu      Problem with teaching R is that many people want to learn how to do analysis with it but don't want to have to learn to code as well.#RStats
+342954304228966400  Jun  7 06:40  @jmgomez          RT @sharon000: New R package to connect to Google Analytics data, with useful documentation http://bit.ly/11YfDLs by @johannux #rstats #seo
+342954788696256513  Jun  7 06:42  @drago_carlo      10 Reasons Python Rocks for Research (And a Few Reasons it Doesn’t) http://www.stat.washington.edu/~hoytak/blog/whypython.html #Python #Rstats #Matlab #Mathematica #Research
+342956631849574400  Jun  7 06:50  @nopiedra         “@moorejh: #datascience #bioinformatics #datamining RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats”
+342957079385997312  Jun  7 06:51  @nopiedra         RT @gvegayon: "Stepping up to Big Data with R and Python: A Mind Map of All the Packages You Will Ever Need" http://feedly.com/k/15tJppV #rstats #bigdata
+342964285435158528  Jun  7 07:20  @AmyT_Tweets      Learning Statistics with R | Computational Cognitive Science Lab http://bit.ly/10caiK2 #rstats
+342965122802778113  Jun  7 07:23  @sharon000        Not just for beginners: 50+ useful resources for improving as well as learning R  http://cwrld.us/RGuideList #rstats
+342968616502837248  Jun  7 07:37  @eddelbuettel     My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+342968839941783552  Jun  7 07:38  @Rbloggers        Income Distribution in London:  (This article was first published on  plausibel, and kindly contribute... http://bit.ly/15ROzws #rstats
+342969614101258242  Jun  7 07:41  @koenhavlik       RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+342970564572479488  Jun  7 07:45  @lrbarba          RT @gvegayon: "Stepping up to Big Data with R and Python: A Mind Map of All the Packages You Will Ever Need" http://feedly.com/k/15tJppV #rstats #bigdata
+342973971723059200  Jun  7 07:59  @ProbablePattern  RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+342974763561533440  Jun  7 08:02  @sharon000        Soda vs. pop, you vs. y'all: Mapping dialect differences in the US http://bit.ly/14ldkBm #gis #rstats
+342975701273690113  Jun  7 08:05  @vrodes           RT @gvegayon: "Stepping up to Big Data with R and Python: A Mind Map of All the Packages You Will Ever Need" http://feedly.com/k/15tJppV #rstats #bigdata
+342975921369776128  Jun  7 08:06  @AliRebaie        Beginner's guide to R: Your path to start using R for basic data work http://www.computerworld.com/s/article/9239625/Beginner_s_guide_to_R_Introduction #Rstats #BigData #Dataviz
+342976267223711745  Jun  7 08:08  @mrfumblethumbs   RT @sharon000: Beginner's Guide to R for basic data work:  http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz & more #rstats
+342976501295218689  Jun  7 08:09  @katatrepsis      The Applications section of @MethodsEcolEvol is really brilliant, particularly for new #rstats packages: http://www.methodsinecologyandevolution.org/view/0/applicationpapers.html
+342981437273812992  Jun  7 08:28  @romain_francois  RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+342983305668476929  Jun  7 08:36  @mspan            RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+342985174478356480  Jun  7 08:43  @rmflight         RT @drago_carlo: 10 Reasons Python Rocks for Research (And a Few Reasons it Doesn’t) http://www.stat.washington.edu/~hoytak/blog/whypython.html #Python #Rstats #Matlab #Mathematica #Research
+342986106603700224  Jun  7 08:47  @davetang31       RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
