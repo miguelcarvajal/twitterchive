@@ -8159,3 +8159,11 @@
 342803377169768449  Jun  6 20:41  @ramnath_vaidya   This is brilliant!! https://gist.github.com/hadley/5721744 #rstats @hadleywickham
 342804032882085889  Jun  6 20:43  @PageViral        RT @mjcavaretta: Similar #analytics in #Rstats? MT«@Ellen_Friedman Lots of interest in BuzzWords #bbuzz talks by @ted_dunning http://t.co/lULICAxoCP»
 342805019176890368  Jun  6 20:47  @mjcavaretta      @HKotadia @kdnuggets #BigData w. R & #Python: #visualization of All the Packages You Will Ever Need. http://bit.ly/19qmQFI #rstats 
+342826308495085569  Jun  6 22:12  @acfrazee         what's your favorite free online intro to R? perhaps geared toward programmers? #rstats
+342848765830512642  Jun  6 23:41  @rpgove           RT @sharon000: Beginner's Guide to R for basic data work:  http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz & more #rstats
+342855097107230721  Jun  7 00:06  @christoper_hamm  @noamross After another hour of debugging, I realized that I could just install the old version of #geiger and now everything works. #rstats
+342860593159626753  Jun  7 00:28  @aindap           Can someone help me in adding geom_text to ggfluctuation chart when in a R function? http://stackoverflow.com/q/16976200/1735942?stw=2 #ggplot2 #Rstats #dataviz
+342861824775036929  Jun  7 00:33  @amestadmx        RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+342861856379109377  Jun  7 00:33  @amestadmx        RT @RLangTip: Get an overview of documentation for an installed package: help(package="<package-name>") #rstats
+342884293862895617  Jun  7 02:02  @JodyEdmondson    Bill Gates: Four Areas of Technology I'd look into  http://bit.ly/18SJwND #bigdata #rstats #ml
+342884984731877376  Jun  7 02:05  @jmgomez          RT @joscani: OpenIntro Labs promote the understanding of stats through applied data analysis with R http://www.openintro.org/stat/labs.php #rstats
