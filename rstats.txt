@@ -8124,3 +8124,38 @@
 342716341813379073  Jun  6 14:55  @drchriscole      It was fun to see #Rstats on #landward
 342716599440125953  Jun  6 14:56  @EcologyVictoria  RT @kfmcgregor: I wrote a new blog post on imputation of missing data: http://kfmcgregor.blogspot.com/2013/06/imputation-difficult-few-days.html #rstats
 342717380163670016  Jun  6 14:59  @MDubins          Thank you @hadleywickham for making dplyr!  It's much faster for me to use summarise than ddply for the same purpose on a >200k df! #rstats
+342718171649818625  Jun  6 15:02  @DashingD3js      RT @sharon000: Beginner's Guide to R for basic data work:  http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz & more #rstats
+342719334994563073  Jun  6 15:07  @quantlabs        Which programming language for #quant finance #c++ #rstats matlab #python #dotnet with potential #HFT? http://ow.ly/lMjYA
+342720537031749632  Jun  6 15:11  @KMA47            RT @RLangTip: Get an overview of documentation for an installed package: help(package="<package-name>") #rstats
+342722798936010752  Jun  6 15:20  @AndrewRAConway   RT @statisticsblog: Learn to manage data in #R with this 4-hour webinar on June 21st. http://i.cx/11jD63R #RStats #Statistics
+342723334984839168  Jun  6 15:23  @webbedfeet       Timely Portfolio: d3 Lifeline from vega and clickme http://buff.ly/11koMYM Gluing together #d3js, #rstats and #datavis #datadc
+342723338084446209  Jun  6 15:23  @DataCommunityDC  Timely Portfolio: d3 Lifeline from vega and clickme http://buff.ly/11koMYM Gluing together #d3js, #rstats and #datavis #datadc via @ ebbedf
+342726051744608256  Jun  6 15:33  @Rbloggers        Box-plot with R – Tutorial:  (This article was first published on  R Video tutorial for Spatial Statis... http://bit.ly/187GKad #rstats
+342726053007077376  Jun  6 15:33  @Rbloggers        Intro to Parallel Random Number Generation with RevoScaleR:  (This article was first published on  Rev... http://bit.ly/14BRdmW #rstats
+342726368557166592  Jun  6 15:35  @aindap           Awesome. I discovered fluctuation plots in #ggplot2 today! http://docs.ggplot2.org/current/ggfluctuation.html #Rstats
+342729533197254656  Jun  6 15:47  @lucasdicioccio   RT @JoFrhwld: @lucasdicioccio perhaps http://i.imgur.com/eokBs3M.gif #rstats
+342731092937281536  Jun  6 15:53  @stetzer          Any day when I can work with #Hadoop #SparkProject and #rstats is a good day.
+342734346026893313  Jun  6 16:06  @kristw           RT @sharon000: Beginner's Guide to R for basic data work:  http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz & more #rstats
+342735036547731456  Jun  6 16:09  @christoper_hamm  @davidjayharris giving a talk on model selection! #rstats. I hope is is ALL P VALUES!
+342737444208275456  Jun  6 16:19  @statisticsblog   Attack of the bees! The hair-trigger bees that is. http://bit.ly/10ErApc #R #RStats #Statistics
+342738399783968768  Jun  6 16:22  @TATA_BOX         Fixing My Internet With R and Python | (R news & tutorials) http://www.r-bloggers.com/fixing-my-internet-with-r-and-python/ #rstats
+342738456629358594  Jun  6 16:23  @media_science    I just posted to Stack Overflow: How can you make shaded regions in ggplot2 programmatically across facets? http://stackoverflow.com/questions/16971041/how-to-create-shaded-regions-following-a-rule-across-multiple-facets #rstats
+342738480322985984  Jun  6 16:23  @stat110          RT @statisticsblog: Attack of the bees! The hair-trigger bees that is. http://bit.ly/10ErApc #R #RStats #Statistics
+342739855291326466  Jun  6 16:28  @nzerik           RT @sharon000: Beginner's Guide to R for basic data work:  http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz & more #rstats
+342743487852195840  Jun  6 16:43  @jay_ulfelder     Annoyed w/@FreedomHouseDC's practice of posting FiW in Excel, I wrote R code to convert it to TSCS format: https://gist.github.com/ulfelder/5724731 #rstats
+342744197985603584  Jun  6 16:45  @siah             This is awesome "r - Fitting a curve to specific data"  http://ow.ly/lLkMr #rstats
+342750975385272321  Jun  6 17:12  @davidjayharris   RT @christoper_hamm: @davidjayharris giving a talk on model selection! #rstats. I hope is is ALL P VALUES!
+342753692774187009  Jun  6 17:23  @rami_pastrami    RT @statisticsblog: Attack of the bees! The hair-trigger bees that is. http://bit.ly/10ErApc #R #RStats #Statistics
+342754586970431488  Jun  6 17:27  @BadHessian       RT @siah: This is awesome "r - Fitting a curve to specific data"  http://ow.ly/lLkMr #rstats
+342763854788456448  Jun  6 18:04  @Gliders_Coach    using gedit instead of vi can make life so much better for an X newbie  #rstats
+342772432500817920  Jun  6 18:38  @ncgds            RT @siah: This is awesome "r - Fitting a curve to specific data"  http://ow.ly/lLkMr #rstats
+342774689476771841  Jun  6 18:47  @gjbarton         "@drchriscole: It was fun to see #Rstats on #landward" #ggplot2 makes prime time (???) tv!
+342779659290808321  Jun  6 19:06  @lewandog         RT @rvimieiro: Among #datascience tools, the highest increase from 2012 to 2013 was for #Rstats #RapidMiner & #Tableau http://t.co/T6B1pAKh9i
+342782303287795712  Jun  6 19:17  @ceng_l           RT @_inundata: The #xckd R package is finally out. http://bit.ly/16D36it Couldn't  resist. #rstats http://t.co/fVznKoNKhj
+342783920540106752  Jun  6 19:23  @ProbablePattern  Check it @jaredlander Just ran the first example of RStan from RStudio on a Linux 1.73 GHz laptop with 1.5 GB RAM. #rstats
+342788955760111617  Jun  6 19:43  @DataTypes        I feel really bad for all of the R users who don't have retina displays #rstats
+342790837249376256  Jun  6 19:51  @Rbloggers        Feature Selection 3 – Swarm Mentality:  (This article was first published on  Blog - Applied Predictiv... http://bit.ly/15PJ15T #rstats
+342801372795772928  Jun  6 20:33  @mjcavaretta      Similar #analytics in #Rstats? MT«@Ellen_Friedman Lots of interest in BuzzWords #bbuzz talks by @ted_dunning http://bit.ly/13xwQIX»
+342803377169768449  Jun  6 20:41  @ramnath_vaidya   This is brilliant!! https://gist.github.com/hadley/5721744 #rstats @hadleywickham
+342804032882085889  Jun  6 20:43  @PageViral        RT @mjcavaretta: Similar #analytics in #Rstats? MT«@Ellen_Friedman Lots of interest in BuzzWords #bbuzz talks by @ted_dunning http://t.co/lULICAxoCP»
+342805019176890368  Jun  6 20:47  @mjcavaretta      @HKotadia @kdnuggets #BigData w. R & #Python: #visualization of All the Packages You Will Ever Need. http://bit.ly/19qmQFI #rstats 
