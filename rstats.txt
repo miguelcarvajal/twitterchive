@@ -8303,3 +8303,17 @@
 343255130210189312  Jun  8 02:36  @johannux         RT @siah: The Guerilla Guide to R http://ow.ly/kYEDR #rstats
 343255283642015744  Jun  8 02:36  @johannux         RT @hadleywickham: in case anyone needs to work with Amazon's S3 in #rstats: https://gist.github.com/hadley/5532482
 343256314891354112  Jun  8 02:40  @johannux         RT @kdnuggets: Number of R packages grows exponentially - but how many are actually used? #rstats http://bit.ly/11K90s8
+343261557511307264  Jun  8 03:01  @JamesMeadow      RT @kdnuggets: Number of R packages grows exponentially - but how many are actually used? #rstats http://bit.ly/11K90s8
+343270071294128129  Jun  8 03:35  @siah             @ChuckKillerDoll to be perfectly honest I never touch thing like doParallel in #rstats it is simply impossible to debug for complex code
+343270603438055424  Jun  8 03:37  @CelHern          #Rstats "Hey, I Just did a Significance Test!" http://feedly.com/k/19QO9co
+343272517982617601  Jun  8 03:45  @StueyHorsman     I can't work out whether ggplot is a work of genius or just annoying #rstats
+343273226689986560  Jun  8 03:48  @CelHern          SCBM article "Git can facilitate greater reproducibility and increased transparency in science" http://feedly.com/k/12xwSox #Rstats #bioinfo
+343273273481646080  Jun  8 03:48  @Rbloggers        R and MongoDB:  (This article was first published on  Yet Another Blog in Statistical Computing » S+/R... http://bit.ly/14HZqGo #rstats
+343278372610244608  Jun  8 04:08  @phnk             @coulmont @laspic Comme promis, réseau de députés sur Twitter avec ggplot2 : https://github.com/briatte/ggnet/blob/master/README.md #rstats cc @joelgombin @RegardsCitoyens
+343288987298979841  Jun  8 04:50  @drago_carlo      Chrome Browser History in R http://prsm.tc/n9bREG via @prismatic #DataMining #Python #Rstats
+343296544906297344  Jun  8 05:20  @zentree          Composite maps of the online survey of English dialects http://spark.rstudio.com/jkatz/SurveyMaps/ HT: @revodavid #Rstats #Shiny
+343320371765854208  Jun  8 06:55  @jmgomez          Running R Scripts Directly From Dropbox  http://ow.ly/1XaH7C nice #Rstats trick
+343321525170102272  Jun  8 07:00  @masemresearch    R and MongoDB | Yet Another Blog in Statistical Computing #rstats | @scoopit http://sco.lt/6PxD9d
+343347252196155393  Jun  8 08:42  @mscharkow        RT @drago_carlo: Chrome Browser History in R http://prsm.tc/n9bREG via @prismatic #DataMining #Python #Rstats
+343349661077209088  Jun  8 08:51  @gawbul           RT @genetics_blog: FasteR! HigheR! StrongeR! A Guide to Speeding Up #Rstats Code for Busy People http://www.noamross.net/blog/2013/4/25/faster-talk.html
+343350382132604929  Jun  8 08:54  @gawbul           RT @neilfws: This is very cool. Pathview: visualize quantitative data on KEGG pathways - http://bit.ly/16KYA2o #rstats
