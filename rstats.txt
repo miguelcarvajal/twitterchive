@@ -8335,3 +8335,12 @@
 343452722516860928  Jun  8 15:41  @raphg            RT @ramnath_vaidya: Join me in NYC on June 17th if you want to learn about Interactive Documents in R http://meetu.ps/1B3plb #rstats #dataviz
 343453871655497728  Jun  8 15:45  @asedgwick        Interesting application of open data - an interactive map of bikes available in NYC's Citibike Stations:  http://ow.ly/lQ846 #rstats
 343490574592118784  Jun  8 18:11  @jaredlander      RT @ramnath_vaidya: Join me in NYC on June 17th if you want to learn about Interactive Documents in R http://meetu.ps/1B3plb #rstats #dataviz
+343536115380260864  Jun  8 21:12  @ResearchProcess  RTextTools: A Supervised Learning Package for Text Classiﬁcation   #rstats   http://rjournal.github.io/archive/accepted/Collingwood-Jurka-Boydstun-etal.pdf
+343541905231060992  Jun  8 21:35  @hadleywickham    RT @ramnath_vaidya: Join me in NYC on June 17th if you want to learn about Interactive Documents in R http://meetu.ps/1B3plb #rstats #dataviz
+343544129227194368  Jun  8 21:44  @rvimieiro        Practical Graph Mining with #Rstats http://www.crcpress.com/product/isbn/9781439860847 #datamining #datascience
+343545363522781184  Jun  8 21:49  @dichika          RT @ramnath_vaidya: Join me in NYC on June 17th if you want to learn about Interactive Documents in R http://meetu.ps/1B3plb #rstats #dataviz
+343552568447864832  Jun  8 22:18  @Sakkaden         @zentree The directlabels package in #rstats makes it easy to implement slope graphs, incl in #ggplot
+343570559549992961  Jun  8 23:29  @siah             Been trying to install Rcpp on Windows 8. It is almost impossible. Let me know if you've done it successfully without going insane  #rstats
+343572321979748353  Jun  8 23:36  @KevinLDavenport  Any updates? No one responds to my emails. Last years conference had all the details 4 months out from the conference. #Rstats @useR_2013
+343608447226482689  Jun  9 02:00  @scaccialupo      Permill symbol in #rstats on pdf device on Mac? Use pdf.options(encoding='MacRoman'). Delta13C in plotmath, then, is delta^13*C~~('‰')
+343620555624292352  Jun  9 02:48  @Rbloggers        Quick and Simple D3 Network Graphs from R:  (This article was first published on  Christopher Gandrud ... http://bit.ly/18i34OH #rstats
