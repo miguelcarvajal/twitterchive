@@ -8344,3 +8344,14 @@
 343572321979748353  Jun  8 23:36  @KevinLDavenport  Any updates? No one responds to my emails. Last years conference had all the details 4 months out from the conference. #Rstats @useR_2013
 343608447226482689  Jun  9 02:00  @scaccialupo      Permill symbol in #rstats on pdf device on Mac? Use pdf.options(encoding='MacRoman'). Delta13C in plotmath, then, is delta^13*C~~('‰')
 343620555624292352  Jun  9 02:48  @Rbloggers        Quick and Simple D3 Network Graphs from R:  (This article was first published on  Christopher Gandrud ... http://bit.ly/18i34OH #rstats
+343627696577851393  Jun  9 03:16  @chlalanne        Practical Graph Mining with #rstats http://prsm.tc/GS2Vck via @prismatic
+343630045920772096  Jun  9 03:26  @recology_        RT @ramnath_vaidya: Join me in NYC on June 17th if you want to learn about Interactive Documents in R http://meetu.ps/1B3plb #rstats #dataviz
+343631586291507201  Jun  9 03:32  @drago_carlo      Graph Mining with R http://www.crcpress.com/product/isbn/9781439860847 @Prismatic @chlalanne #GraphMining #DataMining #Rstats
+343642510259785728  Jun  9 04:15  @jc_gonzalez      RT @jmgomez: Beginner's Guide to #rstats for basic data work http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz
+343643660728025088  Jun  9 04:20  @davidgtzl        RT @jc_gonzalez: RT @jmgomez: Beginner's Guide to #rstats for basic data work http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz
+343655770069553153  Jun  9 05:08  @Rbloggers        Estimating Finite Mixture Models with Flexmix Package:  (This article was first published on  Yet Anot... http://bit.ly/18imFy1 #rstats
+343666405062893569  Jun  9 05:50  @jmgomez          RT @rmflight 10 Reasons #Python Rocks for Research - & a Few Reasons it Doesn’t http://www.stat.washington.edu/~hoytak/blog/whypython.html #Rstats #Mathematica #Research
+343676680306573312  Jun  9 06:31  @a_ortigosa       RT @jmgomez: RT @rmflight 10 Reasons #Python Rocks for Research - & a Few Reasons it Doesn’t http://www.stat.washington.edu/~hoytak/blog/whypython.html #Rstats #Mathematica #Research
+343704164473389056  Jun  9 08:20  @StueyHorsman     Fit decision boundary to logistic regression model in R http://stackoverflow.com/q/17006741/2462914?stw=2 ggplot TAMED!  #rstats
+343712871596822530  Jun  9 08:55  @algonpaje        Madre mía como 400 ciudades pueden dar tanta guerra!!! Lo bueno es haberlo podido hacer todo con #rstats!
+343713902959403008  Jun  9 08:59  @algonpaje        Tantos años usando vlookup hasta que un día te pones y piensas: hasta que no salga con #rstats no paro!
