@@ -8418,3 +8418,51 @@
 344069332109762561  Jun 10 08:31  @vitojph          RT @jmgomez: #Mahout for R Users http://ow.ly/lRP4f #Rstats #Hadoop #RecSys
 344069349084119041  Jun 10 08:31  @mavircm          RT @jmgomez: #Mahout for R Users http://ow.ly/lRP4f #Rstats #Hadoop #RecSys
 344074170965045248  Jun 10 08:50  @ranieuwe         RT @cloudHPC: Great #rstats meetup in #munich with more than 20 people. Thanks @pentalibra @dakoller @RevolutionR for talks and sponsoring
+344088139041751040  Jun 10 09:46  @timelyportfolio  good easy way Quick and Simple #d3js Network Graphs with #rstats http://bit.ly/18nkAkv
+344092931575119872  Jun 10 10:05  @alexhanna        Doing terrible, awful things with #rstats that probably could be solved with a few lines of zoo. Oh well.
+344096684260872193  Jun 10 10:20  @recology_        Added a few things myself... #rstats RT @benjaminlmoore: Why and when create a R package? http://stats.stackexchange.com/q/58966/26698?stw=2
+344101180181458944  Jun 10 10:38  @timelyportfolio  RT @cloudHPC: Thx for talk a #munich #rstats meeting "@dakoller: My latest upload : A intro to (hosted) Shiny Apps on @slideshare http://t.co/ZUMNbeAPNT"
+344101406980055040  Jun 10 10:39  @timelyportfolio  RT @frenchrh: RT @gappy3000 "A Shiny App Goes Viral" #rstats http://www.r-bloggers.com/a-shiny-app-goes-viral/
+344102365227520001  Jun 10 10:42  @timelyportfolio  RT @ramnath_vaidya: This is brilliant!! https://gist.github.com/hadley/5721744 #rstats @hadleywickham
+344105344303235073  Jun 10 10:54  @sharon000        Civic Hack Day code uses R to analyze neighborhood problem reports http://www.datascientist.co/2013/06/09/better-neighborhoods-with-r-exploring-and-analyzing-seeclickfix-data-part-1/ by @mspan #dataviz #ddj #rstats
+344115459282587648  Jun 10 11:34  @chrishanretty    That awkward moment when your sourced  #rstats script performs a merge and the machine judders to ^C^C^Z
+344115624739483648  Jun 10 11:35  @siah             Interesting ggplot2 tricks  "Plotting distributions (ggplot2)" http://ow.ly/lRGRH #rstats
+344119555406303236  Jun 10 11:51  @bayestheoremqed  RT @chlalanne: Feature Selection 3 – Swarm Mentality http://feedly.com/k/11IqHWW #rstats #machinelearning
+344119962786476032  Jun 10 11:52  @aDataHead        RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+344122131136786432  Jun 10 12:01  @ciamk            Interesting ggplot2 tricks  "Plotting distributions (ggplot2)" http://ow.ly/lRGQi #rstats
+344123503395606529  Jun 10 12:06  @love_life_logic  RT @siah: Interesting ggplot2 tricks  "Plotting distributions (ggplot2)" http://ow.ly/lRGRH #rstats
+344123553819553794  Jun 10 12:07  @RLangTip         How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+344123735575498753  Jun 10 12:07  @treycausey       RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+344124831652003840  Jun 10 12:12  @__Romain__       RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+344124961188876288  Jun 10 12:12  @serapatyx        RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+344125308330459137  Jun 10 12:14  @chemstateric     RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+344125374663368706  Jun 10 12:14  @viirya           RT @siah: Interesting ggplot2 tricks  "Plotting distributions (ggplot2)" http://ow.ly/lRGRH #rstats
+344125451586904064  Jun 10 12:14  @inside_R         #rstats more R User group meetings this week: Orange County, Minneapolis, Wiesbaden, New Delhi, DC http://bit.ly/9hVAPE
+344125452346073088  Jun 10 12:14  @inside_R         #rstats R user group meetings this week: San Diego, San Francisco, Princeton, Pittsburgh, Knoxville http://bit.ly/9hVAPE
+344125946229567488  Jun 10 12:16  @TheDougW         RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+344126962471669760  Jun 10 12:20  @JamesMeadow      RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+344130645934612481  Jun 10 12:35  @cloudHPC         Small #rstats #hackathon announced for end of July in #munich http://meetu.ps/1DkS3M
+344130755439509507  Jun 10 12:35  @TATA_BOX         Quick and Simple D3 Network Graphs from R | (R news & tutorials) http://www.r-bloggers.com/quick-and-simple-d3-network-graphs-from-r/ #rstats
+344133933539135488  Jun 10 12:48  @hadleywickham    the rstudio cran mirror: http://blog.rstudio.org/2013/06/10/rstudio-cran-mirror/. get (anonymised) package download data from http://cran-logs.rstudio.com #rstats
+344134811797053440  Jun 10 12:51  @Gliders_Coach    @drewconway  yes. But I wonder if they use custom #rstats packages at all, to analyze such a huge stream of data
+344136286455607296  Jun 10 12:57  @theoneamit       RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+344141592703160321  Jun 10 13:18  @alexhanna        #rstats is free... MT @justinwolfers: Good news: Yay! @Stata 13 is out. Bad news: Boo! They want even more money from me.
+344141789416013824  Jun 10 13:19  @p_barbera        RT @alexhanna: #rstats is free... MT @justinwolfers: Good news: Yay! @Stata 13 is out. Bad news: Boo! They want even more money from me.
+344143477887598592  Jun 10 13:26  @xenocryptsite    RT @alexhanna: #rstats is free... MT @justinwolfers: Good news: Yay! @Stata 13 is out. Bad news: Boo! They want even more money from me.
+344143649958928384  Jun 10 13:26  @treycausey       @kesearles #rstats
+344143876845613056  Jun 10 13:27  @Rbloggers        Ripley Facts:  (This article was first published on  Memo's Island, and kindly contributed to R-blogge... http://bit.ly/19hBEIm #rstats
+344144111298818048  Jun 10 13:28  @kesearles        @treycausey I admire you #rstats people, but it seems like a lot of effort to become one of you. #overlyhoneststatisticalprogramuse
+344144728637440000  Jun 10 13:31  @revodavid        RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+344144932346408960  Jun 10 13:32  @statisticsblog   London's Income Distrubution. http://i.cx/13qDtw3 #R #RStats
+344145144875991040  Jun 10 13:32  @adolfoalvarez    RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+344145455371919360  Jun 10 13:34  @lawwg58          @miguelrios any chance you can share the 20 lines of code you used from #rstats to make the cool maps?
+344145702714220545  Jun 10 13:35  @jodyaberdein     RT @statisticsblog: London's Income Distrubution. http://i.cx/13qDtw3 #R #RStats
+344146845381042178  Jun 10 13:39  @tofias           RT @alexhanna: #rstats is free... MT @justinwolfers: Good news: Yay! @Stata 13 is out. Bad news: Boo! They want even more money from me.
+344154943801925633  Jun 10 14:11  @sharon000        @kesearles @treycausey May I suggest the Computerworld Beginner's Guide to R? :-) http://cwrld.us/RGuideIntro #rstats
+344155342797680641  Jun 10 14:13  @KevinLDavenport  RT @inside_R: #rstats R user group meetings this week: San Diego, San Francisco, Princeton, Pittsburgh, Knoxville http://bit.ly/9hVAPE
+344158052984946688  Jun 10 14:24  @hi_em            My summer 2013 to-do list featuring #marinescience #rstats #GIS #ecology #OA #offshorewind http://www.eshumchenia.com/summer-2013-to-do-list.html
+344158130650894336  Jun 10 14:24  @TATA_BOX         Crayfish or crawdad? Mapping US dialect variations with R | (R news & tutorials) http://www.r-bloggers.com/crayfish-or-crawdad-mapping-us-dialect-variations-with-r/ #rstats
+344159788697001985  Jun 10 14:31  @quantlabs        Tonite’s #FREE quant social #Meetup event (also for #Rstats and #Matlab) lovers has been reserved  http://ow.ly/lSYi9
+344159823350362112  Jun 10 14:31  @JonathanPSadler  RT @statisticsblog: London's Income Distrubution. http://i.cx/13qDtw3 #R #RStats Interesting plot.
+344164013036417024  Jun 10 14:47  @benberkowitz     RT @mspan: A new blog post: Better Neighborhoods with R: Exploring and Analyzing SeeClickFix Data (part 1) http://www.datascientist.co/2013/06/09/better-neighborhoods-with-r-exploring-and-analyzing-seeclickfix-data-part-1/ #rstats #seeclickfix
+344165019258327041  Jun 10 14:51  @kozo2            RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
