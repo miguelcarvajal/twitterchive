@@ -8307,6 +8307,7 @@
 343270071294128129  Jun  8 03:35  @siah             @ChuckKillerDoll to be perfectly honest I never touch thing like doParallel in #rstats it is simply impossible to debug for complex code
 343270603438055424  Jun  8 03:37  @CelHern          #Rstats "Hey, I Just did a Significance Test!" http://feedly.com/k/19QO9co
 343272517982617601  Jun  8 03:45  @StueyHorsman     I can't work out whether ggplot is a work of genius or just annoying #rstats
+343272517982617601  Jun  8 03:45  @stuhorsman       I can't work out whether ggplot is a work of genius or just annoying #rstats
 343273226689986560  Jun  8 03:48  @CelHern          SCBM article "Git can facilitate greater reproducibility and increased transparency in science" http://feedly.com/k/12xwSox #Rstats #bioinfo
 343273273481646080  Jun  8 03:48  @Rbloggers        R and MongoDB:  (This article was first published on  Yet Another Blog in Statistical Computing » S+/R... http://bit.ly/14HZqGo #rstats
 343278372610244608  Jun  8 04:08  @phnk             @coulmont @laspic Comme promis, réseau de députés sur Twitter avec ggplot2 : https://github.com/briatte/ggnet/blob/master/README.md #rstats cc @joelgombin @RegardsCitoyens
@@ -8353,6 +8354,7 @@
 343666405062893569  Jun  9 05:50  @jmgomez          RT @rmflight 10 Reasons #Python Rocks for Research - & a Few Reasons it Doesn’t http://www.stat.washington.edu/~hoytak/blog/whypython.html #Rstats #Mathematica #Research
 343676680306573312  Jun  9 06:31  @a_ortigosa       RT @jmgomez: RT @rmflight 10 Reasons #Python Rocks for Research - & a Few Reasons it Doesn’t http://www.stat.washington.edu/~hoytak/blog/whypython.html #Rstats #Mathematica #Research
 343704164473389056  Jun  9 08:20  @StueyHorsman     Fit decision boundary to logistic regression model in R http://stackoverflow.com/q/17006741/2462914?stw=2 ggplot TAMED!  #rstats
+343704164473389056  Jun  9 08:20  @stuhorsman       Fit decision boundary to logistic regression model in R http://stackoverflow.com/q/17006741/2462914?stw=2 ggplot TAMED!  #rstats
 343712871596822530  Jun  9 08:55  @algonpaje        Madre mía como 400 ciudades pueden dar tanta guerra!!! Lo bueno es haberlo podido hacer todo con #rstats!
 343713902959403008  Jun  9 08:59  @algonpaje        Tantos años usando vlookup hasta que un día te pones y piensas: hasta que no salga con #rstats no paro!
 343714479135129600  Jun  9 09:01  @PPUAMX           RT @RLangTip: Use the RMySQL package to read data from MySQL into R using SQL queries: http://bit.ly/zBaVM4 #rstats
@@ -8370,3 +8372,23 @@
 343788538732609536  Jun  9 13:55  @jmgomez          RT @Rbloggers: R and #MongoDB http://bit.ly/14HZqGo #rstats
 343789136215408641  Jun  9 13:58  @geospacedman     @laurencstill I'd like to see student choice between SAS and #rstats if they had to pay for the software themselves... #nobrainer
 343800809177362432  Jun  9 14:44  @joscani          RT @ramnath_vaidya: Join me in NYC on June 17th if you want to learn about Interactive Documents in R http://meetu.ps/1B3plb #rstats #dataviz
+343805583046098944  Jun  9 15:03  @ucfagls          RT @geospacedman: @laurencstill I'd like to see student choice between SAS and #rstats if they had to pay for the software themselves... #nobrainer
+343815303593082880  Jun  9 15:42  @hylopsar         I think I found out the segfault errors I've been getting in #RStats happen when I'm copying and (sometimes) pasting txt in script (OSXGui)
+343815918360596480  Jun  9 15:44  @JeremyJBerg      @hylopsar have had the OSXGui in #Rstats give weird errors when copying and pasting the script as well, and I don't understand why at all.
+343823741840658433  Jun  9 16:15  @gappy3000        "A Shiny App Goes Viral" #rstats http://www.r-bloggers.com/a-shiny-app-goes-viral/
+343824600297250817  Jun  9 16:19  @B_Stats          RT @RLangTip: Tutorial: Analysis of Variance (ANOVA) for comparing the means http://bit.ly/LCS4L1 #rstats
+343824752269475840  Jun  9 16:19  @B_Stats          RT @RLangTip: A collection of tips for R beginners: http://bit.ly/LiAcJX #rstats
+343825347005005824  Jun  9 16:22  @gsantosgo        RT @jmgomez: RT @Rbloggers: R and #MongoDB http://bit.ly/14HZqGo #rstats
+343832826099154944  Jun  9 16:51  @frenchrh         RT @anshul More on the ProjectTemplate package in R http://projecttemplate.net/index.html #rstats
+343834371280744448  Jun  9 16:57  @frenchrh         RT @laurencstill Student choices between SAS and R in Individual Coursework  http://drvinceknight.blogspot.com/2013/06/student-choices-between-sas-and-r-in.html?m=1 #rstats
+343835080701132800  Jun  9 17:00  @frenchrh         RT @gappy3000 "A Shiny App Goes Viral" #rstats http://www.r-bloggers.com/a-shiny-app-goes-viral/
+343837376612802560  Jun  9 17:09  @slendrmeans      At the center of, say, 85% of my #rstats programs lies a call to tapply().
+343846935037366272  Jun  9 17:47  @BB_foundation    The BITBANK FOUNDATION just realized that in this day and age many langs come with package managers, but only #rstats has one built-in.
+343849389971877888  Jun  9 17:57  @KevinLDavenport  Excited for the @SD_RUsersGroup meeting on Tuesday! I better go over my slides. Thanks to @RevolutionR for the support. #rstats
+343861030071443456  Jun  9 18:43  @hadleywickham    RT @BB_foundation: The BITBANK FOUNDATION just realized that in this day and age many langs come with package managers, but only #rstats has one built-in.
+343883776960630786  Jun  9 20:14  @Gliders_Coach    @jilldyche @jameskobielus @kdnuggets @tamaradull what software does the NSA use for text mining? #SAS or #rstats
+343883856908259328  Jun  9 20:14  @InnaKolyshkina   We used #rstats to win three prizes in #Govhack 2013! To see our app, go http://lnkd.in/CN_8Dw #bigdata #datascience
+343887181376548865  Jun  9 20:27  @InnaKolyshkina   @revodavid Hi David! We used #rstats to win 3 Aus-wide prizes in #Govhack 2013 http://lnkd.in/CN_8Dw ! Inna.
+343890511343534080  Jun  9 20:41  @ramnath_vaidya   RT @BB_foundation: The BITBANK FOUNDATION just realized that in this day and age many langs come with package managers, but only #rstats has one built-in.
+343892256194977793  Jun  9 20:47  @randyzwitch      Is there any other source of the airline dataset other than http://stat-computing.org (site now disabled)? #rstats
+343892650321137664  Jun  9 20:49  @mjcavaretta      Like the #rstats as a service. MT @BernardSlede: #BigData #startup @Algorithms_IO "Most Likely to Succeed" #LaunchSV http://bit.ly/11tqsQM
