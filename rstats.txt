@@ -8505,3 +8505,40 @@
 344427738502930433  Jun 11 08:15  @thorei           Orange Report 2012 - created in #rstats with #RMarkdown, #knitr, #ggplot2, #pandoc, etc. http://goo.gl/Q3TVU http://t.co/Abo1pmuRMt
 344435306566656000  Jun 11 08:45  @gvegayon         "You Do Not Need to Tell Me I Have A Typo in My Documentation" http://feedly.com/k/1926pOP Good practice for package developers #rstats
 344438806432325634  Jun 11 08:59  @hadleywickham    RT @thorei: Orange Report 2012 - created in #rstats with #RMarkdown, #knitr, #ggplot2, #pandoc, etc. http://goo.gl/Q3TVU http://t.co/Abo1pmuRMt
+344439813925130240  Jun 11 09:03  @erikriverson     Just a couple spots left to come see ggplot2 developer Hadley Wickham talk Thursday at Macalester at 6pm! #rstats http://www.meetup.com/twincitiesrug/events/121858842/
+344439934230335489  Jun 11 09:04  @hadleywickham    RT @erikriverson: Just a couple spots left to come see ggplot2 developer Hadley Wickham talk Thursday at Macalester at 6pm! #rstats http://t.co/1ltWQQR4bw
+344441094995582976  Jun 11 09:08  @tcrug            RT @erikriverson: Just a couple spots left to come see ggplot2 developer Hadley Wickham talk Thursday at Macalester at 6pm! #rstats http://t.co/1ltWQQR4bw
+344441600979656705  Jun 11 09:10  @jjmullz          Useful presentation on applications of the #rstats forecast package, by the author.  http://www.youtube.com/watch?v=1Lh1HlBUf8k
+344446667229110275  Jun 11 09:30  @er1kb            RT @thorei: Orange Report 2012 - created in #rstats with #RMarkdown, #knitr, #ggplot2, #pandoc, etc. http://goo.gl/Q3TVU http://t.co/Abo1pmuRMt
+344447385310748672  Jun 11 09:33  @randyzwitch      @AnalyticsNinja Amazon EC2 to build #rstats images, S3 to store flat files…and the company is built on DynamoDB (NoSQL) and Redshift (SQL)
+344454405367676930  Jun 11 10:01  @adbarbaresi      RT @siah: This is awesome "r - Fitting a curve to specific data"  http://ow.ly/lLkMr #rstats
+344454864530706432  Jun 11 10:03  @Minkoo           RT @eddelbuettel: My Rcpp book is now out and shipping. http://goo.gl/V3f1S #rstats #rcpp
+344455238457102338  Jun 11 10:05  @BobMuenchen      Alternate view of #Analytics job market: http://www.datasciencecentral.com/profiles/blogs/sas-dominates-analytics-job-market?commentId=6448529%3AComment%3A76436&xg_source=msg_com_blogpost #rstats @SASsoftware #IBMSPSS #BigData
+344456441249284098  Jun 11 10:09  @Minkoo           RT @siah: This is awesome "r - Fitting a curve to specific data"  http://ow.ly/lLkMr #rstats
+344464329732669443  Jun 11 10:41  @yaacovp          4lvl mixed growth with random slopes at lvl3. much better than chapter writing. now to figure out best type of graphs for this! #rstats
+344470344880508928  Jun 11 11:05  @KirkDBorne       Computational Data Science students must see this > RT @mahantaratan Computational Finance package in R http://cran.r-project.org/web/views/Finance.html #CRAN #Rstats
+344471755320074243  Jun 11 11:10  @idnut            Where is the R Activity? #rstats http://www.r-bloggers.com/where-is-the-r-activity/ via @rbloggers
+344475773735940097  Jun 11 11:26  @rOpenSci         RT @idnut: Where is the R Activity? #rstats http://www.r-bloggers.com/where-is-the-r-activity/ via @rbloggers
+344482156837490689  Jun 11 11:52  @DataJunkie       Heading to Linden Lab tonight for #Rstats meetup on Julia. I need to figure out how to take the BART in the meantime. #adventures
+344485725686878208  Jun 11 12:06  @RLangTip         How to create interactive #rstats charts on the web with RGoogleVis: http://bit.ly/LpG9Vs (PDF)
+344485921703460866  Jun 11 12:06  @webbedfeet       We still have a few seats available #rstats workshop on Saturday. #datadc http://meetu.ps/1y6L6z
+344485924236820480  Jun 11 12:06  @DataCommunityDC  We still have a few seats available #rstats workshop on Saturday. #datadc http://meetu.ps/1y6L6z via @webbedfeet
+344487097375272960  Jun 11 12:11  @ramnath_vaidya   RStudio Logs Visualized with rCharts and Leaflet (draft) http://ramnathv.github.io/rstudio_logs/ #rstats @rstudioapp @hadleywickham http://t.co/BHR3y2Dojp
+344490082281082885  Jun 11 12:23  @Rbloggers        R package development:  (This article was first published on  mages' blog, and kindly contributed to R... http://bit.ly/18t0hlJ #rstats
+344490084378226688  Jun 11 12:23  @winston_chang    RT @ramnath_vaidya: RStudio Logs Visualized with rCharts and Leaflet (draft) http://ramnathv.github.io/rstudio_logs/ #rstats @rstudioapp @hadleywickham http://t.co/BHR3y2Dojp
+344490146651058177  Jun 11 12:23  @winston_chang    RT @erikriverson: Just a couple spots left to come see ggplot2 developer Hadley Wickham talk Thursday at Macalester at 6pm! #rstats http://t.co/1ltWQQR4bw
+344490898341625856  Jun 11 12:26  @rOpenSci         RT @ramnath_vaidya: RStudio Logs Visualized with rCharts and Leaflet (draft) http://ramnathv.github.io/rstudio_logs/ #rstats @rstudioapp @hadleywickham http://t.co/BHR3y2Dojp
+344493454933495808  Jun 11 12:36  @DinosaurusGrace  Want to loop through multiple data frames NOT lines in a single data frame? Use this http://thr3ads.net/r-help/2008/02/907851-Looping-through-a-list-of-objects-do-something #Rstats
+344495653285670912  Jun 11 12:45  @i_314            Passing parameters to R script. http://www.perlmonks.org/?node_id=644967 #rstats
+344499076349431808  Jun 11 12:59  @thorei           RT @ramnath_vaidya: RStudio Logs Visualized with rCharts and Leaflet (draft) http://ramnathv.github.io/rstudio_logs/ #rstats @rstudioapp @hadleywickham http://t.co/BHR3y2Dojp
+344503258901016576  Jun 11 13:15  @cocoahn          Looks reasonable to try. RT @RLangTip: How to create interactive #rstats charts on the web with RGoogleVis: http://bit.ly/LpG9Vs (PDF)
+344504069060165633  Jun 11 13:19  @statslabdublin   RT @ramnath_vaidya: RStudio Logs Visualized with rCharts and Leaflet (draft) http://ramnathv.github.io/rstudio_logs/ #rstats @rstudioapp @hadleywickham http://t.co/BHR3y2Dojp
+344506502389829633  Jun 11 13:28  @Minkoo           RT @ramnath_vaidya: RStudio Logs Visualized with rCharts and Leaflet (draft) http://ramnathv.github.io/rstudio_logs/ #rstats @rstudioapp @hadleywickham http://t.co/BHR3y2Dojp
+344509591742201856  Jun 11 13:41  @hadleywickham    RT @ramnath_vaidya: RStudio Logs Visualized with rCharts and Leaflet (draft) http://ramnathv.github.io/rstudio_logs/ #rstats @rstudioapp @hadleywickham http://t.co/BHR3y2Dojp
+344511740672868352  Jun 11 13:49  @i_314            Easy web applications in R. Shiny - Great Project! http://www.rstudio.com/shiny/ #rstats #rstudio
+344512123201802241  Jun 11 13:51  @JnyCab           "huh, that eqn looks like it has normal distr kinda stuff in it..." may be time for some MIT OCW on probability distributions. #rstats
+344516912719491073  Jun 11 14:10  @nashturley       I just learned you don't have to add header=T when using read.csv #Rstats #R #GeekExcitmentOverLittleMeaninglessThings #GradSchool
+344525425432727553  Jun 11 14:43  @BrockTibert      @nashturley luckily, many #rstats functions have great defaults already set for us.  To see defaults, just use the ? command.  EG ?read.csv
+344527471074504704  Jun 11 14:52  @useR_2013        The #useR2013 conference programme is already available. Check it at http://www.r-project.org/useR-2013/ #rstats
+344528006183796739  Jun 11 14:54  @jjgibaja         RT @useR_2013: The #useR2013 conference programme is already available. Check it at http://www.r-project.org/useR-2013/ #rstats
+344528097112113154  Jun 11 14:54  @emilopezcano     RT @useR_2013: The #useR2013 conference programme is already available. Check it at http://www.r-project.org/useR-2013/ #rstats
