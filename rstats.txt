@@ -8492,3 +8492,9 @@
 344237310516277249  Jun 10 19:39  @patcallier       RT @BadHessian: Has R-help gotten meaner? New post by @TreyCausey http://badhessian.org/2013/04/has-r-help-gotten-meaner-over-time-and-what-does-mancur-olson-have-to-say-about-it/ #rstats
 344249198805389314  Jun 10 20:26  @JGreenbrookHeld  Sigh - resorting to #lazyweb. I need a data transformation for this. Any suggestions? #rstats #stats http://t.co/bskGuR8xo4
 344252302875557890  Jun 10 20:38  @JGreenbrookHeld  @zentree They *could* have been using ggthemes. Unlikely, I'll admit.... http://blog.revolutionanalytics.com/2012/10/style-your-r-charts-like-the-economist-tableau-or-xkcd.html #rstats
+344257799234134017  Jun 10 21:00  @Rbloggers        The RStudio CRAN mirror:  (This article was first published on  RStudio Blog, and kindly contributed t... http://bit.ly/18pS5mi #rstats
+344264114098536451  Jun 10 21:25  @dlizcano         Very cool shiny app. Maps of regional accents in American English http://spark-1590165977.us-west-2.elb.amazonaws.com/jkatz/SurveyMaps/  via: @katz_stats #rstats
+344265918030950401  Jun 10 21:32  @kuun_peal        If ICC is below .1, is it OK to use random coefficient model w/nesting to examine repeated measures data w/uneven time spacing? #rstats
+344291534679703552  Jun 10 23:14  @hari_koduvely    RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+344298263840690176  Jun 10 23:41  @Rbloggers        Where is the R Activity?:  (This article was first published on  Spatial.ly » R, and kindly contribute... http://bit.ly/19jEtIP #rstats
+344298265052848128  Jun 10 23:41  @Rbloggers        Microsoft Office Metadata with R:  (This article was first published on  Joe's Data Diner, and kindly ... http://bit.ly/13w8EpT #rstats
