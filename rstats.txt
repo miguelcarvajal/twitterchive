@@ -8434,6 +8434,7 @@
 344123553819553794  Jun 10 12:07  @RLangTip         How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
 344123735575498753  Jun 10 12:07  @treycausey       RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
 344124831652003840  Jun 10 12:12  @__Romain__       RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+344124961188876288  Jun 10 12:12  @pstyd            RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
 344124961188876288  Jun 10 12:12  @serapatyx        RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
 344125308330459137  Jun 10 12:14  @chemstateric     RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
 344125374663368706  Jun 10 12:14  @viirya           RT @siah: Interesting ggplot2 tricks  "Plotting distributions (ggplot2)" http://ow.ly/lRGRH #rstats
@@ -8498,3 +8499,9 @@
 344291534679703552  Jun 10 23:14  @hari_koduvely    RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
 344298263840690176  Jun 10 23:41  @Rbloggers        Where is the R Activity?:  (This article was first published on  Spatial.ly » R, and kindly contribute... http://bit.ly/19jEtIP #rstats
 344298265052848128  Jun 10 23:41  @Rbloggers        Microsoft Office Metadata with R:  (This article was first published on  Joe's Data Diner, and kindly ... http://bit.ly/13w8EpT #rstats
+344361298873692163  Jun 11 03:51  @chlalanne        The RStudio CRAN mirror http://feedly.com/k/12hPCXB #rstats
+344383064987795457  Jun 11 05:18  @JGreenbrookHeld  @jjmullz thanks. Colleague suggested diff() which was very successful at lag=3. #rstats
+344423269635604481  Jun 11 07:58  @orlandomezquita  “@RDataMining: Tips for R programming provided on Biostat Wiki http://biostat.wikia.com/wiki/R_programming” #rstats
+344427738502930433  Jun 11 08:15  @thorei           Orange Report 2012 - created in #rstats with #RMarkdown, #knitr, #ggplot2, #pandoc, etc. http://goo.gl/Q3TVU http://t.co/Abo1pmuRMt
+344435306566656000  Jun 11 08:45  @gvegayon         "You Do Not Need to Tell Me I Have A Typo in My Documentation" http://feedly.com/k/1926pOP Good practice for package developers #rstats
+344438806432325634  Jun 11 08:59  @hadleywickham    RT @thorei: Orange Report 2012 - created in #rstats with #RMarkdown, #knitr, #ggplot2, #pandoc, etc. http://goo.gl/Q3TVU http://t.co/Abo1pmuRMt
