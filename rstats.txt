@@ -8542,3 +8542,32 @@
 344527471074504704  Jun 11 14:52  @useR_2013        The #useR2013 conference programme is already available. Check it at http://www.r-project.org/useR-2013/ #rstats
 344528006183796739  Jun 11 14:54  @jjgibaja         RT @useR_2013: The #useR2013 conference programme is already available. Check it at http://www.r-project.org/useR-2013/ #rstats
 344528097112113154  Jun 11 14:54  @emilopezcano     RT @useR_2013: The #useR2013 conference programme is already available. Check it at http://www.r-project.org/useR-2013/ #rstats
+344533398246793216  Jun 11 15:15  @cpsievert        RT @ramnath_vaidya: RStudio Logs Visualized with rCharts and Leaflet (draft) http://ramnathv.github.io/rstudio_logs/ #rstats @rstudioapp @hadleywickham http://t.co/BHR3y2Dojp
+344538454878720000  Jun 11 15:35  @quandl           Stepping up to Big Data with R and Python http://qndl.co/165780y #rstats
+344539635986341888  Jun 11 15:40  @DEAGiles         RT @quandl: Stepping up to Big Data with R and Python http://qndl.co/165780y #rstats
+344540879912067073  Jun 11 15:45  @randyzwitch      Is there a way in #rstats to get the file updated date? I know list.files gets the path, but can't seem to find a file properties function?
+344542297138012160  Jun 11 15:50  @recology_        see file dot info MT @randyzwitch: Is there a way in #rstats to get the file updated date?
+344558452221288449  Jun 11 16:55  @timelyportfolio  #rickshaw #d3js from #Rstats thanks @ramnath_vaidya for #rCharts and #slidify Timely Portfolio: Rickshaw from R http://timelyportfolio.blogspot.com/2013/06/rickshaw-d3js-from-r-with-rcharts.html?spref=tw
+344567562186678274  Jun 11 17:31  @romain_francois  Not revo or even R related, just an ad for renault trucks. #rstats http://t.co/JRe6QE65Qy
+344572264936779777  Jun 11 17:50  @xieyihui         So `R CMD check` starts to check code width in Rd (<= 90). I believe one day it will check if the pkg author's kitchen is clean. #rstats
+344574063437565952  Jun 11 17:57  @ucfagls          .@xieyihui that's PDF; It is totally crap to see the PDF manual with usage sections all exceeding the paper width. +ve change! #rstats
+344578714664841216  Jun 11 18:15  @ScotFinnie       RT @sharon000: Beginner's Guide to R for basic data work:  http://cwrld.us/RGuideIntro Tips on easy data entry, stats, #dataviz & more #rstats
+344579662183276544  Jun 11 18:19  @hadleywickham    RT @romain_francois: Not revo or even R related, just an ad for renault trucks. #rstats http://t.co/JRe6QE65Qy
+344580202891972608  Jun 11 18:21  @lenwood          RT @romain_francois: Not revo or even R related, just an ad for renault trucks. #rstats http://t.co/JRe6QE65Qy
+344582646703198211  Jun 11 18:31  @jbkunst          RT @znmeb: Using Metadata to find Paul Revere - Kieran Healy http://sco.lt/6ra2jZ #PRISM #howthisworks #rstats
+344582666001186816  Jun 11 18:31  @woongbox         RT @ramnath_vaidya: RStudio Logs Visualized with rCharts and Leaflet (draft) http://ramnathv.github.io/rstudio_logs/ #rstats @rstudioapp @hadleywickham http://t.co/BHR3y2Dojp
+344586418653380609  Jun 11 18:46  @Rbloggers        R2leaflet (v0.1) – make interactive online maps from R:  (This article was first published on  Robert ... http://bit.ly/18uqW1t #rstats
+344586419878129664  Jun 11 18:46  @Rbloggers        Answering “How many people use my R package?”:  (This article was first published on  R-statistics blo... http://bit.ly/18uqW1x #rstats
+344590760886284289  Jun 11 19:03  @brianabelson     .@rstudioapp + aws = #rstats on my phone, anytime http://t.co/oted7kdESP
+344590965362790400  Jun 11 19:04  @TrestleJeff      Building on @winston_chang's previous Shiny Dashboard work: ShinyDash! (very alpha) http://spark.rstudio.com/trestletech/ShinyDash-Sample/ | https://github.com/trestletech/ShinyDash #rstats
+344591766437101568  Jun 11 19:07  @jrmontag         Brilliant! “@brianabelson: .@rstudioapp + aws = #rstats on my phone, anytime http://t.co/XBvvHvnhvD”
+344592757383376896  Jun 11 19:11  @treycausey       RT @jrmontag: Brilliant! “@brianabelson: .@rstudioapp + aws = #rstats on my phone, anytime http://t.co/XBvvHvnhvD”
+344595443667316736  Jun 11 19:22  @cpsievert        Less than 2 years ago I had no knowledge of #rstats. Today I presented to founder/maintainers of the project. Hard work pays off kids.
+344596719104819203  Jun 11 19:27  @randyzwitch      Fantastic RT @brianabelson: .@rstudioapp + aws = #rstats on my phone, anytime http://t.co/efYum13p0o”
+344605936981245953  Jun 11 20:03  @Jowanza          RT @randyzwitch: Fantastic RT @brianabelson: .@rstudioapp + aws = #rstats on my phone, anytime http://t.co/efYum13p0o”
+344612537846857728  Jun 11 20:30  @hadleywickham    RT @brianabelson: .@rstudioapp + aws = #rstats on my phone, anytime http://t.co/oted7kdESP
+344613808460939264  Jun 11 20:35  @pitakakariki     RT @brianabelson: .@rstudioapp + aws = #rstats on my phone, anytime http://t.co/oted7kdESP
+344614531709939713  Jun 11 20:38  @ProfBunnie       OMG! RT @brianabelson: .@rstudioapp + aws = #rstats on my phone, anytime http://t.co/wxdd6p50p4
+344619043078168576  Jun 11 20:55  @ramhiser         Until recently, I underestimated the importance of transformations and standardizations in data-driven automation. #machinelearning #rstats
+344619678657814528  Jun 11 20:58  @datalies         Wow! So jealous! Fantastic... "@brianabelson: .@rstudioapp + aws = #rstats on my phone, anytime http://t.co/Mb3m7DuK96"
+344619866956898305  Jun 11 20:59  @omearabrian      Estimates of #rstats package downloads http://cran-logs.rstudio.com/
