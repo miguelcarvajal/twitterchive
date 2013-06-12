@@ -8601,3 +8601,49 @@
 344780472414519296  Jun 12 07:37  @chrishanretty    #rstats syntax highlighting for nano https://stat.ethz.ch/pipermail/r-help/2010-March/231783.html and https://github.com/ctb/edda/blob/master/doc/tutorials-2012/files/nano.rc
 344782652643106816  Jun 12 07:46  @cpsievert        #nerdalert RT @brianabelson: .@rstudioapp + aws = #rstats on my phone, anytime http://buff.ly/13zHiz8
 344784127221981185  Jun 12 07:51  @Rbloggers        Updated age calculation function:  (This article was first published on  Matt's Stats n stuff » R, and... http://bit.ly/19pFnDM #rstats
+344802980773625856  Jun 12 09:06  @hrbrmstr         Using metadata & R to find Paul Revere #rstats (h/t @hmason, @selenakyle, @alexcpsec) http://ow.ly/lX3dk
+344803081818603522  Jun 12 09:07  @mckeay           RT @hrbrmstr: Using metadata & R to find Paul Revere #rstats (h/t @hmason, @selenakyle, @alexcpsec) http://ow.ly/lX3dk
+344804921033494529  Jun 12 09:14  @BrockTibert      On Windows, how do I remove an old project from Rstudio?  #rstats  #lazyR
+344805539131305986  Jun 12 09:17  @chipmonkey75     Interactive D3.js charts from R... very nice: http://timelyportfolio.github.io/rCharts_rickshaw_gettingstarted/ #rstats #D3 #dataviz
+344806871300968449  Jun 12 09:22  @geross22         RT @hrbrmstr: Using metadata & R to find Paul Revere #rstats (h/t @hmason, @selenakyle, @alexcpsec) http://ow.ly/lX3dk
+344822837317627904  Jun 12 10:25  @JeromyAnglim     new Springer book by Dirk on C++ and #rstats  http://blog.revolutionanalytics.com/2013/06/more-books.html
+344830565117198336  Jun 12 10:56  @vasantmarur      Data & Code from our latest paper http://1.usa.gov/11vDsod open-sourced & released on dryad http://bit.ly/11flHuh code & figs with R #rstats
+344833480531775491  Jun 12 11:08  @RevolutionR      RT @KevinLDavenport: Meetup was a success! Thank you http://mcneilco.com and @RevolutionR for your support! @SD_RUsersGroup #rstats http://t.co/tmDRVA7XHh
+344833657200062464  Jun 12 11:08  @southmapr        Hurrah! My #rstats #rworldmap tutorial @useR_2013 confirmed. Come to Spain! 4 days reg. registration left http://r-project.org/useR-2013/
+344840060375543809  Jun 12 11:34  @masemresearch    Support Vector Machine with GPU | R Tutorial | Chi Yau #bigdata #datascience #rstats | @scoopit http://sco.lt/7PLiz3
+344843269684989952  Jun 12 11:46  @useR_2013        RT @southmapr: Hurrah! My #rstats #rworldmap tutorial @useR_2013 confirmed. Come to Spain! 4 days reg. registration left http://t.co/sb0uwkdmDU
+344845231360983040  Jun 12 11:54  @recology_        .@rOpensci now funded by the @SloanFoundation http://bit.ly/17HdUga #rstats #openscience
+344847290915246080  Jun 12 12:02  @recology_        All new TaxaViewer app http://bit.ly/10CxLWQ #rCharts maps, @plos paper search #macrodocs / #rstats #shiny @rstudioapp @ramnath_vaidya
+344847683699228672  Jun 12 12:04  @useR_2013        Are you attending the useR! 2013 Conference? Share your experience using the #useR2013 hashtag. http://www.r-project.org/useR-2013/ #rstats
+344848201146302464  Jun 12 12:06  @sjGoring         RT @recology_: .@rOpensci now funded by the @SloanFoundation http://bit.ly/17HdUga #rstats #openscience
+344848232049938433  Jun 12 12:06  @RLangTip         A single index can be used to select from a matrix. For example, X[row(X)==col(X)] is the same as diag(X) #rstats http://bit.ly/wIGrFC
+344849311479246848  Jun 12 12:10  @hadleywickham    RT @recology_: .@rOpensci now funded by the @SloanFoundation http://bit.ly/17HdUga #rstats #openscience
+344850342657273856  Jun 12 12:15  @randyzwitch      Anyone have a foreach example in #rstats for reading a bunch of .csv files from a directory, then rbinding them into a single data frame?
+344850605698854915  Jun 12 12:16  @JamesMeadow      RT @recology_: .@rOpensci now funded by the @SloanFoundation http://bit.ly/17HdUga #rstats #openscience
+344851181002162176  Jun 12 12:18  @ramnath_vaidya   RT @recology_: All new TaxaViewer app http://bit.ly/10CxLWQ #rCharts maps, @plos paper search #macrodocs / #rstats #shiny @rstudioapp @ramnath_vaidya
+344851375236198401  Jun 12 12:19  @emulenews        RT @RLangTip: A single index can be used to select from a matrix. For example, X[row(X)==col(X)] is the same as diag(X) #rstats http://t.co/0lEzQzD9II
+344852395811016704  Jun 12 12:23  @mandyfmejia      @acfrazee  I've found this incredibly useful for making sequences of large data objects (too big to easily save in lists). #rstats
+344853124013498369  Jun 12 12:26  @ecpolley         RT @recology_: .@rOpensci now funded by the @SloanFoundation http://bit.ly/17HdUga #rstats #openscience
+344854461279248384  Jun 12 12:31  @masemresearch    An R Introduction to Statistics | R Tutorial | Chi Yau #rstats | @scoopit http://sco.lt/6rr3dR
+344855417555415041  Jun 12 12:35  @datennutzen      Top 10 Gründe für den Einsatz von #Rstats als Plattform für #BigData ttp://www.eoda.de/index.php/de/gruende-fuer-r.html
+344856079336882177  Jun 12 12:37  @laurencstill     Dammit.  I saw a really great study the other day on #rstats and word values/mapping and now I can't find it.
+344857652926496769  Jun 12 12:44  @MarkHornick      Just how fast is #ROracle for #OracleDatabase connectivity from R? https://blogs.oracle.com/R/entry/r_to_oracle_database_connectivity #Oracle #RStats
+344858112760631296  Jun 12 12:45  @MarkHornick      If you use #ROracle, take our survey. https://www.surveymonkey.com/s/YKLLDHZ #RStats #Oracle
+344858285956026368  Jun 12 12:46  @Gliders_Coach    Data Munging using #rstats Part 1 -Understanding Data Quality http://wp.me/p9q8Y-2Uo
+344859622059937793  Jun 12 12:51  @Gliders_Coach    Basics of Data Handling for R beginners #rstats http://wp.me/p9q8Y-2Ur
+344860201284931585  Jun 12 12:54  @tomjwebb         RT @recology_: .@rOpensci now funded by the @SloanFoundation http://bit.ly/17HdUga #rstats #openscience
+344860297355468800  Jun 12 12:54  @orlandomezquita  RT @RLangTip: A single index can be used to select from a matrix. For example, X[row(X)==col(X)] is the same as diag(X) #rstats http://t.co/0lEzQzD9II
+344863786655686656  Jun 12 13:08  @StrictlyStat     @acfrazee @mandyfmejia also check out get and assign #rstats
+344863933515051009  Jun 12 13:09  @brendantierney   RT @MarkHornick: If you use #ROracle, take our survey. https://www.surveymonkey.com/s/YKLLDHZ #RStats #Oracle
+344864291943481344  Jun 12 13:10  @laurencstill     Haven't found it, but this is cool.  >> The arteries of the world, in Tweets http://www.r-bloggers.com/the-arteries-of-the-world-in-tweets/ #rstats
+344867128991707136  Jun 12 13:21  @joelgombin       En route pour le #meetup #Rstats Paris !
+344868426226991104  Jun 12 13:26  @Jowanza          Has anyone made a Shiny app where users can upload a .CSV #Rstats ?
+344871152394579968  Jun 12 13:37  @ross_gayler      RT @brianabelson: .@rstudioapp + aws = #rstats on my phone, anytime http://t.co/oted7kdESP
+344875637821018112  Jun 12 13:55  @mscharkow        @rodzam Awesome analysis for #ica13. I hope it inspires many comm scholars to try out #rstats and #Python! /cc @bachl @tkeyling @spiderjens
+344876104420577280  Jun 12 13:57  @joelgombin       @lazette ben de R :) #Rstats
+344884987281174528  Jun 12 14:32  @sharon000        $180K Sloan grant to @rOpensci will be used to 'develop a whole new suite of tools' http://bit.ly/11a9mef #rstats
+344885919666536448  Jun 12 14:36  @srsupp           Procrastination or productivity? This morning i learned #knitr using my current ms and #rstudio. So cool @xieyihui! #rstats #ninjaskills
+344886827070664704  Jun 12 14:40  @ethanwhite       RT @srsupp: Procrastination or productivity? This morning i learned #knitr using my current ms and #rstudio. So cool @xieyihui! #rstats #ninjaskills
+344887196706287616  Jun 12 14:41  @znmeb            RT @sharon000: $180K Sloan grant to @rOpensci will be used to 'develop a whole new suite of tools' http://bit.ly/11a9mef #rstats
+344887229920976896  Jun 12 14:41  @randyzwitch      @hadleywickham I can say this…of all the languages I've used, #rstats read.csv seems to deal with any sloppy file I've got where others fail
+344887338335367169  Jun 12 14:42  @laurencstill     Automated Archival and Visual Analysis of Tweets Mentioning #Bioinformatics, #rstats, and Others http://www.r-bloggers.com/automated-archival-and-visual-analysis-of-tweets-mentioning-bog13-bioinformatics-rstats-and-others/ via @rbloggers
