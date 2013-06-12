@@ -2054,3 +2054,5 @@
 344616776316895233  Jun 11 20:46  @aemonten         Let's see if now everything works out: RNA is on its way for RNA-seq
 344616987797893122  Jun 11 20:47  @YoshiKawahara    RNA-Seqというよりは、rRNA depletionの方法の比較論文。degradedやlow-inputサンプルでは特にrRNAが問題になるということなのかな。http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2483.html
 344617635855601664  Jun 11 20:50  @yoshidamasaaki   RT @YoshiKawahara: RNA-Seqというよりは、rRNA depletionの方法の比較論文。degradedやlow-inputサンプルでは特にrRNAが問題になるということなのかな。http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2483.html
+344651461491314688  Jun 11 23:04  @antiplastics     ヤク中のRNA-seqデータ見つけた
+344701721299267585  Jun 12 02:24  @aloraine205      RT @rnomics: Introducing Blacktie: a simpler way to do #RNA-seq using Tophat/Cufflinks/CummeRbund:... http://bit.ly/1bqJD2v #rnomics_bioinfo @MyEN
