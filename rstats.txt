@@ -8749,3 +8749,49 @@
 345156001407827970  Jun 13 08:29  @mjcavaretta      Interested too. MT @yoditstanton anyone used graph models for RD forecasting? Experiences? #machinelearning #rstats
 345159772053569537  Jun 13 08:44  @diervilla        RT @jmgomez: Example of unit testing R code with testthat by @johndcook http://ow.ly/1XmBQS #rstats #UnitTesting
 345162950161625088  Jun 13 08:57  @tatvic           6 DAYS TO GO! #PredictiveAnalytics #webinar on June 19th. Haven't registered yet? HURRY UP!!! http://bit.ly/13EoKfO #measure #rstats #R
+345164363830812672  Jun 13 09:02  @tatvic           Wanna get insightful #analysis through visualization? #PredictiveAnalytics #webinar on June 19th! http://bit.ly/13EoKfO #rstats #ggplot2
+345168692620959744  Jun 13 09:20  @politbistro      @laspic j'ai rajouté quelques fonctions exploratoires #rstats #sna au repo GitHub : https://github.com/briatte/ggnet
+345169462690975744  Jun 13 09:23  @zevkronenberg    Addicted to plotting haplotypes with image().  #rstats
+345173885026697216  Jun 13 09:40  @romain_francois  RT @MangoTheCat: 185 R users have signed up for #LondonR Not many seats left now so hurry if you want one. http://www.londonr.org #Rstats
+345181153361276928  Jun 13 10:09  @treycausey       RT @jmgomez: Example of unit testing R code with testthat by @johndcook http://ow.ly/1XmBQS #rstats #UnitTesting
+345181765570269185  Jun 13 10:12  @timelyportfolio  really nice #rstats with some #gridSVG  "Displaying time series, spatial and space-time data with R" http://wp.me/pNSqK-lA
+345183699488358400  Jun 13 10:19  @tjmahr           I presented my first poster this weekend. I made it 90% using #Rstats... http://tmblr.co/ZEfqaynDTTH2
+345190216388186113  Jun 13 10:45  @jmgomez          Introducing GTrendsR, package for using #Google #Trends in R http://ow.ly/1XmCft #rstats
+345194343935668225  Jun 13 11:01  @druvus           RT @neilfws: Pandoc is awesome, especially with #R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/. #rstats
+345197672233308161  Jun 13 11:15  @timelyportfolio  RT @jmgomez: Introducing GTrendsR, package for using #Google #Trends in R http://ow.ly/1XmCft #rstats
+345199276634296320  Jun 13 11:21  @noticiasSobreR   More code and images from “Displaying time series, spatial and space-time data with R”: My book contin... http://tinyurl.com/kge8ys9 #rstats
+345202765141798912  Jun 13 11:35  @quandl           Mini-tutorial for Quandl: How to access financial data with R | Revolution Analytics Blog http://qndl.co/10fb4fX #rstats @data
+345203197943611393  Jun 13 11:37  @i_314            RT @quandl: Mini-tutorial for Quandl: How to access financial data with R | Revolution Analytics Blog http://qndl.co/10fb4fX #rstats @data
+345204390581370880  Jun 13 11:41  @siah             "Sustainable package development using documentation generation" http://ow.ly/lYIEH #rstats
+345210615859666944  Jun 13 12:06  @RLangTip         Comparing floating-point numbers with == is unwise. Use all.equal to avoid errors from rounding: http://bit.ly/pRciwj #rstats
+345211130660126721  Jun 13 12:08  @corynissen       Got Google Prediction API working in #rstats. OAuth2 sure makes things difficult... http://blog.corynissen.com/2013/06/google-prediction-api-example.html
+345213190826782722  Jun 13 12:16  @siah             Tricks for efficiently reading large text files into R http://ow.ly/lYJ64 #rstats
+345219218083545088  Jun 13 12:40  @kushan_s         RT @timelyportfolio: #rickshaw #d3js from #Rstats thanks @ramnath_vaidya for #rCharts and #slidify Timely Portfolio: Rickshaw from R http://t.co/ZCr0lYHBku
+345219237247328257  Jun 13 12:40  @kushan_s         RT @i_314: Easy web applications in R. Shiny - Great Project! http://www.rstudio.com/shiny/ #rstats #rstudio
+345219281857937408  Jun 13 12:41  @kushan_s         RT @thorei: Orange Report 2012 - created in #rstats with #RMarkdown, #knitr, #ggplot2, #pandoc, etc. http://goo.gl/Q3TVU http://t.co/Abo1pmuRMt
+345219298467389441  Jun 13 12:41  @kushan_s         RT @Altons: Mahout for R Users http://zite.to/18lRYbs via #rstats
+345219310370824193  Jun 13 12:41  @kushan_s         RT @RLangTip: How to create or catch warnings and errors in R code: http://bit.ly/Lpx9Q7 #rstats
+345219335335313408  Jun 13 12:41  @kushan_s         RT @zekome: How To Connect R to MySQL | Zeko.me Blog #mysql #linux #rstats #analytics http://blog.zeko.me/snowshoe/2013/06/how-to-connect-r-to-mysql/ http://t.co/cXd8QRGXOy
+345219904825331712  Jun 13 12:43  @hadleywickham    RT @MangoTheCat: 185 R users have signed up for #LondonR Not many seats left now so hurry if you want one. http://www.londonr.org #Rstats
+345223751199240193  Jun 13 12:58  @treycausey       RT @siah: Tricks for efficiently reading large text files into R http://ow.ly/lYJ64 #rstats
+345223887388291073  Jun 13 12:59  @BadHessian       RT @treycausey: RT @siah: Tricks for efficiently reading large text files into R http://ow.ly/lYJ64 #rstats
+345225642461237248  Jun 13 13:06  @Rbloggers        New version of solaR:  (This article was first published on  Omnia sunt Communia! » R-english, and kin... http://bit.ly/13HHhsV #rstats
+345225643493048320  Jun 13 13:06  @Rbloggers        More code and images from “Displaying time series, spatial and space-time data with R”:  (This article... http://bit.ly/13HHj47 #rstats
+345225644550012929  Jun 13 13:06  @Rbloggers        Top 100 R packages for 2013 (Jan-May)!:  (This article was first published on  R-statistics blog » RR-... http://bit.ly/13HHjkw #rstats
+345227428311994369  Jun 13 13:13  @estebanmoro      igraph is the 56th most downloaded package in #rstats and the first in network analysis. Congrats @ntamas !
+345227566564642816  Jun 13 13:14  @alexhanna        RT @estebanmoro: igraph is the 56th most downloaded package in #rstats and the first in network analysis. Congrats @ntamas !
+345227889123393536  Jun 13 13:15  @algaebarnacle    Top 100 R packages in 2013 so far: http://bit.ly/18CxUBA #rstats
+345231049460174848  Jun 13 13:27  @dfreelon         Anyone know a good Naive Bayes classifier for text in #rstats? I can't figure out how to get the one in e1071 to work with raw text.
+345232974519869440  Jun 13 13:35  @jjgibaja         @estebanmoro @gmiritello @victorianoi @congosto Parece que sólo como pizza y hablo de #rstats... oh wait! https://www.vizify.com/juan-jose-gibaja/twitter-video
+345232990273679360  Jun 13 13:35  @scott_bot        RT @treycausey: RT @siah: Tricks for efficiently reading large text files into R http://ow.ly/lYJ64 #rstats
+345235497632792576  Jun 13 13:45  @pskotarczak      RT @treycausey: RT @siah: Tricks for efficiently reading large text files into R http://ow.ly/lYJ64 #rstats
+345235564129300481  Jun 13 13:45  @sharon000        Does the government even need PRISM snooping? It's got Facebook http://cwrld.us/196DtoI #privacy #rstats #prism
+345235869101326336  Jun 13 13:47  @jackhar          RT @sharon000: Does the government even need PRISM snooping? It's got Facebook http://cwrld.us/196DtoI #privacy #rstats #prism
+345240375352492032  Jun 13 14:04  @danioyuan        RT @gappy3000: Python+Pandas <-> R cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r #rstats #pydata #python #incomplete \cc @wesmckinn
+345240768077758464  Jun 13 14:06  @siah             "testthat: Get Started with Testing" http://ow.ly/lZaBv (by @hadleywickham) #rstats
+345246733086912512  Jun 13 14:30  @KTInvasion       Making maps using #rworldmap. Russia is so big, y'all. No joke. #rstats
+345249053497516032  Jun 13 14:39  @recology_        Draft paper on taxize (taxonomy in #rstats) on @github - have a look & file issues with any comments/suggestions http://bit.ly/12qxiM3
+345250635559616512  Jun 13 14:45  @kmingis          RT @sharon000: Does the government even need PRISM snooping? It's got Facebook http://cwrld.us/196DtoI  #privacy #rstats #prism
+345250637673533441  Jun 13 14:45  @Computerworld    RT @sharon000: Does the government even need PRISM snooping? It's got Facebook http://cwrld.us/196DtoI  #privacy #rstats #prism
+345251114293272577  Jun 13 14:47  @statisticsblog   How fat are your tails? http://i.cx/14vhvec #RStats #Statistics #TBT #ThrowbackThursday
+345252828081700866  Jun 13 14:54  @solon_thinker    RT @Computerworld: RT @sharon000: Does the government even need PRISM snooping? It's got Facebook http://cwrld.us/196DtoI  #privacy #rstats #prism
