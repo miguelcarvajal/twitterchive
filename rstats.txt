@@ -8696,3 +8696,31 @@
 344970177730981888  Jun 12 20:11  @duke_data        RT @se_hampton: Great news! RT @recology_: .@rOpensci now funded by the @SloanFoundation http://bit.ly/17HdUga #rstats #openscience
 344971326018158593  Jun 12 20:15  @yaacovp          Using Rickshaw in #rstats to create interactive FCAT graph based on 10 years of public available school data from @EducationFL
 344972513949925376  Jun 12 20:20  @mijopo           RT @revodavid: Any easy way to get financial time series into R - @revojoe's tutorial for @Quandl http://bit.ly/14xBBV5 #rstats
+344982684860297216  Jun 12 21:00  @Rbloggers        The Reorderable Data Matrix and the Promise of Pattern Discovery:  (This article was first published o... http://bit.ly/16fN7V2 #rstats
+344982686324113408  Jun 12 21:00  @Rbloggers        cran2deb4ubuntu Updated for R 3.0.1 and Ubuntu 13.04:  (This article was first published on  The Ubunt... http://bit.ly/18zdJVb #rstats
+344984760554229763  Jun 12 21:09  @BrockTibert      I could be missing something very obvious, but help in #rstats just appears to be light-years better than #python.  Way more detail OOTB
+344987540094349312  Jun 12 21:20  @fellgernon       #FBit userR2013 data analysis #contest: data exploration http://goo.gl/fb/C68TH #user2013 #dataanalysis #rstats
+344988625731190786  Jun 12 21:24  @BrockTibert      @randyzwitch IPython is pretty much the only reason I still keep thinking about #python but offline scripting in #rstats is easier to debug
+344989354067886080  Jun 12 21:27  @ChrisGandrud     Commenter's code (http://bit.ly/ZKAbou) to create an #rstats package dependencies network graph (http://bit.ly/ZKAe3w) with #d3Network.
+344990067724521473  Jun 12 21:30  @qatenary         RT @revodavid: Any easy way to get financial time series into R - @revojoe's tutorial for @Quandl http://bit.ly/14xBBV5 #rstats
+344990562052628480  Jun 12 21:32  @BrockTibert      @randyzwitch spider 4 python is closest I have seen, docs in #rstats are what do it for me.. python seems but faster R is easier to script
+345005286509125635  Jun 12 22:30  @siah             What is the best way of organizing unit tests within an R package? #rstats
+345008412775555073  Jun 12 22:43  @ezbrooks         RT @siah: What is the best way of organizing unit tests within an R package? #rstats
+345013519449722880  Jun 12 23:03  @frenchrh         RT @quandl: Stepping up to Big Data with R and Python http://qndl.co/165780y #rstats
+345013541612421121  Jun 12 23:03  @recology_        @ezbrooks @siah I use testthat and @hadleywickham recommended structure http://bit.ly/11aRiAH #rstats
+345016708366475266  Jun 12 23:16  @PPUAMX           RT @RLangTip: A single index can be used to select from a matrix. For example, X[row(X)==col(X)] is the same as diag(X) #rstats http://t.co/0lEzQzD9II
+345022678530404352  Jun 12 23:39  @PMeins           Pretty good post & package list(s). #dssg RT @quandl: Stepping up to Big Data with R and Python http://qndl.co/165780y #rstats
+345022797275340802  Jun 12 23:40  @zeitzoff         RT @PMeins: Pretty good post & package list(s). #dssg RT @quandl: Stepping up to Big Data with R and Python http://qndl.co/165780y #rstats
+345023439339397120  Jun 12 23:42  @datascifellows   RT @PMeins: Pretty good post & package list(s). #dssg RT @quandl: Stepping up to Big Data with R and Python http://qndl.co/165780y #rstats
+345024661899329537  Jun 12 23:47  @soda_ninja       Relearning statistics with command based stats software is... nope, I don't have the words #Rstats
+345035227233665024  Jun 13 00:29  @rbranger         RT @EdwardTufte: Maps moving in time, data/design standards for 4K and 8K displays. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #datascience #bigdata #rstats  #d3js
+345036185061711872  Jun 13 00:33  @neilfws          Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/. #rstats
+345043449298440192  Jun 13 01:02  @Anderson_Evans   Nice reads embedded here... RT @Rbloggers: The Reorderable Data Matrix and the Promise of Pattern Discovery:  http://flip.it/SiF0k #rstats
+345045731196928001  Jun 13 01:11  @recology_        RT @neilfws: Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/. #rstats
+345047101857742848  Jun 13 01:16  @hauschke         RT @neilfws: Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/. #rstats
+345052447477219328  Jun 13 01:38  @JamesMeadow      RT @neilfws: Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/. #rstats
+345059108245880833  Jun 13 02:04  @simonalpha       RT @neilfws: Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/. #rstats
+345064517652344833  Jun 13 02:26  @drago_carlo      make interactive online maps from R http://prsm.tc/OGjZNm  via @prismatic #SpatialStatistics #Visualization #Rstats
+345068392853667841  Jun 13 02:41  @panemma          Need to try this: @neilfws: Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/ #rstats
+345070072760512512  Jun 13 02:48  @MattGeary        RT @neilfws: Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/. #rstats
+345070133007486976  Jun 13 02:48  @ramhiser         I enjoy finding hidden gems in #rstats code. Notice the #Voltron references from @jcheng on the Shiny newsgroup: https://groups.google.com/forum/?fromgroups=#!topic/shiny-discuss/l8ZcauoOtuw

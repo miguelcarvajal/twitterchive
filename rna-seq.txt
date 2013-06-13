@@ -2067,3 +2067,8 @@
 344919312328450049  Jun 12 16:49  @rnomics          A Hierarchical Bayesian Model for Estimating and Inferring Differential Isoform Expression... http://bit.ly/1bx09hg #rnomics_bioinfo @MyEN
 344930580292595712  Jun 12 17:33  @aemonten         To send RNA for RNA-seq and have the Fedex plane malfunction is simply priceless
 344958476453294082  Jun 12 19:24  @Juanzito2        RT @genetics_blog: (Figshare Poster) Blacktie: a simpler way to do RNA-seq using Tophat/Cufflinks/CummeRbund http://figshare.com/articles/Introducing_Blacktie_a_simpler_way_to_do_RNA_seq_using_Tophat_Cufflinks_CummeRbund/714149 #bioinformatics
+345023025109946369  Jun 12 23:41  @ecPDCNRA         @sfwaesr @dritoshi QuartzはPoly-A tail 陣営（Single-cell RNA-seqの)であるしー大には導入しやすいとはいえ　早いですねｗ　　
+345033762901475329  Jun 13 00:23  @YoshiKawahara    @nob_fj リシーケンスやRNA-SeqはやっぱりBWAとTopHatが一番使われているのでしょうか？アプリケーションごとにこういう情報があると参考になりますよね。
+345038085383409664  Jun 13 00:41  @nob_fj           @YoshiKawahara リシーケンス=>BWA or novoalign, RNA-Seq=>TopHatは堅そうですよね。google scholarだと、使用用途は分からないと思いますが、アプリケーションごとに簡単に調べる手段ってありますかね。
+345047410378166274  Jun 13 01:18  @feketerigoremet  @kotone_nyt RNA-Seqじゃないっすか欲しいのは？？
+345071441772953600  Jun 13 02:53  @mjpallen         RNA-Seq of cell-to-cell signalling reveals novel genes that contribute to Xanthomonas phytopathogenesis  http://onlinelibrary.wiley.com/doi/10.1111/mmi.12229/abstract
