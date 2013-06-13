@@ -8724,3 +8724,28 @@
 345068392853667841  Jun 13 02:41  @panemma          Need to try this: @neilfws: Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/ #rstats
 345070072760512512  Jun 13 02:48  @MattGeary        RT @neilfws: Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/. #rstats
 345070133007486976  Jun 13 02:48  @ramhiser         I enjoy finding hidden gems in #rstats code. Notice the #Voltron references from @jcheng on the Shiny newsgroup: https://groups.google.com/forum/?fromgroups=#!topic/shiny-discuss/l8ZcauoOtuw
+345074873472782336  Jun 13 03:07  @IGATechnology    RT @genetics_blog: #Rstats/#Bioconductor software for processing and analyzing bisulfite sequencing data http://bioconductor.org/packages/release/bioc/html/BiSeq.html #bioinformatics
+345078255960870913  Jun 13 03:20  @Rbloggers        Mini-tutorial for Quandl: How to access financial data with R:  (This article was first published on  ... http://bit.ly/16gR4Jc #rstats
+345078256984260608  Jun 13 03:20  @Rbloggers        inline 0.3.12:  (This article was first published on  Thinking inside the box , and kindly contributed... http://bit.ly/16gR4Zx #rstats
+345083104328826880  Jun 13 03:39  @cloudHPC         Preparing new examples for #TDWI conference #munich next week. Follow me talking about #rstats and #bigdata: #rmr2 #rmongodb #shiny
+345099142009327616  Jun 13 04:43  @mjcavaretta      RT @tdoyon Example of unit testing R code with testthat | The Endeavour - http://johndcook.com/blog/2013/06/1… #rstats
+345099829648691200  Jun 13 04:46  @halawiBahia      RT @mjcavaretta: RT @tdoyon Example of unit testing R code with testthat | The Endeavour - http://johndcook.com/blog/2013/06/1… #rstats
+345109265758969856  Jun 13 05:23  @gawbul           Anyone used #knitr with #Python? Any good report generation tools people have used with Python that are on a par with that? #rstats
+345122743446016001  Jun 13 06:17  @lgatt0           RT @neilfws: Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/. #rstats
+345123533724200960  Jun 13 06:20  @jmgomez          RT @ciamk: Tricks for efficiently reading large text files into R http://ow.ly/lYJ3u #rstats
+345124314972037120  Jun 13 06:23  @oscarperpinan    New version of solaR http://wp.me/pNSqK-ll #rstats #solar #pv
+345128378816405504  Jun 13 06:39  @miweintraub83    RT @PMeins: Pretty good post & package list(s). #dssg RT @quandl: Stepping up to Big Data with R and Python http://qndl.co/165780y #rstats
+345130235160834049  Jun 13 06:47  @holken           RT @revodavid: Any easy way to get financial time series into R - @revojoe's tutorial for @Quandl http://bit.ly/14xBBV5 #rstats
+345130536697729024  Jun 13 06:48  @oscarperpinan    More code and images from Displaying time series, spatial and space-time data with R http://wp.me/pNSqK-lA #visualization #rstats
+345131107810951168  Jun 13 06:50  @jmgomez          Example of unit testing R code with testthat by @johndcook http://ow.ly/1XmBQS #rstats #UnitTesting
+345131896558206976  Jun 13 06:53  @Wagner__Markus   Vegetation data analysis: w/ #rstats v0.7-4 permute-pkg vegan-pkg can do reduced permutation like CANOCO http://bit.ly/15XMy1g via @ucfagls
+345141551648886784  Jun 13 07:32  @dirkvandenpoel   Great talk about GIS for analysis by Johan Van de Wauw using open source: Saga, Grass and R #rstats #OSGeoGent2013 http://t.co/UoBxaAhFJL
+345142922880102403  Jun 13 07:37  @MMA_CRM          RT @dirkvandenpoel: Great talk about GIS for analysis by Johan Van de Wauw using open source: Saga, Grass and R #rstats #OSGeoGent2013 http://t.co/UoBxaAhFJL
+345149178223132673  Jun 13 08:02  @moclanmomo       WU's computing infrastructure will relocate to a new home so R-Forge & some #CRAN mirrors will have downtime starting 06-24-2013 #rstats
+345150215663271936  Jun 13 08:06  @hadleywickham    RT @jmgomez: Example of unit testing R code with testthat by @johndcook http://ow.ly/1XmBQS #rstats #UnitTesting
+345150638340059137  Jun 13 08:08  @ChPietsch        RT @neilfws: Pandoc is awesome, especially with R markdown. Everyone should know about pandoc: http://johnmacfarlane.net/pandoc/. #rstats
+345150697085472768  Jun 13 08:08  @MangoTheCat      185 R users have signed up for #LondonR Not many seats left now so hurry if you want one. http://www.londonr.org #Rstats
+345152001669206016  Jun 13 08:13  @marzagao         RT @jmgomez: Example of unit testing R code with testthat by @johndcook http://ow.ly/1XmBQS #rstats #UnitTesting
+345156001407827970  Jun 13 08:29  @mjcavaretta      Interested too. MT @yoditstanton anyone used graph models for RD forecasting? Experiences? #machinelearning #rstats
+345159772053569537  Jun 13 08:44  @diervilla        RT @jmgomez: Example of unit testing R code with testthat by @johndcook http://ow.ly/1XmBQS #rstats #UnitTesting
+345162950161625088  Jun 13 08:57  @tatvic           6 DAYS TO GO! #PredictiveAnalytics #webinar on June 19th. Haven't registered yet? HURRY UP!!! http://bit.ly/13EoKfO #measure #rstats #R
