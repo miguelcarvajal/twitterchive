@@ -8647,3 +8647,52 @@
 344887196706287616  Jun 12 14:41  @znmeb            RT @sharon000: $180K Sloan grant to @rOpensci will be used to 'develop a whole new suite of tools' http://bit.ly/11a9mef #rstats
 344887229920976896  Jun 12 14:41  @randyzwitch      @hadleywickham I can say this…of all the languages I've used, #rstats read.csv seems to deal with any sloppy file I've got where others fail
 344887338335367169  Jun 12 14:42  @laurencstill     Automated Archival and Visual Analysis of Tweets Mentioning #Bioinformatics, #rstats, and Others http://www.r-bloggers.com/automated-archival-and-visual-analysis-of-tweets-mentioning-bog13-bioinformatics-rstats-and-others/ via @rbloggers
+344896445985464320  Jun 12 15:18  @mandyfmejia      @acfrazee @StrictlyStat assign is great when only the object name is changing. I didn't know get(), thanks for the tip! #rstats
+344897538811367425  Jun 12 15:22  @laurencstill     http://www.data.gov/ is a good start! MT @Lily_Robin Improving my #rstats and #python skills while I job hunt - looking for some fun data!
+344898198445383680  Jun 12 15:25  @joelgombin       Aie aie aie ça commence à parler de visualisation en radar #meetup #rstats
+344900013832409088  Jun 12 15:32  @rmflight         RT @srsupp: Procrastination or productivity? This morning i learned #knitr using my current ms and #rstudio. So cool @xieyihui! #rstats #ninjaskills
+344900068744245248  Jun 12 15:32  @adaptivepattern  RT @laurencstill: http://www.data.gov/ is a good start! MT @Lily_Robin Improving my #rstats and #python skills while I job hunt - looking for some fun data!
+344902939384639488  Jun 12 15:44  @joelgombin       Et soudain, paf ! Du Comic sans. Je l'avais pas vu venir ça... #meetup #rstats
+344904589998424064  Jun 12 15:50  @inactinique      RT @joelgombin: Et soudain, paf ! Du Comic sans. Je l'avais pas vu venir ça... #meetup #rstats
+344906488675966976  Jun 12 15:58  @EdwardTufte      Maps moving in time, data/design standards for 4K and 8K displays. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #datascience #bigdata #rstats  #d3js
+344907133361463297  Jun 12 16:00  @KaiUweStahl      RT @EdwardTufte: Maps moving in time, data/design standards for 4K and 8K displays. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #datascience #bigdata #rstats  #d3js
+344907259735842817  Jun 12 16:01  @plank            RT @EdwardTufte: Maps moving in time, data/design standards for 4K and 8K displays. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #datascience #bigdata #rstats  #d3js
+344907362655678464  Jun 12 16:01  @AJKandy          RT @EdwardTufte: Maps moving in time, data/design standards for 4K and 8K displays. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #datascience #bigdata #rstats  #d3js
+344907721860079617  Jun 12 16:03  @joelgombin       Oh putain. Après le Comic sans, la 3D. #meetup #rstats #Officeforever
+344915118196396032  Jun 12 16:32  @MassimoMorelli   Data Munging using #rstats Part 1 -Understanding Data Quality « DECISION STATS http://decisionstats.com/2013/06/12/data-munging-using-rstats-part-1-understanding-data-quality/
+344917022813061120  Jun 12 16:40  @Lewis_Lab        Job: Biotech Statistician. St. Louis, MO http://j.mp/16eZNvs need: SAS want: #Rstats
+344917415836127232  Jun 12 16:41  @katiesci         RT @Lewis_Lab: Job: Biotech Statistician. St. Louis, MO http://j.mp/16eZNvs need: SAS want: #Rstats
+344920290637250560  Jun 12 16:53  @gianadda         RT @EdwardTufte: Maps moving in time, data/design standards for 4K and 8K displays. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #datascience #bigdata #rstats  #d3js
+344920303517978624  Jun 12 16:53  @KevinLDavenport  UseR! 2014 at #UCLA #rstats !!!! http://user2014.stat.ucla.edu/
+344920943937847297  Jun 12 16:55  @mepner           Impact Report: #Rstats with #inmemory speed - how will it empower the #DataSci?  http://www.kognitio.com/451mppr/ ‎by @451Research #MPP_R
+344922573588545536  Jun 12 17:02  @rOpenSci         RT @KevinLDavenport: UseR! 2014 at #UCLA #rstats !!!! http://user2014.stat.ucla.edu/
+344923590908588032  Jun 12 17:06  @snacktavish      RT @Lewis_Lab: Job: Biotech Statistician. St. Louis, MO http://j.mp/16eZNvs need: SAS want: #Rstats
+344924725908226048  Jun 12 17:10  @codex99          RT @EdwardTufte: Maps moving in time, data/design standards for 4K and 8K displays. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #datascience #bigdata #rstats  #d3js
+344926003874906112  Jun 12 17:15  @ucfagls          Ever wanted to use restricted permutations in ordination with vegan & #rstats? Now you can using permute >= 0.7-4 http://bit.ly/15XMy1g
+344926709398781952  Jun 12 17:18  @ucfagls          Now can permute with vegan & #rstats like you would with Canoco - split plots, blocking, time series, spatial grids.. http://bit.ly/15XMy1g
+344930061251657728  Jun 12 17:31  @ucfagls          You still need to do hand holding with vegan to get the restricted permutations to work, & only in devel version. But we are on this #rstats
+344930664866512899  Jun 12 17:34  @ucfagls          If you want to include restricted permutations in your own functions, see how in permutest.betadisper() https://r-forge.r-project.org/scm/viewvc.php/pkg/vegan/R/permutest.betadisper.R?view=markup&revision=2527&root=vegan #rstats
+344931692038983680  Jun 12 17:38  @tpasinet         RT @EdwardTufte: Maps moving in time, data/design standards for 4K and 8K displays. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #datascience #bigdata #rstats  #d3js
+344932292633964544  Jun 12 17:40  @Rbloggers        Understanding Multicollinearity:  (This article was first published on  Eran Raviv » R, and kindly con... http://bit.ly/13E55hv #rstats
+344932293795794945  Jun 12 17:40  @Rbloggers        Plotting average read and write operation size by ASM disk for Oracle:  (This article was first publis... http://bit.ly/19rIxXn #rstats
+344934946944712706  Jun 12 17:51  @roundtrip        RT @EdwardTufte: Maps moving in time, data/design standards for 4K and 8K displays. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #datascience #bigdata #rstats  #d3js
+344939856742477824  Jun 12 18:10  @geoffjentry      @BrockTibert @nashturley btw you should really prefer TRUE over T in #rstats - they've been pushing ppl that way for 10+ years now
+344943278015250432  Jun 12 18:24  @abhik1368        RT @KevinLDavenport: UseR! 2014 at #UCLA #rstats !!!! http://user2014.stat.ucla.edu/
+344944759082721280  Jun 12 18:30  @se_hampton       Great news! RT @recology_: .@rOpensci now funded by the @SloanFoundation http://bit.ly/17HdUga #rstats #openscience
+344946060457811968  Jun 12 18:35  @neilfws          searchTwitter() from R twitteR package fails due to retirement of API v1 on June 11. Will need to get ROAuth working. #rstats
+344947411715776512  Jun 12 18:40  @neilfws          twitteR/ROAuth: this SO answer works for me - http://stackoverflow.com/a/16556359/89482 (but API now returns only 485 results max) #rstats
+344952231386284032  Jun 12 18:59  @ChrisGandrud     RT @chipmonkey75: Interactive D3.js charts from R... very nice: http://timelyportfolio.github.io/rCharts_rickshaw_gettingstarted/ #rstats #D3 #dataviz
+344952341784563714  Jun 12 19:00  @genetics_blog    #Rstats/#Bioconductor software for processing and analyzing bisulfite sequencing data http://bioconductor.org/packages/release/bioc/html/BiSeq.html #bioinformatics
+344953789280813056  Jun 12 19:06  @nceas            RT @se_hampton: Great news! RT @recology_: .@rOpensci now funded by the @SloanFoundation http://bit.ly/17HdUga #rstats #openscience
+344959833486786561  Jun 12 19:30  @ciamk            Tricks for efficiently reading large text files into R http://ow.ly/lYJ3u #rstats
+344960787955195905  Jun 12 19:33  @randyzwitch      Anyone in the #omniture and #rstats community want to help me add correlations/subrelations to the RSiteCatalyst package?
+344961866793115648  Jun 12 19:38  @paulblaser       Data Munging using #rstats Part 1 -Understanding Data Quality http://wp.me/p9q8Y-2Uo via @Gliders_Coach
+344962387209764864  Jun 12 19:40  @revodavid        Any easy way to get financial time series into R - @revojoe's tutorial for @Quandl http://bit.ly/14xBBV5 #rstats
+344962574695137281  Jun 12 19:41  @JGreenbrookHeld  RT @revodavid: Any easy way to get financial time series into R - @revojoe's tutorial for @Quandl http://bit.ly/14xBBV5 #rstats
+344963729194102784  Jun 12 19:45  @nvenkataraman1   RT @randyzwitch: Anyone in the #omniture and #rstats community want to help me add correlations/subrelations to the RSiteCatalyst package?
+344964180295692289  Jun 12 19:47  @RevoJoe          RT @revodavid: Any easy way to get financial time series into R - @revojoe's tutorial for @Quandl http://bit.ly/14xBBV5 #rstats
+344965890045005824  Jun 12 19:54  @znmeb            Multicollinearity http://j.mp/17I0JeO #rstats #bigword
+344969700020723712  Jun 12 20:09  @Jowanza          RT @randyzwitch: Anyone in the #omniture and #rstats community want to help me add correlations/subrelations to the RSiteCatalyst package?
+344970177730981888  Jun 12 20:11  @duke_data        RT @se_hampton: Great news! RT @recology_: .@rOpensci now funded by the @SloanFoundation http://bit.ly/17HdUga #rstats #openscience
+344971326018158593  Jun 12 20:15  @yaacovp          Using Rickshaw in #rstats to create interactive FCAT graph based on 10 years of public available school data from @EducationFL
+344972513949925376  Jun 12 20:20  @mijopo           RT @revodavid: Any easy way to get financial time series into R - @revojoe's tutorial for @Quandl http://bit.ly/14xBBV5 #rstats
