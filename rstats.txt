@@ -8851,3 +8851,52 @@
 345508911790559233  Jun 14 07:51  @erwtokritos      Basic Classification in R: Neural Networks and Support Vector Machines! http://www.jeffheaton.com/2013/06/basic-classification-in-r-neural-networks-and-support-vector-machines/ #Rstats
 345524586382761984  Jun 14 08:54  @tcrug            Thank you to everyone who came out and saw @hadleywickham give a wonderful introduction to his devtools #rstats package last night! #tcrug
 345525295769595904  Jun 14 08:57  @erikriverson     RT @tcrug: Thank you to everyone who came out and saw @hadleywickham give a wonderful introduction to his devtools #rstats package last night! #tcrug
+345530294444634112  Jun 14 09:16  @alexk_z          Top 100 #Rstats packages, http://www.r-statistics.com/2013/06/top-100-r-packages-for-2013-jan-may/ kernlab http://cran.r-project.org/package=kernlab at spot 86
+345531622902341632  Jun 14 09:22  @PMeins           U dont have to choose between them MT @kdnuggets: Rmagic, bridging #Python & #Rstats -ipython extension 4 accessing R http://bit.ly/12JGJYq
+345535207564275713  Jun 14 09:36  @kobriendublin    @GISIreland @southmapr MT I'm doing tutorial on #maps in #rstats @useR_2013 http://www3.uclm.es/congresos/useR-2013/Tutorials/South.html … happy to run elsewhere for travel.
+345535338124546049  Jun 14 09:36  @hadleywickham    RT @tcrug: Thank you to everyone who came out and saw @hadleywickham give a wonderful introduction to his devtools #rstats package last night! #tcrug
+345535357057642497  Jun 14 09:37  @stetzer          Today I blogged about predicting Titanic survivorship for @kaggle using #rstats and random forests:  http://stetzer.github.io/2013/06/14/random-forests-of-titanic-survivors.html
+345535513991725056  Jun 14 09:37  @chemacortes      RT @PMeins: U dont have to choose between them MT @kdnuggets: Rmagic, bridging #Python & #Rstats -ipython extension 4 accessing R http://t.co/eh9yvaD1nN
+345536708831502336  Jun 14 09:42  @erwtokritos      #Rstats function returning more than one value! http://stackoverflow.com/questions/1826519/function-returning-more-than-one-value #stackoverflow
+345537836633714688  Jun 14 09:46  @kdnuggets        Top 100 R packages for 2013, their family trees; Strong weekly periodicity -most R hackers relax on weekends #rstats http://bit.ly/18GdJCO
+345537887489626112  Jun 14 09:47  @southmapr        @kobriendublin @GISIreland Yes! Very interested in talking #maps & #rstats in Ireland. See you in Spain, can email southandy at gmail
+345537943261282304  Jun 14 09:47  @erwtokritos      General-purpose optimization in #Rstats . optimx package http://www.inside-r.org/packages/cran/optimx/docs/optimx
+345542864597553152  Jun 14 10:06  @aad34210         RT @tcrug: Thank you to everyone who came out and saw @hadleywickham give a wonderful introduction to his devtools #rstats package last night! #tcrug
+345543082109980672  Jun 14 10:07  @quandl           Learning #R: Two Forthcoming Books http://qndl.co/11D8Kxq #rstats
+345543105958780928  Jun 14 10:07  @timelyportfolio  recreating @olly_smith morris.js tutorial from #rstats with @ramnath_vaidya #rCharts #slidify http://timelyportfolio.github.io/rCharts_morris_gettingstarted/ http://t.co/OKFm2YFn3l
+345543256173580288  Jun 14 10:08  @jordiferrer      RT @kdnuggets Top 100 R packages for 2013, their family trees; #rstats http://bit.ly/18GdJCO
+345543687842983936  Jun 14 10:10  @BDataScientist   Top 100 R packages for 2013 (Jan-May)! http://zite.to/153Ar0f via #datascience #rstats
+345545460678815745  Jun 14 10:17  @TrestleJeff      Dallas #rstats Users, come learn how to create publishable R packages (and other reproducible techniques) 6/29 @ 10AM http://www.meetup.com/Dallas-R-Users-Group/events/124213832/
+345546047730352128  Jun 14 10:19  @eight4eight      RT @kdnuggets: Top 100 R packages for 2013, their family trees; Strong weekly periodicity -most R hackers relax on weekends #rstats http://t.co/fzJeeeS722
+345549065985064960  Jun 14 10:31  @hadleywickham    RT @TrestleJeff: Dallas #rstats Users, come learn how to create publishable R packages (and other reproducible techniques) 6/29 @ 10AM http://t.co/ZA8aMiGo7L
+345551717582127108  Jun 14 10:42  @visualoop        RT @kdnuggets: Top 100 R packages for 2013, their family trees; Strong weekly periodicity -most R hackers relax on weekends #rstats http://t.co/fzJeeeS722
+345556862336385024  Jun 14 11:02  @benjaminlmoore   Good catch, #rstats http://t.co/6qIeCVTtbv
+345562630276145153  Jun 14 11:25  @quandl           Introduction to using Quandl in R | Quandl Blog http://qndl.co/11yYxhn #rstats #data
+345563586132836352  Jun 14 11:29  @i_314            RT @quandl: Introduction to using Quandl in R | Quandl Blog http://qndl.co/11yYxhn #rstats #data
+345564578358370304  Jun 14 11:33  @kinow            RT @quandl: Introduction to using Quandl in R | Quandl Blog http://qndl.co/11yYxhn #rstats #data
+345565679790989315  Jun 14 11:37  @Zagal_ermitanyo  RT @quandl: Introduction to using Quandl in R | Quandl Blog http://qndl.co/11yYxhn #rstats #data
+345572925727993856  Jun 14 12:06  @RLangTip         List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+345573320915288066  Jun 14 12:07  @cocoahn          RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+345576425660772352  Jun 14 12:20  @nashturley       My progress as a scientist seems to largely be a function of how many unexplained #R errors I get. Ahhh! #GradSchool #Rstats
+345576673128873984  Jun 14 12:21  @RESAQUABOREA     RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+345577486337318912  Jun 14 12:24  @RESAQUABOREA     RT @RLangTip: How to create interactive #rstats charts on the web with RGoogleVis: http://bit.ly/LpG9Vs (PDF)
+345581707870744576  Jun 14 12:41  @ypriverol        RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+345582027430580224  Jun 14 12:42  @revodavid        The top 10 #rstats packages, and how to count downloads of R packages (thanks @talgalili @hadleywickham) http://bit.ly/11eyPDu
+345582711718678529  Jun 14 12:45  @kevrichard       RT @revodavid: The top 10 #rstats packages, and how to count downloads of R packages (thanks @talgalili @hadleywickham) http://t.co/7ulcJwET3y
+345584246154469380  Jun 14 12:51  @theoneamit       RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+345589705292775424  Jun 14 13:13  @smithschoolsean  RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+345590314263777280  Jun 14 13:15  @statpumpkin      Wow, @hadleywickham responsible for 5 of these.  @revodavid: The top 10 #rstats packages  http://bit.ly/11eyPDu
+345590434552217601  Jun 14 13:15  @fredbenenson     RT @statpumpkin: Wow, @hadleywickham responsible for 5 of these.  @revodavid: The top 10 #rstats packages  http://bit.ly/11eyPDu
+345590443330895872  Jun 14 13:15  @statpumpkin      Fill in the blank:  @hadleywickham is the _______ of the #rstats community.
+345590858776731649  Jun 14 13:17  @statisticsblog   To catch a terrorist: @CjBayesian looks at the NSA PRISM program  http://i.cx/17LSQVS #R #RStats
+345594508559388672  Jun 14 13:32  @kuun_peal        Learning to programme in #R  has really helped my self-esteem and sense of security for the future. #rstats #programming
+345596697071742976  Jun 14 13:40  @jmgomez          RT @kdnuggets Practical Data Science with #rstats ebook, basic principles & real cases, how to collect & analyze data http://bit.ly/12JCNH5
+345599641057898496  Jun 14 13:52  @cureffi          Histone marks at 5' vs. 3' ends of genes: a gentle slope or sudden dropoff? http://www.cureffi.org/2013/06/14/histone-marks-at-5-vs-3-ends-of-genes-a-gentle-slope-or-sudden-dropoff/ #bioinformatics #epigenetics #rstats
+345604399411904512  Jun 14 14:11  @MattDabrowski    RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+345607526835957760  Jun 14 14:23  @nyhackr          Come to this month's #rstats meetup at @knewton featuring @ramnath_vaidya and sponsored by @CitibikeNYC http://bit.ly/1aIdpiH
+345608091347320833  Jun 14 14:26  @jmgomez          RT @josephwheatley: sometimes the best model is no model : blog post http://bit.ly/17LGsVR #rstats
+345610060203958275  Jun 14 14:33  @PPUAMX           RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+345611576365158400  Jun 14 14:39  @recology_        RT @nyhackr: Come to this month's #rstats meetup at @knewton featuring @ramnath_vaidya and sponsored by @CitibikeNYC http://bit.ly/1aIdpiH
+345611959963619328  Jun 14 14:41  @aDataHead        RT @siah: Tricks for efficiently reading large text files into R http://ow.ly/lYJ64 #rstats
+345612924259291137  Jun 14 14:45  @secretmirth      RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/19zQKc8 #rstats
+345612988927053825  Jun 14 14:45  @jaredlander      Excited to talk about #rstats and the Elastic Net in Tel Aviv on July 8th:  http://bit.ly/11Fzc6x
