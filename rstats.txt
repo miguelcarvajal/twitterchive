@@ -8941,3 +8941,21 @@
 345884888836222976  Jun 15 08:45  @mikeloukides     Data on data science: most popular packages for R. plyr, digest, ggplot2 leading. #rstats  http://bit.ly/1ael7Uu
 345885252700475393  Jun 15 08:47  @alexrcoley       RT @mikeloukides: Data on data science: most popular packages for R. plyr, digest, ggplot2 leading. #rstats  http://bit.ly/1ael7Uu
 345887101868449794  Jun 15 08:54  @joaquinarma      R y demografía. Quién lo iba a decir. #rstats https://sites.google.com/site/timriffepersonal/
+345893269928034304  Jun 15 09:19  @jeremyphoward    RT @mikeloukides: Data on data science: most popular packages for R. plyr, digest, ggplot2 leading. #rstats  http://bit.ly/1ael7Uu
+345898060674654208  Jun 15 09:38  @Rbloggers        Practicing static typing in R: Prime directive on trusting our functions with object oriented programm... http://bit.ly/16qXIwl #rstats
+345898061882609664  Jun 15 09:38  @Rbloggers        Interval Estimation of the Population Mean: Interval estimation of the population mean can be computed... http://bit.ly/16qXIwp #rstats
+345898063086383104  Jun 15 09:38  @Rbloggers        A list of R packages, by popularity: R package developer (and R-bloggers editor) Tal Galili just publi... http://bit.ly/12wWO2o #rstats
+345898064369836032  Jun 15 09:38  @Rbloggers        The equivalence of the ellipsis argument and an infinite set of closures: This post is about a practic... http://bit.ly/12wWMri #rstats
+345898065380638724  Jun 15 09:38  @Rbloggers        Sudoku Automation Solver Challenge – R: On a recent flight I was bored waiting for the plane to land a... http://bit.ly/12wWOiP #rstats
+345898914152599552  Jun 15 09:41  @izamryan         Saturday evening's activity: @coursera #rstats and "Introduction to computational finance and… http://instagram.com/p/alODmdKLXa/
+345906288435290112  Jun 15 10:11  @jmgomez          RT @StatsBlogs: Simulating Map-Reduce in R for Big Data Analysis Using Flights Data http://goo.gl/fb/tE0ta #rstats #bigdata
+345906485479489538  Jun 15 10:11  @PhillipTularak   RT @mikeloukides: Data on data science: most popular packages for R. plyr, digest, ggplot2 leading. #rstats  http://bit.ly/1ael7Uu
+345918808831180800  Jun 15 11:00  @GrahamIMac       Download and aggregate ACS data at relevant geographies. With margins of error. In 4 lines of code. #rstats http://bit.ly/13J6G7f
+345920279492583425  Jun 15 11:06  @Demografia_CSIC  Interval Estimation of the Population with R. http://bit.ly/16qXIwp #rstats vía @Rbloggers
+345920753595727872  Jun 15 11:08  @GrahamIMac       One more #rstats post. Simulating MapReduce: 122 million records, 12GB of data, < 2 hours to analyze. On a Macbook. http://bit.ly/17aD4EI
+345925754451795968  Jun 15 11:28  @gsantosgo        RT @StatsBlogs: Simulating Map-Reduce in R for Big Data Analysis Using Flights Data http://goo.gl/fb/tE0ta #rstats #bigdata
+345936725916393472  Jun 15 12:11  @econohammer      useful one-liner for building APIs in #rstats: function(...) { do.call("paste", c(list(...), sep="/")) }
+345947327174955008  Jun 15 12:54  @liondatasystems  #Rstats workshop at #OSCON on July 22 in Oregon http://www.oscon.com/oscon2013/public/schedule/detail/28772
+345947485254062080  Jun 15 12:54  @ADEH_demografia  RT @Demografia_CSIC: Interval Estimation of the Population with R. http://bit.ly/16qXIwp #rstats vía @Rbloggers
+345950100809457665  Jun 15 13:05  @orlandomezquita  RT @StatsBlogs: Simulating Map-Reduce in R for Big Data Analysis Using Flights Data http://bit.ly/11OXoqb #rstats #BigData
+345976638988767232  Jun 15 14:50  @PMeins           #dssg RT @StatsBlogs: Simulating Map-Reduce in R for Big Data Analysis Using Flights Data http://bit.ly/11OXoqb #rstats #BigData
