@@ -8900,3 +8900,25 @@
 345611959963619328  Jun 14 14:41  @aDataHead        RT @siah: Tricks for efficiently reading large text files into R http://ow.ly/lYJ64 #rstats
 345612924259291137  Jun 14 14:45  @secretmirth      RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/19zQKc8 #rstats
 345612988927053825  Jun 14 14:45  @jaredlander      Excited to talk about #rstats and the Elastic Net in Tel Aviv on July 8th:  http://bit.ly/11Fzc6x
+345618936907300864  Jun 14 15:09  @mhultstrom       RT @revodavid: The top 10 #rstats packages, and how to count downloads of R packages (thanks @talgalili @hadleywickham) http://t.co/7ulcJwET3y
+345620288395952128  Jun 14 15:14  @BrockTibert      This is phenominal.  I can't wait to use this to automate some reporting!  https://github.com/jimhester/knitrBootstrap  #rstats #reporting
+345624825794002945  Jun 14 15:32  @jmgomez          RT @erwtokritos: Basic Classification in R: Neural Networks and Support Vector Machines! http://www.jeffheaton.com/2013/06/basic-classification-in-r-neural-networks-and-support-vector-machines/ #Rstats
+345624943729455104  Jun 14 15:33  @nbrgraphs        RT @statpumpkin: Wow, @hadleywickham responsible for 5 of these.  @revodavid: The top 10 #rstats packages  http://bit.ly/11eyPDu
+345627720551645184  Jun 14 15:44  @hadleywickham    RT @revodavid: The top 10 #rstats packages, and how to count downloads of R packages (thanks @talgalili @hadleywickham) http://t.co/7ulcJwET3y
+345628732964356099  Jun 14 15:48  @ramnath_vaidya   RT @jaredlander: Excited to talk about #rstats and the Elastic Net in Tel Aviv on July 8th:  http://bit.ly/11Fzc6x
+345629096988000256  Jun 14 15:49  @ramnath_vaidya   RT @nyhackr: Come to this month's #rstats meetup at @knewton featuring @ramnath_vaidya and sponsored by @CitibikeNYC http://bit.ly/1aIdpiH
+345635602739367937  Jun 14 16:15  @y_buckley        RT @RLangTip: List of R functions and packages for Machine Learning &amp; Statistical Learning: http://bit.ly/nFTz0V #rstats
+345643223299026944  Jun 14 16:45  @quantlabs        July #Meetup Social #Meetup for #quant Matlab and #Rstats Users http://ow.ly/m2WRV
+345643348725485568  Jun 14 16:46  @SchaunW          Nice. Makes automated report generation from #rstats even more user friendly. https://github.com/jimhester/knitrBootstrap
+345651672502124544  Jun 14 17:19  @recology_        RT @SchaunW: Nice. Makes automated report generation from #rstats even more user friendly. https://github.com/jimhester/knitrBootstrap
+345653313863286784  Jun 14 17:25  @jbkunst          RT @SchaunW: Nice. Makes automated report generation from #rstats even more user friendly. https://github.com/jimhester/knitrBootstrap
+345659121510543361  Jun 14 17:48  @lenwood          OMG I love the power & simplicity of R. I needed to merge & dedup 60k rows from 5 CSVs. 9 lines of code & done. #rstats
+345661098646728704  Jun 14 17:56  @rtelmore         Finally...got Rmpi working on the new system! #rstats
+345669121242955776  Jun 14 18:28  @dsatya           RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+345670062629330945  Jun 14 18:32  @timelyportfolio  RT @nyhackr: Come to this month's #rstats meetup at @knewton featuring @ramnath_vaidya and sponsored by @CitibikeNYC http://bit.ly/1aIdpiH
+345670776248213504  Jun 14 18:35  @AliMakins        Good morning, Saturday. I drank two cups of coffee, and I'm ready to get deep into #rstats. Building a cool project management tool.
+345682761249599488  Jun 14 19:22  @bytebiscuit      RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+345692197586354177  Jun 14 20:00  @JohnFBruno       RT @TheAtavism: Nice. @cboettig describes how he approaches peer-review for papers describing software (specifically #Rstats libs) http://t.co/Hl5KntjbdE
+345694639841497088  Jun 14 20:09  @JohnFBruno       started w Systat 20 yrs ago, moved to JMP 2002, time to catch up w progress #Rstats #trainingwheelscominoff
+345695056763707392  Jun 14 20:11  @JohnFBruno       my new #rstats commands: data <- read.csv head(data) ?Arithmetic ncol(data) summary(data)
+345698319818977280  Jun 14 20:24  @rmflight         RT @JohnFBruno: Friday night plans? learning R! (yey Nerds!) http://nicercode.github.io/intro/ #rstats
