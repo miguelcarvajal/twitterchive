@@ -8922,3 +8922,16 @@
 345694639841497088  Jun 14 20:09  @JohnFBruno       started w Systat 20 yrs ago, moved to JMP 2002, time to catch up w progress #Rstats #trainingwheelscominoff
 345695056763707392  Jun 14 20:11  @JohnFBruno       my new #rstats commands: data <- read.csv head(data) ?Arithmetic ncol(data) summary(data)
 345698319818977280  Jun 14 20:24  @rmflight         RT @JohnFBruno: Friday night plans? learning R! (yey Nerds!) http://nicercode.github.io/intro/ #rstats
+345720656551354368  Jun 14 21:53  @tonyojeda3       Excited for our #rstats workshop tomorrow!  http://bit.ly/1auJ731 #datadc #dctech #DataScience
+345720658510106624  Jun 14 21:53  @DataCommunityDC  Excited for our #rstats workshop tomorrow!  http://bit.ly/1auJ731 #datadc #dctech #DataScience via @tonyojeda3
+345722703031963648  Jun 14 22:01  @recology_        RT @JohnFBruno: started w Systat 20 yrs ago, moved to JMP 2002, time to catch up w progress #Rstats #trainingwheelscominoff
+345740776774443009  Jun 14 23:13  @johannux         RT @kdnuggets: Top 100 R packages for 2013, their family trees; Strong weekly periodicity -most R hackers relax on weekends #rstats http://t.co/fzJeeeS722
+345757344619175936  Jun 15 00:19  @Gliders_Coach    RT @kdnuggets: Top 100 R packages for 2013, their family trees; Strong weekly periodicity -most R hackers relax on weekends #rstats http://t.co/fzJeeeS722
+345757383965949953  Jun 15 00:19  @Gliders_Coach    RT @statpumpkin: Wow, @hadleywickham responsible for 5 of these.  @revodavid: The top 10 #rstats packages  http://bit.ly/11eyPDu
+345760119683944448  Jun 15 00:30  @jmgomez          RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats #DataMining
+345766400637407232  Jun 15 00:55  @jmgomez          RT @RESAQUABOREA: How to create interactive #rstats charts on the web with RGoogleVis: http://bit.ly/LpG9Vs (PDF)
+345770289365393408  Jun 15 01:10  @Gliders_Coach    RT @jmgomez: RT @RESAQUABOREA: How to create interactive #rstats charts on the web with RGoogleVis: http://bit.ly/LpG9Vs (PDF)
+345781791845658625  Jun 15 01:56  @kevin_ushey      First stab at #rstats #shiny: An app for visualizing pkg dls over time from RStudio servers. https://github.com/cdrv/shinyPackageDownloads
+345784648854548480  Jun 15 02:07  @recology_        RT @kevin_ushey: First stab at #rstats #shiny: An app for visualizing pkg dls over time from RStudio servers. https://github.com/cdrv/shinyPackageDownloads
+345790152519581700  Jun 15 02:29  @liangzhed        RT @kevin_ushey: First stab at #rstats #shiny: An app for visualizing pkg dls over time from RStudio servers. https://github.com/cdrv/shinyPackageDownloads
+345790241455628288  Jun 15 02:29  @znmeb            @cartazio I'd feel I was cheating on #rstats and ATLAS, but, hey, ... ;-)
