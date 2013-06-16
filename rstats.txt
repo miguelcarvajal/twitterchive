@@ -9007,3 +9007,21 @@
 346146836672811008  Jun 16 02:06  @romain_francois  RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
 346151950158544897  Jun 16 02:27  @ChrisGandrud     Nice network graph examples with #rstats, #ggplot2, & #d3Network: http://politbistro.hypotheses.org/1782
 346158328826703873  Jun 16 02:52  @geospacedman     RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346181619360612352  Jun 16 04:25  @jmgomez          RT @kdnuggets Most popular #rstats pkgs: plyr, digest, ggplot2, colorspace, stringr, RColorBrewer, reshape2, zoo  http://bit.ly/1afCOTv
+346188751204122625  Jun 16 04:53  @dataJujitsu      RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346189375857651712  Jun 16 04:55  @JeromyAnglim     When does stepwise regression generate biased r-square? my #rstats simulation http://stats.stackexchange.com/questions/61809/does-stepwise-regression-provide-a-biased-estimate-of-population-r-square/61857#61857
+346194892852174849  Jun 16 05:17  @juanci           RT @jmgomez: RT @kdnuggets Most popular #rstats pkgs: plyr, digest, ggplot2, colorspace, stringr, RColorBrewer, reshape2, zoo  http://t.co/Fklr1kHhCc
+346194924837937152  Jun 16 05:17  @ibartomeus       RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346204449217323008  Jun 16 05:55  @alexk_z          Cool, #rstats geo-activity map based on the Rstudio CRAN logs, http://spatial.ly/2013/06/r_activity/
+346208961445380096  Jun 16 06:13  @msgbi            RT @chlalanne: Binary classification evaluation in #rstats via ROCR, http://bit.ly/15Rmsh6 (via @brendan642)
+346209432486694912  Jun 16 06:15  @jmgomez          RT @carlcarrie: Visualization of time series regression models vua @flavioclesio http://web.as.uky.edu/statistics/users/pbreheny/publications/visreg.pdf #dataviz #datamining #rstats
+346213331469729792  Jun 16 06:31  @msgbi            RT @chlalanne: Practical Graph Mining with #rstats http://prsm.tc/GS2Vck via @prismatic
+346214583238787072  Jun 16 06:36  @CMastication     The Pandas version of sqldf() from #rstats !! “@chlalanne: Using SQL, #pandas, and #python to Work With Data http://prsm.tc/KMBDq3 "
+346218143162695680  Jun 16 06:50  @MarchiMax        GoogleMaps video flyover with #rstats (ggmap + animation): http://tinyurl.com/flywr @hadleywickham @xieyihui
+346236430445584385  Jun 16 08:02  @dcemri           R Package for the Analysis of Dynamic Contrast-Enhanced MRI - v0.50 at http://SourceForge.net https://sourceforge.net/projects/dcemri/files/0.50/ #rstats #imaging #mri
+346236792464359424  Jun 16 08:04  @whitcher         RT @dcemri: R Package for the Analysis of Dynamic Contrast-Enhanced MRI - v0.50 at http://SourceForge.net https://sourceforge.net/projects/dcemri/files/0.50/ #rstats #imaging #mri
+346239293720768513  Jun 16 08:14  @fregis77         RT @CMastication: The Pandas version of sqldf() from #rstats !! “@chlalanne: Using SQL, #pandas, and #python to Work With Data http://t.co/6esLve6M0m "
+346240928551411712  Jun 16 08:20  @frod_san         RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346242043913310208  Jun 16 08:25  @hadleywickham    RT @ChrisGandrud: Nice network graph examples with #rstats, #ggplot2, & #d3Network: http://politbistro.hypotheses.org/1782
+346242744060084224  Jun 16 08:27  @danbri           RT @ChrisGandrud: Nice network graph examples with #rstats, #ggplot2, & #d3Network: http://politbistro.hypotheses.org/1782
+346247484848357376  Jun 16 08:46  @BrynRWilliams    RT @ChrisGandrud: Nice network graph examples with #rstats, #ggplot2, & #d3Network: http://politbistro.hypotheses.org/1782
