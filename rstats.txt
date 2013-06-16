@@ -8959,3 +8959,30 @@
 345947485254062080  Jun 15 12:54  @ADEH_demografia  RT @Demografia_CSIC: Interval Estimation of the Population with R. http://bit.ly/16qXIwp #rstats vía @Rbloggers
 345950100809457665  Jun 15 13:05  @orlandomezquita  RT @StatsBlogs: Simulating Map-Reduce in R for Big Data Analysis Using Flights Data http://bit.ly/11OXoqb #rstats #BigData
 345976638988767232  Jun 15 14:50  @PMeins           #dssg RT @StatsBlogs: Simulating Map-Reduce in R for Big Data Analysis Using Flights Data http://bit.ly/11OXoqb #rstats #BigData
+345989284479770624  Jun 15 15:40  @jmgomez          Getting started with twitteR in R http://ow.ly/1XtYCX #rstats #Twitter #datamining
+345995662694952960  Jun 15 16:06  @gvegayon         Estoy viendo el broadcast en vivo de #RstatsCL en @Ustream. ¡Míralo conmigo http://ustre.am/Yg8n ! #rstats
+345996867932389376  Jun 15 16:10  @quandl           @sharon000 on a Beginner's guide to R: Introduction http://qndl.co/16oiywt #rstats
+345997700996681728  Jun 15 16:14  @Bioconductor     #Bioconductor / #rstats BioC 2013 Annual Conference July 18-19 http://bit.ly/12Wr2ww final days for Workshop proposals!
+345998037665067008  Jun 15 16:15  @Bioconductor     #Bioconductor / #rstats BioC 2013 Annual Conference Developer Day starting to take shape http://bit.ly/18LatGz
+345999403045236736  Jun 15 16:21  @i_314            RT @Bioconductor: #Bioconductor / #rstats BioC 2013 Annual Conference Developer Day starting to take shape http://bit.ly/18LatGz
+346003226077831168  Jun 15 16:36  @datascifellows   RT @PMeins: #dssg RT @StatsBlogs: Simulating Map-Reduce in R for Big Data Analysis Using Flights Data http://bit.ly/11OXoqb #rstats #BigData
+346003657457803264  Jun 15 16:37  @datascifellows   RT @mikeloukides: Data on data science: most popular packages for R. plyr, digest, ggplot2 leading. #rstats  http://bit.ly/1ael7Uu
+346004172149235712  Jun 15 16:39  @walthdempsey     RT @PMeins: #dssg RT @StatsBlogs: Simulating Map-Reduce in R for Big Data Analysis Using Flights Data http://bit.ly/11OXoqb #rstats #BigData
+346006701402640385  Jun 15 16:50  @kdnuggets        Most popular R packages: plyr, digest, ggplot2, colorspace, stringr, RColorBrewer, reshape2, zoo, proto #rstats http://bit.ly/1afCOTv
+346006945838276609  Jun 15 16:50  @Mandar_2812      RT @kdnuggets: Most popular R packages: plyr, digest, ggplot2, colorspace, stringr, RColorBrewer, reshape2, zoo, proto #rstats http://t.co/FPOJwckwqy
+346017966497869826  Jun 15 17:34  @BrockTibert      I love when meet great #highered vendors and when I dig further, they have data engineers + data scientist positions w/ #rstats and #python
+346024561504043008  Jun 15 18:00  @attilacsordas    the technical part of the evening so far dedicated to #rstats & #tabplot package https://github.com/mtennekes/tabplot
+346038256737071104  Jun 15 18:55  @hadleywickham    RT @kevin_ushey: First stab at #rstats #shiny: An app for visualizing pkg dls over time from RStudio servers. https://github.com/cdrv/shinyPackageDownloads
+346038981588316160  Jun 15 18:58  @BrockTibert      scraped nearly 5K shots from this year's #NHL playoffs.  Avg dist for shots just over 35 feet.  Goals are avg 24 feet.  #stanleycup #rstats
+346039590001442818  Jun 15 19:00  @hashonomy_gus    A list of R packages, by popularity | (R news & tutorials) http://hashonomy.com/G5Qe/ #rstats (via @Rbloggers)
+346039631638302722  Jun 15 19:00  @hashonomy_gus    A list of R packages, by popularity | (R news & tutorials) http://hashonomy.com/I5Qe/ #rstats #datascience #dataviz (via @mikeloukides)
+346040113823875073  Jun 15 19:02  @BrockTibert      2705 Wrist Shots avg of  33 feet, 1057 Slap Shots at avg of 50 feet, 653 Snap shots at 36 feet, and 458 Backhands at 19.5 feet  #nhl #rstats
+346041296605032448  Jun 15 19:07  @dsatya           RT @kdnuggets: Most popular R packages: plyr, digest, ggplot2, colorspace, stringr, RColorBrewer, reshape2, zoo, proto #rstats http://t.co/FPOJwckwqy
+346046099489951744  Jun 15 19:26  @jkhartshorne     Anyone know what an exponent in lmer means? Formular: a~(b+c+d+e)^4+(1|items). Is this same as a~a*b*c*d*e+(1|items)? #rstats
+346046913772134401  Jun 15 19:29  @ucfagls          .@jkhartshorne extra `a` in there but yes; `^n` means a formula with main effects + nth order interactions. a~b*c*d*e + (1|items) #rstats
+346056079936978944  Jun 15 20:06  @ksugimot         RT @kdnuggets: Most popular R packages: plyr, digest, ggplot2, colorspace, stringr, RColorBrewer, reshape2, zoo, proto #rstats http://t.co/FPOJwckwqy
+346056373001416704  Jun 15 20:07  @hadleywickham    developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346056439703404544  Jun 15 20:07  @woodrad          RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346059576216535041  Jun 15 20:20  @abbass_sharif    RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346065955060871168  Jun 15 20:45  @geoffjentry      @hadleywickham and if they go to cran it keeps ppl from using T and F! #rstats
+346069408030011392  Jun 15 20:59  @cpsievert        RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
