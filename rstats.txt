@@ -8986,3 +8986,24 @@
 346059576216535041  Jun 15 20:20  @abbass_sharif    RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
 346065955060871168  Jun 15 20:45  @geoffjentry      @hadleywickham and if they go to cran it keeps ppl from using T and F! #rstats
 346069408030011392  Jun 15 20:59  @cpsievert        RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346071713617940480  Jun 15 21:08  @thomaslevine     RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346072824261275648  Jun 15 21:12  @andrewheiss      lubridate + plyr make time series manipulation in #rstats so fantastically easy. @hadleywickham is a wizard.
+346077318579625984  Jun 15 21:30  @OpenCUNY         RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346080128511655938  Jun 15 21:41  @rmflight         RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346082450524471297  Jun 15 21:51  @davetang31       Most have probably seen this already but if you didn't, here are the top 100 #Rstats packages for 2013 Jan - May http://www.r-bloggers.com/top-100-r-packages-for-2013-jan-may/
+346084273402552321  Jun 15 21:58  @DanMcGlinn       RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346087285332275200  Jun 15 22:10  @siah             Pretty useful question and answers "Grouping functions: sapply vs. lapply vs. apply. vs. tapply..." http://ow.ly/m4v7d #rstats
+346087874258677760  Jun 15 22:12  @nextgenseek      RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346090535687172096  Jun 15 22:23  @johnb30          RT @siah: Pretty useful question and answers "Grouping functions: sapply vs. lapply vs. apply. vs. tapply..." http://ow.ly/m4v7d #rstats
+346094696587739136  Jun 15 22:39  @Schweik1987      RT @siah: Pretty useful question and answers "Grouping functions: sapply vs. lapply vs. apply. vs. tapply..." http://ow.ly/m4v7d #rstats
+346097541458300928  Jun 15 22:50  @austinogilvie    RT @siah: Pretty useful question and answers "Grouping functions: sapply vs. lapply vs. apply. vs. tapply..." http://ow.ly/m4v7d #rstats
+346100171156885506  Jun 15 23:01  @dorageh          RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346106379485974528  Jun 15 23:26  @rOpenSci         RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346108707446337536  Jun 15 23:35  @ChrisGandrud     RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346114975082885120  Jun 16 00:00  @recology_        Use Rd2roxygen to convert .Rd man files to roxygen documentation  http://bit.ly/149mK0Y #rstats
+346115858457821185  Jun 16 00:03  @ucfagls          @recology_ like the idea of roxygen but miss the ability to layout usage sections nicely. e.g. roxygen doesn't line code up nicely. #rstats
+346118666804408320  Jun 16 00:14  @julian_urbano    RT @siah: Pretty useful question and answers "Grouping functions: sapply vs. lapply vs. apply. vs. tapply..." http://ow.ly/m4v7d #rstats
+346137461627424768  Jun 16 01:29  @jeremyphoward    RT @kdnuggets: Most popular R packages: plyr, digest, ggplot2, colorspace, stringr, RColorBrewer, reshape2, zoo, proto #rstats http://t.co/FPOJwckwqy
+346146836672811008  Jun 16 02:06  @romain_francois  RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346151950158544897  Jun 16 02:27  @ChrisGandrud     Nice network graph examples with #rstats, #ggplot2, & #d3Network: http://politbistro.hypotheses.org/1782
+346158328826703873  Jun 16 02:52  @geospacedman     RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
