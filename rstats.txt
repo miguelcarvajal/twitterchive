@@ -9090,3 +9090,36 @@
 346607933766905856  Jun 17 08:39  @BlasMBenito      RT @frod_san: Displaying time series, spatial and space-time data with #rstats. Great #dataviz with code http://oscarperpinan.github.io/spacetime-vis/
 346608201376075776  Jun 17 08:40  @DiseaseMapper    RT @frod_san: Displaying time series, spatial and space-time data with #rstats. Great #dataviz with code http://oscarperpinan.github.io/spacetime-vis/
 346608616008212480  Jun 17 08:41  @philipdurbin     @ChrisGandrud I'm curious what you think of @swordapp being mentioned by @psychemedia at http://blog.ouseful.info/2012/07/15/an-r-chitecture-for-reproducible-researchreportingdata-journalism/ #swordapp #rstats #rstudio
+346627818479812609  Jun 17 09:58  @Minkoo           RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346628313881649152  Jun 17 10:00  @Minkoo           RT @kdnuggets: Practical Data Science with R ebook, from basic principles to real cases - how to collect and analyze data #rstats  http://t.co/thSCLNDSWN
+346629218660134912  Jun 17 10:03  @Rbloggers        Distribution of car weights:  (This article was first published on   Wiekvoet, and kindly contribute... http://bit.ly/19JeDOG #rstats
+346629219918426112  Jun 17 10:03  @Rbloggers        The scaling of Expected Shortfall:  (This article was first published on   Portfolio Probe » R langu... http://bit.ly/13U8DML #rstats
+346629221004754946  Jun 17 10:03  @Rbloggers        Scenario analysis and trading options using R:  (This article was first published on   Quant-Day, an... http://bit.ly/19JeE52 #rstats
+346629222128840705  Jun 17 10:03  @Rbloggers        Annotating select points on an X-Y plot using ggplot2:  (This article was first published on   Bayes... http://bit.ly/13U8E31 #rstats
+346629223139643394  Jun 17 10:03  @Rbloggers        analyze the pesquisa de orcamentos familiares (pof) with r:  (This article was first published on   ... http://bit.ly/19JeE5c #rstats
+346630003989020672  Jun 17 10:06  @kognitio         #OANYC interesting sentiment analysis from @ikanowdata; would be a great use for MPP in-database #Rstats execution: http://www.kognitio.com/mpp_r/
+346631069820399617  Jun 17 10:11  @mjcavaretta      MT @kdnuggets: Practical #DataScience with R ebook, from basic principles to real cases -  #rstats  http://bit.ly/12JCNH5
+346642206800629762  Jun 17 10:55  @Jeylen           RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+346643657249669121  Jun 17 11:01  @dirkvandenpoel   Thanks for the many CRAN downloads of our R packages (#rstats). More info about the packages: http://www.crm.ugent.be/software.htm http://t.co/J6rUuNs9Ue
+346644402552311809  Jun 17 11:04  @_3s_             RT @dirkvandenpoel: Thanks for the many CRAN downloads of our R packages (#rstats). More info about the packages: http://www.crm.ugent.be/software.htm http://t.co/J6rUuNs9Ue
+346644699437740035  Jun 17 11:05  @GregMcI          RT @frod_san: Displaying time series, spatial and space-time data with #rstats. Great #dataviz with code http://oscarperpinan.github.io/spacetime-vis/
+346644959224541184  Jun 17 11:06  @MichelBallings   RT @dirkvandenpoel: Thanks for the many CRAN downloads of our R packages (#rstats). More info about the packages: http://www.crm.ugent.be/software.htm http://t.co/J6rUuNs9Ue
+346647465312808960  Jun 17 11:16  @siah             rCharts is an R package to create interactive visualizations from R using a lattice plotting interface. http://ow.ly/m5WMR #rstats
+346648421425360896  Jun 17 11:19  @hadleywickham    RT @dirkvandenpoel: Thanks for the many CRAN downloads of our R packages (#rstats). More info about the packages: http://www.crm.ugent.be/software.htm http://t.co/J6rUuNs9Ue
+346655704054112257  Jun 17 11:48  @anametrix        The top 10 #rstats packages, and how to count downloads of R packages (thanks @revodavid @talgalili @hadleywickham) http://bit.ly/11eyPDu
+346658811978854401  Jun 17 12:01  @ciamk            rCharts is an R package to create interactive visualizations from R using a lattice plotting interface. http://ow.ly/m5WDK #rstats
+346660160258834433  Jun 17 12:06  @RLangTip         sample(x) randomly shuffles the elements of a vector or list x #rstats http://bit.ly/x9UdLI
+346661443883659264  Jun 17 12:11  @inside_R         #rstats R user group meetings this week: Sheffield, New York, Denver, Los Angeles, Raleigh-Durham and Madrid (http://bit.ly/9hVAPE)
+346662784945233921  Jun 17 12:17  @recology_        [Blog] Stashing and playing with raw data locally from the web in #rstats http://bit.ly/11tbfQ1 #API #couchdb / would love your feedback
+346665063572185088  Jun 17 12:26  @thelabandfield   That sinking feeling you get when the code you wrote on one computer takes 3-4x as long on your current computer #postdoclife #rstats
+346673178950635522  Jun 17 12:58  @GraemeTLloyd     RT @RLangTip: sample(x) randomly shuffles the elements of a vector or list x #rstats http://bit.ly/x9UdLI
+346673256704651265  Jun 17 12:58  @v1pl             RT @RLangTip: sample(x) randomly shuffles the elements of a vector or list x #rstats http://bit.ly/x9UdLI
+346685787787628544  Jun 17 13:48  @rOpenSci         Simon Goring @sjGoring has a new post on his Neotoma package, part of the @rOpenSci suite. http://downwithtime.wordpress.com/2013/06/17/the-neotoma-package-for-r/ #rstats
+346685993585373184  Jun 17 13:49  @sjGoring         Showing off the functionality of the neotoma package for R. Paleo-data in R for open, reproducible research http://downwithtime.wordpress.com/2013/06/17/the-neotoma-package-for-r/ #rstats
+346686543206944768  Jun 17 13:51  @recology_        RT @rOpenSci: Simon Goring @sjGoring has a new post on his Neotoma package, part of the @rOpenSci suite. http://downwithtime.wordpress.com/2013/06/17/the-neotoma-package-for-r/ #rstats
+346690535886577666  Jun 17 14:07  @mjcavaretta      RT @sjGoring: Showing off the neotoma package for R. Paleo-data for research. http://downwithtime.wordpress.com/2013/06/17/the-neotoma-package-for-r/ #rstats #opendata #openscience
+346692938736205824  Jun 17 14:16  @recology_        Any #ggplot2 'ers know why these plots don't lay on top of one another? http://bit.ly/17Trj4X #rstats / they used to in older ggplot2 ver
+346694315059314689  Jun 17 14:22  @HIR_ME           RT @dirkvandenpoel: Thanks for the many CRAN downloads of our R packages (#rstats). More info about the packages: http://www.crm.ugent.be/software.htm http://t.co/J6rUuNs9Ue
+346696033541177344  Jun 17 14:29  @jaynal83         @useR_2013 Finally I have got my visa... can't wait to visit Spain and attend the conference #rstats
+346697341149007872  Jun 17 14:34  @recology_        wrt last blog tweet, see R4CouchDB #rstats pkg (http://bit.ly/rQhySE) for working with @CouchDB as alternative to mine (sofa) / @wactbprot
+346698332107841537  Jun 17 14:38  @richmanmax       Irritated by lack of easy #Rstats crosstab copy/paste, I hacked {gmodels} CrossTable to be comma separated. Gist: https://gist.github.com/mjrich/5799089

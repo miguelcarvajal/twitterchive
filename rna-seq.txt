@@ -2120,3 +2120,8 @@
 346588370098601984  Jun 17 07:21  @simonbulman      RT @Paul_R_Johnston: @IanDworkin @ctitusbrown  A comparison of methods for differential expression analysis of RNA-seq data http://t.co/j6MmWjjo81
 346601878643150848  Jun 17 08:15  @jjmerkin         RT @Paul_R_Johnston: @IanDworkin @ctitusbrown  A comparison of methods for differential expression analysis of RNA-seq data http://t.co/j6MmWjjo81
 346602652542582784  Jun 17 08:18  @drchriscole      RT @daweonline: #NGSDATA13 JH RGASP2 to assess computational methods for RNA-seq data. 3 datasets (hs, ce, dm), 76bp PE reads
+346619244550688769  Jun 17 09:24  @tuuliel          Cool! But how to visualize 100s of samples? MT ‏@Haldanessieve Sashimi plots: visualization of RNA seq alignments http://wp.me/p2FPFS-qj
+346619874426097664  Jun 17 09:26  @razibkhan        RT @tuuliel: Cool! But how to visualize 100s of samples? MT ‏@Haldanessieve Sashimi plots: visualization of RNA seq alignments http://t.co/0u2VR90jQs
+346621968105209856  Jun 17 09:34  @daweonline       #NGSDATA13 PW CLCbio does ANOVA on RNA-seq… mmm...
+346626745073537024  Jun 17 09:53  @joe_pickrell     RT @tuuliel: Cool! But how to visualize 100s of samples? MT ‏@Haldanessieve Sashimi plots: visualization of RNA seq alignments http://t.co/0u2VR90jQs
+346644150097154049  Jun 17 11:03  @daweonline       #NGSDATA13 MR subsetting RNA-seq samples => analysis is sensitive to outliers
