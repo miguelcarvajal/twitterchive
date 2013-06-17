@@ -2110,3 +2110,13 @@
 346511487428349952  Jun 17 02:15  @BGI_Events       Tasty RNA-seq study in #PLOSONE: In-Depth Transcriptomic Analysis on Giant Freshwater Prawns http://dx.plos.org/10.1371/journal.pone.0060839
 346512893778460672  Jun 17 02:21  @aadaudi          RT @BGI_Events: Tasty RNA-seq study in #PLOSONE: In-Depth Transcriptomic Analysis on Giant Freshwater Prawns http://dx.plos.org/10.1371/journal.pone.0060839
 346521853529042946  Jun 17 02:57  @yoshidamasaaki   RT @BGI_Events: Tasty RNA-seq study in #PLOSONE: In-Depth Transcriptomic Analysis on Giant Freshwater Prawns http://dx.plos.org/10.1371/journal.pone.0060839
+346536396426735617  Jun 17 03:54  @nob_fj           BroadInstituteがWXS(exome)をSangerCenterがWGS(whole genome)を多数登録している他、 各機関がどのようなNGSアプリ(RNA-Seq,ChIP-Seq等)に力を入れ方がある程度分かる。 http://cell-innovation.nig.ac.jp/cgi-bin/pub_stat/pub_stat61.cgi
+346537007482298368  Jun 17 03:57  @nob_fj           WUGSCのように実際にはgenome-seqや、RNA-Seqと思われるデータを、カテゴリの分からないOTHERS区分で登録してしまている例も少なくない。 このため、統計が実態とは多少違う場合も多々あると思います。 http://trace.ddbj.nig.ac.jp/DRASearch/query?organism=&study_type=Other&center_name=WUGSC&platform=&show=20&sort=Study
+346553896761708544  Jun 17 05:04  @RajanChaudhari   RNA-seq analysis reveals extensive transcriptional plasticity to temperature stress in a fres... http://1.usa.gov/19IwghF #NGS #sequencing
+346571977647063040  Jun 17 06:16  @ctitusbrown      RT @Paul_R_Johnston: @IanDworkin @ctitusbrown  A comparison of methods for differential expression analysis of RNA-seq data http://t.co/j6MmWjjo81
+346580735043436544  Jun 17 06:51  @daweonline       Jen Harrow Integrating RNA-seq into reference genome annotation #NGSDATA13
+346580744371585024  Jun 17 06:51  @RosselloFJ       RT @Paul_R_Johnston: @IanDworkin @ctitusbrown  A comparison of methods for differential expression analysis of RNA-seq data http://t.co/j6MmWjjo81
+346584293658746880  Jun 17 07:05  @daweonline       #NGSDATA13 JH RGASP2 to assess computational methods for RNA-seq data. 3 datasets (hs, ce, dm), 76bp PE reads
+346588370098601984  Jun 17 07:21  @simonbulman      RT @Paul_R_Johnston: @IanDworkin @ctitusbrown  A comparison of methods for differential expression analysis of RNA-seq data http://t.co/j6MmWjjo81
+346601878643150848  Jun 17 08:15  @jjmerkin         RT @Paul_R_Johnston: @IanDworkin @ctitusbrown  A comparison of methods for differential expression analysis of RNA-seq data http://t.co/j6MmWjjo81
+346602652542582784  Jun 17 08:18  @drchriscole      RT @daweonline: #NGSDATA13 JH RGASP2 to assess computational methods for RNA-seq data. 3 datasets (hs, ce, dm), 76bp PE reads

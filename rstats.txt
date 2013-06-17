@@ -9074,3 +9074,19 @@
 346486481260531713  Jun 17 00:36  @ucfagls          .@JGreenbrookHeld RCurl on CRAN (or a wrapper of it, httr, by @hadleywickham, also on CRAN) #rstats
 346500153064181760  Jun 17 01:30  @gtamazian        It seems that #rstats does not have any routines to handle efficiently with large #FASTA files.  What a pity!
 346518874004533248  Jun 17 02:45  @jmgomez          RT @siah: Visualizing Confusion Matrix using heatmap in R  http://ow.ly/m4CMb #rstats #datamining
+346523659361456128  Jun 17 03:04  @juanci           RT @jmgomez: RT @siah: Visualizing Confusion Matrix using heatmap in R  http://ow.ly/m4CMb #rstats #datamining
+346529562269732864  Jun 17 03:27  @boris_gorelik    #notetoself  #rstats equivalent of #python's os.path.join is file.path
+346532128957267968  Jun 17 03:37  @QuartzBio        Excellent review #Bioinformatics special report part I from @OneMedPlace http://www.onemedplace.com/blog/archives/13259 #PersonalizedMedicine #BigData #Rstats
+346533124051697665  Jun 17 03:41  @rajandranr       RT @quantlabs: I was thinking of #Python for #trading until I saw this very recent comparison with #Matlab and #Rstats http://t.co/h2LstSRxeh
+346533619927486464  Jun 17 03:43  @zekome           File Manipulations using R | Zeko.me Blog #linux #analytics #rstats http://blog.zeko.me/snowshoe/2013/06/file-manipulations-using-r/ http://t.co/yEcF6p3tSV
+346538812438085632  Jun 17 04:04  @PageViral        RT @zekome: File Manipulations using R | Zeko.me Blog #linux #analytics #rstats http://blog.zeko.me/snowshoe/2013/06/file-manipulations-using-r/ http://t.co/yEcF6p3tSV
+346577523192250368  Jun 17 06:38  @dw_p             In London for the CBNA Summer School on #SNA http://ow.ly/m60y9 with @ptubaro and others. Looking forward to it. #stats #Rstats @gephi
+346585401382809601  Jun 17 07:09  @tatvic           RT @natzir9: [Webinar] How to perform predictive analysis on your web analytics tool data - http://www.tatvic.com/perform-predictive-analysis-on-your-web-analytics-tool/ #measure #rstats
+346585523005038594  Jun 17 07:10  @timelyportfolio  RT @jaredlander: One more day until the talk from @ramnath_vaidya with @CitibikeNYC at @knewton #rstats http://bit.ly/1aIdpiH
+346585998806896640  Jun 17 07:11  @MarchiMax        @tangotiger everything in #rstats is cool. And cooler if ggplot2 is involved.
+346603194077573120  Jun 17 08:20  @noticiasSobreR   Hablaré de la EPA (y más cosas) en Medialab Prado: Este miércoles (2013-06-19 en formato ISO 8601: a v... http://tinyurl.com/kb9ecl9 #rstats
+346605986880057345  Jun 17 08:31  @frod_san         Displaying time series, spatial and space-time data with #rstats. Great #dataviz with code http://oscarperpinan.github.io/spacetime-vis/
+346606634711269377  Jun 17 08:33  @datennutzen      "Einführung in R" und "Zeitreihenanalysen mit R" Anfang Oktober - mehr unter: http://www.r-akademie.de/ #rstats #bigdata
+346607933766905856  Jun 17 08:39  @BlasMBenito      RT @frod_san: Displaying time series, spatial and space-time data with #rstats. Great #dataviz with code http://oscarperpinan.github.io/spacetime-vis/
+346608201376075776  Jun 17 08:40  @DiseaseMapper    RT @frod_san: Displaying time series, spatial and space-time data with #rstats. Great #dataviz with code http://oscarperpinan.github.io/spacetime-vis/
+346608616008212480  Jun 17 08:41  @philipdurbin     @ChrisGandrud I'm curious what you think of @swordapp being mentioned by @psychemedia at http://blog.ouseful.info/2012/07/15/an-r-chitecture-for-reproducible-researchreportingdata-journalism/ #swordapp #rstats #rstudio
