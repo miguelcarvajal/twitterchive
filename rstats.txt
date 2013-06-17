@@ -9061,3 +9061,16 @@
 346410882391228417  Jun 16 19:36  @sharon000        Spanking new rCharts site inspiring me to download and try some examples http://bit.ly/19cmFgb by @ramnath_vaidya #rstats
 346411964844621824  Jun 16 19:40  @quantlabs        #Free Webinar on #RSTATS #InteractiveBrokers together. This Tues June 18 http://ow.ly/m5342
 346420972456378369  Jun 16 20:16  @jugander         RT @siah: Tricks for efficiently reading large text files into R http://ow.ly/lYJ64 #rstats
+346440371607310336  Jun 16 21:33  @gvegayon         "A list of R packages, by popularity" http://feedly.com/k/11SBvGt more on #rstats packages pop #rstatscl
+346450057127673857  Jun 16 22:11  @qx               #rstats Loving aggregate() instead of tapply() for running descriptive tables in R: accepts multiple x, by, and FUN arguments & outputs a DF
+346450163453263872  Jun 16 22:12  @monsoontrader    RT @qx: #rstats Loving aggregate() instead of tapply() for running descriptive tables in R: accepts multiple x, by, and FUN arguments & outputs a DF
+346450712634462208  Jun 16 22:14  @johnvmcdonnell   RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+346451318099038208  Jun 16 22:16  @asedgwick        RT @_inundata: Fantastic new Github page for @ramnath_vaidya’s amazing rCharts http://bit.ly/10oiiOB #rstats #dataviz
+346457320487784449  Jun 16 22:40  @quantlabs        I was thinking of #Python for #trading until I saw this very recent comparison with #Matlab and #Rstats http://ow.ly/m539T
+346457904972431361  Jun 16 22:42  @Knewton          RT @jaredlander: One more day until the talk from @ramnath_vaidya with @CitibikeNYC at @knewton #rstats http://bit.ly/1aIdpiH
+346469032028954624  Jun 16 23:27  @JGreenbrookHeld  Complete this sentence: the best package to upload from R to a FTP is... #rstats
+346474882151874560  Jun 16 23:50  @monkmanmh        Blog post: X-Y labels with #ggplot2 & the #Mariners outfield. #rstats http://tinyurl.com/mrmly5u
+346479748295299073  Jun 17 00:09  @FastBigData      Come and learn #DataScience and R Melbourne July 18th and 19th #rstats #MachineLearning http://presciient.com/?page_id=107
+346486481260531713  Jun 17 00:36  @ucfagls          .@JGreenbrookHeld RCurl on CRAN (or a wrapper of it, httr, by @hadleywickham, also on CRAN) #rstats
+346500153064181760  Jun 17 01:30  @gtamazian        It seems that #rstats does not have any routines to handle efficiently with large #FASTA files.  What a pity!
+346518874004533248  Jun 17 02:45  @jmgomez          RT @siah: Visualizing Confusion Matrix using heatmap in R  http://ow.ly/m4CMb #rstats #datamining
