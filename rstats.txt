@@ -9123,3 +9123,38 @@
 346696033541177344  Jun 17 14:29  @jaynal83         @useR_2013 Finally I have got my visa... can't wait to visit Spain and attend the conference #rstats
 346697341149007872  Jun 17 14:34  @recology_        wrt last blog tweet, see R4CouchDB #rstats pkg (http://bit.ly/rQhySE) for working with @CouchDB as alternative to mine (sofa) / @wactbprot
 346698332107841537  Jun 17 14:38  @richmanmax       Irritated by lack of easy #Rstats crosstab copy/paste, I hacked {gmodels} CrossTable to be comma separated. Gist: https://gist.github.com/mjrich/5799089
+346709241769385984  Jun 17 15:21  @enterthesloth    @coloursofRLD re AP's suggestion RT @RLangTip: sample(x) randomly shuffles the elements of a vector or list x #rstats http://bit.ly/x9UdLI
+346714498712862720  Jun 17 15:42  @PPUAMX           RT @RLangTip: sample(x) randomly shuffles the elements of a vector or list x #rstats http://bit.ly/x9UdLI
+346716051603595265  Jun 17 15:48  @mfenner          RT @recology_: [Blog] Stashing and playing with raw data locally from the web in #rstats http://bit.ly/11tbfQ1 #API #couchdb / would love your feedback
+346725521167642624  Jun 17 16:26  @timelyportfolio  #rstats timeline of release @TimelineJS  http://embed.verite.co/timeline/?source=0AieeEIaS0AOsdHpPbmRaZkJtSW44M2pFQnRMaEJLcEE&font=Georgia-Helvetica&maptype=toner&lang=en&hash_bookmark=true&height=300#0 hope to build #rstats & #d3js w @ramnath_vaidya #rCharts & #slidify
+346730192720498688  Jun 17 16:44  @cpsievert        RT @timelyportfolio: #rstats timeline of release @TimelineJS  http://embed.verite.co/timeline/?source=0AieeEIaS0AOsdHpPbmRaZkJtSW44M2pFQnRMaEJLcEE&font=Georgia-Helvetica&maptype=toner&lang=en&hash_bookmark=true&height=300#0 hope to build #rstats & #d3js w @ramnath_vaidya #rCharts & #slidify
+346730674797027329  Jun 17 16:46  @BrockTibert      @albuquerquing Glad things worked out well. Qualtrics is awesome but you should def check out #rstats http://cran.us.r-project.org/ instead of SPSS
+346734108786966528  Jun 17 17:00  @DashingD3js      RT @timelyportfolio: #rstats timeline of release @TimelineJS  http://embed.verite.co/timeline/?source=0AieeEIaS0AOsdHpPbmRaZkJtSW44M2pFQnRMaEJLcEE&font=Georgia-Helvetica&maptype=toner&lang=en&hash_bookmark=true&height=300#0 hope to build #rstats & #d3js w @ramnath_vaidya #rCharts & #slidify
+346735673442705408  Jun 17 17:06  @BobRietveld      RT @_inundata: Fantastic new Github page for @ramnath_vaidya’s amazing rCharts http://bit.ly/10oiiOB #rstats #dataviz
+346739661235945473  Jun 17 17:22  @timelyportfolio  RT @monkmanmh: Blog post: X-Y labels with #ggplot2 & the #Mariners outfield. #rstats http://tinyurl.com/mrmly5u
+346739831403057153  Jun 17 17:23  @timelyportfolio  RT @_inundata: Fantastic new Github page for @ramnath_vaidya’s amazing rCharts http://bit.ly/10oiiOB #rstats #dataviz
+346750026351005698  Jun 17 18:03  @sharon000        @hylopsar sub(".*?-", "",str) The function gsub() is global for all matches. Use sub() not gsub() and add ? for non-greedy match #rstats
+346753697419763712  Jun 17 18:18  @DistribEcology   RT @recology_: [Blog] Stashing and playing with raw data locally from the web in #rstats http://bit.ly/11tbfQ1 #API #couchdb / would love your feedback
+346756723421376512  Jun 17 18:30  @TATA_BOX         Neural Networks with R – A Simple Example | Gekko Quant – Quantitative Trading http://gekkoquant.com/2012/05/26/neural-networks-with-r-simple-example/ #rstats
+346763753561407488  Jun 17 18:58  @cboettig         RT @recology_: Stashing and playing with raw data locally from the web in #rstats http://bit.ly/11tbfQ1 #API #couchdb / love feedback
+346764524243783680  Jun 17 19:01  @russellkt        RT @timelyportfolio: #rstats timeline of release @TimelineJS  http://embed.verite.co/timeline/?source=0AieeEIaS0AOsdHpPbmRaZkJtSW44M2pFQnRMaEJLcEE&font=Georgia-Helvetica&maptype=toner&lang=en&hash_bookmark=true&height=300#0 hope to build #rstats & #d3js w @ramnath_vaidya #rCharts & #slidify
+346767225342005248  Jun 17 19:12  @mspan            just started! Watching Ramnath Vaidyanathan ... "Interactive Documents with R" http://livestre.am/4aFTT via @livestream #rstats #visualization
+346767940248563712  Jun 17 19:14  @algaebarnacle    My new favorite R command is relevel() to change the categorical reference group in your regression! Such a handy little trick #rstats
+346768844418863104  Jun 17 19:18  @noamross         Is there a way to have #rstats print plain-text help in the console?
+346769172501520384  Jun 17 19:19  @timelyportfolio  See @ramnath_vaidya talk live http://www.livestream.com/knerd. #rstats #d3js
+346771035888164864  Jun 17 19:27  @recology_        RT @timelyportfolio: See @ramnath_vaidya talk live http://www.livestream.com/knerd. #rstats #d3js
+346771050018766849  Jun 17 19:27  @rOpenSci         RT @timelyportfolio: See @ramnath_vaidya talk live http://www.livestream.com/knerd. #rstats #d3js
+346772481819947009  Jun 17 19:32  @Research4Truth   RT @mspan: just started! Watching Ramnath Vaidyanathan ... "Interactive Documents with R" http://livestre.am/4aFTT via @livestream #rstats #visualization
+346773482694115329  Jun 17 19:36  @Rbloggers        Stashing and playing with raw data locally from the web:  (This article was first published on   Rec... http://bit.ly/18Tvjn3 #rstats
+346773483721740288  Jun 17 19:36  @Rbloggers        Zombie Apocalypse Survival Test – R-Powered (using Concerto):  (This article was first published on ... http://bit.ly/18Tvhvo #rstats
+346774096178200576  Jun 17 19:39  @oscarperpinan    On the RStudio download logs http://wp.me/pNSqK-lJ #rstats
+346776321394888705  Jun 17 19:48  @gappy3000        People of Statistics I need your help: what is the best survey/monograph of Empirical Bayes available? #rstats
+346776648416374784  Jun 17 19:49  @aneesha          RT @gappy3000: People of Statistics I need your help: what is the best survey/monograph of Empirical Bayes available? #rstats
+346778629520363520  Jun 17 19:57  @noamross         Asked on StackOverflow: How do I print the text of a help file to the console in #rstats? http://goo.gl/bQzFo @recology_ @davidjayharris
+346781155737075713  Jun 17 20:07  @revodavid        The Beginner's Guide to R by @sharon000 is excellent. The Resources section (Part 6) is an insta-bookmark http://bit.ly/14f3YW3 #rstats
+346781540694503424  Jun 17 20:08  @paldhous         MT @revodavid: The Beginner's Guide to R by @sharon000 is excellent, esp Resources section (Part 6)  http://bit.ly/14f3YW3 #rstats
+346782050285658113  Jun 17 20:10  @hadleywickham    RT @oscarperpinan: On the RStudio download logs http://wp.me/pNSqK-lJ #rstats
+346784855469723652  Jun 17 20:22  @hashonomy_gus    sample {base} | inside-R | A Community Site for R http://hashonomy.com/HXVe/ #rstats (via @RLangTip)
+346785697618862080  Jun 17 20:25  @timelyportfolio  Great job @ramnath_vaidya ; simply amazing dynamic and interactive #rstats http://www.livestream.com/knerd
+346787328255205377  Jun 17 20:31  @TroubadourRC     Love it! @Rbloggers Zombie Apocalypse Survival Test – R-Powered (using Concerto):  http://bit.ly/18Tvhvo  #rstats
+346787541468450816  Jun 17 20:32  @davidjayharris   RT @oscarperpinan: On the RStudio download logs http://wp.me/pNSqK-lJ #rstats
