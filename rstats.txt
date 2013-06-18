@@ -9177,3 +9177,49 @@
 346949430060134400  Jun 18 07:16  @sevve            Can't wait to get hands on #rChart package later today. I wonder how it deals with Wordpress? http://ramnathv.github.io/rCharts/ #dataviz #rstats #wow
 346961709354872832  Jun 18 08:04  @Biff_Bruise      MT @revodavid: The Beginner's Guide to R by @sharon000 is excellent. Resources section is an insta-bookmark http://bit.ly/14f3YW3 #rstats
 346969420536635392  Jun 18 08:35  @sharon000        Simple mapping with Leaflet and R: R2leaflet http://bit.ly/1aoCd1R #gis #rstats #ddj
+346978536831188992  Jun 18 09:11  @BrockTibert      @albuquerquing Steep(er) learning curve but #rstats has a huge community, cutting edge algorithms, and generally can do more advanced things
+346980526722260992  Jun 18 09:19  @znmeb            RT @sharon000: Simple mapping with Leaflet and R: R2leaflet http://bit.ly/1aoCd1R #gis #rstats #ddj
+346983183977435138  Jun 18 09:30  @datennutzen      #rstats im Qualitätswesen Chancen und Potenziale #industrie4.0 #bigdata http://blog.eoda.de http://t.co/mxSSbXSZ0l
+346990741396013058  Jun 18 10:00  @drdrewsteen      #Rstats question 1/2: I want to write function to analyze data in standard format, using standard workflow. Easy, except...
+346990948112293888  Jun 18 10:01  @drdrewsteen      #Rstats question 2/2: Workflow requires manually ID'ing & removing bad data points midway through analysis. Suggestions / examples of this?
+346993232464461826  Jun 18 10:10  @mjcavaretta      Great article. MT @Samir_Bhowmik: Majority of statistical analysis not by statisticians #bigdata http://simplystatistics.org/2013/06/14/the-vast-majority-of-statistical-analysis-is-not-performed-by-statisticians/ #datascience #rstats
+346993985174253569  Jun 18 10:13  @chrishanretty    Econ tweeps - how do you plot isocurves? I'm trying to draw a basic Stigler-Peltzman curve in #rstats and it's a bit laborious
+346994312283832320  Jun 18 10:14  @hadleywickham    my (brief) guide to #rstats data structures: https://github.com/hadley/devtools/wiki/Data-structures. What am I missing?
+346994982596509696  Jun 18 10:17  @tim_yates        RT @hadleywickham: my (brief) guide to #rstats data structures: https://github.com/hadley/devtools/wiki/Data-structures. What am I missing?
+346998371359260672  Jun 18 10:30  @webbedfeet       RT @revodavid: The Beginner's Guide to R by @sharon000 is excellent. http://bit.ly/14f3YW3 #rstats #datadc
+346999026639581184  Jun 18 10:33  @ikilgore         RT @hadleywickham: my (brief) guide to #rstats data structures: https://github.com/hadley/devtools/wiki/Data-structures. What am I missing?
+347000161530150912  Jun 18 10:37  @woodrad          RT @hadleywickham: my (brief) guide to #rstats data structures: https://github.com/hadley/devtools/wiki/Data-structures. What am I missing?
+347000925644288000  Jun 18 10:40  @timelyportfolio  using new timeline package for #rstats a #ggplot2 of R releases http://t.co/NQhJCdY3MI
+347000931814084608  Jun 18 10:40  @drnickpearce     RT @chrishanretty: Econ tweeps - how do you plot isocurves? I'm trying to draw a basic Stigler-Peltzman curve in #rstats and it's a bit laborious
+347002463464853504  Jun 18 10:46  @pat_mw           #Rstats but more likely sad to say #SignOfTheTimes http://www.bbc.co.uk/news/magazine-22935692
+347005837115531264  Jun 18 11:00  @monkmanmh        RT @tweetsbygeets: @angliawilliams  “@Rbloggers: Computerworld’s Beginners Guide to R:  http://bit.ly/18ULL6G #rstats”
+347008093323927553  Jun 18 11:09  @hadleywickham    RT @timelyportfolio: using new timeline package for #rstats a #ggplot2 of R releases http://t.co/NQhJCdY3MI
+347010270553571328  Jun 18 11:17  @delsweil         RT @timelyportfolio: using new timeline package for #rstats a #ggplot2 of R releases http://t.co/NQhJCdY3MI
+347012172657864704  Jun 18 11:25  @recology_        R2leaflet http://bit.ly/19NsbJ2 #rstats #javascript #leaflet
+347012838361018368  Jun 18 11:28  @TrestleJeff      Teaching #rstats packages this weekend. Can R 3.0 get around 'pdflatex' dependency in `R CMD CHECK` w/ Markdown? @hadleywickham @xieyihui
+347013387600936960  Jun 18 11:30  @denisparra       RT @hadleywickham: my (brief) guide to #rstats data structures: https://github.com/hadley/devtools/wiki/Data-structures. What am I missing?
+347017406583037952  Jun 18 11:46  @mjcavaretta      MT @KBannarMartin: New RInSp R pkg for measures of individual resource specialization!  (http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12079/abstract) #RStats #Ecology #opendata
+347020828610797569  Jun 18 11:59  @DinosaurusGrace  @Faye_L_Jackson you'll be uploading to CRAN before you know it! #Rstats
+347021731736735745  Jun 18 12:03  @jmgomez          RT @recology_ Stashing & playing w/ raw data locally from the web in #rstats http://bit.ly/11tbfQ1 #API #couchdb / would love your feedback
+347022470068449280  Jun 18 12:06  @RLangTip         How to credit R in a manuscript or article: citation(). Works for packages, too: citation("MASS") #rstats http://bit.ly/AfpXZF
+347023672705417217  Jun 18 12:11  @thelabandfield   RT @RLangTip: How to credit R in a manuscript or article: citation(). Works for packages, too: citation("MASS") #rstats http://t.co/ovmertOeKN
+347024909588914177  Jun 18 12:16  @KTInvasion       New post: Nuts and Bolts: Modern maps of Eurasia in R http://wp.me/p1Ye5e-a5 #rstats
+347024941004251136  Jun 18 12:16  @DataAtCU         TrainingTuesday - new way to use R! RT @sharon000: Simple mapping with Leaflet and R: R2leaflet http://bit.ly/1aoCd1R #gis #rstats #ddj
+347025897095831553  Jun 18 12:19  @joscani          RT @RLangTip: How to credit R in a manuscript or article: citation(). Works for packages, too: citation("MASS") #rstats http://t.co/ovmertOeKN
+347026603286601729  Jun 18 12:22  @carlislerainey   RT @jmonogan: Some neat tips for running parallel loops in R: http://www.r-bloggers.com/parallel-r-loops-for-windows-and-linux/ #rstats
+347027309406068736  Jun 18 12:25  @nsaphra          @GabrielleRab As a summer project every time someone raves about a #rstats package I should try implementing it in #julia.
+347027877012832256  Jun 18 12:27  @recology_        RT @KTInvasion: New post: Nuts and Bolts: Modern maps of Eurasia in R http://wp.me/p1Ye5e-a5 #rstats
+347031719708340224  Jun 18 12:43  @jermdemo         Are there examples of more informative PCA plots? You tell me! http://stats.stackexchange.com/q/62034/684?stw=2 #rstats
+347031794228535296  Jun 18 12:43  @Rbloggers        BCEA 1.3.0:  (This article was first published on   Gianluca Baio's blog, and kindly contributed to ... http://bit.ly/16EX5zo #rstats
+347034364711936000  Jun 18 12:53  @TATA_BOX         Computerworld’s Beginners Guide to R | (R news & tutorials) http://www.r-bloggers.com/computerworlds-beginners-guide-to-r/ #rstats
+347037633064624129  Jun 18 13:06  @acablag          #rstats needs #regexp class!!! =/
+347049508598841344  Jun 18 13:53  @jbspence         RT @RLangTip: How to credit R in a manuscript or article: citation(). Works for packages, too: citation("MASS") #rstats http://t.co/ovmertOeKN
+347051366461612032  Jun 18 14:01  @noamross         I wrote a little function for printing #rstats help files to the console or to #knitr docs http://goo.gl/7GkeR @recology_ @davidjayharris
+347051738303447040  Jun 18 14:02  @recology_        RT @noamross: I wrote a little function for printing #rstats help files to the console or to #knitr docs http://goo.gl/7GkeR @recology_ @davidjayharris
+347051855026745344  Jun 18 14:03  @KTInvasion       Quite excited about 1st #rstats post, was eager to submit blog to http://www.r-bloggers.com/ Turns out, need 2+ relevant posts. More work to do!
+347052908703010818  Jun 18 14:07  @recology_        #rstats fun: make pkg w/ fxns often used, but arent in base R or other pkg, @noamross http://bit.ly/1bSeKEm & mine http://bit.ly/1bSeIMt
+347056316101054465  Jun 18 14:20  @Rbloggers        Printing R help files in the console or in knitr documents:  (This article was first published on   ... http://bit.ly/18WWxZT #rstats
+347057523481772033  Jun 18 14:25  @DataParadigms    Reason 100 million why I like #rstats more than SAS:  that moment when you find somebody has already created a package to do what you want
+347062318955393024  Jun 18 14:44  @algaebarnacle    I still refer back to http://www.cookbook-r.com/ even after years of working in R - great tips for beginners & pros #rstats
+347062957768843264  Jun 18 14:47  @mjcavaretta      +1 RT @DataParadigms: Reason 100 million why I like #rstats more than SAS:  when you find somebody has created a package to do what you want
+347063453736914944  Jun 18 14:49  @mattmoehr        I love it when others are equally mystified by things that should never be looked at too closely. #rstats #sausage http://stackoverflow.com/questions/95007/explain-the-quantile-function-in-r
