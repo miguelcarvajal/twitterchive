@@ -9280,3 +9280,60 @@
 347333299649265664  Jun 19 08:41  @sharon000        Univ of Toronto visualizes data about students taking its 5 Coursera MOOCs http://bit.ly/15jqFYb #dataviz done with #rstats
 347337149533782019  Jun 19 08:56  @cloudHPC         Thanks to 50 people following my 3h tutorial about #rstats for #BI with #bigdata at #TDWI munich
 347337200381337600  Jun 19 08:56  @mrfumblethumbs   RT @sharon000: Univ of Toronto visualizes data about students taking its 5 Coursera MOOCs http://bit.ly/15jqFYb #dataviz done with #rstats
+347339826779017216  Jun 19 09:07  @robin_andersson  Experiencing the unwanted effect of combining ylim with geom_boxplot again. #rstats #ggplot
+347342728276889600  Jun 19 09:18  @yaacovp          Hilarious tshirt slogan: Yes we CRAN! (Latouche, 2009) #rstats
+347343105810374656  Jun 19 09:20  @jmgomez          Dynamic Data Visualizations in the Browser Using Shiny http://ow.ly/ma558 #rstats #dataviz
+347343160277610497  Jun 19 09:20  @hadleywickham    RT @sharon000: Univ of Toronto visualizes data about students taking its 5 Coursera MOOCs http://bit.ly/15jqFYb #dataviz done with #rstats
+347345038650511360  Jun 19 09:28  @monsoontrader    RT @yaacovp: Hilarious tshirt slogan: Yes we CRAN! (Latouche, 2009) #rstats
+347346514672226304  Jun 19 09:33  @znmeb            RT @sharon000: Univ of Toronto visualizes data about students taking its 5 Coursera MOOCs http://bit.ly/15jqFYb #dataviz done with #rstats
+347349166780997633  Jun 19 09:44  @hadleywickham    @joshua_ulrich until #rstats dies there will be a never ending stream of clueless noobies; if you let it get to you you will end up like BDR
+347350037925335040  Jun 19 09:47  @timelyportfolio  RT @nachocaballero: Your experiment is going to fail http://bit.ly/14010UR New blog post with  interactive #rstats plots using the upcoming Clickme version
+347350567468797953  Jun 19 09:50  @timelyportfolio  RT @eddelbuettel: Very nice post on quantitative asset allocation (with complete #rstats code) by Alexios http://goo.gl/DM5oZ
+347351995516088322  Jun 19 09:55  @M_T_Patterson    R Tutorial for Absolute Beginners: Sorting Vectors Using the Order Command. http://www.youtube.com/watch?v=QTHgIEtO59I&feature=youtu.be #RStats, #Teaching
+347352641464041472  Jun 19 09:58  @monsoontrader    RT @hadleywickham: @joshua_ulrich until #rstats dies there will be a never ending stream of clueless noobies; if you let it get to you you will end up like BDR
+347356919960309760  Jun 19 10:15  @loomit           RT @cloudHPC: Thanks to 50 people following my 3h tutorial about #rstats for #BI with #bigdata at #TDWI munich
+347357572908580864  Jun 19 10:17  @quandl           Top 100 R packages for 2013 (Jan-May) http://qndl.co/11jIqZP #rstats
+347357792220360705  Jun 19 10:18  @joscani          RT @jjgibaja: Curso presencial (6 horas) y gratuito de introducción al análisis de datos con #rstats: http://buff.ly/17WefvD
+347358657643696128  Jun 19 10:22  @mattmoehr        "Miscellaneous functions for analysis..." <- not a package description. c'mon son. #rstats
+347358873503535104  Jun 19 10:23  @M_T_Patterson    R Tutorial For Absolute Beginners: Regression in R http://www.youtube.com/watch?v=WXyC58gS6ow&feature=youtu.be #RStats, #Teaching
+347372217434259456  Jun 19 11:16  @timelyportfolio  @nachocaballero work in progress for history of #rstats plot fin time series; hope folks will correct errors http://t.co/TRzS9odQ22
+347372646045986816  Jun 19 11:17  @randyzwitch      I think I might have committed the rookie error of upgrading my #rstats installation to current and now messing up my analytics environment
+347373143876333569  Jun 19 11:19  @randyzwitch      @Jowanza I wasn't paying attention on my Linux VM when Linux said it wanted to update. It includes #rstats in updates where OSX doesnt
+347374653980946433  Jun 19 11:25  @randyzwitch      @Jowanza 3. I have a Linux VM so that I can use rattle for #rstats (since rattle doesn't currently work on OSX R3.x) and 2 Hadoop VMs
+347374922651287552  Jun 19 11:26  @rOpenSci         Blog: Revisiting our USGS app http://bit.ly/11LKBRe #rstats #shiny
+347377691567206400  Jun 19 11:37  @recology_        RT @rOpenSci: Blog: Revisiting our USGS app http://bit.ly/11LKBRe #rstats #shiny
+347378655221121024  Jun 19 11:41  @ramnath_vaidya   RT @rOpenSci: Blog: Revisiting our USGS app http://bit.ly/11LKBRe #rstats #shiny
+347380239346827265  Jun 19 11:47  @timelyportfolio  #rstats Financial Time Series Plotting from plot.default to rCharts  http://timelyportfolio.blogspot.com/2013/06/r-plotting-financial-time-series.html?spref=tw .@ramnath_vaidya .@nachocaballero
+347380851903963137  Jun 19 11:50  @mattmoehr        Bizarre. Appear to be ghost curves in the pattern of residuals in my log-log models. Artifact of the maths? #rstats http://t.co/GrKWMUK5fh
+347380878852358144  Jun 19 11:50  @quantlabs        Which RDMS or #NOSQL database do you use for #Rstats? #MySQL Cassandra HBase, MongoDB Oracle #PostgreSQL #SQLite? http://ow.ly/mbya7
+347381933585600512  Jun 19 11:54  @joshua_ulrich    RT @timelyportfolio: #rstats Financial Time Series Plotting from plot.default to rCharts  http://timelyportfolio.blogspot.com/2013/06/r-plotting-financial-time-series.html?spref=tw .@ramnath_vaidya .@nachocaballero
+347383805964869632  Jun 19 12:02  @idibon           Density plot=lovely, boxplot has chickenpox MT @jmgomez: Dynamic Data Viz in Browser Using Shiny http://ow.ly/ma558 #rstats #dataviz
+347384143941869569  Jun 19 12:03  @AlphaVu          RT @idibon: Density plot=lovely, boxplot has chickenpox MT @jmgomez: Dynamic Data Viz in Browser Using Shiny http://ow.ly/ma558 #rstats #dataviz
+347384885452877825  Jun 19 12:06  @RLangTip         Use the xtable package to convert a table or matrix to HTML: print(xtable(X), type="html") #rstats http://bit.ly/zrvgHJ
+347386277643030528  Jun 19 12:11  @sevve            RT @timelyportfolio: #rstats Financial Time Series Plotting from plot.default to rCharts  http://timelyportfolio.blogspot.com/2013/06/r-plotting-financial-time-series.html?spref=tw .@ramnath_vaidya .@nachocaballero
+347387383353860097  Jun 19 12:16  @theresacsar      "Dynamic Data Visualizations in the Browser Using Shiny"  #rstats  http://www.r-bloggers.com/dynamic-data-visualizations-in-the-browser-using-shiny/
+347387741832613888  Jun 19 12:17  @joscani          RT @RLangTip: Use the xtable package to convert a table or matrix to HTML: print(xtable(X), type="html") #rstats http://bit.ly/zrvgHJ
+347391448964005890  Jun 19 12:32  @jace48           RT @eddelbuettel: Very nice post on quantitative asset allocation (with complete #rstats code) by Alexios http://goo.gl/DM5oZ
+347392286981754880  Jun 19 12:35  @mjcavaretta      Very cool #dataviz. RT @theresacsar: "Dynamic Data Visualizations in the Browser Using Shiny"  #rstats  http://www.r-bloggers.com/dynamic-data-visualizations-in-the-browser-using-shiny/
+347393146428215296  Jun 19 12:39  @Jowanza          It takes the JSON string or it gets the hose again #Rstats
+347393844008058880  Jun 19 12:42  @bodromurti       RT @RLangTip: List of R functions and packages for Machine Learning & Statistical Learning: http://bit.ly/nFTz0V #rstats
+347396311152205825  Jun 19 12:51  @rfh100           RT @RLangTip: Use the xtable package to convert a table or matrix to HTML: print(xtable(X), type="html") #rstats http://bit.ly/zrvgHJ
+347401012581130240  Jun 19 13:10  @treycausey       Very annoying when ?function_name in #rstats returns help for class of functions but not usage examples of the specific function in question
+347401341183864832  Jun 19 13:11  @rmflight         RT @RLangTip: Use the xtable package to convert a table or matrix to HTML: print(xtable(X), type="html") #rstats http://bit.ly/zrvgHJ
+347402306217713664  Jun 19 13:15  @useR_2013        We have 3 different #rstats contests at #useR2013, check the prizes and apply!: http://www.r-project.org/useR-2013/
+347402476384813056  Jun 19 13:16  @emilopezcano     RT @useR_2013: We have 3 different #rstats contests at #useR2013, check the prizes and apply!: http://www.r-project.org/useR-2013/
+347404267927261185  Jun 19 13:23  @attilacsordas    Renjin is a new JVM-based interpreter 4 R to run on Google AppEngine http://code.google.com/p/renjin/ #rstats
+347404711428755456  Jun 19 13:25  @gjuggler         RT @attilacsordas: Renjin is a new JVM-based interpreter 4 R to run on Google AppEngine http://code.google.com/p/renjin/ #rstats
+347405776970727425  Jun 19 13:29  @dasmoth          RT @attilacsordas: Renjin is a new JVM-based interpreter 4 R to run on Google AppEngine http://code.google.com/p/renjin/ #rstats
+347406033150418946  Jun 19 13:30  @dasmoth          . @attilacsordas any idea if there's support for scripting #rstats objects/functions from other JVM languages?
+347407284831399938  Jun 19 13:35  @masemresearch    BCEA: An R package to perform Bayesian Cost-Effectiveness Analysis - Gianluca Baio #rstats | @scoopit http://sco.lt/71Lgx7
+347411274877001729  Jun 19 13:51  @KJungbauer       Essential companion for R: R Cookbook by #paulteetor #Rstats
+347412448757833729  Jun 19 13:55  @Rbloggers        Dallas R Users: Creating R Packages this Saturday, 6/22:  (This article was first published on   Tre... http://bit.ly/15kpTdj #rstats
+347414086172160001  Jun 19 14:02  @quantlabs        Which are my fave #GARCH #Rstats packages for #financial #forecasting and future #trading models http://ow.ly/mbyxT
+347418038171205632  Jun 19 14:18  @dbujan           RT @jjgibaja: Curso presencial (6 horas) y gratuito de introducción al análisis de datos con #rstats: http://buff.ly/17WefvD
+347419573101932544  Jun 19 14:24  @tonyfujs         Geographic distribution of youth served by the @LAYC in the Washington DC area. #dataviz #rstats #ggplot2 http://t.co/CzSRCqkkn4
+347423410583896064  Jun 19 14:39  @oscarperpinan    RT @timelyportfolio: #rstats Financial Time Series Plotting from plot.default to rCharts  http://timelyportfolio.blogspot.com/2013/06/r-plotting-financial-time-series.html?spref=tw .@ramnath_vaidya .@nachocaballero
+347423723680317440  Jun 19 14:40  @romain_francois  RT @useR_2013: We have 3 different #rstats contests at #useR2013, check the prizes and apply!: http://www.r-project.org/useR-2013/
+347427261542174720  Jun 19 14:54  @Rstats4Econ      RT @useR_2013: We have 3 different #rstats contests at #useR2013, check the prizes and apply!: http://www.r-project.org/useR-2013/
+347427326251909121  Jun 19 14:55  @Rbloggers        ANOVA and Tukey’s test on R:  (This article was first published on   Flavio Barros » r-bloggers, and... http://bit.ly/16KRjMJ #rstats
+347427390252789760  Jun 19 14:55  @quantlabs        Very Nice! My #Csharp program calls #Rstats Code through the R #dotNET package. Dancing in the streets! http://ow.ly/mbyNH
