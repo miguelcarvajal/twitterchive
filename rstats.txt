@@ -9257,3 +9257,26 @@
 347212431191310336  Jun 19 00:41  @arcalb           Sognare codice #Rstats ... Era bellissimo e cxxxo non me lo ricordo!!!
 347232377921212416  Jun 19 02:00  @DataScienceGeek  Practical #DataScience with #R ebook, from basic principles to real cases - how to collect and analyze data #rstats http://bit.ly/12JCNH5
 347236320436961280  Jun 19 02:16  @tatvic           #PredictiveAnalytics #Webinar #countdown > 12 hours! Check this #blogpost out and get warmed up now! http://bit.ly/15ixkla #measure #rstats
+347263607169507328  Jun 19 04:04  @ceptional        #Rstats For a data.frame from a supposedly fully crossed factorial design, verify all combos occurred equally often: http://stackoverflow.com/questions/17185829/check-that-all-combinations-occur-equally-often-for-specified-columns-of-a-dataf/17185830#17185830
+347271604050460673  Jun 19 04:36  @seh_mc           RT @ceptional: #Rstats For a data.frame from a supposedly fully crossed factorial design, verify all combos occurred equally often: http://t.co/xbfKKTGc1C
+347272193174032384  Jun 19 04:38  @ceptional        @hadleywickham That is so useful! Was always confused by differences among #rstats structures, this clears up a lot https://github.com/hadley/devtools/wiki/Data-structures
+347277929065107456  Jun 19 05:01  @josvandongen     Sitting in on "Using R for BI in Big Data" great stuff showing capabilities of #Rstats & #Shiny. Next up: R & #Hadoop. #TDWI
+347285298562088962  Jun 19 05:30  @Rbloggers        Le Monde puzzle [#825]:  (This article was first published on   Xi'an's Og » R, and kindly contribut... http://bit.ly/15iWFf2 #rstats
+347285306157961216  Jun 19 05:30  @josvandongen     Good to know: map-reduce programs written in R using RMR2 won't be the most efficient. #TDWI #Rstats
+347285491630092288  Jun 19 05:31  @jmgomez          Computerworld’s Beginners Guide to R http://ow.ly/m8teT #rstats #datamining
+347286196986200064  Jun 19 05:34  @kushan_s         RT @ramnath_vaidya: Dashifyr | Dashboards with R and Shiny http://glimmer.rstudio.com/ramnathv/dashifyr/ #rstats @winston_chang http://t.co/VtlQHXR9Yq
+347296544824905728  Jun 19 06:15  @jjgibaja         Curso presencial (6 horas) y gratuito de introducción al análisis de datos con #rstats: http://buff.ly/17WefvD
+347298275059171328  Jun 19 06:22  @jmgcorral        Interesante RT @jjgibaja: Curso presencial (6 horas) y gratuito de introducción al análisis de datos con #rstats: http://buff.ly/17WefvD
+347304034090250242  Jun 19 06:45  @alansloane       Today: fun at VU Amsterdam with #rstats and SPARQL http://t.co/IR3TNuP1eS
+347304040897589248  Jun 19 06:45  @unaguil          RT @jjgibaja: Curso presencial (6 horas) y gratuito de introducción al análisis de datos con #rstats: http://buff.ly/17WefvD
+347304974537072640  Jun 19 06:48  @VidCanC          RT @jjgibaja: Curso presencial (6 horas) y gratuito de introducción al análisis de datos con #rstats: http://buff.ly/17WefvD
+347307594135793665  Jun 19 06:59  @agapow           Notes on writing #knitr in restructured text: http://www.agapow.net/programming/r/writing-knitr-in-restructured-text/ #rstats
+347308694897315840  Jun 19 07:03  @lgatt0           Cool - @simon_andrews is at our #rstats devel course
+347310401328914432  Jun 19 07:10  @triveserrante    RT @jjgibaja: Curso presencial (6 horas) y gratuito de introducción al análisis de datos con #rstats: http://buff.ly/17WefvD
+347316381919887360  Jun 19 07:34  @joshua_ulrich    Why I loathe #stackoverflow: http://goo.gl/JbC2b. Notice the syntax error in the "function" comment. #rstats
+347318915673751552  Jun 19 07:44  @monsoontrader    RT @joshua_ulrich: Why I loathe #stackoverflow: http://goo.gl/JbC2b. Notice the syntax error in the "function" comment. #rstats
+347323362911076352  Jun 19 08:01  @hadleywickham    RT @TrestleJeff: Dallas R Users: Creating R Packages this Saturday, 6/22 http://trestletechnology.net/2013/06/dallas-r-users-creating-r-packages-this-saturday-622/ #rstats
+347328454271848448  Jun 19 08:22  @ErynMcFarlane    Frustrated w/ ASREML: it's not opensource, it's not userfriendly and it doesn't deal well with non-normal data. Brutal! #rstats #gradschool
+347333299649265664  Jun 19 08:41  @sharon000        Univ of Toronto visualizes data about students taking its 5 Coursera MOOCs http://bit.ly/15jqFYb #dataviz done with #rstats
+347337149533782019  Jun 19 08:56  @cloudHPC         Thanks to 50 people following my 3h tutorial about #rstats for #BI with #bigdata at #TDWI munich
+347337200381337600  Jun 19 08:56  @mrfumblethumbs   RT @sharon000: Univ of Toronto visualizes data about students taking its 5 Coursera MOOCs http://bit.ly/15jqFYb #dataviz done with #rstats
