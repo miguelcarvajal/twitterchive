@@ -9223,3 +9223,28 @@
 347062318955393024  Jun 18 14:44  @algaebarnacle    I still refer back to http://www.cookbook-r.com/ even after years of working in R - great tips for beginners & pros #rstats
 347062957768843264  Jun 18 14:47  @mjcavaretta      +1 RT @DataParadigms: Reason 100 million why I like #rstats more than SAS:  when you find somebody has created a package to do what you want
 347063453736914944  Jun 18 14:49  @mattmoehr        I love it when others are equally mystified by things that should never be looked at too closely. #rstats #sausage http://stackoverflow.com/questions/95007/explain-the-quantile-function-in-r
+347069074674683907  Jun 18 15:11  @NHoughSnee       RT @recology_: #rstats fun: make pkg w/ fxns often used, but arent in base R or other pkg, @noamross http://bit.ly/1bSeKEm & mine http://t.co/Rd3lvBZaUm
+347069840101613568  Jun 18 15:14  @ucfagls          @recology_ timely reminder for me to put up some more of my #rstats funs into github instead of locked away on my HDD @noamross
+347084776601174016  Jun 18 16:13  @denisohora       #rstats legend Hadley Wickham is in Dublin next week talking about #bigdata http://www.meetup.com/DublinR/events/120176332/
+347086031620808704  Jun 18 16:18  @randyzwitch      Odd question perhaps, but is there any good way to determine how fast a random forest will complete in #rstats w/o directly benchmarking?
+347086447309893632  Jun 18 16:20  @Rbloggers        Dynamic Data Visualizations in the Browser Using Shiny:  (This article was first published on   imDE... http://bit.ly/19OmZ7x #rstats
+347097053161201664  Jun 18 17:02  @useR_2013        How do you like the #useR2013 Conference poster? http://www.edii.uclm.es/~useR-2013/docs/Cartel_Congreso_R.pdf #rstats
+347097084178100224  Jun 18 17:02  @emilopezcano     RT @useR_2013: How do you like the #useR2013 Conference poster? http://www.edii.uclm.es/~useR-2013/docs/Cartel_Congreso_R.pdf #rstats
+347100612233687041  Jun 18 17:16  @datamarket       got a mention in ComputerWorld earlier this month. If you are into #Rstats, check out our rdatamarket package... http://www.computerworld.com/s/article/9239637/Beginner_s_guide_to_R_Get_your_data_into_R
+347100720241192960  Jun 18 17:17  @MikeGruz         RT @jmonogan: Some neat tips for running parallel loops in R: http://www.r-bloggers.com/parallel-r-loops-for-windows-and-linux/ #rstats
+347101016879136768  Jun 18 17:18  @rossnelson       RT @jmonogan: Some neat tips for running parallel loops in R: http://www.r-bloggers.com/parallel-r-loops-for-windows-and-linux/ #rstats
+347101999701037057  Jun 18 17:22  @rorymorr         #Rstats anybody know if a generalized estimating equation package (like 'gee') can be made to work alongside Lumley's 'survey' package?
+347102320145879040  Jun 18 17:23  @rorymorr         #Rstats to conduct a procedure analogous to a ordinal logistic regression (with no proportional odds assumption).
+347103671970037760  Jun 18 17:28  @rOpenSci         RT @datamarket: got a mention in ComputerWorld earlier this month. If you are into #Rstats, check out our rdatamarket package... http://t.co/F6DHdKlHZ6
+347104640971718658  Jun 18 17:32  @hadleywickham    RT @denisohora: #rstats legend Hadley Wickham is in Dublin next week talking about #bigdata http://www.meetup.com/DublinR/events/120176332/
+347105788545888258  Jun 18 17:37  @eddelbuettel     Very nice post on quantitative asset allocation (with complete #rstats code) by Alexios http://goo.gl/DM5oZ
+347106383495303169  Jun 18 17:39  @i_314            RT @eddelbuettel: Very nice post on quantitative asset allocation (with complete #rstats code) by Alexios http://goo.gl/DM5oZ
+347107791816753152  Jun 18 17:45  @gmckeown         RT @denisohora: #rstats legend Hadley Wickham is in Dublin next week talking about #bigdata http://www.meetup.com/DublinR/events/120176332/
+347114719594811393  Jun 18 18:12  @charlestweets    #rstats for cumulative sum: df <- within(df, acc_sum <- cumsum(count))
+347114815912816641  Jun 18 18:13  @charlestweets    #rstats color reference for ggplot2 http://sape.inf.usi.ch/quick-reference/ggplot2/colour
+347114945881731072  Jun 18 18:13  @rich_            RT @denisohora: #rstats legend Hadley Wickham is in Dublin next week talking about #bigdata http://www.meetup.com/DublinR/events/120176332/” @nhcooper123
+347119039325286400  Jun 18 18:30  @jbryer           RT @timelyportfolio: using new timeline package for #rstats a #ggplot2 of R releases http://t.co/NQhJCdY3MI
+347125645639294976  Jun 18 18:56  @KirkwoodLab      RT @algaebarnacle: I still refer back to http://www.cookbook-r.com/ even after years of working in R - great tips for beginners & pros #rstats
+347142578711429121  Jun 18 20:03  @PPUAMX           RT @RLangTip: How to credit R in a manuscript or article: citation(). Works for packages, too: citation("MASS") #rstats http://t.co/ovmertOeKN
+347153793399533568  Jun 18 20:48  @nachocaballero   Your experiment is going to fail http://bit.ly/14010UR New blog post with  interactive #rstats plots using the upcoming Clickme version
+347154522000457731  Jun 18 20:51  @rhatol           RT @RLangTip  Better R #rstats console fonts http://bit.ly/elVw2
