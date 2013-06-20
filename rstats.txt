@@ -9392,3 +9392,22 @@
 347589004004315137  Jun 20 01:37  @chlalanne        Draw nicer Classification and Regression Trees with the rpart.plot package #rstats http://prsm.tc/UzS7UC via @prismatic
 347590570857869313  Jun 20 01:43  @retroflekt       RT @drago_carlo: Recomendation System in R http://feedly.com/k/13Ur2KH @feedly  #MachineLearning #DataMining #Rstats
 347599491047768065  Jun 20 02:19  @chlalanne        RT @drago_carlo: Recomendation System in R http://feedly.com/k/13Ur2KH @feedly  #MachineLearning #DataMining #Rstats
+347615177493057536  Jun 20 03:21  @cuche27          @tibastral @lucasdicioccio dont think there is a function for that. Create a zero matrix with final dim and use for loop to fill it. #rstats
+347626759388295168  Jun 20 04:07  @coulmont         Objectif de la journée : arriver à manipuler correctement ddply() de plyr #rstats
+347632803501981696  Jun 20 04:31  @ErynMcFarlane    ASREML: Sorry that I yelled. We have our differences, but we still need to work together, okay? I'll be less abusive if you'll work. #Rstats
+347652819039436800  Jun 20 05:51  @martinmev        RT @drago_carlo: Recomendation System in R http://feedly.com/k/13Ur2KH @feedly  #MachineLearning #DataMining #Rstats
+347659035308326912  Jun 20 06:15  @Rbloggers        Spatial Overlays with R – Retrieving Polygon Attributes for a Set of Points:  (This article was firs... http://bit.ly/145KnqU #rstats
+347664150945746944  Jun 20 06:36  @rafaldotnet      Build a recommender engine in #Rstats + #Python—as a collaborative filtering algorithm. New post by @YhatHQ http://blog.yhathq.com/posts/recommender-system-in-r.html
+347671374665482240  Jun 20 07:04  @MassimoMorelli   RT @rafaldotnet: Build a recommender engine in #Rstats + #Python—as a collaborative filtering algorithm. New post by @YhatHQ http://t.co/O9avEJhHVN
+347674077521145857  Jun 20 07:15  @jmgomez          MT @chlalanne: Check out http://rcharts.github.io/, an #rstats pkg to create, customize & publish interactive JS #dataviz (via @ramnath_vaidya)
+347674329338740736  Jun 20 07:16  @padjiman         just discovered this website http://www.yhathq.com/ and their blog http://blog.yhathq.com/ already a fan #datascience #rstats #Python
+347676207409680384  Jun 20 07:24  @stephaniehicks   I find it interesting the most pop R packages are for graphics & processing data (vs stat learning methods) http://www.r-bloggers.com/a-list-of-r-packages-by-popularity/ #rstats
+347676436443836417  Jun 20 07:24  @useR_2013        Extended deadline for the #rstats Data Analysis Contest at #useR2013: June 30. Send your proposal and get the prize! http://www.r-project.org/useR-2013/
+347676546129072128  Jun 20 07:25  @frprinsen        RT @sharon000: Univ of Toronto visualizes data about students taking its 5 Coursera MOOCs http://bit.ly/15jqFYb #dataviz done with #rstats
+347677029229031424  Jun 20 07:27  @useR_2013        New in the social program at #useR2013: Join us for a tour on Saturday 13. http://www.r-project.org/useR-2013/social.html #rstats
+347680706249494528  Jun 20 07:41  @benjaminlind     RT @ChrisGandrud: Nice network graph examples with #rstats, #ggplot2, & #d3Network: http://politbistro.hypotheses.org/1782
+347681320773758976  Jun 20 07:44  @sheilmcn         RT @sharon000: Univ of Toronto visualizes data about students taking its 5 Coursera MOOCs http://bit.ly/15jqFYb #dataviz done with #rstats
+347686266218885121  Jun 20 08:04  @raunakjhawar     RT @rafaldotnet: Build a recommender engine in #Rstats + #Python—as a collaborative filtering algorithm. New post by @YhatHQ http://t.co/O9avEJhHVN
+347689076339654656  Jun 20 08:15  @jmgomez          RT @drago_carlo: Recomendation System in R http://feedly.com/k/13Ur2KH @feedly  #MachineLearning #DataMining #Rstats #recsys
+347697128866459649  Jun 20 08:47  @southmapr        @useR_2013 @kobriendublin @emilopezcano Fantastico, I'm in for drinks (y tapas?) Monday 8th eve pre #useR2013 #rstats
+347699278543728640  Jun 20 08:55  @IronistM         Trying Zero Lag Exponential Moving Average to predict Web Traffic #rstats #googleanalytics http://bit.ly/1bZrzwu
