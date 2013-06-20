@@ -9337,3 +9337,41 @@
 347427261542174720  Jun 19 14:54  @Rstats4Econ      RT @useR_2013: We have 3 different #rstats contests at #useR2013, check the prizes and apply!: http://www.r-project.org/useR-2013/
 347427326251909121  Jun 19 14:55  @Rbloggers        ANOVA and Tukey’s test on R:  (This article was first published on   Flavio Barros » r-bloggers, and... http://bit.ly/16KRjMJ #rstats
 347427390252789760  Jun 19 14:55  @quantlabs        Very Nice! My #Csharp program calls #Rstats Code through the R #dotNET package. Dancing in the streets! http://ow.ly/mbyNH
+347432149827342336  Jun 19 15:14  @M_T_Patterson    Introduction to R (for absolute beginners): Using Scripts (what they are, why they're useful) http://www.youtube.com/watch?v=XsUjwnvAvSU&feature=youtu.be #Teaching, #RStats
+347434536533123072  Jun 19 15:23  @treycausey       Anyone know of a quick guide to replacing values in a wide dataframe with values in a long dataframe matching on a key? #rstats
+347436142897033218  Jun 19 15:30  @lucasdicioccio   #lazyR #rstats, how do you combine a list of matrices into one matrix (initial list becomes the diagonal, rest is populated with zero)?
+347438520681500672  Jun 19 15:39  @stephaniehicks   My new favorite answer for 'What is #github?' "Github is like facebook for programmers" via @kwbroman :) http://kbroman.github.io/github_tutorial/pages/why.html #rstats
+347438882742218752  Jun 19 15:40  @quantlabs        The HUGE edge of #Matlab over #Rstats is the Matlab Coder Toolbox. Converting R script code to #Cpp or #C? http://ow.ly/mbz8e
+347441614408540160  Jun 19 15:51  @rmflight         right, VignetteBuilder: knitr needed to use knitr as the engine. build_vignettes returns NULL otherwise #rstats
+347448947628969984  Jun 19 16:20  @quantlabs        Say goodbye to our #Rstats blog section but more focus on #Matlab for #quant strategy and new #trading models http://ow.ly/mbzDa
+347456783729717249  Jun 19 16:52  @chlalanne        Check out http://rcharts.github.io/, an #rstats package to create, customize and publish interactive JS visualizations. (via @ramnath_vaidya)
+347457050927837186  Jun 19 16:53  @recology_        RT @chlalanne: Check out http://rcharts.github.io/, an #rstats package to create, customize and publish interactive JS visualizations. (via @ramnath_vaidya)
+347460591155290112  Jun 19 17:07  @amestadmx        RT @RLangTip: Use the xtable package to convert a table or matrix to HTML: print(xtable(X), type="html") #rstats http://bit.ly/zrvgHJ
+347462167295057920  Jun 19 17:13  @gsantosgo        Curso presencial (6 horas) y gratuito de introducción al análisis de datos con #rstats: http://buff.ly/17WefvD
+347464570861928449  Jun 19 17:23  @timelyportfolio  RT @chlalanne: Check out http://rcharts.github.io/, an #rstats package to create, customize and publish interactive JS visualizations. (via @ramnath_vaidya)
+347465125713813504  Jun 19 17:25  @timelyportfolio  quick youtube on #rstats #ipython style notebook with #rCharts and @shutterstock #rickshaw #d3js http://www.youtube.com/watch?v=pHfRM7zAGyA
+347465364168380416  Jun 19 17:26  @timelyportfolio  RT @quantlabs: Very Nice! My #Csharp program calls #Rstats Code through the R #dotNET package. Dancing in the streets! http://t.co/7i1jKBHPyT
+347465524986392576  Jun 19 17:26  @timelyportfolio  RT @attilacsordas: Renjin is a new JVM-based interpreter 4 R to run on Google AppEngine http://code.google.com/p/renjin/ #rstats
+347467958550925314  Jun 19 17:36  @stephaniehicks   Getting started with #samtools and Rsamtools http://statisticalrecipes.blogspot.com/2013/06/getting-started-with-samtools-and.html #genomics #bioinformatics #NGS #rstats #bioconductor
+347469986694066176  Jun 19 17:44  @agnesevardanega  Grazie @insula_r #follow #rstats
+347474392432902144  Jun 19 18:02  @Ognyanova        Finally updating to R 3.0.0 - I'm now taking bets on what packages and/or pieces of code I'm currently writing will stop working ;) #rstats
+347475324843483136  Jun 19 18:05  @ceptional        @hadleywickham Thanks, totally ignorant of speed optimization in #Rstats (besides for loops). No big data. I'm a small-data scientist :)
+347475548982874113  Jun 19 18:06  @insula_r         @agnesevardanega complimenti per il tutorial, veramente utile! #rstats
+347476481078865920  Jun 19 18:10  @rguha            RT @attilacsordas: Renjin is a new JVM-based interpreter 4 R to run on Google AppEngine http://code.google.com/p/renjin/ #rstats
+347486881275052033  Jun 19 18:51  @openfisheries    RT @chlalanne: Check out http://rcharts.github.io/, an #rstats package to create, customize and publish interactive JS visualizations. (via @ramnath_vaidya)
+347489727794003968  Jun 19 19:03  @PPUAMX           RT @RLangTip: Use the xtable package to convert a table or matrix to HTML: print(xtable(X), type="html") #rstats http://bit.ly/zrvgHJ
+347498897595326464  Jun 19 19:39  @gvegayon         Evaluating Optimization Algorithms in MATLAB, Python, and R http://feedly.com/k/101x5fY #rstats #vs #py
+347500432551198720  Jun 19 19:45  @DataJunkie       RT @chlalanne: Check out http://rcharts.github.io/, an #rstats package to create, customize and publish interactive JS visualizations. (via @ramnath_vaidya)
+347503726514286592  Jun 19 19:58  @revodavid        You can use the "prp" #rstats function to draw nice CART trees. Even works with @RevolutionR big-data trees http://bit.ly/16hG65z
+347505533894402048  Jun 19 20:05  @visualoop        RT @chlalanne: Check out http://rcharts.github.io/, an #rstats package to create, customize and publish interactive JS visualizations. (via @ramnath_vaidya)
+347506132673232896  Jun 19 20:08  @tdoyon           RT @revodavid: You can use the "prp" #rstats function to draw nice CART trees. Even works with @RevolutionR big-data trees http://t.co/qK0RILC8mD
+347506184636481536  Jun 19 20:08  @DataJunkie       RT @revodavid: You can use the "prp" #rstats function to draw nice CART trees. Even works with @RevolutionR big-data trees http://t.co/qK0RILC8mD
+347508634365861888  Jun 19 20:18  @stetzer          RT @revodavid: You can use the "prp" #rstats function to draw nice CART trees. Even works with @RevolutionR big-data trees http://t.co/qK0RILC8mD
+347510625624260608  Jun 19 20:26  @rhoitman         RT @chlalanne: Check out http://rcharts.github.io/, an #rstats package to create, customize and publish interactive JS visualizations. (via @ramnath_vaidya)
+347510766502543360  Jun 19 20:26  @xccds            RT @revodavid: You can use the "prp" #rstats function to draw nice CART trees. Even works with @RevolutionR big-data trees http://t.co/qK0RILC8mD
+347511365612740609  Jun 19 20:29  @mjcavaretta      Nice #dataviz. RT @revodavid: Use "prp" in #rstats to draw nice CART trees. Works w/ @RevolutionR #bigdata trees http://bit.ly/16hG65z
+347511466288615425  Jun 19 20:29  @DanMallinger     RT @revodavid: You can use the "prp" #rstats function to draw nice CART trees. Even works with @RevolutionR big-data trees http://t.co/qK0RILC8mD
+347512175310544896  Jun 19 20:32  @BaxterTwi        RT @timelyportfolio: using new timeline package for #rstats a #ggplot2 of R releases http://t.co/NQhJCdY3MI
+347513110271254529  Jun 19 20:35  @mjcavaretta      MT @gvegayon: Evaluating Optimization Algorithms in MATLAB, Python, and R http://feedly.com/k/101x5fY #rstats #python #orms
+347513529659691008  Jun 19 20:37  @NatePayne        RT @mjcavaretta: MT @gvegayon: Evaluating Optimization Algorithms in MATLAB, Python, and R http://feedly.com/k/101x5fY #rstats #python #orms
+347518374814822402  Jun 19 20:56  @gvegayon         @alzahler #rstats , @paredespablo le hace a #python. Igual mi tema es datos, asi q no me motiva py por el momento :-)
