@@ -9411,3 +9411,52 @@
 347689076339654656  Jun 20 08:15  @jmgomez          RT @drago_carlo: Recomendation System in R http://feedly.com/k/13Ur2KH @feedly  #MachineLearning #DataMining #Rstats #recsys
 347697128866459649  Jun 20 08:47  @southmapr        @useR_2013 @kobriendublin @emilopezcano Fantastico, I'm in for drinks (y tapas?) Monday 8th eve pre #useR2013 #rstats
 347699278543728640  Jun 20 08:55  @IronistM         Trying Zero Lag Exponential Moving Average to predict Web Traffic #rstats #googleanalytics http://bit.ly/1bZrzwu
+347701318607044609  Jun 20 09:03  @emilopezcano     RT @southmapr: @useR_2013 @kobriendublin @emilopezcano Fantastico, I'm in for drinks (y tapas?) Monday 8th eve pre #useR2013 #rstats
+347701404833546240  Jun 20 09:04  @useR_2013        RT @southmapr: @useR_2013 @kobriendublin @emilopezcano Fantastico, I'm in for drinks (y tapas?) Monday 8th eve pre #useR2013 #rstats
+347702391472263168  Jun 20 09:08  @trffic88soft     RT @IronistM: Trying Zero Lag Exponential Moving Average to predict Web Traffic #rstats #googleanalytics http://bit.ly/1bZrzwu
+347703027626541058  Jun 20 09:10  @davidcoallier    Plotting financial time-series with R: http://timelyportfolio.github.io/rCharts_time_series/history.html #rstats
+347705599796072448  Jun 20 09:20  @datennutzen      back again from the US presenting #Rstats on #Oracle #Exadata and #Exalytic  @Exadata @ise_informatik
+347705662509297664  Jun 20 09:21  @timelyportfolio  RT @padjiman: just discovered this website http://www.yhathq.com/ and their blog http://blog.yhathq.com/ already a fan #datascience #rstats #Python
+347714570686693378  Jun 20 09:56  @gvegayon         Learn how to use multithread R with "Compiling R 3.0.1 with MKL support" http://feedly.com/k/1awvtz3 #HPC #mustread #rstats
+347717820559278082  Jun 20 10:09  @mattmoehr        The script runs all night without errors:  \o/ Now I have a shitload of numbers to interpret: >_> #rstats #gradSchoolProblems #coffee
+347724016137670656  Jun 20 10:34  @M_T_Patterson    @RladiesSF  you may find the 'installr' packages useful for updating R: http://www.r-statistics.com/2013/03/updating-r-from-r-on-windows-using-the-installr-package/ #RStats, #UpdatingR
+347724502530146304  Jun 20 10:35  @M_T_Patterson    stargazer package for formatted LaTeX tables from R looks great: http://www.r-statistics.com/2013/01/stargazer-package-for-beautiful-latex-tables-from-r-statistical-models-output/ #RStats
+347725107344588800  Jun 20 10:38  @sjgknight        in #rstats purgatory - dataframe so big function seems to be failing, writing to mysql (which I know nothing about) may also fail...:-(
+347727498328559616  Jun 20 10:47  @tatvic           Part of the team right after we presented our #PredictiveAnalytics #webinar ! Great job, team! #measure #rstats http://t.co/RyMo9ATEh4
+347729507744112640  Jun 20 10:55  @MangoTheCat      Over 200 people now registered to attend #LondonR meeting http://www.londonr.org #rstats
+347731218512629760  Jun 20 11:02  @rastrau          #Rstats is getting awesomer (for me; I think the feature is not that new): reading and writing Excel xlsx directly with XLConnect.
+347731364369539073  Jun 20 11:03  @DashingD3js      RT @timelyportfolio: quick youtube on #rstats #ipython style notebook with #rCharts and @shutterstock #rickshaw #d3js http://t.co/XczeU663K7
+347733443414720513  Jun 20 11:11  @PhilDRoberts     RT @chlalanne: Check out http://rcharts.github.io/, an #rstats package to create, customize and publish interactive JS visualizations. (via @ramnath_vaidya)
+347735821979361281  Jun 20 11:20  @austinogilvie    RT @padjiman: just discovered this website http://www.yhathq.com/ and their blog http://blog.yhathq.com/ already a fan #datascience #rstats #Python
+347737129725591553  Jun 20 11:26  @ravipathak       RT @tatvic: Part of the team right after we presented our #PredictiveAnalytics #webinar ! Great job, team! #measure #rstats http://t.co/RyMo9ATEh4
+347738375014457345  Jun 20 11:31  @cpsievert        Is there a javascript equivalent to browser() in #rstats?
+347738611854213121  Jun 20 11:32  @wabarree         @JacquelynGill I have an #Rstats script that shows basically the same thing!  Looks like I should have done something with it.
+347739634677186562  Jun 20 11:36  @tatvic           Missed our #PredictiveAnalytics #webinar? No need to worry! The replay is already available here: http://bit.ly/13EoKfO #measure #rstats
+347741753186607105  Jun 20 11:44  @mjcavaretta      Great code examples for #dataviz. RT @davidcoallier: Plotting financial time-series with R: http://timelyportfolio.github.io/rCharts_time_series/history.html #rstats
+347743611321991168  Jun 20 11:51  @numberOneUser    RT @timelyportfolio: quick youtube on #rstats #ipython style notebook with #rCharts and @shutterstock #rickshaw #d3js http://t.co/XczeU663K7
+347744898960728064  Jun 20 11:56  @DatametricsBI    RT @useR_2013: New in the social program at #useR2013: Join us for a tour on Saturday 13. http://www.r-project.org/useR-2013/social.html #rstats
+347744926970294272  Jun 20 11:57  @i_314            Why Would a Mathematica User Care about R?  http://blog.wolfram.com/2013/05/22/why-would-a-mathematica-user-care-about-r/ #rstats
+347745218524741632  Jun 20 11:58  @sharon000        Evolution of plotting time series in R http://bit.ly/17pJBvn #dataviz #rstats #ddj via @davidcoallier
+347745794708881409  Jun 20 12:00  @chlalanne        RT @i_314: Why Would a Mathematica User Care about R?  http://blog.wolfram.com/2013/05/22/why-would-a-mathematica-user-care-about-r/ #rstats
+347747250665058304  Jun 20 12:06  @revodavid        #rstats in the financial industry: ACI, the "Economic Ecosystem" via the igraph package, and @RevolutionR: http://bit.ly/19Ve8B5
+347747423642320896  Jun 20 12:07  @MathGuyProblems  RT @revodavid: #rstats in the financial industry: ACI, the "Economic Ecosystem" via the igraph package, and @RevolutionR: http://t.co/YxU8PEydOk
+347747743927783426  Jun 20 12:08  @RLangTip         In R scripts, use invisible() to prevent functions from generating unwanted output: http://bit.ly/xywuih #rstats
+347748038799917056  Jun 20 12:09  @romain_francois  RT @MangoTheCat: Over 200 people now registered to attend #LondonR meeting http://www.londonr.org #rstats
+347748553671704576  Jun 20 12:11  @ElisaTP          RT @revodavid: #rstats in the financial industry: ACI, the "Economic Ecosystem" via the igraph package, and @RevolutionR: http://t.co/YxU8PEydOk
+347750304609079296  Jun 20 12:18  @bryanmparsons    Learning #ggplot2 with @hadleywickham on #mathtube! Now to figure out plotting svyglm predictions... #bigday #rstats
+347751835525849088  Jun 20 12:24  @msgbi            RT @i_314: Why Would a Mathematica User Care about R?  http://blog.wolfram.com/2013/05/22/why-would-a-mathematica-user-care-about-r/ #rstats
+347752301961834496  Jun 20 12:26  @jinlongyang      Check out my first blog post on trajectory analysis in R at @FiveTwoN #rstats #GSoC2013 http://blog.52north.org/2013/06/20/trajectory-analysis-in-r/
+347757520271585280  Jun 20 12:47  @carlyziter       Exploring the 'reldist' package in #rstats. Comparing location/shape of distributions. Wonder why this hasn't been used more in ecology!
+347759356609175553  Jun 20 12:54  @Sara__Frau       @agnesevardanega @insula_r ...Grazie @agnesevardanega @insula_r e speriamo di perfezionarlo ulteriormente! :) #rstats
+347759835820982273  Jun 20 12:56  @JodyEdmondson    #Rstats @YhatHQ has #beer recommendations for you
+347762127114743808  Jun 20 13:05  @JoyceFaler       RT @RLangTip: In R scripts, use invisible() to prevent functions from generating unwanted output: http://bit.ly/xywuih #rstats
+347765482918653953  Jun 20 13:18  @revodavid        RT @gvegayon: Learn how to use multithread R with "Compiling R 3.0.1 with MKL support" http://feedly.com/k/1awvtz3 #HPC #mustread #rstats
+347768523541577730  Jun 20 13:30  @abbass_sharif    RT @RLangTip: Use the xtable package to convert a table or matrix to HTML: print(xtable(X), type="html") #rstats http://bit.ly/zrvgHJ
+347769239706431488  Jun 20 13:33  @Rbloggers        Draw nicer Classification and Regression Trees with the rpart.plot package:  (This article was first... http://bit.ly/196eR33 #rstats
+347769240880812032  Jun 20 13:33  @Rbloggers        Installing the RGoogleAnalytics package:  (This article was first published on   Tatvic Blog » R, an... http://bit.ly/15nCIUl #rstats
+347780218087415808  Jun 20 14:17  @jmgomez          Draw nicer Classification and Regression Trees with the rpart.plot package http://ow.ly/1XLyBf #rstats #datamining #dataviz
+347784132123820032  Jun 20 14:32  @Rbloggers        Datagrabbing Commonly Formatted Sheets from a Google Spreadsheet – Guardian 2014 University Guide Data... http://bit.ly/196za0g #rstats
+347784133306630144  Jun 20 14:32  @Rbloggers        Huge interest in next LondonR user group meeting: The next LondonR meeting takes place on the 16 July ... http://bit.ly/16PDZXs #rstats
+347784785114046464  Jun 20 14:35  @jmgomez          RT @M_T_Patterson: stargazer package for formatted #LaTeX tables from R looks great: http://www.r-statistics.com/2013/01/stargazer-package-for-beautiful-latex-tables-from-r-statistical-models-output/ #RStats
+347785020167045120  Jun 20 14:36  @SpringerStats    RT @useR_2013: We have 3 different #rstats contests at #useR2013, check the prizes and apply!: http://www.r-project.org/useR-2013/
+347788285738901504  Jun 20 14:49  @i_314            How American Century revolutionized their investment platform with R. http://blog.revolutionanalytics.com/2013/06/american-century-investments.html @RevolutionR #rstats
