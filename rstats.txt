@@ -9460,3 +9460,33 @@
 347784785114046464  Jun 20 14:35  @jmgomez          RT @M_T_Patterson: stargazer package for formatted #LaTeX tables from R looks great: http://www.r-statistics.com/2013/01/stargazer-package-for-beautiful-latex-tables-from-r-statistical-models-output/ #RStats
 347785020167045120  Jun 20 14:36  @SpringerStats    RT @useR_2013: We have 3 different #rstats contests at #useR2013, check the prizes and apply!: http://www.r-project.org/useR-2013/
 347788285738901504  Jun 20 14:49  @i_314            How American Century revolutionized their investment platform with R. http://blog.revolutionanalytics.com/2013/06/american-century-investments.html @RevolutionR #rstats
+347795594787561472  Jun 20 15:18  @omearabrian      R-forge going down (planned) during #evol2013; bad for new #rstats packages debuted at meeting. http://r-forge.r-project.org/forum/forum.php?forum_id=4407
+347797244667371520  Jun 20 15:24  @mjcavaretta      Neat #dataviz. RT @i_314: How American Century revolutionized their investment platform with R. http://blog.revolutionanalytics.com/2013/06/american-century-investments.html @RevolutionR #rstats
+347798548852654080  Jun 20 15:30  @RevolutionR      RT @i_314: How American Century revolutionized their investment platform with R. http://blog.revolutionanalytics.com/2013/06/american-century-investments.html @RevolutionR #rstats
+347806835543252992  Jun 20 16:03  @chemstateric     RT @mjcavaretta: MT @gvegayon: Evaluating Optimization Algorithms in MATLAB, Python, and R http://feedly.com/k/101x5fY #rstats #python #orms
+347811832364421120  Jun 20 16:22  @erwtokritos      Restricted Boltzmann Machines in R http://www.r-bloggers.com/restricted-boltzmann-machines-in-r/ #Rstats
+347815205453049857  Jun 20 16:36  @attilacsordas    "Dynamic Data Visualizations in the Browser Using Shiny"   #rstats http://feedproxy.google.com/~r/RBloggers/~3/H4PWK76entg/
+347816079696986112  Jun 20 16:39  @attilacsordas    "Top 100 R packages for 2013 (Jan-May)!" #rstats how many packages ru familiar with out of these? http://feedproxy.google.com/~r/RBloggers/~3/VsQUbGJeCeg/
+347823057546649600  Jun 20 17:07  @M_T_Patterson    Short Introduction to R and R Studio: http://www.youtube.com/watch?v=wm71MjEege4&feature=youtu.be #RStats, #Teaching
+347823304888946688  Jun 20 17:08  @kwcollins        RT @M_T_Patterson: Short Introduction to R and R Studio: http://www.youtube.com/watch?v=wm71MjEege4&feature=youtu.be #RStats, #Teaching
+347825920377249792  Jun 20 17:18  @datalies         recommender systems in #Rstats: http://blog.yhathq.com/posts/recommender-system-in-r.html via @reddit
+347834650082807809  Jun 20 17:53  @M_T_Patterson    R Tutorial Video: Vectors http://www.youtube.com/watch?v=Q87M_P4P3XY&feature=youtu.be #RStats, #Teaching
+347835199431770112  Jun 20 17:55  @mizmay           #rstats ;) RT @bronwynagrios: @mizmay Thought you'd like this 'R is hot!' http://www.computerworld.com/s/article/9239625/Beginner_s_guide_to_R_Introduction
+347838026799542272  Jun 20 18:07  @ramnath_vaidya   Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+347838900233973761  Jun 20 18:10  @recology_        RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+347838900246556672  Jun 20 18:10  @rOpenSci         RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+347844498744807425  Jun 20 18:32  @thorei           RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+347845737922568192  Jun 20 18:37  @tanyacash21      Beer Recommendation System in #Rstats: http://blog.yhathq.com/posts/recommender-system-in-r.html
+347846379009343488  Jun 20 18:40  @jedisct1         RT @tanyacash21: Beer Recommendation System in #Rstats: http://blog.yhathq.com/posts/recommender-system-in-r.html
+347849997921943552  Jun 20 18:54  @JChrisPires      RT @omearabrian: R-forge going down (planned) during #evol2013; bad for new #rstats packages debuted at meeting. http://r-forge.r-project.org/forum/forum.php?forum_id=4407
+347852316201844736  Jun 20 19:03  @piccolbo         RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+347853728633720832  Jun 20 19:09  @eoinbrazil       RT @tanyacash21: Beer Recommendation System in #Rstats: http://blog.yhathq.com/posts/recommender-system-in-r.html
+347855371697790977  Jun 20 19:15  @draziraphale     @DylanTGLane Now with added Science ... “@tanyacash21: Beer Recommendation System in #Rstats: http://blog.yhathq.com/posts/recommender-system-in-r.html”
+347856119022112768  Jun 20 19:18  @gvegayon         @leonardojofre Cómo te quedó la fecha del nuevo meetup? #rstats #rstatscl http://bit.ly/11PV5PI
+347856352758099969  Jun 20 19:19  @DylanTGLane      @karlmonaghan  now! "@draziraphale: “@tanyacash21: Beer Recommendation System in #Rstats: http://blog.yhathq.com/posts/recommender-system-in-r.html”"
+347866935951765504  Jun 20 20:01  @blaahs           RT @EdwardTufte: Maps moving in time, data/design standards for 4K and 8K displays. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #datascience #bigdata #rstats  #d3js
+347868935015780352  Jun 20 20:09  @eddelbuettel     An Rcpp talk in Sydney on July 10 -- more at http://goo.gl/YOKM5 #rstats #rcpp
+347869134714974208  Jun 20 20:10  @mrgunn           RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+347872754437066753  Jun 20 20:25  @orlandomezquita  RT @RLangTip: sample(x) randomly shuffles the elements of a vector or list x #rstats http://bit.ly/x9UdLI
+347873911578431488  Jun 20 20:29  @andyteucher      RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+347875865725648898  Jun 20 20:37  @TATA_BOX         Draw nicer Classification and Regression Trees with the rpart.plot package | (R news & tutorials) http://www.r-bloggers.com/draw-nicer-classification-and-regression-trees-with-the-rpart-plot-package/ #rstats
