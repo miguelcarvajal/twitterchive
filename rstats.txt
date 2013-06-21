@@ -9460,6 +9460,7 @@
 347784785114046464  Jun 20 14:35  @jmgomez          RT @M_T_Patterson: stargazer package for formatted #LaTeX tables from R looks great: http://www.r-statistics.com/2013/01/stargazer-package-for-beautiful-latex-tables-from-r-statistical-models-output/ #RStats
 347785020167045120  Jun 20 14:36  @SpringerStats    RT @useR_2013: We have 3 different #rstats contests at #useR2013, check the prizes and apply!: http://www.r-project.org/useR-2013/
 347788285738901504  Jun 20 14:49  @i_314            How American Century revolutionized their investment platform with R. http://blog.revolutionanalytics.com/2013/06/american-century-investments.html @RevolutionR #rstats
+347790739821953024  Jun 20 14:59  @chipmonkey75     Here's a cute literacy visualization (with #rstats code!) from @DataParadigms : http://www.dataparadigms.com/posts/2013/06/literacy-rates/ #datavis
 347795594787561472  Jun 20 15:18  @omearabrian      R-forge going down (planned) during #evol2013; bad for new #rstats packages debuted at meeting. http://r-forge.r-project.org/forum/forum.php?forum_id=4407
 347797244667371520  Jun 20 15:24  @mjcavaretta      Neat #dataviz. RT @i_314: How American Century revolutionized their investment platform with R. http://blog.revolutionanalytics.com/2013/06/american-century-investments.html @RevolutionR #rstats
 347798548852654080  Jun 20 15:30  @RevolutionR      RT @i_314: How American Century revolutionized their investment platform with R. http://blog.revolutionanalytics.com/2013/06/american-century-investments.html @RevolutionR #rstats
@@ -9490,3 +9491,20 @@
 347872754437066753  Jun 20 20:25  @orlandomezquita  RT @RLangTip: sample(x) randomly shuffles the elements of a vector or list x #rstats http://bit.ly/x9UdLI
 347873911578431488  Jun 20 20:29  @andyteucher      RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
 347875865725648898  Jun 20 20:37  @TATA_BOX         Draw nicer Classification and Regression Trees with the rpart.plot package | (R news & tutorials) http://www.r-bloggers.com/draw-nicer-classification-and-regression-trees-with-the-rpart-plot-package/ #rstats
+347883524667351041  Jun 20 21:07  @beskelton        @sharon000 after reading through your excellent guide, finally got around to using R today for a real work project, thanks! #rstats
+347886670630252544  Jun 20 21:20  @quantlabs        #Free #Rstats tutorials? 1 hour video on how to learn R, Matlab, #trading systems http://ow.ly/meRPi
+347888005014503424  Jun 20 21:25  @rapporters       The last 20 years of #nbafinals on a bubble chart with focus on @MiamiHEAT and @spurs http://blog.rapporter.net/2013/06/the-last-20-years-of-nba-seasons.html @NBA @NBATV @nbastats #rstats
+347900677860769792  Jun 20 22:15  @timelyportfolio  RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+347901064990834689  Jun 20 22:17  @ramnath_vaidya   Blog Post: Interactive Documents with R http://slidify.github.io/interactive/ #rstats @nyhackr @jcheng @jaredlander
+347901849904492546  Jun 20 22:20  @hadleywickham    RT @bryanmparsons: Learning #ggplot2 with @hadleywickham on #mathtube! Now to figure out plotting svyglm predictions... #bigday #rstats
+347906877927063552  Jun 20 22:40  @DataParadigms    RT @chipmonkey75: Here's a cute literacy visualization (with #rstats code!) from @DataParadigms : http://www.dataparadigms.com/posts/2013/06/literacy-rates/ #datavis
+347906887678832641  Jun 20 22:40  @mspan            RT @ramnath_vaidya: Blog Post: Interactive Documents with R http://slidify.github.io/interactive/ #rstats @nyhackr @jcheng @jaredlander
+347909555843375104  Jun 20 22:51  @recology_        RT @ramnath_vaidya: Blog Post: Interactive Documents with R http://slidify.github.io/interactive/ #rstats @nyhackr @jcheng @jaredlander
+347911464083931136  Jun 20 22:58  @cocoahn          RT @RLangTip: In R scripts, use invisible() to prevent functions from generating unwanted output: http://bit.ly/xywuih #rstats
+347913461243723776  Jun 20 23:06  @hari_koduvely    RT @gvegayon: Learn how to use multithread R with "Compiling R 3.0.1 with MKL support" http://feedly.com/k/1awvtz3 #HPC #mustread #rstats
+347914370715627521  Jun 20 23:10  @PPUAMX           RT @RLangTip: In R scripts, use invisible() to prevent functions from generating unwanted output: http://bit.ly/xywuih #rstats
+347927823207501824  Jun 21 00:03  @theoneamit       RT @attilacsordas: "Dynamic Data Visualizations in the Browser Using Shiny"   #rstats http://feedproxy.google.com/~r/RBloggers/~3/H4PWK76entg/
+347935032419160065  Jun 21 00:32  @jaredlander      RT @ramnath_vaidya: Blog Post: Interactive Documents with R http://slidify.github.io/interactive/ #rstats @nyhackr @jcheng @jaredlander
+347939712159334400  Jun 21 00:51  @isragaytan       RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+347939936751722496  Jun 21 00:51  @isragaytan       RT @mjcavaretta: Great code examples for #dataviz. RT @davidcoallier: Plotting financial time-series with R: http://timelyportfolio.github.io/rCharts_time_series/history.html #rstats
+347968223519592449  Jun 21 02:44  @Rbloggers        Quickly read Excel (xlsx) worksheets into R on any platform:  (This article was first published on  ... http://bit.ly/149nEdA #rstats
