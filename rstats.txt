@@ -9508,3 +9508,28 @@
 347939712159334400  Jun 21 00:51  @isragaytan       RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
 347939936751722496  Jun 21 00:51  @isragaytan       RT @mjcavaretta: Great code examples for #dataviz. RT @davidcoallier: Plotting financial time-series with R: http://timelyportfolio.github.io/rCharts_time_series/history.html #rstats
 347968223519592449  Jun 21 02:44  @Rbloggers        Quickly read Excel (xlsx) worksheets into R on any platform:  (This article was first published on  ... http://bit.ly/149nEdA #rstats
+347973208542167041  Jun 21 03:04  @MsMariaSp        Ξεκινήσεις training? @iFotini  “@Rbloggers: Quickly read Excel (xlsx) worksheets into R on any platform:  http://bit.ly/149nEdA #rstats”
+347981716603928578  Jun 21 03:38  @jockmcglinchey   RT @attilacsordas: "Top 100 R packages for 2013 (Jan-May)!" #rstats how many packages ru familiar with out of these? http://feedproxy.google.com/~r/RBloggers/~3/VsQUbGJeCeg/
+347984363868262400  Jun 21 03:48  @ronert_obst      RT @gvegayon: Learn how to use multithread R with "Compiling R 3.0.1 with MKL support" http://feedly.com/k/1awvtz3 #HPC #mustread #rstats
+347991481098842112  Jun 21 04:16  @dirkvandenpoel   Marketing Models and Marketing Engineering final presentations with Dauwe, Tessa, Michel, Ine #rstats [pic]: http://4sq.com/106Ewm8
+347996488435122176  Jun 21 04:36  @jjmullz          Cluster analysis continues to spit out some amazing results.  So easy with #rstats as well.
+348007688816439296  Jun 21 05:21  @Mandar_2812      The R time series reference, details all packages relating to time series and forecasting/analysis ... #Rstats http://cran.r-project.org/web/views/TimeSeries.html
+348009043736014848  Jun 21 05:26  @dirkvandenpoel   Ensemble classification using R #rstats at @UGent with Ward, Géraldine, Dauwe, Michel (@ ghentuni) [pic]: http://4sq.com/11RnZQr
+348009668502757376  Jun 21 05:29  @yminghsun        RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+348012015366852609  Jun 21 05:38  @Mandar_2812      Using package quantmod for visualization of financial data in R #Rstats  http://www.rinfinance.com/RinFinance2009/presentations/xts_quantmod_workshop.pdf
+348012744143933441  Jun 21 05:41  @Mandar_2812      Noam Ross | Ryan Peek on using xts and ggplot for time-series data http://j.mp/182qNl7 #Rstats
+348023722499796992  Jun 21 06:24  @psychemedia      Disposable Visual Data Explorers with Shiny #rstats – Guardian University Tables 2014 http://bit.ly/1az8KlZ [@guardiandata]
+348024443823587328  Jun 21 06:27  @AstroRJS         RT @psychemedia: Disposable Visual Data Explorers with Shiny #rstats – Guardian University Tables 2014 http://bit.ly/1az8KlZ [@guardiandata]
+348033066624765953  Jun 21 07:02  @jjmullz          #rstats Anyone able to help here? Change label size of Cluster Dendrogram in R 3.01 http://stackoverflow.com/questions/17232178/change-label-size-of-cluster-dendrogram-in-r-3-01
+348036376899510273  Jun 21 07:15  @AstroRJS         Direct link to this Univ tables dataviz (via @psychemedia)  http://glimmer.rstudio.com/psychemedia/shinyGuardianByUni_v2 #rstats #highered
+348044189772181504  Jun 21 07:46  @drdrewsteen      Anyone know why #Rstats tiff() seems to ignore the res and compression arguments on some OSX systems? http://stackoverflow.com/questions/17218305/tiff-resolution-and-compression-are-not-reliably-set-in-osx
+348049894075944960  Jun 21 08:08  @moorejh          Application of Multifactor Dimensionality Reduction (MDR) to #GWAS Data Using #Rstats http://www.ncbi.nlm.nih.gov/pubmed/23756907 #genomics #bioinformatics
+348050364303540224  Jun 21 08:10  @flavioclesio     RT @moorejh: Application of Multifactor Dimensionality Reduction (MDR) to #GWAS Data Using #Rstats http://www.ncbi.nlm.nih.gov/pubmed/23756907 #genomics #bioinformatics
+348051536758325249  Jun 21 08:15  @sharon000        How to turn CSV data into interactive visualizations with R and rCharts http://cwrld.us/19n3rVd #rstats #dataviz #ddj
+348052589226631169  Jun 21 08:19  @jebyrnes         A great primer on maximum likelihood estimation with bbmle in #rstats http://bit.ly/19Y3RUL
+348059152783921152  Jun 21 08:45  @JimRFisher       Good to see people are using #datascience to solve the world's real problems. Beer recommender system in #Rstats  http://blog.yhathq.com/posts/recommender-system-in-r.html
+348061181220634625  Jun 21 08:53  @statslabdublin   RT @useR_2013: New in the social program at #useR2013: Join us for a tour on Saturday 13. http://www.r-project.org/useR-2013/social.html #rstats
+348061196034908161  Jun 21 08:53  @statslabdublin   RT @useR_2013: Extended deadline for the #rstats Data Analysis Contest at #useR2013: June 30. Send your proposal and get the prize! http://t.co/brrvsMCGTX
+348062148620058627  Jun 21 08:57  @davidjayharris   RT @jebyrnes: A great primer on maximum likelihood estimation with bbmle in #rstats http://bit.ly/19Y3RUL
+348062470922973185  Jun 21 08:58  @JacquelynGill    RT @jebyrnes: A great primer on maximum likelihood estimation with bbmle in #rstats http://bit.ly/19Y3RUL
+348062748975960064  Jun 21 09:00  @thonoir          RT @jebyrnes: A great primer on maximum likelihood estimation with bbmle in #rstats http://bit.ly/19Y3RUL
