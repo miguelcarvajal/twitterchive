@@ -9533,3 +9533,65 @@
 348062148620058627  Jun 21 08:57  @davidjayharris   RT @jebyrnes: A great primer on maximum likelihood estimation with bbmle in #rstats http://bit.ly/19Y3RUL
 348062470922973185  Jun 21 08:58  @JacquelynGill    RT @jebyrnes: A great primer on maximum likelihood estimation with bbmle in #rstats http://bit.ly/19Y3RUL
 348062748975960064  Jun 21 09:00  @thonoir          RT @jebyrnes: A great primer on maximum likelihood estimation with bbmle in #rstats http://bit.ly/19Y3RUL
+348062851207929857  Jun 21 09:00  @TraineeGeek      RT @useR_2013: Extended deadline for the #rstats Data Analysis Contest at #useR2013: June 30. Send your proposal and get the prize! http://t.co/brrvsMCGTX
+348063916456280065  Jun 21 09:04  @dirkvandenpoel   Blog post about final presentations of #predictiveanalytics projects using #rstats in @HIR_ME at @UGent http://bit.ly/15q4AXU  #Analytics
+348066017643212800  Jun 21 09:13  @timelyportfolio  RT @ramnath_vaidya: Blog Post: Interactive Documents with R http://slidify.github.io/interactive/ #rstats @nyhackr @jcheng @jaredlander
+348066107917213698  Jun 21 09:13  @hadleywickham    RT @psychemedia: Disposable Visual Data Explorers with Shiny #rstats – Guardian University Tables 2014 http://bit.ly/1az8KlZ [@guardiandata]
+348067013853327360  Jun 21 09:16  @noamross         MT @jebyrnes: A great primer on maximum likelihood estimation with bbmle in #rstats by @davidjayharris http://bit.ly/19Y3RUL
+348067376744513538  Jun 21 09:18  @jess1ecat        RT @useR_2013: Extended deadline for the #rstats Data Analysis Contest at #useR2013: June 30. Send your proposal and get the prize! http://t.co/brrvsMCGTX
+348068485659770880  Jun 21 09:22  @duffy_ma         RT @noamross: MT @jebyrnes: A great primer on maximum likelihood estimation with bbmle in #rstats by @davidjayharris http://bit.ly/19Y3RUL
+348069087768883200  Jun 21 09:25  @jmgomez          RT @gilbellosta: Managing a statistical analysis project: guidelines and best practices http://www.r-statistics.com/2010/09/managing-a-statistical-analysis-project-guidelines-and-best-practices/ old but nice advice! #rstats
+348069247152439296  Jun 21 09:25  @ramnath_vaidya   RT @sharon000: How to turn CSV data into interactive visualizations with R and rCharts http://cwrld.us/19n3rVd #rstats #dataviz #ddj
+348071337429970944  Jun 21 09:34  @KennyPeanuts     RT @drdrewsteen: Anyone know why #Rstats tiff() seems to ignore the res and compression arguments on some OSX systems? http://t.co/GAURAwiuOb
+348076115669168128  Jun 21 09:53  @rguha            #jojo coffe shop in new haven has great coffee and fast wireless. excellent place to work on #rstats
+348083258459828224  Jun 21 10:21  @rystanman        RT @jebyrnes: A great primer on maximum likelihood estimation with bbmle in #rstats http://bit.ly/19Y3RUL
+348087041625583616  Jun 21 10:36  @jmgomez          RT @sharon000: How to turn CSV data into interactive visualizations with R and rCharts http://cwrld.us/19n3rVd #rstats #dataviz #datamining
+348090560243974144  Jun 21 10:50  @kfmcgregor       I wrote another blog post on imputing missing data, mainly some R code for Amelia II: http://kfmcgregor.blogspot.com/2013/06/imputation-of-missing-data-with-amelia.html #rstats
+348093762196627456  Jun 21 11:03  @marcoscan        How to turn CSV data into interactive visualizations with #Rstats and rCharts http://is.gd/o1sScr
+348094006707752960  Jun 21 11:04  @jmgomez          RT @mandar_2812: The R time series reference, details all pkgs relating to time series &forecasting/analysis #Rstats http://cran.r-project.org/web/views/TimeSeries.html
+348094204670521344  Jun 21 11:05  @mjcavaretta      RT @BDataScientist: Recomendation System in R http://zite.to/16TDMCu #datascience #rstats
+348094698784702465  Jun 21 11:06  @mphnyc           Using #Rstats ‘helps automate data #analysis’ | #AnalyticsNews http://www.kognitio.com/using-r-helps-automate-data-analysis-2/ via @Kognitio
+348095358041206785  Jun 21 11:09  @kognitio         RT @mphnyc: Using #Rstats ‘helps automate data #analysis’ | #AnalyticsNews http://www.kognitio.com/using-r-helps-automate-data-analysis-2/ via @Kognitio
+348097475149705217  Jun 21 11:18  @kognitio         ARTICLE: Expert @johannux shows how #Rstats can be used to boost the speed of data #analytics ops, reports #CIO | #AnalyticsNews
+348097865614233602  Jun 21 11:19  @jgptec           RT @kognitio: ARTICLE: Expert @johannux shows how #Rstats can be used to boost the speed of data #analytics ops, reports #CIO | #AnalyticsNews
+348100441441177600  Jun 21 11:29  @hashonomy_gus    Noam Ross | Dave Harris on Maximum Likelihood Estimation http://hashonomy.com/Msdf/ #rstats (via @jebyrnes)
+348100762091520002  Jun 21 11:31  @rOpenSci         Our rplos & alm #rstats pkgs in the wild "PlosOpenR Exploring FP7 Funded PLOS Publications" http://bit.ly/16lZ3nx / @mfenner
+348100774330515456  Jun 21 11:31  @recology_        RT @rOpenSci: Our rplos & alm #rstats pkgs in the wild "PlosOpenR Exploring FP7 Funded PLOS Publications" http://bit.ly/16lZ3nx / @mfenner
+348104042628644864  Jun 21 11:44  @southmapr        RT @psychemedia: Disposable Visual Data Explorers with Shiny #rstats – Guardian University Tables 2014 http://bit.ly/1az8KlZ [@guardiandata]
+348105731440009216  Jun 21 11:50  @Rbloggers        Upcoming Rcpp talk in Sydney:  (This article was first published on   Thinking inside the box   , an... http://bit.ly/16TUqSC #rstats
+348105732606017538  Jun 21 11:50  @Rbloggers        Measuring Associations:  (This article was first published on   Blog - Applied Predictive Modeling, ... http://bit.ly/12RGdqd #rstats
+348105733642014720  Jun 21 11:50  @Rbloggers        Disposable Visual Data Explorers with Shiny – Guardian University Tables 2014:  (This article was fi... http://bit.ly/16TUr8Z #rstats
+348106469264199681  Jun 21 11:53  @masemresearch    Quickly read Excel (xlsx) worksheets into R on any platform | Houses of Stones #rstats | @scoopit http://sco.lt/62jCM5
+348108827436126209  Jun 21 12:03  @mbucken          RT @sharon000: How to turn CSV data into interactive visualizations with R and rCharts http://cwrld.us/19n3rVd #rstats #dataviz #ddj
+348108827771670528  Jun 21 12:03  @Computerworld    RT @sharon000: How to turn CSV data into interactive visualizations with R and rCharts http://cwrld.us/19n3rVd #rstats #dataviz #ddj
+348109567063891969  Jun 21 12:06  @itlady2          RT @sharon000: How to turn CSV data into interactive visualizations with R and rCharts http://cwrld.us/19n3rVd #rstats #dataviz #ddj
+348109982241275904  Jun 21 12:07  @mjcavaretta      RT @jmgomez @mandar_2812: R time series reference, details all pkgs relating to TS & forecasting/ #analytics #Rstats http://cran.r-project.org/web/views/TimeSeries.html
+348110454633148416  Jun 21 12:09  @RLangTip         Reserved words that can't be used as object names: if, while, for, next, TRUE, and several others listed at http://bit.ly/n2rmBo #rstats
+348113960907722752  Jun 21 12:23  @KirkDBorne       Exploratory Data Analysis of Ozone Pollution Data (or, Having Fun With Box Plots in R): http://bit.ly/17sasH0 via @analyticbridge #Rstats
+348115464339206145  Jun 21 12:29  @KognitioCloud    RT @kognitio: ARTICLE: Expert @johannux shows how #Rstats can be used to boost the speed of data #analytics ops, reports #CIO | #AnalyticsNews
+348117430444363778  Jun 21 12:37  @UCFComSci        RT @sharon000: How to turn CSV data into interactive visualizations with R and rCharts http://cwrld.us/19n3rVd #rstats #dataviz #ddj
+348118390390542337  Jun 21 12:41  @therealprotonk   Always heartening to see lines like this in language documentation: http://cran.r-project.org/doc/manuals/r-release/R-lang.html#Propagation-of-names #rstats
+348126085373886465  Jun 21 13:11  @revodavid        "Statistical models are stories about how the data came to be": @noamross on maximum likelihood estimation in #rstats http://bit.ly/1c4nhUP
+348126293256183808  Jun 21 13:12  @graemeknows      RT @revodavid: "Statistical models are stories about how the data came to be": @noamross on maximum likelihood estimation in #rstats http://t.co/Cd85h4T7or
+348126382309654528  Jun 21 13:12  @pentalibra       The thought of a 3-map in #rstats made me cringe until I saw http://spatial.ly/2013/05/3d-mapping-r/  by @spatialanalysis with help from @geospacedman
+348126573930618880  Jun 21 13:13  @praxsozi         RT @revodavid: "Statistical models are stories about how the data came to be": @noamross on maximum likelihood estimation in #rstats http://t.co/Cd85h4T7or
+348129295144730625  Jun 21 13:24  @InfoMgmtExec     RT @revodavid: "Statistical models are stories about how the data came to be": @noamross on maximum likelihood estimation in #rstats http://t.co/Cd85h4T7or
+348130513669726209  Jun 21 13:29  @juantsayagog     RT @useR_2013: We have 3 different #rstats contests at #useR2013, check the prizes and apply!: http://www.r-project.org/useR-2013/
+348133891263041536  Jun 21 13:42  @i_314            Interesting!  Interactive Documents with R // Slidify + Shiny. http://slidify.github.io/interactive/ #rstats
+348135302587621376  Jun 21 13:48  @DEAGiles         RT @revodavid: "Statistical models are stories about how the data came to be": @noamross on maximum likelihood estimation in #rstats http://t.co/Cd85h4T7or
+348135783892389888  Jun 21 13:50  @nextgenseek      Did not know that it is coming. An Intro. to Statistical Learning by James & Witten + Hastie & Tibshirani http://www.amazon.com/gp/product/1461471370 #rstats
+348137176220962816  Jun 21 13:55  @jmgomez          RT @KirkDBorne: Rmagic, A Handy Interface Bridging #Python and R http://feedly.com/k/14CLWPt HT @CourtCorley #Rstats
+348139474645032960  Jun 21 14:04  @davidjayharris   I have a new introduction to maximum likelihood in #Rstats on @noamross's blog. http://www.noamross.net/blog/2013/6/17/harrisbbmle.html
+348142572029489153  Jun 21 14:17  @afrancoc         RT @useR_2013: We have 3 different #rstats contests at #useR2013, check the prizes and apply!: http://www.r-project.org/useR-2013/
+348143337779384320  Jun 21 14:20  @revodavid        R language skills "standard requirements in today's world", says SAP http://bit.ly/1306mnY #rstats
+348143466682912769  Jun 21 14:20  @chlalanne        RT @i_314: Interesting!  Interactive Documents with R // Slidify + Shiny. http://slidify.github.io/interactive/ #rstats
+348144492857147393  Jun 21 14:24  @timelyportfolio  RT @sharon000: How to turn CSV data into interactive visualizations with R and rCharts http://cwrld.us/19n3rVd #rstats #dataviz #ddj
+348144766061510656  Jun 21 14:25  @dberkholz        RT @revodavid: R language skills "standard requirements in today's world", says SAP http://bit.ly/1306mnY #rstats
+348144867647561728  Jun 21 14:26  @23floor          RT @revodavid: "Statistical models are stories about how the data came to be": @noamross on maximum likelihood estimation in #rstats http://t.co/Cd85h4T7or
+348145445391958016  Jun 21 14:28  @mprokop1         RT @sharon000: How to turn CSV data into interactive visualizations with R and rCharts http://cwrld.us/19n3rVd #rstats #dataviz #ddj
+348147722047590400  Jun 21 14:37  @raphg            New application note on PING #rstats/@Bioconductor package for nucleosome positioning using chip-seq data http://goo.gl/VD0Lb
+348149626706206720  Jun 21 14:45  @noamross         RT @davidjayharris: I have a new introduction to maximum likelihood in #Rstats on @noamross's blog. http://www.noamross.net/blog/2013/6/17/harrisbbmle.html
+348150665761144832  Jun 21 14:49  @MMA_CRM          RT @dirkvandenpoel: Marketing Models and Marketing Engineering final presentations with Dauwe, Tessa, Michel, Ine #rstats [pic]: http://t.co/ZMqmoNtLRH
+348150776402673664  Jun 21 14:49  @HIR_ME           RT @dirkvandenpoel: Blog post about final presentations of #predictiveanalytics projects using #rstats in @HIR_ME at @UGent http://t.co/OnrvwzCAGl  #Analytics
+348151131014303745  Jun 21 14:51  @KognitioCloud    Cool! MT @BITechWatch: #RStats skills: standard & necessary in today's world: Rrecent Business Times article http://bit.ly/12Sa8P4 #bigdata
+348152631568515072  Jun 21 14:57  @_Kognitio        RT @mphnyc: Using #Rstats ‘helps automate data #analysis’ | #AnalyticsNews http://www.kognitio.com/using-r-helps-automate-data-analysis-2/ via @Kognitio
