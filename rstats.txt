@@ -9595,3 +9595,31 @@
 348150776402673664  Jun 21 14:49  @HIR_ME           RT @dirkvandenpoel: Blog post about final presentations of #predictiveanalytics projects using #rstats in @HIR_ME at @UGent http://t.co/OnrvwzCAGl  #Analytics
 348151131014303745  Jun 21 14:51  @KognitioCloud    Cool! MT @BITechWatch: #RStats skills: standard & necessary in today's world: Rrecent Business Times article http://bit.ly/12Sa8P4 #bigdata
 348152631568515072  Jun 21 14:57  @_Kognitio        RT @mphnyc: Using #Rstats ‘helps automate data #analysis’ | #AnalyticsNews http://www.kognitio.com/using-r-helps-automate-data-analysis-2/ via @Kognitio
+348154509345816577  Jun 21 15:04  @datalies         Word. "@revodavid: R language skills "standard requirements in today's world", says SAP http://bit.ly/1306mnY #rstats"
+348156186652192768  Jun 21 15:11  @ElizSJeffers     RT @jebyrnes: A great primer on maximum likelihood estimation with bbmle in #rstats http://bit.ly/19Y3RUL
+348160176601300993  Jun 21 15:27  @vCTO             RT @revodavid: R language skills "standard requirements in today's world", says SAP http://bit.ly/1306mnY #rstats <- awesome!
+348166934354862080  Jun 21 15:54  @kognitio         Next Week: Our #CIO speaks about *getting work done* with #Hadoop and #Rstats @HadoopSummit http://bit.ly/17nIDzE #bigdata #HadoopSummit
+348167524938031104  Jun 21 15:56  @alyswoodward     RT @kognitio: Next Week: Our #CIO speaks about *getting work done* with #Hadoop and #Rstats @HadoopSummit http://bit.ly/17nIDzE #bigdata #HadoopSummit
+348170729596010496  Jun 21 16:09  @ramnath_vaidya   Interactive Quizzes with Slidify http://slidify.github.io/iquiz #rstats
+348170947985031168  Jun 21 16:09  @StatsInTheWild   RT @datalies: Word. "@revodavid: R language skills "standard requirements in today's world", says SAP http://bit.ly/1306mnY #rstats"
+348171201627164672  Jun 21 16:10  @tanyacash21      So uh, does anyone have that beeradvocate.txt file laying around anywhere? #rstats
+348172177624928258  Jun 21 16:14  @jkiernander      RT @ramnath_vaidya: Interactive Quizzes with Slidify http://slidify.github.io/iquiz #rstats
+348173670738452480  Jun 21 16:20  @Rbloggers        Statistical models are stories about how the data came to be:  (This article was first published on ... http://bit.ly/16UXjT8 #rstats
+348173673846431744  Jun 21 16:20  @Rbloggers        R language skills: standard and necessary in today’s world:  (This article was first published on   ... http://bit.ly/16UXjTc #rstats
+348174566503358464  Jun 21 16:24  @pssGuy           #rCharts Shiny app for CRAN downloads http://bit.ly/13Yy6WJ  Interactive charts Top Ten tables etc see post http://wp.me/p17axt-mN #rstats
+348176268275101698  Jun 21 16:31  @chlalanne        RT @ramnath_vaidya: Interactive Quizzes with Slidify http://slidify.github.io/iquiz #rstats
+348180263601336320  Jun 21 16:46  @TuxedoPong       “@revodavid: R language skills "standard requirements in today's world", says SAP http://bit.ly/1306mnY #rstats” #truth #dirtydata
+348182997318631424  Jun 21 16:57  @TATA_BOX         Using the Bioconductor annotation packages - Musings from a PhD candidate http://davetang.org/muse/2013/05/23/using-the-bioconductor-annotation-packages/ #rstats #bioinformatics
+348188992849735680  Jun 21 17:21  @RubenMartinezS   Recomendation System in R http://blog.yhathq.com/posts/recommender-system-in-r.html vía @yhathq #rstats
+348195929628749824  Jun 21 17:49  @sharon000        Just added 3 more listings to my R Useful Resources chart and article. Now up to 57 :-) http://cwrld.us/RGuideList #rstats
+348197819586330626  Jun 21 17:56  @recology_        [Blog] Using remote web @CouchDB data stores (@cloudant @iriscouch) from #rstats http://bit.ly/14nMUx4
+348200672921006081  Jun 21 18:08  @tjmahr           RT @RLangTip: If x is a list, then x[2] <- NULL removes the second element, whereas x[2] <- list(NULL) replaces it with NULL. #rstats
+348201599040102401  Jun 21 18:11  @tavisrudd        next Wed night @hootsuite hq http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/124317472/ #rstats
+348206499295801344  Jun 21 18:31  @StatsInTheWild   RT @TATA_BOX: Using the Bioconductor annotation packages - Musings from a PhD candidate http://davetang.org/muse/2013/05/23/using-the-bioconductor-annotation-packages/ #rstats #bioinformatics
+348206947994042368  Jun 21 18:33  @romanandreg      RT @tavisrudd: next Wed night @hootsuite hq http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/124317472/ #rstats
+348208692400881666  Jun 21 18:39  @rantalainen      RT @i_314: Interesting!  Interactive Documents with R // Slidify + Shiny. http://slidify.github.io/interactive/ #rstats
+348210363852005376  Jun 21 18:46  @KevinLDavenport  One week to execute this project time to give Shiny a shot! #rstats #ggplot @hadleywickham http://t.co/ZdMbJpWHfI
+348216589558095872  Jun 21 19:11  @GabrielYospin    .@NPRCodeSwitch Awesome bro figure - should be 3D, to allow for preppy-jock bros, etc.  #rstats project this weekend! http://www.npr.org/blogs/codeswitch/2013/06/21/193881290/jeah-we-mapped-out-the-four-basic-aspects-of-being-a-bro
+348223946920964096  Jun 21 19:40  @mrfumblethumbs   RT @sharon000: Just added 3 more listings to my R Useful Resources chart and article. Now up to 57 :-) http://cwrld.us/RGuideList #rstats
+348234553560809472  Jun 21 20:22  @tjmahr           RT @RLangTip: Efficiency tip: When selecting from a data frame, df$a[1] is much faster than df[1,"a"] #rstats
+348240153766141952  Jun 21 20:44  @isomorphisms     Changing a function during runtime? This is almost certainly a great idea. #Rstats
