@@ -16754,3 +16754,48 @@
 348594388861071360  Jun 22 20:12  @Fancy17          RT @ctitusbrown: Tentative dates for MSU Next Gen Sequencing Analysis Course in 2014: Aug 4-15.  http://bioinformatics.msu.edu/ngs-summer-course-2014
 348597369790672896  Jun 22 20:24  @OmicsOmicsBlog   RT @SahaSurya: #Bioinformatics pipelines in #Python with #leaf http://bit.ly/1c8Hrgn tool http://bit.ly/1c8Hrgp #programming
 348605324082704384  Jun 22 20:56  @jrossibarra      @szintri @BaxterTwi You've seen http://bioinformatics.oxfordjournals.org/content/28/20/2584.abstract ?  Still not very satisfying..
+348612726194577408  Jun 22 21:25  @rnomics          Top #tweeted story in #bioinformatics: BMC Bioinformatics | Abstract | Comparin… http://www.biomedcentral.com/1471-2105/14/189/abstract, see more http://tweetedtimes.com/rnomics/bioinfo
+348619300229242881  Jun 22 21:51  @rnomics          Updating #RNA-Seq analyses after re-annotation: The estimation of isoform abundances from... http://bit.ly/10Isjq9 #bioinformaticsj @MyEN
+348619302292836352  Jun 22 21:51  @rnomics          iFUSE: integrated fusion gene explorer: Summary: We present iFUSE (integrated fusion gene... http://bit.ly/10IshyD #bioinformaticsj @MyEN
+348619304268333056  Jun 22 21:51  @rnomics          Genome-wide identification and predictive modeling of tissue-specific alte#RNAtive... http://bit.ly/10Isku5 #bioinformaticsj @MyEN
+348619306495524864  Jun 22 21:51  @rnomics          Integrating sequence, expression and interaction data to determine condition-specific... http://bit.ly/10IsjGz #bioinformaticsj @MyEN
+348619308466851840  Jun 22 21:51  @rnomics          The #RNA Newton polytope and lea#RNAbility of energy parameters: Motivation: Computational... http://bit.ly/10IsjGD #bioinformaticsj @MyEN
+348619310547226624  Jun 22 21:51  @rnomics          Poly(A) motif prediction using spectral latent features from human DNA sequences:... http://bit.ly/10IsjGJ #bioinformaticsj @MyEN
+348619312778579968  Jun 22 21:51  @rnomics          A weighted sampling algorithm for the design of #RNA sequences with targeted secondary... http://bit.ly/10IskKB #bioinformaticsj @MyEN
+348619315089641473  Jun 22 21:51  @rnomics          GeneScissors: a comprehensive approach to detecting and correcting spurious transcriptome... http://bit.ly/10IsjX5 #bioinformaticsj @MyEN
+348619317077753857  Jun 22 21:51  @rnomics          IDBA-tran: a more robust de novo de Bruijn graph assembler for transcriptomes with uneven... http://bit.ly/10IsjX7 #bioinformaticsj @MyEN
+348619319212666880  Jun 22 21:51  @rnomics          Identifying proteins controlling key disease signaling pathways: Motivation: Several types... http://bit.ly/10Isl19 #bioinformaticsj @MyEN
+348619336371544065  Jun 22 21:51  @GuiomeNicolas    RT @SahaSurya: MetaPathways: a modular pipeline for constructing #pathway/genome databases from env seq info http://bit.ly/11Tjtjt #bioinformatics
+348622195444035585  Jun 22 22:03  @rnomics          Mechanistic insights into mutually exclusive splicing in dynamin 1: Summary: Mutually... http://bit.ly/10ItN3D #bioinformaticsj @MyEN
+348622201383178240  Jun 22 22:03  @rnomics          Differential Gene Expression Analysis Using Coexpression and #RNA-Seq Data: Motivation:... http://bit.ly/10ItN3R #bioinformaticsj @MyEN
+348622203681636352  Jun 22 22:03  @rnomics          Linc2GO: A Human Li#ncRNA Function Annotation Resource Based On ce#RNA Hypothesis:... http://bit.ly/10ItNkd #bioinformaticsj @MyEN
+348623345320857601  Jun 22 22:07  @yag_ays          CPUが有り余っているからといって調子に乗ると落ちます / Tophatにおいて使用するスレッド数を上げすぎるとファイルディスクリプタの上限でエラーになる - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/06/23/tophat-too-many-open-files/
+348631992759369729  Jun 22 22:41  @neilfws          NAR web server issue is out: http://nar.oxfordjournals.org/content/41/W1.toc #bioinformatics
+348644320879984640  Jun 22 23:30  @bent_elizabeth   So can sitting waiting for sequence files to download be considered "work"? #bioinformatics #sobored
+348646755841212417  Jun 22 23:40  @kristiholmes     RT @neilfws: NAR web server issue is out: http://nar.oxfordjournals.org/content/41/W1.toc #bioinformatics
+348648195812884480  Jun 22 23:46  @asbonerw         RT @genetics_blog: Comparing somatic mutation-callers w/ #TCGA #NGS data: Beyond Venn diagrams http://www.biomedcentral.com/1471-2105/14/189/abstract #bioinformatics
+348650586893332481  Jun 22 23:55  @AnthonyNystrom   RT @SahaSurya: #Bioinformatics pipelines in #Python with #leaf http://bit.ly/1c8Hrgn tool http://bit.ly/1c8Hrgp #programming
+348653481579651073  Jun 23 00:07  @Biosolutions     Biosolutions Python for bioinformatics:  http://bit.ly/170gQS4
+348653485870432257  Jun 23 00:07  @Biosolutions     Biosolutions Neighbor-Joining Tree  in phylogenetic analysis: In bioinformatics, neighbor joining is a bottom-... http://bit.ly/12VVHt6
+348655092943187968  Jun 23 00:13  @rnomics          Top #tweeted story in #bioinformatics: BMC Bioinformatics | Abstract | Benchmar… http://www.biomedcentral.com/1471-2105/14/184/abstract, see more http://tweetedtimes.com/rnomics/bioinfo
+348656249233092610  Jun 23 00:18  @AlanJohnWilliam  RT @naturejobs_feed: Manager Engineering (Systems Engineer) - Manager, Ion Torrent Bioinformatics Support and Training We are seeking a... http://t.co/92WpHnl9dV
+348660318722990080  Jun 23 00:34  @feketerigoremet  BioHackathon is semantic interoperability and standardization of bioinformatics data and Web services. #biohack13
+348666106443087873  Jun 23 00:57  @bonohu           Tripling Bioinformatics Productivity Jerven Bolleman Swiss Institute of Bioinformatics, Switzerland http://ustre.am/C6Wz #biohack13
+348666285640519681  Jun 23 00:58  @fstrozzi         @jervenbolleman talk on tripling bioinformatics productivity at #biohack13
+348667166511480832  Jun 23 01:01  @pjacock          .@jervenbolleman has an excellent title, “Tripling Bioinformatics Productivity”, answering Qs using RDF triple stores and SPARQL #biohack13
+348675001303592960  Jun 23 01:32  @rajdeeppoddar    News in Bioinformatics is out! http://paper.li/rajdeeppoddar/1358939090
+348676535777116160  Jun 23 01:38  @TrishWhetzel     A network of #sparql endpoints in bioinformatics presented by @jervenbolleman #biohack13 .. more coming online http://t.co/c7yC9EQWgY
+348681340595617793  Jun 23 01:58  @yag_ays          今年のNAR Web Server issueが出てました / 2013 Web Server issue - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/06/24/nar-web-server-issue-2013/
+348684007623507969  Jun 23 02:08  @davidweisss      RT @pathogenomenick: You probably think a life of bioinformatics is all glamour, but let me tell you it’s mainly cutting and pasting out of Excel
+348688573584781314  Jun 23 02:26  @renelaennec      RT @genetics_blog: Comparing somatic mutation-callers w/ #TCGA #NGS data: Beyond Venn diagrams http://www.biomedcentral.com/1471-2105/14/189/abstract #bioinformatics
+348689298603773952  Jun 23 02:29  @meso_cacase      RT @yag_ays: 今年のNAR Web Server issueが出てました / 2013 Web Server issue - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/06/24/nar-web-server-issue-2013/
+348690065028939776  Jun 23 02:32  @jervenbolleman   #biohack13 Tripling Bioinformatics Productivity slides online http://www.slideshare.net/jervenbolleman/biohackathon2013-tripling-bioinformatics-productivity what can #sparql do for #bioinformatics
+348690122805477376  Jun 23 02:32  @fstrozzi         RT @jervenbolleman: #biohack13 Tripling Bioinformatics Productivity slides online http://www.slideshare.net/jervenbolleman/biohackathon2013-tripling-bioinformatics-productivity what can #sparql do for #bioinformatics
+348691637691625472  Jun 23 02:38  @pjacock          Biocuration is Sisyphean task & job gets bigger everyday MT @jervenbolleman: #biohack13 slides http://www.slideshare.net/jervenbolleman/biohackathon2013-tripling-bioinformatics-productivity http://t.co/1UsMHFVIwt
+348691720029999104  Jun 23 02:39  @gaou_ak          RT @jervenbolleman: #biohack13 Tripling Bioinformatics Productivity slides online http://www.slideshare.net/jervenbolleman/biohackathon2013-tripling-bioinformatics-productivity what can #sparql do for #bioinformatics
+348691792796983296  Jun 23 02:39  @bonohu           RT @jervenbolleman: #biohack13 Tripling Bioinformatics Productivity slides online http://www.slideshare.net/jervenbolleman/biohackathon2013-tripling-bioinformatics-productivity what can #sparql do for #bioinformatics
+348691834765197314  Jun 23 02:39  @32nm             RT @jervenbolleman: #biohack13 Tripling Bioinformatics Productivity slides online http://www.slideshare.net/jervenbolleman/biohackathon2013-tripling-bioinformatics-productivity what can #sparql do for #bioinformatics
+348693881245806592  Jun 23 02:47  @pjacock          RT @jervenbolleman: #biohack13 Tripling Bioinformatics Productivity slides online http://www.slideshare.net/jervenbolleman/biohackathon2013-tripling-bioinformatics-productivity what can #sparql do for #bioinformatics
+348695532862046208  Jun 23 02:54  @oogasawa         RT @yag_ays: 今年のNAR Web Server issueが出てました / 2013 Web Server issue - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/06/24/nar-web-server-issue-2013/
+348695635442159616  Jun 23 02:54  @rnomics          Top #tweeted story in #bioinformatics: Twitter / SAGRudd: Eeeew! http://t.co/DK… https://t.co/eHgEqQ7DeI, see more http://tweetedtimes.com/rnomics/bioinfo
+348696026342907904  Jun 23 02:56  @bonohu           “BMC Bioinformatics | Full text | Overview of BioCreAtIvE: critical assessment of information extraction for biology” http://htn.to/2Vxf3V

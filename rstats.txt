@@ -9742,3 +9742,25 @@
 348597564314116096  Jun 22 20:25  @mattmoehr        Realizing that your R code is abstracted for any shapefile? THANK JEEBUS. #rstats
 348601254999621633  Jun 22 20:39  @Piboonrungroj    RT @reid_jf: Interactive Documents with R http://bit.ly/1c6NIZO #rstats
 348605437584744448  Jun 22 20:56  @danlongest       Finding the exact function/package in R I need: priceless. Colsplit where you been all week. #Rstats
+348608835990204416  Jun 22 21:09  @DistribEcology   RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348615328382717952  Jun 22 21:35  @RandyMays        My twitter acct has grown unwieldly.  For my work stuff, pls follow @RandyMaysStat  #datascience,#rstats,#SAS,#healthcare
+348619159992672258  Jun 22 21:50  @InsyourHealth    RT @RandyMays: My twitter acct has grown unwieldly.  For my work stuff, pls follow @RandyMaysStat  #datascience,#rstats,#SAS,#healthcare
+348625188000260097  Jun 22 22:14  @Aaron_Baggett    Anyone know of an #rstats package that can handle a multinomial outcome in a GLMM?
+348629294756544512  Jun 22 22:31  @djhocking        RT @recology_: Announcing pqR: A faster version of R http://bit.ly/19eMxeI #rstats
+348641419436638208  Jun 22 23:19  @theoneamit       RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348644512014405634  Jun 22 23:31  @davidjayharris   @ML_Hipster try the taxize package in #Rstats. cc @rOpenSci
+348647090391482368  Jun 22 23:41  @kleinschmidt     RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348651633573498882  Jun 23 00:00  @_anshulk         RT @davidjayharris: I never imagined anyone could use so many branches #git #Rstats #pqR https://github.com/radfordneal/pqR/network
+348653265593970690  Jun 23 00:06  @lrott            Radford Neal at U of Toronto touting a faster version of R, #pqR. Looking forward to seeing what it can do #Rstats http://radfordneal.wordpress.com/
+348661603878703105  Jun 23 00:39  @zentree          "Announcing pqR:  A faster version of #Rstats" https://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/ (pretty quick R by Radford Neal)
+348665215166058496  Jun 23 00:53  @ipnosimmia       RT @zentree: "Announcing pqR:  A faster version of #Rstats" https://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/ (pretty quick R by Radford Neal)
+348666748872056832  Jun 23 01:00  @kuun_peal        USA, Japan, and Germany leading world in #R users: http://www.r-bloggers.com/where-is-the-r-activity/ #rstats #statistics
+348667259906052097  Jun 23 01:02  @kuun_peal        I not only use #R to do statistical analysis: R is how I *learn* #statistics.  Next grad school must have robust R userbase. #rstats
+348668101300195328  Jun 23 01:05  @kuun_peal        It's been good to have done a lots of figuring out #R, but collaboration is difficult when colleagues are steeped in #SPSS. #stats #rstats
+348672596381937664  Jun 23 01:23  @Rbloggers        Announcing pqR:  A faster version of R:  (This article was first published on   Radford Neal's blog ... http://bit.ly/14gkKnk #rstats
+348672597694763008  Jun 23 01:23  @Rbloggers        Prototyping A General Regression Neural Network with SAS:  (This article was first published on   Ye... http://bit.ly/14gkKnm #rstats
+348678310710099968  Jun 23 01:46  @johannux         RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348678361318555648  Jun 23 01:46  @johannux         RT @ChetanChawla: RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348680273774387201  Jun 23 01:53  @jaukia           RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348682542527942656  Jun 23 02:02  @drago_carlo      RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348690314271277057  Jun 23 02:33  @moclanmomo       That's what the #julialang devs could have been working on instead: Pretty quick #rstats pqR http://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/
