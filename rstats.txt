@@ -9777,3 +9777,26 @@
 348764829122699264  Jun 23 07:29  @mianromu         RT @grserrano_: A ver si llega esto a la distribución oficial. "pqR: A faster version of R" http://flip.it/0P2tJ #rstats
 348769904280875008  Jun 23 07:49  @PeterFlomStat    RT @moclanmomo: RT @statslabdublin: Annual #Rstats conference #UseR! 2014 to be held at UCLA next year http://www.foastat.org/projects.html
 348773560195616768  Jun 23 08:04  @moclanmomo       Update: WU's computing infrastructure will relocate to a new home so R-Forge & some #CRAN mirrors downtime starting 07-08-2013 #rstats
+348790639380541441  Jun 23 09:12  @hft_info         RT @msgbi: http://msgbi.tumblr.com/post/52305422555/twitter-bot-script-random-intervals-bash-linux new script @TeraEuro @rszbt @alex13wetter @hft_info running @ 1400 CEST Berlin #rstats #hft should i tweet only links
+348814797749485569  Jun 23 10:48  @benjaminlind     There's an #rstats fork out now with some substantial speed gains http://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/ #awwyiss
+348816327328280577  Jun 23 10:54  @hylopsar         Ho: method can be extended to non-Gaussian, hierarchical and multi-regime models. Implemented in #rstats pkg phylolm #evol2013
+348817118919274500  Jun 23 10:57  @benjaminlind     It's a pity that these performance boosts aren't within #rstats, but it sounds like the dev team wasn't having any of it.
+348818050163810304  Jun 23 11:01  @recology_        Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348823084578516992  Jun 23 11:21  @BobOHara         RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348823700411383808  Jun 23 11:23  @ethanwhite       Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348824328802021378  Jun 23 11:26  @RobFreckleton    RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348824411383672832  Jun 23 11:26  @RobFreckleton    RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348827016440725505  Jun 23 11:36  @scott_rollins    RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348827122816651265  Jun 23 11:37  @scott_rollins    RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348827582495596544  Jun 23 11:39  @ChPietsch        RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348837140186144768  Jun 23 12:17  @se_hampton       RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats #nceasSI
+348845722482929667  Jun 23 12:51  @smkent22         Terrific post, read it “@recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats”
+348847282822725632  Jun 23 12:57  @rOpenSci         Vignette added to rbison (BISON occurrence data from #rstats) http://bit.ly/144jOTI #rstats @USGS - more features coming...
+348851131880988672  Jun 23 13:12  @eddelbuettel     An #Rcpp book status update: Amazon now says 'in stock on June 25'.  At long last... #rstats
+348852313353515008  Jun 23 13:17  @yokofakun        [fr] Langage de programmation #Rstats - Initiation #Nantes  26 septembre 2013 #inserm  http://www.rh.inserm.fr/INSERM/IntraRH/RHActionsFormation.nsf/vAFSearch/EE3EB712891D4944C1257B89004D752C?OpenDocument&1&mode=imp
+348859141848170496  Jun 23 13:44  @bryan_howie      RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348863647579246594  Jun 23 14:02  @rmflight         RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348869539691372544  Jun 23 14:25  @DanMcGlinn       RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348874051374170113  Jun 23 14:43  @johnsarealtwit   RT @eddelbuettel: An #Rcpp book status update: Amazon now says 'in stock on June 25'.  At long last... #rstats
+348877227510878209  Jun 23 14:56  @sc_evans         Having trouble figuring out how to install pqR on Ubuntu. I RTFM'ed but still no dice. Help? #Rstats @recology_
+348877326412566529  Jun 23 14:56  @ngamita          #rstats R on Ubuntu 12.04 http://goo.gl/zBh1B
