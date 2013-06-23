@@ -9764,3 +9764,16 @@
 348680273774387201  Jun 23 01:53  @jaukia           RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
 348682542527942656  Jun 23 02:02  @drago_carlo      RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
 348690314271277057  Jun 23 02:33  @moclanmomo       That's what the #julialang devs could have been working on instead: Pretty quick #rstats pqR http://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/
+348711883974508545  Jun 23 03:59  @ronert_obst      RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348715862724853760  Jun 23 04:15  @grserrano_       A ver si llega esto a la distribución oficial. "pqR: A faster version of R" http://flip.it/0P2tJ #rstats
+348717273185386496  Jun 23 04:20  @Gliders_Coach    RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348725668563001345  Jun 23 04:54  @sakamotoki       RT @zentree: "Announcing pqR:  A faster version of #Rstats" https://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/ (pretty quick R by Radford Neal)
+348727859189260288  Jun 23 05:02  @chlalanne        RT @zentree: "Announcing pqR:  A faster version of #Rstats" https://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/ (pretty quick R by Radford Neal)
+348736104138145792  Jun 23 05:35  @jmgomez          RT @quandl: Writing code efficiently for R: http://qndl.co/19dKSm9 #rstats #development
+348745683144175616  Jun 23 06:13  @moclanmomo       RT @statslabdublin: Annual #Rstats conference #UseR! 2014 to be held at UCLA next year http://www.foastat.org/projects.html
+348755387475955714  Jun 23 06:52  @gsantosgo        RT @quandl: Writing code efficiently for R: http://qndl.co/19dKSm9 #rstats #development
+348758015907872770  Jun 23 07:02  @msgbi            http://msgbi.tumblr.com/post/52305422555/twitter-bot-script-random-intervals-bash-linux new script @TeraEuro @rszbt @alex13wetter @hft_info running @ 1400 CEST Berlin #rstats #hft should i tweet only links
+348761168283852800  Jun 23 07:15  @hft_info         Master "@msgbi: http://msgbi.tumblr.com/post/52305422555/twitter-bot-script-random-intervals-bash-linux new script @TeraEuro @rszbt @alex13wetter @hft_info running @ 1400 CEST Berlin #rstats
+348764829122699264  Jun 23 07:29  @mianromu         RT @grserrano_: A ver si llega esto a la distribución oficial. "pqR: A faster version of R" http://flip.it/0P2tJ #rstats
+348769904280875008  Jun 23 07:49  @PeterFlomStat    RT @moclanmomo: RT @statslabdublin: Annual #Rstats conference #UseR! 2014 to be held at UCLA next year http://www.foastat.org/projects.html
+348773560195616768  Jun 23 08:04  @moclanmomo       Update: WU's computing infrastructure will relocate to a new home so R-Forge & some #CRAN mirrors downtime starting 07-08-2013 #rstats
