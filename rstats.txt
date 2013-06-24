@@ -9866,3 +9866,24 @@
 349045149902446592  Jun 24 02:03  @sjackman         RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
 349047508518989824  Jun 24 02:13  @Rbloggers        Principal Components Analysis Shiny App:  (This article was first published on   imDEV » r-bloggers,... http://bit.ly/14jBBpl #rstats
 349056936941072384  Jun 24 02:50  @jmgomez          RT @zentree: "A Brief Tour of the Trees and Forests" #Rstats http://statistical-research.com/a-brief-tour-of-the-trees-and-forests/ HT: @abhik1368 #datamining
+349061244067663872  Jun 24 03:07  @ChrisGandrud     Improved d3Network for #rstats on CRAN http://bit.ly/18a1BsU & website with lots of examples http://bit.ly/18a1nCi http://t.co/RX3gKAmpH4
+349065626440060929  Jun 24 03:25  @jmgomez          RT @iamdavecampbell D Campbell course materials for STAT853 Applications of Statistical Computing #Rstats http://people.stat.sfu.ca/~dac5/CompStat/CompStat2013/Course_Details/Course_Details.html #datamining
+349069328156606465  Jun 24 03:39  @SteveThackeray   Preparing #zooplankton results from @WinSci project, to present at SEFS8 next week. Cue major R session....#rstats #freshwater
+349070470391406592  Jun 24 03:44  @ronert_obst      RT @quandl: Free e-book on #Data Science with R by Jeffrey Stanton http://qndl.co/16KMHpQ #rstats
+349072409778860032  Jun 24 03:52  @RolfFredheim     RT @ChrisGandrud: Improved d3Network for #rstats on CRAN http://bit.ly/18a1BsU & website with lots of examples http://bit.ly/18a1nCi http://t.co/RX3gKAmpH4
+349074755539836930  Jun 24 04:01  @jaynal83         @useR_2013 Anybody signing up the tour (second one).. i will be there #rstats
+349080896613253120  Jun 24 04:25  @ngamita          #rstats R on Ubuntu 12.04 http://goo.gl/zBh1B
+349093950432350208  Jun 24 05:17  @jonclayden       My initial experience is that #pqR builds fine on OS X with gcc 4.8.1, but not with Xcode gcc, due to OpenMP issues with the latter #rstats
+349094029264306177  Jun 24 05:17  @fz16cu           RT @ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://youtu.be/znaO6OHLTeY
+349095215400882177  Jun 24 05:22  @MangoTheCat      TheTop 100 R packages for 2013 so far?  http://goo.gl/8AAnB  #rstats
+349096128085622784  Jun 24 05:26  @MethodsEcolEvol  RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+349102957414977537  Jun 24 05:53  @GuillemSalazar   RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+349104632326389760  Jun 24 06:00  @divyakkm         RT @zentree: "Tree models in #Rstats" http://plantecology.syr.edu/fridley/bio793/cart.html
+349104656393310208  Jun 24 06:00  @divyakkm         RT @zentree: "A Brief Tour of the Trees and Forests" #Rstats http://statistical-research.com/a-brief-tour-of-the-trees-and-forests/ HT: @abhik1368
+349109570972549120  Jun 24 06:19  @ibartomeus       RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+349123565360140289  Jun 24 07:15  @jmgomez          Time Is on My Side – A Small Example for Text Analytics on a Stream http://ow.ly/1XW4Qg #rstats #textmining
+349126191648747520  Jun 24 07:25  @ITSMNinja        Maps Moving in Time  (idea = replace many statgraphics with 4K, 8k video data displays) http://edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq #dataviz #bigdata #rstats
+349129542213963777  Jun 24 07:39  @tatvic           RT @jmgcorral: Wow!! Paquete de R que permite extraer datos de Google Analytics http://bit.ly/144ctEB  /cc @blancomanuel #measure #rstats
+349132528206098432  Jun 24 07:50  @jmgomez          RT @Rbloggers: Principal Components Analysis Shiny App: http://bit.ly/14jBBpl #rstats #datamining
+349133163034984448  Jun 24 07:53  @Luehea           RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+349145115811520515  Jun 24 08:40  @quandl           Beginner’s guide to R #data visualization http://qndl.co/12L2MfY #rstats
