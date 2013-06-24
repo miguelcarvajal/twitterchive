@@ -9837,3 +9837,32 @@
 348957702455697408  Jun 23 20:16  @cezden           RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
 348961265152032770  Jun 23 20:30  @zentree          "Parallel computation with helper threads in pqR" #Rstats http://radfordneal.wordpress.com/2013/06/23/parallel-computation-with-helper-threads-in-pqr/
 348962374247661568  Jun 23 20:34  @zentree          .@iamdavecampbell's course materials for STAT853 Applications of Statistical Computing. #Rstats http://people.stat.sfu.ca/~dac5/CompStat/CompStat2013/Course_Details/Course_Details.html
+348974335882559488  Jun 23 21:22  @JGreenbrookHeld  I have a list of numbers as factors in #rstats. When using as.numeric() to summarise them, it mungs them up. Any ideas?
+348974507169550336  Jun 23 21:23  @JGreenbrookHeld  (The list is people's ages in years) #ttrttpt #rstats
+348982647692861440  Jun 23 21:55  @Lucas_Hejtmanek  Free e-book on #datascience #rstats #data  #statistics #analytics http://goo.gl/kBNTl
+348985587832848384  Jun 23 22:07  @PageViral        RT @Lucas_Hejtmanek: Free e-book on #datascience #rstats #data  #statistics #analytics http://goo.gl/kBNTl
+348992098206351363  Jun 23 22:32  @JohnCluverius    For the record: I know how to drive stick, use #rstats, tie a bow tie, and make one hell of a grilled cheese sandwich.
+348998650493534208  Jun 23 22:58  @jaynal83         @useR_2013 Anybody attending propensity score tutorial? #rstats I will be there...
+349000207981232128  Jun 23 23:05  @secretmirth      RT@ramnath_vaidya: Interactive Documents with R. Blog post to follow #rstats @nyhackr @jcheng http://bit.ly/14MVt6I
+349001223296389120  Jun 23 23:09  @zentree          Any suggestions for good explanations of regression trees and (regression) random forests? Using #Rstats a plus.
+349003635922964480  Jun 23 23:18  @gvegayon         "Parallel computation with helper threads in pqR" http://feedly.com/k/10eFv3I #mustread and try #pqR #rstats
+349003959408660483  Jun 23 23:20  @gvegayon         "Announcing pqR: A faster version of R" http://feedly.com/k/10eFCfE #rstats vs #pqrstats benchmark
+349004351446065155  Jun 23 23:21  @gvegayon         "Optimization" with #rstats http://feedly.com/k/10eFInB a survey
+349004421327360000  Jun 23 23:21  @jorgefabrega     RT @gvegayon: "Parallel computation with helper threads in pqR" http://feedly.com/k/10eFv3I #mustread and try #pqR #rstats
+349008269022474242  Jun 23 23:37  @jeffreyhorner    RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+349011809187004417  Jun 23 23:51  @zentree          "Tree models in #Rstats" http://plantecology.syr.edu/fridley/bio793/cart.html
+349012112900755456  Jun 23 23:52  @zentree          "A Brief Tour of the Trees and Forests" #Rstats http://statistical-research.com/a-brief-tour-of-the-trees-and-forests/ HT: @abhik1368
+349012605286887425  Jun 23 23:54  @timelyportfolio  added googleVis and autoplot.zoo to my piece on #rstats and time series plotting http://timelyportfolio.blogspot.com/2013/06/r-plotting-financial-time-series.html #d3js
+349012738514747392  Jun 23 23:54  @timelyportfolio  RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+349020634069733376  Jun 24 00:26  @SBaruchMordo     RT @se_hampton: RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats #nceasSI
+349022348344700928  Jun 24 00:33  @stuhorsman       Anybody got any R code for predicting winning poker hands? #rstats
+349023022629392384  Jun 24 00:35  @zentree          Today I managed to procrastinate marking exams BUT coded #Rstats and have been learning about regression trees & random forests.
+349028264632795136  Jun 24 00:56  @iamdavecampbell  RT @zentree: .@iamdavecampbell's course materials for STAT853 Applications of Statistical Computing. #Rstats http://people.stat.sfu.ca/~dac5/CompStat/CompStat2013/Course_Details/Course_Details.html
+349040338473713665  Jun 24 01:44  @hannahdugdale    RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+349044266959519744  Jun 24 02:00  @chlalanne        RT @zentree: "A Brief Tour of the Trees and Forests" #Rstats http://statistical-research.com/a-brief-tour-of-the-trees-and-forests/ HT: @abhik1368
+349044344352800770  Jun 24 02:00  @drago_carlo      Parallel computation with helper threads in pqR http://feedly.com/k/1aGGIVQ #ParallelComputation #Rstats
+349044404318765056  Jun 24 02:00  @chlalanne        RT @zentree: "Tree models in #Rstats" http://plantecology.syr.edu/fridley/bio793/cart.html
+349044431367839744  Jun 24 02:00  @drago_carlo      RT @zentree: "A Brief Tour of the Trees and Forests" #Rstats http://statistical-research.com/a-brief-tour-of-the-trees-and-forests/ HT: @abhik1368
+349045149902446592  Jun 24 02:03  @sjackman         RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+349047508518989824  Jun 24 02:13  @Rbloggers        Principal Components Analysis Shiny App:  (This article was first published on   imDEV » r-bloggers,... http://bit.ly/14jBBpl #rstats
+349056936941072384  Jun 24 02:50  @jmgomez          RT @zentree: "A Brief Tour of the Trees and Forests" #Rstats http://statistical-research.com/a-brief-tour-of-the-trees-and-forests/ HT: @abhik1368 #datamining
