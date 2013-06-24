@@ -9800,3 +9800,40 @@
 348874051374170113  Jun 23 14:43  @johnsarealtwit   RT @eddelbuettel: An #Rcpp book status update: Amazon now says 'in stock on June 25'.  At long last... #rstats
 348877227510878209  Jun 23 14:56  @sc_evans         Having trouble figuring out how to install pqR on Ubuntu. I RTFM'ed but still no dice. Help? #Rstats @recology_
 348877326412566529  Jun 23 14:56  @ngamita          #rstats R on Ubuntu 12.04 http://goo.gl/zBh1B
+348879397014618112  Jun 23 15:05  @orlandomezquita  RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://bit.ly/1c8DR5J #rstats
+348882270892994561  Jun 23 15:16  @rOpenSci         Added constrain searches to counties, bounding boxes, and well-known text areas in rbison - see http://bit.ly/19ttB8W #rstats @USGS
+348883362884239360  Jun 23 15:20  @millerdl         updated map of states I have visited: http://dill.github.io/states/states.png (code: http://dill.github.io/states/visited.R) #rstats
+348885922005266433  Jun 23 15:31  @znmeb            Announcing pqR: A faster version of R | Radford Neal's blog http://j.mp/142ZBhT #rstats
+348887587420766208  Jun 23 15:37  @davidjayharris   RT @eddelbuettel: An #Rcpp book status update: Amazon now says 'in stock on June 25'.  At long last... #rstats
+348891259731066882  Jun 23 15:52  @dataJujitsu      RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348892375726309376  Jun 23 15:56  @lexnederbragt    RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348893467109376000  Jun 23 16:00  @Rbloggers        Time Is on My Side – A Small Example for Text Analytics on a Stream:  (This article was first publis... http://bit.ly/1a521Bq #rstats
+348895548855693312  Jun 23 16:09  @BrockTibert      @tableau any chance you will create an API for #rstats?  Would love to programmatically build data extracts from various objects in R.
+348897241982967809  Jun 23 16:15  @infoecho         RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348900759699587072  Jun 23 16:29  @aDataHead        A Small Example for Text Analytics on a Stream in #rstats http://www.r-bloggers.com/time-is-on-my-side-a-small-example-for-text-analytics-on-a-stream/ via @rbloggers
+348908401276887040  Jun 23 17:00  @WIngenieur       RT @datennutzen: #rstats im Qualitätswesen Chancen und Potenziale #industrie4.0 #bigdata http://blog.eoda.de http://t.co/mxSSbXSZ0l
+348909332961849344  Jun 23 17:04  @chlalanne        Parallel computation with helper threads in pqR http://feedly.com/k/14rgGRM #rstats
+348909477220737024  Jun 23 17:04  @KirkDBorne       What is pqR? Pretty Quick R - a faster version of R: http://www.r-bloggers.com/announcing-pqr-a-faster-version-of-r/ #Rstats for #DataScience
+348909625606803457  Jun 23 17:05  @chlalanne        What is “Practical Data Science with R”? http://feedly.com/k/12imlGs #rstats
+348909778656952320  Jun 23 17:05  @quandl           Free e-book on #Data Science with R by Jeffrey Stanton http://qndl.co/16KMHpQ #rstats
+348909977898987520  Jun 23 17:06  @LornaCTweets     RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348910930706440192  Jun 23 17:10  @JAdP             RT @chlalanne: Parallel computation with helper threads in pqR http://feedly.com/k/14rgGRM #rstats
+348911046901243905  Jun 23 17:10  @JGreenbrookHeld  #Rstudio is automatically indenting 25 places when I return to a new line. How do I fix this? #rstats
+348912593919946752  Jun 23 17:16  @jcgpz            RT @quandl: Free e-book on #Data Science with R by Jeffrey Stanton http://qndl.co/16KMHpQ #rstats
+348919681870077952  Jun 23 17:45  @djpappano        @kyrietree what r package? #rstats
+348921212686180353  Jun 23 17:51  @lovetheants      RT @ethanwhite: Read this now. RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348921711644786691  Jun 23 17:53  @hashonomy_gus    Why I want to write nice R code - Nice R Code http://hashonomy.com/79hf/ #rstats #development (via @ethanwhite)
+348922380313305088  Jun 23 17:55  @martinmev        RT @KirkDBorne: What is pqR? Pretty Quick R - a faster version of R: http://www.r-bloggers.com/announcing-pqr-a-faster-version-of-r/ #Rstats for #DataScience
+348923110151557121  Jun 23 17:58  @djpappano        @kyrietree also download @rstudioapp it's awesome good luck #rstats
+348924243985182722  Jun 23 18:03  @BrockTibert      As a follow up, can developers on Linux / Mac hack the @tableau data extract API using #python or #rstats?  Is it Windows only? #silly
+348926083585941504  Jun 23 18:10  @Rbloggers        Parallel computation with helper threads in pqR:  (This article was first published on   Radford Nea... http://bit.ly/173dCNQ #rstats
+348927919185330176  Jun 23 18:17  @phylorich        RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348931145020342273  Jun 23 18:30  @JGreenbrookHeld  Music to code #rstats to - any recommendations?
+348940780343267328  Jun 23 19:08  @dnusinow         RT @zentree: "Announcing pqR:  A faster version of #Rstats" https://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/ (pretty quick R by Radford Neal)
+348941471975620609  Jun 23 19:11  @jonsedar         RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+348946930119892992  Jun 23 19:33  @YhatHQ           "pretty quick" R #Rstats https://github.com/radfordneal/pqR
+348947664248901633  Jun 23 19:36  @jameskeirstead   Just submitted my first #Rstats package to CRAN.  More info as soon as it's approved!
+348953348038332416  Jun 23 19:58  @JGreenbrookHeld  My colleagues refuse to acknowledge when I have a #rstats success / victory.
+348957702455697408  Jun 23 20:16  @cezden           RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+348961265152032770  Jun 23 20:30  @zentree          "Parallel computation with helper threads in pqR" #Rstats http://radfordneal.wordpress.com/2013/06/23/parallel-computation-with-helper-threads-in-pqr/
+348962374247661568  Jun 23 20:34  @zentree          .@iamdavecampbell's course materials for STAT853 Applications of Statistical Computing. #Rstats http://people.stat.sfu.ca/~dac5/CompStat/CompStat2013/Course_Details/Course_Details.html
