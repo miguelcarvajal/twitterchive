@@ -9893,22 +9893,31 @@
 349153621402869760  Jun 24 09:14  @ngamita          How to query MongoDB from R? http://goo.gl/DnRA6  #rstats
 349153805138538496  Jun 24 09:15  @ngamita          Part 1: R and Google Analytics. http://goo.gl/gkfJs #rstats
 349155690327207936  Jun 24 09:22  @noticiasSobreR   pqR: un R más rápido: Hace no mucho, Radford Neal ha publicado pqR, una versión de R más rápida. Y alg... http://tinyurl.com/kgyfp9a #rstats
+349157895935492097  Jun 24 09:31  @Gliders_Coach    RT @tatvic: RT @YhatHQ: Installing the RGoogleAnalytics package - http://www.tatvic.com/blog/installing-the-rgoogleanalytics-package/ #measure #rstats
 349162679631482880  Jun 24 09:50  @marketequations  #Strataconf @RevolutionR co-developing in-Hadoop predictive analytics with @Hortonworks; demo in booth 618 #BigData #Hadoop #rstats
 349168160236249090  Jun 24 10:12  @KevinLDavenport  Do devs always experience pushback from the Rcoredev team? http://radfordneal.github.io/pqR/ #rstats
 349171413975957504  Jun 24 10:25  @seandavis12      Tutorial: another #rstats tutorial: http://watson.nci.nih.gov/~sdavis/tutorials/
+349175286153216000  Jun 24 10:40  @PPUAMX           RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
 349178522897629184  Jun 24 10:53  @davidjayharris   @ethanwhite @jiffyclub @swcarpentry Big reason not to switch from #Rstats. Ecologists won't install it just so they can run my code.
 349184004056023042  Jun 24 11:15  @davidjayharris   @ethanwhite @jiffyclub @swcarpentry Ecologists use lots of #Rstats packages.  But point taken.
 349189252753543169  Jun 24 11:36  @jmgomez          Got Bootstrap? - overview of bootstrapping in R http://ow.ly/mjI5O #Rstats #DataMining
 349197279032385537  Jun 24 12:08  @RLangTip         Random input testing with R: http://bit.ly/LpJ0Of (PDF) #rstats
 349197282287157248  Jun 24 12:08  @qx               Lots of goodies here RT @recology_ Why I want to write nice R code http://bit.ly/1aF6byH  #rstats
 349198307974844416  Jun 24 12:12  @inside_R         #rstats R user group meetings this week: Dublin, Knoxville, Cincinnati, Vancouver and Austin (http://bit.ly/9hVAPE)
+349198681959964672  Jun 24 12:13  @pstyd            RT @RLangTip: Random input testing with R: http://bit.ly/LpJ0Of (PDF) #rstats
+349202360825937920  Jun 24 12:28  @StatsInTheWild   RT @jmgomez: Got Bootstrap? - overview of bootstrapping in R http://ow.ly/mjI5O #Rstats #DataMining
 349202863471333377  Jun 24 12:30  @qx               #rstats Just found a gem in the ?grep help page: a neat little function to decompose a URL into its components. Beats my approach!
 349205372927610880  Jun 24 12:40  @chipmonkey75     Machine Learning cheat sheet http://eferm.com/machine-learning-cheat-sheet/ via @emanuelferm #rstats #datamining
 349205383975403523  Jun 24 12:40  @AndreaBrunelli   Ok, that Phangorn joke is getting old #rstats
 349207560030658560  Jun 24 12:49  @i_314            methylKit: a comprehensive R package for the analysis of genome-wide DNA methylation profiles. http://genomebiology.com/2012/13/10/r87 #rstats #epigenetics
+349207586140192769  Jun 24 12:49  @bayestheoremqed  RT @masemresearch: BCEA: An R package to perform Bayesian Cost-Effectiveness Analysis - Gianluca Baio #rstats | @scoopit http://t.co/BB1VOC9inL
 349208265495822337  Jun 24 12:51  @i_314            methylKit: User Guide. Introduction to Methylation, good examples and #rstats code. http://genomebiology.com/content/supplementary/gb-2012-13-10-r87-s2.pdf
+349208988388294657  Jun 24 12:54  @StatsInTheWild   RT @i_314: methylKit: User Guide. Introduction to Methylation, good examples and #rstats code. http://genomebiology.com/content/supplementary/gb-2012-13-10-r87-s2.pdf
 349210418910212096  Jun 24 13:00  @genetics_blog    Count-based differential expression analysis of RNA-seq data using #Rstats and #Bioconductor http://arxiv.org/abs/1302.3685 #bioinformatics #arXiv
 349210780928966656  Jun 24 13:01  @BrockTibert      I heard of ?expand.grid but never really understood how/when to use it until this post on rec systems using #rstats  http://blog.yhathq.com/posts/recommender-system-in-r.html
+349210905571110913  Jun 24 13:02  @causalityblog    RT @jmgomez: Got Bootstrap? - overview of bootstrapping in R http://ow.ly/mjI5O #Rstats #DataMining
+349211479297363968  Jun 24 13:04  @faustovrz        RT @genetics_blog: Count-based differential expression analysis of RNA-seq data using #Rstats and #Bioconductor http://arxiv.org/abs/1302.3685 #bioinformatics #arXiv
+349214685989568512  Jun 24 13:17  @Ferdix           RT @genetics_blog: Count-based differential expression analysis of RNA-seq data using #Rstats and #Bioconductor http://arxiv.org/abs/1302.3685 #bioinformatics #arXiv
 349214986113003521  Jun 24 13:18  @kognitio         MT @jjgibaja: Using R ‘helps automate data analysis’ | @Kognitio  http://buff.ly/131uqH4 (vía @chlalanne) #Rstats #BigData
 349220415329140738  Jun 24 13:40  @pssGuy           Billboard phh! Check out the latest week's CRAN Countdown. http://glimmer.rstudio.com/pssguy/CRANcountdown/  Tight race; but does plyr hang on to top spot #rstats
 349225070167719936  Jun 24 13:58  @raffdoc          RT @genetics_blog: Count-based differential expression analysis of RNA-seq data using #Rstats and #Bioconductor http://flip.it/bIVt8
@@ -9917,4 +9926,20 @@
 349227703167234048  Jun 24 14:09  @Conor_Dixon      Hadley Wickham Lecture: http://www.meetup.com/DublinR/events/120176332/ #bigdata #rstats
 349228049272807425  Jun 24 14:10  @i_314            Check: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24546 for full datasets if you are working with RepiTools. Epigenomics with R. #rstats
 349231003287556096  Jun 24 14:22  @LifestyleTelma   Automated Archival and Visual Analysis of Tweets Mentioning #bog13, Bioinformatics, #rstats, and Others http://gettinggeneticsdone.blogspot.pt/2013/05/automated-analysis-tweets-bioinformatics-twitterchive.html
+349232006900625408  Jun 24 14:26  @joseemunuera     RT @LifestyleTelma: Automated Archival and Visual Analysis of Tweets Mentioning #bog13, Bioinformatics, #rstats, and Others http://t.co/oEMaiSf6yh
+349235437577056257  Jun 24 14:39  @GenBioStats      RT @i_314: methylKit: User Guide. Introduction to Methylation, good examples and #rstats code. http://genomebiology.com/content/supplementary/gb-2012-13-10-r87-s2.pdf
 349237432811667456  Jun 24 14:47  @DevNambi         I am always amused when I see mainstream media articles with ggplot2 graphs in them #rstats
+349247479390285824  Jun 24 15:27  @brianabelson     love me some ggplot #rstats #civicmedia
+349248252647964672  Jun 24 15:30  @TATA_BOX         Cookbook for R » Multiple graphs on one page (ggplot2) http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/ #rstats
+349259378127409154  Jun 24 16:14  @TrestleJeff      Slides from my crash course to creating R packages using RStudio, devtools, and roxygen2. http://qbrc.swmed.edu/2013/06/creating-r-packages/ #rstats
+349264840264646658  Jun 24 16:36  @Jowanza          Probably the most impressive #Shiny application I've seen: Principal Components analysis: http://bit.ly/16vfhe1 #Rstats
+349268717621874692  Jun 24 16:52  @Rbloggers        Streamline Your Mechanical Turk Workflow with MTurkR:  (This article was first published on   Solomo... http://bit.ly/19m1jQT #rstats
+349273360825458689  Jun 24 17:10  @Rbloggers        My Stat Bytes talk, with slides and code:  (This article was first published on   Nathan VanHoudnos ... http://bit.ly/130T0qo #rstats
+349278015538208769  Jun 24 17:29  @secretmirth      R language skills "standard requirements in today's world", says SAP http://bit.ly/19ZeZ3U #rstats via @revodavid
+349278398322982912  Jun 24 17:30  @hadleywickham    RT @brianabelson: love me some ggplot #rstats #civicmedia
+349280035414351872  Jun 24 17:37  @hadleywickham    RT @TrestleJeff: Slides from my crash course to creating R packages using RStudio, devtools, and roxygen2. http://qbrc.swmed.edu/2013/06/creating-r-packages/ #rstats
+349289170310672385  Jun 24 18:13  @hoxo_m           RT @TrestleJeff: Slides from my crash course to creating R packages using RStudio, devtools, and roxygen2. http://qbrc.swmed.edu/2013/06/creating-r-packages/ #rstats
+349298222830858240  Jun 24 18:49  @nashturley       Oh gesh, my repeated measures nested split plot mixed effects model with >10,000 lines of data broke #R again. #Rstats
+349314936704466946  Jun 24 19:55  @revodavid        A beer recommendation system, made in R by the folks at @YhatHQ http://bit.ly/11WTEyP #rstats
+349315894247305216  Jun 24 19:59  @bearloga         RT @revodavid: A beer recommendation system, made in R by the folks at @YhatHQ http://bit.ly/11WTEyP #rstats
+349328262935224320  Jun 24 20:48  @SeanAMason       Big Data Analytics + Beer = A beer recommendation system, made in R by the folks at @YhatHQ via @revodavid http://bit.ly/11WTEyP #rstats
