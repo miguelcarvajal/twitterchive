@@ -9963,3 +9963,17 @@
 349412840815345664  Jun 25 02:24  @alexgorbachev    RT @GregRahn: Perfect application of technology and data:  A beer recommendation system written in R: http://bit.ly/178mbqG #rstats #beer
 349417891155816448  Jun 25 02:44  @zentree          "Merging Data — #SAS, #Rstats, and #Python". http://statsadventure.blogspot.co.nz/2013/06/merging-data-sas-r-and-python.html Last version would be easier using #pandas.
 349421429244174337  Jun 25 02:58  @JGreenbrookHeld  RT @zentree: "Merging Data — #SAS, #Rstats, and #Python". http://statsadventure.blogspot.co.nz/2013/06/merging-data-sas-r-and-python.html Last version would be easier using #pandas.
+349422124240351234  Jun 25 03:01  @chlalanne        RT @TrestleJeff: Slides from my crash course to creating R packages using RStudio, devtools, and roxygen2. http://qbrc.swmed.edu/2013/06/creating-r-packages/ #rstats
+349423044692938752  Jun 25 03:05  @richierocks      RT @eddelbuettel: Wow -- Radford Neal releases 'pretty quick R', a faster version of R: http://article.gmane.org/gmane.comp.lang.r.devel/33777 #rstats #glovehasbeendropped
+349424134456999936  Jun 25 03:09  @jwessnit         RT @TrestleJeff: Slides from my crash course to creating R packages using RStudio, devtools, and roxygen2. http://qbrc.swmed.edu/2013/06/creating-r-packages/ #rstats
+349425315640115200  Jun 25 03:14  @jwessnit         Two favourites combined RT @Rbloggers: A beer recommendation system made with R: http://bit.ly/131Dbjc #rstats
+349425825944309761  Jun 25 03:16  @jwessnit         RT @TATA_BOX: Cookbook for R » Multiple graphs on one page (ggplot2) http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/ #rstats
+349432637414318081  Jun 25 03:43  @drago_carlo      RT @zentree: "Merging Data — #SAS, #Rstats, and #Python". http://statsadventure.blogspot.co.nz/2013/06/merging-data-sas-r-and-python.html Last version would be easier using #pandas.
+349438779427258370  Jun 25 04:07  @stuhorsman       Great #bigdata workshop today and not too many curly questions about #rstats
+349444469940166656  Jun 25 04:30  @algonpaje        Reordenando código para los chavales >> #rstats basic code. http://t.co/ltprwRu4Fz
+349455880992980992  Jun 25 05:15  @cargomoose       RT @brianabelson: love me some ggplot #rstats #civicmedia
+349469637618040832  Jun 25 06:10  @jmgomez          RT @TATA_BOX: Cookbook for R » Multiple graphs on one page (ggplot2) http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/ #rstats #dataviz
+349493442591723520  Jun 25 07:45  @ArthurFlam       #prettyquickR vs #Rstats : l'effet wahou.  http://radfordneal.wordpress.com/2013/06/24/comparing-the-speed-of-pqr-with-r-2-15-0-and-r-3-0-1/
+349496542866051073  Jun 25 07:57  @Rbloggers        -omics in 2013:  (This article was first published on   What You're Doing Is Rather Desperate » R, a... http://bit.ly/17arq9g #rstats
+349504846988193792  Jun 25 08:30  @DistribEcology   Actually, the Humanities Aren't in Crisis http://flip.it/K1mz0. Notable because the article has #ggplot2 plots in the wild #rstats
+349510381175177217  Jun 25 08:52  @kribys           Bli full og god med #Rstats: A beer recommondation system made with R (som anbefalinger fra Amazon): http://blog.yhathq.com/posts/recommender-system-in-r.html
