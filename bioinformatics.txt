@@ -17134,3 +17134,52 @@
 349325277970710528  Jun 24 20:36  @anamme           Como siempre @greg_alanis me hace sentir súper orgullosa. Congrats x publicar en Oxford!! http://bioinformatics.oxfordjournals.org/content/29/13/i199.full.pdf+html
 349326605920911363  Jun 24 20:42  @Testbank_SM_IM   Discovering Genomics, Proteomics and Bioinformatics, 2/E by A. Malcolm Campbell, Laurie J. Heyer. - http://bit.ly/13os9kf
 349328547854290944  Jun 24 20:49  @Biopython        .@kaiblin Sadly a lot of #bioinformatics does involve data file munging, and shared parsers to help with this is a Bio* project strength.
+349334508471975936  Jun 24 21:13  @yag_ays          from Bio.Seq import Seq;Seq("TATGAAAGT").translate()  /Biopythonで塩基配列をアミノ酸配列にする - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/06/25/biopython-translation/
+349336374228422657  Jun 24 21:20  @ReaverBait       @passcod NZIOB? Since when have you been in the Institute of Bioinformatics?
+349340397727776769  Jun 24 21:36  @GenomeScience    RT @SahaSurya: RT @bioinfosm: #genomics GenomeZip RT @PhilippBayer Compressing human genomes down to 2.5MB using SNP information http://t.co/POrPAmWegR
+349340956736229377  Jun 24 21:39  @wahyuwei         The Human Genome Contracts Again http://bioinformatics.oxfordjournals.org/cgi/content/long/btt362v1
+349341262060589056  Jun 24 21:40  @AllTB_org        Bioinformatics in the Post-Genomic Era: Genome, Transcriptome, Proteome Medicine by Jeff Augen - http://bit.ly/13onDSK
+349344149616599040  Jun 24 21:51  @animesh1977      Gene-set analysis is severely biased when applied to genome-wide methylation data http://bit.ly/10heTz5
+349350336449880066  Jun 24 22:16  @Testbank_IM_SM   Bioinformatics in the Post-Genomic Era: Genome, Transcriptome, Proteome Medicine by Jeff Augen - http://bit.ly/13onDSK
+349350875535376384  Jun 24 22:18  @ErichMSchwarz    @kbradnam @PeroMHC @vsbuffalo Oh, good grief.  For a *genome assembly*?  Bioinformatics is a colloidal suspension of geniuses and fools.
+349351084583694338  Jun 24 22:19  @vsbuffalo        RT @ErichMSchwarz: @kbradnam @PeroMHC @vsbuffalo Oh, good grief.  For a *genome assembly*?  Bioinformatics is a colloidal suspension of geniuses and fools.
+349355556621914114  Jun 24 22:37  @isugif           RT @genetics_blog: #Crowdsourcing for #Bioinformatics http://bioinformatics.oxfordjournals.org/content/early/2013/06/19/bioinformatics.btt333.short?rss=1
+349355941046648832  Jun 24 22:38  @isugif           RT @genetics_blog: good stuff MT @ctitusbrown: MSU Workshop on Analyzing #NGS Data - 2013 tutorials & presentations: http://ged.msu.edu/angus/tutorials-2013/ #bioinformatics
+349357173895213057  Jun 24 22:43  @theoneamit       RT @pathogenomenick: You probably think a life of bioinformatics is all glamour, but let me tell you it’s mainly cutting and pasting out of Excel
+349359981050609666  Jun 24 22:54  @AnnaPp4          Modelling of the Cell-Mediated Immune Response to Epstein Barr Virus: Bioinformatics and Systems Biology, an Application of Computer to t...
+349360336706617344  Jun 24 22:56  @mwanger          RT @dnanexus: The #NGS WikiBook: a dynamic collaborative online training effort with long-term sustainability http://goo.gl/ynjwu #bioinformatics
+349360505502179328  Jun 24 22:56  @DorisJayden      Bioinformatics flea fair face out so 2015
+349362573528932354  Jun 24 23:05  @OmicsOmicsBlog   RT @ErichMSchwarz: @kbradnam @PeroMHC @vsbuffalo Oh, good grief.  For a *genome assembly*?  Bioinformatics is a colloidal suspension of geniuses and fools.
+349366873156108289  Jun 24 23:22  @HeyYoungc        News -Web based research: Bioinformatics - http://is.gd/gyPAJV
+349368101621600258  Jun 24 23:27  @EpiExperts       RT @rdemes: BBSRC funded post-doc position available #biology #bioinformatics #epigenetics. Polymorphism and 1C metabolism http://t.co/vmvoambRxq
+349372438963949570  Jun 24 23:44  @johnpharmd       RT @Paul_Sonnier: RT @endnilsson - GenomeZip compresses the human genome file from 3 Gb to about 2.5 Mb http://m.bioinformatics.oxfordjournals.org/content/early/2013/06/22/bioinformatics.btt362.short?rss=1 #genome #DigitalHealth @tsachyw
+349374254636204032  Jun 24 23:51  @Testbank_TB      Bioinformatics in the Post-Genomic Era: Genome, Transcriptome, Proteome Medicine by Jeff Augen - http://bit.ly/13onDSK
+349375809368240128  Jun 24 23:57  @fukunagaTsu      Short read alignment with populations of genomes http://bioinformatics.oxfordjournals.org/content/29/13/i361.abstract  #Everydayペーパー
+349376826172391424  Jun 25 00:01  @OUPAcJapan       RT @fukunagatsu: ISMB/ECCB 2013 のProceedingsが出た様子　http://bioinformatics.oxfordjournals.org/content/29/13.toc
+349379079235055617  Jun 25 00:10  @cmmse            RT @horacio_ps: 3 papers on bioinformatics (http://bio-hpc.eu) from @UCAM presented at @cmmse international conference ! http://t.co/5pJK7I5GLe
+349379240485076992  Jun 25 00:11  @yuifu            RT @fukunagaTsu: Short read alignment with populations of genomes http://bioinformatics.oxfordjournals.org/content/29/13/i361.abstract  #Everydayペーパー
+349380627478478849  Jun 25 00:16  @AsiaSTPortal     [R&D Jobs] China : Application Support Specialist Bioinformatics / Life Technologies http://dlvr.it/3YxGZZ
+349380806533328896  Jun 25 00:17  @ReaverBait       @passcod Oh, you built the Institute of Bioinformatics? Fairly impressive.
+349381473490575360  Jun 25 00:20  @AllTB_org        Discovering Genomics, Proteomics and Bioinformatics, 2/E by A. Malcolm Campbell, Laurie J. Heyer. - http://bit.ly/13os9kf
+349389537543331841  Jun 25 00:52  @jrossibarra      RT @ErichMSchwarz: @kbradnam @PeroMHC @vsbuffalo Oh, good grief.  For a *genome assembly*?  Bioinformatics is a colloidal suspension of geniuses and fools.
+349390046576656386  Jun 25 00:54  @daisieclickie    RT @ErichMSchwarz: @kbradnam @PeroMHC @vsbuffalo Oh, good grief.  For a *genome assembly*?  Bioinformatics is a colloidal suspension of geniuses and fools.
+349390254073069568  Jun 25 00:55  @Testbank_IM_SM   Discovering Genomics, Proteomics and Bioinformatics, 2/E by A. Malcolm Campbell, Laurie J. Heyer. - http://bit.ly/13os9kf
+349391924718862336  Jun 25 01:01  @NeSI_NZ          @TheAtavism p.s. two links that might be neat to check out and share http://www.eresearch.org.nz/content/bioinformatics-highlights-eresearch-nz-2013 and http://www.eresearch.org.nz/event/eresearch-nz-2013/software-carpentry-bootcamp
+349393065275965440  Jun 25 01:06  @brembs           No-one cares about your bioinformatics software http://wp.me/p1oWi-T2 via @neilfws
+349395046874890242  Jun 25 01:14  @horacio_ps       RT @brembs: No-one cares about your bioinformatics software http://wp.me/p1oWi-T2 via @neilfws
+349395978861813760  Jun 25 01:17  @anilsiri19       Alert Line - Web based research: Bioinformatics http://tinyurl.com/3un6lld
+349398688629669889  Jun 25 01:28  @torstenseemann   It's ironic that "objective functions" are almost always highly subjective in nature. #bioinformatics #optimisation
+349399758680489984  Jun 25 01:32  @rajdeeppoddar    News in Bioinformatics is out! http://paper.li/rajdeeppoddar/1358939090
+349400805973049345  Jun 25 01:36  @peri4n           RT @torstenseemann: It's ironic that "objective functions" are almost always highly subjective in nature. #bioinformatics #optimisation
+349401246970560515  Jun 25 01:38  @kbradnam         New blog post: The FASTA File Format: A Showcase For The Best And Worst Of Bioinformatics Coding Practices http://cl.ly/07132f2e0M3n
+349402558609096704  Jun 25 01:43  @unixandperl      RT @kbradnam: New blog post: The FASTA File Format: A Showcase For The Best And Worst Of Bioinformatics Coding Practices http://t.co/e95Eep2xCe
+349402881847332864  Jun 25 01:45  @assemblathon     RT @kbradnam: New blog post: The FASTA File Format: A Showcase For The Best And Worst Of Bioinformatics Coding Practices http://t.co/e95Eep2xCe
+349405475411988480  Jun 25 01:55  @biodiscovery     ONLINE TRAINING IN BIOINFORMATICS TOOLS Introduction of Bioinformatics File Formats BLAST (All) Multiple Sequence... http://fb.me/1ZXi3xgRV
+349406333923098624  Jun 25 01:58  @DNAmlin          RT @kbradnam: New blog post: The FASTA File Format: A Showcase For The Best And Worst Of Bioinformatics Coding Practices http://t.co/e95Eep2xCe
+349408943598075904  Jun 25 02:09  @bffo             RT @FGED: BioHackathon 2013 #biohack13: semantic interop & stdization of bioinformatics data & web svcs http://2013.biohackathon.org/home - via NCBO @bioontology
+349410972294840321  Jun 25 02:17  @jwessnit         RT @brembs: No-one cares about your bioinformatics software http://wp.me/p1oWi-T2 via @neilfws
+349412194452115457  Jun 25 02:22  @moorejh          @atulbutte up next to talk about his awesome work on drug repositioning, #genomics & translational #bioinformatics. #kavli2013
+349414439499464704  Jun 25 02:31  @Testbank_TB      Discovering Genomics, Proteomics and Bioinformatics, 2/E by A. Malcolm Campbell, Laurie J. Heyer. - http://bit.ly/13os9kf
+349416986847096832  Jun 25 02:41  @m_wall           RT @brembs: No-one cares about your bioinformatics software http://wp.me/p1oWi-T2 via @neilfws
+349419452611301376  Jun 25 02:51  @robsyme          RT @genetics_blog: Example #bioinformatics applications w/ #GNU parallel http://www.biostars.org/p/63816/
+349421459678040065  Jun 25 02:59  @JackLScanlan     Hats off to the people who design bioinformatics tools - makes EVERYONE’S job so much easier when poking through genomes. #ughyes
