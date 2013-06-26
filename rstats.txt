@@ -10013,3 +10013,31 @@
 349599632277504001  Jun 25 14:47  @mjcavaretta      #MOOC? RT @M_T_Patterson: Twitter Statisticians: We're creating an introductory course on R, collecting ideas for Data Scenarios #RStats
 349601026900373505  Jun 25 14:52  @gilbellosta      RT @grserrano_: Nuevo: LeyWertNo en Twitter http://bit.ly/14vh3L8 #LeyWertNo #rstats
 349601925790052352  Jun 25 14:56  @kognitio         Are you interested in doing massively-parallel #Rstats on top of #Hadoop?  We've engineered a solution - see us at #HadoopSummit Booth 31!
+349605951927627777  Jun 25 15:12  @statisticsblog   Xi'an on Russian Roulette. http://i.cx/10R1DU7 #R #Statistics #RStats
+349607170385510400  Jun 25 15:16  @SpringerStats    RT @statisticsblog: Xi'an on Russian Roulette. http://i.cx/10R1DU7 #R #Statistics #RStats
+349614494764376064  Jun 25 15:46  @nashturley       I searched an #R error I am getting and came across my own tweet https://twitter.com/nashturley/statuses/328705743748485121 I guess this is not a common error #Rstats
+349620009959567360  Jun 25 16:08  @omearabrian      Klaus Schliep: species tree inference in #rstats (dna -> gene tree -> species tree) #evol2013
+349623908347031553  Jun 25 16:23  @omearabrian      .@nhcooper123 It's in Geiger, I believe, and also in http://www.datelife.org #phylotastic #evol2013 #rstats
+349628719641534464  Jun 25 16:42  @SpringerStats    Linear Mixed-Effects Models with R, http://bit.ly/11YFnlq book can be used as textbook or reference for research #rstats
+349628923446956034  Jun 25 16:43  @nhcooper123      RE Congruifier RT“@omearabrian: .@nhcooper123 It's in Geiger, I believe, and also in http://www.datelife.org #phylotastic #evol2013 #rstats”
+349633388866584578  Jun 25 17:01  @rprabha          RT @statisticsblog: Thank you @revodavid for this beer recommendation system. Perfect for summer! http://i.cx/12n4Jco #Summer #R #Rstats
+349633734015848449  Jun 25 17:02  @joshua_ulrich    "you are the [xts] cheat codes, and the game is not as fun when I can't beat it myself." - @CondorOptions #rstats
+349634387282898944  Jun 25 17:05  @gulerhuseyin     RT @SpringerStats: Linear Mixed-Effects Models with R, http://bit.ly/11YFnlq book can be used as textbook or reference for research #rstats
+349638205366210561  Jun 25 17:20  @chlalanne        My Stat Bytes talk, with slides and code http://feedly.com/k/10h3z5Z #rstats
+349644873072254976  Jun 25 17:46  @JGreenbrookHeld  #shotinthedark - don't suppose #rstats has a process mapping package does it? #askingforafriend cc @sukeshsukumaran
+349646291724271617  Jun 25 17:52  @timelyportfolio  #rstats #rCharts meet #d3js #dimplejs  marimekko teaser: http://rcharts.io/viewer/?5862751#.UcoQdXu8xz8.twitter thanks .@ramnath_vaidya @jkiernander
+349647463772209155  Jun 25 17:57  @timelyportfolio  RT @omearabrian: #rstats has definitely replaced Excel and others for plots at #evol2013
+349651789844463618  Jun 25 18:14  @ramnath_vaidya   @timelyportfolio adds #dimplejs to #rCharts http://rcharts.io/viewer/?5862751 #rstats @d3visualization http://t.co/WLYiCRVHQ2
+349652344574722048  Jun 25 18:16  @paldhous         Build your own recommendation system using #rstats. This example for beer, which is nice: http://ow.ly/mnRUB via @flowingdata
+349653089541820416  Jun 25 18:19  @BadHessian       RT @paldhous: Build your own recommendation system using #rstats. This example for beer, which is nice: http://ow.ly/mnRUB via @flowingdata
+349655020083478528  Jun 25 18:27  @prisonrodeo      RT @paldhous: Build your own recommendation system using #rstats. This example for beer, which is nice: http://ow.ly/mnRUB via @flowingdata
+349656191393206273  Jun 25 18:31  @gorkazr          RT @jjgibaja: Todavía quedan plazas en el curso gratuito de introducción al análisis de datos con R: https://sites.google.com/a/deusto.es/e-ghost-2013/cursos/introduccion-al-analisis-de-datos-con-r #rstats @deusto
+349656432989315072  Jun 25 18:32  @rubiq            RT @jjgibaja: Todavía quedan plazas en el curso gratuito de introducción al análisis de datos con R: https://sites.google.com/a/deusto.es/e-ghost-2013/cursos/introduccion-al-analisis-de-datos-con-r #rstats @deusto
+349661397002633218  Jun 25 18:52  @DistribEcology   after an hour trying to figure out how to do a task with aaply() I'm resorting to nested for-loops.  Not sure if thats a fail or not #rstats
+349666004877586433  Jun 25 19:10  @mjcavaretta      I'd like to read it. MT @rheimann: Just signed book deal "Social Media Mining in R". ISBN: 978-1-78328-177-0 #bigdata #datascience #rstats
+349669053306109953  Jun 25 19:22  @jkiernander      RT @timelyportfolio: #rstats #rCharts meet #d3js #dimplejs  marimekko teaser: http://rcharts.io/viewer/?5862751#.UcoQdXu8xz8.twitter thanks .@ramnath_vaidya @jkiernander
+349678152718618629  Jun 25 19:59  @JGreenbrookHeld  Been asked to give an internal presentation on using #rstats. First tip: become very familiar with http://Stackoverflow.com
+349681613539520512  Jun 25 20:12  @KirkDBorne       Introduction to R for #DataMining - webinar replay & presentation via @RevolutionR: http://www.revolutionanalytics.com/news-events/free-webinars/2013/intro-to-r-for-data-mining/ #MachineLearning #Rstats
+349682275019014145  Jun 25 20:15  @revodavid        R has more than a dozen ways to chart time series. @timelyportfolio guide helps find the one you need http://bit.ly/19Al7wB #rstats
+349683281119297537  Jun 25 20:19  @Rbloggers        The Dream 8 Challenges:  (This article was first published on   Digithead's Lab Notebook, and kindly... http://bit.ly/134Bce3 #rstats
+349690896779984897  Jun 25 20:49  @ficaryl          glmmADMB http://glmmadmb.r-forge.r-project.org/ & MuMIn http://cran.r-project.org/web/packages/MuMIn/index.html make MMI of zero-inflated mixed-models fun. Or at least, easy. #rstats #props
