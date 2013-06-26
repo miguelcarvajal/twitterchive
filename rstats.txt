@@ -10069,3 +10069,31 @@
 349865726246522880  Jun 26 08:24  @gagliol          #Forecasting: principles and practice, by Hyndman & Athanasopoulos, free online http://otexts.com/fpp/ #timeseries #rstats #arima
 349873163565404161  Jun 26 08:53  @jasonpbecker     Easier power calculations in #rstats http://rforpublichealth.blogspot.com/2013/06/sample-size-calculations-equivalent-to.html?m=1
 349873449247850496  Jun 26 08:55  @noticiasSobreR   Vídeo de la charla sobre la EPA (y más cosas) en Medialab Prado: Ya ha salido publicado el vídeo de la... http://tinyurl.com/q6aud65 #rstats
+349881170927943682  Jun 26 09:25  @kevinlberger     I'm sure this is common knowledge, but memory.limit(3096) solves a lot of problems in #rstats on #win32
+349883877365530625  Jun 26 09:36  @siah             "Why I want to write nice R code" http://ow.ly/mm6Hl #rstats
+349889415746813952  Jun 26 09:58  @joshua_ulrich    @sorenmacbeth check out RT @CRANberriesFeed New CRAN package jvmr with initial version 1.0.3 http://goo.gl/pgljT #rstats
+349920732492468224  Jun 26 12:02  @siah             Does it help if I compile an R function before running it?I never get any performance increase from it, wondering if I it even works #rstats
+349921347511652352  Jun 26 12:05  @Rbloggers        Split violin plots:  (This article was first published on   Ecology in silico, and kindly contribute... http://bit.ly/19tSNPT #rstats
+349921534002991105  Jun 26 12:06  @RLangTip         Efficiency tip: TRUE || (x <-3) will never evaluate the right hand side. Using && and || can save cycles #rstats http://bit.ly/mW93Px
+349921791902351361  Jun 26 12:07  @sc_evans         34 days until my defense, & I'm still mucking around in #Rstats. #lesscoding #morewriting #SpiderThesis13
+349922447149109249  Jun 26 12:09  @ramnath_vaidya   Anyone knows a simple trick to print output before source in #knitr? @yihui #rstats
+349924307209695232  Jun 26 12:17  @kalitasf         RT @RLangTip: Efficiency tip: TRUE || (x <-3) will never evaluate the right hand side. Using && and || can save cycles #rstats http://t.co/WLcz3DZesy
+349925759747506178  Jun 26 12:22  @dalejbarr        RT @siah: Pretty useful question and answers "Grouping functions: sapply vs. lapply vs. apply. vs. tapply..." http://ow.ly/m4v7d #rstats
+349926099800690689  Jun 26 12:24  @arnicas          Pyramid-style! RT @Rbloggers: Split violin plots: http://bit.ly/19tSNPT #rstats
+349926741793447936  Jun 26 12:26  @sc_evans         I really wish loess wasn't so computationally intensive in #Rstats. Would make my life a lot easier. #SpiderThesis13
+349928341064777729  Jun 26 12:33  @WinVectorLLC     Great book! MT @ManningMEAP: New MEAP! Upcoming launch R in Action, Second Edition by Robert I. Kabacoff @manningbooks @kabacoff #Rstats
+349929256802975744  Jun 26 12:36  @ManningMEAP      New MEAP! R in Action, Second Edition http://www.manning.com/kabacoff2/ will be the Deal of the Day on June 28 @manningbooks @kabacoff #Rstats
+349936156152037376  Jun 26 13:04  @Candace35        R in Action, Second Edition http://manning.com/kabacoff2/ will be the Deal of the Day on June 28 #Rstats http://lnkd.in/_JGdiU
+349936891195424769  Jun 26 13:07  @statisticsblog   Split violin plots and compare distribution. http://i.cx/136LFpb #R #Rstats
+349943136115630081  Jun 26 13:31  @timelyportfolio  RT @ramnath_vaidya: Anyone knows a simple trick to print output before source in #knitr? @yihui #rstats
+349946153183363075  Jun 26 13:43  @oscarperpinan    LSA-SAF data reprojection with GDAL and R http://gis.stackexchange.com/q/64502/19344?stw=2 #rstats #gis
+349946449364135937  Jun 26 13:45  @tmllr            Split violin plots http://tmllr.us/h9 #dataviz <- Good comparison of split violin vs. boxplots.  There's some #rstats in there!
+349949474325540866  Jun 26 13:57  @kognitio         Massively-parallel #Rstats on top of #Hadoop?  See the Demo at #HadoopSummit Booth 31 right now!
+349950660726374404  Jun 26 14:01  @mjcavaretta      Good for A/B testing. MT @tmllr  http://tmllr.us/h9 #dataviz <- Good comparison of split violin vs. boxplots.  Wome #rstats in there!
+349951885698007040  Jun 26 14:06  @ucfagls          If you are going to post #rstats code/script to your blog don't let the first line be `rm(list = ls())`.
+349953695032676352  Jun 26 14:13  @ucfagls          ...and no, I've never fallen for it. It just shows me that in your #rstats workflow you don't know how to start a clean session
+349956141922529280  Jun 26 14:23  @JacquelynGill    RT @ucfagls: If you are going to post #rstats code/script to your blog don't let the first line be `rm(list = ls())`.
+349957937478897664  Jun 26 14:30  @Candace35        Save 50% on #R in Action, 2e with code ria2eco at http://lnkd.in/7YDxfk #rstats
+349959678660317185  Jun 26 14:37  @DataJules        RT @kognitio: Massively-parallel #Rstats on top of #Hadoop?  See the Demo at #HadoopSummit Booth 31 right now!
+349960159105265664  Jun 26 14:39  @N3OX             RT @ucfagls: If you are going to post #rstats code/script to your blog don't let the first line be `rm(list = ls())`.
+349960908530925568  Jun 26 14:42  @corynissen       Just got my first #rstats shiny web app up and running on a server. Much easier than I expected. Great job @rstudioapp
