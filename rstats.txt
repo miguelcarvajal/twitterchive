@@ -10172,3 +10172,42 @@
 350221099356782592  Jun 27 07:56  @MacDiva          Know R? @nypl_labs wants your help turning old map images into new map polygons, like this: http://j.mp/138tfEt Ping 'em to help. #rstats
 350233631572242432  Jun 27 08:46  @melinaGALL       RT @corynissen: Just got my first #rstats shiny web app up and running on a server. Much easier than I expected. Great job @rstudioapp
 350234203687886848  Jun 27 08:48  @noticiasSobreR   ¿Nos ayudáis a mejorar http://r-es.org?: Hora es cumplida, creo yo, de repensar el portal de la ... http://tinyurl.com/q6tvpfc #rstats
+350242199323156481  Jun 27 09:20  @Matt_Kiser       @morgantepell FYI “@MacDiva: Know R? @nypl_labs wants your help turning old map images into new map polygons. Ping 'em to help. #rstats”
+350242631252574208  Jun 27 09:22  @timelyportfolio  RT @CelHern: Nice plots : Split violin plots - Ecology in silico http://mbjoseph.github.io/blog/2013/06/24/violin/ #Rstats
+350257158245453825  Jun 27 10:19  @MangoTheCat      Introduction to R training course (in Mandarin) 4&5 July in Shanghai #rstats email: training@mango-solutions.com
+350257547820810240  Jun 27 10:21  @idibon           RT @jmgomez: A comprehensive guide to time series plotting in R http://ow.ly/momlp #rstats #dataviz
+350257841405300736  Jun 27 10:22  @chickamade       RT @CelHern: Nice plots : Split violin plots - Ecology in silico http://mbjoseph.github.io/blog/2013/06/24/violin/ #Rstats
+350261195963514880  Jun 27 10:35  @EpiFunky         Really great talks at #rstats #Lyon conference and amazing guests cc @hadleywickham and Karim Chine
+350262434759581696  Jun 27 10:40  @rmflight         man, 6x10^6 rows, 127 cols of matrix data in #rstats takes a while to compress (xz) and save to rdata file. 24 gb ram ftw
+350263541896445952  Jun 27 10:45  @MacDiva          RT @TrestleJeff: Slides from my crash course to creating R packages using RStudio, devtools, and roxygen2. http://qbrc.swmed.edu/2013/06/creating-r-packages/ #rstats
+350274587445051392  Jun 27 11:29  @romain_francois  Listen to the decimals of pi with #rstats with Jerome Sueur at #rlyon2013. pi sounds like R2D2.
+350278047624204288  Jun 27 11:42  @frod_san         Looks great: all #rstats help docs in one place: http://www.rdocumentation.org/. >4000 packages, nearly 100,000 functions
+350279722065862656  Jun 27 11:49  @jebyrnes         RT @frod_san: Looks great: all #rstats help docs in one place: http://www.rdocumentation.org/. >4000 packages, nearly 100,000 functions
+350279850508038144  Jun 27 11:49  @kwren88          RT @frod_san: Looks great: all #rstats help docs in one place: http://www.rdocumentation.org/. >4000 packages, nearly 100,000 functions
+350281050938814464  Jun 27 11:54  @treycausey       Help me figure this out! Some tables not visible but able to still make queries using RODBC and SQL Server http://stackoverflow.com/q/17347767/836015?stw=2  #rstats
+350281922817163265  Jun 27 11:58  @Alli187          RT @frod_san: Looks great: all #rstats help docs in one place: http://www.rdocumentation.org/. >4000 packages, nearly 100,000 functions
+350282830607155200  Jun 27 12:01  @RevoJoe          #rstats: some ideas on learning time series with R (http://bit.ly/19y1855)
+350283607174156290  Jun 27 12:04  @SchaunW          How very helpful. MT @frod_san: all #rstats help docs in one place: http://www.rdocumentation.org/. >4000 packages, nearly 100,000 functions
+350284811694391297  Jun 27 12:09  @RLangTip         To speed up your R code, use Rprof() to turn on profiling, and summaryRprof() to find the slow parts: http://bit.ly/OrT9bX #rstats
+350286716722085889  Jun 27 12:17  @recology_        new way to look at #rstats man pages http://bit.ly/1cqUIku
+350288214633881601  Jun 27 12:23  @ethanwhite       Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350288801559609344  Jun 27 12:25  @researchremix    RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350288965301051395  Jun 27 12:26  @rOpenSci         RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350289918800564224  Jun 27 12:29  @DominiqueVanpee  RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350291150936088577  Jun 27 12:34  @srsupp           Awesome! MT @ethanwhite:Open dialogue between reviewer & author inspires new #rstats package https://github.com/weecology/data-sharing-paper/issues/71 #openscience! @cboettig
+350291471355752449  Jun 27 12:36  @recology_        RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350292390537474048  Jun 27 12:39  @sjGoring         RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350292640069201921  Jun 27 12:40  @andyteucher      RT @frod_san: Looks great: all #rstats help docs in one place: http://www.rdocumentation.org/. >4000 packages, nearly 100,000 functions
+350292883682770944  Jun 27 12:41  @healyke          RT @frod_san: Looks great: all #rstats help docs in one place: http://www.rdocumentation.org/. >4000 packages, nearly 100,000 functions
+350293772153794560  Jun 27 12:45  @_inundata        RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350298623898157056  Jun 27 13:04  @rmflight         RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350298654336225280  Jun 27 13:04  @rmflight         RT @recology_: new way to look at #rstats man pages http://bit.ly/1cqUIku
+350300434478534656  Jun 27 13:11  @QuartzBio        @analyticbridge definitely agree on 1,2 and 3! But lattice should not be omitted too :-) #rstats
+350300856480038912  Jun 27 13:13  @jebyrnes         RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350302827517706242  Jun 27 13:21  @cboettig         RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350318356643061760  Jun 27 14:22  @revodavid        RT @RevoJoe: #rstats: some ideas on learning time series with R (http://bit.ly/19y1855)
+350319484533346304  Jun 27 14:27  @dnusinow         RT @recology_: new way to look at #rstats man pages http://bit.ly/1cqUIku
+350321613562064897  Jun 27 14:35  @christoper_hamm  RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350322186596253696  Jun 27 14:38  @YhatHQ           We're leading a @skillshare "Intro to R" at @GLGInc in NYC on Tuesday. Come check learn how great #rstats is! http://skl.sh/123dTiD
+350322474493296641  Jun 27 14:39  @DistribEcology   Via @polesasunder on Facebook, this little gem of more #rstats documentation than a person could ever want.... http://www.rdocumentation.org/
+350326345559052288  Jun 27 14:54  @BrockTibert      I am ashamed to admit that I just found out about ?append in #rstats.  Great post on geo-optimization http://bizcoding.blogspot.com/2013/05/using-r-to-visualize-geo-optimization.html
