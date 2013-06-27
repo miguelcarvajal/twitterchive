@@ -10126,3 +10126,31 @@
 350043793476698113  Jun 26 20:11  @neilfws          Tip: remember to set repositories to local mirrors before embarking on reinstall of all R packages #rstats #slow setRepositories()
 350050499673862145  Jun 26 20:38  @monsoontrader    RT @neilfws: Split violin plots: http://mbjoseph.github.io/blog/2013/06/24/violin/ #rstats
 350054409524350977  Jun 26 20:54  @rmflight         RT @neilfws: Tip: remember to set repositories to local mirrors before embarking on reinstall of all R packages #rstats #slow setRepositories()
+350060065476182017  Jun 26 21:16  @yaacovp          It makes me happy that I can run my 4 level cross-classified growth lmer models running overnight and then voila, results in the AM. #rstats
+350062723888988160  Jun 26 21:27  @dorageh          Philips Bioinformatics job offer #bioinformatics #rstats https://philips.jibe.com/careersection/2/jobdetail.ftl?job=1314820&src=JB-10221
+350075781759762435  Jun 26 22:19  @MacDiva          Know R? @nypl_labs wants your help turning old map images into new map polygons, like this: http://j.mp/138tfEt #rstats + @hadleywickham
+350076167346327554  Jun 26 22:20  @Rbloggers        Technical(and not technical) strategy testing:  (This article was first published on   Quant-Day, an... http://bit.ly/138tD5X #rstats
+350076169103740928  Jun 26 22:20  @Rbloggers        Using R: Two plots of principal component analysis:  (This article was first published on   There is... http://bit.ly/138tAXL #rstats
+350076170294923264  Jun 26 22:20  @Rbloggers        MCMSki IV, Jan. 6-8, 2014, Chamonix (news #6):  (This article was first published on   Xi'an's Og » ... http://bit.ly/138tD63 #rstats
+350076298951016448  Jun 26 22:21  @aviflombaum      RT @MacDiva: Know R? @nypl_labs wants your help turning old map images into new map polygons, like this: http://j.mp/138tfEt #rstats + @hadleywickham
+350077213061812224  Jun 26 22:24  @onelinetips      #rstats use outer() to compute the outer product of two arrays http://bit.ly/19kDGVw
+350077248923115523  Jun 26 22:24  @onelinetips      #rstats use dput() for easy object serialization http://bit.ly/19kGDp9 (h/t dggoldst)
+350077365575094272  Jun 26 22:25  @onelinetips      #rstats use coord_cartesian to change the grid view, zoom in, etc. http://bit.ly/1c4w2yb
+350077400635277313  Jun 26 22:25  @onelinetips      #rstats use annotate(text, x=10, y=20, label=text, hjust=0, vjust=0) for easy text plotting http://bit.ly/11su2OO
+350077499146903552  Jun 26 22:25  @zentree          Fitted regression tree to tree data + GIS layers. Surprisingly the selected predictors make sense: temps, rainfall, species. #meta #Rstats
+350078577947054080  Jun 26 22:30  @allafarce        RT @MacDiva: Know R? @nypl_labs wants your help turning old map images into new map polygons, like this: http://j.mp/138tfEt #rstats + @hadleywickham
+350087765003735041  Jun 26 23:06  @nypl_labs        RT @MacDiva: Know R? @nypl_labs wants your help turning old map images into new map polygons, like this: http://j.mp/138tfEt #rstats + @hadleywickham
+350089818782449665  Jun 26 23:14  @matthewepler     RT @MacDiva: Know R? @nypl_labs wants your help turning old map images into new map polygons, like this: http://j.mp/138tfEt #rstats + @hadleywickham
+350090266436317184  Jun 26 23:16  @augustmuench     RT @MacDiva: Know R? @nypl_labs wants your help turning old map images into new map polygons, like this: http://j.mp/138tfEt #rstats + @hadleywickham
+350091360373714944  Jun 26 23:20  @PPUAMX           RT @RLangTip: Efficiency tip: TRUE || (x <-3) will never evaluate the right hand side. Using && and || can save cycles #rstats http://t.co/WLcz3DZesy
+350094234931576833  Jun 26 23:32  @joelgombin       Un hashtag pour les rencontres #Rstats de Lyon ? #RLyon2013 ? (poke @phnk et @hadleywickham entre autres)
+350099615267307522  Jun 26 23:53  @neilfws          Does biocLite(rownames(installed.packages())) install in some kind of order (name, date, size) ? I can't discern any. #rstats
+350110198637146113  Jun 27 00:35  @GeneticSequence  RT @neilfws: Does biocLite(rownames(installed.packages())) install in some kind of order (name, date, size) ? I can't discern any. #rstats
+350111369892339713  Jun 27 00:40  @jmgomez          A comprehensive guide to time series plotting in R http://ow.ly/momlp #rstats #dataviz
+350122123639005184  Jun 27 01:23  @lcguid           RT @RLangTip: Extracting data from PDFs with #rstats. Vector Image Processing http://bit.ly/LpJWCh (PDF)
+350125485730168832  Jun 27 01:36  @datalies         .@BookLamp tools with #Rstats, #ggplot2, and #shiny. Here's a top rec for Robert Jordan's, "Knife of Dreams" #dataviz http://t.co/XLbpKtQ4r8
+350126355695927296  Jun 27 01:40  @drago_carlo      Got Bootstrap? http://prsm.tc/KV33dS via @prismatic #Bootstrap #Statistics #DataMining #Rstats
+350127907697459200  Jun 27 01:46  @drago_carlo      Visualize Retweets with R http://prsm.tc/N2nbQs via @prismatic #DataMining #GraphTheory #Twitter #Rstats
+350128972228608000  Jun 27 01:50  @hadleywickham    RT @corynissen: Just got my first #rstats shiny web app up and running on a server. Much easier than I expected. Great job @rstudioapp
+350133971578929152  Jun 27 02:10  @nickholway       A beer recommendation system made with #Rstats http://blog.revolutionanalytics.com/2013/06/a-beer-recommendation-system-made-with-r.html
+350146261061611520  Jun 27 02:59  @phnk             RT @joelgombin: Un hashtag pour les rencontres #Rstats de Lyon ? #RLyon2013 ? (poke @phnk et @hadleywickham entre autres)
