@@ -10097,3 +10097,32 @@
 349959678660317185  Jun 26 14:37  @DataJules        RT @kognitio: Massively-parallel #Rstats on top of #Hadoop?  See the Demo at #HadoopSummit Booth 31 right now!
 349960159105265664  Jun 26 14:39  @N3OX             RT @ucfagls: If you are going to post #rstats code/script to your blog don't let the first line be `rm(list = ls())`.
 349960908530925568  Jun 26 14:42  @corynissen       Just got my first #rstats shiny web app up and running on a server. Much easier than I expected. Great job @rstudioapp
+349966170570493953  Jun 26 15:03  @ErikaMudrak      #nceasSI @metamattj:  Better to do statistical aggregations in  #rstats than in SQL.  Phew!  Back to my comfort zone...
+349970969135292416  Jun 26 15:22  @ArthurFlam       No more #gputools with a #MacBookAir #Rstats...
+349972531710668800  Jun 26 15:28  @duke_data        History of R Financial Time Series Plotting (with code samples)  - http://timelyportfolio.github.io/rCharts_time_series/history.html  #rstats
+349974856177168384  Jun 26 15:38  @phnk             @p_barbera Quick question: package Rstem is featured in your workshop code, but is not available for R 3.0.1. Any alternative? #rstats
+349979727609602048  Jun 26 15:57  @drdrewsteen      .@subsurface_life Everyone can't do everything, but to me that's a strong argument for learning #Rstats *well*
+349980108481765376  Jun 26 15:58  @subsurface_life  .@drdrewsteen Amen. We've now given them enough knowledge to be able to delete all of their data. #Rstats #maromics2013
+349981071854665729  Jun 26 16:02  @quandl           Beginner’s guide to R: How to do basic analysis by @sharon000  http://qndl.co/1aL077W #rstats
+349991878671876097  Jun 26 16:45  @subsurface_life  Deep into vegan @RametteA shows #maromics2013 the way #Rstats http://t.co/Z16pK8AZYH
+349992858834571264  Jun 26 16:49  @ucfagls          @subsurface_life @RametteA by "vegan" do you mean the vegan #rstats package? If so cool. Always nice to see people using your work :-)
+349997696259596289  Jun 26 17:08  @JodyEdmondson    #Rstats #bigdata via @HarlanH There is more than one kind of Data Scientist - Data Community DC http://bit.ly/14aILOg
+350001977872232448  Jun 26 17:25  @davidjayharris   ooh... read.csv directly to a sql database in #Rstats. Where has this been all my life? http://www.inside-r.org/packages/cran/sqldf/docs/read.csv.sql
+350002713976782850  Jun 26 17:28  @Gastove          Dear #RStats: both subset(foo, bar & baz) and subset(foo, bar && baz) run without errors. It's damn stupid, 'cause only the first 'un works.
+350007701381709826  Jun 26 17:48  @neilfws          Split violin plots: http://mbjoseph.github.io/blog/2013/06/24/violin/ #rstats
+350008172842455041  Jun 26 17:50  @recology_        RT @neilfws: Split violin plots: http://mbjoseph.github.io/blog/2013/06/24/violin/ #rstats
+350009050655764480  Jun 26 17:53  @drnickisaac      RT @neilfws: Split violin plots: http://mbjoseph.github.io/blog/2013/06/24/violin/ #rstats
+350009967564173312  Jun 26 17:57  @KatherineMejia   RT @neilfws: Split violin plots: http://mbjoseph.github.io/blog/2013/06/24/violin/ #rstats
+350010737915207681  Jun 26 18:00  @larspett         Beautiful & useful! RT @neilfws: Split violin plots: http://mbjoseph.github.io/blog/2013/06/24/violin/ #rstats
+350025754219786240  Jun 26 19:00  @lucaborger       Split violin plots: http://mbjoseph.github.io/blog/2013/06/24/violin/  Excellent! #rstats HT @neilfws @recology_
+350026104590970881  Jun 26 19:01  @drnickisaac      How to write nice R code http://nicercode.github.com/blog/2013-04-05-why-nice-code/ #rstats
+350026155656622080  Jun 26 19:01  @rmflight         RT @neilfws: Split violin plots: http://mbjoseph.github.io/blog/2013/06/24/violin/ #rstats
+350036149496057856  Jun 26 19:41  @Gastove          @perisaccadic @Strabd Some days I'm like "#RSTATS IS KING BOW BEFORE ME" and others I'm more like "ok time to be a goatherd now."
+350037084087664643  Jun 26 19:45  @millerdl         "All models are wrong. But these models are useless." (It's been a "productive" day...) #rstats
+350038090104049667  Jun 26 19:49  @WinVectorLLC     We'll be Deal of the Day Jun28! Half off 'Practical Data Science with R' Use code dotd0628au @ http://www.manning.com/zumel/ #rstats #datascience
+350039395153358849  Jun 26 19:54  @kj_gilbert       RT @drnickisaac: How to write nice R code http://nicercode.github.com/blog/2013-04-05-why-nice-code/ #rstats
+350040054997057537  Jun 26 19:57  @Sal_Keith        Ooooo! RT @drnickisaac: How to write nice R code http://nicercode.github.com/blog/2013-04-05-why-nice-code/ #rstats
+350042616982802433  Jun 26 20:07  @tavisrudd        RT @drnickisaac: How to write nice R code http://nicercode.github.com/blog/2013-04-05-why-nice-code/ #rstats
+350043793476698113  Jun 26 20:11  @neilfws          Tip: remember to set repositories to local mirrors before embarking on reinstall of all R packages #rstats #slow setRepositories()
+350050499673862145  Jun 26 20:38  @monsoontrader    RT @neilfws: Split violin plots: http://mbjoseph.github.io/blog/2013/06/24/violin/ #rstats
+350054409524350977  Jun 26 20:54  @rmflight         RT @neilfws: Tip: remember to set repositories to local mirrors before embarking on reinstall of all R packages #rstats #slow setRepositories()
