@@ -10255,3 +10255,17 @@
 350457042357600256  Jun 27 23:34  @kuun_peal        @ucfagls For me, what is assigned to the variable is more interesting than the variable name. #rstats
 350461729567813632  Jun 27 23:52  @kuun_peal        Working through an interesting introduction to Monte Carlo simulation: http://people.uncw.edu/whitejw/EMD/Week6_problems.pdf . #rstats #programming #statistics
 350493841276665856  Jun 28 02:00  @drago_carlo      RT @kuun_peal: Working through an interesting introduction to Monte Carlo simulation: http://people.uncw.edu/whitejw/EMD/Week6_problems.pdf . #rstats #programming #statistics
+350515001724899328  Jun 28 03:24  @mgrafit          RT @timelyportfolio #rstats #d3js #dimplejs tutorial with UST yields http://timelyportfolio.github.io/rCharts_dimple/dimple_timeseries.html
+350532326154960897  Jun 28 04:33  @shazino          RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350545183122784256  Jun 28 05:24  @Blogageco_Elisa  RT @DiffusePrioR: Missing data? Presentation on Matrix Completion and Large-scale SVD Computations #rstats http://stanford.io/11v7iJq
+350554624580792321  Jun 28 06:01  @juanrocha        Great resource: All #rstats help docs in one place: http://www.rdocumentation.org/. >4000 packages, ~100,000 functions via @frod_san & @jebyrnes
+350557453009686528  Jun 28 06:13  @joelgombin       Package écrit autour de code Fortran : code Fortran 200x plus rapide que le code #rstats ! #RLyon2013
+350558188766117889  Jun 28 06:15  @3wen             RT @joelgombin: Package écrit autour de code Fortran : code Fortran 200x plus rapide que le code #rstats ! #RLyon2013
+350558311797628928  Jun 28 06:16  @joelgombin       Joli package d'aide à la décision pour des oncologues : #Rstats sauve des vies \o/ #RLyon2013
+350561609845968896  Jun 28 06:29  @Daniel_Ospina    RT @juanrocha: Great resource: All #rstats help docs in one place: http://www.rdocumentation.org/. >4000 packages, ~100,000 functions via @frod_san & @jebyrnes
+350566869289275394  Jun 28 06:50  @denisohora       Learning Time Series with R #rstats http://www.r-bloggers.com/learning-time-series-with-r/ @Rbloggers
+350570151042756609  Jun 28 07:03  @jmgomez          RT @drago_carlo: Visualize Retweets with R http://prsm.tc/N2nbQs via @Prismatic #DataMining #GraphTheory #Twitter #Rstats
+350576446684680192  Jun 28 07:28  @southmapr        Beautiful map of invasive Knapweed by @KTInvasion using #rworldmap #rstats http://wp.me/p1Ye5e-a5 http://t.co/Zkcqi02NPf
+350577973923020800  Jun 28 07:34  @algonpaje        RT @jmgomez: RT @drago_carlo: Visualize Retweets with R http://prsm.tc/N2nbQs via @Prismatic #DataMining #GraphTheory #Twitter #Rstats
+350584423126810624  Jun 28 08:00  @ManningBooks     Deal of the Day! R in Action, Second Edition. Use code dotd0628tw at http://www.manning.com/kabacoff2/ @kabacoff #Rstats
+350590401176010752  Jun 28 08:23  @zentree          This coming semester we'll be using #Rstats (primarily) and #SAS when teaching regression modeling. Aim: confusing in multiple languages.
