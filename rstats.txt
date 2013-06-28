@@ -10211,3 +10211,33 @@
 350322186596253696  Jun 27 14:38  @YhatHQ           We're leading a @skillshare "Intro to R" at @GLGInc in NYC on Tuesday. Come check learn how great #rstats is! http://skl.sh/123dTiD
 350322474493296641  Jun 27 14:39  @DistribEcology   Via @polesasunder on Facebook, this little gem of more #rstats documentation than a person could ever want.... http://www.rdocumentation.org/
 350326345559052288  Jun 27 14:54  @BrockTibert      I am ashamed to admit that I just found out about ?append in #rstats.  Great post on geo-optimization http://bizcoding.blogspot.com/2013/05/using-r-to-visualize-geo-optimization.html
+350329468667174914  Jun 27 15:07  @jmgomez          RT @gagliol: #Forecasting: principles & practice, by Hyndman & Athanasopoulos, free online http://otexts.com/fpp/ #timeseries #rstats #arima
+350329525718097921  Jun 27 15:07  @ErikaMudrak      Thanks to Jim Regetz at #nceasSI for showing us an entirely elegant way to conduct complex GIS procedures in #rstats!!  #RegetztotheRescue
+350329633394266112  Jun 27 15:07  @MattDabrowski    RT @RevoJoe: #rstats: some ideas on learning time series with R (http://bit.ly/19y1855)
+350332297276428288  Jun 27 15:18  @ElisaTP          I was asking a friend about this not long ago..."@RevoJoe: #rstats: some ideas on learning time series with R (http://bit.ly/19y1855)"
+350336354187608065  Jun 27 15:34  @corynissen       And that was 2 hours on a mongodb date query using RMongo in #rstats. At least it's done...
+350338128025894912  Jun 27 15:41  @timelyportfolio  #rstats #rCharts #slidify and #d3js #dimplejs tutorial with UST yields http://timelyportfolio.github.io/rCharts_dimple/dimple_timeseries.html .@ramnath_vaidya  .@jkiernander
+350341616696958977  Jun 27 15:55  @jkiernander      RT @timelyportfolio: #rstats #rCharts #slidify and #d3js #dimplejs tutorial with UST yields http://timelyportfolio.github.io/rCharts_dimple/dimple_timeseries.html .@ramnath_vaidya  .@jkiernander
+350346857035206656  Jun 27 16:16  @josvandongen     3 of 4 presentations partly abt #rstats; #CBS' @PietDaas showed many Tableplot examples, really cool: http://ow.ly/1Y7u4Q #BiDutch
+350348382239326209  Jun 27 16:22  @lexnederbragt    RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350350482897772546  Jun 27 16:30  @lrott            Interesting article from @yhathq about quality control in #Rstats has quality control issues of its own (eletric) http://blog.yhathq.com/posts/quality-control-in-r.html
+350350579828146176  Jun 27 16:31  @hadleywickham    RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350351780166635520  Jun 27 16:35  @jpbach           RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350353896704708608  Jun 27 16:44  @Rbloggers        Analyses of the Best Undergraduate (US-based) Business Schools of 2013:  (This article was first pub... http://bit.ly/19z6ahZ #rstats
+350354269016301568  Jun 27 16:45  @quantlabs        #MATLAB for #rstats Users #Webinar – TODAY – Register http://ow.ly/mryT4
+350355811303829504  Jun 27 16:51  @ramnath_vaidya   RT @timelyportfolio: #rstats #rCharts #slidify and #d3js #dimplejs tutorial with UST yields http://timelyportfolio.github.io/rCharts_dimple/dimple_timeseries.html .@ramnath_vaidya  .@jkiernander
+350359064947081217  Jun 27 17:04  @timelyportfolio  good #rstats post Adventures in Analytics and Visualization: Analyses of the Best Undergraduate (US-based) Busi... http://analyticsandvisualization.blogspot.com/2013/06/analyses-of-best-undergraduate-us-based.html?spref=tw
+350374296696270849  Jun 27 18:05  @quantlabs        30 min video Tradelink #opensource code #trading overview with #HFT potential and Matlab and #Rstats integration http://ow.ly/ms7DB
+350376761118306304  Jun 27 18:15  @Rbloggers        dimple d3 and rCharts:  (This article was first published on   Timely Portfolio, and kindly contribu... http://bit.ly/17m8lRE #rstats
+350380961487273984  Jun 27 18:31  @klmr             RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350382912178360320  Jun 27 18:39  @johnjhorton      Big data => big plots #rstats #ggplot2 cc: @pbh777 http://t.co/OPi50ew7HY
+350383629626650625  Jun 27 18:42  @SabrinaSeg       RT @johnjhorton: Big data => big plots #rstats #ggplot2 cc: @pbh777 http://t.co/OPi50ew7HY
+350384604059926528  Jun 27 18:46  @YhatHQ           RT @lrott: Interesting article from @yhathq about quality control in #Rstats has quality control issues of its own (eletric) http://t.co/wgEjHHVX5y
+350385689382223873  Jun 27 18:50  @Rbloggers        Revolution Newsletter: June 2013:  (This article was first published on   Revolutions, and kindly co... http://bit.ly/19zvyUC #rstats
+350388112884641792  Jun 27 19:00  @genetics_blog    Some good #Rstats and #Bioinformatics tutorials from @seandavis12 http://watson.nci.nih.gov/~sdavis/tutorials/
+350388348868755458  Jun 27 19:01  @matthrussell     My foray into @github! What I learned in #WinBUGS and #rstats, what I learned in #SAS. https://github.com/mbrussell/BUGStoSAS/blob/master/BUGStoSAS.md
+350390266680717312  Jun 27 19:08  @rcrosado         RT @genetics_blog: Some good #Rstats and #Bioinformatics tutorials from @seandavis12 http://watson.nci.nih.gov/~sdavis/tutorials/
+350395823999291392  Jun 27 19:30  @quantlabs        Update NEW details video overview of #opensource Tradelink with #HFT potential with Matlab #Rstats http://ow.ly/ms8fC
+350396144569954304  Jun 27 19:32  @davetang31       RT @genetics_blog: Some good #Rstats and #Bioinformatics tutorials from @seandavis12 http://watson.nci.nih.gov/~sdavis/tutorials/
+350403960445747201  Jun 27 20:03  @hft_info         RT @quantlabs: Update NEW details video overview of #opensource Tradelink with #HFT potential with Matlab #Rstats http://ow.ly/ms8fC
+350416029370957825  Jun 27 20:51  @hft_info         RT @quantlabs: 30 min video Tradelink #opensource code #trading overview with #HFT potential and Matlab and #Rstats integration http://t.co/67mjxxBBKl
