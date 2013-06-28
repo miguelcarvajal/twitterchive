@@ -10241,3 +10241,17 @@
 350396144569954304  Jun 27 19:32  @davetang31       RT @genetics_blog: Some good #Rstats and #Bioinformatics tutorials from @seandavis12 http://watson.nci.nih.gov/~sdavis/tutorials/
 350403960445747201  Jun 27 20:03  @hft_info         RT @quantlabs: Update NEW details video overview of #opensource Tradelink with #HFT potential with Matlab #Rstats http://ow.ly/ms8fC
 350416029370957825  Jun 27 20:51  @hft_info         RT @quantlabs: 30 min video Tradelink #opensource code #trading overview with #HFT potential and Matlab and #Rstats integration http://t.co/67mjxxBBKl
+350434214648356865  Jun 27 22:03  @ucfagls          3rd in my series on the plotting tools in the vegan #rstats pkg for drawing better ordination plots: ordipointlabel() http://bit.ly/11Mm4jH
+350436422647431170  Jun 27 22:12  @pwais            RT @johnjhorton: Big data => big plots #rstats #ggplot2 cc: @pbh777 http://t.co/OPi50ew7HY
+350439336757559297  Jun 27 22:23  @themba           no way. it has more letters. RT @twssecn Announcing pqR:  A faster version of R http://feedly.com/k/14gmIUU #rstats #stats #data #polisci
+350439629507403776  Jun 27 22:24  @zentree          @phylorich @recology_ @vsbuffalo Could you please forward the link to Brian Ripley? Much appreciated. #Rstats
+350442713658818560  Jun 27 22:37  @PeteHaitch       Quick tip to ensure your plots are legible in presentations http://peterhickey.me/2013/06/28/presentation-theme-for-ggplot2/ #rstats #ggplot2
+350446766711242754  Jun 27 22:53  @kuun_peal        I propose that #Rtians start using the assign right operator (->) more. Easier to follow and more like reading English. #rstats #R
+350448384970194945  Jun 27 22:59  @nyem             RT @timelyportfolio: good #rstats post Adventures in Analytics and Visualization: Analyses of the Best Undergraduate (US-based) Busi... http://t.co/58KjnBaKOe
+350452077719339010  Jun 27 23:14  @ucfagls          @kuun_peal & totally opposite to most (all?) other languages! Most definitely *not* seconded #rstats
+350454302000685057  Jun 27 23:23  @kevin_ushey      RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350456744775917568  Jun 27 23:32  @kuun_peal        @ucfagls If I had my druthers, other languages would take advantage of  the bidirectional operator for assignment. #rstats
+350456949483118592  Jun 27 23:33  @kuun_peal        RT @ucfagls: @kuun_peal & totally opposite to most (all?) other languages! Most definitely *not* seconded #rstats
+350457042357600256  Jun 27 23:34  @kuun_peal        @ucfagls For me, what is assigned to the variable is more interesting than the variable name. #rstats
+350461729567813632  Jun 27 23:52  @kuun_peal        Working through an interesting introduction to Monte Carlo simulation: http://people.uncw.edu/whitejw/EMD/Week6_problems.pdf . #rstats #programming #statistics
+350493841276665856  Jun 28 02:00  @drago_carlo      RT @kuun_peal: Working through an interesting introduction to Monte Carlo simulation: http://people.uncw.edu/whitejw/EMD/Week6_problems.pdf . #rstats #programming #statistics
