@@ -10331,3 +10331,14 @@
 350773509842145281  Jun 28 20:31  @Rbloggers        rCharts Remake of NYT:  (This article was first published on   Timely Portfolio, and kindly contribu... http://bit.ly/19EsEOr #rstats
 350774355283804161  Jun 28 20:34  @recology_        Nice tutoria on running #rstats on #ec2 using @rstudioapp http://prsm.tc/SfYbqt
 350777135805370368  Jun 28 20:46  @recology_        @mwpennell @omearabrian I rarely see folks make you register to download an #rstats pkg - not cool http://bit.ly/12sfcI9
+350795822297915392  Jun 28 22:00  @ManningBooks     DOTD: Last call on a new MEAP! Save 50% on R in Action, Second Edition. Code dotd0628tw at http://www.manning.com/kabacoff2/  #manningbooks #Rstats
+350798483223097344  Jun 28 22:10  @isragaytan       RT @KirkDBorne: @ZebraZebraZebra Thanks for sharing the basic tutorial on R at http://www.cyclismo.org/tutorial/R/ | #Rstats #DataScience
+350799214340608001  Jun 28 22:13  @lkafle           RT @KirkDBorne: @ZebraZebraZebra Thanks for sharing the basic tutorial on R at http://www.cyclismo.org/tutorial/R/ | #Rstats #DataScience
+350808321999122432  Jun 28 22:49  @rvimieiro        Great pkg for creating interactive charts with #Rstats -- rCharts http://www.r-bloggers.com/rcharts-remake-of-nyt/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Rbloggers #d3js #dataviz #datascience
+350820461627711489  Jun 28 23:38  @nucAmbiguous     RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350845856330690561  Jun 29 01:19  @TrestleJeff      Expanded R package slides for Dallas R grp today @ 10: http://bit.ly/1aVZ8lp. Now introduce reproducible docs (knitr) + R packages. #rstats
+350853347315687424  Jun 29 01:48  @kuun_peal        Easy-to-follow article on data subsetting in #R.  Especially useful for beginners: http://rpubs.com/daspringate/subsetting. #rstats #statistics #programming
+350854821240258560  Jun 29 01:54  @recology_        cc: @dataJujitsu MT @kuun_peal: Easy-to-follow article on data subsetting in #rstats. Esp useful for beginners: http://rpubs.com/daspringate/subsetting
+350856785906765827  Jun 29 02:02  @NHoughSnee       RT @recology_: cc: @dataJujitsu MT @kuun_peal: Easy-to-follow article on data subsetting in #rstats. Esp useful for beginners: http://t.co/u0xv35Kn46
+350864345032437760  Jun 29 02:32  @mhawksey         RT @ChrisGandrud: Improved d3Network for #rstats on CRAN http://bit.ly/18a1BsU & website with lots of examples http://bit.ly/18a1nCi http://t.co/RX3gKAmpH4
+350870066528653313  Jun 29 02:55  @recology_        RT @ChrisGandrud: Improved d3Network for #rstats on CRAN http://bit.ly/18a1BsU & website with lots of examples http://bit.ly/18a1nCi http://t.co/RX3gKAmpH4
