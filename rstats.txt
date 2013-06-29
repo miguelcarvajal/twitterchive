@@ -10286,6 +10286,7 @@
 350637626321158144  Jun 28 11:31  @dieTF            RT @wactbprot: @dieTF ... your tweets! Fetch your timeline ...  and data mine with #rstats https://github.com/wactbprot/R4CouchDB#getting-started #CouchDB
 350637771515379713  Jun 28 11:32  @jjgibaja         RT @zentree: This coming semester we'll be using #Rstats (primarily) and #SAS when teaching regression modeling. Aim: confusing in multiple languages.
 350638335477301248  Jun 28 11:34  @AnserGIS         RT @RLangTip: Index of datasets included with R: http://bit.ly/KETjbI #rstats
+350643008246525952  Jun 28 11:53  @timelyportfolio  RT @RLangTip: Index of datasets included with R: http://bit.ly/KETjbI #rstats
 350644261659738113  Jun 28 11:58  @mjcavaretta      Nice #dataviz MT @southmapr: Beautiful map of Knapweed by @KTInvasion using #rworldmap #rstats http://wp.me/p1Ye5e-a5 http://t.co/5iujUAbQLL
 350644839425118208  Jun 28 12:00  @ManningBooks     New MEAP! Half off R in Action, Second Edition. Use code dotd0628tw when you check out at http://www.manning.com/kabacoff2/ #Rstats
 350645292602892289  Jun 28 12:02  @JoseCarlosMrqz   RT @ManningBooks: New MEAP! Half off R in Action, Second Edition. Use code dotd0628tw when you check out at http://www.manning.com/kabacoff2/ #Rstats
@@ -10293,6 +10294,7 @@
 350647570684588032  Jun 28 12:11  @romain_francois  Pretty nice french #rstats community at the 2nd "rencontres r" in Lyon. #rlyon2013
 350652205050757120  Jun 28 12:29  @revodavid        How to automate document generation from a Word template with an #rstats script: http://bit.ly/14eKLVH
 350653537438531584  Jun 28 12:34  @EpiFunky         'The Dataset Project: Handling survey data in R' An #rstats alternative to SPSS in social sciences http://r2013-lyon.sciencesconf.org/19131/document
+350655742853918721  Jun 28 12:43  @rOpenSci         RT @Demografia_CSIC: Index of datasets included with R: http://bit.ly/KETjbI #rstats vía @RLangTip
 350655884436832257  Jun 28 12:44  @recology_        RT @wactbprot: @dieTF ... your tweets! Fetch your timeline ...  and data mine with #rstats https://github.com/wactbprot/R4CouchDB#getting-started #CouchDB
 350656055321182209  Jun 28 12:44  @NestorMontano    RT «@revodavid How to automate document generation from a Word template with an #rstats script: http://bit.ly/14eKLVH»
 350660777117614080  Jun 28 13:03  @MattDabrowski    RT @revodavid: How to automate document generation from a Word template with an #rstats script: http://bit.ly/14eKLVH
@@ -10300,6 +10302,32 @@
 350664547629154305  Jun 28 13:18  @DEAGiles         RT @RLangTip: Index of datasets included with R: http://bit.ly/KETjbI #rstats
 350665847422976000  Jun 28 13:23  @mattmoehr        Right about now I wish I Sweaved. "As you can see in Table ???" #rstats #tooLateNow #noMoreYakShaving
 350666712544313344  Jun 28 13:27  @pietdaas         RT @josvandongen: 3 of 4 presentations partly abt #rstats; #CBS' @PietDaas showed many Tableplot examples, really cool: http://t.co/1YYvCc79wf #BiDutch
+350669321271386114  Jun 28 13:37  @massimosanti     RT @revodavid: How to automate document generation from a Word template with an #rstats script: http://bit.ly/14eKLVH
 350675375896018946  Jun 28 14:01  @KTInvasion       hey @polesasunder here's the difference between violin and bean plots #rstats http://mbjoseph.github.io/blog/2013/06/24/violin/
+350678011009433600  Jun 28 14:12  @jmgomez          RT @RLangTip: To speed up your #rstats code, use Rprof() to turn on profiling & summaryRprof() to find slow parts http://bit.ly/OrT9bX
+350682384481529856  Jun 28 14:29  @cbumg            RT @RLangTip: Index of datasets included with R: http://bit.ly/KETjbI #rstats
 350683866475921408  Jun 28 14:35  @ADEH_demografia  RT @Demografia_CSIC: Index of datasets included with R: http://bit.ly/KETjbI #rstats vía @RLangTip
 350687213434048512  Jun 28 14:48  @anshul           RT @RLangTip: Index of datasets included with R: http://bit.ly/KETjbI #rstats
+350690183756259329  Jun 28 15:00  @Rbloggers        Create Word documents from R with R2DOCX:  (This article was first published on   Revolutions, and k... http://bit.ly/1amtMFS #rstats
+350708159733702656  Jun 28 16:11  @therealprotonk   I need a twitter account like @StackOverflowR which filters out questions like "I have 3 nested for loops, why isn't this fast?" #rstats
+350709570978578432  Jun 28 16:17  @gsantosgo        Index of datasets included with R: http://bit.ly/KETjbI #rstats vía @RLangTip
+350712993631305728  Jun 28 16:31  @timelyportfolio  NYT #d3js vis reusable w/ #rstats #rCharts http://timelyportfolio.github.io/rCharts_nyt_home_price/ thanks @alignedleft @datastories @ramnath_vaidya http://t.co/5U9q4qAdbO
+350717029449334785  Jun 28 16:47  @timelyportfolio  repost  NYT #d3js vis reusable w/ #rstats #rCharts http://timelyportfolio.github.io/rCharts_nyt_home_price/
+350717157006516225  Jun 28 16:47  @jkiernander      RT @timelyportfolio: repost  NYT #d3js vis reusable w/ #rstats #rCharts http://timelyportfolio.github.io/rCharts_nyt_home_price/
+350717512456998912  Jun 28 16:49  @ramnath_vaidya   RT @timelyportfolio: repost  NYT #d3js vis reusable w/ #rstats #rCharts http://timelyportfolio.github.io/rCharts_nyt_home_price/
+350720329078931456  Jun 28 17:00  @ManningBooks     Deal of the Day June 28: R in Action, Second Edition. Use code dotd0628tw at http://www.manning.com/kabacoff2/ #Rstats
+350721224655114242  Jun 28 17:03  @recology_        Anyone know of methods in #rstats for estimating phylogenetic signal on discrete characters?
+350725045263405057  Jun 28 17:19  @KTInvasion       @LizNeeley Perhaps I could interest you in some #invasive sp., #rstats, or #ethnobotany? http://alienplantation.wordpress.com/
+350726983627452416  Jun 28 17:26  @tomjwebb         RT @recology_: Anyone know of methods in #rstats for estimating phylogenetic signal on discrete characters?
+350731397276766208  Jun 28 17:44  @KevinLDavenport  RT @kevin_ushey: First stab at #rstats #shiny: An app for visualizing pkg dls over time from RStudio servers. https://github.com/cdrv/shinyPackageDownloads
+350745992884260864  Jun 28 18:42  @KirkDBorne       @ZebraZebraZebra Thanks for sharing the basic tutorial on R at http://www.cyclismo.org/tutorial/R/ | #Rstats #DataScience
+350757767436451840  Jun 28 19:29  @openscience      RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350758103773491201  Jun 28 19:30  @duke_data        By special request from the Data and GIS consultants - beer recommendations in R #rstats http://blog.yhathq.com/posts/recommender-system-in-r.html
+350759709655048192  Jun 28 19:36  @SciOfMotherhood  RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350760009052852227  Jun 28 19:37  @ptsefton         RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350761072455712768  Jun 28 19:42  @Barb4Hmom        RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350763699847434240  Jun 28 19:52  @morleycp         RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350766236889653250  Jun 28 20:02  @rosariorogel     RT @ethanwhite: Open dialogue between reviewer and author inspires a new #rstats package https://github.com/weecology/data-sharing-paper/issues/71. I love #openscience! @cboettig
+350773509842145281  Jun 28 20:31  @Rbloggers        rCharts Remake of NYT:  (This article was first published on   Timely Portfolio, and kindly contribu... http://bit.ly/19EsEOr #rstats
+350774355283804161  Jun 28 20:34  @recology_        Nice tutoria on running #rstats on #ec2 using @rstudioapp http://prsm.tc/SfYbqt
+350777135805370368  Jun 28 20:46  @recology_        @mwpennell @omearabrian I rarely see folks make you register to download an #rstats pkg - not cool http://bit.ly/12sfcI9
