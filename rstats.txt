@@ -10466,3 +10466,31 @@
 351684862995996672  Jul  1 08:52  @iDATA_co         RT @DatametricsBI: Minería de datos con R. Su mejor amigo para los Grandes datos http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #CRM #BI #rstats
 351684926569062400  Jul  1 08:53  @InversionPascal  RT @Datamarketing_: Minería de datos con R. Su mejor amigo para los Grandes datos http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #CRM #BI #rstats
 351686413709877249  Jul  1 08:59  @solarforfarmers  RT @FarmingFutures: RT @UKERCHQ: UKERC RETWEET: DECC has just released decctools #rstats package for UK energy statistics - https://t.co/oNgCJhTuhq
+351687122564026369  Jul  1 09:01  @UKERCHQ          Correcting previous Tweet: @jameskeirstead released decctools #rstats package for UK energy statistics: https://github.com/jkeirstead/decctools …
+351687440089624577  Jul  1 09:03  @timelyportfolio  RT @ramnath_vaidya: rCharts reaches 100 stars on github :) #rstats #rCharts http://t.co/61YbnO1Iiz
+351689686890192901  Jul  1 09:12  @pbett            RT @jameskeirstead: Pleased to announce the release of decctools #rstats package for UK energy statistics.  On CRAN and https://t.co/4P8KEJhExS
+351690360377966592  Jul  1 09:14  @datagistips      Getting Started with Twitter in R http://stathack.wordpress.com/2013/06/13/getting-started-with-twitter-in-r/ #rstats
+351690959198765056  Jul  1 09:17  @datagistips      R2Leaflet http://robertgrantstats.wordpress.com/2013/06/11/r2leaflet-v0-1-make-interactive-online-maps-from-r/ #rstats #leaflet
+351692409362595840  Jul  1 09:22  @datagistips      Geolocate IP addresses in R http://heuristically.wordpress.com/2013/05/20/geolocate-ip-addresses-in-r/ #rstats
+351693722204901378  Jul  1 09:28  @JM_Beaudoin      RT @datagistips: R2Leaflet http://robertgrantstats.wordpress.com/2013/06/11/r2leaflet-v0-1-make-interactive-online-maps-from-r/ #rstats #leaflet
+351693757277667329  Jul  1 09:28  @JM_Beaudoin      RT @datagistips: Geolocate IP addresses in R http://heuristically.wordpress.com/2013/05/20/geolocate-ip-addresses-in-r/ #rstats
+351695603631276033  Jul  1 09:35  @quandl           An example for text analytics: http://qndl.co/10VnE49 #rstats
+351698286832394240  Jul  1 09:46  @KirkDBorne       A very thorough Example of Twitter Stream #DataMining, incl. user I/F, analytics, visualization. http://qndl.co/10VnE49 #Rstats #DataScience
+351701873176215555  Jul  1 10:00  @RJ_R             RT @FarmingFutures: RT @UKERCHQ: UKERC RETWEET: DECC has just released decctools #rstats package for UK energy statistics - https://t.co/oNgCJhTuhq
+351703542198845441  Jul  1 10:07  @jordiferrer      RT @KirkDBorne Example of Twitter Stream #DataMining, incl. user I/F, analytics, visualization. http://qndl.co/10VnE49 #Rstats #DataScience
+351709537377583105  Jul  1 10:31  @agapow           In progress - notes on objects in #R http://www.agapow.net/programming/r/oop-in-r/ #Rstats
+351718117250043904  Jul  1 11:05  @orlandomezquita  Bootstrapping with R: http://bit.ly/1cFt6bm #rstats
+351723243406753792  Jul  1 11:25  @jkiernander      RT @ramnath_vaidya: rCharts reaches 100 stars on github :) #rstats #rCharts http://t.co/61YbnO1Iiz
+351724071815352321  Jul  1 11:28  @joaquinarma      R en el explorador  http://www.roncloud.com/  #rstats #cloud #acojonante
+351727199361044480  Jul  1 11:41  @SpringerStats    RT @ramnath_vaidya: rCharts reaches 100 stars on github :) #rstats #rCharts http://t.co/61YbnO1Iiz
+351729295468658691  Jul  1 11:49  @josecamoessilva  In keeping w/ my simplification project, I'm trying to use only iWork, #Rstats, & LaTeX, ditching Adobe CS, Mathematica, other stats #fb
+351729525668839425  Jul  1 11:50  @Rbloggers        Web Analytics Visualization through ggplot2:  (This article was first published on   Tatvic Blog » R... http://bit.ly/13lB9KQ #rstats
+351733863627763713  Jul  1 12:07  @recology_        For the i-dont-twitter-on-the-weekend-crowd:  Interactive maps, GeoJSON, @github, and #rstats http://bit.ly/14Hm7vV
+351734087351926785  Jul  1 12:08  @researchremix    RT @recology_: For the i-dont-twitter-on-the-weekend-crowd:  Interactive maps, GeoJSON, @github, and #rstats http://bit.ly/14Hm7vV
+351736707281989632  Jul  1 12:19  @RLangTip         #rstats For an example of some slick plotting code click on the graphic at http://www.r-project.org
+351737159163707392  Jul  1 12:20  @jmcyap           RT @RLangTip: #rstats For an example of some slick plotting code click on the graphic at http://www.r-project.org
+351737421609697282  Jul  1 12:21  @inside_R         #rstats R user group meetings this week: Boston, Durban, Kassel, Heidelberg (http://bit.ly/9hVAPE)
+351738755012493312  Jul  1 12:27  @Laluito          RT @RLangTip: #rstats For an example of some slick plotting code click on the graphic at http://www.r-project.org
+351740953909936130  Jul  1 12:35  @sc_evans         Can someone please pause time for a couple weeks so I can learn how to use data.table in #Rstats before I have to defend #SpiderThesis13?
+351744576719040512  Jul  1 12:50  @carlyziter       I feel ya @sc_evans. Only if you pause time so I can finish my reldist analysis in #Rstats before I submit #TreeThesis13!
+351763157666119680  Jul  1 14:04  @almightyData     RT @cloudHPC: access to a running #rstats session at any time and at any place http://www.roncloud.com/ works on smartphone too #roncloud
