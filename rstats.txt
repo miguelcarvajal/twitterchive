@@ -10441,3 +10441,28 @@
 351547223500263428  Jun 30 23:46  @zentree          'How pqR makes [#Rstats] programs faster by not doing things'. http://radfordneal.wordpress.com/2013/06/30/how-pqr-makes-programs-faster-by-not-doing-things/#rssowlmlink
 351555899246120962  Jul  1 00:20  @Rbloggers        How pqR makes programs faster by not doing things:  (This article was first published on   Radford N... http://bit.ly/19MwKnN #rstats
 351584523949064192  Jul  1 02:14  @pschulam         Get up to speed with #rstats in practice quickly with "An Introduction to Statistical Learning" http://goo.gl/adj2m. Labs included!
+351598568114626562  Jul  1 03:10  @mgrafit          Closing the gap btw #rstats and #d3js ! d3Network by @ChrisGandrud http://bit.ly/18a1BsU + examples http://bit.ly/18a1nCi
+351602239175016448  Jul  1 03:24  @mgrafit          Upcoming release of lme4 v1.0 in #rstats, including predict(). https://github.com/lme4/lme4/blob/master/misc/notes/release_notes.md
+351613958358183938  Jul  1 04:11  @chlalanne        RT @mgrafit: Upcoming release of lme4 v1.0 in #rstats, including predict(). https://github.com/lme4/lme4/blob/master/misc/notes/release_notes.md
+351614372264673280  Jul  1 04:12  @Chicco_Stat      http://www.r-bloggers.com/a-beer-recommendation-system-made-with-r/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29 #beer #cran #r #statistics #rstats
+351628935286632448  Jul  1 05:10  @Rbloggers        Exploratory Data Analysis – Kernel Density Estimation and Rug Plots on Ozone Data in New York and Ozon... http://bit.ly/19NmHPd #rstats
+351629927323402240  Jul  1 05:14  @IronistM         #rstats head() & tail() do get size argument. This is mostly overlooked...
+351637398230286341  Jul  1 05:44  @cloudHPC         access to a running #rstats session at any time and at any place http://www.roncloud.com/ works on smartphone too #roncloud
+351644107682226176  Jul  1 06:11  @jmgomez          MT @kdnuggets: Practical Analytics - getting started with different tools: #RapidMiner, #RStats, #Weka, Statistica http://bit.ly/19HveTR
+351644415565107200  Jul  1 06:12  @zentree          #Rstats seriously needs a production-quality generalized linear mixed models package.
+351647414085619713  Jul  1 06:24  @jameskeirstead   Pleased to announce the release of decctools #rstats package for UK energy statistics.  On CRAN and https://github.com/jkeirstead/decctools
+351647645846085634  Jul  1 06:25  @jameskeirstead   @fhr As we discussed earlier: decctools #rstats package for UK energy statistics now out on CRAN and https://github.com/jkeirstead/decctools
+351647847793434625  Jul  1 06:25  @jameskeirstead   @UKERCHQ Mind RT'ing? Just released decctools #rstats package for UK energy statistics.  On CRAN and https://github.com/jkeirstead/decctools
+351648215638093824  Jul  1 06:27  @UKERCHQ          UKERC RETWEET: DECC has just released decctools #rstats package for UK energy statistics - https://github.com/jkeirstead/decctools
+351650902442115072  Jul  1 06:38  @monsoontrader    RT @jameskeirstead: @UKERCHQ Mind RT'ing? Just released decctools #rstats package for UK energy statistics.  On CRAN and https://t.co/4P8KEJhExS
+351658707244941312  Jul  1 07:09  @papachan         bridge between d3.js and #rproject for network graph visualization  #rstats #javascript http://christophergandrud.github.io/d3Network/
+351663786891022336  Jul  1 07:29  @perisaccadic     If I implemented this in #rstats would you use it? https://github.com/crowding/ptools/issues/13
+351678402014621697  Jul  1 08:27  @FarmingFutures   RT @UKERCHQ: UKERC RETWEET: DECC has just released decctools #rstats package for UK energy statistics - https://github.com/jkeirstead/decctools
+351678746123710465  Jul  1 08:28  @tanthingheng     "@JeromyAnglim: I just noticed that R Commander now plays nicely with RStudio. This could be great for teaching purposes. #rstats"
+351684138014744578  Jul  1 08:50  @james_hicks      RT @zentree: #Rstats seriously needs a production-quality generalized linear mixed models package.
+351684236593463300  Jul  1 08:50  @Rbloggers        analyze the united states decennial census public use microdata sample (pums) with r and monetdb:  (... http://bit.ly/15YeS1F #rstats
+351684818150490112  Jul  1 08:52  @Datamarketing_   Minería de datos con R. Su mejor amigo para los Grandes datos http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #CRM #BI #rstats
+351684819861778432  Jul  1 08:52  @DatametricsBI    Minería de datos con R. Su mejor amigo para los Grandes datos http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #CRM #BI #rstats
+351684862995996672  Jul  1 08:52  @iDATA_co         RT @DatametricsBI: Minería de datos con R. Su mejor amigo para los Grandes datos http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #CRM #BI #rstats
+351684926569062400  Jul  1 08:53  @InversionPascal  RT @Datamarketing_: Minería de datos con R. Su mejor amigo para los Grandes datos http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #CRM #BI #rstats
+351686413709877249  Jul  1 08:59  @solarforfarmers  RT @FarmingFutures: RT @UKERCHQ: UKERC RETWEET: DECC has just released decctools #rstats package for UK energy statistics - https://t.co/oNgCJhTuhq
