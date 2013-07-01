@@ -10431,3 +10431,13 @@
 351470115637821441  Jun 30 18:39  @treycausey       The hts package provides methods for analysing and forecasting hierarchical time series. http://bit.ly/19LDPoA #rstats
 351494648700735488  Jun 30 20:17  @hrbrmstr         #rstats why does the fact that I can run this successfully on http://roncloud.com generate huge concern? http://t.co/nNWvTdOK2q
 351500854697787393  Jun 30 20:41  @tzine3           RT @hrbrmstr: #rstats why does the fact that I can run this successfully on http://roncloud.com generate huge concern? http://t.co/nNWvTdOK2q
+351506481222385665  Jun 30 21:04  @monsoontrader    Release of lme4 in #rstats. Some nice new fetures, including predict(). https://github.com/lme4/lme4/blob/master/misc/notes/release_notes.md
+351509845863706624  Jun 30 21:17  @frenchrh         RT @BobMuenchen: Making research in #Rstats more reproducible http://arxiv.org/pdf/1303.2140.pdf.
+351515584904699904  Jun 30 21:40  @stuhorsman       In Perth, Western Australia? Come join us for the OTN #bigdata workshop tomorrow #nosql #hadoop #rstats
+351515624645734404  Jun 30 21:40  @recology_        [Blog] Spatial data files to GeoJSON to GitHub maps in #rstats http://bit.ly/14Hm7vV
+351517188903018496  Jun 30 21:46  @BigInsights      RT @stuhorsman: In Perth, Western Australia? Come join us for the OTN #bigdata workshop tomorrow #nosql #hadoop #rstats
+351524277390020608  Jun 30 22:14  @Bioconductor     #Bioconductor / #rstats Annual Conference Seattle July 17 (Dev. Day) 18-19 early registration ends July 1 http://bit.ly/12Wr2ww
+351529462694817793  Jun 30 22:35  @zentree          Dots, underscores & relying on autoconversion for variable names in #Rstats. http://andrewgelman.com/2013/06/29/r-sucks/
+351547223500263428  Jun 30 23:46  @zentree          'How pqR makes [#Rstats] programs faster by not doing things'. http://radfordneal.wordpress.com/2013/06/30/how-pqr-makes-programs-faster-by-not-doing-things/#rssowlmlink
+351555899246120962  Jul  1 00:20  @Rbloggers        How pqR makes programs faster by not doing things:  (This article was first published on   Radford N... http://bit.ly/19MwKnN #rstats
+351584523949064192  Jul  1 02:14  @pschulam         Get up to speed with #rstats in practice quickly with "An Introduction to Statistical Learning" http://goo.gl/adj2m. Labs included!
