@@ -10494,3 +10494,25 @@
 351740953909936130  Jul  1 12:35  @sc_evans         Can someone please pause time for a couple weeks so I can learn how to use data.table in #Rstats before I have to defend #SpiderThesis13?
 351744576719040512  Jul  1 12:50  @carlyziter       I feel ya @sc_evans. Only if you pause time so I can finish my reldist analysis in #Rstats before I submit #TreeThesis13!
 351763157666119680  Jul  1 14:04  @almightyData     RT @cloudHPC: access to a running #rstats session at any time and at any place http://www.roncloud.com/ works on smartphone too #roncloud
+351790590083604480  Jul  1 15:53  @treycausey       Really wishing there was a way to interrupt compiled #rstats functions... Or is there?
+351792240718381059  Jul  1 15:59  @SpringerStats    RT @pschulam: Get up to speed with #rstats in practice quickly with "An Introduction to Statistical Learning" http://goo.gl/adj2m. Labs included!
+351792589407666176  Jul  1 16:01  @joshua_ulrich    .@treycausey yes, you can check for user interrupts in compiled code called by #rstats: http://goo.gl/oFAV0
+351797555874639873  Jul  1 16:20  @aande763         Prelim #americankestrel #genetics analysis in progress. Used reshape package in #Rstats to save me time with data reformatting.
+351802121890443265  Jul  1 16:38  @ionaseeber7339   RT @rbirnie: Spent a frustrating afternoon bashing my head in with #rstats and #knitr. Return fresh tomorrow. #willnot defeatme
+351804118995709954  Jul  1 16:46  @josembecerra     RT @recology_: For the i-dont-twitter-on-the-weekend-crowd:  Interactive maps, GeoJSON, @github, and #rstats http://bit.ly/14Hm7vV
+351804689542688768  Jul  1 16:49  @OpenAnalytics    OpenAnalytics getting ready for @useR_2013 , details at http://www.openanalytics.eu/blog/openanalytics-user-2013-whats-program #user2013, #rstats
+351806535409737728  Jul  1 16:56  @emilopezcano     RT @OpenAnalytics: OpenAnalytics getting ready for @useR_2013 , details at http://www.openanalytics.eu/blog/openanalytics-user-2013-whats-program #user2013, #rstats
+351806668838932482  Jul  1 16:57  @useR_2013        RT @OpenAnalytics: OpenAnalytics getting ready for @useR_2013 , details at http://www.openanalytics.eu/blog/openanalytics-user-2013-whats-program #user2013, #rstats
+351806752930533378  Jul  1 16:57  @metacode         Advanced Data Analysis from an Elementary Point of View http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ PDF 586p by Cosma Rohilla Shalizi  #draft #Rstats
+351808619429380097  Jul  1 17:04  @ddossot          RT @OpenAnalytics: OpenAnalytics getting ready for @useR_2013 , details at http://www.openanalytics.eu/blog/openanalytics-user-2013-whats-program #user2013, #rstats
+351812332512485376  Jul  1 17:19  @Rbloggers        Maximum Entropy Bootstrap Rescale and Symmetrize: Guest post by Hrishikesh D. Vinod* (∗Professor of Ec... http://bit.ly/15ZQ5dv #rstats
+351812655339679745  Jul  1 17:20  @PratapVardhan    Improved d3Network for #rstats on CRAN http://bit.ly/18a1BsU & website with lots of examples http://bit.ly/18a1nCi  http://t.co/O9e7hQ538z
+351814138470735872  Jul  1 17:26  @ReleaseTEAMInc   RT @PratapVardhan: Improved d3Network for #rstats on CRAN http://bit.ly/18a1BsU & website with lots of examples http://bit.ly/18a1nCi  http://t.co/O9e7hQ538z
+351818151056515073  Jul  1 17:42  @FastBigData      Cool way to expose neural net's to your users is to animate them #rstats . Here's how in R ➨ http://is.gd/LWXjlw  #PredictiveAnalytics
+351822458040496129  Jul  1 17:59  @FastBigData      Packed #BigData training workshop today for freinds in Perth. Our fourth session across Australia #hadoop #nosql #rstats #maximumdelivery
+351827012853317632  Jul  1 18:17  @algaebarnacle    After an exhaustive search, I cannot find a GLMM method that estimates p-values for both Poisson & Gaussian models. Help anyone? #rstats
+351854588883779584  Jul  1 20:07  @bearloga         @brendan642 You might be interested in the second talk @ the next useR meeting in here Pittsburgh http://www.meetup.com/Pittsburgh-useR-Group/events/127307902/ #textmining #rstats
+351855586482192388  Jul  1 20:11  @bearloga         I'm giving a talk on Shiny at the next Pittsburgh useR meeting in August http://www.meetup.com/Pittsburgh-useR-Group/events/127307902/ All levels of #rstats expertise are welcome!
+351863380316925953  Jul  1 20:42  @KirkDBorne       The top 5 R packages, by @jigsawacademy: http://www.analyticbridge.com/profiles/blogs/my-top-5-r-packages via @analyticbridge #Rstats #Statistics #Visualization #Analytics
+351864883186372608  Jul  1 20:48  @PageViral        RT @KirkDBorne: The top 5 R packages, by @jigsawacademy: http://www.analyticbridge.com/profiles/blogs/my-top-5-r-packages via @analyticbridge #Rstats #Statistics #Visualization #Analytics
+351865394513969152  Jul  1 20:50  @SardelichM       a review of #five #Rstats packges (I personally give #five starts to all of them): http://analyticstraining.com/2013/my-top-5-r-packages-2/
