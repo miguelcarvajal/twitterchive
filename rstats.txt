@@ -10516,3 +10516,16 @@
 351863380316925953  Jul  1 20:42  @KirkDBorne       The top 5 R packages, by @jigsawacademy: http://www.analyticbridge.com/profiles/blogs/my-top-5-r-packages via @analyticbridge #Rstats #Statistics #Visualization #Analytics
 351864883186372608  Jul  1 20:48  @PageViral        RT @KirkDBorne: The top 5 R packages, by @jigsawacademy: http://www.analyticbridge.com/profiles/blogs/my-top-5-r-packages via @analyticbridge #Rstats #Statistics #Visualization #Analytics
 351865394513969152  Jul  1 20:50  @SardelichM       a review of #five #Rstats packges (I personally give #five starts to all of them): http://analyticstraining.com/2013/my-top-5-r-packages-2/
+351868274671239168  Jul  1 21:01  @StatsInTheWild   Invoke a System Command in R http://stat.ethz.ch/R-manual/R-patched/library/base/html/system.html #rstats
+351870780197445632  Jul  1 21:11  @StatsInTheWild   Is there a third type of quotation mark that will allow this to run in R: system("sed -e 's/"//g' File.txt  > tmp").  #rstats
+351882772283002881  Jul  1 21:59  @algaebarnacle    RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+351891063163727872  Jul  1 22:32  @thelabandfield   RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+351891922467557377  Jul  1 22:35  @sc_evans         RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+351895521163616256  Jul  1 22:50  @LilithElina      Upcoming release of lme4 v1.0 in #rstats, including predict(). http://j.mp/17Pn5MB
+351906844408684546  Jul  1 23:35  @PPUAMX           RT @RLangTip: #rstats For an example of some slick plotting code click on the graphic at http://www.r-project.org
+351923666411470848  Jul  2 00:41  @drago_carlo      Spatial Point Pattern Analysis in R http://prsm.tc/tBSQwX via @prismatic #Statistics #SpatialStatistics #Rstats
+351936640849154048  Jul  2 01:33  @peteswilson      I emailed the creator of an #rstats package for advice, or a solution. Here's hoping!
+351940819562934273  Jul  2 01:50  @intipedroso      @wesmckinn do you know any #python package for #linearmixedmodels? #stats #bioinformatics #ipython #rstats
+351950193966583809  Jul  2 02:27  @mgrafit          RT @metacode Advanced Data Analysis from an Elementary Point of View http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ by Cosma Rohilla Shalizi  #rstats
+351952640390864896  Jul  2 02:37  @Rbloggers        integral priors for binomial regression:  (This article was first published on   Xi'an's Og » R, and... http://bit.ly/19RrTBP #rstats
+351952641514938369  Jul  2 02:37  @Rbloggers        Some Common Approaches for Analyzing Likert Scales and Other Categorical Data:  (This article was fi... http://bit.ly/17CsDGF #rstats
