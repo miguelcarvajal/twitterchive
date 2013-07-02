@@ -10533,3 +10533,44 @@
 351994769087528962  Jul  2 05:24  @nozav            Rdocumentation is a tool that helps you easily find and browse the documentation of packages on CRAN. http://is.gd/2ID4Gm #rstats
 352012873712680960  Jul  2 06:36  @stuhorsman       RT @FastBigData: @stuhorsman Getting busy with #rstats and #machine learning in $ORCL #BigData appliance. Embedding R in DB #Hadoop http://t.co/DZ9kjdZ68X
 352030227964231680  Jul  2 07:45  @johannux         RT @hadleywickham: my (brief) guide to #rstats data structures: https://github.com/hadley/devtools/wiki/Data-structures. What am I missing?
+352050334547460097  Jul  2 09:05  @orlandomezquita  My top 5 R packages - Jigsaw Academy http://bit.ly/18rKZgw #rstats
+352051566812991489  Jul  2 09:10  @sharon000        How to create a network graph of retweets with R http://bit.ly/12DRXXg by @JulianHi #rstats #twitter #dataviz
+352052265579843584  Jul  2 09:12  @pssGuy           New version of #rstats labeling sees it jump to #3 on the charts http://glimmer.rstudio.com/pssguy/CRANcountdown
+352056826524729344  Jul  2 09:31  @genetics_blog    New blog post: Customize your .Rprofile and Keep Your Workspace Clean http://gettinggeneticsdone.blogspot.com/2013/07/customize-rprofile.html #Rstats
+352068770942033920  Jul  2 10:18  @mjcavaretta      MT @tonyshaw: #BigData Skills Workshops - #REST and #R by @bsletten http://www.eventbrite.com/event/7075582257/estw via @eventbrite #Rstats
+352069953739964416  Jul  2 10:23  @BrianPardy       RT @genetics_blog: New blog post: Customize your .Rprofile and Keep Your Workspace Clean http://gettinggeneticsdone.blogspot.com/2013/07/customize-rprofile.html #Rstats
+352070392548036609  Jul  2 10:24  @gsantosgo        La conferencia de usuarios de #R2013 en #UCLM en Albacete. #rstats  http://www.edii.uclm.es/~useR-2013/
+352073579652841473  Jul  2 10:37  @mjcavaretta      RT @tonyshaw: #BigData Skills Workshops - #REST and the #R by @bsletten http://www.eventbrite.com/event/7075582257/estw via @eventbrite #rstats
+352080946436112384  Jul  2 11:06  @CEastman_        To-do: learn #rstats, so far I agree "...makes me want to kick things" but thanks @biotimylated for this https://github.com/tdsmith/aRrgh
+352081882244071425  Jul  2 11:10  @Rbloggers        Customize your .Rprofile and Keep Your Workspace Clean:  (This article was first published on   Gett... http://bit.ly/162d8Vg #rstats
+352082169272860672  Jul  2 11:11  @brent_p          RT @genetics_blog: New blog post: Customize your .Rprofile and Keep Your Workspace Clean http://gettinggeneticsdone.blogspot.com/2013/07/customize-rprofile.html #Rstats
+352084492221026304  Jul  2 11:20  @ciamk            R On Cloud http://ow.ly/mzBhS #rstats
+352085594194718722  Jul  2 11:25  @ryanpraski       Interactively Determining Popularity of Two Entitites on Twitter #rstats #dataviz #measure http://bit.ly/12i2DMe
+352087327440519171  Jul  2 11:32  @MangoTheCat      Visit Mango Solutions' stand at UseR!  10-12 July  #rstats #useR
+352090875142213632  Jul  2 11:46  @bioinfosm        on #Arxiv Differential meta-analysis of RNA-seq data from multiple studies http://arxiv.org/abs/1306.3636 #Rstats #metaRNASeq #NGS #genomics
+352093792159019010  Jul  2 11:57  @chlalanne        RT @genetics_blog: New blog post: Customize your .Rprofile and Keep Your Workspace Clean http://gettinggeneticsdone.blogspot.com/2013/07/customize-rprofile.html #Rstats
+352094163040354305  Jul  2 11:59  @CDWren           @wabarree I'm reading back over your #rstats tips posts. Super helpful, thank you!
+352095416780722177  Jul  2 12:04  @wabarree         @CDWren glad you find them useful!  Do you use #rstats in your research? Not too many archae/paleo types do, but more and more every day.
+352096338206404610  Jul  2 12:08  @kayuri           RT @genetics_blog: New blog post: Customize your .Rprofile and Keep Your Workspace Clean http://gettinggeneticsdone.blogspot.com/2013/07/customize-rprofile.html #Rstats
+352096495299862528  Jul  2 12:08  @RLangTip         Check which packages you have installed with names(installed.packages()[,1]) http://bit.ly/MO2agl #rstats
+352096817699237888  Jul  2 12:09  @bdhary           "@RLangTip: Check which packages you have installed with names(installed.packages()[,1]) http://bit.ly/MO2agl #rstats"
+352098121171468288  Jul  2 12:15  @phnk             A new one in #rstats: get your error messages in blue! No idea how that happened. http://t.co/S6whT0se6K
+352099031054434306  Jul  2 12:18  @sc_evans         Or use @rstudioapp & view 'em in "packages" window! MT @RLangTip View list of installed packages: names(installed.packages()[,1])  #Rstats
+352101559984865280  Jul  2 12:28  @ArthurFlam       Petit #Gist en #Rstats pour voir quand qqn a été diplômé de #Dauphine. La suite bientôt. https://gist.github.com/arthur-flam/5910814
+352105928356671489  Jul  2 12:46  @jmgomez          RT @mgrafit Closing the gap btw #rstats & #d3js d3Network by @ChrisGandrud http://bit.ly/18a1BsU + examples http://bit.ly/18a1nCi #dataviz
+352107308282687489  Jul  2 12:51  @rmflight         RT @jmgomez: RT @mgrafit Closing the gap btw #rstats & #d3js d3Network by @ChrisGandrud http://bit.ly/18a1BsU + examples http://t.co/5BVPd2a5MC #dataviz
+352110897155686401  Jul  2 13:05  @Quantmetry       RT @ArthurFlam: Petit #Gist en #Rstats pour voir quand qqn a été diplômé de #Dauphine. La suite bientôt. https://gist.github.com/arthur-flam/5910814
+352116233799335936  Jul  2 13:27  @ramhiser         New blog post: A Brief Look at Mixture Discriminant Analysis http://ramhiser.com/blog/2013/07/02/a-brief-look-at-mixture-discriminant-analysis/ #rstats #machinelearning
+352118454679121920  Jul  2 13:35  @jmgomez          RT @metacode Advanced Data Analysis from an Elementary Point of View http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ PDF 586p by Cosma Rohilla Shalizi #draft #Rstats
+352118467459170305  Jul  2 13:35  @samarthbhaskar   RT @genetics_blog: New blog post: Customize your .Rprofile and Keep Your Workspace Clean http://gettinggeneticsdone.blogspot.com/2013/07/customize-rprofile.html #Rstats
+352127234909282304  Jul  2 14:10  @hashonomy_gus    Getting Genetics Done: Customize your .Rprofile and Keep Your Workspace Clean http://hashonomy.com/PJtf/ #rstats (via @genetics_blog)
+352132012351561729  Jul  2 14:29  @hadleywickham    latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352132068853039104  Jul  2 14:30  @BadHessian       RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352132851887640576  Jul  2 14:33  @TrestleJeff      RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352132893679689730  Jul  2 14:33  @recology_        RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352133651871432705  Jul  2 14:36  @JuusoQ           RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352133668422164482  Jul  2 14:36  @ramnath_vaidya   RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352136952209879040  Jul  2 14:49  @noticiasSobreR   Una de mapas con R: Hace unos días @quatregotes, una ex-alumna y no obstante amiga, me preguntó cómo h... http://tinyurl.com/nrhdk57 #rstats
+352138048441552898  Jul  2 14:53  @p5k12            RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352139082123583489  Jul  2 14:57  @rmflight         RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352139301749932033  Jul  2 14:58  @stratosaur       ggmap is going to be my new spatiality http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf #rstats
