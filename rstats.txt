@@ -10605,3 +10605,18 @@
 352212450403287040  Jul  2 19:49  @cpsievert        +1 MT @sean_anderson: Unwin, @heike_hh, and @visnut call for more graphics in R package examples. Agreed! #rstats http://buff.ly/18ubi5I
 352216570963042304  Jul  2 20:05  @kuun_peal        Lavaan tutorial was helpful in understanding how to do CFA in #R: http://lavaan.ugent.be/tutorial/tutorial.pdf#section.4. Fits nicely w/ Raykov & Marcoulides (2008) #rstats
 352227647583043584  Jul  2 20:49  @frenchrh         RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352230806485344258  Jul  2 21:02  @IanDworkin       RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352235399730561026  Jul  2 21:20  @Rbloggers        Scaling the R ecosystem: Possible Directions for Improving Dependency Versioning:  (This article was... http://bit.ly/13q5tUF #rstats
+352240415539331072  Jul  2 21:40  @datalies         #rstats + #ggplot2 + #shiny == statistical systems dev bliss #true
+352244321371693056  Jul  2 21:56  @GuiomeNicolas    RT @genetics_blog: Interesting- Statistical Software from a Blind Person's Perspective http://journal.r-project.org/archive/2013-1/godfrey.pdf #Rstats
+352250526907383808  Jul  2 22:20  @Rbloggers        The Mechanics of Data Visualization:  (This article was first published on   TRinker's R Blog » R, a... http://bit.ly/14OJKCB #rstats
+352259811292884993  Jul  2 22:57  @isugif           RT @genetics_blog: New blog post: Customize your .Rprofile and Keep Your Workspace Clean http://gettinggeneticsdone.blogspot.com/2013/07/customize-rprofile.html #Rstats
+352269261265313792  Jul  2 23:35  @wyang72          RT @RLangTip: Check which packages you have installed with names(installed.packages()[,1]) http://bit.ly/MO2agl #rstats
+352269771636613120  Jul  2 23:37  @pschulam         A small sample (around 2500) of the many datasets available for analysis using #rstats  http://www.public.iastate.edu/~hofmann/data_in_r_sortable.html
+352275691103985667  Jul  3 00:00  @Rbloggers        Which airline should you be loyal to?:  (This article was first published on   Decision Science News... http://bit.ly/1aAHkOi #rstats
+352285676466737152  Jul  3 00:40  @qiuliangfei      RT @sean_anderson: Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
+352293175597084673  Jul  3 01:10  @tmertzi          RT @sean_anderson: Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
+352310328920518656  Jul  3 02:18  @EpiFunky         RT @zentree: At university I can use #Rstats, #Stata or #SPSS for teaching stats in Windows & Mac. @SASsoftware asks Mac students to dual boot in 2013?
+352311279777619969  Jul  3 02:22  @yannabraham      RT @siah: R On Cloud http://ow.ly/mzBiP #rstats
+352311507020824576  Jul  3 02:23  @drago_carlo      MIxture Discriminant Analysis http://www.r-bloggers.com/a-brief-look-at-mixture-discriminant-analysis/ @Prismatic @Rbloggers #Statistics #DataMining #MachineLearning #Rstats
+352317412160454656  Jul  3 02:46  @padjiman         very nice RT @siah: R On Cloud http://ow.ly/mzBiP #rstats
