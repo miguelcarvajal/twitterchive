@@ -10645,3 +10645,57 @@
 352394811417964545  Jul  3 07:54  @tassos_g         RT @sean_anderson: Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
 352397452546015233  Jul  3 08:04  @merrillmeahl586  RT @chew143: Any #EMS CQI/QA people using R for processing data? Looking to connect with other R EMS users. #rstats
 352410407895449601  Jul  3 08:56  @Aaron_Baggett    Anytime I get a warning message in ggplot2 I feel like somewhere @hadleywickham is scolding me. #rstats
+352413353873899520  Jul  3 09:07  @sharon000        MT @johannux: R helps blind people conduct data analysis with #dataviz add-on BrailleR http://journal.r-project.org/archive/2013-1/godfrey.pdf #rstats
+352418309729288195  Jul  3 09:27  @M_T_Patterson    @JeromyAnglim has an excellent talk on R and Public Policy: http://www.youtube.com/watch?v=GLOeHb5Mj_s #RStats, #PublicPolicy
+352421815219527681  Jul  3 09:41  @sharon000        Run R in the cloud (altho no dataviz or plots as far as I can tell) RT @siah: R On Cloud http://ow.ly/mzBiP #rstats
+352422433686429696  Jul  3 09:43  @datennutzen      RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352427596010622976  Jul  3 10:04  @gvegayon         Last version of "The R Journal" (Volume 5/1, June 2013) http://bit.ly/1b7tUb1 #rstats
+352433789689016321  Jul  3 10:28  @ngamita          http://rseek.org the only other search engine i'm using frequently as Google #rstats
+352436791233609729  Jul  3 10:40  @Rbloggers        Fixing R’s NAMED problems in pqR:  (This article was first published on   Radford Neal's blog » R Pr... http://bit.ly/165pI67 #rstats
+352436831779958784  Jul  3 10:41  @cpsievert        pitchRx 0.5 on CRAN supports probabilistic densities using mgcv & friends. See the bottom of updated demo http://cpsievert.github.io/pitchRx/demo/  #rstats
+352437020519436288  Jul  3 10:41  @jmgomez          RT @KirkDBorne: The top 5 R packages, by @jigsawacademy: http://www.analyticbridge.com/profiles/blogs/my-top-5-r-packages via @analyticbridge #Rstats #Statistics #dataviz #Analytics
+352438732403642372  Jul  3 10:48  @judithmm         RT @BelfastRUsers: If you're not on the mailing list, the information for tomorrows #rstats user group meeting can be found at http://t.co/sXQBSBHgmH :D
+352438952873041922  Jul  3 10:49  @juanci           RT @jmgomez: RT @KirkDBorne: The top 5 R packages, by @jigsawacademy: http://www.analyticbridge.com/profiles/blogs/my-top-5-r-packages via @analyticbridge #Rstats #Statistics #dataviz #Analytics
+352446599915520000  Jul  3 11:19  @RickWicklin      Whether you use #SAS #RStats or #MATLAB, expect duplicates in long sequence of random uniform values. How long? See http://blogs.sas.com/content/iml/2013/07/03/duplicates-in-random-numbers/
+352447277773766656  Jul  3 11:22  @TheDougW         Listening to C.R.E.A.M while doing some Sweave lest I forget to wrap math with $. #WuTang #LaTeX #BecauseWhyNot #Rstats
+352448499394166784  Jul  3 11:27  @rtelmore         The #AnalyzeBoulder meetup is pretty sweet. Looking forward to a possible Denver #Rstats / Analyze Boulder meetup. Thanks @AveryBrewingCo
+352450304928776193  Jul  3 11:34  @ArthurFlam       How #Rstats needs a fix #Package #Management :  http://www.r-bloggers.com/scaling-the-r-ecosystem-possible-directions-for-improving-dependency-versioning/
+352451869022502913  Jul  3 11:40  @GabrielYospin    Arrived at work to find good and bad news. Bad: office still 31 C. Good: 200-year simulation finished as I sat down. Time for #rstats !
+352453377780744192  Jul  3 11:46  @rmflight         RT @ArthurFlam: How #Rstats needs a fix #Package #Management :  http://www.r-bloggers.com/scaling-the-r-ecosystem-possible-directions-for-improving-dependency-versioning/
+352453910285393921  Jul  3 11:48  @drfeldt          RT @sean_anderson: Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
+352454185268162561  Jul  3 11:50  @pat_mw           @BigDataBorat #JohnConnor, #Google's #Machines [operated by the #Terminator] are laughing at Harper Reed's silly #BigData views #rstats
+352455179397898241  Jul  3 11:53  @recology_        Very cool - templates in roxygen2 for pkg docs - reduce redundancy  http://bit.ly/12dKi1V #rstats
+352455896493862912  Jul  3 11:56  @rmflight         RT @recology_: Very cool - templates in roxygen2 for pkg docs - reduce redundancy  http://bit.ly/12dKi1V #rstats
+352459179014893571  Jul  3 12:09  @RLangTip         Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352459302004469760  Jul  3 12:10  @Bill_Gardner     RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352459779374981120  Jul  3 12:12  @mcmahok          Is anyone this anal with their code? RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352459996115636225  Jul  3 12:13  @cloudHPC         accepted "#BigData Analyses with #rstats" tutorial at #strataconf London in November. See you there :-)
+352460448370671616  Jul  3 12:14  @PPUAMX           RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352460807260483585  Jul  3 12:16  @datalies         RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352461066518798336  Jul  3 12:17  @kuun_peal        RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352461161419120641  Jul  3 12:17  @emmaspiro        RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352461837150846977  Jul  3 12:20  @GraemeTLloyd     RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352461926623748098  Jul  3 12:20  @BlasMBenito      @Trotalomas RT @rlangtip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352462050225688576  Jul  3 12:21  @algaebarnacle    Great guide to cleaning up your R code RT @RLangTip Google's style guide for R programmers: http://bit.ly/unTY2g  #rstats
+352465258339778560  Jul  3 12:34  @firas            RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352467059269050368  Jul  3 12:41  @Rbloggers        Summer Reading:  (This article was first published on   One R Tip A Day, and kindly contributed to R... http://bit.ly/165OoeO #rstats
+352467650338766849  Jul  3 12:43  @richierocks      RT @RLangTip Google's style guide for R programmers: http://bit.ly/unTY2g #rstats My guide: http://4dpiecharts.com/r-code-style-guide
+352468990695710721  Jul  3 12:48  @Marko_GHz        RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352474394519552000  Jul  3 13:10  @fredbenenson     Gotta love #Rstats: system.time() [time a function] vs. Sys.time() [what time is it now]
+352478938708197378  Jul  3 13:28  @geoffjentry      @RLangTip I never particularly understood why people cared how google writes #rstats - shouldn't r-core be more authoritative?
+352482746712596482  Jul  3 13:43  @dirkvandenpoel   RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352482977621618688  Jul  3 13:44  @cloudHPC         http://blog.comsysto.com/2013/07/03/tdwi-conference-2013-and-more-big-data-with-r/ it was a #bigdata pleasure to be part of #TDWI conference munich 2013 with #rstats tutorial @mapr and @comsysto
+352483507085381632  Jul  3 13:46  @comsysto         @cloudHPC: http://blog.comsysto.com/2013/07/03/tdwi-conference-2013-and-more-big-data-with-r/ it was a #bigdata pleasure to be part of #TDWI conference munich 2013 with #rstats tutorial @mapr #hadoop
+352485014782492674  Jul  3 13:52  @monkmanmh        RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352486326966300673  Jul  3 13:57  @HIR_ME           RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352486511578583040  Jul  3 13:58  @ngamita          R style guide - designed in collaboration with the entire R user community at Google. http://goo.gl/hgOJ #rstats
+352487460242075649  Jul  3 14:02  @statslabdublin   RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352488338525130752  Jul  3 14:05  @RyanGuggenmos    This is a great syntax guide. RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352490404819640321  Jul  3 14:13  @closesl          Good LMER tips MT @se_hampton @jslefche:  another good resource on specifying random effects in lmer http://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet #rstats
+352492263861010432  Jul  3 14:21  @jaynal83         Everything is set to participate #useR2013 #rstats Jul 8 Dhaka-Istambul-Madrid. Then Madrid-Albacete via @Alsa_Autobuses
+352493181381779458  Jul  3 14:24  @Rbloggers        The R journal – Volume 5/1, June 2013: Complete issue Complete bibliography Table of contents Editoria... http://bit.ly/17JN70l #rstats
+352495466895769601  Jul  3 14:34  @jmgomez          Customize your .Rprofile and Keep Your Workspace Clean http://ow.ly/mBqdX #Rstats
+352495565214457856  Jul  3 14:34  @ZeljkoDodlek     RT @cloudHPC: http://blog.comsysto.com/2013/07/03/tdwi-conference-2013-and-more-big-data-with-r/ it was a #bigdata pleasure to be part of #TDWI conference munich 2013 with #rstats tutorial @mapr and @comsysto
+352495698429739008  Jul  3 14:34  @ebaste           RT @jmgomez: Customize your .Rprofile and Keep Your Workspace Clean http://ow.ly/mBqdX #Rstats
+352500935798427650  Jul  3 14:55  @gwmack           Are there any good resources on connecting R to an netezza SQL server #rstats
+352501476972707840  Jul  3 14:57  @natstann         RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
