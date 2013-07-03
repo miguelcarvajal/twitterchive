@@ -73,3 +73,102 @@
 352377554281299968  Jul  3 06:45  @genetics_blog    SnuffLinks/SnuffDipp2: spitting out even more unsupported RNA-seq isoforms #altbioinf
 352377652495138817  Jul  3 06:45  @genetics_blog    DIIME: microbial community analysis on a budget #altbioinf
 352378063151042560  Jul  3 06:47  @BioMickWatson    MG-PAST: metagenomic analysis of ancient DNA samples #altbioinf
+352378721837137920  Jul  3 06:50  @genetics_blog    glimma: a shiny new R pkg for linear models for microarray #altbioinf
+352378917081980928  Jul  3 06:50  @BioMickWatson    Matelab: software environment to help mathematical biologists find friends #altbioinf
+352379243893768193  Jul  3 06:52  @yokofakun        RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf
+352379524920524802  Jul  3 06:53  @elisadonnard     @AndreiRozanski RT @BioMickWatson: Shamtools: software that pretends to do everything Samtools does, but actually does nothing #altbioinf
+352380042053029891  Jul  3 06:55  @JohnMulley       ARRR: Statistical package for pirates. #altbioinf
+352380322475810816  Jul  3 06:56  @BioMickWatson    RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf
+352380399630028801  Jul  3 06:56  @genetics_blog    Biosemiconductor: all your favorite R packages with none of that pesky documentation #altbioinf
+352381042696523776  Jul  3 06:59  @genetics_blog    TRANSFRACK: a transcription factor binding site database that pollutes your town's groundwater #altbioinf
+352381695523168257  Jul  3 07:01  @JeanFred         .@BioMickWatson Rainbowtie: Ultrafast short read aligner against a continuous spectrum of colours. #Altbioinf
+352382203969290240  Jul  3 07:03  @gedankenstuecke  Blufflinks: Randomly assigns transcripts as differentially expressed and hopes you won't notice. #altbioinf
+352382465056317440  Jul  3 07:05  @JeanFred         .@BioMickWatson MUMmYer: sequence aligner for samples of long-dead humans. #Altbioinf
+352382485771993089  Jul  3 07:05  @JeanFred         RT @BioMickWatson: After my shamtools tweet yesterday, I'm going to start a new hashtag: #altbioinf
+352383643190169602  Jul  3 07:09  @elisadonnard     Can't stop laughing... #altbioinf
+352383962456395777  Jul  3 07:10  @theoneamit       RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf
+352384021365395456  Jul  3 07:11  @ppgardne         RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf
+352384064784830464  Jul  3 07:11  @peri4n           RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf
+352385064165842946  Jul  3 07:15  @OmicsOmicsBlog   RT @BioMickWatson: BioPerl: what you turn to after 4 days of trying to get BioPython to work ;) #altbioinf
+352385803189616640  Jul  3 07:18  @BioMickWatson    SlowQC: more honest quality assessment of NGS data #altbioinf
+352385841336815616  Jul  3 07:18  @BritishBirder    RT @froggleston: BLAST'N: Like BLASTN, but way more funky, yo. #altbioinf
+352386151493017601  Jul  3 07:19  @JeanFred         .@BioMickWatson Pufflinks − Transcript assembly for smokers RNAseq. #Altbioinf
+352386627164844033  Jul  3 07:21  @seanmATed        RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf
+352387289302831105  Jul  3 07:24  @chrisfall        RT @BioMickWatson: BioPerl: what you turn to after 4 days of trying to get BioPython to work ;) #altbioinf
+352387388770758656  Jul  3 07:24  @aaronquinlan     RT @froggleston: Burrows-Wheelie Transform: Chorlton's favourite block-sorting compression algorithm. #altbioinf
+352387435184918528  Jul  3 07:24  @aaronquinlan     RT @paleogenomics: new bedtools utilities, definitely something to sleep on  #altbioinf
+352387747060793344  Jul  3 07:26  @froggleston      You're all DAMfools #altbioinf
+352388499095306242  Jul  3 07:28  @assemblathon     RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf
+352388732793520128  Jul  3 07:29  @froggleston      blastxxx: late-night sequence similarity searching, maybe with a free 10 minute preview. #altbioinf
+352388938385719298  Jul  3 07:30  @kbradnam         RT @pathogenomenick: Return of the MAQ - Heng Li decides BWA was a huge mistake #altbioinf
+352389376648556544  Jul  3 07:32  @assemblathon     The Disassemblathon: a contest to see who can best reverse-engineer an assembly back into its constituent reads #altbioinf
+352389415164846081  Jul  3 07:32  @froggleston      @JeanFred @BioMickWatson I hear Pufflinks works on RASTA files #altbioinf
+352389471238496256  Jul  3 07:32  @kbradnam         RT @assemblathon: The Disassemblathon: a contest to see who can best reverse-engineer an assembly back into its constituent reads #altbioinf
+352389485939531776  Jul  3 07:32  @froggleston      RT @assemblathon: The Disassemblathon: a contest to see who can best reverse-engineer an assembly back into its constituent reads #altbioinf
+352389906565312513  Jul  3 07:34  @BioinfoTools     Cn3D - sensibly displays a rotating letter C #altbioinf
+352390313295364097  Jul  3 07:36  @PhilippBayer     kill-mer: claims to computationally normalize your reads. Actually, just randomly deletes reads. Still leads to better assembly #altbioinf
+352391094178283520  Jul  3 07:39  @JeanFred         RT @froggleston: @JeanFred @BioMickWatson I hear Pufflinks works on RASTA files #altbioinf
+352391623704969218  Jul  3 07:41  @kbradnam         FASTQ+: like the FASTQ format, but with an extra line for storing *another* copy of the sequence identifier that’s on lines 1 & 3 #altbioinf
+352391925262843904  Jul  3 07:42  @froggleston      IMDBA: Produces assemblies based on movie quality scores. #altbioinf
+352393086753710081  Jul  3 07:47  @kbradnam         SAMGFFBEDGTF: one tab-separated format to rule them all #altbioinf
+352393400949018625  Jul  3 07:48  @4a6a5a           RT @kbradnam: SAMGFFBEDGTF: one tab-separated format to rule them all #altbioinf
+352393483346116609  Jul  3 07:48  @kbradnam         RT @JohnMulley: DAMNandBLAST - similarity search tool that always results in *no significant similarity found* #altbioinf
+352393512404262914  Jul  3 07:48  @4a6a5a           RT @assemblathon: The Disassemblathon: a contest to see who can best reverse-engineer an assembly back into its constituent reads #altbioinf
+352393663889948672  Jul  3 07:49  @AlexAlexAlex184  the #altbioinf hashtag is making me laugh today :)
+352393753526407168  Jul  3 07:49  @rbuels           RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf
+352394180280066050  Jul  3 07:51  @gedankenstuecke  BLINK: Easily finds spurios SNP associations which need to get published really quick. #altbioinf
+352394427907575811  Jul  3 07:52  @mdperry          RT @JohnMulley: DAMNandBLAST - similarity search tool that always results in *no significant similarity found* #altbioinf
+352394491627438080  Jul  3 07:52  @kbradnam         GenBankrupt: NCBI sequence database which runs out of space and has to return sequences to depositors. #altbioinf
+352394549844381697  Jul  3 07:53  @mdperry          RT @kbradnam: SAMGFFBEDGTF: one tab-separated format to rule them all #altbioinf
+352395015466651648  Jul  3 07:54  @froggleston      NOPATHS: Always uses a kmer size of 1. #altbioinf
+352395428714659840  Jul  3 07:56  @khedkarsupriya   RT @BioMickWatson: Shamtools: software that pretends to do everything Samtools does, but actually does nothing #altbioinf
+352395708772524034  Jul  3 07:57  @catfishsoftware  RT @kbradnam: GenBankrupt: NCBI sequence database which runs out of space and has to return sequences to depositors. #altbioinf
+352395814829694977  Jul  3 07:58  @khedkarsupriya   RT @JohnMulley: DAMNandBLAST - similarity search tool that always results in *no significant similarity found* #altbioinf
+352396067171606529  Jul  3 07:59  @markbate         RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf
+352396324466982912  Jul  3 08:00  @khedkarsupriya   LOL quite literally! Read #altbioinf and you would too! @plasmabhai @ashwinkalbhor and all bioinfo junta out there-a laughter riot trust me!
+352396389508059138  Jul  3 08:00  @mdperry          @kbradnam FASTQ++ new, improved FASTQ+, now requiring an object-oriented API #altbioinf
+352396597226782720  Jul  3 08:01  @BioMickWatson    The NRA: a bioinformatics repository for short rifles #altbioinf
+352396681637142528  Jul  3 08:01  @ewanbirney       #altbioinf is great, if a little close to the bone sometimes...
+352396727745134594  Jul  3 08:01  @gedankenstuecke  PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf
+352396767473582081  Jul  3 08:01  @BioMickWatson    py + <name>: the python version/library of whatever <name> refers to #altbioinf
+352396890723192833  Jul  3 08:02  @BioMickWatson    <name> + Bayes: the version of <name> that uses Bayesian statistical models #altbioinf
+352396987699703810  Jul  3 08:02  @genetics_blog    RT @ewanbirney: #altbioinf is great, if a little close to the bone sometimes...
+352396988186234880  Jul  3 08:02  @ardalby          @BioMickWatson The NSA: repository - backing up the net #altbioinf
+352397031022657536  Jul  3 08:02  @BioMickWatson    RT @ardalby: @BioMickWatson The NSA: repository - backing up the net #altbioinf
+352397726371160065  Jul  3 08:05  @BioMickWatson    @ewanbirney oh I don't think anyone is really commenting on the tools seriously - all tongue in cheek :) #altbioinf
+352397741659402242  Jul  3 08:05  @kbradnam         rm -f: new sequence compression tool to free up space #altbioinf
+352398420784320512  Jul  3 08:08  @assemblathon     RT @froggleston: Celery: vegetable genome assembler #altbioinf 
+352398441541931008  Jul  3 08:08  @nparmalee        RT @kbradnam: rm -f: new sequence compression tool to free up space #altbioinf
+352398717061566466  Jul  3 08:09  @sjcockell        YoMUMmer - large scale alignment tool with a fine line in creative insults if you get the command wrong #altbioinf
+352398982686846976  Jul  3 08:10  @imogenwright     RT @BioMickWatson: StopThat: useful tool that suggests an alternative spliced aligner every time someone tries to use TopHat #altbioinf
+352399507578814464  Jul  3 08:12  @kbradnam         GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf
+352400614203981824  Jul  3 08:17  @laxvid           RT @laxvid: Alt+<name> performs analysis in an alternate universe and makes no sense to humans #altbioinf
+352400783586766850  Jul  3 08:17  @laxvid           RT @BioMickWatson: @ewanbirney oh I don't think anyone is really commenting on the tools seriously - all tongue in cheek :) #altbioinf
+352400991318065152  Jul  3 08:18  @evolvability     RT @BioMickWatson: ELAND-that-time-forgot: the name says it all #altbioinf
+352401271413669888  Jul  3 08:19  @kbradnam         The Completome: the subset of genome sequencing projects that have no gaps or errors, and contain no Ns (currently zero) #altbioinf
+352401279680659457  Jul  3 08:19  @mgalactus        <name> + 2Go: the version of <name> for lazy sysadmins #altbioinf
+352401296424321024  Jul  3 08:19  @iosefward        RT @BioMickWatson: SlowQC: more honest quality assessment of NGS data #altbioinf
+352401912903114752  Jul  3 08:22  @aaronquinlan     RT @froggleston: NOPATHS: Always uses a kmer size of 1. #altbioinf
+352402051130597376  Jul  3 08:22  @laxvid           reStRA where sequences are laid to rest #altbioinf
+352402745816391680  Jul  3 08:25  @laxvid           Check out #altbioinf tag- seriously funny take on bioinformatics tools @BioMickWatson
+352403177368326146  Jul  3 08:27  @MattBashton      SPY-BLAST searches for Edward Snowdon in international airspace! #falsepositives #altbioinf
+352403221207199746  Jul  3 08:27  @aljazeeraforum6  GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf
+352403383782621185  Jul  3 08:28  @nelidaklannHCew  RT @aljazeeraforum6: GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf
+352403526850318337  Jul  3 08:28  @kbradnam         FASTEH: new sequence file format for Canadians #altbioinf
+352405540242075648  Jul  3 08:36  @froggleston      Brap: Phrap, but more "street". #altbioinf
+352406053905895425  Jul  3 08:38  @jjm101919_       GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf
+352406091029676032  Jul  3 08:38  @jamimmunology    RT @kbradnam: rm -f: new sequence compression tool to free up space #altbioinf
+352406434996166659  Jul  3 08:40  @daanspeth        #maromics2013 check out @BioMickWatson 's #altbioinf tag. Great bioinformatics humor
+352407524185612290  Jul  3 08:44  @4a6a5a           RT @sjcockell: YoMUMmer - large scale alignment tool with a fine line in creative insults if you get the command wrong #altbioinf
+352408596648173568  Jul  3 08:48  @MattBashton      Misfolding@home, wastes console GPU time to misfold proteins and mine bitcoins #altbioinf.
+352408663731871744  Jul  3 08:49  @4a6a5a           TieBow: an ultraslow memory-inefficient short read aligner #altbioinf
+352408931865346048  Jul  3 08:50  @i_am_kilpatrick  RT @sjcockell: YoMUMmer - large scale alignment tool with a fine line in creative insults if you get the command wrong #altbioinf
+352409579910479873  Jul  3 08:52  @JohnMulley       N50Cent: the sequencing metric that all the cool kids are using #altbioinf
+352409600089272320  Jul  3 08:52  @4a6a5a           ShlowCons: a program for identifying evolutionarily conserved elements written in R #altbioinf
+352410017305067520  Jul  3 08:54  @imogenwright     the #altbioinf hashtag is currently cracking me up.  ouch, but hee, but ouch.
+352410137354436609  Jul  3 08:54  @AlexAlexAlex184  Baker: just like Maker but it also bakes the annotations into a very nice pie #altbioinf
+352410497812930561  Jul  3 08:56  @jayhesselberth   RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf
+352410501499731968  Jul  3 08:56  @brent_p          RT @genetics_blog: SnuffLinks/SnuffDipp2: spitting out even more unsupported RNA-seq isoforms #altbioinf
+352410538078253056  Jul  3 08:56  @asiepel          RT @4a6a5a: ShlowCons: a program for identifying evolutionarily conserved elements written in R #altbioinf
+352410973497344004  Jul  3 08:58  @fmarquesmadeira  UnFoldit: a new biogame to unfold protein structures #altbioinf
+352411245565054976  Jul  3 08:59  @AlexAlexAlex184  RT @BioMickWatson: NWA: plays hip-hop instead of running your alignments #altbioinf

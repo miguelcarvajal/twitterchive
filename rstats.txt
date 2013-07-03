@@ -397,8 +397,8 @@
 312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
-312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -10638,3 +10638,10 @@
 352372390304546818  Jul  3 06:24  @hadleywickham    RT @datalies: #rstats + #ggplot2 + #shiny == statistical systems dev bliss #true
 352373121887633409  Jul  3 06:27  @StephanMichard   RT @datalies: #rstats + #ggplot2 + #shiny == statistical systems dev bliss #true
 352377295937343490  Jul  3 06:44  @dickoah          RT @datalies: #rstats + #ggplot2 + #shiny == statistical systems dev bliss #true
+352378570657636353  Jul  3 06:49  @lgatt0           Fixing #rstats NAMED problems in pqR http://radfordneal.wordpress.com/2013/07/02/fixing-rs-named-problems-in-pqr via @feedly
+352380366230798336  Jul  3 06:56  @marcoscan        RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352383408460136448  Jul  3 07:08  @cdhowe           RT @datalies: #rstats + #ggplot2 + #shiny == statistical systems dev bliss #true
+352387499135483904  Jul  3 07:25  @RoyWilds         RT @datalies: #rstats + #ggplot2 + #shiny == statistical systems dev bliss #true
+352394811417964545  Jul  3 07:54  @tassos_g         RT @sean_anderson: Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
+352397452546015233  Jul  3 08:04  @merrillmeahl586  RT @chew143: Any #EMS CQI/QA people using R for processing data? Looking to connect with other R EMS users. #rstats
+352410407895449601  Jul  3 08:56  @Aaron_Baggett    Anytime I get a warning message in ggplot2 I feel like somewhere @hadleywickham is scolding me. #rstats
