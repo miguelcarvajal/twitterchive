@@ -10574,3 +10574,34 @@
 352138048441552898  Jul  2 14:53  @p5k12            RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
 352139082123583489  Jul  2 14:57  @rmflight         RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
 352139301749932033  Jul  2 14:58  @stratosaur       ggmap is going to be my new spatiality http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf #rstats
+352142778890858496  Jul  2 15:12  @gsantosgo        latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352143549229309954  Jul  2 15:15  @pmangg           RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352147375982247939  Jul  2 15:30  @Rbloggers        A Brief Look at Mixture Discriminant Analysis:  (This article was first published on   Category: R |... http://bit.ly/1azn67p #rstats
+352148637763121153  Jul  2 15:35  @joshua_ulrich    Read my #rfinance 2013 write-up MT @hadleywickham: latest edition of the R journal now available at http://goo.gl/oq1Qz #rstats
+352148744604631040  Jul  2 15:36  @kenniajin        RT @RLangTip: Check which packages you have installed with names(installed.packages()[,1]) http://bit.ly/MO2agl #rstats
+352151590829948930  Jul  2 15:47  @eoinbrazil       RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352155119481139200  Jul  2 16:01  @genetics_blog    Interesting- Statistical Software from a Blind Person's Perspective http://journal.r-project.org/archive/2013-1/godfrey.pdf #Rstats
+352162980479242241  Jul  2 16:32  @RyanGrannell     I can't figure out the raison d'être for some #rstats function. Why is the "is.single" function useful?
+352164609593065472  Jul  2 16:39  @OmicsOmicsBlog   RT @genetics_blog: Interesting- Statistical Software from a Blind Person's Perspective http://journal.r-project.org/archive/2013-1/godfrey.pdf #Rstats
+352165387057635329  Jul  2 16:42  @zentree          At university I can use #Rstats, #Stata or #SPSS for teaching stats in Windows & Mac. @SASsoftware asks Mac students to dual boot in 2013?
+352167845444075521  Jul  2 16:52  @OpenCPU          Scaling the R ecosystem: Possible Directions for Improving Dependency Versioning http://blog.opencpu.org/2013/07/possible-directions-for-improving-dependency-versioning-in-r/ #rstats
+352167989572943873  Jul  2 16:52  @RyanGrannell     RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352168773836476416  Jul  2 16:55  @Sakkaden         RT @zentree: At university I can use #Rstats, #Stata or #SPSS for teaching stats in Windows & Mac. @SASsoftware asks Mac students to dual boot in 2013?
+352176284471799811  Jul  2 17:25  @sumtxt           RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352180262211293186  Jul  2 17:41  @siah             R On Cloud http://ow.ly/mzBiP #rstats
+352181032948215808  Jul  2 17:44  @adamlaiacano     @siah uh oh: [Previously saved workspace restored] #rstats
+352182298281656320  Jul  2 17:49  @ddossot          Ubuntu auto-upgraded R to 3.0.1, which totally wreaked my libraries. After blowing site-library/ and re-installing, all is fine. #rstats
+352182335308972033  Jul  2 17:49  @sheriter         RT @siah: R On Cloud http://ow.ly/mzBiP #rstats
+352184783419351041  Jul  2 17:59  @amcrisan         RT @genetics_blog: Interesting- Statistical Software from a Blind Person's Perspective http://journal.r-project.org/archive/2013-1/godfrey.pdf #Rstats
+352189041971707904  Jul  2 18:16  @sean_anderson    Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
+352189950411804672  Jul  2 18:20  @sean_anderson    Translating probability density functions between #rstats and BUGS. Includes a useful table and an R function: http://journal.r-project.org/archive/2013-1/lebauer-dietze-bolker.pdf [PDF]
+352193642313691136  Jul  2 18:34  @ndronen          Introduction to SparseNet http://www.slideshare.net/ndronen/sparsenet #rstats #machinelearning
+352195814707310592  Jul  2 18:43  @KevinLDavenport  Excited for @useR_2013 but worried about the dollar exchange rates plus bank fees haha #rstats
+352196621456515072  Jul  2 18:46  @hadleywickham    RT @sean_anderson: Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
+352202864124370944  Jul  2 19:11  @ian_hardy        I want to learn this! amazing: http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf #rstats
+352205254038786048  Jul  2 19:20  @flowingdata      RT @sean_anderson: Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
+352205788204371968  Jul  2 19:22  @thecristen       RT @sean_anderson: Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
+352211491967086592  Jul  2 19:45  @yutannihilation  RT @sean_anderson: Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
+352212450403287040  Jul  2 19:49  @cpsievert        +1 MT @sean_anderson: Unwin, @heike_hh, and @visnut call for more graphics in R package examples. Agreed! #rstats http://buff.ly/18ubi5I
+352216570963042304  Jul  2 20:05  @kuun_peal        Lavaan tutorial was helpful in understanding how to do CFA in #R: http://lavaan.ugent.be/tutorial/tutorial.pdf#section.4. Fits nicely w/ Raykov & Marcoulides (2008) #rstats
+352227647583043584  Jul  2 20:49  @frenchrh         RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
