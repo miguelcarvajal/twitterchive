@@ -10718,3 +10718,14 @@
 352579978484920320  Jul  3 20:09  @GrunerDaniel     @se_hampton @nceas impossible #rstats desert island question. R pckgs have dependencies. Include those carefully, backdoor dozens to island!
 352581084912951297  Jul  3 20:14  @nachocaballero   RT @ramnath_vaidya: rCharts reaches 100 stars on github :) #rstats #rCharts http://t.co/61YbnO1Iiz
 352591231961939968  Jul  3 20:54  @jkiernander      http://dimplejs.org now has full support for time axes. Read more here: http://bit.ly/10AqQQw.  #d3js #rstats #dataviz #infographics
+352605932842266624  Jul  3 21:53  @hadleywickham    RT @sharon000: MT @johannux: R helps blind people conduct data analysis with #dataviz add-on BrailleR http://journal.r-project.org/archive/2013-1/godfrey.pdf #rstats
+352607396000038913  Jul  3 21:58  @IanDworkin       reading new statistical machine learning book by James, Witten, Hastie & Tibshriana "An Introduction to Statistical learning" #ISL #rstats
+352608366180315137  Jul  3 22:02  @IanDworkin       #ISW #rstats Introduction to Statistical Learning. James, Witten, Hastie & Tibshriana http://bit.ly/124eD4j Very clear and intuitive ch1&2
+352609514505252864  Jul  3 22:07  @IanDworkin       #ISW #rstats @ethanwhite @JohnDCook ch2 clear discussion of bias-variance trade-off. Great for new grad students. http://bit.ly/124eD4j
+352610150567256064  Jul  3 22:09  @timelyportfolio  RT @jkiernander: http://dimplejs.org now has full support for time axes. Read more here: http://bit.ly/10AqQQw.  #d3js #rstats #dataviz #infographics
+352610263373062144  Jul  3 22:10  @IanDworkin       #ISW #Rstats Tibshriana supposed to be Tibshriani. I should not type when sleepy.
+352610514217607170  Jul  3 22:11  @slendrmeans      One thing I miss in #pythonpandas is a data browser like edit(df) in #rstats. head() and tail() don't always cut it.
+352616956781805568  Jul  3 22:36  @emilysdarling    #ggplot! MT @se_hampton @nceas: if you are going to a desert island and can only have 1 #rstats package, what would it be? @hadleywickham
+352649863873306625  Jul  4 00:47  @decaux           RT @sharon000: MT @johannux: R helps blind people conduct data analysis with #dataviz add-on BrailleR http://journal.r-project.org/archive/2013-1/godfrey.pdf #rstats
+352673486243762176  Jul  4 02:21  @andyjudson       RT @sharon000: MT @johannux: R helps blind people conduct data analysis with #dataviz add-on BrailleR http://journal.r-project.org/archive/2013-1/godfrey.pdf #rstats
+352675299512684547  Jul  4 02:28  @berndweiss       nice, there is a new CRAN Task View: Meta-Analysis http://cran.r-project.org/web/views/MetaAnalysis.html #rstats #metaanalysis
