@@ -10699,3 +10699,22 @@
 352495698429739008  Jul  3 14:34  @ebaste           RT @jmgomez: Customize your .Rprofile and Keep Your Workspace Clean http://ow.ly/mBqdX #Rstats
 352500935798427650  Jul  3 14:55  @gwmack           Are there any good resources on connecting R to an netezza SQL server #rstats
 352501476972707840  Jul  3 14:57  @natstann         RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352504752803811328  Jul  3 15:10  @cocoahn          RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352507663227158529  Jul  3 15:22  @tatvic           RT @hugoguzman: Predictive analysis on Web Analytics tool data http://www.tatvic.com/blog/predictive-analysis-on-web-analytics-tool-data/ via @tatvic #measure #rstats
+352514481659707392  Jul  3 15:49  @Ellen_Friedman   RT @cloudHPC: http://blog.comsysto.com/2013/07/03/tdwi-conference-2013-and-more-big-data-with-r/ it was a #bigdata pleasure to be part of #TDWI conference munich 2013 with #rstats tutorial @mapr and @comsysto
+352524165301026816  Jul  3 16:28  @amestadmx        RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352525909556862977  Jul  3 16:35  @CoreySparks1     some great stuff in The R journal – Volume 5/1 esp the piece using ggmap by @hadleywickham http://www.r-bloggers.com/the-r-journal-volume-51-june-2013/ via @rbloggers #rstats
+352528072945307648  Jul  3 16:43  @treycausey       Today, I am very thankful that I found this @johnmyleswhite post on sparse matrices in #rstats http://www.johnmyleswhite.com/notebook/2011/10/31/using-sparse-matrices-in-r/
+352529703816527872  Jul  3 16:50  @treycausey       Sparse model matrices for generalized linear models in #rstats http://www.r-project.org/conferences/useR-2010/slides/Maechler+Bates.pdf
+352534001245896704  Jul  3 17:07  @johannux         RT @sharon000: MT @johannux: R helps blind people conduct data analysis with #dataviz add-on BrailleR http://journal.r-project.org/archive/2013-1/godfrey.pdf #rstats
+352536432914612225  Jul  3 17:16  @JGreenbrookHeld  I have a whole bunch of files I need to convert from xls (or xlsx) to csv - any suggestions? #lazyweb #rstats
+352552516082348032  Jul  3 18:20  @Rbloggers        Fun with random effects in loss reserving:  (This article was first published on   PirateGrunt » R, ... http://bit.ly/19Zi7gT #rstats
+352552980962217985  Jul  3 18:22  @dangerousp       RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352556737896779776  Jul  3 18:37  @ramnarasimhan    Using R and Integer programming to find solutions to FlowFree #puzzles #rstats #minflow #lpSolve http://datadoodlers.blogspot.com/2013/07/using-r-and-integer-programming-to-find.html
+352566015214882816  Jul  3 19:14  @Rbloggers        Plan B:  (This article was first published on   Gianluca Baio's blog, and kindly contributed to R-bl... http://bit.ly/19ZrRYs #rstats
+352575942167756801  Jul  3 19:53  @NestorMontano    Predictive analysis on Web Analytics tool data http://www.tatvic.com/blog/predictive-analysis-on-web-analytics-tool-data/ #RStats
+352576057712447488  Jul  3 19:54  @NestorMontano    A Brief Look at Mixture Discriminant Analysis http://ramhiser.com/blog/2013/07/02/a-brief-look-at-mixture-discriminant-analysis/ #RStats
+352579081373626370  Jul  3 20:06  @se_hampton       #nceasSI discusses @nceas: if you are going to a desert island and can only have 1 #rstats package, what would it be?
+352579978484920320  Jul  3 20:09  @GrunerDaniel     @se_hampton @nceas impossible #rstats desert island question. R pckgs have dependencies. Include those carefully, backdoor dozens to island!
+352581084912951297  Jul  3 20:14  @nachocaballero   RT @ramnath_vaidya: rCharts reaches 100 stars on github :) #rstats #rCharts http://t.co/61YbnO1Iiz
+352591231961939968  Jul  3 20:54  @jkiernander      http://dimplejs.org now has full support for time axes. Read more here: http://bit.ly/10AqQQw.  #d3js #rstats #dataviz #infographics
