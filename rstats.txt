@@ -10729,3 +10729,24 @@
 352649863873306625  Jul  4 00:47  @decaux           RT @sharon000: MT @johannux: R helps blind people conduct data analysis with #dataviz add-on BrailleR http://journal.r-project.org/archive/2013-1/godfrey.pdf #rstats
 352673486243762176  Jul  4 02:21  @andyjudson       RT @sharon000: MT @johannux: R helps blind people conduct data analysis with #dataviz add-on BrailleR http://journal.r-project.org/archive/2013-1/godfrey.pdf #rstats
 352675299512684547  Jul  4 02:28  @berndweiss       nice, there is a new CRAN Task View: Meta-Analysis http://cran.r-project.org/web/views/MetaAnalysis.html #rstats #metaanalysis
+352689863390269441  Jul  4 03:26  @recology_        RT @berndweiss: nice, there is a new CRAN Task View: Meta-Analysis http://cran.r-project.org/web/views/MetaAnalysis.html #rstats #metaanalysis
+352698998143983616  Jul  4 04:02  @jmgomez          #Web #Analytics Visualization through ggplot2 http://ow.ly/mBqO5 #rstats #dataviz
+352702278408482816  Jul  4 04:15  @PageViral        RT @jmgomez: #Web #Analytics Visualization through ggplot2 http://ow.ly/mBqO5 #rstats #dataviz
+352706564982980609  Jul  4 04:32  @drwandel         @useR_2013 this is the worst timetable ever! doing ALL bioscience sessions on one day parallel is madness. #rstats #useR2013
+352706757086281728  Jul  4 04:33  @_NickGolding_    RT @berndweiss: nice, there is a new CRAN Task View: Meta-Analysis http://cran.r-project.org/web/views/MetaAnalysis.html #rstats #metaanalysis
+352706912070008832  Jul  4 04:34  @fitsolutionsmy   RT @jmgomez: #Web #Analytics Visualization through ggplot2 http://ow.ly/mBqO5 #rstats #dataviz
+352709288768176128  Jul  4 04:43  @EpiFunky         RT @berndweiss: nice, there is a new CRAN Task View: Meta-Analysis http://cran.r-project.org/web/views/MetaAnalysis.html #rstats #metaanalysis
+352714689735688193  Jul  4 05:05  @cuche27          Vous utilisez R et êtes à Paris ? Venez rencontrer la communauté R au meetup Paris R Addicts mardi prochain. #rstats http://www.meetup.com/rparis/events/124508332/
+352715092816703489  Jul  4 05:06  @abolibibelot     RT @cuche27: Vous utilisez R et êtes à Paris ? Venez rencontrer la communauté R au meetup Paris R Addicts mardi prochain. #rstats http://t.co/4PhgmeU3ez
+352715946022019072  Jul  4 05:10  @vlaavlaa         RT @cuche27: Vous utilisez R et êtes à Paris ? Venez rencontrer la communauté R au meetup Paris R Addicts mardi prochain. #rstats http://t.co/4PhgmeU3ez
+352716795427295233  Jul  4 05:13  @Aemaeth          RT @cuche27: Vous utilisez R et êtes à Paris ? Venez rencontrer la communauté R au meetup Paris R Addicts mardi prochain. #rstats http://t.co/4PhgmeU3ez
+352735581459066880  Jul  4 06:28  @yaacovp          The REL-Southeast is hiring a methodologist! Go to https://jobs.fsu.edu./ Job ID 35912 cc: @AERA_EdResearch @educationweek  #rstats
+352736861355126784  Jul  4 06:33  @drsong           RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+352739494711136257  Jul  4 06:43  @jjmullz          Hierarchical cluster analysis output, visualised with #rstats and #ggplot2.  Powerful stuff. http://t.co/XjtLOHzZ40
+352743119994892288  Jul  4 06:58  @bayestheoremqed  RT @ramhiser: New blog post: A Brief Look at Mixture Discriminant Analysis http://ramhiser.com/blog/2013/07/02/a-brief-look-at-mixture-discriminant-analysis/ #rstats #machinelearning
+352752793028804608  Jul  4 07:36  @useR_2013        RT @drwandel: @useR_2013 this is the worst timetable ever! doing ALL bioscience sessions on one day parallel is madness. #rstats #useR2013
+352752843993780225  Jul  4 07:36  @useR_2013        RT @KevinLDavenport: Excited for @useR_2013 but worried about the dollar exchange rates plus bank fees haha #rstats
+352755291533742080  Jul  4 07:46  @useR_2013        The R Journal is out, and there is a note for #useR2013 http://journal.r-project.org/archive/2013-1/ #rstats
+352756392999919616  Jul  4 07:50  @kite_africa      Spatial correlograms in #rstats: a mini overview by @R_you_cereal #spatialautocorrelation
+352757095461945344  Jul  4 07:53  @sidderb          reshape - where have you been all my life?! http://had.co.nz/reshape/ #Rstats
+352768122681425921  Jul  4 08:37  @tim_yates        most languages: a + ':' + b + '...' + c #Rstats: paste( a, paste( b, c, sep='...' ), sep=':' )
