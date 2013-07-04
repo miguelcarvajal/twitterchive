@@ -10750,3 +10750,38 @@
 352756392999919616  Jul  4 07:50  @kite_africa      Spatial correlograms in #rstats: a mini overview by @R_you_cereal #spatialautocorrelation
 352757095461945344  Jul  4 07:53  @sidderb          reshape - where have you been all my life?! http://had.co.nz/reshape/ #Rstats
 352768122681425921  Jul  4 08:37  @tim_yates        most languages: a + ':' + b + '...' + c #Rstats: paste( a, paste( b, c, sep='...' ), sep=':' )
+352780349543153666  Jul  4 09:26  @Malarky67        RStudio Server Amazon Machine Image (AMI) At last! #rstats #thx  http://www.louisaslett.com/RStudio_AMI/
+352785334179860481  Jul  4 09:45  @phnk             Les Rencontres R 2014 devraient être à Montpellier ; cf. fin du podcast : http://www.lesenragesducompost.com/voyage-au-pays-de-r.php #rstats
+352791134176681985  Jul  4 10:08  @Rbloggers        My take on the USA versus Western Europe comparison of GM corn:  (This article was first published o... http://bit.ly/1a22MML #rstats
+352791979211493377  Jul  4 10:12  @Malarky67        #rstats #rcpp #seqan Rcpp multithreading surprise http://wp.me/p338Pj-3M via @Malarky67
+352792099491553281  Jul  4 10:12  @algoriffic       We're hiring Data Scientists: http://lnkd.in/Y9KWzE #rstats #scala #d3 #hadoop #python
+352792516644438017  Jul  4 10:14  @algoriffic       We're hiring InfoViz experts and Front-End developers: http://lnkd.in/fZRdVN #javascript  #d3 #ggplot2 #rstats
+352802763287166976  Jul  4 10:55  @recology_        RT @Malarky67: RStudio Server Amazon Machine Image (AMI) At last! #rstats #thx  http://www.louisaslett.com/RStudio_AMI/
+352807486564216833  Jul  4 11:13  @DrMathochist     RT @algoriffic: We're hiring Data Scientists: http://lnkd.in/Y9KWzE #rstats #scala #d3 #hadoop #python
+352807493308649472  Jul  4 11:13  @DrMathochist     RT @algoriffic: We're hiring InfoViz experts and Front-End developers: http://lnkd.in/fZRdVN #javascript  #d3 #ggplot2 #rstats
+352809003916607489  Jul  4 11:19  @mwpennell        teaching #Rstats to windows users. what is the command to execute a single line in R script. (the equivalent of CMD+Enter in Macs)
+352809033629044736  Jul  4 11:20  @se_hampton       MT @emilysdarling: #ggplot! MT @se_hampton: desert island and can only have 1 #rstats package, what would it be? @hadleywickham #nceasSI
+352820440240103426  Jul  4 12:05  @hpj28            #nceasSI There is a new CRAN Task View: Meta-Analysis http://cran.r-project.org/web/views/MetaAnalysis.html #rstats #metaanalysis
+352821372042493953  Jul  4 12:09  @RLangTip         R debugging tricks: http://bit.ly/NPG1Nz #rstats (via @vsbuffalo)
+352828537398493184  Jul  4 12:37  @MichelBallings   RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352833456348205056  Jul  4 12:57  @ianjacobs        RT @RLangTip: R debugging tricks: http://bit.ly/NPG1Nz #rstats (via @vsbuffalo)
+352834098185781248  Jul  4 12:59  @joelgombin       @samuelrufat @laspic @phnk @coulmont @freakonomics @SH_lelabo ou R, voir l'un de mes tweets précédents ;-) #Rstats #4ever
+352834811729149953  Jul  4 13:02  @SamuelRufat      @joelgombin @laspic @phnk @coulmont @SH_lelabo oui mais pour les rendus carto #QGIS est bcp plus facile d'accès et il a un plugin #Rstats ;)
+352835377272324097  Jul  4 13:04  @vsbuffalo        RT @RLangTip: R debugging tricks: http://bit.ly/NPG1Nz #rstats (via @vsbuffalo)
+352836293794873344  Jul  4 13:08  @chlalanne        RT @drago_carlo: MIxture Discriminant Analysis http://www.r-bloggers.com/a-brief-look-at-mixture-discriminant-analysis/ @Prismatic @Rbloggers #Statistics #DataMining #MachineLearning #Rstats
+352842595556274176  Jul  4 13:33  @quandl           Beginner’s guide to R: resources to move beyond the basics by @sharon000 http://qndl.co/124yPS7 #rstats #data
+352843630878261248  Jul  4 13:37  @datalies         @hadleywickham @recology_ @ethanwhite @mwpennell ...can't really take advantage of a multiple-monitor setup - not that I'm aware of. #rstats
+352844960434880512  Jul  4 13:42  @Bioinfomatic     RT @RLangTip: R debugging tricks: http://bit.ly/NPG1Nz #rstats (via @vsbuffalo)
+352846995641212931  Jul  4 13:50  @rOpenSci         [Blog] From occurrence data to interactive maps on the web http://bit.ly/13nV0KP #rstats @USGS #geojson
+352847005250363392  Jul  4 13:50  @recology_        RT @rOpenSci: [Blog] From occurrence data to interactive maps on the web http://bit.ly/13nV0KP #rstats @USGS #geojson
+352851047166910464  Jul  4 14:06  @GuillemSalazar   “@rOpenSci: [Blog] From occurrence data to interactive maps on the web http://bit.ly/13nV0KP #rstats @USGS #geojson”
+352858543600320513  Jul  4 14:36  @jaynal83         @statslabdublin @useR_2013 I got mail that both tour cancel due to insufficient participants. #rstats
+352858845623762944  Jul  4 14:37  @chlalanne        RT @rOpenSci: [Blog] From occurrence data to interactive maps on the web http://bit.ly/13nV0KP #rstats @USGS #geojson
+352858858496077824  Jul  4 14:38  @jaynal83         RT @KevinLDavenport: Excited for @useR_2013 but worried about the dollar exchange rates plus bank fees haha #rstats
+352858880553918466  Jul  4 14:38  @jaynal83         RT @drwandel: @useR_2013 this is the worst timetable ever! doing ALL bioscience sessions on one day parallel is madness. #rstats #useR2013
+352860455842226178  Jul  4 14:44  @chlalanne        RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352861281486766082  Jul  4 14:47  @258r             RT @RLangTip: R debugging tricks: http://bit.ly/NPG1Nz #rstats (via @vsbuffalo)
+352861435757477890  Jul  4 14:48  @i_314            RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+352861495324975104  Jul  4 14:48  @frod_san         RT @berndweiss: nice, there is a new CRAN Task View: Meta-Analysis http://cran.r-project.org/web/views/MetaAnalysis.html #rstats #metaanalysis
+352862701455802370  Jul  4 14:53  @lepeavey         RT @rOpenSci: [Blog] From occurrence data to interactive maps on the web http://bit.ly/13nV0KP #rstats @USGS #geojson
+352863238771310592  Jul  4 14:55  @graemeleehickey  Finalising #rstats code to analyse aortic valve implant data for all of UK @SCTSUK clinical registry @Medtronic_Inc @Vascutek
