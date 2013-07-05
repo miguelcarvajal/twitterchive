@@ -10826,3 +10826,31 @@
 353124157459939328  Jul  5 08:12  @GenomicsIo       And here is a nice presentation about Gviz with great examples of the capabilities http://www.bioconductor.org/help/course-materials/2012/BiocEurope2012/GvizEuropeanBioc2012.pdf #bioconductor #Rstats
 353127215854133248  Jul  5 08:24  @mwanger          seems to be nice for publication figure "@GenomicsIo: Gviz has rapidly become my favorite #bioconductor  http://www.bioconductor.org/packages/release/bioc/html/Gviz.html #Rstats"
 353135573755633669  Jul  5 08:57  @RametteA         RT @sharon000: MT @johannux: R helps blind people conduct data analysis with #dataviz add-on BrailleR http://journal.r-project.org/archive/2013-1/godfrey.pdf #rstats
+353136843073658881  Jul  5 09:02  @hadleywickham    RT @marc_rr: Impressive rise of mentions of #Rstats and #GeneOntology in BMC #Bioinformatics http://www.biomedcentral.com/1471-2105/14/194 http://t.co/RzXtbTb86s
+353137459720241152  Jul  5 09:05  @orlandomezquita  Creating a word document from an R script: http://bit.ly/14QMZK5 #rstats
+353137506465751042  Jul  5 09:05  @RametteA         RT @datalies: #rstats + #ggplot2 + #shiny == statistical systems dev bliss #true
+353140448656769024  Jul  5 09:16  @quandl           Learning resources for time series #data with R http://qndl.co/12qWbFV #rstats
+353158138448449538  Jul  5 10:27  @mj_kallen        .@bedatadriven is getting ready to present Renjin to the #rstats community at #user2013 next week: http://www.renjin.org/blog/2013-06-27-preparing-to-launch-renjin-at-user2013.html
+353163758845173760  Jul  5 10:49  @KognitioCloud    Using #Rstats ‘helps automate data #analysis’ | #AnalyticsNews http://www.kognitio.com/using-r-helps-automate-data-analysis-2/ via @Kognitio
+353164831202869251  Jul  5 10:53  @big_dion_b       RT @quandl: Beginner’s guide to R: resources to move beyond the basics by @sharon000 http://qndl.co/124yPS7 #rstats #data
+353166388975763458  Jul  5 11:00  @sharon000        Think I'd use GIS SW :) but here's a tutorial to map Supreme Court decisions with R http://bit.ly/1a5eohR #gis #rstats via @Rbloggers
+353173174474641409  Jul  5 11:27  @ucfagls          How do you place segmentGrobs() in a **ggplot** plot margin so the segments join known coordinates? http://stackoverflow.com/q/17492230/429846 #rstats
+353176980612591617  Jul  5 11:42  @PPUAMX           RT @RLangTip: R debugging tricks: http://bit.ly/NPG1Nz #rstats (via @vsbuffalo)
+353183816791240705  Jul  5 12:09  @RLangTip         Convert a comma-separated string to a vector: strsplit("red,green,blue",",")[[1]] #rstats http://bit.ly/Jz3aVm
+353183965827448832  Jul  5 12:09  @AnalyticsPierce  RT @RLangTip: Convert a comma-separated string to a vector: strsplit("red,green,blue",",")[[1]] #rstats http://bit.ly/Jz3aVm
+353184848137035776  Jul  5 12:13  @Gliders_Coach    the best song for hackers #rstats http://www.youtube.com/watch?v=ThAt6eV6APw Eye to Eye
+353185789007503362  Jul  5 12:17  @PPUAMX           RT @RLangTip: Convert a comma-separated string to a vector: strsplit("red,green,blue",",")[[1]] #rstats http://bit.ly/Jz3aVm
+353185820666109952  Jul  5 12:17  @nextgenseek      Looks interesting. The Cartoon Introduction to Statistics. http://www.amazon.com/Cartoon-Introduction-Statistics-Grady-Klein/dp/0809033593/ref=sr_1_1?s=books&ie=UTF8&qid=1366770785&sr=1-1# #rstats
+353189781821329410  Jul  5 12:33  @jmgomez          Parse arguments of an R script http://ow.ly/mC1na #rstats #tip
+353199109643042817  Jul  5 13:10  @SamuelRufat      Manuel #Rstats pour les géographes: #ElementR http://elementr.parisgeo.cnrs.fr #parisgeo
+353200221326557185  Jul  5 13:14  @OmoNsasi         RT @jmgomez: Parse arguments of an R script http://ow.ly/mC1na #rstats #tip
+353200655306981376  Jul  5 13:16  @CarsonFarmer     New #GWR #rstats package now available on #CRAN: http://gwr.nuim.ie/?p=104
+353202494530265091  Jul  5 13:23  @quandl           Is Julia better then R? http://qndl.co/14BeQxl #rstats #analytics
+353205026665144320  Jul  5 13:33  @kenniajin        RT @RLangTip: Convert a comma-separated string to a vector: strsplit("red,green,blue",",")[[1]] #rstats http://bit.ly/Jz3aVm
+353211756799197186  Jul  5 14:00  @PageViral        RT @quandl: Is Julia better then R? http://qndl.co/14BeQxl #rstats #analytics
+353214594610769921  Jul  5 14:11  @YhatHQ           @johnmyleswhite - Does this exist in #Rstats? https://github.com/johnmyleswhite/SimilarityMetrics.jl
+353220131209494529  Jul  5 14:33  @YhatHQ           Not statisfied w/ the examples in the #Rstats docs? try searching gists: https://gist.github.com/search?q=library(plyr)
+353221894666850306  Jul  5 14:40  @statisticsblog   How to solve the Hat Trick. http://i.cx/11kEKJd #R #RStats #Probability
+353222274343641088  Jul  5 14:42  @BernardSlede     Thank you!“@mjcavaretta: Like the #rstats as a service. MT#BigData #startup @Algorithms_IO "Most Likely to Succeed"  http://bit.ly/11tqsQM”
+353226164057284609  Jul  5 14:57  @hylopsar         coded a bayesian phylogenetic regression using #rstats #stan based on Blomberg etal 2010; comments welcome https://gist.github.com/rmaia/5936508
+353226682360012803  Jul  5 14:59  @hylopsar         goal to add phylo unc based on trees sample (sensu http://sysbio.oxfordjournals.org/content/61/3/382.full & http://www.biomedcentral.com/1471-2148/12/102); unsure how to add mixture #rstats #stan
