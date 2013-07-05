@@ -10812,3 +10812,17 @@
 353033422031159297  Jul  5 02:11  @sjackman         RT @RLangTip: R debugging tricks: http://bit.ly/NPG1Nz #rstats (via @vsbuffalo)
 353039138477441025  Jul  5 02:34  @marc_rr          Impressive rise of mentions of #Rstats and #GeneOntology in BMC #Bioinformatics http://www.biomedcentral.com/1471-2105/14/194 http://t.co/RzXtbTb86s
 353041863688720384  Jul  5 02:45  @amrojasmendoza   RT @marc_rr: Impressive rise of mentions of #Rstats and #GeneOntology in BMC #Bioinformatics http://www.biomedcentral.com/1471-2105/14/194 http://t.co/RzXtbTb86s
+353063927309025280  Jul  5 04:12  @SergeyKochergan  «Workshop: Распознаем движения человека, используя R» на DOU http://dou.ua/calendar/3562/#.UdZ-HqNIw-s.twitter via @devua #rworkshop #kharkiv #Kharkov #rstats
+353064654483881984  Jul  5 04:15  @SergeyKochergan  RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+353065724190797825  Jul  5 04:20  @tatvic           RT @NestorMontano: Predictive analysis on Web Analytics tool data http://www.tatvic.com/blog/predictive-analysis-on-web-analytics-tool-data/ #RStats
+353073408612896769  Jul  5 04:50  @Rbloggers        ggplot2 Chloropleth of Supreme Court Decisions: A Tutorial:  (This article was first published on   ... http://bit.ly/1a5eohR #rstats
+353094339381043200  Jul  5 06:13  @marcoscan        RT @rOpenSci: [Blog] From occurrence data to interactive maps on the web http://bit.ly/13nV0KP #rstats @USGS #geojson
+353095679834456064  Jul  5 06:19  @richierocks      What's the point of a .First function in #rstats? http://bit.ly/16SKE2B
+353107858361032704  Jul  5 07:07  @geschichtenpost  @ReinerGrundmann not done that. I think there are #rstats packages to do it. I think @CountCarbon may have analysed twitter-data?
+353109961544441856  Jul  5 07:15  @frod_san         @hadleywickham @rOpenSci Is it possible to update all packages installed from GitHub at once? Similar to update.packages... Thanks #rstats
+353115216998973440  Jul  5 07:36  @timelyportfolio  "FilzbachR" filzbach -> #rstats http://feedly.com/k/19YzXx4
+353121719453630466  Jul  5 08:02  @dargosch         @hadleywickham Me thinks one should have a look at Haddock as an inspiration for simplicity in code documentation. #rstats
+353123169764245504  Jul  5 08:08  @GenomicsIo       Gviz has rapidly become my favorite #bioconductor package for visualizing our sequencing (and array) data http://www.bioconductor.org/packages/release/bioc/html/Gviz.html #Rstats
+353124157459939328  Jul  5 08:12  @GenomicsIo       And here is a nice presentation about Gviz with great examples of the capabilities http://www.bioconductor.org/help/course-materials/2012/BiocEurope2012/GvizEuropeanBioc2012.pdf #bioconductor #Rstats
+353127215854133248  Jul  5 08:24  @mwanger          seems to be nice for publication figure "@GenomicsIo: Gviz has rapidly become my favorite #bioconductor  http://www.bioconductor.org/packages/release/bioc/html/Gviz.html #Rstats"
+353135573755633669  Jul  5 08:57  @RametteA         RT @sharon000: MT @johannux: R helps blind people conduct data analysis with #dataviz add-on BrailleR http://journal.r-project.org/archive/2013-1/godfrey.pdf #rstats
