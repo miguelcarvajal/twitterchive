@@ -10893,3 +10893,9 @@
 353314203634909186  Jul  5 20:47  @amestadmx        RT @RLangTip: R debugging tricks: http://bit.ly/NPG1Nz #rstats (via @vsbuffalo)
 353315819960270848  Jul  5 20:53  @mattmoehr        An #rstats package for it? RT @NietzscheQuotes: We hear only those questions for which we are in a position to find answers.  #Nietzsche
 353316102656364545  Jul  5 20:54  @SardelichM       Excellent book on how to implement #parallel coding in #rstats (including #multicore, #MPI, #GPU C Call, ...): http://heather.cs.ucdavis.edu/~matloff/158/PLN/ParProcBook.pdf
+353326864548376577  Jul  5 21:37  @MarekHlavac      stargazer 4.0 now on CRAN: LaTeX and ASCII text tables from R stats output, now with confidence intervals, new models and more #rstats
+353341142412181504  Jul  5 22:34  @SuaJorge         “@SardelichM: Excellent book on how to implement #parallel coding in #rstats (http://heather.cs.ucdavis.edu/~matloff/158/PLN/ParProcBook.pdf” @diegomanule  @uladanielp
+353341569291649026  Jul  5 22:36  @uladanielp       RT @SuaJorge: “@SardelichM: Excellent book on how to implement #parallel coding in #rstats (http://heather.cs.ucdavis.edu/~matloff/158/PLN/ParProcBook.pdf” @diegomanule  @uladanielp
+353367087684657152  Jul  6 00:17  @rvidal           In which it’s Friday night and I’m working on some R projects. #rstats
+353382959123927041  Jul  6 01:20  @Rbloggers        Allocation Models With Bounded Dependent Variables:  (This article was first published on   Economet... http://bit.ly/1aLy1eg #rstats
+353399470114881536  Jul  6 02:26  @jmgomez          RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats one on #textmining
