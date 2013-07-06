@@ -2486,3 +2486,7 @@
 353377117112770560  Jul  6 00:57  @antiplastics     RNA-Seqパイプラインまとめ（知識）https://sites.google.com/site/scriptofbioinformatics/ngs-guan-xi/rna-seqpaipurainmatome-zhi-shi
 353388454547177473  Jul  6 01:42  @widdowquinn      RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
 353396327473889280  Jul  6 02:13  @healthspace1     Investigating host dependence of xylose utilization in recombinant Saccharomyces cerevisiae strains using RNA-seq analysis ...
+353431058416549888  Jul  6 04:31  @antiplastics     「A comparison of methods for differential expression analysis of RNA-Seq data」 RNA-Seq手法の比較論文 http://www.biomedcentral.com/content/pdf/1471-2105-14-91.pdf #Everydayペーパー
+353431392887123970  Jul  6 04:33  @antiplastics     人口データとRNA-Seqデータの両方で比較した。正規化はTMMだけに限定。 #Everydayペーパー
+353431481768615936  Jul  6 04:33  @antiplastics     [データについて] 人口データ: Negative Binomial, Poissonでデータをサンプリング。そのままのもの、1つ外れ値を追加、10％の遺伝子をランダムに選び外れ値、生データ: 3つのRNA-Seqデータ。うち一つは論文になってるもの。 #Everydayペーパー
+353453695758897152  Jul  6 06:01  @Fish_Genomics    RNA seq applied to understand metal toxicity in plants: http://pubs.acs.org/doi/abs/10.1021/es401082h
