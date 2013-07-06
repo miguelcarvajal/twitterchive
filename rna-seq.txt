@@ -2490,3 +2490,5 @@
 353431392887123970  Jul  6 04:33  @antiplastics     人口データとRNA-Seqデータの両方で比較した。正規化はTMMだけに限定。 #Everydayペーパー
 353431481768615936  Jul  6 04:33  @antiplastics     [データについて] 人口データ: Negative Binomial, Poissonでデータをサンプリング。そのままのもの、1つ外れ値を追加、10％の遺伝子をランダムに選び外れ値、生データ: 3つのRNA-Seqデータ。うち一つは論文になってるもの。 #Everydayペーパー
 353453695758897152  Jul  6 06:01  @Fish_Genomics    RNA seq applied to understand metal toxicity in plants: http://pubs.acs.org/doi/abs/10.1021/es401082h
+353517377826193408  Jul  6 10:14  @razZ0r           [rss] "A ... http://www.rna-seqblog.com/data-analysis/expression-tools/a-comparison-of-methods-for-rna-seq-differential-expression-analysis/
+353573912757551104  Jul  6 13:59  @JMBstemcell      BUBBLES!!!  More fun and informative than RNA-Seq. @GusThePolice @mc_gutty @willschachterle @FreyesGeo http://t.co/JyPeCeU8VW

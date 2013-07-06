@@ -10903,3 +10903,9 @@
 353439730706296832  Jul  6 05:06  @OmoNsasi         RT @jmgomez: RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats one on #textmining
 353454223981150208  Jul  6 06:03  @drago_carlo      RT @SuaJorge: “@SardelichM: Excellent book on how to implement #parallel coding in #rstats (http://heather.cs.ucdavis.edu/~matloff/158/PLN/ParProcBook.pdf” @diegomanule  @uladanielp
 353454282315530240  Jul  6 06:04  @gawbul           @HayleyEversKing Should ditch Excel altogether! Work with CSV/TSV and #pandas & #Python or #RStats ;-)
+353530042862673920  Jul  6 11:05  @orlandomezquita  Computerworld’s Beginners Guide to R: http://bit.ly/1269RmP #rstats
+353535137729888258  Jul  6 11:25  @oscarperpinan    Updated: A solution for the LSA-SAF data reprojection with GDAL and R http://bit.ly/14U6Vvt #rstats #GIS
+353560242413510656  Jul  6 13:05  @orlandomezquita  General Regression Neural Network in R: http://bit.ly/126a5dF #rstats
+353573333842935809  Jul  6 13:57  @mattmoehr        That was not what I thought @sweave was going to be... #rstats #latex
+353575479028088832  Jul  6 14:05  @sjGoring         How do I make maps in #ggplot2 that have state/provincial boundaries extend beyond the view window (my code: http://pastebin.com/SfmVtK8X) #rstats
+353585311525253121  Jul  6 14:44  @saranyan         If you want to generate random colors for your plot in R, use this - colors()[sample(1:length(colors()) #R #Rstats
