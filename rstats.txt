@@ -10854,3 +10854,42 @@
 353222274343641088  Jul  5 14:42  @BernardSlede     Thank you!“@mjcavaretta: Like the #rstats as a service. MT#BigData #startup @Algorithms_IO "Most Likely to Succeed"  http://bit.ly/11tqsQM”
 353226164057284609  Jul  5 14:57  @hylopsar         coded a bayesian phylogenetic regression using #rstats #stan based on Blomberg etal 2010; comments welcome https://gist.github.com/rmaia/5936508
 353226682360012803  Jul  5 14:59  @hylopsar         goal to add phylo unc based on trees sample (sensu http://sysbio.oxfordjournals.org/content/61/3/382.full & http://www.biomedcentral.com/1471-2148/12/102); unsure how to add mixture #rstats #stan
+353229330995875840  Jul  5 15:10  @hylopsar         here's attempt at mixture model, pretty sure it's just doing whole thing across all trees ATM; https://gist.github.com/rmaia/5936586 cmmts? #rstats #stan
+353229648580194306  Jul  5 15:11  @jmgomez          Talk: The Mechanics of Data Visualization http://ow.ly/mC1Ao #rstats #dataviz
+353232366388527104  Jul  5 15:22  @dmedri           R User Groups Worldwide  http://buff.ly/1aJAaax via @YvesMulkers  #rstats #datascience
+353234217393594368  Jul  5 15:29  @rOpenSci         Added fxns to search the @USGS BISON species occurrence database via SOLR http://bit.ly/18BzdjK #rstats - fuzzy searching, etc.
+353236181166731264  Jul  5 15:37  @KylMacke         Cool function to plot survival curves with #ggplot2  http://www.r-bloggers.com/creating-good-looking-survival-curves-the-ggsurv-function/  #rstats
+353238501577338880  Jul  5 15:46  @dmedri           Visualizing Data Patterns with #Micromaps http://www.thefunctionalart.com/2013/07/falling-in-love-with-micromaps.html via @albertocairo #dataviz #infographics #rstats
+353239866160590848  Jul  5 15:52  @hwawaresS8PZ     RT @recology_: Anyone know of methods in #rstats for estimating phylogenetic signal on discrete characters?
+353242241873084417  Jul  5 16:01  @davidjayharris   RT @hylopsar: coded a bayesian phylogenetic regression using #rstats #stan based on Blomberg etal 2010; comments welcome https://t.co/JJMOa23Jy5
+353242869563265026  Jul  5 16:03  @BI_Dashboards    RT @jmgomez: Talk: The Mechanics of Data Visualization http://ow.ly/mC1Ao #rstats #dataviz
+353246201988136961  Jul  5 16:17  @quandl           Analyzing the Analyzers: a survey of 250 #data #scientists | Revolution Analytics http://qndl.co/168MObZ #rstats
+353248925643317250  Jul  5 16:28  @cocoahn          RT @RLangTip: Convert a comma-separated string to a vector: strsplit("red,green,blue",",")[[1]] #rstats http://bit.ly/Jz3aVm
+353253989841780736  Jul  5 16:48  @wligtenberg      RT @OpenAnalytics: OpenAnalytics getting ready for @useR_2013 , details at http://www.openanalytics.eu/blog/openanalytics-user-2013-whats-program #user2013, #rstats
+353261434672652291  Jul  5 17:17  @andharris        RT @quandl: Analyzing the Analyzers: a survey of 250 #data #scientists | Revolution Analytics http://qndl.co/168MObZ #rstats
+353263794270642177  Jul  5 17:27  @joshuagrossman   RT @quandl: Analyzing the Analyzers: a survey of 250 #data #scientists | Revolution Analytics http://qndl.co/168MObZ #rstats
+353265458268487680  Jul  5 17:33  @rOpenSci         rplos now w/ wait time between calls to the @PLOS search #API to meet rate limiting requirement, e.g.: try  http://bit.ly/10Ezspj #rstats
+353273489781821441  Jul  5 18:05  @treycausey       Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353273533738131456  Jul  5 18:05  @rrichard09       RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353273566533386240  Jul  5 18:05  @misternaxal      RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353273716014198784  Jul  5 18:06  @aatishb          RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353273773895589890  Jul  5 18:06  @taniafaragozaZZ  RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353274416966270976  Jul  5 18:09  @perisaccadic     #Rstats/ggplot2 DQ: Confidence contours. Have samples, want outline around 90% of them. Like geom_density but coverage not density. What do?
+353274417394102272  Jul  5 18:09  @griverorz        RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353275225934274560  Jul  5 18:12  @haroldpollack    RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353275636799901698  Jul  5 18:14  @callmeechief     RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353275692215046144  Jul  5 18:14  @reginamorales    RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353276757400498179  Jul  5 18:18  @RamanKhannaUCSF  RT @poliscipunk /Great #rstats error message. 'problem too large.' Indeed, R. Indeed. H/t @treycausey
+353276930587496448  Jul  5 18:19  @RyanGrannell     RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353277144438292482  Jul  5 18:20  @nickypolstonDGs  RT @RamanKhannaUCSF: RT @poliscipunk /Great #rstats error message. 'problem too large.' Indeed, R. Indeed. H/t @treycausey
+353278346681008128  Jul  5 18:24  @phylorich        RT @hylopsar: coded a bayesian phylogenetic regression using #rstats #stan based on Blomberg etal 2010; comments welcome https://t.co/JJMOa23Jy5
+353281332450820097  Jul  5 18:36  @ajyasgar         RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353282338676948995  Jul  5 18:40  @kuun_peal        Nice overview of data structures in #R & #Python by @statalgo. Very helpful! - http://www.statalgo.com/2011/04/23/r-and-python-basic-data-structures/ #rstats #statistics #programming
+353282829704114176  Jul  5 18:42  @JoshDoody        @treycausey @haroldpollack Does #rstats read you that error aloud in the voice of the computer from War Games?
+353284922083000321  Jul  5 18:51  @DataParadigms    Using sys.sleep to avoid going over API limits = winning.  #rstats
+353297025984512000  Jul  5 19:39  @jon_m_rob        I think I've downloaded/wrangled down enough #rstats tutorials to write a meta R tutorial. #tangledupindata
+353297619210092544  Jul  5 19:41  @mboduch          RT @treycausey: Great #rstats error message. 'problem too large.' Indeed, R. Indeed.
+353310027546763265  Jul  5 20:30  @Rbloggers        Hiring for your culture – an analytical approach (I):  (This article was first published on   Cartes... http://bit.ly/13zmeg7 #rstats
+353314203634909186  Jul  5 20:47  @amestadmx        RT @RLangTip: R debugging tricks: http://bit.ly/NPG1Nz #rstats (via @vsbuffalo)
+353315819960270848  Jul  5 20:53  @mattmoehr        An #rstats package for it? RT @NietzscheQuotes: We hear only those questions for which we are in a position to find answers.  #Nietzsche
+353316102656364545  Jul  5 20:54  @SardelichM       Excellent book on how to implement #parallel coding in #rstats (including #multicore, #MPI, #GPU C Call, ...): http://heather.cs.ucdavis.edu/~matloff/158/PLN/ParProcBook.pdf
