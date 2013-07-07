@@ -10918,6 +10918,7 @@
 353613016463446016  Jul  6 16:34  @Laluito          RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
 353613150395965442  Jul  6 16:35  @rcrosado         RT @genetics_blog: RTextTools: A Supervised Learning Package for Text Classiﬁcation http://journal.r-project.org/archive/2013-1/collingwood-jurka-boydstun-etal.pdf #Rstats
 353613611668742146  Jul  6 16:37  @SamuelRufat      @laspic @joelgombin C'est les limites du one stop shop, #Rstats n'est pas fait pour la carto, #QGIS oui et en plus il a un plugin #Rstats ;)
+353618069253406720  Jul  6 16:54  @user2014_ucla    useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
 353637803290148865  Jul  6 18:13  @SardelichM       @M_T_Patterson #Rstats and #Phyton
 353649481960525824  Jul  6 18:59  @zentree          'A Recipe for Trellis/Faceted Plots Using Base #Rstats Graphics' http://biostatmatt.com/archives/2520
 353677510044688384  Jul  6 20:51  @gawbul           RT @drjerrynyc: @brianabelson demos data-driven-rhythm at @nyhackr #Rstats #callmemaybe http://t.co/M2NNTjFNK1
@@ -10934,3 +10935,21 @@
 353836467602202624  Jul  7 07:22  @jmgomez          RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
 353838663358099456  Jul  7 07:31  @OmoNsasi         RT @jmgomez: RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
 353848476230090752  Jul  7 08:10  @stuhorsman       figured out why my facial point RF model deteriorated. forgot to relabel targets. Easier to plot the problem #rstats http://t.co/as81v1CcCT
+353873538589003778  Jul  7 09:50  @Datamarketing_   ¿Porque #SAS y #SPSS están integrando R dentro de su motores de análisis? http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #rstats #CRM #BI #Marketing
+353873540921044994  Jul  7 09:50  @DatametricsBI    ¿Porque #SAS y #SPSS están integrando R dentro de su motores de análisis? http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #rstats #CRM #BI #Marketing
+353875763436601344  Jul  7 09:58  @romain_francois  RT @user2014_ucla: useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
+353877032314220545  Jul  7 10:03  @monsoontrader    RT @user2014_ucla: useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
+353879054723715072  Jul  7 10:11  @XVtores          RT @DatametricsBI: ¿Porque #SAS y #SPSS están integrando R dentro de su motores de análisis? http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #rstats #CRM #BI #Marketing
+353881038856011776  Jul  7 10:19  @oscarperpinan    rasterVis::histogram in QGIS using SEXTANTE and R http://bit.ly/1aPi9Ye #rstats #GIS
+353882147544764418  Jul  7 10:24  @deyi10           RT @Datamarketing_: ¿Porque #SAS y #SPSS están integrando R dentro de su motores de análisis? http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #rstats #CRM #BI #Marketing
+353887706092281857  Jul  7 10:46  @sevve            RT @user2014_ucla: useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
+353895554838839300  Jul  7 11:17  @ElisaTP          RT @DatametricsBI: ¿Porque #SAS y #SPSS están integrando R dentro de su motores de análisis? http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #rstats #CRM #BI #Marketing
+353911148652933120  Jul  7 12:19  @quandl           How to create Word documents from R with R2DOCX | Revolution Analytics http://qndl.co/19WylEa #rstats
+353917732372230144  Jul  7 12:45  @DBenavidesOfcl   RT @Datamarketing_: ¿Porque #SAS y #SPSS están integrando R dentro de su motores de análisis? http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #rstats #CRM #BI #Marketing
+353919958209662977  Jul  7 12:54  @ukituki          Forecasting time series using R #rstats #datamining http://sco.lt/6XV60H
+353922395360333824  Jul  7 13:04  @Laluito          RT @useR_2013: The R Journal is out, and there is a note for #useR2013 http://journal.r-project.org/archive/2013-1/ #rstats
+353928230446710785  Jul  7 13:27  @jmgomez          Predictive analysis on Web Analytics tool data http://ow.ly/mElHO #rstats #seo
+353940587088576512  Jul  7 14:16  @DLabAtBerkeley   Just announced! Intensive R 8/24-25. Sign up http://dlab.berkeley.edu/training/r-bootcamp #rstats.
+353941654236958720  Jul  7 14:20  @mjcavaretta      What about multivariate TS? RT @ukituki: Forecasting time series using R #rstats #datamining http://sco.lt/6XV60H
+353942297454444544  Jul  7 14:23  @mjcavaretta      Love it! RT @datalies: #rstats + #ggplot2 + #shiny == statistical systems dev bliss #true
+353943888903413760  Jul  7 14:29  @ramnath_vaidya   Join me in NYC on July 15th for a talk on Data to Interactive Reports with R http://meetu.ps/1PQcFP #rstats #dataviz @nyhackr
