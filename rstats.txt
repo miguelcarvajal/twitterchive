@@ -10909,3 +10909,15 @@
 353573333842935809  Jul  6 13:57  @mattmoehr        That was not what I thought @sweave was going to be... #rstats #latex
 353575479028088832  Jul  6 14:05  @sjGoring         How do I make maps in #ggplot2 that have state/provincial boundaries extend beyond the view window (my code: http://pastebin.com/SfmVtK8X) #rstats
 353585311525253121  Jul  6 14:44  @saranyan         If you want to generate random colors for your plot in R, use this - colors()[sample(1:length(colors()) #R #Rstats
+353590449077886977  Jul  6 15:05  @orlandomezquita  RT @StatsBlogs: ggplot2 Chloropleth of Supreme Court Decisions: A Tutorial http://bit.ly/12K97a6 #rstats
+353599656200130560  Jul  6 15:41  @datalies         the mechanism of my nutriton app actually works! Now, to clean up the details and publish it. #shiny #rstats #ggplot2 http://t.co/hQQLglxSdL
+353604333868298240  Jul  6 16:00  @genetics_blog    RTextTools: A Supervised Learning Package for Text Classiﬁcation http://journal.r-project.org/archive/2013-1/collingwood-jurka-boydstun-etal.pdf #Rstats
+353604583785889792  Jul  6 16:01  @Bioinfomatic     RT @genetics_blog: RTextTools: A Supervised Learning Package for Text Classiﬁcation http://journal.r-project.org/archive/2013-1/collingwood-jurka-boydstun-etal.pdf #Rstats
+353609869682671617  Jul  6 16:22  @OpenCPU          useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
+353610049995812864  Jul  6 16:23  @KatherineMejia   RT @genetics_blog: RTextTools: A Supervised Learning Package for Text Classiﬁcation http://journal.r-project.org/archive/2013-1/collingwood-jurka-boydstun-etal.pdf #Rstats
+353613016463446016  Jul  6 16:34  @Laluito          RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+353613150395965442  Jul  6 16:35  @rcrosado         RT @genetics_blog: RTextTools: A Supervised Learning Package for Text Classiﬁcation http://journal.r-project.org/archive/2013-1/collingwood-jurka-boydstun-etal.pdf #Rstats
+353613611668742146  Jul  6 16:37  @SamuelRufat      @laspic @joelgombin C'est les limites du one stop shop, #Rstats n'est pas fait pour la carto, #QGIS oui et en plus il a un plugin #Rstats ;)
+353637803290148865  Jul  6 18:13  @SardelichM       @M_T_Patterson #Rstats and #Phyton
+353649481960525824  Jul  6 18:59  @zentree          'A Recipe for Trellis/Faceted Plots Using Base #Rstats Graphics' http://biostatmatt.com/archives/2520
+353677510044688384  Jul  6 20:51  @gawbul           RT @drjerrynyc: @brianabelson demos data-driven-rhythm at @nyhackr #Rstats #callmemaybe http://t.co/M2NNTjFNK1
