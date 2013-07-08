@@ -11000,3 +11000,44 @@
 354211401327312897  Jul  8 08:12  @drune            RT @luigicampos: Prep'ing to head towards Albacete for the biggest R Statistical Language conference #user2013 #rstats. Proudly presenting Oracle R...
 354218333547147264  Jul  8 08:40  @BradleyJEck      just ran across a great cheat sheet for spatial analysis with R http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/cheatsheet.html #rstats
 354219031877795842  Jul  8 08:42  @NHoughSnee       @duder10000 I had to inquire with you. All the diff. Eq. heads I know stick by MATLAB. #Rstats all the way.
+354223438707163136  Jul  8 09:00  @onertipaday      Pleasant discovery: 2 #rstats packages for producing #circos plot: https://github.com/jokergoo/circlize and https://bitbucket.org/henryhzhang/rcircos
+354224650466754561  Jul  8 09:05  @orlandomezquita  RT @RLangTip: R debugging tricks: http://bit.ly/12gsHXd  #rstats (via @vsbuffalo)
+354227200641343491  Jul  8 09:15  @strengejacke     Plotting principal component analysis with ggplot #rstats http://wp.me/pIrDl-aU
+354233577858277377  Jul  8 09:40  @timelyportfolio  RT @strengejacke: Plotting principal component analysis with ggplot #rstats http://wp.me/pIrDl-aU
+354234439238287362  Jul  8 09:44  @timelyportfolio  RT @onertipaday: Pleasant discovery: 2 #rstats packages for producing #circos plot: https://github.com/jokergoo/circlize and https://bitbucket.org/henryhzhang/rcircos
+354237679111643137  Jul  8 09:56  @carlislerainey   Just found Drew Dimmery's blog. Lot's of useful stuff here relating to #rstats and methodology. http://www.drewdimmery.com/blog/
+354238519973117953  Jul  8 10:00  @genetics_blog    osmar: #OpenStreetMap and #Rstats http://journal.r-project.org/archive/2013-1/eugster-schlesinger.pdf
+354238593008549892  Jul  8 10:00  @Bioinfomatic     RT @genetics_blog: osmar: #OpenStreetMap and #Rstats http://journal.r-project.org/archive/2013-1/eugster-schlesinger.pdf
+354247367886766080  Jul  8 10:35  @BrockTibert      @HarlanH I was poking around and it looks like you had a similar question. Were you able to connect to Oracle using RODBC on RHEL? #rstats
+354252403811422208  Jul  8 10:55  @reichlab         Running an MCMC estimation for the first time in a while. And first time ever using MCMCpack in #rstats. Smooth sailing so far.
+354254362140352513  Jul  8 11:03  @nivertech        2-3M active R users #rstats
+354256604897624064  Jul  8 11:12  @BigDataGal       Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKVsI #Rstats #GeoInt
+354256607879761920  Jul  8 11:12  @LillianPierson   Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKVUA #Rstats #GeoInt
+354256894380085249  Jul  8 11:13  @MikeKSmith       Poking around with knitr, pandoc and R Markdown. Looks VERY promising. HTML much easier than LaTeX. (HT @RStudio, @xieyihui) #rstats
+354271273062383617  Jul  8 12:10  @Rbloggers        Plotting principal component analysis with ggplot #rstats:  (This article was first published on   S... http://bit.ly/157mtfj #rstats
+354271275654455296  Jul  8 12:10  @mtouzani         Plotting principal component analysis with ggplot #rstats http://bit.ly/157mtfj
+354275162159464448  Jul  8 12:25  @erikfriesen      RT @BigDataGal: Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKVsI #Rstats #GeoInt
+354276967727640576  Jul  8 12:33  @RLangTip         Use the || and && operators when working with scalar booleans; use | and & when working with vectors #rstats http://bit.ly/mW93Px
+354278209145159681  Jul  8 12:38  @inside_R         #rstats R user group meetings this week:Paris, Sydney, Luxembourg, Cleveland, Minneapolis (http://bit.ly/9hVAPE)
+354278238303956992  Jul  8 12:38  @revodavid        RT @BigDataGal: Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKVsI #Rstats #GeoInt
+354279460800966657  Jul  8 12:43  @inside_R         #rstats UseR! 2013 happens this week in Albacete, Spain http://bit.ly/12bBUH8
+354280388169957377  Jul  8 12:46  @joscani          RT @RLangTip: Use the || and && operators when working with scalar booleans; use | and & when working with vectors #rstats http://t.co/WLcz3DZesy
+354280469036138497  Jul  8 12:47  @joscani          RT @inside_R: #rstats UseR! 2013 happens this week in Albacete, Spain http://bit.ly/12bBUH8
+354283279932862465  Jul  8 12:58  @DEAGiles         RT @inside_R: #rstats UseR! 2013 happens this week in Albacete, Spain http://bit.ly/12bBUH8
+354284050409717762  Jul  8 13:01  @revodavid        Some highlights from the latest R Journal: maps, braille, data sets, GEE, and much more: http://bit.ly/16ZZ9Sa #rstats
+354284749814116355  Jul  8 13:04  @DataCommunityDC  RT @inside_R: #rstats UseR! 2013 happens this week in Albacete, Spain http://bit.ly/12bBUH8 < who from the DC area's going?
+354288072453664768  Jul  8 13:17  @jaynal83         @useR_2013 Reached at Madrid to participate #useR2013 #rstats now waiting to reach Albacete.
+354289461925916673  Jul  8 13:22  @croatiankp       RT @revodavid: Some highlights from the latest R Journal: maps, braille, data sets, GEE, and much more: http://bit.ly/16ZZ9Sa #rstats
+354289571296579585  Jul  8 13:23  @firas            RT @RLangTip: Use the || and && operators when working with scalar booleans; use | and & when working with vectors #rstats http://t.co/WLcz3DZesy
+354291338847596546  Jul  8 13:30  @jlehtoma         #RStudio now support writing R presentations http://is.gd/h0BlSg #rstats
+354292193910996993  Jul  8 13:33  @useR_2013        RT @jaynal83: @useR_2013 Reached at Madrid to participate #useR2013 #rstats now waiting to reach Albacete.
+354292542554116097  Jul  8 13:34  @NHoughSnee       @davemac__ I've got a hammer & everything looks like a nail. My models aren't deterministic, so I'll keep pounding #OpenAccess #Rstats
+354292836151205888  Jul  8 13:36  @rprabha          RT @Rbloggers: Plotting principal component analysis with ggplot #rstats:  (This article was first published on   S... http://t.co/I5YW7ZD3Wj #rstats
+354298427531726848  Jul  8 13:58  @robchavez        Two of my favorite things.... Want a good beer recommendation? Use R. http://blog.yhathq.com/posts/recommender-system-in-r.html #rstats
+354304597210304512  Jul  8 14:22  @hadleywickham    RT @revodavid: Some highlights from the latest R Journal: maps, braille, data sets, GEE, and much more: http://bit.ly/16ZZ9Sa #rstats
+354306346520285184  Jul  8 14:29  @aaronjgoodman    RT @hylopsar: coded a bayesian phylogenetic regression using #rstats #stan based on Blomberg etal 2010; comments welcome https://t.co/JJMOa23Jy5
+354306418230304768  Jul  8 14:30  @ArthurFlam       #circos plots using #Rstats. Never found a use for those yet. Can't wait. Here's the vignette http://cran.r-project.org/web/packages/RCircos/vignettes/Using_RCircos.pdf
+354306820837347328  Jul  8 14:31  @Demografia_CSIC  RT @inside_R: #rstats UseR! 2013 happens this week in Albacete, Spain http://bit.ly/12bBUH8
+354307461496307713  Jul  8 14:34  @langstat         Plotting principal component analysis with ggplot #rstats | (R news & tutorials) http://ow.ly/mLtsY
+354309914191081472  Jul  8 14:44  @quantlabs        #Predictive #Modeling: Use #Rstats to understand #Heteroskedasticity and Fix it http://ow.ly/mKCfq
+354310572403208192  Jul  8 14:46  @benjaminlind     R on the Cloud is now at #rstats version 3.0.1, has a graphics window, upload, and download capabilities http://roncloud.com/
