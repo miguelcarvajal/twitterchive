@@ -11068,3 +11068,32 @@
 354365664967929857  Jul  8 18:25  @quantlabs        Is Microsoft #Office #Excel or #Rstats or Matlab most popular for predictive models in #quant #trading? | http://ow.ly/mKTQo
 354377745855291393  Jul  8 19:13  @infor3x          RT @quantlabs: Is Microsoft #Office #Excel or #Rstats or Matlab most popular for predictive models in #quant #trading? | http://t.co/lo3TcoDjye
 354395840590258176  Jul  8 20:25  @BigDataGal       Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKVZl #Rstats #GeoInt
+354405305880297473  Jul  8 21:03  @rOpenSci         Started an #rstats pkg 2 get @NOAA #climate data -> http://bit.ly/12U6p1S
+354405341439598593  Jul  8 21:03  @recology_        RT @rOpenSci: Started an #rstats pkg 2 get @NOAA #climate data -> http://bit.ly/12U6p1S
+354405794655113216  Jul  8 21:05  @thelabandfield   RT @rOpenSci: Started an #rstats pkg 2 get @NOAA #climate data -> http://bit.ly/12U6p1S
+354405807774896132  Jul  8 21:05  @orlandomezquita  RT @RLangTip: Convert a comma-separated string to a vector: strsplit("red,green,blue",",")[[1]] #rstats http://bit.ly/18BWsKx
+354408906904178689  Jul  8 21:17  @albertoconti     RT @rOpenSci: Started an #rstats pkg 2 get @NOAA #climate data -> http://bit.ly/12U6p1S
+354416418852323328  Jul  8 21:47  @Can_Limnology    RT @rOpenSci: Started an #rstats pkg 2 get @NOAA #climate data -> http://bit.ly/12U6p1S
+354419553201176576  Jul  8 21:59  @dseverski        Serendipitous - I was trying to figure out how to re-order data frames in #rstats and the video I had on pause had that as it's next topic.
+354420546756296708  Jul  8 22:03  @CONRE3           RT @sean_anderson: Unwin, Hofmann, and Cook call for more graphics in R package examples. Agreed! #rstats http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf  [PDF]
+354422262000132098  Jul  8 22:10  @KirkDBorne       From UCLA's Institute for Digital Research & Education - Resources to help you learn and use R: http://www.ats.ucla.edu/stat/r/ #Rstats #Statistics
+354422341914206209  Jul  8 22:10  @Rbloggers        Another view of ordinary regression:  (This article was first published on   PirateGrunt » R, and ki... http://bit.ly/12TkKqS #rstats
+354429395550736386  Jul  8 22:38  @rOpenSci         Okay, rnoaa with a few quick eg's in the readme  http://bit.ly/12ToU1X #climate #rstats
+354430718115454976  Jul  8 22:44  @BrockTibert      Was playing around w/ the Google Geocoding and Distance Matrix APIs last week, should have looked around first, ggmaps has ?mapdist  #rstats
+354433924140781568  Jul  8 22:56  @yichuanw         The Fed was reluctant to keep the economy warm -- even as markets were freezing to death. #rstats  #ggthemes #ggplot http://t.co/WGHW0jtGVi
+354438848014589952  Jul  8 23:16  @AMULETAnalytics  RT @BigDataGal: Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKVZl #Rstats #GeoInt
+354439585704574976  Jul  8 23:19  @tanmoy77         @yichuanw so you call FRED data via "quantmod", I suppose BT whch theme hv u used? LatticeExtra hv got "The Economist" theme. #rstats
+354449909686087683  Jul  9 00:00  @estatbrasil      RT @simplystats: Use R! 2014 to be hosted by UCLA Statistics #rstats
+354454131789926401  Jul  9 00:17  @Bioconductor     #BioC2013 afternoon lab schedule now online https://secure.bioconductor.org/BioC2013/labs.php #rstats
+354454684582412288  Jul  9 00:19  @PPUAMX           RT @RLangTip: Use the || and && operators when working with scalar booleans; use | and & when working with vectors #rstats http://t.co/WLcz3DZesy
+354457511253913600  Jul  9 00:30  @drago_carlo      Plotting principal component analysis with ggplot #rstats http://www.r-bloggers.com/plotting-principal-component-analysis-with-ggplot-rstats/ @prismatic @Rbloggers #Statistics #DataMining #Rstats
+354460081309495296  Jul  9 00:40  @Rbloggers        Modeling Residential Electricity Usage with R – Part 2:  (This article was first published on   Comm... http://bit.ly/13Hw93s #rstats
+354463488149684224  Jul  9 00:54  @SAGRudd          evaluating #rstats Rsubread package; @marklcrowe has corrupted near perfection by revealing the presence of bread... #ShortReadToaster
+354467705413312512  Jul  9 01:11  @adolfoalvarez    Buenos días! Vuelvo a twitter para comentar la #useR2013 #rstats ;)
+354467913928949760  Jul  9 01:11  @emilopezcano     RT @adolfoalvarez: Buenos días! Vuelvo a twitter para comentar la #useR2013 #rstats ;)
+354468528516112384  Jul  9 01:14  @useR_2013        RT @adolfoalvarez: Buenos días! Vuelvo a twitter para comentar la #useR2013 #rstats ;)
+354469060920094720  Jul  9 01:16  @useR_2013        Today at #useR2013: #rstats Tutorials: check last-minute room changes. http://www.edii.uclm.es/~useR-2013/Tutorials/index.html Enjoy!
+354474238662549505  Jul  9 01:36  @drwatsonII       RT @yichuanw: The Fed was reluctant to keep the economy warm -- even as markets were freezing to death. #rstats  #ggthemes #ggplot http://t.co/WGHW0jtGVi
+354477778214731776  Jul  9 01:51  @jaynal83         @useR_2013 Everyone speaks spanish and I don't understand any... #useR2013  #rstats .. :(
+354485632132841475  Jul  9 02:22  @jaynal83         @useR_2013 at the venue registration desk yet to open #useR2013 #rstats
+354491642759233536  Jul  9 02:46  @recology_        Anyone know of a #markdown to #JSON converter in #rstats ? @xieyihui @jcheng @cboettig
