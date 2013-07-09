@@ -11121,3 +11121,39 @@
 354578819891478528  Jul  9 08:32  @hadleywickham    RT @yichuanw: The Fed was reluctant to keep the economy warm -- even as markets were freezing to death. #rstats  #ggthemes #ggplot http://t.co/WGHW0jtGVi
 354579068676603904  Jul  9 08:33  @umichECON        RT @yichuanw: The Fed was reluctant to keep the economy warm -- even as markets were freezing to death. #rstats  #ggthemes #ggplot http://t.co/WGHW0jtGVi
 354582142061260803  Jul  9 08:45  @BatmanFran       RT @yichuanw: The Fed was reluctant to keep the economy warm -- even as markets were freezing to death. #rstats  #ggthemes #ggplot http://t.co/WGHW0jtGVi
+354587474569342979  Jul  9 09:06  @jmgomez          RT @ianjacobs: R debugging tricks: http://bit.ly/NPG1Nz #rstats (via @vsbuffalo)
+354588486629724161  Jul  9 09:10  @GregKapfhammer   If you want to perform association rule mining in R, then consider starting with this tutorial! http://is.gd/sNCL6c #rstats
+354590090208616449  Jul  9 09:17  @ErynMcFarlane    I feel incredibly science-y when I write equations on a whiteboard. Now, to implement them! #gradschool #respirometry #rstats
+354590992445349890  Jul  9 09:20  @adolfoalvarez    After #rcpp session at morning, now is turn for #shiny in #useR2013 #rstats
+354591425947639809  Jul  9 09:22  @agapow           Further notes on object programming in #Rstats :  http://www.agapow.net/programming/r/oop-in-r/
+354592456907554817  Jul  9 09:26  @msgbi            http://roncloud.com/ R on cloud @TeraEuro #rstats
+354593729010606083  Jul  9 09:31  @yichuanw         @tanmoy77 Yep! I use tufte in most cases. This one was solarized dark. It's the same colors I use in all my text editors + rstudio #rstats
+354606466969239553  Jul  9 10:22  @Quantmetry       Retrouvez, ce soir à partir de 19h30, @ArthurFlam au meetup Paris #Rstats addicts pour une présentation sur #shiny http://www.meetup.com/rparis/events/124508332/
+354607462831243264  Jul  9 10:26  @jd_mathbio       @jd_mathbio Entire code pipeline (DHS data to MS figures and tables) online and reproducible #WorkingWiki #Rstats http://bit.ly/12fh5Vy
+354608501395431425  Jul  9 10:30  @ramnath_vaidya   Video of my talk on Interactive Docs with R given last month at NYC http://youtu.be/vDw6bJ7Y_rY  @nyhackr #rstats
+354610170237698050  Jul  9 10:37  @vCTO             RT @revodavid: Some highlights from the latest R Journal: maps, braille, data sets, GEE, and much more: http://bit.ly/16ZZ9Sa #rstats
+354616588214865923  Jul  9 11:02  @ArthurFlam       RT @ramnath_vaidya: Video of my talk on Interactive Docs with R given last month at NYC http://youtu.be/vDw6bJ7Y_rY  @nyhackr #rstats
+354623674248216577  Jul  9 11:30  @rOpenSci         #rstats wrappers for the @github #API and libgit2  http://bit.ly/16ngCSl http://bit.ly/16ngF0r - from @scheidegger
+354625241626062850  Jul  9 11:37  @luigicampos      @Oracle booth at #useR2013 #rstats Conference is all set! Join me tomorrow in Albacete Campus at University CLM. http://t.co/LNWWVYwSek
+354626684693131265  Jul  9 11:42  @Rbloggers        A possibility for use R and Hadoop together:  (This article was first published on   Milano R net, a... http://bit.ly/15aXRlE #rstats
+354628686332436481  Jul  9 11:50  @robertclab       Inma Tur speaking tomorrow at #useR2013 on how to simulate graphical models and eQTL networks in #rstats w/ #qpgraph http://bit.ly/Zl4IIM
+354632800063852545  Jul  9 12:07  @RLangTip         Strip non-ASCII characters from a string with iconv(bad.text, to="ASCII", sub="") #rstats http://bit.ly/RPbC3U
+354636148875862017  Jul  9 12:20  @yodacomplex      RT @RLangTip: Strip non-ASCII characters from a string with iconv(bad.text, to="ASCII", sub="") #rstats http://bit.ly/RPbC3U
+354638104860180482  Jul  9 12:28  @Datamarketing_   7 razones que usted necesita para comenzar a desarrollar análisis predictivo http://www.idata.com.co/Datametrics/7_reasons_you_need.pdf vía @iDATA_co #BI #rstats #Datamining
+354638107515158528  Jul  9 12:28  @DatametricsBI    7 razones que usted necesita para comenzar a desarrollar análisis predictivo http://www.idata.com.co/Datametrics/7_reasons_you_need.pdf vía @iDATA_co #BI #rstats #Datamining
+354639672179306497  Jul  9 12:34  @SardelichM       in few weeks I hope to #OpenSource code to #DataMining using #CUDA and #rstats. It is exhaustive search, but is fast in #CUDA! working hard!
+354641591656398849  Jul  9 12:41  @RladiesSF        RT @ramnath_vaidya: Video of my talk on Interactive Docs with R given last month at NYC http://youtu.be/vDw6bJ7Y_rY  @nyhackr #rstats
+354641593824841730  Jul  9 12:41  @gdequeiroz       RT @ramnath_vaidya: Video of my talk on Interactive Docs with R given last month at NYC http://youtu.be/vDw6bJ7Y_rY  @nyhackr #rstats
+354644528919097344  Jul  9 12:53  @ErynMcFarlane    I might have calculus in my future. Wish me luck! #gradschool #Rstats #growthrate
+354647721094819840  Jul  9 13:06  @jmgomez          RT @nextgenseek: Looks interesting. The Cartoon Introduction to Statistics. http://www.amazon.com/Cartoon-Introduction-Statistics-Grady-Klein/dp/0809033593/ref=sr_1_1?s=books&ie=UTF8&qid=1366770785&sr=1-1# #rstats
+354648636031901696  Jul  9 13:09  @useR_2013        RT @luigicampos: @Oracle booth at #useR2013 #rstats Conference is all set! Join me tomorrow in Albacete Campus at University CLM. http://t.co/LNWWVYwSek
+354649961520046082  Jul  9 13:15  @scheidegger      RT @rOpenSci: #rstats wrappers for the @github #API and libgit2  http://bit.ly/16ngCSl http://bit.ly/16ngF0r - from @scheidegger
+354656246252576768  Jul  9 13:40  @msgbi            RT @drago_carlo: Recomendation System in R http://feedly.com/k/13Ur2KH @feedly  #MachineLearning #DataMining #Rstats
+354658013128298498  Jul  9 13:47  @3wen             RT @RLangTip: Strip non-ASCII characters from a string with iconv(bad.text, to="ASCII", sub="") #rstats http://bit.ly/RPbC3U cc@philandrin
+354658103855288320  Jul  9 13:47  @csgillespie      #rstats code for my book chapter on "Simulation of stochastic kinetic models" can be downloaded from https://github.com/csgillespie/In-silico-Systems-Biology
+354664164066738177  Jul  9 14:11  @rOpenSci         .@elife journal metadata from #rstats http://bit.ly/16nO3Ee  /  @IanMulvany
+354665745185128450  Jul  9 14:17  @recology_        RT @rOpenSci: .@elife journal metadata from #rstats http://bit.ly/16nO3Ee  /  @IanMulvany
+354666241820073984  Jul  9 14:19  @Bioconductor     Only 9 slots left for #BioC2013 next week; register now at https://secure.bioconductor.org/BioC2013/  #rstats
+354669988432457729  Jul  9 14:34  @antiplastics     RT @Bioconductor: Only 9 slots left for #BioC2013 next week; register now at https://secure.bioconductor.org/BioC2013/  #rstats
+354670488972296192  Jul  9 14:36  @toates_19        plyr + join = joy #littlethings #rstats @hadleywickham
+354672130861965313  Jul  9 14:43  @hylopsar         Either this is the best, nerdiest vanity plate ever, or I really am seeing #rstats just everywhere http://t.co/vA6RvgjKtr
