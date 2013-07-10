@@ -11189,3 +11189,37 @@
 354836018471505920  Jul 10 01:34  @hadleywickham    RT @toates_19: plyr + join = joy #littlethings #rstats @hadleywickham
 354841761681641472  Jul 10 01:57  @Rbloggers        A Sudoku Puzzle Solver – attempt 1:  (This article was first published on   Econometrics by Simulati... http://bit.ly/1anvQyp #rstats
 354855147010142208  Jul 10 02:50  @Rbloggers        Flotsam 13: early July links:  (This article was first published on   Quantum Forest » rblogs, and k... http://bit.ly/15dsx5P #rstats
+354865848621600768  Jul 10 03:33  @romain_francois  #rstats people waiting for the first presenter after the (mostly spanish spoken) introduction. #useR2013 http://t.co/0R6Wr25YpF
+354871076523753472  Jul 10 03:53  @kushan_s         Learn to make Web Analytics Visualization through #ggplot2 #rstats http://bit.ly/12gRE66
+354871609204543488  Jul 10 03:55  @kushan_s         Learn to perform Predictive analysis on Web Analytics tool data http://bit.ly/12gRPOC #rstats #measure
+354873719698632704  Jul 10 04:04  @msgbi            RT @drago_carlo: Recomendation System in R http://feedly.com/k/13Ur2KH @feedly  #MachineLearning #DataMining #Rstats
+354875745539076096  Jul 10 04:12  @msgbi            http://blog.yhathq.com/posts/recommender-system-in-r.html recommendation -system-in- R #rstats
+354881542268518401  Jul 10 04:35  @datennutzen      #Rstats durch C++ Integration mit #Rcpp für #BigData optimieren http://blog.eoda.de
+354882739712958465  Jul 10 04:40  @msgbi            RT @TrestleJeff: Slides from my crash course to creating R packages using RStudio, devtools, and roxygen2. http://qbrc.swmed.edu/2013/06/creating-r-packages/ #rstats
+354882977529995264  Jul 10 04:41  @writelatex       RT @TrestleJeff: Slides from my crash course to creating R packages using RStudio, devtools, and roxygen2. http://qbrc.swmed.edu/2013/06/creating-r-packages/ #rstats
+354885073880879104  Jul 10 04:49  @stuhorsman       At Sydney #rstats meetup listening to @eddelbuettel give a talk on Rcpp
+354886310835658752  Jul 10 04:54  @adolfoalvarez    RT @TrestleJeff: Slides from my crash course to creating R packages using RStudio, devtools, and roxygen2. http://qbrc.swmed.edu/2013/06/creating-r-packages/ #rstats
+354889301663821824  Jul 10 05:06  @stuhorsman       Embed R into your c++ programs? You can do it with RInside #rstats
+354889468823617536  Jul 10 05:06  @msgbi            http://climateecology.wordpress.com/2013/06/18/evaluating-optimization-algorithms-in-matlab-python-and-r/ climateecology.wordpress evaluating-optimization- #algorithms -in- #matlab - #python -and- R #rstats
+354894138497449984  Jul 10 05:25  @Wiley_Stats      UseR 2013 has begun! The Wiley stand is packed with new product, if you want to read or write please visit us! #rstats #user2013...
+354894347751272448  Jul 10 05:26  @adolfoalvarez    RT @Wiley_Stats: UseR 2013 has begun! The Wiley stand is packed with new product, if you want to read or write please visit us! #rstats #user2013...
+354897005329387520  Jul 10 05:36  @fazol            Motto of the day #Rstats http://t.co/RZVRkFI9j2
+354899489930219520  Jul 10 05:46  @mj_kallen        Finally, @rstudioapp presents visual debugging at #useR2013. Available in preview. Matlab users, you may now switch to #rstats!
+354903887234347009  Jul 10 06:04  @ArthurFlam       Ma présentation de #shiny au meetup R d'hier => Comment faire une webapp et une présentation #HTML5 en #Rstats  http://www.quantmetry.com/ShinyOverview/Shiny/
+354903945845542913  Jul 10 06:04  @karlneuberger    RT @ArthurFlam: Ma présentation de #shiny au meetup R d'hier => Comment faire une webapp et une présentation #HTML5 en #Rstats  http://t.co/M69sX9CjxE
+354904214260031491  Jul 10 06:05  @Quantmetry       RT @ArthurFlam: Ma présentation de #shiny au meetup R d'hier => Comment faire une webapp et une présentation #HTML5 en #Rstats  http://t.co/M69sX9CjxE
+354909071708651521  Jul 10 06:24  @flotendol        RT @marc_rr: Impressive rise of mentions of #Rstats and #GeneOntology in BMC #Bioinformatics http://www.biomedcentral.com/1471-2105/14/194 http://t.co/RzXtbTb86s
+354914055661694976  Jul 10 06:44  @BMC_series       RT @marc_rr: Impressive rise of mentions of #Rstats and #GeneOntology in BMC #Bioinformatics http://www.biomedcentral.com/1471-2105/14/194 http://t.co/RzXtbTb86s
+354919594714079232  Jul 10 07:06  @mj_kallen        Every #useR2013 talk seems to end with a link to a @github repo. New standard for #rstats development?
+354920147707891712  Jul 10 07:08  @eddelbuettel     RT @stuhorsman: At Sydney #rstats meetup listening to @eddelbuettel give a talk on Rcpp
+354922586452393984  Jul 10 07:18  @timelyportfolio  RT @ramnath_vaidya: Video of my talk on Interactive Docs with R given last month at NYC http://youtu.be/vDw6bJ7Y_rY  @nyhackr #rstats
+354926276630417408  Jul 10 07:33  @romain_francois  RT @stuhorsman: At Sydney #rstats meetup listening to @eddelbuettel give a talk on Rcpp
+354927254482083840  Jul 10 07:37  @rapporters       UK dialect maps rendered realtime on http://rapporter.net based on @BertVaux's data: http://blog.rapporter.net/2013/07/uk-dialect-maps.html #rstats http://t.co/im8YHt8t6E
+354931517077721088  Jul 10 07:54  @dzidorius        If you want to meet data science geeks in #Luxembourg tonight, check this: http://goo.gl/eicIU #rstats
+354934204485730304  Jul 10 08:04  @i_314            RT @ramnath_vaidya: Video of my talk on Interactive Docs with R given last month at NYC http://youtu.be/vDw6bJ7Y_rY  @nyhackr #rstats
+354941898164670464  Jul 10 08:35  @bayestheoremqed  RT @msgbi: RT @drago_carlo: Recomendation System in R http://feedly.com/k/13Ur2KH @feedly  #MachineLearning #DataMining #Rstats
+354942281305960449  Jul 10 08:36  @mjcavaretta      Nice ex. w/ code! RT @msgbi @drago_carlo: Recomendation System in R http://feedly.com/k/13Ur2KH @feedly  #MachineLearning #DataMining #Rstats
+354943924651036672  Jul 10 08:43  @romunov          My reading preferences, not in order specified. #rstats http://t.co/YNSziiWYgN
+354944326125621248  Jul 10 08:44  @jvonneumann      RT @msgbi: http://blog.yhathq.com/posts/recommender-system-in-r.html recommendation -system-in- R #rstats
+354944894193762304  Jul 10 08:47  @mjcavaretta      Interesting use of R. MT @ypriverol: RCytoscape: tools for exploratory network analysis http://www.biomedcentral.com/1471-2105/14/217/abstract #Rstats #BigData #dataviz
+354945389775953922  Jul 10 08:49  @prisonrodeo      RT @msgbi: http://blog.yhathq.com/posts/recommender-system-in-r.html recommendation -system-in- R #rstats
