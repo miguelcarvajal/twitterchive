@@ -11223,3 +11223,61 @@
 354944326125621248  Jul 10 08:44  @jvonneumann      RT @msgbi: http://blog.yhathq.com/posts/recommender-system-in-r.html recommendation -system-in- R #rstats
 354944894193762304  Jul 10 08:47  @mjcavaretta      Interesting use of R. MT @ypriverol: RCytoscape: tools for exploratory network analysis http://www.biomedcentral.com/1471-2105/14/217/abstract #Rstats #BigData #dataviz
 354945389775953922  Jul 10 08:49  @prisonrodeo      RT @msgbi: http://blog.yhathq.com/posts/recommender-system-in-r.html recommendation -system-in- R #rstats
+354949862791458816  Jul 10 09:06  @shoha99          Introducing Monte Carlo Methods with R http://www.springer.com/statistics/computational+statistics/book/978-1-4419-1575-7 #springer #rstats @denisparra in case u r interested in this
+354950942669565952  Jul 10 09:11  @mj_kallen        Want to learn more about running #rstats in the Java virtual machine? Lookout for this badge at #useR2013. http://t.co/3pZvim6sDJ
+354952117812858880  Jul 10 09:15  @timelyportfolio  RT @yichuanw: The Fed was reluctant to keep the economy warm -- even as markets were freezing to death. #rstats  #ggthemes #ggplot http://t.co/WGHW0jtGVi
+354953335809384448  Jul 10 09:20  @jmgomez          Tweets mining using NLP can help in goods marketing http://ow.ly/mHXLn #rstats #nlproc #textmining
+354954775617470466  Jul 10 09:26  @mj_kallen        For those people interested in the @rstudioapp preview version with debugging features, go here: http://www.rstudio.com/ide/download/preview #rstats #useR2013
+354956677088415744  Jul 10 09:34  @adolfoalvarez    .@hadleywickham starts its conference 'bigger data analysis' #useR2013 #rstats http://t.co/KQ9m1t6zmC
+354958419008045056  Jul 10 09:40  @Rbloggers        Types in lambda.r versus classes in S4:  (This article was first published on   Cartesian Faith » R,... http://bit.ly/12ZmLBX #rstats
+354960485403197442  Jul 10 09:49  @useR_2013        @hadleywickham at #useR2013 now. BiggeR data Analysis #rstats http://t.co/s1G8zxTzKT
+354961726166413312  Jul 10 09:54  @HarlanH          RT @nsaphra: Tweeps! Tell me your favorite #rstats package that doesn't exist in #julialang so I can reimplement it! This is how I'm learning julia!
+354962267017715713  Jul 10 09:56  @ArthurFlam       Here is last night's presentation of #Shiny at the Paris R Meetup. Make webapps. Share #Rstats. Thanks @rstudioapp !! http://www.quantmetry.com/ShinyOverview/Shiny/#1
+354964186100531200  Jul 10 10:03  @JeffHemsley      More on data exploration with #rstats  http://bit.ly/1743zYa
+354964873370804224  Jul 10 10:06  @JeffHemsley      useful #3Dviz with #rstats http://bit.ly/11C04d3
+354966696127246336  Jul 10 10:13  @Mark_Gardener    Working on TOC and outline for the new book on community ecology http://www.gardenersown.co.uk/Education/Lectures/Community%20Ecology%20Outline.htm #Ecology #rstats #analytics #statistics #excel
+354967892833468417  Jul 10 10:18  @recology_        #rstats kids - follow #useR2013 for tweets from the meeting in Spain
+354968354332745730  Jul 10 10:20  @adolfoalvarez    .@hadleywickham showed two libraries which extend plyr and ggplot2 two big data: dplyr and bigvis #useR2013 #rstats
+354968375979556865  Jul 10 10:20  @mj_kallen        Hungry 4 more #bigdata in #rstats after @hadleywickham's talk @ #useR2013?  See @bedatadriven present http://renjin.org Thu 18:20 FEBS2
+354968626081693698  Jul 10 10:21  @Krisztab         RT @recology_: #rstats kids - follow #useR2013 for tweets from the meeting in Spain
+354968890675175425  Jul 10 10:22  @rmflight         .@rstudioapp The new presentation functionality is nice. Will be checking out visual debugger too, I promise. #rstats
+354969844023693312  Jul 10 10:26  @recology_        #rstats on the JVM? Apparently so -> http://bit.ly/12qZSXY
+354970542652141570  Jul 10 10:29  @bedatadriven     RT @mj_kallen: Hungry 4 more #bigdata in #rstats after @hadleywickham's talk @ #useR2013?  See @bedatadriven present http://renjin.org Thu 18:20 FEBS2
+354970870822879232  Jul 10 10:30  @PageViral        RT @Mark_Gardener: Working on TOC and outline for the new book on community ecology http://www.gardenersown.co.uk/Education/Lectures/Community%20Ecology%20Outline.htm #Ecology #rstats #analytics #statistics #excel
+354971639567486976  Jul 10 10:33  @joscani          RT @adolfoalvarez: .@hadleywickham showed two libraries which extend plyr and ggplot2 two big data: dplyr and bigvis #useR2013 #rstats
+354972990351478785  Jul 10 10:38  @drwandel         in every session i attended at least one lecturer isnt here. shame on those guys! #rstats #useR2013
+354977787783811073  Jul 10 10:57  @BrockTibert      My SO question on getting rpy2 to work in #python using Windows. #rstats http://stackoverflow.com/questions/17573988/r-home-error-with-rpy2
+354979304599322624  Jul 10 11:03  @aad34210         RT @toates_19: plyr + join = joy #littlethings #rstats @hadleywickham
+354992450416291840  Jul 10 11:56  @raffaelevacca    https://vimeo.com/69581716 Exploring network animations with #ndtv and #networkDynamic on scientific networks at UF...love it! #rstats #statnet
+354994996111355904  Jul 10 12:06  @RLangTip         How to create animated graphics in R: http://bit.ly/NcjzyZ (see p23) #rstats
+354997889681985538  Jul 10 12:17  @macariohg        RT @RLangTip: How to create animated graphics in R: http://bit.ly/NcjzyZ (see p23) #rstats
+354999484222156801  Jul 10 12:24  @CStothart        RT @RLangTip: How to create animated graphics in R: http://bit.ly/NcjzyZ (see p23) #rstats
+355000270905802752  Jul 10 12:27  @CONRE3           RT @RLangTip: How to create animated graphics in R: http://bit.ly/NcjzyZ (see p23) #rstats
+355000785278476289  Jul 10 12:29  @bdhary           "@RLangTip: How to create animated graphics in R: http://bit.ly/NcjzyZ (see p23) #rstats"
+355002777988108288  Jul 10 12:37  @erinshellman     I could talk about #rstats all day. http://t.co/GLpEnmDRA1
+355006709388947456  Jul 10 12:52  @ramnath_vaidya   Interactive Charts with Controls. http://youtu.be/bxvQZKGaroA http://rcharts.io/controls/  #rstats #rCharts @d3visualization http://t.co/n9yzrG39Sw
+355007339461492736  Jul 10 12:55  @recology_        RT @ramnath_vaidya: Interactive Charts with Controls. http://youtu.be/bxvQZKGaroA http://rcharts.io/controls/  #rstats #rCharts @d3visualization http://t.co/n9yzrG39Sw
+355007901909266432  Jul 10 12:57  @DEAGiles         RT @RLangTip: How to create animated graphics in R: http://bit.ly/NcjzyZ (see p23) #rstats
+355008098424995840  Jul 10 12:58  @sanderwagner     RT @RLangTip: How to create animated graphics in R: http://bit.ly/NcjzyZ (see p23) #rstats
+355008146638516224  Jul 10 12:58  @_Srijit          RT @yichuanw: The Fed was reluctant to keep the economy warm -- even as markets were freezing to death. #rstats  #ggthemes #ggplot http://t.co/WGHW0jtGVi
+355008980256428033  Jul 10 13:01  @psychemedia      RT @ramnath_vaidya: Interactive Charts with Controls. http://youtu.be/bxvQZKGaroA http://rcharts.io/controls/  #rstats #rCharts #schoolOfData #ddj
+355009461506670593  Jul 10 13:03  @SchoolOfData     RT @psychemedia: RT @ramnath_vaidya: Interactive Charts with Controls. http://youtu.be/bxvQZKGaroA http://rcharts.io/controls/  #rstats #rCharts #schoolOfData #ddj
+355009794593132545  Jul 10 13:05  @orlandomezquita  RT @StatsBlogs: change in weight of cars plot http://bit.ly/12Rmy8g #rstats
+355015598733918209  Jul 10 13:28  @gvegayon         @adolfoalvarez buenisimo!!!! #rstats #rstatscl
+355020207229648896  Jul 10 13:46  @timelyportfolio  implement @jasondavies #d3js horizon as custom #rcharts in #rstats http://timelyportfolio.github.io/rCharts_d3_horizon/ .@ramnath_vaidya http://t.co/5W2Qt4fHdg
+355020559018496001  Jul 10 13:47  @ramnath_vaidya   RT @timelyportfolio: implement @jasondavies #d3js horizon as custom #rcharts in #rstats http://timelyportfolio.github.io/rCharts_d3_horizon/ .@ramnath_vaidya http://t.co/5W2Qt4fHdg
+355024274270068738  Jul 10 14:02  @fellgernon       RT @useR_2013: @hadleywickham at #useR2013 now. BiggeR data Analysis #rstats http://t.co/s1G8zxTzKT
+355024746959736832  Jul 10 14:04  @RanitaRed        RT @useR_2013: @hadleywickham at #useR2013 now. BiggeR data Analysis #rstats http://t.co/s1G8zxTzKT
+355027390189154304  Jul 10 14:15  @thorei           RT @ramnath_vaidya: Interactive Charts with Controls. http://youtu.be/bxvQZKGaroA http://rcharts.io/controls/  #rstats #rCharts @d3visualization http://t.co/n9yzrG39Sw
+355027423840047104  Jul 10 14:15  @thorei           RT @timelyportfolio: implement @jasondavies #d3js horizon as custom #rcharts in #rstats http://timelyportfolio.github.io/rCharts_d3_horizon/ .@ramnath_vaidya http://t.co/5W2Qt4fHdg
+355027620175421441  Jul 10 14:15  @ManuelVargasV    RT @useR_2013: @hadleywickham at #useR2013 now. BiggeR data Analysis #rstats http://t.co/s1G8zxTzKT
+355029412418306050  Jul 10 14:23  @rstudioapp       RT @ArthurFlam: Here is last night's presentation of #Shiny at the Paris R Meetup. Make webapps. Share #Rstats. Thanks @rstudioapp !! http://t.co/sxhw1ShRUH
+355029946915229696  Jul 10 14:25  @ramnath_vaidya   RT @ArthurFlam: Here is last night's presentation of #Shiny at the Paris R Meetup. Make webapps. Share #Rstats. Thanks @rstudioapp !! http://t.co/sxhw1ShRUH
+355030202444812288  Jul 10 14:26  @fellgernon       RT @ArthurFlam: Here is last night's presentation of #Shiny at the Paris R Meetup. Make webapps. Share #Rstats. Thanks @rstudioapp !! http://t.co/sxhw1ShRUH
+355032404089507840  Jul 10 14:34  @kevin_ushey      RT @ramnath_vaidya: Interactive Charts with Controls. http://youtu.be/bxvQZKGaroA http://rcharts.io/controls/  #rstats #rCharts @d3visualization http://t.co/n9yzrG39Sw
+355032623262871552  Jul 10 14:35  @KirkDBorne       Kernel Density Estimation in massive #Data Exploration & #DataMining → many new & unexpected results: http://bit.ly/1a9oWt6 #abdsc #Rstats
+355033374450122754  Jul 10 14:38  @timelyportfolio  Please send all comments to /dev/ripley http://andrewgelman.com/2013/07/10/please-send-all-comments-to-devripley/ via @feedly #rstats
+355034054569119744  Jul 10 14:41  @KevinLDavenport  @useR_2013 Another shot of the BiggeR talk. #rstats http://t.co/nG6rxKRCyU
+355034764828348418  Jul 10 14:44  @timelyportfolio  #rCharts master @ramnath_vaidya amazes again w/ http://youtu.be/bxvQZKGaroA #nvd3 #d3js w/ graph controls straight from #rstats no shiny
+355036388992880641  Jul 10 14:50  @williammcknight  RT @revodavid: Some highlights from the latest R Journal: maps, braille, data sets, GEE, and much more: http://bit.ly/16ZZ9Sa #rstats
+355036815373254658  Jul 10 14:52  @KevinLDavenport  RT @useR_2013: @hadleywickham at #useR2013 now. BiggeR data Analysis #rstats http://t.co/s1G8zxTzKT
