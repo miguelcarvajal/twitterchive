@@ -11235,6 +11235,7 @@
 354962267017715713  Jul 10 09:56  @ArthurFlam       Here is last night's presentation of #Shiny at the Paris R Meetup. Make webapps. Share #Rstats. Thanks @rstudioapp !! http://www.quantmetry.com/ShinyOverview/Shiny/#1
 354964186100531200  Jul 10 10:03  @JeffHemsley      More on data exploration with #rstats  http://bit.ly/1743zYa
 354964873370804224  Jul 10 10:06  @JeffHemsley      useful #3Dviz with #rstats http://bit.ly/11C04d3
+354965287281508354  Jul 10 10:08  @ArthurFlam       Want #BigR data ? @hadleywickham is now @useR_2013 presenting BigR tools for #Rstats. Abstract : http://www.edii.uclm.es/~useR-2013//invited/useR2013_wickham.pdf
 354966696127246336  Jul 10 10:13  @Mark_Gardener    Working on TOC and outline for the new book on community ecology http://www.gardenersown.co.uk/Education/Lectures/Community%20Ecology%20Outline.htm #Ecology #rstats #analytics #statistics #excel
 354967892833468417  Jul 10 10:18  @recology_        #rstats kids - follow #useR2013 for tweets from the meeting in Spain
 354968354332745730  Jul 10 10:20  @adolfoalvarez    .@hadleywickham showed two libraries which extend plyr and ggplot2 two big data: dplyr and bigvis #useR2013 #rstats
@@ -11343,3 +11344,93 @@
 355215238167150592  Jul 11 02:41  @driven_by_data   RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
 355216969009610752  Jul 11 02:48  @johnros2013      Next #RStudio for #Rstats with long awaited capabilities: visual debugger and HTML5 presentation preparation and publication.
 355218733318422530  Jul 11 02:55  @jfelipe          About to start 3rd invited talk in #useR2013 What's new in R 3.0.x by Duncan Murdoch #rstats
+355221684384563200  Jul 11 03:07  @srinaths         RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+355223198192766976  Jul 11 03:13  @maptagsde        RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+355225378584924162  Jul 11 03:21  @useR_2013        RT @KevinLDavenport: @useR_2013 Another shot of the BiggeR talk. #rstats http://t.co/nG6rxKRCyU
+355225436596346880  Jul 11 03:21  @useR_2013        RT @ArthurFlam: Want #BigR data ? @hadleywickham is now @useR_2013 presenting BigR tools for #Rstats. Abstract : http://www.edii.uclm.es/~useR-2013//invited/useR2013_wickham.pdf
+355225566577819649  Jul 11 03:22  @useR_2013        RT @revodavid: Some personal highlights from Day 1 of #User2013 http://bit.ly/1bpfLpU #rstats
+355225641777504257  Jul 11 03:22  @useR_2013        RT @jfelipe: About to start 3rd invited talk in #useR2013 What's new in R 3.0.x by Duncan Murdoch #rstats
+355226499751751683  Jul 11 03:26  @v1pl             Workshop on text mining in #rstats at #fifthel has the audience engaged. http://t.co/Jn0hPvEHS9
+355228485263953923  Jul 11 03:34  @tatvic           RT @kushan_s: Learn to perform Predictive analysis on Web Analytics tool data http://bit.ly/12gRPOC #rstats #measure
+355228526166810624  Jul 11 03:34  @tatvic           RT @kushan_s: Learn to make Web Analytics Visualization through #ggplot2 #rstats http://bit.ly/12gRE66
+355231236161150977  Jul 11 03:45  @didumdida        RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+355232742780313602  Jul 11 03:51  @hermansm         "How long is the average dissertation?": nice visualisation example using #R http://beckmw.wordpress.com/2013/04/15/how-long-is-the-average-dissertation/ http://i.imgur.com/NhBnorV.png #rstats #ggplot
+355236494874656768  Jul 11 04:05  @detinusj         RT @shoha99: powerful Spatial Visualization: ggmap + ggplot2 #rstats #dataviz http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf
+355239599896928256  Jul 11 04:18  @cloudHPC         "A possibility for use #rstats and #Hadoop together" http://feedly.com/k/171YiAn
+355241737544933376  Jul 11 04:26  @jaynal83         #useR2013 second day started with very nice invited session followed by very good contributed session. #rstats
+355243961562042368  Jul 11 04:35  @BioScienceMum    Calling all my R scripts 'analysis.R' is probably a mistake #rstats
+355246264285270016  Jul 11 04:44  @jwessnit         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355247414988374017  Jul 11 04:49  @jjmullz          Playing with ggmap. Yet another genius #rstats package by @hadleywickham. http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf
+355247468004388865  Jul 11 04:49  @useR_2013        RT @jaynal83: #useR2013 second day started with very nice invited session followed by very good contributed session. #rstats
+355247960981913600  Jul 11 04:51  @revodavid        Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355248019320483841  Jul 11 04:51  @rapporters       Greetings from #useR2013 where we presented the attached poster about a #cloud #rstats infrastructure from a tech POV http://t.co/JeqxlwMNc5
+355248236258267137  Jul 11 04:52  @LouBajuk         Download the free Developer's Edition of @TIBCO Enterprise Runtime for R here http://tap.tibco.com/storefront/trialware/tibco-enterprise-runtime-for-r/prod15307.html  #useR2013 #Rstats
+355248311743164417  Jul 11 04:52  @adolfoalvarez    RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355248737188200448  Jul 11 04:54  @jfelipe          Support for long vectors and new profiling features were the most important advances in R 3.0.x featured by Duncan Murdoch #rstats
+355248918008832000  Jul 11 04:55  @yokofakun        I hate #RStats "unable to find an inherited method for function ‘annotatedDataFrameFrom’ for signature ‘"table""
+355249125551378432  Jul 11 04:56  @praxsozi         RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355249484520886273  Jul 11 04:57  @chlalanne        RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355251280727375872  Jul 11 05:04  @yokofakun        I hate #RStats "Error in glm.fit(x = numeric(0), y = numeric(0), weights = NULL, start = c(0.1,  :   object 'fit' not found"
+355251982916792320  Jul 11 05:07  @cloudHPC         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355256626179092480  Jul 11 05:25  @gaceta_tec       Se celebra esta semana en Albacete la useR! 2013, the R user conference http://bit.ly/13PsTD2 #useR2013  #opensource #rstats
+355257180775124992  Jul 11 05:28  @gianlucaemireni  RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355260014342062080  Jul 11 05:39  @mj_kallen        RT @LouBajuk: Download the free Developer's Edition of @TIBCO Enterprise Runtime for R here http://tap.tibco.com/storefront/trialware/tibco-enterprise-runtime-for-r/prod15307.html  #useR2013 #Rstats
+355261548844957696  Jul 11 05:45  @swaroopch        Learned about @stormprocessor from @P7h in the morning and now learning about #rstats from @vinayakh at @fifthel #fifthel
+355262815939997696  Jul 11 05:50  @divyakkm         RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355263283579719680  Jul 11 05:52  @joshuagrossman   RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355263717635653633  Jul 11 05:54  @jfelipe          Attending probably interesting presentation on using R for large-scale data analysis in #Groupon #useR2013 #rstats
+355264577916776450  Jul 11 05:57  @adolfoalvarez    Learning how Groupon use #rstats for analytics #useR2013
+355265735783751680  Jul 11 06:02  @wgi_pr31ea       RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+355266793260068864  Jul 11 06:06  @CelHern          RCytoscape: tools for exploratory network analysis http://www.biomedcentral.com/1471-2105/14/217 via @feedly #Rstats #bioinformatics #openaccess
+355268470172172288  Jul 11 06:12  @Sakkaden         RT @ramnath_vaidya: Interactive Charts with Controls. http://youtu.be/bxvQZKGaroA http://rcharts.io/controls/  #rstats #rCharts @d3visualization http://t.co/n9yzrG39Sw
+355268632986652673  Jul 11 06:13  @GenAproj         Good news for #GenABEL users working with large data sets: since R > 3.0.0 very large matrices are supported! #Rstats #useR2013
+355268829967949826  Jul 11 06:14  @YuriiAulchenko   RT @GenAproj: Good news for #GenABEL users working with large data sets: since R > 3.0.0 very large matrices are supported! #Rstats #useR2013
+355268833843494913  Jul 11 06:14  @revodavid        GroupOn uses #rstats to prove to merchants that a significant proportion of coupon redeemers will become repeat customers #User2013
+355269054921064448  Jul 11 06:15  @LorenaRomero86   RT @revodavid: GroupOn uses #rstats to prove to merchants that a significant proportion of coupon redeemers will become repeat customers #User2013
+355269413143982080  Jul 11 06:16  @adolfoalvarez    RT @revodavid: GroupOn uses #rstats to prove to merchants that a significant proportion of coupon redeemers will become repeat customers #User2013
+355269617918296064  Jul 11 06:17  @Sakkaden         @ramnath_vaidya Just what I’ve been looking for: a way to avoid learning D3 and get interactive graphs via #rstats. Can’t wait to try it out
+355270038053335040  Jul 11 06:19  @orlandomezquita  “@SelectStats: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf from @sharon000” #rstats
+355270059414929409  Jul 11 06:19  @MarchiMax        RT @revodavid: GroupOn uses #rstats to prove to merchants that a significant proportion of coupon redeemers will become repeat customers #User2013
+355271633654652928  Jul 11 06:25  @danailon         RT @adolfoalvarez: Learning how Groupon use #rstats for analytics #useR2013
+355271765095759872  Jul 11 06:26  @Gjorz            RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355273163841609728  Jul 11 06:31  @joscani          RT @revodavid: GroupOn uses #rstats to prove to merchants that a significant proportion of coupon redeemers will become repeat customers #User2013
+355274044213428225  Jul 11 06:35  @joscani          RT @rapporters: Greetings from #useR2013 where we presented the attached poster about a #cloud #rstats infrastructure from a tech POV http://t.co/JeqxlwMNc5
+355275120593481728  Jul 11 06:39  @mj_kallen        Great, the person sitting next to me at #useR2013 is checking out http://renjin.org! Very smart. #Rstats
+355275290819313665  Jul 11 06:40  @jfelipe          Really curious that nobody has mentioned yet using SSDs to speed up some large-scale data analyses w/ files #useR2013 #rstats
+355275718462160896  Jul 11 06:41  @nhanwei          RT @revodavid: GroupOn uses #rstats to prove to merchants that a significant proportion of coupon redeemers will become repeat customers #User2013
+355275977863081985  Jul 11 06:42  @uglylukes        RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+355278980930224129  Jul 11 06:54  @LouBajuk         New R packages from @TIBCO now available on CRAN: splusTimeSeries, splusTimeDate, sjdbc, tibbrConnector. #Rstats
+355279801893928960  Jul 11 06:58  @stevendborrelli  RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355281463668781056  Jul 11 07:04  @mattweibe        RT @LouBajuk: New R packages from @TIBCO now available on CRAN: splusTimeSeries, splusTimeDate, sjdbc, tibbrConnector. #Rstats
+355281919501541379  Jul 11 07:06  @useR_2013        RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355282016662597632  Jul 11 07:06  @useR_2013        RT @rapporters: Greetings from #useR2013 where we presented the attached poster about a #cloud #rstats infrastructure from a tech POV http://t.co/JeqxlwMNc5
+355282054092558337  Jul 11 07:06  @useR_2013        RT @LouBajuk: Download the free Developer's Edition of @TIBCO Enterprise Runtime for R here http://tap.tibco.com/storefront/trialware/tibco-enterprise-runtime-for-r/prod15307.html  #useR2013 #Rstats
+355282221323653122  Jul 11 07:07  @useR_2013        RT @jfelipe: Attending probably interesting presentation on using R for large-scale data analysis in #Groupon #useR2013 #rstats
+355282349564502016  Jul 11 07:08  @useR_2013        RT @adolfoalvarez: Learning how Groupon use #rstats for analytics #useR2013
+355282380157747201  Jul 11 07:08  @useR_2013        RT @GenAproj: Good news for #GenABEL users working with large data sets: since R > 3.0.0 very large matrices are supported! #Rstats #useR2013
+355282411493392384  Jul 11 07:08  @useR_2013        RT @revodavid: GroupOn uses #rstats to prove to merchants that a significant proportion of coupon redeemers will become repeat customers #User2013
+355282491675918337  Jul 11 07:08  @useR_2013        RT @mj_kallen: Great, the person sitting next to me at #useR2013 is checking out http://renjin.org! Very smart. #Rstats
+355282528455761920  Jul 11 07:08  @useR_2013        RT @jfelipe: Really curious that nobody has mentioned yet using SSDs to speed up some large-scale data analyses w/ files #useR2013 #rstats
+355283611605405696  Jul 11 07:13  @themjkim         RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355284444925530112  Jul 11 07:16  @useR_2013        RT @themjkim: RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355284912695287809  Jul 11 07:18  @southmapr        Pheeew! Survived my #useR2013 #rworldmap 'maps are rubbish' talk. Slides here :  http://andysouth.co.uk/wp-content/uploads/2013/07/useR2013-AndySouth-MapsCanBeRubbish2.pdf #Rstats
+355284958169927682  Jul 11 07:18  @useR_2013        Two more followers and we are 500 #rstats enthusiasts engaged with the #useR2013 conference!
+355285077346893824  Jul 11 07:18  @adolfoalvarez    RT @southmapr: Pheeew! Survived my #useR2013 #rworldmap 'maps are rubbish' talk. Slides here :  http://andysouth.co.uk/wp-content/uploads/2013/07/useR2013-AndySouth-MapsCanBeRubbish2.pdf #Rstats
+355286924824543233  Jul 11 07:26  @zentree          'rCharts Extra - d3 Horizon Conversion' a tutorial. #Rstats http://timelyportfolio.github.io/rCharts_d3_horizon/
+355287385023582209  Jul 11 07:28  @zentree          rCharts an #Rstats package for interactive javascript visualizations using a lattice-style plotting interface. http://rcharts.io/site/
+355289469441679361  Jul 11 07:36  @acablag          RT @rapporters: Greetings from #useR2013 where we presented the attached poster about a #cloud #rstats infrastructure from a tech POV http://t.co/JeqxlwMNc5
+355293979018936321  Jul 11 07:54  @grserrano_       RT @LouBajuk: Download the free Developer's Edition of @TIBCO Enterprise Runtime for R here http://tap.tibco.com/storefront/trialware/tibco-enterprise-runtime-for-r/prod15307.html  #useR2013 #Rstats
+355295423642091521  Jul 11 08:00  @p5k12            RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+355296055417511937  Jul 11 08:02  @tarheelgis       This is epic! RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355296615822655488  Jul 11 08:04  @artiekuhn        RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+355297579094908928  Jul 11 08:08  @jorgaf           RT @thomaslevine: I have no idea how people #learn #R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+355297735706030080  Jul 11 08:09  @tarheelgis       RT @duke_data: RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355303015445577729  Jul 11 08:30  @timelyportfolio  #rstats #rcharts #shiny to explore course data from sparql endpoint. http://linkedscience.org/2013/07/09/an-interactive-r-shiny-application-on-data-aalto-fi-lectures/
+355304312269848576  Jul 11 08:35  @TrestleJeff      RT @timelyportfolio: #rstats #rcharts #shiny to explore course data from sparql endpoint. http://linkedscience.org/2013/07/09/an-interactive-r-shiny-application-on-data-aalto-fi-lectures/
+355304518013038592  Jul 11 08:36  @lgatt0           RT @mj_kallen: Great, the person sitting next to me at #useR2013 is checking out http://renjin.org! Very smart. #Rstats
+355305045933293568  Jul 11 08:38  @tonyfujs         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355305192725553152  Jul 11 08:38  @ramnath_vaidya   RT @timelyportfolio: #rstats #rcharts #shiny to explore course data from sparql endpoint. http://linkedscience.org/2013/07/09/an-interactive-r-shiny-application-on-data-aalto-fi-lectures/
+355308238431977473  Jul 11 08:51  @Rbloggers        Expected Points by Position Rank in Fantasy Football:  (This article was first published on   Fantas... http://bit.ly/1atudiD #rstats
+355308784819781632  Jul 11 08:53  @DanHillReports   @frankbi That's what's up #RallyForR RT @Rbloggers: Expected Points by Position Rank in Fantasy Football:  http://bit.ly/1atudiD #rstats
+355309348584570880  Jul 11 08:55  @genetics_blog    i use http://www.bioconductor.org/packages/2.12/bioc/html/SPIA.html #Rstats RT @brent_p: what are #bioinformatics folks using for pathway analysis to take topology into account?
+355309461377794048  Jul 11 08:55  @JChrisPires      RT @genetics_blog: i use http://www.bioconductor.org/packages/2.12/bioc/html/SPIA.html #Rstats RT @brent_p: what are #bioinformatics folks using for pathway analysis to take topology into account?
