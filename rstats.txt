@@ -11434,3 +11434,90 @@
 355308784819781632  Jul 11 08:53  @DanHillReports   @frankbi That's what's up #RallyForR RT @Rbloggers: Expected Points by Position Rank in Fantasy Football:  http://bit.ly/1atudiD #rstats
 355309348584570880  Jul 11 08:55  @genetics_blog    i use http://www.bioconductor.org/packages/2.12/bioc/html/SPIA.html #Rstats RT @brent_p: what are #bioinformatics folks using for pathway analysis to take topology into account?
 355309461377794048  Jul 11 08:55  @JChrisPires      RT @genetics_blog: i use http://www.bioconductor.org/packages/2.12/bioc/html/SPIA.html #Rstats RT @brent_p: what are #bioinformatics folks using for pathway analysis to take topology into account?
+355313154617651201  Jul 11 09:10  @useR_2013        Computational intelligence in R, invited talk by José-Manuel Benítez-Sánchez now at #useR2013 #rstats http://t.co/GO6yPBga4q
+355314257258217474  Jul 11 09:14  @CourtneyMarne    “@sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats” @DavidMarneweck
+355315134840848384  Jul 11 09:18  @jfelipe          @randradas Exactly! That's another really good point #rstats
+355315411002212352  Jul 11 09:19  @fellgernon       RT @mj_kallen: Great, the person sitting next to me at #useR2013 is checking out http://renjin.org! Very smart. #Rstats
+355315478022983680  Jul 11 09:19  @LouBajuk         My #useR2013 presentation: "Extend the Reach of R to the Enterprise" with TIBCO Enterprise Runtime for R. http://www.slideshare.net/loubajukyorgan/extend-the-reach-of-r-to-the-enterprise-for-user-2013 #rstats
+355315730629136384  Jul 11 09:20  @fellgernon       RT @rapporters: Greetings from #useR2013 where we presented the attached poster about a #cloud #rstats infrastructure from a tech POV http://t.co/JeqxlwMNc5
+355315893884026880  Jul 11 09:21  @Errol1989        "Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats”" - For all those struggling with R
+355318028860272641  Jul 11 09:29  @rmflight         my take on an IDE for teaching and learning #rstats @rstudioapp @ramnath_yaida @kaythaney http://robertmflight.blogspot.com/2013/07/r-interface-for-teaching.html
+355318100733853696  Jul 11 09:30  @TIBCO            RT @LouBajuk: Download the free Developer's Edition of @TIBCO Enterprise Runtime for R here http://tap.tibco.com/storefront/trialware/tibco-enterprise-runtime-for-r/prod15307.html  #useR2013 #Rstats
+355319535395536897  Jul 11 09:35  @kevinkeenan_     Some coding styles make writing code from scratch, rather than hacking, the easiest option. Especially in spatial analysis in #Rstats
+355320013416181760  Jul 11 09:37  @LanceBachmeier   RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355320269642006528  Jul 11 09:38  @timelyportfolio  RT @rmflight: my take on an IDE for teaching and learning #rstats @rstudioapp @ramnath_yaida @kaythaney http://robertmflight.blogspot.com/2013/07/r-interface-for-teaching.html
+355323719025037312  Jul 11 09:52  @dataJujitsu      Statistician job at my uni requires "Experience in statistical software packages (e.g. STATA, SPSS, SAS)." No mention of  #Rstats? Sadface
+355324917404811264  Jul 11 09:57  @hadleywickham    nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+355325123580018689  Jul 11 09:58  @ramnath_vaidya   RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+355325170501693440  Jul 11 09:58  @ramnath_vaidya   RT @rmflight: my take on an IDE for teaching and learning #rstats @rstudioapp @ramnath_yaida @kaythaney http://robertmflight.blogspot.com/2013/07/r-interface-for-teaching.html
+355325375666073600  Jul 11 09:59  @HarlanH          RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+355327199823396864  Jul 11 10:06  @MikeKSmith       Learn R today. Pick up "R in a nutshell" for only ~£12 ($17.99). #rstats http://shop.oreilly.com/product/0636920022008.do?code=DEAL
+355329170433245184  Jul 11 10:14  @ttso             RT @timelyportfolio: #rstats #rcharts #shiny to explore course data from sparql endpoint. http://linkedscience.org/2013/07/09/an-interactive-r-shiny-application-on-data-aalto-fi-lectures/
+355330176730664963  Jul 11 10:18  @vinayakh         Good response to workshop on R today @fifthel Always fun to show the magic of plyr, ggplot2, shiny and knitr to people. #rstats
+355331288057655296  Jul 11 10:22  @john_meagher     @mquirion “@hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link”
+355331793496453120  Jul 11 10:24  @Jamamelio        RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355333507607838720  Jul 11 10:31  @rmflight         RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+355334068113645568  Jul 11 10:33  @luigicampos      Oracle Corp at useR! Conference 2013 #useR2013 #rstats http://wp.me/prmDp-j2
+355334280450277376  Jul 11 10:34  @useR_2013        RT @luigicampos: Oracle Corp at useR! Conference 2013 #useR2013 #rstats http://wp.me/prmDp-j2
+355335007113453568  Jul 11 10:37  @LouBajuk         Full house for Joe Cheng from @rstudioapp to talk about building web apps with Shiny #useR2013 #rstats http://t.co/BBJHTMquhT
+355335604722077697  Jul 11 10:39  @lcdutoit         Watching the share of #rstats and #python solutions in our production codebase grow gives me great joy
+355335700155076608  Jul 11 10:40  @bryanmparsons    RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+355335784653520898  Jul 11 10:40  @jfelipe          Hilarious and quite insightful presentation on the big mix of naming conventions in R #useR2013 #rstats >10% packages mix 4 or more styles!
+355337302966415360  Jul 11 10:46  @vinayakh         Slides from "Introduction to Data Analysis and Visualization using R"  workshop at @fifthel #rstats https://speakerdeck.com/vinayakh/introduction-to-data-analysis-and-visualization-using-r
+355337612342468610  Jul 11 10:47  @cbgoodman        An entire startup guide to R by @googledevs http://www.youtube.com/watch?v=iffR3fWv4xw&feature=share&list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP #rstats
+355338380575391745  Jul 11 10:50  @MSakrani         RT @cbgoodman: An entire startup guide to R by @googledevs http://www.youtube.com/watch?v=iffR3fWv4xw&feature=share&list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP #rstats
+355338668313030657  Jul 11 10:51  @lucabelluccini   RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+355338851935461378  Jul 11 10:52  @useR_2013        RT @LouBajuk: Full house for Joe Cheng from @rstudioapp to talk about building web apps with Shiny #useR2013 #rstats http://t.co/BBJHTMquhT
+355338885993205760  Jul 11 10:52  @useR_2013        RT @jfelipe: Hilarious and quite insightful presentation on the big mix of naming conventions in R #useR2013 #rstats >10% packages mix 4 or more styles!
+355339636253532162  Jul 11 10:55  @drwandel         Mindblown by #shiny from #rstudio. The Talk should have had a Keynote Slot. #useR2013 #Rstats
+355339858874609664  Jul 11 10:56  @Jamamelio        RT @LouBajuk: Full house for Joe Cheng from @rstudioapp to talk about building web apps with Shiny #useR2013 #rstats http://t.co/BBJHTMquhT
+355339935663927296  Jul 11 10:56  @Jamamelio        RT @drwandel: Mindblown by #shiny from #rstudio. The Talk should have had a Keynote Slot. #useR2013 #Rstats
+355341396531617792  Jul 11 11:02  @kevinkeenan_     @tslumley You guys do a great job teaching the Computing for Statistical Genetics course. Plenty of #Rstats
+355341469466374146  Jul 11 11:03  @cloudHPC         RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355342600519172098  Jul 11 11:07  @jfelipe          And now running another terrific presentation by Colin Gillespie about poweRlaw #rstats #useR2013
+355343273298104320  Jul 11 11:10  @jfelipe          It's a great session so far. I'm presenting right after Colin (1 no-show). Well I just hope I don't spoil the party :-) #rstats #useR2013
+355344134611025920  Jul 11 11:13  @timelyportfolio  RT @john_meagher: @mquirion “@hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link”
+355344331558752256  Jul 11 11:14  @dnusinow         RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+355345363403681792  Jul 11 11:18  @MedaBeda         RT @LouBajuk: Full house for Joe Cheng from @rstudioapp to talk about building web apps with Shiny #useR2013 #rstats http://t.co/BBJHTMquhT
+355345494702166017  Jul 11 11:19  @TIBCO            RT @LouBajuk: New R packages from @TIBCO now available on CRAN: splusTimeSeries, splusTimeDate, sjdbc, tibbrConnector. #Rstats
+355346073692291073  Jul 11 11:21  @cloudHPC         Nice doku using #rstats in #java with #JRI http://blog.comsysto.com/2013/07/10/java-r-integration-with-jri-for-on-demand-predictions/
+355346697091682305  Jul 11 11:23  @cloudHPC         And some exception handling for #rstats in #java http://blog.comsysto.com/2013/07/11/r-exception-handling-in-java/ @almightyData
+355347634426347521  Jul 11 11:27  @nezuq            RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355347805008699393  Jul 11 11:28  @drchriscole      Why do 'help' pages in #Rstats insist in referring to other functions when desc how it works. Saying that f1 is like f2 is *not* help. #grr
+355348041856851970  Jul 11 11:29  @winston_chang    RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+355351153887817729  Jul 11 11:41  @hfmuehleisen     RT @LouBajuk: Full house for Joe Cheng from @rstudioapp to talk about building web apps with Shiny #useR2013 #rstats http://t.co/BBJHTMquhT
+355354543485235201  Jul 11 11:55  @SeanSHLee        #Rstats http://t.co/LvwskwMEgh
+355355768423329792  Jul 11 11:59  @rmflight         RT @SeanSHLee: #Rstats http://t.co/LvwskwMEgh
+355357436825186307  Jul 11 12:06  @RLangTip         To search for R-related FAQs on StackOverflow, precede your search query with [r] at http://bit.ly/Nmiq4e #rstats
+355358369961361409  Jul 11 12:10  @NestorMontano    RT @revodavid: Slides from my #User2013 presentation, "Real-time, Big-Data R? Yes you can!": http://slidesha.re/1bqDupI #rstats
+355361921068843008  Jul 11 12:24  @Ojall            RT @RLangTip: To search for R-related FAQs on StackOverflow, precede your search query with [r] at http://bit.ly/Nmiq4e #rstats
+355362999348895744  Jul 11 12:28  @aucksAdventures  RT @SeanSHLee: #Rstats http://t.co/LvwskwMEgh
+355363580939468801  Jul 11 12:30  @Rbloggers        TriMatch – useR! 2013 Slides and Version 0.9 Released to CRAN:  (This article was first published on... http://bit.ly/15jyfDd #rstats
+355366339373834241  Jul 11 12:41  @hfmuehleisen     v. 0.7 of MonetDB.R, the @MonetDb <-> #Rstats connector was just published on CRAN http://cran.r-project.org/web/packages/MonetDB.R/ #useR2013
+355366473490903040  Jul 11 12:42  @recology_        RT @hfmuehleisen: v. 0.7 of MonetDB.R, the @MonetDb <-> #Rstats connector was just published on CRAN http://cran.r-project.org/web/packages/MonetDB.R/ #useR2013
+355367458900680704  Jul 11 12:46  @kuun_peal        RT @RLangTip: To search for R-related FAQs on StackOverflow, precede your search query with [r] at http://bit.ly/Nmiq4e #rstats
+355369456765108229  Jul 11 12:54  @cbgoodman        Maps in R using library(maps) http://wp.me/pWLWs-5T #localgov #code #rstats
+355370853241864196  Jul 11 12:59  @ramnath_vaidya   RT @drwandel: Mindblown by #shiny from #rstudio. The Talk should have had a Keynote Slot. #useR2013 #Rstats
+355370950680121344  Jul 11 13:00  @mj_kallen        RT @hfmuehleisen: v. 0.7 of MonetDB.R, the @MonetDb <-> #Rstats connector was just published on CRAN http://cran.r-project.org/web/packages/MonetDB.R/ #useR2013
+355371173606998016  Jul 11 13:01  @Rbloggers        rxDTree(): a new type of tree algorithm for big data:  (This article was first published on   Revolu... http://bit.ly/15jEzL2 #rstats
+355372130289987586  Jul 11 13:04  @ngamita          RT @RLangTip: To search for R-related FAQs on StackOverflow, precede your search query with [r] at http://bit.ly/Nmiq4e #rstats
+355372224422744064  Jul 11 13:05  @TrestleJeff      RT @drwandel: Mindblown by #shiny from #rstudio. The Talk should have had a Keynote Slot. #useR2013 #Rstats
+355373810209406977  Jul 11 13:11  @mljockers        Nice tip! “@RLangTip: To search for R-related FAQs on StackOverflow, precede your search query with [r] at http://bit.ly/Nmiq4e #rstats”
+355377470955986948  Jul 11 13:26  @LillianPierson   Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKW7K #Rstats #GeoInt
+355377471241199616  Jul 11 13:26  @BigDataGal       Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKW7F #Rstats #GeoInt
+355378329215434754  Jul 11 13:29  @SchaunW          It's surprisingly hard to un-vectorize my thinking. Guess that's the cost of learning #python after #rstats instead of before.
+355378733617643521  Jul 11 13:31  @adamlaiacano     any takers? RT @tanya_elena: @adamlaiacano Hey- do you know anyone smart who uses #rstats & likes education policy & wants a new job?
+355379655219486720  Jul 11 13:34  @HarlanH          RT @adamlaiacano: any takers? RT @tanya_elena: @adamlaiacano Hey- do you know anyone smart who uses #rstats & likes education policy & wants a new job?
+355383190443143168  Jul 11 13:48  @aDataHead        "xDTree(): a new type of tree algorithm for big data in #rstats http://feedly.com/k/1b3HX2Y
+355384631018790912  Jul 11 13:54  @chrisbrunsdon    RT @adamlaiacano: any takers? RT @tanya_elena: @adamlaiacano Hey- do you know anyone smart who uses #rstats & likes education policy & wants a new job?
+355387242480545792  Jul 11 14:04  @mj_kallen        The future of high-performance #rstats? These guys are working on it. @bedatadriven @oracle @TIBCO @LifeatPurdue #useR2013
+355387568054996993  Jul 11 14:06  @arjenpdevries    RT @hfmuehleisen: v. 0.7 of MonetDB.R, the @MonetDb <-> #Rstats connector was just published on CRAN http://cran.r-project.org/web/packages/MonetDB.R/ #useR2013
+355391905393160195  Jul 11 14:23  @doctorjackpine   RT @RLangTip: To search for R-related FAQs on StackOverflow, precede your search query with [r] at http://bit.ly/Nmiq4e #rstats
+355395742048858112  Jul 11 14:38  @useR_2013        RT @jfelipe: And now running another terrific presentation by Colin Gillespie about poweRlaw #rstats #useR2013
+355396173726613504  Jul 11 14:40  @Rbloggers        Detecting regime change in irregular time series:  (This article was first published on   Cartesian ... http://bit.ly/15jYkC5 #rstats
+355396372754731008  Jul 11 14:41  @useR_2013        RT @hfmuehleisen: v. 0.7 of MonetDB.R, the @MonetDb <-> #Rstats connector was just published on CRAN http://cran.r-project.org/web/packages/MonetDB.R/ #useR2013
+355396713776812032  Jul 11 14:42  @jfelipe          Here is my presentation on combining #Python and #rstats for data analysis, delivered at #useR2013 : https://dl.dropboxusercontent.com/u/51732727/presentation_R_Python.pdf
+355396865648373761  Jul 11 14:43  @useR_2013        RT @mj_kallen: The future of high-performance #rstats? These guys are working on it. @bedatadriven @oracle @TIBCO @LifeatPurdue #useR2013
+355398003911180289  Jul 11 14:47  @Gastove          RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+355399242627555328  Jul 11 14:52  @lisaczhang       RT @ramnath_vaidya: rCharts + Polychart + AngularJS! http://rcharts.io/controls/polychart/index.html #rstats #angularjs #d3js @Polychart @d3visualization http://t.co/a8sE3eYhSi
+355400897397919747  Jul 11 14:59  @adolfoalvarez    RT @jfelipe: Here is my presentation on combining #Python and #rstats for data analysis, delivered at #useR2013 : https://dl.dropboxusercontent.com/u/51732727/presentation_R_Python.pdf
