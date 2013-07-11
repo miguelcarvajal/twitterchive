@@ -11281,3 +11281,30 @@
 355034764828348418  Jul 10 14:44  @timelyportfolio  #rCharts master @ramnath_vaidya amazes again w/ http://youtu.be/bxvQZKGaroA #nvd3 #d3js w/ graph controls straight from #rstats no shiny
 355036388992880641  Jul 10 14:50  @williammcknight  RT @revodavid: Some highlights from the latest R Journal: maps, braille, data sets, GEE, and much more: http://bit.ly/16ZZ9Sa #rstats
 355036815373254658  Jul 10 14:52  @KevinLDavenport  RT @useR_2013: @hadleywickham at #useR2013 now. BiggeR data Analysis #rstats http://t.co/s1G8zxTzKT
+355038980892401664  Jul 10 15:01  @JamesMeadow      This is fascinating, speaking as one spurned by #rstats help boards RT @hylopsar: Has R-help gotten meaner over time? http://badhessian.org/2013/04/has-r-help-gotten-meaner-over-time-and-what-does-mancur-olson-have-to-say-about-it/
+355039371960922113  Jul 10 15:02  @timelyportfolio  RT @ramnath_vaidya: Interactive Charts with Controls. http://youtu.be/bxvQZKGaroA http://rcharts.io/controls/  #rstats #rCharts @d3visualization http://t.co/n9yzrG39Sw
+355039893652635648  Jul 10 15:04  @timelyportfolio  RT @JamesMeadow: This is fascinating, speaking as one spurned by #rstats help boards RT @hylopsar: Has R-help gotten meaner over time? http://t.co/554Mv7sxJU
+355040927896698883  Jul 10 15:08  @jjmullz          Submitted first http://Kaggle.com entry, using #rstats and random forests. 75% accuracy, enough to scrape it into the bottom 15%. Ha.
+355042151513595904  Jul 10 15:13  @timelyportfolio  what all the cool kids are doing #rstats #d3js and #angularjs
+355043930787680256  Jul 10 15:20  @Rbloggers        Parallel Random Number Generation using TRNG:  (This article was first published on   Lindons Log » ... http://bit.ly/16rwV0s #rstats
+355044351912583168  Jul 10 15:22  @chupvl           ~Installing the Development Version of R on Ubuntu (alongside the current version of #rstats ).~ The time have come!  http://www.personal.psu.edu/mar36/blogs/the_ubuntu_r_blog/2012/08/installing-the-development-version-of-r-on-ubuntu-alongside-the-current-version-of-r.html
+355044386175844353  Jul 10 15:22  @tonyfischetti    "Ever been frustrated googling for “R”?..." new-ish site for searching R documentation http://www.rdocumentation.org #rstats
+355045151636332544  Jul 10 15:25  @BigDataGal       Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKW2u #Rstats #GeoInt
+355045151791525888  Jul 10 15:25  @LillianPierson   Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKW2A #Rstats #GeoInt
+355050266837528576  Jul 10 15:45  @nucAmbiguous     RT @BigDataGal: Statistics for Point Pattern Analysis in the Real World http://ow.ly/mKW2u #Rstats #GeoInt
+355050373888745474  Jul 10 15:46  @mjcavaretta      Looks interesting! RT @shoha99: Introducing Monte Carlo Methods with R http://www.springer.com/statistics/computational+statistics/book/978-1-4419-1575-7 #springer #rstats @denisparra
+355051134349615105  Jul 10 15:49  @ibartomeus       Anyone knows a reference to backup that in linear regression, the slope and intercept are not sensitive to sample size. Thanks #rstats
+355051374871977985  Jul 10 15:50  @southmapr        @hadleywickham great talk #useR2013 http://bit.ly/bigrdata2 R designed so humans can analyse data fast, C++ does that for computers #rstats
+355052360420184064  Jul 10 15:54  @ramnath_vaidya   rCharts + Polychart + AngularJS! http://rcharts.io/controls/polychart/index.html #rstats #angularjs #d3js @Polychart @d3visualization http://t.co/a8sE3eYhSi
+355053288070189056  Jul 10 15:57  @rmflight         .@rstudioapp pres funct in latest version is making it much easier and faster to create web-presentations using markdown and #rstats
+355055521000210434  Jul 10 16:06  @causalityblog    RT @EpiFunky: The Prevalence package provides Frequentist & Bayesian methods for prevalence assessmnt studies #rstats #epidemiology http://t.co/OxKqPZKCb9
+355067758431580160  Jul 10 16:55  @thomaslevine     I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+355068753987379201  Jul 10 16:59  @JoyceFaler       RT @RLangTip: Strip non-ASCII characters from a string with iconv(bad.text, to="ASCII", sub="") #rstats http://bit.ly/RPbC3U
+355074079675518976  Jul 10 17:20  @Rbloggers        rCharts version of d3 horizon:  (This article was first published on   Timely Portfolio, and kindly ... http://bit.ly/1aqRKRm #rstats
+355084094129979393  Jul 10 18:00  @timelyportfolio  RT @ramnath_vaidya: rCharts + Polychart + AngularJS! http://rcharts.io/controls/polychart/index.html #rstats #angularjs #d3js @Polychart @d3visualization http://t.co/a8sE3eYhSi
+355085076310147074  Jul 10 18:04  @chlalanne        RT @ramnath_vaidya: rCharts + Polychart + AngularJS! http://rcharts.io/controls/polychart/index.html #rstats #angularjs #d3js @Polychart @d3visualization http://t.co/a8sE3eYhSi
+355088258910269443  Jul 10 18:16  @revodavid        Some personal highlights from Day 1 of #User2013 http://bit.ly/1bpfLpU #rstats
+355089171523706880  Jul 10 18:20  @Rbloggers        Visualizing a tiny slice of India’s demographics with information from Wikipedia:  (This article was... http://bit.ly/1ar4JCG #rstats
+355093349096632322  Jul 10 18:37  @Demografia_CSIC  Visualizing a tiny slice of India’s demographics with information from Wikipedia. http://bit.ly/1ar4JCG #rstats vía @Rbloggers
+355098891961638914  Jul 10 18:59  @kara_woo         I am attempting to send a tweet with #rstats.
+355118023968952321  Jul 10 20:15  @zentree          RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
