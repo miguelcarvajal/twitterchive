@@ -11590,3 +11590,59 @@
 355566664701575169  Jul 12 01:57  @drago_carlo      Detecting regime change in irregular time series http://www.r-bloggers.com/detecting-regime-change-in-irregular-time-series/ @prismatic @Rbloggers #Statistics #TimeSeries #RegimeChange #Rstats
 355567689453944832  Jul 12 02:01  @MikeScarp        RT @drwandel: Mindblown by #shiny from #rstudio. The Talk should have had a Keynote Slot. #useR2013 #Rstats
 355581197851693057  Jul 12 02:55  @Bioconductor     #Bioconductor / #rstats new course material from #CSAMA 2013, #useR2013 http://bit.ly/12l5W5D
+355586226486644736  Jul 12 03:15  @BioMickWatson    RT @Bioconductor #Bioconductor / #rstats new course material from #CSAMA 2013, #useR2013 http://bit.ly/12l5W5D
+355586340156489728  Jul 12 03:16  @edwindjonge      Very interesting talk by Steve Scott on nowcasting. #rstats #useR2013
+355587437977804800  Jul 12 03:20  @Rbloggers        Generate UUIDs in R:  (This article was first published on   Digithead's Lab Notebook, and kindly co... http://bit.ly/1b5yLLy #rstats
+355589837786595330  Jul 12 03:29  @berndweiss       Next Köln R User Meeting: 19 July 2013, 2 talks about Twitter & networks http://www.meetup.com/KoelnRUG/events/114129792/ #rstats #user #cologne
+355591992878694400  Jul 12 03:38  @LouBajuk         RT @jfelipe: Here is my presentation on combining #Python and #rstats for data analysis, delivered at #useR2013 : https://dl.dropboxusercontent.com/u/51732727/presentation_R_Python.pdf
+355592562427441152  Jul 12 03:40  @fellgernon       RT @jaynal83: Those who missed poster session here is my poster #useR2013 #rstats http://t.co/PKoWVMYJL7
+355593854981910528  Jul 12 03:45  @fellgernon       RT @adolfoalvarez: Highly commented talk about naming conventions in #rstats by @rabaath https://www.dropbox.com/s/e5eccshk260123b/UseR2013Rnamingconventions.pdf #useR2013
+355595718276300800  Jul 12 03:53  @fellgernon       RT @Bioconductor: #Bioconductor / #rstats new course material from #CSAMA 2013, #useR2013 http://bit.ly/12l5W5D
+355596446604595200  Jul 12 03:56  @jfelipe          bsts package for structural tseries models in R (w/ native C++ library). Admits trend, seasonal + regression blocks #useR2013 #rstats
+355599198487453696  Jul 12 04:07  @davetang31       RT @Bioconductor: #Bioconductor / #rstats new course material from #CSAMA 2013, #useR2013 http://bit.ly/12l5W5D
+355601331861454848  Jul 12 04:15  @mj_kallen        RT "@bedatadriven: http://packages.renjin.org is updated! See if Renjin can already run your favorite CRAN package" #useR2013 #Rstats
+355602832432431104  Jul 12 04:21  @jaynal83         Last day #useR2013 #rstats, I will miss this great event..
+355608368745943040  Jul 12 04:43  @chlalanne        RT @Bioconductor: #Bioconductor / #rstats new course material from #CSAMA 2013, #useR2013 http://bit.ly/12l5W5D
+355610002410569729  Jul 12 04:50  @adolfoalvarez    Elevating #rstats to supercomputers (pdbR package) https://raw.github.com/wrathematics/talks/master/user2013/elevatingr.pdf #useR2013
+355610936524021760  Jul 12 04:53  @LouBajuk         RT @adolfoalvarez: Elevating #rstats to supercomputers (pdbR package) https://raw.github.com/wrathematics/talks/master/user2013/elevatingr.pdf #useR2013
+355615987040665600  Jul 12 05:13  @MangoTheCat      LondonR meeting 16th July now FULL- sorry to those who haven't been able to register #rstats  http://www.londonr.org
+355616572867493888  Jul 12 05:16  @MangoTheCat      RT @SeanSHLee: #Rstats http://t.co/LvwskwMEgh
+355616981275254785  Jul 12 05:17  @MangoTheCat      RT @jaynal83: Those who missed poster session here is my poster #useR2013 #rstats http://t.co/PKoWVMYJL7
+355618258033979392  Jul 12 05:22  @nhcooper123      Software as cars: SPSS = Vauxhall boring, SAS = Bentley ie a car bought by someone who doesn't drive, R = custom landrover! #rstats
+355618349201358849  Jul 12 05:23  @johannux         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355619313979367424  Jul 12 05:27  @rapporters       I've just uploaded my lightning talk on pander: a #markdown writer #rstats package http://www.scribd.com/doc/153346424/Lightning-talk-on-pander-markdown-in-R via @Scribd at #useR2013
+355620223107342336  Jul 12 05:30  @drnickisaac      @geospacedman : "If #rstats was a car it would be this one" http://twitter.com/cieronymidou/status/355618775384588288/photo/1 MT @cieronymidou #BESMacro
+355620285652799492  Jul 12 05:30  @christianjonez   RT @SeanSHLee: #Rstats http://t.co/LvwskwMEgh
+355626112941965313  Jul 12 05:54  @adolfoalvarez    RT @rapporters: I've just uploaded my lightning talk on pander: a #markdown writer #rstats package http://www.scribd.com/doc/153346424/Lightning-talk-on-pander-markdown-in-R via @Scribd at #useR2013
+355627005724729344  Jul 12 05:57  @joaquinarma      14 horas ejecutando un script de #Rstats para el desafío amazon de kaggle y conseguir un score peor que ayer.
+355629795079516160  Jul 12 06:08  @mj_kallen        .@hfmuehleisen presenting a very sensible approach to using a column store (MonetDB) in #rstats #useR2013 http://t.co/6cKOR41rYe
+355630042266603521  Jul 12 06:09  @cieronymidou     The R Inferno. Recommended masochistic read of the journey through the circles of #rstats hell http://www.burns-stat.com/documents/books/the-r-inferno/ … #BESMacro
+355631414106005507  Jul 12 06:15  @hfmuehleisen     RT @mj_kallen: .@hfmuehleisen presenting a very sensible approach to using a column store (MonetDB) in #rstats #useR2013 http://t.co/6cKOR41rYe
+355632788147412992  Jul 12 06:20  @ArthurFlam       For tree lovers : @RevolutionR implements in #Rstats new tree-based algorithms scaling nicely with large datasets http://blog.revolutionanalytics.com/2013/07/rxdtree-a-new-type-of-tree-algorithm.html
+355633338230390785  Jul 12 06:22  @hfmuehleisen     Slides from my talk at #useR2013 on integrating @MonetDB and #Rstats are online at http://hannes.muehleisen.org/USER2013-muehleisen-monetdbr-slides.pdf
+355633582338875392  Jul 12 06:23  @adolfoalvarez    RT @hfmuehleisen: Slides from my talk at #useR2013 on integrating @MonetDB and #Rstats are online at http://hannes.muehleisen.org/USER2013-muehleisen-monetdbr-slides.pdf
+355635162811338752  Jul 12 06:30  @nhcooper123      http://Rdocumentation.org for all your R documentation needs! Via @geospacedman #rstats #BESMacro
+355635231887343616  Jul 12 06:30  @romain_francois  RT @MangoTheCat: LondonR meeting 16th July now FULL- sorry to those who haven't been able to register #rstats  http://www.londonr.org
+355636439721066496  Jul 12 06:35  @TriploidTree     RT @nhcooper123: http://Rdocumentation.org for all your R documentation needs! Via @geospacedman #rstats #BESMacro
+355637416964526084  Jul 12 06:39  @MikejMcDermott   RT @nhcooper123: http://Rdocumentation.org for all your R documentation needs! Via @geospacedman #rstats #BESMacro
+355637545108901888  Jul 12 06:39  @hadleywickham    RT @hfmuehleisen: Slides from my talk at #useR2013 on integrating @MonetDB and #Rstats are online at http://hannes.muehleisen.org/USER2013-muehleisen-monetdbr-slides.pdf
+355639163464327169  Jul 12 06:45  @cieronymidou     Finally! A #rstats package to output results in a good-looking report! knitr: http://yihui.name/knitr/ #BESMacro
+355639593611173888  Jul 12 06:47  @southmapr        RT @jaynal83: Those who missed poster session here is my poster #useR2013 #rstats http://t.co/PKoWVMYJL7
+355640969749737472  Jul 12 06:53  @cieronymidou     Lots of really great #rstats resources on @geospacedman 's website for peeps learning R (@JNRMSY): http://www.maths.lancs.ac.uk/~rowlings/Teaching/Sheffield2013/
+355644153427800064  Jul 12 07:05  @cathwaller       RT @nhcooper123: http://Rdocumentation.org for all your R documentation needs! Via @geospacedman #rstats #BESMacro
+355646674963677185  Jul 12 07:15  @jonsedar         #rstats users: the last 10 rows of data.frame df is easy: df[seq(nrow(df)-10,nrow(df),1),] but this doesnt work for a data.table. Any ideas?
+355649947917500416  Jul 12 07:28  @rapporters       RT @user2014_ucla: useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
+355654385994448896  Jul 12 07:46  @jmgcorral        La Importancia de transmitir datos visualmente, un reto del #BigData y algunas herramientas  http://bit.ly/12rBMkz #rstats #recursos
+355657176271945728  Jul 12 07:57  @StevenLJohnson   Handy primer of #Rstats tricks: R spells for data wizards | @scoopit http://sco.lt/8hsBYP
+355658297556221953  Jul 12 08:02  @v1pl             Did a tag-cloud of #fifthel tweets for a 1-minute flash talk based on some stuff learnt at the #Rstats workshops http://bit.ly/12vZcAG
+355659549555949568  Jul 12 08:06  @ashwnacharya     RT @v1pl: Did a tag-cloud of #fifthel tweets for a 1-minute flash talk based on some stuff learnt at the #Rstats workshops http://t.co/7nRt9IDMJi
+355659740610703360  Jul 12 08:07  @JNRMSY           RT @cieronymidou: Lots of really great #rstats resources on @geospacedman 's website for peeps learning R (@JNRMSY): http://www.maths.lancs.ac.uk/~rowlings/Teaching/Sheffield2013/
+355660243126071296  Jul 12 08:09  @EstadisticaUVa   Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf  #rstats
+355661587320803328  Jul 12 08:15  @genetics_blog    Materials from useR! 2013 couse: #Rstats/#Bioconductor for Analyzing High-Throughput #Genomics Data http://gettinggeneticsdone.blogspot.com/2013/07/course-materials-from-user-2013.html #bioinformatics
+355663619909890049  Jul 12 08:23  @johannux         Introduction to R YouTube playlist: http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP #rstats
+355665708333531136  Jul 12 08:31  @quandl           A few articles from R Journal: 2013 | Revolution Analytics http://qndl.co/1a6hSgO  #rstats
+355666325034639360  Jul 12 08:33  @hardikshah007    RT @genetics_blog: Materials from useR! 2013 couse: #Rstats/#Bioconductor for Analyzing High-Throughput #Genomics Data http://t.co/GpVQEv5YNr #bioinformatics
+355666976468770816  Jul 12 08:36  @smideros         RT @genetics_blog: Materials from useR! 2013 couse: #Rstats/#Bioconductor for Analyzing High-Throughput #Genomics Data http://t.co/GpVQEv5YNr #bioinformatics
+355668664260890624  Jul 12 08:43  @JamesMeadow      RT @ArthurFlam: For tree lovers : @RevolutionR implements in #Rstats new tree-based algorithms scaling nicely with large datasets http://t.co/ZhchU0OrIW
+355671124715118593  Jul 12 08:52  @MarchiMax        Intro videos to #rstats by GoogleDevelopers: http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP
+355671956479152129  Jul 12 08:56  @MarchiMax        #rstats and there's this one too: http://www.r-bloggers.com/building-datamind-free-online-interactive-learning-plaftorm-for-r/
