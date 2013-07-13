@@ -11697,3 +11697,39 @@
 355759751117799424  Jul 12 14:45  @beccamedwards    RT @revodavid: My highlights from days 2-3 of #UseR2013. #rstats at Groupon and Google, Bayesian stats and R 3.1 news, much more: http://t.co/eZB2T5LJYB
 355760720975106049  Jul 12 14:49  @NEdgingtonPhD    RT @genetics_blog: Materials from useR! 2013 couse: #Rstats/#Bioconductor for Analyzing High-Throughput #Genomics Data http://t.co/GpVQEv5YNr #bioinformatics
 355762627017846786  Jul 12 14:56  @joshua_ulrich    @CMastication segue question on SO: http://stackoverflow.com/q/17622071/271616 #rstats
+355766638110449665  Jul 12 15:12  @timelyportfolio  RT @StrictlyStat: Next level (read: future of) statistical teaching slide decks: http://ramnathv.github.io/slidifyExamples/examples/probability/ILE.html#22 @ramnath_vaidya #Astounding #rstats
+355766965933051904  Jul 12 15:13  @hugoguzman       RT @StrictlyStat: Next level (read: future of) statistical teaching slide decks: http://ramnathv.github.io/slidifyExamples/examples/probability/ILE.html#22 @ramnath_vaidya #Astounding #rstats
+355767345202999296  Jul 12 15:15  @ramnath_vaidya   Integrated Learning Environment: A Prototype http://slidify.github.io/ile #rstats @kaythaney @gvwilson #rstats  @hadleywickham @popcornjs
+355767767955283969  Jul 12 15:17  @lgatt0           pbdDEMO: Programming with Big Data - Demonstrations of pbd #rstats Packages - http://cran.r-project.org/web/packages/pbdDEMO/
+355768757844586497  Jul 12 15:20  @jmgomez          RT @Rbloggers: A possibility for use R and #Hadoop together http://bit.ly/15aXRlE #rstats #bigdata
+355768800290942977  Jul 12 15:21  @mjcavaretta      RT @lgatt0: pbdDEMO: Programming with #BigData - Demonstrations of pbd #rstats Packages - http://cran.r-project.org/web/packages/pbdDEMO/
+355770721143758848  Jul 12 15:28  @ebaste           RT @jmgomez: RT @Rbloggers: A possibility for use R and #Hadoop together http://bit.ly/15aXRlE #rstats #bigdata cc @lirondos @gilbellosta
+355772223224680448  Jul 12 15:34  @dynoplus         RT @wyang72: 구글 개발자 팀이 만든 R 기초 강의 동영상 시리즈입니다. 각 동영상은 약 2분 정도의 길이이고, 현재 총 21개의 동영상이 올라와 있네요. #rstats http://www.youtube.com/watch?v=S-o-sdlzhkE&list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP
+355772514024161281  Jul 12 15:35  @timelyportfolio  RT @ramnath_vaidya: Integrated Learning Environment: A Prototype http://slidify.github.io/ile #rstats @kaythaney @gvwilson #rstats  @hadleywickham @popcornjs
+355775296290562048  Jul 12 15:46  @jkiernander      RT @timelyportfolio: #d3js #dimplejs time axis test with #rstats #rCharts: http://rcharts.io/viewer/?5985812#.UeBM7_T0l6_.twitter dev ver now accepts @jkiernander new addTimeAxis
+355775828614852609  Jul 12 15:49  @leo_grimaldi     RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+355779088687964160  Jul 12 16:01  @ypriverol        RT @lgatt0: pbdDEMO: Programming with Big Data - Demonstrations of pbd #rstats Packages - http://cran.r-project.org/web/packages/pbdDEMO/
+355783550676635648  Jul 12 16:19  @mjcavaretta      RT @kdnuggets Lessons learned from a tough #BigData #analytics project w Hadoop, Hive, Pig, Pentaho, SQL and #Rstats. http://bit.ly/12pkXqE
+355786213690580992  Jul 12 16:30  @PhytophthoraLab  RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355786684555726848  Jul 12 16:32  @RickWicklin      Great analysis of nerf guns. http://shawntoneil.com/index.php/pages/nerftest1 #rstats via @scheidegger See this simpler experiment by my kids http://blogs.sas.com/content/iml/2011/02/25/bias-and-covariance-explained-to-an-11-year-old/
+355789744375988225  Jul 12 16:44  @jaynal83         In #useR2013 #rstats mostly pronounced name I think is @hadleywickham and he deserve this for great contribution to R community
+355792033782312960  Jul 12 16:53  @useR_2013        RT @revodavid: My highlights from days 2-3 of #UseR2013. #rstats at Groupon and Google, Bayesian stats and R 3.1 news, much more: http://t.co/eZB2T5LJYB
+355794642610028545  Jul 12 17:03  @chlalanne        RT @RickWicklin: Great analysis of nerf guns. http://shawntoneil.com/index.php/pages/nerftest1 #rstats via @scheidegger See this simpler experiment by my kids http://t.co/AXzk5mQ32r
+355797613154549761  Jul 12 17:15  @timelyportfolio  #d3js horizon with axis straight from #rstats #rCharts: http://rcharts.io/viewer/?5987883#.UeBxyjuTNay.twitter @ramnath_vaidya
+355800759473942528  Jul 12 17:28  @owntalk          RT @wyang72: 구글 개발자 팀이 만든 R 기초 강의 동영상 시리즈입니다. 각 동영상은 약 2분 정도의 길이이고, 현재 총 21개의 동영상이 올라와 있네요. #rstats http://www.youtube.com/watch?v=S-o-sdlzhkE&list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP
+355807209776615425  Jul 12 17:53  @mattmoehr        Does anyone use xtable to make pretty tables? #rstats #FF #sharknado
+355807776477421568  Jul 12 17:55  @NoahFahlgren     RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355809077269508096  Jul 12 18:01  @kdnuggets        From Whale Calls to Dark Matter: Competitive Data Science with R and Python #rstats http://bit.ly/1dsiayc
+355809206688948225  Jul 12 18:01  @Botreen          RT @wyang72: 구글 개발자 팀이 만든 R 기초 강의 동영상 시리즈입니다. 각 동영상은 약 2분 정도의 길이이고, 현재 총 21개의 동영상이 올라와 있네요. #rstats http://www.youtube.com/watch?v=S-o-sdlzhkE&list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP
+355809532179521536  Jul 12 18:02  @SciPyTip         RT @kdnuggets: From Whale Calls to Dark Matter: Competitive Data Science with R and Python #rstats http://bit.ly/1dsiayc
+355810750494818305  Jul 12 18:07  @mandaYoho        RT @SciPyTip: RT @kdnuggets: From Whale Calls to Dark Matter: Competitive Data Science with R and Python #rstats http://bit.ly/1dsiayc
+355815925850705920  Jul 12 18:28  @jabawack         RT @kdnuggets: From Whale Calls to Dark Matter: Competitive Data Science with R and Python #rstats http://bit.ly/1dsiayc
+355816527846576128  Jul 12 18:30  @hashonomy_gus    UseR! 2013: it's a wrap! http://hashonomy.com/tO6f/ #user2013 #rstats (via @revodavid)
+355816642258804736  Jul 12 18:31  @KenAnalytics     RT @SciPyTip: RT @kdnuggets: From Whale Calls to Dark Matter: Competitive Data Science with R and Python #rstats http://bit.ly/1dsiayc
+355818594627629056  Jul 12 18:38  @KenAnalytics     RT @RickWicklin: Great analysis of nerf guns. http://shawntoneil.com/index.php/pages/nerftest1 #rstats via @scheidegger See this simpler experiment by my kids http://t.co/AXzk5mQ32r
+355822624263258113  Jul 12 18:54  @adolfoalvarez    RT @revodavid: My highlights from days 2-3 of #UseR2013. #rstats at Groupon and Google, Bayesian stats and R 3.1 news, much more: http://t.co/eZB2T5LJYB
+355823505713020928  Jul 12 18:58  @MarkHornick      Want to use R to unlock the power of #BigData? See our new book http://www.amazon.com/Using-Unlock-Value-Big-Data/dp/0071824383 #RStats #OracleREnterprise #ORCH #OraclePress #Oracle
+355832637039972355  Jul 12 19:34  @drago_carlo      Reflections on UseR! 2013 http://www.statsblogs.com/2013/07/12/reflections-on-user-2013/utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+statsblogs+%28StatsBlogs%29 @robjhyndman @StatsBlogs #Forecasting #Rstats #Statistics #MachineLearning
+355832803507707904  Jul 12 19:35  @eddelbuettel     RT @ramnath_vaidya: Integrated Learning Environment: A Prototype http://slidify.github.io/ile #rstats @kaythaney @gvwilson #rstats  @hadleywickham @popcornjs
+355845017073491968  Jul 12 20:23  @BrettTylerOSU    RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+355849895636242432  Jul 12 20:43  @davetang31       RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
