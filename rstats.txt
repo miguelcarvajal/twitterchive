@@ -11822,3 +11822,39 @@
 356290156141096962  Jul 14 01:52  @personlin        RT @t1c1: #useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
 356299546017546241  Jul 14 02:30  @jaredlander      About to talk #rstats and pizza at Technion in Haifa.
 356301121066766336  Jul 14 02:36  @ramnath_vaidya   RT @jaredlander: About to talk #rstats and pizza at Technion in Haifa.
+356313416463429633  Jul 14 03:25  @jaredlander      RT @ramnath_vaidya: Integrated Learning Environment: A Prototype http://slidify.github.io/ile #rstats @kaythaney @gvwilson #rstats  @hadleywickham @popcornjs
+356315301773709313  Jul 14 03:32  @chlalanne        RT @ramnath_vaidya: Integrated Learning Environment: A Prototype http://slidify.github.io/ile #rstats @kaythaney @gvwilson #rstats  @hadleywickham @popcornjs
+356316035097432066  Jul 14 03:35  @OpenAnalytics    RT @revodavid: My highlights from days 2-3 of #UseR2013. #rstats at Groupon and Google, Bayesian stats and R 3.1 news, much more: http://t.co/eZB2T5LJYB
+356317726433751042  Jul 14 03:42  @Miss_Salmonella  RT @genetics_blog: bioNerDS: exploring #bioinformatics' database and software use through literature mining http://www.biomedcentral.com/1471-2105/14/194 #Rstats
+356341523849293824  Jul 14 05:16  @eoinbrazil       RT @eddelbuettel: Slides from my Rcpp talk to the Sydney R Users Group this week: http://goo.gl/J8syX #rstats #rcpp
+356342401675173889  Jul 14 05:20  @romain_francois  Flying to London this afternoon for #rstats in insurance tomorrow, #Rcpp training with @hadleywickham on tuesday, followed by LondonR.
+356352037753061376  Jul 14 05:58  @romain_francois  RT @eddelbuettel: Slides from my Rcpp talk to the Sydney R Users Group this week: http://goo.gl/J8syX #rstats #rcpp
+356363145629020161  Jul 14 06:42  @ramnath_vaidya   RT @eddelbuettel: Slides from my Rcpp talk to the Sydney R Users Group this week: http://goo.gl/J8syX #rstats #rcpp
+356370034114834433  Jul 14 07:10  @divyakkm         RT @eddelbuettel: Slides from my Rcpp talk to the Sydney R Users Group this week: http://goo.gl/J8syX #rstats #rcpp
+356370036509777921  Jul 14 07:10  @divyakkm         RT @t1c1: #useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
+356381926740869121  Jul 14 07:57  @perisaccadic     Can you guess what this #rstats prints? (function(x = (x <- 5) + 1) {print(x); print(x)})()
+356389073973280769  Jul 14 08:25  @chlalanne        RT @eddelbuettel: Slides from my Rcpp talk to the Sydney R Users Group this week: http://goo.gl/J8syX #rstats #rcpp
+356391237202345984  Jul 14 08:34  @statslabdublin   RT @romain_francois: Flying to London this afternoon for #rstats in insurance tomorrow, #Rcpp training with @hadleywickham on tuesday, followed by LondonR.
+356394172888002561  Jul 14 08:46  @martinmev        RT @eddelbuettel: Slides from my Rcpp talk to the Sydney R Users Group this week: http://goo.gl/J8syX #rstats #rcpp
+356395295648661504  Jul 14 08:50  @KevinLDavenport  useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
+356403893560803328  Jul 14 09:24  @hashonomy_gus    Thinking inside the box http://hashonomy.com/b59f/ #rstats #rcpp (via @eddelbuettel)
+356406388777435136  Jul 14 09:34  @ArthurFlam       RT @ramnath_vaidya: Integrated Learning Environment: A Prototype http://slidify.github.io/ile #rstats @kaythaney @gvwilson #rstats  @hadleywickham @popcornjs
+356408857515409409  Jul 14 09:44  @timelyportfolio  RT @pssGuy: Any #rstats #cricket chart fans out there? Check out Oz chances  from past 4th inns efforts http://bit.ly/12ySH09 http://t.co/2B34SA25VO
+356410016145735680  Jul 14 09:49  @perisaccadic     psst #rstats: RT @geofft Any sufficiently complicated language community has an ad-hoc bug-ridden implementation of half of Debian packaging
+356415429247385600  Jul 14 10:10  @Rbloggers        Rain in Netherlands during the past 100 years:  (This article was first published on   Wiekvoet, and... http://bit.ly/13gxmbO #rstats
+356432266576138241  Jul 14 11:17  @rOpenSci         Search @datacite metadata via #rstats e.g.'s here: http://bit.ly/18eLBmY  (uses SOLR syntax)
+356439882018717697  Jul 14 11:47  @drago_carlo      Visually weighted regression in R (à la Solomon Hsiang) http://www.r-bloggers.com/visually-weighted-regression-in-r-a-la-solomon-hsiang/ @Rbloggers #Statistics #Visualization #Rstats
+356440514473635840  Jul 14 11:50  @IvanCogliati     RT @jacopoanselmi: The Excel Depression http://www.nytimes.com/2013/04/19/opinion/krugman-the-excel-depression.html?_r=0 -- it's time for #rstats and #reproducible #research with #open #software
+356449024200552449  Jul 14 12:24  @DrQz             Some magic R incantations http://is.gd/MnlohR #rstats
+356456368812736512  Jul 14 12:53  @hadleywickham    RT @perisaccadic: Can you guess what this #rstats prints? (function(x = (x <- 5) + 1) {print(x); print(x)})()
+356457734981427202  Jul 14 12:58  @pjpuglia         RT @perisaccadic: Can you guess what this #rstats prints? (function(x = (x <- 5) + 1) {print(x); print(x)})()
+356458961798569985  Jul 14 13:03  @quandl           The mechanics of #data visualization by @tylerrinker http://qndl.co/1584iGu #rstats
+356459491400761344  Jul 14 13:05  @romain_francois  RT @perisaccadic: Can you guess what this #rstats prints? (function(x = (x <- 5) + 1) {print(x); print(x)})()
+356459852735852544  Jul 14 13:07  @superminster     Anyone else feel closer to a hacker when they get proficient in R? #newbie #Rstats
+356466947501719554  Jul 14 13:35  @timelyportfolio  "2013-7 Advanced #SVG Graphics from #rstats" nicely done from nz http://stattech.wordpress.fos.auckland.ac.nz/2013-7-advanced-svg-graphics-from-r/
+356467355456507904  Jul 14 13:36  @recology_        Architect, an #rstats IDE for Eclipse http://bit.ly/15uqFWA / @openanalytics
+356477408750211073  Jul 14 14:16  @robin_andersson  Lazy evaluation with side effects MT @perisaccadic: Guess what this #rstats prints? (function(x = (x <- 5) + 1) {print(x); print(x)})()
+356480170875559936  Jul 14 14:27  @gaoce            RT @perisaccadic: Can you guess what this #rstats prints? (function(x = (x <- 5) + 1) {print(x); print(x)})()
+356483493766770688  Jul 14 14:41  @PeterFlomStat    I'm thinking of writing a paper on visualizing reg. to the mean. I need help with #rstats code. Anyone want to co-author?
+356484102599356416  Jul 14 14:43  @srossmktg        RT @peterflomstat: I'm thinking of writing a paper on visualizing reg. to the mean. I need help with #rstats code. Anyone want to co-author?
+356486504714997761  Jul 14 14:53  @EpiFunky         RT @PeterFlomStat: I'm thinking of writing a paper on visualizing reg. to the mean. I need help with #rstats code. Anyone want to co-author?
