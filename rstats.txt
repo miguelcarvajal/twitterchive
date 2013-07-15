@@ -11895,3 +11895,45 @@
 356737325096632320  Jul 15 07:29  @m_a_upson        New update to the stargazer package makes formatting regression results tables easy #LaTeX #Rstats http://lnkd.in/yhFu7M
 356755496457342976  Jul 15 08:41  @statslabdublin   Looking forward to #londonr #rstats meeting tomorrow. Who else is going?
 356756031814123521  Jul 15 08:44  @noticiasSobreR   Las V Jornadas de Usuarios de R, en Zaragoza: Escribo para anunciar públicamente que están en marcha l... http://tinyurl.com/oslo7x8 #rstats
+356762968324710401  Jul 15 09:11  @SardelichM       Restricted Boltzmann Machines (#RBM) source code in #Rstats: http://bit.ly/13kQ6a5 . (btw, an opportunity to develop a package!)
+356766862727577600  Jul 15 09:27  @SardelichM       the #RWeka package! Interface of #Weka #machinelearning library in #Rstats:  http://cran.r-project.org/web/packages/RWeka/vignettes/RWeka.pdf
+356769958954401792  Jul 15 09:39  @romain_francois  #rstats being adopted in the insurance community. From the 1st R in insurance conference in London. http://t.co/1mXLlPmgJw
+356773877143175169  Jul 15 09:54  @randyzwitch      Downloaded working paper with 3 pages describing problem/conclusions, 1 page of references, and 35 page of #rstats code. Seems unbalanced.
+356777050285162496  Jul 15 10:07  @CondorOptions    Free business idea: an online gallery of #rstats art. You get a framed print and the code that generated it with your purchase.
+356777825581285379  Jul 15 10:10  @Rbloggers        useR 2013:  (This article was first published on   Rainer's Blog » R, and kindly contributed to R-bl... http://bit.ly/1bgmXWX #rstats
+356777827087040513  Jul 15 10:10  @Rbloggers        Read GRASS raster directly into R?:  (This article was first published on   Rainer's Blog » R, and k... http://bit.ly/15xCZ8o #rstats
+356779149517537280  Jul 15 10:15  @TheBradOnSE      RT @SardelichM: Restricted Boltzmann Machines (#RBM) source code in #Rstats: http://bit.ly/13kQ6a5 . (btw, an opportunity to develop a package!)
+356779171462135808  Jul 15 10:15  @Datamarketing_   ¿Cómo analizar datos de Twitter con R?  http://flpbd.it/sLyXg   #rstats #BI #Datamining
+356782610258739200  Jul 15 10:29  @timelyportfolio  RT @romain_francois: #rstats being adopted in the insurance community. From the 1st R in insurance conference in London. http://t.co/1mXLlPmgJw
+356785253756571649  Jul 15 10:40  @NestorMontano    R talks to Weka about Data Mining http://fibosworld.wordpress.com/2013/07/14/r-talks-to-weka-about-data-mining/ #RStats
+356790186031583233  Jul 15 10:59  @cloudHPC         @hackanoon check out our small #rstats hackathon http://www.meetup.com/munich-useR-group/events/123874602/
+356793013961359363  Jul 15 11:10  @DatametricsBI    Cómo contruir expresiones regulares para trabajar calidad en los datos http://www.regular-expressions.info/rlanguage.html  #rstats
+356797275713986560  Jul 15 11:27  @romain_francois  Use of #shiny for catastrophe modelling at the #rstats in insurance conference. http://t.co/mYhdZVGeFN
+356799939235430401  Jul 15 11:38  @biouno           RT @genetics_blog: bioNerDS: exploring #bioinformatics' database and software use through literature mining http://www.biomedcentral.com/1471-2105/14/194 #Rstats
+356804393615626240  Jul 15 11:56  @jmgomez          RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+356806547285876736  Jul 15 12:04  @sharon000        How to set up a business dashboard with R http://bit.ly/1bgLKtM #rstats #dataviz #bi
+356807587238383619  Jul 15 12:08  @RLangTip         Convert a design matrix (indicator matrix) back into a factor variable: http://bit.ly/NmbZye #rstats (via @therealprotonk)
+356807706578927617  Jul 15 12:09  @therealprotonk   RT @RLangTip: Convert a design matrix (indicator matrix) back into a factor variable: http://bit.ly/NmbZye #rstats (via @therealprotonk)
+356808042366517248  Jul 15 12:10  @inside_R         #rstats  More R user group meetings this week: Luxembourg, Raleigh-Durham, Singapore, Koeln, New Delhi http://bit.ly/9hVAPE
+356808261980270593  Jul 15 12:11  @inside_R         #rstats R user group meetings this week: Dublin, London, Vienna, Melbourne, http://bit.ly/9hVAPE
+356810917230555136  Jul 15 12:22  @duke_data        RT @sharon000: How to set up a business dashboard with R http://bit.ly/1bgLKtM #rstats #dataviz #bi
+356811585714520069  Jul 15 12:24  @Marko_GHz        RT @RLangTip: Convert a design matrix (indicator matrix) back into a factor variable: http://bit.ly/NmbZye #rstats (via @therealprotonk)
+356814758013444096  Jul 15 12:37  @SuseJohnston     dput() allows you to output an object in R code. e.g. data(iris); dput(iris$Petal.Width) #rstats #functionwatch
+356815079443935233  Jul 15 12:38  @MarchiMax        After quite some pain, I managed to install RMySQL on Win7 64-bit. Last time on XP was smoother. #Rstats
+356825010599493633  Jul 15 13:18  @pssGuy           If I had more time would investigate dramatic drop in #rstats package downloads from China  http://bit.ly/126LQyA http://t.co/J1SwCv17qn
+356827110263885824  Jul 15 13:26  @hylopsar         RT @SuseJohnston: dput() allows you to output an object in R code. e.g. data(iris); dput(iris$Petal.Width) #rstats #functionwatch
+356828353166192641  Jul 15 13:31  @wligtenberg      RT @revodavid: My highlights from days 2-3 of #UseR2013. #rstats at Groupon and Google, Bayesian stats and R 3.1 news, much more: http://t.co/eZB2T5LJYB
+356828898950004736  Jul 15 13:33  @misterduprey     @LillianPierson Best might be relative, but I like ggplot2's stat_binhex for #Rstats.
+356830139423789056  Jul 15 13:38  @wligtenberg      RT @romain_francois: #rstats being adopted in the insurance community. From the 1st R in insurance conference in London. http://t.co/1mXLlPmgJw
+356835799154696193  Jul 15 14:00  @DatametricsBI    Prediction Quality Over Statistical Purity - Steve Miller shares insights on forecasting and R #rstats http://bit.ly/MtAs4t
+356838738304827392  Jul 15 14:12  @csgillespie      My #user2013 presentation on power laws and reference classes: http://www.slideshare.net/csgillespie/user2013 #Rstats
+356839471389474816  Jul 15 14:15  @davidjayharris   Hmm... some #Rstats #Rcpp code that worked fine on my laptop is segfaulting on my desktop.  Weird. Currently diagnosing...
+356841654453420032  Jul 15 14:24  @davidjayharris   @davidjayharris Solved: problem exists between keyboard and chair. #Rstats #Rcpp
+356842840682274816  Jul 15 14:28  @Callme_Babyboy   I Lost Alotta Friends && They Not Even Dead   ( In Wale Voice ) #Rstats `
+356842973901762560  Jul 15 14:29  @__Jamiaaa        RT @Callme_Babyboy: I Lost Alotta Friends && They Not Even Dead   ( In Wale Voice ) #Rstats `
+356845185663115264  Jul 15 14:38  @richmanmax       The grave accent is your friend when faced with grave variable name danger in #rstats.
+356845525242351617  Jul 15 14:39  @stetzer          Team @centric's tech stack for the #HC4H included #postgres #PostGIS #playframework #rstats,  and @heremaps.  Will blog about it soon.
+356846128320348163  Jul 15 14:42  @mjcavaretta      MT @stetzer: Team @centric's tech stack for the #HC4H: #postgres #PostGIS #playframework #rstats,  and @heremaps.  Will blog about it soon.
+356846230917234688  Jul 15 14:42  @HHIChallenge     RT @stetzer: Team @centric's tech stack for the #HC4H included #postgres #PostGIS #playframework #rstats,  and @heremaps.  Will blog about it soon.
+356846503765094403  Jul 15 14:43  @centric          RT @stetzer: Team @centric's tech stack for the #HC4H included #postgres #PostGIS #playframework #rstats,  and @heremaps.  Will blog about it soon.
+356848866362007552  Jul 15 14:52  @watchLAB_Hays    RT @DatametricsBI: Prediction Quality Over Statistical Purity - Steve Miller shares insights on forecasting and R #rstats http://t.co/UDPSvKoZDC
