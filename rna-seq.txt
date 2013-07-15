@@ -2638,3 +2638,5 @@
 356242657481211904  Jul 13 22:44  @rnomics          Differential gene expression analysis using coexpression and #RNA-Seq data: Motivation:... http://bit.ly/13ZmuW1 #bioinformaticsj @MyEN
 356556894342610946  Jul 14 19:32  @SEQquestions     over-represented mitochondrial sequences in the RNA-seq data http://bit.ly/13ihmGh
 356557844260200448  Jul 14 19:36  @AliciaOshlack    Trinity protocol for de novo transcriptome assembly from RNA-seq data in non-model organisms http://www.nature.com/nprot/journal/v8/n8/full/nprot.2013.084.html
+356721544162058240  Jul 15 06:26  @imohorianu       NURD: an implementation of a new method to estimate isoform expression from non-uniform RNA-seq http://www.biomedcentral.com/1471-2105/14/220/abstract #bmcbioinformatics
+356752399706234880  Jul 15 08:29  @jameslz          De novo transcript reconstruction from RNA-seq using the Trinity platform for reference generation and analysis , http://www.nature.com/nprot/journal/v8/n8/full/nprot.2013.084.html
