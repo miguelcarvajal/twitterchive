@@ -2636,3 +2636,5 @@
 356114792244711424  Jul 13 14:15  @chapmanb         ALDEx: RNA-seq analysis: identify transcripts with small within-condition and large between-condition variance http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067019
 356176691254657024  Jul 13 18:21  @drchriscole      RT @BioMickWatson: RT @figshare SPAT: Searching for Poly(A) Tails in RNA-Seq de novo Assemblies:  http://dx.doi.org/10.6084/m9.figshare.744843 #cancer #genetics
 356242657481211904  Jul 13 22:44  @rnomics          Differential gene expression analysis using coexpression and #RNA-Seq data: Motivation:... http://bit.ly/13ZmuW1 #bioinformaticsj @MyEN
+356556894342610946  Jul 14 19:32  @SEQquestions     over-represented mitochondrial sequences in the RNA-seq data http://bit.ly/13ihmGh
+356557844260200448  Jul 14 19:36  @AliciaOshlack    Trinity protocol for de novo transcriptome assembly from RNA-seq data in non-model organisms http://www.nature.com/nprot/journal/v8/n8/full/nprot.2013.084.html
