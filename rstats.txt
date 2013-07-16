@@ -11937,3 +11937,47 @@
 356846230917234688  Jul 15 14:42  @HHIChallenge     RT @stetzer: Team @centric's tech stack for the #HC4H included #postgres #PostGIS #playframework #rstats,  and @heremaps.  Will blog about it soon.
 356846503765094403  Jul 15 14:43  @centric          RT @stetzer: Team @centric's tech stack for the #HC4H included #postgres #PostGIS #playframework #rstats,  and @heremaps.  Will blog about it soon.
 356848866362007552  Jul 15 14:52  @watchLAB_Hays    RT @DatametricsBI: Prediction Quality Over Statistical Purity - Steve Miller shares insights on forecasting and R #rstats http://t.co/UDPSvKoZDC
+356850910380568576  Jul 15 15:01  @DatametricsBI    Interfaces gráficas para R (Volumen especial del Journal of Statistical Software) http://www.jstatsoft.org/v49  #rstats
+356851038717870081  Jul 15 15:01  @adolfoalvarez    RT @csgillespie: My #user2013 presentation on power laws and reference classes: http://www.slideshare.net/csgillespie/user2013 #Rstats
+356851612112785409  Jul 15 15:03  @ManningMEAP      Read about Practical Data Science with R on AnalyticBridge http://bit.ly/15I4uOY @manningbooks @WinVectorLLC #Rstats #datascience
+356851745168687105  Jul 15 15:04  @ManningBooks     RT @ManningMEAP: Read about Practical Data Science with R on AnalyticBridge http://bit.ly/15I4uOY @manningbooks @WinVectorLLC #Rstats #datascience
+356854761192034304  Jul 15 15:16  @adolfoalvarez    RT @gvegayon: Usuarios de R en Chile http://ustre.am/Yg8n #rstatscl #rstats
+356855944791072768  Jul 15 15:21  @jmgomez          R spells for data wizards http://ow.ly/mRjsf Advice on #Rstats by Thomas Levine via @msgbi
+356856461189578752  Jul 15 15:23  @DiffusePrioR     My blog post on applying Lewbel's heterosked GMM-IV approach in R: http://bit.ly/IJGLAi #Rstats
+356856696578129920  Jul 15 15:24  @kdnuggets        RT @revodavid: My highlights from days 2-3 of #UseR2013. #rstats at Groupon and Google, Bayesian stats and R 3.1 news, much more: http://t.co/eZB2T5LJYB
+356856852539129856  Jul 15 15:24  @Candace35        Read about Practical Data Science with R on AnalyticBridge http://bit.ly/15I4uOY #Rstats #datascience http://bit.ly/15I4uOY
+356857173445320706  Jul 15 15:25  @sevve            RT @revodavid: My highlights from days 2-3 of #UseR2013. #rstats at Groupon and Google, Bayesian stats and R 3.1 news, much more: http://t.co/eZB2T5LJYB
+356859607773229057  Jul 15 15:35  @omearabrian      @sharonfern Shhh! the #rstats people will go after me....
+356860807683899392  Jul 15 15:40  @randyzwitch      @recology_ @omearabrian @sharonfern What's next, saying you prefer loops to using *apply functions? #rstats
+356861056645206016  Jul 15 15:41  @dozenoaks        @danbose did you see this? http://www.datamind.org/#/ #Rstats
+356863389051531265  Jul 15 15:50  @M_T_Patterson    Definitely check out @CjBayesian 's intro to data science competitions (via @Rbloggers ) #RStats, #DataScience
+356863781793566720  Jul 15 15:52  @twbrey           RT @revodavid: My highlights from days 2-3 of #UseR2013. #rstats at Groupon and Google, Bayesian stats and R 3.1 news, much more: http://t.co/eZB2T5LJYB
+356863799057326080  Jul 15 15:52  @statisticsblog   Which tech companies have the most satisfied employees? http://i.cx/12DDgUp #R #RStats
+356868639112179714  Jul 15 16:11  @statslabdublin   RT @OpenAnalytics: OpenAnalytics has several open positions for statisticians with strong #rstats skills. Full job description at http://t.co/lG4rJpZ0yR
+356871220597231618  Jul 15 16:21  @mjcavaretta      Link? RT @M_T_Patterson: Definitely check out @CjBayesian 's intro to data science competitions (via @Rbloggers) #RStats, #DataScience
+356871489603121153  Jul 15 16:22  @deaneckles       Base R does not include Huber–White "sandwich" standard errors: A reminder that statisticians, not econometricians built, use R. #rstats
+356876958140858368  Jul 15 16:44  @OpenAnalytics    @johnros2013 @recology_ Architect = eclipse + StatET + #rstats (+ EGit + CDT) all at once and nicely preconfigured on all three platforms
+356877917793427456  Jul 15 16:48  @Rbloggers        Creating publication quality graphics using R:  (This article was first published on   metvurst, and... http://bit.ly/1bhHSbZ #rstats
+356878548482531329  Jul 15 16:50  @kenniajin        RT @inside_R: #rstats R user group meetings this week: Dublin, London, Vienna, Melbourne, http://bit.ly/9hVAPE
+356884738662871041  Jul 15 17:15  @MarkHornick      #BigData Analytics – Scaling R to Enterprise Data at #useR2013 http://www.oracle.com/technetwork/database/options/advanced-analytics/r-enterprise/user-2013-oracle-big-data-analytics-1971985.pdf #OracleREnterprise #ORCH #Oracle #RStats
+356886040700665858  Jul 15 17:20  @drago_carlo      Practical Data Science with R http://www.analyticbridge.com/forum/topics/book-practical-data-science-with-r?groupUrl=books @analyticbridge @prismatic  #Statistics #MachineLearning #DataMining #Rstats
+356886303196987393  Jul 15 17:21  @PeterFlomStat    The differences in default saving behavior between #SAS and #rstats could try me nuts.
+356889979957415938  Jul 15 17:36  @phylorich        RT @SuseJohnston: dput() allows you to output an object in R code. e.g. data(iris); dput(iris$Petal.Width) #rstats #functionwatch
+356895993960202241  Jul 15 18:00  @zentree          'Creating publication quality graphs in #Rstats'  part of a one-day workshop. http://teachpress.environmentalinformatics-marburg.de/2013/07/creating-publication-quality-graphs-in-r-7/
+356897749578428416  Jul 15 18:07  @treycausey       Today's excellent #rstats error message: restarting interrupted promise evaluation
+356906120050253824  Jul 15 18:40  @msgbi            RT @jmgomez: R spells for data wizards http://ow.ly/mRjsf Advice on #Rstats by Thomas Levine via @msgbi
+356907265602748417  Jul 15 18:44  @sergey_tihon     Rattle for F# devs http://bit.ly/1dAM2se #Fsharp #machinelearning #ml #Rstats #rattle
+356907508637503488  Jul 15 18:45  @fellgernon       RT @hfmuehleisen: v. 0.7 of MonetDB.R, the @MonetDb <-> #Rstats connector was just published on CRAN http://cran.r-project.org/web/packages/MonetDB.R/ #useR2013
+356909446783447040  Jul 15 18:53  @PaulJames379     I plundered the treacherous seas of the R programming language http://tryr.codeschool.com via @codeschool #Rstats #RStudio
+356910396331929600  Jul 15 18:57  @fellgernon       Interesting post describing how to use make and makefile with R and tex docs #rstats http://bit.ly/1aJvZfQ
+356910838063448065  Jul 15 18:59  @sharon000        Tools for analyzing US cancer epidemiology data using R, SQL and MonetDB http://bit.ly/17gX1pp #rstats
+356916953572585472  Jul 15 19:23  @murraystokely    RProtoBuf 0.3 now on CRAN. I use this daily for large-scale #rstats computations and sharing data between R and C++ http://cran.r-project.org/web/packages/RProtoBuf/index.html
+356920136566968320  Jul 15 19:36  @andersoncliffb   There are a wide range of backgrounds and interests represented at the first Nashville R meetup. #Rstats
+356921670402973696  Jul 15 19:42  @eddelbuettel     RT @murraystokely: RProtoBuf 0.3 now on CRAN. I use this daily for large-scale #rstats computations and sharing data between R and C++ http://t.co/WXOYWis2b5
+356921958803308545  Jul 15 19:43  @eddelbuettel     .@murraystokely: And big thank you for contributing so much RProtoBuf goodness! #rstats #rcpp
+356925070167379968  Jul 15 19:55  @PPUAMX           RT @RLangTip: Convert a design matrix (indicator matrix) back into a factor variable: http://bit.ly/NmbZye #rstats (via @therealprotonk)
+356927865842966529  Jul 15 20:06  @datalies         .@google just released a full set of videos on learning how to #Rstats ... http://www.youtube.com/user/GoogleDevelopers/search?query=R
+356929620244836353  Jul 15 20:13  @ArthurFlam       Nice #Rstats graphics tutorial by @Geographie_UMR. Included: how to vary width of #ggplot's boxplots...!!  http://teachpress.environmentalinformatics-marburg.de/2013/07/creating-publication-quality-graphs-in-r-7/
+356935267837423616  Jul 15 20:36  @treycausey       Those who have mostly moved their analysis workflow from #rstats to Python: how has it been?
+356935329191698432  Jul 15 20:36  @PattiOverave     Those who have mostly moved their analysis workflow from #rstats to Python: how has it been?
+356938139492827136  Jul 15 20:47  @Emrah_Er         RT @datalies: .@google just released a full set of videos on learning how to #Rstats ... http://www.youtube.com/user/GoogleDevelopers/search?query=R
