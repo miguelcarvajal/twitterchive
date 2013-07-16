@@ -11981,3 +11981,18 @@
 356935267837423616  Jul 15 20:36  @treycausey       Those who have mostly moved their analysis workflow from #rstats to Python: how has it been?
 356935329191698432  Jul 15 20:36  @PattiOverave     Those who have mostly moved their analysis workflow from #rstats to Python: how has it been?
 356938139492827136  Jul 15 20:47  @Emrah_Er         RT @datalies: .@google just released a full set of videos on learning how to #Rstats ... http://www.youtube.com/user/GoogleDevelopers/search?query=R
+356942796164304902  Jul 15 21:06  @CoreySparks1     Creating publication quality graphics using R #rstats #duh #whyusesas http://feedproxy.google.com/~r/RBloggers/~3/wnRsVrIoK0g/
+356944242557460483  Jul 15 21:11  @drago_carlo      RT @CoreySparks1: Creating publication quality graphics using R #rstats #duh #whyusesas http://feedproxy.google.com/~r/RBloggers/~3/wnRsVrIoK0g/
+356951528541667329  Jul 15 21:40  @mjcavaretta      Apply #Rstats 4 correl. MT @OpenDataCincy @yvette4council Map vacant properties to # of crime occurrences? http://bit.ly/12Du6ag #Opendata
+356956515388755968  Jul 15 22:00  @Rbloggers        Interestingly: the sentence adverbs of PubMed Central:  (This article was first published on   What ... http://bit.ly/13nNQyX #rstats
+356957639583858689  Jul 15 22:05  @rheimann         #SAS vs. #Rstats http://hewgill.com/~greg/stackoverflow/stack_overflow/tags/#!sas+r … Readdddy GO!
+356965918863147010  Jul 15 22:38  @eddelbuettel     New release RProtoBuf 0.3.0 on CRAN -- see http://goo.gl/m5IuJ #Rstats #rcpp
+356966568611160065  Jul 15 22:40  @Rbloggers        RProtoBuf 0.3.0:  (This article was first published on   Thinking inside the box   , and kindly cont... http://bit.ly/13nVsRQ #rstats
+356979377117990913  Jul 15 23:31  @adamhsparks      Decided that my lab should be multilingual. Ordering #python reference books to sit alongside our #rstats books. New models coming soon.
+356985439976034307  Jul 15 23:55  @qx               #python users: what's your recommended IDE for a beginner? I'm looking for similar functionality to RStudio in #rstats land. Cheers :)
+356993194937954308  Jul 16 00:26  @alizardx         RT @qx: #python users: what's your recommended IDE for a beginner? I'm looking for similar functionality to RStudio in #rstats land. Cheers :)
+356997813348999170  Jul 16 00:44  @nicolastorzec    pqR is a version of R with many performance improvements. It's a short for "a pretty quick version of R". http://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/ #Rstats
+357007555899297792  Jul 16 01:23  @PRONOjits        RT @revodavid: My highlights from days 2-3 of #UseR2013. #rstats at Groupon and Google, Bayesian stats and R 3.1 news, much more: http://t.co/eZB2T5LJYB
+357008152736182272  Jul 16 01:25  @seinecle         RT @treycausey: Those who have mostly moved their analysis workflow from #rstats to Python: how has it been?
+357013043118477312  Jul 16 01:45  @jaynal83         After #useR2013 #rstats got back to home this morning. Thanks @useR_2013 for such great event..
+357028478958317568  Jul 16 02:46  @nzwormgirl       NEVER rename columns in R using numbered indices! Unless you enjoy rerunning days worth of code!  #rookiemistake #rstats

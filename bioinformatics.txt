@@ -20256,3 +20256,41 @@
 356935636755808257  Jul 15 20:37  @PhilippBayer     #bioinformatics-tip: using "LC_ALL=C grep" instead of "grep" hugely increases performance by turning off locale-specific stuff
 356937362145685506  Jul 15 20:44  @silentbicycle    RT @PhilippBayer: #bioinformatics-tip: using "LC_ALL=C grep" instead of "grep" hugely increases performance by turning off locale-specific stuff
 356940905216868352  Jul 15 20:58  @joachimbaran     RT @paulblaser: BS in English + MENG in bioinformatics = deep love for this: "Interestingly: the sentence adverbs of PubMed Central"- http://t.co/iwSTPTU9qo
+356946539484155904  Jul 15 21:21  @yag_ays          RNA-Seqの数理―生成モデルによる発現量推定：アーカイブ - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/14/mathematical-models-for-transcriptome-quantification-0/
+356946570492657666  Jul 15 21:21  @yag_ays          RNA-Seqの数理―生成モデルによる発現量推定（1）RNA-Seqの発現量推定とRPKM - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/15/mathematical-models-for-transcriptome-quantification-1/
+356946610426609664  Jul 15 21:21  @yag_ays          RNA-Seqの数理―生成モデルによる発現量推定（2）Count Based ModelとRPKM - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/16/mathematical-models-for-transcriptome-quantification-2/
+356946915029549058  Jul 15 21:22  @anilsiri19       Alert Line - Web based research: Bioinformatics http://tinyurl.com/3un6lld
+356948409191641088  Jul 15 21:28  @soh__i           RT @yag_ays: RNA-Seqの数理―生成モデルによる発現量推定（1）RNA-Seqの発現量推定とRPKM - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/15/mathematical-models-for-transcriptome-quantification-1/
+356948427076141057  Jul 15 21:28  @soh__i           RT @yag_ays: RNA-Seqの数理―生成モデルによる発現量推定（2）Count Based ModelとRPKM - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/16/mathematical-models-for-transcriptome-quantification-2/
+356951097799225346  Jul 15 21:39  @yuifu            RT @yag_ays: RNA-Seqの数理―生成モデルによる発現量推定（2）Count Based ModelとRPKM - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/16/mathematical-models-for-transcriptome-quantification-2/
+356955051106902016  Jul 15 21:54  @DEMETER298       RT @yag_ays: ハーバードの講義ビデオ / Tophat/Cufflinksなどの開発者であるCole TrapnellによるRNA-Seqの遺伝子発現解析に関する講義動画 - Wolfeyes Bioinformatics beta http://t.co/HqxPG6GNdE
+356956621982797824  Jul 15 22:01  @SAGRudd          RACER: Rapid and Accurate Correction of Errors in Reads ~ #fix #heuristics = #statistical #postprocess #prefered @ http://buff.ly/12BHPmG
+356956758058610688  Jul 15 22:01  @OmicsOmicsBlog   RT @SAGRudd: RACER: Rapid and Accurate Correction of Errors in Reads ~ #fix #heuristics = #statistical #postprocess #prefered @ http://t.co/feiyRhqLm0
+356957299014766594  Jul 15 22:03  @wacking          “RNA-Seqの数理―生成モデルによる発現量推定：アーカイブ - Wolfeyes Bioinformatics beta” http://htn.to/nGnueY
+356957411958996992  Jul 15 22:04  @Rokky_7          RT @yag_ays: ハーバードの講義ビデオ / Tophat/Cufflinksなどの開発者であるCole TrapnellによるRNA-Seqの遺伝子発現解析に関する講義動画 - Wolfeyes Bioinformatics beta http://t.co/HqxPG6GNdE
+356963052224118784  Jul 15 22:26  @GalbraithBrooke  Bioinformatics trade fair afteryears up to 2015 http://tinyurl.com/mlgce9z
+356966261265149953  Jul 15 22:39  @anshul           RT @SAGRudd: RACER: Rapid and Accurate Correction of Errors in Reads ~ #fix #heuristics = #statistical #postprocess #prefered @ http://t.co/feiyRhqLm0
+356967332851101698  Jul 15 22:43  @KatherineMejia   RT @KusumiLab: Tortoise Genome: Only 3 days left to crowdfund. Please donate at https://asu.useed.net/projects/72/home. #Bioinformatics #Herpetology #Science #Genomics
+356968361810337792  Jul 15 22:47  @faustovrz        RT @KusumiLab: Tortoise Genome: Only 3 days left to crowdfund. Please donate at https://asu.useed.net/projects/72/home. #Bioinformatics #Herpetology #Science #Genomics
+356968402054680576  Jul 15 22:47  @mwanger          RT @SAGRudd: Network2Canvas: network #visualization on a canvas with enrichment analysis = #curious! @ http://buff.ly/1dANScP
+356971617160663041  Jul 15 23:00  @SAGRudd          Data-based filtering for replicated high-throughput transcriptome sequencing experiments http://buff.ly/18kf8iK
+356972371816628224  Jul 15 23:03  @cntalavera       RT @sebhtml: Loman’s laws of bioinformatics http://pathogenomics.bham.ac.uk/blog/2013/02/lomans-law-of-bioinformatics/ #bioinformatics
+356978759112470528  Jul 15 23:29  @Testbank_TB      Bioinformatics in the Post-Genomic Era: Genome, Transcriptome, Proteome Medicine by Jeff Augen - http://bit.ly/13onDSK
+356986599462014977  Jul 16 00:00  @SAGRudd          Scalable metagenomic taxonomy classification using a reference genome database http://buff.ly/12BKGwa
+356988004939726848  Jul 16 00:05  @RepairPdfs       #download Problem Solving Handbook in Computational Biology and Bioinformatics @RepairPdfs
+356992334870757376  Jul 16 00:22  @AllTB_org        Discovering Genomics, Proteomics and Bioinformatics, 2/E by A. Malcolm Campbell, Laurie J. Heyer. - http://bit.ly/13os9kf
+356998250508730368  Jul 16 00:46  @amfoes           RT @genetics_blog: Short read alignment with populations of genomes. Paper: http://bioinformatics.oxfordjournals.org/content/29/13/i361.long software: http://viq854.github.io/bwbble/ #bioinformatics
+357001991207129089  Jul 16 01:01  @adilafarhana2    Or bioinformatics
+357006866104070146  Jul 16 01:20  @nickholway       “@SAGRudd: Network2Canvas: network #visualization on a canvas with enrichment analysis = #curious! @ http://buff.ly/1dANScP” 4 @yannabraham?
+357009909134528512  Jul 16 01:32  @rajdeeppoddar    News in Bioinformatics is out! http://paper.li/rajdeeppoddar/1358939090
+357012274386444290  Jul 16 01:42  @FataleLady       @Driedfred i see why now. My husband works in bioinformatics. Do you want him to figure out how much DNA you share? Maybe it's not much.
+357016849650692096  Jul 16 02:00  @SAGRudd          JBioWH: open-source Java framework for bioinformatics data integration <<shudder>> #IntegrationAtExpenseOfUtility @ http://buff.ly/15zxupZ
+357020629783949312  Jul 16 02:15  @Testbank_TB      Discovering Genomics, Proteomics and Bioinformatics, 2/E by A. Malcolm Campbell, Laurie J. Heyer. - http://bit.ly/13os9kf
+357023377539596288  Jul 16 02:26  @VacaturesDelft   (Associate) Scientist Bioinformatics / Metabolic Engineering – DSM NV – Delft http://goo.gl/fb/c3ABH Vacature Delft
+357023414889889792  Jul 16 02:26  @sysbiomed        Paper in Bioinformatics on Exhaustive characterization of  logic models of signaling using Answer Set Programming http://tinyurl.com/neebxe4
+357024590817525763  Jul 16 02:31  @bdcosgrove       @sysbiomed Congrats on the Bioinformatics paper, Julio and company!
+357025351995637760  Jul 16 02:34  @ewanbirney       RT @sysbiomed: Paper in Bioinformatics on Exhaustive characterization of  logic models of signaling using Answer Set Programming http://t.co/kj73AyPVnx
+357025844226555904  Jul 16 02:36  @KitKotte         Alert -Web based research: Bioinformatics - http://dld.bz/bJ5GS
+357028331566268416  Jul 16 02:46  @rnomics          miRTCat: a comprehensive map of human and mouse microRNA target sites including... http://bit.ly/147HUAt #bioinformaticsj @MyEN
+357028334049296384  Jul 16 02:46  @rnomics          viRome: an R package for the visualization and analysis of viral small #RNA sequence datasets http://bit.ly/147HWs7 #bioinformaticsj @MyEN
+357029143549984768  Jul 16 02:49  @pvanbaarlen      This.is.$@%@!.great - iAnn: an event sharing platform for the life sciences - find your favorite conference & meeting http://bit.ly/16FNztj

@@ -2644,3 +2644,17 @@
 356775726407618564  Jul 15 10:02  @nikhilgopal      De novo transcript sequence reconstruction from RNA-seq using the Trinity platform for reference generation and... http://bit.ly/12Q4nfP
 356793475758424064  Jul 15 11:12  @BarkerLab        RT @jameslz: De novo transcript reconstruction from RNA-seq using the Trinity platform for reference generation and analysis , http://t.co/kGExW0we7v
 356905862004088835  Jul 15 18:39  @SAGRudd          Differential gene expression analysis using coexpression & RNA-Seq data = #Markov fields to the rescue = #magnificent http://buff.ly/12BIdBV
+356946539484155904  Jul 15 21:21  @yag_ays          RNA-Seqの数理―生成モデルによる発現量推定：アーカイブ - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/14/mathematical-models-for-transcriptome-quantification-0/
+356946570492657666  Jul 15 21:21  @yag_ays          RNA-Seqの数理―生成モデルによる発現量推定（1）RNA-Seqの発現量推定とRPKM - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/15/mathematical-models-for-transcriptome-quantification-1/
+356946610426609664  Jul 15 21:21  @yag_ays          RNA-Seqの数理―生成モデルによる発現量推定（2）Count Based ModelとRPKM - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/16/mathematical-models-for-transcriptome-quantification-2/
+356947077407842304  Jul 15 21:23  @yag_ays          連休中にRNA-Seqの発現量推定のベースとなるモデルについて流れを追ってみたので，少しまとめてみた．まだcufflinksクラスの複雑なモデルには達していないけど，取り敢えず基本となる部分だけ
+356948409191641088  Jul 15 21:28  @soh__i           RT @yag_ays: RNA-Seqの数理―生成モデルによる発現量推定（1）RNA-Seqの発現量推定とRPKM - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/15/mathematical-models-for-transcriptome-quantification-1/
+356948427076141057  Jul 15 21:28  @soh__i           RT @yag_ays: RNA-Seqの数理―生成モデルによる発現量推定（2）Count Based ModelとRPKM - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/16/mathematical-models-for-transcriptome-quantification-2/
+356951097799225346  Jul 15 21:39  @yuifu            RT @yag_ays: RNA-Seqの数理―生成モデルによる発現量推定（2）Count Based ModelとRPKM - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/16/mathematical-models-for-transcriptome-quantification-2/
+356955051106902016  Jul 15 21:54  @DEMETER298       RT @yag_ays: ハーバードの講義ビデオ / Tophat/Cufflinksなどの開発者であるCole TrapnellによるRNA-Seqの遺伝子発現解析に関する講義動画 - Wolfeyes Bioinformatics beta http://t.co/HqxPG6GNdE
+356957299014766594  Jul 15 22:03  @wacking          “RNA-Seqの数理―生成モデルによる発現量推定：アーカイブ - Wolfeyes Bioinformatics beta” http://htn.to/nGnueY
+356957411958996992  Jul 15 22:04  @Rokky_7          RT @yag_ays: ハーバードの講義ビデオ / Tophat/Cufflinksなどの開発者であるCole TrapnellによるRNA-Seqの遺伝子発現解析に関する講義動画 - Wolfeyes Bioinformatics beta http://t.co/HqxPG6GNdE
+356973222882848769  Jul 15 23:07  @rnomics          PLOS ONE: ANOVA-Like Differential Expression (ALDEx) Analysis for Mixed Population #RNA-Seq http://bit.ly/147bhmj #rnomics_bioinfo @MyEN
+357004940088057860  Jul 16 01:13  @dritoshien       Our single-cell RNA-Seq paper was re-formatted. http://genomebiology.com/2013/14/4/R31/
+357006298979631104  Jul 16 01:18  @zinmu660         Genome Biology | Full text | Quartz-Seq: a highly reproducible and sensitive single-cell RNA-Seq reveals non-genetic gene expression hete...
+357008905076867074  Jul 16 01:28  @koziki33amatera  Genome Biology | Full text | Quartz-Seq: a highly reproducible and sensitive single-cell RNA-Seq reveals non-genetic gene expression hete...
