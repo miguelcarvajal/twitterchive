@@ -12014,3 +12014,30 @@
 357111180151631872  Jul 16 08:15  @APRykhus         RT @genetics_blog: Ruby program generates Scala prgm >Scheme... > Python > #Rstats .. back to Ruby 50 languages later https://t.co/GRphbUUPtA #codingwitchcraft
 357112828332740609  Jul 16 08:21  @pseud_deep       RT @v1pl: #rstats #GoodAdvice MT @sanand0: Learn R if you know stats well. Learn Pandas if you know programming well. Learn Excel if neither.
 357121283772776451  Jul 16 08:55  @kyloring         An Introduction to Hierarchical Modeling and Inference in Ecology using {unmarked} #rstats http://www.pwrc.usgs.gov/Royalvideo.cfm
+357126161681219585  Jul 16 09:14  @RevoAndrie       Dear #rstats, last week at UseR somebody told me about a CRAN package for path analysis of log files, but I can't remember which package?
+357129168141549569  Jul 16 09:26  @RyanGrannell     RT @genetics_blog: Ruby program generates Scala prgm >Scheme... > Python > #Rstats .. back to Ruby 50 languages later https://t.co/GRphbUUPtA #codingwitchcraft
+357130176615813120  Jul 16 09:30  @JeromyAnglim     RT @chlalanne: "Tailor Your Tables with stargazer: New Features for LaTeX and Text Output" #rstats http://www.r-statistics.com/2013/07/tailor-your-tables-with-stargazer-new-features-for-latex-and-text-output/
+357138537772097536  Jul 16 10:03  @OmicsOmicsBlog   RT @genetics_blog: Ruby program generates Scala prgm >Scheme... > Python > #Rstats .. back to Ruby 50 languages later https://t.co/GRphbUUPtA #codingwitchcraft
+357147048660836353  Jul 16 10:37  @recology_        Awesome, #JuliaLang pkgs are submitted via @github http://bit.ly/1dChOVW / wish #rstats was this cool
+357147380811968515  Jul 16 10:39  @MangoTheCat      Phew its warm@LondonR but cold beers and aircon awaits the record crowd tonight #rstats #londonr
+357148069873205249  Jul 16 10:41  @MangoTheCat      Hadley Wickham in full flow at Rccp workshop ahead of LondonR #rstats http://www.londonr.org
+357151436045418496  Jul 16 10:55  @jmgcorral        Inmersión en shiny, para publicar en web lo que hacemos en R. Si me sale lo voy a petar con una app que tengo en mente. #Rstats
+357159256664981504  Jul 16 11:26  @sharonfern       @omearabrian @randyzwitch @recology_ *apply is black magic #rstats
+357162068178255873  Jul 16 11:37  @Mark_Gardener    List of custom R commands I wrote during production of my forthcoming book http://www.dataanalytics.org.uk/Publications/CERE%20Support/custom%20R%20commands.htm #rstats #ecology #analytics #excel
+357165683471167488  Jul 16 11:51  @PageViral        RT @Mark_Gardener: List of custom R commands I wrote during production of my forthcoming book http://www.dataanalytics.org.uk/Publications/CERE%20Support/custom%20R%20commands.htm #rstats #ecology #analytics #excel
+357167909266665473  Jul 16 12:00  @sidderb          Today's new blog post; iRefR – PPI data access from R http://sidderb.wordpress.com/2013/07/16/irefr-ppi-data-access-from-r/ #rstats #want100views!
+357169559804981248  Jul 16 12:07  @RLangTip         For complex optimization problems (e.g. mixed-integer programming), try the lpSolveAPI package: http://bit.ly/NrMKyM #rstats
+357170441514795009  Jul 16 12:10  @rezakhorshidi    at the #RCPP workshop by @hadleywickham ... great tutorial! #Rstats #LondonR
+357171008458862592  Jul 16 12:12  @bdhary           "@RLangTip: For complex optimization problems, try the lpSolveAPI package: http://bit.ly/NrMKyM #rstats" @nisa_arifa
+357173593462931456  Jul 16 12:23  @gsantosgo        RT @sharon000 Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf  #rstats
+357177809749291008  Jul 16 12:40  @recology_        ggnet (network plots in #ggplot2) now in the ggally package http://bit.ly/1bFPSSN / @tpoi @jebyrnes #rstats
+357179279093665792  Jul 16 12:45  @rOpenSci         Video of presentation of TaxaViewer #Shiny #rstats app to the @USGS http://on.doi.gov/1bFQHLj / starts at ~ 4 min app: http://bit.ly/10CxLWQ
+357179306805428227  Jul 16 12:45  @recology_        RT @rOpenSci: Video of presentation of TaxaViewer #Shiny #rstats app to the @USGS http://on.doi.gov/1bFQHLj / starts at ~ 4 min app: http://t.co/ZGYtKFCztB
+357185050170765312  Jul 16 13:08  @revodavid        Sneak peek at forthcoming in-Hadoop #BigData statistical models from #rstats with @RevolutionR: http://bit.ly/18lEs7S
+357187031698378753  Jul 16 13:16  @jmgomez          RT @cieronymidou: The R Inferno. Recommended masochistic read of the journey through the circles of #rstats hell http://ow.ly/mTHQ0
+357189976980598784  Jul 16 13:28  @recology_        Is there an equivalent of #rstats devtools for #JuliaLang ?
+357199524793577472  Jul 16 14:06  @MangoTheCat      Capacity crowd at LondonR #rstats http://t.co/I46L4izlKL
+357200078634631168  Jul 16 14:08  @MangoTheCat      LondonR crowd vote for more workshops - ggplot2 & apply family of functions hot favs #rstats http://www.londonr.org
+357200977297801217  Jul 16 14:12  @revodavid        Big crowd for @RevoAndrie's talk on big data survival analysis for marketing with #rstats at #LondonR http://t.co/vkJ0t6Nqck
+357201034092883970  Jul 16 14:12  @jaynal83         Got mail from David Publishing Company, USA to write full paper on "edeR: Email Data Extraction using R" #useR2013 #Rstats
+357201655156060161  Jul 16 14:14  @meitanteiabid    RT @revodavid: Big crowd for @RevoAndrie's talk on big data survival analysis for marketing with #rstats at #LondonR http://t.co/vkJ0t6Nqck
