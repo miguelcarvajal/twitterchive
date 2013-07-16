@@ -11996,3 +11996,21 @@
 357008152736182272  Jul 16 01:25  @seinecle         RT @treycausey: Those who have mostly moved their analysis workflow from #rstats to Python: how has it been?
 357013043118477312  Jul 16 01:45  @jaynal83         After #useR2013 #rstats got back to home this morning. Thanks @useR_2013 for such great event..
 357028478958317568  Jul 16 02:46  @nzwormgirl       NEVER rename columns in R using numbered indices! Unless you enjoy rerunning days worth of code!  #rookiemistake #rstats
+357031974264766464  Jul 16 03:00  @chlalanne        "Creating publication quality graphics using #rstats" http://www.r-bloggers.com/creating-publication-quality-graphics-using-r/
+357032273356398592  Jul 16 03:01  @chlalanne        "Scaling a DataFrame in Javascript" #rstats http://www.r-bloggers.com/scaling-a-dataframe-in-javascript/
+357032432765108225  Jul 16 03:02  @chlalanne        "analyze the surveillance epidemiology and end results (seer) with #rstats and #monetdb" http://www.r-bloggers.com/analyze-the-surveillance-epidemiology-and-end-results-seer-with-r-and-monetdb/
+357033000048922624  Jul 16 03:04  @chlalanne        "Tailor Your Tables with stargazer: New Features for LaTeX and Text Output" #rstats http://www.r-statistics.com/2013/07/tailor-your-tables-with-stargazer-new-features-for-latex-and-text-output/
+357039583852113921  Jul 16 03:30  @Rbloggers        Quick review: R in Insurance Conference:  (This article was first published on   mages' blog, and ki... http://bit.ly/15AOiga #rstats
+357042426499706880  Jul 16 03:42  @openscience      RT @recology_: Writing #rstats to wrap Microsoft Academic Research http://bit.ly/15Gp2aC #API  http://bit.ly/15Gp1mX #mometadatamofun
+357049965551423488  Jul 16 04:12  @dsyme            RT @sergey_tihon: Rattle for F# devs http://bit.ly/1dAM2se #Fsharp #machinelearning #ml #Rstats #rattle
+357059418724118529  Jul 16 04:49  @vr000m           RT @vinayakh: Slides from "Introduction to Data Analysis and Visualization using R"  workshop at @fifthel #rstats https://speakerdeck.com/vinayakh/introduction-to-data-analysis-and-visualization-using-r
+357081785311567872  Jul 16 06:18  @DrLyndonWalker   RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+357081818329137152  Jul 16 06:18  @DrLyndonWalker   RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+357086211577352192  Jul 16 06:36  @romain_francois  RT @murraystokely: RProtoBuf 0.3 now on CRAN. I use this daily for large-scale #rstats computations and sharing data between R and C++ http://t.co/WXOYWis2b5
+357089782289006593  Jul 16 06:50  @osazuwa          Grab abstracts from Pubmed and throw them into a word cloud via #Rstats. An example with #quantifiedself application http://ow.ly/mZVXU
+357097304634818561  Jul 16 07:20  @v1pl             #rstats #GoodAdvice MT @sanand0: Learn R if you know stats well. Learn Pandas if you know programming well. Learn Excel if neither.
+357097373878583296  Jul 16 07:20  @genetics_blog    Ruby program generates Scala prgm >Scheme... > Python > #Rstats .. back to Ruby 50 languages later https://github.com/mame/quine-relay #codingwitchcraft
+357104947101319171  Jul 16 07:50  @Rbloggers        iRefR – PPI data access from R:  (This article was first published on   Bioinfpharmatics » R, and ki... http://bit.ly/148DtFm #rstats
+357111180151631872  Jul 16 08:15  @APRykhus         RT @genetics_blog: Ruby program generates Scala prgm >Scheme... > Python > #Rstats .. back to Ruby 50 languages later https://t.co/GRphbUUPtA #codingwitchcraft
+357112828332740609  Jul 16 08:21  @pseud_deep       RT @v1pl: #rstats #GoodAdvice MT @sanand0: Learn R if you know stats well. Learn Pandas if you know programming well. Learn Excel if neither.
+357121283772776451  Jul 16 08:55  @kyloring         An Introduction to Hierarchical Modeling and Inference in Ecology using {unmarked} #rstats http://www.pwrc.usgs.gov/Royalvideo.cfm
