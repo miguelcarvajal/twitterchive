@@ -12102,3 +12102,39 @@
 357471638977536000  Jul 17 08:07  @wligtenberg      RT @OpenAnalytics: tame #rstats 's naming conventions with Architect http://www.openanalytics.eu/blog/state-namingconventions-r
 357473545225797632  Jul 17 08:15  @fellgernon       RT @StrictlyStat: Just found out about system2 in R.  Hopefully this helps my sys calls #Rstats
 357474204436168705  Jul 17 08:17  @hpgomide         RT @JeromyAnglim: New Post: Evaluating the Potential Incorporation of #rstats into Research Methods Education in Psychology  http://t.co/VQmBA7QiUz
+357489317855244291  Jul 17 09:17  @JakeRuss         RT @ChrisGandrud: Paperback of Reproducible Research with #rstats and #rstudio is now shipping: http://amzn.to/10IHGtw Also in Kindle: http://t.co/wM9hMqbdj2
+357490041418813440  Jul 17 09:20  @Rbloggers        UseR! Slides for “Classification Using C5.0″:  (This article was first published on   Blog - Applied... http://bit.ly/1bo73cW #rstats
+357495015792062465  Jul 17 09:40  @ar_usergroup     Llamada a presentación de trabajos: II Encuentro de Usuarios de R Argentina.Este año habra charlas y talleres #rstats http://ar.i314.com.ar
+357495927537278977  Jul 17 09:44  @mattdray         @jvafidis Just for you: beautiful (?) nonsense part II #rstats http://t.co/6V2b2fMrYs
+357497570941091840  Jul 17 09:50  @msgbi            Deepen your R experience with Rcpp http://blog.revolutionanalytics.com/2013/07/deepen-your-r-experience-with-rcpp.html #rstats
+357498239035387904  Jul 17 09:53  @JonesZM          RT @_inundata: R docs are now available in Dash! http://bit.ly/1bHaLgv Thanks @kapeli #rstats
+357505636285693952  Jul 17 10:22  @strengejacke     Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8
+357505910425391104  Jul 17 10:23  @timelyportfolio  RT @strengejacke: Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8
+357507247900860416  Jul 17 10:29  @joelgombin       Excellente tribune sur la recherche reproductibre par @deuxieme_labo (et ça parle même de #Rstats !) http://www.lemonde.fr/sciences/article/2013/07/15/pour-une-recherche-reproductible-publiez-vos-codes-et-donnees_3447825_1650684.html #fb
+357507930943262721  Jul 17 10:31  @twbrey           RT @joelgombin: Excellente tribune sur la recherche reproductibre par @deuxieme_labo (et ça parle même de #Rstats !) http://www.lemonde.fr/sciences/article/2013/07/15/pour-une-recherche-reproductible-publiez-vos-codes-et-donnees_3447825_1650684.html #fb
+357512908755836931  Jul 17 10:51  @ArthurFlam       "How #Rstats will turn into #SQL" : I've mixed feelings about this one.   http://4dpiecharts.com/2013/07/16/how-r-will-turn-into-sql/
+357521822226460673  Jul 17 11:26  @ErynMcFarlane    Let's step 3 steps back from fancy stats (hem, lmer), and try a correlation. Small data set is making me feel daring! #fieldwork #Rstats
+357524573161406466  Jul 17 11:37  @tomshohfi        After working with OpenBloomberg Perl and Java APIs, I found RBloomberg http://findata.org/rbloomberg/ to be the most analytically useful #Rstats
+357527478320889856  Jul 17 11:49  @izamryan         Just what the doctor ordered. #mountaindew #nectar to fuel my late night spelunking with #rstats http://instagram.com/p/b32cpGqLUZ/
+357527813202518016  Jul 17 11:50  @drago_carlo      ngramr – an R package for Google Ngrams http://www.r-bloggers.com/ngramr-an-r-package-for-google-ngrams/ via @prismatic @Rbloggers #TextMining #DataMining #Data #Google #Rstats
+357531359167791105  Jul 17 12:04  @cboettig         Forking the R journal http://carlboettiger.info/2013/07/10/forking-the-R-journal.html #rstats
+357531585471463424  Jul 17 12:05  @recology_        RT @cboettig: Forking the R journal http://carlboettiger.info/2013/07/10/forking-the-R-journal.html #rstats
+357533044086800385  Jul 17 12:11  @recology_        Obviously you'd want to style (color, size, symbols) your @github hosted #geojson map using #rstats, post soon
+357533134599888896  Jul 17 12:11  @RLangTip         Robust function writing tip: use seq_len(N) instead of 1:N (it handles the N<1 case appropriately): http://bit.ly/vzBAhQ #rstats
+357533529917243393  Jul 17 12:13  @jjgibaja         "@drago_carlo: ngramr – an R package for Google Ngrams http://t.co/Faj3DglY1 #Rstats" /cc: @gilbellosta
+357536225697071104  Jul 17 12:24  @mjcavaretta      R too slow? Try Rcpp, an interface b/w R & C++  http://blog.revolutionanalytics.com/2013/07/deepen-your-r-experience-with-rcpp.html HT @msgbi #rstats
+357536407620820992  Jul 17 12:24  @drago_carlo      RT @mjcavaretta: R too slow? Try Rcpp, an interface b/w R & C++  http://blog.revolutionanalytics.com/2013/07/deepen-your-r-experience-with-rcpp.html HT @msgbi #rstats
+357538341845090305  Jul 17 12:32  @raphg            @Bioconductor working on @github integration. #Bioc2013 #Rstats
+357539425862955008  Jul 17 12:36  @MangoTheCat      RT @revodavid: Big crowd for @RevoAndrie's talk on big data survival analysis for marketing with #rstats at #LondonR http://t.co/vkJ0t6Nqck
+357539852478189569  Jul 17 12:38  @rmflight         RT @raphg: @Bioconductor working on @github integration. #Bioc2013 #Rstats // This would be pretty sweet!
+357542088042233857  Jul 17 12:47  @omearabrian      Love to have a "Hotel California" CRAN mirror: packages get added but can never leave (never archived). Old binaries stay available #rstats
+357548015118082048  Jul 17 13:11  @timelyportfolio  @pimco AllAssetAllAuth Fd 3/13 holdings as #d3js sankey from #rstats #rCharts http://rcharts.io/viewer/?6022406#.UebN9I3VCSp http://t.co/6D6gsnpSeG
+357548567776342016  Jul 17 13:13  @ucfagls          Flickering diatoms? Thoughts on interpolating sediment core data & implications for earlywarning signals w. #rstats http://bit.ly/18nUlus
+357557165646561283  Jul 17 13:47  @thelabandfield   @cmacquar The Mac default interface at least colour-coded the scripts & auto-indented. Not so in Windows. #rstats
+357569549895344128  Jul 17 14:36  @seandavis12      pyl: h5vc #rstats package to do hdf5-based variant tallying, calling, and plotting: http://www.ebi.ac.uk/~pyl/h5vc/ #bioc2013
+357570646995247104  Jul 17 14:41  @seandavis12      Stephanie Gogarten talking about SeqArray and SeqVarTools #rstats packages #bioc2013
+357571000445059073  Jul 17 14:42  @jay_ulfelder     Any R master craftsmen or women have a few minutes to help me w/a thorny coding problem? #Rstats
+357571234998915072  Jul 17 14:43  @kopalo           RT @jay_ulfelder: Any R master craftsmen or women have a few minutes to help me w/a thorny coding problem? #Rstats
+357571506840158208  Jul 17 14:44  @Olivier1Schmitt  RT @jay_ulfelder: Any R master craftsmen or women have a few minutes to help me w/a thorny coding problem? #Rstats @joelgombin
+357571831051460608  Jul 17 14:45  @hashonomy_gus    seq {base} | inside-R | A Community Site for R http://hashonomy.com/exCf/ #rstats (via @RLangTip)
+357573474484617218  Jul 17 14:52  @KennyPeanuts     To make a file from a displayed plot in #Rstats use: dev.copy(file.format, "file_name")    How cool is that.  http://stackoverflow.com/a/17707346/686481

@@ -2686,3 +2686,12 @@
 357472326838779905  Jul 17 08:10  @rnomics          Comparative analysis of #RNA – Seq data with DESeq and DEXSeq:... http://bit.ly/12JXH1V #Presentations #deseq #dexseq #RNAseq @MyEN
 357478247132430336  Jul 17 08:33  @razoralign       Comparative analysis of RNA-Seq data with DESeq and DEXSeq http://bioconductor.org/help/course-materials/2013/CSAMA2013/tuesday/morning/Anders__DESeq_DEXSeq.pdf
 357480002951983106  Jul 17 08:40  @rnomics          RNase and T4 PNK sequence biases and solutions... http://bit.ly/14dor1c #LibraryPreparation #libraryconstruction #RNASeq #RNAseq @MyEN
+357485662057938944  Jul 17 09:03  @nikhilgopal      RNase and T4 PNK sequence biases and solutions during RNA-Seq library construction http://bit.ly/12V7CCX
+357495396639059970  Jul 17 09:41  @Chris_Evelo      .@Affymetrix coming to @MaastrichtU to tell us that "RNA-Seq misses what their GeneChip based Human Transcriptome Analysis delivers"
+357496655400017920  Jul 17 09:46  @jonathancairns   @Chris_Evelo @Affymetrix @MaastrichtU Interesting. I take it they will gloss over the things GeneChips miss and RNA-seq delivers, then...
+357503668737679360  Jul 17 10:14  @razZ0r           [rss] "Bayesian Hierarchical Model for Differential Gene Expression Using RNA-Seq Data" http://bit.ly/15MIUZy
+357504255277531136  Jul 17 10:17  @Chris_Evelo      .@jonathancairns the announcements mentions "overestimation of novel elements in RNA-Seq", guess that's @Affymetrix' take on that
+357508444401569792  Jul 17 10:33  @nikhilgopal      Comparative analysis of RNA – Seq data with DESeq and DEXSeq http://bit.ly/14dMkWw
+357528263922421762  Jul 17 11:52  @caseyjowdy       What are spike-in controls for RNA-Seq? http://lnkd.in/pP7eyQ
+357535277981503488  Jul 17 12:20  @CofactorGenomic  Spike-in controls and RNA-seq. Part 3 of our RNA-seq DX series: http://www.cofactorgenomics.com/blog/2013/rna-seq-lies-half-truths-and-skinny-pt-3-spike-controls
+357548531487219712  Jul 17 13:13  @rnomics          rlsim 1.1 - Simulating #RNA-seq library Preparation with Parameter Estimation:... http://bit.ly/14elEET #rnomics_bioinfo @MyEN
