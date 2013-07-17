@@ -12079,3 +12079,26 @@
 357369885447294976  Jul 17 01:23  @ChrisGandrud     Nice #d3 sankey diagrams with #rcharts and #rstats: http://bit.ly/18khSJp
 357370336343363584  Jul 17 01:25  @ficaryl          Just come across knitr http://yihui.name/knitr/ a R report generation package ..that sounds remarkably like a hook-up app for crafters #rstats
 357383822859862016  Jul 17 02:18  @evoldir          RT @rOpenSci: Video of presentation of TaxaViewer #Shiny #rstats app to the @USGS http://on.doi.gov/1bFQHLj / starts at ~ 4 min app: http://t.co/ZGYtKFCztB
+357395076684595200  Jul 17 03:03  @RevoAndrie       The #rstats package for sequence path analysis is traMiner http://bit.ly/10Zw5cJ #justremembered
+357398888199626754  Jul 17 03:18  @kuun_peal        Huh, apparently the pamm package will simulate power analyses for a linear mixed effects model: http://cran.r-project.org/web/packages/pamm/index.html. #stats #Rstats
+357403311533600770  Jul 17 03:36  @OpenAnalytics    RT @zentree: 'The State of namingConventions in #Rstats'. Hear, hear. http://www.r-bloggers.com/the-state-of-namingconventions-in-r/
+357410973109334016  Jul 17 04:06  @ChrisGandrud     Paperback of Reproducible Research with #rstats and #rstudio is now shipping: http://amzn.to/10IHGtw Also in Kindle: http://amzn.to/13u9YaK
+357417062202748930  Jul 17 04:30  @jdtonkin         #ggplot #ggplot2 users: has it sped up your graphing in the long run? Been using it a while and LOVE it but not sure it has for me #rstats
+357421379408240641  Jul 17 04:47  @conjugateprior   RT @_inundata: R docs are now available in Dash! http://bit.ly/1bHaLgv Thanks @kapeli #rstats
+357421468570763265  Jul 17 04:48  @JeromyAnglim     New Post: Evaluating the Potential Incorporation of #rstats into Research Methods Education in Psychology  http://jeromyanglim.blogspot.com.au/2013/07/evaluating-potential-incorporation-of-r.html
+357423426387980289  Jul 17 04:56  @xypan1232        RT @genetics_blog: bioNerDS: exploring #bioinformatics' database and software use through literature mining http://www.biomedcentral.com/1471-2105/14/194 #Rstats
+357424585383239681  Jul 17 05:00  @SeanSHLee        #rstats #ngramr Chicken or Egg? English = Chicken http://t.co/MWOEQZIRPb
+357424704837017600  Jul 17 05:01  @SeanSHLee        #rstats #ngramr Chicken or Egg? Chinese = Egg (sort of) http://t.co/MgygfgHLbV
+357425146165866496  Jul 17 05:02  @JeromyAnglim     RT @eddelbuettel: Slides from my Rcpp talk to the Sydney R Users Group this week: http://goo.gl/J8syX #rstats #rcpp
+357425594574704641  Jul 17 05:04  @adolfoalvarez    RT @eddelbuettel: Slides from my Rcpp talk to the Sydney R Users Group this week: http://goo.gl/J8syX #rstats #rcpp
+357429668103733249  Jul 17 05:20  @fatimagalan      RT @revodavid: Sneak peek at forthcoming in-Hadoop #BigData statistical models from #rstats with @RevolutionR: http://bit.ly/18lEs7S
+357430801043963904  Jul 17 05:25  @tim_yates        nice D3 Sankey Diagrams from #RStats http://timelyportfolio.github.io/rCharts_d3_sankey/example_build_network_sankey.html
+357451685641220096  Jul 17 06:48  @mattdray         Thinking of starting a gallery of mis-coded plots; such beautiful nonsense #rstats http://t.co/myYw8942Ap
+357454652985458689  Jul 17 07:00  @chlalanne        RT @JeromyAnglim: New Post: Evaluating the Potential Incorporation of #rstats into Research Methods Education in Psychology  http://t.co/VQmBA7QiUz
+357454689882742784  Jul 17 07:00  @ronert_obst      RT @_inundata: R docs are now available in Dash! http://bit.ly/1bHaLgv Thanks @kapeli #rstats
+357463850771169280  Jul 17 07:36  @OpenAnalytics    tame #rstats 's naming conventions with Architect http://www.openanalytics.eu/blog/state-namingconventions-r
+357469912035360768  Jul 17 08:00  @southmapr        @useR_2013 Racy advertising for #rstats executable, targeting #user2013 attendees in Albacete ? http://t.co/jvoNWsCGtE
+357470414420705281  Jul 17 08:02  @eddelbuettel     "Deepen your R experience with Rcpp" post says it "might even be fun" !! Thanks, @revojoe.  http://goo.gl/qE58P #rcpp #rstats
+357471638977536000  Jul 17 08:07  @wligtenberg      RT @OpenAnalytics: tame #rstats 's naming conventions with Architect http://www.openanalytics.eu/blog/state-namingconventions-r
+357473545225797632  Jul 17 08:15  @fellgernon       RT @StrictlyStat: Just found out about system2 in R.  Hopefully this helps my sys calls #Rstats
+357474204436168705  Jul 17 08:17  @hpgomide         RT @JeromyAnglim: New Post: Evaluating the Potential Incorporation of #rstats into Research Methods Education in Psychology  http://t.co/VQmBA7QiUz
