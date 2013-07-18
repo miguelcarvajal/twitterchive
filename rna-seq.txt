@@ -2720,3 +2720,7 @@
 357834103225581568  Jul 18 08:07  @Bioinfomatic     RT @rnomics: RNA-Seq fusion-finder tools performance dependent... http://bit.ly/14hBsa6 #SplicingandJunctionMapping #deFuse #fusionfinder #RNAseq @MyEN
 357839698535788545  Jul 18 08:30  @rnomics          NGS-Trex – a simple tool for #RNA-Seq data analysis... http://bit.ly/14hI73U #AnalysisPipelines #differentialexpression #RNAseq @MyEN
 357844157861068800  Jul 18 08:47  @nikhilgopal      NGS-Trex – a simple tool for RNA-Seq data analysis targeted to researchers with limited bioinformatics skills http://bit.ly/12K99iI
+357889126609477632  Jul 18 11:46  @Paul_R_Johnston  RT @pinin4fjords: Incl. nice discussion of variance etc wrt diff. exp etc RT @mattVDiLeo: Comparing DESeq to DEXSeq. #rnaseq #yam http://t.co/Q6DxqC2SxV
+357890045216165888  Jul 18 11:50  @KurggMantra      The perils of inferring genomic imprinting from RNA-seq: http://www.ncbi.nlm.nih.gov/m/pubmed/22840398/
+357900942928121857  Jul 18 12:33  @nikhilgopal      RNA-Seq fusion-finder tools performance dependent on read length, quality score and number of reads http://bit.ly/15pB9a1
+357902317783236608  Jul 18 12:38  @BioStarQuestion  What to do with null gene expression level in RNA-Seq analysis? Remove them? http://goo.gl/fb/01gKb

@@ -12205,3 +12205,56 @@
 357828048718020608  Jul 18 07:43  @moorejh          cc @readyhill #HPC #datascience RT @chlalanne @statslabdublin #programming with #bigdata in #Rstats http://r-pbd.org/
 357829962919063552  Jul 18 07:51  @chlalanne        RT @siah: Fast(er) R Code http://ow.ly/n2zOq #rstats
 357842571923427330  Jul 18 08:41  @flavioclesio     RT @moorejh: #DataMining & #MachineLearning using #Rstats + Weka. http://www.r-bloggers.com/r-talks-to-weka-about-data-mining/ #datascience HT @jmgomez
+357849044757921792  Jul 18 09:07  @jmgomez          RT @rlangtip: List of R packages related to networks, graphs, Bayesian models, and flow diagrams: http://bit.ly/xYZJ3s #rstats
+357850921113366528  Jul 18 09:14  @hylopsar         Is there a way to make violin-like plot using histogram bars instead of density estimates in #ggplot2? Does this plot have a name? #rstats
+357856766853263361  Jul 18 09:37  @fz16cu           RT @ramnath_vaidya: Video of my talk on Interactive Docs with R given last month at NYC http://youtu.be/vDw6bJ7Y_rY  @nyhackr #rstats
+357865583397707776  Jul 18 10:12  @yodacomplex      Yes! got 4yo doing sums in #rstats but he prefers ipad calculator @caitpickens @ctitusbrown @gvwilson @jiffyclub @tracykteal @ethanwhite
+357869321638264833  Jul 18 10:27  @MarekHlavac      RT @m_a_upson: New update to the stargazer package makes formatting regression results tables easy #LaTeX #Rstats http://lnkd.in/yhFu7M
+357869410867879938  Jul 18 10:28  @BMMillsy         @cpsievert @steamerpro addressed your comments in this post. Parallelization with mgcv: http://tinyurl.com/ljyhc73 #Rstats
+357871146899095552  Jul 18 10:35  @cpsievert        RT @BMMillsy: @cpsievert @steamerpro addressed your comments in this post. Parallelization with mgcv: http://tinyurl.com/ljyhc73 #Rstats
+357881778347835393  Jul 18 11:17  @monkmanmh        Blog post: Fair Weather @HarbourCats Fans? #Rstats #YYJ http://tinyurl.com/lbjklb9
+357886047314649088  Jul 18 11:34  @ramnath_vaidya   rCharts + NVD3 + dat.gui controls http://rcharts.io/controls/datgui/ #rstats #dataviz #d3js @d3visualization #rcharts http://t.co/IRksdKV09N
+357887950421377024  Jul 18 11:41  @timelyportfolio  RT @ramnath_vaidya: rCharts + NVD3 + dat.gui controls http://rcharts.io/controls/datgui/ #rstats #dataviz #d3js @d3visualization #rcharts http://t.co/IRksdKV09N
+357888343507349504  Jul 18 11:43  @rmflight         an example of combining #rstats and #markdown to write a journal article http://rmflight.github.io/affyMM/ repo: https://github.com/rmflight/affymm
+357891299573121024  Jul 18 11:55  @steamerpro       RT @BMMillsy: @cpsievert @steamerpro addressed your comments in this post. Parallelization with mgcv: http://tinyurl.com/ljyhc73 #Rstats
+357891414950019072  Jul 18 11:55  @cloudHPC         Had a great conversation with @RevoJoe and @tomassino about #bigdata and #rstats community actions in #Germany
+357891535905374209  Jul 18 11:56  @Canuckish        RT @datalies: Generally, when I mention #Rstats to programmers, most don't seem to know what I'm talking about... I feel like I have super powers! #UNGH!
+357893802859560961  Jul 18 12:05  @SardelichM       How to implement #CUDA #GPU parallelism in #Rstats using  #WINDOWS platform? The answer to my own question here: http://stackoverflow.com/questions/17635531/calling-cuda-compiled-dll-from-r/17728521#17728521
+357894219920191488  Jul 18 12:06  @i_314            RT @ar_usergroup: Llamada a presentación de trabajos: II Encuentro de Usuarios de R Argentina.Este año habra charlas y talleres #rstats http://t.co/ERvpakWJsy
+357894385280618496  Jul 18 12:07  @RLangTip         read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357894449658998784  Jul 18 12:07  @sjGoring         RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357894616630034432  Jul 18 12:08  @yuifu            RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357894670577176577  Jul 18 12:08  @ethanwhite       RT @rmflight: an example of combining #rstats and #markdown to write a journal article http://rmflight.github.io/affyMM/ repo: https://github.com/rmflight/affymm
+357894810411077633  Jul 18 12:09  @_mod_p           RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357895009011384321  Jul 18 12:09  @adnanbasarr      RT @rmflight: an example of combining #rstats and #markdown to write a journal article http://rmflight.github.io/affyMM/ repo: https://github.com/rmflight/affymm
+357896048943333376  Jul 18 12:14  @joscani          RT @ar_usergroup: Llamada a presentación de trabajos: II Encuentro de Usuarios de R Argentina.Este año habra charlas y talleres #rstats http://t.co/ERvpakWJsy
+357896543686234112  Jul 18 12:16  @healthstatsdude  RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357896651991547904  Jul 18 12:16  @EduardoClark     RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357897908139466753  Jul 18 12:21  @deronaucoin      RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357898052083785728  Jul 18 12:21  @TJO_datasci      RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357898583460167681  Jul 18 12:24  @kristenobacter   RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357900343273066496  Jul 18 12:31  @emulenews        RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357902651771461633  Jul 18 12:40  @CStothart        RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357903704831164416  Jul 18 12:44  @jdtonkin         corrgram - another simple but handy little find to save time! #rstats
+357904341513940993  Jul 18 12:46  @IanDworkin       RT @rmflight: an example of combining #rstats and #markdown to write a journal article http://rmflight.github.io/affyMM/ repo: https://github.com/rmflight/affymm
+357904392436985857  Jul 18 12:47  @IanDworkin       RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357905871000453120  Jul 18 12:53  @PikeWrangler     RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357906164270383104  Jul 18 12:54  @millerdl         on a side note, why does #NOAA provide so many different (and hard to find) entry points to bathymetry data on their site? #rstats
+357908605476933632  Jul 18 13:03  @dzidorius        Progress of my intervals. Neither #garmin nor @endomondo offers a solution for intervals #Rstats rulez! http://t.co/vbgGwMKgPY
+357913374874533890  Jul 18 13:22  @shoha99          RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357915334889570306  Jul 18 13:30  @hadleywickham    RT @rmflight: an example of combining #rstats and #markdown to write a journal article http://rmflight.github.io/affyMM/ repo: https://github.com/rmflight/affymm
+357915674837917698  Jul 18 13:32  @msonnabaum       RT @rmflight: an example of combining #rstats and #markdown to write a journal article http://rmflight.github.io/affyMM/ repo: https://github.com/rmflight/affymm
+357917821785104384  Jul 18 13:40  @komaba_mobile    RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357918182000295936  Jul 18 13:41  @mathew_hall      RT @rmflight: an example of combining #rstats and #markdown to write a journal article http://rmflight.github.io/affyMM/ repo: https://github.com/rmflight/affymm
+357918205719097344  Jul 18 13:42  @dphdk            RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357922819885121536  Jul 18 14:00  @ehollister02     RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357923419528392704  Jul 18 14:02  @CasalsTMarti     RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357924025105793026  Jul 18 14:05  @jmgomez          RT @Rbloggers: Tailor Your Tables with stargazer: New Features for #LaTeX and Text Output: http://bit.ly/143RvYW #rstats
+357925280851046400  Jul 18 14:10  @jkertzer         My new favorite #rstats package is fortunes - all the snark of the R-help listerv, in easy command-line format http://cran.r-project.org/web/packages/fortunes/vignettes/fortunes.pdf
+357925339525558272  Jul 18 14:10  @MP1499           RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357926179157712896  Jul 18 14:13  @RESAQUABOREA     Simply brilliant RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357927372953096193  Jul 18 14:18  @sharon000        RT @RESAQUABOREA: Brilliant RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy & paste from spreadsheets into R #rstats
+357931119389315072  Jul 18 14:33  @RyanDEnos        RT @jkertzer: My new favorite #rstats package is fortunes - all the snark of the R-help listerv, in easy command-line format http://t.co/9j0SfHUGeo
+357931880764555264  Jul 18 14:36  @aDataHead        From Dark Matter to Whale Calls: Competitive data-mining with #Rstats and #Python http://www.youtube.com/watch?v=9C6tHO-o-yo&feature=youtube_gdata_player
+357933526139678720  Jul 18 14:42  @mjcavaretta      Heads up @kaggle! RT @aDataHead: Competitive data-mining with #Rstats and #Python http://www.youtube.com/watch?v=9C6tHO-o-yo&feature=youtube_gdata_player cc @jabawack
+357936689911566338  Jul 18 14:55  @timelyportfolio  think I got these #d3js right #rstats #rCharts Licenses for Libraries with Code: http://rcharts.io/viewer/?6031928#.Ueg6C7uX6-I.twitter @jkiernander
