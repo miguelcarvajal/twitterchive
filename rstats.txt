@@ -12138,3 +12138,41 @@
 357571506840158208  Jul 17 14:44  @Olivier1Schmitt  RT @jay_ulfelder: Any R master craftsmen or women have a few minutes to help me w/a thorny coding problem? #Rstats @joelgombin
 357571831051460608  Jul 17 14:45  @hashonomy_gus    seq {base} | inside-R | A Community Site for R http://hashonomy.com/exCf/ #rstats (via @RLangTip)
 357573474484617218  Jul 17 14:52  @KennyPeanuts     To make a file from a displayed plot in #Rstats use: dev.copy(file.format, "file_name")    How cool is that.  http://stackoverflow.com/a/17707346/686481
+357583154149732354  Jul 17 15:30  @timelyportfolio  more on process Timely Portfolio: All My Roads Lead Back to Finance–PIMCO Sankey http://timelyportfolio.blogspot.com/2013/07/all-my-roads-lead-back-to-financepimco.html?spref=tw #rstats #d3js
+357584272929988608  Jul 17 15:35  @timelyportfolio  RT @cboettig: Forking the R journal http://carlboettiger.info/2013/07/10/forking-the-R-journal.html #rstats
+357584765807235072  Jul 17 15:37  @DashingD3js      RT @timelyportfolio: more on process Timely Portfolio: All My Roads Lead Back to Finance–PIMCO Sankey http://timelyportfolio.blogspot.com/2013/07/all-my-roads-lead-back-to-financepimco.html?spref=tw #rstats #d3js
+357585433602965505  Jul 17 15:39  @kuun_peal        Is there a good reason not to simulate all power analyses, even those with analytic solutions? #rstats #statistics #stats
+357585560904286209  Jul 17 15:40  @rOpenSci         [Blog] @GBIF species occurrence data -> style map markers -> #geojson files -> push to @github = interactive map awesomeness #rstats
+357585753162788864  Jul 17 15:41  @drdrewsteen      RT @KennyPeanuts: To make a file from a displayed plot in #Rstats use: dev.copy(file.format, "file_name")    How cool is that.  http://t.co/3EYXPuJgcG
+357588229656023040  Jul 17 15:50  @Rbloggers        Plotting Likert-Scales (net stacked distributions) with ggplot #rstats:  (This article was first pub... http://bit.ly/1aQNxqa #rstats
+357588230939475968  Jul 17 15:50  @Rbloggers        Futile.logger 1.3.3 available on CRAN:  (This article was first published on   Cartesian Faith » R, ... http://bit.ly/1aQNzOP #rstats
+357595683764715520  Jul 17 16:20  @mhawksey         A shiny app that displays your facebook network #Rstats  http://tuxette.nathalievilla.org/?p=997&lang=en
+357599046732480512  Jul 17 16:33  @randyzwitch      @rahulpathak @fredbenenson I've just been using the RPostgreSQL #rstats package to access, that works pretty well also
+357601839841157121  Jul 17 16:44  @rahulpathak      .@randyzwitch @fredbenenson -- also good to know that #rstats with Redshift is working well. Thanks for sharing.
+357602093521047552  Jul 17 16:45  @ramnath_vaidya   RT @timelyportfolio: more on process Timely Portfolio: All My Roads Lead Back to Finance–PIMCO Sankey http://timelyportfolio.blogspot.com/2013/07/all-my-roads-lead-back-to-financepimco.html?spref=tw #rstats #d3js
+357605443712983041  Jul 17 16:59  @datalies         Generally, when I mention #Rstats to programmers, most don't seem to know what I'm talking about... I feel like I have super powers! #UNGH!
+357605867593535488  Jul 17 17:00  @abresler         Another shout out to @ramnath_vaidya & the whole #rCharts #rStats team-getting close to data/viz people will enjoy  http://rcharts.io/viewer/?6024324#.UecCfNGLSpg.twitter
+357607921300946944  Jul 17 17:09  @ianjacobs        "Plotting Likert-Scales (net stacked distributions) with ggplot #rstats" http://feedproxy.google.com/~r/RBloggers/~3/mt3FQm_h-VE/
+357609738542276608  Jul 17 17:16  @NEdgingtonPhD    RT @Rbloggers: Plotting Likert-Scales (net stacked distributions) with ggplot #rstats:  (This article was first pub... http://t.co/SdCqXwnBAX #rstats
+357615832949460992  Jul 17 17:40  @siah             Fast(er) R Code http://ow.ly/n2zOq #rstats
+357617373588627456  Jul 17 17:46  @revodavid        Speedup #rstats code by inlining C++ -- @revojoe's #useR2013 experiences with Rcpp: http://bit.ly/11XK3ym
+357618627236724736  Jul 17 17:51  @ramnath_vaidya   RT @abresler: Another shout out to @ramnath_vaidya & the whole #rCharts #rStats team-getting close to data/viz people will enjoy  http://t.co/LhNh304eE5
+357618652218015744  Jul 17 17:51  @eddelbuettel     RT @revodavid: Speedup #rstats code by inlining C++ -- @revojoe's #useR2013 experiences with Rcpp: http://bit.ly/11XK3ym
+357619526961479680  Jul 17 17:55  @jmdh22           RT @mhawksey: A shiny app that displays your facebook network #Rstats  http://tuxette.nathalievilla.org/?p=997&lang=en
+357619827131039744  Jul 17 17:56  @divyakkm         RT @revodavid: Speedup #rstats code by inlining C++ -- @revojoe's #useR2013 experiences with Rcpp: http://bit.ly/11XK3ym
+357620399854854145  Jul 17 17:58  @divyakkm         RT @siah: Fast(er) R Code http://ow.ly/n2zOq #rstats
+357624408292069376  Jul 17 18:14  @richardjtelford  RT @ucfagls: Flickering diatoms? Thoughts on interpolating sediment core data & implications for earlywarning signals w. #rstats http://t.co/51wRGnx4LR
+357627003056295937  Jul 17 18:24  @seandavis12      Simon Urbanek talking about "Tackling Big Data in R: old and new" at #bioc2013 #rstats
+357628932796858368  Jul 17 18:32  @psychemedia      Really nifty Sankey diagram generator from @timelyportfolo http://bit.ly/12W9M5h  #rstats #ddj #schoolOfData
+357628936479444993  Jul 17 18:32  @SchoolOfData     Really nifty Sankey diagram generator from @timelyportfolo http://bit.ly/12W9M5h  #rstats #ddj #schoolOfData
+357629988285059072  Jul 17 18:36  @chrishanretty    RT @psychemedia: Really nifty Sankey diagram generator from @timelyportfolo http://bit.ly/12W9M5h  #rstats #ddj #schoolOfData
+357631804909432832  Jul 17 18:44  @seandavis12      Urbanek:  Hadoop streaming example using #rstats #bioc2013
+357631919686549506  Jul 17 18:44  @eoinbrazil       RT @revodavid: Speedup #rstats code by inlining C++ -- @revojoe's #useR2013 experiences with Rcpp: http://bit.ly/11XK3ym
+357649500963209216  Jul 17 19:54  @seandavis12      Cheng: Upcoming in 0.98--visual debugging tools, R presentations available in preview edition http://www.rstudio.com/ide/download/preview #bioc2013 #rstats
+357650331221491712  Jul 17 19:57  @seandavis12      Cheng: Moving on to shiny #rstats package at #bioc2013
+357651822728585216  Jul 17 20:03  @ramnath_vaidya   RT @SchoolOfData: Really nifty Sankey diagram generator from @timelyportfolo http://bit.ly/12W9M5h  #rstats #ddj #schoolOfData
+357652510237933568  Jul 17 20:06  @seandavis12      Cheng:  Showing an interactive, zooming heatmap at #bioc2013 combining #d3js with shiny and #rstats available here:  https://github.com/jcheng5/d3-heatmap
+357653937660243968  Jul 17 20:11  @anastasia_do     Must try. RT @SchoolOfData: Really nifty Sankey diagram generator from @timelyportfolo http://bit.ly/12W9M5h  #rstats #ddj #schoolOfData
+357661791410601984  Jul 17 20:43  @lgatt0           RT @seandavis12: Cheng:  Showing an interactive, zooming heatmap at #bioc2013 combining #d3js with shiny and #rstats available here:  https://t.co/nlj54el3Ab
+357662343611686914  Jul 17 20:45  @lgatt0           RT @raphg: @Bioconductor working on @github integration. #Bioc2013 #Rstats
+357664372941795329  Jul 17 20:53  @ypriverol        RT @raphg: @Bioconductor working on @github integration. #Bioc2013 #Rstats
