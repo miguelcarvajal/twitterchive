@@ -12176,3 +12176,18 @@
 357661791410601984  Jul 17 20:43  @lgatt0           RT @seandavis12: Cheng:  Showing an interactive, zooming heatmap at #bioc2013 combining #d3js with shiny and #rstats available here:  https://t.co/nlj54el3Ab
 357662343611686914  Jul 17 20:45  @lgatt0           RT @raphg: @Bioconductor working on @github integration. #Bioc2013 #Rstats
 357664372941795329  Jul 17 20:53  @ypriverol        RT @raphg: @Bioconductor working on @github integration. #Bioc2013 #Rstats
+357677150238818304  Jul 17 21:44  @pssGuy           Belatedly came across some great viz of Wimbledon http://wimbledon.prcweb.co.uk/ Does not look like developer is into #Rstats from his bio
+357684389977022464  Jul 17 22:12  @fellgernon       RT @revodavid: Speedup #rstats code by inlining C++ -- @revojoe's #useR2013 experiences with Rcpp: http://bit.ly/11XK3ym
+357684547892559872  Jul 17 22:13  @fellgernon       RT @seandavis12: Cheng:  Showing an interactive, zooming heatmap at #bioc2013 combining #d3js with shiny and #rstats available here:  https://t.co/nlj54el3Ab
+357684604754726912  Jul 17 22:13  @fellgernon       RT @raphg: @Bioconductor working on @github integration. #Bioc2013 #Rstats
+357685476104208384  Jul 17 22:17  @seandavis12      Just found out that #emacs ESS has debugging built-in in recent versions: https://code.google.com/p/ess-tracebug/ #rstats
+357691705132199937  Jul 17 22:42  @mattVDiLeo       Deepen your R experience with Rcpp. #rstats http://blog.revolutionanalytics.com/2013/07/deepen-your-r-experience-with-rcpp.html
+357699545708244994  Jul 17 23:13  @Rbloggers        All My Roads Lead Back to Finance–PIMCO Sankey:  (This article was first published on   Timely Portf... http://bit.ly/13ykqy4 #rstats
+357711480315052032  Jul 18 00:00  @timelyportfolio  RT @seandavis12: Cheng:  Showing an interactive, zooming heatmap at #bioc2013 combining #d3js with shiny and #rstats available here:  https://t.co/nlj54el3Ab
+357711560715673601  Jul 18 00:00  @timelyportfolio  RT @abresler: Another shout out to @ramnath_vaidya & the whole #rCharts #rStats team-getting close to data/viz people will enjoy  http://t.co/LhNh304eE5
+357712986049216514  Jul 18 00:06  @timelyportfolio  RT @mhawksey: A shiny app that displays your facebook network #Rstats  http://tuxette.nathalievilla.org/?p=997&lang=en
+357726706976567296  Jul 18 01:01  @znmeb            RT @pssGuy: Any #rstats #cricket chart fans out there? Check out Oz chances  from past 4th inns efforts http://bit.ly/12ySH09 http://t.co/2B34SA25VO
+357729457919885312  Jul 18 01:12  @ChrisGandrud     Nice, if I had more time I would do a d3Network v RT @mhawksey shiny app that displays your facebook network #Rstats  http://tuxette.nathalievilla.org/?p=997&lang=en
+357731022508527616  Jul 18 01:18  @azadag           RT @ChrisGandrud: Nice, if I had more time I would do a d3Network v RT @mhawksey shiny app that displays your facebook network #Rstats  http://t.co/2QjFeFyWp5
+357737568730746881  Jul 18 01:44  @drago_carlo      Getting Started with Reproducible Research http://christophergandrud.blogspot.de/2013/07/getting-started-with-reproducible.html @prismatic #ReproducibleResearch #Research #Rstats #Book
+357753665710338048  Jul 18 02:48  @grserrano_       @undivaga @JaimeMAD @CaoticaEconomia Hay un montón, busca #rstats , pero pregunta.

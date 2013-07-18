@@ -2701,3 +2701,12 @@
 357630317009440768  Jul 17 18:38  @rnomics          Bayesian Hierarchical Model for Differential Gene Expression Using #RNA-Seq Data - Online... http://bit.ly/12LVhQz #rnomics_bioinfo @MyEN
 357650956554473472  Jul 17 20:00  @sr120            @DrLabRatOry The "field" is full of crap - far more reliable measures of differential expression across replicates than with whizzy RNA-seq
 357664742116048897  Jul 17 20:54  @ypriverol        Proteogenomic Database Construction Driven from Large Scale RNA-seq Data: http://pubs.acs.org/doi/abs/10.1021/pr400294c #proteomics
+357687512266842112  Jul 17 22:25  @mattVDiLeo       Comparing DESeq to DEXSeq. #rnaseq #yam http://www.rna-seqblog.com/presentations/comparative-analysis-of-rna-seq-data-with-deseq-and-dexseq/
+357688849163501568  Jul 17 22:30  @watsonhaigh      RNA-Seq: A brief history http://blog.sbgenomics.com/history-of-rna-seq/
+357708442691055618  Jul 17 23:48  @BiologyMag       http://sciencealerts.com Proteogenomic Database Construction Driven from Large Scale RNA-seq Data http://dlvr.it/3gSPkw
+357719154733756417  Jul 18 00:31  @watsonhaigh      Is there a script for calculating R/FPKM's from a BAM file of #RNA-seq reads mapped against ERCC spike-ins?
+357738230268964864  Jul 18 01:46  @Rodymon          Feliz hoy. Aprendí y termine de preparar las librerías para mi RNA-Seq. Es un conocimiento bien avanzado.
+357739303331307521  Jul 18 01:51  @DaveMessina      RT @CofactorGenomic: Spike-in controls and RNA-seq. Part 3 of our RNA-seq DX series: http://www.cofactorgenomics.com/blog/2013/rna-seq-lies-half-truths-and-skinny-pt-3-spike-controls
+357741787420835840  Jul 18 02:01  @VickySchneiderG  RT @watsonhaigh: RNA-Seq: A brief history http://blog.sbgenomics.com/history-of-rna-seq/
+357746409300172800  Jul 18 02:19  @marc_rr          RT @watsonhaigh: RNA-Seq: A brief history http://blog.sbgenomics.com/history-of-rna-seq/
+357753938914705410  Jul 18 02:49  @antiplastics     RT @watsonhaigh: RNA-Seq: A brief history http://blog.sbgenomics.com/history-of-rna-seq/
