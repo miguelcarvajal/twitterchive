@@ -12191,3 +12191,17 @@
 357731022508527616  Jul 18 01:18  @azadag           RT @ChrisGandrud: Nice, if I had more time I would do a d3Network v RT @mhawksey shiny app that displays your facebook network #Rstats  http://t.co/2QjFeFyWp5
 357737568730746881  Jul 18 01:44  @drago_carlo      Getting Started with Reproducible Research http://christophergandrud.blogspot.de/2013/07/getting-started-with-reproducible.html @prismatic #ReproducibleResearch #Research #Rstats #Book
 357753665710338048  Jul 18 02:48  @grserrano_       @undivaga @JaimeMAD @CaoticaEconomia Hay un montón, busca #rstats , pero pregunta.
+357764503959642114  Jul 18 03:31  @adolfoalvarez    RT @siah: Fast(er) R Code http://ow.ly/n2zOq #rstats
+357774361308045312  Jul 18 04:10  @jmgomez          R talks to Weka about Data Mining - nice & simple intro to R-Weka connection http://ow.ly/mX4wA #rstats #weka #datamining
+357788366483365889  Jul 18 05:06  @adolfoalvarez    Is always useful to remember: set operators in #rstats http://stat.ethz.ch/R-manual/R-devel/library/base/html/sets.html
+357793308124250112  Jul 18 05:25  @GenomicsIo       Sometimes R's handling of data types is driving me insane... #Rstats
+357795912787042304  Jul 18 05:36  @tdoyon           "Plotting Likert-Scales (net stacked distributions) with ggplot #rstats" http://feedly.com/k/18ltj3G
+357799285100122112  Jul 18 05:49  @romain_francois  RT @revodavid: Speedup #rstats code by inlining C++ -- @revojoe's #useR2013 experiences with Rcpp: http://bit.ly/11XK3ym
+357799602537242624  Jul 18 05:50  @Rbloggers        9th IMACS seminar on Monte Carlo Methods, Annecy:  (This article was first published on   Xi'an's Og... http://bit.ly/1aSPD9a #rstats
+357817225723387904  Jul 18 07:00  @Rbloggers        Lilac Bloomsday Run in Graphs:  (This article was first published on   Adventures in Analytics and V... http://bit.ly/1brjjJN #rstats
+357824160824688640  Jul 18 07:28  @mjcavaretta      Good stuff on #analytics & #Rstats MT @SchoolOfData: Need help with one of our tutorials? Stuck in a data project?: http://ask.schoolofdata.org
+357826998586331136  Jul 18 07:39  @misicapavlovic   RT @mjcavaretta: Good stuff on #analytics & #Rstats MT @SchoolOfData: Need help with one of our tutorials? Stuck in a data project?: http://t.co/BBJmZwCAWc
+357827296368918529  Jul 18 07:40  @moorejh          #DataMining & #MachineLearning using #Rstats + Weka. http://www.r-bloggers.com/r-talks-to-weka-about-data-mining/ #datascience HT @jmgomez
+357828048718020608  Jul 18 07:43  @moorejh          cc @readyhill #HPC #datascience RT @chlalanne @statslabdublin #programming with #bigdata in #Rstats http://r-pbd.org/
+357829962919063552  Jul 18 07:51  @chlalanne        RT @siah: Fast(er) R Code http://ow.ly/n2zOq #rstats
+357842571923427330  Jul 18 08:41  @flavioclesio     RT @moorejh: #DataMining & #MachineLearning using #Rstats + Weka. http://www.r-bloggers.com/r-talks-to-weka-about-data-mining/ #datascience HT @jmgomez
