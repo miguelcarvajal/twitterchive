@@ -397,8 +397,8 @@
 312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
-312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -12351,3 +12351,8 @@
 358199160761090048  Jul 19 08:18  @dzidorius        RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
 358200525621170177  Jul 19 08:23  @DrLyndonWalker   RT @abmathewks: Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8 via @strengejacke #Awesome
 358201047879131138  Jul 19 08:25  @hfmuehleisen     Moved the most performance-critical part of the @MonetDB <->#Rstats connector to C: 20X improvement! V.0.7.3 soon at https://r-forge.r-project.org/R/?group_id=1534
+358210162441453568  Jul 19 09:02  @ChrisBeeley      RT @abmathewks: Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8 via @strengejacke #Awesome
+358213270663987200  Jul 19 09:14  @mjcavaretta      Neat #dataviz MT @abmathewks: Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8 HT @strengejacke
+358214435422617600  Jul 19 09:19  @austinogilvie    RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358214939552399360  Jul 19 09:21  @buckyphilia      RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358215030182916096  Jul 19 09:21  @absplyt          RT @abmathewks: Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8 via @strengejacke #Awesome
