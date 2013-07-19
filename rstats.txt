@@ -397,8 +397,8 @@
 312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
-312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -12356,3 +12356,70 @@
 358214435422617600  Jul 19 09:19  @austinogilvie    RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
 358214939552399360  Jul 19 09:21  @buckyphilia      RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
 358215030182916096  Jul 19 09:21  @absplyt          RT @abmathewks: Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8 via @strengejacke #Awesome
+358219963665887233  Jul 19 09:41  @adolfoalvarez    RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358220025842241536  Jul 19 09:41  @MichaelVGibson   MT:  Nice resource, thanks for sharing.  DataMind - A New Effort to Teach R online for free #rstats http://wp.me/p9q8Y-2UQ
+358220224559976449  Jul 19 09:42  @genetics_blog    Archiving all #ISMB #ISMBECCB tweets on Github: https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt. Analysis with #Rstats coming later a la http://gettinggeneticsdone.blogspot.com/2013/05/automated-analysis-tweets-bioinformatics-twitterchive.html
+358220322438262786  Jul 19 09:42  @andharris        RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358220842238750720  Jul 19 09:44  @Bioinfomatic     RT @genetics_blog: Archiving all #ISMB #ISMBECCB tweets on Github: https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt. Analysis with #Rstats coming later a la http://t.co/WbvEQvKef7
+358221907315154944  Jul 19 09:48  @fellgernon       RT @hfmuehleisen: Moved the most performance-critical part of the @MonetDB <->#Rstats connector to C: 20X improvement! V.0.7.3 soon at https://t.co/pwhNO7wfpR
+358223413728788480  Jul 19 09:54  @jjgibaja         RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358225136383565824  Jul 19 10:01  @Jason_J_Flowers  RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+358231538736955392  Jul 19 10:27  @marc_rr          RT @genetics_blog: Archiving all #ISMB #ISMBECCB tweets on Github: https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt. Analysis with #Rstats coming later a la http://t.co/WbvEQvKef7
+358232581952634882  Jul 19 10:31  @WonderMixTape    RT @genetics_blog: Archiving all #ISMB #ISMBECCB tweets on Github: https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt. Analysis with #Rstats coming later a la http://t.co/WbvEQvKef7
+358238456754868224  Jul 19 10:54  @onelinetips      #rstats use revalue or mapvalues in plyr 1.8+ to rename factor levels http://bit.ly/14mECt5
+358239327979311104  Jul 19 10:58  @kdnuggets        Data Science + Gamification + Online training =DataMind: A New Effort to Teach R online for free #rstats http://bit.ly/1aXVtpI
+358239454734987266  Jul 19 10:58  @grenzbegriffe    RT @kdnuggets: Data Science + Gamification + Online training =DataMind: A New Effort to Teach R online for free #rstats http://t.co/H0dtEzuVPu
+358239499349798912  Jul 19 10:58  @PRONOjits        RT @kdnuggets: Data Science + Gamification + Online training =DataMind: A New Effort to Teach R online for free #rstats http://t.co/H0dtEzuVPu
+358240361913012224  Jul 19 11:02  @KevinLDavenport  RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358240784916971520  Jul 19 11:03  @_alitxu_         RT @genetics_blog: Archiving all #ISMB #ISMBECCB tweets on Github: https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt. Analysis with #Rstats coming later a la http://t.co/WbvEQvKef7
+358242828079476737  Jul 19 11:12  @sabumjung        RT @kdnuggets: Data Science + Gamification + Online training =DataMind: A New Effort to Teach R online for free #rstats http://t.co/H0dtEzuVPu
+358242914071089152  Jul 19 11:12  @rOpenSci         New version of rgbif (v0.3.0) #rstats wrapper to @GBIF occurrence data on CRAN http://bit.ly/GIMJzw
+358243042051895297  Jul 19 11:12  @recology_        RT @rOpenSci: New version of rgbif (v0.3.0) #rstats wrapper to @GBIF occurrence data on CRAN http://bit.ly/GIMJzw
+358243526317834241  Jul 19 11:14  @jjgibaja         The summer of R http://buff.ly/154cetI (via @kdnuggets) #rstats
+358244274724683776  Jul 19 11:17  @elige_ar         RT @kdnuggets: Data Science + Gamification + Online training =DataMind: A New Effort to Teach R online for free #rstats http://t.co/H0dtEzuVPu
+358244569609023488  Jul 19 11:18  @prithwis         RT @kdnuggets: Data Science + Gamification + Online training =DataMind: A New Effort to Teach R online for free #rstats http://t.co/H0dtEzuVPu
+358246909992910848  Jul 19 11:28  @timelyportfolio  @timelinejs of #rstats releases http://timelyportfolio.github.io/rCharts_timeline_r/ thx .@ramnath_vaidya 100 Centuries of Sachin | #rCharts http://ramnathv.github.io/sachin100s/
+358247137072918529  Jul 19 11:29  @chlalanne        RT @jjgibaja: The summer of R http://buff.ly/154cetI (via @kdnuggets) #rstats
+358249033326137344  Jul 19 11:36  @rich_            RT @rOpenSci: New version of rgbif (v0.3.0) #rstats wrapper to @GBIF occurrence data on CRAN http://bit.ly/GIMJzw
+358249705576214528  Jul 19 11:39  @vginer_upv       RT @jjgibaja: The summer of R http://buff.ly/154cetI (via @kdnuggets) #rstats
+358250235933364224  Jul 19 11:41  @timelyportfolio  RT @jjgibaja: The summer of R http://buff.ly/154cetI (via @kdnuggets) #rstats
+358254447580815360  Jul 19 11:58  @healthstatsdude  RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358255252425809920  Jul 19 12:01  @tpasinet         RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358256322048835584  Jul 19 12:05  @ramnath_vaidya   RT @timelyportfolio: @timelinejs of #rstats releases http://timelyportfolio.github.io/rCharts_timeline_r/ thx .@ramnath_vaidya 100 Centuries of Sachin | #rCharts http://t.co/JD7VxuuEu4
+358257009818210306  Jul 19 12:08  @RLangTip         List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358257546412298240  Jul 19 12:10  @LoloNeuro        List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ  #rstats
+358257754131005441  Jul 19 12:11  @stephhazlitt     RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358258285582888960  Jul 19 12:13  @M_T_Patterson    RT @drago_carlo: Getting Started with Reproducible Research http://christophergandrud.blogspot.de/2013/07/getting-started-with-reproducible.html @prismatic #ReproducibleResearch #Research #Rstats #Book
+358258352931209217  Jul 19 12:13  @MColebrook       RT @kdnuggets: Data Science + Gamification + Online training =DataMind: A New Effort to Teach R online for free #rstats http://t.co/H0dtEzuVPu
+358262495862988800  Jul 19 12:30  @ianmcook         Put your #rstats skills to work. @TIBCOSpotfire is hiring Data Scientists with R experience. Apply at http://www.linkedin.com/jobs?viewJob=&jobId=6426296&trk=vsrp_jobs_res_name&trkInfo=VSRPsearchId%3A30263271373886971904%2CVSRPtargetId%3A6426296%2CVSRPcmpt%3Aprimary @RStatsJobs
+358263006775353345  Jul 19 12:32  @RStatsJobs       RT @ianmcook: Put your #rstats skills to work. @TIBCOSpotfire is hiring Data Scientists with R experience. Apply at http://www.linkedin.com/jobs?viewJob=&jobId=6426296&trk=vsrp_jobs_res_name&trkInfo=VSRPsearchId%3A30263271373886971904%2CVSRPtargetId%3A6426296%2CVSRPcmpt%3Aprimary
+358267115717283840  Jul 19 12:48  @CasalsTMarti     RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358267612658016256  Jul 19 12:50  @kleinschmidt     RT @rmflight: an example of combining #rstats and #markdown to write a journal article http://rmflight.github.io/affyMM/ repo: https://github.com/rmflight/affymm
+358268314227056640  Jul 19 12:53  @adolfoalvarez    RT @jjgibaja: The summer of R http://buff.ly/154cetI (via @kdnuggets) #rstats
+358269526112489472  Jul 19 12:58  @webbedfeet       "R spells for data wizards" http://feedly.com/k/10TpwYY #datadc #rstats
+358269528481873920  Jul 19 12:58  @DataCommunityDC  "R spells for data wizards" http://feedly.com/k/10TpwYY #datadc #rstats via @webbedfeet
+358270677888942080  Jul 19 13:02  @deronaucoin      RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358271534684581888  Jul 19 13:06  @timelyportfolio  @herrstucki trying to experiment with using it for small mutliples in #rstats #rcharts
+358272487764660224  Jul 19 13:09  @shoha99          RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358273760081620992  Jul 19 13:14  @DLabAtBerkeley   RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358276329944268800  Jul 19 13:25  @pssGuy           RT @timelyportfolio: #rstats #rCharts dev branch now has #jquery datatables http://rcharts.io/viewer/?6033141#.UeheRPWYqPM.twitter http://rcharts.io/viewer/?6033232#.UehegYxF68t.twitter .@ramanth_vaidya
+358277758280925184  Jul 19 13:30  @jfelipe          Excellent free (CC-BY-SA) book for introductory statistics from #openintro project: OpenIntro Statistics 2ed http://www.openintro.org/stat/textbook.php #rstats
+358278223672516608  Jul 19 13:32  @jfelipe          The #OpenIntro Statistics books also comes with a series of labs based on #rstats http://www.openintro.org/stat/labs.php + data & (self-)teaching material
+358278440509640705  Jul 19 13:33  @treycausey       RT @RStatsJobs: RT @ianmcook: Put your #rstats skills to work. @TIBCOSpotfire is hiring Data Scientists with R experience. Apply at http://t.co/rouWo3NL5b
+358280794902917120  Jul 19 13:42  @pridkett         RT @DataCommunityDC: "R spells for data wizards" http://feedly.com/k/10TpwYY #datadc #rstats via @webbedfeet
+358281529283186688  Jul 19 13:45  @Lewis_Lab        #Rstats question: has anybody developed R data import functions for 96-well plate data allowing import of grids and lists?
+358282046944194561  Jul 19 13:47  @hadleywickham    RT @hfmuehleisen: Moved the most performance-critical part of the @MonetDB <->#Rstats connector to C: 20X improvement! V.0.7.3 soon at https://t.co/pwhNO7wfpR
+358282841568063488  Jul 19 13:51  @chlalanne        RT @webbedfeet: "R spells for data wizards" http://feedly.com/k/10TpwYY #datadc #rstats
+358284876920791041  Jul 19 13:59  @rdoume           RT @webbedfeet: "R spells for data wizards" http://feedly.com/k/10TpwYY #datadc #rstats
+358288505182494721  Jul 19 14:13  @kdnuggets        How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://bit.ly/15QUkcH
+358288934876356609  Jul 19 14:15  @nopiedra         “@kdnuggets: How R will turn into SQL (one language, different engines), with new pqR -pretty quick #R engine #rstats http://bit.ly/15QUkcH
+358289315757318144  Jul 19 14:16  @DiogoCMoreira    RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358290147428663296  Jul 19 14:20  @x10ba            RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
+358291340016500736  Jul 19 14:24  @KMH_nowinVA      RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
+358293267219484672  Jul 19 14:32  @quandl           Create quality graphics using R http://qndl.co/14YS3gE #rstats #data
+358295510630662144  Jul 19 14:41  @PPUAMX           RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358295530654269440  Jul 19 14:41  @gvegayon         @leonardojofre revisa pkgs OpenStreetMap y osmar #rstats
+358295975644774402  Jul 19 14:43  @tslumley         RT @hfmuehleisen: Moved the most performance-critical part of the @MonetDB <->#Rstats connector to C: 20X improvement! V.0.7.3 soon at https://t.co/pwhNO7wfpR
+358297678859341825  Jul 19 14:49  @mcorey           RT @RStatsJobs: RT @ianmcook: Put your #rstats skills to work. @TIBCOSpotfire is hiring Data Scientists with R experience. Apply at http://t.co/rouWo3NL5b
+358298949066563584  Jul 19 14:55  @kayuri           RT @webbedfeet: "R spells for data wizards" http://feedly.com/k/10TpwYY #datadc #rstats
+358299544892604417  Jul 19 14:57  @DEAGiles         RT @quandl: Create quality graphics using R http://qndl.co/14YS3gE #rstats #data
