@@ -12327,3 +12327,27 @@
 358111432086269952  Jul 19 02:29  @thorei           RT @timelyportfolio: #rstats #rCharts dev branch now has #jquery datatables http://rcharts.io/viewer/?6033141#.UeheRPWYqPM.twitter http://rcharts.io/viewer/?6033232#.UehegYxF68t.twitter .@ramanth_vaidya
 358111675955687424  Jul 19 02:30  @iSaurabhNayak    RT @ramnath_vaidya: 100 Centuries of Sachin | rCharts, TimelineJS http://ramnathv.github.io/sachin100s/  #rstats #Cricket @TimelineJS .@visualisingdata http://t.co/dRvsdACNLU
 358114365641195523  Jul 19 02:41  @pushthings4ward  [tutorial] Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://bit.ly/12Ls1xK | #ddj #R #DataWrangling
+358120175666610176  Jul 19 03:04  @kevin_ushey      Autocomplete pkg names in library or require calls: utils::rc.settings(ipck=TRUE) Handy for those gigantic #Bioconductor pkg names #rstats
+358127845287014400  Jul 19 03:35  @SardelichM       A hacked version of #Rstats for working with #BigData: http://r-pbd.org/
+358133462563168256  Jul 19 03:57  @estebanmoro      A different way to plot tree networks using #sankey diagrams (#rstats) http://timelyportfolio.github.io/rCharts_d3_sankey/example_build_network_sankey.html
+358134904779182081  Jul 19 04:03  @vtraag           RT @estebanmoro: A different way to plot tree networks using #sankey diagrams (#rstats) http://timelyportfolio.github.io/rCharts_d3_sankey/example_build_network_sankey.html
+358141485880844288  Jul 19 04:29  @nickholway       RT @mattVDiLeo: #Rstats spells for data wizards.  http://feedly.com/k/18rhqwz
+358148849862311936  Jul 19 04:58  @tim_yates        RT @raphg: @Bioconductor working on @github integration. #Bioc2013 #Rstats
+358152387439374336  Jul 19 05:12  @webbedfeet       RT @ramnath_vaidya .@bhogleharsha ODI Centuries of Sachin (with videos) | rCharts + TimelineJS #rstats #Cricket
+358154074941698048  Jul 19 05:19  @ramnath_vaidya   Here is the link to the timeline http://ramnathv.github.io/sachin100s/odis/ #rstats #Cricket
+358159982111358977  Jul 19 05:42  @aad34210         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+358185318408654848  Jul 19 07:23  @hadleywickham    RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358185400277270529  Jul 19 07:23  @zenrhino         RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358185718222692352  Jul 19 07:25  @duke_data        RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358185746978451456  Jul 19 07:25  @MangoTheCat      RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358187651301912576  Jul 19 07:32  @ianjacobs        RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358190216747565058  Jul 19 07:42  @vinayakh         Interesting - Could R become SQL of Data crunching ? - http://4dpiecharts.com/2013/07/16/how-r-will-turn-into-sql/ and R impl'n in Java - Renjin http://www.renjin.org/#about #Rstats
+358193752994611200  Jul 19 07:57  @abmathewks       Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8 via @strengejacke #Awesome
+358194322275307520  Jul 19 07:59  @chlalanne        RT @abmathewks: Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8 via @strengejacke #Awesome
+358195901200101376  Jul 19 08:05  @chlalanne        RT @ramnath_vaidya: Here is the link to the timeline http://ramnathv.github.io/sachin100s/odis/ #rstats #Cricket
+358196258344673280  Jul 19 08:06  @coolbutuseless   Standardised all my #rstats errors to: stop("hammer time") #twentyyearsoutoffashion
+358196313235537920  Jul 19 08:07  @coolbutuseless   RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358197160468557824  Jul 19 08:10  @timelyportfolio  RT @ramnath_vaidya: 100 Centuries of Sachin | rCharts, TimelineJS http://ramnathv.github.io/sachin100s/  #rstats #Cricket @TimelineJS .@visualisingdata http://t.co/dRvsdACNLU
+358199160761090048  Jul 19 08:18  @dzidorius        RT @AmeliaMN: You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358200525621170177  Jul 19 08:23  @DrLyndonWalker   RT @abmathewks: Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8 via @strengejacke #Awesome
+358201047879131138  Jul 19 08:25  @hfmuehleisen     Moved the most performance-critical part of the @MonetDB <->#Rstats connector to C: 20X improvement! V.0.7.3 soon at https://r-forge.r-project.org/R/?group_id=1534
