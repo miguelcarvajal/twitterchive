@@ -1,0 +1,250 @@
+358134681255936000  Jul 19 04:02  @robinhaw         @ThomasKelder is trying to identify anti-diabetic interventions using functional interaction networks #netbiosig #ismbeccb
+358134689640775680  Jul 19 04:02  @Chris_Evelo      My former PhD student Thomas Kelder, now at TNO: finding the most relevant genes is like finding the nicest pebbles on a beach #ismbeccb
+358134924617850880  Jul 19 04:03  @manuelcorpas     Nice to see @StacySlagor at #GOBLET meeting #ISMBECCB
+358135363996368896  Jul 19 04:04  @laxvid           #HiTSEQ2013 #ISMBECCB Inanc Birol: Assembling the 20 Gb White Spruce Genome.
+358135390370136064  Jul 19 04:05  @Chris_Evelo      TK there is direction in gene network from intervention through progression to disease parameters. #ismbeccb #nbsig
+358135723402465280  Jul 19 04:06  @DNADigest        RT @luispedrocoelho: "nobody ever got a Nobel Prize for building great infrastructure" @CameronNeylon #ismbeccb #BOSC2013
+358135738052771841  Jul 19 04:06  @Chris_Evelo      TK progression related genes should cluster (eg in expression) and correlate with disease progression. #ismbeccb #nbsig
+358135780218511360  Jul 19 04:06  @pjacock          #ISMBECCB RT @danmaclean: The great thing about this conference is I'm I'm SNPsig, but many tweeps in other sessions. #Twoplacesatonce
+358135865690058752  Jul 19 04:06  @DNADigest        RT @bffo: Cameron Neylon on Network Ready Research t, the role for open source & open thinking http://cameronneylon.net/ #ismbeccb #BOSC2013
+358136099983466496  Jul 19 04:07  @laxvid           @IB: #ISMBECCB  hacked miSeq to modify reaction cartrdige to do 2X300bp :-)
+358136288118980608  Jul 19 04:08  @Chris_Evelo      TK once upstream regulatory gene modules leading to disease progression you can hunt for interventions. #ismbeccb #nbsig
+358136330728902656  Jul 19 04:08  @luispedrocoelho  "It's the potential for commercial opportunities which pushes politicians to like openness in research"  (!) #ismbeccb #BOSC2013
+358136710128877570  Jul 19 04:10  @Chris_Evelo      Since resulting disease regulatory network clusters are big TK used random walk algorithm between intervention & disease #ismbeccb #nbsig
+358136896368553984  Jul 19 04:11  @luispedrocoelho  "You don't evaluate software quality by the impact factor of the journal it is published in"  @CameronNeylon #ismbeccb #BOSC2013
+358136964412751872  Jul 19 04:11  @nskunca          Call for action form Alex Bateman to edit Wikipedia: we get so much from it, it is time to give back. Join ISCB Wiki competition #ismbeccb
+358137014509916160  Jul 19 04:11  @Chris_Evelo      In the end TK's approach leads to a method to selected effective interventions preventing disease #nbsig #ismbeccb
+358137035338821632  Jul 19 04:11  @bffo             RT @luispedrocoelho: "It's the potential for commercial opportunities which pushes politicians to like openness in research"  (!) #ismbeccb #BOSC2013
+358137085078683648  Jul 19 04:11  @luispedrocoelho  "We have unit tests in the wet lab, we call them controls" @CameronNeylon  #ismbeccb #BOSC2013
+358137159837949952  Jul 19 04:12  @GigaScience      .@CameronNeylon "peer review of software & data probably a dead loss" instead need validation tools. #BOSC2013 #ismbeccb
+358137209050124288  Jul 19 04:12  @braincode        RT @luispedrocoelho: "It's the potential for commercial opportunities which pushes politicians to like openness in research"  (!) #ismbeccb #BOSC2013
+358137223377461248  Jul 19 04:12  @jandot           Does anyone automatically forward #googleplus posts to #twitter? Trying to find a good way to do this #ismbeccb #bosc2013
+358137496275664896  Jul 19 04:13  @team_myGrid      RT @GigaScience: .@CameronNeylon "nobody ever got a nobel prize for infrastructure" #BSOC2013 #ismbeccb
+358137513308733440  Jul 19 04:13  @Chris_Evelo      Some drugs used for life style related diseases did not lead to changes in this selected causal networks (life style does!) #ismbeccb #nbsig
+358139669512736768  Jul 19 04:22  @yaydinson        RT @Chris_Evelo: In the end TK's approach leads to a method to selected effective interventions preventing disease #nbsig #ismbeccb
+358139905123172354  Jul 19 04:23  @arneelof         Disorder session keynote by Keith presenting mainly 2-5 years old results. #3dsig #ismbeccb
+358140071582924800  Jul 19 04:23  @danmaclean       RT @luispedrocoelho: "It's the potential for commercial opportunities which pushes politicians to like openness in research"  (!) #ismbeccb #BOSC2013
+358140215862767616  Jul 19 04:24  @StacySlagor      My pleasure! RT @manuelcorpas  Nice to see @StacySlagor at #GOBLET meeting #ISMBECCB
+358141085761404928  Jul 19 04:27  @mfenner          RT @GigaScience: .@CameronNeylon "peer review of software & data probably a dead loss" instead need validation tools. #BOSC2013 #ismbeccb
+358141129805795328  Jul 19 04:27  @mfenner          RT @luispedrocoelho: "You don't evaluate software quality by the impact factor of the journal it is published in"  @CameronNeylon #ismbeccb #BOSC2013
+358142046541844480  Jul 19 04:31  @AlonKeinan       Martin Kircher from Shendure lab on a framework for estimating the relative pathogenicity of human genetic variants. #ismbeccb #SNPSIG
+358142281742028800  Jul 19 04:32  @arneelof         Conclusion by Dunkeris that we need five or ten more years of studies to know why disorder is there and what it does #3dsig #ismbeccb
+358145320523673600  Jul 19 04:44  @DNADigest        RT @luispedrocoelho: "We have unit tests in the wet lab, we call them controls" @CameronNeylon  #ismbeccb #BOSC2013
+358145573561446400  Jul 19 04:45  @bffo             which room is goblet meeting in? #ismbeccb
+358146549999607808  Jul 19 04:49  @satagopam        Open science data framework: a could enabled system to store, access, and analyse scientific data  by Anup Muhurkar #BOSC2013 #ISMBECCB
+358146687283372033  Jul 19 04:49  @AlonKeinan       MK: introduces c-score for deleteriousness, use SVM to train on practically all annotations predictions out there #ismbeccb #SNPSIG
+358146909443063808  Jul 19 04:50  @AlonKeinan       MK: training set: benign are all mutations fixedin humans for derived allele; deleterious are simulated random mutations #ismbeccb #SNPSIG
+358147279657504768  Jul 19 04:52  @AlonKeinan       MK: computed (and available) c-score for all possible 9 billion potential SNVs on the human reference #ismbeccb #SNPSIG
+358147342966333440  Jul 19 04:52  @OBF_BOSC         Just a reminder, the #BOSC2013 schedule is online here http://www.open-bio.org/wiki/BOSC_2013_Schedule and we aim to have most slides online afterwards #ISMBECCB
+358147792163708929  Jul 19 04:54  @AlonKeinan       Bjoern Stade on snpActs: A versatile analysis tool for annotating and prioritizing SNV data sets #ismbeccb #SNPSIG
+358148200948957185  Jul 19 04:55  @bffo             .@BioMickWatson ok, I will have to miss #GOBLET then, hope you guys are having a great day, see you later tomorrow or at #ISMBECCB ?
+358148245408579584  Jul 19 04:56  @reactome         Natasa Przulj - hairballs frequently appear with biological networks! #netbiosig #ismbeccb
+358148247207952385  Jul 19 04:56  @robinhaw         Natasa Przulj - hairballs frequently appear with biological networks! #netbiosig #ismbeccb
+358148273741529088  Jul 19 04:56  @Chris_Evelo      Natasa Przulj network topology (as derived from experimental information) is a source biological information. How do we get it out #ismbeccb
+358148997644423168  Jul 19 04:59  @satagopam        Anup  using CVs - MIGS, MIMS, MIMARKS #ismbeccb #BOSC2013
+358149020935393283  Jul 19 04:59  @Chris_Evelo      NP graphlets (described in 2007) describe connections and symmetry can be used for wiring similarity analysis #ismbeccb #nbsig
+358149195783352320  Jul 19 04:59  @GigaScience      The GSC will be happy, as Anup Mahurkar says OSDF making sure they follow MiXS standards http://gensc.org/index.php?title=MIxS #BOSC2013 #ISMBECCB
+358152123982168065  Jul 19 05:11  @Chris_Evelo      NP alignment of networks based on different techniques (eg PPI & coexpression) finds functionally related clusters #ismbeccb  #netbiosig
+358152922770583555  Jul 19 05:14  @Chris_Evelo      The de facto standard hashtag for the network biology sig at #ismbeccb is #netbiosig (would have preferred shorter #nbsig)
+358153633222758401  Jul 19 05:17  @GenomeBiology    Not sure whether it's #ISMBECCB, #ISMB2013 or #ISMB13 - but, either way, make sure you look out for Genome Biology's Editor, Clare Garvey
+358154632394047488  Jul 19 05:21  @GigaScience      Now up is Judy Klemm presenting on the open developments at the NCI Cancer Informatics program #BOSC2013 #ISMBECCB
+358155054895071232  Jul 19 05:23  @DNADigest        RT @GigaScience: Now up is Judy Klemm presenting on the open developments at the NCI Cancer Informatics program #BOSC2013 #ISMBECCB
+358155229188984832  Jul 19 05:23  @luispedrocoelho  "Don't figure it all out, take action, and iterate" #BOSC2013 #ISMBECCB
+358155621624848384  Jul 19 05:25  @arneelof         Roland Dunbrack is describing his work in bioligcal relecant interfaces #ismbeccb #3dsig
+358155864839962624  Jul 19 05:26  @Chris_Evelo      NP answering questions: we don't tweak our network alignment methods for better results in specific conditions! #ismbeccb #netbiosig
+358156395083866112  Jul 19 05:28  @manuelcorpas     RT @luispedrocoelho: "Don't figure it all out, take action, and iterate" #BOSC2013 #ISMBECCB
+358156396937748480  Jul 19 05:28  @luispedrocoelho  "May all of your problems be technical." Jim Gray quoted at  #BOSC2013 #ISMBECCB
+358156732528619520  Jul 19 05:29  @bffo             .@jklemm talking about some of the challenges on working with cancer biology software - technical stuff was easy! #ismbeccb #BOSC2013
+358156961478893569  Jul 19 05:30  @DNADigest        RT @bffo: .@jklemm talking about some of the challenges on working with cancer biology software - technical stuff was easy! #ismbeccb #BOSC2013
+358156997075546112  Jul 19 05:30  @Chris_Evelo      Social science: RT @manuelcorpas: RT @luispedrocoelho: "Don't figure it all out, take action, and iterate" #BOSC2013 #ISMBECCB”
+358157102772002816  Jul 19 05:31  @manuelcorpas     RT @dnadigest: #BOSC2013 @jklemm "may all your problems be technical" let's hold on to that as our thought for today :-) #ISMBECCB
+358157924243222528  Jul 19 05:34  @laxvid           #ISMBECCB Michelle Scott. Investigation of a possible role for stably accumulating snoRNA-derived small RNAs in the  reg alternative splice
+358158638365421568  Jul 19 05:37  @OBF_BOSC         RT @bffo: .@jklemm talking about some of the challenges on working with cancer biology software - technical stuff was easy! #ismbeccb #BOSC2013
+358159109461254144  Jul 19 05:39  @Chris_Evelo      David Amar shows how the construction, alignment and within pathway/complex and between network connections really work #ismbeccb #netbiosig
+358160191176450048  Jul 19 05:43  @arneelof         To identify surface core residues you need to use closer sequence homologs. 60% identity #3dsig #ismbeccb
+358160319635398656  Jul 19 05:44  @luispedrocoelho  I'm up next at #BOSC2013 #ISMBECCB to talk about jug: https://jug.readthedocs.org/ !
+358160339310870528  Jul 19 05:44  @reactome         David Amar gave a very interesting talk on creating module maps #netbiosig #ismbeccb
+358160340917305345  Jul 19 05:44  @robinhaw         David Amar gave a very interesting talk on creating module maps #netbiosig #ismbeccb
+358160461444820992  Jul 19 05:44  @reactome         10 posters presentation in 25 minutes, #netbiosig #ismbeccb
+358160463223193602  Jul 19 05:44  @robinhaw         10 posters presentation in 25 minutes, #netbiosig #ismbeccb
+358160521079435266  Jul 19 05:44  @ISMBECCB         @GenomeBiology The official hashtag is #ismbeccb. Looking forward to having Clare attend!
+358160618919968769  Jul 19 05:45  @Chris_Evelo      Getting ready for 10 poster teasers in 25 minutes at #netbiosig #ismbeccb
+358160720480833537  Jul 19 05:45  @GenomeBiology    RT @ISMBECCB: @GenomeBiology The official hashtag is #ismbeccb. Looking forward to having Clare attend!
+358160947619168256  Jul 19 05:46  @reactome         biotapestry at ISB, creates gene regulatory networks #netbiosig #ismbeccb
+358160948701720576  Jul 19 05:46  @robinhaw         biotapestry at ISB, creates gene regulatory networks #netbiosig #ismbeccb
+358160950324494336  Jul 19 05:46  @Chris_Evelo      Biotapestry allows arrangement of results based on high level biology view #netbiosig #ismbeccb
+358161016409956352  Jul 19 05:46  @VickySchneiderG  @GenomeAnalysis team discussing #GOBLET long term sustainability with commitment and benefits for users #ISMBECCB http://t.co/f4ouyVQO3c
+358161200594423809  Jul 19 05:47  @GenomeAnalysis   RT @VickySchneiderG: @GenomeAnalysis team discussing #GOBLET long term sustainability with commitment and benefits for users #ISMBECCB http://t.co/f4ouyVQO3c
+358161203903725568  Jul 19 05:47  @reactome         lusima escudero is using network analysis to study neuromuscular disease #netbiosig #ismbeccb
+358161207527604224  Jul 19 05:47  @robinhaw         lusima escudero is using network analysis to study neuromuscular disease #netbiosig #ismbeccb
+358161382610448384  Jul 19 05:48  @reactome         qtlnetminer - candidate gene discovery for knowledge discovery #netbiosig #ismbeccb
+358161384518860801  Jul 19 05:48  @robinhaw         qtlnetminer - candidate gene discovery for knowledge discovery #netbiosig #ismbeccb
+358161425908236288  Jul 19 05:48  @mkutmon          QTLNETMINER - candidate gene discovery webtool #netbiosig #ismbeccb
+358161437065101312  Jul 19 05:48  @laxvid           @laxvid #ISMBECCB
+358161839697309696  Jul 19 05:50  @arneelof         Now Tim Wiegels talking about how to get more complete models from density maps #ismbeccb
+358161853999878144  Jul 19 05:50  @reactome         tim kacprowski is talking about a gene prioritizer using own data in biological networks #netbiosig #ismbeccb
+358161855782457345  Jul 19 05:50  @robinhaw         tim kacprowski is talking about a gene prioritizer using own data in biological networks #netbiosig #ismbeccb
+358162113379827712  Jul 19 05:51  @ongenetics       Michelle Scott #ISMBECCB #RNASIG snoRNA-derived small RNAs appear to have unique expression patterns, may regulate alternative splicing.
+358162168237543424  Jul 19 05:51  @reactome         visualizing open linked data (in TRIPLES) in pathways and networks using cityscape with semscape and pathway loom #netbiosig #ismbeccb
+358162169696759808  Jul 19 05:51  @robinhaw         visualizing open linked data (in TRIPLES) in pathways and networks using cityscape with semscape and pathway loom #netbiosig #ismbeccb
+358162235857707008  Jul 19 05:51  @manuelcorpas     #ISMBECCB one presentation down 3 more to go! #GOBLET
+358162467534282752  Jul 19 05:52  @Chris_Evelo      PathVisio Loom a curator assistant tool, allowing to get suggestions for pathway extensions from various data sources #netbiosig #ismbeccb
+358162583800393728  Jul 19 05:53  @PathVisio        @andrawaag has a poster about PathwayLoom, a PathVisio plugin to find known first neighbors of a node in a pathway. #netbiosig #ismbeccb
+358162617736507392  Jul 19 05:53  @reactome         natasa djurdevac (ZIB) is using a random walk based algorithms to understand biological networks #netbiosig #ismbeccb
+358162619376476161  Jul 19 05:53  @robinhaw         natasa djurdevac (ZIB) is using a random walk based algorithms to understand biological networks #netbiosig #ismbeccb
+358162955449675776  Jul 19 05:54  @arneelof         Nice intro to model building #3dsig #ismbeccb
+358162994540199936  Jul 19 05:54  @reactome         high thoroughput data integration, network inference and pathway prediction #netbiosig #ismbeccb
+358162996339556352  Jul 19 05:54  @robinhaw         high thoroughput data integration, network inference and pathway prediction #netbiosig #ismbeccb
+358163408140505088  Jul 19 05:56  @GigaScience      Markus List now on an open LIMS system developed at Uni of Southern Denmark called OpenLabFramework #BOSC2013 #ISMBECCB
+358163424670253057  Jul 19 05:56  @reactome         massive associative k-biclustering  #netbiosig #ismbeccb
+358163426557698048  Jul 19 05:56  @robinhaw         massive associative k-biclustering  #netbiosig #ismbeccb
+358163729310949376  Jul 19 05:57  @reactome         dexter pratt, google docs for scientists with networks - share, store and publish cytoscape networks #netbiosig #ismbeccb
+358163731051581441  Jul 19 05:57  @robinhaw         dexter pratt, google docs for scientists with networks - share, store and publish cytoscape networks #netbiosig #ismbeccb
+358163967098617856  Jul 19 05:58  @Alexbateman1     I'm enjoying the ISCB Student Council Symposium at ISMB/ECCB #ismbeccb
+358164214445117440  Jul 19 05:59  @Chris_Evelo      Ideker lab creating "Google Doc" like method to share network data. Useful for eg CyTargetLinker RINs #ismbeccb #netbiosig
+358164242572537856  Jul 19 05:59  @DNADigest        RT @GigaScience: Markus List now on an open LIMS system developed at Uni of Southern Denmark called OpenLabFramework #BOSC2013 #ISMBECCB
+358164279209373696  Jul 19 05:59  @arneelof         improved medium resolution models by using non crystallography symmetry and better loop modeling #ismbeccb
+358164287526670336  Jul 19 05:59  @WonderMixTape    RT @Chris_Evelo: Ideker lab creating "Google Doc" like method to share network data. Useful for eg CyTargetLinker RINs #ismbeccb #netbiosig
+358164302349352960  Jul 19 05:59  @reactome         inna kuperstein, using @reactome data and #sbgn to create atlas of cancer signaling network and navicell #netbiosig #ismbeccb
+358164303863488512  Jul 19 05:59  @robinhaw         inna kuperstein, using @reactome data and #sbgn to create atlas of cancer signaling network and navicell #netbiosig #ismbeccb
+358165132175622145  Jul 19 06:03  @GigaScience      Would be fun to have a similar discussion for "How Not to Be a Bioinformatician" next year http://www.scfbm.org/content/7/1/3 #BOSC2013 #ISMBECCB
+358165143458287616  Jul 19 06:03  @WonderMixTape    Modeling #CNV with disjoint paths #ISMBECCB #HiTSeq
+358165197581586432  Jul 19 06:03  @WonderMixTape    Viral quasispecies reconstruction as general case of polyploid haplotype assembly #ISMBECCB #HiTSeq
+358165487181496321  Jul 19 06:04  @luispedrocoelho  "Automate things so you never have to think about them ever ever again" #BOSC2013 #ISMBECCB
+358165921841422336  Jul 19 06:06  @arneelof         Next keynote is Patricia Babbitt who will talk about mapping 3d structures to protein similarity mapping #3dsig #ismbeccb
+358166057347194880  Jul 19 06:06  @arneelof         RT @luispedrocoelho: "Automate things so you never have to think about them ever ever again" #BOSC2013 #ISMBECCB
+358166134698160128  Jul 19 06:07  @soilandreyes     RT @luispedrocoelho: "Automate things so you never have to think about them ever ever again" #BOSC2013 #ISMBECCB
+358166420850356224  Jul 19 06:08  @bffo             markus list from openlabframework discussing open LIMsS software , challenging IMHO #ismbeccb #BOSC2013 https://github.com/NanoCAN/OpenLabFramework/wiki
+358166434934816768  Jul 19 06:08  @luispedrocoelho  "If you contribute to a larger project, this is good for everyone; but academic recognition systems does not reward it" #BOSC2013 #ISMBECCB
+358166455134588928  Jul 19 06:08  @AlonKeinan       Keynote by Manolis Kellis, "Integrating genetic and epigenetic variation in Alzheimer's disease". Standing room only. #ismbeccb #SNPSIG
+358166551440007168  Jul 19 06:08  @WonderMixTape    Adaptive reference-free compression of sequence quality scores - Anthony Cox @illumina Cambridge #ISMBECCB #HiTSeq
+358166664912707585  Jul 19 06:09  @propicee         At #ismbeccb , enjoyed #Alexbateman1's talk a lot.
+358166802494271488  Jul 19 06:09  @AlonKeinan       MK can go head-to-head with George Church with regards to results-presented-per-minutes rate #ismbeccb #SNPSIG
+358167313662476288  Jul 19 06:11  @bffo             wish I would have been there! 2 many gr8 parallel sessions! “@propicee: At #ismbeccb , enjoyed #Alexbateman1's talk a lot.” #ISMBECCB
+358167824314802178  Jul 19 06:13  @WonderMixTape    Adaptive reference-free compression reference: http://tinyurl.com/m3m3n8v #ISMBECCB  #HiTSeq
+358168439489175552  Jul 19 06:16  @satagopam        Circular RNAs and miRNAs talk by Nikolaus Rajewski #ISMBECCB #IRG-SIG
+358168892050374658  Jul 19 06:18  @satagopam        iPAR-CLIP method to target RNA binding proteins #ISMBECCB #IRG-SIG
+358169166529830912  Jul 19 06:19  @mkutmon          http://acsn.curie.fr - signaling networks for the hallmarks of cancer. #netbiosig #ismbeccb
+358169625617383424  Jul 19 06:21  @satagopam        iCLASH : add a ligation step -> thousands of miRNA:target duplexes came from CLASH #ISMBECCB #IRG-SIG
+358169993500188672  Jul 19 06:22  @mkutmon          NDEx project: collaborative repository for biological networks. Awesome! #netbiosig #ismbeccb
+358170057681022976  Jul 19 06:22  @satagopam        60% of miRNA targets are explained by seed model #ISMBECCB #IRG-SIG
+358170221489565696  Jul 19 06:23  @satagopam        non-seed pairing seem also functional #ISMBECCB #IRG-SIG
+358171233776443392  Jul 19 06:27  @RSGArgentina     #SCS #ISMBECCB Workshop: @ThomasAbeel Presenting your science visually!
+358171458154921985  Jul 19 06:28  @Colin_at_cu      sweet looks like both  #ismbeccb #BOSC2013 are trending tags. i might do #gmod2013 for my class.
+358171487586357249  Jul 19 06:28  @satagopam        miR-7 was one of the miRNA very well evolutionarily conserved in several lineages #ISMBECCB #IRG-SIG
+358172070837878784  Jul 19 06:30  @luispedrocoelho  "The most downloaded PLoS paper are often not highly cited, except on reddit" @CameronNeylon #BOSC2013 #ISMBECCB
+358172169999618049  Jul 19 06:31  @satagopam        Sponge and miR-7 are co-expressed in brain tissues #ISMBECCB #IRG-SIG
+358172559038087170  Jul 19 06:32  @satagopam        miR-7 KB strongly impairs midbrain development in zebrafish #ISMBECCB #IRG-SIG
+358172756719845376  Jul 19 06:33  @nskunca          Loads of useful information and links from Thomas Abeel on presenting science visually at the Student Council Symposium #ismbeccb
+358173051227082753  Jul 19 06:34  @satagopam        1950 circRNAs in human and  742 in C. elegant #ISMBECCB #IRG-SIG
+358173646679838720  Jul 19 06:37  @jacarrico        RT @luispedrocoelho: "The most downloaded PLoS paper are often not highly cited, except on reddit" @CameronNeylon #BOSC2013 #ISMBECCB
+358173797058228224  Jul 19 06:37  @ongenetics       Rajewski #ISMBECCB #RNASIG describes the circular miRNA sponge (CDR1as) that titrates miR-7, finds other "exons with a 2nd life" as circles
+358174230166249472  Jul 19 06:39  @satagopam        RNAseR degrades linear molecules, but not the circular RNAs, a method used to filer the circRNAs #ISMBECCB #IRG-SIG
+358174291214348288  Jul 19 06:39  @pedrobeltrao     A lot of people in Berlin already for ISMB/ECCB http://www.iscb.org/ismbeccb2013 I am going tomorrow #ISMBECCB
+358174727661420544  Jul 19 06:41  @GholsonLyon      RT @AlonKeinan: MK: introduces c-score for deleteriousness, use SVM to train on practically all annotations predictions out there #ismbeccb #SNPSIG
+358174769126326272  Jul 19 06:41  @GholsonLyon      RT @AlonKeinan: MK: computed (and available) c-score for all possible 9 billion potential SNVs on the human reference #ismbeccb #SNPSIG
+358174859748052992  Jul 19 06:41  @jjspr            Registered today at #ismbeccb looking forward to this interesting conference
+358175170659229696  Jul 19 06:43  @satagopam        circular RNA can function as a negative regulator of miR-7; interaction has migration LOF phenotype - important in brain #ISMBECCB #IRG-SIG
+358175451543375872  Jul 19 06:44  @satagopam        Sponge hightest mirR bininding capaciy of any know trans 300x70 mir/cell #ISMBECCB #IRG-SIG
+358175886605946880  Jul 19 06:46  @satagopam        Discovered thousands of stably & well expfess circRNAs,Nicolau lab and  Salzman et al 2012 , Jeck et al 2013  #ISMBECCB #IRG-SIG
+358176256262545410  Jul 19 06:47  @satagopam        "circRANs new class of post-transcipional regulators" Nicolau #ISMBECCB #IRG-SIG
+358177091587940352  Jul 19 06:50  @xanderpico       RT @mkutmon: NDEx project: collaborative repository for biological networks. Awesome! #netbiosig #ismbeccb
+358182871359438848  Jul 19 07:13  @i_am_kilpatrick  Sorry for the lack of SCS poster - online version at: http://bit.ly/kilpatrick_poster - Will hopefully have it in time for RegGen SIG 2mrw! #ismbeccb
+358183812099874817  Jul 19 07:17  @i_am_kilpatrick  Great student talks this morn, esp. Deborah Chasman on yeast salt stress response & Han Cheng Lie on curse of dimensionality #scs #ismbeccb
+358188448332525568  Jul 19 07:35  @mkutmon          Afternoon session #netbiosig #ismbeccb about to start with keynote by Esti Yeger-Lotem.
+358189358592950272  Jul 19 07:39  @reactome         Esti Yeger-Lotem is going to talk about human PPI and tissue interactomes #netbiosig #ismbeccb
+358189360400695298  Jul 19 07:39  @robinhaw         Esti Yeger-Lotem is going to talk about human PPI and tissue interactomes #netbiosig #ismbeccb
+358190448717742082  Jul 19 07:43  @researchobject   WF4EVER @ ISMB/ECCB 2013 #ismbeccb.
+358190491210620928  Jul 19 07:44  @Chris_Evelo      RT @reactome: Esti Yeger-Lotem is going to talk about human PPI and tissue interactomes #netbiosig #ismbeccb
+358190972967981056  Jul 19 07:45  @larsjuhljensen   Esti Yeger-Lotem - interesting presentation on protein interactions and tissue expression #NetBioSig #ISMBECCB
+358191293962264576  Jul 19 07:47  @Chris_Evelo      Esti combines PPI with expression data, interacting proteins often also correlated in expression #ismbeccb #netbiosig
+358191311121166337  Jul 19 07:47  @larsjuhljensen   Most hereditary diseases are manifested in only one or two tissues #NetBioSig #ISMBECCB
+358191348555329537  Jul 19 07:47  @jaumebp          At the #MachineLearning in #SystemsBiology (#MLSB) SIG meeting in #ISMBECCB 2013
+358191615355002881  Jul 19 07:48  @researchobject   Technology Track: Marco Ross chairing "Technology for sharing methods and data of computational experiments in a digital era". #ismbeccb.
+358192018670891009  Jul 19 07:50  @larsjuhljensen   Many disease genes are not tissue specific, but have tissue specific interaction partners #NetBioSig #ISMBECCB
+358192204319162368  Jul 19 07:50  @Chris_Evelo      To combine different kinds of PPI and gene expression data BridgeDB might come in handy if different ID systems used. #ismbeccb #netbiosig
+358192781455400962  Jul 19 07:53  @mkutmon          TissueNet database. Tissue specific interactomes. #netbiosig #ismbeccb
+358193853658320896  Jul 19 07:57  @emblebi          RT @reactome: Esti Yeger-Lotem is going to talk about human PPI and tissue interactomes #netbiosig #ismbeccb
+358193960923435008  Jul 19 07:57  @emblebi          RT @Alexbateman1: I'm enjoying the ISCB Student Council Symposium at ISMB/ECCB #ismbeccb
+358193983215771648  Jul 19 07:57  @Chris_Evelo      RT @larsjuhljensen: Many disease genes are not tissue specific, but have tissue specific interaction partners #NetBioSig #ISMBECCB
+358194700257198081  Jul 19 08:00  @researchobject   ISMB/ECCB Keynote: Results may vary: what is reproducible? why do open science and who gets the credit? July 23rd @CaroleAnneGoble #ismbeccb
+358194715742576642  Jul 19 08:00  @Chris_Evelo      Esti answering question "if it is tissue specific interactions isn't it really cell type specific?" "Yes!" #ismbeccb #netbiosig
+358195056236167169  Jul 19 08:02  @mkutmon          Gang Su presenting 'coolMap' at #netbiosig #ismbeccb.
+358195789639581696  Jul 19 08:05  @reactome         Gang Su, heatmaps have been used since 1873 (Loua) #netbiosig #ismbeccb
+358195791279554560  Jul 19 08:05  @robinhaw         Gang Su, heatmaps have been used since 1873 (Loua) #netbiosig #ismbeccb
+358196337184997380  Jul 19 08:07  @danmaclean       RT @robinhaw: Gang Su, heatmaps have been used since 1873 (Loua) #netbiosig #ismbeccb
+358196341316386817  Jul 19 08:07  @ethanwhite       RT @luispedrocoelho: "You don't evaluate software quality by the impact factor of the journal it is published in"  @CameronNeylon #ismbeccb #BOSC2013
+358196623802773504  Jul 19 08:08  @larsjuhljensen   CoolMap - cooler than heatmaps. But where do I find it? #GoogleFail #NetBioSig #ISMBECCB
+358196668774514688  Jul 19 08:08  @pjacock          RT @luispedrocoelho: "You don't evaluate software quality by the impact factor of the journal it is published in"  @CameronNeylon #ismbeccb #BOSC2013
+358196844863971328  Jul 19 08:09  @MatthewBStocks   RT @luispedrocoelho: "You don't evaluate software quality by the impact factor of the journal it is published in"  @CameronNeylon #ismbeccb #BOSC2013
+358196919543558144  Jul 19 08:09  @kaythaney        RT @luispedrocoelho: "You don't evaluate software quality by the impact factor of the journal it is published in"  @CameronNeylon #ismbeccb #BOSC2013
+358197489083482112  Jul 19 08:11  @danmaclean       RT @larsjuhljensen: CoolMap - cooler than heatmaps. But where do I find it? #GoogleFail #NetBioSig #ISMBECCB
+358197520461070338  Jul 19 08:11  @danmaclean       RT @luispedrocoelho: "You don't evaluate software quality by the impact factor of the journal it is published in"  @CameronNeylon #ismbeccb #BOSC2013
+358197843456040961  Jul 19 08:13  @WonderMixTape    Mate-CLEVER - focused on good performance to detect deletions in size range of 30-100bp #ISMBECCB  #HiTSeq
+358198010288680960  Jul 19 08:13  @mkutmon          Collapsible heat maps with CoolMap @gangsu #netbiosig #ismbeccb.
+358198512355258369  Jul 19 08:15  @tmccormick       @kaythaney “’You don’t eval software  by impact factor’ @CameronNeylon #ismbeccb #BOSC2013”: you see if it works, can’t usu do that w/paper.
+358199079895302144  Jul 19 08:18  @dasmoth          RT @tmccormick: @kaythaney “’You don’t eval software  by impact factor’ @CameronNeylon #ismbeccb #BOSC2013”: you see if it works, can’t usu do that w/paper.
+358199383843946496  Jul 19 08:19  @jmchilton        RT @tmccormick: @kaythaney “’You don’t eval software  by impact factor’ @CameronNeylon #ismbeccb #BOSC2013”: you see if it works, can’t usu do that w/paper.
+358199929807716354  Jul 19 08:21  @Janis3_14159     RT @larsjuhljensen: Many disease genes are not tissue specific, but have tissue specific interaction partners #NetBioSig #ISMBECCB
+358199950020067330  Jul 19 08:21  @Janis3_14159     RT @larsjuhljensen: Most hereditary diseases are manifested in only one or two tissues #NetBioSig #ISMBECCB
+358200407765417985  Jul 19 08:23  @manuelcorpas     RT @larsjuhljensen: Most hereditary diseases are manifested in only one or two tissues #NetBioSig #ISMBECCB
+358200457857998848  Jul 19 08:23  @mkutmon          Tijana Milenko: networks and aging. #netbiosig #ismbeccb
+358201130976690176  Jul 19 08:26  @WonderMixTape    Benchmarking recall deletions:  10-29bp: PINDEL; 30-49bp: MATE-CLEVER; 50-99: COMMON-LAW; 100-249bp: MATE-CLEVER #ISMBECCB  #HiTSeq
+358201184747663362  Jul 19 08:26  @larsjuhljensen   Tijana Milenkovic: network alignment based analysis of human aging #NetBioSig #ISMBECCB
+358202482712772609  Jul 19 08:31  @WonderMixTape    Clinical germline #CNVs 5-10% of all mendelian diseases (#s are underestimate) #ISMBECCB #HiTSeq
+358202978299166721  Jul 19 08:33  @larsjuhljensen   Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/T4Uy3RP8DB
+358203101200646144  Jul 19 08:34  @WonderMixTape    CNVitae Talk by @InVitae 's Joshua Paul  - Clinical Omics #NGS single exon CNV estimates from targeted sequencing #ISMBECCB #HiTSeq
+358203655419613184  Jul 19 08:36  @itisalist        RT @luispedrocoelho: "nobody ever got a Nobel Prize for building great infrastructure" @CameronNeylon #ismbeccb #BOSC2013
+358203685110689792  Jul 19 08:36  @luispedrocoelho  "a visualization is already an interpretation of the data, it may be wrong" #ismbeccb #BOSC2013
+358203873384607747  Jul 19 08:37  @homolog_us       RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/T4Uy3RP8DB
+358204113667895296  Jul 19 08:38  @soilandreyes     RT @luispedrocoelho: "a visualization is already an interpretation of the data, it may be wrong" #ismbeccb #BOSC2013
+358204288944062464  Jul 19 08:38  @itisalist        RT @luispedrocoelho: "We have unit tests in the wet lab, we call them controls" @CameronNeylon  #ismbeccb #BOSC2013
+358204382971559937  Jul 19 08:39  @tvatanen         At #ISMBECCB in Berlin. High-throughput sequencing and SNP-SIG meeting
+358204481571258370  Jul 19 08:39  @bffo             classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/2INHVSKkM7
+358204681085911040  Jul 19 08:40  @GenomicsIo       RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/2INHVSKkM7
+358204851106234369  Jul 19 08:41  @Alexbateman1     RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/2INHVSKkM7
+358205280342904832  Jul 19 08:42  @WonderMixTape    CNVitae models counts -> neg binom; Model dev to id CNVs; Per target mean = mixture of baseline samples (neg binom regression) #ISMBECCB
+358205370012925952  Jul 19 08:43  @WonderMixTape    RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/2INHVSKkM7
+358205438438817792  Jul 19 08:43  @fabiomarroni     RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/T4Uy3RP8DB
+358205795701231618  Jul 19 08:44  @Chris_Evelo      RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/YGN7I6nkNK
+358206237898731520  Jul 19 08:46  @bioinformer      RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/2INHVSKkM7
+358206321083957248  Jul 19 08:46  @danmaclean       Biodalliance - best named genome browser! #ISMBECCB
+358206393121120256  Jul 19 08:47  @ypriverol        RT @luispedrocoelho: "You don't evaluate software quality by the impact factor of the journal it is published in"  @CameronNeylon #ismbeccb #BOSC2013
+358206415451602948  Jul 19 08:47  @danmaclean       RT @danmaclean: Biodalliance - best named genome browser! #ISMBECCB #BOSC2013
+358207002658349056  Jul 19 08:49  @jonathancairns   RT @Chris_Evelo: RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/YGN7I6nkNK
+358207282745589762  Jul 19 08:50  @janosbinder      RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/T4Uy3RP8DB
+358207479332605953  Jul 19 08:51  @mkutmon          Vuk Janjic: the journey to the core of human disease #netbiosig #ismbeccb
+358207687734988801  Jul 19 08:52  @luispedrocoelho  "It is designed to be a good citizen" (Thomas Down on Biodalliance) #BOSC2013 #ISMBECCB
+358207817800359936  Jul 19 08:52  @Chris_Evelo      Interestingly network alignments, e.g. for ageing, helps to get rid of network noise instead of failing from it. Tijana Milenkovic #ISMBECCB
+358208191022526464  Jul 19 08:54  @robinhaw         priceless!  RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/BFjcPuTo4L
+358208279899422722  Jul 19 08:54  @WonderMixTape    Identification of deleterious synonymous variants in human genomes http://tinyurl.com/mqcmo24 #ISMBECCB  #HiTSeq
+358208675447443456  Jul 19 08:56  @Alexbateman1     Talk on expansion of dangerous genes by Severine Affeldt at Student council symposium #ismbeccb #soundsworrying
+358208738433306624  Jul 19 08:56  @WonderMixTape    Silent Variant Analyzer (SilVA) http://tinyurl.com/mnj5vpj #ISMBECCB #HiTSeq
+358209021020348418  Jul 19 08:57  @Alexbateman1     Great use of Mediation http://en.wikipedia.org/wiki/Mediation_%28statistics%29 by Severine Affeldt to understand mechanism of dangerous genes #ISMBECCB
+358209163681210369  Jul 19 08:58  @watsonhaigh      RT @neilfws: Another year, another weekend not at ISMB :( Never mind, follow along @ISMBECCB and #ismbeccb
+358211286061944833  Jul 19 09:06  @santiago_baos    RT @luispedrocoelho: "You don't evaluate software quality by the impact factor of the journal it is published in"  @CameronNeylon #ismbeccb #BOSC2013
+358211452034748416  Jul 19 09:07  @Chris_Evelo      Not so promising then? VJ the core diseasome is not so big (around 100 genes) and already highly targeted by existing drugs #ismbeccb
+358211769153495040  Jul 19 09:08  @jimtill          RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/2INHVSKkM7
+358212816571875328  Jul 19 09:12  @Chris_Evelo      VJ: G-protein coupled receptors and their interacting partners are important part of the core diseasome. #ismbeccb #netbiosig
+358213045207576576  Jul 19 09:13  @InterProDB       Hope everyone enjoys this year's #ismbeccb.  InterPro will be attending the AFP SIG.  Hope to see some of you there!
+358213104817020929  Jul 19 09:13  @larsjuhljensen   "Highly homologous" - that term just hurts #NetBioSig #ISMBECCB
+358213223880728576  Jul 19 09:14  @soilandreyes     Significant #BOSC2013 and #ISMBECCB presence by @team_myGrid this year: http://www.mygrid.org.uk/2013/07/mygrid-and-taverna-at-ismb-2013-and-bosc-2013/ including keynote by @CaroleAnneGoble on Tue.
+358214084862279680  Jul 19 09:17  @EBImetagenomics  EBI metagenomics will be at #ISMBECCB this year.  Come and visit us at poster I10 and at the @emblebi booth
+358214152835182593  Jul 19 09:18  @danmaclean       RT @larsjuhljensen: "Highly homologous" - that term just hurts #NetBioSig #ISMBECCB
+358214173203120128  Jul 19 09:18  @frank_foerster   RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/2INHVSKkM7
+358214223551139840  Jul 19 09:18  @janosbinder      RT @luispedrocoelho: "Automate things so you never have to think about them ever ever again" #BOSC2013 #ISMBECCB
+358214226881413120  Jul 19 09:18  @reactome         Stefan Schuster is showing a snapshot of the "Biochemical Pathways" published by Boehringer Mannheim #netbiosig #ismbeccb
+358214228588503044  Jul 19 09:18  @robinhaw         Stefan Schuster is showing a snapshot of the "Biochemical Pathways" published by Boehringer Mannheim #netbiosig #ismbeccb
+358216865736175616  Jul 19 09:28  @bffo             RT @larsjuhljensen: "Highly homologous" - that term just hurts #NetBioSig #ISMBECCB
+358216983512219651  Jul 19 09:29  @bffo             Sure does!  When will it stop? RT @larsjuhljensen: "Highly homologous" - that term just hurts #NetBioSig #ISMBECCB
+358217106938007552  Jul 19 09:29  @OHSUBCB          @OHSUBCB Postdoc Fellow David Gibbs discusses OMICS Data Integration at #ISMBECCB in Berlin #MSSIG http://fb.me/23S8n7qzn
+358217207966216193  Jul 19 09:30  @arneelof         Innapropriate comment about Hamburg and their clubs in last talk before lunch at #3dsig hope to not see more of that #ismbeccb
+358217222793072642  Jul 19 09:30  @WonderMixTape    RT @OHSUBCB: @OHSUBCB Postdoc Fellow David Gibbs discusses OMICS Data Integration at #ISMBECCB in Berlin #MSSIG http://fb.me/23S8n7qzn
+358217657411051520  Jul 19 09:31  @arneelof         wwPDB  introduced with a new format for pdb files (again) :-) #3dsig #ismbeccb
+358217719009001472  Jul 19 09:32  @arneelof         RT @larsjuhljensen: "Highly homologous" - that term just hurts #NetBioSig #ISMBECCB
+358217951868366849  Jul 19 09:33  @arneelof         RT @Chris_Evelo: RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/YGN7I6nkNK
+358218529444605954  Jul 19 09:35  @aniko99          RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/2INHVSKkM7
+358218562130833408  Jul 19 09:35  @arneelof         Beautiful conference bag (mine) #ismbeccb http://t.co/Q73FNnA6pv
+358219016969519106  Jul 19 09:37  @julientap        RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/T4Uy3RP8DB
+358219203494416384  Jul 19 09:38  @GenaliceDNA      Excellent performance data GENALICE MAP presented at HiTSeq 2013 meeting in Berlin: http://bit.ly/1aXEDHw  #ismbeccb #bioinformatics #ngs
+358219352719765504  Jul 19 09:38  @klmr             RT @bffo: classic picture! RT @larsjuhljensen: Open Access: Do Not Enter #OpenAccess #ISMBECCB http://t.co/2INHVSKkM7
