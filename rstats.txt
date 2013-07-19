@@ -12301,3 +12301,29 @@
 358015472841011200  Jul 18 20:08  @johnb30          RT @treycausey: SuperLearner, an #rstats package for ensemble learning/model stacking. http://cran.r-project.org/web/packages/SuperLearner/index.html
 358020113439522816  Jul 18 20:27  @jkiernander      RT @timelyportfolio: think I got these #d3js right #rstats #rCharts Licenses for Libraries with Code: http://rcharts.io/viewer/?6031928#.Ueg6C7uX6-I.twitter @jkiernander
 358021900246585344  Jul 18 20:34  @LuisCubillos     RT @xieyihui: many people use require() when they really should have used library() #BioC2013 #rstats
+358034233945632768  Jul 18 21:23  @PPUAMX           RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+358040261550538753  Jul 18 21:47  @mattVDiLeo       #Rstats spells for data wizards.  http://feedly.com/k/18rhqwz
+358042915852926976  Jul 18 21:57  @WyoWeeds         RT @mattVDiLeo: #Rstats spells for data wizards.  http://feedly.com/k/18rhqwz
+358043449083592704  Jul 18 21:59  @chlalanne        RT @timelyportfolio: #rstats #rCharts dev branch now has #jquery datatables http://rcharts.io/viewer/?6033141#.UeheRPWYqPM.twitter http://rcharts.io/viewer/?6033232#.UehegYxF68t.twitter .@ramanth_vaidya
+358043580037742593  Jul 18 22:00  @siah             . @lisaczhang  The syntax for R  is now set in stone but you can easily add it yourself like this http://pastebin.com/x4KbA6na  #rstats
+358046644828246018  Jul 18 22:12  @timelyportfolio  Stochastic Oscillator http://systematicinvestor.wordpress.com/2013/07/19/stochastic-oscillator via @feedly #rstats $$
+358048387045670913  Jul 18 22:19  @chasingthealpha  RT @timelyportfolio: Stochastic Oscillator http://systematicinvestor.wordpress.com/2013/07/19/stochastic-oscillator via @feedly #rstats $$
+358055783851769857  Jul 18 22:48  @timelyportfolio  2 Freight Indexes Added to FRED #rstats http://news.research.stlouisfed.org/2013/06/2-freight-indexes-added-to-fred/?utm_source=feedly via @feedly
+358060510383583233  Jul 18 23:07  @kurai_yousei     RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+358070625803722752  Jul 18 23:47  @idigdata         RT @MarkHornick: Need to analyze time series data in R with database data? https://blogs.oracle.com/R/entry/simple_and_advanced_time_series #OracleREnterprise #Oracle #RStats
+358075986048323586  Jul 19 00:09  @ramnath_vaidya   100 Centuries of Sachin | rCharts, TimelineJS http://ramnathv.github.io/sachin100s/  #rstats #Cricket @TimelineJS .@visualisingdata http://t.co/dRvsdACNLU
+358078022294847488  Jul 19 00:17  @Vanxarp          RT @ramnath_vaidya: 100 Centuries of Sachin | rCharts, TimelineJS http://ramnathv.github.io/sachin100s/  #rstats #Cricket @TimelineJS .@visualisingdata http://t.co/dRvsdACNLU
+358079472542556160  Jul 19 00:22  @ficaryl          Also, this --> [R SQUARED FOR MIXED MODELS] http://ecologyforacrowdedplanet.wordpress.com/2013/02/26/r-squared-for-mixed-models/ #PetPeeve #rstats #ECRchat #PhDchat
+358082067151593472  Jul 19 00:33  @ramnarasimhan    RT @ramnath_vaidya: 100 Centuries of Sachin | rCharts, TimelineJS http://ramnathv.github.io/sachin100s/  #rstats #Cricket @TimelineJS .@visualisingdata http://t.co/dRvsdACNLU
+358083592972689408  Jul 19 00:39  @BCCITV           RT @ramnath_vaidya: 100 Centuries of Sachin | rCharts, TimelineJS http://ramnathv.github.io/sachin100s/  #rstats #Cricket @TimelineJS .@visualisingdata http://t.co/dRvsdACNLU
+358090855111868416  Jul 19 01:08  @ramnath_vaidya   .@bhogleharsha ODI Centuries of Sachin (with videos) | rCharts + TimelineJS #rstats #Cricket
+358094346291134467  Jul 19 01:21  @kapoorabhishek   RT @ramnath_vaidya: 100 Centuries of Sachin | rCharts, TimelineJS http://ramnathv.github.io/sachin100s/  #rstats #Cricket @TimelineJS .@visualisingdata http://t.co/dRvsdACNLU
+358102178990264322  Jul 19 01:53  @zentree          2. Get students to take #Rstats output for a model and use #Excel to turn it into a model where the user inputs values for predictors.
+358104002656870401  Jul 19 02:00  @leonardojofre    RT @DatametricsBI: ¿Porque #SAS y #SPSS están integrando R dentro de su motores de análisis? http://www.idata.com.co/index.php/blog-page/37-mineria-de-datos-con-r-su-mejor-amigo-para-los-grandes-datos vía @iDATA_co #rstats #CRM #BI #Marketing
+358107811177172992  Jul 19 02:15  @kushan_s         RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+358107979502977026  Jul 19 02:16  @kushan_s         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+358108324606128128  Jul 19 02:17  @kushan_s         RT @hadleywickham: latest edition of the R journal now available at http://journal.r-project.org/archive/2013-1/ - 20 articles about #rstats!
+358111111905673216  Jul 19 02:28  @thorei           RT @ramnath_vaidya: 100 Centuries of Sachin | rCharts, TimelineJS http://ramnathv.github.io/sachin100s/  #rstats #Cricket @TimelineJS .@visualisingdata http://t.co/dRvsdACNLU
+358111432086269952  Jul 19 02:29  @thorei           RT @timelyportfolio: #rstats #rCharts dev branch now has #jquery datatables http://rcharts.io/viewer/?6033141#.UeheRPWYqPM.twitter http://rcharts.io/viewer/?6033232#.UehegYxF68t.twitter .@ramanth_vaidya
+358111675955687424  Jul 19 02:30  @iSaurabhNayak    RT @ramnath_vaidya: 100 Centuries of Sachin | rCharts, TimelineJS http://ramnathv.github.io/sachin100s/  #rstats #Cricket @TimelineJS .@visualisingdata http://t.co/dRvsdACNLU
+358114365641195523  Jul 19 02:41  @pushthings4ward  [tutorial] Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://bit.ly/12Ls1xK | #ddj #R #DataWrangling
