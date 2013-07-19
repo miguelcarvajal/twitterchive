@@ -12258,3 +12258,46 @@
 357931880764555264  Jul 18 14:36  @aDataHead        From Dark Matter to Whale Calls: Competitive data-mining with #Rstats and #Python http://www.youtube.com/watch?v=9C6tHO-o-yo&feature=youtube_gdata_player
 357933526139678720  Jul 18 14:42  @mjcavaretta      Heads up @kaggle! RT @aDataHead: Competitive data-mining with #Rstats and #Python http://www.youtube.com/watch?v=9C6tHO-o-yo&feature=youtube_gdata_player cc @jabawack
 357936689911566338  Jul 18 14:55  @timelyportfolio  think I got these #d3js right #rstats #rCharts Licenses for Libraries with Code: http://rcharts.io/viewer/?6031928#.Ueg6C7uX6-I.twitter @jkiernander
+357940281678626816  Jul 18 15:09  @DistribEcology   Want to make maps about climate change in #rstats? Want tons of GCM model data? check out rWBclimate from @rOpenSci https://github.com/ropensci/rWBclimate
+357941608659947520  Jul 18 15:15  @MassimoMorelli   Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://wp.me/pIrDl-b8 via @strengejacke
+357941757612277760  Jul 18 15:15  @rOpenSci         RT @DistribEcology: Want to make maps about climate change in #rstats? Want tons of GCM model data? check out rWBclimate from @rOpenSci https://t.co/OO8LLVUCJq
+357943160476925952  Jul 18 15:21  @laguanegna       RT @DistribEcology: Want to make maps about climate change in #rstats? Want tons of GCM model data? check out rWBclimate from @rOpenSci https://t.co/OO8LLVUCJq
+357944013887782913  Jul 18 15:24  @hurricanejim     RT @DistribEcology: Want to make maps about climate change in #rstats? Want tons of GCM model data? check out rWBclimate from @rOpenSci https://t.co/OO8LLVUCJq
+357949501262147584  Jul 18 15:46  @useR_2013        RT @southmapr: @useR_2013 Racy advertising for #rstats executable, targeting #user2013 attendees in Albacete ? http://t.co/jvoNWsCGtE
+357950429163823106  Jul 18 15:50  @psychemedia      COuld be handy - easy Likert scales in ggplot http://bit.ly/120XtcQ #rstats /via Rbloggers #ddj
+357951681880797184  Jul 18 15:55  @gsantosgo        Want to make maps about climate change in #rstats? Want tons of GCM model data? check out rWBclimate from @rOpenSci https://github.com/ropensci/rWBclimate
+357953314576535552  Jul 18 16:01  @amhst20          RT @jkertzer: My new favorite #rstats package is fortunes - all the snark of the R-help listerv, in easy command-line format http://t.co/9j0SfHUGeo
+357953399041429504  Jul 18 16:01  @rOpenSci         RT @gsantosgo: Want to make maps about climate change in #rstats? Want tons of GCM model data? check out rWBclimate from @rOpenSci https://t.co/a53wrNiklk
+357954844096606210  Jul 18 16:07  @ChrisBeeley      RT @hadleywickham: nerf guns + ggplot2: http://shawntoneil.com/index.php/pages/nerftest1 #rstats. thanks to @scheidegger for the link
+357955819322613760  Jul 18 16:11  @_PhilMartin      RT @gsantosgo: Want to make maps about climate change in #rstats? Want tons of GCM model data? check out rWBclimate from @rOpenSci https://t.co/a53wrNiklk
+357956745999958016  Jul 18 16:15  @jlehtoma         RT @DistribEcology: Want to make maps about climate change in #rstats? Want tons of GCM model data? check out rWBclimate from @rOpenSci https://t.co/OO8LLVUCJq
+357957427133939712  Jul 18 16:17  @fellgernon       RT @southmapr: @useR_2013 Racy advertising for #rstats executable, targeting #user2013 attendees in Albacete ? http://t.co/jvoNWsCGtE
+357959276565774337  Jul 18 16:25  @treycausey       Is there an #rstats equivalent of "import x from y?"
+357961239487459328  Jul 18 16:33  @fellgernon       Learning how to explore the Rprof() output. Any tips? http://vimeo.com/24475118 seems helpful but maybe no longer actively maintained? #rstats
+357963527929077760  Jul 18 16:42  @treycausey       SuperLearner, an #rstats package for ensemble learning/model stacking. http://cran.r-project.org/web/packages/SuperLearner/index.html
+357964426818760705  Jul 18 16:45  @mherradora       Plotting Likert-Scales (net stacked distributions) with ggplot #rstats | Strenge Jacke! http://ow.ly/n5Fh3
+357964787596017665  Jul 18 16:47  @sirishasun       #Rstats: find all data-sets associated with a package: data(package="packagename")  For all data-sets from all packages: data().
+357965920934699008  Jul 18 16:51  @MarkHornick      Need to analyze time series data in R with database data? https://blogs.oracle.com/R/entry/simple_and_advanced_time_series #OracleREnterprise #Oracle #RStats
+357966625502273538  Jul 18 16:54  @ramhiser         Gotta love comments on #stackoverflow: "Uuh, the previous comment is stupid." http://stackoverflow.com/questions/12338092/iterate-over-cartesian-product-of-vectors#comment16563423_12338231 #rstats
+357970730207543296  Jul 18 17:10  @StatsInTheWild   Updated to R 3.0.1 Mac OS X 10.7. I get this "Error : .onLoad failed in loadNamespace() for 'tcltk'" How do I fix this?  #rstats
+357973201516642305  Jul 18 17:20  @Rbloggers        Fair weather fans? (An R scatter plot matrix):  (This article was first published on   Bayes Ball, a... http://bit.ly/1aV9uV5 #rstats
+357975557260058624  Jul 18 17:29  @timelyportfolio  #rstats #rCharts dev branch now has #jquery datatables http://rcharts.io/viewer/?6033141#.UeheRPWYqPM.twitter http://rcharts.io/viewer/?6033232#.UehegYxF68t.twitter .@ramanth_vaidya
+357978195674411008  Jul 18 17:40  @Rbloggers        Simple and Advanced Time series with Oracle R Enterprise:  (This article was first published on   Or... http://bit.ly/1bt6TkE #rstats
+357984318289113088  Jul 18 18:04  @bcrunos          RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+357984593158615040  Jul 18 18:05  @fitsolutionsmy   RT @timelyportfolio: #rstats #rCharts dev branch now has #jquery datatables http://rcharts.io/viewer/?6033141#.UeheRPWYqPM.twitter http://rcharts.io/viewer/?6033232#.UehegYxF68t.twitter .@ramanth_vaidya
+357987717587562496  Jul 18 18:18  @chmullig         About to talk #Rstats graphics with #ggplot for #hackNY (@ NYU Palladium Residence Hall - @nyuniversity) http://4sq.com/13nGkIL
+357991654177124352  Jul 18 18:33  @frod_san         RT @rmflight: an example of combining #rstats and #markdown to write a journal article http://rmflight.github.io/affyMM/ repo: https://github.com/rmflight/affymm
+357993649981751298  Jul 18 18:41  @xieyihui         many people use require() when they really should have used library() #BioC2013 #rstats
+357993804495728640  Jul 18 18:42  @frod_san         A tutorial on making HTML5 presentations with #rstats and @rstudioapp  http://www.rstudio.com/ide/docs/presentations/overview via @xieyihui
+357993999363080193  Jul 18 18:43  @AL4S_Rich        RT @xieyihui: many people use require() when they really should have used library() #BioC2013 #rstats
+357994127130394624  Jul 18 18:43  @frod_san         RT @DistribEcology: Want to make maps about climate change in #rstats? Want tons of GCM model data? check out rWBclimate from @rOpenSci https://t.co/OO8LLVUCJq
+357998099572072448  Jul 18 18:59  @ArthurFlam       @timelyportfolio Great ! Now #rCharts is enough for most purposes. Are you kicking #GoogleVis out of interactive #Rstats ? ;)
+357998500895662083  Jul 18 19:01  @hurricanejim     RT @xieyihui: many people use require() when they really should have used library() #BioC2013 #rstats
+357998743548739584  Jul 18 19:02  @eparkerstephen   RT @ramnath_vaidya: rCharts + NVD3 + dat.gui controls http://rcharts.io/controls/datgui/ #rstats #dataviz #d3js @d3visualization #rcharts http://t.co/IRksdKV09N
+358000317629087746  Jul 18 19:08  @Rbloggers        Connect R with Myrrix – Mahout & Cloudera’s real-time, scalable recommender system:  (This article w... http://bit.ly/14jXkSh #rstats
+358002823973183488  Jul 18 19:18  @AmeliaMN         You know you've been using R too long when you go to google to find out the retirement age and type help(seniors). #Rstats
+358005010786820097  Jul 18 19:27  @nzwormgirl       RT @DistribEcology: Want to make maps about climate change in #rstats? Want tons of GCM model data? check out rWBclimate from @rOpenSci https://t.co/OO8LLVUCJq
+358005883118161920  Jul 18 19:30  @KirkDBorne       Let's be friends > Getting R to play nice with the Weka #DataMining package: http://www.r-bloggers.com/r-talks-to-weka-about-data-mining/ #Rstats #RWeka #MachineLearning
+358015472841011200  Jul 18 20:08  @johnb30          RT @treycausey: SuperLearner, an #rstats package for ensemble learning/model stacking. http://cran.r-project.org/web/packages/SuperLearner/index.html
+358020113439522816  Jul 18 20:27  @jkiernander      RT @timelyportfolio: think I got these #d3js right #rstats #rCharts Licenses for Libraries with Code: http://rcharts.io/viewer/?6031928#.Ueg6C7uX6-I.twitter @jkiernander
+358021900246585344  Jul 18 20:34  @LuisCubillos     RT @xieyihui: many people use require() when they really should have used library() #BioC2013 #rstats
