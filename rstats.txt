@@ -12423,3 +12423,20 @@
 358297678859341825  Jul 19 14:49  @mcorey           RT @RStatsJobs: RT @ianmcook: Put your #rstats skills to work. @TIBCOSpotfire is hiring Data Scientists with R experience. Apply at http://t.co/rouWo3NL5b
 358298949066563584  Jul 19 14:55  @kayuri           RT @webbedfeet: "R spells for data wizards" http://feedly.com/k/10TpwYY #datadc #rstats
 358299544892604417  Jul 19 14:57  @DEAGiles         RT @quandl: Create quality graphics using R http://qndl.co/14YS3gE #rstats #data
+358300652511830016  Jul 19 15:01  @M_T_Patterson    check out the ugss dataset in the VGAMdata package (in #R): students' favorite fruit predicts prob. they have a tattoo. #Teaching, #Rstats
+358318363501535232  Jul 19 16:12  @javi_marlop      RT @rOpenSci: New version of rgbif (v0.3.0) #rstats wrapper to @GBIF occurrence data on CRAN http://bit.ly/GIMJzw
+358321255201505281  Jul 19 16:23  @amestadmx        RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+358321278844801025  Jul 19 16:23  @amestadmx        RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358328986885451777  Jul 19 16:54  @dom_muller       RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358330895314333696  Jul 19 17:01  @srsupp           I love/hate when a simple solution is found! Esp. when it took me months of doing it in a very messy way first... #rstats #assign
+358344774949933057  Jul 19 17:57  @AmeliaMN         Useful but easy to forget (for me) function in #Rstats: str(). Shows you the structure of your dataset.
+358357514876104704  Jul 19 18:47  @kenniajin        RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+358359541248823297  Jul 19 18:55  @recology_        my little sol'n for replacing many vector elements at same time http://bit.ly/1bx6GNg based on this SO http://bit.ly/1bx6GwM #rstats
+358362265692536833  Jul 19 19:06  @Rbloggers        R spells for data wizards:  (This article was first published on   Revolutions, and kindly contribut... http://bit.ly/15RTcFM #rstats
+358362267345096704  Jul 19 19:06  @Rbloggers        Oracle R Connector for Hadoop 2.2.0 released:  (This article was first published on   Oracle R Enter... http://bit.ly/1bx8t55 #rstats
+358371805045604352  Jul 19 19:44  @treycausey       Favorite #rstats tip from that link: execute code copied from the shell with options(prompt="  ") options(continue="+ ")
+358372952984662016  Jul 19 19:49  @ramnath_vaidya   DataTables in Shiny using rCharts App: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d #rstats @jcheng http://t.co/4mC2ekOoKI
+358375483202748417  Jul 19 19:59  @PlethodoNick     Can't remember the last time I had less than 10 tabs open on my internet browser while doing #Rstats #FridayNightScience
+358378757364518913  Jul 19 20:12  @rOpenSci         On your way to the bar read our most recent blog post http://bit.ly/18pLFjP #rstats
+358384795597799425  Jul 19 20:36  @BobMuenchen      Very interesting new implementation of #Rstats rewritten from the ground up by #Tibco http://www.slideshare.net/loubajukyorgan/sannella-use-r2013terrmemorymanagement
+358388555762384896  Jul 19 20:51  @psychemedia      RT @ramnath_vaidya: DataTables in Shiny using rCharts App: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d #rstats @jcheng http://t.co/4mC2ekOoKI
