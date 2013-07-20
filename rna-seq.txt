@@ -2746,3 +2746,6 @@
 358345018224177152  Jul 19 17:58  @PythonHub        Blacktie BUGFIX release: 0.2.1.2 (For RNA-seq ana... http://movingthelamppost.com/blog/html/2013/07/17/blacktie_bugfix_release__0_2_1_2.html
 358350242183249921  Jul 19 18:18  @InfoSysReddit    Blacktie BUGFIX release: 0.2.1.2 (For RNA-seq analysis with tophat/cufflinks/cummeRbund) submitted by xguse[lin... http://bit.ly/14o8B3T
 358354328433606657  Jul 19 18:35  @Rodymon          Aprender a analizar datos de RNA-seq... el nuevo desafio
+358512632480796672  Jul 20 05:04  @rnomics          PLOS ONE: ANOVA-Like Differential Expression (ALDEx) Analysis for Mixed Population #RNA-Seq http://bit.ly/147bhmj #rnomics_bioinfo @MyEN
+358522085343113216  Jul 20 05:41  @GigaScience      Vipin Sreedharan next on making RNA-seq reproducible w/ Oqtans. Lack of standardised pipelines highlighted http://www.rna-seqblog.com/poll-results-2/rna-seq-blog-poll-results-14/ #BOSC2013
+358522408124170241  Jul 20 05:42  @bffo             Gunnar Ratsch on Oqtans for #RNA-Seq Data analysis http://www.oqtans.org/ #usegalaxy #ISMBECCB #BOSC2013
