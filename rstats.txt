@@ -12440,3 +12440,13 @@
 358378757364518913  Jul 19 20:12  @rOpenSci         On your way to the bar read our most recent blog post http://bit.ly/18pLFjP #rstats
 358384795597799425  Jul 19 20:36  @BobMuenchen      Very interesting new implementation of #Rstats rewritten from the ground up by #Tibco http://www.slideshare.net/loubajukyorgan/sannella-use-r2013terrmemorymanagement
 358388555762384896  Jul 19 20:51  @psychemedia      RT @ramnath_vaidya: DataTables in Shiny using rCharts App: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d #rstats @jcheng http://t.co/4mC2ekOoKI
+358394185071595521  Jul 19 21:13  @recology_        Interesting, but looks Oracle-ish, yuck MT @BobMuenchen: #rstats rewritten by #Tibco http://www.slideshare.net/loubajukyorgan/sannella-use-r2013terrmemorymanagement
+358398235708104706  Jul 19 21:29  @jfreels4         RT @ramnath_vaidya: DataTables in Shiny using rCharts App: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d #rstats @jcheng http://t.co/4mC2ekOoKI
+358400680937005056  Jul 19 21:39  @SBaruchMordo     RT @rOpenSci: On your way to the bar read our most recent blog post http://bit.ly/18pLFjP #rstats
+358417846113542144  Jul 19 22:47  @FastBigData      Connect R with Myrrix – #Mahout & @Cloudera’s real-time, scalable recommender system http://www.r-bloggers.com/connect-r-with-myrrix-mahout-clouderas-real-time-scalable-recommender-system/ via @rbloggers #rstats
+358418445609611264  Jul 19 22:49  @FastBigData      RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
+358431202375909376  Jul 19 23:40  @nyem             RT @jjgibaja: The summer of R http://buff.ly/154cetI (via @kdnuggets) #rstats
+358446652086317056  Jul 20 00:41  @dphdk            RT @BobMuenchen: Making research in #Rstats more reproducible http://arxiv.org/pdf/1303.2140.pdf
+358452055590973440  Jul 20 01:03  @Rbloggers        Pricing interest rate swaps with lambda.r:  (This article was first published on   Cartesian Faith »... http://bit.ly/13INCm8 #rstats
+358468204189851648  Jul 20 02:07  @FastBigData      Documentation on 4526 R packages, 96137 R functions is now live! #rstats language spoken by millions of dataminers -> http://www.rdocumentation.org/
+358473197299056640  Jul 20 02:27  @KirkDBorne       RT @FastBigData: Documentation on 4526 R packages, 96137 R functions is now live! #Rstats for #DataMining! -> http://www.rdocumentation.org/
