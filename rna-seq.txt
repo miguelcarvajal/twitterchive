@@ -2760,3 +2760,7 @@
 358794841255186432  Jul 20 23:45  @XiaoyunS         RT @genetics_blog: Nature Protocols: De novo transcriptome assembly with RNA-seq using Trinity http://www.nature.com/nprot/journal/v8/n8/full/nprot.2013.084.html #bioinformatics
 358806126357258242  Jul 21 00:30  @rnomics          Identification of Genes Critical for Resistance to Infection by West Nile Virus Using #RNA-Seq Analysis http://bit.ly/12XDRjP #WWS @MyEN
 358838100510126080  Jul 21 02:37  @nickholway       RT @mattVDiLeo: An overview of current #RNAseq pipelines. #yam #ngs http://fenchurch.mc.vanderbilt.edu/bmif310/2012/RNA-Seq%20data%20analysis.pdf
+358923462250725378  Jul 21 08:16  @frank_foerster   #ISMBECCB #PP14 Identifying deferentially expressed transcripts from RNA-seq data with biological variation
+358926021023633409  Jul 21 08:26  @rtraborn         Glaus: Bitseq finds differential expression of RNA-seq reads from different biological conditions using a Gaussian model #PP14 #ismbeccb
+358928509999546368  Jul 21 08:36  @sciencestream    RT @rtraborn: Glaus: Bitseq finds differential expression of RNA-seq reads from different biological conditions using a Gaussian model #PP14 #ismbeccb
+358934213933809665  Jul 21 08:59  @jonathancairns   #ISMBECCB #PP17 "GeneScissors" solves RNA-seq multiple alignment issues by estimating which genes are expressed, and moving reads there
