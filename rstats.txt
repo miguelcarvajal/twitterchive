@@ -12509,3 +12509,27 @@
 358856634707087360  Jul 21 03:51  @Rbloggers        Did the pattern of rain change in the last 100 years?:  (This article was first published on   Wiekv... http://bit.ly/13Ne9i5 #rstats
 358891609364381696  Jul 21 06:10  @AnalyticNetwork  RT @kdnuggets: Very useful: R documentation - all R packages and manuals, searchable #rstats #DataScience http://bit.ly/15xgNf8
 358904502599954434  Jul 21 07:01  @nerutenbeck      Somewhat dismayed at the pay gates being erected in the #Rstats world. <wonders if Oracle investment is a good thing for the community>
+358942203969667072  Jul 21 09:31  @moorejh          #Rstats + #cytoscape for exploratory network analysis http://www.biomedcentral.com/1471-2105/14/217/abstract #bioinformatics #genomics
+358943301443280896  Jul 21 09:35  @anderslindstrom  RT @quandl: Joseph Rickert: Deepen your R experience with Rcpp http://qndl.co/12KB65t #rstats #data
+358945106008604674  Jul 21 09:42  @gauravjain49     RT @moorejh: #Rstats + #cytoscape for exploratory network analysis http://www.biomedcentral.com/1471-2105/14/217/abstract #bioinformatics #genomics
+358947055256866816  Jul 21 09:50  @Field372         Plotting Likert-Scales (net stacked distributions) with ggplot #rstats http://www.r-bloggers.com/plotting-likert-scales-net-stacked-distributions-with-ggplot-rstats/ <= 여론조사에 많이 쓰이는 라이커트 5점 척도, R로 그래프 그리기
+358957460419518464  Jul 21 10:31  @ElementoLab      RT @moorejh: #Rstats + #cytoscape for exploratory network analysis http://www.biomedcentral.com/1471-2105/14/217/abstract #bioinformatics #genomics
+358957499568758784  Jul 21 10:31  @WonderMixTape    RT @moorejh: #Rstats + #cytoscape for exploratory network analysis http://www.biomedcentral.com/1471-2105/14/217/abstract #bioinformatics #genomics
+358961767851896832  Jul 21 10:48  @BastianNb        If her legs ain't trembling like bambi.......... You ain't eatin it right #Rstats
+358962120961957889  Jul 21 10:50  @recology_        RT @nerutenbeck: Somewhat dismayed at the pay gates being erected in the #Rstats world. <wonders if Oracle investment is a good thing for the community>
+358968506756235265  Jul 21 11:15  @statalgo         DataMind: "Learn data analysis for free, interactively" with #rstats. http://www.datamind.org/
+358969258484568064  Jul 21 11:18  @jcheng           RT @ramnath_vaidya: DataTables in Shiny using rCharts App: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d #rstats @jcheng http://t.co/4mC2ekOoKI
+358970199670018048  Jul 21 11:22  @fellgernon       RT @ramnath_vaidya: DataTables in Shiny using rCharts App: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d #rstats @jcheng http://t.co/4mC2ekOoKI
+358977329210458114  Jul 21 11:50  @sharon000        New R package by @ROpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange #gis
+358979608307179520  Jul 21 11:59  @JAdP             RT @sharon000: New R package by @ROpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange #gis
+358980816199614464  Jul 21 12:04  @sharon000        Ooo, aah: Interactive data tables with R: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d by @ramnath_vaidya #rstats
+358984646865858560  Jul 21 12:19  @mattVDiLeo       What to Teach Biologists about Computing. #yam #rstats http://ivory.idyll.org/blog/2013-sesync-meeting.html
+358985763834171394  Jul 21 12:24  @ramnath_vaidya   RT @sharon000: Ooo, aah: Interactive data tables with R: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d by @ramnath_vaidya #rstats
+358991475209949184  Jul 21 12:46  @timelyportfolio  RT @ramnath_vaidya: DataTables in Shiny using rCharts App: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d #rstats @jcheng http://t.co/4mC2ekOoKI
+358993140818395136  Jul 21 12:53  @chlalanne        RT @ramnath_vaidya: DataTables in Shiny using rCharts App: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d #rstats @jcheng http://t.co/4mC2ekOoKI
+359000785117388801  Jul 21 13:23  @hongqin          I am asked to give 90min R tutorial to biology educators on Wed. Suggestions on the topics, please. #rstats
+359001916363112448  Jul 21 13:28  @Rbloggers        Unique bytes in a sliding window as a file content signature:  (This article was first published on ... http://bit.ly/13OPJoq #rstats
+359003182628089856  Jul 21 13:33  @adolfoalvarez    RT @ramnath_vaidya: DataTables in Shiny using rCharts App: http://glimmer.rstudio.com/ramnathv/datatables/ Code: https://gist.github.com/ramnathv/8232949d68c3402e398d #rstats @jcheng http://t.co/4mC2ekOoKI
+359009809632206848  Jul 21 13:59  @mrfumblethumbs   RT @sharon000: New R package by @ROpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange #gis
+359014866482647040  Jul 21 14:19  @BizIntelAnalyst  RT @sharon000: New R package by @ROpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange #gis
+359022135265595392  Jul 21 14:48  @jaynal83         edeR package is now up at GitHub for testing. Please provide your feedback once you have tired #useR2013 #rstats

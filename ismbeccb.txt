@@ -1049,3 +1049,253 @@
 358934213933809665  Jul 21 08:59  @jonathancairns   #ISMBECCB #PP17 "GeneScissors" solves RNA-seq multiple alignment issues by estimating which genes are expressed, and moving reads there
 358934253801066496  Jul 21 08:59  @DNADigest        RT @SahaSurya: MT @iddux: OMIM has been around since 1966! Now gets ~40K unique users/week. http://omim.org #ISMBECCB
 358934360826716160  Jul 21 08:59  @jmchilton        "If [a perl script] is well documented it is not dodgy." Hmmm... documentation is important, but all perl is dodgy. #ISMBECCB
+358945080989589505  Jul 21 09:42  @GigaScience      [correction] BioJS is more data representation than data visualization #ISMBECCB #PP22
+358945182948929536  Jul 21 09:42  @iysik_com        Starting to get annoyed  by the #ISMBECCB acronym. @iysik_com
+358945245318230016  Jul 21 09:43  @jonathancairns   #ISMBECCB #PP23 Polyadenylation procedures can remove the end of a transcript, e.g. removing an miRNA binding site, encouraging translation
+358945254432456705  Jul 21 09:43  @Chris_Evelo      Johan ten Dunnen, sharing well annotated gene variant/phenotype information makes all information much more valuable #ismbeccb #ss02
+358945421508358144  Jul 21 09:43  @rtraborn         Up now Dina Hafez is presenting 'Genome-wide identification & predictive modeling of tissue-specific alternative polyadenylation' #ismbeccb
+358945519717974016  Jul 21 09:44  @sjcockell        Am I missing something? This doesn’t seem to have a lot to do with project tracking & reporting… #ismbeccb #WK02
+358945727088574465  Jul 21 09:45  @yaydinson        RT @Alexbateman1: OMIM has an API :-D It really has changed in the last couple of years! #ISMBECCB #goodwork
+358945856742883328  Jul 21 09:45  @rtraborn         PA-seq is a new technique developed by Hafez' collaborators. It captures the 3' end of mRNAs, getting poly-adenlyation sites (PA). #ismbeccb
+358946018181660672  Jul 21 09:46  @Chris_Evelo      JtD describes Mutalyzer function finding genes for variant regions Iwhy not use UCSC browser here too?) #ISMBECCB #ss02
+358946375209189376  Jul 21 09:47  @frank_foerster   @manuelcorpas is talking about BioJS a JavaScript framework for data visualization #ISMBECCB #PP22
+358946553655869441  Jul 21 09:48  @GigaScience      MC: purpose of BioJS to help create, use & share JavaScript components. Currently 29 components in their registry #PP22 #ISMBECCB
+358946651311837185  Jul 21 09:48  @jonathancairns   #ISMBECCB #PP23 Hmm, (IMO) slightly dodgy linear model approach where differential polyA sites are captured with large residuals
+358946656433082369  Jul 21 09:48  @AlonKeinan       Johan den Dunnen on gene variant databases. http://www.hgvs.org/ by the Human Genome Variation Society #ismbeccb #SS02D
+358946895864934400  Jul 21 09:49  @jonathancairns   #ISMBECCB #PP23 I would suggest a Lasso-style sparse regression approach
+358946989385342976  Jul 21 09:50  @Alfons_Valencia  Jt den dunnen. Why he started collecting human variants in DBs #ISMBECCB http://t.co/4MbD42Mn0J
+358947065906216960  Jul 21 09:50  @Chris_Evelo      RT @Alfons_Valencia: Jt den dunnen. Why he started collecting human variants in DBs #ISMBECCB http://t.co/9VaV7bcS3F
+358947728119697408  Jul 21 09:53  @jmchilton        Any #BOSC2013-y or open source nerds still around have plans for dinner? #ISMBECCB
+358947830964027394  Jul 21 09:53  @GigaScience      MC using the showcase functionality to show us some examples such as ExpressionAtlas http://www.ebi.ac.uk/Tools/biojs/registry/Biojs.ExpressionAtlasBaselineSummary.html #PP22 #ISMBECCB
+358948074997428224  Jul 21 09:54  @froggleston      Accurate description of scripts, tools and pipelines is completely essential for reproducible research, not an afterthought. #wk02 #ismbeccb
+358948255306358784  Jul 21 09:55  @sciencestream    RT @Chris_Evelo: Anyone blogging #ismbeccb who could use? MT @iysik_com: have R scripts from last year (but only when I don't have to run them).
+358948267843125248  Jul 21 09:55  @JonathanCFuller  @JonathanCFuller: Nice overview of bioJS from @manuelcorpas - wish I'd found it earlier! #ISMBECCB
+358948357789581312  Jul 21 09:55  @jonathancairns   #ISMBECCB #PP23 Speaker says method underperforms in low coverage regions compared to entropy. I am not surprised - see previous tweets.
+358948448206192641  Jul 21 09:55  @SahaSurya        MT @GigaScience: @manuelcorpas: purpose of BioJS is to create/use/share JavaScript components. Curr 29 compo. in registry #PP22 #ISMBECCB
+358948726057873410  Jul 21 09:56  @AlonKeinan       RT @GenomeAnalysis: Come take a look at our poster on 'Big data' training programme at 12:15 today! #ISMBECCB http://t.co/S6ahkWvqn8
+358948916634845184  Jul 21 09:57  @Hoellenmotte     RT @jonathancairns: #ISMBECCB #PP23 Hmm, (IMO) slightly dodgy linear model approach where differential polyA sites are captured with large residuals
+358949015745863680  Jul 21 09:58  @xanderpico       Biojs standardizes code structure and docs for interoperable, reusable JavaScript components in bioinformatics   #ismbeccb
+358949025380171777  Jul 21 09:58  @GigaScience      MC why use BioJS? Share & get credit for your work. Common visualization. Enhance visibility of widgets. #PP22 #ISMBECCB
+358949213062709248  Jul 21 09:58  @jonathancairns   #ISMBECCB #PP23 Anyway, my pedantry aside, Dina has retrieved tissue-specific polyA motifs, which is pretty cool.
+358949413164556288  Jul 21 09:59  @sciencestream    RT @JonathanCFuller: @JonathanCFuller: Nice overview of bioJS from @manuelcorpas - wish I'd found it earlier! #ISMBECCB
+358949631780061184  Jul 21 10:00  @rtraborn         Hefez's linear model was able to distinguish brain-specific regulated pA sites from constitutive ones, performed well here. #ismbeccb #PP23
+358949917156319233  Jul 21 10:01  @jmchilton        Funny, true comments (in summary): No one is going to the library for books so they should be storing our data #ISMBECCB #alsotheyhavecoffee
+358950139789979648  Jul 21 10:02  @froggleston      "Invoice of the bill is the end of the project" "You don't take Q's after?" "No" Academic collabs are world apart it seems #WK02 #ismbeccb 
+358950732365438980  Jul 21 10:04  @Janis3_14159     RT @RomainStuder: Domain Mappings of Disease Mutations: http://bioinf.umbc.edu/dmdm from Kann's lab #ISMBECCB
+358950736756883456  Jul 21 10:04  @Chris_Evelo      JtD: please upload your variant data to LOVD immediately, or send them or start a new instance. #ISMBECCB #ss02
+358950994400378880  Jul 21 10:06  @sjcockell        @froggleston collaboration is easy if there’s a grant in place. Charging by the hour it gets v. hard. World isn’t perfect #ismbeccb #WK02
+358951021151649792  Jul 21 10:06  @jmchilton        Poll: Even split in the room between people in cores that attempt to recoup some costs and those that have no cost recovery. #ISMBECCB
+358951136503398403  Jul 21 10:06  @rtraborn         Hafez is in Uwe Ohler's group at Duke. I wonder if he comes to ISMB, because I find his work really interesting. #ismbeccb
+358951192287657984  Jul 21 10:06  @yaydinson        #ISMBECCB Adopt your favorite gene and become its foster curator at LOVD http://www.lovd.nl/3.0/home.
+358951222629662720  Jul 21 10:06  @sjcockell        Really interesting discussion - wish I worked in a fully funded core #ismbeccb
+358951272809889792  Jul 21 10:07  @lenovere         20% off "computational systems neurobiology" at #ismbeccb #springer booth. Good book :-)
+358951546161070080  Jul 21 10:08  @froggleston      Disappointed at complete lack of discussion about tracking in core workshop. Back to the yearly cost recovery chestnuts. #WK02 #ismbeccb 
+358952031161434112  Jul 21 10:10  @sciencestream    RT @jmchilton: Funny, true comments (in summary): No one is going to the library for books so they should be storing our data #ISMBECCB #alsotheyhavecoffee
+358952034231676928  Jul 21 10:10  @sciencestream    RT @Chris_Evelo: JtD: please upload your variant data to LOVD immediately, or send them or start a new instance. #ISMBECCB #ss02
+358953094396133377  Jul 21 10:14  @tehancocks       Bioinfo tool developer? Is your tool in the BioMedBridges registry? Check at Booth 8 #ISMBECCB
+358953284339777536  Jul 21 10:15  @sciencestream    RT @tehancocks: Bioinfo tool developer? Is your tool in the BioMedBridges registry? Check at Booth 8 #ISMBECCB
+358955756281806849  Jul 21 10:24  @sevgisiir        RT @yaydinson: #ISMBECCB Adopt your favorite gene and become its foster curator at LOVD http://www.lovd.nl/3.0/home.
+358955855942647810  Jul 21 10:25  @i_am_kilpatrick  Keep on ending up in different places even though I'm certain it's the same escalator. Maybe I'm going mad... #ISMBECCB
+358956032770723840  Jul 21 10:26  @DNADigest        RT @AmyeKenall: Reproducibility unrealistic? Esp with long term projects and  never ending software updates? #ISMBECCB
+358956106426888192  Jul 21 10:26  @Feargal_Ryan     RT @i_am_kilpatrick: Keep on ending up in different places even though I'm certain it's the same escalator. Maybe I'm going mad... #ISMBECCB
+358956332013334528  Jul 21 10:27  @sciencestream    RT @i_am_kilpatrick: Keep on ending up in different places even though I'm certain it's the same escalator. Maybe I'm going mad... #ISMBECCB
+358956340565528576  Jul 21 10:27  @DNADigest        RT @JonathanCFuller: @JonathanCFuller: Nice overview of bioJS from @manuelcorpas - wish I'd found it earlier! #ISMBECCB
+358956407582126080  Jul 21 10:27  @DNADigest        RT @jmchilton: Funny, true comments (in summary): No one is going to the library for books so they should be storing our data #ISMBECCB #alsotheyhavecoffee
+358956495792533504  Jul 21 10:27  @DNADigest        RT @Chris_Evelo: JtD: please upload your variant data to LOVD immediately, or send them or start a new instance. #ISMBECCB #ss02
+358956928908529665  Jul 21 10:29  @Feargal_Ryan     #ISMBECCB has been surprisingly fun. Not what I expected from my first conference
+358957418870358016  Jul 21 10:31  @sjcockell        ICC Berlin. A conference centre designed by M C Escher #ismbeccb
+358957513963618305  Jul 21 10:31  @AlonKeinan       As well-deserved as it gets: Overton Prize awarded to @gabecasis. His lecture on insights from seq 1000s human genomes shortly #ismbeccb
+358957550584475648  Jul 21 10:32  @Feargal_Ryan     RT @sjcockell: ICC Berlin. A conference centre designed by M C Escher #ismbeccb
+358957645296062464  Jul 21 10:32  @sciencestream    RT @Feargal_Ryan: #ISMBECCB has been surprisingly fun. Not what I expected from my first conference
+358957647397392384  Jul 21 10:32  @sciencestream    RT @sjcockell: ICC Berlin. A conference centre designed by M C Escher #ismbeccb
+358958231114104832  Jul 21 10:34  @AlonKeinan       Me too, this place is crazy MT @i_am_kilpatrick Keep on ending up in different places even though certain it's the same escalator. #ISMBECCB
+358959029055262723  Jul 21 10:37  @zetieum          very nice talk of Inna Kuperstein at #ISMBECCB refreshing the concept of synthetic lethality. #PP21
+358959091814637568  Jul 21 10:38  @WonderMixTape    #KN2 Goncalo Abecasis "Insights from Sequencing Thousands of Human Genomes" http://tinyurl.com/lkxpv5a #ISMBECCB
+358959196693204992  Jul 21 10:38  @Chris_Evelo      2 tweets combined: ICC Berlin. A conference centre designed by MC Escher #ismbeccb You keep on ending in different places using same stairs
+358959417930158080  Jul 21 10:39  @Chris_Evelo      RT @WonderMixTape: #KN2 Goncalo Abecasis "Insights from Sequencing Thousands of Human Genomes" http://tinyurl.com/lkxpv5a #ISMBECCB
+358960107851218948  Jul 21 10:42  @jonathancairns   RT @Chris_Evelo: 2 tweets combined: ICC Berlin. A conference centre designed by MC Escher #ismbeccb You keep on ending in different places using same stairs
+358960138209607681  Jul 21 10:42  @larsjuhljensen   Dear @ISMBECCB you run out of coffee in every coffee break. Get it sorted out. Bioinformatician-Coffee=Grumpy #ISMBECCB
+358960207151763457  Jul 21 10:42  @sciencestream    RT @zetieum: very nice talk of Inna Kuperstein at #ISMBECCB refreshing the concept of synthetic lethality. #PP21
+358960210117148672  Jul 21 10:42  @sciencestream    RT @WonderMixTape: #KN2 Goncalo Abecasis "Insights from Sequencing Thousands of Human Genomes" http://tinyurl.com/lkxpv5a #ISMBECCB
+358960220607098880  Jul 21 10:42  @sciencestream    RT @larsjuhljensen: Dear @ISMBECCB you run out of coffee in every coffee break. Get it sorted out. Bioinformatician-Coffee=Grumpy #ISMBECCB
+358960222473158657  Jul 21 10:42  @frank_foerster   @gabecasis will talk about insights from sequencing thousands of human genomes #ISMBECCB #KN2
+358960309223948288  Jul 21 10:43  @tehancocks       You found the tessellating frogs too? RT @sjcockell: ICC Berlin. A conference centre designed by M C Escher #ismbeccb
+358960326655483905  Jul 21 10:43  @yaydinson        RT @Chris_Evelo: 2 tweets combined: ICC Berlin. A conference centre designed by MC Escher #ismbeccb You keep on ending in different places using same stairs
+358960475100291072  Jul 21 10:43  @WonderMixTape    #KN2 : Intro for GA - author of several of the most downloaded papers in journal #Bioinformatics #ISMBECCB
+358960561444638720  Jul 21 10:44  @xanderpico       RT @Chris_Evelo: 2 tweets combined: ICC Berlin. A conference centre designed by MC Escher #ismbeccb You keep on ending in different places using same stairs
+358960747616813056  Jul 21 10:44  @WonderMixTape    #KN2 Modified Title: Computational Biology and Human Gene Mapping #ISMBECCB
+358960799596810240  Jul 21 10:44  @AlonKeinan       Past winners: Bar-Joseph, Troyanskaya, Brenner, Ideker, Regev, E. Segal, Blanchette, E. Birney, U. Alon, J. Kent, Baker, Burge #ISMBECCB
+358960889539878912  Jul 21 10:45  @OmicsOmicsBlog   RT @satagopam: 1060 alternative exons in the human genome originated from Alu sequence in protein coding genes #ISMBECCB
+358960932250066944  Jul 21 10:45  @sjcockell        A bioinformatics motivational talk? That would be… weird… #ismbeccb #KN2
+358960934846349312  Jul 21 10:45  @arneelof         Back in hall 1 for final lecture of the day. Abecasis about sequencing 1000 genome #ismbeccb
+358961066539503616  Jul 21 10:46  @thekatybrown1    RT @Chris_Evelo: 2 tweets combined: ICC Berlin. A conference centre designed by MC Escher #ismbeccb You keep on ending in different places using same stairs
+358961210328219649  Jul 21 10:46  @WonderMixTape    #KN2 Talk quandary: Motivational? humorous (overconfidence)? - ends up going back to beginning (WTC for Human Genetics) #ISMBECCB
+358961258457866243  Jul 21 10:46  @larsjuhljensen   Sinclair ZX Spectrum - been there done that #ismbeccb #KN2
+358961342591422464  Jul 21 10:47  @anilthanki       #ISMBECCB keynote talk 2 http://t.co/xq6MAD7mgu
+358961450649268225  Jul 21 10:47  @WonderMixTape    #KN2 Early work on association mapping in Families - work with Lon Cardon and William Cookson #ISMBECCB
+358961490315194368  Jul 21 10:47  @anilthanki       RT @larsjuhljensen: Dear @ISMBECCB you run out of coffee in every coffee break. Get it sorted out. Bioinformatician-Coffee=Grumpy #ISMBECCB
+358961554034655233  Jul 21 10:47  @rtraborn         Goncalo Abecasis now getting going. Ponders different types of talks he could give i.e. humorous, motivational, longitudinal. #ismbeccb #KN2
+358961578114560000  Jul 21 10:48  @sciencestream    RT @frank_foerster: @gabecasis will talk about insights from sequencing thousands of human genomes #ISMBECCB #KN2
+358961579813249024  Jul 21 10:48  @sciencestream    RT @WonderMixTape: #KN2 : Intro for GA - author of several of the most downloaded papers in journal #Bioinformatics #ISMBECCB
+358961581029617664  Jul 21 10:48  @sciencestream    RT @WonderMixTape: #KN2 Modified Title: Computational Biology and Human Gene Mapping #ISMBECCB
+358961583252582400  Jul 21 10:48  @sciencestream    RT @sjcockell: A bioinformatics motivational talk? That would be… weird… #ismbeccb #KN2
+358961584812871680  Jul 21 10:48  @sciencestream    RT @arneelof: Back in hall 1 for final lecture of the day. Abecasis about sequencing 1000 genome #ismbeccb
+358961616865329154  Jul 21 10:48  @sjcockell        Abecasis started out working on association mapping in families http://www.sph.umich.edu/csg/abecasis/publications/pdf/Am.J.Hum.Genet.vol.66-pp.279.pdf #ismbeccb #KN2
+358961948181794817  Jul 21 10:49  @froggleston      @tehancocks @sjcockell #ismbeccb "Find the tessellating frogs"? Acid in the coffee? It's the only way to traverse the escherscalators.
+358962094412021762  Jul 21 10:50  @WonderMixTape    #KN2 Key paper: Hirschhorn et al 2002 (Genet Med) - issue of replication in association studies #ISMBECCB
+358962375711395841  Jul 21 10:51  @WonderMixTape    #KN2 Reviewers to GA: "This data can't be right as it doesn't match the simulations" #ISMBECCB
+358962522918879234  Jul 21 10:51  @jonathancairns   #ISMBECCB #KN2 Nature reviewers: "We know these data aren't right because they don't match the simulations". *violent facepalm*
+358962801379147776  Jul 21 10:52  @arneelof         RT @WonderMixTape: #KN2 Reviewers to GA: "This data can't be right as it doesn't match the simulations" #ISMBECCB
+358962852406636544  Jul 21 10:53  @WonderMixTape    #KN2 Genomic variation in Disequilibrium  - clear global patterns emerge #ISMBECCB
+358962965128560643  Jul 21 10:53  @rtraborn         Nature ed rejects 1 of Abercasis' LED papers "We know this data can't be right b/c it doesn't match the simulations" (wha?) #ismbeccb #KN2
+358963011249115137  Jul 21 10:53  @SahaSurya        Seriously? RT @WonderMixTape: #KN2 Reviewers to GA: "This data can't be right as it doesn't match the simulations" #ISMBECCB
+358963325419261953  Jul 21 10:55  @GigaScience      .@gabecasis showing GOLD diagrams he developed. Tried to display LD in an intuitive way. Succeeded in making them colourful #KN2 #ISMBECCB
+358963415496146944  Jul 21 10:55  @AlonKeinan       file under anecdoates I didn't know: @gabecasis invented LD heatmap plots. #ISMBECCB
+358963464531755008  Jul 21 10:55  @WonderMixTape    Little known role of GA on HapMap committee - to aggravate DA (Note: he crossed this out but still funny). #ISMBECCB
+358963796892987392  Jul 21 10:56  @pjacock          RT @sjcockell: ICC Berlin. A conference centre designed by M C Escher #ismbeccb
+358963936718094338  Jul 21 10:57  @WonderMixTape    Developed Merlin - rather than directly enumerating all possibilities instead used tree structure #ISMBECCB  #KN2
+358964111054356480  Jul 21 10:58  @SahaSurya        Multitask #fail. Distracted by #ISMBECCB and #Ashes. Should pay more attn to  #aga2013. Great talks though
+358964463984054272  Jul 21 10:59  @Chris_Evelo      RT @WonderMixTape: Developed Merlin - rather than directly enumerating all possibilities instead used tree structure #ISMBECCB  #KN2
+358964834429190144  Jul 21 11:01  @WonderMixTape    #KN2  Advantage of joint analysis strategy in #GWAS; Highlighted ability to incorporate family information #ISMBECCB
+358964880524976128  Jul 21 11:01  @laxvid           RT @jmchilton: Funny, true comments (in summary): No one is going to the library for books so they should be storing our data #ISMBECCB #alsotheyhavecoffee
+358965189699309568  Jul 21 11:02  @jonathancairns   #ISMBECCB #KN2 Now discussing clever imputation techniques for cheaper genotyping within known families
+358965266845532160  Jul 21 11:02  @sciencestream    RT @SahaSurya: Multitask #fail. Distracted by #ISMBECCB and #Ashes. Should pay more attn to  #aga2013. Great talks though
+358965302031155200  Jul 21 11:02  @WonderMixTape    #KN2 Rationale for in-silico inference in unrelated individuals #imputation #GWAS  #ISMBECCB
+358965391491473409  Jul 21 11:03  @rtraborn         GA discussing early years of GWAS studies- started solving within family, then moved to imputing over unrelated individuals #ismbeccb #KN2
+358965549323141121  Jul 21 11:03  @Chris_Evelo      is that you are related, right? RT @WonderMixTape: #KN2 Rationale for in-silico inference in unrelated individuals #imputation #ISMBECCB
+358965558424768512  Jul 21 11:03  @WonderMixTape    Showed imputation increased power across freq spectrum #KN2 #ISMBECCB  #GWAS
+358965582214868992  Jul 21 11:03  @larsjuhljensen   My presentation "Networks of proteins and diseases" is now on SlideShare http://www.slideshare.net/larsjuhljensen/networks-of-proteins-and-diseases-24470208 #ISMBECCB #SS02
+358965688272044032  Jul 21 11:04  @Chris_Evelo      RT @larsjuhljensen: My presentation "Networks of proteins and diseases" is now on SlideShare http://www.slideshare.net/larsjuhljensen/networks-of-proteins-and-diseases-24470208 #ISMBECCB #SS02
+358965906816249856  Jul 21 11:05  @GigaScience      GA on to productive work with the Global Lipids Genetics Consortium. Identified 157 loci associated with lipid levels #KN2 #ISMBECCB
+358965936633548800  Jul 21 11:05  @WonderMixTape    Global lipids Genetics Consortium - example of current standard for genetic association studies #KN2 #ISMBECCB
+358965973908340736  Jul 21 11:05  @RomainStuder     RT @larsjuhljensen: My presentation "Networks of proteins and diseases" is now on SlideShare http://www.slideshare.net/larsjuhljensen/networks-of-proteins-and-diseases-24470208 #ISMBECCB #SS02
+358966106515451905  Jul 21 11:06  @ongenetics       Abecasis #ISMBECCB on imputation: "The only difference between close relatives and distant relatives is the size of the shared haplotypes"
+358966179790340096  Jul 21 11:06  @sjcockell        RT @ongenetics: Abecasis #ISMBECCB on imputation: "The only difference between close relatives and distant relatives is the size of the shared haplotypes"
+358966186584702976  Jul 21 11:06  @rtraborn         RT @ongenetics: Abecasis #ISMBECCB on imputation: "The only difference between close relatives and distant relatives is the size of the shared haplotypes"
+358966927831474176  Jul 21 11:09  @Alfons_Valencia  RT @Chris_Evelo: 2 tweets combined: ICC Berlin. A conference centre designed by MC Escher #ismbeccb You keep on ending in different places using same stairs
+358967245373849600  Jul 21 11:10  @jonathancairns   #ISMBECCB #KN2 And that concludes a whistlestop tour of the history of the GWAS. Next up - how sequencing has changed the game.
+358967248465448960  Jul 21 11:10  @arneelof         About half variants are rare #ismbeccb
+358967337891803136  Jul 21 11:10  @WonderMixTape    Challenge: most coding variation rare (half are private) NS variants esp enriched for singletons (N=2500 NHLBI exome) #ISMBECCB #KN2
+358967347711078400  Jul 21 11:10  @sciencestream    RT @WonderMixTape: #KN2 Rationale for in-silico inference in unrelated individuals #imputation #GWAS  #ISMBECCB
+358967382448287744  Jul 21 11:11  @sciencestream    RT @WonderMixTape: Showed imputation increased power across freq spectrum #KN2 #ISMBECCB  #GWAS
+358967509656928256  Jul 21 11:11  @rtraborn         GA on how to study knockouts in humans- most people have a defective copy of at least 1 gene- why not study those (w/ permission)? #ismbeccb
+358967962054574080  Jul 21 11:13  @ISMBECCB         Congrats to 2013 ISCB Overton Prize winner Goncalo Abecasis, his keynote: "Insights from Sequencing Thousands of Human Genomes" #ismbeccb
+358967968031444992  Jul 21 11:13  @AlonKeinan       After a nice review of LD, imputation, and GWAS, @gabecasis moves on to sequencing. Need to account for genotype likelihoods #ISMBECCB
+358968067881041922  Jul 21 11:13  @bffo             RT @larsjuhljensen: My presentation "Networks of proteins and diseases" is now on SlideShare http://www.slideshare.net/larsjuhljensen/networks-of-proteins-and-diseases-24470208 #ISMBECCB #SS02
+358968147615182848  Jul 21 11:14  @alastair_kerr    RT @ongenetics: Abecasis #ISMBECCB on imputation: "The only difference between close relatives and distant relatives is the size of the shared haplotypes"
+358968474850562048  Jul 21 11:15  @JMGIzarzugaza    RT @larsjuhljensen: Dear @ISMBECCB you run out of coffee in every coffee break. Get it sorted out. Bioinformatician-Coffee=Grumpy #ISMBECCB
+358968484362850304  Jul 21 11:15  @luispedrocoelho  "there have been over 150 clinical tests of therapies against inflammation in trauma, they all failed" #ISMBECCB
+358968545469661184  Jul 21 11:15  @WonderMixTape    #KN2  @gabecasis 1000 Genomes Project  - using haplotype info improved genotype accuracy #ISMBECCB
+358968785144782848  Jul 21 11:16  @WonderMixTape    "Friendly competition" between Broad, Michigan and Sanger - each did best by some metric re seq quality / analysis #ISMBECCB  #KN2
+358968787304845312  Jul 21 11:16  @BGI_Events       .@gabecasis now onto @1000genomes project we were also involved in http://www.1000genomes.org/ #KN2 #ISMBECCB
+358968928757743617  Jul 21 11:17  @ypriverol        RT @larsjuhljensen: My presentation "Networks of proteins and diseases" is now on SlideShare http://www.slideshare.net/larsjuhljensen/networks-of-proteins-and-diseases-24470208 #ISMBECCB #SS02
+358968936618266624  Jul 21 11:17  @DNADigest        RT @froggleston: @tehancocks @sjcockell #ismbeccb "Find the tessellating frogs"? Acid in the coffee? It's the only way to traverse the escherscalators.
+358968950509809664  Jul 21 11:17  @DNADigest        RT @sjcockell: ICC Berlin. A conference centre designed by M C Escher #ismbeccb
+358969018633297920  Jul 21 11:17  @jjspr            Again: ensembl of methods outperform the single best method. #ismbeccb #sbvimprover
+358969036987580416  Jul 21 11:17  @AlonKeinan       GA: imputation-based genotype calling improves accuracy greatly, which is part of the rationale behind @1000genomes design #ISMBECCB
+358969055799033857  Jul 21 11:17  @WonderMixTape    "ensemble" method approach requested by funder outperforms best single method #KN2 #ISMBECCB
+358969178675351554  Jul 21 11:18  @yaydinson        RT @jjspr: Again: ensembl of methods outperform the single best method. #ismbeccb #sbvimprover
+358969234736807936  Jul 21 11:18  @frank_foerster   RT @larsjuhljensen: My presentation "Networks of proteins and diseases" is now on SlideShare http://www.slideshare.net/larsjuhljensen/networks-of-proteins-and-diseases-24470208 #ISMBECCB #SS02
+358969329368305664  Jul 21 11:18  @WonderMixTape    Use Case:  Whole Genome Sequencing study in Sardinia - deep genomes or shallow?  (Li et al Genome Research 2011) #KN2 #ISMBECCB
+358969336158883840  Jul 21 11:18  @SCEdmunds        Wow, there has to be >1000 genomes just in the participants list http://www.1000genomes.org/participants #KN1 #ISMBECCB
+358969390928515072  Jul 21 11:19  @DNADigest        RT @sjcockell: Abecasis started out working on association mapping in families http://www.sph.umich.edu/csg/abecasis/publications/pdf/Am.J.Hum.Genet.vol.66-pp.279.pdf #ismbeccb #KN2
+358969637121585152  Jul 21 11:20  @DNADigest        RT @WonderMixTape: Showed imputation increased power across freq spectrum #KN2 #ISMBECCB  #GWAS
+358969674786414592  Jul 21 11:20  @arneelof         RT @WonderMixTape: "ensemble" method approach requested by funder outperforms best single method #KN2 #ISMBECCB
+358969763281645570  Jul 21 11:20  @WonderMixTape    #KN2 #ISMBECCB Got 2000 genomes at 4x for price they had originally been quoted for 1000 genomes
+358970045759623172  Jul 21 11:21  @rtraborn         GA is now discussing his role in the @1000genomes project, and the development of competing methods. Ensemble method was used #ismbeccb
+358970058749378560  Jul 21 11:21  @yaydinson        RT @WonderMixTape: #KN2 #ISMBECCB Got 2000 genomes at 4x for price they had originally been quoted for 1000 genomes
+358970060963975168  Jul 21 11:21  @Chris_Evelo      #KN2 error rate gets lower if you have more individuals to work from. Argument to sequence everyone? #ISMBECCB
+358970274223374338  Jul 21 11:22  @AlonKeinan       GA: Based on @1000genomes, for a whole genome study in Sardinia, decided to sequence more individual (4000) at low coverage (4x)  #ISMBECCB
+358970336357777409  Jul 21 11:22  @WonderMixTape    #KN2 Impressive list of methodological contributions 2000 to 2012 #ISMBECCB #ÜberProductive
+358970538200285184  Jul 21 11:23  @WonderMixTape    "Most valuable tools address important questions" #ResearchBottlenecks #FocusedMethods #KN2 #ISMBECCB
+358970577962278912  Jul 21 11:23  @danmaclean       RT @WonderMixTape: "Most valuable tools address important questions" #ResearchBottlenecks #FocusedMethods #KN2 #ISMBECCB
+358970581787484161  Jul 21 11:23  @sjcockell        GA - 4/10 most cited software tools are “technically trivial” #ismbeccb #KN2
+358970669364543489  Jul 21 11:24  @jonathancairns   #ISMBECCB #KN2 Abercasis: Which of my algorithms were most influential? Not cleverest or most technical... the ones that answered useful qns
+358970768228495360  Jul 21 11:24  @luispedrocoelho  "By studying natural mutations in large populations, we could have gene knockouts in humans instead of mice" Abecasis #ISMBECCB
+358970792542875648  Jul 21 11:24  @Chris_Evelo      GA some of our tools are not overly smart, they just answer useful questions. Now that *is* smart. #ismbeccb #kn2
+358970838831202306  Jul 21 11:24  @rtraborn         GA shows rapid decrease in sequencing costs & this gambit: the longer one waits to use sequencing $$, the more data one obtains #ismbeccb
+358970857843998721  Jul 21 11:24  @sjcockell        Instead of being technically complicated, the most pilar tools focussed on answering useful questions #ismbeccb #KN2
+358970961757880320  Jul 21 11:25  @rtraborn         RT @jonathancairns: #ISMBECCB #KN2 Abercasis: Which of my algorithms were most influential? Not cleverest or most technical... the ones that answered useful qns
+358971035669889024  Jul 21 11:25  @JMGIzarzugaza    #ISMBECCB Goncalo Abecasis on the importance of addressing interesting questions rather than providing (algorithmically) complex solutions
+358971074391719940  Jul 21 11:25  @WonderMixTape    Studies across time 2000:N=100's; 26 markers; 2010: N=100,000; 2.5 million markers; 2012: N= 1092 40 million markers #ISMBECCB #KN2
+358971078997049344  Jul 21 11:25  @larsjuhljensen   RT @sjcockell: Instead of being technically complicated, the most pilar tools focussed on answering useful questions #ismbeccb #KN2
+358971092485947392  Jul 21 11:25  @AlonKeinan       GA: During 13-year career in the field, million-fold increase in number of markers and thousand-fold in number of samples #ISMBECCB
+358971100413165568  Jul 21 11:25  @jonathancairns   #ISMBECCB #KN2 "Data is not Understanding". YES. Very much this. "Enable scientists to pose interesting questions"
+358971159431217152  Jul 21 11:26  @sjcockell        Data is not understanding. Tools are not analysis. Wise words #ismbeccb #KN2
+358971170018066432  Jul 21 11:26  @abeldavidgp      RT @RomainStuder: Domain Mappings of Disease Mutations: http://bioinf.umbc.edu/dmdm from Kann's lab #ISMBECCB
+358971200447324160  Jul 21 11:26  @WonderMixTape    RT @sjcockell: Data is not understanding. Tools are not analysis. Wise words #ismbeccb #KN2
+358971300909301760  Jul 21 11:26  @GigaScience      GA on sample sizes needed to get into Nature from 2000-2012: n increased from 42 to 40M (@1000genomes) markers #KN2 #ISMBECCB
+358971350645358595  Jul 21 11:26  @bffo             GA: "Data is not understanding, unfortunately" & "Tools is not analysis, unfortunately" #ISMBECCB
+358971390134730756  Jul 21 11:27  @rtraborn         Abercasis: data is not knowledge, and tools are not analysis. Need to answer good Qs, and help direct scientists toward this end #ismbeccb
+358971419712946177  Jul 21 11:27  @jaumebp          RT @sjcockell: Data is not understanding. Tools are not analysis. Wise words #ismbeccb #KN2
+358971531722248192  Jul 21 11:27  @luispedrocoelho  RT @sjcockell: Data is not understanding. Tools are not analysis. Wise words #ismbeccb #KN2
+358971637619621889  Jul 21 11:28  @WonderMixTape    Richard Durbin and GA: Estimate # of genomes they will have access to by end of year: N=25000 #ISMBECCB  #KN2
+358971645416841216  Jul 21 11:28  @i_am_kilpatrick  Higher resistance to malaria in Sardinians -> lower cholesterol. Does this mean benefits of 'Med. diet' have been overstated? #ISMBECCB #KN2
+358971709258350592  Jul 21 11:28  @marinkazitnik    Data is not understanding. Tools are not analysis. Unfortunately. G. A. keynote at #ISMBECCB
+358971861968752640  Jul 21 11:28  @WonderMixTape    #OpenProblem De-Novo Assemblies #ISMBECCB #KN2 issue of biases from read mapping approaches #KN2 #ISMBECCB
+358972038880301056  Jul 21 11:29  @WonderMixTape    Idea of Lattice of sequenced genomes  - proximity studies in genomic terms #ISMBECCB #KN2
+358972176781021184  Jul 21 11:30  @arneelof         RT @WonderMixTape: "Most valuable tools address important questions" #ResearchBottlenecks #FocusedMethods #KN2 #ISMBECCB
+358972245508501507  Jul 21 11:30  @WonderMixTape    @gabecasis Fantastic Keynote! Congrats on Overton Prize. Well deserved #ISMBECCB #KN2
+358972279684096000  Jul 21 11:30  @arneelof         RT @bffo: GA: "Data is not understanding, unfortunately" & "Tools is not analysis, unfortunately" #ISMBECCB
+358972316048711680  Jul 21 11:30  @arneelof         RT @WonderMixTape: Richard Durbin and GA: Estimate # of genomes they will have access to by end of year: N=25000 #ISMBECCB  #KN2
+358972413985697792  Jul 21 11:31  @DNADigest        RT @sjcockell: Instead of being technically complicated, the most pilar tools focussed on answering useful questions #ismbeccb #KN2
+358972451679510528  Jul 21 11:31  @drbachinsky      RT @ongenetics: Abecasis #ISMBECCB on imputation: "The only difference between close relatives and distant relatives is the size of the shared haplotypes"
+358972504557514752  Jul 21 11:31  @DNADigest        RT @bffo: GA: "Data is not understanding, unfortunately" & "Tools is not analysis, unfortunately" #ISMBECCB
+358972555798921216  Jul 21 11:31  @froggleston      Is that whale song I hear? No. Squeaky flappy chairs. #ismbeccb
+358972569325539329  Jul 21 11:31  @RomainStuder     Painful all the noisy people going out during the question session ! :( #ISMBECCB
+358972660274823169  Jul 21 11:32  @WonderMixTape    RT @RomainStuder: Painful all the noisy people going out during the question session ! :( #ISMBECCB
+358972677047853059  Jul 21 11:32  @WonderMixTape    RT @froggleston: Is that whale song I hear? No. Squeaky flappy chairs. #ismbeccb
+358972692382638080  Jul 21 11:32  @abeldavidgp      RT @jaumebp: @bffo @jmchilton "Well, a script is what you give the actors, but a program is what you give the audience" Larry Wall #ISMBECCB
+358972767028260864  Jul 21 11:32  @paul_r_fisher    Didn't knows the clangers had made the keynote hall their home at #ismbeccb. Odd noises
+358972874297970688  Jul 21 11:32  @paul_r_fisher    RT @sjcockell: ICC Berlin. A conference centre designed by M C Escher #ismbeccb
+358972914743255040  Jul 21 11:33  @BGI_Events       GA highlighting importance of de novo assembly of human genomes. Our work on this in @naturebiotech http://ow.ly/naB2V #KN2 #ISMBECCB
+358973127847452672  Jul 21 11:33  @frank_foerster   @gabecasis has positions available. #ISMBECCB #KN2
+358973134017294337  Jul 21 11:33  @laxvid           Space station ICC Berlin #ISMBECCB I am expecting Spock to appear any time. http://t.co/srSa1EBf9C
+358973303941529600  Jul 21 11:34  @sciencestream    RT @WonderMixTape: Idea of Lattice of sequenced genomes  - proximity studies in genomic terms #ISMBECCB #KN2
+358973305216589824  Jul 21 11:34  @sciencestream    RT @WonderMixTape: @gabecasis Fantastic Keynote! Congrats on Overton Prize. Well deserved #ISMBECCB #KN2
+358973306248376320  Jul 21 11:34  @sciencestream    RT @froggleston: Is that whale song I hear? No. Squeaky flappy chairs. #ismbeccb
+358973330063241216  Jul 21 11:34  @AlonKeinan       RT @jonathancairns: #ISMBECCB #KN2 Abercasis: Which of my algorithms were most influential? Not cleverest or most technical... the ones that answered useful qns
+358973339701747712  Jul 21 11:34  @RomainStuder     RT @frank_foerster: @gabecasis has positions available. #ISMBECCB #KN2
+358973383326695425  Jul 21 11:34  @SahaSurya        MT @Chris_Evelo: Abercasis: Some of our tools are not overly smart, they just answer useful questions. Now that *is* smart. #ismbeccb #kn2
+358973459550175232  Jul 21 11:35  @DNADigest        RT @WonderMixTape: @gabecasis Fantastic Keynote! Congrats on Overton Prize. Well deserved #ISMBECCB #KN2
+358973642702471168  Jul 21 11:36  @Chris_Evelo      If you can't get more samples getting more controls (and enabling reuse of controls across studies) might help #ismbeccb #kn2
+358973648389931009  Jul 21 11:36  @WonderMixTape    "We need to be humble about what we can predict" -  @gabecasis #KN2 #ISMBECCB
+358973833010618368  Jul 21 11:36  @RomainStuder     RT @Chris_Evelo: If you can't get more samples getting more controls (and enabling reuse of controls across studies) might help #ismbeccb #kn2
+358973950639882241  Jul 21 11:37  @SahaSurya        MT @AlonKeinan: Abercacis: During 13-yr career, million-fold increase in number of markers and thousand-fold in number of samples #ISMBECCB
+358973990981095424  Jul 21 11:37  @foreveremain     RT @iddux: RT @RomainStuder: "Today I got my first poster award !!! \o/ Thanks ! #AFP13 #ISMBECCB" <-- Well deserved!!!
+358974102196846593  Jul 21 11:37  @rtraborn         GA: People should be able to have information about themselves. It's paternalistic to say what they should or shouldn't see #ismbeccb #KN2
+358974118558830593  Jul 21 11:37  @SahaSurya        RT @bffo: GA: "Data is not understanding, unfortunately" & "Tools is not analysis, unfortunately" #ISMBECCB
+358974218244861952  Jul 21 11:38  @jonathancairns   We're into the age-old ethics+genetics question. If we could tell you that you are at high risk of cancer, would you want to know? #ISMBECCB
+358974477415104512  Jul 21 11:39  @WonderMixTape    Caution: People are very good at finding patterns #ISMBECCB #KN2
+358974700094889984  Jul 21 11:40  @AlonKeinan       In sum, great talk by @gabecasis. Very clear and modest about what done and realistic about what will become possible in future #ISMBECCB
+358974731338645504  Jul 21 11:40  @jamesblonde85    RT @tgjraymond: My poster on detecting polyA tails in denovo assemblies. #ismbeccb #g15 http://t.co/D4pBtMJaEp
+358975101187796993  Jul 21 11:41  @BUbioinfo        What is your "ah ha" moment for today? We want you to share them with us. #ISMBECCB
+358975986081488896  Jul 21 11:45  @jjmerkin         RT @iddux: OMIM has been around since 1966! No genes in OMIM's early editions, since that was  Before Cloning (BC era). #ISMBECCB
+358976316903010304  Jul 21 11:46  @sciencestream    RT @Chris_Evelo: If you can't get more samples getting more controls (and enabling reuse of controls across studies) might help #ismbeccb #kn2
+358976317905444864  Jul 21 11:46  @sciencestream    RT @WonderMixTape: "We need to be humble about what we can predict" -  @gabecasis #KN2 #ISMBECCB
+358976684659585024  Jul 21 11:48  @DrViborilla      RT @larsjuhljensen: My presentation "Networks of proteins and diseases" is now on SlideShare http://www.slideshare.net/larsjuhljensen/networks-of-proteins-and-diseases-24470208 #ISMBECCB #SS02
+358977594580287488  Jul 21 11:51  @DNADigest        RT @Chris_Evelo: If you can't get more samples getting more controls (and enabling reuse of controls across studies) might help #ismbeccb #kn2
+358977610149556225  Jul 21 11:51  @Hoellenmotte     RT @sjcockell: Data is not understanding. Tools are not analysis. Wise words #ismbeccb #KN2
+358978216356483072  Jul 21 11:54  @biyoinformatik   RT @WonderMixTape: #KN2 #ISMBECCB Got 2000 genomes at 4x for price they had originally been quoted for 1000 genomes
+358978491439521793  Jul 21 11:55  @SuzanaEzquina    @ISMBECCB Following at distance this time.  #ismbeccb.
+358979457224548352  Jul 21 11:59  @sciencestream    RT @SuzanaEzquina: @ISMBECCB Following at distance this time.  #ismbeccb.
+358980032284622848  Jul 21 12:01  @AmyeKenall       RT @sjcockell: ICC Berlin. A conference centre designed by M C Escher #ismbeccb
+358980162638970882  Jul 21 12:01  @wjrl59           RT @Chris_Evelo: 2 tweets combined: ICC Berlin. A conference centre designed by MC Escher #ismbeccb You keep on ending in different places using same stairs
+358980182977167360  Jul 21 12:01  @jose_pedro_dias  RT @sjcockell: Data is not understanding. Tools are not analysis. Wise words #ismbeccb #KN2
+358980555330682881  Jul 21 12:03  @manuelcorpas     MT @froggleston: Accurate description of scripts, tools and pipelines completely essential for reproducible research. #wk02 #ismbeccb
+358980804728610817  Jul 21 12:04  @VickySchneiderG  RT @bffo: GA: "Data is not understanding, unfortunately" & "Tools is not analysis, unfortunately" #ISMBECCB
+358981209273016320  Jul 21 12:06  @amcrisan         RT @bffo: GA: "Data is not understanding, unfortunately" & "Tools is not analysis, unfortunately" #ISMBECCB
+358984025337114626  Jul 21 12:17  @Alfons_Valencia  Iscb conference committee. Discussing how to collaborate with conferences in Asia.     #ismbeccb.
+358986086661750784  Jul 21 12:25  @sciencestream    RT @Alfons_Valencia: Iscb conference committee. Discussing how to collaborate with conferences in Asia.     #ismbeccb.
+358988561661435904  Jul 21 12:35  @widdowquinn      RT @jonathancairns: #ISMBECCB #KN2 Abercasis: Which of my algorithms were most influential? Not cleverest or most technical... the ones that answered useful qns
+358990579415674880  Jul 21 12:43  @ctitusbrown      RT @bffo: GA: "Data is not understanding, unfortunately" & "Tools is not analysis, unfortunately" #ISMBECCB
+358995147494658048  Jul 21 13:01  @DNADigest        Heading back to the UK. Thank you for a great #BOSC2013 #ISMBECCB See you again at the DNAdigest hack day? http://DNAdigest-hackday.eventbrite.com
+358995543067860993  Jul 21 13:03  @McDawg           RT @DNADigest: Heading back to the UK. Thank you for a great #BOSC2013 #ISMBECCB See you again at the DNAdigest hack day? http://t.co/8a9LVJmfqV
+358995717970731008  Jul 21 13:03  @sciencestream    RT @DNADigest: Heading back to the UK. Thank you for a great #BOSC2013 #ISMBECCB See you again at the DNAdigest hack day? http://t.co/8a9LVJmfqV
+358998042286260224  Jul 21 13:12  @Janis3_14159     RT @larsjuhljensen: My presentation "Networks of proteins and diseases" is now on SlideShare http://www.slideshare.net/larsjuhljensen/networks-of-proteins-and-diseases-24470208 #ISMBECCB #SS02
+359004009715073025  Jul 21 13:36  @evolvability     RT @SahaSurya: Seriously? RT @WonderMixTape: #KN2 Reviewers to GA: "This data can't be right as it doesn't match the simulations" #ISMBECCB
+359013219844628480  Jul 21 14:13  @pedrobeltrao     One number from today's keynote @gabecasis - 25000 full genome sequences up to the end of the year that he is aware of #ISMBECCB
+359022547406303232  Jul 21 14:50  @coughls          Many interesting talks and posters and a great keynote to finish the day. #ISMBECCB #KN2
+359022630965633024  Jul 21 14:50  @sciencestream    RT @coughls: Many interesting talks and posters and a great keynote to finish the day. #ISMBECCB #KN2
+359024127757127680  Jul 21 14:56  @coughls          Loving free @PLOSCompBiol t-shirt!Thanks! #ISMBECCB
+359024531408953344  Jul 21 14:58  @sciencestream    RT @coughls: Loving free @PLOSCompBiol t-shirt!Thanks! #ISMBECCB
