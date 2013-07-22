@@ -2767,3 +2767,24 @@
 359166513674072064  Jul 22 00:22  @yag_ays          ペアエンドに対応するときのフラグメント長の分布について書きました / RNA-Seqの数理―生成モデルによる発現量推定（3）ペアエンドリードとフラグメント長の分布関数 - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/22/mathematical-models-for-transcriptome-quantification-3/
 359171776732868608  Jul 22 00:43  @razoralign       RT @yag_ays: ペアエンドに対応するときのフラグメント長の分布について書きました / RNA-Seqの数理―生成モデルによる発現量推定（3）ペアエンドリードとフラグメント長の分布関数 - Wolfeyes Bioinformatics beta http://t.co/C1dafoZfwZ
 359197350981419009  Jul 22 02:24  @renelaennec      RT @genetics_blog: NURD: an implementation of a new method to estimate isoform expression from non-uniform RNA-seq data http://t.co/QtVlvmCe35
+359208097119612928  Jul 22 03:07  @sjcockell        First ChIP-seq, RNA-seq. now FAIRE-seq, GRO-seq, Hi-C etc etc etc etc etc #ismbeccb #KN3
+359209155359281152  Jul 22 03:11  @jonathancairns   #ISMBECCB #KN3 ChIP-seq actually predates RNA-seq, which surprised me as I thought ChIP-seq was a less obvious application.
+359209523103682560  Jul 22 03:13  @sciencestream    RT @sjcockell: First ChIP-seq, RNA-seq. now FAIRE-seq, GRO-seq, Hi-C etc etc etc etc etc #ismbeccb #KN3
+359209553906659328  Jul 22 03:13  @sciencestream    RT @jonathancairns: #ISMBECCB #KN3 ChIP-seq actually predates RNA-seq, which surprised me as I thought ChIP-seq was a less obvious application.
+359212296435793921  Jul 22 03:24  @sjcockell        RNA-Seq fragment density not uniform (random hexamer primers cause seq specific bias) #ismbeccb #KN3
+359214235097628672  Jul 22 03:32  @arneelof         Normally in rna seq it is assumed that wrong cancels wrong #ismbeccb
+359214877396582400  Jul 22 03:34  @sjcockell        In RNA-Seq, two wrongs don’t make a right (despite certain assumptions) #ismbeccb #KN3
+359216826141523971  Jul 22 03:42  @satagopam        many challenges -single cell RNA-Seq, many unsolved datasets: ENCODE, population gemomics datasets like 1000genomes, TCGA etc #ISMBECCB #KN3
+359217138592002048  Jul 22 03:43  @sjcockell        @jonathancairns big one is that microarray gives “correct” estimate of logFC that needs to be aspired to by RNA-Seq #ismbeccb #KN3
+359220970340364288  Jul 22 03:58  @gaou_ak          くだらない質問しやがって、と思ったけど、Liorの回答が素晴らしくていい質問に思えてきた。RNA-Seqとmicroarrayの違いについて。
+359221671066337280  Jul 22 04:01  @sciencestream    RT @satagopam: many challenges -single cell RNA-Seq, many unsolved datasets: ENCODE, population gemomics datasets like 1000genomes, TCGA etc #ISMBECCB #KN3
+359234290535903232  Jul 22 04:51  @4a6a5a           RT @sjcockell: RNA-Seq fragment density not uniform (random hexamer primers cause seq specific bias) #ismbeccb #KN3
+359240758030639104  Jul 22 05:17  @figshare         Preliminary cummeRbund Analysis of Anopheles gambiae midgut-specific #RNA-seq bloodfed time-course 0-10h http://shar.es/kuU7K
+359243358708842496  Jul 22 05:27  @ewanbirney       @pedrobeltrao it's important to stress that for well structured expt. data (DNA/RNA seq, Proteomics, Xray..) long standing archives exist
+359248149396721664  Jul 22 05:46  @coxtonyj         Pachter mentioned using Spark for stream-based RNA-Seq analysis on cloud, think URL is http://spark-project.org #ISMBECCB
+359249660462252032  Jul 22 05:52  @pedrobeltrao     Agree @ewanbirney: it's important to stress that for well structured expt. data (DNA/RNA seq, Proteomics, Xray) long standing archives exist
+359254589238820864  Jul 22 06:12  @arneelof         Reasons not functional, functional at rna level or? Studied by RNA-seq #ismbeccb
+359259563071393792  Jul 22 06:32  @sciencestream    RT @arneelof: Reasons not functional, functional at rna level or? Studied by RNA-seq #ismbeccb
+359262284587474944  Jul 22 06:42  @DNADigest        RT @ewanbirney: @pedrobeltrao it's important to stress that for well structured expt. data (DNA/RNA seq, Proteomics, Xray..) long standing archives exist
+359262842005880834  Jul 22 06:45  @yuifu            @windowmoon @acornworm @yoshidamasaaki おお，なるほど！生理実験やRNA-seqを足したら，とても面白い論文になりそうですね．
+359288989028589568  Jul 22 08:29  @rnomics          Featured #RNA-Seq Job – Senior Bioinformatician: Salary £29,750 to... http://bit.ly/14xUU2r #Jobs #SeniorBioinformatician #RNAseq @MyEN
