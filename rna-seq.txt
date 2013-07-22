@@ -2764,3 +2764,6 @@
 358926021023633409  Jul 21 08:26  @rtraborn         Glaus: Bitseq finds differential expression of RNA-seq reads from different biological conditions using a Gaussian model #PP14 #ismbeccb
 358928509999546368  Jul 21 08:36  @sciencestream    RT @rtraborn: Glaus: Bitseq finds differential expression of RNA-seq reads from different biological conditions using a Gaussian model #PP14 #ismbeccb
 358934213933809665  Jul 21 08:59  @jonathancairns   #ISMBECCB #PP17 "GeneScissors" solves RNA-seq multiple alignment issues by estimating which genes are expressed, and moving reads there
+359166513674072064  Jul 22 00:22  @yag_ays          ペアエンドに対応するときのフラグメント長の分布について書きました / RNA-Seqの数理―生成モデルによる発現量推定（3）ペアエンドリードとフラグメント長の分布関数 - Wolfeyes Bioinformatics beta http://yagays.github.io/blog/2013/07/22/mathematical-models-for-transcriptome-quantification-3/
+359171776732868608  Jul 22 00:43  @razoralign       RT @yag_ays: ペアエンドに対応するときのフラグメント長の分布について書きました / RNA-Seqの数理―生成モデルによる発現量推定（3）ペアエンドリードとフラグメント長の分布関数 - Wolfeyes Bioinformatics beta http://t.co/C1dafoZfwZ
+359197350981419009  Jul 22 02:24  @renelaennec      RT @genetics_blog: NURD: an implementation of a new method to estimate isoform expression from non-uniform RNA-seq data http://t.co/QtVlvmCe35
