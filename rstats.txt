@@ -12624,3 +12624,51 @@
 359295055128829952  Jul 22 08:53  @m_a_upson        DO the Simpsons characters like each other? What data scientists do in their spare time #rstats http://lnkd.in/YaQfC8
 359295861345370112  Jul 22 08:56  @mikeloukides     Reading Excel files with R. Overview of (many) solutions #rstats http://bit.ly/15b4TZi
 359296566848258048  Jul 22 08:59  @MassimoMorelli   RT @mikeloukides: Reading Excel files with R. Overview of (many) solutions #rstats http://bit.ly/15b4TZi
+359297081154215936  Jul 22 09:01  @DashingD3js      RT @nachocaballero: #D3js #Rstats A modern interactive scatterplot: zoomable, searchable, hoverable with dynamic data straight from R. http://t.co/RdZ9nOZNHx
+359299614773485569  Jul 22 09:11  @10705013         RT @nachocaballero: #D3js #Rstats A modern interactive scatterplot: zoomable, searchable, hoverable with dynamic data straight from R. http://t.co/RdZ9nOZNHx
+359304283851726848  Jul 22 09:29  @SchaunW          RT @mikeloukides: Reading Excel files with R. Overview of (many) solutions #rstats http://bit.ly/15b4TZi
+359305039770169346  Jul 22 09:32  @jebyrnes         A guide to getting excel files into #rstats http://www.milanor.net/blog/?p=779 - I mostly use gdata & read.xls these days.
+359306082822270976  Jul 22 09:37  @kara_woo         RT @jebyrnes: A guide to getting excel files into #rstats http://www.milanor.net/blog/?p=779 - I mostly use gdata & read.xls these days.
+359310166774128640  Jul 22 09:53  @belakv           RT @kdnuggets: Very useful: R documentation - all R packages and manuals, searchable #rstats #DataScience http://bit.ly/15xgNf8
+359313402092863488  Jul 22 10:06  @BrynRWilliams    RT @nachocaballero: #D3js #Rstats A modern interactive scatterplot: zoomable, searchable, hoverable with dynamic data straight from R. http://t.co/RdZ9nOZNHx
+359330248610951168  Jul 22 11:13  @cloudHPC         #rstats #hackathon on Friday in Munich, Germany. No #rstats knowledge, no matter: get in with an idea http://www.meetup.com/munich-useR-group/events/123874602/ @comsysto
+359331007146639362  Jul 22 11:16  @comsysto         #rstats #hackathon on Friday in our Munich office. No #rstats knowledge? Doesn't matter! Just come with an idea http://www.meetup.com/munich-useR-group/events/123874602/
+359333102759714816  Jul 22 11:24  @Hack_in_a_Box    RT @cloudHPC: #rstats #hackathon on Friday in Munich, Germany. No #rstats knowledge, no matter: get in with an idea http://www.meetup.com/munich-useR-group/events/123874602/ @comsysto
+359333103355314176  Jul 22 11:24  @Hack_in_a_Box    RT @comsysto: #rstats #hackathon on Friday in our Munich office. No #rstats knowledge? Doesn't matter! Just come with an idea http://t.co/RoyaMYnJTG
+359336255273697280  Jul 22 11:36  @cloudHPC         "#Oracle #rstats Connector for #Hadoop 2.2.0" works with @hortonworks and @cloudera and ships with analytic functions as linear regression
+359337446128889856  Jul 22 11:41  @Rbloggers        Analyzing Your Data on the AWS Cloud (with R):  (This article was first published on   R-statistics ... http://bit.ly/1bFXoyA #rstats
+359338927020187650  Jul 22 11:47  @23142n0g         RT @SciPyTip: RT @kdnuggets: From Whale Calls to Dark Matter: Competitive Data Science with R and Python #rstats http://bit.ly/1dsiayc
+359338947341590528  Jul 22 11:47  @nyhackr          This month's #rstats meetup has been changed & now features David Madigan, Chair of Statistics at Columbia University http://bit.ly/15L9sdV
+359339746201317376  Jul 22 11:50  @rystanman        Using #rstats but still married to #Excel? Here's an article detailing versitile packages available to import data http://bit.ly/1bFXoyA
+359339891039019009  Jul 22 11:51  @_ldeassis_       Analyzing Your Data on the AWS Cloud (with R) http://www.r-statistics.com/2013/07/analyzing-your-data-on-the-aws-cloud-with-r/ #RStats
+359340412089024513  Jul 22 11:53  @Kalatalo         RT @_ldeassis_: Analyzing Your Data on the AWS Cloud (with R) http://www.r-statistics.com/2013/07/analyzing-your-data-on-the-aws-cloud-with-r/ #RStats
+359343828286709761  Jul 22 12:06  @RLangTip         The "break" statement immediately exits from a "for" or "while" loop: http://bit.ly/qJoACW #rstats
+359343863552417792  Jul 22 12:07  @rguha            @craigbruce one good reason to use #rstats is to check impl of stat funcs. Your MAD for 1 2 3 3 4 5 5 5 5 5 53  3 3 2 2 3 4 is incorrect
+359344631755972609  Jul 22 12:10  @inside_R         #rstats 7/25 online webinar on predictive modeling using R http://bit.ly/14yv5iE
+359344672353050624  Jul 22 12:10  @inside_R         #rstats R ruser group meetings this week in Denver, Portland, Dublin and Munich http://bit.ly/9hVAPE
+359344808667521026  Jul 22 12:10  @timelyportfolio  RT @nyhackr: This month's #rstats meetup has been changed & now features David Madigan, Chair of Statistics at Columbia University http://t.co/U03Ps8yH1v
+359346287063625728  Jul 22 12:16  @VidCanC          RT @inside_R: #rstats 7/25 online webinar on predictive modeling using R http://bit.ly/14yv5iE
+359346556031344640  Jul 22 12:17  @kuun_peal        RT @RLangTip: The "break" statement immediately exits from a "for" or "while" loop: http://bit.ly/qJoACW #rstats
+359350228308475904  Jul 22 12:32  @CanHealthyOcean  RT @rystanman: Using #rstats but still married to #Excel? Here's an article detailing versitile packages available to import data http://t.co/1I1mOxe1tE
+359351162287689728  Jul 22 12:36  @cloudHPC         RT @inside_R: #rstats R ruser group meetings this week in Denver, Portland, Dublin and Munich http://bit.ly/9hVAPE
+359351199138459649  Jul 22 12:36  @jindrichmynarz   Explore correlations of stats observations by @csarven. http://stats.270a.info/ Paper: http://bit.ly/13TkOY7 #linkeddata #rstats #shiny
+359353787426676736  Jul 22 12:46  @cloudHPC         Excellent post about Analyzing Your Data on the @AWS #Cloud with #rstats http://www.r-statistics.com/2013/07/analyzing-your-data-on-the-aws-cloud-with-r/ including a great reference ;-)
+359354784475652097  Jul 22 12:50  @hspter           Gonna learn me some Slidify. Anyone have a good beginners guide suggestion? #rstats
+359358707328888832  Jul 22 13:06  @jmgomez          RT @jfelipe: Excellent free (CC-BY-SA) book for introductory statistics from #openintro project via @vitojph http://www.openintro.org/stat/textbook.php #rstats
+359358868863717377  Jul 22 13:06  @lig              Enjoyed the first half of the #Rstats talk at @oscon. On to the second half.
+359359729115467776  Jul 22 13:10  @nyhackr          Another video of last month's #rstats meetup with @ramnath_vaidya talking slidify http://bit.ly/18vu1vb
+359360801733230593  Jul 22 13:14  @glenn1you0       Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers http://www.stanford.edu/~boyd/papers/admm_distr_stats.html #oscon #Rstats
+359361159163428864  Jul 22 13:15  @shaun_grannis    The R statistical package has over 5,000 plug-ins, very popular among academics. Following a great overview of R at #OSCON #rstats
+359369531523096576  Jul 22 13:49  @THUGnificent617  RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+359370436980641792  Jul 22 13:52  @micro_interactn  seems phyloseq ppl call it a bray-curtis distance too http://bit.ly/12HzbQg #rstats #QIIME
+359372566932094976  Jul 22 14:01  @peterflom        How user friendly should statistical software be? #rstats #SAS - http://ow.ly/nbM3E
+359372567129227265  Jul 22 14:01  @PeterFlomStat    How user friendly should statistical software be? #rstats #SAS - http://ow.ly/nbM4Z
+359376980006813696  Jul 22 14:18  @mwpennell        bash Q: so i used in multicore in #Rstats on a standalone machine. I want to kill all the jobs associated with this at once. Any ideas??
+359378261488308225  Jul 22 14:23  @sc_evans         RT @mwpennell: bash Q: so i used in multicore in #Rstats on a standalone machine. I want to kill all the jobs associated with this at once. Any ideas??
+359380334640889856  Jul 22 14:32  @almightyData     RT @cloudHPC: #rstats #hackathon on Friday in Munich, Germany. No #rstats knowledge, no matter: get in with an idea http://www.meetup.com/munich-useR-group/events/123874602/ @comsysto
+359381084527943680  Jul 22 14:35  @almightyData     RT @cloudHPC: Excellent post about Analyzing Your Data on the @AWS #Cloud with #rstats http://www.r-statistics.com/2013/07/analyzing-your-data-on-the-aws-cloud-with-r/ including a great reference ;-)
+359382419990147072  Jul 22 14:40  @ronert_obst      RT @cloudHPC: Excellent post about Analyzing Your Data on the @AWS #Cloud with #rstats http://www.r-statistics.com/2013/07/analyzing-your-data-on-the-aws-cloud-with-r/ including a great reference ;-)
+359384875385630720  Jul 22 14:50  @hadleywickham    are you a new #rstats user? if so, how did you figure out how to download R?
+359384922227609601  Jul 22 14:50  @recology_        RT @hadleywickham: are you a new #rstats user? if so, how did you figure out how to download R?
+359385594926866432  Jul 22 14:52  @johnros2013      My guest post on data analysis in the cloud: #rstats+#aws http://www.r-bloggers.com/analyzing-your-data-on-the-aws-cloud-with-r/
+359385659988910081  Jul 22 14:53  @MastersJoseph    Just performed a ManWitney U test on paper faster than #spss did it. Never felt so proud! This why I use #rstats not crappy #spss for #stats
