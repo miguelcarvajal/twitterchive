@@ -12672,3 +12672,30 @@
 359384922227609601  Jul 22 14:50  @recology_        RT @hadleywickham: are you a new #rstats user? if so, how did you figure out how to download R?
 359385594926866432  Jul 22 14:52  @johnros2013      My guest post on data analysis in the cloud: #rstats+#aws http://www.r-bloggers.com/analyzing-your-data-on-the-aws-cloud-with-r/
 359385659988910081  Jul 22 14:53  @MastersJoseph    Just performed a ManWitney U test on paper faster than #spss did it. Never felt so proud! This why I use #rstats not crappy #spss for #stats
+359387743257763841  Jul 22 15:01  @dirkvandenpoel   Nice to see so many predictive analytics posts at #OSCON @bencolmery4 @JayceHall @deepakg @fredtrotter http://www.predictiveanalytics.ugent.be #rstats
+359389450016534529  Jul 22 15:08  @ramnath_vaidya   Visualizing Bike Sharing Systems with #rCharts, #shiny and @LeafletJS  #rstats http://ramnathv.github.io/bikeshare @sharon000 http://t.co/sOfRN7G8wQ
+359389713599569920  Jul 22 15:09  @DanHillReports   RT @ramnath_vaidya: Visualizing Bike Sharing Systems with #rCharts, #shiny and @LeafletJS  #rstats http://ramnathv.github.io/bikeshare @sharon000 http://t.co/sOfRN7G8wQ
+359389941781905408  Jul 22 15:10  @recology_        RT @ramnath_vaidya: Visualizing Bike Sharing Systems with #rCharts, #shiny and @LeafletJS  #rstats http://ramnathv.github.io/bikeshare @sharon000 http://t.co/sOfRN7G8wQ
+359411077232082944  Jul 22 16:34  @LeafletJS        RT @ramnath_vaidya: Visualizing Bike Sharing Systems with #rCharts, #shiny and @LeafletJS  #rstats http://ramnathv.github.io/bikeshare @sharon000 http://t.co/sOfRN7G8wQ
+359411511392878592  Jul 22 16:35  @mpmckenna8       RT @ramnath_vaidya: Visualizing Bike Sharing Systems with #rCharts, #shiny and @LeafletJS  #rstats http://ramnathv.github.io/bikeshare @sharon000 http://t.co/sOfRN7G8wQ
+359413794914578432  Jul 22 16:45  @tomassino        #rstats #hackathon on Friday in our Munich office. No #rstats knowledge? Doesn't matter! Just come with an idea http://www.meetup.com/munich-useR-group/events/123874602/
+359414794103029760  Jul 22 16:48  @uweseiler        RT @tomassino: #rstats #hackathon on Friday in our Munich office. No #rstats knowledge? Doesn't matter! Just come with an idea http://t.co/DC06iJm91R
+359415318159966210  Jul 22 16:51  @timelyportfolio  RT @ramnath_vaidya: Visualizing Bike Sharing Systems with #rCharts, #shiny and @LeafletJS  #rstats http://ramnathv.github.io/bikeshare @sharon000 http://t.co/sOfRN7G8wQ
+359416297664565248  Jul 22 16:54  @sashacuerda      RT @ramnath_vaidya: Visualizing Bike Sharing Systems with #rCharts, #shiny and @LeafletJS  #rstats http://ramnathv.github.io/bikeshare @sharon000 http://t.co/sOfRN7G8wQ
+359417691234635776  Jul 22 17:00  @quandl           Browse all R packages & R manuals from CRAN and Bioconductor: R documentation via @kdnuggets #RStats http://qndl.co/160Uj5V
+359418206064508928  Jul 22 17:02  @Hack_in_a_Box    RT @tomassino: #rstats #hackathon on Friday in our Munich office. No #rstats knowledge? Doesn't matter! Just come with an idea http://t.co/DC06iJm91R
+359421626364227584  Jul 22 17:16  @caidong          RT @quandl: Browse all R packages & R manuals from CRAN and Bioconductor: R documentation via @kdnuggets #RStats http://qndl.co/160Uj5V
+359426704722235392  Jul 22 17:36  @kuun_peal        Coolest thing I learned from @hadleywickham is that visualisation is a great for exploratory analysis. Whole new way of thinking. #rstats
+359430100690804737  Jul 22 17:49  @SamuelLeach      Back catalogue of #LondonR #rstats talks | http://www.londonr.org/Presentations.html | Check out @hadleywickham's verb decomposition of data analysis.
+359431900529569792  Jul 22 17:56  @pssGuy           Updated 2  #rstats shiny apps to take account of new rChart datatable and Highchart exporting features. More info http://wp.me/p17axt-n6
+359433285795328000  Jul 22 18:02  @csvsoundsystem   @ArthurFlam if you like #rstats, you can make your own with this: https://github.com/csv/ddr/
+359436138815033344  Jul 22 18:13  @timelyportfolio  RT @pssGuy: Updated 2  #rstats shiny apps to take account of new rChart datatable and Highchart exporting features. More info http://t.co/YzDSR4Az1m
+359441478981910529  Jul 22 18:35  @StatsInTheWild   eapply?  #rstats
+359449657505619968  Jul 22 19:07  @Rbloggers        Loading up your custom toolkits at startup – R:  (This article was first published on   Econometrics... http://bit.ly/1b9P8Yg #rstats
+359449658566782977  Jul 22 19:07  @Rbloggers        David vs. Goliath in Men’s Professional Tennis:  (This article was first published on   Graph of the... http://bit.ly/13UPSa4 #rstats
+359457361510936576  Jul 22 19:38  @revodavid        Very cool Shiny #rstats web app by @ramnath_vaidya shows real-time bike-share availability in 100 cities: http://bit.ly/14Ag1kB
+359459359387942914  Jul 22 19:46  @ArthurFlam       RT @revodavid: Very cool Shiny #rstats web app by @ramnath_vaidya shows real-time bike-share availability in 100 cities: http://t.co/lACUuaOFRU
+359465222991380481  Jul 22 20:09  @aad34210         @revodavid: Very cool Shiny #rstats web app by @ramnath_vaidya shows real-time bike-share availability in 100 cities: http://bit.ly/14Ag1kB
+359466491009187840  Jul 22 20:14  @PPUAMX           RT @RLangTip: The "break" statement immediately exits from a "for" or "while" loop: http://bit.ly/qJoACW #rstats
+359469938563489792  Jul 22 20:28  @ramnath_vaidya   RT @revodavid: Very cool Shiny #rstats web app by @ramnath_vaidya shows real-time bike-share availability in 100 cities: http://t.co/lACUuaOFRU
+359476975485722625  Jul 22 20:56  @Bioconductor     #Bioconductor / #rstats #BioC2013 conference talks and workshops becoming available http://bit.ly/12dyyTv
