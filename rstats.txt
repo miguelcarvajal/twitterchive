@@ -12699,3 +12699,31 @@
 359466491009187840  Jul 22 20:14  @PPUAMX           RT @RLangTip: The "break" statement immediately exits from a "for" or "while" loop: http://bit.ly/qJoACW #rstats
 359469938563489792  Jul 22 20:28  @ramnath_vaidya   RT @revodavid: Very cool Shiny #rstats web app by @ramnath_vaidya shows real-time bike-share availability in 100 cities: http://t.co/lACUuaOFRU
 359476975485722625  Jul 22 20:56  @Bioconductor     #Bioconductor / #rstats #BioC2013 conference talks and workshops becoming available http://bit.ly/12dyyTv
+359478207570919424  Jul 22 21:00  @recology_        RT @Bioconductor: #Bioconductor / #rstats #BioC2013 conference talks and workshops becoming available http://bit.ly/12dyyTv
+359480611095855108  Jul 22 21:10  @Just_Dizz        Loving someone doesnt need a reason. If you can explain why you love someone, its not called "Love"... its called "Like" #Rstats
+359485591114612738  Jul 22 21:30  @osazuwa          Why use a data.table as opposed to a data.frame in #rstats?
+359491758498906112  Jul 22 21:54  @danjarratt       “@VikParuchuri: Do the simpsons characters like each other? http://vikparuchuri.com/blog/how-do-simpsons-characters-feel-about-each-other/ #simpsons #Rstats” @Ted_Underwood
+359497281059303424  Jul 22 22:16  @Rbloggers        Visual debugging with RStudio:  (This article was first published on   Milano R net, and kindly cont... http://bit.ly/1bHyP4u #rstats
+359498686897721344  Jul 22 22:22  @JeromyAnglim     RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+359499910707548160  Jul 22 22:27  @JGreenbrookHeld  OK - I've reached the memory limits of #rstats - n = 1.8m. Need to go *way* bigger - any suggestions?
+359501848048173056  Jul 22 22:34  @rguha            @saraenichols indeed. see the load.molecules function in the #rcdk package. lot of #rstats at #grccadd?
+359505013363585024  Jul 22 22:47  @johnb30          #rstats RT: @PatrickTBrandt: Any clue on an HMM package in #R that gives real std. errors?  depmixS4 does not.”
+359506303640539136  Jul 22 22:52  @PatrickTBrandt   @johnb30 Am willing to do Bayesian MCMC to get se for HMM, but need a pkg and example. Ideas or a pkg? #rstats
+359514576141828097  Jul 22 23:25  @closesl          Hooray! Finally fixed a mundane but paralyzing issue in R after 10 hours of scratching my head! #rstats #icangohomenow
+359515381817278465  Jul 22 23:28  @PatrickTBrandt   @johnb30 Should not be that hard… the #HMMs are nearly 30+ years old. So why is there no pkg that gives se's #rstats
+359519670035943426  Jul 22 23:45  @abhi9u           RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+359520010764419072  Jul 22 23:47  @hpgomide         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+359521169940037632  Jul 22 23:51  @ajerneck         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+359521889716154368  Jul 22 23:54  @uebayasi         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+359525076024033280  Jul 23 00:07  @MattDabrowski    RT @FastBigData: Documentation on 4526 R packages, 96137 R functions is now live! #rstats language spoken by millions of dataminers -> http://t.co/7GQPFo4dTO
+359525526056083456  Jul 23 00:08  @MattDabrowski    RT @VikParuchuri: Do the simpsons characters like each other? http://vikparuchuri.com/blog/how-do-simpsons-characters-feel-about-each-other/ #simpsons #Rstats
+359529643029704704  Jul 23 00:25  @saraenichols     @rguha yes, lots of #rstats at #grccadd! Quite a few fans... but lots of debate  about the usual suspects #r vs #python, #perl #C++ etc
+359531391920259075  Jul 23 00:32  @TomTensfeldt     RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+359539319121248256  Jul 23 01:03  @jraucq           RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+359540555484643331  Jul 23 01:08  @metapapero       RT @FastBigData: Documentation on 4526 R packages, 96137 R functions is now live! #rstats language spoken by millions of dataminers -> http://t.co/7GQPFo4dTO
+359546873549291520  Jul 23 01:33  @JGreenbrookHeld  @TheAtavism I owe you a pint for all your #rstats help when you get up here.
+359557285560848385  Jul 23 02:15  @acepor           RT @revodavid: Very cool Shiny #rstats web app by @ramnath_vaidya shows real-time bike-share availability in 100 cities: http://t.co/lACUuaOFRU
+359562937129639937  Jul 23 02:37  @jorgaf           RT @sharon000: #Google Developers release a series of #videos on #learning to #program in #R http://bit.ly/12nmPAf #rstats
+359565634130034689  Jul 23 02:48  @aeternus         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+359567060885438464  Jul 23 02:54  @ceptional        Data analysis is exciting... about to find out the answer with #Rstats !
+359568320753713154  Jul 23 02:59  @josefslerka      Do the Simpsons characters like each other? #rstats http://bit.ly/119Odk3
