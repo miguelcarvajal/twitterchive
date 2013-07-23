@@ -2141,3 +2141,253 @@
 359659038541230081  Jul 23 08:59  @sciencestream    RT @Chris_Evelo: SIB, Swiss ELIXIR node, offers 130 resources, Expasy / SwissProt best known #ss06 #ismbeccb
 359659127200419840  Jul 23 08:59  @tehancocks       RT @Chris_Evelo: Many things (like training programs) can and should be repeated in different ELXIR national nodes #ss06 #ismbeccb
 359659137778454528  Jul 23 08:59  @Chris_Evelo      Training, IAAS and data interoperability core services Dutch node works on.  #ss06 #ismbeccb
+359665620079489024  Jul 23 09:25  @Alfons_Valencia  Niklas Blomberg is now introducing the Swedish node. Including the large protein atlas project. (Niklas is Swedish by the way) #ISMBECCB
+359666443803045888  Jul 23 09:28  @cathbrooksbank   @NBlomberg:  standards will be important for @ELIXIREurope; need to make it easy for scientists to deposit data #ISMBECCB
+359666557284134912  Jul 23 09:29  @list88buid       RT @AidanBudd: .@pjacock thanks for #NextGenBUG link. I'd like to find/build a list of such things, ideas on how to do that well? #ismbeccb #ismb2013unconf
+359666578964480000  Jul 23 09:29  @tehancocks       Panel discussion for @ELIXIREurope - need to work towards data standards. Links with IMI projects @Open_PHACTS @isatools  #ISMBECCB
+359666838566731777  Jul 23 09:30  @log2ex           About to start my talk , hall 7 . A context sensitive framework for the analysis of human signaling pathways .  #ISMBECCB
+359666990832549888  Jul 23 09:31  @tehancocks       Data standards are great. But need to be nurtured and researchers need to be encouraged to use them @ixenario #ISMBECCB
+359667260014596097  Jul 23 09:32  @Chris_Evelo      ISA-tab Based study capturing, with ontology mappings and templates from Dutch ELIXIR based on phenotype data infrastructure #ss06 #ismbeccb
+359668006185467905  Jul 23 09:35  @cathbrooksbank   Much love in the room at the @ELIXIREurope session; @justinpaschal and @Alfons_Valencia thanking each other profusely :-) #ISMBECCB
+359668066671534082  Jul 23 09:35  @tehancocks       Panel discussion - @bffo asked about UK training focus and links with #GOBLET #ISMBECCB
+359668153002885121  Jul 23 09:35  @Chris_Evelo      @CaroleAnneGoble: UK node (not EBI) focussing on training in ELIXIR #ss06 #ismbeccb
+359668296473264129  Jul 23 09:36  @tehancocks       .@CaroleAnneGoble says lots of experts in UK. Leverage existing training from clinicians, PhD progs, workshops and courses #ISMBECCB
+359668545132564482  Jul 23 09:37  @cathbrooksbank   @CaroleAnneGoble explaining #GOBLET and @swcarpentry to the @ELIXIREurope audience at #ISMBECCB
+359668772149280770  Jul 23 09:38  @tehancocks       UK Elixir training community from @emblebi @GenomeAnalysis and #CGAT in Oxford #ISMBECCB
+359668968736305152  Jul 23 09:38  @sciencestream    RT @log2ex: About to start my talk , hall 7 . A context sensitive framework for the analysis of human signaling pathways .  #ISMBECCB
+359669007596531713  Jul 23 09:39  @sciencestream    RT @tehancocks: Data standards are great. But need to be nurtured and researchers need to be encouraged to use them @ixenario #ISMBECCB
+359669075598786561  Jul 23 09:39  @tehancocks       Training - @Alfons_Valencia need to have different focus for level, language, specialist needs and output of infrastructure built #ISMBECCB
+359669237465358338  Jul 23 09:40  @GigaScience      A more technical spin-off from #WK3 is now starting in salon 81 on the G floor. Marco Roos will present on ROs & nanopubs #TT34 #ISMBECCB
+359669320126701570  Jul 23 09:40  @cathbrooksbank   @Alfons_Valencia in @ELIXIREurope session: training different in different countries and training is different from education #ISMBECCB
+359669551278981121  Jul 23 09:41  @tehancocks       Lots of training documents on @ELIXIREurope website. Go have a read! 41 might take time to read! #ISMBECCB
+359669750776856576  Jul 23 09:42  @GigaScience      Marco Roos introducing things: bioinformaticians don't have notebooks, they just have messy folders. #ISMBECCB #TT34
+359669927361261568  Jul 23 09:42  @i_am_kilpatrick  Final tech talk on XXmotif algorithm #ISMBECCB #TT35
+359670149172830213  Jul 23 09:43  @cathbrooksbank   @kaythaney @CaroleAnneGoble @swcarpentry @ELIXIREurope only via vast numbers of tweets! #ISMBECCB
+359670203006713859  Jul 23 09:43  @tehancocks       @Chris_Evelo asks can we be sure we are doing the right thing? @NBlomberg 'focus on small key needs for Europe, plug gaps later' #ISMBECCB
+359670522671407104  Jul 23 09:45  @PLOSCompBiol     #ismbeccb Looking for something to read on the plane?@PLOSCompBiol articles on the open development of scientific software & more @ booth 13
+359670802188214274  Jul 23 09:46  @i_am_kilpatrick  XXmotif seems to give good results on yeast TFs compared to other algorithms... #ISMBECCB #TT35
+359670803647832064  Jul 23 09:46  @tehancocks       Clinical trials data - is Elixir looking at accessing this data? @NBlomberg 'look to translational networks to solve this' #ISMBECCB
+359671099350466560  Jul 23 09:47  @i_am_kilpatrick  ...but unclear (in the talk anyway) how much optimisation of parameters was done for XXmotif vs others #ISMBECCB #TT35
+359671214408605696  Jul 23 09:47  @AidanBudd        #storify archive of tweets from today's #ISMBECCB #ismbnetworking workshop http://storify.com/AidanBudd/ismb-networking-workshop-v2 will keep updating it...
+359671427638628353  Jul 23 09:48  @cathbrooksbank   RT @AidanBudd: #storify archive of tweets from today's #ISMBECCB #ismbnetworking workshop http://storify.com/AidanBudd/ismb-networking-workshop-v2 will keep updating it...
+359671757986209792  Jul 23 09:50  @tehancocks       What is Elixir position on #OpenAccess asks @bffo - big push at many levels, still difficult for biomedical data, need #dataaccess #ISMBECCB
+359671831764021248  Jul 23 09:50  @cathbrooksbank   @AmyeKenall @VickySchneiderG @GigaScience @_inundata marvellous! I didn't get to see any of the other training posters. #ISMBECCB
+359672030993465345  Jul 23 09:51  @AidanBudd        sounds like me MT @GigaScience: Marco Roos introducing things: bioinformaticians don't have notebooks, just messy folders. #ISMBECCB #TT34
+359672108831354882  Jul 23 09:51  @Chris_Evelo      There is a strong push towards open data and accessible data (where privacy can still be assured) in Europe and thus ELIXIR #ss06 #ismbeccb
+359672182944694275  Jul 23 09:51  @cathbrooksbank   RT @F1000Posters: Folks at #ISMBECCB, don't forget to extend the visibility of your poster and slides - submit in 10 minutes online at http://t.co/sOCN6HtFxX
+359672231749623808  Jul 23 09:51  @pjacock          RT @BioMickWatson: UK university researchers assesed by REF. Show me where REF values reproducibility #ISMBECCB
+359672476264964097  Jul 23 09:52  @yaydinson        RT @AleksiKallio: You're lost and hungry, bathroom's locked and the coffee has run out. ICC Berlin in a nutshell. #ISMBECCB
+359672538059640834  Jul 23 09:53  @Chris_Evelo      Israel wanting to focus on clinical data. #ss06 #ismbeccb BioMedBridges also to make link to BBMRI
+359672636516737024  Jul 23 09:53  @GigaScience      Marco showing RO analytics & quality report. Interesting way to see the reproducibility decay Carole Goble was talking about #TT34 #ISMBECCB
+359672746600443904  Jul 23 09:53  @sciencestream    RT @tehancocks: UK Elixir training community from @emblebi @GenomeAnalysis and #CGAT in Oxford #ISMBECCB
+359672922383720448  Jul 23 09:54  @cathbrooksbank   @kaythaney I'm reliably informed that the slides will also go up on the @ELIXIREurope website too. #ISMBECCB
+359673368259211264  Jul 23 09:56  @swcarpentry      RT @cathbrooksbank: @CaroleAnneGoble explaining #GOBLET and @swcarpentry to the @ELIXIREurope audience at #ISMBECCB
+359673842676928512  Jul 23 09:58  @Chris_Evelo      #altmetrics reversed? #ismbeccb program book only list first and last authors for posters. (In a lot of cases that consumes more text)
+359674050223673344  Jul 23 09:59  @cathbrooksbank   @NBlomberg: we have a responsibility to make sure @ELIXIREurope interoperable with other research infrastructures #ISMBECCB
+359674090073751555  Jul 23 09:59  @GigaScience      Marco R now talking about the ROs & nanopubs in case study we are working on, with #usegalaxy SOAPdenovo workflow as example #TT34 #ISMBECCB
+359674883493470208  Jul 23 10:02  @cathbrooksbank   @CaroleAnneGoble: what will success look like for @ELIXIREurope ? #ISMBECCB
+359675062799962112  Jul 23 10:03  @i_am_kilpatrick  Q mentions Tompa benchmark of discovery algorithms - apparently XXmotif paper only reports specificity (not sn, ppv etc)?! #ISMBECCB #TT35
+359675276810137602  Jul 23 10:04  @cathbrooksbank   @NBlomberg: in short term interoperable resources and training delivered by @ELIXIREurope would be indicators of success.#ISMBECCB
+359675738888208386  Jul 23 10:05  @cathbrooksbank   @barendmons: success would be that no new data project would consider starting up without consulting @ELIXIREurope first. #ISMBECCB
+359676016731500544  Jul 23 10:06  @VickySchneiderG  RT @cathbrooksbank: @CaroleAnneGoble explaining #GOBLET and @swcarpentry to the @ELIXIREurope audience at #ISMBECCB
+359676411608444929  Jul 23 10:08  @AidanBudd        u can also share experience of networks/communities of bioinformaticians @ LinkedIn http://www.linkedin.com/groups/Networking-Bioinformatics-Workshop-ISMB-ECCB-5001813 #ismbeccb #ismbnetworking
+359678362798665730  Jul 23 10:16  @SahaSurya        RT @bffo: .@CaroleAnneGoble 's reference to Freire's paper on #reproducibility framework: http://dl.acm.org/citation.cfm?id=2213908 #ISMBECCB
+359678713660588036  Jul 23 10:17  @jonathancairns   Missed my poster on ChIP-seq + DE integration? Here's my Rcade software: http://www.bioconductor.org/packages/release/bioc/html/Rcade.html & poster: https://dl.dropboxusercontent.com/u/33389013/STAT1.pdf #ISMBECCB
+359680438589067265  Jul 23 10:24  @sciencestream    RT @cathbrooksbank: @kaythaney I'm reliably informed that the slides will also go up on the @ELIXIREurope website too. #ISMBECCB
+359680465642328064  Jul 23 10:24  @sciencestream    RT @Chris_Evelo: #altmetrics reversed? #ismbeccb program book only list first and last authors for posters. (In a lot of cases that consumes more text)
+359680515877515264  Jul 23 10:24  @sciencestream    RT @cathbrooksbank: @CaroleAnneGoble: what will success look like for @ELIXIREurope ? #ISMBECCB
+359681120339636227  Jul 23 10:27  @pjacock          Paper on #ISMBECCB venue selection: Burkhard Rost et al (2012), Paving the future: finding suitable ISMB venues http://dx.doi.org/10.1093/bioinformatics/bts420
+359682757263257600  Jul 23 10:33  @i_am_kilpatrick  Cool #OA badge from the nice folks at @PLOSCompBiol :) #ISMBECCB http://t.co/FwOjNJ3nX1
+359682882756812801  Jul 23 10:34  @PLOSCompBiol     RT @i_am_kilpatrick: Cool #OA badge from the nice folks at @PLOSCompBiol :) #ISMBECCB http://t.co/FwOjNJ3nX1
+359682892928008192  Jul 23 10:34  @heathermvincent  RT @jonathancairns: I present my highly unofficial #ISMBbingo card. Eyes down everyone! Comments welcome. #ISMBECCB http://t.co/CCiAzSXJGI
+359683964253913090  Jul 23 10:38  @yaydinson        #ISMBECCB #KN6 David Eisenberg " saved  best for the last" talk titled "Protein Interactions in Health and Disease"
+359684015407636481  Jul 23 10:38  @GenomeAnalysis   RT @tehancocks: UK Elixir training community from @emblebi @GenomeAnalysis and #CGAT in Oxford #ISMBECCB
+359684151248560128  Jul 23 10:39  @pedrobeltrao     The gender unbalance stands out in the list of senior scientists award #ISMBECCB
+359684619303518208  Jul 23 10:41  @reactome         Looking forward to the last talk at #ISMBECCB : David Eisenberg - “Protein Interactions in Health and Disease”
+359684653529055233  Jul 23 10:41  @jonathancairns   Final final final talk of #ISMBECCB. It's #KN6, David Eisenberg. Glowing introduction!
+359684869447626752  Jul 23 10:42  @larsjuhljensen   RT @pedrobeltrao: The gender unbalance stands out in the list of senior scientists award #ISMBECCB
+359684873176358913  Jul 23 10:42  @RomainStuder     RT @pedrobeltrao: The gender unbalance stands out in the list of senior scientists award #ISMBECCB
+359685176286134273  Jul 23 10:43  @froggleston      Another great ISMB this year! Homeward bound! #ismbeccb 
+359685378065711104  Jul 23 10:44  @iddux            Davis Eisenberg was tutored by John T. Edsall. Which got him into proteins. #ISMBECCB #keynote
+359685434042880000  Jul 23 10:44  @kastacholamine   RT @pedrobeltrao: The gender unbalance stands out in the list of senior scientists award #ISMBECCB
+359685485070782468  Jul 23 10:44  @Alfons_Valencia  “@pedrobeltrao: The gender unbalance ... senior scientists award #ISMBECCB” my take: it reflects history but not future or intentions
+359685612154003457  Jul 23 10:45  @Alfons_Valencia  RT @yaydinson: #ISMBECCB #KN6 David Eisenberg " saved  best for the last" talk titled "Protein Interactions in Health and Disease"
+359685732882857985  Jul 23 10:45  @i_am_kilpatrick  RT @Alfons_Valencia: “@pedrobeltrao: The gender unbalance ... senior scientists award #ISMBECCB” my take: it reflects history but not future or intentions
+359686136618160128  Jul 23 10:47  @Chris_Evelo      DE's plan to calculate hydrogen bond energy did not work out since coordinates for known protein structure not available #kn6?#ismbeccb
+359686284022775808  Jul 23 10:47  @larsjuhljensen   David Eisenberg was worried he couldn't explain protein oligomerization, but not worried enough to become a creationist #ISMBECCB #KN6
+359686432845082624  Jul 23 10:48  @Alfons_Valencia  Burkhard Rost about David Eisenberg: a scientist that changed paradigms and strongly influenced the development of bioinformatics #ISMBECCB
+359686624206008320  Jul 23 10:49  @iddux            Oh, yes. Eisenberg Domain swapping. That's one of the things that got *me* into structural bioinformatics. #ISMBECCB
+359686748772630530  Jul 23 10:49  @YiXing77         @ongenetics what is 'simplified RNAseq analysis'? #ISMBECCB
+359686757505179648  Jul 23 10:49  @pedrobeltrao     RT @Alfons_Valencia: “@pedrobeltrao: The gender unbalance ... senior scientists award #ISMBECCB” my take: it reflects history but not future or intentions
+359686778589937665  Jul 23 10:49  @drricky          RT @BioMickWatson: Puppies are cute, so we care; software isn't, so we don't. Solution: make software cute #ISMBECCB
+359686815621451777  Jul 23 10:49  @ongenetics       #ISMBECCB keynote/awardee David S. Eisenberg did multiple postdocs, has spent 41 years at one place (UCLA), both atypical for such stature.
+359687502291939328  Jul 23 10:52  @Alfons_Valencia  Herero oligomers favored by colocalization lead to the development of the Rosetta Stone approach (Ed Marcotte)  99  seminal paper) #ISMBECCB
+359687825274306561  Jul 23 10:53  @StefanieButland  RT @bffo: .@CaroleAnneGoble provides some definitions 2 reproducibility #ismbeccb http://t.co/6wxIlmfYvP
+359688026567348225  Jul 23 10:54  @RomainStuder     ProLinks database is a collection of inferences of functional linkages between proteins using 4 methods. http://prolinks.mbi.ucla.edu #ISMBECCB
+359688074978013184  Jul 23 10:54  @iddux            DE on ProLinks http://prolinks.mbi.ucla.edu #ISMBECCB
+359688112760295424  Jul 23 10:55  @Alfons_Valencia  Eisenberg. Rosetta Stone followed by Matteo Pellegrini phylogenetic profiles. These methods initiated a full field of research.  #ISMBECCB
+359688168611643396  Jul 23 10:55  @ongenetics       Eisenberg and evolution - the Rosetta stone method and phylogenetic profiles. http://prolinks.mbi.ucla.edu will have 30 eukaryotes soon. #ISMBECCB
+359688246810247169  Jul 23 10:55  @RomainStuder     Database of Interacting Proteins  http://dip.doe-mbi.ucla.edu #ISMBECCB
+359688333305196546  Jul 23 10:55  @Chris_Evelo      Early detective work, find proteins that were connected or (only) co-evolved to predict PPI's #kn6 #ismbeccb
+359688460803645440  Jul 23 10:56  @yaydinson        #ISMBECCB #KN6 DE mentions http://prl.mbi.ucla.edu/prlbeta/prolinks.jsp  for inferring  functional linkages between proteins
+359688764265725952  Jul 23 10:57  @pjacock          Has @ISMBECCB announced that #ISMBECCB 2015 will be at the Convention Centre #Dublin yet? The CCD did in back in May: http://www.theccd.ie/index.jsp?p=100&n=108&a=491
+359688830888058882  Jul 23 10:57  @pjacock          Conferences & big money: #ISMBECCB 2015 “is set to bring in almost €3m in revenue to Ireland’s capital city.” #Dublin http://www.theccd.ie/index.jsp?p=100&n=108&a=491
+359688836701356032  Jul 23 10:57  @ongenetics       Eisenberg also has the protein interaction database: DIP http://dip.doe-mbi.ucla.edu #ISMBECCB
+359688984022093824  Jul 23 10:58  @pjacock          #ISMBECCB should have place-holder pages up already for 2014 (ISMB in #Boston, where’s ECCB?) and 2015 (ISBM/ECCB in #Dublin)
+359689003521413122  Jul 23 10:58  @RomainStuder     RT @pjacock: Has @ISMBECCB announced that #ISMBECCB 2015 will be at the Convention Centre #Dublin yet? The CCD did in back in May: http://t.co/3GLcPh1w7e
+359689012610473984  Jul 23 10:58  @Alfons_Valencia  Based on the methods Ioannis Xenarios started the DIP database now part of the PPI consortium #ISMBECCB
+359689040997515266  Jul 23 10:58  @iddux            @pjacock yes. Official announcement of Dublin 2015 has been made. #ISMBECCB
+359689064548548609  Jul 23 10:58  @Alfons_Valencia  RT @iddux: Oh, yes. Eisenberg Domain swapping. That's one of the things that got *me* into structural bioinformatics. #ISMBECCB
+359689143128817665  Jul 23 10:59  @i_am_kilpatrick  RT @pjacock: Has @ISMBECCB announced that #ISMBECCB 2015 will be at the Convention Centre #Dublin yet? The CCD did in back in May: http://t.co/3GLcPh1w7e
+359689145733496832  Jul 23 10:59  @Alfons_Valencia  RT @ongenetics: #ISMBECCB keynote/awardee David S. Eisenberg did multiple postdocs, has spent 41 years at one place (UCLA), both atypical for such stature.
+359689145901260800  Jul 23 10:59  @Hoellenmotte     David Eisenberg on evolution of PPIs: "I wasn't puzzled enough to become a creationist..." #ISMBECCB #kn6
+359689212552945664  Jul 23 10:59  @PLOSCompBiol     Head to Hall 1 at 4.35pm at #ismbeccb for the @ISCB Senior Scientist Accomplishment Award keynote by David Eisenberg http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003116
+359689244123467777  Jul 23 10:59  @iddux            RT @Hoellenmotte: David Eisenberg on evolution of PPIs: "I wasn't puzzled enough to become a creationist..." #ISMBECCB #kn6
+359689326252142594  Jul 23 10:59  @Alfons_Valencia  RT @pjacock: Conferences & big money: #ISMBECCB 2015 “is set to bring in almost €3m in revenue to Ireland’s capital city.” #Dublin http://t.co/3GLcPh1w7e
+359689367461183489  Jul 23 11:00  @Chris_Evelo      DE there is no reason to develop things like PPI databases only for the US or Europe. +1! #kn6 #ismbeccb
+359689420183580672  Jul 23 11:00  @arneelof         Death in alzheimers is increasing #ismbeccb
+359689435505377282  Jul 23 11:00  @arneelof         RT @Hoellenmotte: David Eisenberg on evolution of PPIs: "I wasn't puzzled enough to become a creationist..." #ISMBECCB #kn6
+359689681144786945  Jul 23 11:01  @Annatramontano3  ECCB 2014 in Strasbourg 7-10 sept  #ISMBECCB
+359689930609393664  Jul 23 11:02  @arneelof         The steric zipper hypothesis and the cylindrin hypotheses. #ismbeccb
+359689984049037313  Jul 23 11:02  @Alfons_Valencia  Eisenberg Now into amyloids. Zipper hypothesis of interdigitated b-sheets #ISMBECCB
+359690231504584705  Jul 23 11:03  @rtraborn         Eisenberg is giving a v nice keynote. He clearly hasn't run out of steam as many of us have (your humble correspondent included). #ismbeccb
+359690234537050116  Jul 23 11:03  @pjacock          #ISMBECCB should have place-holder pages up already for 2014 (ISMB in #Boston, ECCB in #Strasbourgh) and 2015 (ISBM/ECCB in #Dublin)
+359690315772329986  Jul 23 11:03  @arneelof         Only seven aa long peptides can mimic amyloid fibers. And small crystals #ismbeccb
+359690531724472320  Jul 23 11:04  @SahaSurya        #ISMBECCB Thanks for all the tweets! Too many tweeps to mention :-) See y'all at ISMB 2014 in Boston
+359690674636988418  Jul 23 11:05  @ISMBECCB         Congrats to 2013 ISCB Senior Scientist Award winner David Eisenberg, his keynote: Protein interactions in health and disease #ismbeccb
+359690776957034496  Jul 23 11:05  @jonathancairns   Mesmerizing animation of steric zippers. They stick together like velcro. Or, er, indeed, zips. #ISMBECCB #KN6
+359690853893152768  Jul 23 11:05  @ongenetics       Eisenberg now works on amyloid diseases (there are now 40 amyloid diseases, including some p53 defects), smaller clusters worst. #ISMBECCB
+359690876357849089  Jul 23 11:06  @johnpharmd       RT @GigaScience: CG on importance of sharing systems: 80% of workflows are made from adapting other peoples workflows #ISMBECCB #KN5
+359691014140735491  Jul 23 11:06  @arneelof         115 crystal structures of peptides #ismbeccb
+359691400901705730  Jul 23 11:08  @arneelof         Using protein design to scan for new peptides (and also promotes the 3d 1d method) #ismbeccb
+359691423982948353  Jul 23 11:08  @Alfons_Valencia  Welcome  Anna Tramontano.  @Annatramontano3    A new twitter player converted during #ISMBECCB
+359691690811998211  Jul 23 11:09  @isatools         Great! "RT @GigaScience: Lot of shoutouts from @CaroleAnneGoble including @isatools #KN5 #ISMBECCB"
+359691737066770432  Jul 23 11:09  @Annatramontano3  Simply getting younger by the minute! #ISMBECCB
+359691768431783936  Jul 23 11:09  @yaydinson        #ISMBECCB #KN6 DE steric zippers are pairs of n-register B-sheets, as of 2013 we know 110 x-ray str. of steric zippers from 15 diseases
+359691940624732160  Jul 23 11:10  @Alfons_Valencia  Eisenberg blocking fiber elongation by capping peptides. Combining computation experiments and crystallography   Beautiful.  #ISMBECCB
+359692063832424448  Jul 23 11:10  @johnpharmd       RT @GigaScience: Nice factoid from @CaroleAnneGoble : R is the most cited platform in the literature #ISMBECCB #KN5
+359692070794964992  Jul 23 11:10  @Feargal_Ryan     RT @pjacock: Has @ISMBECCB announced that #ISMBECCB 2015 will be at the Convention Centre #Dublin yet? The CCD did in back in May: http://t.co/3GLcPh1w7e
+359692347803578368  Jul 23 11:11  @ongenetics       Eisenberg: There are now 115 structures of steric zippers in amyloid proteins. He has designed specific inhibitors of several. #ISMBECCB
+359692374542270464  Jul 23 11:11  @sciencestream    RT @pjacock: Paper on #ISMBECCB venue selection: Burkhard Rost et al (2012), Paving the future: finding suitable ISMB venues http://t.co/2TY60rhBPE
+359692395715117056  Jul 23 11:12  @sciencestream    RT @i_am_kilpatrick: Cool #OA badge from the nice folks at @PLOSCompBiol :) #ISMBECCB http://t.co/FwOjNJ3nX1
+359692591370997760  Jul 23 11:12  @arneelof         "@Alfons_Valencia: Welcome  Anna Tramontano.  @Annatramontano3    A new twitter player converted during #ISMBECCB" you will always be young
+359692796866723841  Jul 23 11:13  @Alfons_Valencia  Eisenberg now the cylindrin hypothesis. Small toxic oligomers. Experiments with crystalline.  #ISMBECCB
+359692824926633984  Jul 23 11:13  @GigaScience      RT @arneelof: "@Alfons_Valencia: Welcome  Anna Tramontano.  @Annatramontano3    A new twitter player converted during #ISMBECCB" you will always be young
+359693431104217088  Jul 23 11:16  @mjambon          RT @iddux: #ISMBECCB @CaroleAnneGoble talks about a sadly less-than-well-known Mertonian Norms for science, 1942: http://en.wikipedia.org/wiki/Mertonian_norms
+359693803969445888  Jul 23 11:17  @arneelof         After 90 in register fibrill structure one our of register was found (toxic form?) #ismbeccb
+359693853093142528  Jul 23 11:17  @Hoellenmotte     Upcoming: Snow out of the air con in Hall 1! ;-) #ismbeccb
+359693951877394433  Jul 23 11:18  @rtraborn         Eisenberg's work, a combination of X-ray crystallography, computation, biochemistry & experimental therapeutics is truly elegant. #ismbeccb
+359694199320363009  Jul 23 11:19  @Alfons_Valencia  Eisenberg. The rules of symmetry impose constrains and determine architecture. Amazingly enough it relates with toxicity. #ISMBECCB
+359694286322802689  Jul 23 11:19  @Annatramontano3  Eisenberg:  great science, solid and creative... and beautiful   #ISMBECCB
+359694310276464640  Jul 23 11:19  @ongenetics       Eisenberg: structure of cystalin-derived fibers revealed out of register beta sheets and cylindrins. Laganowsky et al. 2012 #ISMBECCB
+359694336390209536  Jul 23 11:19  @johnpharmd       THIS MT @openscience @GigaScience:CG:we should b releasing data NOT pub'ing it. Follow software eng instead of libr processes #KN5 #ISMBECCB
+359694667962523648  Jul 23 11:21  @Alfons_Valencia  Eisenberg.  Hypothesis experiments model and back. A refreshing lesson of scientific consistency to close #ISMBECCB
+359694753123676160  Jul 23 11:21  @ISMBECCB         @SahaSurya Thanks for following #ismbeccb tweets! See you in Boston for ISMB 2014!
+359694989053272064  Jul 23 11:22  @larsjuhljensen   RT @Alfons_Valencia: Eisenberg.  Hypothesis experiments model and back. A refreshing lesson of scientific consistency to close #ISMBECCB
+359695250773655553  Jul 23 11:23  @ongenetics       Eisenberg: G93 in SOD1 was found by a cylindrin motif search and he now has crystals. #ALS #ISMBECCB
+359695617779437570  Jul 23 11:24  @sciencestream    RT @arneelof: "@Alfons_Valencia: Welcome  Anna Tramontano.  @Annatramontano3    A new twitter player converted during #ISMBECCB" you will always be young
+359695630102310914  Jul 23 11:24  @sciencestream    RT @Alfons_Valencia: Eisenberg now the cylindrin hypothesis. Small toxic oligomers. Experiments with crystalline.  #ISMBECCB
+359695652139171842  Jul 23 11:25  @sciencestream    RT @arneelof: After 90 in register fibrill structure one our of register was found (toxic form?) #ismbeccb
+359695679502811136  Jul 23 11:25  @sciencestream    RT @Hoellenmotte: Upcoming: Snow out of the air con in Hall 1! ;-) #ismbeccb
+359695788437286912  Jul 23 11:25  @reactome         David Eisenberg says “don’t forget about metabolism” wrt personalized medicine. #ISMBECCB
+359695937435734018  Jul 23 11:26  @arneelof         Nice to see pictures of many old friends from my postdoc period #ismbeccb
+359695945413296128  Jul 23 11:26  @ongenetics       Eisenberg's inspiring talk has understated enthusiasm that some really terrible amyloid diseases are on their way to being cured. #ISMBECCB
+359696026073960449  Jul 23 11:26  @arneelof         RT @ongenetics: Eisenberg: G93 in SOD1 was found by a cylindrin motif search and he now has crystals. #ALS #ISMBECCB
+359696105711218688  Jul 23 11:26  @yaydinson        #ISMBECCB #KN6 DE "from sequence analysis combined with deeper understanding of metabolism:true #personalizedmedicine"
+359696127173472256  Jul 23 11:26  @jonathancairns   Eisenberg ends with exciting work on ALS (what Stephen Hawking has) & inspiring messages to nxt gen of comp bio students #ISMBECCB #KN6
+359696199189659648  Jul 23 11:27  @i_am_kilpatrick  Fascinating talk by ISCB Senior Scientist award winner David Eisenberg - great way to end #ISMBECCB meeting!
+359696209541206016  Jul 23 11:27  @luispedrocoelho  Goodbye #ISMBECCB. I hardly even knew ya...
+359696424633516033  Jul 23 11:28  @yaydinson        #ISMBECCB #KN6 DE warns  "don't forget the metabolism" for true personalized medicine :D
+359696425694670850  Jul 23 11:28  @AidanBudd        Yep great ending MT @i_am_kilpatrick: Fascinating talk by ISCB Senior Scientist award winner D Eisenberg; great way 2 end #ISMBECCB meeting!
+359696713440702466  Jul 23 11:29  @Chris_Evelo      DE small changes in amino acid sequences lead to and prevent large symmetric changes in amyloid protein 3D structures #kn6 #ISMBECCB
+359697933546950658  Jul 23 11:34  @log2ex           Very inspiring talk by Eisenberg , true science . #ISMBECCB
+359698159406026752  Jul 23 11:34  @laxvid           RT @i_am_kilpatrick: Cool #OA badge from the nice folks at @PLOSCompBiol :) #ISMBECCB http://t.co/FwOjNJ3nX1
+359698361034608643  Jul 23 11:35  @Alfons_Valencia  RT @log2ex: Very inspiring talk by Eisenberg , true science . #ISMBECCB
+359698386108166146  Jul 23 11:35  @yaydinson        #ISMBECCB leaving ICC to catch our plane back to Ankara. To all on their way back home "Güle güle...."
+359698427854065664  Jul 23 11:36  @Personal_Med     RT @reactome: David Eisenberg says “don’t forget about metabolism” wrt personalized medicine. #ISMBECCB
+359698431821873153  Jul 23 11:36  @Personal_Med     RT @yaydinson: #ISMBECCB #KN6 DE warns  "don't forget the metabolism" for true personalized medicine :D
+359698483277611008  Jul 23 11:36  @rtraborn         In response to a delegate's question Eisenberg quips: 'I think the hypothesis that honesty increases w/ age needs to be examined' #ismbeccb
+359698825004335106  Jul 23 11:37  @Hoellenmotte     RT @i_am_kilpatrick: Fascinating talk by ISCB Senior Scientist award winner David Eisenberg - great way to end #ISMBECCB meeting!
+359699111781482497  Jul 23 11:38  @pjacock          An #ISMBECCB 2013 Berlin tweet archive on GitHub - nice idea! RT @genetics_blog: @ISMBECCB @bffo @iddux https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt
+359699418745815040  Jul 23 11:39  @AidanBudd        yes! MT @pjacock: #ISMBECCB 2013 Berlin GitHub tweet archive; nice idea! RT @genetics_blog: @ISMBECCB @bffo @iddux https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt
+359699563210223616  Jul 23 11:40  @Personal_Med     RT @yaydinson: #ISMBECCB #KN6 DE "from sequence analysis combined with deeper understanding of metabolism:true #personalizedmedicine"
+359699569245831169  Jul 23 11:40  @GigaScience      Now for awards, @Alexbateman1 announcing winner of the 1st wikipedia competition: James Estevez for improving main Genomics page #ISMBECCB
+359699637503918080  Jul 23 11:40  @ISMBECCB         RCSB PDB Poster Prize goes to Matthias Dietzen from Max Planck Institute for Informatics. Congrats! #ismbeccb
+359699984473530369  Jul 23 11:42  @AidanBudd        always see "international cricket council" :) MT @yaydinson: #ISMBECCB leaving ICC 2 go back to Ankara. To all on their way home "Güle güle"
+359700081122885634  Jul 23 11:42  @JonathanCFuller  RT @AidanBudd: yes! MT @pjacock: #ISMBECCB 2013 Berlin GitHub tweet archive; nice idea! RT @genetics_blog: @ISMBECCB @bffo @iddux https://t.co/qGT7EWrWBZ
+359700234936385536  Jul 23 11:43  @ISMBECCB         Congrats to Allyson Byrd from Boston University for winning the 2013 Outstanding Poster Award #ismbeccb
+359700569323081731  Jul 23 11:44  @ISMBECCB         Best Paper in Translational Bioinformatics is a tie-Congrats to Russell Schwartz CMU & Nicola Bonzanni VU University Amsterdam #ismbeccb
+359701409865805826  Jul 23 11:47  @ISMBECCB         We are honored to announce the Ian Lawson Van Toch Memorial Award for Outstanding Student Paper goes to Wyatt Clark Indiana U. #ismbeccb
+359701505038749699  Jul 23 11:48  @arneelof         #gendercount at #ismbeccb awards 4/11 Good! (excuse potential errors)
+359702027544166401  Jul 23 11:50  @ISMBECCB         All of us at #ismbeccb and @ISCB thank our sponsors! http://bit.ly/14DevOH
+359702173732450304  Jul 23 11:50  @arneelof         Just a final dinner with friends and colleagues then back to my family. #ismbeccb
+359702556563349505  Jul 23 11:52  @jonathancairns   It's been an interesting and intense few days. Thankyou tweeps! See you next time. #ismbeccb
+359702602390319104  Jul 23 11:52  @sciencestream    RT @reactome: David Eisenberg says “don’t forget about metabolism” wrt personalized medicine. #ISMBECCB
+359702629821059078  Jul 23 11:52  @sciencestream    RT @arneelof: Nice to see pictures of many old friends from my postdoc period #ismbeccb
+359702698284695553  Jul 23 11:53  @sciencestream    RT @yaydinson: #ISMBECCB #KN6 DE "from sequence analysis combined with deeper understanding of metabolism:true #personalizedmedicine"
+359702789951193088  Jul 23 11:53  @sciencestream    RT @i_am_kilpatrick: Fascinating talk by ISCB Senior Scientist award winner David Eisenberg - great way to end #ISMBECCB meeting!
+359702804669005825  Jul 23 11:53  @sciencestream    RT @luispedrocoelho: Goodbye #ISMBECCB. I hardly even knew ya...
+359702828320694272  Jul 23 11:53  @sciencestream    RT @yaydinson: #ISMBECCB #KN6 DE warns  "don't forget the metabolism" for true personalized medicine :D
+359702865893269504  Jul 23 11:53  @GenomeAnalysis   CONGRATULATIONS to Sergey for receiving the F1000 award for his poster!! Made @GenomeAnalysis very proud! #ISMBECCB http://t.co/0taQOrCVG8
+359702908868116480  Jul 23 11:53  @sciencestream    RT @log2ex: Very inspiring talk by Eisenberg , true science . #ISMBECCB
+359702943051694080  Jul 23 11:53  @sciencestream    RT @yaydinson: #ISMBECCB leaving ICC to catch our plane back to Ankara. To all on their way back home "Güle güle...."
+359703024760930304  Jul 23 11:54  @nextgenseek      #ismbeccb Missed ISMB 2013? Follow the tweets from @genetics_blog https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt and published papers http://nextgenseek.com/2013/05/ismb-2013-announces-the-list-of-accepted-papers/
+359703064216743937  Jul 23 11:54  @genetics_blog    RT @nextgenseek: #ismbeccb Missed ISMB 2013? Follow the tweets from @genetics_blog https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt and published papers http://t.co/w5N1Xb1Fre
+359703166826196995  Jul 23 11:54  @anilthanki       RT @GenomeAnalysis: CONGRATULATIONS to Sergey for receiving the F1000 award for his poster!! Made @GenomeAnalysis very proud! #ISMBECCB http://t.co/0taQOrCVG8
+359703404110548993  Jul 23 11:55  @phospho3d        RT @Alfons_Valencia: Welcome  Anna Tramontano.  @Annatramontano3    A new twitter player converted during #ISMBECCB
+359703769614794752  Jul 23 11:57  @froggleston      RT @GenomeAnalysis: CONGRATULATIONS to Sergey for receiving the F1000 award for his poster!! Made @GenomeAnalysis very proud! #ISMBECCB http://t.co/0taQOrCVG8
+359704052247957505  Jul 23 11:58  @ogishima         RT @pjacock: An #ISMBECCB 2013 Berlin tweet archive on GitHub - nice idea! RT @genetics_blog: @ISMBECCB @bffo @iddux https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt
+359704218724081665  Jul 23 11:59  @SahaSurya        RT @nextgenseek: #ismbeccb Missed ISMB 2013? Follow the tweets from @genetics_blog https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt and published papers http://t.co/w5N1Xb1Fre
+359704283865812993  Jul 23 11:59  @ISMBECCB         On behalf of #ismbeccb and @ISCB, thank you to all exhibitors! http://bit.ly/13YgyXv
+359705035149565952  Jul 23 12:02  @GenomeAnalysis   A very happy Sergey with his award! #ISMBECCB http://t.co/CoHznnjDZl
+359705123343175680  Jul 23 12:02  @allysonlbyrd     @wejlab We did it! RT: @ISMBECCB: Congrats to Allyson Byrd from Boston University for winning the 2013 Outstanding Poster Award #ismbeccb
+359705842670501889  Jul 23 12:05  @pfanderson       RT @GenomeBiology: #ismbeccb in future it may be possible to sequence genomes here on podium on USB key. for now there is no alternative for short reads - LP
+359705903722790912  Jul 23 12:05  @pfanderson       RT @bffo: GA: "Data is not understanding, unfortunately" & "Tools is not analysis, unfortunately" #ISMBECCB
+359705931237433344  Jul 23 12:05  @pfanderson       RT @moorejh: RT @ISMBECCB: Welcome to ISMB/ECCB 2013! The official hashtag is #ismbeccb. Check out the conference schedule http://t.co/FKTJdA0n4A.
+359706019204562946  Jul 23 12:06  @pfanderson       RT @bffo: BMC has removed the offensive banner from their booth! MT @larsjuhljensen: #OpenAccess: Do Not Enter #ISMBECCB http://t.co/2INHVSKkM7
+359706159596314625  Jul 23 12:06  @mcaccamo         RT @GenomeAnalysis: CONGRATULATIONS to Sergey for receiving the F1000 award for his poster!! Made @GenomeAnalysis very proud! #ISMBECCB http://t.co/0taQOrCVG8
+359706210624208896  Jul 23 12:06  @ISMBECCB         Congrats to @F1000 Poster Awardees Sergey Lamzin, Griet Laenen, Eric Franzosa, Thomas Abeel, and Hattice Bilur Engin! #ismbeccb
+359706216383000578  Jul 23 12:06  @mcaccamo         RT @GenomeAnalysis: A very happy Sergey with his award! #ISMBECCB http://t.co/CoHznnjDZl
+359706309307801605  Jul 23 12:07  @EduEyras         RT @GenomeBiology: #ISMBECCB better software = better research. Carole Goble discussing open data and reproducibility.  http://t.co/IFGT0zay7F
+359706572055789569  Jul 23 12:08  @pfanderson       RT @nextgenseek: #ismbeccb Missed ISMB 2013? Follow the tweets from @genetics_blog https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt and published papers http://t.co/w5N1Xb1Fre
+359706598526042112  Jul 23 12:08  @ISMBECCB         Awesome tweet archive! Thank you @genetics_blog and all #ismbeccb tweeps!!! https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt
+359707054774042627  Jul 23 12:10  @ISMBECCB         A huge thank you to all #ismbeccb delegates! Looking forward to seeing you at ISMB 2014 in Boston July 11-15 https://www.iscb.org/ismb2014.
+359707678605459456  Jul 23 12:12  @sciencestream    RT @jonathancairns: It's been an interesting and intense few days. Thankyou tweeps! See you next time. #ismbeccb
+359707682061565953  Jul 23 12:12  @sciencestream    RT @GenomeAnalysis: CONGRATULATIONS to Sergey for receiving the F1000 award for his poster!! Made @GenomeAnalysis very proud! #ISMBECCB http://t.co/0taQOrCVG8
+359707962132013058  Jul 23 12:13  @mcaccamo         Sergey Lamzin  (my student "yes I have to say this :)" ) was awarded the F100 poster prize at #ISMBECCB - Well done Sergey! @GenomeAnalysis
+359708257725583361  Jul 23 12:15  @anilthanki       RT @GenomeAnalysis: A very happy Sergey with his award! #ISMBECCB http://t.co/CoHznnjDZl
+359708304152338432  Jul 23 12:15  @bffo             Gr8 conference all, thank u 4 the tweets, & hope 2 c u all in Boston 4 #ISMB2014 , if I don't read u or c u b4 #ISMBECCB
+359708423509655552  Jul 23 12:15  @bioinfosm        includes Groupon and scissors! MT @nextgenseek #ismbeccb http://nextgenseek.com/2013/05/ismb-2013-announces-the-list-of-accepted-papers/ tweets @genetics_blog https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt #genomics #NGS
+359709753695416320  Jul 23 12:21  @bffo             .@iscb needs 2 include variants of http://t.co/AxXXppAMIO in conference bag so we all have it 4 1st KN01 in #ISMB2014 #ISMBbingo  #ISMBECCB
+359709836600033280  Jul 23 12:21  @marc_rr          RT @nextgenseek: #ismbeccb Missed ISMB 2013? Follow the tweets from @genetics_blog https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt and published papers http://t.co/w5N1Xb1Fre
+359709985732694017  Jul 23 12:21  @marc_rr          Thanks to all who tweeted #ISMBECCB!
+359710409332236288  Jul 23 12:23  @GenomeAnalysis   RT @mcaccamo: Sergey Lamzin  (my student "yes I have to say this :)" ) was awarded the F100 poster prize at #ISMBECCB - Well done Sergey! @GenomeAnalysis
+359711031645319169  Jul 23 12:26  @VickySchneiderG  RT @GenomeAnalysis: CONGRATULATIONS to Sergey for receiving the F1000 award for his poster!! Made @GenomeAnalysis very proud! #ISMBECCB http://t.co/0taQOrCVG8
+359713578162470912  Jul 23 12:36  @pedrobeltrao     It was great to see familiar faces and meet new people at #ISMBECCB it was a good scientific overview but not the best for cozy discussions
+359713858996277250  Jul 23 12:37  @sciencestream    RT @mcaccamo: Sergey Lamzin  (my student "yes I have to say this :)" ) was awarded the F100 poster prize at #ISMBECCB - Well done Sergey! @GenomeAnalysis
+359713862297202689  Jul 23 12:37  @sciencestream    RT @bffo: Gr8 conference all, thank u 4 the tweets, & hope 2 c u all in Boston 4 #ISMB2014 , if I don't read u or c u b4 #ISMBECCB
+359713867422646274  Jul 23 12:37  @sciencestream    RT @bioinfosm: includes Groupon and scissors! MT @nextgenseek #ismbeccb http://nextgenseek.com/2013/05/ismb-2013-announces-the-list-of-accepted-papers/ tweets @genetics_blog https://t.co/S18L76P7FP #genomics #NGS
+359715692905373700  Jul 23 12:44  @CLCbio           @baym Since 2008 we have handed out 4-500 t-shirts every year at ISMB - and they're almost always gone in a few hours! #ismbeccb
+359718606252158976  Jul 23 12:56  @WonderMixTape    RT @bffo: Gr8 conference all, thank u 4 the tweets, & hope 2 c u all in Boston 4 #ISMB2014 , if I don't read u or c u b4 #ISMBECCB
+359718648862081025  Jul 23 12:56  @WonderMixTape    RT @ISMBECCB: A huge thank you to all #ismbeccb delegates! Looking forward to seeing you at ISMB 2014 in Boston July 11-15 https://t.co/EAIUpclToq.
+359718708379258880  Jul 23 12:56  @AidanBudd        +1 chatting with them is a big part of the fun MT @ISMBECCB: On behalf of #ismbeccb & @ISCB thanks 2 all exhibitors! http://bit.ly/13YgyXv
+359719043407691779  Jul 23 12:57  @jonathancairns   RT @ISMBECCB: Awesome tweet archive! Thank you @genetics_blog and all #ismbeccb tweeps!!! https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt
+359719491787173888  Jul 23 12:59  @AidanBudd        A pleasure :) first "big" tweeting event for me, and made it lots more fun RT @marc_rr: Thanks to all who tweeted #ISMBECCB!
+359720561305333761  Jul 23 13:03  @sciencestream    RT @AidanBudd: +1 chatting with them is a big part of the fun MT @ISMBECCB: On behalf of #ismbeccb & @ISCB thanks 2 all exhibitors! http://t.co/3mAt6gS2Yr
+359720597447651330  Jul 23 13:04  @sciencestream    RT @AidanBudd: A pleasure :) first "big" tweeting event for me, and made it lots more fun RT @marc_rr: Thanks to all who tweeted #ISMBECCB!
+359723709596057602  Jul 23 13:16  @suganthibala     RT @ISMBECCB: Awesome tweet archive! Thank you @genetics_blog and all #ismbeccb tweeps!!! https://github.com/stephenturner/twitterchive/blob/master/ismbeccb.txt
+359724426532634624  Jul 23 13:19  @anitawaard       Just uplioaded my #ISMBECCB Bioontologies keynote: Why Life is Difficult, And What We Can Do About It. http://slidesha.re/1bJLELv
+359724957980299264  Jul 23 13:21  @amrojasmendoza   RT @log2ex: Very inspiring talk by Eisenberg , true science . #ISMBECCB
+359724982319845376  Jul 23 13:21  @F1000Tips        @iysik_com Many journals do not view @F1000Posters deposition as prior publication. See the full list at http://f1000.com/posters/journalresponses #ISMBECCB
+359725301531557890  Jul 23 13:22  @anitawaard       Well, #ISMBECCB was certainly fun... Thanks @ProfLHunter, @JudyBlake, @MichaelSchroeder AMO for good times! O and a good program, of course.
+359725713462538240  Jul 23 13:24  @sciencestream    RT @anitawaard: Just uplioaded my #ISMBECCB Bioontologies keynote: Why Life is Difficult, And What We Can Do About It. http://t.co/R5MOtBUnFi
+359725743061729280  Jul 23 13:24  @sciencestream    RT @anitawaard: Well, #ISMBECCB was certainly fun... Thanks @ProfLHunter, @JudyBlake, @MichaelSchroeder AMO for good times! O and a good program, of course.
+359726649706680320  Jul 23 13:28  @KamounLab        RT @mcaccamo: Sergey Lamzin  (my student "yes I have to say this :)" ) was awarded the F100 poster prize at #ISMBECCB - Well done Sergey! @GenomeAnalysis
+359728120787501056  Jul 23 13:34  @Genome10K        RT @GigaScience: CG on importance of sharing systems: 80% of workflows are made from adapting other peoples workflows #ISMBECCB #KN5
+359731127113621506  Jul 23 13:45  @renelaennec      RT @Alexbateman1: Here is the announcement for the 2013 ISCB #Wikipedia competition http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computational_Biology/ISCB_competition_announcement_2013 #ISMBECCB
+359738390071099392  Jul 23 14:14  @vanessavph       RT @emblebi: Looking forward to Janet Thornton and Niklas Blomberg's Introduction to Elixir. 2.10pm #SS06 #ISMBECCB
+359739488458653697  Jul 23 14:19  @abeldavidgp      RT @pedrobeltrao: The gender unbalance stands out in the list of senior scientists award #ISMBECCB
+359747296226844672  Jul 23 14:50  @wejlab           @allysonlbyrd @ISMBECCB congrats on your poster! This is wonderful news and well earned! Nice work! #ISMBECCB
+359748139705573376  Jul 23 14:53  @sciencestream    RT @wejlab: @allysonlbyrd @ISMBECCB congrats on your poster! This is wonderful news and well earned! Nice work! #ISMBECCB
+359749334604062720  Jul 23 14:58  @wejlab           @allysonlbyrd @BUbioinfo @BUMedicine @ISMBECCB congrats to Allyson for her best poster award on her Clinical Pathoscope work at #ISMBECCB!
+359749738096099328  Jul 23 14:59  @joyclee          RT @bffo: GA: "Data is not understanding, unfortunately" & "Tools is not analysis, unfortunately" #ISMBECCB

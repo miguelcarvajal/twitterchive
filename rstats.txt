@@ -12744,3 +12744,47 @@
 359635800696160256  Jul 23 07:27  @XVtores          RT @onertipaday: #rstats and #ggplots2 favorite visualization tools at #ISCB13! http://t.co/5claNqer9K
 359653335814520832  Jul 23 08:36  @tormodboe        RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
 359654020119408640  Jul 23 08:39  @JacquelynGill    RT @hadleywickham: are you a new #rstats user? if so, how did you figure out how to download R?
+359659406226497537  Jul 23 09:00  @Rbloggers        Review: Kölner R Meeting 19 July 2013:  (This article was first published on   mages' blog, and kind... http://bit.ly/13Xtz3w #rstats
+359668043594469377  Jul 23 09:35  @GEOpdx           RT @ramnath_vaidya: Visualizing Bike Sharing Systems with #rCharts, #shiny and @LeafletJS  #rstats http://ramnathv.github.io/bikeshare @sharon000 http://t.co/sOfRN7G8wQ
+359669080040538112  Jul 23 09:39  @saraenichols     #grccadd 'confusion matrices are like sodoku for cheminformatics' #kappaStatistic #PaulCzodrowski #merckSerono #weka #rstats
+359674500633206784  Jul 23 10:00  @SardelichM       RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+359674984697835522  Jul 23 10:02  @noticiasSobreR   Ya están en marcha las V Jornadas de R: Una noticia por todos conocida. Ya están en marcha las V Jorna... http://tinyurl.com/mgkz2q8 #rstats
+359676341618085890  Jul 23 10:08  @RevoAndrie       A recording of my survival analysis webinar is now available at http://www.revolutionanalytics.com/news-events/free-webinars/2013/survival-analysis-marketing-attribution/ #rstats #marketing via @RevolutionR
+359679824941432832  Jul 23 10:22  @mjcavaretta      Interesting #analytics MT @RevoAndrie: survival analysis webinar available at http://www.revolutionanalytics.com/news-events/free-webinars/2013/survival-analysis-marketing-attribution/ #rstats #marketing via @RevolutionR
+359680203850645505  Jul 23 10:23  @genetics_blog    @SahaSurya @bioinfosm @nextgenseek i've been happy with #Rstats VennDiagram pkg http://cran.r-project.org/web/packages/VennDiagram/index.html
+359680308930547712  Jul 23 10:24  @SahaSurya        RT @genetics_blog: @SahaSurya @bioinfosm @nextgenseek i've been happy with #Rstats VennDiagram pkg http://cran.r-project.org/web/packages/VennDiagram/index.html
+359680489369513986  Jul 23 10:24  @MangoTheCat      New Introduction to R training course announced for Manchester in October training@mango-solutions.com #Rstats
+359682098933669888  Jul 23 10:31  @RevoAndrie       RT @MangoTheCat: New Introduction to R training course announced for Manchester in October training@mango-solutions.com #Rstats
+359683765141897216  Jul 23 10:37  @adolfoalvarez    #rstats I definitely need to learn #RCharts ! this Shiny app is amazing http://glimmer.rstudio.com/pssguy/CRANcountdown/
+359687856916148224  Jul 23 10:54  @josefslerka      Visual debugging with RStudio #rstats http://bit.ly/1dS3PLR
+359688795030953984  Jul 23 10:57  @InforA           RT @RevoAndrie: A recording of my survival analysis webinar is now available at http://www.revolutionanalytics.com/news-events/free-webinars/2013/survival-analysis-marketing-attribution/ #rstats #marketing via @RevolutionR
+359691835460952066  Jul 23 11:09  @nextgenseek      RT @genetics_blog: @SahaSurya @bioinfosm @nextgenseek i've been happy with #Rstats VennDiagram pkg http://cran.r-project.org/web/packages/VennDiagram/index.html
+359693900224544771  Jul 23 11:18  @statslabdublin   RT @rOpenSci: Tutorial for rWBclimate (#rstats wrapper for World Bank climate data) now up on our site http://bit.ly/15cJEGv
+359695113011736578  Jul 23 11:22  @hadleywickham    parse main CRAN download statistics: https://gist.github.com/hadley/6063238 #rstats (html log files at http://www.r-project.org/statistics.html). Easy thanks to XML package!
+359695796163186690  Jul 23 11:25  @recology_        RT @hadleywickham: parse main CRAN download statistics: https://gist.github.com/hadley/6063238 #rstats (html log files at http://www.r-project.org/statistics.html). Easy thanks to XML package!
+359698208005427200  Jul 23 11:35  @timelyportfolio  RT @adolfoalvarez: #rstats I definitely need to learn #RCharts ! this Shiny app is amazing http://glimmer.rstudio.com/pssguy/CRANcountdown/
+359698345071083523  Jul 23 11:35  @drdrewsteen      I was interviewed for an ethnographic study of data analysts. My views on #Rstats might be published next to child-rearing among the Xhosa.
+359699266169618435  Jul 23 11:39  @jay_ulfelder     Can anyone point me toward a good online resource for learning how to use Monte Carlo simulations for forecasting, pref in R? #rstats
+359700924677099520  Jul 23 11:45  @SardelichM       how to get acesss to twitter firehose and analysis in #Rstats: http://feedproxy.google.com/~r/RBloggers/~3/MS6J47FJAKM/ via @feedly
+359701131384987649  Jul 23 11:46  @jmgomez          RT @kdnuggets: Very useful: R documentation - all R packages and manuals, searchable #rstats #DataScience http://bit.ly/15xgNf8
+359703277429985281  Jul 23 11:55  @OmoNsasi         RT @jmgomez: RT @kdnuggets: Very useful: R documentation - all R packages and manuals, searchable #rstats #DataScience http://t.co/0hhJbRi8fD
+359703331230322690  Jul 23 11:55  @kognitio         Thursday:  Web Briefing on the Data Science Lab http://marketing.kognitio.com/acton/fs/blocks/showLandingPage/a/5087/p/p-0012/t/page/fm/0  Great demo of MPP #InMemory code execution with #Rstats for #DataSci
+359703365388738560  Jul 23 11:55  @Jowanza          ROC curves with ggplot 2 >>>> ROC curves with standard #rstats plotting
+359703904545550337  Jul 23 11:57  @antagomir        RT @hadleywickham: parse main CRAN download statistics: https://gist.github.com/hadley/6063238 #rstats (html log files at http://www.r-project.org/statistics.html). Easy thanks to XML package!
+359706980811681792  Jul 23 12:10  @RLangTip         List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
+359707207333462018  Jul 23 12:10  @kuun_peal        RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
+359708543684837377  Jul 23 12:16  @MoritzBuchi      RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
+359709150827130881  Jul 23 12:18  @shoha99          RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
+359710663960051712  Jul 23 12:24  @petrhavlik       RT @josefslerka: Visual debugging with RStudio #rstats http://bit.ly/1dS3PLR
+359711039782268928  Jul 23 12:26  @sm_mohr          RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
+359712319107903488  Jul 23 12:31  @PPUAMX           RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
+359714562934714372  Jul 23 12:40  @swgoof           RT @revodavid: Very cool Shiny #rstats web app by @ramnath_vaidya shows real-time bike-share availability in 100 cities: http://t.co/lACUuaOFRU
+359718717254406144  Jul 23 12:56  @onertipaday      #rstats creator Robert Gentleman and me at #ISCB13 http://t.co/pTanZk6R5p
+359721214236827651  Jul 23 13:06  @aDataHead        nice #rstats viz: Bike sharing in 100 cities http://feedly.com/k/18watqp
+359732631933427712  Jul 23 13:51  @revodavid        Using survival models for marketing attribution - blog post and slides by @RevoAndrie  http://bit.ly/17Bk2DB #rstats
+359734486696591362  Jul 23 13:59  @smacneil_        RT @revodavid: Big crowd for @RevoAndrie's talk on big data survival analysis for marketing with #rstats at #LondonR http://t.co/vkJ0t6Nqck
+359735301968637953  Jul 23 14:02  @ManningMEAP      MEAP Update: Ch 4 "Basic data management" is new to R in Action, Second Edition http://www.manning.com/kabacoff2/ @manningbooks @kabacoff #Rstats
+359741627331395586  Jul 23 14:27  @IronistM         FYI : R is the #26 most popular language on @GitHub | http://bit.ly/162y55J #rstats
+359743883732717570  Jul 23 14:36  @Rbloggers        How to run R in the cloud (for teaching):  (This article was first published on    » R, and kindly c... http://bit.ly/13YZ8Kf #rstats
+359745617217597441  Jul 23 14:43  @APHumanGeog      RT @ramnath_vaidya: Visualizing Bike Sharing Systems with #rCharts, #shiny and @LeafletJS  #rstats http://ramnathv.github.io/bikeshare @sharon000 http://t.co/sOfRN7G8wQ
+359746472956272640  Jul 23 14:46  @carrieseltzer    Very useful advice as I tweak graphics for #ESA2013 in #Rstats http://blog.revolutionanalytics.com/2009/01/10-tips-for-making-your-r-graphics-look-their-best.html
