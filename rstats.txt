@@ -12864,3 +12864,26 @@
 360008266979352577  Jul 24 08:07  @sjcockell        RT @genetics_blog: Archival, Analysis, and Visualization of #ISMBECCB 2013 Tweets http://gettinggeneticsdone.blogspot.com/2013/07/archival-analysis-and-visualization-of.html #Rstats #bioinformatics
 360012124673683457  Jul 24 08:22  @ryanpraski       High Performing #Predictive Analytics with R and Hadoop #rstats #measure http://bit.ly/18vv8er
 360014502122618881  Jul 24 08:32  @jmgomez          RT @noticiassobrer: Ya están en marcha las V Jornadas de R http://tinyurl.com/mgkz2q8 #rstats
+360026151915241474  Jul 24 09:18  @mjcavaretta      Neat #dataviz. RT @aDataHead: nice #rstats viz: Bike sharing in 100 cities http://feedly.com/k/18watqp
+360026665365143555  Jul 24 09:20  @randyzwitch      RT @drago_carlo: A Beginner’s Look at Julia http://www.r-bloggers.com/a-beginners-look-at-julia/ via @rbloggers #Julia #Rstats #Python
+360028846852022272  Jul 24 09:29  @ursulasola       RT @rOpenSci: Tutorial for rWBclimate (#rstats wrapper for World Bank climate data) now up on our site http://bit.ly/15cJEGv
+360034872309460994  Jul 24 09:52  @fellgernon       Excellent post explaining how to debug in R using #RStudio (preview version at the moment) #rstats http://bit.ly/168GL8A
+360035473223192577  Jul 24 09:55  @j313             RT @mjcavaretta: Neat #dataviz. RT @aDataHead: nice #rstats viz: Bike sharing in 100 cities http://feedly.com/k/18watqp
+360060013072490496  Jul 24 11:32  @fellgernon       RT @xieyihui: many people use require() when they really should have used library() #BioC2013 #rstats
+360067158455226368  Jul 24 12:01  @frank_foerster   RT @genetics_blog: Archival, Analysis, and Visualization of #ISMBECCB 2013 Tweets http://gettinggeneticsdone.blogspot.com/2013/07/archival-analysis-and-visualization-of.html #Rstats #bioinformatics
+360067371517485057  Jul 24 12:02  @AlonKeinan       RT @genetics_blog: Archival, Analysis, and Visualization of #ISMBECCB 2013 Tweets http://gettinggeneticsdone.blogspot.com/2013/07/archival-analysis-and-visualization-of.html #Rstats #bioinformatics
+360069622118100992  Jul 24 12:11  @RLangTip         Just because you *can* redefine built-in functions in R doesn't mean it's a good idea. Avoid function names like c, t, sum etc. #rstats
+360070470646771713  Jul 24 12:14  @PlethodoNick     Is it weird that when I see a $ followed by numbers my first thought is "you can't start a column with a number" #rstats
+360070594160640002  Jul 24 12:14  @InsectEcology    Nice postdoc: post-doctoral fellowship - process-based species distribution modeling http://pastebin.com/mYX61Uwh #rstats #GIS
+360072022170157058  Jul 24 12:20  @kimberlyarnold   R documentation - all R packages and manuals, searchable #rstats #DataScience #learninganalytics http://bit.ly/15xgNf8 thx @kdnuggets
+360074734848847874  Jul 24 12:31  @_bmartinez_      Mi primera introducción a los R mapas #rstats http://goo.gl/2XxgAW
+360083350528081920  Jul 24 13:05  @orlandomezquita  RT @Rbloggers: Plotting Likert-Scales (net stacked distributions) with ggplot #rstats:  (This article was first pub... http://t.co/SdCqXwnBAX #rstats
+360084200487010304  Jul 24 13:08  @Rbloggers        Making infographics using R and Inkscape:  (This article was first published on   Category: R | Vik'... http://bit.ly/1bhzzxT #rstats
+360090979241431041  Jul 24 13:35  @kdnuggets        July 31 webinar: Collaborative Filtering, a way to turn your visitors into customers, learn how to using R #rstats http://bit.ly/18zTymT
+360093189023072256  Jul 24 13:44  @mjcavaretta      #analytics RT @kdnuggets: July 31 webinar: Collaborative Filtering, turn visitors into customers using R #rstats http://bit.ly/18zTymT
+360095371386556417  Jul 24 13:53  @millerdl         although naming the folder "headache" was accurate, it doesn't help me know how this analysis worked #rstats
+360096445686231040  Jul 24 13:57  @InforA           RT @kdnuggets: July 31 webinar: Collaborative Filtering, a way to turn your visitors into customers, learn how to using R #rstats http://t.co/dzM1E7qOCC
+360105635913797632  Jul 24 14:34  @wligtenberg      RT @OpenAnalytics: Architect 0.9.3 brings multi-user installs on all platforms and comes with lots of #rstats package building goodies! http://t.co/ZI8ZXVK54a
+360106700625297408  Jul 24 14:38  @nyhackr          Big crowd for tonight's #rstats meetup featuring David Madigan. Come for a chance to win free pass to @strataconf http://bit.ly/15L9sdV
+360107435454767104  Jul 24 14:41  @strataconf       RT @nyhackr: Big crowd for tonight's #rstats meetup featuring David Madigan & a chance to win free @strataconf pass http://bit.ly/15L9sdV
+360111169232584704  Jul 24 14:56  @jblseries_789    RT @kdnuggets: July 31 webinar: Collaborative Filtering, a way to turn your visitors into customers, learn how to using R #rstats http://t.co/dzM1E7qOCC
