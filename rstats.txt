@@ -12825,3 +12825,24 @@
 359835888525647874  Jul 23 20:42  @ChrisGandrud     Nice, debugging integration in the the #rstudio dev build: http://bit.ly/18ByP5R #rstats
 359837388777861120  Jul 23 20:48  @JeromyAnglim     RT @ChrisGandrud: Nice, debugging integration in the the #rstudio dev build: http://bit.ly/18ByP5R #rstats
 359838907342393345  Jul 23 20:54  @howardjp         Question about whitespace around ggplot-generated plots on Stackoverflow. #rstats #ggplot #sweave http://stackoverflow.com/questions/17823458/whitespace-around-ggplot-sweave-generated-plots
+359840391647862784  Jul 23 21:00  @rOpenSci         Have a question about an rOpenSci #rstats package? Use the ropensci tag in StackOverflow http://bit.ly/QdXlgV
+359841980987097088  Jul 23 21:06  @Rbloggers        Using survival models for marketing attribution:  (This article was first published on   Revolutions... http://bit.ly/140AMjm #rstats
+359842217977847810  Jul 23 21:07  @p_barbera        RT @treycausey: A new #rstats package for compact axis plotting by @carlislerainey. http://bit.ly/15GQq6o
+359842221010333698  Jul 23 21:07  @p5k12            RT @stubbornmule: My first R package publish on CRAN! Work with Google n-grams using ngramr #rstats http://cran.r-project.org/web/packages/ngramr/index.html
+359842753351385088  Jul 23 21:09  @jorgefabrega     RT @treycausey: A new #rstats package for compact axis plotting by @carlislerainey. http://bit.ly/15GQq6o
+359848285294436352  Jul 23 21:31  @mcorey           RT @rOpenSci: Have a question about an rOpenSci #rstats package? Use the ropensci tag in StackOverflow http://bit.ly/QdXlgV
+359852255513550852  Jul 23 21:47  @TrestleJeff      Great review of the new debugging features in @rstudioapp http://www.milanor.net/blog/?p=817 #rstats
+359853133486243840  Jul 23 21:50  @kuun_peal        tapply() is too cool! Been wondering how to use it for quite a while. Here's a good overview for new #rstats users: http://www.r-bloggers.com/r-function-of-the-day-tapply/
+359862362527903745  Jul 23 22:27  @stubbornmule     "Words and culture" -- good to see my ngramr package in use in the wild. https://geostatskpu.wordpress.com/2013/07/24/words-and-culture/ #Rstats #linguistics
+359863367369895937  Jul 23 22:31  @trohil           RT @idigdata: Nice RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
+359865686585524224  Jul 23 22:40  @cpsievert        RT @TrestleJeff: Great review of the new debugging features in @rstudioapp http://www.milanor.net/blog/?p=817 #rstats
+359874585266626562  Jul 23 23:16  @recology_        RT @TrestleJeff: Great review of the new debugging features in @rstudioapp http://www.milanor.net/blog/?p=817 #rstats
+359885598854610944  Jul 23 23:59  @mrgunn           After getting used to #rstats, the concept of iterating over an array with a for loop seems weird and inefficient.
+359892765938679808  Jul 24 00:28  @JeremyNeedle     RT @stubbornmule: My first R package publish on CRAN! Work with Google n-grams using ngramr #rstats http://cran.r-project.org/web/packages/ngramr/index.html
+359902391233019905  Jul 24 01:06  @rivenhomewood    RT @mrgunn: After getting used to #rstats, the concept of iterating over an array with a for loop seems weird and inefficient.
+359905648206553090  Jul 24 01:19  @ChinarServices   RT @mrgunn: After getting used to #rstats, the concept of iterating over an array with a for loop seems weird and inefficient.
+359909947485585408  Jul 24 01:36  @mrgunn           @neuromusic arbitrary elementwise functions are what #rstats "apply" is about! apply(data, function(x) [do something to every element of x])
+359918666843820032  Jul 24 02:11  @RPsychologist    RT @stubbornmule: My first R package publish on CRAN! Work with Google n-grams using ngramr #rstats http://cran.r-project.org/web/packages/ngramr/index.html
+359919774488207360  Jul 24 02:15  @jmgomez          Analyzing Your Data on the AWS Cloud (with R) http://ow.ly/ncVf8 #rstats #cloud #datamining
+359921150593212416  Jul 24 02:21  @spssjapan        RユーザーのためのIBM SPSS Statistics Developerは、フリーの統計解析ツール R をSPSS上で稼動可能です 分析機能以外のデータ加工やグラフ等はSPSS、統計解析はRをご利用ください http://bit.ly/yOxPro #rstats
+359929753697914881  Jul 24 02:55  @MarchiMax        bike + #rstats at http://glimmer.rstudio.com/ramnathv/BikeShare/
