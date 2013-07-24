@@ -397,8 +397,8 @@
 312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
-312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -12846,3 +12846,14 @@
 359919774488207360  Jul 24 02:15  @jmgomez          Analyzing Your Data on the AWS Cloud (with R) http://ow.ly/ncVf8 #rstats #cloud #datamining
 359921150593212416  Jul 24 02:21  @spssjapan        RユーザーのためのIBM SPSS Statistics Developerは、フリーの統計解析ツール R をSPSS上で稼動可能です 分析機能以外のデータ加工やグラフ等はSPSS、統計解析はRをご利用ください http://bit.ly/yOxPro #rstats
 359929753697914881  Jul 24 02:55  @MarchiMax        bike + #rstats at http://glimmer.rstudio.com/ramnathv/BikeShare/
+359934234376417280  Jul 24 03:13  @OpenAnalytics    Architect 0.9.3 brings multi-user installs on all platforms and comes with lots of #rstats package building goodies! http://bit.ly/15f4Uvi
+359937723055882240  Jul 24 03:26  @ProfAndyField    RT @RevoAndrie: A recording of my survival analysis webinar is now available at http://www.revolutionanalytics.com/news-events/free-webinars/2013/survival-analysis-marketing-attribution/ #rstats #marketing via @RevolutionR
+359948721150099459  Jul 24 04:10  @vitojph          RT @jmgomez: Analyzing Your Data on the AWS Cloud (with R) http://ow.ly/ncVf8 #rstats #cloud #datamining
+359949939431845888  Jul 24 04:15  @drago_carlo      A Beginner’s Look at Julia http://www.r-bloggers.com/a-beginners-look-at-julia/ via @rbloggers #Julia #Rstats #Python
+359951222180024323  Jul 24 04:20  @_Kognitio        Thursday:  Web Briefing on the Data Science Lab http://marketing.kognitio.com/acton/fs/blocks/showLandingPage/a/5087/p/p-0012/t/page/fm/0  Great demo of MPP #InMemory code execution with #Rstats for #DataSci
+359959340351881217  Jul 24 04:52  @UMR_BOREA        2 postdoc positions in food web modeling available. skills: #rstats #matlab #Ecopath #R http://www.mnhn.fr/mnhn/UMR7208/ deadlines 9th & 30th sept.
+359959729457467392  Jul 24 04:54  @RESAQUABOREA     RT @UMR_BOREA: 2 postdoc in food web modeling. skills: #rstats #matlab #Ecopath #R visit: http://www.mnhn.fr/mnhn/UMR7208/ deadlines 9th & 30th sept.
+359963680881905665  Jul 24 05:10  @frod_san         RT @TrestleJeff: Great review of the new debugging features in @rstudioapp http://www.milanor.net/blog/?p=817 #rstats
+359968960986349568  Jul 24 05:31  @Rbloggers        Power Analysis by Simulation: R, RCT, Malaria Example:  (This article was first published on   Econo... http://bit.ly/14GpeIi #rstats
+359987919546613760  Jul 24 06:46  @ralfer           RT @RLangTip: read.table("clipboard") can be a timesaver for quick copy-and-paste from spreadsheets into R #rstats
+359997735329468416  Jul 24 07:25  @carlislerainey   In case you missed it, I posted an alpha version of compactr, a package that I use to make graphics in R. http://crain.co/compactr #rstats
