@@ -28,7 +28,7 @@ twitterchivePlots <- function (filename=NULL) {
     message("Reading in data.")
     trim.whitespace <- function(x) gsub("^\\s+|\\s+$", "", x) # Function to trim leading and trailing whitespace from character vectors.
     d <- read.fwf(filename, widths=c(18, 14, 18, 1000), stringsAsFactors=FALSE, comment.char="")
-    d <- as.data.frame(sapply(d, trim.whitespace))
+    d <- as.data.frame(sapply(d, trim.whitespace), stringsAsFactors=FALSE)
     names(d) <- c("id", "datetime", "user", "text")
     d$user <- sub("@", "", d$user)
     d$datetime <- as.POSIXlt(d$datetime, format="%b %d %H:%M")
@@ -110,5 +110,6 @@ twitterchivePlots <- function (filename=NULL) {
     message(paste(searchTerm, ": All done!\n"))
 }
 
-filelist <- list("../bioinformatics.txt", "../metagenomics.txt", "../rstats.txt", "../rna-seq.txt", "../cville.txt", "../SFAF2013.txt")
+# filelist <- list("../bioinformatics.txt", "../metagenomics.txt", "../rstats.txt", "../rna-seq.txt", "../cville.txt", "../SFAF2013.txt")
+filelist <- list("../ismbeccb.txt")
 lapply(filelist, twitterchivePlots)
