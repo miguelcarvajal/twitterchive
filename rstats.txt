@@ -12967,3 +12967,56 @@
 360379754144206849  Jul 25 08:43  @romeroescobar    http://www.youtube.com/watch?v=TR2bHSJ_eck&feature=youtube_gdata_player what is R? #Rstats
 360380458162323456  Jul 25 08:46  @sharon000        . @yichuanw: Your link to How to melt & cast back together paired variables #rstats needs your login :) Better link: http://bit.ly/17FxshS
 360381454779289600  Jul 25 08:50  @ucfagls          RT @clasticdetritus: blog post: Using R to Import and Perform Simple Calculation on Multiple Files http://clasticdetritus.com/2013/07/25/using-r-to-import-and-perform-simple-calculation-on-multiple-files/ #rstats w/ shout-out to @ucfagls
+360389827977428993  Jul 25 09:23  @MangoTheCat      New Intro to R course announced in Manchester for Oct; details at http://www.mango-solutions.com  #Rstats
+360390376806301696  Jul 25 09:25  @MangoTheCat      Arrival of new website, like Prince George's, is going to be delayed by a week http://www.mango-solutions.com  #Rstats
+360400804974309379  Jul 25 10:07  @hongqin          R tutorial workshop for biology faculty, #rstats #nimbios #spelman http://hongqinlab.blogspot.com/2013/07/r-and-biology-education.html
+360402161349312513  Jul 25 10:12  @RPsychologist    RT @revodavid: We created a new 90-second video to share the history, community and power of #rstats. What is R? http://bit.ly/what-is-r
+360406085267505152  Jul 25 10:28  @hadleywickham    any @github + #rstats users figured out how to escape [[ in the wiki? https://github.com/hadley/devtools/wiki/Escaping (I've also filed a support request)
+360407115988340736  Jul 25 10:32  @JeffHemsley      @jfstn Seen this short vid on #rstats? Intros the history, community and applications of R. http://www.youtube.com/watch?v=TR2bHSJ_eck
+360407381944975360  Jul 25 10:33  @JeffHemsley      What is #rstats? Short vid intros the history, community and applications of R. http://www.youtube.com/watch?v=TR2bHSJ_eck
+360408752463159296  Jul 25 10:38  @hspter           Does anyone know of a good beginner's guide to R for people who already know how to code? #rstats
+360414668600246274  Jul 25 11:02  @datennutzen      great video about #rstats http://bit.ly/what-is-r thanks @RevolutionR
+360415221338210304  Jul 25 11:04  @SamuelRufat      Pour une recherche reproductible, publiez vos codes et données http://www.lemonde.fr/sciences/article/2013/07/15/pour-une-recherche-reproductible-publiez-vos-codes-et-donnees_3447825_1650684.html via @lemondefr #Rstats cc @RevueCybergeo
+360415931089952768  Jul 25 11:07  @JulianHi         What is R? A new video on the history, community and applications of #R #rstats #analytics
+360416055417520128  Jul 25 11:07  @yodacomplex      2 - both integrate well with #rstats using packages @planktonmath
+360416122757070849  Jul 25 11:07  @joshua_ulrich    @groditi Thanks again. Doing research for the #rstats xtime package.
+360418392848601088  Jul 25 11:16  @hspter           Here are the results for my "R resources for beginners?" request from earlier -- lots of good links! http://bitly.com/bundles/hilaryp08/q #rstats
+360422381614931968  Jul 25 11:32  @ucfagls          A new #rstats user in our midst http://t.co/dJii6VGNTm
+360426003882971136  Jul 25 11:47  @revodavid        Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360426311459684353  Jul 25 11:48  @ajreeves         RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360426371840884737  Jul 25 11:48  @estebanmoro      RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360427201658765314  Jul 25 11:51  @PageViral        RT @JulianHi: What is R? A new video on the history, community and applications of #R #rstats #analytics
+360428167992848384  Jul 25 11:55  @emilopezcano     RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360429417455042561  Jul 25 12:00  @jabawack         Tell your friends and coworkers about #R with this 90-second video: http://buff.ly/13HDiza  #rstats" via @revodavid #datascience
+360430852020244482  Jul 25 12:06  @dickoah          RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360431804366340096  Jul 25 12:10  @timelyportfolio  @jkiernander nicely shown;  maybe I will try to incorporate in a #rstats example
+360432077595869187  Jul 25 12:11  @RLangTip         To select a column from a matrix and keep it as a column matrix, not a vector: X[,1,drop=FALSE] http://bit.ly/n8LEBm #rstats
+360432445809631235  Jul 25 12:12  @robertmaidstone  RT @RLangTip: To select a column from a matrix and keep it as a column matrix, not a vector: X[,1,drop=FALSE] http://bit.ly/n8LEBm #rstats
+360433402261946370  Jul 25 12:16  @naupakaz         svapls: an R package to correct for hidden factors of variability in gene expression studies http://tinyurl.com/ke74kuh #rstats
+360433722530603008  Jul 25 12:17  @xiddw            RT @RLangTip: To select a column from a matrix and keep it as a column matrix, not a vector: X[,1,drop=FALSE] http://bit.ly/n8LEBm #rstats
+360435452886532096  Jul 25 12:24  @mcorey           RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360436922461589505  Jul 25 12:30  @HelenPowell01    @RLangTip Can't tell you how many times I have wanted to do this and never managed/took time to figure out how! Thanks #rstats
+360437117375086593  Jul 25 12:31  @RESAQUABOREA     Another usefull tip @RLangTip: select a column and keep it as a column matrix, not a vector: X[,1,drop=FALSE] http://bit.ly/n8LEBm #Rstats
+360438071147245568  Jul 25 12:35  @wlamagna         RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360439601577459715  Jul 25 12:41  @small_talks      RT @SylvainCF: RT @quandl: Writing code efficiently for R: http://qndl.co/19dKSm9 #rstats I just love the graph: http://t.co/KTOfyizuV0
+360445542427406337  Jul 25 13:04  @adolfoalvarez    RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360445631887704066  Jul 25 13:05  @orlandomezquita  RT @Rbloggers: Read Excel files from R: http://bit.ly/1bL1SEn #rstats
+360446285918109696  Jul 25 13:07  @chlalanne        RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+360446292402515968  Jul 25 13:07  @DataDude013      RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360447705929093120  Jul 25 13:13  @Jowanza          This is really awesome: http://bit.ly/13eou6R #Rstats #DataViz
+360447952373825537  Jul 25 13:14  @OMGannaks        RT @Jowanza: This is really awesome: http://bit.ly/13eou6R #Rstats #DataViz
+360449283931111425  Jul 25 13:19  @v1pl             RT @RLangTip: To select a column from a matrix and keep it as a column matrix, not a vector: X[,1,drop=FALSE] http://bit.ly/n8LEBm #rstats
+360449877580328963  Jul 25 13:22  @RevoAndrie       RT @ucfagls: A new #rstats user in our midst http://t.co/dJii6VGNTm
+360450561495154688  Jul 25 13:24  @msgbi            RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+360453648121217024  Jul 25 13:37  @Rbloggers        Another great year together. Have a good vacation!:  (This article was first published on   Milano R... http://bit.ly/14aoxRa #rstats
+360453650088333314  Jul 25 13:37  @Rbloggers        Deferred evaluation in Renjin, Riposte, and pqR:  (This article was first published on   Radford Nea... http://bit.ly/14MDTli #rstats
+360457228295213056  Jul 25 13:51  @gappy3000        A: Usually, on the LGA -> ORD. Q: @statisticsblog: How to run R in the cloud? http://i.cx/149uZI4 #rstats
+360458228578000896  Jul 25 13:55  @thelabandfield   It would be wonderful if I could run two R scripts simultaneously.  Would cut my run-time in (almost) half. #rstats #postdoclife
+360458586377306112  Jul 25 13:56  @hadleywickham    explore usage of #rstats on github: https://github.com/hadley/r-on-github. sample fact: there are 1644 R packages on github, of which 410 are also on CRAN
+360458797493391360  Jul 25 13:57  @virgiliosanz     RT @jc_gonzalez: RT @jmgomez: Analyzing Your Data on the AWS Cloud (with R) http://goo.gl/K0qAEz #rstats #cloud #datamining
+360458981002584064  Jul 25 13:58  @PeterFlomStat    Why do people not submit packages to CRAN? #Rstats @hadleywickham
+360459323035492352  Jul 25 13:59  @recology_        RT @hadleywickham: explore usage of #rstats on github: https://github.com/hadley/r-on-github. sample fact: there are 1644 R packages on github, of which 410 are also on CRAN
+360459877937709056  Jul 25 14:01  @hadleywickham    @PeterFlomStat (a) package not complete (b) b/c cran submission process is painful (c) little advantage of CRAN over github for dist #rstats
+360464240613670912  Jul 25 14:19  @revodavid        Notes on #useR2013 lightning talk by @RevoJoe about @RevolutionR's contributions to the #rstats community: http://bit.ly/17G8e2N
+360468946194923520  Jul 25 14:37  @sean_anderson    RT @hadleywickham: explore usage of #rstats on github: https://github.com/hadley/r-on-github. sample fact: there are 1644 R packages on github, of which 410 are also on CRAN
+360472020963696640  Jul 25 14:50  @rguha            intrsting performance optimization framework applied to R. impressive improvements #rstats #compiler https://github.com/TiarkRompf/Relite
