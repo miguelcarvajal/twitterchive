@@ -12685,6 +12685,7 @@
 359417691234635776  Jul 22 17:00  @quandl           Browse all R packages & R manuals from CRAN and Bioconductor: R documentation via @kdnuggets #RStats http://qndl.co/160Uj5V
 359418206064508928  Jul 22 17:02  @Hack_in_a_Box    RT @tomassino: #rstats #hackathon on Friday in our Munich office. No #rstats knowledge? Doesn't matter! Just come with an idea http://t.co/DC06iJm91R
 359421626364227584  Jul 22 17:16  @caidong          RT @quandl: Browse all R packages & R manuals from CRAN and Bioconductor: R documentation via @kdnuggets #RStats http://qndl.co/160Uj5V
+359426704722235392  Jul 22 17:36  @arRMorgan        Coolest thing I learned from @hadleywickham is that visualisation is a great for exploratory analysis. Whole new way of thinking. #rstats
 359426704722235392  Jul 22 17:36  @kuun_peal        Coolest thing I learned from @hadleywickham is that visualisation is a great for exploratory analysis. Whole new way of thinking. #rstats
 359430100690804737  Jul 22 17:49  @SamuelLeach      Back catalogue of #LondonR #rstats talks | http://www.londonr.org/Presentations.html | Check out @hadleywickham's verb decomposition of data analysis.
 359431900529569792  Jul 22 17:56  @pssGuy           Updated 2  #rstats shiny apps to take account of new rChart datatable and Highchart exporting features. More info http://wp.me/p17axt-n6
@@ -12772,6 +12773,7 @@
 359703365388738560  Jul 23 11:55  @Jowanza          ROC curves with ggplot 2 >>>> ROC curves with standard #rstats plotting
 359703904545550337  Jul 23 11:57  @antagomir        RT @hadleywickham: parse main CRAN download statistics: https://gist.github.com/hadley/6063238 #rstats (html log files at http://www.r-project.org/statistics.html). Easy thanks to XML package!
 359706980811681792  Jul 23 12:10  @RLangTip         List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
+359707207333462018  Jul 23 12:10  @arRMorgan        RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
 359707207333462018  Jul 23 12:10  @kuun_peal        RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
 359708543684837377  Jul 23 12:16  @MoritzBuchi      RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
 359709150827130881  Jul 23 12:18  @shoha99          RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
@@ -12811,6 +12813,7 @@
 359787350458511360  Jul 23 17:29  @mattmoehr        Waldo Tobler: drawing better visualizations than you since 1989. #dataViz #Commodore64 #rstats http://t.co/vpsoMpiyCg
 359787973765640195  Jul 23 17:31  @RevoAndrie       RT @revodavid: Using survival models for marketing attribution - blog post and slides by @RevoAndrie  http://bit.ly/17Bk2DB #rstats
 359791707673468928  Jul 23 17:46  @RNieuwenhuis     RT @stubbornmule: My first R package publish on CRAN! Work with Google n-grams using ngramr #rstats http://cran.r-project.org/web/packages/ngramr/index.html
+359793367204380672  Jul 23 17:53  @arRMorgan        @hadleywickham Any info on other GNU/Linux distros or UNIXes? #Rstats
 359793367204380672  Jul 23 17:53  @kuun_peal        @hadleywickham Any info on other GNU/Linux distros or UNIXes? #Rstats
 359795581180321792  Jul 23 18:02  @hadleywickham    2,288 #rstats packages on github? https://github.com/search?q=title+path%3ADESCRIPTION&ref=searchresults&type=Code
 359796616665907200  Jul 23 18:06  @mljockers        RT @stubbornmule: My first R package publish on CRAN! Work with Google n-grams using ngramr #rstats http://cran.r-project.org/web/packages/ngramr/index.html
@@ -12832,6 +12835,7 @@
 359842753351385088  Jul 23 21:09  @jorgefabrega     RT @treycausey: A new #rstats package for compact axis plotting by @carlislerainey. http://bit.ly/15GQq6o
 359848285294436352  Jul 23 21:31  @mcorey           RT @rOpenSci: Have a question about an rOpenSci #rstats package? Use the ropensci tag in StackOverflow http://bit.ly/QdXlgV
 359852255513550852  Jul 23 21:47  @TrestleJeff      Great review of the new debugging features in @rstudioapp http://www.milanor.net/blog/?p=817 #rstats
+359853133486243840  Jul 23 21:50  @arRMorgan        tapply() is too cool! Been wondering how to use it for quite a while. Here's a good overview for new #rstats users: http://www.r-bloggers.com/r-function-of-the-day-tapply/
 359853133486243840  Jul 23 21:50  @kuun_peal        tapply() is too cool! Been wondering how to use it for quite a while. Here's a good overview for new #rstats users: http://www.r-bloggers.com/r-function-of-the-day-tapply/
 359862362527903745  Jul 23 22:27  @stubbornmule     "Words and culture" -- good to see my ngramr package in use in the wild. https://geostatskpu.wordpress.com/2013/07/24/words-and-culture/ #Rstats #linguistics
 359863367369895937  Jul 23 22:31  @trohil           RT @idigdata: Nice RT @RLangTip: List of R functions and packages for Natural Language Processing: http://bit.ly/odhwGd #rstats
@@ -12887,3 +12891,31 @@
 360106700625297408  Jul 24 14:38  @nyhackr          Big crowd for tonight's #rstats meetup featuring David Madigan. Come for a chance to win free pass to @strataconf http://bit.ly/15L9sdV
 360107435454767104  Jul 24 14:41  @strataconf       RT @nyhackr: Big crowd for tonight's #rstats meetup featuring David Madigan & a chance to win free @strataconf pass http://bit.ly/15L9sdV
 360111169232584704  Jul 24 14:56  @jblseries_789    RT @kdnuggets: July 31 webinar: Collaborative Filtering, a way to turn your visitors into customers, learn how to using R #rstats http://t.co/dzM1E7qOCC
+360113806384431104  Jul 24 15:06  @mjcavaretta      Like to see a #dataviz - maybe #Rstats? RT @OpenDataChicago: IDOL 2013 Registered Owner (amusement) Rides  http://1.usa.gov/144W5QO #opendata
+360114300175650816  Jul 24 15:08  @DLabAtBerkeley   Love that IN THE MIDDLE OF SUMMER D-Lab can pack a session on R.  #Rstats
+360124727995547649  Jul 24 15:50  @JokeReumers      RT @OpenAnalytics: Architect 0.9.3 brings multi-user installs on all platforms and comes with lots of #rstats package building goodies! http://t.co/ZI8ZXVK54a
+360126151089340416  Jul 24 15:55  @jmgomez          Visual debugging with RStudio http://ow.ly/nfvMb #rstats
+360131125651312640  Jul 24 16:15  @FindnMeet        @nyhackr Congrats: Observational Studies in Healthcare is one of #nyc most popular #events 2day http://bit.ly/WknNd7 #Rstats #HealthCare
+360132828459044864  Jul 24 16:22  @arRMorgan        .@arRMorgan hits on my #rstats skills, my name, and Pirate political leanings.
+360134815548317696  Jul 24 16:30  @mickresearch     RT @InsectEcology: Nice #postdoc: post-doctoral fellowship - process-based species distribution modeling http://pastebin.com/mYX61Uwh #rstats #GIS
+360136973840691200  Jul 24 16:38  @fazol            3y ago wrote a long loopy script for many models. Buried project. Had 2 revisit: after 20min w 93% shorter code, I say cheers #plyr #Rstats
+360138530917330944  Jul 24 16:44  @jent103          Writing my own functions is the best. (When they work well.) #rstats
+360145690275491840  Jul 24 17:13  @TsarSam          RT @ramnath_vaidya: Visualizing Bike Sharing Systems with #rCharts, #shiny and @LeafletJS  #rstats http://ramnathv.github.io/bikeshare @sharon000 http://t.co/sOfRN7G8wQ
+360146048687144960  Jul 24 17:14  @planarrowspace   Clustered R-squared Heat Maps in R http://planspace.org/2013/07/24/clustered-r-squared-heat-maps-in-r/ #Rstats
+360150323194642433  Jul 24 17:31  @revodavid        We created a new 90-second video to share the history, community and power of #rstats. What is R? http://bit.ly/what-is-r
+360151235338317824  Jul 24 17:35  @revodavid        Some background on the What is R video, and a link to download the Creative Commons video file: http://bit.ly/12jRvnC #rstats
+360152356698079234  Jul 24 17:39  @wgi_pr31ea       it even has a @katz_stats map! @revodavid 90-second video to share history, community & power of #rstats. What is R? http://bit.ly/what-is-r
+360155765547343872  Jul 24 17:53  @AliRebaie        What is R? Inspiring 90-second video showing the history, community and power of #rstats #dataviz #bigdata http://bit.ly/what-is-r"
+360166808692588544  Jul 24 18:37  @RNieuwenhuis     This is great video stuff on R: http://youtu.be/TR2bHSJ_eck #R #Rstats
+360169400776671232  Jul 24 18:47  @MattDabrowski    RT @revodavid: We created a new 90-second video to share the history, community and power of #rstats. What is R? http://bit.ly/what-is-r
+360170391932641280  Jul 24 18:51  @TATA_BOX         Power Analysis by Simulation: R, RCT, Malaria Example | (R news & tutorials) http://www.r-bloggers.com/power-analysis-by-simulation-r-rct-malaria-example/ #rstats
+360174044668100608  Jul 24 19:05  @hadleywickham    RT @revodavid: We created a new 90-second video to share the history, community and power of #rstats. What is R? http://bit.ly/what-is-r
+360174447426158592  Jul 24 19:07  @statisticsblog   R tip of the day: Dealing with Excel files, the many and (sometimes) painless ways: http://i.cx/12LPMT6 @nicolasturaro #excel #r #rstats
+360174792969682946  Jul 24 19:08  @ouroborosage     RT @revodavid: We created a new 90-second video to share the history, community and power of #rstats. What is R? http://bit.ly/what-is-r
+360174897256873984  Jul 24 19:09  @RNieuwenhuis     RT @revodavid: We created a new 90-second video to share the history, community and power of #rstats. What is R? http://bit.ly/what-is-r
+360189227360718852  Jul 24 20:06  @davekincaid      RT @RNieuwenhuis: This is great video stuff on R: http://youtu.be/TR2bHSJ_eck #R #Rstats
+360195551876222978  Jul 24 20:31  @jacalvache       RT @kdnuggets: Ajay Ohri interviews Ian Fellows, creator of an acclaimed R Deducer package, founder http://Fellstat.com #rstats http://t.co/wZhawIJdP0
+360196483007528961  Jul 24 20:35  @aofarre          RT @revodavid: We created a new 90-second video to share the history, community and power of #rstats. What is R? http://bit.ly/what-is-r
+360197840103944193  Jul 24 20:40  @jacalvache       RT @revodavid: We created a new 90-second video to share the history, community and power of #rstats. What is R? http://bit.ly/what-is-r
+360198399573762049  Jul 24 20:42  @jmichaethompson  RT @revodavid: We created a new 90-second video to share the history, community and power of #rstats. What is R? http://bit.ly/what-is-r
+360199169387933696  Jul 24 20:45  @LimLam8          is desperately trying to set up RHive. Y u no work?! #Rstats
