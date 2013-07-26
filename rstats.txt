@@ -13091,3 +13091,53 @@
 360734834693386240  Jul 26 08:14  @Snider_James     @Protohedgehog @rmounce I took this MOOC last year, it was really valuable. Definitely would encourage those new to #Rstats
 360743028333346817  Jul 26 08:46  @chlalanne        Divide and Recombine (D&R) with RHIPE #rstats #bigdata http://www.datadr.org/
 360743985326735360  Jul 26 08:50  @jay_ulfelder     I've updated my "Coups Slow Economic Growth" post with links to data & code. See bottom of http://dartthrowingchimp.wordpress.com/2013/07/11/coups-slow-economic-growth/ & fire away! #Rstats
+360746387199098880  Jul 26 09:00  @adolfoalvarez    RT @chlalanne: Divide and Recombine (D&R) with RHIPE #rstats #bigdata http://www.datadr.org/
+360747148842766336  Jul 26 09:03  @MangoTheCat      Details of next ManchesterR meeting on 8th Aug http://meetu.ps/1Jm7nK  #Rstats
+360748237168197633  Jul 26 09:07  @Rbloggers        Evolve your own beats: automatically generating music via algorithms:  (This article was first publi... http://bit.ly/16igm8s #rstats
+360748885251080196  Jul 26 09:10  @hspter           Analysis of dissertation lengths, in #rstats http://beckmw.wordpress.com/2013/04/15/how-long-is-the-average-dissertation/
+360758923176853504  Jul 26 09:50  @hadleywickham    a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360759123123515393  Jul 26 09:50  @VikParuchuri     RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360759204765634560  Jul 26 09:51  @MacDiva          RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360759864521269248  Jul 26 09:53  @Dr_LHS           RT @gappy3000: Factset official #rstats API is awesome. Bloomberg discouraged @ananelson from publishing one. Score one for Factset.
+360761890491744256  Jul 26 10:01  @wgi_pr31ea       RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360761982913220608  Jul 26 10:02  @johnjhorton      RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360762768162422784  Jul 26 10:05  @ConcejeroPedro   RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360762801351966722  Jul 26 10:05  @toates_19        Just discovered the annoDF2GR function in Repitools @Bioconductor package. I love this! #Rstats #epigenomics
+360763058827698176  Jul 26 10:06  @mljockers        Very useful demystification of sub setting in #rstats from @hadleywickham: https://github.com/hadley/devtools/wiki/Subsetting.”
+360766057344024577  Jul 26 10:18  @RPsychologist    RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360767314053955586  Jul 26 10:23  @adolfoalvarez    RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360767664815214592  Jul 26 10:24  @davidcoallier    What is R: http://youtu.be/TR2bHSJ_eck #rstats
+360768626678181888  Jul 26 10:28  @davekincaid      RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360769010574426113  Jul 26 10:30  @jonkeane         RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360770709070422016  Jul 26 10:36  @patmmccann       RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360774567536504832  Jul 26 10:52  @JakeRuss         RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360775582121857025  Jul 26 10:56  @mpmanti          @johnmyleswhite #rstats and #julialang also have rather flexible calling conventions. R, especially.
+360778439948636161  Jul 26 11:07  @_inundata        RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360782889505394688  Jul 26 11:25  @m_a_upson        How good is #ggmap!? Awesome #Rstats package. http://lnkd.in/nSkguX
+360783995430113281  Jul 26 11:29  @mgwhitfield      Useful - I always manage to get subsetting wrong: MT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting
+360786188925288449  Jul 26 11:38  @duke_data        Subsetting in R well summarized RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting.
+360786398741139457  Jul 26 11:39  @recology_        RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+360788199754305536  Jul 26 11:46  @lucaborger       Looking for a very short, slick video about R? Here one by @RevolutionR: http://bit.ly/18BBlp0  #rstats HT @revodavid @_inundata
+360790058569187328  Jul 26 11:53  @gvegayon         @pajarofelix @jsajuria @jorgefabrega presentacion de R Core team "complex survey" http://faculty.washington.edu/tlumley/survey/survey-wss.pdf #rstats :-)
+360793490348707842  Jul 26 12:07  @timelyportfolio  Timely Portfolio: #ggplot2 with @noamross theme http://timelyportfolio.blogspot.com/2013/07/ggplot2-with-noam-ross-theme.html?spref=tw #rstats
+360793937608318978  Jul 26 12:09  @noamross         RT @timelyportfolio: Timely Portfolio: #ggplot2 with @noamross theme http://timelyportfolio.blogspot.com/2013/07/ggplot2-with-noam-ross-theme.html?spref=tw #rstats
+360794366714982401  Jul 26 12:10  @RLangTip         List of R functions and packages for clinical trial design, monitoring and analysis: http://bit.ly/pe0KO2 #rstats
+360795994218172417  Jul 26 12:17  @kenniajin        RT @RLangTip: List of R functions and packages for clinical trial design, monitoring and analysis: http://bit.ly/pe0KO2 #rstats
+360797073106407424  Jul 26 12:21  @randomsubu       RT @hspter: Analysis of dissertation lengths, in #rstats http://beckmw.wordpress.com/2013/04/15/how-long-is-the-average-dissertation/
+360797650938892290  Jul 26 12:23  @Greene_Thoughts  RT @RLangTip: List of R functions and packages for clinical trial design, monitoring and analysis: http://bit.ly/pe0KO2 #rstats
+360799542607740933  Jul 26 12:31  @mjcavaretta      Good stuff for #analytics & #Rstats. MT @octodude: From @thegovlab : 9 models to scale #opendata. http://j.mp/12ZziKv
+360802376615084032  Jul 26 12:42  @ecolandlab       RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360806156471504897  Jul 26 12:57  @cloudHPC         Had a great #rstats #hackathon analyzing #meetup and #usergroup data
+360811158845919232  Jul 26 13:17  @Hack_in_a_Box    RT @cloudHPC: Had a great #rstats #hackathon analyzing #meetup and #usergroup data
+360815844701376513  Jul 26 13:36  @millerdl         current status (still): fuck PQL. #rstats
+360819701137424384  Jul 26 13:51  @techism          spent a great afternoon at an #rstats #hackathon analyzing the @techism data from the last 5 years. Thanks @cloudHPC and the others!
+360820383085101058  Jul 26 13:54  @m_wegmann        Wow! Watch this highly professional 90-second video about R: http://bit.ly/18BBlp0 #rstats via @ecolandlab @revodavid
+360822381117313024  Jul 26 14:02  @jabawack         Making #infographics using #R and #Inkscape http://buff.ly/13acN5U #infoviz #rstats
+360824963718062081  Jul 26 14:12  @Hack_in_a_Box    RT @techism: spent a great afternoon at an #rstats #hackathon analyzing the @techism data from the last 5 years. Thanks @cloudHPC and the others!
+360827319289528320  Jul 26 14:21  @ianmcook         How to run your R code on Amazon EC2 http://www.slideshare.net/ianmcook/running-r-on-the-amazon-cloud-2013-0620 #rstats
+360827847645990912  Jul 26 14:23  @ianmcook         RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
+360830234905423876  Jul 26 14:33  @geospacedman     Writing #rstats functions to check Yahtzee rolls is a nice exercise for workshops. But is a Yahtzee also a Full House?
+360830895403438080  Jul 26 14:36  @cloudHPC         RT @techism: spent a great afternoon at an #rstats #hackathon analyzing the @techism data from the last 5 years. Thanks @cloudHPC and the others!
+360831974803374081  Jul 26 14:40  @yaacovp          PSY just got a whole lot better #rstats
+360834200254939137  Jul 26 14:49  @RSbiodiv         RT @m_wegmann: Wow! Watch this highly professional 90-second video about R: http://bit.ly/18BBlp0 #rstats via @ecolandlab @revodavid
+360834545068675073  Jul 26 14:50  @misterduprey     RT @ianmcook: How to run your R code on Amazon EC2 http://www.slideshare.net/ianmcook/running-r-on-the-amazon-cloud-2013-0620 #rstats
