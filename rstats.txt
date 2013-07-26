@@ -13020,3 +13020,36 @@
 360464240613670912  Jul 25 14:19  @revodavid        Notes on #useR2013 lightning talk by @RevoJoe about @RevolutionR's contributions to the #rstats community: http://bit.ly/17G8e2N
 360468946194923520  Jul 25 14:37  @sean_anderson    RT @hadleywickham: explore usage of #rstats on github: https://github.com/hadley/r-on-github. sample fact: there are 1644 R packages on github, of which 410 are also on CRAN
 360472020963696640  Jul 25 14:50  @rguha            intrsting performance optimization framework applied to R. impressive improvements #rstats #compiler https://github.com/TiarkRompf/Relite
+360475833426649089  Jul 25 15:05  @orlandomezquita  RT @RLangTip: For complex optimization problems (e.g. mixed-integer programming), try the lpSolveAPI package: http://bit.ly/1380e6g #rstats
+360476873806970880  Jul 25 15:09  @stephaniehicks   RT @hadleywickham: explore usage of #rstats on github: https://github.com/hadley/r-on-github. sample fact: there are 1644 R packages on github, of which 410 are also on CRAN
+360479571423924225  Jul 25 15:20  @abresler         @ramnath_vaidya @hadleywickham Ram & Hadley-Bird and Magic of the #Rstats world-who chalks up the bigger legacy?  Time will tell"
+360480327757602819  Jul 25 15:23  @Piboonrungroj    RT @revodavid: Notes on #useR2013 lightning talk by @RevoJoe about @RevolutionR's contributions to the #rstats community: http://t.co/gt4pSFgcCv
+360481271329210368  Jul 25 15:26  @Rbloggers        Revolution Analytics Supports the R Community:  (This article was first published on   Revolutions, ... http://bit.ly/16f06VD #rstats
+360481455878582273  Jul 25 15:27  @ramnath_vaidya   @abresler The comparison is definitely flattering, but @hadleywickham has already etched his legacy in #rstats :-)
+360488615349977088  Jul 25 15:55  @idigdata         RT @revodavid: Notes on #useR2013 lightning talk by @RevoJoe about @RevolutionR's contributions to the #rstats community: http://t.co/gt4pSFgcCv
+360489933783318529  Jul 25 16:01  @GueyeNono        RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360491169773387778  Jul 25 16:06  @centiusnet       1 week left to join @centiusnet #businessintelligence focus group. Register now http://centius.eventbrite.com  #predictiveanalytics #Rstats
+360493886336020480  Jul 25 16:16  @heyaudy          We need something like this for #Rstats. http://t.co/uSP6pwUFBH
+360496191760384001  Jul 25 16:26  @MarchiMax        displaying dates as quarters in #ggplot2 x-axis #Rstats http://goo.gl/K9VVwj There's likely a less awkward way to achieve that
+360497164578852864  Jul 25 16:29  @eddelbuettel     Nonsense -- CRAN support built-in, R unique in that  RT @hadleywickham "(c) little advantage of CRAN over github for dist" #rstats
+360498332801581059  Jul 25 16:34  @timelyportfolio  #dimplejs #d3js + #rstats #rCharts | Interactive Legend http://timelyportfolio.github.io/rCharts_dimple/example48_interactive_legend.html thanks @jkiernander for the example @ramnath_vaidya
+360499097486110721  Jul 25 16:37  @zadigh           RT @hadleywickham: explore usage of #rstats on github: https://github.com/hadley/r-on-github. sample fact: there are 1644 R packages on github, of which 410 are also on CRAN
+360500248600252417  Jul 25 16:42  @rOpenSci         taxize tutorial updated http://bit.ly/QnS2gZ #rstats - Works w/ dev ver. of pkg on Github #taxonomy #phylogeny (will push 2 CRAN soon)
+360500274932088834  Jul 25 16:42  @recology_        RT @rOpenSci: taxize tutorial updated http://bit.ly/QnS2gZ #rstats - Works w/ dev ver. of pkg on Github #taxonomy #phylogeny (will push 2 CRAN soon)
+360500599286018048  Jul 25 16:43  @yichuanw         RT @sharon000: . @yichuanw: Your link to How to melt & cast back together paired variables #rstats needs your login :) Better link: http://t.co/aJzBwSED82
+360503918523990017  Jul 25 16:56  @timelyportfolio  RT @ramnath_vaidya: @abresler The comparison is definitely flattering, but @hadleywickham has already etched his legacy in #rstats :-)
+360506565855416320  Jul 25 17:07  @jkiernander      RT @timelyportfolio: #dimplejs #d3js + #rstats #rCharts | Interactive Legend http://timelyportfolio.github.io/rCharts_dimple/example48_interactive_legend.html thanks @jkiernander for the example @ramnath_vaidya
+360518798673059840  Jul 25 17:55  @LaurierBiology   RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360524847769595906  Jul 25 18:19  @rapporters       Nice #rstats promo video from the @RevolutionR guys: http://youtu.be/TR2bHSJ_eck that I also enjoyed two weeks ago at #user2013 contributed talks
+360526352224485376  Jul 25 18:25  @frod_san         RT @hadleywickham: explore usage of #rstats on github: https://github.com/hadley/r-on-github. sample fact: there are 1644 R packages on github, of which 410 are also on CRAN
+360537920836345858  Jul 25 19:11  @BrockTibert      Has anyone had issues installing @Rstudioapp on Windows 7 64-bit? #rstats?  I havent tried yet, but a coworker had issues. #lazyR
+360538344372973569  Jul 25 19:13  @Jowanza          Get #SAP and #Rstats working together: http://bit.ly/1bntJuQ #BI #DataScience
+360538991973502978  Jul 25 19:16  @JGreenbrookHeld  @samdurbin I'm showing you how to manipulate a data set. Sorry bro - doesn't count as maths... #rstats
+360544230998953984  Jul 25 19:36  @dirkvandenpoel   Great side-by-side comparison of Quirrel and R (#rstats) by @jdegoes at #oscon #Analytics [pic]: http://4sq.com/13gPOCp
+360544242659110912  Jul 25 19:37  @garuby           RT @rguha: intrsting performance optimization framework applied to R. impressive improvements #rstats #compiler https://github.com/TiarkRompf/Relite
+360550681658134528  Jul 25 20:02  @jdegoes          RT @dirkvandenpoel: Great side-by-side comparison of Quirrel and R (#rstats) by @jdegoes at #oscon #Analytics [pic]: http://4sq.com/13gPOCp
+360553229945290754  Jul 25 20:12  @psnively         RT @dirkvandenpoel: Great side-by-side comparison of Quirrel and R (#rstats) by @jdegoes at #oscon #Analytics [pic]: http://4sq.com/13gPOCp
+360553486766710784  Jul 25 20:13  @lambdadevfr      RT @dirkvandenpoel: Great side-by-side comparison of Quirrel and R (#rstats) by @jdegoes at #oscon #Analytics [pic]: http://4sq.com/13gPOCp
+360553818305470464  Jul 25 20:15  @PageViral        RT @dirkvandenpoel: Great side-by-side comparison of Quirrel and R (#rstats) by @jdegoes at #oscon #Analytics [pic]: http://4sq.com/13gPOCp
+360558775620468737  Jul 25 20:34  @HIR_ME           RT @dirkvandenpoel: Great side-by-side comparison of Quirrel and R (#rstats) by @jdegoes at #oscon #Analytics [pic]: http://4sq.com/13gPOCp
+360559082735808512  Jul 25 20:35  @djhocking        Crashed R half a dozen times today trying to do a left join with a table with >1 million records. #Annoyed #rstats
