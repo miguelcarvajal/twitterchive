@@ -13067,3 +13067,27 @@
 360633822074773510  Jul 26 01:32  @nribeka          RT @dirkvandenpoel: Great side-by-side comparison of Quirrel and R (#rstats) by @jdegoes at #oscon #Analytics [pic]: http://4sq.com/13gPOCp
 360634709853736961  Jul 26 01:36  @MikeHoffmanCxA   The hours I spent today writing array formulas into #Excel for building data analysis have taught me this - I have to learn #Rstats!
 360650604516868096  Jul 26 02:39  @oscarperpinan    RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+360667072906264576  Jul 26 03:45  @GraemeTLloyd     RT @RLangTip: To select a column from a matrix and keep it as a column matrix, not a vector: X[,1,drop=FALSE] http://bit.ly/n8LEBm #rstats
+360668442933723137  Jul 26 03:50  @daedalus_sa      RT @jc_gonzalez: RT @jmgomez: Analyzing Your Data on the AWS Cloud (with R) http://goo.gl/RMGv87 #rstats #cloud #datamining
+360673201455501312  Jul 26 04:09  @adolfoalvarez    RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
+360675940411518976  Jul 26 04:20  @kyloring         #rstats code #phdchat @cRashStats http://t.co/G0QU7V5PxP
+360676732702961664  Jul 26 04:23  @InsectEcology    RT @kyloring: #rstats code #phdchat @cRashStats http://t.co/G0QU7V5PxP
+360677270240763904  Jul 26 04:25  @Eco_Lu           RT @kyloring: #rstats code #phdchat @cRashStats http://t.co/G0QU7V5PxP
+360681756233433089  Jul 26 04:43  @adolfoalvarez    RT @kyloring: #rstats code #phdchat @cRashStats http://t.co/WYWOwUd20j // My two favorite hashtags!
+360681813749923840  Jul 26 04:43  @yodacomplex      RT @kyloring: #rstats code #phdchat @cRashStats http://t.co/G0QU7V5PxP
+360683366472888320  Jul 26 04:49  @tingenek         A bit of #Rstats for a change. Reading the excellent "Map overlay and spatial aggregation in sp" by Edzer Pebesma http://cran.r-project.org/web/packages/sp/vignettes/over.pdf
+360688381568614401  Jul 26 05:09  @fudgeh0g         RT @kyloring: #rstats code #phdchat @cRashStats http://t.co/G0QU7V5PxP
+360690319882334209  Jul 26 05:17  @ArthurFlam       How many different faster #Rstats  implementations are we gonna get ? #Renjin #pqR #Riposte http://www.r-bloggers.com/deferred-evaluation-in-renjin-riposte-and-pqr/
+360698135258996736  Jul 26 05:48  @StrangeInvasive  RT @kyloring: #rstats code #phdchat @cRashStats http://t.co/G0QU7V5PxP
+360698757907623936  Jul 26 05:51  @Rbloggers        Amount of end-user usage of code in Firefox:  (This article was first published on   The Shape of Co... http://bit.ly/1bppKho #rstats
+360700916577472513  Jul 26 05:59  @MangoTheCat      Read Excel files from R http://goo.gl/EVNwUl via @rbloggers #Rstats
+360707981186330624  Jul 26 06:27  @MangoTheCat      Mango Solutions will be at #JSM2013 - talk to us about the growing commercial usage of R  #Rstats http://t.co/o0ha3s9vuV
+360723040381833216  Jul 26 07:27  @Protohedgehog    Just signed up for this free MOOC on computing and data analysis too, thanks to @rmounce! #lovetwitter #rstats http://bit.ly/18GOwZh
+360725285932503041  Jul 26 07:36  @sean_tuck        My #rstats package MODISTools https://github.com/seantuck12/MODISTools has been accepted for release on CRAN. I think my weekend should start now.
+360728237053190145  Jul 26 07:48  @Protohedgehog    @Blogozoic It's a toughie! Check out #rstats for useful stuff, and this Rstudio thing looks pretty sweet too for a UI
+360728242207985664  Jul 26 07:48  @mj_kallen        RT @hadleywickham: explore usage of #rstats on github: https://github.com/hadley/r-on-github. sample fact: there are 1644 R packages on github, of which 410 are also on CRAN
+360731789544783872  Jul 26 08:02  @southmapr        RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360733487201910784  Jul 26 08:09  @jaynal83         RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
+360734834693386240  Jul 26 08:14  @Snider_James     @Protohedgehog @rmounce I took this MOOC last year, it was really valuable. Definitely would encourage those new to #Rstats
+360743028333346817  Jul 26 08:46  @chlalanne        Divide and Recombine (D&R) with RHIPE #rstats #bigdata http://www.datadr.org/
+360743985326735360  Jul 26 08:50  @jay_ulfelder     I've updated my "Coups Slow Economic Growth" post with links to data & code. See bottom of http://dartthrowingchimp.wordpress.com/2013/07/11/coups-slow-economic-growth/ & fire away! #Rstats
