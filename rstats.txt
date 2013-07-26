@@ -13053,3 +13053,17 @@
 360553818305470464  Jul 25 20:15  @PageViral        RT @dirkvandenpoel: Great side-by-side comparison of Quirrel and R (#rstats) by @jdegoes at #oscon #Analytics [pic]: http://4sq.com/13gPOCp
 360558775620468737  Jul 25 20:34  @HIR_ME           RT @dirkvandenpoel: Great side-by-side comparison of Quirrel and R (#rstats) by @jdegoes at #oscon #Analytics [pic]: http://4sq.com/13gPOCp
 360559082735808512  Jul 25 20:35  @djhocking        Crashed R half a dozen times today trying to do a left join with a table with >1 million records. #Annoyed #rstats
+360574016630702082  Jul 25 21:35  @noticiasSobreR   SAP HANA y R - Siguen brillando: Desde que descubri Shiny y publique mi blog Un ejemplo brillante - SA... http://tinyurl.com/m8a2f5z #rstats
+360582719186534401  Jul 25 22:09  @ramnath_vaidya   @vivian__zhang Slides from the talk are here http://ramnathv.github.io/bikeshare/slides/. Press p to reveal notes #rstats
+360589198652227589  Jul 25 22:35  @PPUAMX           RT @RLangTip: To select a column from a matrix and keep it as a column matrix, not a vector: X[,1,drop=FALSE] http://bit.ly/n8LEBm #rstats
+360592252772433920  Jul 25 22:47  @KSB____          #Rstats #RSL #RSVP #RDC #rdi2460 #rdiweekend #rfdchat #rfdchat #rfcampstgt #rg4l http://m.youtube.com/watch?v=-wtCel9-zOU&desktop_uri=%2Fwatch%3Fv%3D-wtCel9-zOU
+360600992485613568  Jul 25 23:22  @gappy3000        Factset official #rstats API is awesome. Bloomberg discouraged @ananelson from publishing one. Score one for Factset.
+360601059745472512  Jul 25 23:22  @timelyportfolio  Sankey of #rstats #rCharts Example Gallery: http://rcharts.io/viewer/?6085852#.UfHqa2rjCoF.twitter (of course produced by #rCharts) #d3js
+360603031336779778  Jul 25 23:30  @timelyportfolio  RT @gappy3000: Factset official #rstats API is awesome. Bloomberg discouraged @ananelson from publishing one. Score one for Factset.
+360603136320225281  Jul 25 23:31  @timelyportfolio  RT @ramnath_vaidya: @vivian__zhang Slides from the talk are here http://ramnathv.github.io/bikeshare/slides/. Press p to reveal notes #rstats
+360621762578354176  Jul 26 00:45  @ucfagls          Anyone aware of a bibtex parser for #rstats that *doesn't* need to read from files? Looking to parse strings pulled from a web API
+360627628069224449  Jul 26 01:08  @webbedfeet       In #Cleveland for a few days. Any #rstats people around?
+360631490108858370  Jul 26 01:23  @nickholway       @NonStopHips one for #Rstats?
+360633822074773510  Jul 26 01:32  @nribeka          RT @dirkvandenpoel: Great side-by-side comparison of Quirrel and R (#rstats) by @jdegoes at #oscon #Analytics [pic]: http://4sq.com/13gPOCp
+360634709853736961  Jul 26 01:36  @MikeHoffmanCxA   The hours I spent today writing array formulas into #Excel for building data analysis have taught me this - I have to learn #Rstats!
+360650604516868096  Jul 26 02:39  @oscarperpinan    RT @recology_: Why I want to write nice R code http://bit.ly/1aF6byH #rstats
