@@ -13176,3 +13176,19 @@
 361075951620202497  Jul 27 06:49  @dkachelriess1    RT @m_wegmann: Wow! Watch this highly professional 90-second video about R: http://bit.ly/18BBlp0 #rstats via @ecolandlab @revodavid
 361089554842779648  Jul 27 07:43  @moorejh          #bioinformatics #datascience MT @m_wegmann professional 90-second video about #Rstats: http://bit.ly/18BBlp0
 361101774922321921  Jul 27 08:32  @joanjuch         RT @rapporters: Nice #rstats promo video from the @RevolutionR guys: http://youtu.be/TR2bHSJ_eck that I also enjoyed two weeks ago at #user2013 contributed talks
+361112030977064960  Jul 27 09:13  @IronistM         RT @neilfws: Easy pictograms using R http://bit.ly/15SXTiZ #rstats
+361132800063184897  Jul 27 10:35  @mjcavaretta      Good stuff. Interested to check it out. RT @IronistM @neilfws: Easy pictograms using R http://bit.ly/15SXTiZ #rstats
+361135287176400896  Jul 27 10:45  @ArthurFlam       Pictograms using #Rstats  http://robertgrantstats.wordpress.com/2013/07/26/easy-pictograms-using-r/
+361147063255302145  Jul 27 11:32  @CT_Analytics     RT @revodavid: Very cool Shiny #rstats web app by @ramnath_vaidya shows real-time bike-share availability in 100 cities: http://t.co/lACUuaOFRU
+361154539392475136  Jul 27 12:02  @timelyportfolio  "Easy pictograms using #Rstats " good read http://www.r-bloggers.com/easy-pictograms-using-r/
+361155445093711872  Jul 27 12:05  @isragaytan       Good morning there are several ways to run R in parallel. Snow, multicore, parallel (R .14.0) and R+Hadoop. #rstats #bigdata #datascience
+361155921533079553  Jul 27 12:07  @isragaytan       RT @i_314: STAR: Spike Train Analysis with R. Datasets available.  https://sites.google.com/site/spiketrainanalysiswithr/ #rstats #neuron #neuralcoding
+361159398388801539  Jul 27 12:21  @nhcooper123      Looking through my laundry I realise I went to work one day this week wearing terrain.colors(5) #rstats #ohdear
+361165142727208961  Jul 27 12:44  @Luehea           RT @nhcooper123: Looking through my laundry I realise I went to work one day this week wearing terrain.colors(5) #rstats #ohdear
+361165501159837698  Jul 27 12:45  @SamuelRufat      #Rstats tips & trics | FlowingData | Data Visualization, Infographics, and Statistics http://flowingdata.com/book/ via @flowingdata
+361170485599416321  Jul 27 13:05  @geospacedman     RT @nhcooper123: Looking through my laundry I realise I went to work one day this week wearing terrain.colors(5) #rstats #ohdear
+361180828144898048  Jul 27 13:46  @DatametricsBI    El futuro de la Estadística es R, ¿Porqué?, mira este video https://www.youtube.com/watch?feature=player_embedded&v=TR2bHSJ_eck #predictive #rstats #CRM BI
+361183256416231424  Jul 27 13:56  @lgatt0           RT @Bioconductor: #Bioconductor / #rstats #BioC2013 conference talks and workshops becoming available http://bit.ly/12dyyTv
+361183479247024130  Jul 27 13:57  @XVtores          RT @DatametricsBI: El futuro de la Estadística es R, ¿Porqué?, mira este video https://www.youtube.com/watch?feature=player_embedded&v=TR2bHSJ_eck #predictive #rstats #CRM BI
+361186510382448641  Jul 27 14:09  @temporalista     RT @DatametricsBI: El futuro de la Estadística es R, ¿Porqué?, mira este video https://www.youtube.com/watch?feature=player_embedded&v=TR2bHSJ_eck #predictive #rstats #CRM BI
+361193420552814592  Jul 27 14:36  @kevin_ushey      Use saveRDS / loadRDS, rather than save/load, for saving single #rstats objects.
