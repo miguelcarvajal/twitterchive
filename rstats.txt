@@ -13192,3 +13192,20 @@
 361183479247024130  Jul 27 13:57  @XVtores          RT @DatametricsBI: El futuro de la Estadística es R, ¿Porqué?, mira este video https://www.youtube.com/watch?feature=player_embedded&v=TR2bHSJ_eck #predictive #rstats #CRM BI
 361186510382448641  Jul 27 14:09  @temporalista     RT @DatametricsBI: El futuro de la Estadística es R, ¿Porqué?, mira este video https://www.youtube.com/watch?feature=player_embedded&v=TR2bHSJ_eck #predictive #rstats #CRM BI
 361193420552814592  Jul 27 14:36  @kevin_ushey      Use saveRDS / loadRDS, rather than save/load, for saving single #rstats objects.
+361209294361862144  Jul 27 15:39  @baogorek         Two-page handout on using the QR decomposition in R. http://users.stat.umn.edu/~sandy/courses/8311/handouts/qrhandout.pdf #rstats
+361219395466428416  Jul 27 16:19  @ucfagls          @kevin_ushey it is readRDS() not loadRDS() #rstats
+361229678368915456  Jul 27 17:00  @Datamarketing_   El futuro de la Estadística es R, ¿Porqué?, mira este video https://www.youtube.com/watch?feature=player_embedded&v=TR2bHSJ_eck #predictive #rstats #CRM BI
+361232474715586563  Jul 27 17:11  @Nala950          RT @Datamarketing_: El futuro de la Estadística es R, ¿Porqué?, mira este video https://www.youtube.com/watch?feature=player_embedded&v=TR2bHSJ_eck #predictive #rstats #CRM BI
+361238112623529985  Jul 27 17:34  @kobriendublin    RT @statalgo: DataMind: "Learn data analysis for free, interactively" with #rstats. http://www.datamind.org/
+361241132723744768  Jul 27 17:46  @naupakaz         RT @CjBayesian: #FF The good folks behind @rOpenSci who are wrapping all science APIs in #rstats: @recology_ @_inundata @cboettig @DistribEcology
+361252773511172097  Jul 27 18:32  @Rbloggers        Using Geany for programming in R:  (This article was first published on   landroni » R, and kindly c... http://bit.ly/14Wf72e #rstats
+361258695457382400  Jul 27 18:55  @amestadmx        RT @RLangTip: List of R functions and packages for clinical trial design, monitoring and analysis: http://bit.ly/pe0KO2 #rstats
+361259469113528320  Jul 27 18:59  @EdgarLares       RT @RLangTip: List of R functions and packages for clinical trial design, monitoring and analysis: http://bit.ly/pe0KO2 #rstats
+361261187863818240  Jul 27 19:05  @sussenglish      RT @statalgo: DataMind: "Learn data analysis for free, interactively" with #rstats. http://www.datamind.org/
+361263664478687233  Jul 27 19:15  @perisaccadic     Exposing DOTSXP as a user-level object in #rstats seems to enable proper lazy data structures and tail-recursive algorithms.
+361276609942130689  Jul 27 20:07  @SardelichM       @siah my piece (#Rstats): matrix2list<-function(m,byrow=TRUE) { if (byrow) {m<-t(m)} ; lapply(seq_len(ncol(m)), function(i) m[, i]) }
+361282392150904832  Jul 27 20:30  @DistribEcology   .@johnnyderiggi you made a great api.  Check out our blog post on the pkg.  http://www.ropensci.org/blog/2013/07/19/rWBclimate-maps/ #rstats @rOpenSci
+361283156449566720  Jul 27 20:33  @RyanGuggenmos    @srossmktg Also for #rstats and #bayesianstats
+361283571442397185  Jul 27 20:34  @srossmktg        @RyanGuggenmos I've seen #rstats from a few I follow. Hashes and @s are bio-searchable. Builds community.
+361286876545560577  Jul 27 20:47  @ianjacobs        Easy pictograms using R #rstats http://feedly.com/k/1aO0hdM
+361289396378533890  Jul 27 20:57  @rOpenSci         Gained a new committer @DanMcGlinn to rgbif #rstats wrapper to @GBIF #API http://bit.ly/15UQVtA  #opensource FTW
