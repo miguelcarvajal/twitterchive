@@ -13248,3 +13248,29 @@
 361556832357068801  Jul 28 14:40  @Rbloggers        Classification of the Hyper-Spectral and LiDAR Imagery using R (mostly). Part 1: Result Evaluation:  ... http://bit.ly/1byxcXz #rstats
 361558046578716674  Jul 28 14:45  @cpsievert        Getting started with generalized additive models in R http://www3.nd.edu/~mclark19/learn/GAMS.pdf #rstats #knitr
 361561194693263361  Jul 28 14:58  @MarkHornick      Ever run a neural network on #Hadoop using R? See #OracleRConnectorForHadoop 2.x new features https://blogs.oracle.com/R/entry/oracle_r_connector_for_hadoop1 #RStats #Oracle
+361565674264465409  Jul 28 15:15  @chlalanne        RT @cpsievert: Getting started with generalized additive models in R http://www3.nd.edu/~mclark19/learn/GAMS.pdf #rstats #knitr
+361566057187643393  Jul 28 15:17  @janhove          RT @cpsievert: Getting started with generalized additive models in R http://www3.nd.edu/~mclark19/learn/GAMS.pdf #rstats #knitr
+361566596088594432  Jul 28 15:19  @gawbul           RT @cpsievert: Getting started with generalized additive models in R http://www3.nd.edu/~mclark19/learn/GAMS.pdf #rstats #knitr
+361567539681181696  Jul 28 15:23  @gsantosgo        RT @flavioclesio: Exploratory Data Analysis with R http://wp.me/p1doN7-kg #Rstats
+361568283427749890  Jul 28 15:26  @lucaborger       Looks great! RT @cpsievert Getting started with generalized additive models in R http://www3.nd.edu/~mclark19/learn/GAMS.pdf … #rstats #knitr | HT @chlalanne
+361576766113976320  Jul 28 15:59  @AjayOza_Actual   RT @kyloring: #rstats code #phdchat @cRashStats http://t.co/G0QU7V5PxP
+361577077314560003  Jul 28 16:01  @tomschenkjr      Aiming to improve academic papers everywhere, plotting regression coefficients in R with #ggplot2 http://datanouveau.net/post/56701730555/regression-analysis-is-probably-the-most-common #rstats #dataviz
+361581469493235712  Jul 28 16:18  @datennutzen      Stored procedures in PostgreSQL with #rstats in our useR group meeting next Thursday  http://www.meetup.com/Kassel-useR-Group/events/131774942/?a=ea1_grp&rv=ea1&_af_eid=131774942&_af=event
+361583916894789633  Jul 28 16:28  @IanDworkin       RT @cpsievert: Getting started with generalized additive models in R http://www3.nd.edu/~mclark19/learn/GAMS.pdf #rstats #knitr
+361586038159851520  Jul 28 16:36  @cpsievert        If you liked the last tweet, check out this project page with other #knitr short courses for learning #rstats http://www3.nd.edu/~mclark19/projects.html
+361592138972139522  Jul 28 17:00  @Demografia_CSIC  Open science with R: sharing data & analysis #rstats http://ropensci.org/blog/2013/06/14/goals-for-year/ vía @mikeloukides
+361592526936883200  Jul 28 17:02  @ADEH_demografia  RT @Demografia_CSIC: Open science with R: sharing data & analysis #rstats http://ropensci.org/blog/2013/06/14/goals-for-year/ vía @mikeloukides
+361593579845582850  Jul 28 17:06  @frod_san         RT @lucaborger: Looks great! RT @cpsievert Getting started with generalized additive models in R http://www3.nd.edu/~mclark19/learn/GAMS.pdf … #rstats #knitr | HT @chlalanne
+361595699491635202  Jul 28 17:15  @tingenek         Well that's weird. The sp library is loaded but denies 'over' is a function. It might be lying or under secret orders from #rstats HQ.
+361597219146715136  Jul 28 17:21  @xieyihui         Is there an #rstats package that can draw trees like this one in D3? http://bl.ocks.org/mbostock/4063550 http://t.co/I3UsRnqCuq
+361606408329887745  Jul 28 17:57  @sharathrao       ProjectTemplate is cool stuff. "system for automating the thoughtless parts of a data analysis project" - http://bit.ly/1byZxx8 #rstats
+361608584800387073  Jul 28 18:06  @mizmay           Alright #Rstats #plyr why does ddply give "'names' attribute [9] must be same length..." error even after I've converted POSIXct->char?
+361610173887942656  Jul 28 18:12  @wgi_pr31ea       nice GAMs! RT @cpsievert: Getting started with generalized additive models in R http://www3.nd.edu/~mclark19/learn/GAMS.pdf #rstats #knitr
+361620255954575360  Jul 28 18:52  @mizmay           @thekorvin you can live a fulfilling life without plyr. But not if you use #Rstats.
+361629723094298625  Jul 28 19:30  @IbnFirnas        #Rstats Pro Tip: In contrast to every doc out there - stop loading libraries into current namespace and call functions explicitly: lib::f(x)
+361633384927203329  Jul 28 19:44  @ZeerakW          I know this feeling #rstats http://s3-ec.buzzfed.com/static/enhanced/webdr06/2013/7/25/6/enhanced-buzz-29297-1374747877-7.jpg
+361635154961235969  Jul 28 19:51  @DanielWANoble    RT @lucaborger: Looks great! RT @cpsievert Getting started with generalized additive models in R http://www3.nd.edu/~mclark19/learn/GAMS.pdf … #rstats #knitr | HT @chlalanne
+361635223882055681  Jul 28 19:52  @beccamedwards    RT @kdnuggets: Data Science + Gamification + Online training =DataMind: A New Effort to Teach R online for free #rstats http://t.co/H0dtEzuVPu
+361640049424605187  Jul 28 20:11  @PaulJames379     "@tomschenkjr: Aiming to improve academic papers plotting regression coefficients in R with #ggplot2 http://datanouveau.net/post/56701730555/regression-analysis-is-probably-the-most-common #rstats #dataviz
+361644905203904515  Jul 28 20:30  @Rbloggers        Orthogonal Partial Least Squares (OPLS) in R:  (This article was first published on   imDEV » r-blog... http://bit.ly/16rLuCk #rstats
+361648347129458688  Jul 28 20:44  @izamryan         Calculating covariance and correlation with #rstats http://bit.ly/14ZZs1R
