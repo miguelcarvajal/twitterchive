@@ -13302,3 +13302,67 @@
 361823295353520128  Jul 29 08:19  @OpenAnalytics    The real story behind Architect 0.9.3... http://bit.ly/15Z7AfN #rstats
 361823419630747648  Jul 29 08:20  @wligtenberg      RT @OpenAnalytics: The real story behind Architect 0.9.3... http://bit.ly/15Z7AfN #rstats
 361828984192905217  Jul 29 08:42  @Rbloggers        analyze the youth risk behavior surveillance system (yrbss) with r:  (This article was first publish... http://bit.ly/1523Ehx #rstats
+361842184317714434  Jul 29 09:34  @reiver           RT @i_314: STAR: Spike Train Analysis with R. Datasets available.  https://sites.google.com/site/spiketrainanalysiswithr/ #rstats #neuron #neuralcoding
+361842837450526720  Jul 29 09:37  @JakeRuss         @hadleywickham #ggplot2 has me spoiled. Working with a bunch of #Rstats to #LaTeX tables has me wishing for a Grammar of Tables.
+361848028740587520  Jul 29 09:57  @timelyportfolio  RT @JakeRuss: @hadleywickham #ggplot2 has me spoiled. Working with a bunch of #Rstats to #LaTeX tables has me wishing for a Grammar of Tables.
+361849380506042370  Jul 29 10:03  @Freakalytics     Great #analysts should learn to program. Learn several of these- #SAS, #SQL, #Python, #Rstats, #HTML, #Java for #NoSQL, #C++, #Excel + #VB
+361850294558134272  Jul 29 10:06  @noamross         RT @aparnellstats: Been using R for 10 years now and have still never found a bug caused by using = instead of <-. #rstats
+361850765356171264  Jul 29 10:08  @tatvic           Only 2 more days 2go! Haven't registered yet? Run and reserve your seat! http://bit.ly/18AE8Bz #webinar #rstats #measure
+361851022567673856  Jul 29 10:09  @gary_j_wood      RT @Freakalytics: Great #analysts should learn to program. Learn several of these- #SAS, #SQL, #Python, #Rstats, #HTML, #Java for #NoSQL, #C++, #Excel + #VB
+361851218445877250  Jul 29 10:10  @ravipathak       RT @tatvic: Only 2 more days 2go! Haven't registered yet? Run and reserve your seat! http://bit.ly/18AE8Bz #webinar #rstats #measure
+361851311513280516  Jul 29 10:10  @i_314            It seems that R has not good support for Computational Neuroscience. It would be interesting to create a group for that development. #rstats
+361851587439767553  Jul 29 10:11  @kushan_s         RT @tatvic: Only 2 more days 2go! Haven't registered yet? Run and reserve your seat! http://bit.ly/18AE8Bz #webinar #rstats #measure
+361853084131008513  Jul 29 10:17  @ethanwhite       RT @aparnellstats: Been using R for 10 years now and have still never found a bug caused by using = instead of <-. #rstats
+361855266704195586  Jul 29 10:26  @hadleywickham    RT @JakeRuss: @hadleywickham #ggplot2 has me spoiled. Working with a bunch of #Rstats to #LaTeX tables has me wishing for a Grammar of Tables.
+361856066482483203  Jul 29 10:29  @M_T_Patterson    http://www.datamind.org/ could be a really great resource for teaching students how to use R. #Teaching, #Rstats
+361856188842905602  Jul 29 10:30  @kwcollins        RT @M_T_Patterson: http://www.datamind.org/ could be a really great resource for teaching students how to use R. #Teaching, #Rstats
+361857419221020672  Jul 29 10:35  @kastacholamine   RT @JakeRuss: @hadleywickham #ggplot2 has me spoiled. Working with a bunch of #Rstats to #LaTeX tables has me wishing for a Grammar of Tables.
+361858539775475712  Jul 29 10:39  @ajerneck         RT @JakeRuss: @hadleywickham #ggplot2 has me spoiled. Working with a bunch of #Rstats to #LaTeX tables has me wishing for a Grammar of Tables.
+361859070824689665  Jul 29 10:41  @drchriscole      RT @aparnellstats: Been using R for 10 years now and have still never found a bug caused by using = instead of <-. #rstats
+361859619485782017  Jul 29 10:43  @RunningNumbrs    RT @Freakalytics: Great #analysts should learn to program. Learn several of these- #SAS, #SQL, #Python, #Rstats, #HTML, #Java for #NoSQL, #C++, #Excel + #VB
+361859939318243330  Jul 29 10:45  @Graniteprof      RT @M_T_Patterson: http://www.datamind.org/ could be a really great resource for teaching students how to use R. #Teaching, #Rstats
+361860068523782146  Jul 29 10:45  @romain_francois  #rstats C api discovery of the day: mkCharLen(const char *name, int len). Saves the bother of copying to a buffer.
+361861114641915904  Jul 29 10:49  @MattDabrowski    RT @M_T_Patterson: http://www.datamind.org/ could be a really great resource for teaching students how to use R. #Teaching, #Rstats
+361861512979156992  Jul 29 10:51  @ProfCaraJones    RT @M_T_Patterson: http://www.datamind.org/ could be a really great resource for teaching students how to use R. #Teaching, #Rstats
+361862747782258692  Jul 29 10:56  @kylejasmin       RT @M_T_Patterson: http://www.datamind.org/ could be a really great resource for teaching students how to use R. #Teaching, #Rstats
+361863948921876482  Jul 29 11:01  @KantiBio         RT @M_T_Patterson: http://www.datamind.org/ could be a really great resource for teaching students how to use R. #Teaching #Rstats
+361865175290220546  Jul 29 11:05  @MangoTheCat      RT @romain_francois: #rstats C api discovery of the day: mkCharLen(const char *name, int len). Saves the bother of copying to a buffer.
+361865371365556224  Jul 29 11:06  @p_barbera        "JIT compilation in R", by @DrewDim http://www.drewdimmery.com/jit-compilation-in-r/ Really useful post on how to compile functions in #rstats
+361865901571710976  Jul 29 11:08  @treycausey       RT @p_barbera: "JIT compilation in R", by @DrewDim http://www.drewdimmery.com/jit-compilation-in-r/ Really useful post on how to compile functions in #rstats
+361867594195677184  Jul 29 11:15  @michaelhoffman   @JakeRuss Unfortunately not, that was the best I had found. #Rstats
+361872719488368641  Jul 29 11:35  @ucfagls          @JakeRuss @michaelhoffman you could try Pander if you are happy with using Pandoc for conversion? http://rapporter.github.io/pander/ #rstats
+361874858977669121  Jul 29 11:44  @VickySchneiderG  RT @aparnellstats: Been using R for 10 years now and have still never found a bug caused by using = instead of <-. #rstats
+361875870366957568  Jul 29 11:48  @_bmartinez_      Why I want to write nice R code http://goo.gl/7zvBJY #rstats
+361880875538984961  Jul 29 12:08  @RLangTip         An R user's case for Emacs: "Emacs has no learning curve" (http://bit.ly/16kc9Ry) #rstats
+361881558229061633  Jul 29 12:11  @inside_R         #rstats JSM starts Saturday in Montreal http://www.amstat.org/meetings/jsm/2013/
+361881566936444931  Jul 29 12:11  @inside_R         #rstats R user group meetings this week: Birmingham, Redwood City and Pittsburgh http://bit.ly/9hVAPE
+361882343889317888  Jul 29 12:14  @AyiAjavon        RT @inside_R: #rstats R user group meetings this week: Birmingham, Redwood City and Pittsburgh http://bit.ly/9hVAPE
+361882377825435649  Jul 29 12:14  @AyiAjavon        RT @inside_R: #rstats JSM starts Saturday in Montreal http://www.amstat.org/meetings/jsm/2013/
+361882431109873664  Jul 29 12:14  @BrockTibert      My super naive way to score a dataset in #rstats, and then use #python and #pandas to build a @Tableau Data extract  http://nbviewer.ipython.org/urls/raw.github.com/Btibert3/tableau-r/master/Python-R-Tableau-Predictive-Modeling.ipynb
+361884292994969600  Jul 29 12:21  @tonyfischetti    Mac and #rstats users: the excellent documentation browsing app, Dash, just added documentation for R
+361884462746832898  Jul 29 12:22  @jmcyap           RT @RLangTip: An R user's case for Emacs: "Emacs has no learning curve" (http://bit.ly/16kc9Ry) #rstats
+361884723464777730  Jul 29 12:23  @recology_        RT @tonyfischetti: Mac and #rstats users: the excellent documentation browsing app, Dash, just added documentation for R
+361886302808965121  Jul 29 12:29  @JTrevorBurton    RT @RLangTip: An R user's case for Emacs: "Emacs has no learning curve" (http://bit.ly/16kc9Ry) #rstats
+361889687792648193  Jul 29 12:43  @mjcavaretta      Cool! RT @p_barbera: "JIT compilation in R", by @DrewDim http://www.drewdimmery.com/jit-compilation-in-r/ Really useful post on how to compile functions in #rstats
+361892153665929218  Jul 29 12:53  @eeide            RT @RLangTip: An R user's case for Emacs: "Emacs has no learning curve" (http://bit.ly/16kc9Ry) #rstats
+361893499550965760  Jul 29 12:58  @cloudHPC         First summary of first #rstats #hackathon in #munich http://blog.comsysto.com/2013/07/29/r-hackathon-analyzing-munich-user-group-data/
+361894859977662464  Jul 29 13:03  @j2blather        compared to R that is RT @RLangTip: An R user's case for Emacs: "Emacs has no learning curve" (http://bit.ly/16kc9Ry) #rstats
+361896641248243713  Jul 29 13:10  @Hack_in_a_Box    RT @cloudHPC: First summary of first #rstats #hackathon in #munich http://blog.comsysto.com/2013/07/29/r-hackathon-analyzing-munich-user-group-data/
+361898985331490818  Jul 29 13:20  @treycausey       Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+361899076888952832  Jul 29 13:20  @BadHessian       RT @treycausey: Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+361899635868057601  Jul 29 13:22  @samarthbhaskar   RT @treycausey: Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+361900745118859265  Jul 29 13:27  @recology_        Working on some #rstats wrappers to sea ice cover using NOAA data - first e.g. on @figshare  http://bit.ly/13hbnq4
+361900887356080128  Jul 29 13:27  @timelyportfolio  RT @treycausey: Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+361904009201725440  Jul 29 13:40  @figshare         RT @recology_: Working on some #rstats wrappers to sea ice cover using NOAA data - first e.g. on @figshare  http://bit.ly/13hbnq4
+361904142278606849  Jul 29 13:40  @planarrowspace   yesss another guy who isn't afraid to put raw screen captures from R on a blog~ http://chartsnthings.tumblr.com/ via @pi2infinity #Rstats #dataviz
+361904526539763712  Jul 29 13:42  @fonnesbeck       RT @treycausey: Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+361905927496019968  Jul 29 13:47  @PRONOjits        RT @treycausey: Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+361908123440648193  Jul 29 13:56  @ucfagls          What's missing from #rstats that you'd need to replace PAST? Help close the gap? \cc @ButlerLabBham @ThePalAss @PaleoDB @Protohedgehog
+361909311275933697  Jul 29 14:01  @ucfagls          Is that it? Or missing functionality? You can't do it in #rstats?; can try to solve that @Protohedgehog @ButlerLabBham @ThePalAss @PaleoDB
+361909744434298880  Jul 29 14:03  @arnicas          RT @treycausey: Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+361910574898085891  Jul 29 14:06  @ianpcook         72 slides to prove it, too. RT @RLangTip: An R user's case for Emacs: "Emacs has no learning curve" (http://bit.ly/16kc9Ry) #rstats
+361910589246803968  Jul 29 14:06  @quandl           R explained: A new video on the history, community, and applications of R #RStats | Revolutions http://qndl.co/19mwv20
+361916977062756353  Jul 29 14:31  @firas            RT @treycausey: Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+361921652721860610  Jul 29 14:50  @segmenta         RT @treycausey: Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+361922056272625665  Jul 29 14:51  @brantfaircloth   RT @treycausey: Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+361923809697214464  Jul 29 14:58  @romain_francois  RT @CRANberriesFeed: CRAN updates: bibtex http://goo.gl/5g3iZ #rstats
