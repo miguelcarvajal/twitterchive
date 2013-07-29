@@ -13280,3 +13280,25 @@
 361697789161373698  Jul 29 00:00  @recology_        RT @se_hampton: OK I get it - I now understand the widespread love for #ggplot2  - I'm in love with it now too #rstats
 361721741782949888  Jul 29 01:35  @sukrubezen       RT @kdnuggets: Data Science + Gamification + Online training =DataMind: A New Effort to Teach R online for free #rstats http://t.co/H0dtEzuVPu
 361741768477245442  Jul 29 02:55  @IstvanHajnal     Vakantie=>nutteloze politieke webapplicatie rond het tekenen van kaartjes en voornamen van politici. http://spark.rstudio.com/istvanhajnal/DeStrafsteJan/ #Rstats #Shiny
+361755362166194176  Jul 29 03:49  @adolfoalvarez    RT @rafaldotnet: Create a #BI Dashboard with #RStats and http://ASP.NET MVC—nice concept https://www.simple-talk.com/dotnet/asp.net/creating-a-business-intelligence-dashboard-with-r-and-asp.net-mvc-part-1/
+361761522755706881  Jul 29 04:14  @SardelichM       #DigData calculations in #Rstats: http://bioconductor.org/help/course-materials/2013/BioC2013/Urbanek.pdf
+361764201221464064  Jul 29 04:24  @aparnellstats    Been using R for 10 years now and have still never found a bug caused by using = instead of <-. #rstats
+361766049445720064  Jul 29 04:32  @yodacomplex      RT @aparnellstats: Been using R for 10 years now and have still never found a bug caused by using = instead of <-. #rstats
+361769909056847873  Jul 29 04:47  @aparnellstats    @adolfoalvarez @yodacomplex I'm not saying there isn't a difference. I'm just saying that it's never caused me any bugs. = > <- ! #rstats
+361770380953784320  Jul 29 04:49  @adolfoalvarez    @aparnellstats @yodacomplex agree, when you know the differences both are fine. #Rstats
+361771273031909376  Jul 29 04:52  @mgrafit          RT @timelyportfolio: #dimplejs #d3js + #rstats #rCharts | Interactive Legend http://timelyportfolio.github.io/rCharts_dimple/example48_interactive_legend.html thanks @jkiernander for the example @ramnath_vaidya
+361771633947590657  Jul 29 04:54  @izamryan         Calculating covariance and correlation with #rstats http://bit.ly/1aRtEfc
+361773587859906560  Jul 29 05:01  @SardelichM       wrote a gist about all combinations of n elements taken by 1..n (#Rstats): https://gist.github.com/MSardelich/6103071
+361776374790356993  Jul 29 05:13  @MangoTheCat      Upcoming ManchesterR talk: The Secrets of Inverse Brogramming, http://goo.gl/K7jo04   http://goo.gl/2ChybL   #Rstats
+361785390006403072  Jul 29 05:48  @chlalanne        RT @timelyportfolio: #dimplejs #d3js + #rstats #rCharts | Interactive Legend http://timelyportfolio.github.io/rCharts_dimple/example48_interactive_legend.html thanks @jkiernander for the example @ramnath_vaidya
+361792876520288257  Jul 29 06:18  @chlalanne        "Orthogonal Partial Least Squares (OPLS) in #rstats" http://feedly.com/k/14qHCyH
+361805269153480704  Jul 29 07:07  @Aidan_M_Keith    RT @aparnellstats: Been using R for 10 years now and have still never found a bug caused by using = instead of <-. #rstats
+361805710088077312  Jul 29 07:09  @planktonmath     RT @aparnellstats: Been using R for 10 years now and have still never found a bug caused by using = instead of <-. #rstats
+361809159160733697  Jul 29 07:23  @yodacomplex      just discovered complete.cases() to strip out NAs from datasets. better to do so before calling e.g. glm() with na.action=na.omit #rstats
+361811348696477698  Jul 29 07:32  @drago_carlo      Orthogonal Partial Least Squares (OPLS) in R http://www.r-bloggers.com/orthogonal-partial-least-squares-opls-in-r/ via @prismatic #Statistics #DataAnalysis #DataMining #Rstats
+361817740195012609  Jul 29 07:57  @rmflight         RT @se_hampton: OK I get it - I now understand the widespread love for #ggplot2  - I'm in love with it now too #rstats
+361817755210616833  Jul 29 07:57  @KirkDBorne       Very nice set of resources for #Visualization, plus some #OpenData Sources & Analysis Tools: https://sites.google.com/site/braumoellerosu/ug-stats-resource-page #Rstats #DataViz
+361820913341169664  Jul 29 08:10  @tonybreyal       How to change Chart Title in Excel via RDCOMClient? Any kind souls willing to take pity on my question? http://stackoverflow.com/q/17923485/300123?stw=2 #RStats
+361823295353520128  Jul 29 08:19  @OpenAnalytics    The real story behind Architect 0.9.3... http://bit.ly/15Z7AfN #rstats
+361823419630747648  Jul 29 08:20  @wligtenberg      RT @OpenAnalytics: The real story behind Architect 0.9.3... http://bit.ly/15Z7AfN #rstats
+361828984192905217  Jul 29 08:42  @Rbloggers        analyze the youth risk behavior surveillance system (yrbss) with r:  (This article was first publish... http://bit.ly/1523Ehx #rstats
