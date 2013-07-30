@@ -13401,3 +13401,34 @@
 362098338348273664  Jul 30 02:32  @Freakalytics     Working with #RStats vs #Python on #Windows find that R is frendlier with package management, doc & overall experience. #Analytics oriented
 362102199163166721  Jul 30 02:47  @PageViral        RT @Freakalytics: Working with #RStats vs #Python on #Windows find that R is frendlier with package management, doc & overall experience. #Analytics oriented
 362102958449639424  Jul 30 02:50  @RevoAndrie       RT @Freakalytics: Working with #RStats vs #Python on #Windows find that R is frendlier with package management, doc & overall experience. #Analytics oriented
+362105404538355712  Jul 30 03:00  @RaunoHuttunen    @ouzor Yeah and you can get #STL out from #rstats too. I just wanted to keep you up to date on #3Dprinting around your expertise :)
+362107669806460928  Jul 30 03:09  @B3dge            RT @RaunoHuttunen: @ouzor Yeah and you can get #STL out from #rstats too. I just wanted to keep you up to date on #3Dprinting around your expertise :)
+362107937310773248  Jul 30 03:10  @Freakalytics     @GueyeNono definitely not foes, but overlap for #analytics & #python would be 2nd to #Rstats for people looking for ease of use on #Windows
+362108514014986240  Jul 30 03:12  @GueyeNono        @Freakalytics I see. By the way, what are the best friendly languages to #Rstats one should learn? Your answers will help a lot. Thanks.
+362110090368655361  Jul 30 03:19  @PageViral        RT @Freakalytics: @GueyeNono definitely not foes, but overlap for #analytics & #python would be 2nd to #Rstats for people looking for ease of use on #Windows
+362111530059300865  Jul 30 03:24  @GueyeNono        @Freakalytics I'm surprised you didn't add #python to the list. Many say it is really helpful for an #rstats user. What do you think?
+362120874444333056  Jul 30 04:01  @RevoAndrie       I'm on my way to @BirminghamR to talk about using foreach and iterators for #rstats parallel programming
+362135895480074240  Jul 30 05:01  @ianjacobs        Decision modelling for #healtheconomics BCEA 2.0 #rstats http://feedly.com/k/16rUwQ0
+362140540130689025  Jul 30 05:20  @drddawoud        RT @ianjacobs: Decision modelling for #healtheconomics BCEA 2.0 #rstats http://feedly.com/k/16rUwQ0
+362156502020136962  Jul 30 06:23  @romain_francois  #rstats c api discovery of the day, c level connections api in <R_ext/Connections.h>. Not usable from c++ though.
+362162031681482753  Jul 30 06:45  @jmgomez          http://Quandl.com for Time Series Datasets http://ow.ly/nrPuv #rstats #datamining #timeseries
+362165834765971457  Jul 30 07:00  @Rbloggers        How divided is the Senate?:  (This article was first published on   Category: R | Vik's Blog, and ki... http://bit.ly/16ykWPV #rstats
+362176377958580225  Jul 30 07:42  @planktonmath     Any #rstats types know of a more reliable way to read pdfs into R other than the package tm?
+362183329128255489  Jul 30 08:10  @ZeerakW          This is perfect. RT @ianjacobs: Decision modelling for #healtheconomics BCEA 2.0 #rstats http://feedly.com/k/16rUwQ0
+362185614621278208  Jul 30 08:19  @sharon000        60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362187109970345984  Jul 30 08:25  @Iweczek          RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362190901021388801  Jul 30 08:40  @hadleywickham    RT @MDMGeek: Bike Sharing Systems: http://ramnathv.github.io/bikeshare/#.UfcKPv0Npac.twitter << This is awesome. My desire to learn R just got doubled #rstats
+362191035457224704  Jul 30 08:40  @hadleywickham    RT @Freakalytics: Working with #RStats vs #Python on #Windows find that R is frendlier with package management, doc & overall experience. #Analytics oriented
+362191203682365441  Jul 30 08:41  @hadleywickham    RT @romain_francois: #rstats c api discovery of the day, c level connections api in <R_ext/Connections.h>. Not usable from c++ though.
+362191528191471617  Jul 30 08:42  @hadleywickham    RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362191988709277696  Jul 30 08:44  @flavioclesio     RT @jmgomez: http://Quandl.com for Time Series Datasets http://ow.ly/nrPuv #rstats #datamining #timeseries
+362192009861148672  Jul 30 08:44  @alung            RT @MDMGeek: Bike Sharing Systems: http://ramnathv.github.io/bikeshare/#.UfcKPv0Npac.twitter << This is awesome. My desire to learn R just got doubled #rstats
+362192076626083842  Jul 30 08:44  @RyanGuggenmos    RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362192390058016770  Jul 30 08:46  @jpbach           RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362192792992231424  Jul 30 08:47  @BrockTibert      My simple post on leveraging #ipython and #pandas to save an #rstats dataframe as a Tableau Data Extract. http://www.brocktibert.com/blog/2013/07/30/basic-proof-of-concept-save-an-r-dataframe-as-a-tableau-data-extract/
+362193966642364418  Jul 30 08:52  @p5k12            RT @MDMGeek: Bike Sharing Systems: http://ramnathv.github.io/bikeshare/#.UfcKPv0Npac.twitter << This is awesome. My desire to learn R just got doubled #rstats
+362194042999685123  Jul 30 08:52  @thmcmahon        RT @MDMGeek: Bike Sharing Systems: http://ramnathv.github.io/bikeshare/#.UfcKPv0Npac.twitter << This is awesome. My desire to learn R just got doubled #rstats
+362194193361272832  Jul 30 08:53  @yodacomplex      RT @planktonmath: Any #rstats types know of a more reliable way to read pdfs into R other than the package tm?
+362194373754097664  Jul 30 08:54  @SuaJorge         RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362195317170503680  Jul 30 08:57  @webbedfeet       RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362195652232482816  Jul 30 08:59  @webbedfeet       RT @Freakalytics: Working with #RStats vs #Python on #Windows find that R is frendlier with package management, doc & overall experience. #Analytics oriented
