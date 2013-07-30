@@ -13275,6 +13275,7 @@
 361644905203904515  Jul 28 20:30  @Rbloggers        Orthogonal Partial Least Squares (OPLS) in R:  (This article was first published on   imDEV » r-blog... http://bit.ly/16rLuCk #rstats
 361648347129458688  Jul 28 20:44  @izamryan         Calculating covariance and correlation with #rstats http://bit.ly/14ZZs1R
 361652443777474560  Jul 28 21:00  @Rbloggers        BCEA 2.0:  (This article was first published on   Gianluca Baio's blog, and kindly contributed to R-... http://bit.ly/14qux8I #rstats
+361657590926688259  Jul 28 21:21  @clarkfitzg       @johnros2013 Incredible post! I couldn't agree with you more about the power and flexibility provided by AWS. http://bit.ly/1506bc6 #Rstats
 361692479461933056  Jul 28 23:39  @tomschenkjr      @jaredlander @eddelbuettel @hadleywickham #rstats you must have missed the #ggplot2 tutorial last year! http://www.meetup.com/The-Chicago-Data-Visualization-Group/events/84581822/
 361697744248770561  Jul 29 00:00  @se_hampton       OK I get it - I now understand the widespread love for #ggplot2  - I'm in love with it now too #rstats
 361697789161373698  Jul 29 00:00  @recology_        RT @se_hampton: OK I get it - I now understand the widespread love for #ggplot2  - I'm in love with it now too #rstats
@@ -13389,3 +13390,14 @@
 362009700788744193  Jul 29 20:40  @Datagrrl         RT @MDMGeek: Bike Sharing Systems: http://ramnathv.github.io/bikeshare/#.UfcKPv0Npac.twitter << This is awesome. My desire to learn R just got doubled #rstats
 362010487086518274  Jul 29 20:43  @ramnath_vaidya   RT @MDMGeek: Bike Sharing Systems: http://ramnathv.github.io/bikeshare/#.UfcKPv0Npac.twitter << This is awesome. My desire to learn R just got doubled #rstats
 362013312285810689  Jul 29 20:54  @andrewheiss      RT @treycausey: Pandas to #rstats cheat sheet. https://sites.google.com/site/gappy3000/home/pandas_r
+362027117258608640  Jul 29 21:49  @andrewheiss      compactr = fantastic #rstats package by @carlislerainey for better base graphics in R http://www.carlislerainey.com/compactr/
+362027853816143872  Jul 29 21:52  @StatsInTheWild   I can't even begin to imagine home many hours of work @hadleywickham has saved me.  devtools, plyr, reshape, AND ggplot2 #rstats #thankyou
+362028981345730561  Jul 29 21:56  @andrewheiss      R spells for data wizards (by @thomaslevine) #rstats http://thomaslevine.com/!/r-spells-for-data-wizards/
+362036223507828736  Jul 29 22:25  @carlislerainey   RT @andrewheiss: compactr = fantastic #rstats package by @carlislerainey for better base graphics in R http://www.carlislerainey.com/compactr/
+362049286730563584  Jul 29 23:17  @monsoontrader    Data mining makes me feel dirty #stats #rstats
+362069197116813312  Jul 30 00:36  @gdemin           RT @aparnellstats: Been using R for 10 years now and have still never found a bug caused by using = instead of <-. #rstats
+362079796668284929  Jul 30 01:18  @AjayOza_Actual   @GilPress: 60+ R resources to improve your data skills http://shar.es/kQdJO via @computerworld #BigData #Analytics  MT #Rstats
+362088234169282560  Jul 30 01:52  @ouzor            @RaunoHuttunen Cool! Though I still prefer #rstats over #matlab :)
+362098338348273664  Jul 30 02:32  @Freakalytics     Working with #RStats vs #Python on #Windows find that R is frendlier with package management, doc & overall experience. #Analytics oriented
+362102199163166721  Jul 30 02:47  @PageViral        RT @Freakalytics: Working with #RStats vs #Python on #Windows find that R is frendlier with package management, doc & overall experience. #Analytics oriented
+362102958449639424  Jul 30 02:50  @RevoAndrie       RT @Freakalytics: Working with #RStats vs #Python on #Windows find that R is frendlier with package management, doc & overall experience. #Analytics oriented
