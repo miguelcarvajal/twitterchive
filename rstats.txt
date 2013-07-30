@@ -13432,3 +13432,55 @@
 362194373754097664  Jul 30 08:54  @SuaJorge         RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
 362195317170503680  Jul 30 08:57  @webbedfeet       RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
 362195652232482816  Jul 30 08:59  @webbedfeet       RT @Freakalytics: Working with #RStats vs #Python on #Windows find that R is frendlier with package management, doc & overall experience. #Analytics oriented
+362196081246867456  Jul 30 09:00  @Rbloggers        Interfacing R and Google maps:  (This article was first published on   R Video tutorial for Spatial ... http://bit.ly/1cjNMIE #rstats
+362197876056670209  Jul 30 09:07  @ZeerakW          Only use Emacs if you’re used to it RT @RLangTip: An R user’s case for Emacs: »Emacs has no learning curve« (http://bit.ly/16kc9Ry) #rstats
+362197973985280000  Jul 30 09:08  @__mharrison__    RT @Freakalytics: Working with #RStats vs #Python on #Windows find that R is frendlier with package management, doc & overall experience. #Analytics oriented
+362199210675798017  Jul 30 09:13  @IronistM         Let's see what we can do with this..."Easier Database Querying with R"  http://bit.ly/16gfRxR #rstats
+362200223449219072  Jul 30 09:17  @MangoTheCat      Lattice v ggplot2: a head to head at next LondonR http://goo.gl/X1aKx #Rstats
+362202964489797634  Jul 30 09:28  @mmeierer         RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362207023187767296  Jul 30 09:44  @richardburcher   RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362207371302420480  Jul 30 09:45  @ozjimbob         RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362208757301776387  Jul 30 09:51  @econcomp         RT @sharon000: Google Developers release a series of videos on learning to program in R http://bit.ly/12nmPAf #rstats
+362209042669637633  Jul 30 09:52  @econcomp         RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362209072977686528  Jul 30 09:52  @econcomp         RT @romain_francois: #rstats c api discovery of the day, c level connections api in <R_ext/Connections.h>. Not usable from c++ though.
+362212329464672257  Jul 30 10:05  @Aidan_M_Keith    RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362215166626107394  Jul 30 10:16  @xccds            RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362217379951951872  Jul 30 10:25  @vaiseys          Glad I never invested in #Rstats. The cool kids are moving to #Python anyway. Better to be uncool with a program I like (#Stata).
+362219578987778048  Jul 30 10:34  @hurricanejim     For statistics (#Rstats) I admit to being an R soul (say it fast). #sciconfessions
+362220560584945666  Jul 30 10:38  @wligtenberg      @hadleywickham Analysis of the Ubuntu Edge crowdfunding using #ggplot2 and #rstats http://www.openanalytics.eu/blog/crowdfunding-ubuntu-edge-will-fail
+362221715931140097  Jul 30 10:42  @yaacovp          HOW I FEEL IN THIS MOMENT RIGHT NOW! http://www.youtube.com/watch?v=zuMJBLio7FU #rstats
+362223457007697920  Jul 30 10:49  @ucfagls          @vaiseys good luck with that; #rstats killer feature is the packages on CRAN, Bioconductor & etc. Will take phythonistas time to match that
+362224459530248193  Jul 30 10:53  @fire_fox         RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362224868726542337  Jul 30 10:55  @pschulam         RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362224961865256960  Jul 30 10:55  @chipmonkey75     Dang useful! ... 60+ R resources to improve your data skills http://shar.es/kRxfF via @computerworld #rstats
+362225007688032258  Jul 30 10:55  @YhatHQ           PivotalR - interact with the Pivotal (Greenplum) Database using #Rstats - https://github.com/madlib-internal/PivotalR
+362225685567242243  Jul 30 10:58  @ucfagls          @GraemeTLloyd can see some of the time series things aren't as accessible in #rstats (REDFIT for example, LombeScargle, ...) @Protohedgehog
+362236238306095104  Jul 30 11:40  @jaredlander      Anyone want to test coefplot for survival models? #rstats
+362238094273036292  Jul 30 11:47  @YhatHQ           madlib and #Rstats combine forces - https://docs.google.com/presentation/d/103dv1h4VBCBAixqpezJzWmffyrcRR2h9MCJBTfMOBIM/edit
+362243588358275072  Jul 30 12:09  @RLangTip         Object names in R usually contain letters, numbers, periods and underscores, but other names are possible: http://bit.ly/M6msE6 #rstats
+362243945603932160  Jul 30 12:11  @timelyportfolio  RT @MangoTheCat: Lattice v ggplot2: a head to head at next LondonR http://goo.gl/X1aKx #Rstats
+362244399377301504  Jul 30 12:12  @BrianSpiering    BARUG (Bay Area #Rstats User Group) meeting tonight. Big Data and C-like coding extensions. http://www.meetup.com/R-Users/events/125838832/
+362247645231714304  Jul 30 12:25  @CMBuddle         I do not know how to use R (the stats package) #rstats  #sciconfessions
+362248015009951745  Jul 30 12:27  @Lewis_Lab        @CMBuddle not knowing how to use it has never stopped me from using R #rstats
+362249829524578305  Jul 30 12:34  @1896MarineBand   RT @CMBuddle: I do not know how to use R (the stats package) #rstats  #sciconfessions
+362249925079216128  Jul 30 12:34  @bianca_lt        RT @CMBuddle: I do not know how to use R (the stats package) #rstats  #sciconfessions
+362250203593584641  Jul 30 12:35  @NestorMontano    RT @sharon000 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362253453390659588  Jul 30 12:48  @hadleywickham    RT @wligtenberg: @hadleywickham Analysis of the Ubuntu Edge crowdfunding using #ggplot2 and #rstats http://www.openanalytics.eu/blog/crowdfunding-ubuntu-edge-will-fail
+362254594115502081  Jul 30 12:53  @hadleywickham    @ucfagls @vaiseys the _really_ cool kids are moving from python to #rstats ;)
+362255785125883905  Jul 30 12:58  @eddelbuettel     RT @wligtenberg: @hadleywickham Analysis of the Ubuntu Edge crowdfunding using #ggplot2 and #rstats http://www.openanalytics.eu/blog/crowdfunding-ubuntu-edge-will-fail
+362256366473195520  Jul 30 13:00  @ucfagls          RT @hadleywickham: @ucfagls @vaiseys the _really_ cool kids are moving from python to #rstats ;)
+362257154327068672  Jul 30 13:03  @revodavid        RT @hadleywickham: @ucfagls @vaiseys the _really_ cool kids are moving from python to #rstats ;)
+362257385567436800  Jul 30 13:04  @dickoah          RT @hadleywickham: @ucfagls @vaiseys the _really_ cool kids are moving from python to #rstats ;)
+362257990016958466  Jul 30 13:06  @cloudHPC         RT @hadleywickham: @ucfagls @vaiseys the _really_ cool kids are moving from python to #rstats ;)
+362260932182814721  Jul 30 13:18  @NEdgingtonPhD    Immersed in #python #pandas in #ipythonnotebook this morning...Enjoying its #Rstats -like features!
+362264317275541505  Jul 30 13:31  @hfmuehleisen     Garbage collector took my SEXP! #Rstats http://www.youtube.com/watch?v=JOyt-EhHN8A
+362265044630777856  Jul 30 13:34  @timelyportfolio  RT @hadleywickham: @ucfagls @vaiseys the _really_ cool kids are moving from python to #rstats ;)
+362268031289786368  Jul 30 13:46  @Rbloggers        Crowdfunding the Ubuntu Edge will fail:  (This article was first published on   Open Analytics - Blo... http://bit.ly/14z0bRn #rstats
+362273888429813760  Jul 30 14:10  @Pepucho666       @hadleywickham @ucfagls @vaiseys no really really cool guys are calling  #rstats from #ipython notebook!!
+362275552813527041  Jul 30 14:16  @emble64          Any recommendations of documents introducing the reshape() function in an intuitive way for newbies? #Rstats #data
+362280401483464705  Jul 30 14:35  @quandl           Building a custom database of country time-series #data using Quandl by @stevepowell99 #RStats http://qndl.co/YGFiaP
+362280709190193152  Jul 30 14:37  @thatdnaguy       RT @emble64: Any recommendations of documents introducing the reshape() function in an intuitive way for newbies? #Rstats #data
+362282451248226304  Jul 30 14:44  @ucfagls          @Pepucho666 no, the /uber/ cool kids are using butterflies with #rstats http://xkcd.com/378/ @hadleywickham @vaiseys
+362282476997058560  Jul 30 14:44  @recology_        wrt last tweet, #rstats code using @rOpenSci pkgs for @ImpactStory @altmetric  for #ggplot2 viz's http://bit.ly/19vlSKd #altmetrics
+362283295892975617  Jul 30 14:47  @fazol            Analogous to sobriety chips, let us setup something like that for "days since you ran a loop" in #rstats
+362284857054867456  Jul 30 14:53  @recology_        you prob want reshape2 - try  http://bit.ly/13sGStL MT @emble64: rec's 4 intro to reshape() fxn in an intuitive way for newbies? #Rstats
