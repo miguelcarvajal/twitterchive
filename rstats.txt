@@ -13484,3 +13484,34 @@
 362282476997058560  Jul 30 14:44  @recology_        wrt last tweet, #rstats code using @rOpenSci pkgs for @ImpactStory @altmetric  for #ggplot2 viz's http://bit.ly/19vlSKd #altmetrics
 362283295892975617  Jul 30 14:47  @fazol            Analogous to sobriety chips, let us setup something like that for "days since you ran a loop" in #rstats
 362284857054867456  Jul 30 14:53  @recology_        you prob want reshape2 - try  http://bit.ly/13sGStL MT @emble64: rec's 4 intro to reshape() fxn in an intuitive way for newbies? #Rstats
+362293176599461888  Jul 30 15:26  @zenrhino         Sweet pan-fried Jesus. So happy to put this research project to bed. Learned a ton of #Rstats and Excel, but ready to move the eff on.
+362294144313475073  Jul 30 15:30  @drago_carlo      Interfacing R and Google maps http://www.r-bloggers.com/interfacing-r-and-google-maps/ @Rbloggers #Statistics #SpatialStatistics #GoogleMaps #Rstats
+362295305682690048  Jul 30 15:35  @jaredlander      @Pepucho666 @hadleywickham @ucfagls @vaiseys I've done that, hard to do from Windows, ok on Linux, prefer pure #rstats
+362300075361316864  Jul 30 15:54  @ukituki          60+ R resources to improve your data skills #rstats http://sco.lt/67VMA5
+362303182279426048  Jul 30 16:06  @recology_        [Blog] #rstats resources slides http://bit.ly/14zxGDd
+362304764677074944  Jul 30 16:12  @rcmorriss        RT @recology_: [Blog] #rstats resources slides http://bit.ly/14zxGDd
+362305121914339329  Jul 30 16:14  @hfmuehleisen     Slides from our #SSDBM2013 talk on the #Rstats <-> @MonetDB integration are online at  http://hannes.muehleisen.org/SSDBM2013-databases-and-statistics-slides.pdf (cc @tslumley)
+362306177197031424  Jul 30 16:18  @MikejMcDermott   RT @recology_: [Blog] #rstats resources slides http://bit.ly/14zxGDd
+362310247181848577  Jul 30 16:34  @BobMuenchen      60+ #Rstats resources to improve your data skills! http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills
+362311274341740544  Jul 30 16:38  @zentree          Extracting name from email using #Rstats substr(email, 1, regexpr('@', email)[1] - 1) Works fine one at the time, truncates otherwise. Why?
+362317317247471616  Jul 30 17:02  @Rbloggers        Occupancy model fit & AUC:  (This article was first published on   Ecology in silico, and kindly con... http://bit.ly/1clieCa #rstats
+362318290607030272  Jul 30 17:06  @arnicas          Wow, this is cool for merging stuff in maps with #rstats: MT @mgiraldo: something like this? http://www.nceas.ucsb.edu/scicomp/usecases/PolygonDissolveOperationsR
+362319165559799808  Jul 30 17:09  @mgiraldo         RT @arnicas: Wow, this is cool for merging stuff in maps with #rstats: MT @mgiraldo: something like this? http://www.nceas.ucsb.edu/scicomp/usecases/PolygonDissolveOperationsR
+362320493950414848  Jul 30 17:15  @timelyportfolio  RT @arnicas: Wow, this is cool for merging stuff in maps with #rstats: MT @mgiraldo: something like this? http://www.nceas.ucsb.edu/scicomp/usecases/PolygonDissolveOperationsR
+362321694821593088  Jul 30 17:19  @HarlanH          RT @arnicas: Wow, this is cool for merging stuff in maps with #rstats: MT @mgiraldo: something like this? http://www.nceas.ucsb.edu/scicomp/usecases/PolygonDissolveOperationsR
+362324581706506242  Jul 30 17:31  @recology_        Dispersion-based weighting - a new function in vegan (from Eduard Szöcs)  http://bit.ly/11t0SPa #rstats
+362325126030696449  Jul 30 17:33  @JGreenbrookHeld  Interesting side note from yesterday's #NZBigData conference: not one speaker mentioned #rstats.
+362325305639182340  Jul 30 17:34  @qanderson7       RT @SardelichM: wrote a gist about all combinations of n elements taken by 1..n (#Rstats): https://gist.github.com/MSardelich/6103071
+362326182668140544  Jul 30 17:37  @JGreenbrookHeld  @georgedarroch Main sponsor was SAS, but last year a handful of speakers mentioned #rstats
+362326354613633024  Jul 30 17:38  @JGreenbrookHeld  @kaupapa To be fair: #rstats on it's own isn't great at handling #bigdata. #nzbigdata
+362338400512114689  Jul 30 18:26  @Aidan_M_Keith    RT @recology_: Dispersion-based weighting - a new function in vegan (from Eduard Szöcs)  http://bit.ly/11t0SPa #rstats
+362341416996843520  Jul 30 18:38  @GSwithR          RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362342558396973057  Jul 30 18:42  @genetics_blog    Anyone know how syntax highlight #Rstats code with #Github flavored markdown? ```R and ```r don't seem to work.
+362343374709202944  Jul 30 18:46  @GSwithR          RT @RLangTip: An R user's case for Emacs: "Emacs has no learning curve" (http://bit.ly/16kc9Ry) #rstats
+362343930660003840  Jul 30 18:48  @stevepiccolo     RT @aparnellstats: Been using R for 10 years now and have still never found a bug caused by using = instead of <-. #rstats
+362344742559821827  Jul 30 18:51  @alex_yakubovich  RT @sharon000: 60+ R resources to improve your data skills http://cwrld.us/Rresources For all levels-no longer just beginners #rstats
+362348173966061570  Jul 30 19:05  @jabawack         Interfacing #R and #Googlemaps | (R news & #tutorials) http://buff.ly/13wBeFW #datascience #rstats
+362356569058451456  Jul 30 19:38  @hylopsar         yeah… I'm afraid telephone customer service to answer user questions on our #Rstats packages is where I'll have to draw the line.
+362358414745157634  Jul 30 19:45  @TATA_BOX         Interfacing R and Google maps | (R news & tutorials) http://www.r-bloggers.com/interfacing-r-and-google-maps/ #rstats
+362362003504893952  Jul 30 20:00  @lucaborger       Looks good! RT @RLangTip An R user's case for Emacs: "Emacs has no learning curve" (http://bit.ly/16kc9Ry ) #rstats
+362364581827448832  Jul 30 20:10  @quantlabs        For quant trading: Introducing my #FREE #opensource #Rstats #Hadoop for #BigData on SourceForge http://ow.ly/nsFRw
