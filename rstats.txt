@@ -13544,3 +13544,72 @@
 362531877560659970  Jul 31 07:15  @CoreySparks1     R resources http://feedproxy.google.com/~r/RBloggers/~3/FCGvBpNYcnc/ via @feedly #rstats
 362547423484182528  Jul 31 08:16  @sharon000        Datamind posts free Summer of R interactive class to learn some basic R http://bit.ly/1eaOMNh via @statslabdublin #rstats
 362548018651725824  Jul 31 08:19  @rukku            RT @sharon000: Datamind posts free Summer of R interactive class to learn some basic R http://bit.ly/1eaOMNh via @statslabdublin #rstats
+362558470307856384  Jul 31 09:00  @hadleywickham    RT @murraystokely: There are still a few spots left for my mini-course at JSM next week about software engineering for #rstats. http://t.co/7jXLoowL5P
+362568202028466177  Jul 31 09:39  @RevolutionR      RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
+362568413383634944  Jul 31 09:40  @davidcoallier    RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
+362568656258994176  Jul 31 09:41  @jingbay          RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
+362569533019529219  Jul 31 09:44  @_ZPH             RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
+362569621330595843  Jul 31 09:45  @acepor           RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
+362569914537623552  Jul 31 09:46  @jmcyap           RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
+362570809941827585  Jul 31 09:49  @gagliol          #Rstats Data Frames in #Python « DECISION STATS http://decisionstats.com/2012/08/22/data-frame-in-python/
+362571048492875776  Jul 31 09:50  @davetang31       RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
+362571467856154624  Jul 31 09:52  @corynissen       Saw the #Rstats mailing list described as the "GTFOnoob-mailinglist". Yup, sad, but that's about it
+362572175582044161  Jul 31 09:55  @siah             Cool #rstats analysis "Crowdfunding the Ubuntu Edge will fail"  http://ow.ly/nu5uG
+362572548787015680  Jul 31 09:56  @ljvillanueva     RT @siah: Cool #rstats analysis "Crowdfunding the Ubuntu Edge will fail"  http://ow.ly/nu5uG
+362573415179239425  Jul 31 10:00  @peterleong       RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
+362578037159624705  Jul 31 10:18  @ThomasAWheeler   RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
+362578149646671872  Jul 31 10:19  @samarthbhaskar   #rstats for people coming from other languages http://bit.ly/16h0J37" (cc @hspter, for your bitly bundle)
+362578594632962049  Jul 31 10:20  @ingorohlfing     For those who don't know it yet: The origin and history of R http://is.gd/kCzznF (video) #rproject #rstats
+362580626974584833  Jul 31 10:28  @treycausey       RT @samarthbhaskar: #rstats for people coming from other languages http://bit.ly/16h0J37" (cc @hspter, for your bitly bundle)
+362581646605684736  Jul 31 10:32  @treycausey       RT @siah: Cool #rstats analysis "Crowdfunding the Ubuntu Edge will fail"  http://ow.ly/nu5uG
+362582117969965057  Jul 31 10:34  @statisticsblog   R tip of the day - how to save an R dataframe as a Tableau Data Extract. http://i.cx/14igR6P #r #rstats
+362582793663946752  Jul 31 10:37  @johnmyleswhite   Although I adore Radford Neal's work, I can't help but feel that the growing fragmentation of #rstats is a bad sign: http://radfordneal.wordpress.com/2013/07/24/deferred-evaluation-in-renjin-riposte-and-pqr/
+362583400244183041  Jul 31 10:39  @ryanjparker      RT @johnmyleswhite: Although I adore Radford Neal's work, I can't help but feel that the growing fragmentation of #rstats is a bad sign: http://t.co/GY5Liygu2V
+362585574864994304  Jul 31 10:48  @timelyportfolio  RT @drago_carlo: R in Insurance: Presentations are online http://www.r-bloggers.com/r-in-insurance-presentations-are-online/ via @rbloggers #Statistics #Insurance #Rstats
+362586166576418816  Jul 31 10:50  @quandl           Review: Kölner R meeting 19 July 2013 by Markus Gesmann http://qndl.co/13plXb4 #RStats
+362586200231514113  Jul 31 10:51  @josecamoessilva  RT @johnmyleswhite: Although I adore Radford Neal's work, I can't help but feel that the growing fragmentation of #rstats is a bad sign: http://t.co/GY5Liygu2V
+362589078736224257  Jul 31 11:02  @Leaderamp        60+ R resources to improve your data skills http://buff.ly/18RDi4s via @computerworld #free #rproject #rstats
+362592403963650049  Jul 31 11:15  @koenhavlik       RT @johnmyleswhite: Although I adore Radford Neal's work, I can't help but feel that the growing fragmentation of #rstats is a bad sign: http://t.co/GY5Liygu2V
+362597313903988736  Jul 31 11:35  @IbnFirnas        GitHub-like #Git punchcard in #Rstats: https://github.com/ibnfirnas/home-bin/blob/master/src/git-punchcard http://t.co/cQers8Rjt9
+362599986963296256  Jul 31 11:45  @statisticsblog   The first conference on R in Insurance at the Cass Business School. http://i.cx/18MFQgz #r #rstats #insurance
+362604675045916675  Jul 31 12:04  @jabawack         Creating publication quality graphs in #R |  http://buff.ly/13zoePW #tutorials #rstats
+362605403147739137  Jul 31 12:07  @RLangTip         How to use the ifelse function to dichotomize a variable [video]: http://bit.ly/N1IVBw #rstats
+362605741128945664  Jul 31 12:08  @arRMorgan        RT @RLangTip: How to use the ifelse function to dichotomize a variable [video]: http://bit.ly/N1IVBw #rstats
+362605765678215171  Jul 31 12:08  @AnalyticsPierce  RT @RLangTip: How to use the ifelse function to dichotomize a variable [video]: http://bit.ly/N1IVBw #rstats
+362606171644895234  Jul 31 12:10  @TommiPans        RT @RLangTip: How to use the ifelse function to dichotomize a variable [video]: http://bit.ly/N1IVBw #rstats
+362606427761696768  Jul 31 12:11  @_bmartinez_      Relocating the Canarian Islands #rstats http://t.co/7soiugEwwA
+362611318127198209  Jul 31 12:30  @YhatHQ           #Rstats style guide - https://github.com/hadley/devtools/wiki/Style
+362612004256612352  Jul 31 12:33  @revodavid        Industry analyst says real analysts use R: http://bit.ly/15vIOVF #rstats
+362614390073204736  Jul 31 12:43  @adolfoalvarez    RT @revodavid: Industry analyst says real analysts use R: http://bit.ly/15vIOVF #rstats
+362614918509375488  Jul 31 12:45  @adolfoalvarez    RT @YhatHQ: #Rstats style guide - https://github.com/hadley/devtools/wiki/Style
+362616438369951746  Jul 31 12:51  @revodavid        R jobs growing fast http://bit.ly/12FPLVY #rstats cc @feiyus
+362616600207171585  Jul 31 12:51  @BrockTibert      RT @revodavid: R jobs growing fast http://bit.ly/12FPLVY #rstats cc @feiyus
+362616715311452161  Jul 31 12:52  @revodavid        SAS jobs on the decline http://bit.ly/12FPWRg #rstats cc @feiyus
+362617036595142656  Jul 31 12:53  @jonsedar         It's about time. RT @revodavid: SAS jobs on the decline http://bit.ly/12FPWRg #rstats cc @feiyus
+362617120355401730  Jul 31 12:53  @dnusinow         RT @revodavid: R jobs growing fast http://bit.ly/12FPLVY #rstats cc @feiyus
+362617591740633088  Jul 31 12:55  @rmflight         .@revodavid @feiyus the #rstats graph seems to show higher %, and is growing http://www.indeed.com/jobtrends?q=R&l=
+362617691594436609  Jul 31 12:56  @BrockTibert      To piggyback @revodavid, here is chart that shows the job growth/decline for #rstats, #spss, and #sas.  Wow!  http://www.indeed.com/jobtrends?q=SPSS%2C+R+Statistics%2C+SAS&l=
+362617821869514752  Jul 31 12:56  @XVtores          RT @revodavid: SAS jobs on the decline http://bit.ly/12FPWRg #rstats cc @feiyus
+362617854622838785  Jul 31 12:56  @XVtores          RT @revodavid: R jobs growing fast http://bit.ly/12FPLVY #rstats cc @feiyus
+362617873497210880  Jul 31 12:56  @romain_francois  RT @revodavid: R jobs growing fast http://bit.ly/12FPLVY #rstats cc @feiyus
+362618102908850176  Jul 31 12:57  @hadleywickham    RT @YhatHQ: #Rstats style guide - https://github.com/hadley/devtools/wiki/Style
+362619192698081280  Jul 31 13:02  @rystanman        Check out P.Legendre's custom #rstats statistical routines http://adn.biol.umontreal.ca/~numericalecology/Rcode/ My Fave: Permutational Pearson Correlation "corPerm3.R"
+362619748120399873  Jul 31 13:04  @lurino           RT @YhatHQ: #Rstats style guide - https://github.com/hadley/devtools/wiki/Style
+362620391967043586  Jul 31 13:06  @dannydb_stellar  RT @sharon000: Datamind posts free Summer of R interactive class to learn some basic R http://bit.ly/1eaOMNh via @statslabdublin #rstats
+362620667784478720  Jul 31 13:07  @MarchiMax        RT @revodavid: R jobs growing fast http://bit.ly/12FPLVY #rstats cc @feiyus
+362620683219509248  Jul 31 13:08  @MarchiMax        RT @revodavid: SAS jobs on the decline http://bit.ly/12FPWRg #rstats cc @feiyus
+362621020949065729  Jul 31 13:09  @ErikaMudrak      Help!  How do I tell #rstats to give me a list of actual objects in my workspace, not a list of their names (strings), like ls() returns?
+362621140549640196  Jul 31 13:09  @mpane21          RT @revodavid: R jobs growing fast http://bit.ly/12FPLVY #rstats cc @feiyus
+362621534914883585  Jul 31 13:11  @iamkimiam        Is there a way to set sum contrasts (no baseline, or baseline from mean) in #mlogit? Thanks! #rstats #rhelp
+362622521654255617  Jul 31 13:15  @toates_19        RT @YhatHQ: #Rstats style guide - https://github.com/hadley/devtools/wiki/Style
+362626664850653184  Jul 31 13:31  @YhatHQ           "try unique vignette ?"" - learn the #Rstats vocab - https://github.com/hadley/devtools/wiki/Vocabulary
+362629580344930304  Jul 31 13:43  @MColebrook       RT @revodavid: R jobs growing fast http://bit.ly/12FPLVY #rstats cc @feiyus
+362631882883608576  Jul 31 13:52  @Timberati        RT @ErikaMudrak: Help!  How do I tell #rstats to give me a list of actual objects in my workspace, not a list of their names (strings), like ls() returns?
+362631981965651971  Jul 31 13:52  @ArthurFlam       RT @YhatHQ: #Rstats style guide - https://github.com/hadley/devtools/wiki/Style
+362633954517463040  Jul 31 14:00  @Rbloggers        Butler Analytics: Real Analysts use R:  (This article was first published on   Revolutions, and kind... http://bit.ly/17iNigf #rstats
+362634200232361984  Jul 31 14:01  @hadleywickham    @ErikaMudrak setNames(lapply(ls(), get), ls()) #rstats
+362634212165173251  Jul 31 14:01  @statisticsblog   A quick and simple (but unprofitable) trading strategy with R.  http://i.cx/11uEeGn #r #rstats #finance #trading
+362634396899082242  Jul 31 14:02  @jabawack         Exploratory #DataAnalysis: Combining Histograms and Density Plots in #R ~ #tutorials http://buff.ly/18S4EaB #rstats #datascience
+362636987263500289  Jul 31 14:12  @timelyportfolio  RT @IbnFirnas: GitHub-like #Git punchcard in #Rstats: https://t.co/4igs4vcJBt http://t.co/cQers8Rjt9
+362638536505176065  Jul 31 14:18  @ErikaMudrak      @SchaunW Wow!  That's great.  I had to use mget(ls(), envir=as.environment(-1)) because it wanted an envir argument... #rstats
+362645528112152576  Jul 31 14:46  @CanHealthyOcean  RT @rystanman: Check out P.Legendre's custom #rstats statistical routines http://t.co/8VHJi71NM8 My Fave: Permutational Pearson Correlation "corPerm3.R"
