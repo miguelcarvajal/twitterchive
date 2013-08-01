@@ -13613,3 +13613,33 @@
 362636987263500289  Jul 31 14:12  @timelyportfolio  RT @IbnFirnas: GitHub-like #Git punchcard in #Rstats: https://t.co/4igs4vcJBt http://t.co/cQers8Rjt9
 362638536505176065  Jul 31 14:18  @ErikaMudrak      @SchaunW Wow!  That's great.  I had to use mget(ls(), envir=as.environment(-1)) because it wanted an envir argument... #rstats
 362645528112152576  Jul 31 14:46  @CanHealthyOcean  RT @rystanman: Check out P.Legendre's custom #rstats statistical routines http://t.co/8VHJi71NM8 My Fave: Permutational Pearson Correlation "corPerm3.R"
+362649080284975104  Jul 31 15:00  @Rbloggers        I made a mistake, please don’t shoot me:  (This article was first published on   The Shape of Code »... http://bit.ly/16EQEv4 #rstats
+362650168019009536  Jul 31 15:05  @orlandomezquita  Put multiple #ggplot2 graphs in one page: http://bit.ly/1c0HNKj #rstats
+362651471478661123  Jul 31 15:10  @bridgetteweiglk  RT @danm1978: Early morning start for #rstats training in #Londonbaby
+362657048770510848  Jul 31 15:32  @recology_        Awesome! Got a pull request on my presentation on #rstats resources http://bit.ly/15w7qh0
+362658598985662464  Jul 31 15:38  @adolfoalvarez    RT @recology_: Awesome! Got a pull request on my presentation on #rstats resources http://bit.ly/15w7qh0
+362660833400070144  Jul 31 15:47  @tonybreyal       How to implement proximity rules in tm dictionary for counting words in text documents? http://stackoverflow.com/q/17979104/300123?stw=2 #rstats #wordstat #tm
+362666587062411264  Jul 31 16:10  @TrevorABranch    RT @YhatHQ: #Rstats style guide - https://t.co/iJecURlzYl
+362667516738273282  Jul 31 16:14  @recology_        [Blog] Pres from today - intro to data manipulation/viz and some community #ecology http://bit.ly/133po7g #rstats
+362673133779550209  Jul 31 16:36  @timelyportfolio  #Rstats in Insurance: Presentations are online http://feedproxy.google.com/~r/blogspot/rKuKM/~3/jUzubKBLduI/r-in-insurance-presentations-are-online.html via @feedly
+362673586902810624  Jul 31 16:38  @treycausey       Life improving shortcuts for working in #rstats coming from Python and SQL: len <- length, distinct <- unique.
+362675915525861377  Jul 31 16:47  @GueyeNono        What do you think is/are the best programming language(s) to learn alongside #Rstats and why?
+362676067611328512  Jul 31 16:48  @quantlabs        For #quant trading: Introducing my #FREE opensource #Rstats #Hadoop for #BigData on SourceForge http://ow.ly/nsHWM
+362692479692185600  Jul 31 17:53  @kdnuggets        60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+362692839932567553  Jul 31 17:54  @nicoleradziwill  RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://t.co/Ue7Y2NPO2m
+362694568807903232  Jul 31 18:01  @timelyportfolio  MT slidify simply amazing; lots of undocumented awesomeness Timeline Maps Revisited http://ramnathv.github.com/carouselDemo/#1  #rstats @ChrisGandrud
+362696973301727233  Jul 31 18:11  @researchremix    RT @recology_: wrt last tweet, #rstats code using @rOpenSci pkgs for @ImpactStory @altmetric  for #ggplot2 viz's http://t.co/mmRUg7g4Ne #altmetrics
+362702373812060160  Jul 31 18:32  @hgabel00         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://t.co/Ue7Y2NPO2m
+362704494934491136  Jul 31 18:41  @timelyportfolio  @ramnathv I have determined that #slidify does not get nearly enough credit or attention  http://slidify.org #rstats
+362706553704808448  Jul 31 18:49  @BlueRidgeData    RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+362706564752625664  Jul 31 18:49  @PennState_IE     RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+362706567012954112  Jul 31 18:49  @JakeRuss         Dear #Rstats, does anyone know how to use scalebox or rescale box with an Hmisc latex() call? I'm failing with the docs and Google. #knitr
+362709034375200769  Jul 31 18:59  @PPUAMX           RT @RLangTip: How to use the ifelse function to dichotomize a variable [video]: http://bit.ly/N1IVBw #rstats
+362709820916244480  Jul 31 19:02  @ChrisGandrud     RT @timelyportfolio: MT slidify simply amazing; lots of undocumented awesomeness Timeline Maps Revisited http://t.co/m9r3aRIi37  #rstats @ChrisGandrud
+362712701820092416  Jul 31 19:13  @recology_        taxize (@ropensci taxonomy toolbelt in #rstats) MS submitted to @plosone
+362714347006476288  Jul 31 19:20  @AdamSuess        RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://t.co/Ue7Y2NPO2m
+362718521568268288  Jul 31 19:36  @kellyfj1         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+362721902264991744  Jul 31 19:50  @quantlabs        #FREE open source projects including #Rstats and #Hadoop project for a #quant #trader and researcher http://ow.ly/nuWUw
+362722123858870272  Jul 31 19:51  @nano_unanue      RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+362730034122850305  Jul 31 20:22  @data_Rtist       anyone out theRe looking for a low cost #rstats programmer? My contracted rate would be low since I love R, and want to learn more. Thanks.
+362733163673427968  Jul 31 20:35  @ChrisGandrud     This definitely happens, but many #rstats packages are maintained by academics who do great "customer service": http://bit.ly/1cftfX8
