@@ -13619,6 +13619,7 @@
 362657048770510848  Jul 31 15:32  @recology_        Awesome! Got a pull request on my presentation on #rstats resources http://bit.ly/15w7qh0
 362658598985662464  Jul 31 15:38  @adolfoalvarez    RT @recology_: Awesome! Got a pull request on my presentation on #rstats resources http://bit.ly/15w7qh0
 362660833400070144  Jul 31 15:47  @tonybreyal       How to implement proximity rules in tm dictionary for counting words in text documents? http://stackoverflow.com/q/17979104/300123?stw=2 #rstats #wordstat #tm
+362666587062411264  Jul 31 16:10  @TrevorABranch    RT @YhatHQ: #Rstats style guide - https://github.com/hadley/devtools/wiki/Style
 362666587062411264  Jul 31 16:10  @TrevorABranch    RT @YhatHQ: #Rstats style guide - https://t.co/iJecURlzYl
 362667516738273282  Jul 31 16:14  @recology_        [Blog] Pres from today - intro to data manipulation/viz and some community #ecology http://bit.ly/133po7g #rstats
 362673133779550209  Jul 31 16:36  @timelyportfolio  #Rstats in Insurance: Presentations are online http://feedproxy.google.com/~r/blogspot/rKuKM/~3/jUzubKBLduI/r-in-insurance-presentations-are-online.html via @feedly
@@ -13643,3 +13644,25 @@
 362722123858870272  Jul 31 19:51  @nano_unanue      RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
 362730034122850305  Jul 31 20:22  @data_Rtist       anyone out theRe looking for a low cost #rstats programmer? My contracted rate would be low since I love R, and want to learn more. Thanks.
 362733163673427968  Jul 31 20:35  @ChrisGandrud     This definitely happens, but many #rstats packages are maintained by academics who do great "customer service": http://bit.ly/1cftfX8
+362740887190650880  Jul 31 21:05  @mrgunn           Interesting. Cloud hosted R sessions. http://biocep-distrib.r-forge.r-project.org/ #rstats
+362752298071498752  Jul 31 21:51  @rheimann         60+ R resources to improve your data skills http://shar.es/kMLlq #rstats
+362763357041856513  Jul 31 22:34  @timelyportfolio  Timely Portfolio: #Slidify Did That… and That… and… http://timelyportfolio.blogspot.com/2013/07/slidify-did-that-and-that-and.html?spref=tw #rstats
+362763654279602178  Jul 31 22:36  @timelyportfolio  RT @ChrisGandrud: This definitely happens, but many #rstats packages are maintained by academics who do great "customer service": http://t.co/PJflwT5nZm
+362764384327569409  Jul 31 22:39  @timelyportfolio  @ChrisGandrud for example @ramnathv #slidfy and #rstats provided some of the best customer service I have ever experienced
+362771222695649281  Jul 31 23:06  @ChrisGandrud     Definitely + @hadleywickham @xieyihui RT @timelyportfolio: for example @ramnathv #slidfy and #rstats provided some of the best cust service
+362773515205754882  Jul 31 23:15  @nashturley       After a 2 week vacation in Mexico I'd forgotten how draining (but pretty neat too) it is to analyze data all day #Rstats #phd #gradschool
+362773646550372352  Jul 31 23:15  @ramnath_vaidya   @ChrisGandrud  @xieyihui @timelyportfolio I would credit devtools and @hadleywickham for #rstats github ecosystem, which has made this easy.
+362774045961367552  Jul 31 23:17  @recology_        RT @ramnath_vaidya: @ChrisGandrud  @xieyihui @timelyportfolio I would credit devtools and @hadleywickham for #rstats github ecosystem, which has made this easy.
+362776544747335680  Jul 31 23:27  @zentree          Nothing like running your first #Rstats lab to observe how unusual is for people to think in code.
+362778462232133632  Jul 31 23:35  @kamal_hothi      RT @zentree: Nothing like running your first #Rstats lab to observe how unusual is for people to think in code.
+362780928218636289  Jul 31 23:44  @jon_m_rob        RT @samarthbhaskar: #rstats for people coming from other languages http://t.co/plJTVRXsjX" (cc @hspter, for your bitly bundle)
+362782521315966977  Jul 31 23:51  @GilPress         FOAS becomes hottest thing in open source data science #rstats http://wp.me/p9q8Y-2V3 via @Gliders_Coach
+362782769816281088  Jul 31 23:52  @PaulQuimby91     RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
+362784198903332864  Jul 31 23:57  @Rbloggers        Slidify Did That… and That… and…:  (This article was first published on   Timely Portfolio, and kind... http://bit.ly/14Fy2s2 #rstats
+362789089067536385  Aug  1 00:17  @RetailQuant      RT @carlcarrie: List of 60+ R resources for data scientists and quants #RStats #BiGData http://t.co/IPyFWvOaEw
+362802464094822401  Aug  1 01:10  @neilfws          Recreated minfi::plotCpG using ggplot2 so as to colour points #Rstats http://t.co/uzQxoApSzZ
+362807151971934208  Aug  1 01:29  @cloudHPC         "#rstats is the most widely used, and arguably the most powerful #analysis software on the planet" http://www.butleranalytics.com/2013/07/10-enterprise-predictive-analytics-compared-platforms/
+362807923346784256  Aug  1 01:32  @cloudHPC         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+362812341643407360  Aug  1 01:49  @aivoryuk         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+362814626259406850  Aug  1 01:58  @FrankFarach      My #SPSS license expired in the middle of analyses I'm doing for two papers. #rstats to the rescue. #spssfail #fosswin
+362818302457823233  Aug  1 02:13  @RevoAndrie       RT @cloudHPC: "#rstats is the most widely used, and arguably the most powerful #analysis software on the planet" http://www.butleranalytics.com/2013/07/10-enterprise-predictive-analytics-compared-platforms/
