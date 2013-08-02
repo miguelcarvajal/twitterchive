@@ -13661,6 +13661,7 @@
 362782769816281088  Jul 31 23:52  @PaulQuimby91     RT @RevoAndrie: R for Dummies  http://rfordummies.com/ is in the ComputerWorld top 60 resources for #rstats skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth&utm_source=feedburner&utm_medium=feed&utm_campaign=sflowtco
 362784198903332864  Jul 31 23:57  @Rbloggers        Slidify Did That… and That… and…:  (This article was first published on   Timely Portfolio, and kind... http://bit.ly/14Fy2s2 #rstats
 362789089067536385  Aug  1 00:17  @RetailQuant      RT @carlcarrie: List of 60+ R resources for data scientists and quants #RStats #BiGData http://t.co/IPyFWvOaEw
+362789089067536385  Aug  1 00:17  @RetailQuant      RT @carlcarrie: List of 60+ R resources for data scientists and quants #RStats #BiGData http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills
 362802464094822401  Aug  1 01:10  @neilfws          Recreated minfi::plotCpG using ggplot2 so as to colour points #Rstats http://t.co/uzQxoApSzZ
 362807151971934208  Aug  1 01:29  @cloudHPC         "#rstats is the most widely used, and arguably the most powerful #analysis software on the planet" http://www.butleranalytics.com/2013/07/10-enterprise-predictive-analytics-compared-platforms/
 362807923346784256  Aug  1 01:32  @cloudHPC         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
@@ -13772,4 +13773,62 @@
 363270529949896704  Aug  2 08:10  @quandl           Butler Analytics: Real Analysts use R #RStats by @revodavid http://qndl.co/16E4xtj
 363273173065666560  Aug  2 08:20  @mjcavaretta      #opendata #analytics using #Rstats RT @AliRebaie: "@jgptec: Crime in Oman visualized http://lnkd.in/cfRvZr" #BigData #dataviz #ddj
 363273785958338561  Aug  2 08:23  @halawiBahia      RT @mjcavaretta: #opendata #analytics using #Rstats RT @AliRebaie: "@jgptec: Crime in Oman visualized http://t.co/eXFhWQPZlX" #BigData #dataviz #ddj
+363280716026486784  Aug  2 08:50  @KCoussement      RT @RevoAndrie: @RevoJoe asks: "Are statisticians an endangered species?" http://blog.revolutionanalytics.com/2013/08/statisticians-contemplate-their-own-extinction.html  The answer: not if they use #rstats for #bigdata
 363280716026486784  Aug  2 08:50  @KCoussement      RT @RevoAndrie: @RevoJoe asks: "Are statisticians an endangered species?" http://t.co/jAUQ8069g2  The answer: not if they use #rstats for #bigdata
+363284605895323650  Aug  2 09:06  @AliRebaie        RT @mjcavaretta: #opendata #analytics using #Rstats RT @AliRebaie: "@jgptec: Crime in Oman visualized http://t.co/eXFhWQPZlX" #BigData #dataviz #ddj
+363286333428887552  Aug  2 09:13  @IronistM         C'mon! "Estimate Age from First Name"  http://bit.ly/133zg0S #rstats
+363288649472806913  Aug  2 09:22  @halawiBahia      RT @mjcavaretta: #opendata #analytics using #Rstats RT @AliRebaie: "@jgptec: Crime in Oman visualized http://t.co/eXFhWQPZlX" #BigData #dataviz #ddj
+363289739379896320  Aug  2 09:26  @jlehtoma         #Roxygen2 + #setGeneric + #setMethod = minefield . But somehow it works now #rstats
+363292611114582016  Aug  2 09:38  @ManningMEAP      MEAP Update: "Linear and Logistic Regression Models" is new to Practical Data Science with R http://www.manning.com/zumel/ @manningbooks #Rstats
+363292812789301249  Aug  2 09:38  @Protohedgehog    This is cool from @recology_ - how to extract #altmetrics data from @plos using #rstats - give it a whirl! http://bit.ly/136p6fO
+363299169458327552  Aug  2 10:04  @rOpenSci         Get our blog posts in your inbox - via @MailChimp , form here: http://bit.ly/1egp2iz #rstats - or RSS http://bit.ly/1egp36l
+363299188651462659  Aug  2 10:04  @recology_        RT @rOpenSci: Get our blog posts in your inbox - via @MailChimp , form here: http://t.co/CcIL6H57H8 #rstats - or RSS http://t.co/BzIpI6X4K1
+363300098312118273  Aug  2 10:07  @eff_jot          #LinesOfCode in R for actual work: 4. Apply them to all files: 16. Deal with the #MessedUpData files people gave us: 40 and growing. #rstats
+363304543078985735  Aug  2 10:25  @YhatHQ           glm basics in #rstats - http://www.statmethods.net/advstats/glm.html
+363306045570945024  Aug  2 10:31  @quandl           A presentation on R resources by @rbloggers #RStats http://qndl.co/13ZrAjE
+363306709155975168  Aug  2 10:34  @recology_        RT @quandl: A presentation on R resources by @rbloggers #RStats http://t.co/yAflwaV4e6
+363307583483822080  Aug  2 10:37  @KirkDBorne       Forecasting, Data Analysis, and #Statistics - R in your browser with StatAce: http://mbarrosconsultoria2.blogspot.com/2013/07/statace-r-via-web-browser.html #Rstats via @statace_com
+363308242127962112  Aug  2 10:40  @revodavid        It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://bit.ly/16oMidB
+363308305759739905  Aug  2 10:40  @Jowanza          RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363309035157585920  Aug  2 10:43  @reusswig         I love how quick and easy it is to do graphical comparisons with #Rstats & #ggplot2 http://t.co/lBxdI3xuYc
+363309546267090944  Aug  2 10:45  @hadleywickham    RT @reusswig: I love how quick and easy it is to do graphical comparisons with #Rstats & #ggplot2 http://t.co/lBxdI3xuYc
+363309675367759874  Aug  2 10:45  @statisticsblog   Model Scale Parametrization for MCMC Efficiency http://i.cx/13qPS6o #r #rstats #mcmc
+363309982055694336  Aug  2 10:47  @CHRecchia        RT @KirkDBorne Forecasting, Data Analysis, and #Statistics - R in your browser with StatAce: http://mbarrosconsultoria2.blogspot.com/2013/07/statace-r-via-web-browser.html #Rstats via @statace_com
+363309985704316933  Aug  2 10:47  @recology_        RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363310950134202369  Aug  2 10:50  @Rbloggers        Delimited file where delimiter clashes with data values:  (This article was first published on   Sup... http://bit.ly/14MmZgJ #rstats
+363311056380108801  Aug  2 10:51  @ngamita          RT @reusswig: I love how quick and easy it is to do graphical comparisons with #Rstats & #ggplot2 http://t.co/lBxdI3xuYc
+363311358202630144  Aug  2 10:52  @absplyt          RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363311619071152128  Aug  2 10:53  @mjcavaretta      Good stuff. Integration w #Rstats? RT @ecolix: #Scikit-learn is an #OpenSource #MachineLearning library for #Python  http://scikit-learn.org/stable/
+363312284480704512  Aug  2 10:56  @rob_beiko        RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363312978881294336  Aug  2 10:58  @cpsievert        RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363313735240126464  Aug  2 11:01  @JBrewsBeer       Hmm… this simple cbind function shouldn't chew up 80gb of application memory and all system resources… #rstats
+363314585627271168  Aug  2 11:05  @jasonpriem       RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363316469557231616  Aug  2 11:12  @YhatHQ           shiny - Easy web applications in #Rstats - http://www.rstudio.com/shiny/
+363318352984289282  Aug  2 11:20  @kaythaney        RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363318448530530304  Aug  2 11:20  @mrhunsaker       RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363318837975842817  Aug  2 11:22  @Bashir_Course9   RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363319447085252608  Aug  2 11:24  @raulpacheco      You had me at #RStats :) RT @drunself: Simple solution to scaling problems with x-national histograms in R.   http://buff.ly/13HCHcF
+363320129527881729  Aug  2 11:27  @dseverski        #nifty POC of export of #rstats dataframes into Tableau via iPython. http://www.r-bloggers.com/basic-proof-of-concept-save-an-r-dataframe-as-a-tableau-data-extract/
+363320342887927810  Aug  2 11:28  @dseverski        ...and if you liked the previous, please consider voting up more complete integration between #tableau and #rstats at http://community.tableausoftware.com/ideas/1270
+363320496378482688  Aug  2 11:28  @ctitusbrown      RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363321754791313408  Aug  2 11:33  @YhatHQ           drawing maps in ggplot2 #rstats - http://uchicagoconsulting.wordpress.com/tag/r-ggplot2-maps-visualization/
+363323377118752771  Aug  2 11:40  @I_AmTany_B4      replicating #rstats code from a native spanish speaker. spoken and programming languages are orthogonal. #geekcousin #babelfish
+363325307618476034  Aug  2 11:47  @pmkrzyzanowski   RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363326706175578112  Aug  2 11:53  @mwtingley        Joy: that moment when a remote desktop dumps a new results file into my dropbox that it's been chugging on for 7 days #rstats
+363329212096057344  Aug  2 12:03  @micro_interactn  RT @hadleywickham: @zentree I'd put my money on #rstats being the next better #rstats :P
+363330168267350018  Aug  2 12:07  @RLangTip         Syntax trap: The ':' operator has higher precedence than '-' so 0:N-1 evaluates to (0:N)-1, not 0:(N-1) like you probably wanted #rstats
+363331286582042624  Aug  2 12:11  @talkneurdytome   RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363334648601911296  Aug  2 12:25  @matthewheston    Interested in learning Bayesian stats. Preferably using #python or #rstats. Can anyone recommend some good resources?
+363339875543552000  Aug  2 12:45  @statisticsblog   R tip of the day - how to sort multivariable data in R? sqldf can help.  http://i.cx/16eh3Qv #r #rstats
+363340544560205826  Aug  2 12:48  @deronaucoin      RT @statisticsblog: R tip of the day - how to sort multivariable data in R? sqldf can help.  http://t.co/ilmp8t79av #r #rstats
+363341620030083073  Aug  2 12:52  @BrianSpiering    A simple cheat sheet for #Rstats I made - http://bit.ly/13sJSdg
+363343892336607232  Aug  2 13:01  @m4xl1n           Learning R, a new #rstats book from @OReillyMedia http://oreil.ly/13FMYWR
+363345216029204480  Aug  2 13:07  @drago_carlo      Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://blogs.worldbank.org/opendata/accessing-world-bank-data-apis-python-r-ruby-stata #Data #Python #Stata #Rstats
+363345784298676224  Aug  2 13:09  @ATredennick      Watercolor regressions! AKA visually weighted regressions in #Rstats, http://bit.ly/19Cc4hy
+363346417508548608  Aug  2 13:11  @YhatHQ           #rstats built in functions - http://www.statmethods.net/management/functions.html
+363350719015178240  Aug  2 13:28  @ecolandlab       RT @quandl: A presentation on R resources by @rbloggers #RStats http://t.co/yAflwaV4e6
+363351436286885888  Aug  2 13:31  @jmgomez          Map #Twitter Followers with R - simple example http://ow.ly/nu2Kd #rstats
+363353904102121472  Aug  2 13:41  @mphnyc           Why can't they embed complex algorithms (#RStats) they have trained in line with #SQL that can be consumed by #BI Tools? #BIWisdom
+363355267959762944  Aug  2 13:47  @larysar          RT @quandl: A presentation on R resources by @rbloggers #RStats http://t.co/yAflwaV4e6
+363366762818965504  Aug  2 14:32  @badnetworker     That moment when the obnoxious #RStats issue you just can't solve turns out to be a variable name typo.
+363369923755520000  Aug  2 14:45  @treycausey       Weird #rstats bug: sometimes running blocks of copy & pasted code will throw errors during run when same code pasted line by line will not.
