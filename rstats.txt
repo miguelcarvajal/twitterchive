@@ -13754,3 +13754,10 @@
 363097305752141825  Aug  1 20:41  @faustovrz        RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
 363097557859176448  Aug  1 20:42  @juglardelzipa    RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
 363099291423735809  Aug  1 20:49  @dickoah          RT @hadleywickham: @zentree I'd put my money on #rstats being the next better #rstats :P
+363107163264135168  Aug  1 21:21  @rOpenSci         [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://bit.ly/12JZTwQ
+363107179257004032  Aug  1 21:21  @recology_        RT @rOpenSci: [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://t.co/10S387SVv3
+363115082848276481  Aug  1 21:52  @KevinLDavenport  RT @hadleywickham: @zentree I'd put my money on #rstats being the next better #rstats :P
+363118868257972224  Aug  1 22:07  @JamesMeadow      RT @rOpenSci: [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://t.co/10S387SVv3
+363124487480291328  Aug  1 22:29  @hyperodiosa      RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
+363154962957606912  Aug  2 00:31  @PPUAMX           RT @RLangTip: Search the #rstats NEWS file from the command line: db <- news(); news(grepl("<topic>", Text), db=db) (by @joshua_ulrich)
+363157397969174532  Aug  2 00:40  @naupakaz         TIL the opposite of knitting is purling #rstats #knitr #cleverpurl
