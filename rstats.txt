@@ -13723,3 +13723,34 @@
 363009069184860160  Aug  1 14:51  @hspter           yeah not sure why I was functioning in #Rstats without the subset function. So useful...
 363009525009612800  Aug  1 14:53  @epistatistic     RT @statisticsblog: R tip of the day - What are the top 100 most downloaded R packages for 2013?  http://i.cx/19zAHvo #r #rstats
 363010419835031552  Aug  1 14:56  @randomsubu       #nerd RT @hspter: yeah not sure why I was functioning in #Rstats without the subset function. So useful...
+363015714854010880  Aug  1 15:17  @algaebarnacle    @hspter I often wonder what useful #rstats function I'm missing that everyone else knows. Like I just learned relevel() and it blew my mind
+363015797204992000  Aug  1 15:18  @hspter           Does anyone know how to run a regression line through a qqplot? #rstats
+363016723428933632  Aug  1 15:21  @algaebarnacle    @hspter maybe there should be a place for people to share useful #rstats functions/tricks. Or if there is one, I don't know it
+363017076597723136  Aug  1 15:23  @hspter           @algaebarnacle the #rstats hashtag isn't a bad place to put them!
+363018331915169792  Aug  1 15:28  @epistatistic     RT Multilevel models in R: http://wp.me/p2IChH-jX #Rstats @MaicaRodriSanz via: @freshbiostats
+363019938828939264  Aug  1 15:34  @adolfoalvarez    RT @epistatistic: RT Multilevel models in R: http://wp.me/p2IChH-jX #Rstats @MaicaRodriSanz via: @freshbiostats
+363033923380453377  Aug  1 16:30  @econohammer      replicating #rstats code from a native spanish speaker. spoken and programming languages are orthogonal. #geekcousin #babelfish
+363036451639791616  Aug  1 16:40  @zentree          Philosophical differences while teaching #Rstats with colleague: he's an attach()er, I consider attach()ing a deadly sin.
+363037735759519745  Aug  1 16:45  @zentree          In my #Rstats labs each student has a different random subset of the original data file. It discourages too much 'collaboration'.
+363038398333714433  Aug  1 16:47  @zentree          Hey #Rstats users, What do you think is the best 'cheat sheet' for *newbies* (new to programming too)?
+363038678441926656  Aug  1 16:49  @tslumley         RT @zentree: Hey #Rstats users, What do you think is the best 'cheat sheet' for *newbies* (new to programming too)?
+363047445065777153  Aug  1 17:23  @EirikSovik       RT @zentree: Nothing like running your first #Rstats lab to observe how unusual is for people to think in code.
+363049176164085760  Aug  1 17:30  @Rbloggers        Model Scale Parameterization for MCMC Efficiency:  (This article was first published on   Lindons Lo... http://bit.ly/16K9jFM #rstats
+363053200800096256  Aug  1 17:46  @joshua_ulrich    Convert data.frame columns from factor to character using rapply() http://goo.gl/ra1hgx #rstats
+363060800379826176  Aug  1 18:16  @TrevorABranch    @sean_anderson I combined them into one file for my Beautiful Graphics in R class #rstats
+363066097580244995  Aug  1 18:37  @anna_wzhu        RT @CEastman_: Lunchroom chat about analysing distance to services in remote regions. Pondering use of Thiessen/voronoi? #statistics #Rstats
+363066518726115329  Aug  1 18:39  @gappy3000        At this pace it looks like #julialang is going to be a better stat env than #rstats and python [but of course!] in a less than a year.
+363067470619226115  Aug  1 18:43  @timelyportfolio  RT @joshua_ulrich: Convert data.frame columns from factor to character using rapply() http://t.co/XkKknU9y7E #rstats
+363069100018237440  Aug  1 18:49  @zentree          .@talyarkoni @wesmckinn @jseabold If I had to bet on a language becoming a better #Rstats, I'd put my money on #Julia rather than on #Python
+363069202497683457  Aug  1 18:50  @FlorianOswald    learn R for free, in your browser. http://www.datamind.org/ #rstats
+363069536783712256  Aug  1 18:51  @baogorek         Smooth functions through data with just a few simple basis functions. But how to choose those knots? #rstats http://stats.stackexchange.com/questions/7316/setting-knots-in-natural-cubic-splines-in-r
+363071252891570176  Aug  1 18:58  @9NebraskaSunset  replicating #rstats code from a native spanish speaker. spoken and programming languages are orthogonal. #geekcousin #babelfish
+363078517094748160  Aug  1 19:27  @hadleywickham    @zentree I'd put my money on #rstats being the next better #rstats :P
+363080076075614208  Aug  1 19:33  @kevin_ushey      A nice assortment of data.table tricks and tips http://rwiki.sciviews.org/doku.php?id=packages:cran:data.table #rstats
+363081192939065344  Aug  1 19:37  @kamal_hothi      RT @hadleywickham: @zentree I'd put my money on #rstats being the next better #rstats :P
+363087795088138241  Aug  1 20:04  @zentree          RT @hadleywickham: @zentree I'd put my money on #rstats being the next better #rstats :P
+363095213369065473  Aug  1 20:33  @Rbloggers        Package sqldf eases the multivariable sorting pain:  (This article was first published on   Data and... http://bit.ly/16KGs4d #rstats
+363097169038815234  Aug  1 20:41  @davetang31       RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
+363097305752141825  Aug  1 20:41  @faustovrz        RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
+363097557859176448  Aug  1 20:42  @juglardelzipa    RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
+363099291423735809  Aug  1 20:49  @dickoah          RT @hadleywickham: @zentree I'd put my money on #rstats being the next better #rstats :P
