@@ -13761,3 +13761,15 @@
 363124487480291328  Aug  1 22:29  @hyperodiosa      RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
 363154962957606912  Aug  2 00:31  @PPUAMX           RT @RLangTip: Search the #rstats NEWS file from the command line: db <- news(); news(grepl("<topic>", Text), db=db) (by @joshua_ulrich)
 363157397969174532  Aug  2 00:40  @naupakaz         TIL the opposite of knitting is purling #rstats #knitr #cleverpurl
+363200946244816897  Aug  2 03:33  @adolfoalvarez    RT @hadleywickham: @zentree I'd put my money on #rstats being the next better #rstats :P
+363202377911762944  Aug  2 03:39  @spsaaibi         RT @hadleywickham: @zentree I'd put my money on #rstats being the next better #rstats :P
+363209520815681536  Aug  2 04:07  @RametteA         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://t.co/Ue7Y2NPO2m
+363210528463663106  Aug  2 04:11  @monsoontrader    UNE teaches #rstats to undergrads. This is good.
+363231992189423616  Aug  2 05:37  @jSamuraizCP      replicating #rstats code from a native spanish speaker. spoken and programming languages are orthogonal. #geekcousin #babelfish
+363245853772750848  Aug  2 06:32  @RevoAndrie       @RevoJoe asks: "Are statisticians an endangered species?" http://blog.revolutionanalytics.com/2013/08/statisticians-contemplate-their-own-extinction.html  The answer: not if they use #rstats for #bigdata
+363247303055769601  Aug  2 06:38  @RPsychologist    RT @rOpenSci: [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://t.co/10S387SVv3
+363248812107632640  Aug  2 06:44  @drago_carlo      Data-driven presentations using Slidify http://datacommunitydc.org/blog/2013/08/data-driven-presentations-using-slidify/ via @prismatic #Statistics #Visualization #Programming #Rstats
+363270529949896704  Aug  2 08:10  @quandl           Butler Analytics: Real Analysts use R #RStats by @revodavid http://qndl.co/16E4xtj
+363273173065666560  Aug  2 08:20  @mjcavaretta      #opendata #analytics using #Rstats RT @AliRebaie: "@jgptec: Crime in Oman visualized http://lnkd.in/cfRvZr" #BigData #dataviz #ddj
+363273785958338561  Aug  2 08:23  @halawiBahia      RT @mjcavaretta: #opendata #analytics using #Rstats RT @AliRebaie: "@jgptec: Crime in Oman visualized http://t.co/eXFhWQPZlX" #BigData #dataviz #ddj
+363280716026486784  Aug  2 08:50  @KCoussement      RT @RevoAndrie: @RevoJoe asks: "Are statisticians an endangered species?" http://t.co/jAUQ8069g2  The answer: not if they use #rstats for #bigdata

@@ -2954,3 +2954,4 @@
 362994004038000640  Aug  1 13:51  @iPlantCollab     RT @genetics_blog: RNA-seq with tophat/cuffdiff2 tutorial at @iPlantCollab  http://www.iplantcollaborative.org/learning-center/discovery-environment/differential-expression-rna-seq #bioinformatics
 362996941853962240  Aug  1 14:03  @sau916           RT @genetics_blog: RNA-seq with tophat/cuffdiff2 tutorial at @iPlantCollab  http://t.co/qC1sKvI2Vy #bioinformatics
 363090784372793346  Aug  1 20:16  @rnomics          Characterizing Differential Expression with #RNA-Seq | iPlant Collaborative Web Portal:... http://bit.ly/13FqG7w #rnomics_bioinfo @MyEN
+363198350092279809  Aug  2 03:23  @watsonhaigh      @fjossinet is there scope for colouring/annotating bases, in Assemble2, based on coverage derived from RNA-Seq? Maybe gleaned from BigWig?
