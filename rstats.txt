@@ -13848,6 +13848,7 @@
 363391320317886464  Aug  2 16:10  @richmanmax       RT @thomaslevine: R curses for data witches http://t.co/cT8DrkilgU #Rstats
 363393708634288131  Aug  2 16:19  @jaredlander      Learn about Go at the next #rstats meetup http://bit.ly/14NK4Q7
 363393710165606401  Aug  2 16:19  @nyhackr          Learn about Go at the next #rstats meetup http://bit.ly/14NK4Q7
+363397991647813634  Aug  2 16:36  @timelyportfolio  RT @jaredlander: Learn about Go at the next #rstats meetup http://bit.ly/14NK4Q7
 363397991647813634  Aug  2 16:36  @timelyportfolio  RT @jaredlander: Learn about Go at the next #rstats meetup http://t.co/jac71zCwjN
 363398034350436352  Aug  2 16:36  @kalitasf         RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
 363398236108623873  Aug  2 16:37  @RevoAndrie       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
@@ -13874,6 +13875,7 @@
 363454512872177664  Aug  2 20:21  @ramnath_vaidya   RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
 363454745177886721  Aug  2 20:22  @andyteucher      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 363455582675533825  Aug  2 20:25  @Emrah_Er         RT @drago_carlo: 60+ R resources to improve your data skills http://t.co/Jxpz8FdlLS @analyticbridge #Rstats #Statistics #DataMining #MachineLearning
+363455582675533825  Aug  2 20:25  @Emrah_Er         RT @drago_carlo: 60+ R resources to improve your data skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth @analyticbridge #Rstats #Statistics #DataMining #MachineLearning
 363464462646259712  Aug  2 21:00  @Rbloggers        Demand for R jobs on the rise, while SAS jobs decline:  (This article was first published on   Revol... http://bit.ly/14OYzTN #rstats
 363466179933110272  Aug  2 21:07  @gianlucaemireni  RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 363467181126062080  Aug  2 21:11  @carlislerainey   compactr is up on CRAN! #rstats http://crain.co/compactr
@@ -13904,3 +13906,15 @@
 363635034655162368  Aug  3 08:18  @thomasgpadilla   RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 363636919915122690  Aug  3 08:26  @GSwithR          RT @jmarca: #Rstats plyr + doMC is so much more stable and usable than I expected.  I wish I'd tried it out before.
 363644861313851393  Aug  3 08:57  @ucfagls          A full room for Jim Grace & Don Schoolmaster's Intro to SEM workshop at #esa2013 featuring #rstats & the lavaan pkg
+363651307649118208  Aug  3 09:23  @dindjic          RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363668034902175744  Aug  3 10:29  @ricobert1        Hurricane Katrina windfields using H*Wind data from @HRD_AOML_NOAA http://robhodges.co/wp/2013/08/03/maximum-windspeeds-from-hurricane-katrina-using-hwind-analyses/ #Rstats
+363675194386153474  Aug  3 10:58  @Gimperion        RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363678149848346625  Aug  3 11:10  @ibartomeus       RT @ucfagls: A full room for Jim Grace & Don Schoolmaster's Intro to SEM workshop at #esa2013 featuring #rstats & the lavaan pkg
+363678928348524544  Aug  3 11:13  @jeffreyhorner    #Rstats is great b/c of command line, interactivity, graphics, and a powerful yet quirky language for data.  And CRAN is a HUGE LEVER.
+363682451874263041  Aug  3 11:27  @hadleywickham    RT @jeffreyhorner: #Rstats is great b/c of command line, interactivity, graphics, and a powerful yet quirky language for data.  And CRAN is a HUGE LEVER.
+363687218163884032  Aug  3 11:46  @cullenjd         RT @jeffreyhorner: #Rstats is great b/c of command line, interactivity, graphics, and a powerful yet quirky language for data.  And CRAN is a HUGE LEVER.
+363688001328521218  Aug  3 11:49  @naupakaz         +1 CRAN MT @jeffreyhorner: #Rstats is great b/c command line, interactivity, graphics, powerful yet quirky language.  CRAN is a HUGE LEVER.
+363698812012855296  Aug  3 12:32  @ngamita          RT @jeffreyhorner: #Rstats is great b/c of command line, interactivity, graphics, and a powerful yet quirky language for data.  And CRAN is a HUGE LEVER.
+363701524653801473  Aug  3 12:42  @ArthurFlam       RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
+363702757343367168  Aug  3 12:47  @adolfoalvarez    RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
+363726104202592256  Aug  3 14:20  @carlislerainey   You can now get compactr directly from CRAN. http://crain.co/compactr #rstats  #smallmultiples #dataviz
