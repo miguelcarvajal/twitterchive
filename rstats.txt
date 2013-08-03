@@ -13832,3 +13832,43 @@
 363355267959762944  Aug  2 13:47  @larysar          RT @quandl: A presentation on R resources by @rbloggers #RStats http://t.co/yAflwaV4e6
 363366762818965504  Aug  2 14:32  @badnetworker     That moment when the obnoxious #RStats issue you just can't solve turns out to be a variable name typo.
 363369923755520000  Aug  2 14:45  @treycausey       Weird #rstats bug: sometimes running blocks of copy & pasted code will throw errors during run when same code pasted line by line will not.
+363378810592296960  Aug  2 15:20  @shabbychef       any tips on using caching in #knitr vignettes to speedup #CRAN builds? #rstats
+363378922928738305  Aug  2 15:21  @adolfoalvarez    RT @m4xl1n: Learning R, a new #rstats book from @OReillyMedia http://t.co/tMWHfAaxuK
+363379588107620352  Aug  2 15:23  @barbosaandres    RT @quandl: A presentation on R resources by @rbloggers #RStats http://t.co/yAflwaV4e6
+363379784166158337  Aug  2 15:24  @adolfoalvarez    RT @quandl: A presentation on R resources by @rbloggers #RStats http://t.co/yAflwaV4e6
+363384496843792384  Aug  2 15:43  @timelyportfolio  RT @ATredennick: Watercolor regressions! AKA visually weighted regressions in #Rstats, http://t.co/230xIan9VB
+363385217978867714  Aug  2 15:46  @timelyportfolio  RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
+363388150854328320  Aug  2 15:57  @revodavid        Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
+363388486269038593  Aug  2 15:59  @stewiepratt      RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363388819464130560  Aug  2 16:00  @hugoguzman       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363389340501958656  Aug  2 16:02  @RStatsJobs       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363389873371095040  Aug  2 16:04  @thomaslevine     R curses for data witches http://thomaslevine.com/!/r-curses-for-data-witches/ #Rstats
+363391320317886464  Aug  2 16:10  @richmanmax       RT @thomaslevine: R curses for data witches http://t.co/cT8DrkilgU #Rstats
+363393708634288131  Aug  2 16:19  @jaredlander      Learn about Go at the next #rstats meetup http://bit.ly/14NK4Q7
+363393710165606401  Aug  2 16:19  @nyhackr          Learn about Go at the next #rstats meetup http://bit.ly/14NK4Q7
+363397991647813634  Aug  2 16:36  @timelyportfolio  RT @jaredlander: Learn about Go at the next #rstats meetup http://t.co/jac71zCwjN
+363398034350436352  Aug  2 16:36  @kalitasf         RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363398236108623873  Aug  2 16:37  @RevoAndrie       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363399511864918016  Aug  2 16:42  @blatzblatzblatz  RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363404922647097345  Aug  2 17:04  @ChetanChawla     RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363406723484098560  Aug  2 17:11  @jtrollip         RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363409587246231552  Aug  2 17:22  @dphdk            RT @ATredennick: Watercolor regressions! AKA visually weighted regressions in #Rstats, http://t.co/230xIan9VB
+363412677915193344  Aug  2 17:35  @julianpeeters    RT @thomaslevine: R curses for data witches http://t.co/cT8DrkilgU #Rstats
+363414929832816640  Aug  2 17:44  @jmarca           #Rstats plyr + doMC is so much more stable and usable than I expected.  I wish I'd tried it out before.
+363415231738810368  Aug  2 17:45  @flash_us         RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
+363421172794273792  Aug  2 18:08  @causalityblog    cool “@ATredennick: Watercolor regressions! AKA visually weighted regressions in #Rstats, http://bit.ly/19Cc4hy” #dataviz
+363421434036494337  Aug  2 18:09  @rOpenSci         RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
+363421969745580032  Aug  2 18:12  @revodavid        RT @jmarca: #Rstats plyr + doMC is so much more stable and usable than I expected.  I wish I'd tried it out before.
+363422761273659393  Aug  2 18:15  @deronaucoin      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
+363426128587128832  Aug  2 18:28  @rprabha          RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363433347067805696  Aug  2 18:57  @drago_carlo      60+ R resources to improve your data skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth @analyticbridge #Rstats #Statistics #DataMining #MachineLearning
+363436710635376643  Aug  2 19:10  @cargomoose       RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363438893586071552  Aug  2 19:19  @cargomoose       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363444031834947584  Aug  2 19:39  @JJVenky          RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
+363445819917090816  Aug  2 19:46  @Rbloggers        Dashboards in R with Shiny and GoogleVis:  (This article was first published on   My Data Atelier » ... http://bit.ly/14OH99M #rstats
+363446621503098880  Aug  2 19:50  @anshul           Useful R package for report generation http://yihui.name/knitr/ #Rstats
+363448209542103041  Aug  2 19:56  @p_e              Running a "split-apply-combine" is the new "running a map-reduce". #rstats
+363451079473631232  Aug  2 20:07  @healthstatsdude  A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
+363454512872177664  Aug  2 20:21  @ramnath_vaidya   RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
+363454745177886721  Aug  2 20:22  @andyteucher      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
+363455582675533825  Aug  2 20:25  @Emrah_Er         RT @drago_carlo: 60+ R resources to improve your data skills http://t.co/Jxpz8FdlLS @analyticbridge #Rstats #Statistics #DataMining #MachineLearning
