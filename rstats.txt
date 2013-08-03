@@ -13768,6 +13768,7 @@
 363210528463663106  Aug  2 04:11  @monsoontrader    UNE teaches #rstats to undergrads. This is good.
 363231992189423616  Aug  2 05:37  @jSamuraizCP      replicating #rstats code from a native spanish speaker. spoken and programming languages are orthogonal. #geekcousin #babelfish
 363245853772750848  Aug  2 06:32  @RevoAndrie       @RevoJoe asks: "Are statisticians an endangered species?" http://blog.revolutionanalytics.com/2013/08/statisticians-contemplate-their-own-extinction.html  The answer: not if they use #rstats for #bigdata
+363247303055769601  Aug  2 06:38  @RPsychologist    RT @rOpenSci: [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://bit.ly/12JZTwQ
 363247303055769601  Aug  2 06:38  @RPsychologist    RT @rOpenSci: [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://t.co/10S387SVv3
 363248812107632640  Aug  2 06:44  @drago_carlo      Data-driven presentations using Slidify http://datacommunitydc.org/blog/2013/08/data-driven-presentations-using-slidify/ via @prismatic #Statistics #Visualization #Programming #Rstats
 363270529949896704  Aug  2 08:10  @quandl           Butler Analytics: Real Analysts use R #RStats by @revodavid http://qndl.co/16E4xtj
@@ -13835,6 +13836,7 @@
 363378810592296960  Aug  2 15:20  @shabbychef       any tips on using caching in #knitr vignettes to speedup #CRAN builds? #rstats
 363378922928738305  Aug  2 15:21  @adolfoalvarez    RT @m4xl1n: Learning R, a new #rstats book from @OReillyMedia http://t.co/tMWHfAaxuK
 363379588107620352  Aug  2 15:23  @barbosaandres    RT @quandl: A presentation on R resources by @rbloggers #RStats http://t.co/yAflwaV4e6
+363379784166158337  Aug  2 15:24  @adolfoalvarez    RT @quandl: A presentation on R resources by @rbloggers #RStats http://qndl.co/13ZrAjE
 363379784166158337  Aug  2 15:24  @adolfoalvarez    RT @quandl: A presentation on R resources by @rbloggers #RStats http://t.co/yAflwaV4e6
 363384496843792384  Aug  2 15:43  @timelyportfolio  RT @ATredennick: Watercolor regressions! AKA visually weighted regressions in #Rstats, http://t.co/230xIan9VB
 363385217978867714  Aug  2 15:46  @timelyportfolio  RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
@@ -13872,3 +13874,16 @@
 363454512872177664  Aug  2 20:21  @ramnath_vaidya   RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
 363454745177886721  Aug  2 20:22  @andyteucher      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 363455582675533825  Aug  2 20:25  @Emrah_Er         RT @drago_carlo: 60+ R resources to improve your data skills http://t.co/Jxpz8FdlLS @analyticbridge #Rstats #Statistics #DataMining #MachineLearning
+363464462646259712  Aug  2 21:00  @Rbloggers        Demand for R jobs on the rise, while SAS jobs decline:  (This article was first published on   Revol... http://bit.ly/14OYzTN #rstats
+363466179933110272  Aug  2 21:07  @gianlucaemireni  RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
+363467181126062080  Aug  2 21:11  @carlislerainey   compactr is up on CRAN! #rstats http://crain.co/compactr
+363472056999882752  Aug  2 21:31  @openscience      Consuming #altmetrics using #rstats, for @ImpactStory @altmetric @plosalm -- http://buff.ly/1bRfij7 by @recology_ at @rOpenSci
+363480948681084928  Aug  2 22:06  @fz16cu           RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
+363489833731514368  Aug  2 22:41  @statalgo         RT @nyhackr: Learn about Go at the next #rstats meetup http://t.co/YzE9ysiO6U
+363496454884556801  Aug  2 23:08  @recology_        cc: @ramnath_vaidya chatter about Slidify #rstats  http://bit.ly/13u9mqM
+363510784409604096  Aug  3 00:04  @GueyeNono        RT @recology_: cc: @ramnath_vaidya chatter about Slidify #rstats  http://t.co/SgszABgth4
+363525765398532096  Aug  3 01:04  @John_B_Howard    RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
+363525833618911232  Aug  3 01:04  @DominiqueVanpee  RT @openscience: Consuming #altmetrics using #rstats, for @ImpactStory @altmetric @plosalm -- http://t.co/T4fIEXq6Ou by @recology_ at @rOpenSci
+363525879907250176  Aug  3 01:04  @issda            RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
+363538360230354947  Aug  3 01:54  @np_jiang         RT @jmarca: #Rstats plyr + doMC is so much more stable and usable than I expected.  I wish I'd tried it out before.
+363540178939297793  Aug  3 02:01  @jmgomez          A presentation with selected #Rstats resources by Scott Chamberlain http://ow.ly/nuUZr
