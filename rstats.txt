@@ -13690,6 +13690,7 @@
 362938915264544768  Aug  1 10:12  @statisticsblog   Are you on the job market? Here is why REAL analysts use R. http://i.cx/13o46F3 #r #rstats
 362939172971368448  Aug  1 10:13  @VidCanC          RT @statisticsblog: Are you on the job market? Here is why REAL analysts use R. http://i.cx/13o46F3 #r #rstats
 362949397719425025  Aug  1 10:54  @nhermez          Cleveland R meetup on High-Performance Computing next week with Bryan Lewis http://meetu.ps/1Sr1Bn #rstats
+362950268419182592  Aug  1 10:57  @SmartTypes       RT @nhermez: Cleveland R meetup on High-Performance Computing next week with Bryan Lewis http://meetu.ps/1Sr1Bn #rstats
 362950268419182592  Aug  1 10:57  @SmartTypes       RT @nhermez: Cleveland R meetup on High-Performance Computing next week with Bryan Lewis http://t.co/KFpbKH1yAR #rstats
 362953993049214976  Aug  1 11:12  @micro_interactn  I keep forgetting that R doesn't recognize "colour" #rstats #britishspelling
 362954949405048833  Aug  1 11:16  @erikriverson     RT @zentree: Nothing like running your first #Rstats lab to observe how unusual is for people to think in code.
@@ -13864,6 +13865,7 @@
 363421172794273792  Aug  2 18:08  @causalityblog    cool “@ATredennick: Watercolor regressions! AKA visually weighted regressions in #Rstats, http://bit.ly/19Cc4hy” #dataviz
 363421434036494337  Aug  2 18:09  @rOpenSci         RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 363421969745580032  Aug  2 18:12  @revodavid        RT @jmarca: #Rstats plyr + doMC is so much more stable and usable than I expected.  I wish I'd tried it out before.
+363422761273659393  Aug  2 18:15  @deronaucoin      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://blogs.worldbank.org/opendata/accessing-world-bank-data-apis-python-r-ruby-stata #Data #Python #Stata #Rstats
 363422761273659393  Aug  2 18:15  @deronaucoin      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 363426128587128832  Aug  2 18:28  @rprabha          RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
 363433347067805696  Aug  2 18:57  @drago_carlo      60+ R resources to improve your data skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth @analyticbridge #Rstats #Statistics #DataMining #MachineLearning
@@ -13926,3 +13928,13 @@
 363766424881201154  Aug  3 17:00  @Rbloggers        Classification of the Hyper-Spectral and LiDAR Imagery using R (mostly). Part 2: Classification Approa... http://bit.ly/15quose #rstats
 363767993257312256  Aug  3 17:07  @raulpacheco      .@simon_reader my “for pleasure” reading includes books on cities, #RStats #ArcGIS :) #AcademicFun
 363783582965178370  Aug  3 18:08  @healthstatsdude  My IT dept still has me on XP. That's why I can compress an hour of work into a whole week! #ITHell #rStats #32bits #overlyhonestbusiness
+363827932373843968  Aug  3 21:05  @orlandomezquita  RT @RLangTip: How to use the ifelse function to dichotomize a variable [video]: http://bit.ly/16qaIU2  #rstats
+363831511436378113  Aug  3 21:19  @siah             Is there an equation that let's me calculate p-values and t-values without using a table or software? #stats #rstats
+363833849140092929  Aug  3 21:28  @GeneticSequence  RT @siah: Is there an equation that let's me calculate p-values and t-values without using a table or software? #stats #rstats
+363849840800702464  Aug  3 22:32  @PlethodoNick     Manuscript is finished, writing cover letter tomorrow then submission (finally).  Now to cap the night off with some #Rstats
+363853088660004865  Aug  3 22:45  @SmudgeTool       Relaxing on the patio with some wine and some light reading by @hadleywickham #rstats http://t.co/6CzOcyHZBZ
+363855701162348544  Aug  3 22:55  @timelyportfolio  RT @SmudgeTool: Relaxing on the patio with some wine and some light reading by @hadleywickham #rstats http://t.co/6CzOcyHZBZ
+363861477523849216  Aug  3 23:18  @StatsInTheWild   This session looks awesome: http://www.amstat.org/meetings/jsm/2013/onlineprogram/ActivityDetails.cfm?SessionID=208765 #jsm2013 #rstats
+363880642678767617  Aug  4 00:34  @monsoontrader    RT @SmudgeTool: Relaxing on the patio with some wine and some light reading by @hadleywickham #rstats http://t.co/6CzOcyHZBZ
+363888647323394048  Aug  4 01:06  @seidlitz         Having frustrating experience with #Rstats geocoding. Google, CloudMade, GeoNames… need an accurate non-restrictive (paid) service. Ideas?
+363896765361037312  Aug  4 01:38  @GueyeNono        @seidlitz Are you saying that #Rstats is unable to perform your task adequely?
