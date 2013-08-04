@@ -13821,6 +13821,7 @@
 363331286582042624  Aug  2 12:11  @talkneurdytome   RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
 363334648601911296  Aug  2 12:25  @matthewheston    Interested in learning Bayesian stats. Preferably using #python or #rstats. Can anyone recommend some good resources?
 363339875543552000  Aug  2 12:45  @statisticsblog   R tip of the day - how to sort multivariable data in R? sqldf can help.  http://i.cx/16eh3Qv #r #rstats
+363340544560205826  Aug  2 12:48  @deronaucoin      RT @statisticsblog: R tip of the day - how to sort multivariable data in R? sqldf can help.  http://i.cx/16eh3Qv #r #rstats
 363340544560205826  Aug  2 12:48  @deronaucoin      RT @statisticsblog: R tip of the day - how to sort multivariable data in R? sqldf can help.  http://t.co/ilmp8t79av #r #rstats
 363341620030083073  Aug  2 12:52  @BrianSpiering    A simple cheat sheet for #Rstats I made - http://bit.ly/13sJSdg
 363343892336607232  Aug  2 13:01  @m4xl1n           Learning R, a new #rstats book from @OReillyMedia http://oreil.ly/13FMYWR
@@ -13858,6 +13859,7 @@
 363409587246231552  Aug  2 17:22  @dphdk            RT @ATredennick: Watercolor regressions! AKA visually weighted regressions in #Rstats, http://t.co/230xIan9VB
 363412677915193344  Aug  2 17:35  @julianpeeters    RT @thomaslevine: R curses for data witches http://t.co/cT8DrkilgU #Rstats
 363414929832816640  Aug  2 17:44  @jmarca           #Rstats plyr + doMC is so much more stable and usable than I expected.  I wish I'd tried it out before.
+363415231738810368  Aug  2 17:45  @flash_us         RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://blogs.worldbank.org/opendata/accessing-world-bank-data-apis-python-r-ruby-stata #Data #Python #Stata #Rstats
 363415231738810368  Aug  2 17:45  @flash_us         RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 363421172794273792  Aug  2 18:08  @causalityblog    cool “@ATredennick: Watercolor regressions! AKA visually weighted regressions in #Rstats, http://bit.ly/19Cc4hy” #dataviz
 363421434036494337  Aug  2 18:09  @rOpenSci         RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
@@ -13918,3 +13920,9 @@
 363701524653801473  Aug  3 12:42  @ArthurFlam       RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
 363702757343367168  Aug  3 12:47  @adolfoalvarez    RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
 363726104202592256  Aug  3 14:20  @carlislerainey   You can now get compactr directly from CRAN. http://crain.co/compactr #rstats  #smallmultiples #dataviz
+363737993016008704  Aug  3 15:07  @timelyportfolio  RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
+363744610801033216  Aug  3 15:34  @ucfagls          Someone came up to me today to thank me for my #rstats community activity; mightily embarrassed but very nice all the same :D
+363749094902472704  Aug  3 15:51  @chlalanne        RT @carlislerainey: You can now get compactr directly from CRAN. http://t.co/hmYPqAAUrQ #rstats  #smallmultiples #dataviz
+363766424881201154  Aug  3 17:00  @Rbloggers        Classification of the Hyper-Spectral and LiDAR Imagery using R (mostly). Part 2: Classification Approa... http://bit.ly/15quose #rstats
+363767993257312256  Aug  3 17:07  @raulpacheco      .@simon_reader my “for pleasure” reading includes books on cities, #RStats #ArcGIS :) #AcademicFun
+363783582965178370  Aug  3 18:08  @healthstatsdude  My IT dept still has me on XP. That's why I can compress an hour of work into a whole week! #ITHell #rStats #32bits #overlyhonestbusiness
