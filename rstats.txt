@@ -13759,6 +13759,7 @@
 363107163264135168  Aug  1 21:21  @rOpenSci         [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://bit.ly/12JZTwQ
 363107179257004032  Aug  1 21:21  @recology_        RT @rOpenSci: [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://t.co/10S387SVv3
 363115082848276481  Aug  1 21:52  @KevinLDavenport  RT @hadleywickham: @zentree I'd put my money on #rstats being the next better #rstats :P
+363118868257972224  Aug  1 22:07  @JamesMeadow      RT @rOpenSci: [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://bit.ly/12JZTwQ
 363118868257972224  Aug  1 22:07  @JamesMeadow      RT @rOpenSci: [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://t.co/10S387SVv3
 363124487480291328  Aug  1 22:29  @hyperodiosa      RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
 363154962957606912  Aug  2 00:31  @PPUAMX           RT @RLangTip: Search the #rstats NEWS file from the command line: db <- news(); news(grepl("<topic>", Text), db=db) (by @joshua_ulrich)
@@ -13843,7 +13844,9 @@
 363384496843792384  Aug  2 15:43  @timelyportfolio  RT @ATredennick: Watercolor regressions! AKA visually weighted regressions in #Rstats, http://t.co/230xIan9VB
 363385217978867714  Aug  2 15:46  @timelyportfolio  RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 363388150854328320  Aug  2 15:57  @revodavid        Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
+363388486269038593  Aug  2 15:59  @stewiepratt      RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
 363388486269038593  Aug  2 15:59  @stewiepratt      RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363388819464130560  Aug  2 16:00  @hugoguzman       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
 363388819464130560  Aug  2 16:00  @hugoguzman       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
 363389340501958656  Aug  2 16:02  @RStatsJobs       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
 363389873371095040  Aug  2 16:04  @thomaslevine     R curses for data witches http://thomaslevine.com/!/r-curses-for-data-witches/ #Rstats
@@ -13853,6 +13856,7 @@
 363397991647813634  Aug  2 16:36  @timelyportfolio  RT @jaredlander: Learn about Go at the next #rstats meetup http://bit.ly/14NK4Q7
 363397991647813634  Aug  2 16:36  @timelyportfolio  RT @jaredlander: Learn about Go at the next #rstats meetup http://t.co/jac71zCwjN
 363398034350436352  Aug  2 16:36  @kalitasf         RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+363398236108623873  Aug  2 16:37  @RevoAndrie       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
 363398236108623873  Aug  2 16:37  @RevoAndrie       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
 363399511864918016  Aug  2 16:42  @blatzblatzblatz  RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
 363399511864918016  Aug  2 16:42  @blatzblatzblatz  RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
@@ -13871,6 +13875,7 @@
 363426128587128832  Aug  2 18:28  @rprabha          RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
 363433347067805696  Aug  2 18:57  @drago_carlo      60+ R resources to improve your data skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth @analyticbridge #Rstats #Statistics #DataMining #MachineLearning
 363436710635376643  Aug  2 19:10  @cargomoose       RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
+363438893586071552  Aug  2 19:19  @cargomoose       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
 363438893586071552  Aug  2 19:19  @cargomoose       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
 363444031834947584  Aug  2 19:39  @JJVenky          RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 363445819917090816  Aug  2 19:46  @Rbloggers        Dashboards in R with Shiny and GoogleVis:  (This article was first published on   My Data Atelier » ... http://bit.ly/14OH99M #rstats
@@ -13967,3 +13972,29 @@
 364094072463425537  Aug  4 14:42  @ramnath_vaidya   Session running 15 minutes ahead of schedule!! Never seen this happen ever before #jsm2013 #rstats Hadley is the next speaker.
 364094652833472512  Aug  4 14:45  @LouBajuk         Enjoying @hadleywickham talk on bigger data analysis in R #rstats #jsm2013 http://t.co/TfvSVye9fy
 364096770642423808  Aug  4 14:53  @atkinsjeff       RT @rOpenSci: .@cboettig & @_inundata explaining tidy data in "#openscience w/ #rstats & @DataONEorg" #esa2013 see here for more http://t.co/t9Wx55Chr2
+364098997663068160  Aug  4 15:02  @PythonDaily      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
+364101615168397313  Aug  4 15:12  @slendrmeans      Love the Yegge quote in this post. Unfortunately I feel like #rstats marketing often goes like this.
+364107402657796096  Aug  4 15:35  @RickSaporta      on SO: "first time I see someone asks if/how R can do something from pandas" http://bit.ly/14sCOA3  CC:@wesmckinn  #rstats #pandas #Python
+364107583662993409  Aug  4 15:36  @DanMallinger     My choice to go with #rstats this afternoon is conflicting with my available memory.  #Python has its advantages #datascience #SparseMatrix
+364108861927456769  Aug  4 15:41  @recology_        Attn big data folks at #esa2013 RT @tslumley: #jsm2013 @hadleywickham talks big data http://bit.ly/bigrdata4 #rstats
+364108896375668736  Aug  4 15:41  @LouBajuk         I'll be talking about extending the reach of R to the Enterprise with TERR on Tuesday afternoon. #jsm2013 #rstats http://www.slideshare.net/mobile/loubajukyorgan/extend-the-reach-of-r-to-the-enterprise-for-user-2013
+364108911873634304  Aug  4 15:41  @GenomesBiomes    RT @recology_: Attn big data folks at #esa2013 RT @tslumley: #jsm2013 @hadleywickham talks big data http://t.co/MhVmnVRzBJ #rstats
+364109486786899968  Aug  4 15:44  @LouBajuk         RT @recology_: Attn big data folks at #esa2013 RT @tslumley: #jsm2013 @hadleywickham talks big data http://t.co/MhVmnVRzBJ #rstats
+364110731496943617  Aug  4 15:48  @MikePearmain     RT @DanMallinger: My choice to go with #rstats this afternoon is conflicting with my available memory.  #Python has its advantages #datascience #SparseMatrix
+364118505186422784  Aug  4 16:19  @recology_        Tips on writing an #rstats book http://bit.ly/16mlKHT from @xieyihui
+364120892302823425  Aug  4 16:29  @eddelbuettel     New RcppArmadillo release 0.3.900.7, more at http://goo.gl/3hPNSj #rcpp #rstats
+364122160144875520  Aug  4 16:34  @adolfoalvarez    RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
+364125222187696128  Aug  4 16:46  @deepfriar        my #Rstats code looks like @ovi8 wrote it... lines end with things like )])))}))) #fb
+364131357787557888  Aug  4 17:10  @GueyeNono        Free Hadoop Training Course MapR Academy: http://www.mapr.com/academy/#.Uf7DMGn1qG0.twitter #Rstats
+364141075042021377  Aug  4 17:49  @LouBajuk         Interesting to hear about the implementation of long vectors in R. Thanks to Michael Kane for stepping in for Luke Tierney #Rstats  #jsm2013
+364141838665797632  Aug  4 17:52  @satz_grund       RT @statisticsblog: The N armed bandit problem - a simulation approach. http://t.co/x4zUCyOLAQ #r #rstats
+364150329496965121  Aug  4 18:26  @GueyeNono        Free Hadoop Online Training Courses http://bigdatastudio.com/?s=free+hadoop+online #Rstats
+364155116934279169  Aug  4 18:45  @neilfws          RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
+364156531194867712  Aug  4 18:50  @Rbloggers        More rainfall calculations – REML:  (This article was first published on   Wiekvoet, and kindly cont... http://bit.ly/15vNEEF #rstats
+364163843695456256  Aug  4 19:20  @WrightingApril   Horror movies and #rstats. I would say the joke writes itself, but I'm having a p. good time plotting.
+364165731992473600  Aug  4 19:27  @kdnuggets        FOAS becomes hottest thing in open source data science #rstats http://bit.ly/183IHAY
+364171913775415296  Aug  4 19:52  @datalies         @jakeruss ... do you know of a good tips&tricks for #RStudio? #Rstats ... I've found a few and it has me thinking there's a lot i don't know
+364174045220458496  Aug  4 20:00  @ekendriss        RT @kdnuggets: FOAS becomes hottest thing in open source data science #rstats http://t.co/tXpNbPqaNc
+364174119522144257  Aug  4 20:00  @GueyeNono        An excellent introduction to the very often misunderstood family of functions apply() in #Rstats http://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
+364177034802499585  Aug  4 20:12  @JeromyAnglim     RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
+364179727046946816  Aug  4 20:23  @raulpacheco      #RStats heartbreak RT @whereisdaz: Rookie error. Enthusiastically upgraded R to latest version and broke all the packages I need to use :(
