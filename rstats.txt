@@ -13933,6 +13933,7 @@
 363726104202592256  Aug  3 14:20  @carlislerainey   You can now get compactr directly from CRAN. http://crain.co/compactr #rstats  #smallmultiples #dataviz
 363737993016008704  Aug  3 15:07  @timelyportfolio  RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
 363744610801033216  Aug  3 15:34  @ucfagls          Someone came up to me today to thank me for my #rstats community activity; mightily embarrassed but very nice all the same :D
+363749094902472704  Aug  3 15:51  @chlalanne        RT @carlislerainey: You can now get compactr directly from CRAN. http://crain.co/compactr #rstats  #smallmultiples #dataviz
 363749094902472704  Aug  3 15:51  @chlalanne        RT @carlislerainey: You can now get compactr directly from CRAN. http://t.co/hmYPqAAUrQ #rstats  #smallmultiples #dataviz
 363766424881201154  Aug  3 17:00  @Rbloggers        Classification of the Hyper-Spectral and LiDAR Imagery using R (mostly). Part 2: Classification Approa... http://bit.ly/15quose #rstats
 363767993257312256  Aug  3 17:07  @raulpacheco      .@simon_reader my “for pleasure” reading includes books on cities, #RStats #ArcGIS :) #AcademicFun
@@ -14004,7 +14005,30 @@
 364198668015902720  Aug  4 21:38  @timelyportfolio  RT @ramnath_vaidya: Seeing in and Beyond R #jsm2013 Trying to live-gist it here https://t.co/Ky8AOHYSXT #Rstats
 364211909211328514  Aug  4 22:31  @marcosluis2186   Demand for R jobs on the rise, while SAS jobs decline http://buff.ly/1emfwdK by @revodavid from @RevolutionR #rstats
 364226902858690560  Aug  4 23:30  @ChrisBeeley      RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
+364247741503123456  Aug  5 00:53  @mfenner          RT @recology_: Tips on writing an #rstats book http://bit.ly/16mlKHT from @xieyihui
 364247741503123456  Aug  5 00:53  @mfenner          RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
 364260061922590720  Aug  5 01:42  @nickholway       Changepoint Analysis of Time Series in #rstats http://r-datameister.blogspot.ch/2013/08/changepoint-analysis-of-time-series.html
 364260964059086848  Aug  5 01:45  @kara_woo         Here it's faster to get an #rstats package from @se_hampton on a USB (and go back for dependencies I forgot) than to download it. #Baikal13
 364262124001828867  Aug  5 01:50  @Rbloggers        RcppArmadillo 0.3.900.7:  (This article was first published on   Thinking inside the box   , and kin... http://bit.ly/13RhugD #rstats
+364282159663546368  Aug  5 03:10  @stubbornmule     A new version of the N-Gram package ngramr is up on CRAN. #rstats #linguistics http://cran.r-project.org/web/packages/ngramr/index.html
+364284077219655682  Aug  5 03:17  @ChrisGandrud     New version of #rstats d3Network on CRAN http://bit.ly/18a1BsU New Trees and Clustered Dendrograms. Examples: http://bit.ly/18a1nCi
+364296079447044097  Aug  5 04:05  @jmgomez          RT @gianlucaemireni: Dashboards in R with Shiny and GoogleVis: http://bit.ly/14OH99M #rstats #dataviz
+364303235491700736  Aug  5 04:33  @jlehtoma         Why thank you #testthat and #devtools, you made my day! #Rstats http://t.co/2yQfvakEWk
+364303618628784128  Aug  5 04:35  @algonpaje        Transparency Law in Spain: Text Analysis #rstats http://bit.ly/11GZJDX
+364330096531750912  Aug  5 06:20  @Rbloggers        Heatmapping Washington, DC Rental Price Changes using OpenStreetMaps:  (This article was first publi... http://bit.ly/13S7BPJ #rstats
+364335744124715008  Aug  5 06:43  @openscience      RT @rOpenSci: .@cboettig & @_inundata explaining tidy data in "#openscience w/ #rstats & @DataONEorg" #esa2013 see here for more http://t.co/t9Wx55Chr2
+364343642929901569  Aug  5 07:14  @kiriwhan         RT @RLangTip: An R user's case for Emacs: "Emacs has no learning curve" (http://t.co/dy0mU6kn1s) #rstats
+364349199606743040  Aug  5 07:36  @kara_woo         RT @rOpenSci: .@cboettig & @_inundata explaining tidy data in "#openscience w/ #rstats & @DataONEorg" #esa2013 see here for more http://t.co/t9Wx55Chr2
+364356418557579264  Aug  5 08:05  @andresitores     RT @stubbornmule: My first R package publish on CRAN! Work with Google n-grams using ngramr #rstats http://t.co/RVuFETFfxJ
+364357232840151040  Aug  5 08:08  @naupakaz         RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
+364357873913954304  Aug  5 08:11  @seancarmody      RT @stubbornmule: A new version of the N-Gram package ngramr is up on CRAN. #rstats #linguistics http://t.co/RVuFETFfxJ
+364359118271688704  Aug  5 08:15  @emeyke           You do! RT @jlehtoma: Why thank you #testthat and #devtools, you made my day! #Rstats http://t.co/yO47fZJnAp
+364359120859959296  Aug  5 08:15  @quandl           Map Twitter followers with R #RStats by @JulianHi http://qndl.co/1cwrDa8
+364359354473906177  Aug  5 08:16  @recology_        RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
+364361313444978688  Aug  5 08:24  @jlehtoma         RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
+364365492380631040  Aug  5 08:41  @KirkDBorne       That's cute > HT @quandl: Map your Twitter followers with R, by @JulianHi http://qndl.co/1cwrDa8 #Rstats #Geospatial http://t.co/c61TEXFUuP
+364366435210240000  Aug  5 08:45  @chlalanne        RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
+364366723463393282  Aug  5 08:46  @MattDabrowski    RT @m4xl1n: Learning R, a new #rstats book from @OReillyMedia http://t.co/tMWHfAaxuK
+364367326537195521  Aug  5 08:48  @MattDabrowski    RT @RLangTip: A collection of tips for R beginners: http://t.co/k289CigQIf #rstats
+364367431705169922  Aug  5 08:49  @JulianHi         RT @KirkDBorne: That's cute > HT @quandl: Map your Twitter followers with R, by @JulianHi http://t.co/mEYpWuvTqd #Rstats #Geospatial http://t.co/c61TEXFUuP
+364367606859702272  Aug  5 08:49  @AdiePrestone     RT @KirkDBorne: That's cute > HT @quandl: Map your Twitter followers with R, by @JulianHi http://t.co/mEYpWuvTqd #Rstats #Geospatial http://t.co/c61TEXFUuP
