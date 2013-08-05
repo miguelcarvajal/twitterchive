@@ -13921,6 +13921,7 @@
 363644861313851393  Aug  3 08:57  @ucfagls          A full room for Jim Grace & Don Schoolmaster's Intro to SEM workshop at #esa2013 featuring #rstats & the lavaan pkg
 363651307649118208  Aug  3 09:23  @dindjic          RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
 363668034902175744  Aug  3 10:29  @ricobert1        Hurricane Katrina windfields using H*Wind data from @HRD_AOML_NOAA http://robhodges.co/wp/2013/08/03/maximum-windspeeds-from-hurricane-katrina-using-hwind-analyses/ #Rstats
+363675194386153474  Aug  3 10:58  @Gimperion        RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
 363675194386153474  Aug  3 10:58  @Gimperion        RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
 363678149848346625  Aug  3 11:10  @ibartomeus       RT @ucfagls: A full room for Jim Grace & Don Schoolmaster's Intro to SEM workshop at #esa2013 featuring #rstats & the lavaan pkg
 363678928348524544  Aug  3 11:13  @jeffreyhorner    #Rstats is great b/c of command line, interactivity, graphics, and a powerful yet quirky language for data.  And CRAN is a HUGE LEVER.
@@ -13998,12 +13999,14 @@
 364171913775415296  Aug  4 19:52  @datalies         @jakeruss ... do you know of a good tips&tricks for #RStudio? #Rstats ... I've found a few and it has me thinking there's a lot i don't know
 364174045220458496  Aug  4 20:00  @ekendriss        RT @kdnuggets: FOAS becomes hottest thing in open source data science #rstats http://t.co/tXpNbPqaNc
 364174119522144257  Aug  4 20:00  @GueyeNono        An excellent introduction to the very often misunderstood family of functions apply() in #Rstats http://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
+364177034802499585  Aug  4 20:12  @JeromyAnglim     RT @recology_: Tips on writing an #rstats book http://bit.ly/16mlKHT from @xieyihui
 364177034802499585  Aug  4 20:12  @JeromyAnglim     RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
 364179727046946816  Aug  4 20:23  @raulpacheco      #RStats heartbreak RT @whereisdaz: Rookie error. Enthusiastically upgraded R to latest version and broke all the packages I need to use :(
 364197098138251265  Aug  4 21:32  @timelyportfolio  @PratapVardhan #rstats getting it with @ramnath_vaidya #rcharts and @nachocaballero #clickme
 364198053374210049  Aug  4 21:35  @timelyportfolio  RT @ramnath_vaidya: Hearing Paul Murrell talk about Grid Graphics. My notes here https://t.co/Ky8AOHYSXT #jsm2013 #rstats
 364198668015902720  Aug  4 21:38  @timelyportfolio  RT @ramnath_vaidya: Seeing in and Beyond R #jsm2013 Trying to live-gist it here https://t.co/Ky8AOHYSXT #Rstats
 364211909211328514  Aug  4 22:31  @marcosluis2186   Demand for R jobs on the rise, while SAS jobs decline http://buff.ly/1emfwdK by @revodavid from @RevolutionR #rstats
+364226902858690560  Aug  4 23:30  @ChrisBeeley      RT @recology_: Tips on writing an #rstats book http://bit.ly/16mlKHT from @xieyihui
 364226902858690560  Aug  4 23:30  @ChrisBeeley      RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
 364247741503123456  Aug  5 00:53  @mfenner          RT @recology_: Tips on writing an #rstats book http://bit.ly/16mlKHT from @xieyihui
 364247741503123456  Aug  5 00:53  @mfenner          RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
@@ -14019,7 +14022,9 @@
 364335744124715008  Aug  5 06:43  @openscience      RT @rOpenSci: .@cboettig & @_inundata explaining tidy data in "#openscience w/ #rstats & @DataONEorg" #esa2013 see here for more http://t.co/t9Wx55Chr2
 364343642929901569  Aug  5 07:14  @kiriwhan         RT @RLangTip: An R user's case for Emacs: "Emacs has no learning curve" (http://t.co/dy0mU6kn1s) #rstats
 364349199606743040  Aug  5 07:36  @kara_woo         RT @rOpenSci: .@cboettig & @_inundata explaining tidy data in "#openscience w/ #rstats & @DataONEorg" #esa2013 see here for more http://t.co/t9Wx55Chr2
+364356418557579264  Aug  5 08:05  @andresitores     RT @stubbornmule: My first R package publish on CRAN! Work with Google n-grams using ngramr #rstats http://cran.r-project.org/web/packages/ngramr/index.html
 364356418557579264  Aug  5 08:05  @andresitores     RT @stubbornmule: My first R package publish on CRAN! Work with Google n-grams using ngramr #rstats http://t.co/RVuFETFfxJ
+364357232840151040  Aug  5 08:08  @naupakaz         RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://bit.ly/18a1BsU New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
 364357232840151040  Aug  5 08:08  @naupakaz         RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
 364357873913954304  Aug  5 08:11  @seancarmody      RT @stubbornmule: A new version of the N-Gram package ngramr is up on CRAN. #rstats #linguistics http://t.co/RVuFETFfxJ
 364359118271688704  Aug  5 08:15  @emeyke           You do! RT @jlehtoma: Why thank you #testthat and #devtools, you made my day! #Rstats http://t.co/yO47fZJnAp
@@ -14032,3 +14037,62 @@
 364367326537195521  Aug  5 08:48  @MattDabrowski    RT @RLangTip: A collection of tips for R beginners: http://t.co/k289CigQIf #rstats
 364367431705169922  Aug  5 08:49  @JulianHi         RT @KirkDBorne: That's cute > HT @quandl: Map your Twitter followers with R, by @JulianHi http://t.co/mEYpWuvTqd #Rstats #Geospatial http://t.co/c61TEXFUuP
 364367606859702272  Aug  5 08:49  @AdiePrestone     RT @KirkDBorne: That's cute > HT @quandl: Map your Twitter followers with R, by @JulianHi http://t.co/mEYpWuvTqd #Rstats #Geospatial http://t.co/c61TEXFUuP
+364371133644021760  Aug  5 09:03  @rystanman        Came across a great scientific plotting tool: #GoogleChrome Plot.ly addon. Serious contender to SigmaPlot & has #rstats & #Matlab interfaces
+364380100751396864  Aug  5 09:39  @timelyportfolio  RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
+364384697888944128  Aug  5 09:57  @ar_usergroup     Dashboards in R with Shiny and GoogleVis.  by @hernanresnizky http://hernanresnizky.wordpress.com/2013/08/02/dashboards-in-r-with-shiny-and-googlevis/ #rstats
+364388933989175297  Aug  5 10:14  @DiffusePrioR     New blogpost: How Much Should Bale Cost Real? http://wp.me/p2jI3P-aB #football #rstats #thfc
+364391247995080704  Aug  5 10:23  @timelyportfolio  RT @DiffusePrioR: New blogpost: How Much Should Bale Cost Real? http://t.co/tkEm91SKBO #football #rstats #thfc
+364391766289416194  Aug  5 10:25  @arnicas          Nicely done, zoom too. v. @chlalanne MT @ChrisGandrud: New version of #rstats d3Network-Trees & Clustered Dendrograms:http://bit.ly/18a1nCi
+364392134712901633  Aug  5 10:27  @yrochat          @keuja @hongochuy :-) RT @DiffusePrioR: New blogpost: How Much Should Bale Cost Real? http://wp.me/p2jI3P-aB #football #rstats #thfc
+364392796087529472  Aug  5 10:29  @jrmontag         RT @arnicas: Nicely done, zoom too. v. @chlalanne MT @ChrisGandrud: New version of #rstats d3Network-Trees & Clustered Dendrograms:http://t.co/Z28ftHOsxY
+364392827427373056  Aug  5 10:29  @SBarfort         RT @DiffusePrioR: New blogpost: How Much Should Bale Cost Real? http://t.co/tkEm91SKBO #football #rstats #thfc
+364396951107674112  Aug  5 10:46  @dozenoaks        I knew strava would be trouble... Can you extract speed data? I just thought of a fun R project #rstats #strava
+364398660013920256  Aug  5 10:53  @kdnuggets        R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://bit.ly/194jlHx
+364399571411021825  Aug  5 10:56  @SBrudvig         RT @kdnuggets: R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://t.co/UEYnQMLJwq
+364402516903354368  Aug  5 11:08  @fire_fox         RT @kdnuggets: R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://t.co/UEYnQMLJwq
+364403453181034496  Aug  5 11:12  @marcosluis2186   Demand for R jobs on the rise, while SAS jobs decline http://buff.ly/19H1upD via @revodavid from @RevolutionR #rstats
+364403503508099073  Aug  5 11:12  @i_314            Call for papers:Argentina-R Users Group Meeting.http://ar.i314.com.ar (in Spanish) #rstats Main areas of Interest: Finance & Bioinformatics
+364403810711506944  Aug  5 11:13  @metamattj        For tutorials from @nceas and @rOpenSci workshop exploring "#openscience w/ #rstats & @DataONEorg" at #esa2013 see https://github.com/mbjones/opensci_r_esa_2013
+364403921139142657  Aug  5 11:13  @sharon000        Cool: RStudio's Extract Function analyzes selected code and auto-converts to a function http://bit.ly/11HHCh1 #rstats @rstudioapp
+364406848159363073  Aug  5 11:25  @virmax           RT @i_314: Call for papers:Argentina-R Users Group Meeting.http://t.co/TeFE296stf (in Spanish) #rstats Main areas of Interest: Finance & Bioinformatics
+364407415619747840  Aug  5 11:27  @mapagella        RT @i_314: Call for papers:Argentina-R Users Group Meeting.http://t.co/TeFE296stf (in Spanish) #rstats Main areas of Interest: Finance & Bioinformatics
+364410543739633666  Aug  5 11:40  @ramnath_vaidya   RT @sharon000: Cool: RStudio's Extract Function analyzes selected code and auto-converts to a function http://t.co/Q8meTwFrOe #rstats @rstudioapp
+364412994622468096  Aug  5 11:50  @GregMcI          RT @arnicas: Nicely done, zoom too. v. @chlalanne MT @ChrisGandrud: New version of #rstats d3Network-Trees & Clustered Dendrograms:http://t.co/Z28ftHOsxY
+364416468147904512  Aug  5 12:03  @ProbFact         Distributions in #rstats http://bit.ly/a7GQj1
+364416876517920768  Aug  5 12:05  @jmcyap           RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
+364416943098302464  Aug  5 12:05  @RLangTip         To see the output when running a script file, use source("myscript.R", echo=TRUE) #rstats http://bit.ly/M6mig1
+364417477922398208  Aug  5 12:07  @love_life_logic  RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
+364417724132237313  Aug  5 12:08  @jingbay          RT @kdnuggets: R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://t.co/UEYnQMLJwq
+364418197681750016  Aug  5 12:10  @inside_R         #rstats R user group meetings this week: Durban, Cleveland, White River Junction, Manchester, Chicago and San Diego http://bit.ly/9hVAPE
+364418544395497472  Aug  5 12:12  @mjcavaretta      I bet #Rstats agrees. MT @Kynski_: Sundays are best spent with....... multiple regression analysis. #math #analytics… http://instagram.com/p/coyxxTi0GA/
+364419159675133952  Aug  5 12:14  @TheRealPabloo    RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
+364420052860149760  Aug  5 12:18  @mjcavaretta      Google Trends http://www.google.com/trends/explore?q=sas#cat=0-5-32&q=%22sas%20software%22%2C%20%22r%20software%22&cmpt=q RT @marcosluis2186: R jobs rising, SAS decline http://buff.ly/19H1upD ht @kdnuggets @revodavid #rstats
+364420545812504578  Aug  5 12:20  @StatsUMan        RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
+364421101528416256  Aug  5 12:22  @noticiasSobreR   Medianas ponderadas en R: La mediana de 1:3 es 2. Pero puede ser que queramos dar a 1:3 los pesos 2, 1... http://tinyurl.com/kgbz5bn #rstats
+364422015446298624  Aug  5 12:25  @bo7b             RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
+364425080408772608  Aug  5 12:38  @statisticsblog   R tip of the day - Gibbs sampler in C++. http://i.cx/1b6Z1CG #r #rstats #C++ #mcmc
+364425266384633856  Aug  5 12:38  @adolfoalvarez    RT @sharon000: Cool: RStudio's Extract Function analyzes selected code and auto-converts to a function http://t.co/Q8meTwFrOe #rstats @rstudioapp
+364426227438063616  Aug  5 12:42  @frod_san         RT @statisticsblog: R tip of the day - Gibbs sampler in C++. http://t.co/3BPyr54ws0 #r #rstats #C++ #mcmc
+364427549675622400  Aug  5 12:47  @spsaaibi         RT @sharon000: Cool: RStudio's Extract Function analyzes selected code and auto-converts to a function http://t.co/Q8meTwFrOe #rstats @rstudioapp
+364428730413744130  Aug  5 12:52  @mjcavaretta      Nice #dataviz w/ new version of #rstats d3Network-Trees & Clustered Dendrograms:http://bit.ly/18a1nCi ht @arnicas @chlalanne @ChrisGandrud
+364441493727367168  Aug  5 13:43  @ChrisBeeley      RT @sharon000: Cool: RStudio's Extract Function analyzes selected code and auto-converts to a function http://t.co/Q8meTwFrOe #rstats @rstudioapp
+364441650372030464  Aug  5 13:43  @gulerhuseyin     RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
+364442970525028353  Aug  5 13:49  @MarkTabNet       RT @kdnuggets: FOAS becomes hottest thing in open source data science #rstats http://t.co/tXpNbPqaNc
+364443716599029760  Aug  5 13:52  @Rbloggers        Calendar-based Sector Strategy:  (This article was first published on   Systematic Investor » R, and... http://bit.ly/13U82c7 #rstats
+364447617897336832  Aug  5 14:07  @hspter           Nice interactive plots in R - http://www.rforge.net/Acinonyx/ #rstats #JSM2013
+364449181726814210  Aug  5 14:13  @ramnath_vaidya   Hearing Simon Urbanek doing a demo of RCloud, an IPython like environment for R Notebooks #rstats #jsm2013 #socool
+364450388033802240  Aug  5 14:18  @scheidegger      RT @ramnath_vaidya: Hearing Simon Urbanek doing a demo of RCloud, an IPython like environment for R Notebooks #rstats #jsm2013 #socool
+364450444183363584  Aug  5 14:18  @LouBajuk         Very cool web based notebooks, collaboration, and visualizations by Simon Urbanek. http://stats.research.att.com/RCloud/ #jsm2013 #Rstats
+364450463917154306  Aug  5 14:18  @YhatHQ           r-server-template - writing servers in #Rstats - https://github.com/HarlanH/r-server-template @harlanharris
+364450693207166977  Aug  5 14:19  @hspter           RT @ramnath_vaidya: Hearing Simon Urbanek doing a demo of RCloud, an IPython like environment for R Notebooks #rstats #jsm2013 #socool
+364452206105620480  Aug  5 14:25  @CMCMFIN          RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
+364452347654578177  Aug  5 14:26  @hspter           Another link for RCloud -- http://stats.research.att.com/RCloud/ #rstats #JSM2013 looks beautiful interactively
+364452665943531520  Aug  5 14:27  @ramnath_vaidya   Inspired by Simon Urbanek's talk, installing rcloud. Looks like a game-changing piece of tech for R. #jsm2013 #Rstats
+364452788161753088  Aug  5 14:28  @AjayOza_Actual   RT @ramnath_vaidya: Hearing Simon Urbanek doing a demo of RCloud, an IPython like environment for R Notebooks #rstats #jsm2013 #socool
+364452913566842881  Aug  5 14:28  @eddelbuettel     RT @ramnath_vaidya: Inspired by Simon Urbanek's talk, installing rcloud. Looks like a game-changing piece of tech for R. #jsm2013 #Rstats
+364453625067618304  Aug  5 14:31  @recology_        RT @ramnath_vaidya: Hearing Simon Urbanek doing a demo of RCloud, an IPython like environment for R Notebooks #rstats #jsm2013 #socool
+364454242783727616  Aug  5 14:33  @HarlanH          RT @YhatHQ: r-server-template - writing servers in #Rstats - https://github.com/HarlanH/r-server-template @harlanh < Thx! See also: http://bit.ly/18Z2UZG
+364456179126124546  Aug  5 14:41  @ramnath_vaidya   RT @HarlanH: RT @YhatHQ: r-server-template - writing servers in #Rstats - https://t.co/6hjDiba5q0 @harlanh < Thx! See also: http://t.co/FHkuWgGZbz
+364460200410882048  Aug  5 14:57  @rOpenSci         Interested in #openscience, reproducible research, #rstats Come 2 our happy hr tonight 630pm at Brit's pub http://bit.ly/185Ndi9 #esa2013
+364460250125963265  Aug  5 14:57  @recology_        RT @rOpenSci: Interested in #openscience, reproducible research, #rstats Come 2 our happy hr tonight 630pm at Brit's pub http://t.co/kwfkJ8dpxI #esa2013
+364460449946812416  Aug  5 14:58  @mpmckenna8       RT @rOpenSci: Interested in #openscience, reproducible research, #rstats Come 2 our happy hr tonight 630pm at Brit's pub http://t.co/kwfkJ8dpxI #esa2013
