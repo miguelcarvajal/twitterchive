@@ -13754,6 +13754,7 @@
 363095213369065473  Aug  1 20:33  @Rbloggers        Package sqldf eases the multivariable sorting pain:  (This article was first published on   Data and... http://bit.ly/16KGs4d #rstats
 363097169038815234  Aug  1 20:41  @davetang31       RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
 363097305752141825  Aug  1 20:41  @faustovrz        RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
+363097305752141825  Aug  1 20:41  @faustovrz        RT @FlorianOswald: learn R for free, in your browser. http://www.datamind.org/ #rstats
 363097557859176448  Aug  1 20:42  @juglardelzipa    RT @FlorianOswald: learn R for free, in your browser. http://t.co/e8U9ceSrNA #rstats
 363099291423735809  Aug  1 20:49  @dickoah          RT @hadleywickham: @zentree I'd put my money on #rstats being the next better #rstats :P
 363107163264135168  Aug  1 21:21  @rOpenSci         [Blog] On consuming #altmetrics using #rstats pkgs for @ImpactStory @altmetric and @plosalm http://bit.ly/12JZTwQ
@@ -13998,3 +13999,12 @@
 364174119522144257  Aug  4 20:00  @GueyeNono        An excellent introduction to the very often misunderstood family of functions apply() in #Rstats http://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
 364177034802499585  Aug  4 20:12  @JeromyAnglim     RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
 364179727046946816  Aug  4 20:23  @raulpacheco      #RStats heartbreak RT @whereisdaz: Rookie error. Enthusiastically upgraded R to latest version and broke all the packages I need to use :(
+364197098138251265  Aug  4 21:32  @timelyportfolio  @PratapVardhan #rstats getting it with @ramnath_vaidya #rcharts and @nachocaballero #clickme
+364198053374210049  Aug  4 21:35  @timelyportfolio  RT @ramnath_vaidya: Hearing Paul Murrell talk about Grid Graphics. My notes here https://t.co/Ky8AOHYSXT #jsm2013 #rstats
+364198668015902720  Aug  4 21:38  @timelyportfolio  RT @ramnath_vaidya: Seeing in and Beyond R #jsm2013 Trying to live-gist it here https://t.co/Ky8AOHYSXT #Rstats
+364211909211328514  Aug  4 22:31  @marcosluis2186   Demand for R jobs on the rise, while SAS jobs decline http://buff.ly/1emfwdK by @revodavid from @RevolutionR #rstats
+364226902858690560  Aug  4 23:30  @ChrisBeeley      RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
+364247741503123456  Aug  5 00:53  @mfenner          RT @recology_: Tips on writing an #rstats book http://t.co/ygGdFmhhzK from @xieyihui
+364260061922590720  Aug  5 01:42  @nickholway       Changepoint Analysis of Time Series in #rstats http://r-datameister.blogspot.ch/2013/08/changepoint-analysis-of-time-series.html
+364260964059086848  Aug  5 01:45  @kara_woo         Here it's faster to get an #rstats package from @se_hampton on a USB (and go back for dependencies I forgot) than to download it. #Baikal13
+364262124001828867  Aug  5 01:50  @Rbloggers        RcppArmadillo 0.3.900.7:  (This article was first published on   Thinking inside the box   , and kin... http://bit.ly/13RhugD #rstats
