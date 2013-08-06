@@ -14084,6 +14084,7 @@
 364427549675622400  Aug  5 12:47  @spsaaibi         RT @sharon000: Cool: RStudio's Extract Function analyzes selected code and auto-converts to a function http://t.co/Q8meTwFrOe #rstats @rstudioapp
 364428730413744130  Aug  5 12:52  @mjcavaretta      Nice #dataviz w/ new version of #rstats d3Network-Trees & Clustered Dendrograms:http://bit.ly/18a1nCi ht @arnicas @chlalanne @ChrisGandrud
 364441493727367168  Aug  5 13:43  @ChrisBeeley      RT @sharon000: Cool: RStudio's Extract Function analyzes selected code and auto-converts to a function http://t.co/Q8meTwFrOe #rstats @rstudioapp
+364441650372030464  Aug  5 13:43  @gulerhuseyin     RT @ProbFact: Distributions in #rstats http://bit.ly/a7GQj1
 364441650372030464  Aug  5 13:43  @gulerhuseyin     RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
 364442970525028353  Aug  5 13:49  @MarkTabNet       RT @kdnuggets: FOAS becomes hottest thing in open source data science #rstats http://t.co/tXpNbPqaNc
 364443716599029760  Aug  5 13:52  @Rbloggers        Calendar-based Sector Strategy:  (This article was first published on   Systematic Investor » R, and... http://bit.ly/13U82c7 #rstats
@@ -14179,7 +14180,44 @@
 364713585210949634  Aug  6 07:44  @jung_gt          RT @genetics_blog: Blog post: Google Developers #Rstats Programming Video Lectures http://t.co/Jaybje8WaR
 364717802793349120  Aug  6 08:01  @ECMtom           i am very very slowly becoming not completely incompetent at using r  #Rstats
 364723956965572608  Aug  6 08:25  @Gliders_Coach    Different Forks of R- Will #SAS create a new version of R too #rstats http://wp.me/p9q8Y-2Vh  #JSM2013
+364728218185908224  Aug  6 08:42  @dsifontes        RT @grserrano_: La estadística en todas partes. "How Much Should Bale Cost Real?" http://flip.it/SpnZd #rstats
 364728218185908224  Aug  6 08:42  @dsifontes        RT @grserrano_: La estadística en todas partes. "How Much Should Bale Cost Real?" http://t.co/tBbDTxY2Q6 #rstats
 364730115630333952  Aug  6 08:50  @dlizcano         RT @adaptive_plant: Learning R? Checkout this online course from Google Developers, 2 minute video snippets #rstats http://t.co/Zk9Z438cJH
 364730227445874688  Aug  6 08:50  @jmgomez          RT @stubbornmule: A new version of the N-Gram package ngramr is up on CRAN. #rstats #linguistics http://cran.r-project.org/web/packages/ngramr/index.html #NLProc #TextMining
 364731882422169600  Aug  6 08:57  @drago_carlo      RT @jmgomez: RT @stubbornmule: A new version of the N-Gram package ngramr is up on CRAN. #rstats #linguistics http://t.co/COE2LfvCas #NLProc #TextMining
+364737662222991361  Aug  6 09:20  @R_Borat          I am #rstats Borat of @BoratTechFamily Author of number four R package in all of Kazakhstan
+364737722675507200  Aug  6 09:20  @rmflight         #verbalexpressions http://thechangelog.com/stop-writing-regular-expressions-express-them-with-verbal-expressions/ could we use the cpp library to make a package for #rstats?
+364737787708178432  Aug  6 09:20  @R_Borat          My #rstats package is Test In Production
+364738998763532288  Aug  6 09:25  @romain_francois  RT @ramnath_vaidya: Inspired by Simon Urbanek's talk, installing rcloud. Looks like a game-changing piece of tech for R. #jsm2013 #Rstats
+364739023178567680  Aug  6 09:25  @romain_francois  RT @ramnath_vaidya: Hearing Simon Urbanek doing a demo of RCloud, an IPython like environment for R Notebooks #rstats #jsm2013 #socool
+364741296310599680  Aug  6 09:34  @uribe_convers    RT @adaptive_plant: Learning R? Checkout this online course from Google Developers, 2 minute video snippets #rstats http://t.co/Zk9Z438cJH
+364745392853753859  Aug  6 09:50  @Rbloggers        Informative leaflet on R:  (This article was first published on   rapporter, and kindly contributed ... http://bit.ly/13YeIpP #rstats
+364748292090892288  Aug  6 10:02  @KirkDBorne       HT @sharon000 > Google Developers release series of videos on learning to program in R: http://bit.ly/12nmPAf #Rstats Vectors,Variables,...
+364749214900690944  Aug  6 10:06  @HectorFHdez      RT @KirkDBorne: HT @sharon000 > Google Developers release series of videos on learning to program in R: http://t.co/BndeSAXTQL #Rstats Vectors,Variables,...
+364749302691663874  Aug  6 10:06  @rmflight         @ramnath_vaidya maybe, I hadn't looked at it too much. Just thought the concept looked nice, and would be nice to have in #rstats
+364750313162424322  Aug  6 10:10  @XVtores          RT @KirkDBorne: HT @sharon000 > Google Developers release series of videos on learning to program in R: http://t.co/BndeSAXTQL #Rstats Vectors,Variables,...
+364752084056674304  Aug  6 10:17  @CanHealthyOcean  RT @rystanman: Came across a great scientific plotting tool: #GoogleChrome Plot.ly addon. Serious contender to SigmaPlot & has #rstats & #Matlab interfaces
+364755769922560001  Aug  6 10:32  @TIBCOSpotfire    RT @loubajuk: Join me to learn about @TIBCO Enterprise Runtime for R at 2 pm Tuesday CC-521ab #jsm2013 #rstats
+364757513876418561  Aug  6 10:39  @LouBajuk         Join me at 2 pm today in CC-521ab to hear about our new enterprise grade, R-compatible TERR engine #jsm2013 #Rstats
+364758851955863553  Aug  6 10:44  @LouBajuk         Nice, introductory piece on R, for the nontechnical audience #rstats http://www.scribd.com/doc/158415413/Informative-leaflet-on-the-open-source-R
+364767372462129153  Aug  6 11:18  @idigdata         Interesting different flavors of R http://bit.ly/14wd7Pa #analytics #rstats http://lnkd.in/rqsdKn
+364768844155322368  Aug  6 11:24  @5h15h            RT @idigdata: Interesting different flavors of R http://t.co/w1l66kLSK4 #analytics #rstats http://t.co/a7Cu4cAWGe
+364769591362191360  Aug  6 11:27  @timelyportfolio  Timely Portfolio: I Want #ggplot2 #lattice and #d3js (#gridSVG Glue) http://timelyportfolio.blogspot.com/2013/08/gridsvganother-glue-for-r-to-svg.html?spref=tw #rstats @jaredlander @ramnath_vaidya
+364769699713654786  Aug  6 11:27  @timelyportfolio  RT @jaredlander: @hadleywickham I built position_dodgev. Please clean it up and incorporate it into #ggplot2 for all our souls #rstats http://t.co/cK7qwaNDwJ
+364769971848482818  Aug  6 11:28  @HlthAnalysis     RT @idigdata Interesting different flavors of R http://bit.ly/14wd7Pa  #analytics #rstats http://lnkd.in/rqsdKn
+364776227506503680  Aug  6 11:53  @PageViral        RT @HlthAnalysis: RT @idigdata Interesting different flavors of R http://t.co/S6etxUnust  #analytics #rstats http://t.co/siErpLLthS
+364779409938460674  Aug  6 12:06  @RLangTip         missing(x) determines whether an argument x was supplied when a function was invoked: http://bit.ly/OCVKRF #rstats
+364787201269170177  Aug  6 12:37  @kwbroman         Blog: You can learn a lot by reading the source code for #rstats http://wp.me/p1MjYA-tn
+364794282865328128  Aug  6 13:05  @DashingD3js      RT @arnicas: Nicely done, zoom too. v. @chlalanne MT @ChrisGandrud: New version of #rstats d3Network-Trees & Clustered Dendrograms:http://t.co/Z28ftHOsxY
+364795647490146304  Aug  6 13:10  @idibon           MT @jmgomez @stubbornmule: N-Gram package ngramr is updated on CRAN. #rstats #linguistics http://cran.r-project.org/web/packages/ngramr/index.html #NLProc #TextMining
+364796819038945282  Aug  6 13:15  @dphdk            I really need to learn #rstats soon. Now @google wants to help me as well http://bit.ly/12nmPAf
+364812963082801152  Aug  6 14:19  @plotlygraphs     RT @rystanman: Came across a great scientific plotting tool: #GoogleChrome Plot.ly addon. Serious contender to SigmaPlot & has #rstats & #Matlab interfaces
+364814150511239168  Aug  6 14:24  @kdnuggets        New version of R Reference Card for Data Mining #rstats, now with links to CRAN, MapReduce & Hadoop packages http://bit.ly/14wx0pg
+364814332913139712  Aug  6 14:24  @nicoleradziwill  RT @kdnuggets: New version of R Reference Card for Data Mining #rstats, now with links to CRAN, MapReduce & Hadoop packages http://t.co/nXuYpybT3R
+364814354375782400  Aug  6 14:24  @sanderwagner     RT @kdnuggets: New version of R Reference Card for Data Mining #rstats, now with links to CRAN, MapReduce & Hadoop packages http://t.co/nXuYpybT3R
+364815209342304257  Aug  6 14:28  @kdnuggets        Different Forks of R: CRAN, Revolution, Oracle, TIBCO, pqR, SAP, Netezza ... will SAS create its R version? #rstats  http://bit.ly/15LdVwt
+364820074198077440  Aug  6 14:47  @datawranglr      RT @RLangTip: Use the RMySQL package to read data from MySQL into R using SQL queries: http://t.co/yGpMNsdPET #rstats
+364820198777708544  Aug  6 14:48  @chlalanne        RT @kdnuggets: Different Forks of R: CRAN, Revolution, Oracle, TIBCO, pqR, SAP, Netezza ... will SAS create its R version? #rstats  http://t.co/vtvfGX3O9N
+364820223473360896  Aug  6 14:48  @trohil           RT @kdnuggets: New version of R Reference Card for Data Mining #rstats, now with links to CRAN, MapReduce & Hadoop packages http://t.co/nXuYpybT3R
+364820785564614656  Aug  6 14:50  @andersoncliffb   Glad to see Haricombe talking about understanding of data manipulation and mining tools among future skills for librarians. #rstats #aserl
+364821199458537472  Aug  6 14:52  @Rbloggers        Tabular Data I/O in Julia:  (This article was first published on   http://randyzwitch.com » R, and ki... http://bit.ly/1560gMO #rstats
