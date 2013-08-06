@@ -2992,6 +2992,7 @@
 364389901695197184  Aug  5 10:18  @nikhilgopal      TruHMM: an algorithm for assembling full-length transcripts in prokaryotes using directional RNA-Seq short reads http://bit.ly/11HBfdJ
 364418789061832706  Aug  5 12:13  @rnomics          Good methodology to name #RNA-Seq files - BioStar: http://biostars.org posted by... http://bit.ly/13THfwE #rnomics_bioinfo @MyEN
 364428124953772032  Aug  5 12:50  @stephaniehicks   RT @nextgenseek: RNA-seq methods at #JSM2013  http://t.co/3VuOChusxC #RNAseq #NGS
+364428124953772032  Aug  5 12:50  @stephaniehicks   RT @nextgenseek: RNA-seq methods at #JSM2013  http://www.amstat.org/meetings/jsm/2013/onlineprogram/KeyWordSearchResults.cfm?keyword=RNA-Seq #RNAseq #NGS
 364475973682872320  Aug  5 16:00  @genetics_blog    Simultaneous isoform discovery and quantification from RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23888185
 364478451329556480  Aug  5 16:10  @genetics_blog    RT @nextgenseek: RNA-seq methods at #JSM2013  http://t.co/3VuOChusxC #RNAseq #NGS
 364479380627947520  Aug  5 16:13  @genetics_blog    Affy microarray ad - trashing RNA-seq as "hype", and too hard, is not the best microarray marketing strategy http://www.affymetrix.com/promotions/hta/index.affx
@@ -3013,3 +3014,10 @@
 364582852194607104  Aug  5 23:05  @aemonten         RT @genetics_blog: Affy microarray ad - trashing RNA-seq as "hype", and too hard, is not the best microarray marketing strategy http://t.co/vhMlX15QLg
 364607384972312576  Aug  6 00:42  @Point_Mutation   RT @genetics_blog: Affy microarray ad - trashing RNA-seq as "hype", and too hard, is not the best microarray marketing strategy http://t.co/vhMlX15QLg
 364640107338276864  Aug  6 02:52  @BioStarQuestion  How to find RNA-seq data of published papers? http://goo.gl/fb/0YiKl
+364659494745161728  Aug  6 04:09  @rnomics          Transcriptomics: In situ #RNA-seq: Nature Reviews Genetics. doi:10.1038/nrg3566 Author: Hannah Stower http://bit.ly/15Dz7a4 #nature @MyEN
+364660668085313536  Aug  6 04:14  @Bioinfomatic     RT @rnomics: Transcriptomics: In situ #RNA-seq: Nature Reviews Genetics. doi:10.1038/nrg3566 Author: Hannah Stower http://t.co/9IrDe0dIMe #nature @MyEN
+364683215157460992  Aug  6 05:43  @rnomics          BRANCH 1.8.1 - boosting #RNA-Seq Assemblies with Partial or related Genomic Sequence:... http://bit.ly/13XcrLo #rnomics_bioinfo @MyEN
+364683275505500160  Aug  6 05:44  @Bioinfomatic     RT @rnomics: BRANCH 1.8.1 - boosting #RNA-Seq Assemblies with Partial or related Genomic Sequence:... http://t.co/papJZeDhhQ #rnomics_bioinfo @MyEN
+364692610834644992  Aug  6 06:21  @ksmbandi         TruHMM: Directional RNA-seq accurate full-length transcripts assembling http://www.biomedcentral.com/1471-2164/14/520/abstract #bmcgenomics
+364731346683310081  Aug  6 08:55  @rnomics          Identification and Characterization of MicroRNAs... http://bit.ly/15EM4k6 #Publications #GuangdongOceanUniversity #MicroRNAs #RNAseq @MyEN
+364731778424385536  Aug  6 08:56  @Bioinfomatic     RT @rnomics: Identification and Characterization of MicroRNAs... http://t.co/JkfurZ8e8b #Publications #GuangdongOceanUniversity #MicroRNAs #RNAseq @MyEN

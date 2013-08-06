@@ -14034,6 +14034,7 @@
 364359118271688704  Aug  5 08:15  @emeyke           You do! RT @jlehtoma: Why thank you #testthat and #devtools, you made my day! #Rstats http://t.co/yO47fZJnAp
 364359120859959296  Aug  5 08:15  @quandl           Map Twitter followers with R #RStats by @JulianHi http://qndl.co/1cwrDa8
 364359354473906177  Aug  5 08:16  @recology_        RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
+364361313444978688  Aug  5 08:24  @jlehtoma         RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://bit.ly/18a1BsU New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
 364361313444978688  Aug  5 08:24  @jlehtoma         RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
 364365492380631040  Aug  5 08:41  @KirkDBorne       That's cute > HT @quandl: Map your Twitter followers with R, by @JulianHi http://qndl.co/1cwrDa8 #Rstats #Geospatial http://t.co/c61TEXFUuP
 364366435210240000  Aug  5 08:45  @chlalanne        RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
@@ -14071,6 +14072,7 @@
 364417724132237313  Aug  5 12:08  @jingbay          RT @kdnuggets: R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://t.co/UEYnQMLJwq
 364418197681750016  Aug  5 12:10  @inside_R         #rstats R user group meetings this week: Durban, Cleveland, White River Junction, Manchester, Chicago and San Diego http://bit.ly/9hVAPE
 364418544395497472  Aug  5 12:12  @mjcavaretta      I bet #Rstats agrees. MT @Kynski_: Sundays are best spent with....... multiple regression analysis. #math #analytics… http://instagram.com/p/coyxxTi0GA/
+364419159675133952  Aug  5 12:14  @TheRealPabloo    RT @ProbFact: Distributions in #rstats http://bit.ly/a7GQj1
 364419159675133952  Aug  5 12:14  @TheRealPabloo    RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
 364420052860149760  Aug  5 12:18  @mjcavaretta      Google Trends http://www.google.com/trends/explore?q=sas#cat=0-5-32&q=%22sas%20software%22%2C%20%22r%20software%22&cmpt=q RT @marcosluis2186: R jobs rising, SAS decline http://buff.ly/19H1upD ht @kdnuggets @revodavid #rstats
 364420545812504578  Aug  5 12:20  @StatsUMan        RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
@@ -14155,3 +14157,29 @@
 364640664006299648  Aug  6 02:54  @PPUAMX           RT @RLangTip: To see the output when running a script file, use source("myscript.R", echo=TRUE) #rstats http://t.co/MplJy2a0wF
 364640686450020352  Aug  6 02:54  @FrankFarach      @zentree Both can be done successfully with any of those software packages, but teaching with #rstats is the most empowering.
 364640830570917888  Aug  6 02:55  @MangoTheCat      RT @ramnath_vaidya: Inspired by Simon Urbanek's talk, installing rcloud. Looks like a game-changing piece of tech for R. #jsm2013 #Rstats
+364645879514279936  Aug  6 03:15  @ngamita          #rstats running sqldf in R
+364658585340350464  Aug  6 04:05  @LonelyJoeParker  RT @genetics_blog: Blog post: Google Developers #Rstats Programming Video Lectures http://t.co/Jaybje8WaR
+364667230430044160  Aug  6 04:40  @SnowPlowData     Nice intro to plotting heatmaps with R from @flowingdata http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/ #rstats via @robkingston
+364668305065254912  Aug  6 04:44  @larsyencken      RT @SnowPlowData: Nice intro to plotting heatmaps with R from @flowingdata http://t.co/pgXevP4enr #rstats via @robkingston
+364669242530340864  Aug  6 04:48  @frod_san         RT @rOpenSci: [Blog] NOAA climate data in #rstats http://t.co/ZZnKWOGE13  #esa2013
+364673666056859648  Aug  6 05:05  @adaptive_plant   Learning R? Checkout this online course from Google Developers, 2 minute video snippets #rstats http://bit.ly/1eph0nI
+364680078484975617  Aug  6 05:31  @tdoyon           "Are we in an Analytics Recession- a decline in SAS is a decline for all #rstats" http://feedly.com/k/18ZNNPI
+364680407939162112  Aug  6 05:32  @SnowPlowData     Very excited about Shiny from @rstudioapp - looking forward to testing it with Snowplow data #Rstats
+364683490115072001  Aug  6 05:44  @SardelichM       just realized that C++ STL "std::generate" and "std::accumulate" are high-order functions, like "Map" and "Reduce" in #Rstats or #Hadoop
+364683659564949505  Aug  6 05:45  @CountCarbon      Finally started using ggplot2, a must for #rstats users. Much less ugliness in my life now.
+364683928658907136  Aug  6 05:46  @adolfoalvarez    RT @CountCarbon: Finally started using ggplot2, a must for #rstats users. Much less ugliness in my life now.
+364684162390695936  Aug  6 05:47  @adolfoalvarez    We live in a beautiful world #rstats #ggplot2 #shiny #googlevis #Rchart @CountCarbon
+364687977798045696  Aug  6 06:02  @grserrano_       La estadística en todas partes. "How Much Should Bale Cost Real?" http://flip.it/SpnZd #rstats
+364690341720367104  Aug  6 06:12  @mickresearch     RT @adaptive_plant: Learning R? Checkout this online course from Google Developers, 2 minute video snippets #rstats http://t.co/Zk9Z438cJH
+364697706121265152  Aug  6 06:41  @rapporters       Just uploaded a one-paged and printable informative leaflet on #rstats at http://www.scribd.com/doc/158415413/Informative-leaflet-on-the-open-source-R with some figures and facts via @Scribd
+364698660359397376  Aug  6 06:45  @kamromero        RT @grserrano_: La estadística en todas partes. "How Much Should Bale Cost Real?" http://t.co/tBbDTxY2Q6 #rstats
+364702157917790208  Aug  6 06:59  @Ascelin          RT @adaptive_plant: Learning R? Checkout this online course from Google Developers, 2 minute video snippets #rstats http://t.co/Zk9Z438cJH
+364703117520019456  Aug  6 07:02  @tonyfujs         Want to get started with #rstats? @googledevs put together a nice set of introductory videos http://bit.ly/16rldVk
+364709293993361409  Aug  6 07:27  @hfmuehleisen     pw <- sub("password=","",grep("^password=",readLines(file.path("~",".monetdb")),value=T),fixed=T)[[1]]  #Rstats gets close to #Perl sometms
+364713585210949634  Aug  6 07:44  @jung_gt          RT @genetics_blog: Blog post: Google Developers #Rstats Programming Video Lectures http://t.co/Jaybje8WaR
+364717802793349120  Aug  6 08:01  @ECMtom           i am very very slowly becoming not completely incompetent at using r  #Rstats
+364723956965572608  Aug  6 08:25  @Gliders_Coach    Different Forks of R- Will #SAS create a new version of R too #rstats http://wp.me/p9q8Y-2Vh  #JSM2013
+364728218185908224  Aug  6 08:42  @dsifontes        RT @grserrano_: La estadística en todas partes. "How Much Should Bale Cost Real?" http://t.co/tBbDTxY2Q6 #rstats
+364730115630333952  Aug  6 08:50  @dlizcano         RT @adaptive_plant: Learning R? Checkout this online course from Google Developers, 2 minute video snippets #rstats http://t.co/Zk9Z438cJH
+364730227445874688  Aug  6 08:50  @jmgomez          RT @stubbornmule: A new version of the N-Gram package ngramr is up on CRAN. #rstats #linguistics http://cran.r-project.org/web/packages/ngramr/index.html #NLProc #TextMining
+364731882422169600  Aug  6 08:57  @drago_carlo      RT @jmgomez: RT @stubbornmule: A new version of the N-Gram package ngramr is up on CRAN. #rstats #linguistics http://t.co/COE2LfvCas #NLProc #TextMining
