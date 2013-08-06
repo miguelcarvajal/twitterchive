@@ -13910,6 +13910,7 @@
 363571278113808385  Aug  3 04:05  @ken0bii          RT @openscience: +1 MT @revodavid: It's a travesty statisticians get so little academic credit for writing software like #rstats http://t.co/krDtLijBbG
 363578472184422400  Aug  3 04:33  @chlalanne        RT @revodavid: It's a travesty IMO that statisticians get so little academic credit for writing statistical software like #rstats http://t.co/lEhWvuVoax
 363585131346685952  Aug  3 05:00  @lgatt0           RT @openscience: +1 MT @revodavid: It's a travesty statisticians get so little academic credit for writing software like #rstats http://t.co/krDtLijBbG
+363585905342566400  Aug  3 05:03  @chlalanne        RT @recology_: cc: @ramnath_vaidya chatter about Slidify #rstats  http://bit.ly/13u9mqM
 363585905342566400  Aug  3 05:03  @chlalanne        RT @recology_: cc: @ramnath_vaidya chatter about Slidify #rstats  http://t.co/SgszABgth4
 363590454631075840  Aug  3 05:21  @adolfoalvarez    Dashboards in #rstats with shiny and googlevis http://hernanresnizky.wordpress.com/2013/08/02/dashboards-in-r-with-shiny-and-googlevis/?goback=.gde_77616_member_262979150
 363591505363349504  Aug  3 05:25  @rmounce          RT @openscience: +1 MT @revodavid: It's a travesty statisticians get so little academic credit for writing software like #rstats http://t.co/krDtLijBbG
@@ -14124,6 +14125,7 @@
 364523348312600578  Aug  5 19:08  @DistribEcology   RT @rOpenSci: Interested in #openscience, reproducible research, #rstats Come 2 our happy hr tonight 630pm at Brit's pub http://t.co/kwfkJ8dpxI #esa2013
 364523374607085568  Aug  5 19:08  @rOpenSci         [Blog] NOAA climate data in #rstats http://ropensci.org/blog/2013/08/05/noaa-sparklines/  #esa2013
 364525364506144768  Aug  5 19:16  @GueyeNono        I want to prepare my lectures with #slidify; however, will the slides be supported by @googlechrome for #android? #Rstats
+364527857373941760  Aug  5 19:26  @DistribEcology   RT @rOpenSci: [Blog] NOAA climate data in #rstats http://ropensci.org/blog/2013/08/05/noaa-sparklines/  #esa2013
 364527857373941760  Aug  5 19:26  @DistribEcology   RT @rOpenSci: [Blog] NOAA climate data in #rstats http://t.co/ZZnKWOGE13  #esa2013
 364529110715871232  Aug  5 19:31  @deronaucoin      RT @rOpenSci: [Blog] NOAA climate data in #rstats http://t.co/ZZnKWOGE13  #esa2013
 364532992695607296  Aug  5 19:46  @JJVenky          RT @rOpenSci: [Blog] NOAA climate data in #rstats http://t.co/ZZnKWOGE13  #esa2013
@@ -14133,3 +14135,23 @@
 364545786970779648  Aug  5 20:37  @zentree          Should we use the same software for teaching and practicing statistics? Are we  obfuscating concepts with syntax & menus? #Rstats #SAS #SPSS
 364546874637680640  Aug  5 20:42  @zentree          Discovered what was the confusing point for a student: his mental map used loops, but #Rstats is a matrix language.
 364548338076487680  Aug  5 20:47  @hexadata         plyr tops R packages downloaded in 2013 - Coming soon in #H2O. http://bit.ly/186oZEJ #Rstats
+364558355475337218  Aug  5 21:27  @Rbloggers        Google Developers R Programming Video Lectures:  (This article was first published on   Getting Gene... http://bit.ly/1c56bLO #rstats
+364569653378424833  Aug  5 22:12  @Raftysworld      RT @LouBajuk: Join me to learn about @TIBCO Enterprise Runtime for R at 2 pm Tuesday CC-521ab #jsm2013 #rstats
+364573573207175168  Aug  5 22:28  @hurricanejim     RT @rOpenSci: [Blog] NOAA climate data in #rstats http://ropensci.org/blog/2013/08/05/noaa-sparklines/  #esa2013
+364574217775222784  Aug  5 22:30  @drago_carlo      Google Developers R Programming Video Lectures http://gettinggeneticsdone.blogspot.it/2013/08/google-developers-r-programming-video.htm @genetics_blog #Rstats #Programming
+364575772138156032  Aug  5 22:36  @danielapaolotti  RT @drago_carlo: Google Developers R Programming Video Lectures http://t.co/AWvR2HlVcp @genetics_blog #Rstats #Programming
+364604690018734080  Aug  6 00:31  @ErikaMudrak      RT @metamattj: For tutorials from @nceas and @rOpenSci workshop exploring "#openscience w/ #rstats & @DataONEorg" at #esa2013 see https://t.co/gHjd8g00SP
+364613029247586304  Aug  6 01:04  @jlehtoma         RT @rOpenSci: [Blog] NOAA climate data in #rstats http://t.co/ZZnKWOGE13  #esa2013
+364615413247651840  Aug  6 01:14  @AdamTornhill     Just downloaded the R language, mainly for its beautiful support for tree maps #Rstats
+364615527596965890  Aug  6 01:14  @srsupp           RT @metamattj: For tutorials from @nceas and @rOpenSci workshop exploring "#openscience w/ #rstats & @DataONEorg" at #esa2013 see https://t.co/gHjd8g00SP
+364625167105802241  Aug  6 01:53  @purloined        RT @ramnath_vaidya: Inspired by Simon Urbanek's talk, installing rcloud. Looks like a game-changing piece of tech for R. #jsm2013 #Rstats
+364633085540704257  Aug  6 02:24  @AdiePrestone     #rstats i've been able to authenticate R using #twitteR but when i can't be able to perform any function, any help. #ROAuth
+364633409039372288  Aug  6 02:25  @3ioshha          RT @kdnuggets: R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://t.co/UEYnQMLJwq
+364635840481624065  Aug  6 02:35  @kara_woo         RT @metamattj: For tutorials from @nceas and @rOpenSci workshop exploring "#openscience w/ #rstats & @DataONEorg" at #esa2013 see https://t.co/gHjd8g00SP
+364636080139550720  Aug  6 02:36  @statpumpkin      RT @scheidegger: Interested in Urbanek's rcloud #rstats talk at #jsm2013? if you have trouble setting it up (it's the hard part!), tweet or email me :)
+364636638313320448  Aug  6 02:38  @FrankFarach      templateR: Easy cmd-line initialization of version-controlled #ProjectTemplate & @rstudioapp #rstats projects. https://gist.github.com/frankfarach/6162518
+364639662633005059  Aug  6 02:50  @Rbloggers        Item Equating with same Group – SAT, ACT example:  (This article was first published on   Econometri... http://bit.ly/1536g93 #rstats
+364639664067448832  Aug  6 02:50  @Rbloggers        Setting axes limits with googleVis:  (This article was first published on   mages' blog, and kindly ... http://bit.ly/1536e0M #rstats
+364640664006299648  Aug  6 02:54  @PPUAMX           RT @RLangTip: To see the output when running a script file, use source("myscript.R", echo=TRUE) #rstats http://t.co/MplJy2a0wF
+364640686450020352  Aug  6 02:54  @FrankFarach      @zentree Both can be done successfully with any of those software packages, but teaching with #rstats is the most empowering.
+364640830570917888  Aug  6 02:55  @MangoTheCat      RT @ramnath_vaidya: Inspired by Simon Urbanek's talk, installing rcloud. Looks like a game-changing piece of tech for R. #jsm2013 #Rstats
