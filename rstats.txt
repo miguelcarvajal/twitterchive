@@ -13884,6 +13884,7 @@
 363448209542103041  Aug  2 19:56  @p_e              Running a "split-apply-combine" is the new "running a map-reduce". #rstats
 363451079473631232  Aug  2 20:07  @healthstatsdude  A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
 363454512872177664  Aug  2 20:21  @ramnath_vaidya   RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
+363454745177886721  Aug  2 20:22  @andyteucher      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://blogs.worldbank.org/opendata/accessing-world-bank-data-apis-python-r-ruby-stata #Data #Python #Stata #Rstats
 363454745177886721  Aug  2 20:22  @andyteucher      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 363455582675533825  Aug  2 20:25  @Emrah_Er         RT @drago_carlo: 60+ R resources to improve your data skills http://t.co/Jxpz8FdlLS @analyticbridge #Rstats #Statistics #DataMining #MachineLearning
 363455582675533825  Aug  2 20:25  @Emrah_Er         RT @drago_carlo: 60+ R resources to improve your data skills http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?source=rss_keyword_indepth @analyticbridge #Rstats #Statistics #DataMining #MachineLearning
@@ -13975,6 +13976,7 @@
 364094072463425537  Aug  4 14:42  @ramnath_vaidya   Session running 15 minutes ahead of schedule!! Never seen this happen ever before #jsm2013 #rstats Hadley is the next speaker.
 364094652833472512  Aug  4 14:45  @LouBajuk         Enjoying @hadleywickham talk on bigger data analysis in R #rstats #jsm2013 http://t.co/TfvSVye9fy
 364096770642423808  Aug  4 14:53  @atkinsjeff       RT @rOpenSci: .@cboettig & @_inundata explaining tidy data in "#openscience w/ #rstats & @DataONEorg" #esa2013 see here for more http://t.co/t9Wx55Chr2
+364098997663068160  Aug  4 15:02  @PythonDaily      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://blogs.worldbank.org/opendata/accessing-world-bank-data-apis-python-r-ruby-stata #Data #Python #Stata #Rstats
 364098997663068160  Aug  4 15:02  @PythonDaily      RT @drago_carlo: Accessing the World Bank Data APIs in Python, R, Ruby & Stata http://t.co/i2bEhIKzqr #Data #Python #Stata #Rstats
 364101615168397313  Aug  4 15:12  @slendrmeans      Love the Yegge quote in this post. Unfortunately I feel like #rstats marketing often goes like this.
 364107402657796096  Aug  4 15:35  @RickSaporta      on SO: "first time I see someone asks if/how R can do something from pandas" http://bit.ly/14sCOA3  CC:@wesmckinn  #rstats #pandas #Python
@@ -14004,6 +14006,7 @@
 364179727046946816  Aug  4 20:23  @raulpacheco      #RStats heartbreak RT @whereisdaz: Rookie error. Enthusiastically upgraded R to latest version and broke all the packages I need to use :(
 364197098138251265  Aug  4 21:32  @timelyportfolio  @PratapVardhan #rstats getting it with @ramnath_vaidya #rcharts and @nachocaballero #clickme
 364198053374210049  Aug  4 21:35  @timelyportfolio  RT @ramnath_vaidya: Hearing Paul Murrell talk about Grid Graphics. My notes here https://t.co/Ky8AOHYSXT #jsm2013 #rstats
+364198668015902720  Aug  4 21:38  @timelyportfolio  RT @ramnath_vaidya: Seeing in and Beyond R #jsm2013 Trying to live-gist it here https://gist.github.com/ramnathv/76282fb2c4fc684b6131 #Rstats
 364198668015902720  Aug  4 21:38  @timelyportfolio  RT @ramnath_vaidya: Seeing in and Beyond R #jsm2013 Trying to live-gist it here https://t.co/Ky8AOHYSXT #Rstats
 364211909211328514  Aug  4 22:31  @marcosluis2186   Demand for R jobs on the rise, while SAS jobs decline http://buff.ly/1emfwdK by @revodavid from @RevolutionR #rstats
 364226902858690560  Aug  4 23:30  @ChrisBeeley      RT @recology_: Tips on writing an #rstats book http://bit.ly/16mlKHT from @xieyihui
@@ -14049,6 +14052,7 @@
 364396951107674112  Aug  5 10:46  @dozenoaks        I knew strava would be trouble... Can you extract speed data? I just thought of a fun R project #rstats #strava
 364398660013920256  Aug  5 10:53  @kdnuggets        R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://bit.ly/194jlHx
 364399571411021825  Aug  5 10:56  @SBrudvig         RT @kdnuggets: R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://t.co/UEYnQMLJwq
+364402516903354368  Aug  5 11:08  @fire_fox         RT @kdnuggets: R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://bit.ly/194jlHx
 364402516903354368  Aug  5 11:08  @fire_fox         RT @kdnuggets: R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://t.co/UEYnQMLJwq
 364403453181034496  Aug  5 11:12  @marcosluis2186   Demand for R jobs on the rise, while SAS jobs decline http://buff.ly/19H1upD via @revodavid from @RevolutionR #rstats
 364403503508099073  Aug  5 11:12  @i_314            Call for papers:Argentina-R Users Group Meeting.http://ar.i314.com.ar (in Spanish) #rstats Main areas of Interest: Finance & Bioinformatics
@@ -14061,6 +14065,7 @@
 364416468147904512  Aug  5 12:03  @ProbFact         Distributions in #rstats http://bit.ly/a7GQj1
 364416876517920768  Aug  5 12:05  @jmcyap           RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
 364416943098302464  Aug  5 12:05  @RLangTip         To see the output when running a script file, use source("myscript.R", echo=TRUE) #rstats http://bit.ly/M6mig1
+364417477922398208  Aug  5 12:07  @love_life_logic  RT @ProbFact: Distributions in #rstats http://bit.ly/a7GQj1
 364417477922398208  Aug  5 12:07  @love_life_logic  RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
 364417724132237313  Aug  5 12:08  @jingbay          RT @kdnuggets: R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://t.co/UEYnQMLJwq
 364418197681750016  Aug  5 12:10  @inside_R         #rstats R user group meetings this week: Durban, Cleveland, White River Junction, Manchester, Chicago and San Diego http://bit.ly/9hVAPE
@@ -14096,3 +14101,35 @@
 364460200410882048  Aug  5 14:57  @rOpenSci         Interested in #openscience, reproducible research, #rstats Come 2 our happy hr tonight 630pm at Brit's pub http://bit.ly/185Ndi9 #esa2013
 364460250125963265  Aug  5 14:57  @recology_        RT @rOpenSci: Interested in #openscience, reproducible research, #rstats Come 2 our happy hr tonight 630pm at Brit's pub http://t.co/kwfkJ8dpxI #esa2013
 364460449946812416  Aug  5 14:58  @mpmckenna8       RT @rOpenSci: Interested in #openscience, reproducible research, #rstats Come 2 our happy hr tonight 630pm at Brit's pub http://t.co/kwfkJ8dpxI #esa2013
+364461911414288384  Aug  5 15:04  @carrieseltzer    RT @rOpenSci: Interested in #openscience, reproducible research, #rstats Come 2 our happy hr tonight 630pm at Brit's pub http://t.co/kwfkJ8dpxI #esa2013
+364462776531832832  Aug  5 15:07  @jlehtoma         RT @ramnath_vaidya: Inspired by Simon Urbanek's talk, installing rcloud. Looks like a game-changing piece of tech for R. #jsm2013 #Rstats
+364463208335032320  Aug  5 15:09  @ethanwhite       RT @metamattj: For tutorials from @nceas and @rOpenSci workshop exploring "#openscience w/ #rstats & @DataONEorg" at #esa2013 see https://t.co/gHjd8g00SP
+364466010092765186  Aug  5 15:20  @keholsinger      MT @rOpenSci: .@cboettig & @_inundata explaining tidy data in "#openscience w/ #rstats & @DataONEorg" #esa2013 http://bit.ly/1925kua
+364467948447993856  Aug  5 15:28  @DrMeansCasebook  RT @healthstatsdude: A day with #rCharts. I laughed. I cried. It was better than SAS. #rstats #pleasegetoutofdevsoon
+364477872024453121  Aug  5 16:07  @mdshawkey        In an effort to not be a Luddite (and to keep up w my students), I have been making all figures in #Rstats .. #ggplot2 is sweet.
+364483476831346688  Aug  5 16:30  @SheylaNYC        RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
+364486379889106944  Aug  5 16:41  @ramnath_vaidya   Nate Silver Q&A. My attempt to live-gist it https://gist.github.com/ramnathv/975b7d5df642c3804fc5 #jsm2013 #rstats
+364488822513340417  Aug  5 16:51  @SardelichM       RT @i_314: Call for papers:Argentina-R Users Group Meeting.http://t.co/TeFE296stf (in Spanish) #rstats Main areas of Interest: Finance & Bioinformatics
+364494825959063552  Aug  5 17:15  @ramnath_vaidya   #rstats folks. Looking to see an analysis of #jsm2013 tweets, esp on Nate Silver.
+364498056253018112  Aug  5 17:28  @recology_        RT @ramnath_vaidya: Nate Silver Q&A. My attempt to live-gist it https://t.co/zAiNALtLgF #jsm2013 #rstats
+364503099488354304  Aug  5 17:48  @recology_        RT @mdshawkey: In an effort to not be a Luddite (and to keep up w my students), I have been making all figures in #Rstats .. #ggplot2 is sweet.
+364503624983920641  Aug  5 17:50  @LouBajuk         Join me to learn about @TIBCO Enterprise Runtime for R at 2 pm Tuesday CC-521ab #jsm2013 #rstats
+364504513488486401  Aug  5 17:53  @revodavid        From Simon Urbanek's #JSM2013 talk: exploring regional smartphone market share using nanocubes http://bit.ly/18ZoEVi #DataViz #rstats
+364505371806662656  Aug  5 17:57  @amv_fournier     RT @mdshawkey: In an effort to not be a Luddite (and to keep up w my students), I have been making all figures in #Rstats .. #ggplot2 is sweet.
+364508536417431553  Aug  5 18:09  @TIBCO            RT @LouBajuk: Join me to learn about @TIBCO Enterprise Runtime for R at 2 pm Tuesday CC-521ab #jsm2013 #rstats
+364512780059443200  Aug  5 18:26  @genetics_blog    Blog post: Google Developers #Rstats Programming Video Lectures http://gettinggeneticsdone.blogspot.com/2013/08/google-developers-r-programming-video.html
+364514147968360449  Aug  5 18:31  @TATA_BOX         Drawing a 95% confidence interval in R | (R news & tutorials) http://www.r-bloggers.com/drawing-a-95-confidence-interval-in-r/ #rstats
+364518481409998849  Aug  5 18:49  @randomjohn       If you want to end #rstats as we know it, hit the Weston in Montreal #JSM2013
+364521258714542080  Aug  5 19:00  @perisaccadic     Some #rstats programmers see a problem and think, "I know, I'll use parent.frame()!" Now they have a fragile, unfactorable problem.
+364523348312600578  Aug  5 19:08  @DistribEcology   RT @rOpenSci: Interested in #openscience, reproducible research, #rstats Come 2 our happy hr tonight 630pm at Brit's pub http://t.co/kwfkJ8dpxI #esa2013
+364523374607085568  Aug  5 19:08  @rOpenSci         [Blog] NOAA climate data in #rstats http://ropensci.org/blog/2013/08/05/noaa-sparklines/  #esa2013
+364525364506144768  Aug  5 19:16  @GueyeNono        I want to prepare my lectures with #slidify; however, will the slides be supported by @googlechrome for #android? #Rstats
+364527857373941760  Aug  5 19:26  @DistribEcology   RT @rOpenSci: [Blog] NOAA climate data in #rstats http://t.co/ZZnKWOGE13  #esa2013
+364529110715871232  Aug  5 19:31  @deronaucoin      RT @rOpenSci: [Blog] NOAA climate data in #rstats http://t.co/ZZnKWOGE13  #esa2013
+364532992695607296  Aug  5 19:46  @JJVenky          RT @rOpenSci: [Blog] NOAA climate data in #rstats http://t.co/ZZnKWOGE13  #esa2013
+364536867506880512  Aug  5 20:02  @Richard_Weber    RT @kdnuggets: R jobs are increasing, SAS jobs decline, SPSS jobs are flat (amazingly COBOL still in demand) #rstats http://t.co/UEYnQMLJwq
+364538329066651648  Aug  5 20:08  @mpmanti          RT @perisaccadic: Some #rstats programmers see a problem and think, "I know, I'll use parent.frame()!" Now they have a fragile, unfactorable problem.
+364542299587346432  Aug  5 20:23  @scheidegger      Interested in Urbanek's rcloud #rstats talk at #jsm2013? if you have trouble setting it up (it's the hard part!), tweet or email me :)
+364545786970779648  Aug  5 20:37  @zentree          Should we use the same software for teaching and practicing statistics? Are we  obfuscating concepts with syntax & menus? #Rstats #SAS #SPSS
+364546874637680640  Aug  5 20:42  @zentree          Discovered what was the confusing point for a student: his mental map used loops, but #Rstats is a matrix language.
+364548338076487680  Aug  5 20:47  @hexadata         plyr tops R packages downloaded in 2013 - Coming soon in #H2O. http://bit.ly/186oZEJ #Rstats
