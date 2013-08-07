@@ -14043,6 +14043,7 @@
 364366723463393282  Aug  5 08:46  @MattDabrowski    RT @m4xl1n: Learning R, a new #rstats book from @OReillyMedia http://t.co/tMWHfAaxuK
 364367326537195521  Aug  5 08:48  @MattDabrowski    RT @RLangTip: A collection of tips for R beginners: http://t.co/k289CigQIf #rstats
 364367431705169922  Aug  5 08:49  @JulianHi         RT @KirkDBorne: That's cute > HT @quandl: Map your Twitter followers with R, by @JulianHi http://t.co/mEYpWuvTqd #Rstats #Geospatial http://t.co/c61TEXFUuP
+364367606859702272  Aug  5 08:49  @AdiePrestone     RT @KirkDBorne: That's cute > HT @quandl: Map your Twitter followers with R, by @JulianHi http://qndl.co/1cwrDa8 #Rstats #Geospatial http://t.co/c61TEXFUuP
 364367606859702272  Aug  5 08:49  @AdiePrestone     RT @KirkDBorne: That's cute > HT @quandl: Map your Twitter followers with R, by @JulianHi http://t.co/mEYpWuvTqd #Rstats #Geospatial http://t.co/c61TEXFUuP
 364371133644021760  Aug  5 09:03  @rystanman        Came across a great scientific plotting tool: #GoogleChrome Plot.ly addon. Serious contender to SigmaPlot & has #rstats & #Matlab interfaces
 364380100751396864  Aug  5 09:39  @timelyportfolio  RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
@@ -14078,6 +14079,7 @@
 364419159675133952  Aug  5 12:14  @TheRealPabloo    RT @ProbFact: Distributions in #rstats http://bit.ly/a7GQj1
 364419159675133952  Aug  5 12:14  @TheRealPabloo    RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
 364420052860149760  Aug  5 12:18  @mjcavaretta      Google Trends http://www.google.com/trends/explore?q=sas#cat=0-5-32&q=%22sas%20software%22%2C%20%22r%20software%22&cmpt=q RT @marcosluis2186: R jobs rising, SAS decline http://buff.ly/19H1upD ht @kdnuggets @revodavid #rstats
+364420545812504578  Aug  5 12:20  @StatsUMan        RT @ProbFact: Distributions in #rstats http://bit.ly/a7GQj1
 364420545812504578  Aug  5 12:20  @StatsUMan        RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
 364421101528416256  Aug  5 12:22  @noticiasSobreR   Medianas ponderadas en R: La mediana de 1:3 es 2. Pero puede ser que queramos dar a 1:3 los pesos 2, 1... http://tinyurl.com/kgbz5bn #rstats
 364422015446298624  Aug  5 12:25  @bo7b             RT @ProbFact: Distributions in #rstats http://bit.ly/a7GQj1
@@ -14169,6 +14171,7 @@
 364658585340350464  Aug  6 04:05  @LonelyJoeParker  RT @genetics_blog: Blog post: Google Developers #Rstats Programming Video Lectures http://t.co/Jaybje8WaR
 364667230430044160  Aug  6 04:40  @SnowPlowData     Nice intro to plotting heatmaps with R from @flowingdata http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/ #rstats via @robkingston
 364668305065254912  Aug  6 04:44  @larsyencken      RT @SnowPlowData: Nice intro to plotting heatmaps with R from @flowingdata http://t.co/pgXevP4enr #rstats via @robkingston
+364669242530340864  Aug  6 04:48  @frod_san         RT @rOpenSci: [Blog] NOAA climate data in #rstats http://ropensci.org/blog/2013/08/05/noaa-sparklines/  #esa2013
 364669242530340864  Aug  6 04:48  @frod_san         RT @rOpenSci: [Blog] NOAA climate data in #rstats http://t.co/ZZnKWOGE13  #esa2013
 364673666056859648  Aug  6 05:05  @adaptive_plant   Learning R? Checkout this online course from Google Developers, 2 minute video snippets #rstats http://bit.ly/1eph0nI
 364680078484975617  Aug  6 05:31  @tdoyon           "Are we in an Analytics Recession- a decline in SAS is a decline for all #rstats" http://feedly.com/k/18ZNNPI
@@ -14184,6 +14187,7 @@
 364702157917790208  Aug  6 06:59  @Ascelin          RT @adaptive_plant: Learning R? Checkout this online course from Google Developers, 2 minute video snippets #rstats http://t.co/Zk9Z438cJH
 364703117520019456  Aug  6 07:02  @tonyfujs         Want to get started with #rstats? @googledevs put together a nice set of introductory videos http://bit.ly/16rldVk
 364709293993361409  Aug  6 07:27  @hfmuehleisen     pw <- sub("password=","",grep("^password=",readLines(file.path("~",".monetdb")),value=T),fixed=T)[[1]]  #Rstats gets close to #Perl sometms
+364713585210949634  Aug  6 07:44  @jung_gt          RT @genetics_blog: Blog post: Google Developers #Rstats Programming Video Lectures http://gettinggeneticsdone.blogspot.com/2013/08/google-developers-r-programming-video.html
 364713585210949634  Aug  6 07:44  @jung_gt          RT @genetics_blog: Blog post: Google Developers #Rstats Programming Video Lectures http://t.co/Jaybje8WaR
 364717802793349120  Aug  6 08:01  @ECMtom           i am very very slowly becoming not completely incompetent at using r  #Rstats
 364723956965572608  Aug  6 08:25  @Gliders_Coach    Different Forks of R- Will #SAS create a new version of R too #rstats http://wp.me/p9q8Y-2Vh  #JSM2013
@@ -14272,3 +14276,13 @@
 364983066105610243  Aug  7 01:35  @mizmay           Why is #Rstats always tempting when trying to parse a GeoJSON? I know how it always ends: with me trying something recursive & hating life.
 364984426595225602  Aug  7 01:40  @jmgomez          RT @algonpaje: Transparency Law in Spain: Text Analysis #rstats http://bit.ly/11GZJDX #textmining #nlproc
 364986909438652416  Aug  7 01:50  @Rbloggers        Assessing the precision of classification tree model predictions:  (This article was first published... http://bit.ly/15JbbSO #rstats
+365025258287276032  Aug  7 04:22  @caddymob         This is why I love #rstats: P_add <- subset(subset(read.table(assoc_file, header=TRUE)[c(2,5,12)],TEST == "ADD")[c(1,3)], SNP %in% snpList )
+365039092607623168  Aug  7 05:17  @ngamita          One of the most annoying issues in R is memory. For anyone who works with large datasets even if you have 64-bit R you hit the wall #Rstats
+365044484859363328  Aug  7 05:39  @tdoyon           "Different Forks of R- Will SAS create a new version of R too #rstats" http://feedly.com/k/13LrCs9
+365047699545927680  Aug  7 05:52  @CherishDaHarris  Dont Judge my choice without understanding my reason #Rstats
+365074784754728961  Aug  7 07:39  @tatvic           You can now watch the recorded version of our #webinar on #CollaborativeFiltering! GO FOR IT NOW! http://bit.ly/18AE8Bz #ecommerce #rstats
+365077608574095361  Aug  7 07:50  @drago_carlo      Assessing the precision of classification tree model predictions http://www.r-bloggers.com/assessing-the-precision-of-classification-tree-model-predictions/ @prismatic #DataMining #MachineLearning #Rstats
+365089150350802945  Aug  7 08:36  @hadleywickham    RT @genetics_blog: Using #Rstats and #ggplot2 to visualize some of my favorite trail runs around #cville https://t.co/QbWxLYx14o
+365089835448406017  Aug  7 08:39  @JacobyDave       RT @genetics_blog: Using #Rstats and #ggplot2 to visualize some of my favorite trail runs around #cville https://t.co/QbWxLYx14o
+365090120350711808  Aug  7 08:40  @mgwhitfield      Neat: RT @genetics_blog: Using #Rstats and #ggplot2 to visualize some of my favorite trail runs around #cville https://github.com/stephenturner/trailprofile
+365093993136132099  Aug  7 08:56  @jmgomez          RT @TATA_BOX: Drawing a 95% confidence interval in R http://www.r-bloggers.com/drawing-a-95-confidence-interval-in-r/ #rstats #datamining
