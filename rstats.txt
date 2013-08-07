@@ -14049,6 +14049,7 @@
 364384697888944128  Aug  5 09:57  @ar_usergroup     Dashboards in R with Shiny and GoogleVis.  by @hernanresnizky http://hernanresnizky.wordpress.com/2013/08/02/dashboards-in-r-with-shiny-and-googlevis/ #rstats
 364388933989175297  Aug  5 10:14  @DiffusePrioR     New blogpost: How Much Should Bale Cost Real? http://wp.me/p2jI3P-aB #football #rstats #thfc
 364391247995080704  Aug  5 10:23  @timelyportfolio  RT @DiffusePrioR: New blogpost: How Much Should Bale Cost Real? http://t.co/tkEm91SKBO #football #rstats #thfc
+364391247995080704  Aug  5 10:23  @timelyportfolio  RT @DiffusePrioR: New blogpost: How Much Should Bale Cost Real? http://wp.me/p2jI3P-aB #football #rstats #thfc
 364391766289416194  Aug  5 10:25  @arnicas          Nicely done, zoom too. v. @chlalanne MT @ChrisGandrud: New version of #rstats d3Network-Trees & Clustered Dendrograms:http://bit.ly/18a1nCi
 364392134712901633  Aug  5 10:27  @yrochat          @keuja @hongochuy :-) RT @DiffusePrioR: New blogpost: How Much Should Bale Cost Real? http://wp.me/p2jI3P-aB #football #rstats #thfc
 364392796087529472  Aug  5 10:29  @jrmontag         RT @arnicas: Nicely done, zoom too. v. @chlalanne MT @ChrisGandrud: New version of #rstats d3Network-Trees & Clustered Dendrograms:http://t.co/Z28ftHOsxY
@@ -14079,6 +14080,7 @@
 364420052860149760  Aug  5 12:18  @mjcavaretta      Google Trends http://www.google.com/trends/explore?q=sas#cat=0-5-32&q=%22sas%20software%22%2C%20%22r%20software%22&cmpt=q RT @marcosluis2186: R jobs rising, SAS decline http://buff.ly/19H1upD ht @kdnuggets @revodavid #rstats
 364420545812504578  Aug  5 12:20  @StatsUMan        RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
 364421101528416256  Aug  5 12:22  @noticiasSobreR   Medianas ponderadas en R: La mediana de 1:3 es 2. Pero puede ser que queramos dar a 1:3 los pesos 2, 1... http://tinyurl.com/kgbz5bn #rstats
+364422015446298624  Aug  5 12:25  @bo7b             RT @ProbFact: Distributions in #rstats http://bit.ly/a7GQj1
 364422015446298624  Aug  5 12:25  @bo7b             RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
 364425080408772608  Aug  5 12:38  @statisticsblog   R tip of the day - Gibbs sampler in C++. http://i.cx/1b6Z1CG #r #rstats #C++ #mcmc
 364425266384633856  Aug  5 12:38  @adolfoalvarez    RT @sharon000: Cool: RStudio's Extract Function analyzes selected code and auto-converts to a function http://t.co/Q8meTwFrOe #rstats @rstudioapp
@@ -14159,6 +14161,7 @@
 364636638313320448  Aug  6 02:38  @FrankFarach      templateR: Easy cmd-line initialization of version-controlled #ProjectTemplate & @rstudioapp #rstats projects. https://gist.github.com/frankfarach/6162518
 364639662633005059  Aug  6 02:50  @Rbloggers        Item Equating with same Group – SAT, ACT example:  (This article was first published on   Econometri... http://bit.ly/1536g93 #rstats
 364639664067448832  Aug  6 02:50  @Rbloggers        Setting axes limits with googleVis:  (This article was first published on   mages' blog, and kindly ... http://bit.ly/1536e0M #rstats
+364640664006299648  Aug  6 02:54  @PPUAMX           RT @RLangTip: To see the output when running a script file, use source("myscript.R", echo=TRUE) #rstats http://bit.ly/M6mig1
 364640664006299648  Aug  6 02:54  @PPUAMX           RT @RLangTip: To see the output when running a script file, use source("myscript.R", echo=TRUE) #rstats http://t.co/MplJy2a0wF
 364640686450020352  Aug  6 02:54  @FrankFarach      @zentree Both can be done successfully with any of those software packages, but teaching with #rstats is the most empowering.
 364640830570917888  Aug  6 02:55  @MangoTheCat      RT @ramnath_vaidya: Inspired by Simon Urbanek's talk, installing rcloud. Looks like a game-changing piece of tech for R. #jsm2013 #Rstats
@@ -14221,6 +14224,7 @@
 364814332913139712  Aug  6 14:24  @nicoleradziwill  RT @kdnuggets: New version of R Reference Card for Data Mining #rstats, now with links to CRAN, MapReduce & Hadoop packages http://t.co/nXuYpybT3R
 364814354375782400  Aug  6 14:24  @sanderwagner     RT @kdnuggets: New version of R Reference Card for Data Mining #rstats, now with links to CRAN, MapReduce & Hadoop packages http://t.co/nXuYpybT3R
 364815209342304257  Aug  6 14:28  @kdnuggets        Different Forks of R: CRAN, Revolution, Oracle, TIBCO, pqR, SAP, Netezza ... will SAS create its R version? #rstats  http://bit.ly/15LdVwt
+364820074198077440  Aug  6 14:47  @datawranglr      RT @RLangTip: Use the RMySQL package to read data from MySQL into R using SQL queries: http://bit.ly/zBaVM4 #rstats
 364820074198077440  Aug  6 14:47  @datawranglr      RT @RLangTip: Use the RMySQL package to read data from MySQL into R using SQL queries: http://t.co/yGpMNsdPET #rstats
 364820198777708544  Aug  6 14:48  @chlalanne        RT @kdnuggets: Different Forks of R: CRAN, Revolution, Oracle, TIBCO, pqR, SAP, Netezza ... will SAS create its R version? #rstats  http://t.co/vtvfGX3O9N
 364820223473360896  Aug  6 14:48  @trohil           RT @kdnuggets: New version of R Reference Card for Data Mining #rstats, now with links to CRAN, MapReduce & Hadoop packages http://t.co/nXuYpybT3R
@@ -14251,3 +14255,20 @@
 364900138268884992  Aug  6 20:05  @Gliders_Coach    RT @MangoTheCat: Latest Mango Marketing goodies - just in time for summer heatwave no.2. Get some at #JSM2013 #Rstats http://t.co/9m6OgiQt5W
 364907432968855555  Aug  6 20:34  @linoramirez      RT @kdnuggets: New version of R Reference Card for Data Mining #rstats, now with links to CRAN, MapReduce & Hadoop packages http://t.co/nXuYpybT3R
 364911359374266368  Aug  6 20:50  @cozymandias      @my_chiguai @parallellaboard @zemoxian hoping to get it going with py and R; just happen to have a place to talk about the #rstats side
+364917067276754948  Aug  6 21:13  @timelyportfolio  RT @tanyacash21: All these really smart people need to stop making #rstats packages like this: http://t.co/TU2Fzmyifa I'll never have to learn javascript >:(
+364930087214264321  Aug  6 22:04  @genetics_blog    Using #Rstats and #ggplot2 to visualize some of my favorite trail runs around #cville https://github.com/stephenturner/trailprofile
+364933711663337475  Aug  6 22:19  @DLabAtBerkeley   #Python fundamentals now full, but please add to the waitlist. 33 of 200 seats still open for #rstats bootcamp. http://dlab.berkeley.edu/training
+364934809031684097  Aug  6 22:23  @arRMorgan        I see a bunch of #R code in tutorials that could be implemented as functions but is not. Why is this? #rstats
+364936823920795649  Aug  6 22:31  @idigdata         Quirrel & #Rstats on @slideshare http://www.slideshare.net/jdegoes/introduction-to-quirrel-r-oscon
+364943239486251010  Aug  6 22:57  @Gliders_Coach    RT @R_Borat: I am #rstats Borat of @BoratTechFamily Author of number four R package in all of Kazakhstan
+364944205379940352  Aug  6 23:00  @Rbloggers        How to choose a new business location with R:  (This article was first published on   Revolutions, a... http://bit.ly/15IApR3 #rstats
+364945726163263488  Aug  6 23:06  @Gliders_Coach    Different Forks of R- Will SAS create a new version of R too #rstats http://wp.me/p9q8Y-2Vh via @Gliders_Coach
+364954332464025600  Aug  6 23:41  @datalies         just ssh'd into my first @awscloud (micro) instance - I feel like I've entered the Matrix. Now, to install for shiny-server. #Rstats
+364964269718126593  Aug  7 00:20  @Rbloggers        Cronbach to the future:  (This article was first published on   Psychological Statistics, and kindly... http://bit.ly/157ZGOu #rstats
+364973095695556608  Aug  7 00:55  @webbedfeet       "I Want ggplot2/lattice and d3 (gridSVG–The Glue)" http://feedly.com/k/1cIaHNZ Summary of JS graphics from #rstats #datadc
+364973097977249792  Aug  7 00:55  @DataCommunityDC  "I Want ggplot2/lattice and d3 (gridSVG–The Glue)" http://feedly.com/k/1cIaHNZ Summary of JS graphics from #rstats #datadc via @webbedfeet
+364974105516195840  Aug  7 00:59  @phylorich        Install #rstats on OSX from command line (e.g., remote access machine): sudo installer -pkg R-3.0.1.pkg -target /
+364977498448072705  Aug  7 01:13  @recology_        RT @phylorich: Install #rstats on OSX from command line (e.g., remote access machine): sudo installer -pkg R-3.0.1.pkg -target /
+364983066105610243  Aug  7 01:35  @mizmay           Why is #Rstats always tempting when trying to parse a GeoJSON? I know how it always ends: with me trying something recursive & hating life.
+364984426595225602  Aug  7 01:40  @jmgomez          RT @algonpaje: Transparency Law in Spain: Text Analysis #rstats http://bit.ly/11GZJDX #textmining #nlproc
+364986909438652416  Aug  7 01:50  @Rbloggers        Assessing the precision of classification tree model predictions:  (This article was first published... http://bit.ly/15JbbSO #rstats
