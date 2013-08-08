@@ -14331,6 +14331,7 @@
 365162901276868609  Aug  7 13:29  @Kyle_Schmidt     Great Youtube vids of #rstats tutorials by #googledevelopers
 365163397274284033  Aug  7 13:31  @doorisajar       #Rstats took me a couple of hours to get from zero to doing useful things. It's been days with #Python. It's too bad; it's a nice language.
 365166998059491328  Aug  7 13:46  @cpsievert        RT @timelyportfolio: @hadleywickham meet @mbostock Timely Portfolio: #ggplot2 meet #d3js http://t.co/kXw0ihd7H2 #rstats
+365166998059491328  Aug  7 13:46  @cpsievert        RT @timelyportfolio: @hadleywickham meet @mbostock Timely Portfolio: #ggplot2 meet #d3js http://timelyportfolio.blogspot.com/2013/08/ggplot2-meet-d3.html?spref=tw #rstats
 365169427248971777  Aug  7 13:55  @gvegayon         Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna @sigmajs @Gephi @CMU_CASOS http://bit.ly/O5l2tO
 365169583436464128  Aug  7 13:56  @ngamita          RT @hadleywickham: @jasonpbecker is.null(x) tests if x is a NULL object, exists("x") tests if x has been defined #rstats
 365169712751054848  Aug  7 13:56  @gvegayon         Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna @jbkunst @denisparra http://bit.ly/O5l2tO
@@ -14385,3 +14386,24 @@
 365263988751204354  Aug  7 20:11  @healthstatsdude  Makes sense: #SAS command to delete extraneous characters is called COMPRESS. I want #revolutionR now!!!!! #rstats #bigdata #textmining
 365271450833260545  Aug  7 20:41  @FrankFarach      Getting dizzy switching back and forth between #rstats and #pandas, but it's teaching me a lot about data structures and manipulation.
 365274520002637824  Aug  7 20:53  @mpmanti          . @healthstatsdude Text manipulation in #rstats is all right, but it’s nothing to crow about.
+365277447614246912  Aug  7 21:05  @orlandomezquita  RT @Rbloggers: From Whale Calls to Dark Matter: Competitive Data Science with R and Python: http://bit.ly/16QFV0D #rstats
+365283148604514305  Aug  7 21:27  @drago_carlo      Transparency Law in Spain: Text Analysis http://www.ekonlab.com/?p=745 @jmgomez #TextMining #DataMining #Law #Rstats
+365284135104815106  Aug  7 21:31  @drago_carlo      K-means Clustering (from “R in Action”) http://www.r-bloggers.com/k-means-clustering-from-r-in-action/ via @prismatic @Rbloggers #DataMining #MachineLearning  #Statistics #Rstats
+365284768457293824  Aug  7 21:34  @drewconway       Great dinner with @eddelbuettel @qethanm and Jeff Ryan. Always enjoy hanging with Chicago School of #Rstats
+365285231290351616  Aug  7 21:36  @notSoJunkDNA     RT @genetics_blog: Blog post: Google Developers #Rstats Programming Video Lectures http://t.co/Jaybje8WaR
+365291339501416448  Aug  7 22:00  @i_314            Grupo de Usuarios de R Argentina en Linkedin. http://www.linkedin.com/groups/aR-Grupo-Usuarios-R-Argentina-3984607 #rstats http://ar.i314.com.ar/ @ar_usergroup
+365297414086737923  Aug  7 22:24  @JeffHemsley      MT @gvegayon: #Rstats package rgexf exports + integrats #igraph #rstats #sna with @Gephi! Nice. http://bit.ly/O5l2tO
+365297850122387456  Aug  7 22:26  @JeffHemsley      MT @RLangTip: Good write up of Regular expressions in R http://bit.ly/OV6lDY  #rstats (by @johndcook)
+365299332259385346  Aug  7 22:32  @DianitaMonti     RT @adaptive_plant: Learning R? Checkout this online course from Google Developers, 2 minute video snippets #rstats http://t.co/Zk9Z438cJH
+365303632381476864  Aug  7 22:49  @eddelbuettel     FOAAS, the world's most important RESTful service was extended, and I just updated the #rstats wrapper 'rfoaas'; see http://goo.gl/FX04c
+365309104127885315  Aug  7 23:10  @Rbloggers        methods of calling differential region of ChIP-seq:  (This article was first published on   One Tip ... http://bit.ly/146iptI #rstats
+365319638323707904  Aug  7 23:52  @alexhanna        @tofias @girlinblack @BrendanNyhan oh come now, I'm sure more #rstats nerds also appreciate a good 4chan joke
+365327493432999940  Aug  8 00:23  @tanmoy77         @yichuanw @qz cool #rstats heatmap- will post it elsewhere!
+365329429653757953  Aug  8 00:31  @AL4S_Rich        @adaptive_plant @DianitaMonti If you desire something between twotorials and Coursera's 10-20 minute version Google's #rstats vids works AOK
+365332376894713856  Aug  8 00:43  @yichuanw         @tanmoy77 @qz thanks - send me a link! Seems like every time I write a post like this I geek out more about #rstats than content
+365338709614264320  Aug  8 01:08  @davidlaredodiaz  RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna @sigmajs @Gephi @CMU_CASOS http://t.co/AbEQ7bl9kg
+365344487540654080  Aug  8 01:31  @jmgomez          Assessing the precision of classification tree model predictions http://ow.ly/20MLoJ #rstats #datamining
+365352679230287872  Aug  8 02:04  @RickSaporta      Very psyched bout this! cc: @aleczopf MT @davidlaredodiaz: New rgexf on CRAN w/ #Sigma.js export + integrat  #igraph! #rstats #sna @sigmajs
+365353442404876289  Aug  8 02:07  @ukituki          http://RDataMining.com: R and Data Mining #rstats http://sco.lt/8MEAcr
+365355289253388288  Aug  8 02:14  @Rbloggers        JSM 2013 – Wednesday:  (This article was first published on   Statistical Research » R, and kindly c... http://bit.ly/14mxbk8 #rstats
+365364735190892546  Aug  8 02:51  @ChrisGandrud     RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna @sigmajs @Gephi @CMU_CASOS http://t.co/AbEQ7bl9kg
