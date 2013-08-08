@@ -14417,3 +14417,41 @@
 365451166672371712  Aug  8 08:35  @jmgomez          RT @sekhardrona: New version of R Ref Card for Data Mining #rstats, now with links to CRAN, #MapReduce & #Hadoop pkgs http://bit.ly/14wx0pg
 365451903187943424  Aug  8 08:38  @jorgaf           RT @Gephi: RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna http://t.co/oKHvVbhRw9
 365452275197550593  Aug  8 08:39  @jorgaf           RT @ukituki: http://t.co/74zIpyeqwW: R and Data Mining #rstats http://t.co/SnAaXkpdld
+365462129626722304  Aug  8 09:18  @mwtingley        Emory Boose is discussing visualizations of R scripts for storage, archive and efficient metadata #ESA2013 #Rstats
+365463122074550272  Aug  8 09:22  @imdaviddietrich  Good reference info on R software and data mining http://lnkd.in/r2vVKJ #bigdata #rstats #EMCProven #DST4L
+365473763241889792  Aug  8 10:05  @hadleywickham    RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365473879088578560  Aug  8 10:05  @lurino           RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365474820399439873  Aug  8 10:09  @HAStark          RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365480968330547200  Aug  8 10:33  @kwbroman         RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365482034736545793  Aug  8 10:38  @mhultstrom       RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365482675219341312  Aug  8 10:40  @quandl           Tips for speeding up R with byte compilation @rbloggers #RStats http://qndl.co/18Z1gHs
+365482716738760705  Aug  8 10:40  @Rbloggers        Data Science MD July Recap: Python and R Meetup:  (This article was first published on   Data Commun... http://bit.ly/15eXIMl #rstats
+365483065818099712  Aug  8 10:42  @DEAGiles         RT @quandl: Help community: R & social media by @burnsstat #RStats http://t.co/dKEQyKrO2V
+365484552979873795  Aug  8 10:48  @healthstatsdude  @mpmanti sure, it ain't #python... but when you're on #SAS it's like going from a rusty bike to a BMW in a single move. #rstats
+365486463598604288  Aug  8 10:55  @Point_Mutation   RT @genetics_blog: Blog post: Google Developers #Rstats Programming Video Lectures http://t.co/Jaybje8WaR
+365488122378731522  Aug  8 11:02  @NestorMontano    RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365489267390156800  Aug  8 11:06  @Rbloggers        Summarize content of a vector or data.frame every n entries:  (This article was first published on  ... http://bit.ly/15f3Dkk #rstats
+365491551633281024  Aug  8 11:15  @EMCAcad          RT @imdaviddietrich: Good reference info on R software and data mining http://lnkd.in/r2vVKJ #bigdata #rstats #EMCProven #DST4L
+365497777754611712  Aug  8 11:40  @Rbloggers        Bio7 1.7 for Windows Released!:  (This article was first published on    » R, and kindly contributed... http://bit.ly/15fbw9y #rstats
+365499598120288259  Aug  8 11:47  @djhocking        Shavit: Boyle repeated studies in 1600s to test consistency. Do we need to repeat studies in ecology? Make repeatable with #rstats #ESA2013
+365504146914287618  Aug  8 12:05  @RLangTip         Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
+365504523801853956  Aug  8 12:07  @jmcyap           RT @RLangTip: Function to find the peaks in a time series: http://t.co/jTy8BgYUnk #rstats (via @therealprotonk)
+365505122958196736  Aug  8 12:09  @econcomp         RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365506153024729090  Aug  8 12:13  @mpmanti          . @healthstatsdude Ha! Fair enough. I learned 1. #sas, 2. #splus, 3. #rstats, 4. #stata, 5. #matlab, 6. #python in that order. (1/2)
+365506597675474944  Aug  8 12:15  @cbboipdx         RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365511911967686658  Aug  8 12:36  @adolfoalvarez    RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365514458061209600  Aug  8 12:46  @timelyportfolio  Timely Portfolio: #rstats on Your iPhone (Not the Way You Think) http://timelyportfolio.blogspot.com/2013/08/r-on-your-iphone-not-way-you-think.html?spref=tw
+365515027760951297  Aug  8 12:49  @timelyportfolio  RT @RLangTip: Function to find the peaks in a time series: http://t.co/jTy8BgYUnk #rstats (via @therealprotonk)
+365515249597677569  Aug  8 12:50  @ManningBooks     Read "K-means Clustering" from "R in Action" on R-statistics blog and use discount code for R in Action, 2e http://bit.ly/15foLam #Rstats
+365523235233726465  Aug  8 13:21  @kevin_ushey      Print the tree structure of nested lists in #rstats by name -- an awesome function from #stackoverflow http://stackoverflow.com/questions/18122548/display-names-of-column-of-recursive-list-as-tree
+365523717687738370  Aug  8 13:23  @vinayakh         Should try this out - Making Instrumental music using R - http://vikparuchuri.com/blog/making-instrumental-music-from-scratch/ #rstats
+365530107554697216  Aug  8 13:49  @DinosaurusGrace  No wonder that took so long. I used write.csv! write.table is a LOT quicker #Rstats
+365530351185047552  Aug  8 13:50  @ManningBooks     Read "K-means Clustering" from R in Action on R-bloggers and use discount code for R in Action, 2e http://bit.ly/17zZMAc #Rstats
+365530561743302656  Aug  8 13:50  @BanksLoveMe_Now  It's sheer R tutor selling his training. #Rstats training course today with #DataMining
+365531791609692160  Aug  8 13:55  @rheimann         30 minutes till @DataTactics cadets share their experience during summer #AIAD w @WestPoint_USMA on #microfinance and #kiva data. #rstats
+365533174815662081  Aug  8 14:01  @pschulam         RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365535716484202497  Aug  8 14:11  @Demografia_CSIC  RT @RLangTip: Function to find the peaks in a time series: http://t.co/jTy8BgYUnk #rstats (via @therealprotonk)
+365535974618431489  Aug  8 14:12  @idigdata         RT @LouBajuk: Very cool web based notebooks, collaboration, and visualizations by Simon Urbanek. http://t.co/XBzP3H8MLw #jsm2013 #Rstats
+365541427939258368  Aug  8 14:34  @ADEH_demografia  Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk) vía @RLangTip
+365542727779225601  Aug  8 14:39  @benmarwick       @electricarchaeo use #rstats it'll give them a sustainable foundation for any future data analysis they might do
+365544049437974529  Aug  8 14:44  @pontischeswild   @hellerme RT  @RLangTip Function to find the peaks in a time series: http://bit.ly/PIZFgJ  #rstats (via @therealprotonk)
