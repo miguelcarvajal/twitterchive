@@ -14346,3 +14346,42 @@
 365173504498335744  Aug  7 14:12  @MyPerog          Very ;-)!RT“@peterflom: How user friendly should statistical software be? #rstats #SAS - http://ow.ly/nc4V4”
 365177398225940480  Aug  7 14:27  @MattDabrowski    RT @RLangTip: Regular expressions in R http://t.co/XKNV33hG58 #rstats (by @johndcook)
 365179757563883520  Aug  7 14:36  @GueyeNono        @doorisajar Don't give up on python though! #Rstats and #Python are very good friends.
+365185910440071168  Aug  7 15:01  @IstvanHajnal     Fiddling around with #Rstats, #ggmap, #ggplot2 and Geo-location twitter data.  Density of tweets in #Brussels http://t.co/cpnncIhLKa
+365191651494727680  Aug  7 15:24  @javi_marlop      RT @ucfagls: ...made an intriguing suggestion that #rstats pkgs would be better if user could contribute to pkg documentation openly via a wiki format
+365192811911868416  Aug  7 15:28  @jbkunst          RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna @jbkunst @denisparra http://t.co/AbEQ7bl9kg
+365193098181091328  Aug  7 15:29  @richmanmax       Sweet, rapid static cartography from code using #Rstats. Just overlayed lat/longs on an OSM base: https://gist.github.com/mjrich/6177620
+365193881970683907  Aug  7 15:33  @msgbi            How to choose a new business location with R  http://blog.revolutionanalytics.com/2013/08/expansion-stay-or-move.html #rstats
+365195161732907008  Aug  7 15:38  @psychemedia      RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna @alzahler @leonardojofre http://t.co/AbEQ7bl9kg
+365196176628666368  Aug  7 15:42  @sigmajs          RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna @sigmajs @Gephi @CMU_CASOS http://t.co/AbEQ7bl9kg
+365198791072579584  Aug  7 15:52  @mgrafit          RT @timelyportfolio: Timely Portfolio: I Want #ggplot2 #lattice and #d3js (#gridSVG Glue) http://t.co/r24MfKZriI #rstats @jaredlander @ramnath_vaidya
+365199936192651267  Aug  7 15:57  @Gephi            RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna http://bit.ly/O5l2tO
+365199940290482177  Aug  7 15:57  @gexf             RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna http://bit.ly/O5l2tO
+365200956108972032  Aug  7 16:01  @Rbloggers        K-means Clustering (from “R in Action”):  (This article was first published on   R-statistics blog »... http://bit.ly/1ccQKRF #rstats
+365201469064359936  Aug  7 16:03  @mgrafit          RT @ChrisGandrud: New version of #rstats d3Network on CRAN http://t.co/eDPneBYNBO New Trees and Clustered Dendrograms. Examples: http://t.co/fkO2oILzPw
+365201585833377792  Aug  7 16:03  @BrynRWilliams    “@Gephi RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna http://bit.ly/O5l2tO” Wow!
+365202378540064768  Aug  7 16:06  @zach_cp          #ggplot2 the killer #Rstats package that keeps me tied to R
+365202388140830720  Aug  7 16:06  @noamross         Is there a fn in #rstats like switch(), but evaluates expressions for side effects rather than returning values? Like a long if-else chain.
+365203030914121728  Aug  7 16:09  @recology_        RT @noamross: Is there a fn in #rstats like switch(), but evaluates expressions for side effects rather than returning values? Like a long if-else chain.
+365203305670000640  Aug  7 16:10  @larysar          @noamross you can build one with Rcpp using C's switch/case structure #rstats
+365206530263486466  Aug  7 16:23  @TATA_BOX         K-means Clustering (from “R in Action”) | (R news & tutorials) http://www.r-bloggers.com/k-means-clustering-from-r-in-action/ #rstats
+365206537096019968  Aug  7 16:23  @ucfagls          +1 Exactly Eli's point MT: @rmflight: that wld be cool, as users find cases that dev didn't envision, & clear up misunderstandings #rstats
+365208992298962946  Aug  7 16:33  @Charly_BG        RT @outliers_es: RT @algonpaje: Transparency Law in Spain: A Text Analysis #rstats http://t.co/u0DEGux61d
+365209920406171649  Aug  7 16:36  @mmeierer         Awesome network visualizations with sigma.js by using a single R command  - Thanks for the update of the rgexf-package @gvegayon #rstats
+365211047122042880  Aug  7 16:41  @jney             making statistics has never been so easy - thanks to R #Rstats
+365216541811695616  Aug  7 17:03  @Aidan_M_Keith    RT @yodacomplex: just discovered #rstats packages DirichletReg and robCompositions for regression analysis of compositional data. Look useful
+365218713156337665  Aug  7 17:11  @seinecle         RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna @alzahler @leonardojofre http://t.co/AbEQ7bl9kg
+365221249015758848  Aug  7 17:21  @leonardojofre    RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna @alzahler @leonardojofre http://t.co/AbEQ7bl9kg
+365223090323591170  Aug  7 17:29  @beccamedwards    Regular expressions in R http://bit.ly/1cJOtLC #rstats (by @johndcook) via @RLangTip
+365226757017698304  Aug  7 17:43  @rrichard09       RT @beccamedwards: Regular expressions in R http://t.co/MVoy9QMjiC #rstats (by @johndcook) via @RLangTip
+365228020585336832  Aug  7 17:48  @kleinschmidt     slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://www.bcs.rochester.edu/people/dkleinschmidt/assets/lsa13-plyr-reshape.pdf
+365229608603361280  Aug  7 17:54  @PeterFlomStat    the partykit and party packages are really cool #rstats
+365230080944914432  Aug  7 17:56  @gvegayon         RT @Gephi: RT @gvegayon: Vers 0.13.8 of rgexf on CRAN! Now with #Sigma.js export + integrat  #igraph! #rstats #sna http://t.co/oKHvVbhRw9
+365237642725560320  Aug  7 18:26  @iyildirim_       RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365239823809773570  Aug  7 18:35  @timelyportfolio  RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+365244239635955713  Aug  7 18:53  @opcvm123         #BigData: Great slides from @kleinschmidt about data analysis, exploration and simulation in #Rstats: http://www.bcs.rochester.edu/people/dkleinschmidt/assets/lsa13-plyr-reshape.pdf
+365245458471337986  Aug  7 18:57  @BMMillsy         @watanabe2k @Stata just started following me. Did you tell them I drank the #Rstats koolaid? Are they watching me? *puts on foil hat*
+365254952194547712  Aug  7 19:35  @watanabe2k       RT @BMMillsy: @watanabe2k @Stata just started following me. Did you tell them I drank the #Rstats koolaid? Are they watching me? *puts on foil hat*
+365260744494817281  Aug  7 19:58  @CountCarbon      Really loving ggplot2. Why did I resist its allures for so long? #rstats
+365263988751204354  Aug  7 20:11  @healthstatsdude  Makes sense: #SAS command to delete extraneous characters is called COMPRESS. I want #revolutionR now!!!!! #rstats #bigdata #textmining
+365271450833260545  Aug  7 20:41  @FrankFarach      Getting dizzy switching back and forth between #rstats and #pandas, but it's teaching me a lot about data structures and manipulation.
+365274520002637824  Aug  7 20:53  @mpmanti          . @healthstatsdude Text manipulation in #rstats is all right, but it’s nothing to crow about.
