@@ -14464,6 +14464,7 @@
 365568658283560963  Aug  8 16:22  @timelyportfolio  With a line this time| Timely Portfolio  #Rstats #gridSVG #d3js Line Reverse Data Bind  http://timelyportfolio.blogspot.com/2013/08/rgridsvgd3-line-reverse-data-bind.html?spref=tw @ramnath_vaidya
 365569135398223872  Aug  8 16:24  @timelyportfolio  RT @vinayakh: Should try this out - Making Instrumental music using R - http://t.co/h6sxT2vIVU #rstats
 365569408917180416  Aug  8 16:25  @digrodsson       RT @i_314: Grupo de Usuarios de R Argentina en Linkedin. http://t.co/TDVkufFmvU #rstats http://t.co/L7qdSOkwhh @ar_usergroup
+365569408917180416  Aug  8 16:25  @digrodsson       RT @i_314: Grupo de Usuarios de R Argentina en Linkedin. http://www.linkedin.com/groups/aR-Grupo-Usuarios-R-Argentina-3984607 #rstats http://ar.i314.com.ar/ @ar_usergroup
 365571428835274752  Aug  8 16:33  @abresler         Thanks to #rstats gods like @ramnath_vaidya @Mike_Bostock @hadleywickham @timelyportfolio @thorei we're entering the golden age of #dataviz!
 365575115393609729  Aug  8 16:47  @AstroRJS         Can't see #julialang taking over from #rstats for me, unless plotting on the fly gets a lot simpler. Or am I missing something...?
 365578530806968320  Aug  8 17:01  @chlalanne        "Data Science MD July Recap: #python and #rstats Meetup" http://www.r-bloggers.com/data-science-md-july-recap-python-and-r-meetup/
@@ -14485,6 +14486,24 @@
 365610922758250496  Aug  8 19:10  @rmounce          Thx to @ucfagls I've found an #rstats workaround for doing cladistic matrix permutations. https://stat.ethz.ch/pipermail/r-help/2011-November/295879.html TNT wont permute >32767
 365612887554789376  Aug  8 19:17  @amestadmx        RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
 365615032148574208  Aug  8 19:26  @rmounce          Hmmm... I was hoping #rstats could permute a 22 million cell matrix a bit faster than that. I think I've got time for a tea break now...
+365619716657659905  Aug  8 19:45  @PPUAMX           RT @RLangTip: Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
 365619716657659905  Aug  8 19:45  @PPUAMX           RT @RLangTip: Function to find the peaks in a time series: http://t.co/jTy8BgYUnk #rstats (via @therealprotonk)
 365627750956023810  Aug  8 20:17  @qethanm          Always a treat to hear @eddelbuettel talk R/C++/Rcpp (Chicago #rstats user group)
 365631259218673664  Aug  8 20:30  @Rbloggers        Google Developers R Programming Video Lectures:  (This article was first published on   One Tip Per ... http://bit.ly/13RSZRb #rstats
+365641170715553792  Aug  8 21:10  @KirkDBorne       HT @orlandomezquita > New version of R reference card for #DataMining: http://bit.ly/13alNo2 #MachineLearning #Rstats
+365642044892393472  Aug  8 21:13  @ivanh            RT @KirkDBorne: HT @orlandomezquita > New version of R reference card for #DataMining: http://t.co/vrnRRJ9LxH #MachineLearning #Rstats
+365642657860550657  Aug  8 21:16  @tdoyon           RT @KirkDBorne: HT @orlandomezquita > New version of R reference card for #DataMining: http://t.co/vrnRRJ9LxH #MachineLearning #Rstats
+365643290890080256  Aug  8 21:18  @KirkDBorne       Time Series Analysis & #DataMining Lecture Slides: http://www.rdatamining.com/docs?utm_source=buffer&utm_campaign=Buffer&utm_content=bufferc5ff1&utm_medium=twitter #Rstats #MachineLearning, Forecasting, Clustering, Classification
+365643756793380865  Aug  8 21:20  @ivanh            RT @KirkDBorne: Time Series Analysis & #DataMining Lecture Slides: http://t.co/DZWkXXfq00 #Rstats #MachineLearning, Forecasting, Clustering, Classification
+365647436074594304  Aug  8 21:35  @mpmanti          @healthstatsdude You can call #rstats and #julia from #python. And #ipython has hooks for both R and Julia.
+365649919131910144  Aug  8 21:45  @flavioclesio     RT @KirkDBorne: HT @orlandomezquita > New version of R reference card for #DataMining: http://t.co/vrnRRJ9LxH #MachineLearning #Rstats
+365654509399183360  Aug  8 22:03  @BrockTibert      #emchat a simple logistic regression can go a long way and there is free powerful software to do more than we need.  #rstats cran r project
+365662542527336448  Aug  8 22:35  @eddelbuettel     RT @qethanm: Always a treat to hear @eddelbuettel talk R/C++/Rcpp (Chicago #rstats user group)
+365676783242194946  Aug  8 23:31  @kayuri           RT @chlalanne: "Data Science MD July Recap: #python and #rstats Meetup" http://t.co/ibLHppLLEL
+365678573685710849  Aug  8 23:39  @fellgernon       RT @Bioconductor: #Bioconductor / #rstats #PLOSCompBio: Software for Computing and Annotating Genomic Ranges http://t.co/fk3DozqAjQ
+365680733257334785  Aug  8 23:47  @ucfagls          RT @rmounce: Thx to @ucfagls I've found an #rstats workaround for doing cladistic matrix permutations. https://t.co/Vluu0AWdqS TNT wont permute >32767
+365699878648680449  Aug  9 01:03  @JokeReumers      RT @genetics_blog: #Rstats/#Bioconductor Software for Computing and Annotating Genomic Ranges http://t.co/ftYa6P6v5r
+365709845283880960  Aug  9 01:43  @KevinLDavenport  @jcheng Vincent Nijs's presentation on his use of Shiny at tonights @SD_RUsersGroup #Rstats http://t.co/TZ7Fk4s79J
+365714152041365504  Aug  9 02:00  @SAGRudd          #rstats Software for Computing and Annotating Genomic Ranges @ http://buff.ly/13S3K6b
+365716098487828481  Aug  9 02:08  @nickholway       RT @SAGRudd: #rstats Software for Computing and Annotating Genomic Ranges @ http://t.co/BgvswndT0P
+365727528826048513  Aug  9 02:53  @cRashStats       Learn #rstats with basic tutorials from Google Developers http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLqVpWR8knRXZJiMEloGYphGb3-67HrIwz
