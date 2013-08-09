@@ -14507,3 +14507,31 @@
 365714152041365504  Aug  9 02:00  @SAGRudd          #rstats Software for Computing and Annotating Genomic Ranges @ http://buff.ly/13S3K6b
 365716098487828481  Aug  9 02:08  @nickholway       RT @SAGRudd: #rstats Software for Computing and Annotating Genomic Ranges @ http://t.co/BgvswndT0P
 365727528826048513  Aug  9 02:53  @cRashStats       Learn #rstats with basic tutorials from Google Developers http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLqVpWR8knRXZJiMEloGYphGb3-67HrIwz
+365740046327889921  Aug  9 03:43  @mianromu         Bio7 1.7 for Windows Released http://ow.ly/nLQ2S #rstats #bio7
+365744476305620992  Aug  9 04:00  @claudio2web      RT @kdnuggets: New version of R Reference Card for Data Mining #rstats, now with links to CRAN, MapReduce & Hadoop packages http://t.co/nXuYpybT3R
+365752306647580672  Aug  9 04:31  @InvisibleH2O     Just closed the second employee survey and analysing it in R http://rpubs.com/pprevos/vw2 #RStats #Water #PhDChat
+365757453800972290  Aug  9 04:52  @jaumebp          RT @kdnuggets: New version of R Reference Card for Data Mining #rstats, now with links to CRAN, MapReduce & Hadoop packages http://t.co/nXuYpybT3R
+365759555604463616  Aug  9 05:00  @QuartzBio        Read the @QuartzBio R2D2 blog posts on R-bloggers http://www.r-bloggers.com/author/r2d2/ @Rbloggers #BigData #Rstats
+365763831227617282  Aug  9 05:17  @datagistips      How to choose a business location with #R http://blog.revolutionanalytics.com/2013/08/expansion-stay-or-move.html #rstats
+365766972232843264  Aug  9 05:30  @LilithElina      RT @SAGRudd: #rstats Software for Computing and Annotating Genomic Ranges @ http://t.co/BgvswndT0P
+365777739720036352  Aug  9 06:13  @gjhansen         “@cRashStats Learn #rstats with basic tutorials from Google Developers http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLqVpWR8knRXZJiMEloGYphGb3-67HrIwz”
+365801600830287872  Aug  9 07:47  @eddelbuettel     Minor maintenance release of our inline CRAN package for R: http://goo.gl/Gd8Lrs #Rstats
+365805057154883584  Aug  9 08:01  @johannux         RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://t.co/fjjH2HOXtG. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+365805132472008705  Aug  9 08:01  @johannux         RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://t.co/XTOGfpsx7N #rstats
+365805866412285952  Aug  9 08:04  @hspter           Awesome! #rstats RT @Jose_Oliver: RMendeley, Programmatic interface to the Mendeley database:   http://ropensci.org/packages/rmendeley.html
+365806129273516033  Aug  9 08:05  @johannux         RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
+365806854024073216  Aug  9 08:08  @CMastication     RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
+365807733510901761  Aug  9 08:12  @monsoontrader    People want to change #rstats because they fear it. Let the anger flow #SAS and #SPSS users.
+365808580848402433  Aug  9 08:15  @genetics_blog    #Rstats and #ggplot2 on your iPhone (not what you think) http://timelyportfolio.blogspot.com/2013/08/r-on-your-iphone-not-way-you-think.html
+365809578417455106  Aug  9 08:19  @genetics_blog    RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
+365810171613683715  Aug  9 08:21  @chr1swallace     Why would anyone store important data in multiple sheets of a 118MB .xlsx?  And how can I read the damn thing into #Rstats?
+365812890147631105  Aug  9 08:32  @kushan_s         Okay, so Series are to Python what Factors are to R. #Rstats #py
+365813384513466369  Aug  9 08:34  @msgbi            RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
+365813421091983361  Aug  9 08:34  @BrianPardy       RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://t.co/lt3MmsnYna
+365814431248158722  Aug  9 08:38  @yannabraham      RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
+365814513334890499  Aug  9 08:39  @Mike_Bostock     RT @abresler: Thanks to #rstats gods like @ramnath_vaidya @Mike_Bostock @hadleywickham @timelyportfolio @thorei we're entering the golden age of #dataviz!
+365815741322240001  Aug  9 08:44  @kushan_s         RT @abresler: Thanks to #rstats gods like @ramnath_vaidya @Mike_Bostock @hadleywickham @timelyportfolio @thorei we're entering the golden age of #dataviz!
+365815811606188033  Aug  9 08:44  @joshua_ulrich    @rmounce what did you try? This is fast: x=matrix(rnorm(22e6),1e6,22);  y=x[sample(length(x))]; dim(y)=dim(x) /cc @kevin_ushey #rstats
+365816731509329921  Aug  9 08:48  @SchaunW          @chr1swallace Several options: http://bit.ly/15b4TZi I prefer the last option listed, mostly because I wrote it:-) #rstats
+365816860970713090  Aug  9 08:48  @ty_tuff          RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
+365819334301458432  Aug  9 08:58  @isragaytan       RT @KirkDBorne: Time Series Analysis & #DataMining Lecture Slides: http://t.co/DZWkXXfq00 #Rstats #MachineLearning, Forecasting, Clustering, Classification
