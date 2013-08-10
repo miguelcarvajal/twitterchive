@@ -14479,6 +14479,7 @@
 365591992991883266  Aug  8 17:54  @Bioconductor     #Bioconductor / #rstats #PLOSCompBio: Software for Computing and Annotating Genomic Ranges http://dx.plos.org/10.1371/journal.pcbi.1003118
 365592015024566274  Aug  8 17:55  @notSoJunkDNA     RT @genetics_blog: #Rstats/#Bioconductor Software for Computing and Annotating Genomic Ranges http://t.co/ftYa6P6v5r
 365592545595629568  Aug  8 17:57  @toates_19        RT @Bioconductor: #Bioconductor / #rstats #PLOSCompBio: Software for Computing and Annotating Genomic Ranges http://t.co/fk3DozqAjQ
+365593377657454592  Aug  8 18:00  @wakuteka         RT @Bioconductor: #Bioconductor / #rstats #PLOSCompBio: Software for Computing and Annotating Genomic Ranges http://dx.plos.org/10.1371/journal.pcbi.1003118
 365593377657454592  Aug  8 18:00  @wakuteka         RT @Bioconductor: #Bioconductor / #rstats #PLOSCompBio: Software for Computing and Annotating Genomic Ranges http://t.co/fk3DozqAjQ
 365594972382183424  Aug  8 18:06  @ArthurFlam       Toying with bi-clusterisation in #Rstats. Gives fun plots. Are those... insights ? todo: understand the algos..! #RecSys
 365596840021868544  Aug  8 18:14  @HdzZ_Liliana     RT @Bioconductor: #Bioconductor / #rstats #PLOSCompBio: Software for Computing and Annotating Genomic Ranges http://t.co/fk3DozqAjQ
@@ -14588,6 +14589,7 @@
 365919735776428033  Aug  9 15:37  @rahuldave        RT @YhatHQ: gigvis - interactive web graphics in #Rstats - @rstudioapp @hadleywickham - https://t.co/0vVWgM4UO4
 365932857463554049  Aug  9 16:29  @shaunconnolly    RT @revodavid: Lots of great #rstats stories and resources on the blog last month. If you missed any, catch up in the July roundup: http://t.co/1UsCk8eHhm
 365936580390682625  Aug  9 16:44  @gawbul           @drtkeane @aaronquinlan Basic stats packages aren't enough in my view! Need to be able to manipulate & transform data! #Rstats or #Python!
+365943763471839232  Aug  9 17:12  @dannydb_stellar  RT @MacDiva: .@Google has a video series on R programming for beginners: http://j.mp/15UoGPs #rstats
 365943763471839232  Aug  9 17:12  @dannydb_stellar  RT @MacDiva: .@Google has a video series on R programming for beginners: http://t.co/SNbVa9fKo3 #rstats
 365944807580901379  Aug  9 17:16  @PPUAMX           RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://t.co/aFuYGaxp52
 365954700819972096  Aug  9 17:56  @aparnellstats    Can any #rstats experts explain (in lt 140 chars) why 'names<-' is a viable replacement function but 'names=' isn't given that  '=' is fine?
@@ -14623,3 +14625,11 @@
 366071948238786561  Aug 10 01:42  @nickwan          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
 366072774701232129  Aug 10 01:45  @jmgomez          RT @DEAGiles: Help community: R &amp; social media by @burnsstat #RStats http://qndl.co/14ux5tw
 366077143987400704  Aug 10 02:02  @upLib            RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
+366108583127035904  Aug 10 04:07  @sioma24          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366133231508135937  Aug 10 05:45  @jmgomez          RT @JodyEdmondson: #rstats How Khan Academy is using Machine Learning to Assess Student http://bit.ly/15gnXlu #datamining
+366135644646420481  Aug 10 05:55  @drago_carlo      Resources for learning R http://stats.stackexchange.com/questions/138/resources-for-learning-r via @prismatic @statsqa  #Statistics #MachineLearning #DataMining #Visualization #Rstats
+366146928540528641  Aug 10 06:40  @seandavis12      RISmed: #Rstats package for #ncbi querying http://cran.r-project.org/web/packages/RISmed/index.html #bioinformatics
+366167490478350337  Aug 10 08:01  @quandl           Changepoint #analysis of time series | The DataMeister #RStats #Data http://qndl.co/17vGwE8
+366175187235901440  Aug 10 08:32  @rmflight         @zevkronenberg yes, it is an #rstats package. If you use #markdown, conversion can be fully cont. in #rstats
+366175918764457984  Aug 10 08:35  @rmflight         RT @recology_: +1 on this #rstats thought from @hspter http://t.co/wyxFIiBMhi
+366180493265350656  Aug 10 08:53  @LNdata           RT @MacDiva: .@Google has a video series on R programming for beginners: http://t.co/SNbVa9fKo3 #rstats
