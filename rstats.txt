@@ -14578,3 +14578,36 @@
 365900813220069376  Aug  9 14:22  @AgarwalGyan      RT @revodavid: Lots of great #rstats stories and resources on the blog last month. If you missed any, catch up in the July roundup: http://t.co/1UsCk8eHhm
 365903271329660929  Aug  9 14:31  @jmgomez          RT @Rbloggers: K-means Clustering (from “R in Action”) http://bit.ly/1ccQKRF #rstats #datamining
 365907910972280832  Aug  9 14:50  @micro_interactn  I'm losing it trying to compare two lists then colour a rank abundance curve based on the overlap. Any ideas #QIIME #rstats #mothur?
+365910981366398979  Aug  9 15:02  @oostopitre       Finally learned to setup my first Shiny App on the web. #rstats #rstudio #shiny FTW.
+365911381846921216  Aug  9 15:04  @jabawack         60+ R resources to improve your data skills http://buff.ly/1ey5Sox #R #RStats #DataScience
+365915181227851776  Aug  9 15:19  @Altons           Nate Silver addresses assembled statisticians at this year's JSM http://zite.to/17ByTMq #statistics #stats #SAS #rstats
+365916398083506177  Aug  9 15:24  @YhatHQ           gigvis - interactive web graphics in #Rstats - @rstudioapp @hadleywickham - https://github.com/rstudio/gigvis
+365916795493822464  Aug  9 15:25  @jmgomez          RT @jorgaf: http://RDataMining.com: R and Data Mining #rstats
+365919735776428033  Aug  9 15:37  @rahuldave        RT @YhatHQ: gigvis - interactive web graphics in #Rstats - @rstudioapp @hadleywickham - https://t.co/0vVWgM4UO4
+365932857463554049  Aug  9 16:29  @shaunconnolly    RT @revodavid: Lots of great #rstats stories and resources on the blog last month. If you missed any, catch up in the July roundup: http://t.co/1UsCk8eHhm
+365936580390682625  Aug  9 16:44  @gawbul           @drtkeane @aaronquinlan Basic stats packages aren't enough in my view! Need to be able to manipulate & transform data! #Rstats or #Python!
+365943763471839232  Aug  9 17:12  @dannydb_stellar  RT @MacDiva: .@Google has a video series on R programming for beginners: http://t.co/SNbVa9fKo3 #rstats
+365944807580901379  Aug  9 17:16  @PPUAMX           RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://t.co/aFuYGaxp52
+365954700819972096  Aug  9 17:56  @aparnellstats    Can any #rstats experts explain (in lt 140 chars) why 'names<-' is a viable replacement function but 'names=' isn't given that  '=' is fine?
+365956435072401409  Aug  9 18:03  @ucfagls          @aparnellstats because the function is actually named `names<-()` and there isn't one with name `names=()` #rstats
+365957211131887616  Aug  9 18:06  @ucfagls          @aparnellstats the parser converts `names(x) <- foo` into `x <- 'names<-'(x, foo)` for you. Another reason why I advocate using `<-` #rstats
+365958996215074817  Aug  9 18:13  @ucfagls          @aparnellstats shorter! ;-) "<- =/= =" #rstats
+365974955973824512  Aug  9 19:16  @alexleavitt      Twitter, I need some #Rstats and #ggplot2 help. Do you have any idea why one bar is grey, and how do I fix it? http://t.co/vPdkaOXVp8
+365976361547988994  Aug  9 19:22  @bkeegan          RT @alexleavitt: Twitter, I need some #Rstats and #ggplot2 help. Do you have any idea why one bar is grey, and how do I fix it? http://t.co/vPdkaOXVp8
+365977429170327552  Aug  9 19:26  @recology_        My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://bit.ly/13MT6RS
+365978139920302080  Aug  9 19:29  @openscience      RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
+365980271759212544  Aug  9 19:37  @bwaber           RT @alexleavitt: Twitter, I need some #Rstats and #ggplot2 help. Do you have any idea why one bar is grey, and how do I fix it? http://t.co/vPdkaOXVp8
+365980278969204736  Aug  9 19:37  @TeachGuz         RT @alexleavitt: Twitter, I need some #Rstats and #ggplot2 help. Do you have any idea why one bar is grey, and how do I fix it? http://t.co/vPdkaOXVp8
+365981269617688576  Aug  9 19:41  @KTInvasion       RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
+365982489900105729  Aug  9 19:46  @yichuanw         #Rstats are amazing. Visualization software never was so accessible.
+365982838706810882  Aug  9 19:48  @berkeleymalagon  I wish #RStudio did model versioning. Detect my model objects, I hit "snapshot", & it pops into a list w/its performance metric #Rstats
+365988219017363456  Aug  9 20:09  @Iteration23      RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
+365989191617748995  Aug  9 20:13  @kara_woo         Some Russian scientists and students here have expressed an interest in learning #rstats. #Baikal13
+365989473076523008  Aug  9 20:14  @kara_woo         Any tips on getting newbies started with #rstats, o bajillion of my tweeps who are way more qualified than I to be teaching this?
+365992487979974656  Aug  9 20:26  @force11rescomm   RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
+365993328992452609  Aug  9 20:29  @kara_woo         @hspter Would you particularly recommend any of these links for people coming to #rstats with no programming experience?
+365998320604291072  Aug  9 20:49  @caitpickens      @kara_woo I need #rstats too. Can I be in your class? Was planning on taking a MOOC
+365999215530360834  Aug  9 20:53  @recology_        +1 on this #rstats thought from @hspter http://bit.ly/15VWc5z
+365999369993986049  Aug  9 20:53  @ethanwhite       RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
+365999435785846784  Aug  9 20:54  @hspter           RT @recology_: +1 on this #rstats thought from @hspter http://t.co/wyxFIiBMhi
+366000244074364928  Aug  9 20:57  @caitpickens      @kara_woo ohhh right. No easy vid conf there, right? Bummer. Coursera mooc on #rstats it is
