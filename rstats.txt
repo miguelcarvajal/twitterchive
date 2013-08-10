@@ -14445,6 +14445,7 @@
 365506597675474944  Aug  8 12:15  @cbboipdx         RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
 365511911967686658  Aug  8 12:36  @adolfoalvarez    RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
 365514458061209600  Aug  8 12:46  @timelyportfolio  Timely Portfolio: #rstats on Your iPhone (Not the Way You Think) http://timelyportfolio.blogspot.com/2013/08/r-on-your-iphone-not-way-you-think.html?spref=tw
+365515027760951297  Aug  8 12:49  @timelyportfolio  RT @RLangTip: Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
 365515027760951297  Aug  8 12:49  @timelyportfolio  RT @RLangTip: Function to find the peaks in a time series: http://t.co/jTy8BgYUnk #rstats (via @therealprotonk)
 365515249597677569  Aug  8 12:50  @ManningBooks     Read "K-means Clustering" from "R in Action" on R-statistics blog and use discount code for R in Action, 2e http://bit.ly/15foLam #Rstats
 365523235233726465  Aug  8 13:21  @kevin_ushey      Print the tree structure of nested lists in #rstats by name -- an awesome function from #stackoverflow http://stackoverflow.com/questions/18122548/display-names-of-column-of-recursive-list-as-tree
@@ -14538,6 +14539,7 @@
 365816860970713090  Aug  9 08:48  @ty_tuff          RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
 365819334301458432  Aug  9 08:58  @isragaytan       RT @KirkDBorne: Time Series Analysis & #DataMining Lecture Slides: http://t.co/DZWkXXfq00 #Rstats #MachineLearning, Forecasting, Clustering, Classification
 365821010647326720  Aug  9 09:05  @isragaytan       RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://t.co/XTOGfpsx7N #rstats
+365824348185042944  Aug  9 09:18  @JokeReumers      RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
 365824348185042944  Aug  9 09:18  @JokeReumers      RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
 365827145089564672  Aug  9 09:29  @yaacovp          Friday morning graphics: scatter of theta and efficiency conditional on speededness of response. #rstats http://t.co/KXWG2PrvIt
 365827533003964416  Aug  9 09:30  @rvidal           RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
@@ -14609,5 +14611,15 @@
 365998320604291072  Aug  9 20:49  @caitpickens      @kara_woo I need #rstats too. Can I be in your class? Was planning on taking a MOOC
 365999215530360834  Aug  9 20:53  @recology_        +1 on this #rstats thought from @hspter http://bit.ly/15VWc5z
 365999369993986049  Aug  9 20:53  @ethanwhite       RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
+365999435785846784  Aug  9 20:54  @hspter           RT @recology_: +1 on this #rstats thought from @hspter http://bit.ly/15VWc5z
 365999435785846784  Aug  9 20:54  @hspter           RT @recology_: +1 on this #rstats thought from @hspter http://t.co/wyxFIiBMhi
 366000244074364928  Aug  9 20:57  @caitpickens      @kara_woo ohhh right. No easy vid conf there, right? Bummer. Coursera mooc on #rstats it is
+366014371366838272  Aug  9 21:53  @Rbloggers        In case you missed it: July 2013 Roundup:  (This article was first published on   Revolutions, and k... http://bit.ly/15Z03Bk #rstats
+366039534372261888  Aug  9 23:33  @KatherineMejia   Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
+366054234271137792  Aug 10 00:31  @vijay_ivaturi    RT @recology_: +1 on this #rstats thought from @hspter http://t.co/wyxFIiBMhi
+366056655093370881  Aug 10 00:41  @biogarage        RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366069806270648323  Aug 10 01:33  @recology_        RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366070091982446593  Aug 10 01:34  @octonion         RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366071948238786561  Aug 10 01:42  @nickwan          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366072774701232129  Aug 10 01:45  @jmgomez          RT @DEAGiles: Help community: R &amp; social media by @burnsstat #RStats http://qndl.co/14ux5tw
+366077143987400704  Aug 10 02:02  @upLib            RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
