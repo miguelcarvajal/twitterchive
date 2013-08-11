@@ -14508,6 +14508,7 @@
 365662542527336448  Aug  8 22:35  @eddelbuettel     RT @qethanm: Always a treat to hear @eddelbuettel talk R/C++/Rcpp (Chicago #rstats user group)
 365676783242194946  Aug  8 23:31  @kayuri           RT @chlalanne: "Data Science MD July Recap: #python and #rstats Meetup" http://t.co/ibLHppLLEL
 365678573685710849  Aug  8 23:39  @fellgernon       RT @Bioconductor: #Bioconductor / #rstats #PLOSCompBio: Software for Computing and Annotating Genomic Ranges http://t.co/fk3DozqAjQ
+365680733257334785  Aug  8 23:47  @ucfagls          RT @rmounce: Thx to @ucfagls I've found an #rstats workaround for doing cladistic matrix permutations. https://stat.ethz.ch/pipermail/r-help/2011-November/295879.html TNT wont permute >32767
 365680733257334785  Aug  8 23:47  @ucfagls          RT @rmounce: Thx to @ucfagls I've found an #rstats workaround for doing cladistic matrix permutations. https://t.co/Vluu0AWdqS TNT wont permute >32767
 365699878648680449  Aug  9 01:03  @JokeReumers      RT @genetics_blog: #Rstats/#Bioconductor Software for Computing and Annotating Genomic Ranges http://t.co/ftYa6P6v5r
 365709845283880960  Aug  9 01:43  @KevinLDavenport  @jcheng Vincent Nijs's presentation on his use of Shiny at tonights @SD_RUsersGroup #Rstats http://t.co/TZ7Fk4s79J
@@ -14636,6 +14637,7 @@
 366069806270648323  Aug 10 01:33  @recology_        RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
 366070091982446593  Aug 10 01:34  @octonion         RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
 366071948238786561  Aug 10 01:42  @nickwan          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366071948238786561  Aug 10 01:42  @nickwan          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
 366072774701232129  Aug 10 01:45  @jmgomez          RT @DEAGiles: Help community: R &amp; social media by @burnsstat #RStats http://qndl.co/14ux5tw
 366077143987400704  Aug 10 02:02  @upLib            RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
 366108583127035904  Aug 10 04:07  @sioma24          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
@@ -14652,6 +14654,7 @@
 366229322601734144  Aug 10 12:07  @mjcavaretta      Great stuff 4 #dataviz & #rstats. RT @elizabethapitts: In NYC, newly released tax lot #opendata. #bigdata #analytics http://bit.ly/15leKbN
 366232593747804160  Aug 10 12:20  @ramnath_vaidya   RT @timelyportfolio: #d3 adds axis to #rstats #lattice plot of PIMCO Timely Portfolio: PIMCO Rolling Correl http://t.co/TxPQGDv8GX @ramnath_vaidya
 366238675199197184  Aug 10 12:44  @naupakaz         #ggplot2, meet d3 http://npk.io/Dh22 #rstats
+366239601876144128  Aug 10 12:48  @drdrewsteen      RT @naupakaz: #ggplot2, meet d3 http://npk.io/Dh22 #rstats
 366239601876144128  Aug 10 12:48  @drdrewsteen      RT @naupakaz: #ggplot2, meet d3 http://t.co/19vKmoe8vh #rstats
 366240259740143616  Aug 10 12:50  @Rbloggers        XML in R – A (German) tutorial / XML in R – ein Tutorial auf Deutsch:  (This article was first publi... http://bit.ly/15nPdyw #rstats
 366259384436789248  Aug 10 14:06  @rafaldotnet      Short and sweet intro to the very useful #RStats plyr package for data manipulation http://streaming.stat.iastate.edu/workshops/r-intro/lectures/6-advancedmanipulation.pdf
@@ -14680,3 +14683,12 @@
 366515395932327937  Aug 11 07:04  @silverlangur     #rstats i.e.: a<-c(rep(1:4, 5)) b<-c(rep(1:5, 4)) c<-c(rep(1, 20)) for(i in 1:20){if((a[i]+b[i])>7) {c[i]<-"heaven"}else{c[i]<-"hell"}} c
 366518808090906625  Aug 11 07:17  @RevoAndrie       Revolution R is in the top 10 enterprise #analytics platforms  http://butleranalytics.com/2013/07/10-enterprise-predictive-analytics-compared-platforms/ #Rstats
 366519895304830976  Aug 11 07:22  @PageViral        RT @RevoAndrie: Revolution R is in the top 10 enterprise #analytics platforms  http://t.co/UzKr0YTtrS #Rstats
+366552334739849218  Aug 11 09:31  @marcosluis2186   Survival Analysis for #Marketing Attribution by @RevolutionR on @slideshare #Marketing #rstats #Analytics http://www.slideshare.net/RevolutionAnalytics/survival-analysis-for-marketing-attribution
+366554740538097664  Aug 11 09:40  @quandl           R around the world by @rapporters via @Scribd http://qndl.co/1ctm6Tf #RStats
+366563829242527746  Aug 11 10:16  @hadleywickham    RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
+366564003335507968  Aug 11 10:17  @hadleywickham    RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
+366571588671373314  Aug 11 10:47  @brianabelson     RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
+366582747638140928  Aug 11 11:31  @DEAGiles         RT @quandl: R around the world by @rapporters via @Scribd http://t.co/JCAkvyYFwU #RStats
+366595965597134850  Aug 11 12:24  @pschulam         RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
+366611404763037697  Aug 11 13:25  @tdynes           RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
+366620237577199616  Aug 11 14:00  @Mlevinson_OR     RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
