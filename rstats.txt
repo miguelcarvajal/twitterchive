@@ -14674,3 +14674,9 @@
 366351081120333824  Aug 10 20:11  @srsupp           RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
 366428370617114624  Aug 11 01:18  @rvimieiro        This is cool, if it works fine of course > "RCircos: an R package for Circos 2D track" plots http://www.biomedcentral.com/1471-2105/14/244/abstract #rstats #dataviz
 366436889034633216  Aug 11 01:52  @BZoIsReal        A.M.I.N.M.O All Money In No Money Out im on it #RT #Rstats #Numbersdontlie
+366473493044404224  Aug 11 04:17  @drago_carlo      Linear Discriminant Analysis in R http://kaygun.tumblr.com/post/57860936338/linear-discriminant-analysis-in-r via @prismatic #Statistics @MachineLearning #DataMining #Rstats
+366479441024659456  Aug 11 04:41  @Rbloggers        Enhanced meboot package, simulating regression standard errors: In my June 25 post I described R- (i) ... http://bit.ly/1cpi3s0 #rstats
+366514444672565248  Aug 11 07:00  @silverlangur     #rstats Want to create new vector based on logical of other vectors. Am creating dummy vector then overwriting w logical.Seems inefficient?
+366515395932327937  Aug 11 07:04  @silverlangur     #rstats i.e.: a<-c(rep(1:4, 5)) b<-c(rep(1:5, 4)) c<-c(rep(1, 20)) for(i in 1:20){if((a[i]+b[i])>7) {c[i]<-"heaven"}else{c[i]<-"hell"}} c
+366518808090906625  Aug 11 07:17  @RevoAndrie       Revolution R is in the top 10 enterprise #analytics platforms  http://butleranalytics.com/2013/07/10-enterprise-predictive-analytics-compared-platforms/ #Rstats
+366519895304830976  Aug 11 07:22  @PageViral        RT @RevoAndrie: Revolution R is in the top 10 enterprise #analytics platforms  http://t.co/UzKr0YTtrS #Rstats
