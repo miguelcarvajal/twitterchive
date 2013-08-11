@@ -14571,6 +14571,7 @@
 365866665486974980  Aug  9 12:06  @RLangTip         Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
 365869260494475265  Aug  9 12:16  @MattDabrowski    RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://t.co/aFuYGaxp52
 365874281940393985  Aug  9 12:36  @kushan_s         RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://t.co/lt3MmsnYna
+365874281940393985  Aug  9 12:36  @kushan_s         RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://timelyportfolio.blogspot.com/2013/08/r-on-your-iphone-not-way-you-think.html
 365877513852944386  Aug  9 12:49  @idigdata         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://t.co/Ue7Y2NPO2m
 365879068257837056  Aug  9 12:55  @caddymob         Starting to sorta grasp #ggplot2 + #reshap2, love it, DIG faceting! But scales can be full of #facepalm. #rstats http://t.co/zTx3OtFNkP
 365881465818447874  Aug  9 13:05  @orlandomezquita  Dual axis in #ggplot2: http://bit.ly/1cAVSgj #rstats
@@ -14637,6 +14638,7 @@
 366167490478350337  Aug 10 08:01  @quandl           Changepoint #analysis of time series | The DataMeister #RStats #Data http://qndl.co/17vGwE8
 366175187235901440  Aug 10 08:32  @rmflight         @zevkronenberg yes, it is an #rstats package. If you use #markdown, conversion can be fully cont. in #rstats
 366175918764457984  Aug 10 08:35  @rmflight         RT @recology_: +1 on this #rstats thought from @hspter http://t.co/wyxFIiBMhi
+366180493265350656  Aug 10 08:53  @LNdata           RT @MacDiva: .@Google has a video series on R programming for beginners: http://j.mp/15UoGPs #rstats
 366180493265350656  Aug 10 08:53  @LNdata           RT @MacDiva: .@Google has a video series on R programming for beginners: http://t.co/SNbVa9fKo3 #rstats
 366184877781045248  Aug 10 09:10  @josephwheatley   fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
 366198400724643840  Aug 10 10:04  @larysar          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
@@ -14649,3 +14651,17 @@
 366261428396625922  Aug 10 14:15  @statisticsblog   In case if you missed it: A summary of interest R articles from July. http://i.cx/14wnTSy #r #rstats
 366271027778576384  Aug 10 14:53  @yichuanw         Another interesting #rstats heatmap of China's transportation infrastructure: http://t.co/VDdpIlghfT
 366271263498465280  Aug 10 14:54  @dirkvandenpoel   @qethanm talks Parallel R: Segue (emrlapply), RHipe, Rhadoop (rmr) at #bigdata Camp #rstats http://t.co/qOqC1GxfuE
+366279177005047808  Aug 10 15:25  @jmgomez          RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
+366290447854874626  Aug 10 16:10  @gjhansen         «@drago_carlo Resources for learning R http://bit.ly/19jAhdn #Rstats»
+366291800660516865  Aug 10 16:15  @paulblaser       Are we in an Analytics Recession- a decline in SAS is a decline for all #rstats http://wp.me/p9q8Y-2Vf via @Gliders_Coach
+366295142547722240  Aug 10 16:29  @datalies         I learned to program the interwebs! http://nutwition.com @fmj30cal @jakeruss @hadleywickham @revodavid #rstats #shiny #ggplot2 #nutwition
+366303186518147072  Aug 10 17:00  @pmangg           RT @statisticsblog: In case if you missed it: A summary of interest R articles from July. http://t.co/LmeVFG6kPQ #r #rstats
+366309204077723648  Aug 10 17:24  @MarkTabNet       RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
+366327408468574208  Aug 10 18:37  @CasalsTMarti     RT @statisticsblog: In case if you missed it: A summary of interest R articles from July. http://t.co/LmeVFG6kPQ #r #rstats
+366334317275783168  Aug 10 19:04  @gjhansen         “@statisticsblog In case if you missed it: A summary of interest R articles from July. http://i.cx/14wnTSy #r #rstats”
+366335222859571201  Aug 10 19:08  @tlmontana        Another interesting #rstats heatmap of China's transportation infrastructure: http://t.co/1QpSJTdKQz”  via @yichuanw #china #economy #macro
+366343886815232001  Aug 10 19:42  @Lewis_Lab        #Rstats RT @teddy777: Demand for R Jobs on the Rise, While SAS Jobs Decline http://fw.to/OTAF1CP
+366347877657743360  Aug 10 19:58  @yichuanw         RT @tlmontana: Another interesting #rstats heatmap of China's transportation infrastructure: http://t.co/1QpSJTdKQz”  via @yichuanw #china #economy #macro
+366350188958322688  Aug 10 20:07  @whitcher         Reading DICOM images in R http://wp.me/s357rF-dicom via @wordpressdotcom @rigorous #rstats #imaging
+366350523345018880  Aug 10 20:09  @whitcher         Handling DICOM-RT structure sets in oro.dicom http://wp.me/p357rF-3L via @wordpressdotcom @rigorous #rstats #imaging
+366351081120333824  Aug 10 20:11  @srsupp           RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
