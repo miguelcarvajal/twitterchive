@@ -14514,6 +14514,7 @@
 365699878648680449  Aug  9 01:03  @JokeReumers      RT @genetics_blog: #Rstats/#Bioconductor Software for Computing and Annotating Genomic Ranges http://t.co/ftYa6P6v5r
 365709845283880960  Aug  9 01:43  @KevinLDavenport  @jcheng Vincent Nijs's presentation on his use of Shiny at tonights @SD_RUsersGroup #Rstats http://t.co/TZ7Fk4s79J
 365714152041365504  Aug  9 02:00  @SAGRudd          #rstats Software for Computing and Annotating Genomic Ranges @ http://buff.ly/13S3K6b
+365716098487828481  Aug  9 02:08  @nickholway       RT @SAGRudd: #rstats Software for Computing and Annotating Genomic Ranges @ http://buff.ly/13S3K6b
 365716098487828481  Aug  9 02:08  @nickholway       RT @SAGRudd: #rstats Software for Computing and Annotating Genomic Ranges @ http://t.co/BgvswndT0P
 365727528826048513  Aug  9 02:53  @cRashStats       Learn #rstats with basic tutorials from Google Developers http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLqVpWR8knRXZJiMEloGYphGb3-67HrIwz
 365740046327889921  Aug  9 03:43  @mianromu         Bio7 1.7 for Windows Released http://ow.ly/nLQ2S #rstats #bio7
@@ -14528,6 +14529,7 @@
 365801600830287872  Aug  9 07:47  @eddelbuettel     Minor maintenance release of our inline CRAN package for R: http://goo.gl/Gd8Lrs #Rstats
 365805057154883584  Aug  9 08:01  @johannux         RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://github.com/hadley/devtools/wiki/Subsetting. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
 365805057154883584  Aug  9 08:01  @johannux         RT @hadleywickham: a comprehensive intro to subsetting in #rstats: https://t.co/fjjH2HOXtG. What have I missed? (please ignore '[[ instead of [[ - wiki prob)
+365805132472008705  Aug  9 08:01  @johannux         RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
 365805132472008705  Aug  9 08:01  @johannux         RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://t.co/XTOGfpsx7N #rstats
 365805866412285952  Aug  9 08:04  @hspter           Awesome! #rstats RT @Jose_Oliver: RMendeley, Programmatic interface to the Mendeley database:   http://ropensci.org/packages/rmendeley.html
 365806129273516033  Aug  9 08:05  @johannux         RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
@@ -14539,6 +14541,7 @@
 365812890147631105  Aug  9 08:32  @kushan_s         Okay, so Series are to Python what Factors are to R. #Rstats #py
 365813384513466369  Aug  9 08:34  @msgbi            RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
 365813421091983361  Aug  9 08:34  @BrianPardy       RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://t.co/lt3MmsnYna
+365813421091983361  Aug  9 08:34  @BrianPardy       RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://timelyportfolio.blogspot.com/2013/08/r-on-your-iphone-not-way-you-think.html
 365814431248158722  Aug  9 08:38  @yannabraham      RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
 365814513334890499  Aug  9 08:39  @Mike_Bostock     RT @abresler: Thanks to #rstats gods like @ramnath_vaidya @Mike_Bostock @hadleywickham @timelyportfolio @thorei we're entering the golden age of #dataviz!
 365815741322240001  Aug  9 08:44  @kushan_s         RT @abresler: Thanks to #rstats gods like @ramnath_vaidya @Mike_Bostock @hadleywickham @timelyportfolio @thorei we're entering the golden age of #dataviz!
@@ -14552,11 +14555,13 @@
 365824348185042944  Aug  9 09:18  @JokeReumers      RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
 365824348185042944  Aug  9 09:18  @JokeReumers      RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
 365827145089564672  Aug  9 09:29  @yaacovp          Friday morning graphics: scatter of theta and efficiency conditional on speededness of response. #rstats http://t.co/KXWG2PrvIt
+365827533003964416  Aug  9 09:30  @rvidal           RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
 365827533003964416  Aug  9 09:30  @rvidal           RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
 365827920037560322  Aug  9 09:32  @Gliders_Coach    @wesmckinn hey Wes, have you thought about FOAS. It is here http://www.foastat.org/projects.html , could give Pandas more +1 in the #Rstats community -AJ
 365829061420924932  Aug  9 09:36  @theoneamit       RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
 365829328677769217  Aug  9 09:38  @romain_francois  RT @qethanm: Always a treat to hear @eddelbuettel talk R/C++/Rcpp (Chicago #rstats user group)
 365829518717497344  Aug  9 09:38  @romain_francois  RT @eddelbuettel: Minor maintenance release of our inline CRAN package for R: http://t.co/lyjg50OQhx #Rstats
+365838041136377856  Aug  9 10:12  @rOpenSci         RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
 365838041136377856  Aug  9 10:12  @rOpenSci         RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
 365839878690320386  Aug  9 10:19  @skardhamar       Google Developers R Programming Video Lectures - http://gettinggeneticsdone.blogspot.dk/2013/08/google-developers-r-programming-video.html #rstats
 365840953874980864  Aug  9 10:24  @zevkronenberg    Going to try Sweave today.  Hopefully I am a quick learner. Anyone have a good tutorial?    #Rstats
@@ -14564,6 +14569,7 @@
 365843251514712064  Aug  9 10:33  @michaelnute      RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
 365845117535404032  Aug  9 10:40  @Rbloggers        Data Scientists and Statisticians: Can’t We All Just Get Along:  (This article was first published o... http://bit.ly/15juBaM #rstats
 365846659063758849  Aug  9 10:46  @hadleywickham    RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://t.co/lt3MmsnYna
+365846659063758849  Aug  9 10:46  @hadleywickham    RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://timelyportfolio.blogspot.com/2013/08/r-on-your-iphone-not-way-you-think.html
 365850064846995456  Aug  9 11:00  @MacDiva          .@Google has a video series on R programming for beginners: http://j.mp/15UoGPs #rstats
 365850463461064704  Aug  9 11:02  @jczamora         .@Google has a video series on R programming for beginners: http://j.mp/15UoGPs h/t @MacDiva c. @GoogleLatam #journalism #rstats
 365852605383049216  Aug  9 11:10  @healthstatsdude  @mpmanti can't ya see it? PROC R... PROC PYTHON... er... ok, maybe not. #rstats #SAS #python #BASIC #punchcards
@@ -14571,20 +14577,25 @@
 365854553956032513  Aug  9 11:18  @maits            MT @jczamora: .@google has a video series on R programming for beginners: http://j.mp/15UoGPs h/t @MacDiva #journalism #rstats
 365856748071952384  Aug  9 11:27  @aDataHead        Google Developers #Rstats Programming Video Lectures http://feedly.com/k/11RwXAC
 365856990150397955  Aug  9 11:27  @benmarwick       @ProfessMoravec no worries, I'm sure we can. I only speak #rstats on weekends & public holidays!
+365865252979609601  Aug  9 12:00  @yannabraham      RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
 365865252979609601  Aug  9 12:00  @yannabraham      RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
+365865978225102848  Aug  9 12:03  @erikreyna        RT @MacDiva: .@Google has a video series on R programming for beginners: http://j.mp/15UoGPs #rstats
 365865978225102848  Aug  9 12:03  @erikreyna        RT @MacDiva: .@Google has a video series on R programming for beginners: http://t.co/SNbVa9fKo3 #rstats
 365866665486974980  Aug  9 12:06  @RLangTip         Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
 365869260494475265  Aug  9 12:16  @MattDabrowski    RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://t.co/aFuYGaxp52
 365874281940393985  Aug  9 12:36  @kushan_s         RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://t.co/lt3MmsnYna
 365874281940393985  Aug  9 12:36  @kushan_s         RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://timelyportfolio.blogspot.com/2013/08/r-on-your-iphone-not-way-you-think.html
+365877513852944386  Aug  9 12:49  @idigdata         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
 365877513852944386  Aug  9 12:49  @idigdata         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://t.co/Ue7Y2NPO2m
 365879068257837056  Aug  9 12:55  @caddymob         Starting to sorta grasp #ggplot2 + #reshap2, love it, DIG faceting! But scales can be full of #facepalm. #rstats http://t.co/zTx3OtFNkP
 365881465818447874  Aug  9 13:05  @orlandomezquita  Dual axis in #ggplot2: http://bit.ly/1cAVSgj #rstats
+365883160707350528  Aug  9 13:11  @mrgunn           RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
 365883160707350528  Aug  9 13:11  @mrgunn           RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
 365883533396426752  Aug  9 13:13  @chemstateric     RT @aDataHead: Google Developers #Rstats Programming Video Lectures http://feedly.com/k/11RwXAC
 365883533396426752  Aug  9 13:13  @chemstateric     RT @aDataHead: Google Developers #Rstats Programming Video Lectures http://t.co/Vr9hdEkybp
 365884191881183232  Aug  9 13:16  @eliazerk         RT @datagistips: How to choose a business location with #R http://blog.revolutionanalytics.com/2013/08/expansion-stay-or-move.html #rstats
 365884191881183232  Aug  9 13:16  @eliazerk         RT @datagistips: How to choose a business location with #R http://t.co/ap1bvJekLm #rstats
+365884262202871811  Aug  9 13:16  @trohil           RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
 365884262202871811  Aug  9 13:16  @trohil           RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://t.co/Ue7Y2NPO2m
 365889225691901953  Aug  9 13:36  @timelyportfolio  #d3 adds axis to #rstats #lattice plot of PIMCO Timely Portfolio: PIMCO Rolling Correl http://timelyportfolio.blogspot.com/2013/08/pimco-rolling-correlation-d3-r-gridsvg.html?spref=tw @ramnath_vaidya
 365897900850544640  Aug  9 14:10  @revodavid        Lots of great #rstats stories and resources on the blog last month. If you missed any, catch up in the July roundup: http://bit.ly/18hiK0X
@@ -14604,6 +14615,7 @@
 365936580390682625  Aug  9 16:44  @gawbul           @drtkeane @aaronquinlan Basic stats packages aren't enough in my view! Need to be able to manipulate & transform data! #Rstats or #Python!
 365943763471839232  Aug  9 17:12  @dannydb_stellar  RT @MacDiva: .@Google has a video series on R programming for beginners: http://j.mp/15UoGPs #rstats
 365943763471839232  Aug  9 17:12  @dannydb_stellar  RT @MacDiva: .@Google has a video series on R programming for beginners: http://t.co/SNbVa9fKo3 #rstats
+365944807580901379  Aug  9 17:16  @PPUAMX           RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
 365944807580901379  Aug  9 17:16  @PPUAMX           RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://t.co/aFuYGaxp52
 365954700819972096  Aug  9 17:56  @aparnellstats    Can any #rstats experts explain (in lt 140 chars) why 'names<-' is a viable replacement function but 'names=' isn't given that  '=' is fine?
 365956435072401409  Aug  9 18:03  @ucfagls          @aparnellstats because the function is actually named `names<-()` and there isn't one with name `names=()` #rstats
@@ -14612,9 +14624,11 @@
 365974955973824512  Aug  9 19:16  @alexleavitt      Twitter, I need some #Rstats and #ggplot2 help. Do you have any idea why one bar is grey, and how do I fix it? http://t.co/vPdkaOXVp8
 365976361547988994  Aug  9 19:22  @bkeegan          RT @alexleavitt: Twitter, I need some #Rstats and #ggplot2 help. Do you have any idea why one bar is grey, and how do I fix it? http://t.co/vPdkaOXVp8
 365977429170327552  Aug  9 19:26  @recology_        My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://bit.ly/13MT6RS
+365978139920302080  Aug  9 19:29  @openscience      RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://bit.ly/13MT6RS
 365978139920302080  Aug  9 19:29  @openscience      RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
 365980271759212544  Aug  9 19:37  @bwaber           RT @alexleavitt: Twitter, I need some #Rstats and #ggplot2 help. Do you have any idea why one bar is grey, and how do I fix it? http://t.co/vPdkaOXVp8
 365980278969204736  Aug  9 19:37  @TeachGuz         RT @alexleavitt: Twitter, I need some #Rstats and #ggplot2 help. Do you have any idea why one bar is grey, and how do I fix it? http://t.co/vPdkaOXVp8
+365981269617688576  Aug  9 19:41  @KTInvasion       RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://bit.ly/13MT6RS
 365981269617688576  Aug  9 19:41  @KTInvasion       RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
 365982489900105729  Aug  9 19:46  @yichuanw         #Rstats are amazing. Visualization software never was so accessible.
 365982838706810882  Aug  9 19:48  @berkeleymalagon  I wish #RStudio did model versioning. Detect my model objects, I hit "snapshot", & it pops into a list w/its performance metric #Rstats
@@ -14626,6 +14640,7 @@
 365993328992452609  Aug  9 20:29  @kara_woo         @hspter Would you particularly recommend any of these links for people coming to #rstats with no programming experience?
 365998320604291072  Aug  9 20:49  @caitpickens      @kara_woo I need #rstats too. Can I be in your class? Was planning on taking a MOOC
 365999215530360834  Aug  9 20:53  @recology_        +1 on this #rstats thought from @hspter http://bit.ly/15VWc5z
+365999369993986049  Aug  9 20:53  @ethanwhite       RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://bit.ly/13MT6RS
 365999369993986049  Aug  9 20:53  @ethanwhite       RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
 365999435785846784  Aug  9 20:54  @hspter           RT @recology_: +1 on this #rstats thought from @hspter http://bit.ly/15VWc5z
 365999435785846784  Aug  9 20:54  @hspter           RT @recology_: +1 on this #rstats thought from @hspter http://t.co/wyxFIiBMhi
@@ -14635,12 +14650,15 @@
 366054234271137792  Aug 10 00:31  @vijay_ivaturi    RT @recology_: +1 on this #rstats thought from @hspter http://bit.ly/15VWc5z
 366054234271137792  Aug 10 00:31  @vijay_ivaturi    RT @recology_: +1 on this #rstats thought from @hspter http://t.co/wyxFIiBMhi
 366056655093370881  Aug 10 00:41  @biogarage        RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366056655093370881  Aug 10 00:41  @biogarage        RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
 366069806270648323  Aug 10 01:33  @recology_        RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366069806270648323  Aug 10 01:33  @recology_        RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
 366070091982446593  Aug 10 01:34  @octonion         RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
 366070091982446593  Aug 10 01:34  @octonion         RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
 366071948238786561  Aug 10 01:42  @nickwan          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
 366071948238786561  Aug 10 01:42  @nickwan          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
 366072774701232129  Aug 10 01:45  @jmgomez          RT @DEAGiles: Help community: R &amp; social media by @burnsstat #RStats http://qndl.co/14ux5tw
+366077143987400704  Aug 10 02:02  @upLib            RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://bit.ly/13MT6RS
 366077143987400704  Aug 10 02:02  @upLib            RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
 366108583127035904  Aug 10 04:07  @sioma24          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
 366108583127035904  Aug 10 04:07  @sioma24          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
@@ -14649,11 +14667,13 @@
 366146928540528641  Aug 10 06:40  @seandavis12      RISmed: #Rstats package for #ncbi querying http://cran.r-project.org/web/packages/RISmed/index.html #bioinformatics
 366167490478350337  Aug 10 08:01  @quandl           Changepoint #analysis of time series | The DataMeister #RStats #Data http://qndl.co/17vGwE8
 366175187235901440  Aug 10 08:32  @rmflight         @zevkronenberg yes, it is an #rstats package. If you use #markdown, conversion can be fully cont. in #rstats
+366175918764457984  Aug 10 08:35  @rmflight         RT @recology_: +1 on this #rstats thought from @hspter http://bit.ly/15VWc5z
 366175918764457984  Aug 10 08:35  @rmflight         RT @recology_: +1 on this #rstats thought from @hspter http://t.co/wyxFIiBMhi
 366180493265350656  Aug 10 08:53  @LNdata           RT @MacDiva: .@Google has a video series on R programming for beginners: http://j.mp/15UoGPs #rstats
 366180493265350656  Aug 10 08:53  @LNdata           RT @MacDiva: .@Google has a video series on R programming for beginners: http://t.co/SNbVa9fKo3 #rstats
 366184877781045248  Aug 10 09:10  @josephwheatley   fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
 366198400724643840  Aug 10 10:04  @larysar          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366198400724643840  Aug 10 10:04  @larysar          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
 366229322601734144  Aug 10 12:07  @mjcavaretta      Great stuff 4 #dataviz & #rstats. RT @elizabethapitts: In NYC, newly released tax lot #opendata. #bigdata #analytics http://bit.ly/15leKbN
 366232593747804160  Aug 10 12:20  @ramnath_vaidya   RT @timelyportfolio: #d3 adds axis to #rstats #lattice plot of PIMCO Timely Portfolio: PIMCO Rolling Correl http://t.co/TxPQGDv8GX @ramnath_vaidya
 366232593747804160  Aug 10 12:20  @ramnath_vaidya   RT @timelyportfolio: #d3 adds axis to #rstats #lattice plot of PIMCO Timely Portfolio: PIMCO Rolling Correl http://timelyportfolio.blogspot.com/2013/08/pimco-rolling-correlation-d3-r-gridsvg.html?spref=tw @ramnath_vaidya
@@ -14672,6 +14692,7 @@
 366303186518147072  Aug 10 17:00  @pmangg           RT @statisticsblog: In case if you missed it: A summary of interest R articles from July. http://t.co/LmeVFG6kPQ #r #rstats
 366309204077723648  Aug 10 17:24  @MarkTabNet       RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://streaming.stat.iastate.edu/workshops/r-intro/lectures/6-advancedmanipulation.pdf
 366309204077723648  Aug 10 17:24  @MarkTabNet       RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
+366327408468574208  Aug 10 18:37  @CasalsTMarti     RT @statisticsblog: In case if you missed it: A summary of interest R articles from July. http://i.cx/14wnTSy #r #rstats
 366327408468574208  Aug 10 18:37  @CasalsTMarti     RT @statisticsblog: In case if you missed it: A summary of interest R articles from July. http://t.co/LmeVFG6kPQ #r #rstats
 366334317275783168  Aug 10 19:04  @gjhansen         “@statisticsblog In case if you missed it: A summary of interest R articles from July. http://i.cx/14wnTSy #r #rstats”
 366335222859571201  Aug 10 19:08  @tlmontana        Another interesting #rstats heatmap of China's transportation infrastructure: http://t.co/1QpSJTdKQz”  via @yichuanw #china #economy #macro
@@ -14687,6 +14708,7 @@
 366514444672565248  Aug 11 07:00  @silverlangur     #rstats Want to create new vector based on logical of other vectors. Am creating dummy vector then overwriting w logical.Seems inefficient?
 366515395932327937  Aug 11 07:04  @silverlangur     #rstats i.e.: a<-c(rep(1:4, 5)) b<-c(rep(1:5, 4)) c<-c(rep(1, 20)) for(i in 1:20){if((a[i]+b[i])>7) {c[i]<-"heaven"}else{c[i]<-"hell"}} c
 366518808090906625  Aug 11 07:17  @RevoAndrie       Revolution R is in the top 10 enterprise #analytics platforms  http://butleranalytics.com/2013/07/10-enterprise-predictive-analytics-compared-platforms/ #Rstats
+366519895304830976  Aug 11 07:22  @PageViral        RT @RevoAndrie: Revolution R is in the top 10 enterprise #analytics platforms  http://butleranalytics.com/2013/07/10-enterprise-predictive-analytics-compared-platforms/ #Rstats
 366519895304830976  Aug 11 07:22  @PageViral        RT @RevoAndrie: Revolution R is in the top 10 enterprise #analytics platforms  http://t.co/UzKr0YTtrS #Rstats
 366552334739849218  Aug 11 09:31  @marcosluis2186   Survival Analysis for #Marketing Attribution by @RevolutionR on @slideshare #Marketing #rstats #Analytics http://www.slideshare.net/RevolutionAnalytics/survival-analysis-for-marketing-attribution
 366554740538097664  Aug 11 09:40  @quandl           R around the world by @rapporters via @Scribd http://qndl.co/1ctm6Tf #RStats
@@ -14695,6 +14717,7 @@
 366571588671373314  Aug 11 10:47  @brianabelson     RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
 366582747638140928  Aug 11 11:31  @DEAGiles         RT @quandl: R around the world by @rapporters via @Scribd http://qndl.co/1ctm6Tf #RStats
 366582747638140928  Aug 11 11:31  @DEAGiles         RT @quandl: R around the world by @rapporters via @Scribd http://t.co/JCAkvyYFwU #RStats
+366595965597134850  Aug 11 12:24  @pschulam         RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://streaming.stat.iastate.edu/workshops/r-intro/lectures/6-advancedmanipulation.pdf
 366595965597134850  Aug 11 12:24  @pschulam         RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
 366611404763037697  Aug 11 13:25  @tdynes           RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
 366620237577199616  Aug 11 14:00  @Mlevinson_OR     RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
@@ -14719,6 +14742,7 @@
 366770392989310976  Aug 11 23:57  @emilyjanedennis  RT @tslumley: @phylorich @phylogenomics for #rstats there's also the 'dichromat' package.
 366770698674376709  Aug 11 23:58  @phylorich        RT @tslumley: @phylorich @phylogenomics for #rstats there's also the 'dichromat' package.
 366780531075059712  Aug 12 00:37  @CoolStatsBlog    Tried to plot #DJIA daily data from 1896 and R crashed! #Rstats
+366796909106565120  Aug 12 01:42  @chlalanne        RT @drago_carlo: R packages for Structural Equation Model http://pairach.com/2011/08/13/r-packages-for-structural-equation-model/ via @prismatic #Statistics #SEM #Modeling #Rstats
 366796909106565120  Aug 12 01:42  @chlalanne        RT @drago_carlo: R packages for Structural Equation Model http://t.co/xf9NOfKE65 via @prismatic #Statistics #SEM #Modeling #Rstats
 366808242904510464  Aug 12 02:27  @monsoontrader    PERMANOVA is witchcraft? Y/Y #stats #rstats
 366813460488667136  Aug 12 02:48  @abremges         RT @SAGRudd: RCircos: an #Rstats package for Circos 2D track plots @ http://t.co/zemFUEgvt4
@@ -14736,9 +14760,53 @@
 366851129788739584  Aug 12 05:18  @mgwhitfield      @sarahcpierce Just wait until you start making graphs - for the sake of it. That's when things have gone too far! #rstats
 366854438712918017  Aug 12 05:31  @Protohedgehog    @darkgabi Advice: get R Studio, and there's tonnes of help online, including the #rstats feed :)
 366863078492614656  Aug 12 06:05  @jaynal83         RT @josefslerka: 60+ R resources to improve your data skills #rstats http://bit.ly/19ccnNp
+366863078492614656  Aug 12 06:05  @jaynal83         RT @josefslerka: 60+ R resources to improve your data skills #rstats http://t.co/me9XceMklC
 366863589836992512  Aug 12 06:07  @rmounce          as(trees,"phylo") gives no method or default for coercing “multiPhylo” to “phylo” , solution is instead phy <- trees[[1]] for each #rstats
 366864020147408896  Aug 12 06:09  @Rbloggers        analyze the national plan and provider enumeration system (nppes) with r and monetdb:  (This article... http://bit.ly/14CJskp #rstats
 366870793520553986  Aug 12 06:36  @rapporters       New #rstats R User's Group in Budapest, Hungary: http://www.meetup.com/Budapest-Users-of-R-Network  Let's meet on the 30th of August!
 366877241671548928  Aug 12 07:02  @timelyportfolio  RT @SAGRudd: RCircos: an #Rstats package for Circos 2D track plots @ http://t.co/zemFUEgvt4
 366885713930756097  Aug 12 07:35  @rmounce          If I was cleverer, I'd read in just the trees I need. Alas it's simpler just to read them all in and eat up 2GB of RAM :/ #rstats
 366903169248264195  Aug 12 08:45  @RonDotsch        RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+366906945636020224  Aug 12 09:00  @statisticsblog   R tip of the day - Dashboards in R with Shiny and GoogleVis. http://i.cx/17HDkVU #r #rstats
+366908439336730627  Aug 12 09:06  @vijay_ivaturi    @rstudioapp can we setup our own syntax definition and code-completer for a software based on #rstats #rcpp  in the R-studio editor?
+366908827083354112  Aug 12 09:07  @MikeKSmith       I think I'm bumping into the limitations of trying to be agnostic about using Markdown vs Sweave: longtable #knitr #rstats #pandoc
+366910125820219394  Aug 12 09:12  @adolfoalvarez    RT @statisticsblog: R tip of the day - Dashboards in R with Shiny and GoogleVis. http://t.co/yBXGCEV6Qs #r #rstats
+366911231942074369  Aug 12 09:17  @hadleywickham    is there an easy way to find all S4 methods associated with a class? #rstats
+366917765556211712  Aug 12 09:43  @BigDataGal       RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
+366921372938674176  Aug 12 09:57  @recology_        samantha - builid static websites in #rstats from @dataJujitsu
+366922056908025856  Aug 12 10:00  @statisticsblog   Incomplete Data by Design: Bringing Machine Learning to Marketing Research. http://i.cx/17hTg25 #r #rstats #marketing
+366923526998999041  Aug 12 10:06  @rmflight         MT @recology_: samantha - builid static websites in #rstats from @dataJujitsu https://github.com/DASpringate/samatha?source=cc this looks cool!
+366924997316460546  Aug 12 10:11  @misternaxal      RT @recology_: samantha - builid static websites in #rstats from @dataJujitsu
+366925393325867009  Aug 12 10:13  @kevinkeenan_     @rstudioapp 's version control interface using #git is great. Really easy to use. No more excuses #Rstats
+366929056849084417  Aug 12 10:27  @RevoAndrie       MT @statisticsblog: Incomplete Data by Design: Bringing Machine Learning to Marketing Research. http://i.cx/17hTg25 #rstats #mr #newmr
+366930894776320000  Aug 12 10:35  @hadleywickham    RT @kevinkeenan_: @rstudioapp 's version control interface using #git is great. Really easy to use. No more excuses #Rstats
+366931404044500993  Aug 12 10:37  @idigdata         RT @Zementis: First #PMML talk at #KDD2013 by @DrAlexGuazzelli - Transformations Package for R http://t.co/YrkEQ7GeWS #rstats #bigdata #datamining
+366931749504155648  Aug 12 10:38  @joshua_ulrich    @hadleywickham FYI, it's similar to S3: methods(class="foo") #rstats
+366937926518571013  Aug 12 11:03  @lenwood          RT @kevinkeenan_: @rstudioapp 's version control interface using #git is great. Really easy to use. No more excuses #Rstats
+366941448563720193  Aug 12 11:17  @p5k12            RT @kevinkeenan_: @rstudioapp 's version control interface using #git is great. Really easy to use. No more excuses #Rstats
+366941509301440513  Aug 12 11:17  @ar_usergroup     Grupo de Estudio para "Computing for Data Analysis" @coursera http://www.linkedin.com/groups/aR-3984607  https://groups.google.com/group/ar-usergroup  #rstats
+366948056119259137  Aug 12 11:43  @treycausey       Don't see why every #rstats and Python tutorial for specific packages are prefaced with the 'Why R?' and cursory tutorial.
+366952364462194689  Aug 12 12:00  @csgillespie      October #rstats courses at Newcastle University, UK: http://www.ncl.ac.uk/maths/rcourse/
+366953690684338177  Aug 12 12:05  @RLangTip         On Windows, you can substitute forward slashes for backslashes in filenames (for convenience or portability): http://bit.ly/M6mDiL #rstats
+366955010149466112  Aug 12 12:11  @inside_R         #rstats R user group meetings this week: Melbourne, Singapore, Durham and St Paul http://bit.ly/9hVAPE
+366955541773287425  Aug 12 12:13  @statslabdublin   RT @csgillespie: October #rstats courses at Newcastle University, UK: http://t.co/YZqOtSKEFb
+366955589550616576  Aug 12 12:13  @cbahlai          Speaking of R- in a debate with a co-author on how to cite R. How do YOU cite R? #Rstats
+366956135841931264  Aug 12 12:15  @timelyportfolio  RT @rmflight: MT @recology_: samantha - builid static websites in #rstats from @dataJujitsu https://t.co/HN4w1IIh62 this looks cool!
+366959091098206208  Aug 12 12:27  @NHoughSnee       Once reviewed a paper & author couldn't change the analysis because he/she could not use R. Instead removed analysis #notahipster #rstats
+366959597514276866  Aug 12 12:29  @NHoughSnee       If you are using canned software, at least find a program that offers the alternative analyses reviewers might ask for #notahipster #Rstats
+366959662542766080  Aug 12 12:29  @rmounce          I naively thought #rstats treedist (phangorn) would be able to calculate 70,000 tree2tree dist calculations in reasonable time. I was wrong
+366959907708211201  Aug 12 12:30  @kushan_s         #rstats users : any good tutorials on data cleaning/munging techniques ? Would really appreciate.
+366967572945575937  Aug 12 13:01  @rmounce          .@ucfagls I'm thinking it could speeded-up with one of the apply's, RCPP and a more efficient way of storing the results #1stdraft #rstats
+366967740126334977  Aug 12 13:01  @rmounce          .@ucfagls oops forgot link https://gist.github.com/rossmounce/6212835 #1stdraft #rstats (yes it's very basic)
+366968386699280385  Aug 12 13:04  @metamattj        @rmounce Sounds inherently parallelizable. How many processors are you using? #rstats
+366968615964114946  Aug 12 13:05  @orlandomezquita  RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://bit.ly/11S5H4Q
+366968993082384384  Aug 12 13:06  @rmounce          @metamattj 1, in serial. Yes, problem very embarrasingly parallel. Could use upto 4 I guess. Never seen parallel code for #rstats tho
+366969913618870272  Aug 12 13:10  @metamattj        @rmounce Most universities have machines with 100's of cores available. A simple shell script will let you dole out the tasks. #rstats
+366971252130332674  Aug 12 13:15  @smarr            And again, it is time for one of those 'I hate R' tweets :( #IHate #R #RStats
+366972118698704897  Aug 12 13:19  @rmounce          @_inundata sheepishly provides link... https://gist.github.com/rossmounce/6212835  would def. be interested to see how to parallelize #rstats computations
+366972251658137603  Aug 12 13:19  @iHateRT          RT @smarr: And again, it is time for one of those 'I hate R' tweets :( #IHate #R #RStats
+366976079262515200  Aug 12 13:34  @recology_        Come to the #scioRData session at #scioClimate at 3:30 pm Thursday to learn/talk about working with science/climate data in #rstats
+366979073857167360  Aug 12 13:46  @psychemedia      if hacking raw d3.js seems like too much hard work (it is for me!;-) try climbing the d3.js stack http://bit.ly/143w9X3 #dataviz #rstats
+366988962859991041  Aug 12 14:26  @AliRebaie        You love D3.js? Learning javascript is your barrier to entry? This could help you climb the stack: http://shar.es/yzXls #dataviz #rstats
+366989882444353537  Aug 12 14:29  @cnrlwlss         RT @csgillespie: October #rstats courses at Newcastle University, UK: http://t.co/YZqOtSKEFb
+366994207736467457  Aug 12 14:46  @baogorek         Added 3 lines of R code for random effects estimates. It's all closed form with the right assumptions! #rstats https://gist.github.com/baogorek/6206949
