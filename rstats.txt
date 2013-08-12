@@ -14474,6 +14474,7 @@
 365578530806968320  Aug  8 17:01  @chlalanne        "Data Science MD July Recap: #python and #rstats Meetup" http://www.r-bloggers.com/data-science-md-july-recap-python-and-r-meetup/
 365581594041401345  Aug  8 17:13  @JodyEdmondson    #rstats How Khan Academy is using Machine Learning to Assess Student http://bit.ly/15gnXlu
 365584140533374976  Aug  8 17:23  @genetics_blog    #Rstats/#Bioconductor Software for Computing and Annotating Genomic Ranges http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003118#!@genetics_blopg
+365585829697032193  Aug  8 17:30  @cocoahn          RT @RLangTip: Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
 365585829697032193  Aug  8 17:30  @cocoahn          RT @RLangTip: Function to find the peaks in a time series: http://t.co/jTy8BgYUnk #rstats (via @therealprotonk)
 365586113777250304  Aug  8 17:31  @caseybergman     Software for Computing and Annotating Genomic Ranges (http://bit.ly/1bfVgeq) #rstats #bioinformatics
 365587738478641152  Aug  8 17:38  @RickSaporta      #rstats in browser courtesy of @vigyanik http://bit.ly/11PIOyV iPhone Safari:  http://ow.ly/i/2PuUl  Still far to go, but looking good!
@@ -14668,6 +14669,7 @@
 366291800660516865  Aug 10 16:15  @paulblaser       Are we in an Analytics Recession- a decline in SAS is a decline for all #rstats http://wp.me/p9q8Y-2Vf via @Gliders_Coach
 366295142547722240  Aug 10 16:29  @datalies         I learned to program the interwebs! http://nutwition.com @fmj30cal @jakeruss @hadleywickham @revodavid #rstats #shiny #ggplot2 #nutwition
 366303186518147072  Aug 10 17:00  @pmangg           RT @statisticsblog: In case if you missed it: A summary of interest R articles from July. http://t.co/LmeVFG6kPQ #r #rstats
+366309204077723648  Aug 10 17:24  @MarkTabNet       RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://streaming.stat.iastate.edu/workshops/r-intro/lectures/6-advancedmanipulation.pdf
 366309204077723648  Aug 10 17:24  @MarkTabNet       RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
 366327408468574208  Aug 10 18:37  @CasalsTMarti     RT @statisticsblog: In case if you missed it: A summary of interest R articles from July. http://t.co/LmeVFG6kPQ #r #rstats
 366334317275783168  Aug 10 19:04  @gjhansen         “@statisticsblog In case if you missed it: A summary of interest R articles from July. http://i.cx/14wnTSy #r #rstats”
@@ -14705,3 +14707,17 @@
 366675221903716353  Aug 11 17:39  @baogorek         Fitting a mixed effects model using matrix math and an optimizer in #rstats. Output matches lmer. See how it works: https://gist.github.com/baogorek/6206949
 366678156935053312  Aug 11 17:50  @tanichu          RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
 366690849251266561  Aug 11 18:41  @ramnarasimhan    Using #plyr & #ggplot to visualize Kasparov vs Karpov "winner-take-all" lifetime tallies http://datadoodlers.blogspot.com/2013/08/using-r-to-visualize-karpov-vs-kasparov.html #rstats #chess
+366728462578360322  Aug 11 21:10  @sbc111           RT @Piboonrungroj: Four more R packages for Structural Equation Model: http://t.co/VaiTGDo3 via @piboonrungroj #Rstats #sem #psychometrics #lavaan #lisrel
+366740978683486210  Aug 11 22:00  @SAGRudd          RCircos: an #Rstats package for Circos 2D track plots @ http://buff.ly/1cXUsg3
+366758119449169920  Aug 11 23:08  @drago_carlo      R packages for Structural Equation Model http://pairach.com/2011/08/13/r-packages-for-structural-equation-model/ via @prismatic #Statistics #SEM #Modeling #Rstats
+366762651923132418  Aug 11 23:26  @tslumley         @phylorich @phylogenomics for #rstats there's also the 'dichromat' package.
+366764146538184704  Aug 11 23:32  @phylogenomics    RT @tslumley: @phylorich @phylogenomics for #rstats there's also the 'dichromat' package.
+366767921214664705  Aug 11 23:47  @1896MarineBand   RT @tslumley: @phylorich @phylogenomics for #rstats there's also the 'dichromat' package.
+366769666644918275  Aug 11 23:54  @daniel2nico      RT @SAGRudd: RCircos: an #Rstats package for Circos 2D track plots @ http://t.co/zemFUEgvt4
+366770392989310976  Aug 11 23:57  @emilyjanedennis  RT @tslumley: @phylorich @phylogenomics for #rstats there's also the 'dichromat' package.
+366770698674376709  Aug 11 23:58  @phylorich        RT @tslumley: @phylorich @phylogenomics for #rstats there's also the 'dichromat' package.
+366780531075059712  Aug 12 00:37  @CoolStatsBlog    Tried to plot #DJIA daily data from 1896 and R crashed! #Rstats
+366796909106565120  Aug 12 01:42  @chlalanne        RT @drago_carlo: R packages for Structural Equation Model http://t.co/xf9NOfKE65 via @prismatic #Statistics #SEM #Modeling #Rstats
+366808242904510464  Aug 12 02:27  @monsoontrader    PERMANOVA is witchcraft? Y/Y #stats #rstats
+366813460488667136  Aug 12 02:48  @abremges         RT @SAGRudd: RCircos: an #Rstats package for Circos 2D track plots @ http://t.co/zemFUEgvt4
+366816077398810624  Aug 12 02:59  @josefslerka      60+ R resources to improve your data skills #rstats http://bit.ly/19ccnNp
