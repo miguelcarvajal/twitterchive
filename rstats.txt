@@ -14636,11 +14636,13 @@
 366056655093370881  Aug 10 00:41  @biogarage        RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
 366069806270648323  Aug 10 01:33  @recology_        RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
 366070091982446593  Aug 10 01:34  @octonion         RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366070091982446593  Aug 10 01:34  @octonion         RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
 366071948238786561  Aug 10 01:42  @nickwan          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
 366071948238786561  Aug 10 01:42  @nickwan          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
 366072774701232129  Aug 10 01:45  @jmgomez          RT @DEAGiles: Help community: R &amp; social media by @burnsstat #RStats http://qndl.co/14ux5tw
 366077143987400704  Aug 10 02:02  @upLib            RT @recology_: My talks at #esa2013: #openscience, #opensource, #rstats, #networks, #MD in a bitly bundle http://t.co/E1GHpT6bEn
 366108583127035904  Aug 10 04:07  @sioma24          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
+366108583127035904  Aug 10 04:07  @sioma24          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://www.coursera.org/course/compdata?sharebuttons_ref=gp
 366133231508135937  Aug 10 05:45  @jmgomez          RT @JodyEdmondson: #rstats How Khan Academy is using Machine Learning to Assess Student http://bit.ly/15gnXlu #datamining
 366135644646420481  Aug 10 05:55  @drago_carlo      Resources for learning R http://stats.stackexchange.com/questions/138/resources-for-learning-r via @prismatic @statsqa  #Statistics #MachineLearning #DataMining #Visualization #Rstats
 366146928540528641  Aug 10 06:40  @seandavis12      RISmed: #Rstats package for #ncbi querying http://cran.r-project.org/web/packages/RISmed/index.html #bioinformatics
@@ -14692,3 +14694,14 @@
 366595965597134850  Aug 11 12:24  @pschulam         RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
 366611404763037697  Aug 11 13:25  @tdynes           RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
 366620237577199616  Aug 11 14:00  @Mlevinson_OR     RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
+366639278052225024  Aug 11 15:16  @Zementis         First #PMML talk at #KDD2013 by @DrAlexGuazzelli - Transformations Package for R http://kdd13pmml.wordpress.com/workshop_agenda_and_papers/ #rstats #bigdata #datamining
+366641099063840768  Aug 11 15:23  @dirkvandenpoel   Alex (@DrAlexGuazzelli) from @Zementis presenting the pmmlTransformations #rstats package at #kdd2013 ... Impressive! http://4sq.com/13tdkwm
+366641477872394240  Aug 11 15:25  @marcosluis2186   RT @dirkvandenpoel: Alex (@DrAlexGuazzelli) from @Zementis presenting the pmmlTransformations #rstats package at #kdd2013 ... Impressive! http://t.co/qvFqSiTRga
+366644950085021696  Aug 11 15:39  @michaelzeller    RT @dirkvandenpoel: Alex (@DrAlexGuazzelli) from @Zementis presenting the pmmlTransformations #rstats package at #kdd2013 ... Impressive! http://t.co/qvFqSiTRga
+366646846342447104  Aug 11 15:46  @Rbloggers        Software carpentry:  (This article was first published on   Marginally significant » Rstats, and kin... http://bit.ly/1cqMXQN #rstats
+366647654945533952  Aug 11 15:49  @rafaldotnet      RT @kleinschmidt: slides from my tutorial at the LSA Institute on plyr for data analysis, exploration, and simulation in #Rstats http://t.co/MRRrGXl5H4
+366664110106095618  Aug 11 16:55  @hughparsonage    RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
+366670841737510912  Aug 11 17:21  @bad_lad          RT @statisticsblog: In case if you missed it: A summary of interest R articles from July. http://t.co/LmeVFG6kPQ #r #rstats
+366675221903716353  Aug 11 17:39  @baogorek         Fitting a mixed effects model using matrix math and an optimizer in #rstats. Output matches lmer. See how it works: https://gist.github.com/baogorek/6206949
+366678156935053312  Aug 11 17:50  @tanichu          RT @ProbFact: Distributions in #rstats http://t.co/WbD6txiBGe
+366690849251266561  Aug 11 18:41  @ramnarasimhan    Using #plyr & #ggplot to visualize Kasparov vs Karpov "winner-take-all" lifetime tallies http://datadoodlers.blogspot.com/2013/08/using-r-to-visualize-karpov-vs-kasparov.html #rstats #chess
