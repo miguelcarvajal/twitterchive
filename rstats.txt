@@ -14656,6 +14656,7 @@
 366198400724643840  Aug 10 10:04  @larysar          RT @KatherineMejia: Computing for Data Analysis #Rstats #coursera https://t.co/zhe6Fn2kbU
 366229322601734144  Aug 10 12:07  @mjcavaretta      Great stuff 4 #dataviz & #rstats. RT @elizabethapitts: In NYC, newly released tax lot #opendata. #bigdata #analytics http://bit.ly/15leKbN
 366232593747804160  Aug 10 12:20  @ramnath_vaidya   RT @timelyportfolio: #d3 adds axis to #rstats #lattice plot of PIMCO Timely Portfolio: PIMCO Rolling Correl http://t.co/TxPQGDv8GX @ramnath_vaidya
+366232593747804160  Aug 10 12:20  @ramnath_vaidya   RT @timelyportfolio: #d3 adds axis to #rstats #lattice plot of PIMCO Timely Portfolio: PIMCO Rolling Correl http://timelyportfolio.blogspot.com/2013/08/pimco-rolling-correlation-d3-r-gridsvg.html?spref=tw @ramnath_vaidya
 366238675199197184  Aug 10 12:44  @naupakaz         #ggplot2, meet d3 http://npk.io/Dh22 #rstats
 366239601876144128  Aug 10 12:48  @drdrewsteen      RT @naupakaz: #ggplot2, meet d3 http://npk.io/Dh22 #rstats
 366239601876144128  Aug 10 12:48  @drdrewsteen      RT @naupakaz: #ggplot2, meet d3 http://t.co/19vKmoe8vh #rstats
@@ -14692,6 +14693,7 @@
 366563829242527746  Aug 11 10:16  @hadleywickham    RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
 366564003335507968  Aug 11 10:17  @hadleywickham    RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
 366571588671373314  Aug 11 10:47  @brianabelson     RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
+366582747638140928  Aug 11 11:31  @DEAGiles         RT @quandl: R around the world by @rapporters via @Scribd http://qndl.co/1ctm6Tf #RStats
 366582747638140928  Aug 11 11:31  @DEAGiles         RT @quandl: R around the world by @rapporters via @Scribd http://t.co/JCAkvyYFwU #RStats
 366595965597134850  Aug 11 12:24  @pschulam         RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
 366611404763037697  Aug 11 13:25  @tdynes           RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
@@ -14721,3 +14723,22 @@
 366808242904510464  Aug 12 02:27  @monsoontrader    PERMANOVA is witchcraft? Y/Y #stats #rstats
 366813460488667136  Aug 12 02:48  @abremges         RT @SAGRudd: RCircos: an #Rstats package for Circos 2D track plots @ http://t.co/zemFUEgvt4
 366816077398810624  Aug 12 02:59  @josefslerka      60+ R resources to improve your data skills #rstats http://bit.ly/19ccnNp
+366822817116852225  Aug 12 03:25  @_Juhy            RT @josefslerka: 60+ R resources to improve your data skills #rstats http://t.co/me9XceMklC
+366825805986271233  Aug 12 03:37  @kayuri           RT @drago_carlo: R packages for Structural Equation Model http://t.co/xf9NOfKE65 via @prismatic #Statistics #SEM #Modeling #Rstats
+366833073033191425  Aug 12 04:06  @Rbloggers        Some belated spring cleaning:  (This article was first published on   tradeblotter » R, and kindly c... http://bit.ly/14nnMof #rstats
+366834539177316352  Aug 12 04:12  @adolfoalvarez    RT @drago_carlo: R packages for Structural Equation Model http://t.co/xf9NOfKE65 via @prismatic #Statistics #SEM #Modeling #Rstats
+366834557066018817  Aug 12 04:12  @adolfoalvarez    RT @Piboonrungroj: Four more R packages for Structural Equation Model: http://t.co/VaiTGDo3 via @piboonrungroj #Rstats #sem #psychometrics #lavaan #lisrel
+366837936123162624  Aug 12 04:25  @tomaskuzar       RT @josefslerka 60+ R resources to improve your data skills #rstats http://bit.ly/19ccnNp
+366839422118920195  Aug 12 04:31  @jmgomez          Approximate string matching in R http://ow.ly/20VqfG #rstats #textmining #nlproc
+366839484370788352  Aug 12 04:32  @adolfoalvarez    RT @josefslerka: 60+ R resources to improve your data skills #rstats http://t.co/me9XceMklC
+366841600002895873  Aug 12 04:40  @sarahcpierce     You know you've spent too much time in R studio when you hit cntl-R in your web browser #Rstats #toomuchR
+366847093723250688  Aug 12 05:02  @estebanmoro      RT @josefslerka: 60+ R resources to improve your data skills #rstats http://t.co/me9XceMklC
+366851129788739584  Aug 12 05:18  @mgwhitfield      @sarahcpierce Just wait until you start making graphs - for the sake of it. That's when things have gone too far! #rstats
+366854438712918017  Aug 12 05:31  @Protohedgehog    @darkgabi Advice: get R Studio, and there's tonnes of help online, including the #rstats feed :)
+366863078492614656  Aug 12 06:05  @jaynal83         RT @josefslerka: 60+ R resources to improve your data skills #rstats http://bit.ly/19ccnNp
+366863589836992512  Aug 12 06:07  @rmounce          as(trees,"phylo") gives no method or default for coercing “multiPhylo” to “phylo” , solution is instead phy <- trees[[1]] for each #rstats
+366864020147408896  Aug 12 06:09  @Rbloggers        analyze the national plan and provider enumeration system (nppes) with r and monetdb:  (This article... http://bit.ly/14CJskp #rstats
+366870793520553986  Aug 12 06:36  @rapporters       New #rstats R User's Group in Budapest, Hungary: http://www.meetup.com/Budapest-Users-of-R-Network  Let's meet on the 30th of August!
+366877241671548928  Aug 12 07:02  @timelyportfolio  RT @SAGRudd: RCircos: an #Rstats package for Circos 2D track plots @ http://t.co/zemFUEgvt4
+366885713930756097  Aug 12 07:35  @rmounce          If I was cleverer, I'd read in just the trees I need. Alas it's simpler just to read them all in and eat up 2GB of RAM :/ #rstats
+366903169248264195  Aug 12 08:45  @RonDotsch        RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
