@@ -14551,6 +14551,7 @@
 365816860970713090  Aug  9 08:48  @ty_tuff          RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
 365819334301458432  Aug  9 08:58  @isragaytan       RT @KirkDBorne: Time Series Analysis & #DataMining Lecture Slides: http://t.co/DZWkXXfq00 #Rstats #MachineLearning, Forecasting, Clustering, Classification
 365819334301458432  Aug  9 08:58  @isragaytan       RT @KirkDBorne: Time Series Analysis & #DataMining Lecture Slides: http://www.rdatamining.com/docs?utm_source=buffer&utm_campaign=Buffer&utm_content=bufferc5ff1&utm_medium=twitter #Rstats #MachineLearning, Forecasting, Clustering, Classification
+365821010647326720  Aug  9 09:05  @isragaytan       RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://bit.ly/18BBlp0 #rstats
 365821010647326720  Aug  9 09:05  @isragaytan       RT @revodavid: Tell your friends and coworkers about R with this 90-second video: http://t.co/XTOGfpsx7N #rstats
 365824348185042944  Aug  9 09:18  @JokeReumers      RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
 365824348185042944  Aug  9 09:18  @JokeReumers      RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://t.co/aSKOXx5Vt2. On CRAN: http://t.co/JSw12sKGUp
@@ -14582,6 +14583,7 @@
 365865978225102848  Aug  9 12:03  @erikreyna        RT @MacDiva: .@Google has a video series on R programming for beginners: http://j.mp/15UoGPs #rstats
 365865978225102848  Aug  9 12:03  @erikreyna        RT @MacDiva: .@Google has a video series on R programming for beginners: http://t.co/SNbVa9fKo3 #rstats
 365866665486974980  Aug  9 12:06  @RLangTip         Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+365869260494475265  Aug  9 12:16  @MattDabrowski    RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
 365869260494475265  Aug  9 12:16  @MattDabrowski    RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://t.co/aFuYGaxp52
 365874281940393985  Aug  9 12:36  @kushan_s         RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://t.co/lt3MmsnYna
 365874281940393985  Aug  9 12:36  @kushan_s         RT @genetics_blog: #Rstats and #ggplot2 on your iPhone (not what you think) http://timelyportfolio.blogspot.com/2013/08/r-on-your-iphone-not-way-you-think.html
@@ -14689,6 +14691,7 @@
 366290447854874626  Aug 10 16:10  @gjhansen         «@drago_carlo Resources for learning R http://bit.ly/19jAhdn #Rstats»
 366291800660516865  Aug 10 16:15  @paulblaser       Are we in an Analytics Recession- a decline in SAS is a decline for all #rstats http://wp.me/p9q8Y-2Vf via @Gliders_Coach
 366295142547722240  Aug 10 16:29  @datalies         I learned to program the interwebs! http://nutwition.com @fmj30cal @jakeruss @hadleywickham @revodavid #rstats #shiny #ggplot2 #nutwition
+366303186518147072  Aug 10 17:00  @pmangg           RT @statisticsblog: In case if you missed it: A summary of interest R articles from July. http://i.cx/14wnTSy #r #rstats
 366303186518147072  Aug 10 17:00  @pmangg           RT @statisticsblog: In case if you missed it: A summary of interest R articles from July. http://t.co/LmeVFG6kPQ #r #rstats
 366309204077723648  Aug 10 17:24  @MarkTabNet       RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://streaming.stat.iastate.edu/workshops/r-intro/lectures/6-advancedmanipulation.pdf
 366309204077723648  Aug 10 17:24  @MarkTabNet       RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
@@ -14719,6 +14722,7 @@
 366582747638140928  Aug 11 11:31  @DEAGiles         RT @quandl: R around the world by @rapporters via @Scribd http://t.co/JCAkvyYFwU #RStats
 366595965597134850  Aug 11 12:24  @pschulam         RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://streaming.stat.iastate.edu/workshops/r-intro/lectures/6-advancedmanipulation.pdf
 366595965597134850  Aug 11 12:24  @pschulam         RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
+366611404763037697  Aug 11 13:25  @tdynes           RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://streaming.stat.iastate.edu/workshops/r-intro/lectures/6-advancedmanipulation.pdf
 366611404763037697  Aug 11 13:25  @tdynes           RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
 366620237577199616  Aug 11 14:00  @Mlevinson_OR     RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
 366639278052225024  Aug 11 15:16  @Zementis         First #PMML talk at #KDD2013 by @DrAlexGuazzelli - Transformations Package for R http://kdd13pmml.wordpress.com/workshop_agenda_and_papers/ #rstats #bigdata #datamining
@@ -14791,6 +14795,7 @@
 366955010149466112  Aug 12 12:11  @inside_R         #rstats R user group meetings this week: Melbourne, Singapore, Durham and St Paul http://bit.ly/9hVAPE
 366955541773287425  Aug 12 12:13  @statslabdublin   RT @csgillespie: October #rstats courses at Newcastle University, UK: http://t.co/YZqOtSKEFb
 366955589550616576  Aug 12 12:13  @cbahlai          Speaking of R- in a debate with a co-author on how to cite R. How do YOU cite R? #Rstats
+366956135841931264  Aug 12 12:15  @timelyportfolio  RT @rmflight: MT @recology_: samantha - builid static websites in #rstats from @dataJujitsu https://github.com/DASpringate/samatha?source=cc this looks cool!
 366956135841931264  Aug 12 12:15  @timelyportfolio  RT @rmflight: MT @recology_: samantha - builid static websites in #rstats from @dataJujitsu https://t.co/HN4w1IIh62 this looks cool!
 366959091098206208  Aug 12 12:27  @NHoughSnee       Once reviewed a paper & author couldn't change the analysis because he/she could not use R. Instead removed analysis #notahipster #rstats
 366959597514276866  Aug 12 12:29  @NHoughSnee       If you are using canned software, at least find a program that offers the alternative analyses reviewers might ask for #notahipster #Rstats
@@ -14810,3 +14815,29 @@
 366988962859991041  Aug 12 14:26  @AliRebaie        You love D3.js? Learning javascript is your barrier to entry? This could help you climb the stack: http://shar.es/yzXls #dataviz #rstats
 366989882444353537  Aug 12 14:29  @cnrlwlss         RT @csgillespie: October #rstats courses at Newcastle University, UK: http://t.co/YZqOtSKEFb
 366994207736467457  Aug 12 14:46  @baogorek         Added 3 lines of R code for random effects estimates. It's all closed form with the right assumptions! #rstats https://gist.github.com/baogorek/6206949
+367002065505361920  Aug 12 15:18  @darrenjw         RT @csgillespie: October #rstats courses at Newcastle University, UK: http://t.co/YZqOtSKEFb
+367006075674820608  Aug 12 15:34  @noamross         How close are we to something like #ggplot(data, aes(x=x,y=y, animate=time) + ... and getting an animated (d3?) SVG? #rstats @hadleywickham
+367012735499780096  Aug 12 16:00  @hrbrmstr         R one-liner for reverse IP lookups for a list // sapply(ips, function(x) system(sprintf("dig -x %s +short",x), intern=TRUE)) #rstats
+367015441207541761  Aug 12 16:11  @MarkHornick      Blog post: Quick! Swap those models – I’ve got a better one https://blogs.oracle.com/R/entry/quick_swap_those_models_i #Oracle #OracleREnterprise #RStats
+367018144188993536  Aug 12 16:21  @Rbloggers        Variable importance in neural networks:  (This article was first published on   R is my friend » R, ... http://bit.ly/16bddeu #rstats
+367019758706626560  Aug 12 16:28  @DrQz             Visualizing neural networks using the nnet package in R http://wp.me/p2ZqvQ-7U #rstats
+367023627935678465  Aug 12 16:43  @quandl           Some Shiny stuff #RStats | Systematic Edge http://qndl.co/19egj01
+367025935620780032  Aug 12 16:52  @cocinerox        RT @rapporters: New #rstats R User's Group in Budapest, Hungary: http://t.co/OmK1Xv5w7C  Let's meet on the 30th of August!
+367028071624228865  Aug 12 17:01  @algaebarnacle    Best #rstats advice I can give: when in doubt, create a dummy data set and see if you can get things to work. Saves a lot of teeth-gnashing.
+367033502312562690  Aug 12 17:23  @rOpenSci         New v. of rplos, #rstats wrapper 2 the @PLOS search #API, sent 2 CRAN-should be up soon http://bit.ly/zWOXdi (note:ALM fxn now in pkg alm)
+367036231659438080  Aug 12 17:33  @Lewis_Lab        @bkoskella if you have numerical data, heatmapping + clustering in R #Rstats is fun
+367037381867606017  Aug 12 17:38  @revodavid        Beginners to R should check out this "Intro to R" video series from Google: http://bit.ly/120khaG #rstats
+367037519767937024  Aug 12 17:38  @data_wizard      RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
+367037888166236160  Aug 12 17:40  @GeneticSequence  RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
+367037939114856448  Aug 12 17:40  @mattVDiLeo       "RCircos: an R package for Circos 2D track plots!" (emphasis mine) #rstats #yam #genomics http://www.scoop.it/t/plant-breeding-and-genomics-news/p/4006004865/bmc-bioinformatics-abstract-rcircos-an-r-package-for-circos-2d-track-plots
+367041279437180928  Aug 12 17:53  @seannewman       RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
+367050279822573568  Aug 12 18:29  @noiano           RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
+367058128820375553  Aug 12 19:00  @Rbloggers        A Stata HTML syntax highlighter in R:  (This article was first published on   Econometrics by Simula... http://bit.ly/15wDNsc #rstats
+367059288629321728  Aug 12 19:05  @BulletCluster    RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
+367060735005691904  Aug 12 19:11  @AL4S_Rich        RT @kevinkeenan_: @rstudioapp 's version control interface using #git is great. Really easy to use. No more excuses #Rstats
+367063466290315264  Aug 12 19:22  @beroe            @hadleywickham Is multiplot recipe or gridExtras still best way to get custom layouts in #ggplot2? Wanting mfrow-type ability. #Rstats
+367067077355372546  Aug 12 19:36  @ChrisGandrud     RT @kevinkeenan_: @rstudioapp 's version control interface using #git is great. Really easy to use. No more excuses #Rstats
+367068099054288896  Aug 12 19:40  @AhmedMoustafa    Sweet! “@mattVDiLeo: "RCircos: an R package for Circos 2D track plots!" #rstats #yam #genomics http://www.scoop.it/t/plant-breeding-and-genomics-news/p/4006004865/bmc-bioinformatics-abstract-rcircos-an-r-package-for-circos-2d-track-plots” #dataviz #visualizer
+367068745698516992  Aug 12 19:43  @AdvBizAnalytics  Wellington R User Meeting. R code tips #Rstats. Thurs 15/8 from 5.30pm.  Presentations (MBIE & DOC) & discussion. Shirley@harmonic.co.nz.
+367080228533047296  Aug 12 20:28  @gappy3000        Why there are so few people claiming German is better than Italian, while so many say that, e.g., Python is better than #rstats? #getalife
+367082463505301504  Aug 12 20:37  @clarkfitzg       Started using Twitter's API with R to look at data for Cisco. So cool! #Rstats
