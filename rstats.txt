@@ -14841,3 +14841,19 @@
 367068745698516992  Aug 12 19:43  @AdvBizAnalytics  Wellington R User Meeting. R code tips #Rstats. Thurs 15/8 from 5.30pm.  Presentations (MBIE & DOC) & discussion. Shirley@harmonic.co.nz.
 367080228533047296  Aug 12 20:28  @gappy3000        Why there are so few people claiming German is better than Italian, while so many say that, e.g., Python is better than #rstats? #getalife
 367082463505301504  Aug 12 20:37  @clarkfitzg       Started using Twitter's API with R to look at data for Cisco. So cool! #Rstats
+367097755040096258  Aug 12 21:38  @BioLucash        RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
+367098381942136832  Aug 12 21:40  @NEdgingtonPhD    @chrisfall  Why? They both seem  v. good for #bioinformatics. I learned a bit of #perl, but I'm really enjoying #python much more. & #Rstats
+367098697337020417  Aug 12 21:42  @djhocking        "Don't want to just give away all these data that were so hard to collect." My response: but you use #opensource #rstats to analyze
+367100550766006272  Aug 12 21:49  @StephSchuttler   RT @djhocking: "Don't want to just give away all these data that were so hard to collect." My response: but you use #opensource #rstats to analyze
+367103090354167809  Aug 12 21:59  @bendmorris       RT @djhocking: "Don't want to just give away all these data that were so hard to collect." My response: but you use #opensource #rstats to analyze
+367109900855279616  Aug 12 22:26  @monsoontrader    RT @algaebarnacle: Best #rstats advice I can give: when in doubt, create a dummy data set and see if you can get things to work. Saves a lot of teeth-gnashing.
+367117683911045120  Aug 12 22:57  @gappy3000        and for those #rstats users with a python/functional bent, may I recommend vadr, by the excellent @perisaccadic https://github.com/crowding/vadr
+367123240239382529  Aug 12 23:19  @_rajesh_pitty    RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
+367125195254800384  Aug 12 23:27  @incantalupo      I could keep working on the answer key to this problem set or I could just make shit up. #Rstats #theyllneverknow
+367156063810093056  Aug 13 01:30  @DailyRpackage    LearnBayes - Functions for Learning Bayesian Inference http://cran.r-project.org/web/packages/LearnBayes/index.html #RStats
+367158213097291776  Aug 13 01:38  @askeluv          RT @DailyRpackage: LearnBayes - Functions for Learning Bayesian Inference http://t.co/JJzqgtPcCg #RStats
+367161831204192256  Aug 13 01:52  @isragaytan       RT @DailyRpackage: LearnBayes - Functions for Learning Bayesian Inference http://t.co/JJzqgtPcCg #RStats
+367161898648612864  Aug 13 01:53  @isragaytan       RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
+367162046904676352  Aug 13 01:53  @isragaytan       RT @DrQz: Visualizing neural networks using the nnet package in R http://t.co/Zsx1WkNMi4 #rstats
+367173192432885760  Aug 13 02:38  @recology_        RT @DrQz: Visualizing neural networks using the nnet package in R http://t.co/Zsx1WkNMi4 #rstats
+367176881235169280  Aug 13 02:52  @drago_carlo      Variable importance in neural networks http://www.r-bloggers.com/variable-importance-in-neural-networks/ via @prismatic #MachineLearning #DataMining #NeuralNetworks #Rstats
