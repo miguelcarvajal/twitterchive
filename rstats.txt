@@ -14857,3 +14857,14 @@
 367162046904676352  Aug 13 01:53  @isragaytan       RT @DrQz: Visualizing neural networks using the nnet package in R http://t.co/Zsx1WkNMi4 #rstats
 367173192432885760  Aug 13 02:38  @recology_        RT @DrQz: Visualizing neural networks using the nnet package in R http://t.co/Zsx1WkNMi4 #rstats
 367176881235169280  Aug 13 02:52  @drago_carlo      Variable importance in neural networks http://www.r-bloggers.com/variable-importance-in-neural-networks/ via @prismatic #MachineLearning #DataMining #NeuralNetworks #Rstats
+367185214453194752  Aug 13 03:25  @muratk3n         RT @djhocking: "Don't want to just give away all these data that were so hard to collect." My response: but you use #opensource #rstats to analyze
+367220734780637184  Aug 13 05:47  @ciaran_mc_c      loving how easily lm and combn functions in R make digital ad optimisation so much easier #rstats #R
+367233780756799488  Aug 13 06:38  @mikeloukides     Intro to R from Google #rstats  http://blog.revolutionanalytics.com/2013/08/google-video-r-tutorials.html
+367239062345617408  Aug 13 06:59  @ihansel          Introduction to Shiny presentation from Sydney R Meetup. Building Interactive Web Apps in R #rstats #shiny http://www.hanselsolutions.com/blog/surf-talk/shiny-surf.html
+367243519800258560  Aug 13 07:17  @drherryandmrone  Ok that's syntax function(arg1, ...) for optional arguments in #Rstats is just awesome
+367251817630941184  Aug 13 07:50  @johnros2013      The next Brian Ripley "only" needs to write stats and MASS #rstats packages for @JuliaLanguage.
+367256944257798144  Aug 13 08:10  @quandl           Coursera’s four week course in R by @revodavid #RStats http://qndl.co/1ctDx6a
+367258707186704384  Aug 13 08:17  @lgatt0           RT @DrQz: Visualizing neural networks using the nnet package in R http://t.co/Zsx1WkNMi4 #rstats
+367259569400983552  Aug 13 08:21  @adolfoalvarez    RT @ihansel: Introduction to Shiny presentation from Sydney R Meetup. Building Interactive Web Apps in R #rstats #shiny http://t.co/qWTEL252ca
+367263249269407744  Aug 13 08:35  @rmflight         RT @djhocking: "Don't want to just give away all these data that were so hard to collect." My response: but you use #opensource #rstats to analyze
+367264522626932737  Aug 13 08:41  @jmgomez          RT @hadleywickham: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://streaming.stat.iastate.edu/workshops/r-intro/lectures/6-advancedmanipulation.pdf
