@@ -14908,6 +14908,7 @@
 367340258637004800  Aug 13 13:41  @hspter           Does anyone know if it's possible to add commas to large numbers in knitr to make them more readable? #rstats
 367340611893854209  Aug 13 13:43  @corynissen       Real world #Rstats application (for the tweet classification). http://www.chicagotribune.com/health/ct-met-twitter-food-poisoning-20130809,0,2182345.story
 367340839606824961  Aug 13 13:44  @reedmonseur      RT @corynissen: Real world #Rstats application (for the tweet classification). http://t.co/TygTbZyFpO
+367344597594546176  Aug 13 13:59  @Tal_amable       RT @RLangTip: Command-line tools for debugging and tracing R code: http://bit.ly/LpxvWU #rstats
 367344597594546176  Aug 13 13:59  @Tal_amable       RT @RLangTip: Command-line tools for debugging and tracing R code: http://t.co/rlW8CS2iZp #rstats
 367361625814081537  Aug 13 15:06  @drcrosson        Customer service for @IBMSPSS is so poor it makes me wonder if they are TRYING to push me to use #Rstats exclusively.
 367371322654859264  Aug 13 15:45  @richmanmax       Nice! #Rstats reshape, too MT @worldbankdata: Wondering how to pivot #opendata? Here's Excel, @openrefine, #python http://wrld.bg/nT0LH
@@ -14947,3 +14948,28 @@
 367520032617529344  Aug 14 01:36  @Rbloggers        Visualizing Katrina’s strongest winds, with R:  (This article was first published on   Revolutions, ... http://bit.ly/14a5gAz #rstats
 367520033259266049  Aug 14 01:36  @Rbloggers        The Brand as Affordance: Item Response Modeling of Brand Perceptions:  (This article was first publi... http://bit.ly/14JKmf9 #rstats
 367533299465723904  Aug 14 02:29  @kevinkeenan_     Introduction to #Rstats @ 09:00 this morning in the MBC. TR1, ground floor. Come along if fresh air is not your thing #IMC11
+367544947404472320  Aug 14 03:15  @JodyEdmondson    nice! @chartio... Put a fork in ‘big data’ — it’s done | VentureBeat http://bit.ly/1cAkAjh #rstats
+367546217825189888  Aug 14 03:20  @geschichtenpost  never heard of http://tryr.codeschool.com/ but looks like a good resource on #rstats. ht @richardtol
+367554909052235777  Aug 14 03:54  @geospacedman     I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367555470552088576  Aug 14 03:57  @ChrisGandrud     RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367557201755258880  Aug 14 04:04  @naupakaz         #hipsteRgraphics RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367559000486719488  Aug 14 04:11  @romunov          RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367567682863788032  Aug 14 04:45  @v_kupriyanov     Google releases a series of 21videos about R: Intro to R http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP #Rstats
+367579730590986241  Aug 14 05:33  @PLOSCompBiol     RT @Bioconductor: #Bioconductor / #rstats #PLOSCompBio: Software for Computing and Annotating Genomic Ranges http://dx.plos.org/10.1371/journal.pcbi.1003118
+367594529546727424  Aug 14 06:32  @MangoTheCat      RT @v_kupriyanov: Google releases a series of 21videos about R: Intro to R http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP #Rstats
+367595346676838402  Aug 14 06:35  @jeffreyhorner    RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367602885703774208  Aug 14 07:05  @davdittrich      Introduction to R, a video series by Google http://ow.ly/216Azw #rstats
+367607243547480064  Aug 14 07:22  @thingt           Hoho. Bakal sedap. RT @bdhary: Weh? Ada? "@RLangTip: Command-line tools for debugging and tracing R code: http://bit.ly/LpxvWU #rstats"
+367607579255402497  Aug 14 07:24  @kayuri           RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367607841978200064  Aug 14 07:25  @ErynMcFarlane    What was I trying to do power analyses for again? I feel like a dog who caught a car: what now? #Rstats #gradschool #probablyusefulresearch
+367609287465390081  Aug 14 07:30  @Rbloggers        predictNLS (Part 1, Monte Carlo simulation): confidence intervals for ‘nls’ models:  (This article w... http://bit.ly/16jzTt2 #rstats
+367612678459490304  Aug 14 07:44  @DiffusePrioR     Can anyone solve this spatial #econometrics puzzle? http://stats.stackexchange.com/questions/67376/endogeneity-in-spatially-lagged-regression-model #rstats
+367616540503318528  Aug 14 07:59  @neilfws          Temporal visualization of records of IndianMoths project using bdvis: http://wp.me/p2AUhF-3W #rstats
+367621489564332032  Aug 14 08:19  @grserrano_       RT @tanyacash21: This is happening very soon: http://trestletechnology.net/2013/02/deploying-shiny-server-on-amazon-ec2/ #rstats #aws #shiny #fantasyfootball
+367621590739320832  Aug 14 08:19  @tasdemirm        RT @DiffusePrioR: Can anyone solve this spatial #econometrics puzzle? http://stats.stackexchange.com/questions/67376/endogeneity-in-spatially-lagged-regression-model #rstats
+367630417119043584  Aug 14 08:54  @carlislerainey   Powertip: RStudio doesn't work if you don't have R installed. #rstats
+367630752433061889  Aug 14 08:56  @masemresearch    Harvard School of Public Health » Miguel Hernan » Causal Inference Book #rstats | @scoopit http://sco.lt/824nyr
+367631233682915328  Aug 14 08:58  @hadleywickham    RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367631247528308736  Aug 14 08:58  @M_T_Patterson    RT @masemresearch: Harvard School of Public Health » Miguel Hernan » Causal Inference Book #rstats | @scoopit http://sco.lt/824nyr
+367631385731035136  Aug 14 08:58  @acepor           RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367631457792950272  Aug 14 08:59  @monsoontrader    #HipsteRstats RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
