@@ -14821,6 +14821,7 @@
 366979073857167360  Aug 12 13:46  @psychemedia      if hacking raw d3.js seems like too much hard work (it is for me!;-) try climbing the d3.js stack http://bit.ly/143w9X3 #dataviz #rstats
 366988962859991041  Aug 12 14:26  @AliRebaie        You love D3.js? Learning javascript is your barrier to entry? This could help you climb the stack: http://shar.es/yzXls #dataviz #rstats
 366989882444353537  Aug 12 14:29  @cnrlwlss         RT @csgillespie: October #rstats courses at Newcastle University, UK: http://t.co/YZqOtSKEFb
+366989882444353537  Aug 12 14:29  @cnrlwlss         RT @csgillespie: October #rstats courses at Newcastle University, UK: http://www.ncl.ac.uk/maths/rcourse/
 366994207736467457  Aug 12 14:46  @baogorek         Added 3 lines of R code for random effects estimates. It's all closed form with the right assumptions! #rstats https://gist.github.com/baogorek/6206949
 367002065505361920  Aug 12 15:18  @darrenjw         RT @csgillespie: October #rstats courses at Newcastle University, UK: http://t.co/YZqOtSKEFb
 367006075674820608  Aug 12 15:34  @noamross         How close are we to something like #ggplot(data, aes(x=x,y=y, animate=time) + ... and getting an animated (d3?) SVG? #rstats @hadleywickham
@@ -14973,3 +14974,90 @@
 367631247528308736  Aug 14 08:58  @M_T_Patterson    RT @masemresearch: Harvard School of Public Health » Miguel Hernan » Causal Inference Book #rstats | @scoopit http://sco.lt/824nyr
 367631385731035136  Aug 14 08:58  @acepor           RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
 367631457792950272  Aug 14 08:59  @monsoontrader    #HipsteRstats RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367633375743324160  Aug 14 09:06  @monkmanmh        RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367633403442909185  Aug 14 09:06  @GregKapfhammer   QT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367635839829803008  Aug 14 09:16  @datennutzen      Arbeitslosenstatistik in Deutschland mit #rstats analysieren via @datamarket http://bit.ly/19sJyQq http://t.co/x9zaUh6W18
+367636841165766657  Aug 14 09:20  @axelopp          RT @datennutzen: Arbeitslosenstatistik in Deutschland mit #rstats analysieren via @datamarket http://bit.ly/19sJyQq http://t.co/x9zaUh6W18
+367639110208737280  Aug 14 09:29  @rystanman        How have I not known capture.output fuctn? Now anova tables are much easier to save. capture.output(summary(fit),file="output.doc") #Rstats
+367641967745708032  Aug 14 09:40  @M_T_Patterson    RT @ihansel: Introduction to Shiny presentation from Sydney R Meetup. Building Interactive Web Apps in R #rstats #shiny http://t.co/qWTEL252ca
+367645773460041728  Aug 14 09:55  @gjreda           It's pretty sad that I can create a histogram in #rstats quicker than in Excel, even though the data's already there.
+367647388107685888  Aug 14 10:02  @Timcammm         Aus employment monthly flows presented in a Shiny app. #Rstats http://spark.rstudio.com/tim/AusEmploymentFlows/ @khakieconomist @ricardianambiva @MattCowgill
+367648422536310784  Aug 14 10:06  @recology_        RT @gjreda: It's pretty sad that I can create a histogram in #rstats quicker than in Excel, even though the data's already there.
+367648969469341697  Aug 14 10:08  @JeffHemsley      The range of niftyness you do with #rstats is amazing. Thanks @josephwheatley for http://t.co/FdFDhBBF8x
+367649917893767169  Aug 14 10:12  @timelyportfolio  #gridSVG #lattice Multi-line Data Bind with #d3js | US Tsy Yield http://timelyportfolio.blogspot.com/2013/08/gridsvg-multi-line-data-bind-with-d3us.html?spref=tw     #rstats http://t.co/ixUsgbhBTC
+367650418500702208  Aug 14 10:14  @AhmedMoustafa    #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367650646939295745  Aug 14 10:15  @adolfoalvarez    RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367650982731059201  Aug 14 10:16  @timelyportfolio  RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367651590305357825  Aug 14 10:19  @ConstanceM       RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367651932971610112  Aug 14 10:20  @datalies         @JakeRuss yep. You'll need the RCurl and rjson libraries. #Rstats
+367653333705576448  Aug 14 10:26  @monsoontrader    So this clustering method is really fuckin' cool http://www2.warwick.ac.uk/fac/sci/dcs/research/combi/seminars/freydueck_affinitypropagation_science2007.pdf #rstats #APCluster
+367653816671297537  Aug 14 10:27  @hadleywickham    How well do you understand S3 method dispatch? Test yourself with these brainteasers: https://gist.github.com/hadley/6231558 #rstats
+367654685483601920  Aug 14 10:31  @dirkvandenpoel   Nice to see that Hal Varian (Chief Economist at Google) is a heavy R user (#Rstats): He mentioned stl and bsts R packages at #kdd2013
+367654790857125889  Aug 14 10:31  @PaulJames379     RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://bit.ly/120khaG #rstats
+367656523024973826  Aug 14 10:38  @econoprof        Looking for advice on #Rstats setup. Need to tell my campus IT folks what to install for working with SPSS programming.
+367656968086769665  Aug 14 10:40  @MangoTheCat      RT @dirkvandenpoel: Nice to see that Hal Varian (Chief Economist at Google) is a heavy R user (#Rstats): He mentioned stl and bsts R packages at #kdd2013
+367658236503007232  Aug 14 10:45  @MMA_CRM          RT @dirkvandenpoel: Nice to see that Hal Varian (Chief Economist at Google) is a heavy R user (#Rstats): He mentioned stl and bsts R packages at #kdd2013
+367658905481928704  Aug 14 10:48  @HIR_ME           RT @dirkvandenpoel: Nice to see that Hal Varian (Chief Economist at Google) is a heavy R user (#Rstats): He mentioned stl and bsts R packages at #kdd2013
+367659389940809729  Aug 14 10:50  @hadleywickham    RT @dirkvandenpoel: Nice to see that Hal Varian (Chief Economist at Google) is a heavy R user (#Rstats): He mentioned stl and bsts R packages at #kdd2013
+367660888276209664  Aug 14 10:56  @ar_usergroup     II Encuentro del Grupo de Usuarios R Argentina - Fechas Confirmadas: 14 y 15 de Noviembre de 18 a 22hs. http://ar.i314.com.ar/ #rstats
+367661233995911168  Aug 14 10:57  @ar_usergroup     El 14/11 charlas relacionadas con: Finanzas, Data Mining, Social Network Analysis. El 15/11: Bioinformatica http://ar.i314.com.ar/ #rstats
+367661367861342208  Aug 14 10:57  @revodavid        RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367661728818929664  Aug 14 10:59  @jayjacobs        RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367662037775941632  Aug 14 11:00  @cdubhland        RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367662449702342656  Aug 14 11:02  @geospacedman     RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367663853263282176  Aug 14 11:07  @healthstatsdude  RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+367664584078794752  Aug 14 11:10  @stevepiccolo     I must not know the best way work with data frames in #Rstats because they annoy me.
+367664690853187584  Aug 14 11:11  @denisparra       RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367665338621517824  Aug 14 11:13  @elehack          RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367665914080018432  Aug 14 11:15  @vijay_ivaturi    RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367666676663599104  Aug 14 11:19  @davekincaid      RT @dirkvandenpoel: Nice to see that Hal Varian (Chief Economist at Google) is a heavy R user (#Rstats): He mentioned stl and bsts R packages at #kdd2013
+367666807470964737  Aug 14 11:19  @BigDataGal       Geospatial data mining techniques described #datascience #GIS #rstats http://t.co/BqbmNFI2Gj
+367667284635955201  Aug 14 11:21  @RevoAndrie       RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367668438241923073  Aug 14 11:26  @YvesMulkers      RT @BigDataGal: Geospatial data mining techniques described #datascience #GIS #rstats http://t.co/BqbmNFI2Gj
+367668976861454336  Aug 14 11:28  @INOMICS          RT @davdittrich: Introduction to R, a video series by Google http://ow.ly/216Azw #rstats
+367669999902531584  Aug 14 11:32  @egwada           RT @BigDataGal: Geospatial data mining techniques described #datascience #GIS #rstats http://t.co/BqbmNFI2Gj
+367670708266340352  Aug 14 11:35  @quandl           10 #Data books for enthusiasts by @YhatHQ via @data_nerd http://qndl.co/1buZGxS  #analytics #Rstats
+367672356879097856  Aug 14 11:41  @lgatt0           RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367675357451022336  Aug 14 11:53  @CourtneyMarne    Woah, that #Rstats workshop was amazing! Mind = blown #IMC11
+367675625794207744  Aug 14 11:54  @wafuqua          RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367677039811129344  Aug 14 12:00  @statisticsblog   R tip of the day - representing temporal data with graphics in R. http://i.cx/14y2hkX #r #rstats #graphics
+367677120572448768  Aug 14 12:00  @ramnath_vaidya   Want to learn more about Slidify and rCharts? Attend my talk on Aug 19th in Washington DC http://meetu.ps/1XrcGl #rstats #dataviz
+367677242039881728  Aug 14 12:01  @DavidMarneweck   “@CourtneyMarne: Woah, that #Rstats workshop was amazing! Mind = blown #IMC11” agreed! Thanks to Chris Johnstone! #monash
+367678551581270016  Aug 14 12:06  @RLangTip         Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
+367679660802334720  Aug 14 12:10  @bdhary           "@RLangTip: Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)"
+367680336979042304  Aug 14 12:13  @DesignerX_       RT @statisticsblog: R tip of the day - representing temporal data with graphics in R. http://i.cx/14y2hkX #r #rstats #graphics
+367680755188891648  Aug 14 12:14  @fbravo_SFM       RT @RLangTip: Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
+367681294542442496  Aug 14 12:17  @pstyd            RT @RLangTip: Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
+367681357666734081  Aug 14 12:17  @ericnovik        Anyone going to the World Statistics Congress in Hong Kong this August? http://www.isi2013.hk/en/index.php #Rstats
+367681385429229568  Aug 14 12:17  @tbrittoborges    RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367681385441820672  Aug 14 12:17  @mithrado         RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367682652192518144  Aug 14 12:22  @deronaucoin      RT @RLangTip: Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
+367690186181709825  Aug 14 12:52  @KirkDBorne       HT @revodavid > check out "Intro to R" video series from Google: http://bit.ly/120khaG #Rstats for predictive #analytics, #DataScience,...
+367690271158308864  Aug 14 12:52  @JamesMeadow      HA!! RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/XewBOykRtt
+367691017622798336  Aug 14 12:55  @EternalAcademe   RT @JamesMeadow: HA!! RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/XewBOykRtt
+367692137938178049  Aug 14 13:00  @statisticsblog   Stocks and Bonds Behavior by Decade (with some cool visuals). http://i.cx/14L9thv #r #rstats #ggplot #finance
+367692305232584705  Aug 14 13:00  @mdgale           RT @statisticsblog: Stocks and Bonds Behavior by Decade (with some cool visuals). http://i.cx/14L9thv #r #rstats #ggplot #finance
+367692378989006848  Aug 14 13:01  @bioinfosm        #Rstats Software for Computing and Annotating Genomic Ranges http://dx.plos.org/10.1371/journal.pcbi.1003118 @PLOSCompBio #bioconductor #genomics
+367694035294892032  Aug 14 13:07  @ivanh            RT @KirkDBorne: HT @revodavid > check out "Intro to R" video series from Google: http://bit.ly/120khaG #Rstats for predictive #analytics, #DataScience,...
+367694760229613569  Aug 14 13:10  @Rbloggers        How do I re-arrange??: Ordering a plot revisited:  (This article was first published on   TRinker's ... http://bit.ly/14Lxghx #rstats
+367696232300290048  Aug 14 13:16  @StatsInTheWild   RT @JamesMeadow: HA!! RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/XewBOykRtt
+367696312504156160  Aug 14 13:16  @alexhanna        RT @JamesMeadow: HA!! RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/XewBOykRtt
+367697928531365889  Aug 14 13:23  @SarahSyrphid     Not sure why I get a different nestedness temperature from networklevel.  Had been using bipartite (based on binmatnest) #rstats
+367698343050633216  Aug 14 13:24  @CasalsTMarti     RT @statisticsblog: R tip of the day - representing temporal data with graphics in R. http://i.cx/14y2hkX #r #rstats #graphics
+367699852336959488  Aug 14 13:30  @datalies         Somebody smarter than I needs to create project like Libre Office, but only the spreadsheets... and #Rstats powers it.
+367700668863111168  Aug 14 13:34  @TrevorABranch    .No no no @PLOSONE: my Figs 5b-d completely missing from publication. My #Rstats masterpieces gone, see attached 5a http://t.co/4hBNBtdaFs
+367702070524014592  Aug 14 13:39  @UW_CoEnv         RT @TrevorABranch: .No no no @PLOSONE: my Figs 5b-d completely missing from publication. My #Rstats masterpieces gone, see attached 5a http://t.co/4hBNBtdaFs
+367702325995249664  Aug 14 13:40  @quandl           New tutorial on introductory #econometrics using Quandl & R http://qndl.co/18q58QZ #Rstats
+367705059607719936  Aug 14 13:51  @tobiasedman      RT @BigDataGal: Geospatial data mining techniques described #datascience #GIS #rstats http://t.co/BqbmNFI2Gj
+367706978421719040  Aug 14 13:59  @kognitio         Demo of MPP iterative product forecasting, using #RStats - the statistical language of choice http://www.kognitio.com/mpp_r/
+367707280772329472  Aug 14 14:00  @statisticsblog   R for marketers - Item Response Modeling of Brand Perceptions. http://i.cx/1cBI33B #r #rstats #marketing
+367708247383232512  Aug 14 14:04  @oceansresearch   Sorry about the glitch, @TrevorABranch @PLOSONE, but that is one beautiful plot. You did this all in #Rstats, not GIS?
+367709430529261568  Aug 14 14:08  @erikriverson     RT @dirkvandenpoel: Nice to see that Hal Varian (Chief Economist at Google) is a heavy R user (#Rstats): He mentioned stl and bsts R packages at #kdd2013
+367710419114131456  Aug 14 14:12  @InforA           RT @statisticsblog: R for marketers - Item Response Modeling of Brand Perceptions. http://i.cx/1cBI33B #r #rstats #marketing
+367710526727401472  Aug 14 14:13  @TrevorABranch    @oceansresearch @PLOSONE All in #Rstats not GIS. @sean_anderson and Cole Monnahan can do even more beautiful map plots than this
+367711326597963776  Aug 14 14:16  @GueyeNono        10 books for data enthusiasts http://blog.yhathq.com/posts/ten-data-books.html #data #Rstats
+367711412002373632  Aug 14 14:16  @GueyeNono        RT @quandl: New tutorial on introductory #econometrics using Quandl & R http://qndl.co/18q58QZ #Rstats
+367711487043055616  Aug 14 14:17  @StandishPromo    RT @statisticsblog: R for marketers - Item Response Modeling of Brand Perceptions. http://i.cx/1cBI33B #r #rstats #marketing
+367714541884289024  Aug 14 14:29  @oazarate         RT: @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ  #rstats
+367716859719598080  Aug 14 14:38  @hongqin          RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367720605610541056  Aug 14 14:53  @marutterstat     @rstudioapp When making a presentation in RStudio, how do I center a plot in the slide? #Rstats
