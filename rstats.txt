@@ -14771,6 +14771,7 @@
 366863589836992512  Aug 12 06:07  @rmounce          as(trees,"phylo") gives no method or default for coercing “multiPhylo” to “phylo” , solution is instead phy <- trees[[1]] for each #rstats
 366864020147408896  Aug 12 06:09  @Rbloggers        analyze the national plan and provider enumeration system (nppes) with r and monetdb:  (This article... http://bit.ly/14CJskp #rstats
 366870793520553986  Aug 12 06:36  @rapporters       New #rstats R User's Group in Budapest, Hungary: http://www.meetup.com/Budapest-Users-of-R-Network  Let's meet on the 30th of August!
+366877241671548928  Aug 12 07:02  @timelyportfolio  RT @SAGRudd: RCircos: an #Rstats package for Circos 2D track plots @ http://buff.ly/1cXUsg3
 366877241671548928  Aug 12 07:02  @timelyportfolio  RT @SAGRudd: RCircos: an #Rstats package for Circos 2D track plots @ http://t.co/zemFUEgvt4
 366885713930756097  Aug 12 07:35  @rmounce          If I was cleverer, I'd read in just the trees I need. Alas it's simpler just to read them all in and eat up 2GB of RAM :/ #rstats
 366903169248264195  Aug 12 08:45  @RonDotsch        RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://t.co/dAkcNGgsgy #rstats
@@ -14838,6 +14839,7 @@
 367050279822573568  Aug 12 18:29  @noiano           RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://bit.ly/120khaG #rstats
 367050279822573568  Aug 12 18:29  @noiano           RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
 367058128820375553  Aug 12 19:00  @Rbloggers        A Stata HTML syntax highlighter in R:  (This article was first published on   Econometrics by Simula... http://bit.ly/15wDNsc #rstats
+367059288629321728  Aug 12 19:05  @BulletCluster    RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://bit.ly/120khaG #rstats
 367059288629321728  Aug 12 19:05  @BulletCluster    RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
 367060735005691904  Aug 12 19:11  @AL4S_Rich        RT @kevinkeenan_: @rstudioapp 's version control interface using #git is great. Really easy to use. No more excuses #Rstats
 367063466290315264  Aug 12 19:22  @beroe            @hadleywickham Is multiplot recipe or gridExtras still best way to get custom layouts in #ggplot2? Wanting mfrow-type ability. #Rstats
@@ -14903,3 +14905,22 @@
 367340611893854209  Aug 13 13:43  @corynissen       Real world #Rstats application (for the tweet classification). http://www.chicagotribune.com/health/ct-met-twitter-food-poisoning-20130809,0,2182345.story
 367340839606824961  Aug 13 13:44  @reedmonseur      RT @corynissen: Real world #Rstats application (for the tweet classification). http://t.co/TygTbZyFpO
 367344597594546176  Aug 13 13:59  @Tal_amable       RT @RLangTip: Command-line tools for debugging and tracing R code: http://t.co/rlW8CS2iZp #rstats
+367361625814081537  Aug 13 15:06  @drcrosson        Customer service for @IBMSPSS is so poor it makes me wonder if they are TRYING to push me to use #Rstats exclusively.
+367371322654859264  Aug 13 15:45  @richmanmax       Nice! #Rstats reshape, too MT @worldbankdata: Wondering how to pivot #opendata? Here's Excel, @openrefine, #python http://wrld.bg/nT0LH
+367371440317669376  Aug 13 15:45  @abresler         I HATE baseball but thanks to some #rstats I now know that Deacon Mcguire played 31 years of pro-ball a crazy feat!! http://www.baseball-reference.com/players/m/mcguide01.shtml
+367373485682601984  Aug 13 15:53  @m_n_2_2_2_2_222  RT @ihansel: Introduction to Shiny presentation from Sydney R Meetup. Building Interactive Web Apps in R #rstats #shiny http://t.co/qWTEL252ca
+367382710026649600  Aug 13 16:30  @kevinkeenan_     @thonoir It's excellent too. #Rstats Enjoying #IMC11 ? Very good coffee :-)
+367383658652377088  Aug 13 16:34  @TATA_BOX         Variable importance in neural networks | (R news & tutorials) http://www.r-bloggers.com/variable-importance-in-neural-networks/ #rstats
+367400984731213824  Aug 13 17:43  @kevinkeenan_     Not visiting NI's beautiful countryside tomorrow? Come along to 'Intro to #RStats ' workshop in TR1 in the MBC on Lisburn Rd 9am. #IMC11
+367401328516931584  Aug 13 17:44  @neilfws          Just For Kicks: An Analysis of the Kicking Statistics in AFL http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-analysis-of-the-kicking-statistics-in-afl.html #rstats #ggplot2
+367401718679470080  Aug 13 17:46  @measurefuture    Cool RT @usujason: Intro to R YouTube series [21 videos 1 hour, 7 minutes] https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP #rstats
+367401772773412864  Aug 13 17:46  @revodavid        Sobering visualization of Katrina's strongest winds, by @ricobert1: http://bit.ly/13yqfx3 . Elegant use of hexbin plots in #rstats.
+367402048993505281  Aug 13 17:47  @thonoir          RT @kevinkeenan_: Not visiting NI's beautiful countryside tomorrow? Come along to 'Intro to #RStats ' workshop in TR1 in the MBC on Lisburn Rd 9am. #IMC11
+367403219573436416  Aug 13 17:52  @CarMFin          RT @kevinkeenan_: Not visiting NI's beautiful countryside tomorrow? Come along to 'Intro to #RStats ' workshop in TR1 in the MBC on Lisburn Rd 9am. #IMC11
+367404904652242945  Aug 13 17:58  @Montgomery_SH    RT @kevinkeenan_: Not visiting NI's beautiful countryside tomorrow? Come along to 'Intro to #RStats ' workshop in TR1 in the MBC on Lisburn Rd 9am. #IMC11
+367409577442410496  Aug 13 18:17  @SamuelRufat      Introduction to #Rstats, a video series guide by #Google http://flowingdata.com/2013/08/13/introduction-to-r-a-video-series-by-google/ via @flowingdata
+367419872159879168  Aug 13 18:58  @Hacktuarial      This is a great course to learn or get better at #rstats in 20 hours  https://www.coursera.org/course/compdata #compdata @coursera
+367435553777930240  Aug 13 20:00  @chris_harrod     RT @kevinkeenan_: Not visiting NI's beautiful countryside tomorrow? Come along to 'Intro to #RStats ' workshop in TR1 in the MBC on Lisburn Rd 9am. #IMC11
+367440290858020864  Aug 13 20:19  @JeromyAnglim     RT @ihansel: Introduction to Shiny presentation from Sydney R Meetup. Building Interactive Web Apps in R #rstats #shiny http://t.co/qWTEL252ca
+367449898938949632  Aug 13 20:57  @mattVDiLeo       Google makes an R tutorial. But is it as good as Code School's Try R? #yam #rstats http://flowingdata.com/2013/08/13/introduction-to-r-a-video-series-by-google/
+367450374216507392  Aug 13 20:59  @amestadmx        RT @RLangTip: Command-line tools for debugging and tracing R code: http://bit.ly/LpxvWU #rstats
