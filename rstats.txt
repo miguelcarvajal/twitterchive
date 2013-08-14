@@ -14719,6 +14719,7 @@
 366552334739849218  Aug 11 09:31  @marcosluis2186   Survival Analysis for #Marketing Attribution by @RevolutionR on @slideshare #Marketing #rstats #Analytics http://www.slideshare.net/RevolutionAnalytics/survival-analysis-for-marketing-attribution
 366554740538097664  Aug 11 09:40  @quandl           R around the world by @rapporters via @Scribd http://qndl.co/1ctm6Tf #RStats
 366563829242527746  Aug 11 10:16  @hadleywickham    RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
+366564003335507968  Aug 11 10:17  @hadleywickham    RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://streaming.stat.iastate.edu/workshops/r-intro/lectures/6-advancedmanipulation.pdf
 366564003335507968  Aug 11 10:17  @hadleywickham    RT @rafaldotnet: Short and sweet intro to the very useful #RStats plyr package for data manipulation http://t.co/0576OK1Icr
 366571588671373314  Aug 11 10:47  @brianabelson     RT @josephwheatley: fun to access astronomy data using FITSio package. Here is an angry looking Milky Way #ggplot2 #rstats http://t.co/xUcUciiCWq
 366582747638140928  Aug 11 11:31  @DEAGiles         RT @quandl: R around the world by @rapporters via @Scribd http://qndl.co/1ctm6Tf #RStats
@@ -14754,6 +14755,7 @@
 366808242904510464  Aug 12 02:27  @monsoontrader    PERMANOVA is witchcraft? Y/Y #stats #rstats
 366813460488667136  Aug 12 02:48  @abremges         RT @SAGRudd: RCircos: an #Rstats package for Circos 2D track plots @ http://t.co/zemFUEgvt4
 366816077398810624  Aug 12 02:59  @josefslerka      60+ R resources to improve your data skills #rstats http://bit.ly/19ccnNp
+366822817116852225  Aug 12 03:25  @_Juhy            RT @josefslerka: 60+ R resources to improve your data skills #rstats http://bit.ly/19ccnNp
 366822817116852225  Aug 12 03:25  @_Juhy            RT @josefslerka: 60+ R resources to improve your data skills #rstats http://t.co/me9XceMklC
 366825805986271233  Aug 12 03:37  @kayuri           RT @drago_carlo: R packages for Structural Equation Model http://t.co/xf9NOfKE65 via @prismatic #Statistics #SEM #Modeling #Rstats
 366833073033191425  Aug 12 04:06  @Rbloggers        Some belated spring cleaning:  (This article was first published on   tradeblotter » R, and kindly c... http://bit.ly/14nnMof #rstats
@@ -14848,6 +14850,7 @@
 367068745698516992  Aug 12 19:43  @AdvBizAnalytics  Wellington R User Meeting. R code tips #Rstats. Thurs 15/8 from 5.30pm.  Presentations (MBIE & DOC) & discussion. Shirley@harmonic.co.nz.
 367080228533047296  Aug 12 20:28  @gappy3000        Why there are so few people claiming German is better than Italian, while so many say that, e.g., Python is better than #rstats? #getalife
 367082463505301504  Aug 12 20:37  @clarkfitzg       Started using Twitter's API with R to look at data for Cisco. So cool! #Rstats
+367097755040096258  Aug 12 21:38  @BioLucash        RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://bit.ly/120khaG #rstats
 367097755040096258  Aug 12 21:38  @BioLucash        RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
 367098381942136832  Aug 12 21:40  @NEdgingtonPhD    @chrisfall  Why? They both seem  v. good for #bioinformatics. I learned a bit of #perl, but I'm really enjoying #python much more. & #Rstats
 367098697337020417  Aug 12 21:42  @djhocking        "Don't want to just give away all these data that were so hard to collect." My response: but you use #opensource #rstats to analyze
@@ -14858,6 +14861,7 @@
 367123240239382529  Aug 12 23:19  @_rajesh_pitty    RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
 367125195254800384  Aug 12 23:27  @incantalupo      I could keep working on the answer key to this problem set or I could just make shit up. #Rstats #theyllneverknow
 367156063810093056  Aug 13 01:30  @DailyRpackage    LearnBayes - Functions for Learning Bayesian Inference http://cran.r-project.org/web/packages/LearnBayes/index.html #RStats
+367158213097291776  Aug 13 01:38  @askeluv          RT @DailyRpackage: LearnBayes - Functions for Learning Bayesian Inference http://cran.r-project.org/web/packages/LearnBayes/index.html #RStats
 367158213097291776  Aug 13 01:38  @askeluv          RT @DailyRpackage: LearnBayes - Functions for Learning Bayesian Inference http://t.co/JJzqgtPcCg #RStats
 367161831204192256  Aug 13 01:52  @isragaytan       RT @DailyRpackage: LearnBayes - Functions for Learning Bayesian Inference http://t.co/JJzqgtPcCg #RStats
 367161898648612864  Aug 13 01:53  @isragaytan       RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
@@ -14924,3 +14928,22 @@
 367440290858020864  Aug 13 20:19  @JeromyAnglim     RT @ihansel: Introduction to Shiny presentation from Sydney R Meetup. Building Interactive Web Apps in R #rstats #shiny http://t.co/qWTEL252ca
 367449898938949632  Aug 13 20:57  @mattVDiLeo       Google makes an R tutorial. But is it as good as Code School's Try R? #yam #rstats http://flowingdata.com/2013/08/13/introduction-to-r-a-video-series-by-google/
 367450374216507392  Aug 13 20:59  @amestadmx        RT @RLangTip: Command-line tools for debugging and tracing R code: http://bit.ly/LpxvWU #rstats
+367454243504275457  Aug 13 21:14  @idigdata         RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://t.co/mR7ye7h2mv #rstats
+367455804896448512  Aug 13 21:21  @tanyacash21      This is happening very soon: http://trestletechnology.net/2013/02/deploying-shiny-server-on-amazon-ec2/ #rstats #aws #shiny #fantasyfootball
+367483821953789953  Aug 13 23:12  @drago_carlo      Intro to the plyr package for data manipulation @hadleywickham @jmgomez http://streaming.stat.iastate.edu/workshops/r-intro/lectures/6-advancedmanipulation.pdf … #DataAnalysis #DataManipulation #Rstats
+367485584471638016  Aug 13 23:19  @PPUAMX           RT @RLangTip: Command-line tools for debugging and tracing R code: http://bit.ly/LpxvWU #rstats
+367489169679187968  Aug 13 23:33  @GregKapfhammer   Now this looks great! #rstats videos online! "Intro to R - YouTube" Learn more: http://j.mp/1czNhwE
+367493600059203585  Aug 13 23:51  @JGreenbrookHeld  If I were the analyse/summarize a series of conversation logs in a CSV in #rstats, where would I start package-wise?
+367497955416100864  Aug 14 00:08  @kushan_s         Data prep, cleaning : 150 lines of #rstats code. Model building and eval : 5 lines of code.
+367504053355683840  Aug 14 00:32  @FrankFarach      Yep, that's about right. RT @kushan_s: Data prep, cleaning : 150 lines of #rstats code. Model building and eval : 5 lines of code.
+367504703904817152  Aug 14 00:35  @FrankFarach      RT @drcrosson: Customer service for @IBMSPSS is so poor it makes me wonder if they are TRYING to push me to use #Rstats exclusively.
+367507088387629056  Aug 14 00:44  @AjayOza_Actual   RT @kushan_s: Data prep, cleaning : 150 lines of #rstats code. Model building and eval : 5 lines of code.
+367508363136884736  Aug 14 00:49  @monsoontrader    RT @kushan_s: Data prep, cleaning : 150 lines of #rstats code. Model building and eval : 5 lines of code.
+367517470615027712  Aug 14 01:26  @JGreenbrookHeld  RT @kushan_s: Data prep, cleaning : 150 lines of #rstats code. Model building and eval : 5 lines of code.
+367518538421907456  Aug 14 01:30  @georgedarroch    RT @kushan_s: Data prep, cleaning : 150 lines of #rstats code. Model building and eval : 5 lines of code.
+367520030990139392  Aug 14 01:36  @Rbloggers        Genetic drift simulation:  (This article was first published on   R snippets, and kindly contributed... http://bit.ly/14a5hVp #rstats
+367520031497678848  Aug 14 01:36  @Rbloggers        When Discussing Confidence Level With Others…:  (This article was first published on   Statistical R... http://bit.ly/14a5gkd #rstats
+367520032017752065  Aug 14 01:36  @Rbloggers        Finding Correlations in Data with Uncertainty: Classical Solution:  (This article was first publishe... http://bit.ly/14a5gAx #rstats
+367520032617529344  Aug 14 01:36  @Rbloggers        Visualizing Katrina’s strongest winds, with R:  (This article was first published on   Revolutions, ... http://bit.ly/14a5gAz #rstats
+367520033259266049  Aug 14 01:36  @Rbloggers        The Brand as Affordance: Item Response Modeling of Brand Perceptions:  (This article was first publi... http://bit.ly/14JKmf9 #rstats
+367533299465723904  Aug 14 02:29  @kevinkeenan_     Introduction to #Rstats @ 09:00 this morning in the MBC. TR1, ground floor. Come along if fresh air is not your thing #IMC11
