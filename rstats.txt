@@ -15140,3 +15140,51 @@
 367992249348403200  Aug 15 08:52  @james_gilbert    Any phylo people know if there's an R command to count the number of origins of a trait on a tree, before I begin trying to code it? #rstats
 367993567613956097  Aug 15 08:57  @toates_19        RT @MikeyJ: My first successful use of ddply!  Feels like I should get a tattoo or something. #Rstats
 367993880701972480  Aug 15 08:59  @ntyhurst         RT @MikeyJ: My first successful use of ddply!  Feels like I should get a tattoo or something. #Rstats
+367995798237102080  Aug 15 09:06  @jvonneumann      RT @statisticsblog: R tip of the day - nonlinear least squares (NLS) with R. http://i.cx/1d6VCpv #r #rstats #nls
+367997722021736449  Aug 15 09:14  @JohnsonPeterA    RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+368002664459546624  Aug 15 09:34  @KaisaTaipale     Truth. RT @hadleywickham: Totally agreed! MT @randyzwitch: The last 5% of a ggplot is always the most frustrating #rstats
+368006778685882368  Aug 15 09:50  @hughparsonage    RT @MikeyJ: My first successful use of ddply!  Feels like I should get a tattoo or something. #Rstats
+368007017278877697  Aug 15 09:51  @yodacomplex      .@CClements88 @RiverPlants nice #Rstats graph, and of cycling too! double win :)
+368009233830125568  Aug 15 10:00  @statisticsblog   How to reorder bars/plots in R. http://i.cx/140lyQj #r #rstats #graphs
+368012448986841088  Aug 15 10:12  @p5k12            RT @revodavid: In-depth analysis of statistics of Australian Football with #rstats, by @MAFLOnline: http://bit.ly/1cDoLuz
+368013948366626816  Aug 15 10:18  @Protohedgehog    @PeteEtchells Also, Rstudio is awesome, if you're not using it already, as is the #rstats feed :)
+368018683701907456  Aug 15 10:37  @IMALonEvents     RT @sharon000: Statistics One free online class from Princeton starts in Sept, teaches R http://bit.ly/stats1class @coursera #Rstats #stats
+368020552608256000  Aug 15 10:45  @YhatHQ           websockets in #Rstats - https://github.com/rstudio/R-Websockets
+368020908071727104  Aug 15 10:46  @recology_        RT @YhatHQ: websockets in #Rstats - https://github.com/rstudio/R-Websockets
+368020952640024576  Aug 15 10:46  @hadleywickham    how to learn more about S4: read @mt_morgan's answers on stackoverflow: http://stackoverflow.com/search?tab=votes&q=user%3a547331%20%5bs4%5d%20is%3aanswer #rstats
+368022743414882304  Aug 15 10:53  @rmflight         RT @hadleywickham: how to learn more about S4: read @mt_morgan's answers on stackoverflow: http://stackoverflow.com/search?tab=votes&q=user%3a547331%20%5bs4%5d%20is%3aanswer #rstats
+368024447921291264  Aug 15 11:00  @randyzwitch      Anomaly Detection Using The Adobe Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #AdobeAnalytics #AdobeMktg #omniture #measure #rstats
+368026076896702464  Aug 15 11:07  @Piboonrungroj    RT @hadleywickham: how to learn more about S4: read @mt_morgan's answers on stackoverflow: http://stackoverflow.com/search?tab=votes&q=user%3a547331%20%5bs4%5d%20is%3aanswer #rstats
+368026763042902016  Aug 15 11:09  @eddelbuettel     RT @hadleywickham: how to learn more about S4: read @mt_morgan's answers on stackoverflow: http://stackoverflow.com/search?tab=votes&q=user%3a547331%20%5bs4%5d%20is%3aanswer #rstats
+368030972257656832  Aug 15 11:26  @sfalcon          RT @hadleywickham: how to learn more about S4: read @mt_morgan's answers on stackoverflow: http://stackoverflow.com/search?tab=votes&q=user%3a547331%20%5bs4%5d%20is%3aanswer #rstats
+368035662517137408  Aug 15 11:45  @AvrahamAdler     @hspter Did you try the code for formatting numbers in #rstats #knitr?
+368035763256303617  Aug 15 11:45  @BrockTibert      Just had yet another experience where I wanted to do something in SPSS, switched to #rstats after a snag, 10 minutes later I am done.
+368035964251160577  Aug 15 11:46  @sean_anderson    RT @hadleywickham: how to learn more about S4: read @mt_morgan's answers on stackoverflow: http://stackoverflow.com/search?tab=votes&q=user%3a547331%20%5bs4%5d%20is%3aanswer #rstats
+368038925320716289  Aug 15 11:58  @revodavid        #rstats in drug trials: "FDA uses R to check [our clinical trial submissions]": J Rayamahi (Eli Lilly) at #JSM2013 http://bit.ly/16RYzY9
+368040467440480256  Aug 15 12:04  @jfzeac           RT @hadleywickham: how to learn more about S4: read @mt_morgan's answers on stackoverflow: http://stackoverflow.com/search?tab=votes&q=user%3a547331%20%5bs4%5d%20is%3aanswer #rstats
+368041145605308416  Aug 15 12:07  @RLangTip         Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368041370994212865  Aug 15 12:07  @jmcyap           RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368043228898922496  Aug 15 12:15  @arRMorgan        RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368043612593864705  Aug 15 12:16  @pickleswarlz     So the one thing in common I hear from everyone: Learn more R! Couldn't agree more. #rstats
+368044539715801088  Aug 15 12:20  @drunself         RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368044898894618625  Aug 15 12:21  @RevoJoe          #rstats JSM session provided some insight into R use in the drug development process in pharma and the FDA http://bit.ly/1bzDjHQ
+368045174934364162  Aug 15 12:23  @Chris_Bilder     RT @revodavid: #rstats in drug trials: "FDA uses R to check [our clinical trial submissions]": J Rayamahi (Eli Lilly) at #JSM2013 http://t.co/dOy1YCTTLS
+368045413276061696  Aug 15 12:23  @tomjwebb         RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368046488930107394  Aug 15 12:28  @wabarree         @RLangTip I find it easier just to specify the sep= and dec= arguments in read.table(), rather than remembering different functions. #rstats
+368048336496263169  Aug 15 12:35  @lgatt0           RT @hadleywickham: how to learn more about S4: read @mt_morgan's answers on stackoverflow: http://stackoverflow.com/search?tab=votes&q=user%3a547331%20%5bs4%5d%20is%3aanswer #rstats
+368049884618043392  Aug 15 12:41  @NestorMontano    RT @revodavid: #rstats in drug trials: "FDA uses R to check [our clinical trial submissions]": J Rayamahi (Eli Lilly) at #JSM2013 http://t.co/dOy1YCTTLS
+368052807917506561  Aug 15 12:53  @blqueiroz        RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368054178288898048  Aug 15 12:58  @drago_carlo      Nonlinear Least Squares (NLS) with R. http://i.cx/1d6VCpv @statisticsblog @afflorezr #Statistics #NLS #Rstats
+368057885433294848  Aug 15 13:13  @scisus           Nice intro #rstats videos by google http://ow.ly/21aDAI
+368057891137155072  Aug 15 13:13  @polesasunder     RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368058336312172544  Aug 15 13:15  @polesasunder     caramba @thiagotoyoyo @DiogoProvete MT @RLangTip: Use read.csv2 for countries that use "," as decimal point #rstats http://bit.ly/S4Q0P6
+368060201217576960  Aug 15 13:22  @lingwhatics      RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368064697041317888  Aug 15 13:40  @thingt           RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368065452733247488  Aug 15 13:43  @DiogoProvete     RT @polesasunder: caramba @thiagotoyoyo @DiogoProvete MT @RLangTip: Use read.csv2 for countries that use "," as decimal point #rstats http://t.co/nQIMdduAns
+368066168202223616  Aug 15 13:46  @jmgomez          Variable importance in neural networks http://ow.ly/213oRk #rstats #datamining
+368072630835765248  Aug 15 14:12  @ubcsonja         RT @scisus: Nice intro #rstats videos by google http://ow.ly/21aDAI
+368072872998092800  Aug 15 14:13  @polesasunder     @scisus dude #rstats have totally gone mainstream
+368076804046598144  Aug 15 14:28  @baogorek         @johnmyleswhite, Thanks for your article on sparse matrices: http://www.johnmyleswhite.com/notebook/2011/10/31/using-sparse-matrices-in-r/  Ever figure out how to convert slam objects? #rstats
+368077098646515712  Aug 15 14:29  @TraineeGeek      RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368082527967117312  Aug 15 14:51  @DataMind_org     Summer of R just released latest blockbuster: an interactive tutorial to create movie databases with lists http://www.datamind.org/#/courses/1 #Rstats
+368083205963804672  Aug 15 14:54  @Paradosso        RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
