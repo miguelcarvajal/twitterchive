@@ -15116,3 +15116,27 @@
 367860397971222528  Aug 15 00:08  @luke__ward       has anyone else had filename tab completion stop working after upgrading from R 2.x to 3.0? what broke? #Rstats
 367863418671218688  Aug 15 00:20  @Rbloggers        7Twelve Back-test:  (This article was first published on   Systematic Investor » R, and kindly contr... http://bit.ly/14emEUV #rstats
 367901889314058240  Aug 15 02:53  @davetang31       I should read through this entirely at least once http://cran.r-project.org/doc/manuals/R-lang.html #Rstats
+367929395551289344  Aug 15 04:42  @xxooyyxx         testing twitter from #rstats
+367930249268715520  Aug 15 04:46  @adolfoalvarez    @JohnsonPeterA try asking in #rstats but nowadays one of the most popular is #Rstudio
+367935187067617280  Aug 15 05:05  @ThomasHopper     RT @corynissen: Using #ggplot in my #shiny app to monitor food poisoning tweets for @foodbornechi. #Rstats http://t.co/XzmIUjInsH
+367943357294972928  Aug 15 05:38  @MikeyJ           My first successful use of ddply!  Feels like I should get a tattoo or something. #Rstats
+367946858124943360  Aug 15 05:52  @EuSocATT         RT @revodavid: In-depth analysis of statistics of Australian Football with #rstats, by @MAFLOnline: http://bit.ly/1cDoLuz
+367953241356505089  Aug 15 06:17  @stuhorsman       Using Matrix and glmnet is making my life substantially easier. #Rstats
+367964440433397760  Aug 15 07:02  @MattBashton      RT @JamesMeadow: HA!! RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/XewBOykRtt
+367979028935761920  Aug 15 08:00  @statisticsblog   R tip of the day - nonlinear least squares (NLS) with R. http://i.cx/1d6VCpv #r #rstats #nls
+367979432675667968  Aug 15 08:01  @quandl           Building DataMind: Free online interactive learning platform for R by @rbloggers http://qndl.co/14bNInF #Rstats
+367980063263707136  Aug 15 08:04  @tehgenerallee    RT @statisticsblog: R tip of the day - nonlinear least squares (NLS) with R. http://i.cx/1d6VCpv #r #rstats #nls
+367985029235748866  Aug 15 08:24  @sharon000        Statistics One free online class from Princeton starts in Sept, teaches R http://bit.ly/stats1class @coursera #Rstats #stats
+367985261084278784  Aug 15 08:24  @hikeND           RT @RLangTip: Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
+367985264494264320  Aug 15 08:24  @adrianshort      RT @sharon000: Statistics One free online class from Princeton starts in Sept, teaches R http://bit.ly/stats1class @coursera #Rstats #stats
+367986964173033472  Aug 15 08:31  @randyzwitch      The last 5% of a ggplot is always the most frustrating #rstats
+367989818707701760  Aug 15 08:43  @afflorezr        RT @statisticsblog: R tip of the day - nonlinear least squares (NLS) with R. http://i.cx/1d6VCpv #r #rstats #nls
+367990432275259394  Aug 15 08:45  @DiffusePrioR     Oh why is the default for text data in an R data.frame a factor vector? Wish the default was character vector #Rstats
+367990627109044224  Aug 15 08:46  @rmflight         @DiffusePrioR the beginning of every #rstats script I create has "options(stringsAsFactors=FALSE)" to avoid this
+367990962296872960  Aug 15 08:47  @hadleywickham    RT @MikeyJ: My first successful use of ddply!  Feels like I should get a tattoo or something. #Rstats
+367991084745388032  Aug 15 08:48  @hadleywickham    Totally agreed! MT @randyzwitch: The last 5% of a ggplot is always the most frustrating #rstats
+367991474178101249  Aug 15 08:49  @DiffusePrioR     RT @rmflight: @DiffusePrioR the beginning of every #rstats script I create has "options(stringsAsFactors=FALSE)" to avoid this
+367991687013883904  Aug 15 08:50  @randyzwitch      @alexhanna @hadleywickham @skardhamar Of course, if I did a little more RTFM instead of relying on Google-Fu all the time… #rstats
+367992249348403200  Aug 15 08:52  @james_gilbert    Any phylo people know if there's an R command to count the number of origins of a trait on a tree, before I begin trying to code it? #rstats
+367993567613956097  Aug 15 08:57  @toates_19        RT @MikeyJ: My first successful use of ddply!  Feels like I should get a tattoo or something. #Rstats
+367993880701972480  Aug 15 08:59  @ntyhurst         RT @MikeyJ: My first successful use of ddply!  Feels like I should get a tattoo or something. #Rstats
