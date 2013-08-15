@@ -14897,6 +14897,7 @@
 367316772686278657  Aug 13 12:08  @bdhary           Weh? Ada? "@RLangTip: Command-line tools for debugging and tracing R code: http://bit.ly/LpxvWU #rstats"
 367317941634613249  Aug 13 12:13  @doctorjackpine   RT @RLangTip: Command-line tools for debugging and tracing R code: http://t.co/rlW8CS2iZp #rstats
 367324172742963205  Aug 13 12:38  @naupakaz         HA! sounds like you're trying to do bioinformatics in excel RT @tim_yates: http://npk.io/NeUY #rstats
+367324497759989760  Aug 13 12:39  @alf_crisci       RT @CRANberriesFeed: CRAN updates: MODISTools mrds yhatr http://goo.gl/5g3iZ #rstats
 367324497759989760  Aug 13 12:39  @alf_crisci       RT @CRANberriesFeed: CRAN updates: MODISTools mrds yhatr http://t.co/y5W2NU2tPr #rstats
 367324817432645632  Aug 13 12:40  @cargomoose       RT @ihansel: Introduction to Shiny presentation from Sydney R Meetup. Building Interactive Web Apps in R #rstats #shiny http://t.co/qWTEL252ca
 367325936808919040  Aug 13 12:45  @cd_fuller        RT @RLangTip: Command-line tools for debugging and tracing R code: http://t.co/rlW8CS2iZp #rstats
@@ -15061,3 +15062,47 @@
 367714541884289024  Aug 14 14:29  @oazarate         RT: @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ  #rstats
 367716859719598080  Aug 14 14:38  @hongqin          RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
 367720605610541056  Aug 14 14:53  @marutterstat     @rstudioapp When making a presentation in RStudio, how do I center a plot in the slide? #Rstats
+367724340282142720  Aug 14 15:08  @JLWoodward       RT @kognitio: Demo of MPP iterative product forecasting, using #RStats - the statistical language of choice http://www.kognitio.com/mpp_r/
+367724619320401920  Aug 14 15:09  @triffin90        RT @RLangTip: Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
+367727251673989120  Aug 14 15:19  @NREL_EcoPress    NEW: "How I learned R" http://nrelscience.org/2013/08/14/this-is-how-i-did-itlearned-basic-r/. #Rstats
+367728695588683776  Aug 14 15:25  @asedgwick        Some interesting analysis on Stock and Bond behavior by decade - http://ow.ly/nV354  #rstats @timelyportfolio
+367730711320481793  Aug 14 15:33  @FastBigData      The R + #Hadoop Hookup, Jesse Bridgewater PhD, Principal Data Scientist - #Hadoop http://shar.es/yOOXV via @iegroup #rstats #BigData
+367730842698657792  Aug 14 15:33  @corynissen       Using #ggplot in my #shiny app to monitor food poisoning tweets for @foodbornechi. #Rstats http://t.co/XzmIUjInsH
+367733767705620480  Aug 14 15:45  @wabarree         mclapply() just turned what was about 16 hours of monte carlo simulations into about 4 hours #rstats #parallel
+367737621146923008  Aug 14 16:00  @Rbloggers        Using Emacs and ESS to edit bash shell scripts:  (This article was first published on   PlanetFlux, ... http://bit.ly/1a5C4lz #rstats
+367739032953815041  Aug 14 16:06  @cozymandias      TIL about the stream package. I like that streaming data is getting some attention in R these days. #Rstats http://cran.r-project.org/web/packages/stream/vignettes/stream.pdf
+367739184146288640  Aug 14 16:07  @stst31415        RT @CountCarbon: Really loving ggplot2. Why did I resist its allures for so long? #rstats #metoo
+367741261974732800  Aug 14 16:15  @hadleywickham    RT @corynissen: Using #ggplot in my #shiny app to monitor food poisoning tweets for @foodbornechi. #Rstats http://t.co/XzmIUjInsH
+367747078593576961  Aug 14 16:38  @detinusj         RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+367748950595731456  Aug 14 16:45  @asedgwick        RT @timelyportfolio: #gridSVG #lattice Multi-line Data Bind with #d3js | US Tsy Yield http://timelyportfolio.blogspot.com/2013/08/gridsvg-multi-line-data-bind-with-d3us.html?spref=tw  #rstats http://t.co/zHOlp9ICPR
+367749294813904896  Aug 14 16:47  @aivoryuk         Just learning about calculating gini indexs and lorenzo curves #geek #excel #Rstats #sas
+367752421662945280  Aug 14 16:59  @CondorOptions    I've noticed several openings at Morgan Stanley this summer that specifically ask for #rstats.
+367755216294531072  Aug 14 17:10  @danm1978         RT @RLangTip: Command-line tools for debugging and tracing R code: http://bit.ly/LpxvWU #rstats
+367757027415572480  Aug 14 17:18  @richmanmax       Great #rstats tips from good buddy @statshero: http://www.theodi.org/blog/fig-data-11-tips-how-handle-big-data-r-and-1-bad-pun
+367758009713188864  Aug 14 17:21  @jayjacobs        I am talking about k-means clustering and multi-dimensional scaling tomorrow night for local R group, 24 hours to prep! #rstats
+367766931275014144  Aug 14 17:57  @adolfoalvarez    RT @richmanmax: Great #rstats tips from good buddy @statshero: http://www.theodi.org/blog/fig-data-11-tips-how-handle-big-data-r-and-1-bad-pun
+367768462707265536  Aug 14 18:03  @phylorich        RT @wabarree: mclapply() just turned what was about 16 hours of monte carlo simulations into about 4 hours #rstats #parallel
+367770129758576642  Aug 14 18:10  @tjmahr           RT @corynissen: Using #ggplot in my #shiny app to monitor food poisoning tweets for @foodbornechi. #Rstats http://t.co/XzmIUjInsH
+367770224096837633  Aug 14 18:10  @b1205            RT @dirkvandenpoel: Nice to see that Hal Varian (Chief Economist at Google) is a heavy R user (#Rstats): He mentioned stl and bsts R packages at #kdd2013
+367770896981032960  Aug 14 18:13  @as2140           RT @causalityblog: cool “@ATredennick: Watercolor regressions! AKA visually weighted regressions in #Rstats, http://bit.ly/19Cc4hy” #dataviz
+367773326363877377  Aug 14 18:22  @aaronmsaunders   RT “@Rbloggers How do I re-arrange??: Ordering a plot revisited.  http://bit.ly/14Lxghx #rstats”
+367774016654032896  Aug 14 18:25  @terencedrose     RT @richmanmax: Great #rstats tips from good buddy @statshero: http://www.theodi.org/blog/fig-data-11-tips-how-handle-big-data-r-and-1-bad-pun
+367776764103127040  Aug 14 18:36  @ucfagls          @se_hampton I have an #rstats package for this  on github (temporalEF) https://github.com/gavinsimpson/temporalEF & a ref is http://dx.doi.org/10.1016/j.ecolmodel.2008.04.001 @MGhydro
+367776802347184128  Aug 14 18:36  @rich_            RT @wabarree: mclapply() just turned what was about 16 hours of monte carlo simulations into about 4 hours #rstats #parallel
+367777450798764032  Aug 14 18:39  @ProbablePattern  RStudio Server is great unless you need to use packages that depend on X11 or you want to configure your system in less than 2 days. #rstats
+367778680719687680  Aug 14 18:44  @hodgson_lauren   "@gjreda: It's pretty sad that I can create a histogram in #rstats quicker than in Excel, even though the data's already there." Haha!
+367785104501792768  Aug 14 19:09  @se_hampton       @ucfagls Thx for links to Asymmetric Eigenvector Maps #rstats! I'm in mode of diversifying my time series thinking.. https://github.com/gavinsimpson/temporalEF
+367786535157895168  Aug 14 19:15  @JGreenbrookHeld  How would I identify records in #rstats which are simply " - as in a single quote mark?
+367799765154537472  Aug 14 20:07  @donattroppo      RT @Timcammm: Aus employment monthly flows presented in a Shiny app. #Rstats http://spark.rstudio.com/tim/AusEmploymentFlows/ @khakieconomist @ricardianambiva @MattCowgill
+367800109288783873  Aug 14 20:09  @AvrahamAdler     I think there is a bug in latest version of R2jags for #rstats. Mersenne-twister rng can't be called & as old default breaks repeatability.
+367800776602578944  Aug 14 20:11  @AvrahamAdler     "@stevepiccolo: I must not know the best way work with data frames in #Rstats because they annoy me." They're also slower than matrices FWIW
+367801218438930434  Aug 14 20:13  @revodavid        In-depth analysis of statistics of Australian Football with #rstats, by @MAFLOnline: http://bit.ly/1cDoLuz
+367801569070546944  Aug 14 20:15  @BMMillsy         RT @revodavid: In-depth analysis of statistics of Australian Football with #rstats, by @MAFLOnline: http://bit.ly/1cDoLuz
+367803205767684096  Aug 14 20:21  @YvesMulkers      RT @revodavid: In-depth analysis of statistics of Australian Football with #rstats, by @MAFLOnline: http://bit.ly/1cDoLuz
+367805428475756544  Aug 14 20:30  @hadleywickham    RT @revodavid: In-depth analysis of statistics of Australian Football with #rstats, by @MAFLOnline: http://bit.ly/1cDoLuz
+367805622198480896  Aug 14 20:31  @calibali0        RT @JamesMeadow: HA!! RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/XewBOykRtt
+367807032562167811  Aug 14 20:36  @ozjimbob         RT @revodavid: In-depth analysis of statistics of Australian Football with #rstats, by @MAFLOnline: http://bit.ly/1cDoLuz
+367807603096567809  Aug 14 20:39  @christoper_hamm  That moment when your #Rstats code finally works. Time for a #CraftBeer
+367808610023133184  Aug 14 20:43  @datalies         @soccermetrics "@revodavid: ... analysis of stats. of Australian Football. @MAFLOnline: http://bit.ly/1cDoLuz" #simple #insightful #rstats
+367808618717925376  Aug 14 20:43  @ihansel          RT @Timcammm: Aus employment monthly flows presented in a Shiny app. #Rstats http://spark.rstudio.com/tim/AusEmploymentFlows/ @khakieconomist @ricardianambiva @MattCowgill
+367812605374513152  Aug 14 20:58  @AvrahamAdler     " @geospacedman: might start referring to 'base graphics' in #rstats as 'vintage graphics'." Still hard to beat for quick/ad hoc exploration
