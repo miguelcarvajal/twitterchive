@@ -14910,6 +14910,7 @@
 367340258637004800  Aug 13 13:41  @hspter           Does anyone know if it's possible to add commas to large numbers in knitr to make them more readable? #rstats
 367340611893854209  Aug 13 13:43  @corynissen       Real world #Rstats application (for the tweet classification). http://www.chicagotribune.com/health/ct-met-twitter-food-poisoning-20130809,0,2182345.story
 367340839606824961  Aug 13 13:44  @reedmonseur      RT @corynissen: Real world #Rstats application (for the tweet classification). http://t.co/TygTbZyFpO
+367340839606824961  Aug 13 13:44  @reedmonseur      RT @corynissen: Real world #Rstats application (for the tweet classification). http://www.chicagotribune.com/health/ct-met-twitter-food-poisoning-20130809,0,2182345.story
 367344597594546176  Aug 13 13:59  @Tal_amable       RT @RLangTip: Command-line tools for debugging and tracing R code: http://bit.ly/LpxvWU #rstats
 367344597594546176  Aug 13 13:59  @Tal_amable       RT @RLangTip: Command-line tools for debugging and tracing R code: http://t.co/rlW8CS2iZp #rstats
 367361625814081537  Aug 13 15:06  @drcrosson        Customer service for @IBMSPSS is so poor it makes me wonder if they are TRYING to push me to use #Rstats exclusively.
@@ -15106,3 +15107,12 @@
 367808610023133184  Aug 14 20:43  @datalies         @soccermetrics "@revodavid: ... analysis of stats. of Australian Football. @MAFLOnline: http://bit.ly/1cDoLuz" #simple #insightful #rstats
 367808618717925376  Aug 14 20:43  @ihansel          RT @Timcammm: Aus employment monthly flows presented in a Shiny app. #Rstats http://spark.rstudio.com/tim/AusEmploymentFlows/ @khakieconomist @ricardianambiva @MattCowgill
 367812605374513152  Aug 14 20:58  @AvrahamAdler     " @geospacedman: might start referring to 'base graphics' in #rstats as 'vintage graphics'." Still hard to beat for quick/ad hoc exploration
+367814282903171073  Aug 14 21:05  @AvrahamAdler     @hspter YES. #rstats #knitr has inline hooks that control # formats. Put hook in named chunk & u can switch at will. See chunk option docs.
+367820181621334016  Aug 14 21:28  @jtrollip         RT @revodavid: In-depth analysis of statistics of Australian Football with #rstats, by @MAFLOnline: http://bit.ly/1cDoLuz
+367837041452941312  Aug 14 22:35  @interzoneboy     RT @corynissen: Using #ggplot in my #shiny app to monitor food poisoning tweets for @foodbornechi. #Rstats http://t.co/XzmIUjInsH
+367838604229218305  Aug 14 22:42  @isomorphisms     @byronshero @econoprof Never hooked SPSS to R. But http://cloud.sagemath.com can give anyone a test run of #Rstats.
+367848266693496832  Aug 14 23:20  @Rbloggers        The stats of Australian Rules Football:  (This article was first published on   Revolutions, and kin... http://bit.ly/14edd7W #rstats
+367849251629301760  Aug 14 23:24  @AvrahamAdler     @hspter #,###.00 in #rstats #knitr: knit_hooks$set(inline = function(x){if (is.numeric(x)) format(x, big.mark=",", nsmall=2, scientific=F)})
+367860397971222528  Aug 15 00:08  @luke__ward       has anyone else had filename tab completion stop working after upgrading from R 2.x to 3.0? what broke? #Rstats
+367863418671218688  Aug 15 00:20  @Rbloggers        7Twelve Back-test:  (This article was first published on   Systematic Investor » R, and kindly contr... http://bit.ly/14emEUV #rstats
+367901889314058240  Aug 15 02:53  @davetang31       I should read through this entirely at least once http://cran.r-project.org/doc/manuals/R-lang.html #Rstats
