@@ -15251,3 +15251,48 @@
 368347828793638912  Aug 16 08:25  @ryanpraski       RT @randyzwitch: Anomaly Detection Using The Adobe Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #omniture #measure #rstats
 368351444161667072  Aug 16 08:40  @RudiShumpert     RT @randyzwitch: Anomaly Detection Using The Adobe Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #omniture #measure #rstats
 368354828004511744  Aug 16 08:53  @mjcavaretta      Limitations disappointing. RT @ryanpraski @randyzwitch: Anomaly Detection w/ Adobe #Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #omniture #rstats
+368356527536476160  Aug 16 09:00  @statisticsblog   R for marketers - Anomaly Detection Using The Adobe Analytics API.  http://i.cx/15LA4Y1 #r #rstats #adobe #analytics #api
+368360373302222848  Aug 16 09:15  @MangoTheCat      Free R Graphics Workshop in Copenhagen on 26 Aug now filling up - to register email: training@mango-solutions.com   #Rstats
+368364114529095681  Aug 16 09:30  @romain_francois  RT @eddelbuettel: New RcppArmadillo release 0.3.910.0 now on CRAN: http://goo.gl/0Piqle #rcpp #Rstats
+368364828412223488  Aug 16 09:33  @monsoontrader    RT @hadleywickham: my (brief) guide to #rstats data structures: https://github.com/hadley/devtools/wiki/Data-structures. What am I missing?
+368365672151408640  Aug 16 09:36  @leosattwood      RT @MangoTheCat: Free R Graphics Workshop in Copenhagen on 26 Aug now filling up - to register email: training@mango-solutions.com   #Rstats
+368366085676204032  Aug 16 09:38  @jenkinsa         RT @RudiShumpert: RT @randyzwitch: Anomaly Detection Using The Adobe Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #omniture #measure #rstats
+368368534918668288  Aug 16 09:47  @nickholway       "At Lilly we do our submissions in SAS and the FDA uses R to check them" http://blog.revolutionanalytics.com/2013/08/r-drug-development-and-the-fda.html #rstats
+368376891981307905  Aug 16 10:21  @statisticsblog   2 little neat tricks with the R function sapply. http://i.cx/14PInZI #r #rstats
+368377877424644098  Aug 16 10:25  @MangoTheCat      RT @statisticsblog: 2 little neat tricks with the R function sapply. http://i.cx/14PInZI #r #rstats
+368380046789967874  Aug 16 10:33  @SpringerStats    We have forthcoming R book for literature studies, might be good for #LASTS13, which sounds like great event! #rstats
+368387833607647232  Aug 16 11:04  @corynissen       How we use #rstats for @foodbornechi ... http://blog.revolutionanalytics.com/2013/08/foodborne-chicago.html   Great write up by @revodavid
+368388330943037440  Aug 16 11:06  @timtriche        @neuromusic @bionicjam @eperlste @neurobongo @debivort @figshare the new #ggvis package makes interactive web figures trivial from #rstats
+368388540599500800  Aug 16 11:07  @CivicWhitaker    RT @corynissen: How we use #rstats for @foodbornechi ... http://blog.revolutionanalytics.com/2013/08/foodborne-chicago.html   Great write up by @revodavid
+368389100841095170  Aug 16 11:09  @kevinlberger     There are obstacles to rodbc from Linux to MS SQL (chiefly short bearded ones), but nothing SSIS and samba can't overcome. #rstats
+368389174660829184  Aug 16 11:09  @danxoneil        RT @corynissen: How we use #rstats for @foodbornechi ... http://blog.revolutionanalytics.com/2013/08/foodborne-chicago.html   Great write up by @revodavid
+368390475914678272  Aug 16 11:15  @CasalsTMarti     RT @statisticsblog: 2 little neat tricks with the R function sapply. http://i.cx/14PInZI #r #rstats
+368394555248226304  Aug 16 11:31  @Rbloggers        Equivocal Zones:  (This article was first published on   Blog - Applied Predictive Modeling, and kin... http://bit.ly/1bDvoJx #rstats
+368398016350126081  Aug 16 11:45  @ucfagls          Looking for public #rstats code/pkg for simulating species abundance data. Or if not, anyone want to help write a pkg for such models?
+368403527263350784  Aug 16 12:07  @RLangTip         Handy for interactive use, you can set up packages to automatically load when a function is used: http://bit.ly/M6mPOW #rstats
+368405674536873984  Aug 16 12:15  @Faye_L_Jackson   Finally made the plot work! #Rstats
+368406656360521728  Aug 16 12:19  @davetang31       RT @sharon000: Statistics One free online class from Princeton starts in Sept, teaches R http://bit.ly/stats1class @coursera #Rstats #stats
+368408046092836864  Aug 16 12:24  @drago_carlo      Anomaly Detection with R#SiteCatalyst http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ @sewe #TimeSeries #AnomalyDetection #Rstats #WebAnalytics
+368418786916855808  Aug 16 13:07  @revodavid        How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368418903140990976  Aug 16 13:08  @mattgratt        RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368419540020908032  Aug 16 13:10  @xamat            RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368419714311008256  Aug 16 13:11  @adamharris_      RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368421034732445698  Aug 16 13:16  @edgarmeij        RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368422840166789120  Aug 16 13:23  @bearloga         RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368424555850645504  Aug 16 13:30  @nextgenseek      Amazon 1-Click Ordered.  An Introduction to Statistical Learning: with Applications in R. http://www.amazon.com/gp/product/1461471370 #rstats
+368425770378461184  Aug 16 13:35  @rmflight         RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368426841633472512  Aug 16 13:39  @SylvainFourny    RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368429163490734080  Aug 16 13:48  @ucfagls          @davidjayharris Having an #rstats compas() would be a great addition - not sure I want to code it all myself though. It is pretty detailed!
+368429719294722049  Aug 16 13:51  @ucfagls          should mention Dave Roberts' coenoflex #rstats pkg. Broken at moment tho & Dave is swamped with other things. Shame I don't read Fortran :-(
+368430127077916672  Aug 16 13:52  @adolfoalvarez    RT @nextgenseek: Amazon 1-Click Ordered.  An Introduction to Statistical Learning: with Applications in R. http://www.amazon.com/gp/product/1461471370 #rstats
+368430399225339905  Aug 16 13:53  @stefano_de_luca  RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368431452888637441  Aug 16 13:57  @matteoredaelli   RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368431884063084544  Aug 16 13:59  @foodbornechi     RT @corynissen: How we use #rstats for @foodbornechi ... http://blog.revolutionanalytics.com/2013/08/foodborne-chicago.html   Great write up by @revodavid
+368432160191287296  Aug 16 14:00  @reedmonseur      RT @corynissen: How we use #rstats for @foodbornechi ... http://blog.revolutionanalytics.com/2013/08/foodborne-chicago.html   Great write up by @revodavid
+368434255699116032  Aug 16 14:09  @grserrano_       RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368435096757751808  Aug 16 14:12  @jorgefabrega     "@revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen"
+368438279609122816  Aug 16 14:25  @StatsInTheWild   RT @statisticsblog: 2 little neat tricks with the R function sapply. http://i.cx/14PInZI #r #rstats
+368438914509332480  Aug 16 14:27  @StatsInTheWild   RT @hadleywickham: my (brief) guide to #rstats data structures: https://github.com/hadley/devtools/wiki/Data-structures. What am I missing?
+368440983438245888  Aug 16 14:35  @reusswig         RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368441431427268608  Aug 16 14:37  @ramhiser         Excellent post. The long-standing myth that #rstats cannot be validated in pharama while only #SAS can is absurd. http://blog.revolutionanalytics.com/2013/08/r-drug-development-and-the-fda.html
+368444766494523393  Aug 16 14:50  @ramhiser         First time in my life that I used *xor* with purpose. #rstats
