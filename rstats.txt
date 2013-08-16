@@ -15226,3 +15226,28 @@
 368248738302930944  Aug 16 01:51  @XavHarrison      RT @yodacomplex: I want to write an #rstats pkg to do parallelised Phylogenetic correction Using Constrained Kernel method (??). I would call it ClusterPhUCK
 368251841756160000  Aug 16 02:04  @davetang31       RT @yodacomplex: I want to write an #rstats pkg to do parallelised Phylogenetic correction Using Constrained Kernel method (??). I would call it ClusterPhUCK
 368258733685891072  Aug 16 02:31  @jmgomez          RT @RLangTip: Command-line tools for debugging and tracing R code: http://bit.ly/LpxvWU #rstats #development
+368266101991686144  Aug 16 03:00  @fazol            subset() with  = instead of == is my main indicator of pre-coffee coding. Don't. #Rstats
+368282695064776705  Aug 16 04:06  @drago_carlo      Creating a Quick Report with knitr, xtable, R Markdown, Pandoc http://bit.ly/1bBwS6W @Rbloggers #Reporting #Rstats #Latex
+368288166555316224  Aug 16 04:28  @sevve            Anomaly Detection with R#SiteCatalyst http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #rstats #webanalytics
+368289836492267520  Aug 16 04:35  @jfreels4         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+368292615726182400  Aug 16 04:46  @adolfoalvarez    RT @hadleywickham: my (brief) guide to #rstats data structures: https://github.com/hadley/devtools/wiki/Data-structures. What am I missing?
+368292692783951872  Aug 16 04:46  @adolfoalvarez    RT @ramnath_vaidya: Blog Post: Interactive Documents with R http://slidify.github.io/interactive/ #rstats @nyhackr @jcheng @jaredlander
+368296645122744320  Aug 16 05:02  @MangoTheCat      RT @drago_carlo: Creating a Quick Report with knitr, xtable, R Markdown, Pandoc http://bit.ly/1bBwS6W @Rbloggers #Reporting #Rstats #Latex
+368296819454787585  Aug 16 05:02  @MangoTheCat      RT @eddelbuettel: New RcppArmadillo release 0.3.910.0 now on CRAN: http://goo.gl/0Piqle #rcpp #Rstats
+368301484607160320  Aug 16 05:21  @Rbloggers        RcppArmadillo 0.3.910.0: A new minor release 3.910.0 of Armadillo came out a few days ago.  A newRcppA... http://bit.ly/16rCnFP #rstats
+368317417140678656  Aug 16 06:24  @statslabdublin   Computing for Data Analysis from @JohnsHopkins on @Coursera is starting up again on Sept 23rd. https://www.coursera.org/course/compdata #compdata #rstats
+368321754092953600  Aug 16 06:42  @packtpub         Interested in R? 50% off R eBooks for today only at http://alturl.com/okthk Sign up at http://www.packtpub.com for more deals #Rstats #bigdata
+368326377332015104  Aug 16 07:00  @mspan            RT @sevve: Anomaly Detection with R#SiteCatalyst http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #rstats #webanalytics
+368329252178898945  Aug 16 07:11  @BulletCluster    RT @sevve: Anomaly Detection with R#SiteCatalyst http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #rstats #webanalytics
+368339430223794177  Aug 16 07:52  @abellogin        RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
+368340245332230144  Aug 16 07:55  @adolfoalvarez    RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
+368341010994446337  Aug 16 07:58  @calejero         RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
+368341431347208193  Aug 16 08:00  @statisticsblog   R tip of the day - Analysis of English Texts with Hidden Markov Models (HMM) in R. http://i.cx/14Oj0Vl #r #rstats
+368342468548247552  Aug 16 08:04  @jvonneumann      RT @statisticsblog: R tip of the day - Analysis of English Texts with Hidden Markov Models (HMM) in R. http://i.cx/14Oj0Vl #r #rstats
+368343055096885248  Aug 16 08:06  @VidCanC          RT @statisticsblog: R tip of the day - Analysis of English Texts with Hidden Markov Models (HMM) in R. http://i.cx/14Oj0Vl #r #rstats
+368343758863347712  Aug 16 08:09  @iFromm           RT @genetics_blog: RMendeley: accessing Mendeley from #Rstats. On Github: https://github.com/ropensci/RMendeley. On CRAN: http://cran.r-project.org/web/packages/RMendeley/
+368345733696483328  Aug 16 08:17  @matt_kiefer      RT @sharon000: Statistics One free online class from Princeton starts in Sept, teaches R http://bit.ly/stats1class @coursera #Rstats #stats
+368346925315407872  Aug 16 08:22  @recology_        #scioclimate 'ers - slip of paper in the notebook you got gives you a free @OReillyMedia book - #sciordata folks can get an #rstats book :)
+368347828793638912  Aug 16 08:25  @ryanpraski       RT @randyzwitch: Anomaly Detection Using The Adobe Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #omniture #measure #rstats
+368351444161667072  Aug 16 08:40  @RudiShumpert     RT @randyzwitch: Anomaly Detection Using The Adobe Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #omniture #measure #rstats
+368354828004511744  Aug 16 08:53  @mjcavaretta      Limitations disappointing. RT @ryanpraski @randyzwitch: Anomaly Detection w/ Adobe #Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #omniture #rstats
