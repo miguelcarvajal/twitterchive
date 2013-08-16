@@ -15217,3 +15217,12 @@
 368165914161975296  Aug 15 20:22  @flavioclesio     RT @jmgomez: Variable importance in neural networks http://ow.ly/213oRk #rstats #datamining
 368167870607269888  Aug 15 20:30  @thomaslevine     Oh my! Should I be excited or scared? "@YhatHQ: websockets in #Rstats - https://github.com/rstudio/R-Websockets"
 368168799976968192  Aug 15 20:34  @austinogilvie    RT @thomaslevine: Oh my! Should I be excited or scared? "@YhatHQ: websockets in #Rstats - https://github.com/rstudio/R-Websockets"
+368202872942391296  Aug 15 22:49  @yichuanw         Took me way too long to figure out how to do map labels with #Rstats. Here's the thread that saved me: http://permalink.gmane.org/gmane.comp.lang.r.geo/3609
+368203363810160640  Aug 15 22:51  @Rbloggers        Creating a Quick Report with knitr, xtable, R Markdown, Pandoc (and some OpenBLAS Benchmark Results): ... http://bit.ly/1bBwS6W #rstats
+368208127016968192  Aug 15 23:10  @TrevorABranch    Prep for first time teaching Intro R and Advanced R courses to @UW_SAFS grads. What should I make sure to include? No prior progr #Rstats
+368228986695847936  Aug 16 00:33  @kj_gilbert       Hoping for a bit of #Rstats help: where/how do I pass the argument: sep="" for the paste function in "do.call(paste, as.data.frame(x))"?
+368233157520138240  Aug 16 00:50  @FastBigData      Butler Analytics - #PredictiveAnalytics Vendor reviews 2013 http://butleranalytics.com/2013/07/10-enterprise-predictive-analytics-compared-platforms/ #rstats
+368243612704063488  Aug 16 01:31  @jmgomez          RT @DailyRpackage: LearnBayes - Functions for Learning Bayesian Inference http://cran.r-project.org/web/packages/LearnBayes/index.html #RStats #datamining
+368248738302930944  Aug 16 01:51  @XavHarrison      RT @yodacomplex: I want to write an #rstats pkg to do parallelised Phylogenetic correction Using Constrained Kernel method (??). I would call it ClusterPhUCK
+368251841756160000  Aug 16 02:04  @davetang31       RT @yodacomplex: I want to write an #rstats pkg to do parallelised Phylogenetic correction Using Constrained Kernel method (??). I would call it ClusterPhUCK
+368258733685891072  Aug 16 02:31  @jmgomez          RT @RLangTip: Command-line tools for debugging and tracing R code: http://bit.ly/LpxvWU #rstats #development
