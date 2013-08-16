@@ -15188,3 +15188,32 @@
 368077098646515712  Aug 15 14:29  @TraineeGeek      RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
 368082527967117312  Aug 15 14:51  @DataMind_org     Summer of R just released latest blockbuster: an interactive tutorial to create movie databases with lists http://www.datamind.org/#/courses/1 #Rstats
 368083205963804672  Aug 15 14:54  @Paradosso        RT @geospacedman: I might start referring to 'base graphics' in #rstats as 'vintage graphics'.
+368084845961834497  Aug 15 15:00  @PPUAMX           RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368086649252507649  Aug 15 15:07  @arnicas          Nice R courses online, via @statslabdublin MT @DataMind_org: ...tutorial to create movie dbs with lists http://www.datamind.org/#/courses/1 #Rstats
+368086791208697857  Aug 15 15:08  @Colin_at_cu      RT @Bioconductor: #Bioconductor / #rstats #BioC2013 conference talks and workshops becoming available http://bit.ly/12dyyTv
+368088133596114944  Aug 15 15:13  @AlexJCole        RT @sharon000: Statistics One free online class from Princeton starts in Sept, teaches R http://bit.ly/stats1class @coursera #Rstats #stats
+368089379543449600  Aug 15 15:18  @AliRebaie        Check out http://DataMind.org, online interactive learning platform for R http://www.datamind.org #rstats #bigdata
+368090308816674816  Aug 15 15:22  @johnlmyers44     RT @alirebaie: Check out http://DataMind.org, online interactive learning platform for R http://www.datamind.org #rstats #bigdata
+368095176557744128  Aug 15 15:41  @polesasunder     @scisus I was TOTALLY into #rstats back in 2007
+368095634760290304  Aug 15 15:43  @Rbloggers        Anomaly Detection Using The Adobe Analytics API:  (This article was first published on   randyzwitch... http://bit.ly/15Kh1x8 #rstats
+368102810615046144  Aug 15 16:12  @GaglBenjamin     RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+368108430902693888  Aug 15 16:34  @yodacomplex      I want to write an #rstats pkg to do parallelised Phylogenetic correction Using Constrained Kernel method (??). I would call it ClusterPhUCK
+368109499502325760  Aug 15 16:38  @nhcooper123      RT @yodacomplex: I want to write an #rstats pkg to do parallelised Phylogenetic correction Using Constrained Kernel method (??). I would call it ClusterPhUCK
+368111086194937856  Aug 15 16:44  @adolfoalvarez    RT @sharon000: Statistics One free online class from Princeton starts in Sept, teaches R http://bit.ly/stats1class @coursera #Rstats #stats
+368111411194380288  Aug 15 16:46  @healyke          RT @yodacomplex: I want to write an #rstats pkg to do parallelised Phylogenetic correction Using Constrained Kernel method (??). I would call it ClusterPhUCK
+368113447675756544  Aug 15 16:54  @randyzwitch      @rudykyle Thanks! If you have any R questions, let me know. There's also the community on #rstats that tends to be very helpful
+368115582211616768  Aug 15 17:02  @randyzwitch      Ironically, post is causing anomalous traffic RT @Rbloggers: Anomaly Detection Using The Adobe Analytics API http://bit.ly/15Kh1x8 #rstats
+368137215354101760  Aug 15 18:28  @jblumenau        Keep getting 'memory not mapped' error when calling c++ code into r. Worked fine two days ago! Anyone have any ideas? #Rstats
+368137811062321152  Aug 15 18:31  @caddymob         MegaMindMelt <-  rbind(MindMelt,melt(ddply(mind, .(id),summarise, cowboy=sum(as.numeric(value))))) #winning #rstats
+368147515217948672  Aug 15 19:09  @scheidegger      Excited about transparently marshalling #rstats function calls into #javascript async calls for clean, safe RPC: https://github.com/cscheid/rcloud/issues/58#issuecomment-22737433
+368148445988945921  Aug 15 19:13  @zikolach         RT @scheidegger: Excited about transparently marshalling #rstats function calls into #javascript async calls for clean, safe RPC: https://t.co/I29dk2eoI5
+368149097179807745  Aug 15 19:15  @MacDiva          RT @scheidegger: Excited about transparently marshalling #rstats function calls into #javascript async calls for clean, safe RPC: https://t.co/I29dk2eoI5
+368159007573561344  Aug 15 19:55  @skardhamar       Anomaly Detection Using The Adobe Analytics API by @randyzwitch #measure #Rstats
+368159565369450498  Aug 15 19:57  @AvrahamAdler     Sick and tired of #Excel hanging when I have to run a few billion commands (40K SUMIFS each over 40K rows). Wish I could do this in #Rstats
+368161257075249153  Aug 15 20:04  @randyzwitch      RT @skardhamar: Anomaly Detection Using The Adobe Analytics API by @randyzwitch #measure #Rstats
+368161967560617984  Aug 15 20:07  @eddelbuettel     New RcppArmadillo release 0.3.910.0 now on CRAN: http://goo.gl/0Piqle #rcpp #Rstats
+368162410395213825  Aug 15 20:08  @healthstatsdude  Played with #denstrip r package today; very very cool. In addition to pie charts, I can now also make fun of confidence intervals! #rstats
+368165435692171264  Aug 15 20:20  @Rbloggers        R, drug development and the FDA:  (This article was first published on   Revolutions, and kindly con... http://bit.ly/15Lc9YF #rstats
+368165914161975296  Aug 15 20:22  @flavioclesio     RT @jmgomez: Variable importance in neural networks http://ow.ly/213oRk #rstats #datamining
+368167870607269888  Aug 15 20:30  @thomaslevine     Oh my! Should I be excited or scared? "@YhatHQ: websockets in #Rstats - https://github.com/rstudio/R-Websockets"
+368168799976968192  Aug 15 20:34  @austinogilvie    RT @thomaslevine: Oh my! Should I be excited or scared? "@YhatHQ: websockets in #Rstats - https://github.com/rstudio/R-Websockets"
