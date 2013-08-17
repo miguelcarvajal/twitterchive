@@ -15296,3 +15296,27 @@
 368440983438245888  Aug 16 14:35  @reusswig         RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
 368441431427268608  Aug 16 14:37  @ramhiser         Excellent post. The long-standing myth that #rstats cannot be validated in pharama while only #SAS can is absurd. http://blog.revolutionanalytics.com/2013/08/r-drug-development-and-the-fda.html
 368444766494523393  Aug 16 14:50  @ramhiser         First time in my life that I used *xor* with purpose. #rstats
+368450079411437568  Aug 16 15:11  @RickWicklin      Issue when using pkgs in production code| MT @ucfagls: coenoflex #rstats pkg broken at moment & Dave is swamped with other things #sastip
+368454101224652800  Aug 16 15:27  @kdnuggets        11 Tips on how to handle #BigData in R (and one bad pun) #rstats http://shrd.by/lqst4p
+368455376171044864  Aug 16 15:33  @SKBhere          RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) #rstats http://shrd.by/lqst4p
+368458723934474240  Aug 16 15:46  @corynissen       RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368459085177307136  Aug 16 15:47  @ucfagls          @RickWicklin don't get your point. How do I know SAS isn't riddled with issues? Could I fix it? I don't, & I can't respectively! #rstats
+368460201105436672  Aug 16 15:52  @AvrahamAdler     Curious; for #actuarial, #statistics, #rstats, #math, or #insurance #socialmedia, which is most useful, #twitter, #LinkedIn or #GooglePlus?
+368460662692798464  Aug 16 15:54  @ramhiser         I feel weird. I've used @rstudioapp for an entire #rstats analysis without resorting to #emacs.
+368461213459423233  Aug 16 15:56  @b1205            RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+368462296668205056  Aug 16 16:00  @genetics_blog    #Rstats/#Bioconductor pkg for Sample Size & Power Analysis for Microarray & NGS data http://www.bioconductor.org/packages/release/bioc/html/SSPA.html #bioinformatics
+368462896121929728  Aug 16 16:02  @amcrisan         RT @genetics_blog: #Rstats/#Bioconductor pkg for Sample Size & Power Analysis for Microarray & NGS data http://www.bioconductor.org/packages/release/bioc/html/SSPA.html #bioinformatics
+368467388821291008  Aug 16 16:20  @Rbloggers        Foodborne Chicago finds dodgy restaurants with tweets, and R:  (This article was first published on ... http://bit.ly/1acDNWq #rstats
+368469025182846976  Aug 16 16:27  @ucfagls          Further to my scrounging for #rstats code for simulating species abundance/occurrence data see an illustrative fun https://github.com/gavinsimpson/gavmisc/blob/master/R/simJamil.R
+368469392104767488  Aug 16 16:28  @ucfagls          Following in the long line of illustrious #rstats users, I now have my own misc pkg of functions. Not much there yet https://github.com/gavinsimpson/gavmisc
+368469983560757249  Aug 16 16:31  @davidjayharris   RT @ucfagls: Further to my scrounging for #rstats code for simulating species abundance/occurrence data see an illustrative fun https://t.co/tbqFvSv1TX
+368470548625358849  Aug 16 16:33  @ucfagls          @davidjayharris longer term I'd like to see one or more #rstats pkgs available with range of options for simulating species abun/occur data
+368471197849112576  Aug 16 16:35  @ucfagls          @davidjayharris If there is interest, I can kick off with a github repo that ppl can contribute #rstats code to or hack on?
+368473863341879296  Aug 16 16:46  @idigdata         RT @genetics_blog: #Rstats/#Bioconductor pkg for Sample Size & Power Analysis for Microarray & NGS data http://www.bioconductor.org/packages/release/bioc/html/SSPA.html #bioinformatics
+368492190827175936  Aug 16 17:59  @sean_anderson    . @TrevorABranch Important #rstats in addition to the usual: plyr, reshape2, ggplot2, and maybe lubridate, devtools, Rcpp.
+368497895579721729  Aug 16 18:21  @JonesZM          when using the R JIT is there a way to globally ignore all the "Notes" it generates? #rstats
+368497950768369665  Aug 16 18:22  @rrichard09       RT @JonesZM: when using the R JIT is there a way to globally ignore all the "Notes" it generates? #rstats
+368499695967948800  Aug 16 18:29  @kevin_ushey      RT @ramhiser: Excellent post. The long-standing myth that #rstats cannot be validated in pharama while only #SAS can is absurd. http://t.co/7OmBYZRA70
+368503956495822850  Aug 16 18:46  @amcrisan         RT @ramhiser: Excellent post. The long-standing myth that #rstats cannot be validated in pharama while only #SAS can is absurd. http://t.co/7OmBYZRA70
+368508859284865026  Aug 16 19:05  @xccds            RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) #rstats http://shrd.by/lqst4p
+368525023926951937  Aug 16 20:09  @AL4S_Rich        RT @ramhiser: I feel weird. I've used @rstudioapp for an entire #rstats analysis without resorting to #emacs.
