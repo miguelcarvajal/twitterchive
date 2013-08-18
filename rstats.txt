@@ -15377,3 +15377,17 @@
 368904393883545600  Aug 17 21:17  @samuelsmolinski  RT @carrieseltzer: You know what's awesome? The Taxonomic Name Resolution Service (for plants) and the #Rstats package that connects to it.
 368916740035465217  Aug 17 22:06  @data_Rtist       As I work on a fun project to capture twitter profiles, I keep over and over thanking @geoffjentry for his amazing  twitteR package! #rstats
 368977668080799746  Aug 18 02:08  @pschulam         Start your own personal R package #rstats http://hilaryparker.com/2013/04/03/personal-r-packages/, e.g. https://github.com/kbroman/broman @hspter.
+369001486660825088  Aug 18 03:43  @benjaminlind     The slides from my first lab on #rstats for #snaspb2013 . Covers general introduction to R. http://slid.es/lind_benjamin/sna-2013-r-lab-1
+369005683104296960  Aug 18 03:59  @adolfoalvarez    RT @benjaminlind: The slides from my first lab on #rstats for #snaspb2013 . Covers general introduction to R. http://slid.es/lind_benjamin/sna-2013-r-lab-1
+369007791169888256  Aug 18 04:08  @alexhanna        RT @benjaminlind: The slides from my first lab on #rstats for #snaspb2013 . Covers general introduction to R. http://slid.es/lind_benjamin/sna-2013-r-lab-1
+369012685142114305  Aug 18 04:27  @plotlygraphs     Made in Plotly: NBA Basketball stats as a heatmap https://plot.ly/~jackp/874 #Rstats http://fb.me/RrvrzsfN
+369012809356439552  Aug 18 04:28  @__Romain__       "Ressources R pour les modèles de durée" http://feedly.com/k/14a3Gmc #rstats 
+369023389773463552  Aug 18 05:10  @denisohora       How bad is r squared as a measure of fit of a nonlinear function? http://www.biomedcentral.com/1471-2210/10/6 #rstats
+369037407879852032  Aug 18 06:05  @MoritzBuchi      hmm.. using the bible to learn text analysis in R. (thanks to @RolfFredheim) #Rstats
+369040044171882497  Aug 18 06:16  @MoritzBuchi      I used to think 8GB of RAM was plenty #Rstats #textanalysis http://t.co/dLscxcyge9
+369046223547682817  Aug 18 06:40  @Rbloggers        Negative Payments in Local Spending Data:  (This article was first published on   OUseful.I... http://bit.ly/15Vz1ES #rstats
+369058811186663426  Aug 18 07:30  @Rbloggers        Exercise in REML/Mixed model:  (This article was first published on   Wiekvoet, and kindly contribut... http://bit.ly/1ah3wNk #rstats
+369066212673597440  Aug 18 08:00  @statisticsblog   R for marketers - Using Heatmaps to Uncover the Individual-Level Structure of Brand Perceptions http://i.cx/16SWGZh #r #rstats #marketing
+369068179038806017  Aug 18 08:08  @alexhanna        fyi the R language usually uses the hashtag #rstats #snaspb2013
+369068878610964480  Aug 18 08:10  @jmgomez          RT @stewthedeluxe: Anomaly Detection Using The Adobe Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #AdobeAnalytics #AdobeMktg #measure #rstats
+369077688322899968  Aug 18 08:45  @jmgomez          RT @AlexJCole: Statistics One free online class from Princeton starts in Sept, teaches R http://bit.ly/stats1class @coursera #Rstats #stats
