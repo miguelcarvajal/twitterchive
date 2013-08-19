@@ -15430,3 +15430,14 @@
 369248537915039744  Aug 18 20:04  @BigDataGal       @donkelito #Rstats is the best opensource application for the visualization of #bigdata :)
 369256319657582592  Aug 18 20:35  @erinshellman     I am gettin’ hell of #shiny tonight. #rstats
 369260514259378177  Aug 18 20:52  @dvanliere        RT @nicolastorzec: "Intro to R": a series of 21 short video tutorials to teach developers about #RStats, by Google. http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP
+369278640699109377  Aug 18 22:04  @ChrisGandrud     rmExcept function for #rstats: an anal retentive func. for removing all objects from the env except the ones you want http://bit.ly/12hiuxW
+369278851945230336  Aug 18 22:05  @mizmay           @KathleenLD @BenBalter @jfire uuuuugggg... from my happy #Rstats universe JSON is still just a world of recursion and confusion.
+369283170543214593  Aug 18 22:22  @baogorek         Finished replicating lmer for a toy example, down to the standard errors. Feeling pretty good! #rstats R code: https://gist.github.com/baogorek/6206949
+369291595964633089  Aug 18 22:55  @CT_Analytics     Compared my results against @baseball_ref for calculating player similarity #rstats #dynamicprogramming https://sites.google.com/site/christophermteixeira/Announcements/similarplayersinmlbcomparisonagainstbaseball-reference
+369301104380506113  Aug 18 23:33  @Jowanza          @MailChimp is hiring a Data Researcher: http://bit.ly/19CY7AS #Jobs #Rstats #DataScience
+369303265634435073  Aug 18 23:42  @stevenliaotw     RT @ChrisGandrud: rmExcept function for #rstats: an anal retentive func. for removing all objects from the env except the ones you want http://t.co/ubbDac8FxP
+369318844231200768  Aug 19 00:44  @TrevorABranch    RT @ramhiser: I feel weird. I've used @rstudioapp for an entire #rstats analysis without resorting to #emacs.
+369333162926551040  Aug 19 01:41  @Rbloggers        Endogenous Spatial Lags for the Linear Regression Model:  (This article was first published on   Dif... http://bit.ly/15YMJqK #rstats
+369333164470063104  Aug 19 01:41  @Rbloggers        Slides from Rcpp talk in Chicagp:  (This article was first published on   Thinking inside the box   ... http://bit.ly/15YMGuZ #rstats
+369346312887480320  Aug 19 02:33  @ibartomeus       Google released 20 videos to start using R: http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLMAy4zELAci6GhuXRxZ8yaC7-d36s1NDT #rstats
+369346765348028416  Aug 19 02:35  @josembecerra     RT @ibartomeus: Google released 20 videos to start using R: http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLMAy4zELAci6GhuXRxZ8yaC7-d36s1NDT #rstats
