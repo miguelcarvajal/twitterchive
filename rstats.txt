@@ -15441,3 +15441,24 @@
 369333164470063104  Aug 19 01:41  @Rbloggers        Slides from Rcpp talk in Chicagp:  (This article was first published on   Thinking inside the box   ... http://bit.ly/15YMGuZ #rstats
 369346312887480320  Aug 19 02:33  @ibartomeus       Google released 20 videos to start using R: http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLMAy4zELAci6GhuXRxZ8yaC7-d36s1NDT #rstats
 369346765348028416  Aug 19 02:35  @josembecerra     RT @ibartomeus: Google released 20 videos to start using R: http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLMAy4zELAci6GhuXRxZ8yaC7-d36s1NDT #rstats
+369362481996525569  Aug 19 03:37  @adolfoalvarez    RT @eddelbuettel: A Brief Introduction to Rcpp -- slides from my recent ChicagoRUG talk: http://goo.gl/ldQfbs #rcpp #rstats
+369362498102648832  Aug 19 03:37  @adolfoalvarez    RT @algonpaje: An overview on Association Rules -> http://bit.ly/14MLJ8H #Rstats
+369365209074655233  Aug 19 03:48  @grserrano_       RT @quandl: New tutorial on introductory #econometrics using Quandl & R http://qndl.co/18q58QZ #Rstats
+369365400368054273  Aug 19 03:49  @ioc32            "@lvdeijk: Still running you ssh on tcp/22 are you ? https://isc.sans.edu/diary/Filtering+Signal+From+Noise/16385" Interesting statistical analysis there. #rstats
+369366438827401217  Aug 19 03:53  @INOMICS          RT @quandl: New tutorial on introductory #econometrics using Quandl & R http://qndl.co/18q58QZ #Rstats
+369368232609603584  Aug 19 04:00  @olopez           RT @ioc32: "@lvdeijk: Still running you ssh on tcp/22 are you ? https://isc.sans.edu/diary/Filtering+Signal+From+Noise/16385" Interesting statistical analysis there. #rstats
+369368909905817600  Aug 19 04:03  @gsantosgo        Book. Pro Data Visualization using R and Javascript #Rstats http://www.apress.com/9781430258063
+369369722267377664  Aug 19 04:06  @ecolandlab       RT @ibartomeus: Google released 20 videos to start using R: http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLMAy4zELAci6GhuXRxZ8yaC7-d36s1NDT #rstats
+369372288321200128  Aug 19 04:16  @MangoTheCat      RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) #rstats http://shrd.by/lqst4p
+369372736398688256  Aug 19 04:18  @MangoTheCat      RT @rOpenSci: [Blog] Working with climate data from the web in #rstats  http://bit.ly/1cXIrIU
+369373737482977280  Aug 19 04:22  @kramse           RT @ioc32: "@lvdeijk: Still running you ssh on tcp/22 are you ? https://isc.sans.edu/diary/Filtering+Signal+From+Noise/16385" Interesting statistical analysis there. #rstats
+369379492503879680  Aug 19 04:45  @yusef            RT @algonpaje: An overview on Association Rules -> http://bit.ly/14MLJ8H #Rstats
+369392785482207232  Aug 19 05:37  @cieronymidou     Testers needed! New #rstats package by @Mark_Stevne et al. on spatial analysis & source ID of dispersing organisms http://evolve.sbcs.qmul.ac.uk/lecomber/sample-page/geographic-profiling/geographic-profiling-in-r/
+369394638613782528  Aug 19 05:45  @KCoussement      RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) #rstats http://shrd.by/lqst4p
+369395594122366976  Aug 19 05:49  @TrestleJeff      New features in JavaScript (ECMA6 Draft) - a couple of which will be familiar to #rstats users. http://bit.ly/18F4ejH . Improved OO, too!
+369395627475877888  Aug 19 05:49  @gpuchawski       RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) #rstats http://shrd.by/lqst4p
+369400793754923008  Aug 19 06:09  @Mark_Gardener    Adding support files to the website for my forthcoming book on #CommunityEcology http://www.dataanalytics.org.uk/Publications/CERE%20Support/support%20files.htm #Rstats
+369434726127267840  Aug 19 08:24  @mattfrost        These delimited text files are too big to read into #RStats, but I don't want to rebuild the entire schema in a local RDBMS. Mongodb? Maybe.
+369437438373928961  Aug 19 08:35  @moorejh          #datamining #machinelearning MT @algonpaje: An overview of Association Rules in R http://bit.ly/14MLJ8H #Rstats
+369438816840335361  Aug 19 08:40  @moorejh          #datamining #machinelearning RT @Jowanza: A review of Tree & Forest algorithm packages in #Rstats: http://bit.ly/1cXKKf5
+369438866219872257  Aug 19 08:41  @belakv           RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) #rstats http://shrd.by/lqst4p
