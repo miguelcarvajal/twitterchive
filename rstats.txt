@@ -15462,3 +15462,32 @@
 369437438373928961  Aug 19 08:35  @moorejh          #datamining #machinelearning MT @algonpaje: An overview of Association Rules in R http://bit.ly/14MLJ8H #Rstats
 369438816840335361  Aug 19 08:40  @moorejh          #datamining #machinelearning RT @Jowanza: A review of Tree & Forest algorithm packages in #Rstats: http://bit.ly/1cXKKf5
 369438866219872257  Aug 19 08:41  @belakv           RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) #rstats http://shrd.by/lqst4p
+369451821225766912  Aug 19 09:32  @HarlanH          RT @TrestleJeff: New features in JavaScript (ECMA6 Draft) - a couple of which will be familiar to #rstats users. http://bit.ly/18F4ejH . Improved OO, too!
+369454216256835584  Aug 19 09:42  @johnpharmd       RT @moorejh: #datamining #machinelearning RT @Jowanza: A review of Tree & Forest algorithm packages in #Rstats: http://bit.ly/1cXKKf5
+369465365169844224  Aug 19 10:26  @timelyportfolio  good #rstats post Endogenous Spatial Lags for the Linear Regression Model http://wp.me/p2jI3P-aJ via @wordpressdotcom
+369472286723559427  Aug 19 10:53  @rmflight         RT @NetworkFact: The igraph network library comes in C, #rstats, Python, and Ruby versions. http://igraph.sourceforge.net/index.html
+369486739179466753  Aug 19 11:51  @Rbloggers        Fitting psychometric functions using STAN:  (This article was first published on   dahtah » R, and k... http://bit.ly/1cUgTVI #rstats
+369491401676824576  Aug 19 12:09  @RLangTip         Make R pause for 3 seconds during a script or function: Sys.sleep(3) #rstats http://bit.ly/To3vfw (via @mehdikhaneboubi)
+369491555553255424  Aug 19 12:10  @jmcyap           RT @RLangTip: Make R pause for 3 seconds during a script or function: Sys.sleep(3) #rstats http://bit.ly/To3vfw (via @mehdikhaneboubi)
+369491813846888448  Aug 19 12:11  @inside_R         #rstats R user group meetings this week: NYC, Washington D.C., Philadelphia, Dublin and Ontario http://bit.ly/9hVAPE
+369491816686432256  Aug 19 12:11  @inside_R         #rstats More R user group meetings this week: Nashville, Alpharetta, Santa Barbara and Dallas http://bit.ly/9hVAPE
+369492230618099713  Aug 19 12:13  @bearloga         The #rstats package ‘mcmcplots’ is SO RAD if you work with Bayesian/multilevel models. Faves: caterplot() & traplot() http://t.co/V9kIGDNaUA
+369493014319616001  Aug 19 12:16  @drago_carlo      An overview on Association Rules http://ekonlab.com http://www.ekonlab.com/?p=835 @prismatic #DataMining #MachineLearning #Rstats
+369495198507610112  Aug 19 12:24  @jaredlander      Come see @chimeracoder talk about Go at tonight's #rstats meetup at @knewton
+369498601904304128  Aug 19 12:38  @tdoyon           The 'hints' package - perfect for an R newbie http://cran.r-project.org/web/packages/hints/index.html #rstats
+369499550311936001  Aug 19 12:42  @drewconway       I contribute to #julialang by writing #rstats code https://github.com/johnmyleswhite/JuliaVsR/pull/2 #knowyourplace
+369502291574812672  Aug 19 12:53  @hadleywickham    RT @tdoyon: The 'hints' package - perfect for an R newbie http://cran.r-project.org/web/packages/hints/index.html #rstats
+369502467802660864  Aug 19 12:53  @hadleywickham    RT @drewconway: I contribute to #julialang by writing #rstats code https://github.com/johnmyleswhite/JuliaVsR/pull/2 #knowyourplace
+369503802111447040  Aug 19 12:59  @zevkronenberg    Is there a zero- one- inflated beta distribution (0,1)? in #rstats ?  Any suggestions?  @StatFact @simplystats
+369504606272770048  Aug 19 13:02  @lurino           RT @tdoyon: The 'hints' package - perfect for an R newbie http://cran.r-project.org/web/packages/hints/index.html #rstats
+369504824800206848  Aug 19 13:03  @IanDworkin       RT @tdoyon: The 'hints' package - perfect for an R newbie http://cran.r-project.org/web/packages/hints/index.html #rstats
+369506788661415936  Aug 19 13:10  @stevepowell99    Does #HadleyWickham ever stop? His great new package Hints suggest what you can do with your R objects. http://bit.ly/14PRgeQ #rstats
+369506877257691137  Aug 19 13:11  @HerreraUsagre    RT @RLangTip: List of R functions and packages for clinical trial design, monitoring and analysis: http://bit.ly/pe0KO2 #rstats
+369507093130125312  Aug 19 13:12  @HerreraUsagre    RT @RLangTip: List of R packages for survey design, missing value imputation, and official statistics: http://bit.ly/zmXTHZ #rstats
+369507657075265537  Aug 19 13:14  @chris_harrod     RT @tdoyon: The 'hints' package - perfect for an R newbie http://cran.r-project.org/web/packages/hints/index.html #rstats
+369509706337099776  Aug 19 13:22  @LornaCTweets     RT @ibartomeus: Google released 20 videos to start using R: http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLMAy4zELAci6GhuXRxZ8yaC7-d36s1NDT #rstats
+369512652495933441  Aug 19 13:34  @mt_ur_mind       RT @tdoyon: The 'hints' package - perfect for an R newbie http://cran.r-project.org/web/packages/hints/index.html #rstats
+369522295347228674  Aug 19 14:12  @tanyacash21      Was googling some nv3d #rstats charts and look who I stumbled upon @gregburd! https://bitbucket.org/gregburd/nv3d/src/9492271a5811aadc944991c2c93e4b28b0ae04e6/examples/lineChartSVGResize.html?at=master
+369525476387086336  Aug 19 14:25  @drunself         Someone needs to update R library(foreign) to read Stata13 #rstats
+369526845248532480  Aug 19 14:30  @ChrisBeeley      RT @tdoyon: The 'hints' package - perfect for an R newbie http://cran.r-project.org/web/packages/hints/index.html #rstats
+369529460942323712  Aug 19 14:41  @Rbloggers        R vs Python Speed Comparison for Bootstrapping:  (This article was first published on   Climate Chan... http://bit.ly/1alcp8A #rstats
