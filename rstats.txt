@@ -15527,3 +15527,55 @@
 369676302220926977  Aug 20 00:24  @monsoontrader    Imma simulatin' #rstats
 369700301261266945  Aug 20 01:59  @denisohora       Working with climate data from the web in R http://www.r-bloggers.com/working-with-climate-data-from-the-web-in-r/ Handy techniques for online data #rstats @Rbloggers
 369709579845660672  Aug 20 02:36  @suryanarayandev  RT @AhmedMoustafa: #Microsoft's Clippy recommends R for #Bioinformatics :) via @tim_yates  #rstats http://t.co/OdaPVxjfBE
+369721459918131200  Aug 20 03:23  @waqaschattha     useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
+369721645016944640  Aug 20 03:24  @adolfoalvarez    RT @waqaschattha: useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
+369724622213611520  Aug 20 03:36  @Rbloggers        Warrior Zombies from Outer Space II: Mayhem Unleashed:  (This article was first published on   Hot D... http://bit.ly/164G4eI #rstats
+369724839482753024  Aug 20 03:37  @upLib            RT @rOpenSci: [Blog] Working with climate data from the web in #rstats  http://bit.ly/1cXIrIU
+369740885618991104  Aug 20 04:41  @coulmont         Super tutorial en vidéo http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP #Rstats #rstat
+369744394519609345  Aug 20 04:55  @paridebertulio   RT @rOpenSci: [Blog] Working with climate data from the web in #rstats  http://bit.ly/1cXIrIU
+369746768956633088  Aug 20 05:04  @stevepowell99    Correction:  @HadleyWickham's great "new" R-package Hints is 4 years old. Still fresh as a daisy though http://bit.ly/14PRgeQ  #rstats
+369750473789943808  Aug 20 05:19  @mansfieldbitter  Whole day of #maths and #Rstats planned for #int13. I should not be this excited.
+369755942973607936  Aug 20 05:41  @tdoyon           "The Wonderful ggmap package for spatial analysis in R #rstats" http://feedly.com/k/19uTup8
+369760893611298816  Aug 20 06:00  @randyzwitch      @dberkholz @benjamingaines @MichaelDHealy The package is also available on CRAN (the centralized R code repo) #AdobeAnalytics #rstats
+369769024525053952  Aug 20 06:33  @benjaminlind     Now available: my slides for Lab 2. General #sna measurements, #rstats, & #metal within #snaspb2013 http://slid.es/lind_benjamin/sna-2013-r-lab-2 \m/
+369769062098038785  Aug 20 06:33  @alexhanna        RT @benjaminlind: Now available: my slides for Lab 2. General #sna measurements, #rstats, & #metal within #snaspb2013 http://t.co/EsSof0RaXK \m/
+369774201973919745  Aug 20 06:53  @Rbloggers        ChainLadder 0.1.6 released with chain-ladder factor models:  (This article was first published on   ... http://bit.ly/14xpu7G #rstats
+369774202598858753  Aug 20 06:53  @Rbloggers        The PISA2003lite package is released. Let’s explore!:  (This article was first published on   Smarte... http://bit.ly/14xpuo0 #rstats
+369776117537722368  Aug 20 07:01  @CoreySparks1     Export R Results Tables to Excel – Please don’t kick me out of your club  #rstats http://feedproxy.google.com/~r/RBloggers/~3/SA5cIoIZoss/
+369777055577014272  Aug 20 07:04  @paulblaser       The Wonderful ggmap package for spatial analysis in R #rstats http://wp.me/p9q8Y-2VE via @Gliders_Coach
+369779586361327616  Aug 20 07:14  @MangoTheCat      RT @znmeb: The Wonderful ggmap package for spatial analysis in R #rstats | @scoopit via @Gliders_Coach http://sco.lt/6ixJCb
+369787310562615296  Aug 20 07:45  @IAB2012          RT @RLangTip: Make R pause for 3 seconds during a script or function: Sys.sleep(3) #rstats http://bit.ly/To3vfw (via @mehdikhaneboubi)
+369787995211431936  Aug 20 07:48  @KirkDBorne       HT @StatsBlogs: "Step-by-step to build my first R #Hadoop System" http://goo.gl/fb/rMc1A < #Rstats, #MapReduce
+369789440564412416  Aug 20 07:54  @strengejacke     Print glm-output to HTML table #rstats http://wp.me/pIrDl-bG
+369792578608439296  Aug 20 08:06  @jmgomez          RT @Timothyjgraham: The slides from my first lab on #rstats for #snaspb2013 . Covers general introduction to R. http://slid.es/lind_benjamin/sna-2013-r-lab-1
+369793587417853952  Aug 20 08:10  @Rbloggers        Step by step to build my first R Hadoop System:  (This article was first published on   blog.RDataMi... http://bit.ly/1bPh0xV #rstats
+369795400405762049  Aug 20 08:17  @statisticsblog   A comparison of the speed of R and Python in bootstrapping. http://i.cx/18GsVvZ #r #rstats #python
+369796237706289154  Aug 20 08:21  @tonyfujs         Creating small multiples is really easy with #rstats and ggplot.  Here is my version of the map using http://bit.ly/1eZoIFw 3/3
+369797150710169601  Aug 20 08:24  @markus_eichhorn  Rgeoprofile - a new tool to locate sources from point patterns, originally used in criminology http://is.gd/Y88Io4 #rstats #int13
+369798527557197825  Aug 20 08:30  @hjms             Time to for my recurring tweet praising the stargazer package. #rstats
+369806220128813056  Aug 20 09:00  @Timothyjgraham   RT @benjaminlind: Now available: my slides for Lab 2. General #sna measurements, #rstats, & #metal within #snaspb2013 http://t.co/EsSof0RaXK \m/
+369806892605792256  Aug 20 09:03  @randyzwitch      I'm about to be the next 'only posting code on GitHub and forsaking CRAN' guy. #rstats
+369807224731758592  Aug 20 09:04  @drago_carlo      My First Hadoop System http://www.r-bloggers.com/step-by-step-to-build-my-first-r-hadoop-system/ @Rbloggers @RDataMining #Hadoop #Rstats
+369808481487835136  Aug 20 09:09  @drago_carlo      Fitting a Model by Maximum Likelihood http://www.r-bloggers.com/fitting-a-model-by-maximum-likelihood/ @Rbloggers #Statistics #Modeling #MaximumLikelihood #Rstats
+369808823227121664  Aug 20 09:11  @treycausey       Comparing speed of #rstats and Python for bootstrapping, with bonus discussion in the comments by @hadleywickham. http://bit.ly/155de1s
+369816473503408128  Aug 20 09:41  @ManningMEAP      MEAP Update: R in Action, Second Edition has added chapters 5-10 http://www.manning.com/kabacoff2/ @ManningBooks @kabacoff #Rstats
+369816477181812736  Aug 20 09:41  @timelyportfolio  RT @tonyfujs: Creating small multiples is really easy with #rstats and ggplot.  Here is my version of the map using http://bit.ly/1eZoIFw 3/3
+369816549462253568  Aug 20 09:41  @ManningBooks     RT @ManningMEAP: MEAP Update: R in Action, Second Edition has added chapters 5-10 http://www.manning.com/kabacoff2/ @ManningBooks @kabacoff #Rstats
+369816710473191424  Aug 20 09:42  @timelyportfolio  RT @richmanmax: Learning about Slidify (html slidedecks from yaml & rMarkdown) and rCharts (generate js charts from #Rstats) at @DataCommunityDC meetup.
+369819589942599680  Aug 20 09:53  @JeffHemsley      RT @treycausey: Comparing speed of #rstats and Python for bootstrapping, with bonus discussion in the comments by @hadleywickham. http://t.co/aLMUiOJrWg
+369834377125330944  Aug 20 10:52  @FarahAlShorbaji  @beckerhopper just spoke with someone who said she loved the book, used it all the time #rstats #gettingstartedwithR
+369835817608306688  Aug 20 10:58  @randyzwitch      So I'm supposed to test #rstats package against r-devel, the packages I need aren't available on devel & code passes 3.0.1 but fails CRAN.
+369837554628960256  Aug 20 11:05  @erinshellman     Going through my old ‘intro to R’ talks for material for my next one and finding them VERY zany. I actually said 'cornucopia.’ #rstats
+369851525704609792  Aug 20 12:00  @statisticsblog   R tip of the day - Fitting a Model by Maximum Likelihood Estimation (MLE) http://i.cx/1cVuADY #r #rstats #mle
+369853414873632769  Aug 20 12:08  @raphg            Our paper on modeling of peptide microarray data highlighted on the front page of JIM http://www.journals.elsevier.com/journal-of-immunological-methods/ #rstats #openaccess
+369853447769968640  Aug 20 12:08  @RLangTip         List the row/column indices of matrix x, from largest to smallest: cbind(row(x)[order(-x)],col(x)[order(-x)]) #rstats http://bit.ly/IqTdbe
+369854175758143490  Aug 20 12:11  @raphg            New paper from our group on modeling of single-cell assay data (MIMOSA) http://biostatistics.oxfordjournals.org/content/early/2013/07/24/biostatistics.kxt024.full #singlecell #cytometry #rstats
+369854672103677952  Aug 20 12:13  @raphg            New paper from our group on Bayesian eQTL modeling (iBMQ) #rstats #bioconductor package http://bioinformatics.oxfordjournals.org/content/early/2013/08/19/bioinformatics.btt485.abstract
+369861663979094016  Aug 20 12:41  @CasalsTMarti     RT @statisticsblog: R tip of the day - Fitting a Model by Maximum Likelihood Estimation (MLE) http://i.cx/1cVuADY #r #rstats #mle
+369862925164773376  Aug 20 12:46  @quandl           Fig #Data: 11 tips on how to handle #BigData in R by @statshero http://qndl.co/1cUbLB8 #Rstats
+369867299848982528  Aug 20 13:03  @csgillespie      "@nclbsu: R/Bioconductor Course http://wp.me/p18EKt-dl" #rstats
+369869431893024769  Aug 20 13:11  @BUbioinfo        RT @raphg: New paper from our group on Bayesian eQTL modeling (iBMQ) #rstats #bioconductor package http://bioinformatics.oxfordjournals.org/content/early/2013/08/19/bioinformatics.btt485.abstract
+369883967962365952  Aug 20 14:09  @kwbroman         Blog: An #rstats tip: "[" and "[[" with the apply() functions http://wp.me/p1MjYA-tR
+369886782277427200  Aug 20 14:20  @AmeliaMN         Is there a limit to the number of #rstats packages you can have loaded at any given time? I assume computer memory is limiting, but not sure
+369891896363327488  Aug 20 14:41  @chlalanne        RT @kwbroman: Blog: An #rstats tip: "[" and "[[" with the apply() functions http://wp.me/p1MjYA-tR
+369892863032967168  Aug 20 14:45  @beccamedwards    Text Mining with R: Comparing Word Counts in two Text Documents http://bit.ly/14wlrby #rstats
