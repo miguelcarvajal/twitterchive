@@ -15491,3 +15491,34 @@
 369525476387086336  Aug 19 14:25  @drunself         Someone needs to update R library(foreign) to read Stata13 #rstats
 369526845248532480  Aug 19 14:30  @ChrisBeeley      RT @tdoyon: The 'hints' package - perfect for an R newbie http://cran.r-project.org/web/packages/hints/index.html #rstats
 369529460942323712  Aug 19 14:41  @Rbloggers        R vs Python Speed Comparison for Bootstrapping:  (This article was first published on   Climate Chan... http://bit.ly/1alcp8A #rstats
+369536044993363968  Aug 19 15:07  @ciaran_mc_c      RT @tdoyon: The 'hints' package - perfect for an R newbie http://cran.r-project.org/web/packages/hints/index.html #rstats
+369538314463744000  Aug 19 15:16  @kathryn_tm       Will R ever fall into disuse as other languages increase statistical functioning? http://goo.gl/b95GFK #rstats @Rbloggers
+369543929122672641  Aug 19 15:38  @bearloga         .@revodavid Right high-five and left fist-bump to Revolution Analytics for the #rstats package ‘doMC,’ which helps with multicore computing.
+369544055325085696  Aug 19 15:39  @GregKapfhammer   If you want to use the latest version of #rstats on #Ubuntu, then you may need to install this PPA. Check it out now: http://is.gd/L3CHTx
+369545221366751232  Aug 19 15:43  @cwarden45        RT @genetics_blog: #Rstats/#Bioconductor pkg for Sample Size & Power Analysis for Microarray & NGS data http://www.bioconductor.org/packages/release/bioc/html/SSPA.html #bioinformatics
+369545630491758592  Aug 19 15:45  @mherradora       RT @ibartomeus: Google released 20 videos to start using R: http://www.youtube.com/watch?v=iffR3fWv4xw&list=PLMAy4zELAci6GhuXRxZ8yaC7-d36s1NDT #rstats
+369547692562579456  Aug 19 15:53  @timelyportfolio  just read New evidence on the first financial bubble http://scholar.google.com/scholar?cluster=8389781959768146985&hl=en&as_sdt=0,1 from goetzmann; nice to see all the #rstats references
+369548252816744449  Aug 19 15:55  @nyhackr          Tonight's #rstats meetup w/ @chimeracoder (http://bit.ly/14NK4Q7) starts in a couple hours at @knewton livestream at http://bit.ly/1bMQe9k
+369550067750821888  Aug 19 16:02  @drewconway       Bummed to miss RT @nyhackr: Tonight's #rstats meetup w/ @chimeracoder starts in a couple hours at @knewton livestream http://bit.ly/1bMQe9k
+369551425765769216  Aug 19 16:08  @bjdewilde        RT @nyhackr: Tonight's #rstats meetup w/ @chimeracoder (http://bit.ly/14NK4Q7) starts in a couple hours at @knewton livestream at http://t.co/6x2hmZ3Srm
+369551916411265025  Aug 19 16:10  @timelyportfolio  @timelyportfolio even better; data is available here http://som.yale.edu/faculty-research/our-centers-initiatives/international-center-finance/data/historical-southseasbubble #rstats $$
+369552219097415680  Aug 19 16:11  @metaforsoftware  Holt-Winters = problematic. RT @randyzwitch: Anomaly Detection Using The Adobe #Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #measure #rstats
+369560834248548352  Aug 19 16:45  @bad_lad          RT @RLangTip: Make R pause for 3 seconds during a script or function: Sys.sleep(3) #rstats http://bit.ly/To3vfw (via @mehdikhaneboubi)
+369561485971685377  Aug 19 16:48  @FindnMeet        @nyhackr+@jaredlander the #rstats meetup w/ @chimeracoder is one of #NYC most popular #event's 2day! Details+Rsvp's: http://bit.ly/19ELvt8
+369564532516978688  Aug 19 17:00  @zentree          Thinking that the #Rstats console should use different colors for errors and successful operations; currently both are read.
+369565208211382272  Aug 19 17:03  @EpiFunky         @phnk “@zentre :Thinking that the #Rstats console should use different colors for errors and successful operations; currently both are read”
+369565838656802821  Aug 19 17:05  @erinshellman     RT @tdoyon: The 'hints' package - perfect for an R newbie http://cran.r-project.org/web/packages/hints/index.html #rstats
+369566758182862848  Aug 19 17:09  @tpoi             RT @zentree: Thinking that the #Rstats console should use different colors for errors and successful operations; currently both are read.
+369571991696592896  Aug 19 17:30  @JodyEdmondson    #rstats Are there scenarios where Lattice is a better choice than ggplot2?
+369573746442375168  Aug 19 17:37  @RevolutionR      RT @bearloga: .@revodavid Right high-five and left fist-bump to Revolution Analytics for the #rstats package ‘doMC,’ which helps with multicore computing.
+369577294995939329  Aug 19 17:51  @JodyEdmondson    #rstats excellent quick ggplot2 guide  http://bit.ly/1bNDNKx
+369578855511891968  Aug 19 17:57  @richierocks      @RLangTip To rephrase: Improve your #rstats code performance by removing calls to Sys.sleep!
+369581889683615744  Aug 19 18:09  @Gliders_Coach    The Wonderful ggmap package for spatial analysis in R #rstats http://wp.me/p9q8Y-2VE
+369587742092443648  Aug 19 18:32  @nashturley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
+369594751223205888  Aug 19 19:00  @Rbloggers        Text Mining with R – Comparing Word Counts in two Text Documents:  (This article was first published... http://bit.ly/162U1cV #rstats
+369602780643614721  Aug 19 19:32  @richmanmax       Learning about Slidify (html slidedecks from yaml & rMarkdown) and rCharts (generate js charts from #Rstats) at @DataCommunityDC meetup.
+369610770965090304  Aug 19 20:04  @richmanmax       Cool, rCharts has bindings with @LeafletJS so can quickly publish interactive webmaps from #Rstats and then push to Slidify & github #DataDC
+369619247238230016  Aug 19 20:37  @terencedrose     RT @richmanmax: Cool, rCharts has bindings with @LeafletJS so can quickly publish interactive webmaps from #Rstats and then push to Slidify & github #DataDC
+369619541137305600  Aug 19 20:39  @znmeb            The Wonderful ggmap package for spatial analysis in R #rstats | @scoopit via @Gliders_Coach http://sco.lt/6ixJCb
+369622273269174272  Aug 19 20:49  @goldstoneandrew  Ah, R. Is there no simple data-munging task you can't turn into a laborious nightmare for both me and my machine? #rstats
+369624490180751360  Aug 19 20:58  @hr_mr_zork       Generar Mapas de Palabras Geolocalizadas de Twitter http://is.gd/wm3aFv  #Rstats #twitter #maps
