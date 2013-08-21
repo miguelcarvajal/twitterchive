@@ -3289,3 +3289,17 @@
 370150048732286976  Aug 21 07:47  @Bioinfomatic     RT @rnomics: RNA-Seq Europe 2013 – Final Agenda Released: The final program for... http://bit.ly/14VP8C8 #Events #RNASeq #rnaseqeurope #RNAseq @MyEN
 370157100560691202  Aug 21 08:15  @rnomics          Sailfish: Alignment-free Isoform Quantification from #RNA-seq Reads... http://bit.ly/14VU2ix #ExpressionandQuantification #RNAseq @MyEN
 370157921889705984  Aug 21 08:18  @nikhilgopal      Sailfish: Alignment-free Isoform Quantification from RNA-seq Reads using Lightweight Algorithms http://bit.ly/16vBeux
+370182256788512768  Aug 21 09:55  @BehavEcology     Wilfert: discovering novel viruses in bees using RNA-Seq. need to validate the discoveries, though.  #eseb2013
+370182617074651136  Aug 21 09:56  @gabeinformatics  Stuart Brown (NYU): Did retrospective comparison of CASAVA RNA-Seq pipeline versus TopHat/STAR methods. Only 62% of DE genes shared! #NGX13
+370183623410221056  Aug 21 10:00  @genetics_blog    Comparison of Illumina RNA-Seq and Affy microarray platforms gene expression in colon cancer cells http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697991/
+370184156204249088  Aug 21 10:02  @Bioinfomatic     RT @genetics_blog: Comparison of Illumina RNA-Seq and Affy microarray platforms gene expression in colon cancer cells http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697991/
+370184234016575488  Aug 21 10:02  @izzyscomo        RT @genetics_blog: Comparison of Illumina RNA-Seq and Affy microarray platforms gene expression in colon cancer cells http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697991/
+370184426543919104  Aug 21 10:03  @notSoJunkDNA     @gabeinformatics Who uses Casava RNA-Seq pipeline anyway?
+370188083137753088  Aug 21 10:18  @evolvability     RT @notSoJunkDNA: @gabeinformatics Who uses Casava RNA-Seq pipeline anyway?
+370188579676622848  Aug 21 10:20  @notSoJunkDNA     @evolvability @gabeinformatics Again, who uses it? Benchmark? (and it's not for RNA-Seq ;-)
+370204432975147008  Aug 21 11:23  @gabeinformatics  @notSoJunkDNA @evolvability NYU core lab used it for 2 years (don't anymore). CASAVA did have a RNA-Seq workflow. But in general, it sucks.
+370207266118856704  Aug 21 11:34  @nikhilgopal      RNA-Seq Europe 2013 – Final Agenda Released http://bit.ly/183DmI0
+370216178272043008  Aug 21 12:09  @mikelove         Poisson-Tweedie distributions for RNA-Seq counts: tweeDEseq http://www.biomedcentral.com/1471-2105/14/254/abstract
+370232687119712256  Aug 21 13:15  @OmicsOmicsBlog   Rockhopper, bacterial RNA-Seq analysis pipeline http://nar.oxfordjournals.org/content/41/14/e140.abstract
+370243444393791488  Aug 21 13:58  @xypan1232        RT @genetics_blog: Comparison of Illumina RNA-Seq and Affy microarray platforms gene expression in colon cancer cells http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697991/
+370246236345233408  Aug 21 14:09  @notSoJunkDNA     RT @OmicsOmicsBlog: Rockhopper, bacterial RNA-Seq analysis pipeline http://nar.oxfordjournals.org/content/41/14/e140.abstract

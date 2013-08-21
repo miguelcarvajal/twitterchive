@@ -15514,6 +15514,7 @@
 369577294995939329  Aug 19 17:51  @JodyEdmondson    #rstats excellent quick ggplot2 guide  http://bit.ly/1bNDNKx
 369578855511891968  Aug 19 17:57  @richierocks      @RLangTip To rephrase: Improve your #rstats code performance by removing calls to Sys.sleep!
 369581889683615744  Aug 19 18:09  @Gliders_Coach    The Wonderful ggmap package for spatial analysis in R #rstats http://wp.me/p9q8Y-2VE
+369587742092443648  Aug 19 18:32  @NashTurley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369587742092443648  Aug 19 18:32  @nashturley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369594751223205888  Aug 19 19:00  @Rbloggers        Text Mining with R – Comparing Word Counts in two Text Documents:  (This article was first published... http://bit.ly/162U1cV #rstats
 369602780643614721  Aug 19 19:32  @richmanmax       Learning about Slidify (html slidedecks from yaml & rMarkdown) and rCharts (generate js charts from #Rstats) at @DataCommunityDC meetup.
@@ -15642,3 +15643,35 @@
 370154077214097410  Aug 21 08:03  @brianabelson     @revodavid thanks for the post! we've abstracted most of music-generation into an #rstats package too: http://github.com/csv/ddr
 370163331140562944  Aug 21 08:39  @lc0d3r           #tableau reminds me of a big enterprise monster: big, legacy, inflexible. Sometimes thinking about using R + shiny #rstats #datavis
 370164850787647488  Aug 21 08:45  @flavioclesio     RT @jmgomez: RT @algonpaje: An overview on Association Rules -> http://bit.ly/14MLJ8H #Rstats #datamining
+370168756099489792  Aug 21 09:01  @kognitio         #CFO - tored of your big @SAS_Analytics bill?  #Rstats in-memory is the answer! http://bit.ly/17vxBFJ
+370169192496254976  Aug 21 09:03  @BrockTibert      @Dubscg my analytics stack for #emchat is mostly #rstats and @tableau, w/some #SPSS + python.  @evernote + @dropbox helps with doc mgmt,
+370171700685860864  Aug 21 09:13  @IronistM         New trend? RT @randyzwitch: I'm about to be http://bit.ly/1cX6yZfting code on GitHub and forsaking CRAN' guy. #rstats
+370182154816606208  Aug 21 09:54  @HarlanH          RT @lc0d3r: #tableau reminds me of a big enterprise monster: big, legacy, inflexible. Sometimes thinking about using R + shiny #rstats #datavis
+370183804599934976  Aug 21 10:01  @jonsedar         RT @lc0d3r: #tableau reminds me of a big enterprise monster: big, legacy, inflexible. Sometimes thinking about using R + shiny #rstats #datavis
+370188152926785537  Aug 21 10:18  @NestorMontano    R, drug development and the FDA http://blog.revolutionanalytics.com/2013/08/r-drug-development-and-the-fda.html#! #RStats
+370200689445986304  Aug 21 11:08  @kribys           @ogreve Kan jeg sitere deg på det i #rstats -kompendiet jeg vurderer å lage til kollegaene mine?
+370201855000727552  Aug 21 11:12  @jwessnit         RT @KTInvasion: Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+370204443444523008  Aug 21 11:23  @ogreve           RT @kribys: @ogreve Kan jeg sitere deg på det i #rstats -kompendiet jeg vurderer å lage til kollegaene mine?
+370209599598891008  Aug 21 11:43  @izamryan         #ASEAN econometric analysis in #rstats - Part 1 http://bit.ly/1arIZpp
+370209924136964098  Aug 21 11:44  @revodavid        Great mashup of data scraping, sonification, and visualization with R. Musical #DataViz of Fed interest rates http://bit.ly/14huWPG #rstats
+370212527734788096  Aug 21 11:55  @siah             “[” and “[[” with the apply() functions  http://ow.ly/o7iC7 #rstats
+370213802098184192  Aug 21 12:00  @kevin_ushey      RT @benjaminlmoore: On S3 vs S4 OOP in #rstats: "If you love computer science more than you value your own time, use S4." https://t.co/ORPek4GqXg
+370215379290705920  Aug 21 12:06  @pschulam         RT @siah: “[” and “[[” with the apply() functions  http://ow.ly/o7iC7 #rstats
+370215758347132928  Aug 21 12:08  @RLangTip         How to use the caret package to select, train and optimize predictive models: http://bit.ly/NE1Rpo #rstats
+370215891130019841  Aug 21 12:08  @MattDabrowski    RT @RLangTip: How to use the caret package to select, train and optimize predictive models: http://bit.ly/NE1Rpo #rstats
+370216013234966528  Aug 21 12:09  @AliRebaie        #Microsoft's Office Clippy recommends R for #Bioinformatics :) via @tim_yates #rstats http://t.co/8wQnSoeCIS
+370216464323977216  Aug 21 12:10  @jmgomez          RT @JodyEdmondson: #rstats excellent quick ggplot2 guide  http://bit.ly/1bNDNKx #dataviz
+370217903448014849  Aug 21 12:16  @kwbroman         #knitr’s spin() is just what I need for capturing exploratory data analysis in #rstats. Thanks for anticipating my needs, @xieyihui!
+370219132676870144  Aug 21 12:21  @jmcyap           RT @RLangTip: How to use the caret package to select, train and optimize predictive models: http://bit.ly/NE1Rpo #rstats
+370219702297317376  Aug 21 12:23  @CasalsTMarti     RT @RLangTip: How to use the caret package to select, train and optimize predictive models: http://bit.ly/NE1Rpo #rstats
+370231229271924737  Aug 21 13:09  @NestorMontano    Creando un gráfico de Dispersión con ggplot2 (Scatterplot) Parte 3 .- Introducción al uso de Condicionamiento http://blog.espol.edu.ec/nemo/2011/01/16/creando-grafico-dispersion-ggplot2-part3/ #RStats
+370233452630921218  Aug 21 13:18  @AliRebaie        Mashup of data scraping, sonification, & visualization w/ R. Musical #DataViz of Fed int rates http://bit.ly/14huWPG via @revodavid #rstats
+370236767783649280  Aug 21 13:31  @davdittrich      influenceME now supports new lme4 1.0 | Curving Normality http://ow.ly/21s2bS #rstats
+370244067709693952  Aug 21 14:00  @chrisbrunsdon    RT @siah: “[” and “[[” with the apply() functions  http://ow.ly/o7iC7 #rstats
+370249105186230272  Aug 21 14:20  @sarcozona        #rstats champ of the day: findInterval() very handy when u need to find simultaneous events & have ranges for some and daily list for other
+370253114458132480  Aug 21 14:36  @eddelbuettel     RT @benjaminlmoore: On S3 vs S4 OOP in #rstats: "If you love computer science more than you value your own time, use S4." https://t.co/ORPek4GqXg
+370254367279943680  Aug 21 14:41  @vasantmarur      RT @benjaminlmoore: On S3 vs S4 OOP in #rstats: "If you love computer science more than you value your own time, use S4." https://t.co/ORPek4GqXg
+370255883219247104  Aug 21 14:47  @bryanmparsons    Best part of a new semester? Starting my undergrad methods course. Worst part? Opening SPSS again. #rstats
+370256019722481664  Aug 21 14:48  @tofias           RT @bryanmparsons: Best part of a new semester? Starting my undergrad methods course. Worst part? Opening SPSS again. #rstats
+370257242857426944  Aug 21 14:53  @datennutzen      Step by step to build a #rstats #Hadoop System http://www.r-bloggers.com/step-by-step-to-build-my-first-r-hadoop-system/ via @rbloggers
+370257858777997312  Aug 21 14:55  @CjBayesian       New post: Forecasting #bicycle accidents 3 years into the (past's) future. http://bayesianbiologist.com/2013/08/20/time-series-forecasting-bike-accidents/ #timeseries #rstats #montreal
