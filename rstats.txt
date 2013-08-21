@@ -15579,3 +15579,29 @@
 369886782277427200  Aug 20 14:20  @AmeliaMN         Is there a limit to the number of #rstats packages you can have loaded at any given time? I assume computer memory is limiting, but not sure
 369891896363327488  Aug 20 14:41  @chlalanne        RT @kwbroman: Blog: An #rstats tip: "[" and "[[" with the apply() functions http://wp.me/p1MjYA-tR
 369892863032967168  Aug 20 14:45  @beccamedwards    Text Mining with R: Comparing Word Counts in two Text Documents http://bit.ly/14wlrby #rstats
+369899474933383169  Aug 20 15:11  @statisticsblog   The complexity of law: an analysis of US code length using R. http://i.cx/14XKAlU #r #rstats #law
+369900279975538688  Aug 20 15:14  @KTInvasion       Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+369903024489377792  Aug 20 15:25  @larysar          RT @KTInvasion: Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+369904959896055808  Aug 20 15:33  @hadleywickham    RT @KTInvasion: Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+369905485967015936  Aug 20 15:35  @ecpolley         RT @KTInvasion: Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+369908115267145729  Aug 20 15:45  @BrianSpiering    Attending "Big Data Science from R - H2O and Data Science!" Meetup http://buff.ly/12mBivG #rstats #bigdata
+369908210712723457  Aug 20 15:46  @tdoyon           RT @KTInvasion: Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+369909038017806336  Aug 20 15:49  @aDataHead        Machine Learning for Predicting Bad Loans in #rstats http://blog.yhathq.com/posts/machine-learning-for-predicting-bad-loans.html via @yhathq
+369909196864503808  Aug 20 15:49  @hurricanejim     RT @KTInvasion: Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+369911586774724608  Aug 20 15:59  @vijay_ivaturi    RT @KTInvasion: Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+369911749320773632  Aug 20 16:00  @rmflight         .@albertopepe I normally use #rstats markdown for my own work, but this is a coll. paper started by someone else, and resub is < 7 days
+369912918500204544  Aug 20 16:04  @hjms             RT @KTInvasion: Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+369919021757366272  Aug 20 16:29  @austinogilvie    RT @aDataHead: Machine Learning for Predicting Bad Loans in #rstats http://blog.yhathq.com/posts/machine-learning-for-predicting-bad-loans.html via @yhathq
+369922593144725504  Aug 20 16:43  @as2140           RT @statisticsblog: The complexity of law: an analysis of US code length using R. http://i.cx/14XKAlU #r #rstats #law
+369924022462476289  Aug 20 16:48  @chris_harrod     RT @KTInvasion: Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+369935346848759808  Aug 20 17:33  @raulsalassqldba  RT @KirkDBorne: HT @StatsBlogs: "Step-by-step to build my first R #Hadoop System" http://flip.it/gvOLH < #Rstats, #MapReduce
+369935533931520000  Aug 20 17:34  @PaulJames379     RT @treycausey: Comparing speed of #rstats and Python for bootstrapping, with bonus discussion in the comments by @hadleywickham. http://t.co/aLMUiOJrWg
+369935651757912064  Aug 20 17:35  @ronert_obst      RT @kwbroman: Blog: An #rstats tip: "[" and "[[" with the apply() functions http://wp.me/p1MjYA-tR
+369943518006882304  Aug 20 18:06  @monkmanmh        RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
+369949666143531009  Aug 20 18:30  @Rbloggers        Electronic lab notebook:  (This article was first published on   The stupidest thing... » R, and kin... http://bit.ly/168vYcL #rstats
+369949666722336768  Aug 20 18:30  @Rbloggers        “[” and “[[” with the apply() functions:  (This article was first published on   The stupidest thing... http://bit.ly/168w18d #rstats
+369955313254137856  Aug 20 18:53  @sirrice          RT @KTInvasion: Oh man, this is just what I needed! #rstats table of ggplot2 geoms and aes  http://stackoverflow.com/questions/11657380/is-there-a-table-or-catalog-of-aesthetics-for-ggplot2
+369956344792485888  Aug 20 18:57  @GarfieldFisher   talking #BigDataAnalytics with the co-funder of http://staff.com tomorrow. would love code a #predictivematching app using #Rstats
+369959922492272640  Aug 20 19:11  @ejstembler       RT @aDataHead: Machine Learning for Predicting Bad Loans in #rstats http://blog.yhathq.com/posts/machine-learning-for-predicting-bad-loans.html via @yhathq
+369977270313578496  Aug 20 20:20  @Rbloggers        Time-series forecasting: Bike Accidents:  (This article was first published on   bayesianbiologist »... http://bit.ly/168TXs5 #rstats
+369979474898472960  Aug 20 20:29  @revodavid        Listen to @csvsoundsystem's house/trance stylings of Fed Treasury statistics: http://bit.ly/14huWPG #rstats #DataViz #sonification
