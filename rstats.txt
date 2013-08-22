@@ -15726,3 +15726,28 @@
 370415155688923136  Aug 22 01:20  @Rbloggers        Demand for R jobs on the rise, ctd:  (This article was first published on   Revolutions, and kindly ... http://bit.ly/1d3X0M0 #rstats
 370421626891808768  Aug 22 01:46  @uckrishnab       For you jobsearchers, R & stats can give you an edge RT @Rbloggers: Demand for R jobs on the rise, ctd:. http://bit.ly/1d3X0M0 #rstats
 370427717792960512  Aug 22 02:10  @bioveleu         #INT13 Today: Matthias Obst (U. of Gothenburg) speaks about his work using BioVeL, openModeller and #rstats http://eventmobi.com/INTECOL2013/#!/session/184013/ #econiche
+370448282973376512  Aug 22 03:32  @mmeierer         influence.ME is an R package for detecting influential data in multilevel models (now supports lme4 1.0) http://bit.ly/19yTMv2 #rstats
+370451958370668544  Aug 22 03:46  @roberthaines77   RT @bioveleu: #INT13 Today: Matthias Obst (U. of Gothenburg) speaks about his work using BioVeL, openModeller and #rstats http://t.co/qMC2Z5H46Y #econiche
+370454504677707777  Aug 22 03:56  @benjaminlind     My fourth #rstats #sna lab for #snaspb2013.  The exercises today are on the subject of p* / ergm. http://slid.es/lind_benjamin/sna-2013-r-lab-4
+370454875488141312  Aug 22 03:58  @alexhanna        RT @benjaminlind: My fourth #rstats #sna lab for #snaspb2013.  The exercises today are on the subject of p* / ergm. http://slid.es/lind_benjamin/sna-2013-r-lab-4
+370454919968751616  Aug 22 03:58  @BadHessian       RT @benjaminlind: My fourth #rstats #sna lab for #snaspb2013.  The exercises today are on the subject of p* / ergm. http://slid.es/lind_benjamin/sna-2013-r-lab-4
+370455297959018496  Aug 22 04:00  @kribys           How to merge multiple data sets in #rstats and append comments to a new variable? http://stackoverflow.com/questions/18374604/how-to-merge-multiple-data-sets-and-append-comments-to-a-new-variable @hamnis @StackOverflowR
+370455493958848512  Aug 22 04:00  @JimGrange        Interesting #RStats package ("retimes") for analysing response time data: http://bit.ly/13SXTxA
+370457174360997888  Aug 22 04:07  @paridebertulio   RT @RLangTip: Use read.csv2 to import ASCII data from countries that use the comma as a decimal point #rstats http://bit.ly/S4Q0P6
+370457477856641024  Aug 22 04:08  @paridebertulio   RT @measurefuture: Cool RT @usujason: Intro to R YouTube series [21 videos 1 hour, 7 minutes] https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP #rstats
+370466266256916482  Aug 22 04:43  @drago_carlo      Free Quantitative Finance Resources http://quantstart.com/articles/Free-Quantitative-Finance-Resources via @prismatic #Finance #Data #AlgorithmicTrading #Software #Python #Rstats
+370466832794521600  Aug 22 04:45  @jmgomez          RT @Rbloggers: Text Mining with R – Comparing Word Counts in two Text Documents: http://bit.ly/162U1cV #rstats #textmining
+370467520634818560  Aug 22 04:48  @MangoTheCat      Noticed today that manual control of scales with ggplot2 can randomly reorder the legend, interesting… #Rstats #ggplot2
+370473845255573504  Aug 22 05:13  @izamryan         Working with continuously compounded returns in #rstats http://bit.ly/19LeefI
+370478098107478016  Aug 22 05:30  @kiriwhan         Look at me writing a #blog about #rstats, #climate and random things...like one of those fancy "blogwritingpeople" http://kiriwhan.com/blog/
+370482087238709248  Aug 22 05:46  @rmounce          Why is it only now I'm getting to grips with the 'plyr' #rstats package? Finding it IMMENSELY useful!!!
+370486956633120768  Aug 22 06:05  @jmgomez          Fitting a Model by Maximum Likelihood http://ow.ly/21mXN4 #rstats #datamining
+370488214991020033  Aug 22 06:10  @Rbloggers        Prototyping Multinomial Logit with R:  (This article was first published on   Yet Another Blog in St... http://bit.ly/16gw9CW #rstats
+370488496344948736  Aug 22 06:11  @Mark_Gardener    Support data and exercise files for my upcoming book Community Ecology http://www.dataanalytics.org.uk/Publications/CERE%20Support/support%20files.htm #Ecology #Rstats #Analytics #Excel
+370490635947872256  Aug 22 06:20  @PageViral        RT @Mark_Gardener: Support data and exercise files for my upcoming book Community Ecology http://www.dataanalytics.org.uk/Publications/CERE%20Support/support%20files.htm #Ecology #Rstats #Analytics #Excel
+370499286745620483  Aug 22 06:54  @sbc111           RT @benjaminlind: My fourth #rstats #sna lab for #snaspb2013.  The exercises today are on the subject of p* / ergm. http://slid.es/lind_benjamin/sna-2013-r-lab-4
+370513470460264448  Aug 22 07:51  @izamryan         #ASEAN econometric analysis in #rstats - Part 1 http://bit.ly/150APmX
+370518166289797120  Aug 22 08:09  @jebyrnes         Note to self: use Cheddar for everything. #rstats #INT13 #networks
+370521625600331777  Aug 22 08:23  @mgwhitfield      MT @INNGEcologist: If you use #Rstats for your science, do you know about Ropensci http://p2.gg/gg7 #polltogo #INT13
+370521741929357312  Aug 22 08:24  @hadleywickham    RT @rmounce: Why is it only now I'm getting to grips with the 'plyr' #rstats package? Finding it IMMENSELY useful!!!
+370523122438381569  Aug 22 08:29  @dirkvandenpoel   Summary #KDD2013 feat. @GoPivotal #rstats @rbloggers @MSFTResearch http://bit.ly/175dtbF #bigdata #datamining
