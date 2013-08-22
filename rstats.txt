@@ -15751,3 +15751,37 @@
 370521625600331777  Aug 22 08:23  @mgwhitfield      MT @INNGEcologist: If you use #Rstats for your science, do you know about Ropensci http://p2.gg/gg7 #polltogo #INT13
 370521741929357312  Aug 22 08:24  @hadleywickham    RT @rmounce: Why is it only now I'm getting to grips with the 'plyr' #rstats package? Finding it IMMENSELY useful!!!
 370523122438381569  Aug 22 08:29  @dirkvandenpoel   Summary #KDD2013 feat. @GoPivotal #rstats @rbloggers @MSFTResearch http://bit.ly/175dtbF #bigdata #datamining
+370530902910050306  Aug 22 09:00  @statisticsblog   R tip of the day - Using “[” and “[[” as inputs in the R apply() functions. http://i.cx/1d4VvMJ. #r #rstats
+370542684437377025  Aug 22 09:47  @rmflight         RT @statisticsblog: R tip of the day - Using “[” and “[[” as inputs in the R apply() functions. http://i.cx/1d4VvMJ. #r #rstats
+370548401529954305  Aug 22 10:09  @millerdl         my model failed to converge so if you need me I'll be outside, destroying everything. #rstats
+370555115310034944  Aug 22 10:36  @brianabelson     okay, it took me awhile, but data.table and fread() in #rstats make your life infinitely easier.
+370555272030199809  Aug 22 10:37  @brianabelson     plus, fread()'s defaults make stringsAsFactors=FALSE! #rstats
+370556013738725376  Aug 22 10:40  @gopivotal        Great summary! RT @dirkvandenpoel #KDD2013 feat. @gopivotal #rstats @Rbloggers @MSFTResearch http://bit.ly/175dtbF #bigdata #datamining
+370556427879727107  Aug 22 10:41  @christonard      @Rbloggers This is good news. I'm using #rstats increasingly in my work.
+370572235741732865  Aug 22 11:44  @mjcavaretta      #rstats is a key skill my team looks for... RT @christonard: @Rbloggers This is good news. I'm using #rstats increasingly in my work.
+370572603397636096  Aug 22 11:46  @number_three     Is there a table or catalog of aesthetics for ggplot2? <- http://bit.ly/14TNbGs yes! This has come in handy for #Rstats & #graphics
+370574805239480320  Aug 22 11:54  @reichlab         exploring the coding landscape of the pomp package for #rstats. particle filtering made 'easy' for time series models!
+370576781474283520  Aug 22 12:02  @StandishPromo    RT @number_three: Is there a table or catalog of aesthetics for ggplot2? <- http://bit.ly/14TNbGs yes! This has come in handy for #Rstats & #graphics
+370579233472401408  Aug 22 12:12  @treycausey       Logging: an #rstats package that mimics logging in Python. https://github.com/mfrasca/r-logging
+370579950468083712  Aug 22 12:15  @RLangTip         The difference between the order and rank functions in #rstats (by @portfolioprobe): http://bit.ly/N8U7HQ
+370581012658397184  Aug 22 12:19  @clarkfitzg       Setting up #Rstats server on Cisco virtual machines- thanks @Cisco_UCS
+370582832999321600  Aug 22 12:26  @ZeerakW          RT @RLangTip: The difference between the order and rank functions in #rstats (by @portfolioprobe): http://bit.ly/N8U7HQ
+370584186568331264  Aug 22 12:32  @DesignerX_       RT @number_three: Is there a table or catalog of aesthetics for ggplot2? <- http://bit.ly/14TNbGs yes! This has come in handy for #Rstats & #graphics
+370586340703752192  Aug 22 12:40  @revodavid        Looking for #BigData files to explore in R? @revojoe has a list of free, publicly accessible sources: http://bit.ly/1bX24Oh #rstats
+370587053211521025  Aug 22 12:43  @brianabelson     i love everything about ddply in #rstats except for this: http://cl.ly/image/2e1k3E0P412j
+370588509695787008  Aug 22 12:49  @chemstateric     RT @RLangTip: The difference between the order and rank functions in #rstats (by @portfolioprobe): http://bit.ly/N8U7HQ
+370592865938046976  Aug 22 13:06  @Gliders_Coach    Iris for Big Data #rstats #bigdata http://wp.me/p9q8Y-2VO
+370593187284680704  Aug 22 13:07  @quandl           Andrew Ng on online revolution @Coursera: #education for everyone by @kdnuggets http://qndl.co/1cUcGkY #Rstats
+370593341701771264  Aug 22 13:08  @jrnld            Just in time for school: #rstats package smss with datasets from Agresti and Finlay's SMSS textbook. http://cran.r-project.org/web/packages/smss/index.html
+370596452398952449  Aug 22 13:20  @Rbloggers        Big Data Sets you can use with R:  (This article was first published on   Revolutions, and kindly co... http://bit.ly/16iyey6 #rstats
+370598566701453312  Aug 22 13:29  @RevoJoe          #rstats We have update our list of data sets, a few are fairly large http://bit.ly/12sGDlo
+370607875414302720  Aug 22 14:06  @PeterFlomStat    How user friendly should statistical software be? #rstats #SAS - http://ow.ly/nPruK
+370608560071540736  Aug 22 14:09  @peterflom        How user friendly should statistical software be? #rstats #SAS - http://ow.ly/nPrtO
+370609359857786880  Aug 22 14:12  @kathryn_tm       Such a good post. RT @PeterFlomStat "How user friendly should statistical software be? #rstats #SAS - http://ow.ly/nPruK"
+370612440532549632  Aug 22 14:24  @beligum          Alternative tech talk ghent right now #playframework #rstats kennyhelsens http://instagram.com/p/dU0r6mrapQ/
+370613298514784256  Aug 22 14:27  @samoobsluga      Tedious, but: the console buffer (up arrow) in R 3.0.1 "Good Sport" is rubbish. Doesn't display the last line of multi-line entries. #Rstats
+370615740245614595  Aug 22 14:37  @number_three     Good read from a few years back: http://bit.ly/9UtHKY R and version control for the solo data analyst #Rstats #git
+370616152067555329  Aug 22 14:39  @number_three     An article about sixty plus R resources to improve your data analysis skills: http://bit.ly/1aXsNK0 #Rstats
+370617402867728385  Aug 22 14:44  @julponchart      RT @number_three: An article about sixty plus R resources to improve your data analysis skills: http://bit.ly/1aXsNK0 #Rstats
+370617657457786880  Aug 22 14:45  @randyzwitch      Seriously, what the fuck is wrong with CRAN and half of the #rstats community? Do we all need to be assholes to one another?
+370619601647697920  Aug 22 14:52  @sbreiff          RT @number_three: An article about sixty plus R resources to improve your data analysis skills: http://bit.ly/1aXsNK0 #Rstats
