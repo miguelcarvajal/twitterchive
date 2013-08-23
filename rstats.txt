@@ -15807,3 +15807,23 @@
 370708731647889408  Aug 22 20:47  @noticiasSobreR   Forecasting con Redes Neurales (usando SAP HANA y R): Usualmente...cuando uso R...trato de usar tambié... Error #rstats
 370709678419746816  Aug 22 20:50  @Rbloggers        Date Formats in R:  (This article was first published on   Mollie's Research Blog, and kindly contri... http://bit.ly/1awNPlm #rstats
 370710753713876992  Aug 22 20:55  @izamryan         Working with continuously compounded returns in #rstats http://bit.ly/16Puri5
+370720771603038208  Aug 22 21:34  @i_314            RT @noticiasSobreR: Forecasting con Redes Neurales (usando SAP HANA y R): Usualmente...cuando uso R...trato de usar tambié... Error #rstats
+370725426320007168  Aug 22 21:53  @mjcavaretta      Hey, #Rstats! RT @diegonieva80: R analytics webinar. Recommended. #BIGDATA #ANALYTICS #DATASCIENCE http://goo.gl/csqy7j
+370727118772002816  Aug 22 22:00  @abmathewks       Any suggestions for doing 'stepwise like' variable selection in R for robust or least squares regression? #rstats #confused
+370728409602985985  Aug 22 22:05  @PageViral        RT @mjcavaretta: Hey, #Rstats! RT @diegonieva80: R analytics webinar. Recommended. #BIGDATA #ANALYTICS #DATASCIENCE http://goo.gl/csqy7j
+370728750465290241  Aug 22 22:06  @yichuanw         Link and data supplement for my @qz column on the success of high speed rail in #China -> http://synthenomics.blogspot.com/2013/08/quartz-high-speed-rail-is-at-foundation.html #rstats #Opendata
+370733907991228416  Aug 22 22:27  @clarkfitzg       Too much config for apache web server so I switched to @nginxorg for @rstudioapp #rstats
+370734198333509633  Aug 22 22:28  @clarkfitzg       RT @rmounce: Why is it only now I'm getting to grips with the 'plyr' #rstats package? Finding it IMMENSELY useful!!!
+370739767127715840  Aug 22 22:50  @Rbloggers        Forecasting with Neural Network (using SAP HANA and R):  (This article was first published on   Blag... http://bit.ly/15fc0B5 #rstats
+370742864893841410  Aug 22 23:02  @certifiedwaif    Writing numerical code in C using the GNU Scientific Library. It wasn't hard to learn, and runs _much_ faster than equivalent R code.#Rstats
+370744175513198592  Aug 22 23:07  @mjcavaretta      Worst of R: syntax, speed. MT @certifiedwaif: coding in C using the GNU Scientific Library; runs _much_ faster than equivalent R.#Rstats
+370744934254387200  Aug 22 23:10  @mjcavaretta      #Rstats for #BigData! RT @RevolutionR: 27Aug13 for #predictiveanalytics w/ #R & #Hadoop #webinar http://ow.ly/nE3yI
+370746322678083584  Aug 22 23:16  @rvimieiro        Comparing #Rstats to C in terms of computing time is ridiculous...of course pure C code is faster...
+370749131150462976  Aug 22 23:27  @mjcavaretta      Need speed for your R code? See: http://www.noamross.net/connect.html Your mileage may vary ;-) via @noamross cc @rvimieiro #Rstats
+370752028777385985  Aug 22 23:39  @andrewheiss      Newest version of my knitr plugin for Sublime Text just released, now with support for R Markdown. Phew. #rstats https://github.com/andrewheiss/SublimeKnitr
+370765414999289856  Aug 23 00:32  @ttso             People labelled under 'data' in The Setup and what they use to get stuff done http://usesthis.com/interviews/data/ @usesthis #rstats
+370785050679205888  Aug 23 01:50  @kevin_ushey      RT @andrewheiss: Newest version of my knitr plugin for Sublime Text just released, now with support for R Markdown. Phew. #rstats https://t.co/41Flb42Bv5
+370789948179226624  Aug 23 02:09  @ChrisGandrud     Perfect RT @andrewheiss knitr plugin for Sublime Text just released, now with support for R Markdown. Phew. #rstats https://github.com/andrewheiss/SublimeKnitr
+370795969677238272  Aug 23 02:33  @monsoontrader    Finished another #rstats workshop I will now beer
+370799500891131904  Aug 23 02:47  @Rbloggers        Rcmdr version 2.0-0 now on CRAN: Guest post by John Fox (based on his announcement in the mailing list... http://bit.ly/1bZauES #rstats
+370801205368201216  Aug 23 02:54  @recology_        RT @andrewheiss: Newest version of my knitr plugin for Sublime Text just released, now with support for R Markdown. Phew. #rstats https://t.co/41Flb42Bv5
