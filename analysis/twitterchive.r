@@ -35,6 +35,7 @@ twitterchivePlots <- function (filename=NULL) {
     d$date <- as.Date(d$datetime)
     d$hour <- d$datetime$hour
     d <- na.omit(d) # CRs cause a problem. explain this later.
+    write.csv(d, file=sub("\\.txt", "\\.csv", filename))
     head(d)
     
     ## Number of tweets by date for the last n days
@@ -110,6 +111,6 @@ twitterchivePlots <- function (filename=NULL) {
     message(paste(searchTerm, ": All done!\n"))
 }
 
-# filelist <- list("../bioinformatics.txt", "../metagenomics.txt", "../rstats.txt", "../rna-seq.txt", "../cville.txt", "../SFAF2013.txt")
-filelist <- list("../ismbeccb.txt")
+filelist <- as.list(list.files("..", pattern="*.txt", full.names=T))
+filelist <- list("../bioinformatics.txt", "../metagenomics.txt", "../rstats.txt", "../rna-seq.txt", "../cville.txt", "../SFAF2013.txt")
 lapply(filelist, twitterchivePlots)
