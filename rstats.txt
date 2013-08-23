@@ -15785,3 +15785,25 @@
 370617402867728385  Aug 22 14:44  @julponchart      RT @number_three: An article about sixty plus R resources to improve your data analysis skills: http://bit.ly/1aXsNK0 #Rstats
 370617657457786880  Aug 22 14:45  @randyzwitch      Seriously, what the fuck is wrong with CRAN and half of the #rstats community? Do we all need to be assholes to one another?
 370619601647697920  Aug 22 14:52  @sbreiff          RT @number_three: An article about sixty plus R resources to improve your data analysis skills: http://bit.ly/1aXsNK0 #Rstats
+370622955786493952  Aug 22 15:06  @statisticsblog   Prototyping Multinomial Logit with R http://i.cx/18MKA5g #r #rstats #logit
+370623926956601344  Aug 22 15:10  @ucfagls          @randyzwitch are you referring to a particular conversation or issue/event? #rstats
+370629922420576256  Aug 22 15:33  @IanDworkin       RT @number_three: An article about sixty plus R resources to improve your data analysis skills: http://bit.ly/1aXsNK0 #Rstats
+370631789221388288  Aug 22 15:41  @ClausWilke       RT @number_three: An article about sixty plus R resources to improve your data analysis skills: http://bit.ly/1aXsNK0 #Rstats
+370632206655299584  Aug 22 15:42  @chenghlee        RT @number_three: An article about sixty plus R resources to improve your data analysis skills: http://bit.ly/1aXsNK0 #Rstats
+370632686991179776  Aug 22 15:44  @BrownJosephW     RT @number_three: An article about sixty plus R resources to improve your data analysis skills: http://bit.ly/1aXsNK0 #Rstats
+370637743371853824  Aug 22 16:04  @datennutzen      #BigData Sets you can use with #Rstats  http://www.inside-r.org/howto/finding-data-internet thanks @RevolutionR  and @datamarket
+370640733784768512  Aug 22 16:16  @Altons           See your CSVs http://zite.to/19MEPcm #github #rstats #python
+370646812048101376  Aug 22 16:41  @timelyportfolio  sp high beta and low vol 36-mo performance;  wow, low vol is crazy good #rstats $$ http://t.co/2rR72Ui3qA
+370648443628572672  Aug 22 16:47  @BrianSpiering    Teaching data science with #rstats http://buff.ly/16AMLc1 from BARUG meeting last night http://buff.ly/16AMLc3
+370649468044992512  Aug 22 16:51  @Rbloggers        Forecasting From Log-Linear Regressions:  (This article was first published on   Econometrics Beat: ... http://bit.ly/1bXNIgD #rstats
+370651622960939008  Aug 22 17:00  @MightyMangrove   RT @rmounce: Why is it only now I'm getting to grips with the 'plyr' #rstats package? Finding it IMMENSELY useful!!!
+370651710043078656  Aug 22 17:00  @Rbloggers        Zurich, July 2013 – Stability Analytics:  (This article was first published on   Rmetrics blogs, and... http://bit.ly/1awh9s4 #rstats
+370653153550942208  Aug 22 17:06  @fjnogales        RT @timelyportfolio: sp high beta and low vol 36-mo performance;  wow, low vol is crazy good #rstats $$ http://t.co/2rR72Ui3qA
+370653223423868928  Aug 22 17:06  @IronistM         New trend? RT @randyzwitch: I'm about to be  code on GitHub and forsaking CRAN' guy. #rstats http://bit.ly/1cX6yZfting
+370658033228972032  Aug 22 17:25  @KTInvasion       #rstats Exporting figures for publications. Good info for tiff and bitmap http://danieljhocking.wordpress.com/2013/03/12/high-resolution-figures-in-r/ or png and pdf http://blog.revolutionanalytics.com/2009/01/10-tips-for-making-your-r-graphics-look-their-best.html
+370658634851577856  Aug 22 17:27  @KTInvasion       #rstats I need to export .eps figure for publication. Tips? Also have a viewing problem once I do export. Irfanview gives decode error.
+370665218827104256  Aug 22 17:54  @agnesevardanega  RT @number_three: An article about sixty plus R resources to improve your data analysis skills: http://bit.ly/1aXsNK0 #Rstats
+370687231536553985  Aug 22 19:21  @pteetor          I'll be talking on "Bootstrapping Time Series Data" at the #CSP2014 conference, Feb in Tampa. See you there! #rstats http://www.amstat.org/meetings/csp/2014/
+370708731647889408  Aug 22 20:47  @noticiasSobreR   Forecasting con Redes Neurales (usando SAP HANA y R): Usualmente...cuando uso R...trato de usar tambié... Error #rstats
+370709678419746816  Aug 22 20:50  @Rbloggers        Date Formats in R:  (This article was first published on   Mollie's Research Blog, and kindly contri... http://bit.ly/1awNPlm #rstats
+370710753713876992  Aug 22 20:55  @izamryan         Working with continuously compounded returns in #rstats http://bit.ly/16Puri5
