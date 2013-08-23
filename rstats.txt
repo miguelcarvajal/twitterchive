@@ -15827,3 +15827,20 @@
 370795969677238272  Aug 23 02:33  @monsoontrader    Finished another #rstats workshop I will now beer
 370799500891131904  Aug 23 02:47  @Rbloggers        Rcmdr version 2.0-0 now on CRAN: Guest post by John Fox (based on his announcement in the mailing list... http://bit.ly/1bZauES #rstats
 370801205368201216  Aug 23 02:54  @recology_        RT @andrewheiss: Newest version of my knitr plugin for Sublime Text just released, now with support for R Markdown. Phew. #rstats https://t.co/41Flb42Bv5
+370804672342130688  Aug 23 03:08  @MassimoMorelli   RT @andrewheiss: Newest version of my knitr plugin for Sublime Text just released, now with support for R Markdown. Phew. #rstats https://t.co/41Flb42Bv5
+370815561459961856  Aug 23 03:51  @drago_carlo      Forecasting with Neural Network (using SAP HANA and R) http://www.r-bloggers.com/forecasting-with-neural-network-using-sap-hana-and-r/ via @prismatic #Forecasting #NeuralNetworks #SAPHANA #Rstats
+370815886849884160  Aug 23 03:52  @drago_carlo      Big Data Sets you can use with R http://www.r-bloggers.com/big-data-sets-you-can-use-with-r/ via @prismatic #BigData #Data #DataMining #MachineLearning #Rstats
+370816417429344256  Aug 23 03:54  @mhallsmoore      RT @drago_carlo: Big Data Sets you can use with R http://www.r-bloggers.com/big-data-sets-you-can-use-with-r/ via @prismatic #BigData #Data #DataMining #MachineLearning #Rstats
+370816718471327744  Aug 23 03:56  @CMCMFIN          RT @drago_carlo: Big Data Sets you can use with R http://www.r-bloggers.com/big-data-sets-you-can-use-with-r/ via @prismatic #BigData #Data #DataMining #MachineLearning #Rstats
+370824972052082688  Aug 23 04:28  @johnbaums        Nice rundown of freely-available big datasets, by @RevoJoe #rstats http://blog.revolutionanalytics.com/2013/08/big-data-sets-for-r.html
+370826511399804928  Aug 23 04:35  @jmgomez          Warrior Zombies from Outer Space II: Mayhem Unleashed => text mining IMDB http://ow.ly/o5nyD #textmining #nlproc #rstats
+370828943211114496  Aug 23 04:44  @smarr            Why do R scripts always evolve into an unmaintainable mess? For the current paper: `cat *.R | wc -l` 1524 #rstats
+370844171210596352  Aug 23 05:45  @josefslerka      Step by step to build my first R Hadoop System #rstats http://bit.ly/19Bhjvz
+370879210132209664  Aug 23 08:04  @MarekHlavac      RT @hjms: Time to for my recurring tweet praising the stargazer package. #rstats
+370886363459366912  Aug 23 08:32  @BobMuenchen      Great source of #BigData example data sets by @RevoJoe http://blog.revolutionanalytics.com/2013/08/big-data-sets-for-r.html #analytics #rstats
+370887174524112898  Aug 23 08:36  @drnickisaac      Here's a link to all my stuff on @figshare incl #INT13 talk, 2012 methods talk & #rstats poster: http://figshare.com/authors/Nick%20Isaac/348030 #openscience
+370887570861068288  Aug 23 08:37  @_NickGolding_    RT @drnickisaac: Here's a link to all my stuff on @figshare incl #INT13 talk, 2012 methods talk & #rstats poster: http://figshare.com/authors/Nick%20Isaac/348030 #openscience
+370887572182302720  Aug 23 08:37  @scienceheather   RT @drnickisaac: Here's a link to all my stuff on @figshare incl #INT13 talk, 2012 methods talk & #rstats poster: http://figshare.com/authors/Nick%20Isaac/348030 #openscience
+370887750452400130  Aug 23 08:38  @drnickisaac      And here's Sparta, the #rstats pkg: https://github.com/BiologicalRecordsCentre/sparta #INT13
+370889391222165504  Aug 23 08:44  @McDawg           RT @drnickisaac: Here's a link to all my stuff on @figshare incl #INT13 talk, 2012 methods talk & #rstats poster: http://figshare.com/authors/Nick%20Isaac/348030 #openscience
+370890708993204224  Aug 23 08:50  @PageViral        RT @BobMuenchen: Great source of #BigData example data sets by @RevoJoe http://blog.revolutionanalytics.com/2013/08/big-data-sets-for-r.html #analytics #rstats
