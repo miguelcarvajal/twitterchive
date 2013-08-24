@@ -15899,3 +15899,30 @@
 370979021191798784  Aug 23 14:41  @Rbloggers        Update to metvurst:  (This article was first published on   metvurst, and kindly contributed to R-bl... http://bit.ly/1c1cvjP #rstats
 370981483454148608  Aug 23 14:50  @fonnesbeck       Vanderbilt Biostats' Statistical Computing Series kicks off with a tutorial on using `apply` functions in #Rstats http://twitpic.com/d9wudb
 370983272181800960  Aug 23 14:57  @TrevorABranch    RT @RLangTip: Add row sums, columns sums and grand total to a table with addmargins(my.table) #rstats http://bit.ly/PNsI3S
+370983899154743296  Aug 23 15:00  @statisticsblog   Rcmdr v2.0-0 (A platform-independent basic-statistics GUI for R) now on CRAN. http://i.cx/18ORPtB #r #rstats #rcmdr
+370984835143041025  Aug 23 15:04  @abellogin        List of data sources http://www.inside-r.org/howto/finding-data-internet /via @jmgomez #machinelearning #recsys #Rstats
+370985710360494081  Aug 23 15:07  @blattnerma       RT @abellogin: List of data sources http://www.inside-r.org/howto/finding-data-internet /via @jmgomez #machinelearning #recsys #Rstats
+370989622630686720  Aug 23 15:23  @TrevorABranch    Tired of #rstats converting matrices to vectors and giving errors? x<-z[2,, drop=FALSE] keeps x as 1xn matrix. Art of R Programming p81
+370992380435894272  Aug 23 15:34  @hpccsystems      Nice crowd for the Atlanta #RStats & @HPCCSystems meetup! Thanks for joining us! http://t.co/Cum2btGg7h
+370993874488918016  Aug 23 15:40  @NashTurley       Yes! Rabbits are back on top! A simple #Rstats error had me worrying the major result for a paper was all wrong.
+370994035537620992  Aug 23 15:40  @aclobridge       Friday afternoon fun with #rstats!
+370995055445954560  Aug 23 15:44  @StrictlyStat     It took me forever to find out about prop.table when starting in R. #rstats #rflashbacks
+370995412938661888  Aug 23 15:46  @mrhunsaker       RT @statisticsblog: Some large dataset that you can use to practice your R skills with big data. http://i.cx/1awRfEJ #r #rstats #dataset
+370996138754580480  Aug 23 15:49  @chenghlee        RT @statisticsblog: Some large dataset that you can use to practice your R skills with big data. http://i.cx/1awRfEJ #r #rstats #dataset
+370996307386580992  Aug 23 15:49  @prabhasp         Someone want to write an R-Lint that warns me when I forget to use #stringsAsFactors=F? #rstats #effinfactors /cc @rstudioapp
+370997105134796801  Aug 23 15:52  @brettfavaro      RT @statisticsblog: Some large dataset that you can use to practice your R skills with big data. http://i.cx/1awRfEJ #r #rstats #dataset
+371000759208247297  Aug 23 16:07  @aserebrenik      Paper about #rstats on #stackoverflow and #rhelp has been accepted at #cscw! Congrats to @b_vasilescu @devanbu and Vladimir Filkov #cscw2014
+371000935188684800  Aug 23 16:08  @b_vasilescu      RT @aserebrenik: Paper about #rstats on #stackoverflow and #rhelp has been accepted at #cscw! Congrats to @b_vasilescu @devanbu and Vladimir Filkov #cscw2014
+371001410437263360  Aug 23 16:10  @sakaue           [stats] RT @Rbloggers: Exercise in REML/Mixed model: http://buff.ly/14qQUw2 #rstats
+371006846498136065  Aug 23 16:31  @timelyportfolio  pre-alpha #rstats #shiny plot builder #dimplejs #d3js & #rCharts thanks @ramnath_vaidya,@jkiernander,@rstudioapp http://t.co/hhsQ36yJzp
+371007138044182528  Aug 23 16:32  @kindlyviking     Trying to follow the R installation from source guide for Windows. Its definition of what R_HOME means seems to be inconsistent. #rstats
+371014189503873024  Aug 23 17:00  @treycausey       I'm speaking September 30th at the Seattle useR group meetup on my sentiment analysis of R-help http://meetu.ps/1Ys5MK #rstats
+371017179082526720  Aug 23 17:12  @gawbul           RT @genetics_blog: Blog post: Google Developers #Rstats Programming Video Lectures http://gettinggeneticsdone.blogspot.com/2013/08/google-developers-r-programming-video.html
+371020972775976960  Aug 23 17:27  @catmacOA         RT @drnickisaac: Here's a link to all my stuff on @figshare incl #INT13 talk, 2012 methods talk & #rstats poster: http://figshare.com/authors/Nick%20Isaac/348030 #openscience
+371026132935507969  Aug 23 17:48  @timelyportfolio  New package Funclustering with initial version 1.0 » good read http://dirk.eddelbuettel.com/cranberries/2013/08/23/ via @feedly #rstats
+371026236585148416  Aug 23 17:48  @SergeyKochergan  Energy Blog: Як вивчити R? Мій досвід. http://energyfirefox.blogspot.com/2013/08/r.html?spref=tw #rstats #r-studio #r-lang
+371046207537176577  Aug 23 19:08  @cureffi          Gene expression analysis QC pipeline in R http://wp.me/p2WC3J-It #bioinformatics #Rstats #genome
+371046751656235008  Aug 23 19:10  @TSmieszek        RT @statisticsblog: Some large dataset that you can use to practice your R skills with big data. http://i.cx/1awRfEJ #r #rstats #dataset
+371058573796597761  Aug 23 19:57  @GeekyScienceGrl  RT @cureffi: Gene expression analysis QC pipeline in R http://wp.me/p2WC3J-It #bioinformatics #Rstats #genome
+371059065494835200  Aug 23 19:59  @Freak_LFC        RT @RLangTip: Add row sums, columns sums and grand total to a table with addmargins(my.table) #rstats http://bit.ly/PNsI3S
+371071471000383488  Aug 23 20:48  @vijaybarve       V 0.0.4 fxn mapgrid has bbox param, fxn fixstr has datefmt param https://github.com/vijaybarve/bdvis #bdvis @GSoC #rstats #Biodiversity #visualization
