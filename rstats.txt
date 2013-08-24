@@ -15926,3 +15926,12 @@
 371058573796597761  Aug 23 19:57  @GeekyScienceGrl  RT @cureffi: Gene expression analysis QC pipeline in R http://wp.me/p2WC3J-It #bioinformatics #Rstats #genome
 371059065494835200  Aug 23 19:59  @Freak_LFC        RT @RLangTip: Add row sums, columns sums and grand total to a table with addmargins(my.table) #rstats http://bit.ly/PNsI3S
 371071471000383488  Aug 23 20:48  @vijaybarve       V 0.0.4 fxn mapgrid has bbox param, fxn fixstr has datefmt param https://github.com/vijaybarve/bdvis #bdvis @GSoC #rstats #Biodiversity #visualization
+371092565920989185  Aug 23 22:12  @jrmontag         Correlating big weather events w/ @twitter activity (w/ some #rstats ggplots) // Tweeting in the Rain, Part 2 http://blog.gnip.com/tweeting-in-the-rain-part-2/
+371093389447806977  Aug 23 22:15  @andrewheiss      Ooh. CRAN has a web-based upload form now. No need to use the anonymous FTP drop box thing anymore. #rstats
+371115137274359808  Aug 23 23:41  @scheidegger      elegant RPC between #rstats and #javascript: lines 13,16,20 in https://github.com/cscheid/rserve-js/blob/master/tests/ocap_tests.js call R; line 34 in https://github.com/cscheid/rserve-js/blob/master/tests/r_files/oc.init.R calls JS
+371118198885982208  Aug 23 23:54  @zikolach         RT @scheidegger: elegant RPC between #rstats and #javascript: lines 13,16,20 in https://github.com/cscheid/rserve-js/blob/master/tests/ocap_tests.js call R; line 34 in https://t.co/XdPSHBRkmz calls JS
+371137176269881344  Aug 24 01:09  @TrevorABranch    Really enjoying The Art of R Programming as prep for teaching #rstats to fisheries grads next quarter. Debugging, speedups, by programmer.
+371145856352677889  Aug 24 01:44  @Rbloggers        New Webinar: High Performance Predictive Analytics in R and Hadoop:  (This article was first publish... http://bit.ly/15j3wZH #rstats
+371148774300991488  Aug 24 01:55  @Gliders_Coach    The Excellent V 2.0 of R Commander #rstats http://wp.me/p9q8Y-2VQ
+371150015424921600  Aug 24 02:00  @dutchlight360    RT @Gliders_Coach: The Excellent V 2.0 of R Commander #rstats http://wp.me/p9q8Y-2VQ
+371161746485956608  Aug 24 02:47  @AL4S_Rich        RT @TrevorABranch: Really enjoying The Art of R Programming as prep for teaching #rstats to fisheries grads next quarter. Debugging, speedups, by programmer.
