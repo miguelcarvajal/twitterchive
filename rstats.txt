@@ -15977,3 +15977,8 @@
 371415289583656960  Aug 24 19:34  @joprichard       RT @hpccsystems: Nice crowd for the Atlanta #RStats & @HPCCSystems meetup! Thanks for joining us! http://t.co/Cum2btGg7h
 371416159599337473  Aug 24 19:38  @cpsievert        How have I never run across the wonders of rapply? Quickly becoming my favorite base #rstats function
 371421583216099328  Aug 24 19:59  @golovashkin      Residuals from a logistic regression  http://www.r-bloggers.com/residuals-from-a-logistic-regression/  #rstats
+371437864573501440  Aug 24 21:04  @johnsbarton      RT @kdnuggets: Revolution Analytics Big Data Sets you can use with R #rstats http://bit.ly/170zDQc
+371449740111912960  Aug 24 21:51  @mattVDiLeo       Demand for #Rstats jobs on the rise.  http://blog.revolutionanalytics.com/2013/08/more-on-the-rise-of-r-jobs.html
+371467940765265920  Aug 24 23:03  @PPUAMX           RT @RLangTip: Add row sums, columns sums and grand total to a table with addmargins(my.table) #rstats http://bit.ly/PNsI3S
+371470918318432256  Aug 24 23:15  @golovashkin      Very cool: C++ Boost headers are readily available in R BH package http://cran.r-project.org/web/packages/BH/ #rstats
+371507798414082048  Aug 25 01:42  @clarkfitzg       Just discovered knitr package in #rstats. Such a handy tool for generating HTML!
