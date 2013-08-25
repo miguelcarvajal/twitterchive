@@ -15988,3 +15988,21 @@
 371592736945627137  Aug 25 07:19  @SergeyKochergan  RT @revodavid: How the city of Chicago detects food poisoning outbreaks, using Twitter and R: http://bit.ly/1ddIdfc #rstats via @corynissen
 371597992765034496  Aug 25 07:40  @Rbloggers        From SVG to probability distributions [with R package]:  (This article was first published on   Stat... http://bit.ly/1dfpORG #rstats
 371598199959465984  Aug 25 07:41  @SergeyKochergan  RT @kdnuggets: How R will turn into SQL (one language, different engines), with new pqR - pretty quick R engine #rstats http://t.co/QPLxdsIFEd
+371620789436821505  Aug 25 09:11  @eddelbuettel     .@golovashkin Those require linking so no-go for BH.  #rstats
+371629671344898048  Aug 25 09:46  @statisticsblog   Exporting Results of Linear Regression with Robust Standard Errors. http://i.cx/18bWAv2 #r #rstats #statistics #regression
+371640759541186562  Aug 25 10:30  @hadleywickham    RT @clarkfitzg: Just discovered knitr package in #rstats. Such a handy tool for generating HTML!
+371640957768597504  Aug 25 10:31  @BrynRWilliams    RT @clarkfitzg: Just discovered knitr package in #rstats. Such a handy tool for generating HTML!
+371649128758919168  Aug 25 11:03  @sashacuerda      Dealing with non-specific time frames in #rstats is kind of a pain. Love #Lubridate, but it requires lots of work arounds... #fwp
+371649459354370048  Aug 25 11:05  @orlandomezquita  RT @Rbloggers: From SVG to probability distributions [with R package]: http://bit.ly/12AYwOO #rstats
+371652650946658305  Aug 25 11:17  @MarchiMax        #rstats coded to find a hockey trip around Europe: so far best results has 2KHL,2NLA,EBEL,DEL,Extraliga games in consecutive days(train/bus)
+371653711237771264  Aug 25 11:22  @garik16_temp     RT @MarchiMax: #rstats coded to find a hockey trip around Europe: so far best results has 2KHL,2NLA,EBEL,DEL,Extraliga games in consecutive days(train/bus)
+371657129394204672  Aug 25 11:35  @jmgomez          RT @AliRebaie: Cheat sheet covering machine learning for predictive analytics in R - w/ sample code http://refcardz.dzone.com/refcardz/machine-learning-predictive #Rstats #BigData
+371657309929631744  Aug 25 11:36  @timelyportfolio  "From SVG to probability distributions [with #Rstats package]" good read http://statisfaction.wordpress.com/2013/08/25/from-svg-to-probability-distributions-with-r-package
+371669066227785728  Aug 25 12:23  @DLabAtBerkeley   Sunday morning in Berkeley, and the #Rbootcamp is back! Learning #rstats in good company. http://t.co/IdNUGstCKZ
+371680904726327296  Aug 25 13:10  @KirkDBorne       60+ R resources to improve your data skills: http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?pageNumber=1 < Excellent #DataScience #Rstats collection | HT @data_nerd
+371684636247597056  Aug 25 13:24  @KirkDBorne       Time-Series Forecasting: Bike Accidents. http://www.r-bloggers.com/time-series-forecasting-bike-accidents/ #Rstats #Analytics > problem with this is that it shows seasonal trends only
+371687750766170113  Aug 25 13:37  @PageViral        RT @KirkDBorne: Time-Series Forecasting: Bike Accidents. http://www.r-bloggers.com/time-series-forecasting-bike-accidents/ #Rstats #Analytics > problem with this is that it shows seasonal trends only
+371691206196998145  Aug 25 13:51  @benignopf        “@RLangTip: The difference between the order and rank functions in #rstats (by @portfolioprobe): http://bit.ly/N8U7HQ”
+371692877518102528  Aug 25 13:57  @randyzwitch      RSiteCatalyst Version 1.1 Release Notes http://randyzwitch.com/rsitecatalyst-version-1-1-release-notes/ #rstats #adobeanalytics #omniture #measure
+371695662523744256  Aug 25 14:08  @ivanh            RT @KirkDBorne: Time-Series Forecasting: Bike Accidents. http://www.r-bloggers.com/time-series-forecasting-bike-accidents/ #Rstats #Analytics > problem with this is that it shows seasonal trends only
+371695989595189248  Aug 25 14:10  @DLabAtBerkeley   Chris Krogslund, wizard of graphing options in #rstats #Rbootcamp http://t.co/z2m4rLuyq9
