@@ -15982,6 +15982,7 @@
 371467940765265920  Aug 24 23:03  @PPUAMX           RT @RLangTip: Add row sums, columns sums and grand total to a table with addmargins(my.table) #rstats http://bit.ly/PNsI3S
 371470918318432256  Aug 24 23:15  @golovashkin      Very cool: C++ Boost headers are readily available in R BH package http://cran.r-project.org/web/packages/BH/ #rstats
 371507798414082048  Aug 25 01:42  @clarkfitzg       Just discovered knitr package in #rstats. Such a handy tool for generating HTML!
+371534606258163712  Aug 25 03:28  @tnotstar         RT @quandl: The difference between #Analytics & #DataMining by @shankar_sahai http://qndl.co/17KDkWu #Rstats
 371552001228021760  Aug 25 04:37  @yannabraham      Magic Hypercubes <3 #mathematics #rstats http://en.m.wikipedia.org/wiki/Magic_hypercube
 371580543064080385  Aug 25 06:31  @jmgomez          RT @datennutzen: #BigData Sets you can use with #Rstats http://www.inside-r.org/howto/finding-data-internet thanks @RevolutionR & @datamarket - check comments for more!
 371590403348111360  Aug 25 07:10  @SergeyKochergan  RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://bit.ly/120khaG #rstats
@@ -16006,3 +16007,10 @@
 371692877518102528  Aug 25 13:57  @randyzwitch      RSiteCatalyst Version 1.1 Release Notes http://randyzwitch.com/rsitecatalyst-version-1-1-release-notes/ #rstats #adobeanalytics #omniture #measure
 371695662523744256  Aug 25 14:08  @ivanh            RT @KirkDBorne: Time-Series Forecasting: Bike Accidents. http://www.r-bloggers.com/time-series-forecasting-bike-accidents/ #Rstats #Analytics > problem with this is that it shows seasonal trends only
 371695989595189248  Aug 25 14:10  @DLabAtBerkeley   Chris Krogslund, wizard of graphing options in #rstats #Rbootcamp http://t.co/z2m4rLuyq9
+371717077179969536  Aug 25 15:33  @rmflight         RT @clarkfitzg: Just discovered knitr package in #rstats. Such a handy tool for generating HTML!
+371745143948595201  Aug 25 17:25  @quandl           R vs #Python - Speed Comparison for Bootstrapping by @rbloggers http://qndl.co/14jIXMK #Rstats #DataMining
+371761495287140352  Aug 25 18:30  @DrQz             GDAT Oct 14-18. Your fast track to enterprise performance analysis & capacity planning with R. http://perfdynamics.blogspot.com/2013/08/gdat-class-october-14-18-2013.html?spref=tw #rstats #training
+371766614569414656  Aug 25 18:50  @Rbloggers        RSiteCatalyst Version 1.1 Release Notes:  (This article was first published on   randyzwitch.co... http://bit.ly/1aG1dUf #rstats
+371769896033464320  Aug 25 19:03  @markschaver      On using R to buy a used car. Turns out Edmunds has a vehicle API. http://goo.gl/DllkK3 #rstats
+371773702704472064  Aug 25 19:18  @reusswig         RT @markschaver: On using R to buy a used car. Turns out Edmunds has a vehicle API. http://goo.gl/DllkK3 #rstats
+371779629880578050  Aug 25 19:42  @Bioconductor     Intermediate course: Understanding #rstats / #Bioconductor, Seattle Sept 30 / Oct 1 http://bit.ly/18Ueuok
