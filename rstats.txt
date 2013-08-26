@@ -16040,3 +16040,50 @@
 371974222702071808  Aug 26 08:35  @trent_hauck      Sometimes I think #rstats is like the mafia... Every time try to get away it pulls me back in.
 371974525954445312  Aug 26 08:36  @rmflight         RT @markschaver: On using R to buy a used car. Turns out Edmunds has a vehicle API. http://goo.gl/DllkK3 #rstats
 371977431709532160  Aug 26 08:48  @R_Borat          @alteryx Me, #Rstats Borat do it in R for 5 large beetroots. Much cheaper!
+371980491655614464  Aug 26 09:00  @statisticsblog   Are you thinking of buying a used car? R can help to you to estimate the true market value. http://i.cx/14TkOZX #r #rstats
+371980523364974592  Aug 26 09:00  @Nate_Lemoine     R vs #Python: Practical Data Analysis http://wp.me/p2AMNh-cS #rstats
+371980592839417856  Aug 26 09:00  @millerdl         RT @xieyihui: 498 #rstats packages affected by the new ::: check https://gist.github.com/yihui/6338015 how many explanations need to be made to CRAN?
+371981792237989890  Aug 26 09:05  @alteryx          RT @R_Borat: @alteryx Me, #Rstats Borat do it in R for 5 large beetroots. Much cheaper!
+371982110224969728  Aug 26 09:07  @brandysbaxter    RT @R_Borat: @alteryx Me, #Rstats Borat do it in R for 5 large beetroots. Much cheaper!
+371983196189392897  Aug 26 09:11  @rprabha          RT @statisticsblog: R tip of the day - various data formats in R. http://i.cx/15h1EjU #r #rstats
+371987085894250496  Aug 26 09:26  @RudiShumpert     RT @randyzwitch: RSiteCatalyst Version 1.1 Release Notes http://randyzwitch.com/rsitecatalyst-version-1-1-release-notes/ #rstats #adobeanalytics #omniture #measure
+371987211060649984  Aug 26 09:27  @PierceFrank      RT @R_Borat: @alteryx Me, #Rstats Borat do it in R for 5 large beetroots. Much cheaper!
+371987763844751360  Aug 26 09:29  @Jowanza          RT @randyzwitch: RSiteCatalyst Version 1.1 Release Notes http://randyzwitch.com/rsitecatalyst-version-1-1-release-notes/ #rstats #adobeanalytics #omniture #measure
+371991655303237632  Aug 26 09:44  @timelyportfolio  RT @jmgomez: Using JavaScript visualization libraries with R http://ow.ly/ogf0s #rstats #dataviz #datamining
+371991841287045120  Aug 26 09:45  @timelyportfolio  RT @portfolioprobe: Changeability of Value at Risk estimators http://bit.ly/14wXKUg #finance #risk #rstats
+371993939639017472  Aug 26 09:54  @ramhiser         The color of my son’s birthday present was determined by `sample(c("red", "green"), size = 1)`. RNG seed was 42 as always. #rstats
+371994310079942656  Aug 26 09:55  @siah             Cheat sheet for prediction and classification models in R http://ow.ly/og40x #rstats
+371994581027397632  Aug 26 09:56  @ricardoz17       RT @siah: Cheat sheet for prediction and classification models in R http://ow.ly/og40x #rstats
+371995594220265472  Aug 26 10:00  @statisticsblog   devtools - creating target density functions based on general shapes using R. http://i.cx/15o8jsQ #r #rstats #mcmc
+371999326525878272  Aug 26 10:15  @solmaz_sh        RT @siah: Cheat sheet for prediction and classification models in R http://ow.ly/og40x #rstats
+371999593007173633  Aug 26 10:16  @firas            Haha. Hodor MT @statisticsblog: devtools - creating target density functions based on general shapes using R. http://i.cx/15o8jsQ #rstats
+372002954984706048  Aug 26 10:29  @alexhanna        .@benjaminlind's excellent SNA workshops in #rstats from #snaspb2013 http://badhessian.org/2013/08/international-summer-school-on-social-network-analysis-introduction-and-methods-of-analysis-in-r/
+372003998355980288  Aug 26 10:33  @genetics_blog    v nice! MT @notSoJunkDNA: Cool tutorial! "Using JS #dataviz libraries with #Rstats" http://zvfak.blogspot.com/2013/08/using-javascript-visualization.html example: http://rawgithub.com/al2na/Rmarkdown_JSviz/master/rCharts.html
+372004727623389185  Aug 26 10:36  @tanyacash21      My first #rstats #shiny app leveraging mock draft 'Wisdom of the Crowds': use it during your fantasy football draft!  http://ec2-54-224-148-85.compute-1.amazonaws.com:3838/fantasy/
+372005704199974912  Aug 26 10:40  @tanyacash21      @geoffjentry @drewconway #rstats + mock draft data + #shiny + wisdom of the crowds + fantasy football = championship http://ec2-54-224-148-85.compute-1.amazonaws.com:3838/fantasy/
+372005866159243264  Aug 26 10:41  @drewconway       Awesome RT @tanyacash21: #rstats + mock draft data + #shiny + wisdom of the crowds + fantasy football = championship http://ec2-54-224-148-85.compute-1.amazonaws.com:3838/fantasy/
+372006982263132160  Aug 26 10:45  @bwaber           RT @drewconway: Awesome RT @tanyacash21: #rstats + mock draft data + #shiny + wisdom of the crowds + fantasy football = championship http://t.co/Us1m836ZXH
+372008513230233601  Aug 26 10:51  @SpringerStats    #Springer in Bremen 36th European Conference on Visual Perception with #rstats book Modeling Psychophysical Data in R http://bit.ly/QqfQOs
+372009456667619328  Aug 26 10:55  @geoffjentry      RT @tanyacash21: My first #rstats #shiny app leveraging mock draft 'Wisdom of the Crowds': use it during your fantasy football draft!  http://t.co/4xerV1EYC0
+372010080243179520  Aug 26 10:58  @drsong           RT @drewconway: Awesome RT @tanyacash21: #rstats + mock draft data + #shiny + wisdom of the crowds + fantasy football = championship http://t.co/Us1m836ZXH
+372010696768094208  Aug 26 11:00  @statisticsblog   RSiteCatalyst Version 1.1 (functions for accessing the Adobe Analytics Reporting API) Released! http://i.cx/1dgdrUw #r #rstats
+372014638675656706  Aug 26 11:16  @lucaborger       #Zmove First day now finished after great tutorial by Jerome Guelat on Spatial Data Manipulation using R -- #Rstats rocks!
+372014949490384896  Aug 26 11:17  @benjaminlind     My SNA materials for #snaspb2013 are now all linked together in one @BadHessian post. http://badhessian.org/2013/08/international-summer-school-on-social-network-analysis-introduction-and-methods-of-analysis-in-r/ #rstats
+372016227482218496  Aug 26 11:22  @YhatHQ           mixed models using plyr package in r #rstats | http://bit.ly/153VKpg
+372019347817906176  Aug 26 11:34  @MacDiva          Excellent! @benjamindlind's social network analysis intro & workshop slides are up: http://j.mp/18fEecE #rstats
+372022732101136384  Aug 26 11:48  @geoffjentry      @tanyacash21 @drewconway @mikecb I saw "S3" and was conused as to why lightweight #rstats OOP would matter. Oops! :)
+372023837996511233  Aug 26 11:52  @vandy_biostat    RT @YhatHQ: mixed models using plyr package in r #rstats | http://bit.ly/153VKpg
+372025529974530049  Aug 26 11:59  @Hacktuarial      Is there a package that includes the runs test for autocorrelation in #rstats?
+372027320145825792  Aug 26 12:06  @RLangTip         #rstats Find your R home directory from the command line with Sys.getenv("R_Home") http://bit.ly/189ffrl
+372028423902076928  Aug 26 12:11  @inside_R         #rstats R user group meetings this week: Cincinnati and Dublin
+372028548145364992  Aug 26 12:11  @robpenner        So much fun today creating my first Monte Carlo simulation & #dataviz using functional programming, TDD and #Rstats.
+372035905819013120  Aug 26 12:40  @seankelly999     RT @inside_R: #rstats R user group meetings this week: Cincinnati and Dublin
+372038281216917505  Aug 26 12:50  @MacDiva          cx on handle: @benjaminlind has posted his International Summer School intro & workshop slides: http://j.mp/17f2HSc  #rstats
+372038646989197312  Aug 26 12:51  @rastrau          Nothing more humbling than tinkering around with #plyr #rstats ;)
+372040801393446913  Aug 26 13:00  @PPUAMX           RT @RLangTip: #rstats Find your R home directory from the command line with Sys.getenv("R_Home") http://bit.ly/189ffrl
+372047947128504320  Aug 26 13:28  @clarkfitzg       Excited for the predictive analytics in #hadoop and #rstats tomorrow @RevolutionR http://bit.ly/19PSJJU
+372050495256281088  Aug 26 13:38  @oceansresearch   Sweet @missmolamola @MiriamGoldste! Have you met @TrevorABranch? He's an #rstats wiz & has lists of helpful R resources
+372059678521315328  Aug 26 14:15  @polesasunder     @biochembelle How about convex.hull() from the igraph package? #rstats
+372060194412322816  Aug 26 14:17  @hadleywickham    RT @YhatHQ: mixed models using plyr package in r #rstats | http://bit.ly/153VKpg
+372064608061648896  Aug 26 14:34  @StrictlyStat     Using combn(x, 2) a lot to get the pairwise combinations of things for mapping out all scenarios for simulation/analysis. #Rstats
+372070090767728641  Aug 26 14:56  @cpsievert        Impressive! MT @tanyacash21: #rstats #shiny app leveraging mock draft: use it during your fantasy football draft!  http://ec2-54-224-148-85.compute-1.amazonaws.com:3838/fantasy/
