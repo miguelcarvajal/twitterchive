@@ -16014,3 +16014,12 @@
 371769896033464320  Aug 25 19:03  @markschaver      On using R to buy a used car. Turns out Edmunds has a vehicle API. http://goo.gl/DllkK3 #rstats
 371773702704472064  Aug 25 19:18  @reusswig         RT @markschaver: On using R to buy a used car. Turns out Edmunds has a vehicle API. http://goo.gl/DllkK3 #rstats
 371779629880578050  Aug 25 19:42  @Bioconductor     Intermediate course: Understanding #rstats / #Bioconductor, Seattle Sept 30 / Oct 1 http://bit.ly/18Ueuok
+371812535978057728  Aug 25 21:53  @clarkfitzg       ?- Anyone know how to make venn diagrams with vectors of characters in the circles? I'm unable to do it with both venn packages. #rstats
+371847113006542849  Aug 26 00:10  @xieyihui         498 #rstats packages affected by the new ::: check https://gist.github.com/yihui/6338015 how many explanations need to be made to CRAN?
+371853238242250752  Aug 26 00:34  @Gliders_Coach    RT @xieyihui: 498 #rstats packages affected by the new ::: check https://gist.github.com/yihui/6338015 how many explanations need to be made to CRAN?
+371854682987065344  Aug 26 00:40  @Rbloggers        GDAT Class October 14-18, 2013:  (This article was first published on   The Pith of Performance, and... http://bit.ly/16Bvtbn #rstats
+371855786722336768  Aug 26 00:45  @_inundata        R versus Python speed comparison for bootstrapping.  http://bit.ly/1dgw1fq Great discussion in the comments. #rstats
+371855967580729345  Aug 26 00:45  @Gliders_Coach    RT @_inundata: R versus Python speed comparison for bootstrapping.  http://bit.ly/1dgw1fq Great discussion in the comments. #rstats
+371862027632791552  Aug 26 01:09  @kevin_ushey      RT @xieyihui: 498 #rstats packages affected by the new ::: check https://gist.github.com/yihui/6338015 how many explanations need to be made to CRAN?
+371862258801836034  Aug 26 01:10  @lucaborger       Wow! RT @_inundata R versus Python speed comparison for bootstrapping.  http://bit.ly/1dgw1fq  Great discussion in the comments. #rstats
+371866562493681664  Aug 26 01:27  @AniversarioPeru  RT @_inundata: R versus Python speed comparison for bootstrapping.  http://bit.ly/1dgw1fq Great discussion in the comments. #rstats
