@@ -16182,3 +16182,72 @@
 372336083620470784  Aug 27 08:33  @sharon000        Glad to see the googleVis R package now includes number formatting in sortable tables http://bit.ly/15fIln2 #rstats
 372338025222901760  Aug 27 08:41  @PageViral        RT @KirkDBorne: RT @quandl: The difference between #Analytics & #DataMining, by @shankar_sahai http://qndl.co/17KDkWu #Rstats
 372341629019258880  Aug 27 08:55  @genetics_blog    Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372343180781305857  Aug 27 09:01  @ypriverol        RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372344009319911425  Aug 27 09:05  @hadleywickham    the fastest way to read a text file in #rstats: http://rpubs.com/hadley/7864. Can you do better?
+372345405323116544  Aug 27 09:10  @ivanh            RT @KirkDBorne: RT @quandl: The difference between #Analytics & #DataMining, by @shankar_sahai http://qndl.co/17KDkWu #Rstats
+372347928813125632  Aug 27 09:20  @Rbloggers        Fantastic presentations from R using slidify and rCharts:  (This article was first published on   Da... http://bit.ly/1dmvObs #rstats
+372347929551319041  Aug 27 09:20  @Rbloggers        Presenting Conformance Statistics:  (This article was first published on   Exegetic Analytics » R, a... http://bit.ly/16JFeUR #rstats
+372348978563534848  Aug 27 09:24  @nucAmbiguous     RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
+372354498569588736  Aug 27 09:46  @ar_usergroup     Inscribite al II Encuentro de Usuarios de R Argentina en Bs As. 14 y 15 de Nov. http://ar.i314.com.ar/ #rstats
+372354644451667968  Aug 27 09:47  @ar_usergroup     Charlas en Bionformatica, Finanzas y Data Mining #rstats http://ar.i314.com.ar/
+372354680518492161  Aug 27 09:47  @timelyportfolio  RT @gagliol: Color-blind proof colors in #ggplot2 http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/  #rstats
+372355081879826432  Aug 27 09:49  @timelyportfolio  RT @sportsdataviz: Win Your Fantasy Football League this year using this #rstats #shiny app! http://sportsdataviz.com/win-your-fantasy-football-league-using-this-wisdom-of-the-crowds-app-during-your-draft/ #analytics #wisdomofthecrowds #ggplot2
+372355717337858048  Aug 27 09:51  @timelyportfolio  RT @alexhanna: .@benjaminlind's excellent SNA workshops in #rstats from #snaspb2013 http://badhessian.org/2013/08/international-summer-school-on-social-network-analysis-introduction-and-methods-of-analysis-in-r/
+372356519557206016  Aug 27 09:54  @silParacchini    RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372356699010502656  Aug 27 09:55  @drunself         Perceived international influence (per IR scholars) of China vs US currently and in the future. #rstats http://t.co/TeTAXnhKbE
+372357559807528960  Aug 27 09:58  @jay_ulfelder     RT @drunself: Perceived international influence (per IR scholars) of China vs US currently and in the future. #rstats http://t.co/TeTAXnhKbE
+372358244330909696  Aug 27 10:01  @Paul_R_Johnston  RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372358687949484032  Aug 27 10:03  @ryan_spires      RT @drunself: Perceived international influence (per IR scholars) of China vs US currently and in the future. #rstats http://t.co/TeTAXnhKbE
+372358688134017024  Aug 27 10:03  @i_314            RT @ar_usergroup: Inscribite al II Encuentro de Usuarios de R Argentina en Bs As. 14 y 15 de Nov. http://ar.i314.com.ar/ #rstats
+372358716110020609  Aug 27 10:03  @tadKeys          RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372358740910940160  Aug 27 10:03  @i_314            RT @ar_usergroup: Charlas en Bionformatica, Finanzas y Data Mining #rstats http://ar.i314.com.ar/
+372358793432006656  Aug 27 10:03  @hadleywickham    the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
+372358969266028544  Aug 27 10:04  @alexey_r         RT @hadleywickham: the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
+372360283697606656  Aug 27 10:09  @hadleywickham    ever wondered what's going on with vectors and memory allocation in #rstats? my stab at an answer here: http://stackoverflow.com/a/18467243/16632
+372360353121714177  Aug 27 10:10  @BadHessian       RT @hadleywickham: ever wondered what's going on with vectors and memory allocation in #rstats? my stab at an answer here: http://t.co/szQ3NFpZLb
+372361379300519936  Aug 27 10:14  @HarlanH          RT @hadleywickham: ever wondered what's going on with vectors and memory allocation in #rstats? my stab at an answer here: http://t.co/szQ3NFpZLb
+372361752102445056  Aug 27 10:15  @BMMillsy         RT @hadleywickham: ever wondered what's going on with vectors and memory allocation in #rstats? my stab at an answer here: http://t.co/szQ3NFpZLb
+372364941107679232  Aug 27 10:28  @nextgenseek      RT @hadleywickham: the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
+372367195495333890  Aug 27 10:37  @davetang31       RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372367278345445378  Aug 27 10:37  @raviupanishad    RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372367391868473344  Aug 27 10:37  @marcoscan        Fantastic presentations from R using slidify and rCharts - #rstats http://datacommunitydc.org/blog/2013/08/fantastic-presentations-from-r-using-slidify-and-rcharts/
+372369623057829888  Aug 27 10:46  @jergosh          RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372373591972511746  Aug 27 11:02  @devRpaudel       RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372373826081796099  Aug 27 11:03  @jameskeirstead   Spent part of weekend working on a fancy #D3js map for an upcoming paper.  Quite the learning curve... not #rstats steep, but close
+372374277930373121  Aug 27 11:05  @hcorrada         RT @hadleywickham: ever wondered what's going on with vectors and memory allocation in #rstats? my stab at an answer here: http://t.co/szQ3NFpZLb
+372379219273056257  Aug 27 11:24  @revodavid        Coming soon: use the power of @Cloudera CDH clusters for in-Hadoop predictive analytics from R language http://bit.ly/16NZTL5 #rstats
+372379255931686912  Aug 27 11:25  @gerlach_d        RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372382124239630336  Aug 27 11:36  @drago_carlo      Fantastic presentations from R using slidify and rCharts http://www.r-bloggers.com/fantastic-presentations-from-r-using-slidify-and-rcharts/ @Rbloggers #DataVisualization #Visualization #Rstats
+372384414325411840  Aug 27 11:45  @tim_yates        RT @hadleywickham: the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
+372384729410306048  Aug 27 11:46  @genetics_blog    DESeq2 implements contrasts for RNA-seq http://bioconductor.org/packages/2.13/bioc/vignettes/DESeq2/inst/doc/DESeq2.pdf. #Rstats
+372385690308202496  Aug 27 11:50  @Rbloggers        C/C++: Mean:  (This article was first published on   Analysis with Programming, and kindly contribut... http://bit.ly/16KpctY #rstats
+372389917126823936  Aug 27 12:07  @RLangTip         Two-sample T tests and permutation tests in #rstats: http://bit.ly/N8Uzpr
+372390742359937024  Aug 27 12:10  @MarchiMax        Rome2rio's API from #Rstats : http://goo.gl/Ekc1ZX
+372392455330471937  Aug 27 12:17  @brandysbaxter    RT @Freakalytics: @bdirking @alteryx is the friendly face of #RStats for business #analysts. Also, a lot of great additions like mapping, 3rd party data!
+372392861670854656  Aug 27 12:19  @pschulam         reference card for emacs speaks statistics http://ess.r-project.org/refcard.pdf #rstats
+372394340623974400  Aug 27 12:25  @sharon000        More links & mini-writeups added to my R resources list & chart, now close to 70 :) http://cwrld.us/RGuideList #rstats
+372394989558308864  Aug 27 12:27  @adolfoalvarez    RT @hadleywickham: ever wondered what's going on with vectors and memory allocation in #rstats? my stab at an answer here: http://t.co/szQ3NFpZLb
+372395010785693696  Aug 27 12:27  @adolfoalvarez    RT @hadleywickham: the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
+372395082306965506  Aug 27 12:28  @adolfoalvarez    RT @hadleywickham: the fastest way to read a text file in #rstats: http://rpubs.com/hadley/7864. Can you do better?
+372395494766440448  Aug 27 12:29  @adolfoalvarez    RT @YhatHQ: mixed models using plyr package in r #rstats | http://bit.ly/153VKpg
+372395522893443074  Aug 27 12:29  @adolfoalvarez    RT @drago_carlo: lme4, nlme, or both? http://freshbiostats.wordpress.com/2013/07/28/mixed-models-in-r-lme4-nlme-both/ … via @prismatic http://prsm.tc/Tu6RFI #MixedModels #Statistics #Rstats
+372396342670139393  Aug 27 12:33  @BioMath          RT @genetics_blog: DESeq2 implements contrasts for RNA-seq http://bioconductor.org/packages/2.13/bioc/vignettes/DESeq2/inst/doc/DESeq2.pdf. #Rstats
+372401294649982977  Aug 27 12:52  @gjreda           What are some good examples of survival analysis w/ code, preferably #rstats or #pydata? Maybe some ipython notebooks?
+372403078210666496  Aug 27 12:59  @znmeb            RT @sharon000: More links & mini-writeups added to my R resources list & chart, now close to 70 :) http://cwrld.us/RGuideList #rstats
+372406990233796608  Aug 27 13:15  @chemstateric     RT @RLangTip: Two-sample T tests and permutation tests in #rstats: http://bit.ly/N8Uzpr
+372407613482618881  Aug 27 13:17  @jjgibaja         RT @ar_usergroup: Inscribite al II Encuentro de Usuarios de R Argentina en Bs As. 14 y 15 de Nov. http://ar.i314.com.ar/ #rstats
+372408373364658176  Aug 27 13:20  @jmgomez          RT @Rbloggers: googleVis 0.4.4 released with new formatting options for tables http://bit.ly/17aug0P #rstats #DataViz
+372409984824643584  Aug 27 13:27  @emelaktas        RT @RLangTip: Two-sample T tests and permutation tests in #rstats: http://bit.ly/N8Uzpr
+372410083906314240  Aug 27 13:27  @chenghlee        Cheat sheet for popular R prediction & classification packages now available: http://blog.revolutionanalytics.com/2012/08/cheat-sheet-for-prediction-and-classification-models-in-r.html #rstats
+372411289521246208  Aug 27 13:32  @djpappano        I'm using #R too much when I insert comments to myself with ###"comment" in a Word document.  #rstats
+372412752192892928  Aug 27 13:38  @SahaSurya        Useful! RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://bit.ly/16NJXID #bioinformatics
+372416271821721601  Aug 27 13:52  @littleHAPhounds  RT @hadleywickham: the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
+372416522032906240  Aug 27 13:53  @noamross         Is there a way to access current margin indices in aaply()? As in aaply(data, c(1,2) fn(x) {row=current_split[1]})? #rstats @hadleywickham
+372418089922490368  Aug 27 13:59  @mrvaidya         Oooh, handy! http://stat.ethz.ch/R-manual/R-devel/library/utils/html/example.html #Rstats
+372423432685645824  Aug 27 14:20  @Rbloggers        When Did CD102.5 Book the Summerfest Artists?:  (This article was first published on   Statistically... http://bit.ly/1cdPyKt #rstats
+372423433193148416  Aug 27 14:20  @Rbloggers        In-Hadoop R-based Analytics coming to Cloudera:  (This article was first published on   Revolutions,... http://bit.ly/1cdPAC5 #rstats
+372423808960835584  Aug 27 14:22  @perisaccadic     When I wonder if I'm silly for writing deep #rstats libraries, I should recall that people try to do FRP in Elisp http://dorophone.blogspot.com/2011/04/deep-emacs-lisp-part-2.html
+372429518574604288  Aug 27 14:44  @xypan1232        RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372429778822762496  Aug 27 14:45  @bioinformatics1  Bhagwat: #NCBI #GEO entries without curated data sets, #datanAnalysis via GEO2R, e.g. http://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE35696 #Rstats #NIHLibraryTraining
+372430260488257536  Aug 27 14:47  @bioinformatics1  GEO2R http://www.ncbi.nlm.nih.gov/geo/geo2r/ automatically generates #Rstats scripts for #statistical #dataAnalysis of  #geneExpression data. #datascience
+372430926338617344  Aug 27 14:50  @jmgomez          RT @Rbloggers: Fantastic presentations from R using slidify and rCharts http://bit.ly/1dmvObs #rstats #dataviz
