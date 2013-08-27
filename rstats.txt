@@ -16154,3 +16154,31 @@
 372239020203732992  Aug 27 02:07  @epistatistic     RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
 372239162990424064  Aug 27 02:08  @Alfons_Valencia  RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
 372239705880141824  Aug 27 02:10  @CasalsTMarti     RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
+372252721723633664  Aug 27 03:02  @lojmann          RT @randyzwitch: RSiteCatalyst Version 1.1 Release Notes http://randyzwitch.com/rsitecatalyst-version-1-1-release-notes/ #rstats #adobeanalytics #omniture #measure
+372257347663454208  Aug 27 03:20  @TrevorABranch    Cool #rstats trick:  combn(1:4,2,sum)  Finds all combinations of two from nums 1 to 4 and applies function sum to them  Art of R Programming
+372257370606280704  Aug 27 03:20  @paridebertulio   RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
+372259493796929536  Aug 27 03:29  @guzmanadrian     OpenCPU: producing and reproducing results. (RT OpenCPU: First post about #rstats apps on the new OpenCPU blog: ht... http://bit.ly/16Idtfi
+372260762707701760  Aug 27 03:34  @robertclab       tweeDEseq paper published http://bit.ly/1f1Oite a #rstats / #Bioconductor pkg for DE analysis of RNA-seq data with a Poisson-Tweedie model.
+372273980435988480  Aug 27 04:26  @ZeerakW          Whoop-whoop, I have a new project to play with in #rstats. I'm going to calculate costs of smoking (for the state). #CantWaitForSunday
+372274752523468801  Aug 27 04:29  @RyanGrannell     does anyone understand why this code works?  ':=' <- function(a,b){a+b}; 2 := 1. Doesn't R require '%%' for (non-base) infix ops? #rstats
+372278681412321280  Aug 27 04:45  @jmgomez          RT @ian_hardy: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats #nlproc #textmining
+372292677603061760  Aug 27 05:41  @Rbloggers        googleVis 0.4.4 released with new formatting options for tables:  (This article was first published ... http://bit.ly/17aug0P #rstats
+372298998415372288  Aug 27 06:06  @EpiFunky         RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
+372304112768937984  Aug 27 06:26  @nlbigas          RT @robertclab: tweeDEseq paper published http://bit.ly/1f1Oite a #rstats / #Bioconductor pkg for DE analysis of RNA-seq data with a Poisson-Tweedie model.
+372304266636967936  Aug 27 06:27  @tim_yates        Cool, I like the look of the #Rstats foreach package http://www.exegetic.biz/blog/2013/08/the-wonders-of-foreach/
+372306749413261312  Aug 27 06:37  @davetang31       Computing for Data Analysis on @Coursera! #Rstats https://www.coursera.org/course/compdata
+372308212277473280  Aug 27 06:42  @lifeanalytics    RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
+372313560187031553  Aug 27 07:04  @moorejh          #datascience #bioinformatics MT @paulblaser: #Rstats vs #Python for data analysis http://www.r-bloggers.com/r-vs-python-practical-data-analysis-nonlinear-regression/ via @rbloggers
+372315319190040576  Aug 27 07:11  @DiffusePrioR     IV regression and two-way cluster-robust standard errors in R http://bit.ly/13VLX3E #rstats
+372315355885993985  Aug 27 07:11  @quicklizard      RT @jebyrnes: Note to self: use Cheddar for everything. #rstats #INT13 #networks
+372316317853818881  Aug 27 07:15  @drng             Game on “@moorejh: #datascience #bioinformatics MT @paulblaser: #Rstats vs #Python for data analysis http://www.r-bloggers.com/r-vs-python-practical-data-analysis-nonlinear-regression/ via @rbloggers”
+372319460520361984  Aug 27 07:27  @richardburcher   RT @moorejh: #datascience #bioinformatics MT @paulblaser: #Rstats vs #Python for data analysis http://www.r-bloggers.com/r-vs-python-practical-data-analysis-nonlinear-regression/ via @rbloggers
+372330013120417793  Aug 27 08:09  @gagliol          Colors in #ggplot2 http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/ #rstats
+372332871748706304  Aug 27 08:20  @gopivotal        RT @dirkvandenpoel Summary #KDD2013 feat. @gopivotal #rstats @Rbloggers @MSFTResearch http://bit.ly/175dtbF #bigdata #datamining
+372333742196805632  Aug 27 08:24  @KirkDBorne       RT @quandl: The difference between #Analytics & #DataMining, by @shankar_sahai http://qndl.co/17KDkWu #Rstats
+372334377901907968  Aug 27 08:26  @gagliol          Color-blind proof colors in #ggplot2 http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/  #rstats
+372334513621598208  Aug 27 08:27  @misicapavlovic   RT @KirkDBorne: RT @quandl: The difference between #Analytics & #DataMining, by @shankar_sahai http://qndl.co/17KDkWu #Rstats
+372334682723340288  Aug 27 08:28  @jorgaf           RT @alexhanna: .@benjaminlind's excellent SNA workshops in #rstats from #snaspb2013 http://badhessian.org/2013/08/international-summer-school-on-social-network-analysis-introduction-and-methods-of-analysis-in-r/
+372336083620470784  Aug 27 08:33  @sharon000        Glad to see the googleVis R package now includes number formatting in sortable tables http://bit.ly/15fIln2 #rstats
+372338025222901760  Aug 27 08:41  @PageViral        RT @KirkDBorne: RT @quandl: The difference between #Analytics & #DataMining, by @shankar_sahai http://qndl.co/17KDkWu #Rstats
+372341629019258880  Aug 27 08:55  @genetics_blog    Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
