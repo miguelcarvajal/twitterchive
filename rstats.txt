@@ -16131,3 +16131,26 @@
 372146164411297792  Aug 26 19:58  @suganthibala     RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
 372152629758947328  Aug 26 20:24  @fabiomalini      RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
 372152743915319296  Aug 26 20:25  @rmflight         @hadleywickham I know that #rstats returns the last value. In my own code I prefer to use return. matter of style
+372162329061773312  Aug 26 21:03  @jenkinsa         RT @randyzwitch: RSiteCatalyst Version 1.1 Release Notes http://randyzwitch.com/rsitecatalyst-version-1-1-release-notes/ #rstats #adobeanalytics #omniture #measure
+372163148276858880  Aug 26 21:06  @HartleyDM        RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
+372164468840476672  Aug 26 21:11  @benjamingaines   RT @randyzwitch: RSiteCatalyst Version 1.1 Release Notes http://randyzwitch.com/rsitecatalyst-version-1-1-release-notes/ #rstats #adobeanalytics #omniture #measure
+372167216927494145  Aug 26 21:22  @randyzwitch      I wrote an #rstats function using two for loops that is so slow that I think it over-proves my point (playing with compiler package)
+372167787541573632  Aug 26 21:24  @sussenglish      RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
+372169077906624512  Aug 26 21:29  @Gliders_Coach    OpenCPU: producing and reproducing results. http://opencpu.org #rstats via @OpenCPU the brand new website from Jerooen Ooms #rstats
+372169808902909952  Aug 26 21:32  @dutchlight360    RT @Gliders_Coach: OpenCPU: producing and reproducing results. http://opencpu.org #rstats via @OpenCPU the brand new website from Jerooen Ooms #rstats
+372173476984938496  Aug 26 21:47  @Halbrook         RT @randyzwitch: RSiteCatalyst Version 1.1 Release Notes http://randyzwitch.com/rsitecatalyst-version-1-1-release-notes/ #rstats #adobeanalytics #omniture #measure
+372174314516123649  Aug 26 21:50  @Rbloggers        R vs Python: Practical Data Analysis (Nonlinear Regression):  (This article was first published on  ... http://bit.ly/14Xj6GS #rstats
+372174315032039424  Aug 26 21:50  @Rbloggers        Revolution Analytics: Top Innovator for Data Visualization:  (This article was first published on   ... http://bit.ly/14Xj81C #rstats
+372175390317367296  Aug 26 21:55  @rebecca_jarvis   Wondering if anyone knows how best to plot a bipartite #network using #rstats? Thanks in advance! #socialnetworkanalysis #networks
+372176128418787328  Aug 26 21:57  @brianabelson     I don't really understand what @OpenCPU is, but it seems kind of revolutionary: https://public.opencpu.org/ #rstats via API
+372184610299719681  Aug 26 22:31  @djhocking        Can't decide if worth learning python. Ecologists use R but a week of #Python and I realize how much nicer it is than #Rstats.
+372184947588874240  Aug 26 22:33  @djhocking        If only @JuliaLanguage had a larger user base. Seems to combine nice features if #Rstats with better language.
+372197886873710593  Aug 26 23:24  @vijaybarve       Best way to fill up Taxonomy (Family, Order,...) in a data frame, using Scientific name. What fxn in taxize should I use? #rstats @rOpenSci
+372202177600573440  Aug 26 23:41  @ikeondata        RT @siah: Cheat sheet for prediction and classification models in R http://ow.ly/og40x #rstats
+372205719040167938  Aug 26 23:55  @ayirpelle        RT,@_inundata R versus Python speed comparison for bootstrapping.  http://bit.ly/1dgw1fq  Great discussion in the comments. #rstats
+372207645190414337  Aug 27 00:03  @vijaybarve       @mrvaidya @rOpenSci want to write fxn in R for all groups, to get data filled up for Taxonomic coverage analysis in bdvis package.#rstats
+372209744707993600  Aug 27 00:11  @clarkfitzg       Reading the Elements of Statistical Learning feels like reading the Bible. #rstats
+372238878872055808  Aug 27 02:07  @drago_carlo      R vs Python: Practical Data Analysis http://www.r-bloggers.com/r-vs-python-practical-data-analysis-nonlinear-regression/ via @prismatic #Statistics #Rstats #Python
+372239020203732992  Aug 27 02:07  @epistatistic     RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
+372239162990424064  Aug 27 02:08  @Alfons_Valencia  RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
+372239705880141824  Aug 27 02:10  @CasalsTMarti     RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
