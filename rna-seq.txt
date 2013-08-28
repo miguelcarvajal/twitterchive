@@ -3443,3 +3443,17 @@
 372690354778415104  Aug 28 08:01  @notSoJunkDNA     RT @druvus: TIGAR: transcript isoform abundance estimation method with gapped alignment of RNA-Seq data http://bit.ly/1cgglFZ #Bayesian
 372693077892153344  Aug 28 08:12  @rnomics          Detection of microRNA associated with Alzheimer’s... http://bit.ly/17geQID #Review #alzheimersdisease #biologicalfluids #RNAseq @MyEN
 372701638135664640  Aug 28 08:46  @rnomics          MITIE: Simultaneous #RNA-Seq-based Transcript... http://bit.ly/17gnBCs #ExpressionandQuantification #OtherTools #MITIE #RNAseq @MyEN
+372705707898179585  Aug 28 09:02  @Haldanessieve    Fast Approximate Inference of Transcript Expression Levels from RNA-seq Data http://wp.me/p2FPFS-u2
+372706030729592833  Aug 28 09:03  @nikhilgopal      MITIE: Simultaneous RNA-Seq-based Transcript Identification and Quantification in Multiple Samples http://bit.ly/1cgtIGj
+372706967791632384  Aug 28 09:07  @4a6a5a           RT @Haldanessieve: Fast Approximate Inference of Transcript Expression Levels from RNA-seq Data http://wp.me/p2FPFS-u2
+372725884907974656  Aug 28 10:22  @EnigmAdam        @DanGraur @carlzimmer is this based on RNA-seq or computational predictions?
+372728786028355584  Aug 28 10:34  @BioStarQuestion  Manual transcriptome reconstruction using RNA-Seq reads (hg19) http://goo.gl/fb/tjWF2
+372728786670088193  Aug 28 10:34  @BioStarQuestion  RNA-Seq data normalization with spike-in using DESeq http://goo.gl/fb/XTIML
+372741004941488129  Aug 28 11:22  @nextgenseek      Pachter's new blog post on Magnitude of effect vs. statistical significance: RNA-seq fold change. http://liorpachter.wordpress.com/2013/08/26/magnitude-of-effect-vs-statistical-significance #rnaseq
+372761071880523777  Aug 28 12:42  @rnomics          #RNA-Seq effectively monitors gene expression in Eutrema salsugineum plants growing in an extreme... http://bit.ly/19NxNkm #BMC @MyEN
+372762762231181312  Aug 28 12:49  @nikhilgopal      Detection of microRNA associated with Alzheimer’s disease in biological fluids with RNA-Seq http://bit.ly/190Iyic
+372782713318543360  Aug 28 14:08  @portablegenomic  RNA-seq - Sailfish: Rapid Alignment-free Quantification of Isoform Abundance  http://www.cs.cmu.edu/~ckingsf/software/sailfish/
+372787908731604992  Aug 28 14:28  @SteveQinEmory    RT @moorejh: #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372788648212979712  Aug 28 14:31  @genetics_blog    From the Nature Prot RNA-seq #Rstats paper: "[GTFs from] UCSC Table browser do not contain correct gene IDs" http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html. Huh?
+372791363865436160  Aug 28 14:42  @genetics_blog    @notSoJunkDNA so does this mean all my rna-seq experiments counted against the igenomes mm9 & hg19 GTFs are suspect?
+372794950271766528  Aug 28 14:56  @nextgenseek      RT @genetics_blog: From the Nature Prot RNA-seq #Rstats paper: "[GTFs from] UCSC Table browser do not contain correct gene IDs" http://t.co/CFCEvGHnWn. Huh?
