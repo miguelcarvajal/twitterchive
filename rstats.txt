@@ -16077,6 +16077,7 @@
 372027320145825792  Aug 26 12:06  @RLangTip         #rstats Find your R home directory from the command line with Sys.getenv("R_Home") http://bit.ly/189ffrl
 372028423902076928  Aug 26 12:11  @inside_R         #rstats R user group meetings this week: Cincinnati and Dublin
 372028548145364992  Aug 26 12:11  @robpenner        So much fun today creating my first Monte Carlo simulation & #dataviz using functional programming, TDD and #Rstats.
+372029721133219840  Aug 26 12:16  @Nuovella         RT @RLangTip: #rstats Find your R home directory from the command line with Sys.getenv("R_Home") http://bit.ly/189ffrl
 372035905819013120  Aug 26 12:40  @seankelly999     RT @inside_R: #rstats R user group meetings this week: Cincinnati and Dublin
 372038281216917505  Aug 26 12:50  @MacDiva          cx on handle: @benjaminlind has posted his International Summer School intro & workshop slides: http://j.mp/17f2HSc  #rstats
 372038646989197312  Aug 26 12:51  @rastrau          Nothing more humbling than tinkering around with #plyr #rstats ;)
@@ -16164,6 +16165,7 @@
 372273980435988480  Aug 27 04:26  @ZeerakW          Whoop-whoop, I have a new project to play with in #rstats. I'm going to calculate costs of smoking (for the state). #CantWaitForSunday
 372274752523468801  Aug 27 04:29  @RyanGrannell     does anyone understand why this code works?  ':=' <- function(a,b){a+b}; 2 := 1. Doesn't R require '%%' for (non-base) infix ops? #rstats
 372278681412321280  Aug 27 04:45  @jmgomez          RT @ian_hardy: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats #nlproc #textmining
+372288714803642368  Aug 27 05:25  @tnotstar         OpenCPU: producing and reproducing results. http://opencpu.org #rstats via @OpenCPU
 372292677603061760  Aug 27 05:41  @Rbloggers        googleVis 0.4.4 released with new formatting options for tables:  (This article was first published ... http://bit.ly/17aug0P #rstats
 372298998415372288  Aug 27 06:06  @EpiFunky         RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
 372304112768937984  Aug 27 06:26  @nlbigas          RT @robertclab: tweeDEseq paper published http://bit.ly/1f1Oite a #rstats / #Bioconductor pkg for DE analysis of RNA-seq data with a Poisson-Tweedie model.
@@ -16298,3 +16300,32 @@
 372510577181999104  Aug 27 20:06  @icedwater        RT @mrvaidya: Oooh, handy! http://stat.ethz.ch/R-manual/R-devel/library/utils/html/example.html #Rstats
 372517773752016896  Aug 27 20:35  @np_jiang         RT @RLangTip: Two-sample T tests and permutation tests in #rstats: http://bit.ly/N8Uzpr
 372523357104648192  Aug 27 20:57  @amestadmx        RT @RLangTip: The difference between the order and rank functions in #rstats (by @portfolioprobe): http://bit.ly/N8U7HQ
+372528784236236800  Aug 27 21:19  @rebecca_jarvis   @SebSigloch learning how to do #socialnetworkanalysis with #rstats today! What tool have you decided on?
+372529413067243521  Aug 27 21:21  @hadleywickham    RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372529632060256256  Aug 27 21:22  @rOpenSci         RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372530702245310465  Aug 27 21:26  @ramnath_vaidya   RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372531029279379457  Aug 27 21:28  @polesasunder     RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372531320096038912  Aug 27 21:29  @jorgaf           RT @sbc111: An Example of Social Network Analysis #sna with R using Package igraph #smmeasure http://www.r-bloggers.com/an-example-of-social-network-analysis-with-r-using-package-igraph/ #rstats
+372531592520273921  Aug 27 21:30  @mjcavaretta      Great news #rstats RT @TopCoder: R Comes to the TopCoder Platform! What this means for #BigData and #OpenInnovation http://buff.ly/12IPSxL
+372532350149591040  Aug 27 21:33  @misternaxal      RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372534049774252032  Aug 27 21:40  @MarkMillerITPro  RT @mjcavaretta: Great news #rstats RT @TopCoder: R Comes to the TopCoder Platform! What this means for #BigData and #OpenInnovation http://t.co/TVFYlNzm2w
+372539598640934912  Aug 27 22:02  @ProfJamesCurran  RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372540644071190529  Aug 27 22:06  @drdrewsteen      RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372540884489093120  Aug 27 22:07  @clintonbon       RT @mjcavaretta: Great news #rstats RT @TopCoder: R Comes to the TopCoder Platform! What this means for #BigData and #OpenInnovation http://t.co/TVFYlNzm2w
+372544704992116736  Aug 27 22:22  @JChrisPires      RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372544747761438720  Aug 27 22:22  @favstar_pop      RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372545633036427264  Aug 27 22:26  @gammasync        RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372545837869858817  Aug 27 22:27  @JGreenbrookHeld  @monsoontrader I taught @samdurbin the basics in about an hour... #rstats
+372547687859499008  Aug 27 22:34  @JamesMeadow      RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372563854129364992  Aug 27 23:38  @monsoontrader    I iz winning today. Finally got glmmADMB working. I shall now smash a great zero-inflated data set. #rstats
+372575181962608641  Aug 28 00:23  @_inundata        RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+372576332124672000  Aug 28 00:28  @Gliders_Coach    RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+372585729748385792  Aug 28 01:05  @kushan_s         "Big Data Sets you can use with R" http://feedly.com/k/18MNSWi  #rstats
+372588410709737472  Aug 28 01:16  @chrisbrunsdon    RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372592083619827712  Aug 28 01:30  @jmgomez          R, Twitter and URLs - simple example on how to process URLs in tweets http://ow.ly/21NlRa #rstats #textmining
+372592539645534208  Aug 28 01:32  @febrezo          RT @jmgomez: R, Twitter and URLs - simple example on how to process URLs in tweets http://ow.ly/21NlRa #rstats #textmining
+372595594835271680  Aug 28 01:44  @RichardTWang     RT @moorejh: #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372597010085740544  Aug 28 01:50  @davidcmorris     Just discovered and signed up for Intro to Computational Finance and Financial Econometrics through Coursera. Class  primarily uses #rstats
+372599390776475648  Aug 28 01:59  @tslumley         RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372600950902755328  Aug 28 02:06  @jlehtoma         ropenspending - accessing the #OpenSpending API through R http://bit.ly/151JnE8 #rstats
+372601186198642688  Aug 28 02:07  @drago_carlo      MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf @i_314 #TextMining #DataMining #Rstats

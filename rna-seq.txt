@@ -3296,6 +3296,7 @@
 370184156204249088  Aug 21 10:02  @Bioinfomatic     RT @genetics_blog: Comparison of Illumina RNA-Seq and Affy microarray platforms gene expression in colon cancer cells http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697991/
 370184234016575488  Aug 21 10:02  @izzyscomo        RT @genetics_blog: Comparison of Illumina RNA-Seq and Affy microarray platforms gene expression in colon cancer cells http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697991/
 370184426543919104  Aug 21 10:03  @notSoJunkDNA     @gabeinformatics Who uses Casava RNA-Seq pipeline anyway?
+370184991244025856  Aug 21 10:05  @biosoftcn        CRAC 1.3.0 – An Integrated RNA-Seq Read Analysis http://goo.gl/fb/5ECwU
 370188083137753088  Aug 21 10:18  @evolvability     RT @notSoJunkDNA: @gabeinformatics Who uses Casava RNA-Seq pipeline anyway?
 370188579676622848  Aug 21 10:20  @notSoJunkDNA     @evolvability @gabeinformatics Again, who uses it? Benchmark? (and it's not for RNA-Seq ;-)
 370204432975147008  Aug 21 11:23  @gabeinformatics  @notSoJunkDNA @evolvability NYU core lab used it for 2 years (don't anymore). CASAVA did have a RNA-Seq workflow. But in general, it sucks.
@@ -3426,3 +3427,9 @@
 372461120927199232  Aug 27 16:50  @dbetel           With ref to our study MT: differential expression analysis of RNA-seq data using R & Bioconductor http://go.nature.com/fPD4Se (via @ElementoLab)
 372493729740759040  Aug 27 19:00  @RosselloFJ       RT @moorejh: #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
 372509202163724289  Aug 27 20:01  @razoralign       NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data http://www.biomedcentral.com/content/pdf/1471-2105-14-262.pdf
+372544102815907841  Aug 27 22:20  @YoshiKawahara    @mkasahara そうですよね。他の指標としては、遺伝子アノテーション付けるなら、予測遺伝子数が多い方。RNA-SeqするならRNA-Seqリードの張り付きが良い方などですかね。。
+372560812923043840  Aug 27 23:26  @copypasteusa     Rockhopperで細菌RNA-Seqデータ解析 Computational analysis of bacterial RNA-Seq data http://nar.oxfordjournals.org/cgi/content/long/41/14/e140
+372586783516921856  Aug 28 01:09  @healthtopnews1   NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data
+372593168975679488  Aug 28 01:35  @Life_Sciences_   http://scienceindex.com Fast Approximate Inference of Transcript Expression Levels from RNA-seq Data http://dlvr.it/3sn19K
+372595594835271680  Aug 28 01:44  @RichardTWang     RT @moorejh: #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372598703904681984  Aug 28 01:57  @BiologyMag       http://sciencealerts.com Fast Approximate Inference of Transcript Expression Levels from RNA-seq Data http://dlvr.it/3sn8r3
