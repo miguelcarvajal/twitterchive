@@ -3284,6 +3284,7 @@
 369973026739482624  Aug 20 20:03  @ESC_iPSC_News    Single-Cell RNA-Seq Profiling of Human Preimplantation Embryos and Embryonic #StemCells http://ow.ly/nW66h
 370012446443839488  Aug 20 22:40  @k5193391         RT @ESC_iPSC_News: Single-Cell RNA-Seq Profiling of Human Preimplantation Embryos and Embryonic #StemCells http://ow.ly/nW66h
 370016825444032512  Aug 20 22:57  @k5193394         RT @ESC_iPSC_News: Single-Cell RNA-Seq Profiling of Human Preimplantation Embryos and Embryonic #StemCells http://ow.ly/nW66h
+370064377774223361  Aug 21 02:06  @Lisa613sc        A directory of the RNA seq findings is provided in Supplemen A listing of the RNA seq tests is provided in Supplem http://bit.ly/16JSGhD
 370135746935406592  Aug 21 06:50  @razoralign       A flexible count data model to fit the wide diversity of expression profiles arising extensively replicated RNA-seq: http://www.biomedcentral.com/1471-2105/14/254/abstract
 370149555506925568  Aug 21 07:45  @rnomics          RNA-Seq Europe 2013 – Final Agenda Released: The final program for... http://bit.ly/14VP8C8 #Events #RNASeq #rnaseqeurope #RNAseq @MyEN
 370150048732286976  Aug 21 07:47  @Bioinfomatic     RT @rnomics: RNA-Seq Europe 2013 – Final Agenda Released: The final program for... http://bit.ly/14VP8C8 #Events #RNASeq #rnaseqeurope #RNAseq @MyEN
@@ -3420,3 +3421,8 @@
 372415898436780032  Aug 27 13:50  @robin_andersson  RT @tuuliel: A much-needed paper on differential expression analysis of RNA-seq data using DESeq and edgeR  http://go.nature.com/fPD4Se
 372422983093993472  Aug 27 14:18  @rnomics          MITIE: Simultaneous #RNA-Seq-based Transcript Identification and Quantification in... http://bit.ly/19KMsg6 #rnomics_bioinfo @MyEN
 372429518574604288  Aug 27 14:44  @xypan1232        RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372446681188429825  Aug 27 15:53  @moorejh          #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372454450218029056  Aug 27 16:23  @kaisakajala      RT @tuuliel: A much-needed paper on differential expression analysis of RNA-seq data using DESeq and edgeR  http://go.nature.com/fPD4Se
+372461120927199232  Aug 27 16:50  @dbetel           With ref to our study MT: differential expression analysis of RNA-seq data using R & Bioconductor http://go.nature.com/fPD4Se (via @ElementoLab)
+372493729740759040  Aug 27 19:00  @RosselloFJ       RT @moorejh: #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372509202163724289  Aug 27 20:01  @razoralign       NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data http://www.biomedcentral.com/content/pdf/1471-2105-14-262.pdf

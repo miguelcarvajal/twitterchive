@@ -16113,6 +16113,7 @@
 372105389728231425  Aug 26 17:16  @hpccsystems      Thanks to all who came out to the Atlanta #rstats #HPCCSystems meetup! Materials & presentation now available http://hpccsystems.com/community/training-events/events/atlanta-r-aug232013
 372107763423272960  Aug 26 17:26  @hadleywickham    RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
 372107799125192704  Aug 26 17:26  @sharon000        How to use R to analyze data on teen health. Code & post by Twotorial creator ajdamico http://bit.ly/143UJHt #rstats
+372108324671467520  Aug 26 17:28  @ndoogan          RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
 372108778470375425  Aug 26 17:30  @yoavram          RT @OpenCPU: OpenCPU 1.0 (#rstats) was released today! Rewritten from scratch, better support for apps. Check it out at http://t.co/joDf51ZAMs.
 372109192217497600  Aug 26 17:31  @toates_19        RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
 372109588402667520  Aug 26 17:33  @rmflight         @ramnath_vaidya I looked at those, but decided I wanted the #rstats funct feel to it. #ggplot style still fits I think
@@ -16143,6 +16144,7 @@
 372174315032039424  Aug 26 21:50  @Rbloggers        Revolution Analytics: Top Innovator for Data Visualization:  (This article was first published on   ... http://bit.ly/14Xj81C #rstats
 372175390317367296  Aug 26 21:55  @rebecca_jarvis   Wondering if anyone knows how best to plot a bipartite #network using #rstats? Thanks in advance! #socialnetworkanalysis #networks
 372176128418787328  Aug 26 21:57  @brianabelson     I don't really understand what @OpenCPU is, but it seems kind of revolutionary: https://public.opencpu.org/ #rstats via API
+372179712132390912  Aug 26 22:12  @NeldaT1          RT @hpccsystems: Thanks to all who came out to the Atlanta #rstats #HPCCSystems meetup! Materials & presentation now available http://t.co/FX2UjL96iS
 372184610299719681  Aug 26 22:31  @djhocking        Can't decide if worth learning python. Ecologists use R but a week of #Python and I realize how much nicer it is than #Rstats.
 372184947588874240  Aug 26 22:33  @djhocking        If only @JuliaLanguage had a larger user base. Seems to combine nice features if #Rstats with better language.
 372197886873710593  Aug 26 23:24  @vijaybarve       Best way to fill up Taxonomy (Family, Order,...) in a data frame, using Scientific name. What fxn in taxize should I use? #rstats @rOpenSci
@@ -16251,3 +16253,48 @@
 372429778822762496  Aug 27 14:45  @bioinformatics1  Bhagwat: #NCBI #GEO entries without curated data sets, #datanAnalysis via GEO2R, e.g. http://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE35696 #Rstats #NIHLibraryTraining
 372430260488257536  Aug 27 14:47  @bioinformatics1  GEO2R http://www.ncbi.nlm.nih.gov/geo/geo2r/ automatically generates #Rstats scripts for #statistical #dataAnalysis of  #geneExpression data. #datascience
 372430926338617344  Aug 27 14:50  @jmgomez          RT @Rbloggers: Fantastic presentations from R using slidify and rCharts http://bit.ly/1dmvObs #rstats #dataviz
+372436630188994560  Aug 27 15:13  @timelyportfolio  Analyze Money Manager Perf with  #rstats #rCharts #angularjs #d3js & #nvd3 http://timelyportfolio.github.io/rCharts_nvd3_perf/ @ramnath_vaidya http://t.co/lnuqiXLbgp
+372437296793935872  Aug 27 15:15  @timelyportfolio  RT @sharon000: Glad to see the googleVis R package now includes number formatting in sortable tables http://bit.ly/15fIln2 #rstats
+372439752550526976  Aug 27 15:25  @rmflight         huh, adding "+" meth to work with my class wasn't bad at all. Much prefer this syntax for #vRbalExpressions https://github.com/rmflight/vRbalExpressions #rstats
+372446681188429825  Aug 27 15:53  @moorejh          #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372448280157773824  Aug 27 15:59  @PPUAMX           RT @RLangTip: Two-sample T tests and permutation tests in #rstats: http://bit.ly/N8Uzpr
+372452687117176832  Aug 27 16:16  @prabhasp         RT @hadleywickham: the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
+372458750529257472  Aug 27 16:41  @laserfiche       RT @kirkdborne: RT @quandl: The difference between #Analytics & #DataMining, by @shankar_sahai http://qndl.co/17KDkWu #Rstats
+372464161298468864  Aug 27 17:02  @hadleywickham    CRAN automatically converts README.md to README.html - nice! (e.g. http://cran.r-project.org/web/packages/devtools/README.html) #rstats
+372467142999822337  Aug 27 17:14  @hadleywickham    Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+372467994070634497  Aug 27 17:17  @millerdl         RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+372468200094433280  Aug 27 17:18  @recology_        RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+372469984166830080  Aug 27 17:25  @scisus           RT @sharon000: New R package by @ROpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange #gis
+372470341303406593  Aug 27 17:27  @sharon000        R used by 61% of @KDnuggets readers, +16% from '12 survey. Python #2 at 39%. Ruby dropped 41% http://bit.ly/18iZLkt #rstats
+372471799013212161  Aug 27 17:32  @andrewheiss      Oh man. After several years of #rstats work, I need to teach myself Stata this semester for a course. Not looking forward to it…
+372471817878769665  Aug 27 17:32  @hadleywickham    RT @sharon000: R used by 61% of @KDnuggets readers, +16% from '12 survey. Python #2 at 39%. Ruby dropped 41% http://bit.ly/18iZLkt #rstats
+372472821345423360  Aug 27 17:36  @ScholCommons     RT @sharon000: New R package by @rOpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange...
+372473760617484289  Aug 27 17:40  @cpsievert        Best comment ever! MT @hadleywickham Brian Ripley recognises the popularity of github https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Thanks @winston_chang
+372475601443364864  Aug 27 17:47  @jjgibaja         RT @sharon000: R used by 61% of @KDnuggets readers, +16% from '12 survey. Python #2 at 39%. Ruby dropped 41% http://bit.ly/18iZLkt #rstats
+372475748533039105  Aug 27 17:48  @richierocks      Multiword searches with the #rstats RSiteSearch function must be wrapped in braces, e.g., RSiteSearch("{Bayesian regression}")
+372476338281521152  Aug 27 17:50  @winston_chang    RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+372476687767711744  Aug 27 17:52  @rOpenSci         RT @ScholCommons: RT @sharon000: New R package by @rOpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange...
+372476959344689152  Aug 27 17:53  @Schenck          RT @ScholCommons: RT @sharon000: New R package by @rOpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange...
+372479086834114560  Aug 27 18:01  @erikriverson     RT @sharon000: R used by 61% of @KDnuggets readers, +16% from '12 survey. Python #2 at 39%. Ruby dropped 41% http://bit.ly/18iZLkt #rstats
+372480189324091392  Aug 27 18:06  @lopez_pascual    RT @ScholCommons: RT @sharon000: New R package by @rOpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange...
+372480486070697984  Aug 27 18:07  @ChrisBeeley      RT @hadleywickham: ever wondered what's going on with vectors and memory allocation in #rstats? my stab at an answer here: http://t.co/szQ3NFpZLb
+372480491074895872  Aug 27 18:07  @ecpolley         RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+372481844295376896  Aug 27 18:12  @KTInvasion       When reporting Z ratios (Z scores?) from a GLM, what do you need to see? Can you suggest an example table from the literature? #rstats
+372482994763997185  Aug 27 18:17  @jjudge7          RT @ScholCommons: RT @sharon000: New R package by @rOpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange...
+372483390265507840  Aug 27 18:18  @msonnabaum       RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+372484714885419009  Aug 27 18:24  @treycausey       RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+372485945637240832  Aug 27 18:29  @geoffjentry      RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+372487087850659840  Aug 27 18:33  @stetzer          I'm using #rstats for profit!  Or at least fantasy football glory anyway. http://t.co/eCt1ytujco
+372493493827948544  Aug 27 18:59  @JodyEdmondson    RT @sharon000: R used by 61% of @KDnuggets readers, +16% from '12 survey. Python #2 at 39%. Ruby dropped 41% http://bit.ly/18iZLkt #rstats
+372493729740759040  Aug 27 19:00  @RosselloFJ       RT @moorejh: #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+372494228795826176  Aug 27 19:01  @kyloring         R squared for mixed models - the easy way http://wp.me/p1VmDa-ha via @Philip_A_Martin. #rstats #phdchat @cRashStats
+372497473723703296  Aug 27 19:14  @millerdl         people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372500616230076416  Aug 27 19:27  @rOpenSci         .@jdleesmiller on Analyzing author contributions of @plos articles http://bit.ly/1dNaOsg, code: http://bit.ly/1dNaQjE using rplos #rstats
+372503829600030720  Aug 27 19:40  @hodgson_lauren   Wow, really cool climate change mapping R package by @rOpenSci. I've got to play with this! http://bit.ly/12VAjDB #rstats #climate
+372506248114999297  Aug 27 19:49  @CUNYWomeninSTEM  RT @ScholCommons: RT @sharon000: New R package by @rOpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange...
+372507158580973568  Aug 27 19:53  @jrmontag         Had to brush off some #rstats cobwebs today. ggplot() + geom_wtf() http://t.co/KnAFV1iSDv
+372507741455020032  Aug 27 19:55  @JodyEdmondson    RT @timelyportfolio: Analyze Money Manager Perf with  #rstats #rCharts #angularjs #d3js & #nvd3 http://timelyportfolio.github.io/rCharts_nvd3_perf/ @ramnath_vaidya http://t.co/lnuqiXLbgp
+372508895530348545  Aug 27 20:00  @AmeliaMN         #rstats why is there a function called gctorture?! It really does torture you.
+372510577181999104  Aug 27 20:06  @icedwater        RT @mrvaidya: Oooh, handy! http://stat.ethz.ch/R-manual/R-devel/library/utils/html/example.html #Rstats
+372517773752016896  Aug 27 20:35  @np_jiang         RT @RLangTip: Two-sample T tests and permutation tests in #rstats: http://bit.ly/N8Uzpr
+372523357104648192  Aug 27 20:57  @amestadmx        RT @RLangTip: The difference between the order and rank functions in #rstats (by @portfolioprobe): http://bit.ly/N8U7HQ
