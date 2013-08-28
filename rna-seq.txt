@@ -3433,3 +3433,13 @@
 372593168975679488  Aug 28 01:35  @Life_Sciences_   http://scienceindex.com Fast Approximate Inference of Transcript Expression Levels from RNA-seq Data http://dlvr.it/3sn19K
 372595594835271680  Aug 28 01:44  @RichardTWang     RT @moorejh: #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
 372598703904681984  Aug 28 01:57  @BiologyMag       http://sciencealerts.com Fast Approximate Inference of Transcript Expression Levels from RNA-seq Data http://dlvr.it/3sn8r3
+372617331815759872  Aug 28 03:11  @yaskaz           Arabidopsis の SRP006839 の Study は RNA seq から Transcriptome Sequencing に替わってた
+372626536131592192  Aug 28 03:47  @iNut             新しいまいちゃん、300bp*4000万リードならRNA-SeqしてRefSeqにぶち当てて…ってやれるかな
+372646863834714112  Aug 28 05:08  @GraveleyLab      RT @tuuliel: A much-needed paper on differential expression analysis of RNA-seq data using DESeq and edgeR  http://go.nature.com/fPD4Se
+372648017268330496  Aug 28 05:13  @Drosophilista    RT @tuuliel: A much-needed paper on differential expression analysis of RNA-seq data using DESeq and edgeR  http://go.nature.com/fPD4Se
+372655326925160448  Aug 28 05:42  @Labome           microRNA and lincRNA are hot topics.  Well, how to sequence them?  Read Labome's RNA-seq review article authored... http://fb.me/2Gr19jwaN
+372664843108884480  Aug 28 06:19  @SarahHCarl       RT @tuuliel: A much-needed paper on differential expression analysis of RNA-seq data using DESeq and edgeR  http://go.nature.com/fPD4Se
+372688296000106496  Aug 28 07:53  @druvus           TIGAR: transcript isoform abundance estimation method with gapped alignment of RNA-Seq data http://bit.ly/1cgglFZ #Bayesian
+372690354778415104  Aug 28 08:01  @notSoJunkDNA     RT @druvus: TIGAR: transcript isoform abundance estimation method with gapped alignment of RNA-Seq data http://bit.ly/1cgglFZ #Bayesian
+372693077892153344  Aug 28 08:12  @rnomics          Detection of microRNA associated with Alzheimer’s... http://bit.ly/17geQID #Review #alzheimersdisease #biologicalfluids #RNAseq @MyEN
+372701638135664640  Aug 28 08:46  @rnomics          MITIE: Simultaneous #RNA-Seq-based Transcript... http://bit.ly/17gnBCs #ExpressionandQuantification #OtherTools #MITIE #RNAseq @MyEN

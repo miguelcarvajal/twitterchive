@@ -16173,6 +16173,7 @@
 372306749413261312  Aug 27 06:37  @davetang31       Computing for Data Analysis on @Coursera! #Rstats https://www.coursera.org/course/compdata
 372308212277473280  Aug 27 06:42  @lifeanalytics    RT @i_314: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats
 372313560187031553  Aug 27 07:04  @moorejh          #datascience #bioinformatics MT @paulblaser: #Rstats vs #Python for data analysis http://www.r-bloggers.com/r-vs-python-practical-data-analysis-nonlinear-regression/ via @rbloggers
+372314553524035584  Aug 27 07:08  @raviupanishad    RT @moorejh: #datascience #bioinformatics MT @paulblaser: #Rstats vs #Python for data analysis http://www.r-bloggers.com/r-vs-python-practical-data-analysis-nonlinear-regression/ via @rbloggers
 372315319190040576  Aug 27 07:11  @DiffusePrioR     IV regression and two-way cluster-robust standard errors in R http://bit.ly/13VLX3E #rstats
 372315355885993985  Aug 27 07:11  @quicklizard      RT @jebyrnes: Note to self: use Cheddar for everything. #rstats #INT13 #networks
 372316317853818881  Aug 27 07:15  @drng             Game on “@moorejh: #datascience #bioinformatics MT @paulblaser: #Rstats vs #Python for data analysis http://www.r-bloggers.com/r-vs-python-practical-data-analysis-nonlinear-regression/ via @rbloggers”
@@ -16329,3 +16330,20 @@
 372599390776475648  Aug 28 01:59  @tslumley         RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
 372600950902755328  Aug 28 02:06  @jlehtoma         ropenspending - accessing the #OpenSpending API through R http://bit.ly/151JnE8 #rstats
 372601186198642688  Aug 28 02:07  @drago_carlo      MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf @i_314 #TextMining #DataMining #Rstats
+372617255206391808  Aug 28 03:10  @Rbloggers        My Significance Magazine Contribution:  (This article was first published on   Kevin Davenport » R, ... http://bit.ly/1524O7W #rstats
+372630532951404544  Aug 28 04:03  @cloudHPC         RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372639393510879232  Aug 28 04:38  @joelgombin       @jocelynajevans @kai_arzheimer anything planned for #Rstats ?
+372661595815411712  Aug 28 06:07  @MangoTheCat      RT @sharon000: R used by 61% of @KDnuggets readers, +16% from '12 survey. Python #2 at 39%. Ruby dropped 41% http://bit.ly/18iZLkt #rstats
+372666224611958784  Aug 28 06:25  @the_prbb         MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats via @Alfons_Valencia
+372668874048933888  Aug 28 06:35  @iacostac         RT @drago_carlo: Big Data Sets you can use with R http://www.r-bloggers.com/big-data-sets-you-can-use-with-r/ via @prismatic #BigData #Data #DataMining #MachineLearning #Rstats
+372680752728514560  Aug 28 07:23  @kai_arzheimer    @joelgombin @JocelynAJEvans Doable, but probably not by us. Derivation from #stata source shld be easy. Any #Rstats equivalent for nlcom?
+372682205438689280  Aug 28 07:28  @datennutzen      eoda erweitert @Jaspersoft #BI Lösungen um Data Mining und Predictive Analytics mit #rstats  http://blog.eoda.de/2013/08/28/eoda-erweitert-jaspersoft-business-intelligence-loesungen-um-data-mining-und-predictive-analytics-mit-r/
+372687745023356928  Aug 28 07:50  @erwtokritos      Multiple comparison test for non-parametric data #Rstats http://aquaticr.wordpress.com/2012/12/18/multiple-comparison-test-for-non-parametric-data/
+372689019693318144  Aug 28 07:56  @Jaspersoft       RT @datennutzen: eoda erweitert @Jaspersoft #BI Lösungen um Data Mining und Predictive Analytics mit #rstats  http://blog.eoda.de/2013/08/28/eoda-erweitert-jaspersoft-business-intelligence-loesungen-um-data-mining-und-predictive-analytics-mit-r/
+372690862444408833  Aug 28 08:03  @jfreels4         RT @timelyportfolio: Analyze Money Manager Perf with  #rstats #rCharts #angularjs #d3js & #nvd3 http://timelyportfolio.github.io/rCharts_nvd3_perf/ @ramnath_vaidya http://t.co/lnuqiXLbgp
+372691396052140032  Aug 28 08:05  @quandl           New webinar: High performance predictive #analytics in R and #Hadoop by @revodavid http://qndl.co/1febB39 #Rstats
+372697830005030912  Aug 28 08:31  @Rbloggers        Visualizing the Forbes-CCAP University Rankings using ggplot2, rCharts, googleVis, and the shiny serve... http://bit.ly/1cgnRk8 #rstats
+372698393778606080  Aug 28 08:33  @mikeloukides     Playing with Twitter data in R: #rstats  http://bit.ly/16Q4dWN
+372699896429572097  Aug 28 08:39  @JeanPierreLevac  RT @mikeloukides: Playing with Twitter data in R: #rstats  http://bit.ly/16Q4dWN
+372701767588278272  Aug 28 08:46  @hurricanejim     RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372704375149305857  Aug 28 08:57  @randyzwitch      Really impressed with pqR for #rstats…same code/function, 15x speedup with for looping
