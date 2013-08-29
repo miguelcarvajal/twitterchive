@@ -3317,9 +3317,11 @@
 370394725016027136  Aug 21 23:59  @MrsDrYobbo       @JamieMcQuillan4 Did you have candidate genes or using something like RNA-seq to look at global gene expression changes? #OUTweCon
 370396443254595584  Aug 22 00:06  @JamieMcQuillan4  @MrsDrYobbo I had a set of candidates from the outset. RNA-Seq would be a nice way to probe a more unknown area  #OUTweCon
 370397364206325760  Aug 22 00:09  @rnomics          A robust method for transcript quantification with #RNA-seq data. (English): io-port 06069233 http://bit.ly/14YdfjC #WWS @MyEN
+370430492208025600  Aug 22 02:21  @biosoftcn        DEGseq 1.14.0 – Differentially Expressed Gene Identification for RNA-seq data http://goo.gl/fb/SuwbL
 370458928813207553  Aug 22 04:14  @withbioinformat  RT @genetics_blog: Estimate isoform expression from non-uniform RNA-seq data http://www.biomedcentral.com/1471-2105/14/220 #bioinformatics
 370459571749670912  Aug 22 04:16  @withbioinformat  RT @genetics_blog: Comparison of Illumina RNA-Seq and Affy microarray platforms gene expression in colon cancer cells http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697991/
 370478573163151360  Aug 22 05:32  @tebubio          tebu-bio: complete, dedicated solutions for all your RNA studies! #RNA-seq, #qRT-PCR, in vitro #transcription (http://bit.ly/15thQ0M)
+370502274881040385  Aug 22 07:06  @izzyscomo        @mikaelhuss to join the programme for the RNA-Seq Europe summit in Basel, December.Check out the agenda here:http://rnaseq-europe.com/ #NGS
 370514254925168640  Aug 22 07:54  @BioStarQuestion  RNA-Seq : Biological and technical replicates in expression analysis (DESeq) http://goo.gl/fb/Ltgiu
 370515026517299200  Aug 22 07:57  @drsenri          はー microarrayとかRNA-seqのデータ調べるのめんどくさい……
 370530053282480129  Aug 22 08:57  @rnomics          Whole transcriptome #RNA-Seq allelic expression in human brain: Background: Measuring allelic #RNA... http://bit.ly/16Qke4S #BMC @MyEN
@@ -3360,6 +3362,7 @@
 371226192298270720  Aug 24 07:03  @Science_Alerts   http://sciencealerts.com Profiling microRNA expression in bovine alveolar macrophages using RNA-seq http://dlvr.it/3rsZbH
 371229159436976128  Aug 24 07:15  @BiologyMag       http://sciencealerts.com Profiling microRNA expression in bovine alveolar macrophages using RNA-seq http://dlvr.it/3rshJy
 371233266642485248  Aug 24 07:31  @mikelove         RT @NatureProtocols: Free-access protocol on RNA-Seq-based differential gene expression analysis using Bioconductor software http://t.co/9sFKwtpITd
+371264336767242241  Aug 24 09:34  @biosoftcn        GENE-counter 0.4.4 – Analysis of RNA-Seq data for Gene Expression Differences http://goo.gl/fb/Er8iM
 371267789316571136  Aug 24 09:48  @Life_Sciences_   http://scienceindex.com Profiling microRNA expression in bovine alveolar macrophages using RNA-seq http://dlvr.it/3rvD59
 371289023907500032  Aug 24 11:12  @enagri           De novo transcriptomic analysis of hydrogen production in the green alga Chlamydomonas moewusii through RNA-Seq http://bit.ly/15k9dqi
 371298610551332865  Aug 24 11:51  @aemonten         @kristindownie haha I wish! In any case this was on our transcriptional regulation work, unrelated to the RNA-seq we did. Exciting!
@@ -3424,7 +3427,9 @@
 372429518574604288  Aug 27 14:44  @xypan1232        RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
 372446681188429825  Aug 27 15:53  @moorejh          #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
 372454450218029056  Aug 27 16:23  @kaisakajala      RT @tuuliel: A much-needed paper on differential expression analysis of RNA-seq data using DESeq and edgeR  http://go.nature.com/fPD4Se
+372458367140519936  Aug 27 16:39  @christiankroy    RT @genetics_blog: DESeq2 implements contrasts for RNA-seq http://bioconductor.org/packages/2.13/bioc/vignettes/DESeq2/inst/doc/DESeq2.pdf. #Rstats
 372461120927199232  Aug 27 16:50  @dbetel           With ref to our study MT: differential expression analysis of RNA-seq data using R & Bioconductor http://go.nature.com/fPD4Se (via @ElementoLab)
+372475226350575616  Aug 27 17:46  @bioinfblogs      .@cureffi: Allele-specific RNA-seq pipeline using Gsnap and GATK: motivation I have some mRNA-seq data I’ve al... http://bit.ly/16Mhe3p
 372493729740759040  Aug 27 19:00  @RosselloFJ       RT @moorejh: #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
 372509202163724289  Aug 27 20:01  @razoralign       NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data http://www.biomedcentral.com/content/pdf/1471-2105-14-262.pdf
 372544102815907841  Aug 27 22:20  @YoshiKawahara    @mkasahara そうですよね。他の指標としては、遺伝子アノテーション付けるなら、予測遺伝子数が多い方。RNA-SeqするならRNA-Seqリードの張り付きが良い方などですかね。。
@@ -3452,8 +3457,21 @@
 372741004941488129  Aug 28 11:22  @nextgenseek      Pachter's new blog post on Magnitude of effect vs. statistical significance: RNA-seq fold change. http://liorpachter.wordpress.com/2013/08/26/magnitude-of-effect-vs-statistical-significance #rnaseq
 372761071880523777  Aug 28 12:42  @rnomics          #RNA-Seq effectively monitors gene expression in Eutrema salsugineum plants growing in an extreme... http://bit.ly/19NxNkm #BMC @MyEN
 372762762231181312  Aug 28 12:49  @nikhilgopal      Detection of microRNA associated with Alzheimer’s disease in biological fluids with RNA-Seq http://bit.ly/190Iyic
+372767482454372353  Aug 28 13:07  @ADAC_UoN         RT @bioinfojo: A model to estimate the statistical power needed to identify differentially expressed genes from RNA-Seq experiments: http://t.co/9mm1i0dKFs
 372782713318543360  Aug 28 14:08  @portablegenomic  RNA-seq - Sailfish: Rapid Alignment-free Quantification of Isoform Abundance  http://www.cs.cmu.edu/~ckingsf/software/sailfish/
 372787908731604992  Aug 28 14:28  @SteveQinEmory    RT @moorejh: #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
 372788648212979712  Aug 28 14:31  @genetics_blog    From the Nature Prot RNA-seq #Rstats paper: "[GTFs from] UCSC Table browser do not contain correct gene IDs" http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html. Huh?
 372791363865436160  Aug 28 14:42  @genetics_blog    @notSoJunkDNA so does this mean all my rna-seq experiments counted against the igenomes mm9 & hg19 GTFs are suspect?
 372794950271766528  Aug 28 14:56  @nextgenseek      RT @genetics_blog: From the Nature Prot RNA-seq #Rstats paper: "[GTFs from] UCSC Table browser do not contain correct gene IDs" http://t.co/CFCEvGHnWn. Huh?
+372799321290604544  Aug 28 15:14  @tadKeys          RT @genetics_blog: From the Nature Prot RNA-seq #Rstats paper: "[GTFs from] UCSC Table browser do not contain correct gene IDs" http://t.co/CFCEvGHnWn. Huh?
+372800533142466562  Aug 28 15:19  @DrugMed          MicroRNA associated with Alzheimer's disease in biological fluids with RNA-Seq... | @scoopit via @nikhilgopal http://sco.lt/5iUeB7
+372804575587102720  Aug 28 15:35  @rnomics          The importance of tissue specificity for #RNA-seq: highlighting the errors of composite structure... http://bit.ly/19NWTQ0 #BMC @MyEN
+372811587994009600  Aug 28 16:03  @sebboeg          RT @genetics_blog: From the Nature Prot RNA-seq #Rstats paper: "[GTFs from] UCSC Table browser do not contain correct gene IDs" http://t.co/CFCEvGHnWn. Huh?
+372814361116430336  Aug 28 16:14  @Life_Sciences_   http://scienceindex.com Revolution of nephrology research by deep sequencing: ChIP-seq and RNA-seq http://dlvr.it/3sztMw
+372831613438025729  Aug 28 17:22  @Life_Sciences_   http://sciencealerts.com Revolution of nephrology research by deep sequencing: ChIP-seq and RNA-seq http://dlvr.it/3t0SqD
+372831631817854976  Aug 28 17:22  @Science_Alerts   http://sciencealerts.com Revolution of nephrology research by deep sequencing: ChIP-seq and RNA-seq http://dlvr.it/3t0Snt
+372846281636335616  Aug 28 18:20  @rnomics          Eye on Next-Generation Sequencing | #RNA-Seq Blog: http://rna-seqblog.com 200) &&... http://bit.ly/17iNa5C #rnomics_bioinfo @MyEN
+372846284723343360  Aug 28 18:20  @rnomics          #RNA-Seq data normalization with spike-in using DESeq - BioStar: http://biostars.org... http://bit.ly/17iN8eh #rnomics_bioinfo @MyEN
+372846286631743488  Aug 28 18:20  @rnomics          Manual transcriptome reconstruction using #RNA-Seq reads (hg19) - BioStar:... http://bit.ly/19OgQ9l #rnomics_bioinfo @MyEN
+372858149247516672  Aug 28 19:08  @cupton1          RT @rnomics: Eye on Next-Generation Sequencing | #RNA-Seq Blog: http://rna-seqblog.com 200) &&... http://bit.ly/17iNa5C #rnomics_bioinfo @MyEN
+372865205749174272  Aug 28 19:36  @MPAlonso         RT @genetics_blog: Sailfish: Alignment-free RNA-seq Isoform Quantification. Preprint: http://arxiv.org/abs/1308.3700 @nextgenseek's review: http://t.co/bsReI2XzqW
