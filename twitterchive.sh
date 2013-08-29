@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/bash
 
 ## twitterchive.sh
 ## Stephen Turner (stephenturner.us)
