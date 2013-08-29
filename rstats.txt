@@ -16449,3 +16449,55 @@
 373064405677637632  Aug 29 08:47  @ross_gayler      RT @JeromyAnglim: New Video on Credit Scoring & #rstats http://www.r-bloggers.com/RUG/2013/08/new-video-credit-scoring-r-reject-inference-nested-conditional-models-joint-scores/ at Melbourne R Users by @ross_gayler
 373064556639043586  Aug 29 08:48  @jfreels4         RT @quandl: The wonders of foreach http://qndl.co/1djCV4u #Rstats
 373065406174732288  Aug 29 08:51  @TopCoder         As @dplass1968 points out - talk like a pirate day, not yet! BUT we want to talk about R! http://www.topcoder.com/blog/the-ascendance-of-r-why-r-matters-to-your-big-data-challenges/ - #BigData #rStats
+373067690211946496  Aug 29 09:00  @statisticsblog   Applications of Interactivity to Finance. http://i.cx/149qqiF #r #rstats #finance
+373069488830550016  Aug 29 09:07  @millerdl         "gamm not converged, try increasing niterPQL" or, "happy Thursday!" #rstats
+373071273208725504  Aug 29 09:14  @mjcavaretta      Welcome to #datascience! RT @millerdl: "gamm not converged, try increasing niterPQL" or, "happy Thursday!" #rstats
+373072807942684672  Aug 29 09:21  @beccamedwards    All my geekdom rolled into one! R, Twitter and URLs http://bit.ly/1542ZYa via @rbloggers #rstats
+373075257076105217  Aug 29 09:30  @eltrompetero1    RT @gagliol: Granger #Causality Testing in #Rstats  http://www.r-bloggers.com/granger-causality-testing-in-r/
+373078256674545667  Aug 29 09:42  @timelyportfolio  RT @statisticsblog: An R visualization of the Forbes-CCAP University Rankings. http://i.cx/1a0pntk #r #rstats #graphs #visual
+373081232726564864  Aug 29 09:54  @tnotstar         RT @quandl: The wonders of foreach http://qndl.co/1djCV4u #Rstats
+373082464132280320  Aug 29 09:59  @phnk             Something is wrong here: http://cran.r-project.org/web/packages/ #rstats #CRAN
+373083556026646530  Aug 29 10:03  @phnk             @joelgombin the mirrors are fine AFAICT, it looks like something went wrong when the /web/views (#CRAN Tasks pages) got updated #rstats
+373092019515555840  Aug 29 10:37  @andharris        Hiring a senior analyst. Let me know if you or someone you know might be interested. http://www.paceco.com/careers/senior-digital-analyst/ #Career #Analytics #Rstats
+373092264794284032  Aug 29 10:38  @randyzwitch      And now today I am seeing a decent pert. boost to using the #rstats compiler, same code. I need to fast-forward to the holiday weekend
+373093181853691904  Aug 29 10:42  @treycausey       @randyzwitch #rstats, ladies and gentlemen
+373093792145870849  Aug 29 10:44  @randyzwitch      @treycausey I did do a pseudo-restart by switching to a different project in RStudio. Maybe that cleared the workspace somehow #rstats
+373094544864460801  Aug 29 10:47  @lifeaquatic      Installing devtools in R seems like stepping off the edge of a cliff. #Rstats
+373096424830820352  Aug 29 10:54  @recology_        [Blog] a #notecology post: govdat - @sunlightlabs & @nytimes Congress #API data via #rstats http://bit.ly/14baXyE
+373097122213543936  Aug 29 10:57  @mgwhitfield      @infotroph I'm interested - I prefer #Rstats. Would be great if you could post them!
+373097890266116096  Aug 29 11:00  @statisticsblog   R tip of the day - Using JavaScript visualization libraries with R. http://i.cx/19OwkKB #r #rstats #javascript #visual
+373098226502488064  Aug 29 11:02  @vzanotelli       RT @statisticsblog: R tip of the day - Using JavaScript visualization libraries with R. http://i.cx/19OwkKB #r #rstats #javascript #visual
+373099235501039617  Aug 29 11:06  @benjaminlind     Putting together some code to read #GDELT directly into #rstats ( http://pastebin.com/LrQhuVEZ ), I found a typo in GDELT docs. Who do I contact?
+373104593494081536  Aug 29 11:27  @MAFLOnline       An alternative to simulating finalists that uses team scores instead of margins: http://ow.ly/onNvs #rstats #lavaan #simulation #afl
+373107424925728768  Aug 29 11:38  @OpenCPU          Knitr/Markdown OpenCPU App for #rstats https://public.opencpu.org/posts/knitr-markdown-opencpu-app/
+373107628869959681  Aug 29 11:39  @AndrewStatsol    RT @statisticsblog: R tip of the day - Using JavaScript visualization libraries with R. http://i.cx/19OwkKB #r #rstats #javascript #visual
+373108865790791680  Aug 29 11:44  @revodavid        An in-depth look at R's capabilities for linear algebra, by @RevoJoe http://bit.ly/17mpjlL #rstats
+373109070133067777  Aug 29 11:45  @M_T_Patterson    Promising resource for getting started with Survival Analysis in R: http://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_survival_analysis.pdf #RStats, #SurvivalAnalysis
+373109150756401152  Aug 29 11:45  @cpsievert        RT @OpenCPU: Knitr/Markdown OpenCPU App for #rstats https://public.opencpu.org/posts/knitr-markdown-opencpu-app/
+373111693981024256  Aug 29 11:55  @JonesZM          RT @revodavid: An in-depth look at R's capabilities for linear algebra, by @RevoJoe http://bit.ly/17mpjlL #rstats
+373112486678913024  Aug 29 11:58  @Gastove          What would it take for all of us who use and develop #rstats packages to sit down and AGREE ON NAMING CONVENTIONS AND SYNTAX?
+373114309259587584  Aug 29 12:05  @RLangTip         Serialization: save a single R object to disk with saveRDS; restore in a new session with readRDS http://bit.ly/SpgMXb #rstats
+373114859631943680  Aug 29 12:08  @jjgibaja         RT @revodavid: An in-depth look at R's capabilities for linear algebra, by @RevoJoe http://bit.ly/17mpjlL #rstats
+373115186950836224  Aug 29 12:09  @sc_evans         (1/2) Speaker at dinner last night raised point that #Rstats ANOVA errs in reporting sums of squares. Only reports Type I; ...
+373115355213737984  Aug 29 12:10  @sc_evans         (2/2) fit doesn't change when order of terms in model is changed (but it should, because Type 1 SS is sequential, right?). Thoughts? #Rstats
+373115573103644672  Aug 29 12:10  @sc_evans         (3/2) I'm not sure if I'm understanding his point/the stats correctly, but it worries me a bit about #Rstats
+373116329697370112  Aug 29 12:13  @sc_evans         (4/2) Is there any review of controversies/differences between way #Rstats and paid-for, certified stats programs compute ANOVA?
+373118908074434560  Aug 29 12:24  @mjcavaretta      Follow the link for code examples. RT @gagliol: Granger #Causality Testing in #Rstats  http://www.r-bloggers.com/granger-causality-testing-in-r/
+373119197301071872  Aug 29 12:25  @ucfagls          @sc_evans Why would model fit change? Or by "fit" do you mean the effects of individual variables don't change? #rstats
+373120868836466688  Aug 29 12:32  @NestorMontano    RT @revodavid: An in-depth look at R's capabilities for linear algebra, by @RevoJoe http://bit.ly/17mpjlL #rstats
+373122135763349504  Aug 29 12:37  @ucfagls          @sc_evans Then those reviewers *are* idiots. Do you/they honestly think that with all the use #rstats gets that lm() is wrong!?
+373122161658953728  Aug 29 12:37  @hadleywickham    @sc_evans it's not a problem: #rstats just has different (i.e. modern) approach to model comparison. See comments in http://www.sefsc.noaa.gov/sedar/download/S10RD01.pdf
+373122724488433665  Aug 29 12:39  @Gliders_Coach    Jeroen Ooms's latest APP #rstats #appiness http://wp.me/p9q8Y-2Wa
+373123954799423488  Aug 29 12:44  @ucfagls          @sc_evans #rstats *is* opinionated about this, just as SAS is as opinionated about so-called Type III SS. Read this: http://www.stats.ox.ac.uk/pub/MASS3/Exegeses.pdf
+373125280354668545  Aug 29 12:49  @sc_evans         Thanks @hadleywickham and @ucfagls for suggesting these reads in reply to my #Rstats tweets: http://www.stats.ox.ac.uk/pub/MASS3/Exegeses.pdf & http://www.r-project.org/doc/R-FDA.pdf
+373126766782468096  Aug 29 12:55  @ucfagls          @sc_evans `drop1()` would seem to be a pretty good repost... #rstats
+373134569739804672  Aug 29 13:26  @SchaunW          A simple amortization function http://wp.me/p3sMno-9I #rstats
+373134689352957952  Aug 29 13:26  @drsrinip         "@kdnuggets: Revolution Analytics Big Data Sets you can use with R #rstats http://bit.ly/170zDQc"
+373138357280604160  Aug 29 13:41  @edwindjonge      RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
+373138687267049473  Aug 29 13:42  @drdrewsteen      #OA / #ReproducibleResearch people: what is best license under which to publish the #Rstats package used to re-create my data analysis?
+373143267086303232  Aug 29 14:01  @Rbloggers        New Video: Credit Scoring & R: Reject inference, nested conditional models, & joint scores:  (This a... http://bit.ly/16Z1fix #rstats
+373144364555329536  Aug 29 14:05  @kbethany         This is great for anyone getting started w/ #Rstats: Computing for Data Analysis & Data Analysis back on Coursera: http://simplystatistics.org/2013/08/29/the-return-of-the-stat-computing-for-data-analysis-data-analysis-back-on-coursera/
+373150072680108032  Aug 29 14:28  @randyzwitch      RT @kbethany: This is great for anyone getting started w/ #Rstats: Computing for Data Analysis & Data Analysis back on Coursera: http://t.co/8FkWfWZGk7
+373152287029354496  Aug 29 14:36  @sharon000        acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
+373153278537650176  Aug 29 14:40  @hadleywickham    RT @sharon000: acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
+373153729278517248  Aug 29 14:42  @p5k12            RT @sharon000: acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
