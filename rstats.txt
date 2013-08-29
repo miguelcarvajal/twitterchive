@@ -397,8 +397,8 @@
 312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
-312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -15514,8 +15514,8 @@
 369577294995939329  Aug 19 17:51  @JodyEdmondson    #rstats excellent quick ggplot2 guide  http://bit.ly/1bNDNKx
 369578855511891968  Aug 19 17:57  @richierocks      @RLangTip To rephrase: Improve your #rstats code performance by removing calls to Sys.sleep!
 369581889683615744  Aug 19 18:09  @Gliders_Coach    The Wonderful ggmap package for spatial analysis in R #rstats http://wp.me/p9q8Y-2VE
-369587742092443648  Aug 19 18:32  @NashTurley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369587742092443648  Aug 19 18:32  @nashturley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
+369587742092443648  Aug 19 18:32  @NashTurley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369594751223205888  Aug 19 19:00  @Rbloggers        Text Mining with R – Comparing Word Counts in two Text Documents:  (This article was first published... http://bit.ly/162U1cV #rstats
 369602780643614721  Aug 19 19:32  @richmanmax       Learning about Slidify (html slidedecks from yaml & rMarkdown) and rCharts (generate js charts from #Rstats) at @DataCommunityDC meetup.
 369610770965090304  Aug 19 20:04  @richmanmax       Cool, rCharts has bindings with @LeafletJS so can quickly publish interactive webmaps from #Rstats and then push to Slidify & github #DataDC
@@ -16285,6 +16285,7 @@
 372476338281521152  Aug 27 17:50  @winston_chang    RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
 372476687767711744  Aug 27 17:52  @rOpenSci         RT @ScholCommons: RT @sharon000: New R package by @rOpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange...
 372476959344689152  Aug 27 17:53  @Schenck          RT @ScholCommons: RT @sharon000: New R package by @rOpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange...
+372477415060025346  Aug 27 17:55  @timtriche        RT @hadleywickham: Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
 372479086834114560  Aug 27 18:01  @erikriverson     RT @sharon000: R used by 61% of @KDnuggets readers, +16% from '12 survey. Python #2 at 39%. Ruby dropped 41% http://bit.ly/18iZLkt #rstats
 372480189324091392  Aug 27 18:06  @lopez_pascual    RT @ScholCommons: RT @sharon000: New R package by @rOpenSci lets anyone analyze climate-change data http://bit.ly/12VAjDB #rstats #dataviz #climatechange...
 372480486070697984  Aug 27 18:07  @ChrisBeeley      RT @hadleywickham: ever wondered what's going on with vectors and memory allocation in #rstats? my stab at an answer here: http://t.co/szQ3NFpZLb
@@ -16371,6 +16372,7 @@
 372732251127029762  Aug 28 10:47  @mattmoehr        I have this weird notion that medians are unaffected by re-grouping. Is this true? #rstats #lazyweb
 372734072063528960  Aug 28 10:55  @tnotstar         RT @quandl: New webinar: High performance predictive #analytics in R and #Hadoop by @revodavid http://qndl.co/1febB39 #Rstats
 372735644532891648  Aug 28 11:01  @wabarree         RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
+372735804436934656  Aug 28 11:01  @albsantosdel     RT @the_prbb: MedlineR: an open source library in R for Medline literature data mining. http://bioinformatics.oxfordjournals.org/content/early/2004/07/29/bioinformatics.bth404.full.pdf #rstats via @Alfons_Valencia
 372736454394642432  Aug 28 11:04  @psychemedia      RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
 372737364314955776  Aug 28 11:08  @erikriverson     RT @millerdl: people I work with have started sending me R Markdown files instead of Word files. I'm so proud. #rstats
 372745496994930688  Aug 28 11:40  @gcsoc            #Rstats for undergrad intro socsci stats course – doable? If yes, what frontend to use? If no, what alternatives are there? @JenSloan212
@@ -16381,6 +16383,7 @@
 372756108940566529  Aug 28 12:22  @TrevorABranch    RT @RLangTip: Quirks of R's scoping rules: http://bit.ly/N2RSf6 #rstats
 372756142814150656  Aug 28 12:22  @jasonpbecker     RT @RLangTip: Quirks of R's scoping rules: http://bit.ly/N2RSf6 #rstats
 372757649575522304  Aug 28 12:28  @prasannananda    RT @RLangTip: Quirks of R's scoping rules: http://bit.ly/N2RSf6 #rstats
+372759320431054848  Aug 28 12:35  @eff_jot          RT @RLangTip: Quirks of R's scoping rules: http://bit.ly/N2RSf6 #rstats
 372760156054237185  Aug 28 12:38  @JenSloan212      RT @gcsoc: #Rstats for undergrad intro socsci stats course – doable? If yes, what frontend to use? If no, what alternatives are there? @JenSloan212
 372760182339940352  Aug 28 12:38  @rodluc2001       RT @kognitio: MT @hackathorn: @kognitio demo-ing embedded #Rstats scripts in SQL envelope processing #BigData #BBBT http://t.co/dcXN3t9hI3 #MPP_R
 372764451734179840  Aug 28 12:55  @JAdP             RT @kognitio: Our Head Data Scientist demonstrating #MPP_R for the  #BBBT, ability to run #Rstats in parallel in-memory... Watch how fast!
@@ -16430,3 +16433,8 @@
 372952241986351104  Aug 29 01:21  @joelgombin       @tomroud et la même chose en #Rstats : http://cran.r-project.org/web/packages/xkcd/
 372954272708980736  Aug 29 01:30  @DailyRpackage    mederrRank - Bayesian Methods for Identifying the Most Harmful Medication Errors http://cran.r-project.org/web/packages/mederrRank/index.html #RStats
 372955262304280576  Aug 29 01:33  @jasongowans      So, just as we have ggthemes for creating Economist styled charts, any recs for creating Economist styled tables in LateX? #rstats
+372996861030047744  Aug 29 04:19  @denisohora       RT @hadleywickham: the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
+373000372492574721  Aug 29 04:33  @_PhilMartin      Need #rstats help. My best model has 2 factors. How do I interpret treatments contrasts relative to the intercept?
+373003346510372864  Aug 29 04:45  @jorgaf           RT @gagliol: Useful #rstats #sna #gplot guide  http://students.washington.edu/mclarkso/documents/gplot%20Ver2.pdf by M Clarckson
+373039320992464896  Aug 29 07:07  @JeromyAnglim     New Video on Credit Scoring & #rstats http://www.r-bloggers.com/RUG/2013/08/new-video-credit-scoring-r-reject-inference-nested-conditional-models-joint-scores/ at Melbourne R Users by @ross_gayler
+373042675059933184  Aug 29 07:21  @stuhorsman       glmnet is the bomb #rstats
