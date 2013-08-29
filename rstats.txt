@@ -397,8 +397,8 @@
 312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
-312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -15514,8 +15514,8 @@
 369577294995939329  Aug 19 17:51  @JodyEdmondson    #rstats excellent quick ggplot2 guide  http://bit.ly/1bNDNKx
 369578855511891968  Aug 19 17:57  @richierocks      @RLangTip To rephrase: Improve your #rstats code performance by removing calls to Sys.sleep!
 369581889683615744  Aug 19 18:09  @Gliders_Coach    The Wonderful ggmap package for spatial analysis in R #rstats http://wp.me/p9q8Y-2VE
-369587742092443648  Aug 19 18:32  @nashturley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369587742092443648  Aug 19 18:32  @NashTurley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
+369587742092443648  Aug 19 18:32  @nashturley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369594751223205888  Aug 19 19:00  @Rbloggers        Text Mining with R – Comparing Word Counts in two Text Documents:  (This article was first published... http://bit.ly/162U1cV #rstats
 369602780643614721  Aug 19 19:32  @richmanmax       Learning about Slidify (html slidedecks from yaml & rMarkdown) and rCharts (generate js charts from #Rstats) at @DataCommunityDC meetup.
 369610770965090304  Aug 19 20:04  @richmanmax       Cool, rCharts has bindings with @LeafletJS so can quickly publish interactive webmaps from #Rstats and then push to Slidify & github #DataDC
@@ -16438,3 +16438,14 @@
 373003346510372864  Aug 29 04:45  @jorgaf           RT @gagliol: Useful #rstats #sna #gplot guide  http://students.washington.edu/mclarkso/documents/gplot%20Ver2.pdf by M Clarckson
 373039320992464896  Aug 29 07:07  @JeromyAnglim     New Video on Credit Scoring & #rstats http://www.r-bloggers.com/RUG/2013/08/new-video-credit-scoring-r-reject-inference-nested-conditional-models-joint-scores/ at Melbourne R Users by @ross_gayler
 373042675059933184  Aug 29 07:21  @stuhorsman       glmnet is the bomb #rstats
+373052588746235904  Aug 29 08:00  @statisticsblog   An R visualization of the Forbes-CCAP University Rankings. http://i.cx/1a0pntk #r #rstats #graphs #visual
+373052779746455553  Aug 29 08:01  @marcoscan        Visualizing networks with ggplot2 in R  http://wp.me/p1pmAz-13 #rstats
+373053367720742912  Aug 29 08:03  @StatsInTheWild   RT @statisticsblog: An R visualization of the Forbes-CCAP University Rankings. http://i.cx/1a0pntk #r #rstats #graphs #visual
+373053572646047745  Aug 29 08:04  @MangoTheCat      Just used the regmatches function on a customer study today #clever #Rstats
+373053834945650688  Aug 29 08:05  @quandl           Using #JavaScript #visualization libraries with #R by @rbloggers http://qndl.co/17gYRpQ #Rstats
+373055604471771137  Aug 29 08:12  @gagliol          Granger #Causality Testing in #Rstats  http://www.r-bloggers.com/granger-causality-testing-in-r/
+373063698241560576  Aug 29 08:44  @WSankey          RT @statisticsblog: An R visualization of the Forbes-CCAP University Rankings. http://i.cx/1a0pntk #r #rstats #graphs #visual
+373064051485839360  Aug 29 08:46  @muuankarski      File formats but .ppt restricted by display setup and italian win gui at #ESA2013. Let's go acoustic.. #unplugged #rstats #openscience
+373064405677637632  Aug 29 08:47  @ross_gayler      RT @JeromyAnglim: New Video on Credit Scoring & #rstats http://www.r-bloggers.com/RUG/2013/08/new-video-credit-scoring-r-reject-inference-nested-conditional-models-joint-scores/ at Melbourne R Users by @ross_gayler
+373064556639043586  Aug 29 08:48  @jfreels4         RT @quandl: The wonders of foreach http://qndl.co/1djCV4u #Rstats
+373065406174732288  Aug 29 08:51  @TopCoder         As @dplass1968 points out - talk like a pirate day, not yet! BUT we want to talk about R! http://www.topcoder.com/blog/the-ascendance-of-r-why-r-matters-to-your-big-data-challenges/ - #BigData #rStats

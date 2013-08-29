@@ -1207,8 +1207,8 @@
 327231075715788800  Apr 24 21:22  @tosnam           잘 만든 라이브러리로 충분히 sequencing하고 replication까지 해주면 당연히 좋겠지만 연구비의 압박이 있으므로... RNA-Seq에서의 SNV는 결국 돈 많은 랩에서나 해라 이건가?ㅋ
 327250968829898752  Apr 24 22:41  @Science_Alerts   http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HCctF
 327252456096534529  Apr 24 22:47  @Life_Sciences_   http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HCfgD
-327252487360884737  Apr 24 22:47  @jameslz          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
 327252487360884737  Apr 24 22:47  @JamesLZ          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
+327252487360884737  Apr 24 22:47  @jameslz          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
 327272525732143104  Apr 25 00:07  @BiologyMag       http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HDF79
 327317362514739200  Apr 25 03:05  @drchriscole      RT @aemonten: Measurement of mRNA abundance using RNA-Seq  data: RPKM is inconsistent among samples http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf
 327317562297835520  Apr 25 03:06  @Masamichi_C2     RNA-Seqの発現量データの解析に手こずるとか情弱すぎる。
@@ -2155,8 +2155,8 @@
 347240358373109760  Jun 19 02:32  @ryu_11_qpg       RT @dritoshi: 録画(録音?)が公開されました。「0.1 pg の mRNA をシーケンスする高精度なRNA-Seq法: Quartz-Seq」 http://goo.gl/ouH7R Chrome for Mac ではうまくみれなかったので、Safari でどうぞ。
 347337892974190592  Jun 19 08:59  @JavierHerrero7   @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
 347339598218801152  Jun 19 09:06  @GenomeAnalysis   RT @JavierHerrero7: @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
-347342370456616960  Jun 19 09:17  @mvschneiderg     RT @JavierHerrero7: @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
 347342370456616960  Jun 19 09:17  @VickySchneiderG  RT @JavierHerrero7: @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
+347342370456616960  Jun 19 09:17  @mvschneiderg     RT @JavierHerrero7: @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
 347343780560642048  Jun 19 09:23  @mcaccamo         RT @JavierHerrero7: @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
 347380176629424128  Jun 19 11:47  @SEQquestions     How do I get a genes.gtf file for RNA Seq Analysis http://bit.ly/14K03mj
 347381006581514240  Jun 19 11:51  @taylorlabsoton   Experiment in Nancy on  drought tolerance in poplar and RNA-Seq is going well with Suzie, Maud and Adrienne in Nancy for final harvest
@@ -2457,8 +2457,8 @@
 352798656371507200  Jul  4 10:38  @Fish_Genomics    RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
 352799481751814145  Jul  4 10:42  @raisinsleeps     RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
 352801752829001730  Jul  4 10:51  @rnomics          Ribosomal #RNA Depletion for Efficient Use of... http://bit.ly/11jT709 #LibraryPreparation #qiagen #ribosomaldepletion #RNAseq @MyEN
-352801892780343296  Jul  4 10:51  @_ramrs           RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
 352801892780343296  Jul  4 10:51  @_r_am            RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
+352801892780343296  Jul  4 10:51  @_ramrs           RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
 352803309733679104  Jul  4 10:57  @7Journals        RNaseIII and T4 Polynucleotide Kinase sequence biases and solutions during RNA-seq library... http://adf.ly/RWEhz #BioMed #Journals
 352812197702942721  Jul  4 11:32  @nikhilgopal      Ribosomal RNA Depletion for Efficient Use of RNA-Seq Capacity http://bit.ly/123M5et
 352831578835128320  Jul  4 12:49  @theoneamit       RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
@@ -3490,3 +3490,8 @@
 373005198530060288  Aug 29 04:52  @News_Pharma      Revolution of nephrology research by deep sequencing ChIPseq and RNAseq http://bit.ly/19PmCri
 373008307822161920  Aug 29 05:04  @Integromics      Sailfish: Alignment-free Isoform Quantification from RNA-seq Reads using Lightweight Algorithms http://bit.ly/18mLR0O
 373020387405471744  Aug 29 05:52  @genefish         [1308.5953] Fast Approximate Inference of Transcript Expression Levels from RNA-seq   Data http://bit.ly/18mQEzn
+373056006772645889  Aug 29 08:14  @rnomics          RNA-Seq Job Opportunities: Biomedical Informatics Analyst, Junior Job Booz... http://bit.ly/19PL7EK #Jobs #jobs #RNASeq #RNAseq @MyEN
+373056566779711488  Aug 29 08:16  @sarahsmithdc     RT @rnomics: RNA-Seq Job Opportunities: Biomedical Informatics Analyst, Junior Job Booz... http://bit.ly/19PL7EK #Jobs #jobs #RNASeq #RNAseq @MyEN
+373057112563531776  Aug 29 08:18  @nikhilgopal      NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data http://bit.ly/15iDWXx
+373059492318953472  Aug 29 08:28  @rnomics          ContextMap 2.2.1 - Context-based mapping of #RNA-seq data: http://mybiosoftware.com posted... http://bit.ly/19PMW4w #rnomics_bioinfo @MyEN
+373059496177700865  Aug 29 08:28  @rnomics          Flux Simulator 1.2.1 - Modeling #RNA-Seq Experiments: http://mybiosoftware.com - admin 200)... http://bit.ly/19PMWkW #rnomics_bioinfo @MyEN
