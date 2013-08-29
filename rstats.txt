@@ -16229,6 +16229,7 @@
 372384414325411840  Aug 27 11:45  @tim_yates        RT @hadleywickham: the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
 372384729410306048  Aug 27 11:46  @genetics_blog    DESeq2 implements contrasts for RNA-seq http://bioconductor.org/packages/2.13/bioc/vignettes/DESeq2/inst/doc/DESeq2.pdf. #Rstats
 372385690308202496  Aug 27 11:50  @Rbloggers        C/C++: Mean:  (This article was first published on   Analysis with Programming, and kindly contribut... http://bit.ly/16KpctY #rstats
+372387396802736130  Aug 27 11:57  @raviupanishad    RT @hadleywickham: the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
 372389917126823936  Aug 27 12:07  @RLangTip         Two-sample T tests and permutation tests in #rstats: http://bit.ly/N8Uzpr
 372390742359937024  Aug 27 12:10  @MarchiMax        Rome2rio's API from #Rstats : http://goo.gl/Ekc1ZX
 372392455330471937  Aug 27 12:17  @brandysbaxter    RT @Freakalytics: @bdirking @alteryx is the friendly face of #RStats for business #analysts. Also, a lot of great additions like mapping, 3rd party data!
@@ -16255,6 +16256,7 @@
 372423432685645824  Aug 27 14:20  @Rbloggers        When Did CD102.5 Book the Summerfest Artists?:  (This article was first published on   Statistically... http://bit.ly/1cdPyKt #rstats
 372423433193148416  Aug 27 14:20  @Rbloggers        In-Hadoop R-based Analytics coming to Cloudera:  (This article was first published on   Revolutions,... http://bit.ly/1cdPAC5 #rstats
 372423808960835584  Aug 27 14:22  @perisaccadic     When I wonder if I'm silly for writing deep #rstats libraries, I should recall that people try to do FRP in Elisp http://dorophone.blogspot.com/2011/04/deep-emacs-lisp-part-2.html
+372427874143588352  Aug 27 14:38  @SuaJorge         RT >>“@drago_carlo: Fantastic presentations from R using slidify and rCharts http://www.r-bloggers.com/fantastic-presentations-from-r-using-slidify-and-rcharts/ @Rbloggers #DataVisualization  #Rstats”
 372429518574604288  Aug 27 14:44  @xypan1232        RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
 372429778822762496  Aug 27 14:45  @bioinformatics1  Bhagwat: #NCBI #GEO entries without curated data sets, #datanAnalysis via GEO2R, e.g. http://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE35696 #Rstats #NIHLibraryTraining
 372430260488257536  Aug 27 14:47  @bioinformatics1  GEO2R http://www.ncbi.nlm.nih.gov/geo/geo2r/ automatically generates #Rstats scripts for #statistical #dataAnalysis of  #geneExpression data. #datascience
@@ -16266,6 +16268,7 @@
 372446681188429825  Aug 27 15:53  @moorejh          #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
 372448280157773824  Aug 27 15:59  @PPUAMX           RT @RLangTip: Two-sample T tests and permutation tests in #rstats: http://bit.ly/N8Uzpr
 372452687117176832  Aug 27 16:16  @prabhasp         RT @hadleywickham: the fastest way to read a text file in #rstats: https://gist.github.com/hadley/6353939. Can you do better? (take two, with working link)
+372458367140519936  Aug 27 16:39  @christiankroy    RT @genetics_blog: DESeq2 implements contrasts for RNA-seq http://bioconductor.org/packages/2.13/bioc/vignettes/DESeq2/inst/doc/DESeq2.pdf. #Rstats
 372458750529257472  Aug 27 16:41  @laserfiche       RT @kirkdborne: RT @quandl: The difference between #Analytics & #DataMining, by @shankar_sahai http://qndl.co/17KDkWu #Rstats
 372464161298468864  Aug 27 17:02  @hadleywickham    CRAN automatically converts README.md to README.html - nice! (e.g. http://cran.r-project.org/web/packages/devtools/README.html) #rstats
 372467142999822337  Aug 27 17:14  @hadleywickham    Brian Ripley recognises the popularity of github: https://github.com/wch/r-source/commit/e053a06d0966f83fd51dfd2d94c96025bea2534c #rstats Courtesy of @winston_chang
@@ -16377,6 +16380,7 @@
 372754814830014466  Aug 28 12:17  @kognitio         MT @hackathorn: @kognitio demo-ing embedded #Rstats scripts in SQL envelope processing #BigData #BBBT http://t.co/dcXN3t9hI3 #MPP_R
 372756108940566529  Aug 28 12:22  @TrevorABranch    RT @RLangTip: Quirks of R's scoping rules: http://bit.ly/N2RSf6 #rstats
 372756142814150656  Aug 28 12:22  @jasonpbecker     RT @RLangTip: Quirks of R's scoping rules: http://bit.ly/N2RSf6 #rstats
+372757649575522304  Aug 28 12:28  @prasannananda    RT @RLangTip: Quirks of R's scoping rules: http://bit.ly/N2RSf6 #rstats
 372760156054237185  Aug 28 12:38  @JenSloan212      RT @gcsoc: #Rstats for undergrad intro socsci stats course – doable? If yes, what frontend to use? If no, what alternatives are there? @JenSloan212
 372760182339940352  Aug 28 12:38  @rodluc2001       RT @kognitio: MT @hackathorn: @kognitio demo-ing embedded #Rstats scripts in SQL envelope processing #BigData #BBBT http://t.co/dcXN3t9hI3 #MPP_R
 372764451734179840  Aug 28 12:55  @JAdP             RT @kognitio: Our Head Data Scientist demonstrating #MPP_R for the  #BBBT, ability to run #Rstats in parallel in-memory... Watch how fast!
@@ -16399,6 +16403,7 @@
 372799321290604544  Aug 28 15:14  @tadKeys          RT @genetics_blog: From the Nature Prot RNA-seq #Rstats paper: "[GTFs from] UCSC Table browser do not contain correct gene IDs" http://t.co/CFCEvGHnWn. Huh?
 372802881675476992  Aug 28 15:28  @randyzwitch      Should I be expecting a significant degrade in perf after using the compiler library for #rstats? I would've thought at worst flat perf
 372805045747593216  Aug 28 15:37  @randyzwitch      Seeing 20% worse performance using compiler with #rstats on setting 1, 2, or 3 and multiple runs. Weird
+372806930714341376  Aug 28 15:44  @fbalao           RT @gagliol: Plotting bipartite networks with #ggplot2 #rstats https://github.com/pedroj/bipartite_plots by @pedro_jordano
 372811587994009600  Aug 28 16:03  @sebboeg          RT @genetics_blog: From the Nature Prot RNA-seq #Rstats paper: "[GTFs from] UCSC Table browser do not contain correct gene IDs" http://t.co/CFCEvGHnWn. Huh?
 372811715068440576  Aug 28 16:03  @timelyportfolio  Timely Portfolio: Applications of Interactivity to Finance http://timelyportfolio.blogspot.com/2013/08/applications-of-interactivity-to-finance.html?spref=tw #rstats, #d3js, #dcjs, #crossfilter, #slidify
 372812185979727872  Aug 28 16:05  @timelyportfolio  RT @cpsievert: Create linked interactive web graphics using #rstats #ggplot2 syntax! http://tdhock.github.io/animint/tornadoes.html
@@ -16417,3 +16422,11 @@
 372868831091625985  Aug 28 19:50  @RladiesSF        RT @siah: Cheat sheet for prediction and classification models in R http://ow.ly/og40x #rstats
 372869097161109505  Aug 28 19:51  @clarkfitzg       Analytics as defined by @google: the systematic computational analysis of data or statistics. #rstats
 372877444602015744  Aug 28 20:24  @lonriesberg      RT @timelyportfolio: Timely Portfolio: Applications of Interactivity to Finance http://timelyportfolio.blogspot.com/2013/08/applications-of-interactivity-to-finance.html?spref=tw #rstats, #d3js, #dcjs, #crossfilter, #slidify
+372897961966977024  Aug 28 21:46  @kyloring         George E. P. Box "essentially, all models are wrong, but some are useful" #rstats #phdchat
+372905999880843264  Aug 28 22:18  @hpj28            RT @CostaSamaras: A new @rOpenSci #rstats package allows you to download & map climate data from the @worldbankdata API: http://t.co/cdN4rfcNzG h/t @SuzannTee
+372929532639973376  Aug 28 23:51  @Lewis_Lab        @sciencegurlz0 @jashapiro in #Rstats I usually use the function pairs() for pairwise plots
+372944127563804672  Aug 29 00:49  @vijaybarve       bdvis V 0.0.5 [https://github.com/vijaybarve/bdvis] fxn for Taxonomic Treemaps #bdvis #biodiversity #rstats #datavisualization http://t.co/jTfEwzt9L9
+372944663545516032  Aug 29 00:51  @drago_carlo      Applications of Interactivity on Finance http://www.r-bloggers.com/applications-of-interactivity-to-finance/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29 @timelyportfolio @Rbloggers #Statistics #Finance #StockPicking #Rstats
+372952241986351104  Aug 29 01:21  @joelgombin       @tomroud et la même chose en #Rstats : http://cran.r-project.org/web/packages/xkcd/
+372954272708980736  Aug 29 01:30  @DailyRpackage    mederrRank - Bayesian Methods for Identifying the Most Harmful Medication Errors http://cran.r-project.org/web/packages/mederrRank/index.html #RStats
+372955262304280576  Aug 29 01:33  @jasongowans      So, just as we have ggthemes for creating Economist styled charts, any recs for creating Economist styled tables in LateX? #rstats

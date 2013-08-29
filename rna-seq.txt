@@ -3457,6 +3457,7 @@
 372741004941488129  Aug 28 11:22  @nextgenseek      Pachter's new blog post on Magnitude of effect vs. statistical significance: RNA-seq fold change. http://liorpachter.wordpress.com/2013/08/26/magnitude-of-effect-vs-statistical-significance #rnaseq
 372761071880523777  Aug 28 12:42  @rnomics          #RNA-Seq effectively monitors gene expression in Eutrema salsugineum plants growing in an extreme... http://bit.ly/19NxNkm #BMC @MyEN
 372762762231181312  Aug 28 12:49  @nikhilgopal      Detection of microRNA associated with Alzheimer’s disease in biological fluids with RNA-Seq http://bit.ly/190Iyic
+372766119808884736  Aug 28 13:02  @bioinfojo        A model to estimate the statistical power needed to identify differentially expressed genes from RNA-Seq experiments: http://online.liebertpub.com/doi/abs/10.1089/cmb.2012.0283
 372767482454372353  Aug 28 13:07  @ADAC_UoN         RT @bioinfojo: A model to estimate the statistical power needed to identify differentially expressed genes from RNA-Seq experiments: http://t.co/9mm1i0dKFs
 372782713318543360  Aug 28 14:08  @portablegenomic  RNA-seq - Sailfish: Rapid Alignment-free Quantification of Isoform Abundance  http://www.cs.cmu.edu/~ckingsf/software/sailfish/
 372787908731604992  Aug 28 14:28  @SteveQinEmory    RT @moorejh: #genomics RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
@@ -3475,3 +3476,12 @@
 372846286631743488  Aug 28 18:20  @rnomics          Manual transcriptome reconstruction using #RNA-Seq reads (hg19) - BioStar:... http://bit.ly/19OgQ9l #rnomics_bioinfo @MyEN
 372858149247516672  Aug 28 19:08  @cupton1          RT @rnomics: Eye on Next-Generation Sequencing | #RNA-Seq Blog: http://rna-seqblog.com 200) &&... http://bit.ly/17iNa5C #rnomics_bioinfo @MyEN
 372865205749174272  Aug 28 19:36  @MPAlonso         RT @genetics_blog: Sailfish: Alignment-free RNA-seq Isoform Quantification. Preprint: http://arxiv.org/abs/1308.3700 @nextgenseek's review: http://t.co/bsReI2XzqW
+372896238599151616  Aug 28 21:39  @notSoJunkDNA     Fast Approximate Inference of Transcript Expression Levels from RNA-seq Data http://arxiv.org/abs/1308.5953 https://code.google.com/p/bitseq/
+372913647754174464  Aug 28 22:48  @iNut             study_type=RNA-Seqなくなったの…
+372936028878667776  Aug 29 00:17  @kaittenage       A comparison of methods for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/91
+372946552937275392  Aug 29 00:59  @biosoftcn        Flux Simulator 1.2.1 – Modeling RNA-Seq Experiments http://goo.gl/fb/4HuCe
+372949437531701249  Aug 29 01:10  @homolog_us       Flux Simulator for RNA-seq Simulation (http://www.homolog.us/blogs/blog/2013/08/28/flux-simulator-rna-seq-simulation/)
+372956723469774848  Aug 29 01:39  @TzeChienChu      "Flux Simulator for RNA-seq Simulation" http://www.homolog.us/blogs/blog/2013/08/28/flux-simulator-rna-seq-simulation/
+372962623287226368  Aug 29 02:03  @SEQquestions     RNA-seq read depths:  observed vs. expected http://bit.ly/1dS1djS
+372963598739705857  Aug 29 02:07  @mt_ur_mind       RT @homolog_us: Flux Simulator for RNA-seq Simulation (http://www.homolog.us/blogs/blog/2013/08/28/flux-simulator-rna-seq-simulation/)
+372970071359893504  Aug 29 02:32  @gawbul           Whole transcriptome RNA-seq allelic expression in human brain http://goo.gl/xfbxPG
