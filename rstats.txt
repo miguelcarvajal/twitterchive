@@ -16538,3 +16538,32 @@
 373237650737471488  Aug 29 20:16  @kiriwhan         Uncertainty in temperature rankings (http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00760.1) with data AND #rstats code (http://www.statmos.washington.edu/datacode.html). Good #openscience
 373241431642476544  Aug 29 20:31  @monsoontrader    RT @kiriwhan: Uncertainty in temperature rankings (http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00760.1) with data AND #rstats code (http://www.statmos.washington.edu/datacode.html). Good #openscience
 373244163216523264  Aug 29 20:41  @russellkt        RT @timelyportfolio: RSI on S&P500 + cumulative growth http://timelyportfolio.github.io/rCharts_crossfilter_dcjs/signal_slidify_withcumul.html   @NickQiZhu  #dcjs #d3js  #crossfilter w/ #rstats http://t.co/WDPVtBcoRz
+373250329690652672  Aug 29 21:06  @Zementis         Need scalable deployment for your R Predictive Analytics? Check out our #PMML scoring engine http://lnkd.in/FX2-tS #rstats #bigdata
+373251232208404480  Aug 29 21:10  @InfoMgmtExec     RT @Zementis: Need scalable deployment for your R Predictive Analytics? Check out our #PMML scoring engine http://lnkd.in/FX2-tS #rstats #bigdata
+373253372368797696  Aug 29 21:18  @ricksschultz     Southern States' #hyperlocal marketing using @alteryx for #predictive #analytics featured in @streetfightmag http://bit.ly/1438qvJ #rstats
+373263869918973952  Aug 29 22:00  @tjmahr           My labmate sent me this license plate #rstats cc @hadleywickham http://t.co/VGBABtOiCl
+373265578708180993  Aug 29 22:07  @ajerneck         RT @sharon000: acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
+373273664298311680  Aug 29 22:39  @sammontoia       twitteR and R stat, and testing   #rstats  #transparent
+373279312377430016  Aug 29 23:01  @Rbloggers        A simple amortization function:  (This article was first published on   Houses of Stones » R, and ki... http://bit.ly/1cm1vOh #rstats
+373280427160502273  Aug 29 23:06  @timelyportfolio  RT @ramnath_vaidya: Historic moment for Slidify :) #Rstats #slidify http://t.co/ovtmyb9Pzn
+373282386395426816  Aug 29 23:13  @recology_        RT @ramnath_vaidya: Historic moment for Slidify :) #Rstats #slidify http://t.co/ovtmyb9Pzn
+373290307242434560  Aug 29 23:45  @siah             I am back on doing bootstrap simulation full time "Simulation and Bootstrapping" http://ow.ly/ooRuZ #rstats
+373294616063127552  Aug 30 00:02  @Aelkus           RT @siah: I am back on doing bootstrap simulation full time "Simulation and Bootstrapping" http://ow.ly/ooRuZ #rstats
+373297823975878656  Aug 30 00:15  @jfreels4         RT @OpenCPU: Knitr/Markdown OpenCPU App for #rstats https://public.opencpu.org/posts/knitr-markdown-opencpu-app/
+373298214142627840  Aug 30 00:16  @mohdmadhani      RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373298231452524544  Aug 30 00:16  @jaredlander      RT @ramnath_vaidya: Historic moment for Slidify :) #Rstats #slidify http://t.co/ovtmyb9Pzn
+373303328639160320  Aug 30 00:37  @rebecca_jarvis   Learning #socialnetworkanalysis in R... http://statnet.org/  = brilliant! #rstats #networks http://t.co/IOR8yLjn0E
+373303591244537856  Aug 30 00:38  @theburntcity     RT @rebecca_jarvis: Learning #socialnetworkanalysis in R... http://statnet.org/  = brilliant! #rstats #networks http://t.co/IOR8yLjn0E
+373304752731594753  Aug 30 00:42  @markjburnard     RT @kdnuggets Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373305423954059264  Aug 30 00:45  @drago_carlo      Simulation and Bootstrapping http://sites.stat.psu.edu/~dhunter/astrostatistics/PennState2010/simboot.html @siah #Statistics #Simulation #Bootstrapping #Rstats
+373305618058452992  Aug 30 00:46  @PaulNunn         RT @sharon000: acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
+373307000744333312  Aug 30 00:51  @siah             Bootstrap Hypothesis Tests http://ow.ly/ooSxh #rstats
+373308393525481472  Aug 30 00:57  @drago_carlo      R and Linear Algebra http://zite.to/1a2rPPY @msgbi @jmgomez #Mathematics #Statistics #DataMining #MachineLearning #Rstats
+373308733595451392  Aug 30 00:58  @drago_carlo      Bootstrap Hypothesis Tests http://ow.ly/ooSxh @siah #Statistics #Bootstrap #HypothesisTests #Rstats
+373310125760446465  Aug 30 01:04  @timtriche        RT @ramnath_vaidya: Historic moment for Slidify :) #Rstats #slidify http://t.co/ovtmyb9Pzn
+373312875458469888  Aug 30 01:14  @gsantosgo        acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
+373316659614076928  Aug 30 01:30  @DailyRpackage    OjaNP - Multivariate Methods Based on the Oja Median and Related Concepts http://cran.r-project.org/web/packages/OjaNP/index.html #RStats
+373319538445938688  Aug 30 01:41  @AjayOza_Actual   New post on blogger http://cleanturmeric.blogspot.ie/2013/08/turmeric-blobs.html?m=1 #Rstats #turmeric
+373327443794219008  Aug 30 02:12  @kayuri           RT @siah: Bootstrap Hypothesis Tests http://ow.ly/ooSxh #rstats
+373331875206406144  Aug 30 02:30  @DataJunkie       @wesmckinn That's a bit surprising, but my guess is that it is from the days when JSS was mostly #Rstats, which is GPL (?)
+373338445415858176  Aug 30 02:56  @aninditode       RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
