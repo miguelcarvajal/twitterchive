@@ -16501,3 +16501,40 @@
 373152287029354496  Aug 29 14:36  @sharon000        acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
 373153278537650176  Aug 29 14:40  @hadleywickham    RT @sharon000: acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
 373153729278517248  Aug 29 14:42  @p5k12            RT @sharon000: acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
+373158173097488384  Aug 29 15:00  @hurricanejim     RT @sharon000: acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
+373167368983564288  Aug 29 15:36  @lucasstich       RT @M_T_Patterson: Promising resource for getting started with Survival Analysis in R: http://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_survival_analysis.pdf #RStats, #SurvivalAnalysis
+373169063763001344  Aug 29 15:43  @ar_usergroup     Alguno en Buenos Aires interesado en dar una charla o taller de R + Hadoop en nuestro proximo encuentro? #rstats http://ar.i314.com.ar/
+373170200348073984  Aug 29 15:48  @tangming2005     RT @genetics_blog: From the Nature Prot RNA-seq #Rstats paper: "[GTFs from] UCSC Table browser do not contain correct gene IDs" http://t.co/CFCEvGHnWn. Huh?
+373170868576219136  Aug 29 15:50  @Rbloggers        R and Linear Algebra:  (This article was first published on   Revolutions, and kindly contributed to... http://bit.ly/12QgJbw #rstats
+373171915055067138  Aug 29 15:54  @galenspikes      RT @sharon000: acs package to analyze Census data in R is quite cool. Pkg: http://bit.ly/12Q1Xl0 Blog: http://bit.ly/15jxhfF #rstats #ddj #dataviz
+373176419750129664  Aug 29 16:12  @GaiaTek          Software for Computing and Annotating Genomic Ranges http://dx.plos.org/10.1371/journal.pcbi.1003118 Forget obscure sh scripts, embrace #rstats #BioC #bioinformatics
+373185934772408320  Aug 29 16:50  @BUbioinfo        RT @genetics_blog: Nature protocols: analyzing RNA-seq with #Rstats/#Bioconductor http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html #bioinformatics
+373193132113788929  Aug 29 17:19  @Gastove          @taufmonster @geardrops Protip: it is totally a problem, especially in the occult JDBC backed of #RStats
+373193494892122112  Aug 29 17:20  @kdnuggets        Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373195092900581376  Aug 29 17:26  @volsurfer        RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373196187244822528  Aug 29 17:31  @deronaucoin      RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373197126349893633  Aug 29 17:35  @MMA_CRM          RT @gopivotal: RT @dirkvandenpoel Summary #KDD2013 feat. @gopivotal #rstats @Rbloggers @MSFTResearch http://bit.ly/175dtbF #bigdata #datamining
+373197686909841408  Aug 29 17:37  @lipido           RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373197992964415488  Aug 29 17:38  @farooqkhurram    RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373199977683492864  Aug 29 17:46  @kognitio         @Claudia_Imhoff @TonyBaer indeed! Advanced analytics, like #RStats R an amazing applicatyion of MPP in-memory, rows give faster data access
+373201264680513536  Aug 29 17:51  @_PhilMartin      Getting serious big data envy helping to draw graphs #rstats #ggplot2 #dontworrytheresnotmeanttobearealtionship http://t.co/90VARfggJS
+373201401087676416  Aug 29 17:52  @timelyportfolio  RSI on S&P500 + cumulative growth http://timelyportfolio.github.io/rCharts_crossfilter_dcjs/signal_slidify_withcumul.html   @NickQiZhu  #dcjs #d3js  #crossfilter w/ #rstats http://t.co/WDPVtBcoRz
+373202069416456192  Aug 29 17:54  @amestadmx        RT @RLangTip: Quirks of R's scoping rules: http://bit.ly/N2RSf6 #rstats
+373205435827769344  Aug 29 18:08  @timelyportfolio  RT @SchaunW: A simple amortization function http://wp.me/p3sMno-9I #rstats
+373205565305917440  Aug 29 18:08  @timelyportfolio  RT @Gliders_Coach: Jeroen Ooms's latest APP #rstats #appiness http://wp.me/p9q8Y-2Wa
+373205648931950594  Aug 29 18:08  @timelyportfolio  RT @OpenCPU: Knitr/Markdown OpenCPU App for #rstats https://public.opencpu.org/posts/knitr-markdown-opencpu-app/
+373206921408290816  Aug 29 18:13  @sekhardrona      RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373207916566020096  Aug 29 18:17  @sfalonso         RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373208782769119232  Aug 29 18:21  @i_314            Step by Step: Building an R Hadoop System by @RDataMining #rstats http://www.rdatamining.com/tutorials/rhadoop
+373212561623093248  Aug 29 18:36  @jfreels4         RT @timelyportfolio: RSI on S&P500 + cumulative growth http://timelyportfolio.github.io/rCharts_crossfilter_dcjs/signal_slidify_withcumul.html   @NickQiZhu  #dcjs #d3js  #crossfilter w/ #rstats http://t.co/WDPVtBcoRz
+373213703761829890  Aug 29 18:40  @xavi_barber      RT @statisticsblog: An R visualization of the Forbes-CCAP University Rankings. http://i.cx/1a0pntk #r #rstats #graphs #visual
+373213930724028416  Aug 29 18:41  @bob_solar        RT @_PhilMartin: Getting serious big data envy helping to draw graphs #rstats #ggplot2 #dontworrytheresnotmeanttobearealtionship http://t.co/90VARfggJS
+373216747542687744  Aug 29 18:53  @TylerDeutsch     RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373218168258695168  Aug 29 18:58  @bougakov         RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373220998985707520  Aug 29 19:09  @i_314            Alguno en Argentina interesado en dar una charla o taller de R+Hadoop en el proximo encuentro? #rstats http://ar.i314.com.ar @ar_usergroup
+373222754646241280  Aug 29 19:16  @mapagella        RT @i_314: Alguno en Argentina interesado en dar una charla o taller de R+Hadoop en el proximo encuentro? #rstats http://ar.i314.com.ar @ar_usergroup
+373223758884257792  Aug 29 19:20  @DiegoBodasSagi   RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+373227488924545026  Aug 29 19:35  @ramnath_vaidya   Historic moment for Slidify :) #Rstats #slidify http://t.co/ovtmyb9Pzn
+373237650737471488  Aug 29 20:16  @kiriwhan         Uncertainty in temperature rankings (http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00760.1) with data AND #rstats code (http://www.statmos.washington.edu/datacode.html). Good #openscience
+373241431642476544  Aug 29 20:31  @monsoontrader    RT @kiriwhan: Uncertainty in temperature rankings (http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00760.1) with data AND #rstats code (http://www.statmos.washington.edu/datacode.html). Good #openscience
+373244163216523264  Aug 29 20:41  @russellkt        RT @timelyportfolio: RSI on S&P500 + cumulative growth http://timelyportfolio.github.io/rCharts_crossfilter_dcjs/signal_slidify_withcumul.html   @NickQiZhu  #dcjs #d3js  #crossfilter w/ #rstats http://t.co/WDPVtBcoRz
