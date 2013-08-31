@@ -16662,3 +16662,13 @@
 373679047114768384  Aug 31 01:30  @DailyRpackage    filehashSQLite - Simple key-value database using SQLite http://cran.r-project.org/web/packages/filehashSQLite/index.html #RStats
 373681975564828672  Aug 31 01:41  @datalies         Feeling a bit I/O bound at the moment. So many ideas.. bounded typing capacity. #Rstats #programming
 373695457421037568  Aug 31 02:35  @wwwilson         RT @siah: Amazing book "Advanced Data Analysis from an Elementary Point of View" http://bit.ly/1a6EwJu #rstats
+373714209755770880  Aug 31 03:49  @zuacsea          RT @ciamk: Second order correctness of the Poisson bootstrap http://ow.ly/oqSH3 #stats #rstats
+373714258980139008  Aug 31 03:49  @zuacsea          RT @siah: Amazing book "Advanced Data Analysis from an Elementary Point of View" http://bit.ly/1a6EwJu #rstats
+373714381667696640  Aug 31 03:50  @zuacsea          RT @ciamk: Creating non-parametric bootstrap samples using Poisson frequencies http://ow.ly/oqTg6 #rstats
+373734384135725056  Aug 31 05:09  @ansgar_t         Things you read when learning R: "Object-oriented programming is a style of programming that has become popular in recent years." #Rstats
+373742907393839104  Aug 31 05:43  @Altons           Tutorial: Parallel programming with foreach http://zite.to/16XkUmw via #rstats
+373764770677395456  Aug 31 07:10  @MAFLOnline       Predictability of team scores across VFL/ #AFL http://ow.ly/21ZXNE #rstats #regression #prediction #modelling
+373768866259693568  Aug 31 07:26  @PPUAMX           RT @RLangTip: Use savePlot() from the grDevices package to save a Windows plot to a file #rstats http://bit.ly/14qtBWO
+373774803288997888  Aug 31 07:50  @quandl           Average income per #programming language by @bpodgursky http://qndl.co/13ZcZar #Rstats
+373784033559199744  Aug 31 08:27  @pstyd            RT @quandl: Average income per #programming language by @bpodgursky http://qndl.co/13ZcZar #Rstats
+373785528220782592  Aug 31 08:33  @diego_torres     RT @quandl: Average income per #programming language by @bpodgursky http://qndl.co/13ZcZar #Rstats
