@@ -16649,3 +16649,16 @@
 373604112404721664  Aug 30 20:32  @Aidan_M_Keith    RT @mgwhitfield: Useful: MT @statisticsblog: Converting daily time series observations into weekly/monthly in #rstats? http://t.co/UHOK8aHRHw
 373604890523996160  Aug 30 20:35  @ciamk            Second order correctness of the Poisson bootstrap http://ow.ly/oqSH3 #stats #rstats
 373609863446028288  Aug 30 20:55  @siah             Amazing book "Advanced Data Analysis from an Elementary Point of View" http://bit.ly/1a6EwJu #rstats
+373612690268123137  Aug 30 21:06  @recology_        RT @kevin_ushey: melt faster with melt_: http://rpubs.com/CauchyDistributedRV/7962 #rstats
+373617458449760256  Aug 30 21:25  @ciamk            Creating non-parametric bootstrap samples using Poisson frequencies http://ow.ly/oqTg6 #rstats
+373617553571983361  Aug 30 21:25  @fz16cu           RT @siah: Amazing book "Advanced Data Analysis from an Elementary Point of View" http://bit.ly/1a6EwJu #rstats
+373621165085835264  Aug 30 21:40  @jasonyaw         RT @siah: Amazing book "Advanced Data Analysis from an Elementary Point of View" http://bit.ly/1a6EwJu #rstats
+373625051636961280  Aug 30 21:55  @MathBioPaul      RT @kevin_ushey: melt faster with melt_: http://rpubs.com/CauchyDistributedRV/7962 #rstats
+373638171608612865  Aug 30 22:47  @ramnath_vaidya   Slidify is a misnomer. It can transform R Markdown files into slide decks, articles, websites and even blogs. Docs underway soon #rstats
+373642647153680384  Aug 30 23:05  @sharon000        Very elegant way of plotting time data by week or month with R http://i.cx/18pZT1R #rstats #dataviz via @statisticsblog
+373651252862652416  Aug 30 23:39  @seannewman       RT @siah: Amazing book "Advanced Data Analysis from an Elementary Point of View" http://bit.ly/1a6EwJu #rstats
+373660856204013568  Aug 31 00:17  @p_e              RT @siah: Amazing book "Advanced Data Analysis from an Elementary Point of View" http://bit.ly/1a6EwJu #rstats
+373666642036674560  Aug 31 00:40  @marzagao         RT @siah: Amazing book "Advanced Data Analysis from an Elementary Point of View" http://bit.ly/1a6EwJu #rstats
+373679047114768384  Aug 31 01:30  @DailyRpackage    filehashSQLite - Simple key-value database using SQLite http://cran.r-project.org/web/packages/filehashSQLite/index.html #RStats
+373681975564828672  Aug 31 01:41  @datalies         Feeling a bit I/O bound at the moment. So many ideas.. bounded typing capacity. #Rstats #programming
+373695457421037568  Aug 31 02:35  @wwwilson         RT @siah: Amazing book "Advanced Data Analysis from an Elementary Point of View" http://bit.ly/1a6EwJu #rstats

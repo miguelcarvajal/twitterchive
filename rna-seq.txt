@@ -3524,3 +3524,4 @@
 373483724530540544  Aug 30 12:33  @nikhilgopal      Revolution of nephrology research by deep sequencing: ChIP-seq and RNA-seq http://bit.ly/15c9FU8
 373513320529424384  Aug 30 14:31  @EpiExperts       NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data - http://s.shr.lc/17oHg12 -NK
 373573940825690112  Aug 30 18:32  @StackOverflowR   Bootstrapping RNA-Seq data with BoxCox transformation http://bit.ly/17tjpPO
+373639210357379072  Aug 30 22:51  @jcatchen         good overview of differential gene expression from rna-seq data. from reps, to alignment/counting, to DESeq/edgeR http://www.nature.com/nprot/journal/v8/n9/full/nprot.2013.099.html
