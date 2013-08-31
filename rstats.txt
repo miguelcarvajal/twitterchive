@@ -16614,6 +16614,7 @@
 373476072647442432  Aug 30 12:03  @recology_        RT @revodavid: Tutorial on using foreach, doMC and doSnow #rstats packages for parallel programming http://blog.revolutionanalytics.com/2013/08/wonders-of-foreach.html
 373476636253241344  Aug 30 12:05  @RLangTip         Use savePlot() from the grDevices package to save a Windows plot to a file #rstats http://bit.ly/14qtBWO
 373479145558114305  Aug 30 12:15  @mgwhitfield      Useful: MT @statisticsblog: Converting daily time series observations into weekly/monthly in #rstats? http://i.cx/18pZT1R
+373479886318747648  Aug 30 12:18  @mmeierer         RT @revodavid: Tutorial on using foreach, doMC and doSnow #rstats packages for parallel programming http://blog.revolutionanalytics.com/2013/08/wonders-of-foreach.html
 373480573005615104  Aug 30 12:21  @M_T_Patterson    converting factors to numeric in R: anything easier than as.numeric(as.character()) ? #Rstats
 373489182338842624  Aug 30 12:55  @lgarulli         RT @datennutzen: Eine kurze Einführung in #NoSQL, die Verbindung zu #rstats und #OrientDB als interessante Alternative  http://t.co/huFLWeiSRl
 373493531454603265  Aug 30 13:12  @recology_        "I have a dream" by party @sunlightlabs+govdat+rCharts in #rstats =  #javascript  plot http://bit.ly/1a67yco code http://bit.ly/1a67AkA
@@ -16630,3 +16631,21 @@
 373507030755315712  Aug 30 14:06  @gawbul           RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
 373507345063890944  Aug 30 14:07  @AMCELL           RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
 373509398733152257  Aug 30 14:15  @chenghlee        RT @revodavid: Number of jobs calling for R skills is rising; demand for SAS and Cobol is falling: http://bit.ly/18X3KcJ #rstats
+373523022004502529  Aug 30 15:10  @sjGoring         @DavidJohnGibson @JEcology and both with RMarkdown supplements #openscience #reproducibleresearch #rstats
+373523792061927424  Aug 30 15:13  @sharon000        RT @statisticsblog Myths & models behind TV show cancellations http://i.cx/17r3oK3  by @iacobus42 #rstats #data
+373527325666988032  Aug 30 15:27  @withbioinformat  RT @revodavid: Tutorial on using foreach, doMC and doSnow #rstats packages for parallel programming http://blog.revolutionanalytics.com/2013/08/wonders-of-foreach.html
+373531077773496320  Aug 30 15:42  @Rbloggers        Tutorial: Parallel programming with foreach:  (This article was first published on   Revolutions, an... http://bit.ly/1coFK08 #rstats
+373532661035171840  Aug 30 15:48  @recology_        RT @sjGoring: @DavidJohnGibson @JEcology and both with RMarkdown supplements #openscience #reproducibleresearch #rstats
+373534375969042432  Aug 30 15:55  @nickholway       RT @mattVDiLeo: Nice how-to #RNAseq written accessibly for bench scientists http://go.nature.com/fPD4Se #yam #Rstats via @adeslat
+373548238701596672  Aug 30 16:50  @aDataHead        RT @siah: Bootstrap Hypothesis Tests http://ow.ly/ooSxh #rstats
+373548767322324992  Aug 30 16:52  @ahs85            RT @datennutzen: Eine kurze Einführung in #NoSQL, die Verbindung zu #rstats und #OrientDB als interessante Alternative  http://t.co/huFLWeiSRl
+373558003980832768  Aug 30 17:29  @beccamedwards    RT @_inundata: R versus Python speed comparison for bootstrapping.  http://bit.ly/1dgw1fq Great discussion in the comments. #rstats
+373559331264159745  Aug 30 17:34  @Quesada          RT @RLangTip: To see the output when running a script file, use source("myscript.R", echo=TRUE) #rstats http://bit.ly/M6mig1
+373571948254461952  Aug 30 18:24  @ChrisBeeley      RT @ramnath_vaidya: Historic moment for Slidify :) #Rstats #slidify http://t.co/ovtmyb9Pzn
+373572347678060545  Aug 30 18:26  @brandysbaxter    Southern States' #hyperlocal marketing using @alteryx for #predictive #analytics featured in @streetfightmag http://bit.ly/1438qvJ #rstats
+373575136969908224  Aug 30 18:37  @kevin_ushey      melt faster with melt_: http://rpubs.com/CauchyDistributedRV/7962 #rstats
+373581090809597952  Aug 30 19:00  @Rbloggers        Encouraging citation of software – introducing CITATION files:  (This article was first published on... http://bit.ly/17toAze #rstats
+373586061957427201  Aug 30 19:20  @eddelbuettel     Surely an upcoming Rcpp Gallery post, no? MT @kevin_ushey melt faster with melt_: http://rpubs.com/CauchyDistributedRV/7962 … #rstats
+373604112404721664  Aug 30 20:32  @Aidan_M_Keith    RT @mgwhitfield: Useful: MT @statisticsblog: Converting daily time series observations into weekly/monthly in #rstats? http://t.co/UHOK8aHRHw
+373604890523996160  Aug 30 20:35  @ciamk            Second order correctness of the Poisson bootstrap http://ow.ly/oqSH3 #stats #rstats
+373609863446028288  Aug 30 20:55  @siah             Amazing book "Advanced Data Analysis from an Elementary Point of View" http://bit.ly/1a6EwJu #rstats
