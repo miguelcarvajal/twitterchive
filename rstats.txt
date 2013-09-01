@@ -16709,3 +16709,14 @@
 374041433264889856  Sep  1 01:30  @DailyRpackage    qrnn - Quantile regression neural network http://cran.r-project.org/web/packages/qrnn/index.html #RStats
 374132247236198400  Sep  1 07:30  @jmgomez          R resources - example of #HTML presentation produced with #RStudio http://ow.ly/222655 #rstats
 374143301156212736  Sep  1 08:14  @Computerworld    RT @vpotter:.@sharon000 has added more links & mini-writeups to her excellent, extensive R resources list: http://cwrld.us/RGuideList #rstats
+374170650564259840  Sep  1 10:03  @M_T_Patterson    Sabermetrics with Python + R: http://ramhiser.com/blog/2013/08/31/mlb-rankings-using-the-bradley-terry-model/ #RStats, #Python, #Baseball
+374182515562774528  Sep  1 10:50  @quandl           Cheat sheet for prediction and classification models in #R | Revolutions http://qndl.co/1fj4WVp #Rstats
+374183908021395456  Sep  1 10:56  @gsantosgo        How to Build a Text Mining, Machine Learning Document Classification in R #RStats #TextMining http://lnkd.in/J_uaCk
+374194898905608192  Sep  1 11:39  @mmeierer         Social Network Analysis: Introduction and Methods of Analysis in R http://bit.ly/17A5yqT by @treycausey #rstats #networkanalysis
+374205211671162880  Sep  1 12:20  @Rbloggers        Mixed models exercise 2. Repeated measurements:  (This article was first published on   Wiekvoet, an... http://bit.ly/1dEL5Vn #rstats
+374207135246462977  Sep  1 12:28  @diego_torres     RT @quandl: Cheat sheet for prediction and classification models in #R | Revolutions http://qndl.co/1fj4WVp #Rstats
+374207921879810048  Sep  1 12:31  @gvegayon         "A #Stata HTML syntax highlighter in #Rstats" http://feedly.com/k/14iQBn6
+374210222401024000  Sep  1 12:40  @gvegayon         "R and Linear Algebra" http://feedly.com/k/14iRA6F #rstats good review from @revojoe! #bigdata
+374210548814315520  Sep  1 12:42  @reroes           RT @gvegayon: "R and Linear Algebra" http://feedly.com/k/14iRA6F #rstats good review from @revojoe! #bigdata
+374217518115594240  Sep  1 13:09  @monkmanmh        Blog post: Fair weather @HarbourCats fans, redux. #RStats http://bayesball.blogspot.ca/2013/09/fair-weather-fans-redux.html
+374241443948138496  Sep  1 14:44  @treycausey       @JonesZM @griverorz eeesr also sounds like the name of an #rstats package
