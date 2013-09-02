@@ -16743,3 +16743,42 @@
 374506732271452160  Sep  2 08:18  @onertipaday      http://www.econometricsbysimulation.com/2013/08/making-regex-examples-work-for-you.html #regex #rstats
 374513520760852480  Sep  2 08:45  @davdittrich      Easy 3-Minute Guide to Making apply() Parallel over Distributed Grids and Clusters in R http://ow.ly/2262gL #rstats
 374514533030580226  Sep  2 08:49  @tadKeys          Great idea: "OpenCPU: producing and reproducing results." http://opencpu.org #rstats (via @OpenCPU )
+374517280022884352  Sep  2 09:00  @statisticsblog   R tip of the day - calculating propagation of uncertainty using R. http://i.cx/17xjn5F. #statistics #r #rstats
+374518111518470144  Sep  2 09:04  @daniel2nico      RT @SAGRudd: Count-based differential expression analysis of RNA sequencing data using #Rstats and Bioconductor @ http://buff.ly/19bdqN1
+374522798644805632  Sep  2 09:22  @np_jiang         RT @statisticsblog: R tip of the day - calculating propagation of uncertainty using R. http://i.cx/17xjn5F. #statistics #r #rstats
+374526765177122817  Sep  2 09:38  @gagliol          MT @drago_carlo Social Network Analysis: Introduction & Methods of Analysis in R by @benjaminlind http://bit.ly/17A5yqT  #rstats #sna
+374528815986245632  Sep  2 09:46  @ChrisGandrud     Short how-to for graphing results from Cox PH with #rstats and #simPH http://bit.ly/19cb2p2
+374534219113824257  Sep  2 10:08  @roberttorzynski  #ROC #rstats - 11 year #weather sum for #Rochester, NY by pct using heatmap.2 to mine and refine ~ #IATA code. n=4418 http://t.co/CugKZiPcSY
+374534371820470272  Sep  2 10:08  @ROCify           RT @roberttorzynski: #ROC #rstats - 11 year #weather sum for #Rochester, NY by pct using heatmap.2 to mine and refine ~ #IATA code. n=4418 http://t.co/CugKZiPcSY
+374540247167938560  Sep  2 10:32  @jmgomez          RT @mmeierer: Teaching material on Advanced #NetworkAnalysis with #rstats http://bit.ly/1ftNJJ4 (by Bruce Desmarais @UMassAmherst) #SNA
+374545579881160705  Sep  2 10:53  @Rbloggers        Showing results from Cox Proportional Hazard Models in R with simPH:  (This article was first publis... http://bit.ly/17EjUGW #rstats
+374549076790214657  Sep  2 11:07  @ronert_obst      RT @quandl: A #Python package for downloading #course material from Coursera by @elazungu http://qndl.co/1dtl0HI #Rstats
+374550312897376256  Sep  2 11:12  @mmeierer         RT @ChrisGandrud: Short how-to for graphing results from Cox PH with #rstats and #simPH http://bit.ly/19cb2p2
+374562691123138560  Sep  2 12:01  @annakrystalli    What's the best way to visualise a scatterplot with too many overlapping points in R? (hard to make sense even with jitter) #Rstats
+374563766681485312  Sep  2 12:05  @RLangTip         Find out what files are in your working directory with dir(), also list.files()  #rstats http://bit.ly/17saavu
+374565086620160000  Sep  2 12:10  @darrenjw         @annakrystalli smoothScatter() - http://stat.ethz.ch/R-manual/R-devel/library/graphics/html/smoothScatter.html #rstats
+374565127506624512  Sep  2 12:11  @inside_R         #rstats R user group meetings this week: Durban, Gainseville, Sydney, Toronto and Bostonhttp://bit.ly/9hVAPE
+374566351500623874  Sep  2 12:15  @annakrystalli    RT @darrenjw: @annakrystalli smoothScatter() - http://stat.ethz.ch/R-manual/R-devel/library/graphics/html/smoothScatter.html #rstats
+374566662177320961  Sep  2 12:17  @rystanman        Scumbag wireless keyboard: Ryan is coding in #rstats so I will render the c-key inoperative! Argh! #R-problems
+374566776161304576  Sep  2 12:17  @drago_carlo      How to Build a Text Mining, Machine Learning Document Classification System in R @jmgomez #TextMining #DataMining #MachineLearning #Rstats
+374567892253020161  Sep  2 12:21  @lucaborger       RT @RLangTip Find out what files are in your working directory with dir(), also list.files()  #rstats http://bit.ly/17saavu
+374570175485333505  Sep  2 12:31  @benjaminlind     My guest post at the #GDELT blog: "How to both download and read GDELT using just R" http://gdeltblog.wordpress.com/2013/09/02/how-to-both-download-and-read-gdelt-using-just-r/ #rstats
+374570640633647106  Sep  2 12:32  @treycausey       RT @benjaminlind: My guest post at the #GDELT blog: "How to both download and read GDELT using just R" http://gdeltblog.wordpress.com/2013/09/02/how-to-both-download-and-read-gdelt-using-just-r/ #rstats
+374570814114258945  Sep  2 12:33  @bkeegan          RT @benjaminlind: My guest post at the #GDELT blog: "How to both download and read GDELT using just R" http://gdeltblog.wordpress.com/2013/09/02/how-to-both-download-and-read-gdelt-using-just-r/ #rstats
+374571709837611009  Sep  2 12:37  @johnb30          RT @benjaminlind: My guest post at the #GDELT blog: "How to both download and read GDELT using just R" http://gdeltblog.wordpress.com/2013/09/02/how-to-both-download-and-read-gdelt-using-just-r/ #rstats
+374572174561923073  Sep  2 12:39  @BenkyoPlayer     Did you know Johns Hopkins University offers online #rstats courses for free ? http://benkyoplayer.com/courses/computing-for-data-analysis http://benkyoplayer.com/courses/data-analysis
+374572243193311232  Sep  2 12:39  @makoto_inoue     RT @BenkyoPlayer: Did you know Johns Hopkins University offers online #rstats courses for free ? http://benkyoplayer.com/courses/computing-for-data-analysis http://t.co/IsM5u5PzO8
+374574776682950656  Sep  2 12:49  @felixhaass       Sweet. Thx! MT @benjaminlind: guest post at the #GDELT blog: "How to both download & read GDELT using just R" http://gdeltblog.wordpress.com/2013/09/02/how-to-both-download-and-read-gdelt-using-just-r/ #rstats
+374577254241542145  Sep  2 12:59  @PPUAMX           RT @RLangTip: Find out what files are in your working directory with dir(), also list.files()  #rstats http://bit.ly/17saavu
+374577495720222721  Sep  2 13:00  @jay_ulfelder     RT @benjaminlind: My guest post at the #GDELT blog: "How to both download and read GDELT using just R" http://gdeltblog.wordpress.com/2013/09/02/how-to-both-download-and-read-gdelt-using-just-r/ #rstats
+374581438991331328  Sep  2 13:15  @quandl           #R & linear algebra by @RevoJoe http://qndl.co/1dxKYL4 #Rstats #analytics #statistics
+374583546847178754  Sep  2 13:24  @PageViral        RT @quandl: #R & linear algebra by @RevoJoe http://qndl.co/1dxKYL4 #Rstats #analytics #statistics
+374588392639840256  Sep  2 13:43  @arcalb           RT @RLangTip: Find out what files are in your working directory with dir(), also list.files()  #rstats http://bit.ly/17saavu
+374592288183549953  Sep  2 13:58  @caidong          .@quandl: #R & linear algebra by @RevoJoe http://qndl.co/1dxKYL4 #Rstats #analytics #statistics
+374593027727048704  Sep  2 14:01  @kevin_ushey      RT @M_T_Patterson: Sabermetrics with Python + R: http://ramhiser.com/blog/2013/08/31/mlb-rankings-using-the-bradley-terry-model/ #RStats, #Python, #Baseball
+374593397031731200  Sep  2 14:03  @PageViral        RT @caidong: .@quandl: #R & linear algebra by @RevoJoe http://qndl.co/1dxKYL4 #Rstats #analytics #statistics
+374597270097776642  Sep  2 14:18  @MattDabrowski    RT @benjaminlind: My guest post at the #GDELT blog: "How to both download and read GDELT using just R" http://gdeltblog.wordpress.com/2013/09/02/how-to-both-download-and-read-gdelt-using-just-r/ #rstats
+374597367313350656  Sep  2 14:19  @mohdmadhani      RT @RLangTip: Find out what files are in your working directory with dir(), also list.files()  #rstats http://bit.ly/17saavu
+374602628636082176  Sep  2 14:40  @jay_yonamine     RT @benjaminlind: My guest post at the #GDELT blog: "How to both download and read GDELT using just R" http://gdeltblog.wordpress.com/2013/09/02/how-to-both-download-and-read-gdelt-using-just-r/ #rstats
+374605492481699840  Sep  2 14:51  @TraineeGeek      RT @inside_R: #rstats R user group meetings this week: Durban, Gainseville, Sydney, Toronto and Bostonhttp://bit.ly/9hVAPE
+374605767527399425  Sep  2 14:52  @davidweisss      RT @genetics_blog: Awesome. In-browser #Rstats knitr+#markdown compilation in real-time https://public.opencpu.org/ocpu/library/markdownapp/www/
