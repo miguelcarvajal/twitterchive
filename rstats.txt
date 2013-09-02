@@ -16732,3 +16732,14 @@
 374341091006230528  Sep  1 21:20  @Rbloggers        Easy 3-Minute Guide to Making apply() Parallel over Distributed Grids and Clusters in R:  (This arti... http://bit.ly/132GLIv #rstats
 374369530429964288  Sep  1 23:13  @triadsou         [Rcmdr]Markdown が増えたのか / “The Excellent V 2.0 of R Commander #rstats « DECISION STATS” http://htn.to/RppWdk
 374403823772909568  Sep  2 01:30  @DailyRpackage    scaRabee - Optimization Toolkit for Pharmacokinetic-Pharmacodynamic Models http://cran.r-project.org/web/packages/scaRabee/index.html #RStats
+374437917625974784  Sep  2 03:45  @drodriguezperez  El paquete 'growthmodels' de R ya esta disponible en el CRAN. #RStats http://cran.r-project.org/web/packages/growthmodels/index.html
+374441861324472320  Sep  2 04:01  @SAGRudd          Count-based differential expression analysis of RNA sequencing data using #Rstats and Bioconductor @ http://buff.ly/19bdqN1
+374443020537831424  Sep  2 04:05  @jmgomez          RT @quandl: An example of social network #analysis with #R using package igraph by @RDataMining http://qndl.co/15wNUBS #Rstats
+374449850760192000  Sep  2 04:32  @BiomedRevon      RT @SAGRudd: Count-based differential expression analysis of RNA sequencing data using #Rstats and Bioconductor @ http://buff.ly/19bdqN1
+374464898790862848  Sep  2 05:32  @mmeierer         Teaching material on Advanced #NetworkAnalysis with #rstats http://bit.ly/1ftNJJ4 (by Bruce Desmarais @UMassAmherst) #SNA
+374474195679588353  Sep  2 06:09  @jorgaf           RT @mmeierer: Teaching material on Advanced #NetworkAnalysis with #rstats http://bit.ly/1ftNJJ4 (by Bruce Desmarais @UMassAmherst) #SNA
+374482073005740032  Sep  2 06:40  @joaquinarma      Vale, voopal wabbit es rápido y escalable pero no supera a R #rstats en predicción.
+374503381240655872  Sep  2 08:05  @quandl           A #Python package for downloading #course material from Coursera by @elazungu http://qndl.co/1dtl0HI #Rstats
+374506732271452160  Sep  2 08:18  @onertipaday      http://www.econometricsbysimulation.com/2013/08/making-regex-examples-work-for-you.html #regex #rstats
+374513520760852480  Sep  2 08:45  @davdittrich      Easy 3-Minute Guide to Making apply() Parallel over Distributed Grids and Clusters in R http://ow.ly/2262gL #rstats
+374514533030580226  Sep  2 08:49  @tadKeys          Great idea: "OpenCPU: producing and reproducing results." http://opencpu.org #rstats (via @OpenCPU )
