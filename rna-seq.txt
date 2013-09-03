@@ -3548,3 +3548,18 @@
 374688311207817217  Sep  2 20:20  @MsMacrophage     RT @genetics_blog: Calculating Sample Size Estimates for RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23961961
 374718681449627649  Sep  2 22:21  @rnomics          MITIE: Simultaneous #RNA-Seq-based transcript identification and quantification in... http://bit.ly/1a24zhy #bioinformaticsj @MyEN
 374742689918361602  Sep  2 23:56  @BGI_YY           11年nature methods review里有一篇介绍RNA-seq每个层面程序，其中PALMapper多少算是独树一帜（seed-extented spliced aligner) //@Puriney : 搬家抽空（冒着不心疼老婆的风险）简单翻译了一下PALMapper
+374805891008450561  Sep  3 04:07  @drchriscole      Getting a 'very good' correlation of 0.82 (spearman's) between bulk RNA-seq and single cell RNA-seq #ukgs13
+374806645312094208  Sep  3 04:10  @BioMickWatson    Not convinced by eukaryotic single cell RNA-Seq - cells don't act in isolation, what does it tell you? #UKGS13
+374807701450022912  Sep  3 04:14  @davetang31       RT @BioMickWatson: Not convinced by eukaryotic single cell RNA-Seq - cells don't act in isolation, what does it tell you? #UKGS13
+374807959643381760  Sep  3 04:15  @drchriscole      Problems in comparing genes from single cell RNA-seq due to RT 3' bias. RPKM not suitable #ukgs13
+374814261325086720  Sep  3 04:40  @PaulHoskisson    RT @BioMickWatson: Not convinced by eukaryotic single cell RNA-Seq - cells don't act in isolation, what does it tell you? #UKGS13
+374823976049967104  Sep  3 05:19  @dritoshi         1細胞RNA-Seqについて寄稿しました。9/3に発売です。 実験医学増刊：ゲノム医学・生命科学研究 総集編〜ポストゲノムの10年は何をもたらしたか https://www.yodosha.co.jp/jikkenigaku/book/9784758103336/
+374824857763983361  Sep  3 05:23  @rikka_soar       RT @dritoshi: 1細胞RNA-Seqについて寄稿しました。9/3に発売です。 実験医学増刊：ゲノム医学・生命科学研究 総集編〜ポストゲノムの10年は何をもたらしたか https://www.yodosha.co.jp/jikkenigaku/book/9784758103336/
+374829616050880512  Sep  3 05:41  @antiplastics     RT @dritoshi: 1細胞RNA-Seqについて寄稿しました。9/3に発売です。 実験医学増刊：ゲノム医学・生命科学研究 総集編〜ポストゲノムの10年は何をもたらしたか https://www.yodosha.co.jp/jikkenigaku/book/9784758103336/
+374833294514212864  Sep  3 05:56  @mwanger          Single cell a unit,expect many for a sample. "@BioMickWatson: Not convinced euk. single cell RNA-Seq - cells don't act in isolation #UKGS13"
+374837766573416448  Sep  3 06:14  @razZ0r           NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/262/abstract
+374840253938278400  Sep  3 06:24  @RajanChaudhari   RNA-Seq for Transcriptome Analysis in Non-model Plants.: RNA-Seq for Transcriptome Analysis i... http://1.usa.gov/17IcRgr #NGS #sequencing
+374853402502504448  Sep  3 07:16  @SamuelC_Preach   Turning genes on/off in cells by reprogramming RNA seq; helping scientists 2better understand function of those genes http://t.co/ZCGz41kFDq
+374859980291047424  Sep  3 07:42  @rnomics          New #RNA-Seq Library Prep Kits for Ion Torrent and SOLiD Sequencing:... http://bit.ly/1a32i5P #NewProducts #PressRelease #RNAseq @MyEN
+374860610455891968  Sep  3 07:45  @shim_tw          RT @dritoshi: 1細胞RNA-Seqについて寄稿しました。9/3に発売です。 実験医学増刊：ゲノム医学・生命科学研究 総集編〜ポストゲノムの10年は何をもたらしたか https://www.yodosha.co.jp/jikkenigaku/book/9784758103336/
+374862651118977024  Sep  3 07:53  @thatdnaguy       RT @drchriscole: Problems in comparing genes from single cell RNA-seq due to RT 3' bias. RPKM not suitable #ukgs13
