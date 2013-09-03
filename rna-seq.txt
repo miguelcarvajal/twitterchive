@@ -3563,3 +3563,34 @@
 374859980291047424  Sep  3 07:42  @rnomics          New #RNA-Seq Library Prep Kits for Ion Torrent and SOLiD Sequencing:... http://bit.ly/1a32i5P #NewProducts #PressRelease #RNAseq @MyEN
 374860610455891968  Sep  3 07:45  @shim_tw          RT @dritoshi: 1細胞RNA-Seqについて寄稿しました。9/3に発売です。 実験医学増刊：ゲノム医学・生命科学研究 総集編〜ポストゲノムの10年は何をもたらしたか https://www.yodosha.co.jp/jikkenigaku/book/9784758103336/
 374862651118977024  Sep  3 07:53  @thatdnaguy       RT @drchriscole: Problems in comparing genes from single cell RNA-seq due to RT 3' bias. RPKM not suitable #ukgs13
+374887327073841152  Sep  3 09:31  @drchriscole      LT2 is getting pretty full. Must pretty quiet in LT3. Looks like the talk on 48rep RNA-seq is a bit of a draw #ukngs13
+374887740359606273  Sep  3 09:32  @GSU_Dundee       #ukgs13 now @gjbarton to talk about the great RNA seq experiment @clsdundee @DundeeUniv
+374887989341868032  Sep  3 09:33  @nikhilgopal      New RNA-Seq Library Prep Kits for Ion Torrent and SOLiD Sequencing http://bit.ly/17nTO4X
+374888258591027200  Sep  3 09:35  @drchriscole      Next up is @gjbarton with the first of the @cls_dundee 'triumvirate' - talking about our 48 rep yeast RNA-seq expt #ukgs13
+374888545267511296  Sep  3 09:36  @rdemes           Next inn session Geoff Barton Dundee @gjbarton  RNA-Seq replicates and experimental design #UKGS13
+374888615446577152  Sep  3 09:36  @GSU_Dundee       RT @drchriscole: Next up is @gjbarton with the first of the @cls_dundee 'triumvirate' - talking about our 48 rep yeast RNA-seq expt #ukgs13
+374890683477553152  Sep  3 09:44  @drchriscole      LT2 is pretty full. Must pretty quiet in LT3. Looks like the talk on 48rep RNA-seq is a bit of a draw #ukgs13
+374893902563516416  Sep  3 09:57  @nickschurch      Interesting that Limma, developed for Micoarray, not RNA-Seq, does as well as many of the other Differential Expression methods #UKgs13
+374896630354690048  Sep  3 10:08  @drchriscole      Next up is the 'technical' @MarekGierlinski - Gene expression distribution and “bad” replicates in RNA-seq experiments #ukgs13
+374897283940499456  Sep  3 10:10  @drchriscole      Interesting that in this talk a correlation of 0.80 is poor, when in other RNA-seq talks it's very good #ukgs13
+374897614560722944  Sep  3 10:12  @GSU_Dundee       RT @drchriscole: Next up is the 'technical' @MarekGierlinski - Gene expression distribution and “bad” replicates in RNA-seq experiments #ukgs13
+374897812825063425  Sep  3 10:12  @mtothen          RT @drchriscole: Next up is the 'technical' @MarekGierlinski - Gene expression distribution and “bad” replicates in RNA-seq experiments #ukgs13
+374897839475662848  Sep  3 10:13  @mtothen          RT @drchriscole: Interesting that in this talk a correlation of 0.80 is poor, when in other RNA-seq talks it's very good #ukgs13
+374900470168711168  Sep  3 10:23  @drchriscole      Are the assumed distributions: negative binomial, log normal, poisson, etc appropriate for RNA-seq differential expression? #ukgs13
+374909806244798464  Sep  3 11:00  @Aller_MD         Transcriptome sequencing (RNA-Seq) of human endobronchial biopsies: asthma versus controls http://bit.ly/17wuj5o
+374910590789373952  Sep  3 11:03  @drchriscole      First mention of strand-specific RNA-seq. Wonder why it's not more used? Should be the default IMO #ukgs13
+374911134559502336  Sep  3 11:05  @nickschurch      RT @drchriscole: First mention of strand-specific RNA-seq. Wonder why it's not more used? Should be the default IMO #ukgs13
+374913551090991105  Sep  3 11:15  @DrDanielSwan     @drchriscole We have switched entirely to strand-specific RNA-Seq, I also don't understand why it is not the default choice..
+374914867959853056  Sep  3 11:20  @michie1101       @drk0311 今年その雑誌に出てるものでは、コムギの病原菌で、既に読まれた配列にいろんなストレインをリシーケンスして比較、さらにRNA-seqもやって載ってるのですよ。菌のバリエーションを増やすのは非現実的だから、それ以外のデータで議論できないと。
+374915096784273408  Sep  3 11:21  @chenghlee        RT @drchriscole: First mention of strand-specific RNA-seq. Wonder why it's not more used? Should be the default IMO #ukgs13
+374915276581920768  Sep  3 11:22  @drchriscole      Next up is @nickschurch, the last of today's @cls_dundee triumvirate - External Spike-ins: taking control of RNA-seq #ukgs13
+374915750743773184  Sep  3 11:24  @Interasma        “@Aller_MD: Transcriptome sequencing (RNA-Seq) of human endobronchial biopsies: asthma versus controls http://bit.ly/17wuj5o”
+374915799661944832  Sep  3 11:24  @FUNDACIONLIBRA   RT @Aller_MD: Transcriptome sequencing (RNA-Seq) of human endobronchial biopsies: asthma versus controls http://bit.ly/17wuj5o
+374915918008418304  Sep  3 11:24  @ARIAGuideline    “@Aller_MD: Transcriptome sequencing (RNA-Seq) of human endobronchial biopsies: asthma versus controls http://bit.ly/17wuj5o”
+374916046005993472  Sep  3 11:25  @SocLatAlergia    RT @Aller_MD: Transcriptome sequencing (RNA-Seq) of human endobronchial biopsies: asthma versus controls http://bit.ly/17wuj5o
+374916188566212609  Sep  3 11:25  @4130chromo       @nickschurch now speaking about external spike-in controls in #RNA-Seq #UKGS13
+374917117608353792  Sep  3 11:29  @michie1101       @drk0311 そーなの？そーかも？？ RNA-seqもやるんだけどね、うまくいけばだけど。失敗したらコロサレそー
+374937088510402560  Sep  3 12:49  @mt_ur_mind       RT @drchriscole: Next up is @nickschurch, the last of today's @cls_dundee triumvirate - External Spike-ins: taking control of RNA-seq #ukgs13
+374937542090817536  Sep  3 12:50  @mt_ur_mind       RT @drchriscole: Are the assumed distributions: negative binomial, log normal, poisson, etc appropriate for RNA-seq differential expression? #ukgs13
+374937570016526337  Sep  3 12:50  @mt_ur_mind       RT @drchriscole: Next up is the 'technical' @MarekGierlinski - Gene expression distribution and “bad” replicates in RNA-seq experiments #ukgs13
+374952705988763648  Sep  3 13:51  @drchriscole      RT @DrDanielSwan: @drchriscole We have switched entirely to strand-specific RNA-Seq, I also don't understand why it is not the default choice..
