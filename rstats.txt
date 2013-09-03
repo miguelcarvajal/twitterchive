@@ -16782,3 +16782,38 @@
 374602628636082176  Sep  2 14:40  @jay_yonamine     RT @benjaminlind: My guest post at the #GDELT blog: "How to both download and read GDELT using just R" http://gdeltblog.wordpress.com/2013/09/02/how-to-both-download-and-read-gdelt-using-just-r/ #rstats
 374605492481699840  Sep  2 14:51  @TraineeGeek      RT @inside_R: #rstats R user group meetings this week: Durban, Gainseville, Sydney, Toronto and Bostonhttp://bit.ly/9hVAPE
 374605767527399425  Sep  2 14:52  @davidweisss      RT @genetics_blog: Awesome. In-browser #Rstats knitr+#markdown compilation in real-time https://public.opencpu.org/ocpu/library/markdownapp/www/
+374611255522492416  Sep  2 15:14  @larysar          @annakrystalli you can use #ggplot2 with colour=alpha see http://r4stats.com/examples/graphics-ggplot2/ #Rstats
+374615929918717952  Sep  2 15:32  @RladiesSF        RT @OpenCPU: Knitr/Markdown OpenCPU App for #rstats https://public.opencpu.org/posts/knitr-markdown-opencpu-app/
+374624381160263680  Sep  2 16:06  @NHoughSnee       As an #academichipster, every day I ride my singlespeed bike uphill to work where I don skinny jeans & program #Rstats. #Seriously #Really
+374624912704434176  Sep  2 16:08  @Piboonrungroj    Anyone developed CGE model (macro econ model) in R? #econ #rstats #macroecon @Rstats4Econ @econlinks
+374625065163173888  Sep  2 16:09  @PairachCMSE      RT @Piboonrungroj: Anyone developed CGE model (macro econ model) in R? #econ #rstats #macroecon @Rstats4Econ @econlinks
+374625124441276417  Sep  2 16:09  @CMSEcon          RT @Piboonrungroj: Anyone developed CGE model (macro econ model) in R? #econ #rstats #macroecon @Rstats4Econ @econlinks
+374625323196764160  Sep  2 16:10  @Rstats4Econ      RT @Piboonrungroj: Anyone developed CGE model (macro econ model) in R? #econ #rstats #macroecon @Rstats4Econ @econlinks
+374625519230136320  Sep  2 16:10  @SCEconomists     RT @Piboonrungroj: Anyone developed CGE model (macro econ model) in R? #econ #rstats #macroecon @Rstats4Econ @econlinks
+374626537607143424  Sep  2 16:15  @buckyphilia      #rstats script to scrape the @espn website for college football play-by-play data: http://somesquares.org/blog/2013/9/parse-web-football-play-play-data-part-1 #Badgers @B5Q
+374626723859415040  Sep  2 16:15  @Piboonrungroj    @DiffusePrioR  thanks a lot! :) #rstats @r4econ
+374628120323575808  Sep  2 16:21  @Piboonrungroj    RT @BenkyoPlayer: Did you know Johns Hopkins University offers online #rstats courses for free ? http://benkyoplayer.com/courses/computing-for-data-analysis http://t.co/IsM5u5PzO8
+374628829714599938  Sep  2 16:24  @Piboonrungroj    @DEAGiles  thanks a lot Dave. I saw that too. Wish someone did a CGE in R. @DiffusePrioR  suggested BMR package. Gotta check it out. #rstats
+374628967401025536  Sep  2 16:24  @Rstats4Econ      RT @quandl: #R & linear algebra by @RevoJoe http://qndl.co/1dxKYL4 #Rstats #analytics #statistics
+374629398613225472  Sep  2 16:26  @Rstats4Econ      RT @revodavid: Tutorial on using foreach, doMC and doSnow #rstats packages for parallel programming http://blog.revolutionanalytics.com/2013/08/wonders-of-foreach.html
+374630046633193472  Sep  2 16:28  @Rstats4Econ      @dickoah So do I  perhaps it about the speed of #rstats as well as the learning curve of CGE! @rstats4econ
+374630939399168000  Sep  2 16:32  @Rstats4Econ      RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+374631002921893888  Sep  2 16:32  @Rstats4Econ      RT @sharon000: R used by 61% of @KDnuggets readers, +16% from '12 survey. Python #2 at 39%. Ruby dropped 41% http://bit.ly/18iZLkt #rstats
+374636109403156480  Sep  2 16:53  @Gliders_Coach    RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+374636792080629760  Sep  2 16:55  @Gliders_Coach    RT @sharon000: R used by 61% of @KDnuggets readers, +16% from '12 survey. Python #2 at 39%. Ruby dropped 41% http://bit.ly/18iZLkt #rstats
+374638862917582848  Sep  2 17:04  @paridebertulio   RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+374641629774106624  Sep  2 17:14  @CARBS_Research   RT @kdnuggets: Using R for Twitter analysis - step by step with examples #rstats http://bit.ly/1dvcskz
+374643026435391488  Sep  2 17:20  @Rbloggers        Poll: R top language for data science three years running:  (This article was first published on   R... http://bit.ly/1dIS13L #rstats
+374649149305933824  Sep  2 17:44  @jorgaf           RT @mosabou: Top Languages for analytics, data mining, data science (KDDNuggets): #rstats  comes 1 and #python 2 http://www.kdnuggets.com/2013/08/languages-for-analytics-data-mining-data-science.html
+374653148419600384  Sep  2 18:00  @scisus           @kj_gilbert When mapping the lodgpole dist in #rstats, do you know how to get the holes in the distribution to show? http://ow.ly/ouFqD
+374655602602938368  Sep  2 18:10  @epistatistic     ¡¡R al poder!! ;-) Demand for R jobs on the rise, while SAS jobs decline: http://bit.ly/14OYzTN  #rstats via:@Rbloggers
+374658097912217601  Sep  2 18:20  @quandl           Tutorial on how to create linked interactive web graphics with Animint package #Rstats #ggplo2 via @znmeb http://qndl.co/15EvK0Z
+374670458995503104  Sep  2 19:09  @rOpenSci         Development is coming along for the #rstats wrapper to the new @GBIF #API  http://bit.ly/1czTwgB , help find bugs http://bit.ly/17iwozR
+374676540325244929  Sep  2 19:33  @romeroescobar    Mixed models exercise 2. Repeated measurements #Rstats http://www.r-bloggers.com/mixed-models-exercise-2-repeated-measurements/ via @Digg
+374676734571859968  Sep  2 19:34  @EdwardTufte      "Making Better Inferences From Statistical Graphics:  The Interocular Trauma Test"  http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003wa #DataViz #Rstats #UX #BigData
+374679181038084096  Sep  2 19:44  @JonesZM          coord_fixed(ratio = 5 / 3.5) for US maps! so nice #rstats
+374685601477300225  Sep  2 20:09  @randyzwitch      RT @ChrisDiehl: Fun With Just-In-Time Compiling: Julia, Python, R and pqR - @randyzwitch - http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/ #rstats #python #julialang
+374685957447884800  Sep  2 20:11  @Rstats4Econ      @dickoah if ones can do it on MatLab and Eviews, there is a hope for CGE in R soon :) #Rstats
+374687046113443840  Sep  2 20:15  @AnthonyNystrom   RT @randyzwitch: RT @ChrisDiehl: Fun With Just-In-Time Compiling: Julia, Python, R and pqR - @randyzwitch - http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/ #rstats #python #julialang
+374687653444071425  Sep  2 20:17  @humanresearcher  RT @RLangTip: Find out what files are in your working directory with dir(), also list.files()  #rstats http://bit.ly/17saavu
+374690063063330816  Sep  2 20:27  @Jowanza          @randyzwitch Right now Using @ScraperWiki, #Rstats and the @lastfm API to create a heatmap of music genres I listen to during the week.
