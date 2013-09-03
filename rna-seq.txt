@@ -3546,3 +3546,5 @@
 374657555639070720  Sep  2 18:18  @subhamadhavan    RT @genetics_blog: Calculating Sample Size Estimates for RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23961961
 374680133195407360  Sep  2 19:47  @lachlancoin      Back from great week teaching bioinformatics and hiking @studienstiftung - students implemented S-W; DeBruijn graphs; RNA-seq corr networks
 374688311207817217  Sep  2 20:20  @MsMacrophage     RT @genetics_blog: Calculating Sample Size Estimates for RNA-seq http://www.ncbi.nlm.nih.gov/pubmed/23961961
+374718681449627649  Sep  2 22:21  @rnomics          MITIE: Simultaneous #RNA-Seq-based transcript identification and quantification in... http://bit.ly/1a24zhy #bioinformaticsj @MyEN
+374742689918361602  Sep  2 23:56  @BGI_YY           11年nature methods review里有一篇介绍RNA-seq每个层面程序，其中PALMapper多少算是独树一帜（seed-extented spliced aligner) //@Puriney : 搬家抽空（冒着不心疼老婆的风险）简单翻译了一下PALMapper
