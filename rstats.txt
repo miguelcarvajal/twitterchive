@@ -16940,3 +16940,31 @@
 375143954037346304  Sep  4 02:31  @MikeKSmith       This morning: ggplot2 vs lattice in the r graphics smack down. Which will win? Place bets NOW! #rstats
 375147277377339392  Sep  4 02:44  @SxBRC            "@rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)" This is good stuff!
 375147917830791169  Sep  4 02:46  @charlesroper     RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ) /cc @rob_dphillips
+375156087378296832  Sep  4 03:19  @monsoontrader    $5 on ggplot horse RT @MikeKSmith: This morning: ggplot2 vs lattice in the r graphics smack down. Which will win? #rstats @hadleywickham
+375158600991510528  Sep  4 03:29  @Bionames         RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375164527794339840  Sep  4 03:52  @davetang31       Poll: #Rstats top language for data science three years running http://www.r-bloggers.com/poll-r-top-language-for-data-science-three-years-running/ via @rbloggers
+375165367645376512  Sep  4 03:56  @ibartomeus       Always learning shortcuts.  data <- droplevels(data) will drop unused levels for ALL factors in a data.frame #rstats
+375165526043291648  Sep  4 03:56  @yodacomplex      RT @ibartomeus: Always learning shortcuts.  data <- droplevels(data) will drop unused levels for ALL factors in a data.frame #rstats
+375168566800027648  Sep  4 04:08  @friendlymicrobe  Now for a nice cup of tea & a session with #Rstats. Should have a swish set of graphs and a finished conference poster by the end of today.
+375175789534527488  Sep  4 04:37  @RodolfoVanzini   An exerpt of my primer on #rstats for performance measurement. To be published soon http://bit.ly/15xU9s2
+375185519493148672  Sep  4 05:16  @adamhsparks      Spent the whole day lecturing on plant disease modelling in #rstats using @rstudioapp  for a group from MARDI, in Malaysia. Great group!
+375188201297965056  Sep  4 05:26  @dataJujitsu      Interested to find out people's stats package of choice @RSSAnnualConf . By the charts it is close between #rstats and stata. #rss2013
+375196612647067648  Sep  4 06:00  @JGreenbrookHeld  RT @ibartomeus: Always learning shortcuts.  data <- droplevels(data) will drop unused levels for ALL factors in a data.frame #rstats
+375201678666240000  Sep  4 06:20  @johnros2013      Useful tutorial to building an #rstats #Hadoop System - http://bit.ly/19hI732
+375210448292823041  Sep  4 06:55  @zentree          @LewSOS @Sakkaden Using mean(runif(7000)) in #Rstats a few times: 0.503, 0.497, 0.499. Feasible.
+375217922504806400  Sep  4 07:24  @mothprog         RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375220804767588353  Sep  4 07:36  @M_T_Patterson    Using google's API with R (via @Rbloggers ) https://gist.github.com/josecarlosgonz/6417633 #RStats
+375223516766801920  Sep  4 07:47  @Piboonrungroj    Considering developing an #Rstats package for CGE model. Anyone want to join up? #econ #macroeconomics @CMSEcon @ChiangMaiR
+375223596475355138  Sep  4 07:47  @CMSEcon          RT @Piboonrungroj: Considering developing an #Rstats package for CGE model. Anyone want to join up? #econ #macroeconomics @CMSEcon @ChiangMaiR
+375223714394042368  Sep  4 07:47  @Rstats4Econ      RT @Piboonrungroj: Considering developing an #Rstats package for CGE model. Anyone want to join up? #econ #macroeconomics @CMSEcon @ChiangMaiR
+375225717262663683  Sep  4 07:55  @mjcavaretta      Code example for RT @M_T_Patterson: Using Google Map API with R (via @Rbloggers) https://gist.github.com/josecarlosgonz/6417633 #RStats #GIS
+375227095154458624  Sep  4 08:01  @quandl           Fun with just-in-time compiling: #Julia, #Python, #R & pqR by @randyzwitch http://qndl.co/1dLAWpI #DataScience #Rstats
+375229447038709760  Sep  4 08:10  @Rbloggers        How to build a single-node Hadoop/R system:  (This article was first published on   Revolutions, and... http://bit.ly/1dOGT5k #rstats
+375231434610331649  Sep  4 08:18  @monsoontrader    @MikeKSmith Yeah both have their uses. #rstats has many ways that's why it's so appealing.
+375236346769440768  Sep  4 08:38  @haltaq           RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375236793035001856  Sep  4 08:39  @lurino           will bet on ggplot2 RT @MikeKSmith: This morning: ggplot2 vs lattice in the r graphics smack down. Which will win? #rstats @hadleywickham
+375237736690880512  Sep  4 08:43  @MikeKSmith       On the ggplot2 vs lattice debate, actually both are good. Both are substantially improved by having "recipes" to start from. #Rstats
+375240170301165568  Sep  4 08:53  @datennutzen      DataMining mit der Oracle R Enterprise auf der Oracle R Roadshow @eoda und @oracle #datawarehouse #bigdata #rstats http://t.co/Vckie0eOxf
+375240221715345408  Sep  4 08:53  @DSI2013          RT @EdwardTufte: "Making Better Inferences From Statistical Graphics:  The Interocular Trauma Test"  http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003wa #DataViz #Rstats
+375240460865781760  Sep  4 08:54  @arunatma         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+375240667233918976  Sep  4 08:55  @stephaniehicks   Fast & efficient t-tests and F-tests across a matrix in the genefilter R package: rowFtests(), colFtests(), rowttests(), colttests() #Rstats
