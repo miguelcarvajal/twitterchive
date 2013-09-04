@@ -16898,3 +16898,28 @@
 374965231208120320  Sep  3 14:40  @jmgomez          An example of #MapReduce with rmr2 http://ow.ly/ovvLD #rstats
 374967747140001792  Sep  3 14:50  @mjcavaretta      Neat resources for #datamining with #Rstats from @Rdatamining  see: http://www.rdatamining.com/home via @GregKapfhammer
 374968156055281664  Sep  3 14:52  @aaronanticic     Awesome #analytics “@mjcavaretta: Neat resources for #datamining with #Rstats from @Rdatamining http://www.rdatamining.com/home via @GregKapfhammer”
+374970089118130176  Sep  3 15:00  @drdrewsteen      RT @ramnath_vaidya: All set to write a book on Interactive Documents with #rstats for @CRCPress
+374982447550971904  Sep  3 15:49  @er1kb            RT @TrestleJeff: Interactive 3D WebGL graphics for R Shiny apps. http://trestletech.github.io/shinyRGL/ Feedback welcome! #rstats #rgl #webgl #shiny
+374993720103288832  Sep  3 16:34  @timelyportfolio  RT @ramnath_vaidya: All set to write a book on Interactive Documents with #rstats for @CRCPress
+374993901456990208  Sep  3 16:34  @ianjacobs        "R and Linear Algebra" #rstats http://feedproxy.google.com/~r/RBloggers/~3/1tuk4v_8GS4/
+374994021598257152  Sep  3 16:35  @timelyportfolio  RT @ramnath_vaidya: “@teramonagi: @ramnath_vaidya Woo! ...rCharts is rapidly becoming popular in Japan too!” #rstats
+374996856801345538  Sep  3 16:46  @mattdray         @missthali It's default in R for us supercool Mac users. You can customise the console colours too! Wow. #rstats
+374998444190208000  Sep  3 16:52  @hadleywickham    RT @ramnath_vaidya: All set to write a book on Interactive Documents with #rstats for @CRCPress
+375000904610893825  Sep  3 17:02  @GSwithR          RT @RLangTip: Find out what files are in your working directory with dir(), also list.files()  #rstats http://bit.ly/17saavu
+375010377571897344  Sep  3 17:40  @aetiologic       New release of #rstats package oce http://cran.r-project.org/web/packages/oce/oce.pdf from Dal's Dan Kelley.
+375010872969953280  Sep  3 17:42  @mgrafit          RT @ChrisGandrud: Short how-to for graphing results from Cox PH with #rstats and #simPH http://bit.ly/19cb2p2
+375012479124140032  Sep  3 17:48  @recology_        MT @scott_bot: .@mljockers released a draft of his upcoming book on text analysis with #rstats for humanists. Awesome http://www.matthewjockers.net/2013/09/03/tawr/
+375016350500261888  Sep  3 18:04  @timtriche        RT @naupakaz: Nice Tufte-inspired #rstats fxns MT @KikaTarsi: Meet R function #fancyaxis(). Puts a data distribution on your axes. http://t.co/oQwKHF3Trb
+375016503298785280  Sep  3 18:04  @timtriche        RT @TrestleJeff: Interactive 3D WebGL graphics for R Shiny apps. http://trestletech.github.io/shinyRGL/ Feedback welcome! #rstats #rgl #webgl #shiny
+375018380774113280  Sep  3 18:12  @Rbloggers        Using Google maps API and R:  (This article was first published on   Jose Gonzalez » R, and kindly c... http://bit.ly/15qQMgk #rstats
+375018949580439553  Sep  3 18:14  @rOpenSci         Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375022815759831042  Sep  3 18:29  @Enrplanas        RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375023175194935297  Sep  3 18:31  @ipnosimmia       RT @recology_: MT @scott_bot: .@mljockers released a draft of his upcoming book on text analysis with #rstats for humanists. Awesome http://t.co/xpdKyZJ2Wi
+375023776620359680  Sep  3 18:33  @pe_hi            RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375023971315765248  Sep  3 18:34  @noamross         Can RcppArmadillo::sample take arma::vec input to sample from? #rstats #Rcpp
+375032217417695232  Sep  3 19:07  @scisus           Pinus contorta distribution map in #rstats http://scisus.org/?p=1387 inspired by @kj_gilbert's http://ow.ly/oxail
+375038956120702977  Sep  3 19:33  @buckyphilia      Some wondered ystdy why I ran regexes on HTML rather than navigating the DOM via #XPath. So I learned how: http://somesquares.org/blog/2013/9/scrape-web-football-play-play-data-part-15 #rstats
+375039059770769408  Sep  3 19:34  @conradopreto     RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375041314242326529  Sep  3 19:43  @jjudge7          RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375042015827738624  Sep  3 19:45  @revodavid        Best way to learn Hadoop with R? Install standalone Hadoop and @RevolutionR's rmr2 on your Mac/Linux box: http://bit.ly/176tXSb #rstats
+375042760694181888  Sep  3 19:48  @matthrussell     RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
