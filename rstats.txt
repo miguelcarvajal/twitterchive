@@ -16968,3 +16968,52 @@
 375240221715345408  Sep  4 08:53  @DSI2013          RT @EdwardTufte: "Making Better Inferences From Statistical Graphics:  The Interocular Trauma Test"  http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003wa #DataViz #Rstats
 375240460865781760  Sep  4 08:54  @arunatma         RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
 375240667233918976  Sep  4 08:55  @stephaniehicks   Fast & efficient t-tests and F-tests across a matrix in the genefilter R package: rowFtests(), colFtests(), rowttests(), colttests() #Rstats
+375243763251412992  Sep  4 09:07  @YvesMulkers      RT @datennutzen: DataMining mit der Oracle R Enterprise auf der Oracle R Roadshow @eoda und @oracle #datawarehouse #bigdata #rstats http://t.co/Vckie0eOxf
+375244008798187523  Sep  4 09:08  @geoffjentry      Over last few years I've seen an increase in ppl not using spaces around <- in #rstats - where is this trend coming from?
+375244668898140160  Sep  4 09:11  @VidCanC          RT @datennutzen: DataMining mit der Oracle R Enterprise auf der Oracle R Roadshow @eoda und @oracle #datawarehouse #bigdata #rstats http://t.co/Vckie0eOxf
+375249035176595457  Sep  4 09:28  @randyzwitch      Someone left an elegant solution to my blog post problem from yesterday, simultaneously highlighting why I hate the *apply functions #rstats
+375252641904734210  Sep  4 09:42  @timelyportfolio  RT @RodolfoVanzini: An exerpt of my primer on #rstats for performance measurement. To be published soon http://bit.ly/15xU9s2
+375254573935779840  Sep  4 09:50  @andrewheiss      Lubridate!!! #rstats
+375256504145698819  Sep  4 09:58  @jameskeirstead   This might be useful for some: list all #rstats functions in a source file https://gist.github.com/jkeirstead/6437289
+375261591576379393  Sep  4 10:18  @mjcavaretta      Free? RT @RodolfoVanzini: An exerpt of my primer on #rstats for performance measurement. To be published soon http://bit.ly/15xU9s2
+375264391668572160  Sep  4 10:29  @felixhaass       RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+375264656958291968  Sep  4 10:30  @StatsInTheWild   RT @andrewheiss: Lubridate!!! #rstats
+375266748284829696  Sep  4 10:38  @Mafecitarockera  RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375266863535894528  Sep  4 10:39  @sibcolombia      RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375267102828933120  Sep  4 10:40  @hadleywickham    RT @andrewheiss: Lubridate!!! #rstats
+375272279988391936  Sep  4 11:00  @statisticsblog   R tip of the day - more ways to integrate Google Map API with R. http://i.cx/1a6tgcE #google #map #r #rstats #api
+375274573165789184  Sep  4 11:10  @edwindjonge      RT @TrestleJeff: Interactive 3D WebGL graphics for R Shiny apps. http://trestletech.github.io/shinyRGL/ Feedback welcome! #rstats #rgl #webgl #shiny
+375275121209925633  Sep  4 11:12  @MarioSaeterosP   RT @statisticsblog: R tip of the day - more ways to integrate Google Map API with R. http://i.cx/1a6tgcE #google #map #r #rstats #api
+375275630318743552  Sep  4 11:14  @svincenzi        What do you do when you get the message "core number # stopped functioning" in parallel R? #rstats
+375275809742667776  Sep  4 11:14  @phdpqc           RT @svincenzi: What do you do when you get the message "core number # stopped functioning" in parallel R? #rstats
+375278238777360385  Sep  4 11:24  @chipmonkey75     This is about as simple as geocoding in R can get (with code):  http://www.jose-gonzalez.org/using-google-maps-api-r/#.UidQljakq19  #rstats
+375278849564479489  Sep  4 11:27  @stephaniehicks   RT @andrewheiss: Lubridate!!! #rstats
+375279078146072576  Sep  4 11:27  @djhocking        Does anyone actually use the google style guide for #Rstats ? The naming conventions seem weird/annoying.
+375280889363582977  Sep  4 11:35  @svincenzi        . @djhocking @phdpqc consistently (kinda) when > certain number of iterations,on multiple comps,not a specific core #rstats
+375281273956102145  Sep  4 11:36  @svincenzi        . @djhocking @phdpqc I had to put a 'error correcting code' at the end of the pipeline checking which iters were not done,annoying #rstats
+375281535470927872  Sep  4 11:37  @svincenzi        . @phdpqc @djhocking it happens on multiple comps,not the same core,not the same iteration,but same error #rstats
+375281689343180800  Sep  4 11:38  @svincenzi        . @phdpqc @djhocking never seen any mention of it on the web,really strange thing #rstats
+375281829768486913  Sep  4 11:38  @svincenzi        . @phdpqc @djhocking btw,always on macs,never tried on windows/linux #rstats
+375283704945328129  Sep  4 11:46  @svincenzi        . @phdpqc @djhocking But in that case it should always happen,while often only over # of iterations #rstats
+375283975029157888  Sep  4 11:47  @svincenzi        . @phdpqc @djhocking I should. At the end I was rebuilding cluster every x iterations with an 'error correcting code' at the end #rstats
+375284257771356160  Sep  4 11:48  @svincenzi        . @phdpqc @djhocking Question is:are ppl using parallel comp in R except for benchmark?Cause never see any mention of it anywhere #rstats
+375287803455614976  Sep  4 12:02  @svincenzi        . @phdpqc @djhocking Thanks for it @phdpqc!And the big question stays:am I the only one working with parallel or snow on a Mac? #rstats
+375288757941186560  Sep  4 12:06  @chlalanne        RT @quandl: Fun with just-in-time compiling: #Julia, #Python, #R & pqR by @randyzwitch http://qndl.co/1dLAWpI #DataScience #Rstats
+375288785522937856  Sep  4 12:06  @RLangTip         How to include non-standard fonts (Chinese, Cyrillic, CM Math etc) in PDF/Postscript charts: http://bit.ly/NcjwTL (p41) #rstats
+375289096198819840  Sep  4 12:07  @ucfagls          @RLangTip The extrafont package makes adding & using fonts a lot easier too #rstats
+375291553625149440  Sep  4 12:17  @stevepowell99    Bayesian machismo? Are you really invoking informative priors & full Bayesian philosophy or just showing off? #rstats http://bit.ly/18DmBDM
+375293055697309696  Sep  4 12:23  @lc0d3r           Base stuff, but still interesting - Analyzing Hacker News Metadata with R  http://vrepsys.github.io/hn-analytics/ #Rstats #hn
+375293377937686529  Sep  4 12:24  @AgroBioDiverse   RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375302482475249664  Sep  4 13:00  @statisticsblog   Building an R Hadoop System. http://i.cx/1eev06z #r #rstats #hadoop
+375314637748596738  Sep  4 13:49  @bravo0123        @PVBTrader #rstats  R, and copy and paste data.  Need direct data feed; suggestions?  Email me, here's R program. http://t.co/WdB9iI4niu
+375315647560810496  Sep  4 13:53  @svincenzi        . @djhocking @phdpqc All right,mine are running stimes multiple days,but often happens aft 30 mins or so. No clue,thanks #rstats
+375315804075884545  Sep  4 13:53  @kdnuggets        Poll: R top language for data science, data mining three years running #rstats http://bit.ly/1dPWeCD
+375316833504468992  Sep  4 13:58  @robdiminished    RT @kdnuggets: Poll: R top language for data science, data mining three years running #rstats http://bit.ly/1dPWeCD
+375317063205912576  Sep  4 13:58  @azure_source     RT @kdnuggets: Poll: R top language for data science, data mining three years running #rstats http://bit.ly/1dPWeCD
+375318179255693312  Sep  4 14:03  @amitrites        RT @kdnuggets: Poll: R top language for data science, data mining three years running #rstats http://bit.ly/1dPWeCD
+375318991746891776  Sep  4 14:06  @amitrites        Personally I like #Rstats for #analytics with Data Visualization tools like #tableau
+375319413484187648  Sep  4 14:08  @PageViral        RT @amitrites: Personally I like #Rstats for #analytics with Data Visualization tools like #tableau
+375320596977958912  Sep  4 14:12  @davidetwittin    Enjoy R: Find a sample size for a t test http://wp.me/p3EOzv-x via @wordpressdotcom #rstats
+375323567065665536  Sep  4 14:24  @flavioclesio     RT @kdnuggets: Poll: R top language for data science, data mining three years running #rstats http://bit.ly/1dPWeCD
+375324296324710400  Sep  4 14:27  @RPanczak         60+ #Rstats resources to improve your #data skills http://shar.es/i10NN via @computerworld
+375328015523135488  Sep  4 14:42  @ramnath_vaidya   Good use of R Markdown with Slidify and rCharts http://rpubs.com/PhilippB/x721-hw1 #rstats
