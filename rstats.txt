@@ -16923,3 +16923,20 @@
 375041314242326529  Sep  3 19:43  @jjudge7          RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
 375042015827738624  Sep  3 19:45  @revodavid        Best way to learn Hadoop with R? Install standalone Hadoop and @RevolutionR's rmr2 on your Mac/Linux box: http://bit.ly/176tXSb #rstats
 375042760694181888  Sep  3 19:48  @matthrussell     RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375066180777562112  Sep  3 21:22  @amestadmx        RT @RLangTip: Use library() to see all packages installed, search() to see all packages loaded #rstats http://bit.ly/18bS1Sy
+375066702322475009  Sep  3 21:24  @davidjayharris   RT @scisus: Pinus contorta distribution map in #rstats http://scisus.org/?p=1387 inspired by @kj_gilbert's http://ow.ly/oxail
+375079546069843968  Sep  3 22:15  @PPUAMX           RT @RLangTip: Use library() to see all packages installed, search() to see all packages loaded #rstats http://bit.ly/18bS1Sy
+375083976484212737  Sep  3 22:32  @BrockTibert      I need to sit down with this at some point.  Appears to have a few great examples for scraping web data using #rstats http://www.omegahat.org/RCurl/FAQ.html
+375097098904940544  Sep  3 23:24  @naupakaz         Really nice & quite comprehensive RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://npk.io/6sXa)
+375097348051173376  Sep  3 23:25  @shoha99          MT: @recology_ @scott_bot @mljockers a draft book on text analysis with #rstats http://www.matthewjockers.net/2013/09/03/tawr/
+375098217567764480  Sep  3 23:29  @TrestleJeff      @cpsievert shinyRGL is now compatible with Glimmer/Spark. Examples are actually hosted there now: http://trestletech.github.io/shinyRGL/ #rstats #shiny
+375103574432165888  Sep  3 23:50  @drago_carlo      Text Analysis with R for Students of Literature http://www.matthewjockers.net/2013/09/03/tawr/ RT @znmeb #TextMining #DataMining #Rstats #Book #Literature
+375106642175885313  Sep  4 00:02  @dotcomken        Next two months worth of Boston data analytic events http://ow.ly/oxth8 #measure #rstats
+375114681066606592  Sep  4 00:34  @clarkfitzg       Parallel #rstats programming- easier said than done.
+375119031524941824  Sep  4 00:52  @GBIF             RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375125988956307456  Sep  4 01:19  @_NFBR            RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375127280026001409  Sep  4 01:24  @SciOfMotherhood  RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)
+375128598820429824  Sep  4 01:30  @DailyRpackage    etable - Easy Table http://cran.r-project.org/web/packages/etable/index.html #RStats
+375143954037346304  Sep  4 02:31  @MikeKSmith       This morning: ggplot2 vs lattice in the r graphics smack down. Which will win? Place bets NOW! #rstats
+375147277377339392  Sep  4 02:44  @SxBRC            "@rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ)" This is good stuff!
+375147917830791169  Sep  4 02:46  @charlesroper     RT @rOpenSci: Species distribution modeling with #rstats using @GBIF data pdf (http://bit.ly/18pVwoJ) /cc @rob_dphillips
