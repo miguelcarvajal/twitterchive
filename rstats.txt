@@ -17069,3 +17069,16 @@
 375488936514048000  Sep  5 01:21  @clarkfitzg       Fastest way to parallel #rstats- library(doMC) registerDoMC(), then use plyr package with .parallel=TRUE
 375490984500396032  Sep  5 01:30  @DailyRpackage    emulator - Bayesian emulation of computer programs http://cran.r-project.org/web/packages/emulator/index.html #RStats
 375512339182673920  Sep  5 02:54  @idigdata         RT @mjcavaretta: Code example for RT @M_T_Patterson: Using Google Map API with R (via @Rbloggers) https://gist.github.com/josecarlosgonz/6417633 #RStats #GIS
+375524662761230336  Sep  5 03:43  @teppofelin       RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats
+375527555937615872  Sep  5 03:55  @beckerhopper     Are you just getting started with #rstats, and need a guidebook? Interested in a "getting started" collection of tweets for #ecology and...
+375527556524802048  Sep  5 03:55  @GSwithR          Are you just getting started with #rstats, and need a guidebook? Interested in a "getting started" collection of tweets for #ecology and...
+375535304192438272  Sep  5 04:26  @kevinkeenan_     This method (sPCA) should be used much more that it currently is in #popgen & #congen - http://tinyurl.com/ktr7zmt #rstats
+375541368422023168  Sep  5 04:50  @lucaborger       Bootstrap or jackknife R code in a Tweet? @statsforbios does it! #Rstats
+375541455311618048  Sep  5 04:50  @davdittrich      6 Ways to Address Collinearity in Regression Models http://ow.ly/22ebk1 & get a book recommendation at the end of the article #rstats
+375550220354207744  Sep  5 05:25  @jmgomez          RPubs - R Base Graphics: An Idiot's Guide http://ow.ly/oyMI2 intro to basic #rstats charts #dataviz
+375558576418209793  Sep  5 05:58  @yodacomplex      for #SIAR #Rstats pkg users. I've updated my demo scripts to fix a minor bug that was introduced in a recent update http://www.tcd.ie/Zoology/research/research/theoretical/siar.php
+375562831040491520  Sep  5 06:15  @asela_1          RT @GSwithR: Are you just getting started with #rstats, and need a guidebook? Interested in a "getting started" collection of tweets for #ecology and...
+375567213257703424  Sep  5 06:32  @i_am_kilpatrick  Been playing around with the rgl package in #rstats this morning, has a great interactive version of persp() to look around 3d surfaces.
+375579716222074880  Sep  5 07:22  @skclaros         RT @lucaborger: Bootstrap or jackknife R code in a Tweet? @statsforbios does it! #Rstats
+375580883681427456  Sep  5 07:27  @j_farrell        RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats
+375603266895089665  Sep  5 08:56  @stephaniehicks   Excited about the useR meetup in Cambridge tonight! Tal Galili (founder of @Rbloggers) is presenting  http://www.meetup.com/Boston-useR/events/135554392/ #rstats

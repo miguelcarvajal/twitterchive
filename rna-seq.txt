@@ -3631,3 +3631,13 @@
 375444230271156224  Sep  4 22:24  @mattVDiLeo       Beware #RNAseq of composite organs: different tissues display different expression. #yam http://www.rna-seqblog.com/methods/rna-extraction/the-importance-of-tissue-specificity-for-rna-seq/
 375457725821771777  Sep  4 23:17  @SEQquestions     Combining RNA-Seq FASTQ files for coverage issues http://bit.ly/1dIylMp
 375470466968092672  Sep  5 00:08  @answer_seeker    #fact: Bootstrapping of RNA-Seq data:... http://answerseeker.com/statistics/bootstrapping-of-rna-seq-data-normal-distribution/ #statistics
+375532954745061376  Sep  5 04:16  @biosoftcn        EricScript 0.4.3 – Identify Chimeric Transcripts in RNA-seq data http://goo.gl/fb/e0pF1
+375539172615794688  Sep  5 04:41  @daniel2nico      New version of FusionCatcher (fusion genes finder) released @ https://code.google.com/p/fusioncatcher/  #RNA-seq
+375544348391538688  Sep  5 05:02  @pinin4fjords     RT @mattVDiLeo: Beware #RNAseq of composite organs: different tissues display different expression. #yam http://www.rna-seqblog.com/methods/rna-extraction/the-importance-of-tissue-specificity-for-rna-seq/
+375544574586138624  Sep  5 05:02  @SEQquestions     Can I compare RNA-Seq contigs data with genome data http://bit.ly/150XY6D
+375576823326703617  Sep  5 07:11  @sjcockell        Paper: NURD: an implementation of a new method to estimate isoform expression from non-uniform RNA-seq data. http://dlvr.it/3w3Cw2
+375596004005134336  Sep  5 08:27  @pathogenomenick  Simon Andrews on the importance of doing basic data QC through visualisation of RNA-Seq, CHIP-Seq experiments before stats! #CTBio
+375596236860305408  Sep  5 08:28  @pathogenomenick  SeqMonk from the examples so far seem to be optimised for counting applications like RNA-Seq, CHIP-Seq, TRADIS etc. #CTBio
+375596421652963328  Sep  5 08:28  @BioMickWatson    RT @pathogenomenick: Simon Andrews on the importance of doing basic data QC through visualisation of RNA-Seq, CHIP-Seq experiments before stats! #CTBio
+375598335543242752  Sep  5 08:36  @pathogenomenick  RPKM can be an awful tool for RNA-Seq quantification, cumulative distribution plots in SeqMonk can make that easy to see #CTBio
+375599876803133440  Sep  5 08:42  @gkapatai         SeqMonk seems like a great tool for RNA-seq and ChIP-Seq. Not sure how applicable it is on DNA-Seq data. #CTBio
