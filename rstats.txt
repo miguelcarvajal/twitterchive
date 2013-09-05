@@ -17082,3 +17082,41 @@
 375579716222074880  Sep  5 07:22  @skclaros         RT @lucaborger: Bootstrap or jackknife R code in a Tweet? @statsforbios does it! #Rstats
 375580883681427456  Sep  5 07:27  @j_farrell        RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats
 375603266895089665  Sep  5 08:56  @stephaniehicks   Excited about the useR meetup in Cambridge tonight! Tal Galili (founder of @Rbloggers) is presenting  http://www.meetup.com/Boston-useR/events/135554392/ #rstats
+375604413983100928  Sep  5 09:00  @yannabraham      Tutorial: Parallel programming with foreach #feedly #rstats http://feedly.com/k/17ozbcM
+375604532879056896  Sep  5 09:01  @yannabraham      Big Data Sets you can use with R #feedly #rstats http://blog.revolutionanalytics.com/2013/08/big-data-sets-for-r.html
+375610987367235585  Sep  5 09:26  @knowrat          RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats
+375612605064556544  Sep  5 09:33  @gvegayon         "Two presentations on Big Data Big Analytics with R" http://feedly.com/k/1alFAcH #rstats #mustread #bigdata
+375612899076485121  Sep  5 09:34  @mgwhitfield      I love the smell of data in the afternoon... #rstats
+375621348279984128  Sep  5 10:08  @LeoCaomhanach    I have sent this text from R #rstats
+375621574218747904  Sep  5 10:08  @LeoCaomhanach    By text I mean tweet, obviously #rstats
+375628091256606721  Sep  5 10:34  @JeffHemsley      #Twitter retweet network #Dataviz with #Rstats using the #igraph and #rgl packages. http://t.co/5RNXYJ2PIU
+375631709532094464  Sep  5 10:49  @LeoCaomhanach    I did NOT expect that to work! Excellent! #rstats
+375633258228109312  Sep  5 10:55  @revodavid        Two presentations (with slides and audio) on #BigData and Big Analytics with #rstats http://bit.ly/15BOfpG
+375633560050204672  Sep  5 10:56  @i_314            RT @revodavid: Two presentations (with slides and audio) on #BigData and Big Analytics with #rstats http://bit.ly/15BOfpG
+375634672375451649  Sep  5 11:00  @statisticsblog   R tip of the day - Scheduling R Tasks with Crontabs to Conserve Memory. http://i.cx/1dTXYuK #r #rstats
+375635258768510977  Sep  5 11:03  @MangoTheCat      RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats
+375636177916686338  Sep  5 11:06  @chenghlee        On R and #Python for #analytics. Short ver: R has richer set of stats pkgs, Python has better perf. http://www.information-management.com/blogs/more-r-and-python-10024825-1.html #rstats
+375636470955900928  Sep  5 11:08  @kindlyviking     I'm impressed with how functional R is when running with Wine on Linux. #rstats
+375636609514733569  Sep  5 11:08  @ucfagls          @kindlyviking WTF! #rstats
+375639200223072259  Sep  5 11:18  @ahalterman       RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats
+375639267814305792  Sep  5 11:19  @mnajem           RT @revodavid: Two presentations (with slides and audio) on #BigData and Big Analytics with #rstats http://bit.ly/15BOfpG
+375639484093964288  Sep  5 11:20  @dfazito          RT @revodavid: Two presentations (with slides and audio) on #BigData and Big Analytics with #rstats http://bit.ly/15BOfpG
+375639724276613121  Sep  5 11:21  @joshuagrossman   RT @revodavid: Two presentations (with slides and audio) on #BigData and Big Analytics with #rstats http://bit.ly/15BOfpG
+375651052856827906  Sep  5 12:06  @RLangTip         Change direction of plot axis labels with las {0,1,2,3} e.g. plot(x,y,las=1) #rstats http://bit.ly/I3YiHQ
+375654136571625472  Sep  5 12:18  @phdpqc           RT @davidjayharris: Sorting for Humans : Natural Sort Order. (BTW: Does #Rstats have a good function for this?) http://www.codinghorror.com/blog/2007/12/sorting-for-humans-natural-sort-order.html
+375655073449537536  Sep  5 12:22  @yannabraham      Thank God for large memory machines #rstats
+375659703503560704  Sep  5 12:40  @stephaniehicks   Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
+375661905320222720  Sep  5 12:49  @sangha_deb       RT @RLangTip: Change direction of plot axis labels with las {0,1,2,3} e.g. plot(x,y,las=1) #rstats http://bit.ly/I3YiHQ
+375662394330329089  Sep  5 12:51  @nhcooper123      RT @mgwhitfield: I love the smell of data in the afternoon... #rstats
+375664873310412800  Sep  5 13:00  @statisticsblog   Two presentations on Big Data Big Analytics with R. http://i.cx/17aNGjO @revodavid #r #rstats #bigdata
+375665888781160448  Sep  5 13:05  @djhocking        I get green and angry when I read text books with #Rstats plots and results that don't include code.
+375666776539136000  Sep  5 13:08  @encephalartos    RT @mgwhitfield: I love the smell of data in the afternoon... #rstats
+375667510437507072  Sep  5 13:11  @calejero         RT @statisticsblog: Two presentations on Big Data Big Analytics with R. http://i.cx/17aNGjO @revodavid #r #rstats #bigdata
+375674643765800961  Sep  5 13:39  @datennutzen      Two presentations on #BigData Analytics with #Rstats with @RevolutionR   http://www.r-bloggers.com/two-presentations-on-big-data-big-analytics-with-r/
+375678809262944257  Sep  5 13:56  @timelyportfolio  adventurous #rstats #rCharts #d3js users recruited to test new features newest nvd3+10x faster+#dimplejs facets https://github.com/ramnathv/rCharts/issues/239
+375679036350930944  Sep  5 13:57  @pssGuy           new #rstats Shiny app using rCharts dataTables to poll #cpfc supporters site  http://bit.ly/19mjxhC Blog post http://wp.me/p17axt-nr
+375679531274612736  Sep  5 13:59  @bnaydeck         Great #Rstats today..@LionDataSystems http://LionDataSystems.com/ courses #DataMining
+375683252176297984  Sep  5 14:14  @PalaceCPFC       RT @pssGuy: new #rstats Shiny app using rCharts dataTables to poll #cpfc supporters site  http://bit.ly/19mjxhC Blog post http://t.co/3BVOvzAgUk
+375683844826886145  Sep  5 14:16  @Luehea           Anybody know of a good-for-print  #Rstats colour palette with 10-15 colours, *without* a gradient, for categorical data?
+375686090205954048  Sep  5 14:25  @rprabha          RT @statisticsblog: Two presentations on Big Data Big Analytics with R. http://i.cx/17aNGjO @revodavid #r #rstats #bigdata
+375691753338073088  Sep  5 14:47  @jhollist         After ~10 years of using R, finally starting work on my first package: Lake Morphometry Metrics with R.  #Rstats
