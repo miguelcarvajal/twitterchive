@@ -17055,3 +17055,17 @@
 375412743441895424  Sep  4 20:19  @davidjayharris   Sorting for Humans : Natural Sort Order. (BTW: Does #Rstats have a good function for this?) http://www.codinghorror.com/blog/2007/12/sorting-for-humans-natural-sort-order.html
 375413582617661440  Sep  4 20:22  @OmicsOmicsBlog   RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats
 375421739716841472  Sep  4 20:54  @alexhanna        @johnb30 yeah I learned that one in #rstats the hard way
+375433591783575552  Sep  4 21:41  @a_mommal         RT @codefelloff: @a_mommal can use R RT @kdnuggets: Poll: R top language for data science, data mining three years running #rstats http://t.co/6RZe1JX5KK
+375442638230405120  Sep  4 22:17  @mjcavaretta      RT @Datameer_News: 2 presentations on #BigData Big #Analytics with #Rstats & #hadoop w @cloudera http://bit.ly/160t0eJ cc @bill_jacobs
+375446761906905088  Sep  4 22:34  @PageViral        RT @mjcavaretta: RT @Datameer_News: 2 presentations on #BigData Big #Analytics with #Rstats & #hadoop w @cloudera http://bit.ly/160t0eJ cc @bill_jacobs
+375452795400232960  Sep  4 22:58  @SteveQinEmory    RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats
+375461457413951488  Sep  4 23:32  @kyloring         An example of Principal Components Analysis http://wp.me/p2IChH-lQ via @PicNaranja #rstats #phdchat
+375467473937514496  Sep  4 23:56  @mattmoehr        Currently working in a file called make_data_take_two #lights #camera #action #rstats
+375468592642285568  Sep  5 00:01  @monsoontrader    Mac version of #Rstats version 3.0.1 crashes a fair bit
+375470135349239808  Sep  5 00:07  @perisaccadic     it takes until version 3.1 to begin figuring out the "on write" part of copy-on-write????? https://github.com/wch/r-source/commit/883afec3e191503880d837b4737af5f90f1cf84a #rstats
+375477178957578240  Sep  5 00:35  @jmgomez          Tutorial: How to build a single-node Hadoop/R system http://ow.ly/oyJTl #rstats #bigdata
+375481651997859840  Sep  5 00:52  @b1205            Wow! Visualizing MLB Hall of Fame Voting Trajectories by @scheidegger http://cscheid.net/static/mlb-hall-of-fame-voting #baseball #rstats
+375483997515567105  Sep  5 01:02  @drago_carlo      R vs Python for Machine Learning http://mathstatisticspython.blogspot.it/2013/06/r-vs-python-for-machine-learning.html via @YhatHQ #MachineLearning #Python #Rstats
+375488936514048000  Sep  5 01:21  @clarkfitzg       Fastest way to parallel #rstats- library(doMC) registerDoMC(), then use plyr package with .parallel=TRUE
+375490984500396032  Sep  5 01:30  @DailyRpackage    emulator - Bayesian emulation of computer programs http://cran.r-project.org/web/packages/emulator/index.html #RStats
+375512339182673920  Sep  5 02:54  @idigdata         RT @mjcavaretta: Code example for RT @M_T_Patterson: Using Google Map API with R (via @Rbloggers) https://gist.github.com/josecarlosgonz/6417633 #RStats #GIS
