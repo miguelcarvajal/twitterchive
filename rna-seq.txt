@@ -3658,3 +3658,15 @@
 375894814169915392  Sep  6 04:14  @rnomics          #RNA-Seq for Transcriptome Analysis in Non-model Plants - Springer:... http://bit.ly/1abG4P9 #rnomics_bioinfo @MyEN
 375930198510014464  Sep  6 06:35  @IBMCP            Guía de RNA-Seq en plantas no modelo para inexpertos http://buff.ly/15AxIMH
 375941338249711617  Sep  6 07:19  @imohorianu       NPEBseq: nonparametric bayesian procedure for differential expression analysis of RNA-seq data http://www.biomedcentral.com/1471-2105/14/262/abstract #bmcbioinformatics
+375970279060934656  Sep  6 09:14  @BioStarQuestion  Any publicly available simulated RNA-seq dataset http://goo.gl/fb/tU0Gb
+375999135062560768  Sep  6 11:09  @nedabarjesteh    I do not have any idea for RNA- Seq. But, I want to do it in couple months
+376007122087317504  Sep  6 11:40  @BioStarQuestion  Transitioning Database from Expression Microarrays to RNA-Seq http://goo.gl/fb/YBciH
+376022770620325888  Sep  6 12:43  @LauraPiddock     RT @genetics_blog: Biological Averaging in RNA-Seq  http://arxiv.org/abs/1309.0670
+376025987496304640  Sep  6 12:55  @ayushkumarLab    RT @genetics_blog: Biological Averaging in RNA-Seq  http://arxiv.org/abs/1309.0670
+376027158722129920  Sep  6 13:00  @genetics_blog    SAMstrt: Statistical test for differential expression in single-cell RNA-seq w/ spike-ins http://www.ncbi.nlm.nih.gov/pubmed/23995393 ; https://github.com/shka/R-SAMstrt
+376027686587482112  Sep  6 13:02  @BioEngagement    Who are the leaders in cancer RNA-seq? I am searching for KOLs @MaverickNY?
+376029852739973120  Sep  6 13:11  @Integromics      Transcriptome landscapes of human early embryos and hESCs through single-cell RNA-Seq. New lncRNAs specific dev stage http://bit.ly/1fFt8lb
+376030346732503041  Sep  6 13:13  @KayakPhilip      RT @Integromics: Transcriptome landscapes of human early embryos and hESCs through single-cell RNA-Seq. New lncRNAs specific dev stage http://t.co/BNhnW5aFup
+376035299820077056  Sep  6 13:32  @LauraPiddock     RT @pathogenomenick: Simon Andrews on the importance of doing basic data QC through visualisation of RNA-Seq, CHIP-Seq experiments before stats! #CTBio
+376035321806610435  Sep  6 13:33  @LauraPiddock     RT @pathogenomenick: SeqMonk from the examples so far seem to be optimised for counting applications like RNA-Seq, CHIP-Seq, TRADIS etc. #CTBio
+376035401057984512  Sep  6 13:33  @LauraPiddock     RT @pathogenomenick: RPKM can be an awful tool for RNA-Seq quantification, cumulative distribution plots in SeqMonk can make that easy to see #CTBio

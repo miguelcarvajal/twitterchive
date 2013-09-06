@@ -17151,6 +17151,7 @@
 375789903914602497  Sep  5 21:17  @ajreeves         Is there any way to open Stata v13 files in R (read.dta doesn't work)? #rstats
 375802291082653696  Sep  5 22:07  @coolbutuseless   RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
 375803404980723712  Sep  5 22:11  @wwangcg          RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
+375827593217314816  Sep  5 23:47  @M_VanScoyoc      Martinis pair well with ordination. #rstats
 375827593217314816  Sep  5 23:47  @m_van_scoyoc     Martinis pair well with ordination. #rstats
 375829346490916864  Sep  5 23:54  @j_zelikova       RT @m_van_scoyoc: Martinis pair well with ordination. #rstats
 375829761731207169  Sep  5 23:56  @jfreels4         RT @ramnath_vaidya: Good use of R Markdown with Slidify and rCharts http://rpubs.com/PhilippB/x721-hw1 #rstats
@@ -17187,3 +17188,59 @@
 375962804693397505  Sep  6 08:44  @jfreels4         RT @timelyportfolio: #rCharts #dimplejs + #AngularJS Controls: http://rcharts.io/viewer/?6459298#.UilRep0YpLs.twitter #rstats #d3js copied @ramnath_vaidya code http://t.co/hJhJCvhQCX
 375963124694024192  Sep  6 08:46  @gsantosgo        RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats #nlproc
 375966558754844672  Sep  6 08:59  @stephaniehicks   If looking to learn how to program in R & develop R packages, @rdpeng's @coursera course looks pretty good! https://www.coursera.org/course/compdata #rstats
+375967553966714880  Sep  6 09:03  @DrLyndonWalker   RT @statisticsblog: The distribution of R users: where they are around the world? http://i.cx/1cMJsRm #r #rstats @revodavid
+375967886164361216  Sep  6 09:05  @orlandomezquita  @RLangTip: Change direction of plot axis labels with las {0,1,2,3} e.g. plot(x,y,las=1) #rstats http://bit.ly/13lW7bb
+375968499036073984  Sep  6 09:07  @chlalanne        RT @timelyportfolio: #rCharts #dimplejs + #AngularJS Controls: http://rcharts.io/viewer/?6459298#.UilRep0YpLs.twitter #rstats #d3js copied @ramnath_vaidya code http://t.co/hJhJCvhQCX
+375975208899051520  Sep  6 09:34  @southmapr        Enjoying learning more cool #rstats via @_inundata & @rOpenSci @GenomeAnalysis
+375976012154028034  Sep  6 09:37  @tcrug            We've just added a walkthrough of using #mongodb with #rstats at our Sept. Meetup. Check out details and RSVP today! http://www.meetup.com/twincitiesrug/
+375977438523559936  Sep  6 09:43  @erikriverson     RT @tcrug: We've just added a walkthrough of using #mongodb with #rstats at our Sept. Meetup. Check out details and RSVP today! http://t.co/xi8oUhkVcv
+375981723437121536  Sep  6 10:00  @statisticsblog   R tip of the day - Text Mining the Complete Works of William Shakespeare. http://i.cx/1dWvGQi #r #rstats
+375986229806125056  Sep  6 10:17  @GenomeAnalysis   RT @southmapr: Enjoying learning more cool #rstats via @_inundata & @rOpenSci @GenomeAnalysis
+375989089285054465  Sep  6 10:29  @timelyportfolio  had never tried the #nvd3 ohlcBar before; nice start #rCharts Test of ohlcBar Model: http://rcharts.io/viewer/?6464503#.Uinm9mr8WUp.twitter #rstats #d3js
+375990662111301633  Sep  6 10:35  @drunself         Yearly publications in IR journals by paradigm (free scale) #Rstats via William and Mary ITPIR http://t.co/xo62EUIdIE
+375991230917660672  Sep  6 10:37  @drunself         Yearly publications in IR journals by paradigm (scale set). Who knew Realism about as significant as Marxism #rstats http://t.co/eFQz2K43dg
+375992828653862913  Sep  6 10:44  @i_314            RT @ar_usergroup: Alguno en Buenos Aires interesado en dar una charla o taller de R + Hadoop en nuestro proximo encuentro? #rstats http://t.co/log9LL5rog
+375993297442844672  Sep  6 10:46  @RickSaporta      Setting up RStudio Server. Anyone know how to change where session files are saved?  #rstats #rstudio cc:@rstudioapp
+375996527849648128  Sep  6 10:58  @KirkDBorne       Is R in your #BigData toolkit? The R language could challenge SAS for big data queries: http://www.techrepublic.com/blog/big-data-analytics/see-if-the-r-language-fits-in-your-big-data-toolkit/ #Rstats #DataMining
+375996820008075264  Sep  6 11:00  @statisticsblog   Type conversion in R. http://i.cx/15J3vu1#r #rstats
+376000486815858689  Sep  6 11:14  @mcaccamo         RT @southmapr: Enjoying learning more cool #rstats via @_inundata & @rOpenSci @GenomeAnalysis
+376004712308293632  Sep  6 11:31  @rOpenSci         RT @southmapr: Enjoying learning more cool #rstats via @_inundata & @rOpenSci @GenomeAnalysis
+376005714789294080  Sep  6 11:35  @calejero         RT @statisticsblog: R tip of the day - Text Mining the Complete Works of William Shakespeare. http://i.cx/1dWvGQi #r #rstats
+376006873461166080  Sep  6 11:39  @RickSaporta      RT @statisticsblog: The distribution of R users: where they are around the world? http://i.cx/1cMJsRm #r #rstats @revodavid
+376007989703897088  Sep  6 11:44  @rmflight         @dataJujitsu ok, now this is pretty darn sweet when it works. Liking this. need to make it more #rstats packagy though
+376010999524249601  Sep  6 11:56  @StrictlyStat     What is the appropriate media to announce an r package in github that may not make it to CRAN? #Rstats
+376011264457076736  Sep  6 11:57  @raviupanishad    RT @statisticsblog: Type conversion in R. http://i.cx/15J3vu1#r #rstats
+376011922736295936  Sep  6 12:00  @statisticsblog   Introducing ThinkNum - A new interactive public database and graphing tool. http://i.cx/17deUWS #r #rstats
+376013401740574720  Sep  6 12:05  @RLangTip         Automated variable selection for regressions: "step" http://bit.ly/orRZFu and "leaps" http://bit.ly/oMhDcj #rstats
+376013525719588864  Sep  6 12:06  @VickySchneiderG  RT @southmapr: Enjoying learning more cool #rstats via @_inundata & @rOpenSci @GenomeAnalysis
+376013898547081216  Sep  6 12:07  @youcanrun        RT @RLangTip: Automated variable selection for regressions: "step" http://bit.ly/orRZFu and "leaps" http://bit.ly/oMhDcj #rstats
+376014300978356224  Sep  6 12:09  @josembecerra     RT @RLangTip: Automated variable selection for regressions: "step" http://bit.ly/orRZFu and "leaps" http://bit.ly/oMhDcj #rstats
+376015465963073536  Sep  6 12:14  @ryanbriggs       RT @drunself: Breakdown of Methodology type in IR articles with set scales. ("Top" 12 Journals) #Rstats http://t.co/JKnlsbOB0o
+376015552885440514  Sep  6 12:14  @TrevorABranch    RT @RLangTip: Automated variable selection for regressions: "step" http://bit.ly/orRZFu and "leaps" http://bit.ly/oMhDcj #rstats
+376016729392304128  Sep  6 12:19  @JustinSandefur   RT @drunself: Breakdown of Methodology type in IR articles with set scales. ("Top" 12 Journals) #Rstats http://t.co/JKnlsbOB0o
+376016772409085952  Sep  6 12:19  @kdnuggets        Learning Text Mining with R & tm by mining the complete works of William Shakespeare #rstats http://bit.ly/17Ef62a
+376017085765128192  Sep  6 12:20  @UdadisiSuperior  RT @drunself: Breakdown of Methodology type in IR articles with set scales. ("Top" 12 Journals) #Rstats http://t.co/JKnlsbOB0o
+376020835867176960  Sep  6 12:35  @Rbloggers        Shiny App for Polling Forums:  (This article was first published on   PremierSoccerStats » R, and ki... http://bit.ly/1dZBl8d #rstats
+376020836634722304  Sep  6 12:35  @Rbloggers        R User Groups Update:  (This article was first published on   Revolutions, and kindly contributed to... http://bit.ly/17FdL7e #rstats
+376020837570064384  Sep  6 12:35  @Rbloggers        Using colClasses to Load Data More Quickly in R:  (This article was first published on   Mollie's Re... http://bit.ly/1dZBloH #rstats
+376020838861922304  Sep  6 12:35  @Rbloggers        ThinkNum – A new interactive public database and graphing tool!:  (This article was first published ... http://bit.ly/17FdMZ0 #rstats
+376020839746924544  Sep  6 12:35  @Rbloggers        Monthly R jobs on r-bloggers: R-bloggers is now offering a new “R jobs” post, that will be published (... http://bit.ly/1dZBlF9 #rstats
+376021117053698048  Sep  6 12:36  @nicoleradziwill  RT @kdnuggets: Learning Text Mining with R & tm by mining the complete works of William Shakespeare #rstats http://bit.ly/17Ef62a
+376021242060357632  Sep  6 12:37  @tanyacash21      @antonyfalco Of course I'm ready! Built a Fantasy Football App using #rstats: http://sportsdataviz.com/win-your-fantasy-football-league-using-this-wisdom-of-the-crowds-app-during-your-draft/  We should talk analytics engine needs.
+376021520520212480  Sep  6 12:38  @elliott_regan    RT @revodavid: Updated map of 127 R user groups worldwide (by @revojoe) http://bit.ly/18wJSbv #rstats
+376021638204370944  Sep  6 12:38  @richierocks      RT @revodavid: Updated map of 127 R user groups worldwide (by @revojoe) http://bit.ly/18wJSbv #rstats
+376026810653224960  Sep  6 12:59  @xn               Neat: @rstudioapp now includes an interactive debugger. http://bit.ly/14xyYjA Should be useful for #rstats novices like me.
+376033674606542848  Sep  6 13:26  @berkeleymalagon  RT @xn: Neat: @rstudioapp now includes an interactive debugger. http://bit.ly/14xyYjA Should be useful for #rstats novices like me.
+376034512435945472  Sep  6 13:29  @katz_stats       In other news, #Shiny's new graphical reactivity log is pretty much the coolest thing ever. Just saying. #rstats
+376035227241443328  Sep  6 13:32  @ucfagls          @eddelbuettel Seriously @RLangTip ? Is bad advice a tip now? Why not point to plethora of shrinkage & LASSO like methods in #rstats pkgs
+376036011496968193  Sep  6 13:35  @jmgomez          RT @drago_carlo: An example of Principal Components Analysis http://freshbiostats.wordpress.com/2013/09/04/an-example-of-principal-components-analysis/ via @prismatic #Statistics #DataMining #PCA #Rstats
+376038486190481408  Sep  6 13:45  @talgalili        RT @jaredlander: Come see @johnmyleswhite & @talgalili ( @Rbloggers ) speak at the next #rstats meetup at @knewton http://bit.ly/17a5pUV
+376041035693948928  Sep  6 13:55  @p_e              @nickdaloisio Wait until you see R. #rstats
+376041550792241154  Sep  6 13:57  @Knewton          RT @jaredlander: Come see @johnmyleswhite & @talgalili ( @Rbloggers ) speak at the next #rstats meetup at @knewton http://bit.ly/17a5pUV
+376045290530152448  Sep  6 14:12  @shoha99          a good blogroll of #rstats resources http://www.datadriven365.com/blogroll/ #DataVizQMSS
+376046858319040512  Sep  6 14:18  @TylerDeutsch     RT @kdnuggets: Learning Text Mining with R & tm by mining the complete works of William Shakespeare #rstats http://bit.ly/17Ef62a
+376046953966358528  Sep  6 14:19  @humanresearcher  RT @kdnuggets: Learning Text Mining with R & tm by mining the complete works of William Shakespeare #rstats http://bit.ly/17Ef62a
+376049244584808448  Sep  6 14:28  @sara_rose1       RT @drunself: Breakdown of Methodology type in IR articles with set scales. ("Top" 12 Journals) #Rstats http://t.co/JKnlsbOB0o
+376049446779625472  Sep  6 14:29  @_ramrs           RT @statisticsblog: Type conversion in R. http://i.cx/15J3vu1#r #rstats
+376050253247434753  Sep  6 14:32  @everydayanalyst  Well, this is awesome: #TextMining the Complete Works of William Shakespeare by @ExegeticCompute http://www.exegetic.biz/blog/2013/09/text-mining-the-complete-works-of-william-shakespeare/ #Rstats #tm
+376054716628606977  Sep  6 14:50  @anasrini         RT @RLangTip: Automated variable selection for regressions: "step" http://bit.ly/orRZFu and "leaps" http://bit.ly/oMhDcj #rstats
