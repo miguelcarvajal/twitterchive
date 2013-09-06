@@ -17120,3 +17120,31 @@
 375683844826886145  Sep  5 14:16  @Luehea           Anybody know of a good-for-print  #Rstats colour palette with 10-15 colours, *without* a gradient, for categorical data?
 375686090205954048  Sep  5 14:25  @rprabha          RT @statisticsblog: Two presentations on Big Data Big Analytics with R. http://i.cx/17aNGjO @revodavid #r #rstats #bigdata
 375691753338073088  Sep  5 14:47  @jhollist         After ~10 years of using R, finally starting work on my first package: Lake Morphometry Metrics with R.  #Rstats
+375694872566444032  Sep  5 15:00  @revodavid        Updated map of 127 R user groups worldwide (by @revojoe) http://bit.ly/18wJSbv #rstats
+375696149908168704  Sep  5 15:05  @RevoJoe          Interested in starting a new R User Group? See what's going on around the world and how to get started. http://bit.ly/18wJSbv  #rstats
+375704226933923840  Sep  5 15:37  @cloudHPC         #pbdR: programming with #bigdata in #rstats hosts several nice efficient R packages http://r-pbd.org/
+375706268578504704  Sep  5 15:45  @southmapr        RT @MangoTheCat: #LondonR user group meeting 10 Sep - great agenda - see  http://www.londonr.org - all welcome #RStats
+375706507272146944  Sep  5 15:46  @drago_carlo      An example of Principal Components Analysis http://freshbiostats.wordpress.com/2013/09/04/an-example-of-principal-components-analysis/ via @prismatic #Statistics #MachineLearning #DataMining #PCA #Rstats
+375706726562922496  Sep  5 15:47  @johannux         RT @M_T_Patterson: Using google's API with R (via @Rbloggers ) https://gist.github.com/josecarlosgonz/6417633 #RStats
+375707075831017472  Sep  5 15:48  @thanhtungmilan   RT @revodavid: Updated map of 127 R user groups worldwide (by @revojoe) http://bit.ly/18wJSbv #rstats
+375711248039424001  Sep  5 16:05  @mattmoehr        Me: How do I get all duplicates? R: Run this function twice. Once backwards, once frontwards. #hacky #rstats http://stackoverflow.com/questions/7854433/finding-all-duplicate-rows-including-elements-with-smaller-subscripts
+375711392768094208  Sep  5 16:05  @KTInvasion       Reusing #rstats code I wrote a year and a half ago. It's... not pretty. Not at all.
+375725836822777856  Sep  5 17:03  @timelyportfolio  Not #ggplot2 but facets w/ #d3js from #rstats #rCharts http://rcharts.io/viewer/?6456037#.UijxPjhiWd-.twitter thx @johnkiernander http://t.co/ZYlOUJxcRi
+375728687036903425  Sep  5 17:14  @timelyportfolio  RT @pssGuy: new #rstats Shiny app using rCharts dataTables to poll #cpfc supporters site  http://bit.ly/19mjxhC Blog post http://t.co/3BVOvzAgUk
+375731299622723584  Sep  5 17:24  @timelyportfolio  RT @b1205: Wow! Visualizing MLB Hall of Fame Voting Trajectories by @scheidegger http://cscheid.net/static/mlb-hall-of-fame-voting #baseball #rstats
+375732004152954880  Sep  5 17:27  @ronert_obst      RT @cloudHPC: #pbdR: programming with #bigdata in #rstats hosts several nice efficient R packages http://r-pbd.org/
+375732698838343681  Sep  5 17:30  @jrmontag         Want 20 colors from an RColorBrewer palette with 11 built-in? cols = colorRampPalette(brewer.pal(n=11, 'Spectral'))(20) #rstats
+375736132622745600  Sep  5 17:44  @perisaccadic     Implementation details invisible in a language should also be invisible in its extension API. Failing this keeps Python and #rstats slow.
+375740254654693376  Sep  5 18:00  @timelyportfolio  #rCharts #nvd3 Sparkline Plus Example: http://rcharts.io/viewer/?6456824#.Uij_a69XeEg.twitter #rstats #nvd3
+375740881250156545  Sep  5 18:03  @prabhasp         RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats
+375741686422327296  Sep  5 18:06  @Timcammm         @hughparsonage Top GIS related questions for #Rstats http://gis.stackexchange.com/questions/tagged/r?sort=votes&pageSize=15
+375742153013489664  Sep  5 18:08  @ramnath_vaidya   RT @timelyportfolio: Not #ggplot2 but facets w/ #d3js from #rstats #rCharts http://rcharts.io/viewer/?6456037#.UijxPjhiWd-.twitter thx @johnkiernander http://t.co/ZYlOUJxcRi
+375742192477683712  Sep  5 18:08  @ramnath_vaidya   RT @timelyportfolio: adventurous #rstats #rCharts #d3js users recruited to test new features newest nvd3+10x faster+#dimplejs facets https://t.co/rfGG66ZeX8
+375742525094367232  Sep  5 18:09  @jradavenport     RT @hadleywickham: When Harvard Met Sally: N-gram Analysis of the New York Times Weddings Section http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics #rstats
+375744279932837888  Sep  5 18:16  @dnusinow         At my first #rstats user group meeting in far too long. Excited to hear Tal Galili talk about dendrograms.
+375747636445200384  Sep  5 18:29  @gappy3000        Strong affinity between #rstats and #julialang users http://www.kdnuggets.com/2013/08/languages-for-analytics-data-mining-data-science.html#.Uh6ISUyfWkQ.twitter
+375750068688932864  Sep  5 18:39  @stephaniehicks   Listening to Tal Galili talk at the useR meetup in Boston #rstats http://t.co/tfqbevL23n
+375751875519184896  Sep  5 18:46  @GueyeNono        @KTInvasion lol. Well, that means that you have gotten way better at coding in #Rstats
+375772684296024064  Sep  5 20:09  @hadleywickham    RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
+375777706413019136  Sep  5 20:29  @ajreeves         RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
+375781212121337856  Sep  5 20:43  @ucfagls          @stephaniehicks There aren't enough characters in a tweet for a ggplot() call ;-) #rstats @RLangTip @hadleywickham
