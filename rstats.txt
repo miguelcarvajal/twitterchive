@@ -17148,3 +17148,18 @@
 375772684296024064  Sep  5 20:09  @hadleywickham    RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
 375777706413019136  Sep  5 20:29  @ajreeves         RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
 375781212121337856  Sep  5 20:43  @ucfagls          @stephaniehicks There aren't enough characters in a tweet for a ggplot() call ;-) #rstats @RLangTip @hadleywickham
+375789903914602497  Sep  5 21:17  @ajreeves         Is there any way to open Stata v13 files in R (read.dta doesn't work)? #rstats
+375802291082653696  Sep  5 22:07  @coolbutuseless   RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
+375803404980723712  Sep  5 22:11  @wwangcg          RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
+375827593217314816  Sep  5 23:47  @m_van_scoyoc     Martinis pair well with ordination. #rstats
+375829346490916864  Sep  5 23:54  @j_zelikova       RT @m_van_scoyoc: Martinis pair well with ordination. #rstats
+375829761731207169  Sep  5 23:56  @jfreels4         RT @ramnath_vaidya: Good use of R Markdown with Slidify and rCharts http://rpubs.com/PhilippB/x721-hw1 #rstats
+375830234324406272  Sep  5 23:58  @MathBioPaul      RT @statisticsblog: R tip of the day - R & Linear Algebra: Why R is more than just a statistical package. http://i.cx/1drPaLs #r #rstats #algebra @revodavid
+375833387765739521  Sep  6 00:10  @jfreels4         RT @timelyportfolio: adventurous #rstats #rCharts #d3js users recruited to test new features newest nvd3+10x faster+#dimplejs facets https://t.co/rfGG66ZeX8
+375834689686077440  Sep  6 00:15  @timelyportfolio  #rCharts #dimplejs + #AngularJS Controls: http://rcharts.io/viewer/?6459298#.UilRep0YpLs.twitter #rstats #d3js copied @ramnath_vaidya code http://t.co/hJhJCvhQCX
+375845724925079552  Sep  6 00:59  @PPUAMX           RT @RLangTip: Change direction of plot axis labels with las {0,1,2,3} e.g. plot(x,y,las=1) #rstats http://bit.ly/I3YiHQ
+375847289459195904  Sep  6 01:05  @drago_carlo      Text Mining the Complete Works of William Shakespeare http://www.r-bloggers.com/text-mining-the-complete-works-of-william-shakespeare/ via @prismatic #TextMining #DataMining #Literature #Rstats
+375853375205965824  Sep  6 01:30  @DailyRpackage    diffusionMap - Diffusion map http://cran.r-project.org/web/packages/diffusionMap/index.html #RStats
+375857915845808128  Sep  6 01:48  @timtriche        RT @timelyportfolio: adventurous #rstats #rCharts #d3js users recruited to test new features newest nvd3+10x faster+#dimplejs facets https://t.co/rfGG66ZeX8
+375858981740089345  Sep  6 01:52  @timtriche        RT @timelyportfolio: #rCharts #nvd3 Sparkline Plus Example: http://rcharts.io/viewer/?6456824#.Uij_a69XeEg.twitter #rstats #nvd3
+375870287285211137  Sep  6 02:37  @rvimieiro        RT @drago_carlo Text Mining the Complete Works of William Shakespeare http://www.r-bloggers.com/text-mining-the-complete-works-of-william-shakespeare/ #TextMining #DataMining #Literature #Rstats
