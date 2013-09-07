@@ -17182,7 +17182,9 @@
 375951527275270145  Sep  6 08:00  @statisticsblog   The distribution of R users: where they are around the world? http://i.cx/1cMJsRm #r #rstats @revodavid
 375952702117015552  Sep  6 08:04  @kevrichard       RT @statisticsblog: The distribution of R users: where they are around the world? http://i.cx/1cMJsRm #r #rstats @revodavid
 375955710422446080  Sep  6 08:16  @XVtores          RT @statisticsblog: The distribution of R users: where they are around the world? http://i.cx/1cMJsRm #r #rstats @revodavid
+375958807127404544  Sep  6 08:28  @darinself        Breakdown of Methodology type in IR articles from 1980-Current. Scale is free. Quantitative upward trend. #Rstats http://t.co/lu0AIeMXXk
 375958807127404544  Sep  6 08:28  @drunself         Breakdown of Methodology type in IR articles from 1980-Current. Scale is free. Quantitative upward trend. #Rstats http://t.co/lu0AIeMXXk
+375958869203099648  Sep  6 08:29  @darinself        Breakdown of Methodology type in IR articles with set scales. ("Top" 12 Journals) #Rstats http://t.co/JKnlsbOB0o
 375958869203099648  Sep  6 08:29  @drunself         Breakdown of Methodology type in IR articles with set scales. ("Top" 12 Journals) #Rstats http://t.co/JKnlsbOB0o
 375962646819782656  Sep  6 08:44  @paridebertulio   RT @statisticsblog: The distribution of R users: where they are around the world? http://i.cx/1cMJsRm #r #rstats @revodavid
 375962804693397505  Sep  6 08:44  @jfreels4         RT @timelyportfolio: #rCharts #dimplejs + #AngularJS Controls: http://rcharts.io/viewer/?6459298#.UilRep0YpLs.twitter #rstats #d3js copied @ramnath_vaidya code http://t.co/hJhJCvhQCX
@@ -17197,7 +17199,9 @@
 375981723437121536  Sep  6 10:00  @statisticsblog   R tip of the day - Text Mining the Complete Works of William Shakespeare. http://i.cx/1dWvGQi #r #rstats
 375986229806125056  Sep  6 10:17  @GenomeAnalysis   RT @southmapr: Enjoying learning more cool #rstats via @_inundata & @rOpenSci @GenomeAnalysis
 375989089285054465  Sep  6 10:29  @timelyportfolio  had never tried the #nvd3 ohlcBar before; nice start #rCharts Test of ohlcBar Model: http://rcharts.io/viewer/?6464503#.Uinm9mr8WUp.twitter #rstats #d3js
+375990662111301633  Sep  6 10:35  @darinself        Yearly publications in IR journals by paradigm (free scale) #Rstats via William and Mary ITPIR http://t.co/xo62EUIdIE
 375990662111301633  Sep  6 10:35  @drunself         Yearly publications in IR journals by paradigm (free scale) #Rstats via William and Mary ITPIR http://t.co/xo62EUIdIE
+375991230917660672  Sep  6 10:37  @darinself        Yearly publications in IR journals by paradigm (scale set). Who knew Realism about as significant as Marxism #rstats http://t.co/eFQz2K43dg
 375991230917660672  Sep  6 10:37  @drunself         Yearly publications in IR journals by paradigm (scale set). Who knew Realism about as significant as Marxism #rstats http://t.co/eFQz2K43dg
 375992828653862913  Sep  6 10:44  @i_314            RT @ar_usergroup: Alguno en Buenos Aires interesado en dar una charla o taller de R + Hadoop en nuestro proximo encuentro? #rstats http://t.co/log9LL5rog
 375993297442844672  Sep  6 10:46  @RickSaporta      Setting up RStudio Server. Anyone know how to change where session files are saved?  #rstats #rstudio cc:@rstudioapp
@@ -17244,3 +17248,27 @@
 376049446779625472  Sep  6 14:29  @_ramrs           RT @statisticsblog: Type conversion in R. http://i.cx/15J3vu1#r #rstats
 376050253247434753  Sep  6 14:32  @everydayanalyst  Well, this is awesome: #TextMining the Complete Works of William Shakespeare by @ExegeticCompute http://www.exegetic.biz/blog/2013/09/text-mining-the-complete-works-of-william-shakespeare/ #Rstats #tm
 376054716628606977  Sep  6 14:50  @anasrini         RT @RLangTip: Automated variable selection for regressions: "step" http://bit.ly/orRZFu and "leaps" http://bit.ly/oMhDcj #rstats
+376058965596966912  Sep  6 15:06  @everydayanalyst  Well, this is awesome: #TextMining the Complete Works of William Shakespeare by @ExegeticCompute http://www.exegetic.biz/blog/2013/09/text-mining-the-complete-works-of-william-shakespeare/ … #Rstats
+376066642494492672  Sep  6 15:37  @DistribEcology   The fun never stops with @rOpenSci pkg rWBclimate https://github.com/ropensci/rWBclimate Temp. anomalies in Europe. #rstats http://t.co/1WYzUGotAV
+376067285967835136  Sep  6 15:40  @recology_        RT @DistribEcology: The fun never stops with @rOpenSci pkg rWBclimate https://github.com/ropensci/rWBclimate Temp. anomalies in Europe. #rstats http://t.co/1WYzUGotAV
+376067285993025536  Sep  6 15:40  @rOpenSci         RT @DistribEcology: The fun never stops with @rOpenSci pkg rWBclimate https://github.com/ropensci/rWBclimate Temp. anomalies in Europe. #rstats http://t.co/1WYzUGotAV
+376067503228600321  Sep  6 15:40  @tanyacash21      This is great. Would love to see more work done on this for v0.3 choropleth maps #rstats #maps https://github.com/robertgrant/R2leaflet
+376072092271116288  Sep  6 15:59  @timtriche        RT @timelyportfolio: had never tried the #nvd3 ohlcBar before; nice start #rCharts Test of ohlcBar Model: http://rcharts.io/viewer/?6464503#.Uinm9mr8WUp.twitter #rstats #d3js
+376088108887834624  Sep  6 17:02  @srmulcahy        Spent most of the morning recreating a published figure.  Too bad the author didn't use #rstats and #opendata.
+376090805103886337  Sep  6 17:13  @rOpenSci         RT @srmulcahy: Spent most of the morning recreating a published figure.  Too bad the author didn't use #rstats and #opendata.
+376091305295630336  Sep  6 17:15  @thedataorg       RT @srmulcahy: Spent most of the morning recreating a published figure.  Too bad the author didn't use #rstats and #opendata.
+376094540173545472  Sep  6 17:28  @metamattj        @DistribEcology @nceas @imperialcollege It would be cool if it had a @DataONEorg compatible API, and thus easily accessed in #rstats
+376102054822813698  Sep  6 17:58  @mwpennell        #Rstats Q: any tips on how to "selectively import" pkgs rather than adding all dependencies to search path
+376102774020120576  Sep  6 18:01  @Gastove          Your FACE can't allocate a vector of 85mb HA #rstats whatddaya think of THAT?! #damnit
+376104333965660160  Sep  6 18:07  @FioFloresC       RT @RStatsJobs: Check out the jobs page at Data Community DC; several listings. #Rstats http://datacommunitydc.org/blog/jobs/
+376104858916356096  Sep  6 18:09  @yichuanw         @sinoceros: "If China has a real-estate glut, why is Beijing more expensive than Manhattan" http://qz.com/121852. I did the #Rstats
+376105335393492993  Sep  6 18:11  @noamross         #stackoverflow question: Is there a vectorized power function in the armadillo library? http://stackoverflow.com/questions/18667329/vectorized-power-function-in-armadillo #rstats #rcpp
+376108853038809088  Sep  6 18:25  @SergeyKochergan  Monthly R jobs on r-bloggers http://www.r-bloggers.com/monthly-r-jobs-on-r-bloggers/ via @rbloggers #rstats #statistics #analytics #jobs
+376110633890361344  Sep  6 18:32  @PageViral        RT @SergeyKochergan: Monthly R jobs on r-bloggers http://www.r-bloggers.com/monthly-r-jobs-on-r-bloggers/ via @rbloggers #rstats #statistics #analytics #jobs
+376111321986514944  Sep  6 18:35  @hrbrmstr         *Never* underestimate the value of having 3 full months' worth of summarized enterprise-wide fw logs in RAM in R + details in Hadoop #rstats
+376114628054757376  Sep  6 18:48  @mjmrsc           RT @RLangTip: Automated variable selection for regressions: "step" http://bit.ly/orRZFu and "leaps" http://bit.ly/oMhDcj #rstats
+376123980878323712  Sep  6 19:25  @itimasan         RT  Rbloggers: Finally! A practical R book on Data Mining: "Data Mining With R, Learning with Case… http://goo.gl/fb/xoOlM #rstats
+376124543402004480  Sep  6 19:27  @Terence_OM       Multivariate Time Series Visualisation (2 Methods) - > Visualising multivariate time series data is ... #rstats http://tmblr.co/Z7bbYquLRlrd
+376137236502159360  Sep  6 20:18  @JamesMeadow      Funny stackoverflow discussion about using #Rstats to plot Gaddafi timeline. http://stackoverflow.com/questions/7852235/best-technique-for-timelines
+376142940889812992  Sep  6 20:40  @Rbloggers        Running R inside SAP HANA Studio:  (This article was first published on   Blag's bag of rants, and k... http://bit.ly/1cQGEmz #rstats
+376143654890393600  Sep  6 20:43  @aloukina         Just what I needed to work through other people's scripts- foodweb() from mvbutils visualizes the hierarchy of function calls in #Rstats

@@ -3670,3 +3670,10 @@
 376035299820077056  Sep  6 13:32  @LauraPiddock     RT @pathogenomenick: Simon Andrews on the importance of doing basic data QC through visualisation of RNA-Seq, CHIP-Seq experiments before stats! #CTBio
 376035321806610435  Sep  6 13:33  @LauraPiddock     RT @pathogenomenick: SeqMonk from the examples so far seem to be optimised for counting applications like RNA-Seq, CHIP-Seq, TRADIS etc. #CTBio
 376035401057984512  Sep  6 13:33  @LauraPiddock     RT @pathogenomenick: RPKM can be an awful tool for RNA-Seq quantification, cumulative distribution plots in SeqMonk can make that easy to see #CTBio
+376072441485066240  Sep  6 16:00  @genetics_blog    MITIE: Simultaneous RNA-Seq-based transcript identification and quantification in multiple samples http://bioinformatics.oxfordjournals.org/content/early/2013/08/31/bioinformatics.btt442.long #bioinformatics
+376074190820237313  Sep  6 16:07  @_ramrs           RT @genetics_blog: MITIE: Simultaneous RNA-Seq-based transcript identification and quantification in multiple samples http://t.co/6XZ7ei7IIm #bioinformatics
+376075332387749888  Sep  6 16:12  @ypriverol        RT @genetics_blog: MITIE: Simultaneous RNA-Seq-based transcript identification and quantification in multiple samples http://t.co/6XZ7ei7IIm #bioinformatics
+376079771861811200  Sep  6 16:29  @pfern            Whole Exome Sequencing and RNA-seq data analysis - detailed program timetable in now available.... http://fb.me/2vgDW64yI
+376084848576057345  Sep  6 16:49  @Alfons_Valencia  RT @genetics_blog: MITIE: Simultaneous RNA-Seq-based transcript identification and quantification in multiple samples http://t.co/6XZ7ei7IIm #bioinformatics
+376088561868492801  Sep  6 17:04  @rnomics          Fastcast Webinar: Conquer #RNA-seq Analytics Challenges with Pivotal and EMC Isilon http://bit.ly/1adqanr #Events #RNASeq #RNAseq @MyEN
+376102354296139776  Sep  6 17:59  @XiaoyunS         RT @genetics_blog: SAMstrt: Statistical test for differential expression in single-cell RNA-seq w/ spike-ins http://www.ncbi.nlm.nih.gov/pubmed/23995393 ; https://t.co/gzzETMGedy
