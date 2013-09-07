@@ -17284,3 +17284,20 @@
 376219496240799746  Sep  7 01:44  @recology_        Another paper describing #rstats software hosted on a personal site, with no links to source - #trainingneeded
 376219854229229568  Sep  7 01:46  @jmgomez          ThinkNum, new interactive public database and graphing tool - 2k data sources http://ow.ly/oCisS #opendata #dataviz #datamining #rstats
 376235622731501569  Sep  7 02:48  @drago_carlo      ThinkNum - A new interactive public database and graphing tool http://www.econometricsbysimulation.com/2013/09/thinknum-new-interactive-public.html via @DEAGiles #TimeSeries #Econometrics #Data #Rstats
+376238650331516928  Sep  7 03:00  @MikePearmain     @damienallison  wanna see something cool with #java and #rstats check out #renjin
+376249635117219840  Sep  7 03:44  @lgatt0           RT @srmulcahy: Spent most of the morning recreating a published figure.  Too bad the author didn't use #rstats and #opendata.
+376251154612498432  Sep  7 03:50  @Rbloggers        Fearsome Engines, Part 1:  (This article was first published on   4D Pie Charts » R, and kindly cont... http://bit.ly/1e1GDjE #rstats
+376253886732177408  Sep  7 04:01  @_NickGolding_    Interesting on new, faster interpreters for R MT @Rbloggers: Fearsome Engines, Part 1 http://bit.ly/1e1GDjE #rstats
+376261001428996096  Sep  7 04:29  @tncoulson        RT @_NickGolding_: Interesting on new, faster interpreters for R MT @Rbloggers: Fearsome Engines, Part 1 http://bit.ly/1e1GDjE #rstats
+376276801762639872  Sep  7 05:32  @BioMickWatson    RT @_NickGolding_: Interesting on new, faster interpreters for R MT @Rbloggers: Fearsome Engines, Part 1 http://bit.ly/1e1GDjE #rstats
+376277492358586368  Sep  7 05:35  @np_jiang         RT @RLangTip: Automated variable selection for regressions: "step" http://bit.ly/orRZFu and "leaps" http://bit.ly/oMhDcj #rstats
+376282536806072320  Sep  7 05:55  @SergeyKochergan  ThinkNum – A new interactive public database and graphing tool! http://www.r-bloggers.com/thinknum-a-new-interactive-public-database-and-graphing-tool/ via @rbloggers #rstats
+376300659777085440  Sep  7 07:07  @dizzy_pete       some gotcha's when using apply with dataframes, and some background on type coercion http://petewerner.blogspot.com.au/2013/09/type-conversion-and-you-or-and-r.html #rstats
+376301502069227520  Sep  7 07:10  @jmgomez          RT @mmeierer: Handling big data in R http://bit.ly/18yExRd by @davetang31 #rstats #datamining #bigdata
+376302326354427904  Sep  7 07:14  @Piboonrungroj    RT @revodavid: Two presentations (with slides and audio) on #BigData and Big Analytics with #rstats http://bit.ly/15BOfpG
+376302900919554048  Sep  7 07:16  @Piboonrungroj    Our @ChiangMaiR  and @CardiffR  in the map“The current map of 127 R user groups worldwide (by @revojoe) http://bit.ly/18wJSbv #rstats”
+376306048808005632  Sep  7 07:28  @carlcarrie       RT @revodavid: Two presentations (with slides and audio) on #BigData and Big Analytics with #rstats http://bit.ly/15BOfpG
+376317361143685120  Sep  7 08:13  @CWBadger12       RT @jmgomez: RT @mmeierer: Handling big data in R http://bit.ly/18yExRd by @davetang31 #rstats #datamining #bigdata
+376318085298278400  Sep  7 08:16  @ConeyNL          RT @kdnuggets: Learning Text Mining with R & tm by mining the complete works of William Shakespeare #rstats http://bit.ly/17Ef62a
+376319238496985088  Sep  7 08:21  @hadleywickham    RT @recology_: Another paper describing #rstats software hosted on a personal site, with no links to source - #trainingneeded
+376321369870712832  Sep  7 08:29  @Garug81          @LRandone @mvcmar good job #cluster and #Rstats ! Have a good #clusterhackathon !!
