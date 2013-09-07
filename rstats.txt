@@ -17272,3 +17272,15 @@
 376137236502159360  Sep  6 20:18  @JamesMeadow      Funny stackoverflow discussion about using #Rstats to plot Gaddafi timeline. http://stackoverflow.com/questions/7852235/best-technique-for-timelines
 376142940889812992  Sep  6 20:40  @Rbloggers        Running R inside SAP HANA Studio:  (This article was first published on   Blag's bag of rants, and k... http://bit.ly/1cQGEmz #rstats
 376143654890393600  Sep  6 20:43  @aloukina         Just what I needed to work through other people's scripts- foodweb() from mvbutils visualizes the hierarchy of function calls in #Rstats
+376165112291147776  Sep  6 22:08  @noticiasSobreR   SAP HANA OData y R: Como ya se habran dado cuenta...amo R...es simplemente un lenguaje de programacion... http://tinyurl.com/l7ffxo6 #rstats
+376169523755220992  Sep  6 22:26  @johannux         RT @kdnuggets: Poll: R top language for data science, data mining three years running #rstats http://bit.ly/1dPWeCD
+376176235413790720  Sep  6 22:52  @russellkt        RT @timelyportfolio: adventurous #rstats #rCharts #d3js users recruited to test new features newest nvd3+10x faster+#dimplejs facets https://t.co/rfGG66ZeX8
+376176895567867904  Sep  6 22:55  @russellkt        RT @timelyportfolio: #rCharts #dimplejs + #AngularJS Controls: http://rcharts.io/viewer/?6459298#.UilRep0YpLs.twitter #rstats #d3js copied @ramnath_vaidya code http://t.co/hJhJCvhQCX
+376182058772877312  Sep  6 23:16  @maxrzepka        RT @kdnuggets: Learning Text Mining with R & tm by mining the complete works of William Shakespeare #rstats http://bit.ly/17Ef62a
+376184061217103872  Sep  6 23:24  @rOpenSci         @llthurman hadn't seen it. we should reach out & unify efforts to interact with @GBIF from #rstats - 3 so far, rgbif, dismo, & this paper
+376211413087162369  Sep  7 01:12  @Rbloggers        Probability of Avoiding a Run-off in the NYC 2013 Democratic Primary Election:  (This article was fi... http://bit.ly/17HrIle #rstats
+376215762811514880  Sep  7 01:30  @DailyRpackage    multipol - multivariate polynomials http://cran.r-project.org/web/packages/multipol/index.html #RStats
+376216422327656448  Sep  7 01:32  @PPUAMX           RT @RLangTip: Automated variable selection for regressions: "step" http://bit.ly/orRZFu and "leaps" http://bit.ly/oMhDcj #rstats
+376219496240799746  Sep  7 01:44  @recology_        Another paper describing #rstats software hosted on a personal site, with no links to source - #trainingneeded
+376219854229229568  Sep  7 01:46  @jmgomez          ThinkNum, new interactive public database and graphing tool - 2k data sources http://ow.ly/oCisS #opendata #dataviz #datamining #rstats
+376235622731501569  Sep  7 02:48  @drago_carlo      ThinkNum - A new interactive public database and graphing tool http://www.econometricsbysimulation.com/2013/09/thinknum-new-interactive-public.html via @DEAGiles #TimeSeries #Econometrics #Data #Rstats
