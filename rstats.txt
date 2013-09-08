@@ -17318,3 +17318,11 @@
 376405402193498112  Sep  7 14:03  @PeterFlomStat    How user friendly should statistical software be? #rstats #SAS - http://ow.ly/ornkk
 376405411433177088  Sep  7 14:03  @peterflom        How user friendly should statistical software be? #rstats #SAS - http://ow.ly/ornji
 376411598476152832  Sep  7 14:28  @rezakhorshidi    Using colClasses to Load Data More Quickly in R http://www.r-bloggers.com/using-colclasses-to-load-data-more-quickly-in-r/ via @rbloggers #rstats #tipsNtricks #useful
+376422197947944961  Sep  7 15:10  @jfreels4         @timelyportfolio @ramnath_vaidya Local web server requirement to see #rCharts examples in R Notebook? #rstats http://bit.ly/1e36B6j
+376444481610219520  Sep  7 16:38  @cpsievert        My interactive viz of #fantasyfootball rankings using #rstats #shiny. http://bit.ly/1cT7J8v Thanks to @borisachen 4 idea
+376446572948500480  Sep  7 16:47  @ramhiser         Is there any subtle difference between saving #rstats objects to either *.RData or *.rda files? I’m finding none in the docs or online.
+376446932018663424  Sep  7 16:48  @steamerpro       RT @cpsievert: My interactive viz of #fantasyfootball rankings using #rstats #shiny. http://bit.ly/1cT7J8v Thanks to @borisachen 4 idea
+376447648502648833  Sep  7 16:51  @hrbrmstr         man, "update.packages(checkBuilt=TRUE, ask=FALSE)" is a beautiful thing #rstats
+376467575397314560  Sep  7 18:10  @Rbloggers        A bit of benchmarking with string distances:  (This article was first published on   Mark van der Lo... http://bit.ly/19v8qTx #rstats
+376491649200697344  Sep  7 19:46  @polesasunder     STRONGLY AGREE?: The Best Way to display Likert scale graphs: via @statsforbios @chrisbeeley  http://bit.ly/159ejGn #ggplot2 #rstats
+376500639632605185  Sep  7 20:22  @RladiesSF        This is the longest R help page I've ever seen: Package ‘NbClust’ #rstats
