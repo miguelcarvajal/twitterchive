@@ -17326,3 +17326,11 @@
 376467575397314560  Sep  7 18:10  @Rbloggers        A bit of benchmarking with string distances:  (This article was first published on   Mark van der Lo... http://bit.ly/19v8qTx #rstats
 376491649200697344  Sep  7 19:46  @polesasunder     STRONGLY AGREE?: The Best Way to display Likert scale graphs: via @statsforbios @chrisbeeley  http://bit.ly/159ejGn #ggplot2 #rstats
 376500639632605185  Sep  7 20:22  @RladiesSF        This is the longest R help page I've ever seen: Package ‘NbClust’ #rstats
+376515817484980224  Sep  7 21:22  @KevinLDavenport  Doing a report in iPython Notebook, but it's impossible to make the vis I want with matplot guess it's time to use rmagic/ ggplot2? #rstats
+376522126926151680  Sep  7 21:47  @treycausey       RT @cpsievert: My interactive viz of #fantasyfootball rankings using #rstats #shiny. http://bit.ly/15FcXzA Thanks to @borisachen 4 idea
+376524286371983360  Sep  7 21:56  @prisonrodeo      RT @treycausey: RT @cpsievert: My interactive viz of #fantasyfootball rankings using #rstats #shiny. http://bit.ly/15FcXzA Thanks to @borisachen 4 idea
+376546589944209408  Sep  7 23:24  @JAdP             @bhaines0 once, we would use FORTRAN with IMSL, now #Rstats #SciPy #DataGrok #Predictives #Insight @ConstellationRG @BernardMarr
+376552746415308800  Sep  7 23:49  @CourtCorley      "R on a JVM – Renjin is now FOAS #rstats #jvm #cloud"  http://buff.ly/1aTde96 #data
+376568496508776448  Sep  8 00:51  @Rbloggers        Linear regression from a contingency table:  (This article was first published on   Freakonometrics ... http://bit.ly/1e4drbP #rstats
+376578149557231616  Sep  8 01:30  @DailyRpackage    HAPim - HapIM http://cran.r-project.org/web/packages/HAPim/index.html #RStats
+376592017419014144  Sep  8 02:25  @drago_carlo      Handling Big Data in R http://davetang.org/muse/2013/09/03/handling-big-data-in-r/ by @davetang31 RT @jmgomez #BigData #Programming #Rstats
