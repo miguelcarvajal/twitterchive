@@ -17362,3 +17362,21 @@
 376851584128262146  Sep  8 19:36  @flypapper        @ESPN_Numbers @jemelehill Those are good #Rstats
 376863374841102336  Sep  8 20:23  @statslabdublin   RT @MangoTheCat: #LondonR user group meeting 10 Sep - great agenda - see  http://www.londonr.org - all welcome #RStats
 376870508664328192  Sep  8 20:51  @mxwlj            Potential teaching tool: animated Metropolis algorithm with R and ImageMagick (blog post) #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376872831486672896  Sep  8 21:00  @vsbuffalo        Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376873024156598272  Sep  8 21:01  @geoffjentry      RT @vsbuffalo: Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376873112823816192  Sep  8 21:02  @Graham_Coop      RT @vsbuffalo: Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376875490143141888  Sep  8 21:11  @johnmyleswhite   RT @vsbuffalo: Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376875682434789376  Sep  8 21:12  @JonesZM          RT @vsbuffalo: Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376875875225980928  Sep  8 21:13  @svincenzi        RT @vsbuffalo: Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376876829136531456  Sep  8 21:16  @Aelkus           RT @vsbuffalo: Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376877552989515776  Sep  8 21:19  @timtriche        RT @vsbuffalo: Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376879480305766400  Sep  8 21:27  @yaaang           RT @vsbuffalo: Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376884125925670912  Sep  8 21:45  @ajerneck         RT @vsbuffalo: Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376894636293246976  Sep  8 22:27  @pierreroudier    @teh_aimee Should be good fun. Never really used weka, but noticed there is a #rstats API for it :)
+376904539519320064  Sep  8 23:06  @nhcooper123      RT @MangoTheCat: #LondonR user group meeting 10 Sep - great agenda - see  http://www.londonr.org - all welcome #RStats
+376906332604882944  Sep  8 23:14  @winterswift      My weekend = working with the complete @BLS_gov ATUS microdata in #rstats on a @WindowsAzure VM. #imcoollikethat
+376907787860992000  Sep  8 23:19  @ma_macneil       RT @vsbuffalo: Awesome! MT @mxwlj: Potential teaching tool: animated Metropolis algorithm with #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376914776426684416  Sep  8 23:47  @laurencstill     2D plot with histograms for each dimension (2013 edition) http://blog.mckuhn.de/2013/04/2d-plot-with-histograms-for-each.html?m=1 #ggplot2 #gridextra #rstats
+376917822905282560  Sep  8 23:59  @mpmanti          @perisaccadic #rstats or #julialang? Metaprogramming in R makes my head hurt, even if I’m just using someone’s lib that uses it.
+376940538005848064  Sep  9 01:30  @DailyRpackage    plotmo - Plot a model's response while varying the values of the predictors http://cran.r-project.org/web/packages/plotmo/index.html #RStats
+376947580565200896  Sep  9 01:58  @dataJujitsu      RT @statsforbios: Nice little intro to meta-analyses in #Rstats with a second post with more details and ggplot2. http://ecologyforacrowdedplanet.wordpress.com/2013/05/10/using-metafor-and-ggplot-togetherpart-1/
