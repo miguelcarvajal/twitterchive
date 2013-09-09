@@ -17380,3 +17380,25 @@
 376917822905282560  Sep  8 23:59  @mpmanti          @perisaccadic #rstats or #julialang? Metaprogramming in R makes my head hurt, even if I’m just using someone’s lib that uses it.
 376940538005848064  Sep  9 01:30  @DailyRpackage    plotmo - Plot a model's response while varying the values of the predictors http://cran.r-project.org/web/packages/plotmo/index.html #RStats
 376947580565200896  Sep  9 01:58  @dataJujitsu      RT @statsforbios: Nice little intro to meta-analyses in #Rstats with a second post with more details and ggplot2. http://ecologyforacrowdedplanet.wordpress.com/2013/05/10/using-metafor-and-ggplot-togetherpart-1/
+376963262329683968  Sep  9 03:00  @SAGRudd          NetWeAvers: an #Rstats package for integrative biological network analysis with #MassSpec data @ http://buff.ly/14E3Hve
+376975353928900608  Sep  9 03:48  @AvrahamAdler     Curious as to how people are finding using #mcmc_stan and #rstats as opposed to #mcmc_jags and #rjags? Pros, cons?
+376982646896615424  Sep  9 04:17  @divyakkm         RT @statsforbios: Nice little intro to meta-analyses in #Rstats with a second post with more details and ggplot2. http://ecologyforacrowdedplanet.wordpress.com/2013/05/10/using-metafor-and-ggplot-togetherpart-1/
+376983498847838208  Sep  9 04:20  @CullifordEM      RT @statisticsblog: 5 Key Considerations When Choosing Open Source Statistics Software. http://i.cx/15I9zKg #r #rstats #statistics
+376986172611768320  Sep  9 04:31  @MangoTheCat      Calling all R users! Last chance to sign up for #LondonR meeting tomorrow http://www.londonr.org #Rstats
+376993675051421696  Sep  9 05:01  @laurencstill     Awesome! RT @mxwlj: Potential teaching tool: animated Metropolis algorithm w/R and ImageMagick #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+376994838245146624  Sep  9 05:05  @datennutzen      eoda offers courses for data visualization and graphics with #Rstats http://blog.eoda.de/2013/09/09/eoda-offers-courses-for-data-visualization-and-graphics-with-r-2/ http://t.co/luIwnH3npJ
+377004762748563456  Sep  9 05:45  @Lilly_Herridge   Putting together my first #Rstats lecture on visualising data... any great examples of graphics made in R welcome
+377017691556823040  Sep  9 06:36  @fstrozzi         Maybe it's time for a quick refresh https://www.coursera.org/course/stats1 #coursera #Rstats
+377024868673277952  Sep  9 07:05  @MRHelmus         R^2 for GLMM!  http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210x.2012.00261.x/abstract and a blog post here  http://ecologyforacrowdedplanet.wordpress.com/2013/02/26/r-squared-for-mixed-models/ #rstats
+377026758530584576  Sep  9 07:12  @afewbugs         RT @Lilly_Herridge: Putting together my first #Rstats lecture on visualising data... any great examples of graphics made in R welcome
+377036299921682432  Sep  9 07:50  @BrendanTHalpin   #Emacs kinda slow, so reimplemented in R #rstats. Hah! R is even slower! @EdmundCB http://t.co/U7cHUhZ6kZ
+377038714276294657  Sep  9 08:00  @statisticsblog   R tip of the day - Linear regression from a contingency table. http://i.cx/17jgBCn #r #rstats #regression
+377040721741504513  Sep  9 08:08  @sharon000        New R package combines weather forecast data and R. http://bit.ly/15dhI74 #rstats pkg by @hrbrmstr
+377041393254150144  Sep  9 08:10  @quandl           Question & answer: Generating binary and discrete response #Data by @citizensquad http://qndl.co/18DoujC #Rstats #econometrics #Stata
+377041848121839616  Sep  9 08:12  @Rbloggers        analyze the survey of business owners (sbo) with r:  (This article was first published on   asdfree ... http://bit.ly/1e8rE7y #rstats
+377041877670711296  Sep  9 08:12  @hadleywickham    RT @datennutzen: eoda offers courses for data visualization and graphics with #Rstats http://blog.eoda.de/2013/09/09/eoda-offers-courses-for-data-visualization-and-graphics-with-r-2/ http://t.co/luIwnH3npJ
+377044392085028864  Sep  9 08:22  @alexey_r         RT @datennutzen: eoda offers courses for data visualization and graphics with #Rstats http://blog.eoda.de/2013/09/09/eoda-offers-courses-for-data-visualization-and-graphics-with-r-2/ http://t.co/luIwnH3npJ
+377044999814127616  Sep  9 08:25  @statsforbios     And an easier implementation in #Rstats of R^2 for mixed models. http://ecologyforacrowdedplanet.wordpress.com/2013/08/27/r-squared-in-mixed-models-the-easy-way/
+377045116554588160  Sep  9 08:25  @MarioSaeterosP   RT @statisticsblog: R tip of the day - Linear regression from a contingency table. http://i.cx/17jgBCn #r #rstats #regression
+377047501645168640  Sep  9 08:35  @FastBigData      “@mortardata: This week's Hadoop Weekly features news on R + Hadoop integration and DataFu http://ow.ly/oGPNc” #rstats
+377047572894220288  Sep  9 08:35  @BrockTibert      Like S&K post on app/yield? My post + github repo w/code samples so you can conduct a similar study #rstats #emchat http://goo.gl/HDzNh5
