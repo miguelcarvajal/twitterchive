@@ -17402,3 +17402,56 @@
 377045116554588160  Sep  9 08:25  @MarioSaeterosP   RT @statisticsblog: R tip of the day - Linear regression from a contingency table. http://i.cx/17jgBCn #r #rstats #regression
 377047501645168640  Sep  9 08:35  @FastBigData      “@mortardata: This week's Hadoop Weekly features news on R + Hadoop integration and DataFu http://ow.ly/oGPNc” #rstats
 377047572894220288  Sep  9 08:35  @BrockTibert      Like S&K post on app/yield? My post + github repo w/code samples so you can conduct a similar study #rstats #emchat http://goo.gl/HDzNh5
+377053810696269824  Sep  9 09:00  @statisticsblog   The origin of life - a simulation approach via maximum likelihood estimations. http://i.cx/1830V8V #r #rstats #simulation
+377058274677620736  Sep  9 09:17  @BrockTibert      @leahsknapp What are you using?  Tableau is great and super easy.  If you want to code, #rstats is pretty robust.  Happy Mapping!
+377060053204738049  Sep  9 09:24  @bonnierok        RT @richmanmax: Awesome: #rstats, #qgis, & excel pivot tables #datarockband with DC childcare center data @ActforDChildren #datadive http://t.co/bGFE1olQdr
+377062235647913984  Sep  9 09:33  @timelyportfolio  RT @laurencstill: 2D plot with histograms for each dimension (2013 edition) http://blog.mckuhn.de/2013/04/2d-plot-with-histograms-for-each.html?m=1 #ggplot2 #gridextra #rstats
+377066139865464833  Sep  9 09:49  @reichlab         Why not to use periods in #rstats function names! and lots of other juicy R style advice. http://cran.r-project.org/web/packages/rockchalk/vignettes/Rstyle.pdf
+377067209329479681  Sep  9 09:53  @estebanmoro      CXXR, FasT, pqR, Renjin, Riposte or TERR. Which R engine will preveal? all? #rstats http://4dpiecharts.com/2013/09/07/fearsome-engines-part-1/
+377068919472680960  Sep  9 10:00  @statisticsblog   Mixed Models with random coefficients. http://i.cx/18H79HS #r #rstats #regression
+377072605380878336  Sep  9 10:14  @JeffHemsley      RT @estebanmoro: CXXR, FasT, pqR, Renjin, Riposte or TERR. Which R engine will preveal? all? #rstats http://4dpiecharts.com/2013/09/07/fearsome-engines-part-1/
+377081970876252161  Sep  9 10:52  @OliverBelmans    Wondering how it is with my old friend excel?! #Rstats
+377084011702542336  Sep  9 11:00  @statisticsblog   Visualizing the Broyden–Fletcher–Goldfarb–Shanno (BFGS) optimization algorithm. http://i.cx/1dTPnr3 #r #rstats #visuals
+377085141925261312  Sep  9 11:04  @Max6Book         RT @statisticsblog: Visualizing the Broyden–Fletcher–Goldfarb–Shanno (BFGS) optimization algorithm. http://i.cx/1dTPnr3 #r #rstats #visuals
+377086739208081409  Sep  9 11:10  @cpsievert        I updated my MLB PITCHfx #shiny app to include #webgl! http://bit.ly/17jGVMy Thanks @TrestleJeff & @rstudioapp #rstats #pitchRx
+377086886600511488  Sep  9 11:11  @inside_R         #rstats R User Group meetings this week: San Diego, Wiesbaden, Dublin, Chicago, Princeton, Minneapolis and Brussels http://bit.ly/9hVAPE
+377088838855700480  Sep  9 11:19  @rmflight         RT @reichlab: Why not to use periods in #rstats function names! and lots of other juicy R style advice. http://cran.r-project.org/web/packages/rockchalk/vignettes/Rstyle.pdf
+377098977184735232  Sep  9 11:59  @KirkDBorne       R User Groups - springing up all over: http://smartdatacollective.com/davidmsmith/143121/r-user-groups-update by @revodavid > #Rstats for #DataScience http://t.co/neb5Y2LQVl
+377099254671503360  Sep  9 12:00  @Gliders_Coach    Using Quandl for Datasets and Research #rstats http://wp.me/p9q8Y-2Wj
+377100909643595776  Sep  9 12:07  @RLangTip         Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+377103068137263104  Sep  9 12:15  @siwatson         RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+377103198588518401  Sep  9 12:16  @gappy3000        @vgoklani the code in FKF #rstats pckg is well written and superfast and it should be easy to use it in Python..
+377104284636024832  Sep  9 12:20  @emagar           RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+377104513632464897  Sep  9 12:21  @Minkoo           RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+377104578333782017  Sep  9 12:21  @Rbloggers        The Eve of the NYC Democratic Mayoral Primary Election:  (This article was first published on   Stat... http://bit.ly/17QGYwc #rstats
+377104689742888960  Sep  9 12:22  @TrevorABranch    RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+377104970404741120  Sep  9 12:23  @algaebarnacle    Gosh this 3D animation of convergence in Markov chains is so cool. #rstats code included: http://bit.ly/15c5Xh6
+377105624569368576  Sep  9 12:26  @arRMorgan        RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+377105953121783808  Sep  9 12:27  @CondorOptions    RT @algaebarnacle: Gosh this 3D animation of convergence in Markov chains is so cool. #rstats code included: http://bit.ly/15c5Xh6
+377106241954537472  Sep  9 12:28  @galenspikes      Animating the Metropolis algorithm - Ecology in silico #rstats http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+377110577572634624  Sep  9 12:45  @TrevorABranch    RT @algaebarnacle: Gosh this 3D animation of convergence in Markov chains is so cool. #rstats code included: http://bit.ly/15c5Xh6
+377113294776971265  Sep  9 12:56  @alexhanna        Can you glob in #rstats, e.g df <- read.delim("*.csv")?
+377114209932173312  Sep  9 13:00  @statisticsblog   Analyze the survey of business owners (sbo) with r. http://i.cx/1evLPtF #r #rstats #survey
+377114408063090688  Sep  9 13:00  @mjmrsc           RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+377116491852042240  Sep  9 13:09  @Gliders_Coach    The new RStudio Shiny Server - A bright Spark for hosted Stats Visualization #rstats http://wp.me/p9q8Y-2Wr
+377116984410132480  Sep  9 13:11  @wareFLO          Interesting mixture! #Rstats & workflow rules RT @johannesbambang Clinical Workflow Analysis & Decision Support http://j.mp/17k5FnR
+377118277471715328  Sep  9 13:16  @CStothart        RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+377120303949684737  Sep  9 13:24  @jaeyeom          RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+377121601986121728  Sep  9 13:29  @jtemujinw        RT @algaebarnacle: Gosh this 3D animation of convergence in Markov chains is so cool. #rstats code included: http://bit.ly/15c5Xh6
+377123452886343680  Sep  9 13:36  @sean_anderson    Don’t code blind in #rstats: debugging R functions and handling errors: http://seananderson.ca/2013/08/23/debugging-r.html
+377123807036575745  Sep  9 13:38  @TrevorABranch    RT @sean_anderson: Don’t code blind in #rstats: debugging R functions and handling errors: http://seananderson.ca/2013/08/23/debugging-r.html
+377124581376405504  Sep  9 13:41  @TrevorABranch    This is awesome, going into my R lectures.  MT @sean_anderson Don’t code blind in #rstats: debugging R functions http://seananderson.ca/2013/08/23/debugging-r.html
+377128914562199552  Sep  9 13:58  @WyoWeeds         Hey #rstats friends, would anyone with ggplot2 experience from near Colorado like to do a short presentation at a meeting?
+377129574389129217  Sep  9 14:01  @TATA_BOX         Animating the Metropolis algorithm - Ecology in silico http://mbjoseph.github.io/blog/2013/09/08/metropolis/  #rstats
+377129621307031552  Sep  9 14:01  @marcosluis2186   #PredictiveAnalytics with @RevolutionR and @Hortonworks THE Modern Data Architecture http://ow.ly/oHRnO #Hadoop #BigData #rstats
+377132598868574208  Sep  9 14:13  @BrockTibert      #TCC13  My data source is an #rstats dataframe.  Pls make this happen.
+377135979238522880  Sep  9 14:26  @Curly_McGee      The church of browser () RT @sean_anderson: Don’t code blind in #rstats: debugging R functions and handling errors: http://seananderson.ca/2013/08/23/debugging-r.html
+377135991641079808  Sep  9 14:26  @BrockTibert      @Zac_Roberts Is that a rumor or fact?  I have been dying for better #rstats integration. Would completely speed up my workflow!!
+377136931983073280  Sep  9 14:30  @rmflight         RT @Curly_McGee: The church of browser () RT @sean_anderson: Don’t code blind in #rstats: debugging R functions and handling errors: http://t.co/tuSfCZTmPk
+377136964350144512  Sep  9 14:30  @timtriche        RT @laurencstill: 2D plot with histograms for each dimension (2013 edition) http://blog.mckuhn.de/2013/04/2d-plot-with-histograms-for-each.html?m=1 #ggplot2 #gridextra #rstats
+377140428824653824  Sep  9 14:44  @idigdata         #tcc13 Dav Lion showing advanced integration with #rstats   YIPPEE!!!  Thank you Thank You for listening to your customers!!!! #tableau
+377141014663684096  Sep  9 14:46  @Freakalytics     #TCC13 #Tableau to integrate with #RSTats in 8.1  Great work by some of my favorite developers there. http://t.co/LrbaZUwga7
+377141191051333633  Sep  9 14:47  @craigbloodworth  RT @Freakalytics: #TCC13 #Tableau to integrate with #RSTats in 8.1  Great work by some of my favorite developers there. http://t.co/LrbaZUwga7
+377141267022766081  Sep  9 14:47  @idigdata         RT @Freakalytics: #TCC13 #Tableau to integrate with #RSTats in 8.1  Great work by some of my favorite developers there. http://t.co/LrbaZUwga7
+377141517476823040  Sep  9 14:48  @tunvall          RT @Freakalytics: #TCC13 #Tableau to integrate with #RSTats in 8.1  Great work by some of my favorite developers there. http://t.co/LrbaZUwga7
+377143322436837376  Sep  9 14:55  @patrickclee0207  RT @Freakalytics: #TCC13 #Tableau to integrate with #RSTats in 8.1  Great work by some of my favorite developers there. http://t.co/LrbaZUwga7
