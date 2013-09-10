@@ -17518,3 +17518,35 @@
 377228329679863808  Sep  9 20:33  @love_life_logic  RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
 377233967771951104  Sep  9 20:56  @monsoontrader    RT @ucfagls: Preparing figures for @PLOSONE with #rstats? Need to use Arial font?! I have a blog post for that: http://bit.ly/18JSXOw
 377234824706416640  Sep  9 20:59  @andrewheiss      So, turns out, the `plm()` function in #rstats chokes when dealing with lots of columns in datasets, even when vars aren't used in model.
+377235251476844545  Sep  9 21:01  @andrewheiss      Fix for slowness is to use a df with only the vars you need in the model. 45 secs with full df (300+ vars), instantly with subset #rstats
+377237128607842304  Sep  9 21:08  @jfreels4         RT @laurencstill: 2D plot with histograms for each dimension (2013 edition) http://blog.mckuhn.de/2013/04/2d-plot-with-histograms-for-each.html?m=1 #ggplot2 #gridextra #rstats
+377237219204812800  Sep  9 21:08  @1050Hz           RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+377237270023004160  Sep  9 21:09  @1050Hz           RT @mxwlj: Potential teaching tool: animated Metropolis algorithm with R and ImageMagick (blog post) #rstats #MCMC http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+377238393232850944  Sep  9 21:13  @jfreels4         RT @ramnath_vaidya: Publishing #slidify decks to github using their native client #rstats http://www.youtube.com/watch?v=GmcRWitLI0o
+377239169241604096  Sep  9 21:16  @jfreels4         RT @timelyportfolio: Timely Portfolio: d3-ify Systematic Investor Cluster Weight http://timelyportfolio.blogspot.com/2013/09/d3-ify-systematic-investor-cluster.html?spref=tw   #rstats #d3js #nvd3 #rCharts http://t.co/Gkj6fgEZlW
+377241239415844864  Sep  9 21:24  @ramnath_vaidya   RT @statslabdublin: Looking forward to @DataMind_org talk at Dublin R "Learning R Interactively" (Wed 19:00 Sep 11th TCube) #rstats #dublintech
+377243053490061312  Sep  9 21:32  @kyloring         Calculate a pseudo-R2 for your mixed model using r.squaredGLMM in package {MuMIn} #rstats #phdchat
+377244861650714624  Sep  9 21:39  @SpeakHipHop      RT @kyloring: Calculate a pseudo-R2 for your mixed model using r.squaredGLMM in package {MuMIn} #rstats #phdchat
+377244920584495104  Sep  9 21:39  @kumarchanchal    RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+377245583263952896  Sep  9 21:42  @russellkt        RT @timelyportfolio: Timely Portfolio: d3-ify Systematic Investor Cluster Weight http://timelyportfolio.blogspot.com/2013/09/d3-ify-systematic-investor-cluster.html?spref=tw   #rstats #d3js #nvd3 #rCharts http://t.co/Gkj6fgEZlW
+377247750842105856  Sep  9 21:50  @frankwwu         RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+377248733290717184  Sep  9 21:54  @timtriche        RT @Lewis_Lab: #Rstats RT @JacquelynGill Using Arial in R figures destined for PLOS ONE: http://bit.ly/17lKQZo  by @ucfagls
+377253132863959040  Sep  9 22:12  @pmhobson         I don't understand #rstats. why have indices if you have to code their basic usage? http://bit.ly/17mbIbC. df1.sub(df2) does it in #pandas
+377263286808772608  Sep  9 22:52  @tinkerbel405     RT @ucfagls: Preparing figures for @PLOSONE with #rstats? Need to use Arial font?! I have a blog post for that: http://bit.ly/18JSXOw
+377273891238211585  Sep  9 23:34  @gappy3000        pythonistas an useRs, you may get popular languages, but not bug fix messages like these http://lists.racket-lang.org/dev/archive/2013-September/013339.html #rstats
+377277637665619969  Sep  9 23:49  @cboettig         Great start for a proposed #rstats taskview for CRAN by @recology_ https://github.com/ropensci/webservices What's missing? Send pull requests!
+377280195851735040  Sep  9 23:59  @jlehtoma         RT @cboettig: Great start for a proposed #rstats taskview for CRAN by @recology_ https://github.com/ropensci/webservices What's missing? Send pull requests!
+377284589963997184  Sep 10 00:17  @mhultstrom       RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+377285697444409344  Sep 10 00:21  @jfreels4         @xieyihui More elegant way of using knit_expand() without deparse(substitute(x))? http://bit.ly/13DTUbn #rstats #knitr
+377287558537150465  Sep 10 00:28  @fernando_mayer   RT @cboettig: Great start for a proposed #rstats taskview for CRAN by @recology_ https://github.com/ropensci/webservices What's missing? Send pull requests!
+377289172647567360  Sep 10 00:35  @jlbarojam        RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+377289435546910720  Sep 10 00:36  @omearabrian      RT @cboettig: Great start for a proposed #rstats taskview for CRAN by @recology_ https://github.com/ropensci/webservices What's missing? Send pull requests!
+377290253448798208  Sep 10 00:39  @jfzeac           RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+377290672992444417  Sep 10 00:41  @DarioHer0074     RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+377296052333735936  Sep 10 01:02  @mattmoehr        You guys have no idea how much I hate NaN. #rstats
+377302923698790401  Sep 10 01:30  @DailyRpackage    hyperdirichlet - A generalization of the Dirichlet distribution http://cran.r-project.org/web/packages/hyperdirichlet/index.html #RStats
+377307389034102784  Sep 10 01:47  @recology_        RT @cboettig: Great start for a proposed #rstats taskview for CRAN by @recology_ https://github.com/ropensci/webservices What's missing? Send pull requests!
+377309004684218368  Sep 10 01:54  @andyteucher      RT @cboettig: Great start for a proposed #rstats taskview for CRAN by @recology_ https://github.com/ropensci/webservices What's missing? Send pull requests!
+377309817427095552  Sep 10 01:57  @MathBioPaul      Things I should make more use of in my #Rstats course: library(help="datasets")
+377314924495925249  Sep 10 02:17  @panemma          RT @ucfagls: Preparing figures for @PLOSONE with #rstats? Need to use Arial font?! I have a blog post for that: http://bit.ly/18JSXOw
+377318765190340608  Sep 10 02:32  @jessiawegrzynma  RT @AlexBBrown: Using @rstudioapp #shiny tool with #d3 to export power of #rstats to my co-workers.  It's like bathing in milk.
