@@ -17570,3 +17570,38 @@
 377413296300650496  Sep 10 08:48  @mja              RT @phylorich: Slick! #rstats RT @Timcdlucas: Months ago I was looking for an equivalent to mathematica's //. Now I can define it. https://t.co/ifmVlWmNUN
 377415257896935425  Sep 10 08:56  @rmflight         @BrockTibert yes, more of a coder. Like control. But if already doing #rstats for data import and cleanup, then know en. to do ggplot knitr
 377415541331599362  Sep 10 08:57  @BrockTibert      @rmflight I love RR in #rstats and all packages @hadleywickham , but its not about me, its about empowering my team to answer their own ?'s
+377418186523561986  Sep 10 09:08  @WomenInStats     RT @statisticsblog: R tip of the day - Animating the Metropolis Algorithm with animated .gif http://i.cx/1exuEYG #r #rstats #mcmc
+377419251998400512  Sep 10 09:12  @zevkronenberg    I ventured into Processing land, tried to rotate some text, and realized I should stick to ggplot. #rstats
+377422499329220608  Sep 10 09:25  @statsforbios     Prettiest network plots I've seen. But not sure they aid interpretation that much. Swoosh, swoosh, swoosh. #Rstats. http://is-r.tumblr.com/post/38459242505/beautiful-network-diagrams-with-ggplot2
+377424425123344385  Sep 10 09:32  @rmflight         @statsforbios I would only do it for special ones, otherwise you break exp. of user of #rstats
+377430235903324162  Sep 10 09:55  @lapply           L'extension "rgrs" devient "questionr" : http://alea.fr.eu.org/post/2013/09/09/Rgrs-devient-questionr #rstats
+377440191436181504  Sep 10 10:35  @caddymob         .@heyaudy especially if you use @rstudioapp - game changer! #rstats
+377447153385611264  Sep 10 11:03  @CourtCorley      Extremely cool! "The new RStudio Shiny Server – A bright Spark for hosted Stats Visualization #rstats"  http://buff.ly/1dWLQbo #data
+377453960254062592  Sep 10 11:30  @statsforbios     autoplot() in #ggplot2 makes a good guess at what sort of plot you want, and then makes it. #Rstats
+377457879302688768  Sep 10 11:45  @MarchiMax        @octonion what about if I used #rstats to plan a vacation trip?
+377458418405351424  Sep 10 11:47  @recology_        call #rubylang from #rstats http://bit.ly/1anrJz5 from Duncan Temple Lang
+377462320646983680  Sep 10 12:03  @recology_        In London tonight? @_inundata from @rOpenSci on "Fostering the next gen of open science through #rstats" at  LondonR  http://bit.ly/1anu1ym
+377462662839271424  Sep 10 12:04  @morrisonnorman   RT @recology_: In London tonight? @_inundata from @rOpenSci on "Fostering the next gen of open science through #rstats" at  LondonR  http://t.co/NkyUPjpKv1
+377462997427707904  Sep 10 12:06  @RLangTip         Use lsf.str("package:foo") to see a list all the functions in package foo: http://bit.ly/rgwKt9 #rstats
+377463862267637760  Sep 10 12:09  @chadn737         RT @RLangTip: Use lsf.str("package:foo") to see a list all the functions in package foo: http://bit.ly/rgwKt9 #rstats
+377465087214112768  Sep 10 12:14  @timelyportfolio  RT @RLangTip: Use lsf.str("package:foo") to see a list all the functions in package foo: http://bit.ly/rgwKt9 #rstats
+377467670024560640  Sep 10 12:24  @cocoahn          RT @RLangTip: Use lsf.str("package:foo") to see a list all the functions in package foo: http://bit.ly/rgwKt9 #rstats
+377468287552335872  Sep 10 12:27  @MangoTheCat      Great turnout for workshop on apply family of functions ahead of main #LondonR meeting tonight #Rstats
+377472164447805440  Sep 10 12:42  @Aerin_J          Using {installr} package makes it so much easier to update R! Thanks @talgalili http://bit.ly/ZGJH9b #rstats
+377473560110829569  Sep 10 12:48  @zimmeee          RT @RLangTip: Use lsf.str("package:foo") to see a list all the functions in package foo: http://bit.ly/rgwKt9 #rstats
+377475318078275584  Sep 10 12:55  @denisparra       RT @RLangTip: Use lsf.str("package:foo") to see a list all the functions in package foo: http://bit.ly/rgwKt9 #rstats
+377476783064363008  Sep 10 13:00  @DavideMassidda   RT @insula_r: Secondo post dedicato ai cicli iterativi in R: questa volta si parla dell'istruzione while http://www.insular.it/?p=990 #rstats
+377478358390800384  Sep 10 13:07  @DimaYAbdallah    RT @statsforbios: autoplot() in #ggplot2 makes a good guess at what sort of plot you want, and then makes it. #Rstats
+377479756272263169  Sep 10 13:12  @reichlab         useR! 2014 Los Angeles http://user2014.stat.ucla.edu #rstats via @user2014_ucla
+377480039136108544  Sep 10 13:13  @SciCommForum     RT @recology_: In London tonight? @_inundata from @rOpenSci on "Fostering the next gen of open science through #rstats" at  LondonR  http://t.co/NkyUPjpKv1
+377481720661934081  Sep 10 13:20  @rOpenSci         Feedback plz-on umbrella #rstats pkg 4 spp getting/plotting spp occurrence data @GBIF @inaturalist @VertNetOrg BISON http://bit.ly/15NRcha
+377481739485978625  Sep 10 13:20  @recology_        RT @rOpenSci: Feedback plz-on umbrella #rstats pkg 4 spp getting/plotting spp occurrence data @GBIF @inaturalist @VertNetOrg BISON http://t.co/8bHdbYwyVk
+377482060589318146  Sep 10 13:21  @Rbloggers        A Monty Simulation:  (This article was first published on   Statistical Research » R, and kindly con... http://bit.ly/1d3fYz5 #rstats
+377483258847440896  Sep 10 13:26  @VertNetOrg       RT @rOpenSci: Feedback plz-on umbrella #rstats pkg 4 spp getting/plotting spp occurrence data @GBIF @inaturalist @VertNetOrg BISON http://t.co/8bHdbYwyVk
+377485094552096768  Sep 10 13:33  @hadleywickham    RT @recology_: In London tonight? @_inundata from @rOpenSci on "Fostering the next gen of open science through #rstats" at  LondonR  http://t.co/NkyUPjpKv1
+377486010588073984  Sep 10 13:37  @MangoTheCat      Busy ar the bar pre #LondonR #Rstats http://t.co/rb70n6g4ru
+377486918981664768  Sep 10 13:41  @davidcoallier    Interactive Analysis of Systematic Investor: http://timelyportfolio.github.io/rCharts_nvd3_systematic/cluster_weights.html #d3js #rstats
+377489230030577664  Sep 10 13:50  @mrkm_a           RT @MangoTheCat: Busy ar the bar pre #LondonR #Rstats http://t.co/rb70n6g4ru
+377494239183388672  Sep 10 14:10  @quantlabs        Evil uses for #Rstats with this #Meetup: What Can R Tell Us About The Size Of Women? http://ow.ly/oK2RQ
+377496603562868737  Sep 10 14:19  @kevinkeenan_     RT @RLangTip: Use lsf.str("package:foo") to see a list all the functions in package foo: http://bit.ly/rgwKt9 #rstats
+377506515793354752  Sep 10 14:59  @KirkDBorne       Cute > HT @albertoconti: An animated peek into the workings of Bayesian #Statistics: http://bit.ly/1fW7s4d via @revodavid | #Rstats, Markov

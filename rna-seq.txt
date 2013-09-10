@@ -3757,3 +3757,26 @@
 377400127507292160  Sep 10 07:56  @gilbertjacka     Using RNA-seq to investigate mechanisms of chemical tolerance and toxicity in brown trout Uren Webster #ieos2013
 377403896324714497  Sep 10 08:11  @rnomics          Analyzing TCGA’s #RNA-seq data of 240 prostate #cancer patients: The... http://bit.ly/1amUewV #Presentations #Subio #TCGA #RNAseq @MyEN
 377403914959982592  Sep 10 08:11  @rnomics          RNA-Seq applied to materials science for the design of... http://bit.ly/1amUf3V #Publications #biomimetics #materialsscience #RNAseq @MyEN
+377421187884019712  Sep 10 09:19  @BioStarQuestion  RNA-Seq : Check for fusions with a known position http://goo.gl/fb/ydTCD
+377431337369874433  Sep 10 10:00  @genetics_blog    Impact of Library Preparation on RNA-seq Analysis and Interpretation http://www.plosone.org/article/info:doi/10.1371/journal.pone.0071745
+377431751603527681  Sep 10 10:01  @dgermain21       RT @genetics_blog: Impact of Library Preparation on RNA-seq Analysis and Interpretation http://www.plosone.org/article/info:doi/10.1371/journal.pone.0071745
+377432131770662912  Sep 10 10:03  @asela_1          RT @genetics_blog: Impact of Library Preparation on RNA-seq Analysis and Interpretation http://www.plosone.org/article/info:doi/10.1371/journal.pone.0071745
+377438068275302400  Sep 10 10:27  @AJH_Broad        RT @genetics_blog: Impact of Library Preparation on RNA-seq Analysis and Interpretation http://www.plosone.org/article/info:doi/10.1371/journal.pone.0071745
+377439974838112257  Sep 10 10:34  @drbachinsky      Inference of alternative splicing from RNA-Seq data with probabilistic splice graphs http://www.rna-seqblog.com/data-analysis/splicing-junction/inference-of-alternative-splicing-from-rna-seq-data-with-probabilistic-splice-graphs/
+377440373175750656  Sep 10 10:36  @DrFerdowsi       RT @drbachinsky: Inference of alternative splicing from RNA-Seq data with probabilistic splice graphs http://www.rna-seqblog.com/data-analysis/splicing-junction/inference-of-alternative-splicing-from-rna-seq-data-with-probabilistic-splice-graphs/
+377443333108686849  Sep 10 10:47  @LilithElina      How do you do #phylogenetic analysis based on #RNA-Seq data? I'm curious.
+377451384326873088  Sep 10 11:19  @heathermvincent  RT @genetics_blog: Impact of Library Preparation on RNA-seq Analysis and Interpretation http://www.plosone.org/article/info:doi/10.1371/journal.pone.0071745
+377457355124137984  Sep 10 11:43  @sebboeg          RT @genetics_blog: Impact of Library Preparation on RNA-seq Analysis and Interpretation http://www.plosone.org/article/info:doi/10.1371/journal.pone.0071745
+377469525756620800  Sep 10 12:32  @GenomeBiology    Doron Betel & co find that array-based methods perform as well as any other for RNA-seq DE analysis http://bit.ly/16hR7FE #bioinformatics
+377471432965779456  Sep 10 12:39  @notSoJunkDNA     RT @GenomeBiology: Doron Betel & co find that array-based methods perform as well as any other for RNA-seq DE analysis http://t.co/XeTwswYSJl #bioinformatics
+377473838801379328  Sep 10 12:49  @chadn737         Yet another evaluation of DE methods for RNA-seq, hopefully these will eventually lead to a consensus of best methods http://genomebiology.com/2013/14/9/R95/abstract
+377474159720161280  Sep 10 12:50  @drbachinsky      RT @GenomeBiology: Doron Betel & co find that array-based methods perform as well as any other for RNA-seq DE analysis http://t.co/XeTwswYSJl #bioinformatics
+377475419278409728  Sep 10 12:55  @frapaport        RT @GenomeBiology: Doron Betel & co find that array-based methods perform as well as any other for RNA-seq DE analysis http://t.co/XeTwswYSJl #bioinformatics
+377480303746768897  Sep 10 13:14  @abeldavidgp      RT @GenomeBiology: Doron Betel & co find that array-based methods perform as well as any other for RNA-seq DE analysis http://t.co/XeTwswYSJl #bioinformatics
+377484155983888385  Sep 10 13:30  @dbetel           RT @GenomeBiology: Doron Betel & co find that array-based methods perform as well as any other for RNA-seq DE analysis http://t.co/XeTwswYSJl #bioinformatics
+377484505990586368  Sep 10 13:31  @rnomics          Comprehensive evaluation of differential gene expression analysis methods for #RNA-seq data: A large... http://bit.ly/1899Eqe #BMC @MyEN
+377490856854302721  Sep 10 13:56  @roelverhaak      RT @GenomeBiology Array-methods are as effective in detecting differential genes from RNA-seq. No brainer or not? http://bit.ly/16hR7FE
+377492017963479040  Sep 10 14:01  @GenomeBiology    @roelverhaak as arrays are old hat, many tools existed to analyze them; developers of new tools for RNA-seq clearly didnt think 'no brainer'
+377493274061447168  Sep 10 14:06  @notSoJunkDNA     @roelverhaak Yes. People will start to get crazy if the message is that arrays are as good as RNA-Seq, (which they're not ;-)
+377495938128179201  Sep 10 14:16  @SEQquestions     Script for counting transcripts in RNA-Seq datasets with random n-mers i... http://seqanswers.com/forums/showthread.php?t=33586&goto=newpost
+377498297088229376  Sep 10 14:26  @EduEyras         RT @SEQquestions: Script for counting transcripts in RNA-Seq datasets with random n-mers i... http://seqanswers.com/forums/showthread.php?t=33586&goto=newpost
