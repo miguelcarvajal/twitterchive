@@ -17550,3 +17550,23 @@
 377309817427095552  Sep 10 01:57  @MathBioPaul      Things I should make more use of in my #Rstats course: library(help="datasets")
 377314924495925249  Sep 10 02:17  @panemma          RT @ucfagls: Preparing figures for @PLOSONE with #rstats? Need to use Arial font?! I have a blog post for that: http://bit.ly/18JSXOw
 377318765190340608  Sep 10 02:32  @jessiawegrzynma  RT @AlexBBrown: Using @rstudioapp #shiny tool with #d3 to export power of #rstats to my co-workers.  It's like bathing in milk.
+377347866869497857  Sep 10 04:28  @ceptional        This quasi-separation problem in glm, logistic regression etc. is very irritating. I guess I'll try brglm (bias-reduced) #Rstats
+377349505341214720  Sep 10 04:35  @jhollist         RT @cboettig: Great start for a proposed #rstats taskview for CRAN by @recology_ https://github.com/ropensci/webservices What's missing? Send pull requests!
+377354184435060736  Sep 10 04:53  @frod_san         RT @sean_anderson: Don’t code blind in #rstats: debugging R functions and handling errors: http://seananderson.ca/2013/08/23/debugging-r.html
+377361845302353920  Sep 10 05:24  @monsoontrader    Advanced #rstats programming by @hadleywickham http://adv-r.had.co.nz/.
+377380553408131072  Sep 10 06:38  @mizmay           @BrockTibert R is a programming/statistical platform (http://www.r-project.org/about.html) & I don't know… will @tableau let you load #Rstats libraries?
+377381223762391040  Sep 10 06:41  @statsforbios     Define new #Rstats syntax. I think it only works for some %otherchars% function names. http://pastebin.com/x4KbA6na
+377389847977025537  Sep 10 07:15  @BIcortex         Beginner's guide to R: Introduction @ http://goo.gl/TcP0WY #RProgramming #BICortex #RStats
+377391227018444801  Sep 10 07:20  @Rbloggers        An animated peek into the workings of Bayesian Statistics:  (This article was first published on   R... http://bit.ly/1fUnprO #rstats
+377392137996075008  Sep 10 07:24  @mizmay           @BrockTibert I agree. #Rstats as a live data source would be a game changer for @tableau but I also want to be able to use plyr :/...
+377397086654058497  Sep 10 07:44  @hadleywickham    RT @cboettig: Great start for a proposed #rstats taskview for CRAN by @recology_ https://github.com/ropensci/webservices What's missing? Send pull requests!
+377397443509235712  Sep 10 07:45  @hadleywickham    RT @mizmay: @BrockTibert I agree. #Rstats as a live data source would be a game changer for @tableau but I also want to be able to use plyr :/...
+377401108039487490  Sep 10 08:00  @statisticsblog   R tip of the day - Animating the Metropolis Algorithm with animated .gif http://i.cx/1exuEYG #r #rstats #mcmc
+377401595862216704  Sep 10 08:02  @mikeloukides     Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377404433488830464  Sep 10 08:13  @jvonneumann      RT @statisticsblog: R tip of the day - Animating the Metropolis Algorithm with animated .gif http://i.cx/1exuEYG #r #rstats #mcmc
+377407397750272000  Sep 10 08:25  @statsforbios     Looks like a good intro to #ggplot2. Nicer, better, etc. plots for #Rstats apparently. It's top of my to learn list. http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/
+377411309480202240  Sep 10 08:40  @diffuse_prior    Nifty: "@statisticsblog: R tip of the day - Animating the Metropolis Algorithm with animated .gif http://i.cx/1exuEYG #r #rstats #mcmc"
+377411739559546880  Sep 10 08:42  @phylorich        Slick! #rstats RT @Timcdlucas: Months ago I was looking for an equivalent to mathematica's //. Now I can define it. https://github.com/timcdlucas/statsforbios/blob/master/infixApplyFunctions2013-09-10.R
+377413296300650496  Sep 10 08:48  @mja              RT @phylorich: Slick! #rstats RT @Timcdlucas: Months ago I was looking for an equivalent to mathematica's //. Now I can define it. https://t.co/ifmVlWmNUN
+377415257896935425  Sep 10 08:56  @rmflight         @BrockTibert yes, more of a coder. Like control. But if already doing #rstats for data import and cleanup, then know en. to do ggplot knitr
+377415541331599362  Sep 10 08:57  @BrockTibert      @rmflight I love RR in #rstats and all packages @hadleywickham , but its not about me, its about empowering my team to answer their own ?'s
