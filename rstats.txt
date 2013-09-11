@@ -17663,3 +17663,33 @@
 377665312487145472  Sep 11 01:30  @DailyRpackage    metafor - Meta-Analysis Package for R http://cran.r-project.org/web/packages/metafor/index.html #RStats
 377684421949657088  Sep 11 02:45  @erikgahner       RT @MattDabrowski: Time Series Analysis and Its Applications! #rstats RT @JonesZM author encourages us to steal his book (awesome) http://t.co/5hHGwGwImK
 377687270855168000  Sep 11 02:57  @OpenCPU          New blog post: Implementing a #rstats Data Processing Unit with OpenCPU https://public.opencpu.org/posts/implementing-data-processing-units-with-opencpu
+377688356270133249  Sep 11 03:01  @grserrano_       RT @drago_carlo: Online course on forecasting using R http://flip.it/cPovv via @robjhyndman #Forecasting #Modeling #TimeSeries #Rstats
+377689411745775616  Sep 11 03:05  @masemresearch    Online course on forecasting using R - powered by MONASH University and Revolution Analytics #rstats | @scoopit http://sco.lt/87uGpt
+377691672077164544  Sep 11 03:14  @southmapr        RT @MangoTheCat: @southmapr mapping half a million petition signatures -  fascinating presentation at #LondonR  #Rstats
+377694666097168384  Sep 11 03:26  @tinkerbel405     RT @rOpenSci: [Blog] Use cases as an interface to tool discovery  http://bit.ly/1aoaPjR #rstats
+377695652106735616  Sep 11 03:30  @ashela           RT @timoreilly: Nice! RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377700565423099904  Sep 11 03:50  @ceptional        First half of today was mostly misunderstanding brglm #Rstats control params. Second half, misunderstanding #Rstats warning handling.
+377701398055755776  Sep 11 03:53  @TonyRobbinsHead  RT @timoreilly: Nice! RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377706265540976640  Sep 11 04:12  @sidderb          RT @SAGRudd: Accessing Fitbit data in #Rstats - #magnificent howto @  http://www.r-bloggers.com/accessing-fitbit-data-in-r/
+377717062740627456  Sep 11 04:55  @jfelipe          Just received my copy of "Reproducible Research with R and RStudio". A must-read, #GitHub for version control #rstudio #rstats
+377718365093380096  Sep 11 05:00  @Rbloggers        Clustering the Words of William Shakespeare:  (This article was first published on   Exegetic Analyt... http://bit.ly/1eglt1i #rstats
+377718367119224832  Sep 11 05:00  @Rbloggers        Loading Multiple Shapefiles to the R-Console Simultaneously:  (This article was first published on  ... http://bit.ly/17YIRad #rstats
+377718368960532480  Sep 11 05:00  @Rbloggers        Coursera’s free R courses are running again soon:  (This article was first published on   Revolution... http://bit.ly/17YIRai #rstats
+377719928809619456  Sep 11 05:07  @adityosanjaya    Mau "@Rbloggers: Coursera’s free R courses are running again soon:  http://bit.ly/17YIRai #rstats"
+377720722476367872  Sep 11 05:10  @vinayakh         Fun With Just-In-Time Compiling: Julia, Python, R and pqR http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/ #rstats
+377724943481704448  Sep 11 05:26  @rOpenSci         Just arrived at Oxford to talk #rstats and open science with the Zoology department. Come say hello if you’re around. 12 - 2 at D38.
+377732378179145728  Sep 11 05:56  @Rbloggers        The Happiest Emoticons:  (This article was first published on   Hot Damn, Data!, and kindly contribu... http://bit.ly/1fYNsya #rstats
+377733023279489024  Sep 11 05:59  @pteetor          RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+377738160249532416  Sep 11 06:19  @uglylukes        RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+377738524184694784  Sep 11 06:20  @lizhmartin       Is there any trick to micro-adjustments using ggplot in #rstats? E.g. moving axis labels? Adding tick marks in facet_grid? 'L' type boxes?
+377740976552681472  Sep 11 06:30  @josefslerka      Accessing FitBit data in R #fitbit #rstats http://sidderb.wordpress.com/2013/09/09/accessing-fitbit-data-in-r/
+377749585772294144  Sep 11 07:04  @rvimieiro        According to this Dialect Quiz & Survey http://spark.rstudio.com/jkatz/DialectQuiz/ I speak like people from Wisconsin. That's a cool tool made with #rstats
+377752354587553792  Sep 11 07:15  @FrederikHjorth   Two grad students using R could not replicate a study; the finding was caused by a bug in STATA. #rstats #statafail http://ow.ly/oLtzl
+377752704984309760  Sep 11 07:17  @IronistM         Monitoring the function progress with a progress bar | "R" you ready? #rstats http://bit.ly/1e1zDCo
+377753915388723200  Sep 11 07:22  @mja              Creating a ginverse matrix with chol2inv(chol(A)) doesn't crash MCMCglmm while solve(A) does. Any idea why? #rstats
+377755250129903617  Sep 11 07:27  @Rbloggers        Implementing a DPU with OpenCPU:     One of the prime use cases in the design of OpenCPU has been the ... http://bit.ly/15R79Dj #rstats
+377759980444995584  Sep 11 07:46  @statsforbios     A LASSO implementation in #RStats. model <- lars(x,y) http://cran.r-project.org/web/packages/lars/index.html
+377770553974607872  Sep 11 08:28  @rvimieiro        #Hadoop: from Single-Node Mode to Cluster Mode by @RDataMining http://www.rdatamining.com/tutorials/hadoop-cluster #rstats
+377773139209752578  Sep 11 08:38  @ftlohrke         RT @timoreilly: Nice! RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377777341923360768  Sep 11 08:55  @BobMuenchen      Learn R or Data Management at home Oct 7-11 http://r4stats.com/2013/09/11/learn-r-andor-data-management-from-home-october-7-11/ #Rstats #analytics @SASsoftware @IBMSPSS @Stata
+377778166053732352  Sep 11 08:58  @PageViral        RT @BobMuenchen: Learn R or Data Management at home Oct 7-11 http://r4stats.com/2013/09/11/learn-r-andor-data-management-from-home-october-7-11/ #Rstats #analytics @SASsoftware @IBMSPSS @Stata
