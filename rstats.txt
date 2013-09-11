@@ -17693,3 +17693,51 @@
 377773139209752578  Sep 11 08:38  @ftlohrke         RT @timoreilly: Nice! RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
 377777341923360768  Sep 11 08:55  @BobMuenchen      Learn R or Data Management at home Oct 7-11 http://r4stats.com/2013/09/11/learn-r-andor-data-management-from-home-october-7-11/ #Rstats #analytics @SASsoftware @IBMSPSS @Stata
 377778166053732352  Sep 11 08:58  @PageViral        RT @BobMuenchen: Learn R or Data Management at home Oct 7-11 http://r4stats.com/2013/09/11/learn-r-andor-data-management-from-home-october-7-11/ #Rstats #analytics @SASsoftware @IBMSPSS @Stata
+377778614240288770  Sep 11 09:00  @statisticsblog   R tip of the day - calculating the first derivative of the multivariate normal distribution. http://i.cx/1fX7CbP #r #rstats #derivative
+377779868198785024  Sep 11 09:05  @orlandomezquita  RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/1efeaqK  (so easy you should be doing it already)
+377780811279245312  Sep 11 09:08  @M_T_Patterson    (via @Rbloggers ): Which emoticons convey the most happiness? http://www.r-bloggers.com/the-happiest-emoticons/ #RStats, #TwitterNavelGazing
+377782713451036673  Sep 11 09:16  @lizhmartin       @DaleNimmo Sure. But I bet I couldn't have tweeted that tweet from adobe illustrator. #rstats is #multitalented
+377797251407441920  Sep 11 10:14  @eddelbuettel     Apparently the newest version of Chrome for iPad is now good enough to run RStudio Server -- nice!  #rstats #publicserviceannouncement
+377797511471431680  Sep 11 10:15  @raphg            Revealed @ImmuneSpace at the HIPC meeting yesterday. Everyone liked our #knitr and @LabKey integration to enable powerful #rstats analysis.
+377799530265075712  Sep 11 10:23  @vinayakh         Setting up a single node R & Hadoop cluster http://www.rdatamining.com/tutorials/rhadoop #rstats
+377799590545592320  Sep 11 10:23  @ramnath_vaidya   RT @eddelbuettel: Apparently the newest version of Chrome for iPad is now good enough to run RStudio Server -- nice!  #rstats #publicserviceannouncement
+377799776693002241  Sep 11 10:24  @rakib312         Using Quandl for Datasets and Research #rstats http://wp.me/p9q8Y-2Wj via @Gliders_Coach
+377800516711251968  Sep 11 10:27  @Rbloggers        http://Statistics.com Partners With CrowdANALYTIX to Offer New Online Course With Crowdsource Contest ... http://bit.ly/1b5glLc #rstats
+377803668550324224  Sep 11 10:39  @timtriche        RT @ramnath_vaidya: @znmeb Here is the link http://slidify.github.io/lectureSite/ #rstats
+377804897644978177  Sep 11 10:44  @rOpenSci         [Blog] We'd like your help on: A task view for interacting with the web from #rstats http://bit.ly/1aCiaQt
+377804910420840448  Sep 11 10:44  @recology_        RT @rOpenSci: [Blog] We'd like your help on: A task view for interacting with the web from #rstats http://bit.ly/1aCiaQt
+377805186162372608  Sep 11 10:45  @KevinLDavenport  RT @eddelbuettel: Apparently the newest version of Chrome for iPad is now good enough to run RStudio Server -- nice!  #rstats #publicserviceannouncement
+377808821370245121  Sep 11 11:00  @statisticsblog   A Month Hall Problem Simulation. http://i.cx/1ehb9pO #simulation #r #rstats
+377809638638362624  Sep 11 11:03  @ramnath_vaidya   RT @timelyportfolio: trying #nvd3 #d3js small multiples/facets w/ @herrstucki d3-grid layout + #rstats #rCharts but tooltips messed up http://t.co/HIfaYPx1pk
+377810592570286081  Sep 11 11:07  @iamchrisle       RT @timelyportfolio: trying #nvd3 #d3js small multiples/facets w/ @herrstucki d3-grid layout + #rstats #rCharts http://timelyportfolio.github.io/rCharts_nvd3_systematic/facet_d3grid.html
+377811494588915712  Sep 11 11:10  @revodavid        Coursera's free online #rstats courses start again later this month. Get a headstart with the lecture videos: http://bit.ly/18Utfpa
+377811637412962305  Sep 11 11:11  @kayuri           RT @revodavid: Coursera's free online #rstats courses start again later this month. Get a headstart with the lecture videos: http://t.co/YtFYVjNbx5
+377811989151903744  Sep 11 11:12  @masemresearch    Forecasting: principles and practice | A free online textbook by R J Hyndman & G Athanasopoulos #rstats | @scoopit http://sco.lt/91VRwH
+377812014602944512  Sep 11 11:12  @revodavid        RT @BobMuenchen: Learn R or Data Management at home Oct 7-11 http://r4stats.com/2013/09/11/learn-r-andor-data-management-from-home-october-7-11/ #Rstats #analytics @SASsoftware @IBMSPSS @Stata
+377812125009604608  Sep 11 11:13  @lurino           RT @revodavid: Coursera's free online #rstats courses start again later this month. Get a headstart with the lecture videos: http://t.co/YtFYVjNbx5
+377812220027371520  Sep 11 11:13  @pstyd            RT @revodavid: Coursera's free online #rstats courses start again later this month. Get a headstart with the lecture videos: http://t.co/YtFYVjNbx5
+377815951779323904  Sep 11 11:28  @revodavid        RT @timoreilly: Nice! RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377816489375432706  Sep 11 11:30  @OReillyMedia     RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377820906891931648  Sep 11 11:48  @timelyportfolio  @herrstucki d3-grid layout on #d3js #dimplejs small mult/facets w/ #rstats #rCharts http://timelyportfolio.github.io/rCharts_dimple_systematic/dimple_facet.html http://t.co/Qol3LM5Fht
+377821283733340160  Sep 11 11:49  @eparkerstephen   RT @timoreilly: Nice! RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377821619244109824  Sep 11 11:51  @ChadOnData       RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377825350027591681  Sep 11 12:05  @RLangTip         Forgot to save the output from the last #rstats command? Retrieve it with .Last.value http://bit.ly/QKKDsn (via @joshlemaitre)
+377828678300073984  Sep 11 12:19  @MikeyJ           RT @RLangTip: Forgot to save the output from the last #rstats command? Retrieve it with .Last.value http://bit.ly/QKKDsn (via @joshlemaitre)
+377829764930605056  Sep 11 12:23  @ledflyd          RT @RLangTip: Forgot to save the output from the last #rstats command? Retrieve it with .Last.value http://bit.ly/QKKDsn (via @joshlemaitre)
+377830093483433985  Sep 11 12:24  @sondrawi         RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377830290216849409  Sep 11 12:25  @MattDabrowski    RT @RLangTip: Forgot to save the output from the last #rstats command? Retrieve it with .Last.value http://bit.ly/QKKDsn (via @joshlemaitre)
+377834574732353536  Sep 11 12:42  @p_barbera        RT @RLangTip: Forgot to save the output from the last #rstats command? Retrieve it with .Last.value http://bit.ly/QKKDsn (via @joshlemaitre)
+377836257914544128  Sep 11 12:49  @TrevorABranch    RT @RLangTip: Forgot to save the output from the last #rstats command? Retrieve it with .Last.value http://bit.ly/QKKDsn (via @joshlemaitre)
+377839011689410560  Sep 11 13:00  @statisticsblog   A quick tip on how to load multiple point shapefiles to the R console in one go. http://i.cx/17ZEID0 #r #rstats
+377845562273705984  Sep 11 13:26  @revodavid        Catch up on recent R news at the Revolutions blog monthly roundup: http://bit.ly/18UNBic #rstats
+377845708788727808  Sep 11 13:26  @bcaffo           RT @revodavid: Coursera's free online #rstats courses start again later this month. Get a headstart with the lecture videos: http://t.co/YtFYVjNbx5
+377848913304113152  Sep 11 13:39  @AsmusLethOlsen   RT @FrederikHjorth: Two grad students using R could not replicate a study; the finding was caused by a bug in STATA. #rstats #statafail http://t.co/1HtoAFqoqK
+377850034743562240  Sep 11 13:44  @aande763         One of my most favorite things about #science is analyzing data with #rstats . The programming is so cool. #biologydoesNOTmakemewanttocry
+377853372969148416  Sep 11 13:57  @idigdata         RT @revodavid: Coursera's free online #rstats courses start again later this month. Get a headstart with the lecture videos: http://t.co/YtFYVjNbx5
+377855979376750592  Sep 11 14:07  @thanhtungmilan   RT @revodavid: Catch up on recent R news at the Revolutions blog monthly roundup: http://bit.ly/18UNBic #rstats
+377856460308230144  Sep 11 14:09  @thanhtungmilan   RT @revodavid: Coursera's free online #rstats courses start again later this month. Get a headstart with the lecture videos: http://t.co/YtFYVjNbx5
+377856641301225472  Sep 11 14:10  @ajerneck         Typical #rstats experience: Q: How create a named list of a and b? A: eapply(.GlobalEnv, I)[c('a','b')]. Of course! http://r.789695.n4.nabble.com/how-to-make-list-return-a-list-of-named-elements-td2720620.html
+377857013109518336  Sep 11 14:11  @rtraborn         Good #emacs buffers are now a thing for me. For those of you who code in #RStats then check out the ESS buffer for R. http://ess.r-project.org
+377863819961585664  Sep 11 14:38  @ajerneck         #rstats does not disappoint: obligatory alt. one-liner: sapply(c('a','b'), get, simplify = FALSE) and package solution: Hmisc::llist
+377867327397576704  Sep 11 14:52  @JuliaGustavsen   taking an R workshop at UBC. Should have done this years ago. #WishIknewthenwhatIknownow #rstats
+377868034213675008  Sep 11 14:55  @ManningMEAP      MEAP Update: "Choosing and Evaluating Models" new to Practical Data Science with R http://www.manning.com/zumel/ @ManningBooks #Rstats #datascience
