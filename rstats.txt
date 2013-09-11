@@ -17605,3 +17605,27 @@
 377494239183388672  Sep 10 14:10  @quantlabs        Evil uses for #Rstats with this #Meetup: What Can R Tell Us About The Size Of Women? http://ow.ly/oK2RQ
 377496603562868737  Sep 10 14:19  @kevinkeenan_     RT @RLangTip: Use lsf.str("package:foo") to see a list all the functions in package foo: http://bit.ly/rgwKt9 #rstats
 377506515793354752  Sep 10 14:59  @KirkDBorne       Cute > HT @albertoconti: An animated peek into the workings of Bayesian #Statistics: http://bit.ly/1fW7s4d via @revodavid | #Rstats, Markov
+377510689306587137  Sep 10 15:15  @MangoTheCat      Great presentations by @MaartenSpeek and @_inundata at #LondonR tonight. Soon to be available  http://www.LondonR.org #rstats
+377511385133228032  Sep 10 15:18  @MangoTheCat      Ggplot2 & Lattice go head to head at #LondonR... Its close! #Rstats
+377516680500772864  Sep 10 15:39  @MangoTheCat      Audiblization in R - who'd have thought... Its all breaking news  #LondonR tonight #Rstats
+377521795899072512  Sep 10 15:59  @MangoTheCat      @southmapr mapping half a million petition signatures -  fascinating presentation at #LondonR  #Rstats
+377527048434380800  Sep 10 16:20  @millerdl         definitely, my next job is going to be working on small datasets.  #rstats
+377530981885820928  Sep 10 16:36  @calibali0        Just created my first #markdown file with #rstats !! Not going to tell how long it took me though ;)
+377531751884525568  Sep 10 16:39  @rOpenSci         RT @calibali0: Just created my first #markdown file with #rstats !! Not going to tell how long it took me though ;)
+377535552708296704  Sep 10 16:54  @KTInvasion       #rstats raster pkg q?: using extract(RasterLayer, SpatialPoints) but get inexplicable NAs for some pts. No clear diff btw working layers/pts
+377535761655926784  Sep 10 16:55  @rOpenSci         [Blog] Use cases as an interface to tool discovery  http://bit.ly/1aoaPjR #rstats
+377535788893732865  Sep 10 16:55  @recology_        RT @rOpenSci: [Blog] Use cases as an interface to tool discovery  http://bit.ly/1aoaPjR #rstats
+377537620383109120  Sep 10 17:02  @adaptive_plant   RT @cboettig: Great start for a proposed #rstats taskview for CRAN by @recology_ https://github.com/ropensci/webservices What's missing? Send pull requests!
+377544829732810752  Sep 10 17:31  @quantviews       Moscow mayor election results map by election committees http://tinyurl.com/pbt4l2s thx to #rstats #rcharts #leafletjs #map #moscow #navalny
+377547027594235904  Sep 10 17:40  @ramnath_vaidya   RT @quantviews: Moscow mayor election results map by election committees http://tinyurl.com/pbt4l2s thx to #rstats #rcharts #leafletjs #map #moscow #navalny
+377548584842821633  Sep 10 17:46  @PratapVardhan    @Rbloggers Author over here http://www.r-bloggers.com/integrating-php-and-r/ … mentions 'Only one user can be using this web app at a time'. Even on server? #rstats
+377553039823237120  Sep 10 18:03  @caddymob         I've learned more about #ggplot2 from reading the source than reading the docs, FWIW… https://github.com/hadley/ggplot2/tree/master/R #rstats
+377557279228178433  Sep 10 18:20  @clarkfitzg       It's high time to organize my @dropbox and start saving my #rstats code properly.
+377559040165150721  Sep 10 18:27  @andyteucher      Great way to draw in new users; show what's possible MT @rOpenSci: Use cases as interface to tool discovery  http://bit.ly/1aoaPjR #rstats
+377570861667995649  Sep 10 19:14  @cureffi          Statistical power for bioluminescence studies http://wp.me/p2WC3J-JU #biostatistics #bioinformatics #rStats @CaliperLS @INDUCSF
+377573118950137856  Sep 10 19:23  @MattDabrowski    Time Series Analysis and Its Applications! #rstats RT @JonesZM author encourages us to steal his book (awesome) http://www.stat.pitt.edu/stoffer/tsa3/
+377575570785464320  Sep 10 19:33  @PPUAMX           RT @RLangTip: Use lsf.str("package:foo") to see a list all the functions in package foo: http://bit.ly/rgwKt9 #rstats
+377577582503268352  Sep 10 19:41  @SAGRudd          Accessing Fitbit data in #Rstats - #magnificent howto @  http://www.r-bloggers.com/accessing-fitbit-data-in-r/
+377588366038274048  Sep 10 20:24  @BenBondLamberty  Revolutions blog: Coursera's free R courses are running again soon #rstats http://blog.revolutionanalytics.com/2013/09/courseras-free-r-courses-are-running-again-soon.html
+377594223014735872  Sep 10 20:47  @mattmoehr        Just multiplied my output by 2 and the histograms now look great. I don't even.... #rstats
+377594481609953280  Sep 10 20:48  @ceptional        I don't understand how logistic regression handles p=1. Logit is infinity. How can you do regression with that? #Rstats
