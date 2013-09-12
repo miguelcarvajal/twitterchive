@@ -17791,3 +17791,16 @@
 377936578880241664  Sep 11 19:27  @ChicagoCDO       Packed house for the @hadleywickham presentation at the Chicago #Rstats user group
 377937304436088833  Sep 11 19:30  @ChicagoCDO       Today's #Rstats meeting is in competition with the Chicago #Hadoop User Group meeting. In short form, that's CRUG vs CHUG
 377940759384961024  Sep 11 19:44  @CWBadger12       RT @SergeyKochergan: Why use R for Data Analysis? http://www.r-bloggers.com/why-use-r-for-data-analysis/ via @rbloggers #rstats #rlang #statistics #computations #bigdata #analysis #datamining
+377965125065375746  Sep 11 21:21  @mmaenner         Blog: Visualize your collaborations with co-authorship network graphs using #rstats, #gephi, and #pubmed. http://bit.ly/1ejBROB
+377965238399672320  Sep 11 21:21  @iDATA_co         Trabaja con nosotros. Necesitamos cientificos de datos http://idata.com.co/index.php/2011-07-24-19-21-16/trabaje-con-nosotros #rstats #BI #CRM #SPSS #Medellin #Colombia #Empleo
+377966007324655616  Sep 11 21:24  @erikriverson     RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+377967310541426688  Sep 11 21:30  @sharon000        Double-checking Stata results in R pays off for these 2 MIT PhD candidates http://bit.ly/16lQRWr #rstats via @herrcafe
+377970533025198080  Sep 11 21:42  @baudekin         RT @timoreilly: Nice! RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377971094533066752  Sep 11 21:45  @monsoontrader    RT @sharon000: Double-checking Stata results in R pays off for these 2 MIT PhD candidates http://bit.ly/16lQRWr #rstats via @herrcafe
+377985579029237760  Sep 11 22:42  @DrKatMiddleton   RT @chlalanne: An animated peek into the workings of Bayesian Statistics http://www.r-bloggers.com/an-animated-peek-into-the-workings-of-bayesian-statistics/ #rstats via @feedly
+377986554284621824  Sep 11 22:46  @minceamie        RT @chlalanne: Coursera’s free #rstats courses are running again soon http://www.r-bloggers.com/courseras-free-r-courses-are-running-again-soon/ via @feedly
+377996056211890176  Sep 11 23:24  @RickSaporta      "...  reason turned out to be an error in Stata: Stata was finding a solution when it shouldn’t have" #rstats #stata http://wp.me/p315fp-jD
+378001867143254016  Sep 11 23:47  @drago_carlo      Clustering the Words of William Shakespeare http://www.r-bloggers.com/clustering-the-words-of-william-shakespeare/ via @prismatic #TextMining #DataMining #MachineLearning #Rstats
+378008754911842305  Sep 12 00:14  @zentree          'Animating the Metropolis Algorithm' using #Rstats http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+378010472039321600  Sep 12 00:21  @Atabey_Kaygun    RT @zentree: 'Animating the Metropolis Algorithm' using #Rstats http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+378027701757812736  Sep 12 01:30  @DailyRpackage    ridge - Ridge Regression with automatic selection of the penalty parameter http://cran.r-project.org/web/packages/ridge/index.html #RStats
