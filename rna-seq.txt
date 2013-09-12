@@ -3867,3 +3867,26 @@
 378127162886213632  Sep 12 08:05  @rnomics          FlipFlop: #RNA Isoform Identification and Quantification from... http://bit.ly/18eKvKQ #ExpressionandQuantification #isoform #RNAseq @MyEN
 378135128507043841  Sep 12 08:36  @rnomics          Comprehensive evaluation of differential gene expression analysis... http://bit.ly/18eP3AU #ExpressionandQuantification #RNAseq @MyEN
 378138254497046528  Sep 12 08:49  @jackgaynor       Another attempt at RNA isolation from our jellyfish. Need good samples for RNA-seq analysis. (@ Science Hall) http://4sq.com/1elZHJr
+378143553316454400  Sep 12 09:10  @bioteXcel        Inferring transcript expression levels from RNA-Seq data by Prof Magnus Rattray  at http://ow.ly/oMWNn  #ngs #ngsmanchester
+378146408668209152  Sep 12 09:21  @rvaerle          Comparison of various differential gene expression analysis methods for RNA-seq data: http://genomebiology.com/2013/14/9/R95/abstract #genomebiology
+378146528352669696  Sep 12 09:22  @EduEyras         Comprehensive evaluation of differential gene expression analysis methods for RNA-seq data http://genomebiology.com/content/pdf/gb-2013-14-9-r95.pdf
+378147471471284224  Sep 12 09:25  @giovanniucla     RT @EduEyras: Comprehensive evaluation of differential gene expression analysis methods for RNA-seq data http://genomebiology.com/content/pdf/gb-2013-14-9-r95.pdf
+378152148519116800  Sep 12 09:44  @genomeresearch   RT @pride_ebi: PXD000153: Proteomics guided by RNA-seq id-s a complete expressed prokaryotic proteome http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD000153...
+378152831598866432  Sep 12 09:47  @sysbioire        RT @genomeresearch: RT @pride_ebi: PXD000153: Proteomics guided by RNA-seq id-s a complete expressed prokaryotic proteome http://t.co/Uh8N7alozm...
+378153442805841920  Sep 12 09:49  @lexnederbragt    RT @ErichMSchwarz: Scaffolding genomes with distant protein homology, rather than RNA-seq: http://dx.doi.org/10.1093/bib/bbr038
+378153720799698944  Sep 12 09:50  @cureffi          Counts vs. FPKMs in #RNAseq http://wp.me/p2WC3J-Jd #bioinformatics
+378153783072546818  Sep 12 09:51  @cureffi          #RNAseq raw counts pipeline http://wp.me/p2WC3J-Jd using @aaronquinlan's #BEDtools, @lpachter's #Cufflinks & @simulx's gtf2bed #perl script
+378153942078607360  Sep 12 09:51  @cureffi          Comparison of counts vs. FPKMs in #RNAseq http://wp.me/p2WC3J-Jd - using @Illumina & @ensembl's Human BodyMap2.0 data as example
+378154901873754112  Sep 12 09:55  @aaronquinlan     RT @cureffi: #RNAseq raw counts pipeline http://wp.me/p2WC3J-Jd using @aaronquinlan's #BEDtools, @lpachter's #Cufflinks & @simulx's gtf2bed #perl script
+378176186813132800  Sep 12 11:20  @PoGibas          RT @cureffi: #RNAseq raw counts pipeline http://wp.me/p2WC3J-Jd using @aaronquinlan's #BEDtools, @lpachter's #Cufflinks & @simulx's gtf2bed #perl script
+378181733990277120  Sep 12 11:42  @SPalcy           L’analyse de données RNA-seq: mode d’emploi | http://bioinfo-fr.net | @scoopit http://sco.lt/7TD37x
+378183290676461568  Sep 12 11:48  @HPI_UofC         RT @JohnGilleard: @HPI_UofC   Comprehensive evaluation of differential gene expression analysis methods for #RNA-seq data http://t.co/qc1jbvUOiZ
+378191655792160768  Sep 12 12:21  @samuelcrane      Does anyone have recommendations on high throughput sequencing workshops? RAD-seq and RNA-seq. Preferably in US or Canada.
+378196596154200064  Sep 12 12:41  @rnomics          Genome Biology | Abstract | Comprehensive evaluation of differential gene expression analysis methods for RNA-seq data ...
+378201984316489728  Sep 12 13:02  @genetics_blog    Mining RNA–Seq Data for Infections and Contaminations http://www.plosone.org/article/info:doi/10.1371/journal.pone.0073071
+378202579018457088  Sep 12 13:04  @pathogenomenick  RT @genetics_blog: Mining RNA–Seq Data for Infections and Contaminations http://www.plosone.org/article/info:doi/10.1371/journal.pone.0073071
+378205528742039552  Sep 12 13:16  @PLOSONE          Mining RNA–Seq Data for Infections and Contaminations http://dx.plos.org/10.1371/journal.pone.0073071
+378206358799020032  Sep 12 13:19  @Sciwhat          RT @PLOSONE: Mining RNA–Seq Data for Infections and Contaminations http://dx.plos.org/10.1371/journal.pone.0073071
+378206804439601152  Sep 12 13:21  @asela_1          RT @genetics_blog: Mining RNA–Seq Data for Infections and Contaminations http://www.plosone.org/article/info:doi/10.1371/journal.pone.0073071
+378207929188372481  Sep 12 13:26  @ctitusbrown      RT @genetics_blog: Mining RNA–Seq Data for Infections and Contaminations http://www.plosone.org/article/info:doi/10.1371/journal.pone.0073071
+378214419307966464  Sep 12 13:51  @_ramrs           RT @genetics_blog: Mining RNA–Seq Data for Infections and Contaminations http://www.plosone.org/article/info:doi/10.1371/journal.pone.0073071
