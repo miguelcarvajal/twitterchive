@@ -17804,3 +17804,43 @@
 378008754911842305  Sep 12 00:14  @zentree          'Animating the Metropolis Algorithm' using #Rstats http://mbjoseph.github.io/blog/2013/09/08/metropolis/
 378010472039321600  Sep 12 00:21  @Atabey_Kaygun    RT @zentree: 'Animating the Metropolis Algorithm' using #Rstats http://mbjoseph.github.io/blog/2013/09/08/metropolis/
 378027701757812736  Sep 12 01:30  @DailyRpackage    ridge - Ridge Regression with automatic selection of the penalty parameter http://cran.r-project.org/web/packages/ridge/index.html #RStats
+378059344777990144  Sep 12 03:35  @monsoontrader    RT @RickSaporta: "...  reason turned out to be an error in Stata: Stata was finding a solution when it shouldn’t have" #rstats #stata http://t.co/0XXrMkdWZI
+378061807933743104  Sep 12 03:45  @jmgomez          The Happiest Emoticons, analysis of emotions conveyed by emoticons in #Twitter with #rstats http://ow.ly/oLVPT #textmining #nlproc
+378066440328577024  Sep 12 04:03  @RiczWest         RT ET "Making better inferences from statistical graphics 2.0,"  revised,extended ET essay. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003wa #dataviz #BigData #Rstats
+378070617242607616  Sep 12 04:20  @RevoAndrie       MT @robjhyndman: I'm teaching an online course on forecasting with #rstats , starting 21 Oct. With @RevolutionR.  http://robjhyndman.com/hyndsight/revolutionr2013/
+378071726032044032  Sep 12 04:24  @stevepowell99    Looking for an #outliner for #markdown or #latex on #ubuntu - no I don't want to learn #emacs or #vim. Any suggestions? #rstats
+378093190731292672  Sep 12 05:50  @KCoussement      #Bigdata in #RStats http://buff.ly/13PAi4b #datamining
+378099963147714562  Sep 12 06:17  @moorejh          #rstats RT @YvesMulkers: Coursera's free R courses are running again soon http://bit.ly/1aASK5U
+378101980939292673  Sep 12 06:25  @monsoontrader    what. #rstats inserts random graph into my Sweaved PDF.
+378108076756185090  Sep 12 06:49  @EdwardTufte      RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378108161728606208  Sep 12 06:49  @guenterhack      RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378108359934611456  Sep 12 06:50  @icristerna2      RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378108366767554560  Sep 12 06:50  @amybree          RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378108402552942592  Sep 12 06:50  @what_alnk        RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378108408026894336  Sep 12 06:50  @SilvaForestis    RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378108497600462848  Sep 12 06:51  @thomasmalbaux    RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378108750931832832  Sep 12 06:52  @DrHammersley     RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378109946279493632  Sep 12 06:56  @OmerNadirler     RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378110209874735104  Sep 12 06:57  @mtorchiano       RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378112254547206145  Sep 12 07:06  @AbhinavWork      RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378113267312259073  Sep 12 07:10  @Jamamelio        RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378113916972564480  Sep 12 07:12  @paulhyden        RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378114052322787328  Sep 12 07:13  @RiederB          RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378116708986138625  Sep 12 07:23  @tslumley         @ckmcbride @AstroKatie If you use #rstats there's the 'dichromat' package. And check out ColorBrewer http://www.colorbrewer2.org
+378120346987012096  Sep 12 07:38  @RagingTBolt      RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378120452314390528  Sep 12 07:38  @malinoj          RT @moorejh: #rstats RT @YvesMulkers: Coursera's free R courses are running again soon http://bit.ly/1aASK5U
+378121567945109504  Sep 12 07:43  @jacksonh         RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378122112218583040  Sep 12 07:45  @SteveQinEmory    RT @moorejh: #rstats RT @YvesMulkers: Coursera's free R courses are running again soon http://bit.ly/1aASK5U
+378122440108277760  Sep 12 07:46  @aaronanticic     RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378123847959982080  Sep 12 07:52  @djhocking        Marked is dead. Long Live marked! New #Rstats pack for mark-recapture #reproducible http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12065/abstract #openaccess
+378123848580734977  Sep 12 07:52  @foybj            RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378125459038679040  Sep 12 07:58  @masemresearch    Animating the Metropolis algorithm - Ecology in silico #rstats | @scoopit http://sco.lt/5dI7wP
+378125909468794882  Sep 12 08:00  @statisticsblog   Online course on forecasting using R by Prof. Rob J Hyn­d­man of Monash University. http://i.cx/1ejhAIN #r #rstats
+378127195543044096  Sep 12 08:05  @monsoontrader    RT @statisticsblog: Online course on forecasting using R by Prof. Rob J Hyn­d­man of Monash University. http://i.cx/1ejhAIN #r #rstats
+378127617872101376  Sep 12 08:07  @ejstembler       RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378128610059497472  Sep 12 08:11  @CarlSchmertmann  RT @statisticsblog: Online course on forecasting using R by Prof. Rob J Hyn­d­man of Monash University. http://i.cx/1ejhAIN #r #rstats
+378133876322746368  Sep 12 08:31  @ramnath_vaidya   Why Use R, a slide deck made by Vivek Patil with #slidify + ImpressJS + #rCharts #rstats http://patilv.github.io/UseR2/
+378135453901152256  Sep 12 08:38  @sambell111       RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378138546638295040  Sep 12 08:50  @lapply           Mise à jour du document "Introduction à R" : http://alea.fr.eu.org/post/2013/09/12/Mise-%C3%A0-jour-du-document-Introduction-%C3%A0-R #rstats
+378138578909671424  Sep 12 08:50  @mjmoore52        RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378140140646203392  Sep 12 08:56  @Amadeus_Ebay     RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
