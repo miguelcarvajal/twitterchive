@@ -17741,3 +17741,53 @@
 377863819961585664  Sep 11 14:38  @ajerneck         #rstats does not disappoint: obligatory alt. one-liner: sapply(c('a','b'), get, simplify = FALSE) and package solution: Hmisc::llist
 377867327397576704  Sep 11 14:52  @JuliaGustavsen   taking an R workshop at UBC. Should have done this years ago. #WishIknewthenwhatIknownow #rstats
 377868034213675008  Sep 11 14:55  @ManningMEAP      MEAP Update: "Choosing and Evaluating Models" new to Practical Data Science with R http://www.manning.com/zumel/ @ManningBooks #Rstats #datascience
+377870614591442944  Sep 11 15:05  @andyteucher      RT @RLangTip: Forgot to save the output from the last #rstats command? Retrieve it with .Last.value http://bit.ly/QKKDsn (via @joshlemaitre)
+377882494650945536  Sep 11 15:53  @jesuscalaza      RT @timoreilly: Nice! RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+377886396037337088  Sep 11 16:08  @chlalanne        Coursera’s free #rstats courses are running again soon http://www.r-bloggers.com/courseras-free-r-courses-are-running-again-soon/ via @feedly
+377886760476635137  Sep 11 16:09  @denisparra       RT @chlalanne: Coursera’s free #rstats courses are running again soon http://www.r-bloggers.com/courseras-free-r-courses-are-running-again-soon/ via @feedly
+377888901601308672  Sep 11 16:18  @chlalanne        An animated peek into the workings of Bayesian Statistics http://www.r-bloggers.com/an-animated-peek-into-the-workings-of-bayesian-statistics/ #rstats via @feedly
+377889052453646336  Sep 11 16:19  @mathricardorios  RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+377891302840741888  Sep 11 16:28  @BFongPhoto       RT @revodavid: Coursera's free online #rstats courses start again later this month. Get a headstart with the lecture videos: http://t.co/YtFYVjNbx5
+377892093621858304  Sep 11 16:31  @baogorek         Just discovered the contrasts() function in #rstats.  z <-  factor(c("a", "b", "c")) contrasts(z) Remind you of anything?
+377893421169774594  Sep 11 16:36  @seannewman       RT @chlalanne: An animated peek into the workings of Bayesian Statistics http://www.r-bloggers.com/an-animated-peek-into-the-workings-of-bayesian-statistics/ #rstats via @feedly
+377895642342768640  Sep 11 16:45  @KirkDBorne       RT @BobMuenchen: Learn R or Data Management at home Oct 7-11 http://r4stats.com/2013/09/11/learn-r-andor-data-management-from-home-october-7-11/ #Rstats #analytics @SASsoftware @IBMSPSS @Stata
+377895830151102464  Sep 11 16:46  @jeroenhjanssens  Rio: Simple bash script to redirect CSV to #rstats and get the result as CSV on stdout | https://gist.github.com/jeroenjanssens/6529530
+377896199186944000  Sep 11 16:47  @KirkDBorne       Predictive #Analytics & #DataScience course Oct.11-Nov.8, from @statisticscom & @crowdanalytix_q : http://bit.ly/14FA1U7 #abdsc #Rstats
+377898618214027264  Sep 11 16:57  @AliRebaie        While is R limited by available RAM & CPU, it can scale when it has access to resources. http://www.information-management.com/blogs/apologies-to-R-10024857-1.html #rstats #bigdata
+377901094745022464  Sep 11 17:06  @Gliders_Coach    Using Twitter Data with R #rstats updated for API changes http://wp.me/p9q8Y-2WB via @wordpressdotcom
+377901953402949632  Sep 11 17:10  @KirkDBorne       Award-winning [https://asaip.psu.edu/resources/news-2-13-astrostatistics-text-wins-book-award/view] #AstroStatistics #Rstats book: "Modern Statistical Methods for #Astronomy" http://www.cambridge.org/us/academic/subjects/astronomy/astronomy-general/modern-statistical-methods-astronomy-r-applications
+377901982276935680  Sep 11 17:10  @pschulam         RT @revodavid: Coursera's free online #rstats courses start again later this month. Get a headstart with the lecture videos: http://t.co/YtFYVjNbx5
+377902225433300993  Sep 11 17:11  @GarfieldFisher   RT @KirkDBorne: Award-winning [https://asaip.psu.edu/resources/news-2-13-astrostatistics-text-wins-book-award/view] #AstroStatistics #Rstats book: "Modern Statistical Methods for #Astronomy" http://t.co/ljgitQACOH
+377902377053216768  Sep 11 17:12  @YvesMulkers      RT @AliRebaie: While is R limited by available RAM & CPU, it can scale when it has access to resources. http://www.information-management.com/blogs/apologies-to-R-10024857-1.html #rstats #bigdata
+377903176676282368  Sep 11 17:15  @phnk             #rstats If you keep crashing R on OS X 10.9, R version 3.0.1 Patched (2013-09-10 r63898) from http://r.research.att.com/ fixes the issue :)
+377905542771273728  Sep 11 17:24  @revodavid        "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+377905674308829184  Sep 11 17:25  @JBumstead87      RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+377905838112796672  Sep 11 17:25  @srsupp           Its a 4th order polynomial! Feeling like a winner after finally getting R to find an equation that should've been in the lit. #rstats #ftw
+377907531651485696  Sep 11 17:32  @MikejMcDermott   Another free R book in .pdf format Using R For Data Analysis and Graphics http://maths-people.anu.edu.au/~johnm/r/usingR.pdf Takes 5mins to DL 96 pages  #RStats
+377907622240063488  Sep 11 17:32  @irenesco         RT @M_T_Patterson: (via @Rbloggers ): Which emoticons convey the most happiness? http://www.r-bloggers.com/the-happiest-emoticons/ #RStats, #TwitterNavelGazing
+377907658571132928  Sep 11 17:33  @algaebarnacle    Sometimes my #rstats code annotations embarrass me. Lots of cheesy affirmations about staying positive. "Didn't work, but that's ok!"
+377907863919677440  Sep 11 17:33  @asalazaradams    RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+377909277933195265  Sep 11 17:39  @kboughida        RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+377911174698127360  Sep 11 17:46  @Rbloggers        In case you missed it: August 2013 Roundup:  (This article was first published on   Revolutions, and... http://bit.ly/181OVyC #rstats
+377911177042751488  Sep 11 17:47  @Rbloggers        Can Your Results be Replicated?:  (This article was first published on   Econometrics Beat: Dave Gil... http://bit.ly/1eiYBhI #rstats
+377911179131486208  Sep 11 17:47  @Rbloggers        Why use R for Data Analysis?:  (This article was first published on   Adventures in Analytics and Vi... http://bit.ly/181OVyJ #rstats
+377912505936248832  Sep 11 17:52  @Lewis_Lab        learn to program for free #Rstats RT @keholsinger Free courses on R from Coursera. http://bit.ly/15QPRMv
+377912569341558784  Sep 11 17:52  @AdvBizAnalytics  Auckland R Users Group next meetup 25 September promises to be interesting.  #rstats. #analytics. Find out more. http://www.meetup.com/Auckland-R-Users-Group-AKLRUG/events/139579922/?a=ea1_grp&rv=ea1
+377912966928035840  Sep 11 17:54  @EdwardTufte      "Making better inferences from statistical graphics 2.0,"  revised,extended ET essay. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003wa #dataviz #BigData #Rstats
+377914611674406912  Sep 11 18:00  @PageViral        RT @AdvBizAnalytics: Auckland R Users Group next meetup 25 September promises to be interesting.  #rstats. #analytics. Find out more. http://t.co/iIhOHTS0NM
+377916829014192128  Sep 11 18:09  @Skorz3ny         RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+377917611826098176  Sep 11 18:12  @thanhtungmilan   RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+377917743150141440  Sep 11 18:13  @pmangg           RT @eddelbuettel: Apparently the newest version of Chrome for iPad is now good enough to run RStudio Server -- nice!  #rstats #publicserviceannouncement
+377918037498036224  Sep 11 18:14  @FlorianOswald    #Replicated a paper on nuclear conflict effect (used STATA) with R and find it's off by factor of 1m? http://bit.ly/1b4ocIR #rstats
+377918743030284288  Sep 11 18:17  @FlorianOswald    @turingfan a nice #replication exercise. they were able to #recompute the wrong result though. #rstats http://bit.ly/1b4ocIR
+377920666848067585  Sep 11 18:24  @srsupp           @DanMcGlinn @kenlocey Cool! Do I see that it works in #rstats and in #python now?
+377922261929304064  Sep 11 18:31  @herrcafe         We couldn’t replicated the results in R. The reason was that Stata found a solution when it shouldn’t have. http://wp.me/p315fp-jD #rstats
+377928554345811968  Sep 11 18:56  @lucaborger       "Making better inferences from statistical graphics 2.0"., Revised,extended @EdwardTufte essay. http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003wa #BigData #Rstats
+377929337304907776  Sep 11 18:59  @timelyportfolio  #rstats #rCharts #dimplejs #d3js with RColorBrewer: http://rcharts.io/viewer/?6530929#.UjD2Msaa-14.twitter
+377931063902748673  Sep 11 19:06  @SergeyKochergan  Why use R for Data Analysis? http://www.r-bloggers.com/why-use-r-for-data-analysis/ via @rbloggers #rstats #rlang #statistics #computations #bigdata #analysis #datamining
+377934740348624896  Sep 11 19:20  @johnpharmd       RT @Lewis_Lab: learn to program for free #Rstats RT @keholsinger Free courses on R from Coursera. http://bit.ly/15QPRMv
+377934753489772544  Sep 11 19:20  @YvesMulkers      RT @SergeyKochergan: Why use R for Data Analysis? http://www.r-bloggers.com/why-use-r-for-data-analysis/ via @rbloggers #rstats #rlang #statistics #computations #bigdata #analysis #datamining
+377934864756264960  Sep 11 19:21  @VidCanC          RT @SergeyKochergan: Why use R for Data Analysis? http://www.r-bloggers.com/why-use-r-for-data-analysis/ via @rbloggers #rstats #rlang #statistics #computations #bigdata #analysis #datamining
+377936578880241664  Sep 11 19:27  @ChicagoCDO       Packed house for the @hadleywickham presentation at the Chicago #Rstats user group
+377937304436088833  Sep 11 19:30  @ChicagoCDO       Today's #Rstats meeting is in competition with the Chicago #Hadoop User Group meeting. In short form, that's CRUG vs CHUG
+377940759384961024  Sep 11 19:44  @CWBadger12       RT @SergeyKochergan: Why use R for Data Analysis? http://www.r-bloggers.com/why-use-r-for-data-analysis/ via @rbloggers #rstats #rlang #statistics #computations #bigdata #analysis #datamining
