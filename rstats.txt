@@ -17890,3 +17890,40 @@
 378221562266419200  Sep 12 14:20  @rootman          RT @Snider_James: You like maps & stats (#rstats !) ? Check out the technical reports behind @wwfcanada's Freshwater Health Assessments.http://t.co/TJria4ORUr
 378223655387283456  Sep 12 14:28  @bioinfosm        great courses RT @moorejh #rstats RT @YvesMulkers: Coursera's free R courses are running again soon http://bit.ly/1aASK5U #coursera
 378229920213647360  Sep 12 14:53  @timelyportfolio  Timely Portfolio: #rCharts | PerformanceAnalytics Tables + Systematic... http://timelyportfolio.blogspot.com/2013/09/rcharts-vis-of-every.html?spref=tw #rstats #d3js #dimplejs
+378244588294922240  Sep 12 15:51  @genetics_blog    Not hating on #Rstats/#ggplot2 or defending Excel, but why do folks simultaneously deride Excel's gridlines while embracing ggplot2 defaults
+378250119030005760  Sep 12 16:13  @mattfrost        You know The Hurt Locker? I'm that guy, but with Cartesian Explosions.  The duplicated() function in #RStats is your friend.
+378252450039611392  Sep 12 16:23  @outliers_es      RT @dartdog: Most of those groups also have large & growing  #Python user bases as well @EdwardTufte #Rstats #DataViz #data
+378259012321439744  Sep 12 16:49  @alicetoll        RT @statsforbios: autoplot() in #ggplot2 makes a good guess at what sort of plot you want, and then makes it. #Rstats
+378260986773250048  Sep 12 16:57  @Luehea           Customising vegan plots - this  post has made my day :) http://ucfagls.wordpress.com/2012/04/11/customising-vegans-ordination-plots/ #wishidfoundthissooner #rstats Thank you @ucfagls
+378266934044680192  Sep 12 17:20  @Rbloggers        Only Load Data If Not Already Open in R:  (This article was first published on   Mollie's Research B... http://bit.ly/15YjfdT #rstats
+378268110232375296  Sep 12 17:25  @hodgson_lauren   RT @rOpenSci: Try out the new @GBIF #API via #rstats. See the readme here http://bit.ly/17SD8GP - plz get in touch with bugs, etc.
+378269297942233088  Sep 12 17:30  @GrunerDaniel     Intro to R grad seminar prep is much easier, coincidentally with @LinearModel developing teaching experience, & I'm learning too! #rstats
+378270908785238017  Sep 12 17:36  @Timcammm         Interactive view of Australian labour force flows (updated) - http://spark.rstudio.com/tim/AusEmploymentFlows #rstats @GrogsGamut @cjoye
+378271510256824320  Sep 12 17:38  @JGreenbrookHeld  @phylorich @Microsoft I actually wish #rstats had a decent package that read xls/xlsx files.
+378271745389506561  Sep 12 17:39  @timelyportfolio  @iaindillingham ok if I use your #d3js quartile plot as a custom chart for @ramnath_vaidya #rstats #rCharts?
+378273079366926336  Sep 12 17:45  @M_T_Patterson    implementing clustered standard errors in R: http://thetarzan.wordpress.com/2011/06/11/clustered-standard-errors-in-r/ #RStats, #Econometrics
+378278189782401024  Sep 12 18:05  @rapporters       pander, a Pandoc's #markdown writer in #rstats package to e.g. create markdown tables was just updated on CRAN: http://blog.rapporter.net/2013/09/pander-038-is-out.html
+378279581167276032  Sep 12 18:10  @JGreenbrookHeld  Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378279870067122177  Sep 12 18:12  @Terence_OM       Après 'R upgrade', le 'reinstall packages' déluge - #rstats http://tmblr.co/Z7bbYqutEvMo
+378281801908629504  Sep 12 18:19  @revodavid        RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378283578305429504  Sep 12 18:26  @hurricanejim     RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378283863375491072  Sep 12 18:27  @southernlimitnz  RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378284097233121280  Sep 12 18:28  @QuantEcologyABC  RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378284643595739136  Sep 12 18:31  @TrevorABranch    RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378286470236098560  Sep 12 18:38  @SergeyKochergan  Non-observable vs. observable heterogeneity factor | Freakonometrics http://freakonometrics.hypotheses.org/8657 #rstats #rlang #metrics #statistics
+378291387667447808  Sep 12 18:57  @georgedarroch    RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378294582175232001  Sep 12 19:10  @vijaybarve       V 0.0.7 of bdvis with #Chronohorogram and Completeness is ready for testing  https://github.com/vijaybarve/bdvis @gsoc #rstats
+378294687284858880  Sep 12 19:10  @pgradydixon      RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378294742045294592  Sep 12 19:11  @jrmontag         Every once in a while I get my #rstats ggplot to work on the first try. Rejoice. http://t.co/GKdPEDjWX7
+378295754399313920  Sep 12 19:15  @vijaybarve       RT @rOpenSci: Try out the new @GBIF #API via #rstats. See the readme here http://bit.ly/17SD8GP - plz get in touch with bugs, etc.
+378296569008631809  Sep 12 19:18  @abouzasr         RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378298327886229506  Sep 12 19:25  @LinearModel      Having a blast teaching R with @GrunerDaniel! It's great to have an outlet for my love of indexing data structures. #rstats
+378299766309801984  Sep 12 19:31  @algaebarnacle    Neat little #rstats trick for visualizing repeated measures in xyplot: use arg 'type=c("p", "r")' to show pts and reg line for each subject
+378300871849021440  Sep 12 19:35  @alex_peys        RT @M_T_Patterson: implementing clustered standard errors in R: http://thetarzan.wordpress.com/2011/06/11/clustered-standard-errors-in-r/ #RStats, #Econometrics
+378301037703987200  Sep 12 19:36  @zentree          RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378301451685998592  Sep 12 19:37  @hedgedworld      RT @infoalquimista: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats via @revodavid
+378301575359254528  Sep 12 19:38  @TrevorABranch    RT @algaebarnacle: Neat little #rstats trick for visualizing repeated measures in xyplot: use arg 'type=c("p", "r")' to show pts and reg line for each subject
+378302230698676224  Sep 12 19:40  @Rbloggers        pander 0.3.8 is out:  (This article was first published on   rapporter, and kindly contributed to R-... http://bit.ly/15YLhG5 #rstats
+378312243990888448  Sep 12 20:20  @anniemthompson   Cool options for plotting in R. http://menugget.blogspot.de/  #rstats
+378315450737639424  Sep 12 20:33  @mjcavaretta      using #rstats & #hadoop. RT @terrigriffith @JimSpohrer: @BerkekeyData online #DataScience masters degree http://terri.es/18YatNC #bigdata
+378316175127506944  Sep 12 20:36  @StatsClass       Very helpful R resource: OpenIntro: http://www.openintro.org/stat/labs.php#statsaster #rstats #statsaster #learningIsHard
