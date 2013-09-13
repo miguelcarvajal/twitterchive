@@ -17975,3 +17975,55 @@
 378499562660712449  Sep 13 08:45  @wactbprot        just released 0.3 of #R4CouchDB available on #github https://github.com/wactbprot/R4CouchDB  #rstats #CouchDB
 378501179539324928  Sep 13 08:51  @raviupanishad    RT @statisticsblog: Learn R and Data Management from home (October 7-11). http://i.cx/1aG3tvG #r #rstats
 378501209834807296  Sep 13 08:51  @timelyportfolio  RT @chlalanne: #rstats Lattice Plot Gets a Moving #d3js y Axis, http://bit.ly/12tfQFE #dataviz
+378503854762909696  Sep 13 09:02  @mjcavaretta      @sukuchha @jarlathond #machinelearning suites include #weka, RapidMiner, KNIME, Orange and of course #Rstats.
+378504422101647360  Sep 13 09:04  @MikeKSmith       Add to "Useful things I didn't know in R": split(...) function. Thanks @richardpugh. #rstats
+378505427727945728  Sep 13 09:08  @MikeKSmith       Do you want to see some of the other things I didn't know in R? https://www.evernote.com/shard/s4/sh/a221ec25-419c-4dae-b0d8-7a1ae4b5d553/b6ec7b1da9881110cd7ecbd1558e9264 #Rstats
+378512913805217792  Sep 13 09:38  @statslabdublin   Check out the Mathematical Biostatistics Boot Camp 2 https://www.coursera.org/course/biostats2 #rstats
+378513986246819840  Sep 13 09:42  @yodacomplex      RT @statslabdublin: Check out the Mathematical Biostatistics Boot Camp 2 https://www.coursera.org/course/biostats2 #rstats
+378518463657943041  Sep 13 10:00  @PlethodoNick     I haven't opened R in over a week.  This just feels wrong. #Rstats
+378518508746702848  Sep 13 10:00  @statisticsblog   R tip of the day - why should we use R for data analysis? http://i.cx/15ofBx8 #r #rstats
+378518625583259648  Sep 13 10:00  @yoBuister        RT @StatsClass: Very helpful R resource: OpenIntro: http://www.openintro.org/stat/labs.php#statsaster #rstats #statsaster #learningIsHard
+378519749761593345  Sep 13 10:05  @MangoTheCat      Fun playing with grid.locator() and ggplot2 today #interactive #Rstats
+378523070874386432  Sep 13 10:18  @datennutzen      German elections: Election promises visualized with #Rstats http://blog.eoda.de/2013/09/13/german-elections-election-promises-visualized-with-r/ http://t.co/WYamAUW4Kd
+378525626971348992  Sep 13 10:28  @IAmNotACylon     How do you fit a mixture of von Mises distributions in R? http://stackoverflow.com/q/18788748/1075792?stw=2 #Rstats #statistics
+378532183612219393  Sep 13 10:54  @rOpenSci         RT @_Kate_Crosby_: The new @GBIF #API via #rstats is brilliant - thanks guys @rOpenSci . I'm lovin' it.
+378533573072273408  Sep 13 11:00  @drodriguezperez  Fantástico para notificar la finalización de tareas es R #Rstats http://rud.is/b/2013/09/12/send-mac-os-notifications-from-r/
+378535103192113152  Sep 13 11:06  @nbarrowman       “Do I need to learn R?” — a comprehensive discussion by Catherine Dalzell https://www.ibm.com/developerworks/library/bd-learnr/ #rstats
+378535695616581632  Sep 13 11:08  @systbiol         RT @_Kate_Crosby_: The new @GBIF #API via #rstats is brilliant - thanks guys @rOpenSci . I'm lovin' it.
+378536653280661505  Sep 13 11:12  @DLabAtBerkeley   RT @statisticsblog: R tip of the day - why should we use R for data analysis? http://i.cx/15ofBx8 #r #rstats
+378538103800999936  Sep 13 11:18  @revodavid        In-Hadoop #BigData statistical modeling with #rstats and @RevolutionR: alpha test report by @RevoJoe http://bit.ly/13WKzM2
+378538183967125504  Sep 13 11:18  @gwenshap         RT @revodavid: In-Hadoop #BigData statistical modeling with #rstats and @RevolutionR: alpha test report by @RevoJoe http://bit.ly/13WKzM2
+378539082869006336  Sep 13 11:22  @tjshipman1       #RStudio is actually a useful IDE, seems to compliment #Rstats well, especially on a #Windows machine.
+378540451608817664  Sep 13 11:27  @astrabelli       RT @Piboonrungroj: Learn to use R for FREE with Coursera #rstats #coursera @coursera  http://pairach.com/2012/12/22/learn-to-use-r-for-free-with-coursera/
+378541020658409472  Sep 13 11:29  @jebyrnes         90 Free #rstats tutorials http://pairach.com/2012/02/26/r-tutorials-from-universities-around-the-world/
+378541553410510848  Sep 13 11:31  @marcoscan        RT @jebyrnes: 90 Free #rstats tutorials http://pairach.com/2012/02/26/r-tutorials-from-universities-around-the-world/
+378541641595768833  Sep 13 11:32  @_PhilMartin      RT @jebyrnes: 90 Free #rstats tutorials http://pairach.com/2012/02/26/r-tutorials-from-universities-around-the-world/
+378542142731198464  Sep 13 11:34  @emperoo          RT @jebyrnes: 90 Free #rstats tutorials http://pairach.com/2012/02/26/r-tutorials-from-universities-around-the-world/
+378542674032091136  Sep 13 11:36  @shaunconnolly    RT @revodavid: In-Hadoop #BigData statistical modeling with #rstats and @RevolutionR: alpha test report by @RevoJoe http://bit.ly/13WKzM2
+378543304419205120  Sep 13 11:38  @Lisa_Tompson     Dammit, wish I'd found the #rstats hashtag sooner! Putting it out there for all the stats geeks :) #phdchat #ECRchat
+378544657774305280  Sep 13 11:44  @dschoolmaster    RT @jebyrnes: 90 Free #rstats tutorials http://pairach.com/2012/02/26/r-tutorials-from-universities-around-the-world/
+378550105001189376  Sep 13 12:05  @AnalyStats       RT @revodavid: In-Hadoop #BigData statistical modeling with #rstats and @RevolutionR: alpha test report by @RevoJoe http://bit.ly/13WKzM2
+378551003353989120  Sep 13 12:09  @RLangTip         Get the unique values of a variable, x, with unique(x) #rstats http://bit.ly/17EZMlU
+378551185588092928  Sep 13 12:10  @AnalyStats       RT @RLangTip: Get the unique values of a variable, x, with unique(x) #rstats http://bit.ly/17EZMlU
+378551254525698048  Sep 13 12:10  @stephen_makin    RT @RLangTip: Get the unique values of a variable, x, with unique(x) #rstats http://bit.ly/17EZMlU
+378552714466062336  Sep 13 12:16  @MangoTheCat      Presentations from this week's #LondonR meeting and programme for Dec meeting now posted to http://www.londonr.org #Rstats
+378556792252690432  Sep 13 12:32  @timrobertson100  RT @rOpenSci: Try out the new @GBIF #API via #rstats. See the readme here http://bit.ly/17SD8GP - plz get in touch with bugs, etc.
+378557060679741440  Sep 13 12:33  @adolfoalvarez    RT @MangoTheCat: Presentations from this week's #LondonR meeting and programme for Dec meeting now posted to http://www.londonr.org #Rstats
+378563802821705728  Sep 13 13:00  @ManningBooks     Save 50% on #ArcGIS Web Development, Location-Aware Applications and R in Action, 2e. Code dotd0913tw at http://conta.cc/1eIBvyM #GIS #Rstats
+378563956224167936  Sep 13 13:00  @danslimmon       Using #Rstats/#ggplot to learn some interesting, but ultimately useless, things about my #Apache traffic http://danslimmon.wordpress.com/2013/09/13/a-data-set-analyzed-by-an-idiot-full-of-noise-and-worry-signifying-nothing/ #devops
+378567845803601920  Sep 13 13:16  @revodavid        Nice use of #rstats RT @francoismat: The Data Behind Why Google’s Play Is So Much Harder To Crack Than iOS App Store http://bit.ly/162E5HU
+378568117141528577  Sep 13 13:17  @laurencstill     RT @revodavid: Nice use of #rstats RT @francoismat: The Data Behind Why Google’s Play Is So Much Harder To Crack Than iOS App Store http://t.co/hlcALgzfSH
+378568946204811265  Sep 13 13:20  @dirkvandenpoel   R meetup at @UGent #rstats with 3 interesting talks #Analytics [pic]: http://4sq.com/15XSXOM
+378570267737346048  Sep 13 13:25  @jasongowans      RT @revodavid: Nice use of #rstats RT @francoismat: The Data Behind Why Google’s Play Is So Much Harder To Crack Than iOS App Store http://t.co/hlcALgzfSH
+378572621924671489  Sep 13 13:35  @thiagotoyoyo     RT @RLangTip: List the row/column indices of matrix x, from largest to smallest: cbind(row(x)[order(-x)],col(x)[order(-x)]) #rstats http://t.co/LzmwaWvuEr
+378573337149976576  Sep 13 13:38  @Gastove          Dear (most but not all) #rstats developers: guys. Seriously. HELPFUL AND DESCRIPTIVE ERROR MESSAGES. That is all.
+378574647639298048  Sep 13 13:43  @RevoJoe          #rstats Running the RevoScaleR logistic regression algorithm directly on a Hadoop cluster was very impressive. http://bit.ly/15pTjev
+378576659013971968  Sep 13 13:51  @PageViral        RT @dirkvandenpoel: R meetup at @UGent #rstats with 3 interesting talks #Analytics [pic]: http://4sq.com/15XSXOM
+378581599178084352  Sep 13 14:11  @hadleywickham    RT @danslimmon: Using #Rstats/#ggplot to learn some interesting, but ultimately useless, things about my #Apache traffic http://t.co/iV2yuZxylH #devops
+378582243100209152  Sep 13 14:13  @ErikJohnline     RT @algaebarnacle: Neat little #rstats trick for visualizing repeated measures in xyplot: use arg 'type=c("p", "r")' to show pts and reg line for each subject
+378585137346527233  Sep 13 14:25  @nyhackr          See @johnmyleswhite & @talgalili at the #rstats meetup this Tuesday http://bit.ly/18XuKUR
+378585190718648320  Sep 13 14:25  @eddelbuettel     .@romain_francois Here is the gmane view of the complete thread: http://thread.gmane.org/gmane.comp.lang.r.rcpp/5818 #rstats #rcpp
+378589851626795008  Sep 13 14:43  @analysis_factor  RT @nbarrowman: “Do I need to learn R?” — a comprehensive discussion by Catherine Dalzell http://ibm.com/developerworks… #rstats
+378591620305674240  Sep 13 14:50  @Rbloggers        Clustering Lightning Discharges to Identify Storms:  (This article was first published on   Exegetic... http://bit.ly/1gbjN4S #rstats
+378593127398776832  Sep 13 14:56  @vasantmarur      @aindap do you know about ggbio? http://genomebiology.com/2012/13/8/R77 #ggplot2 #rstats
+378593886299361281  Sep 13 14:59  @aindap           @vasantmarur Also, I really should have learned knitr before I started writing my thesis! #rstats
