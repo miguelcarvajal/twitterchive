@@ -17944,3 +17944,34 @@
 378390089984118784  Sep 13 01:30  @DailyRpackage    WeightedCluster - Clustering of Weighted Data http://cran.r-project.org/web/packages/WeightedCluster/index.html #RStats
 378405116786663424  Sep 13 02:29  @kevin_ushey      RT @ResearchProcess: cool stats course at ubc with some very practical lessons   #R   #stats   #rstats   #data   https://github.com/jennybc/STAT545A
 378410968868339712  Sep 13 02:53  @SAGRudd          Why use #Rstats for data analysis & howto bug #github @ http://www.r-bloggers.com/why-use-r-for-data-analysis
+378434678996205568  Sep 13 04:27  @yannabraham      A new bioinformatics job opportunity at #NIBR, with a chance to analyze #CyTOF data: https://sjobs.brassring.com/2057/ASP/TG/cim_jobdetail.asp?partnerid=13617&siteid=5260&jobid=2190076 #rstats
+378434714337439744  Sep 13 04:27  @PhJulien         Really useful #Rstats snippet: getting a Mac OS notification when a computation is over. https://rud.is/b/2013/09/12/send-mac-os-notifications-from-r/
+378447330413801472  Sep 13 05:17  @chlalanne        #rstats Lattice Plot Gets a Moving #d3js y Axis, http://bit.ly/12tfQFE #dataviz
+378449160833630208  Sep 13 05:24  @wlamagna         RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+378456134547300353  Sep 13 05:52  @Rbloggers        A technique for doing parametrized unit testing in R: Case study with stock price data analysis:  (T... http://bit.ly/189KDW0 #rstats
+378463179497799680  Sep 13 06:20  @jmgomez          RT @Johnfinn310: Another free #rstats book in pdf. Using R For Data Analysis and Graphics http://maths-people.anu.edu.au/~johnm/r/usingR.pdf #datamining #dataviz
+378463544859443200  Sep 13 06:21  @mspan            RT @jmgomez: RT @Johnfinn310: Another free #rstats book in pdf. Using R For Data Analysis and Graphics http://maths-people.anu.edu.au/~johnm/r/usingR.pdf #datamining #dataviz
+378467025573904384  Sep 13 06:35  @frzambra         RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378467106221596672  Sep 13 06:36  @phylorich        @tomhouslay @nhcooper123 Mostly #rstats, then a small amount of beamer/tikz, partly to wind up @BehavEcology.
+378473375402065920  Sep 13 07:00  @vanlybxv         RT @statisticsblog: Coursera’s free R courses are running again soon. http://i.cx/15Syhrg #r #rstats @revodavid
+378474039129276416  Sep 13 07:03  @romunov          It feels soooo good after powering up all processor cores after soooo long. Thank you #rstats
+378474762504138753  Sep 13 07:06  @_Kate_Crosby_    The new @GBIF #API via #rstats is brilliant - thanks guys @rOpenSci . I'm lovin' it.
+378476580713938944  Sep 13 07:13  @romunov          RT @chlalanne: #rstats Lattice Plot Gets a Moving #d3js y Axis, http://bit.ly/12tfQFE #dataviz
+378480641974620160  Sep 13 07:29  @southmapr        Waving my hands about #rstats #IDSpetition #LondonR @domaversano @GeorgeMonbiot @carbonrich @UKchange https://vimeo.com/74357640
+378482104150933504  Sep 13 07:35  @jonathanbig2     RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+378484714656395265  Sep 13 07:46  @oliver_meyn      RT @_Kate_Crosby_: The new @GBIF #API via #rstats is brilliant - thanks guys @rOpenSci . I'm lovin' it.
+378485089686274048  Sep 13 07:47  @timrobertson100  RT @_Kate_Crosby_: The new @GBIF #API via #rstats is brilliant - thanks guys @rOpenSci . I'm lovin' it.
+378487101282455552  Sep 13 07:55  @Luciafmo         RT @southmapr: Waving my hands about #rstats #IDSpetition #LondonR @domaversano @GeorgeMonbiot @carbonrich @UKchange https://vimeo.com/74357640
+378488280104181760  Sep 13 08:00  @mj_kallen        Somewhat annoyed by the complexity of existing packages, I've created my own package for simple logging in #rstats: https://github.com/mjkallen/rlogging
+378488303919431680  Sep 13 08:00  @statisticsblog   Learn R and Data Management from home (October 7-11). http://i.cx/1aG3tvG #r #rstats
+378488827519979522  Sep 13 08:02  @VidCanC          RT @statisticsblog: Learn R and Data Management from home (October 7-11). http://i.cx/1aG3tvG #r #rstats
+378489202792337408  Sep 13 08:03  @domaversano      RT @southmapr: Waving my hands about #rstats #IDSpetition #LondonR @domaversano @GeorgeMonbiot @carbonrich @UKchange https://vimeo.com/74357640
+378489904659202048  Sep 13 08:06  @Demografia_CSIC  Learn R and Data Management from home (October 7-11). http://i.cx/1aG3tvG #r #rstats via @statisticsblog
+378490179092090880  Sep 13 08:07  @jvonneumann      RT @statisticsblog: Learn R and Data Management from home (October 7-11). http://i.cx/1aG3tvG #r #rstats
+378491724131086336  Sep 13 08:13  @statslabdublin   LondonR's december meeting announced: http://lnkd.in/b5nHZ9h #rstats
+378494294580924416  Sep 13 08:24  @MikePearmain     RT @mj_kallen: Somewhat annoyed by the complexity of existing packages, I've created my own package for simple logging in #rstats: https://t.co/GfRdvgcdyb
+378494462734786563  Sep 13 08:24  @kobriendublin    RT @southmapr: Waving my hands about #rstats #IDSpetition #LondonR @domaversano @GeorgeMonbiot @carbonrich @UKchange https://vimeo.com/74357640
+378498287096958976  Sep 13 08:39  @Luehea           @Ruthnwade @katestorer  Welcome to the twitterverse - keep an eye on #rstats - wins my prize for most useful hashtag :)
+378499562660712449  Sep 13 08:45  @wactbprot        just released 0.3 of #R4CouchDB available on #github https://github.com/wactbprot/R4CouchDB  #rstats #CouchDB
+378501179539324928  Sep 13 08:51  @raviupanishad    RT @statisticsblog: Learn R and Data Management from home (October 7-11). http://i.cx/1aG3tvG #r #rstats
+378501209834807296  Sep 13 08:51  @timelyportfolio  RT @chlalanne: #rstats Lattice Plot Gets a Moving #d3js y Axis, http://bit.ly/12tfQFE #dataviz
