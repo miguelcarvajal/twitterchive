@@ -18027,3 +18027,27 @@
 378591620305674240  Sep 13 14:50  @Rbloggers        Clustering Lightning Discharges to Identify Storms:  (This article was first published on   Exegetic... http://bit.ly/1gbjN4S #rstats
 378593127398776832  Sep 13 14:56  @vasantmarur      @aindap do you know about ggbio? http://genomebiology.com/2012/13/8/R77 #ggplot2 #rstats
 378593886299361281  Sep 13 14:59  @aindap           @vasantmarur Also, I really should have learned knitr before I started writing my thesis! #rstats
+378594423107379201  Sep 13 15:01  @vasantmarur      @aindap ha! not much to learn! it's easy! as the creator of knitr @xieyihui  will tell you :-) #rstats
+378596915220197377  Sep 13 15:11  @rvprasadTweet    RT @danslimmon: Using #Rstats/#ggplot to learn some interesting, but ultimately useless, things about my #Apache traffic http://t.co/iV2yuZxylH #devops
+378597663416938496  Sep 13 15:14  @bjdewilde        RT @nyhackr: See @johnmyleswhite & @talgalili at the #rstats meetup this Tuesday http://bit.ly/18XuKUR
+378609811564138496  Sep 13 16:03  @polesasunder     <glances at officmates computer> she's using geom_violin()! which we talked about yesterday! #rstats #fanboy #ggplot2
+378611201908805632  Sep 13 16:08  @blqueiroz        RT @statisticsblog: Online course on forecasting using R by Prof. Rob J Hyn­d­man of Monash University. http://i.cx/1ejhAIN #r #rstats
+378612830427430912  Sep 13 16:15  @datennutzen      RT @RevoJoe: #rstats Running the RevoScaleR logistic regression algorithm directly on a Hadoop cluster was very impressive. http://t.co/hJaRfhf0zH
+378615072970379264  Sep 13 16:24  @Capbri           Are there #rstats packages for opening/importing .kml (keyhole markup language) files? @CMastication, @webbedfeet, @HarlanH, @drewconway
+378617404177129472  Sep 13 16:33  @hadleywickham    RT @polesasunder: <glances at officmates computer> she's using geom_violin()! which we talked about yesterday! #rstats #fanboy #ggplot2
+378620628204781568  Sep 13 16:46  @quandl           Two presentations on #BigData & big #analytics with #R | Revolutions http://qndl.co/18IhsdG #Rstats
+378623711240130560  Sep 13 16:58  @sjGoring         I've written a "Get Started" for ecologists who want to use #RStudio and #Github. Let me know if it helps: http://downwithtime.wordpress.com/2013/09/13/writing-and-collaborating-on-github-a-primer-for-paleoecologists/ #rstats
+378624529431412736  Sep 13 17:01  @polesasunder     BEHOLD THE FUTURE!  @sjGoring has an excellent "Get Started" for ecologists re: #RStudio and #Github. http://bit.ly/14NlSEo #rstats
+378625178382909440  Sep 13 17:04  @PageViral        RT @quandl: Two presentations on #BigData & big #analytics with #R | Revolutions http://qndl.co/18IhsdG #Rstats
+378625919738327040  Sep 13 17:07  @Marko_GHz        RT @jebyrnes: 90 Free #rstats tutorials http://pairach.com/2012/02/26/r-tutorials-from-universities-around-the-world/
+378629297420124160  Sep 13 17:20  @benvolioT        RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+378631262895763456  Sep 13 17:28  @rOpenSci         interacting w/ data from the web in #rstats - draft taskview - updated http://bit.ly/1eMuxJ3
+378632256794796032  Sep 13 17:32  @noamross         Using #rstats at #UCDavis? Join the Davis R Users Group, and help us pick a meeting time for the fall: http://www.noamross.net/davis-r-users-group.html
+378632278764564480  Sep 13 17:32  @davis_egsa       RT @noamross: Using #rstats at #UCDavis? Join the Davis R Users Group, and help us pick a meeting time for the fall: http://www.noamross.net/davis-r-users-group.html
+378635052894023681  Sep 13 17:43  @Graham_Coop      RT @noamross: Using #rstats at #UCDavis? Join the Davis R Users Group, and help us pick a meeting time for the fall: http://www.noamross.net/davis-r-users-group.html
+378637080139546624  Sep 13 17:51  @PPUAMX           RT @RLangTip: Search the documentation for any function in base R or any CRAN package at http://bit.ly/O8Qg3A #rstats
+378643499626668032  Sep 13 18:16  @PPUAMX           RT @RLangTip: Get the unique values of a variable, x, with unique(x) #rstats http://bit.ly/17EZMlU
+378647001765650432  Sep 13 18:30  @Rbloggers        Alpha Testing RevoScaleR running in Hadoop:  (This article was first published on   Revolutions, and... http://bit.ly/18cOMZk #rstats
+378647002256384000  Sep 13 18:30  @Rbloggers        MCMSki IV, Jan. 6-8, 2014, Chamonix (news #6):  (This article was first published on   Xi'an's Og » ... http://bit.ly/1etsuMa #rstats
+378654676792532993  Sep 13 19:01  @andyteucher      RT @rOpenSci: interacting w/ data from the web in #rstats - draft taskview - updated http://bit.ly/1eMuxJ3
+378674882940125184  Sep 13 20:21  @sekhardrona      Cool R search engine http://www.rseek.org/ by @goodmansasha #rstats

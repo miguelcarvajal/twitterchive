@@ -3931,3 +3931,12 @@
 378561784917270528  Sep 13 12:52  @davidweisss      RT @DrDanielSwan: Paper: Comprehensive evaluation of differential gene expression analysis methods for RNA-seq data http://bit.ly/1awnW2D
 378563874301030400  Sep 13 13:00  @rnomics          FlipFlop: #RNA Isoform Identification and Quantification from #RNA-Seq Data with Network... http://bit.ly/1awZuyb #rnomics_bioinfo @MyEN
 378580094945468416  Sep 13 14:05  @nextgenseek      Analysis of Allele Specific Expression in Mouse Liver by RNA-Seq: http://www.genetics.org/content/early/2013/09/03/genetics.113.153882
+378594716150800384  Sep 13 15:03  @girlscientist    .@genomicslab detailing tradeoffs: increase in RNA-seq output vs. sacrifice of quality. [Someone's gotta live this stuff.] #uabharetreat
+378602295694753793  Sep 13 15:33  @notSoJunkDNA     Mining RNA–Seq Data for Infections and Contaminations http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073071
+378608844869365761  Sep 13 15:59  @BarbourAnalytix  RT @notSoJunkDNA: Mining RNA–Seq Data for Infections and Contaminations http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073071
+378614695932223488  Sep 13 16:22  @PerlDaily        #RNAseq raw counts pipeline http://wp.me/p2WC3J-Jd using @aaronquinlan's #BEDtools, @lpachter's #Cufflinks & @simulx's gtf2bed #perl script
+378620312834695169  Sep 13 16:44  @lpachter         RT @PerlDaily: #RNAseq raw counts pipeline http://wp.me/p2WC3J-Jd using @aaronquinlan's #BEDtools, @lpachter's #Cufflinks & @simulx's gtf2bed #perl script
+378640371447656448  Sep 13 18:04  @ypriverol        Mining #RNA–Seq Data for Infections and Contaminations http://dx.plos.org/10.1371/journal.pone.0073071 via @PLOSONE
+378654397183840256  Sep 13 19:00  @BlueSEQ          RT @galaxyproject: Advanced NGS Course: RNA-Seq Data Analysis, 30 Oct - 01 Nov, Leiden http://bit.ly/18ZvXtu #usegalaxy
+378673131117752320  Sep 13 20:14  @davetang31       RT @GenomeBiology: Doron Betel & co find that array-based methods perform as well as any other for RNA-seq DE analysis http://t.co/XeTwswYSJl #bioinformatics
+378682525847023616  Sep 13 20:52  @rnomics          A combination of improved differential and global #RNA-seq reveals pervasive transcription initiation... http://bit.ly/1axZwpB #BMC @MyEN
