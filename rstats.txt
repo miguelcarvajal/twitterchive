@@ -18079,3 +18079,10 @@
 378937464922316800  Sep 14 13:45  @beccamedwards    Why use R for Data Analysis? http://bit.ly/1ea8Js4 #rstats
 378941299438911488  Sep 14 14:00  @statisticsblog   A technique for doing parametrized unit testing in R: Case study with stock price data analysis. http://i.cx/1aItNW9 #r #rstats #finance
 378941825081688064  Sep 14 14:02  @timelyportfolio  RT @ramnath_vaidya: .@Gimperion KML support for @LeafletJS in #rCharts http://bl.ocks.org/ramnathv/6562757 (source: https://gist.github.com/ramnathv/6562757) #rstats http://t.co/lUUZqOHZSP
+378962755786928128  Sep 14 15:25  @jmgomez          RT @andyteucher: interacting w/ data from the web in #rstats - draft taskview - updated http://bit.ly/1eMuxJ3 #webmining #dataviz
+378964103349301248  Sep 14 15:30  @Rbloggers        Mixed models; Random Coefficients, part 2:  (This article was first published on   Wiekvoet, and kin... http://bit.ly/141Wnww #rstats
+378967637243359232  Sep 14 15:45  @rapporters       Two really promising #rstats courses are to be started in the next few days on @coursera: http://www.coursera.org/course/compdata and http://www.coursera.org/course/stats1
+378999552423907328  Sep 14 17:51  @sciremotesense   Beware && and & are *very* different in #Rstats. &&: element wise, &: just first element. See http://stat.ethz.ch/R-manual/R-devel/library/base/html/Logic.html. Just bit me, badly.
+379002901362135042  Sep 14 18:05  @orlandomezquita  R Vs RapidMiner for text mining: http://bit.ly/19S2vrW #rstats
+379014897319034880  Sep 14 18:52  @TheSandlings     RT @timoreilly: Nice! RT @mikeloukides: Cool animation of Bayesian statistics: #rstats  http://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html
+379027445573115904  Sep 14 19:42  @amestadmx        RT @RLangTip: Search the documentation for any function in base R or any CRAN package at http://bit.ly/O8Qg3A #rstats
