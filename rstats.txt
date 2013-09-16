@@ -18128,3 +18128,27 @@
 379377339118780417  Sep 15 18:53  @SAGRudd          Send OSX Growl Notifications From #rstats @rstudioapp Server = #TrackingProcesses @ http://www.r-bloggers.com/send-mac-os-notifications-from-rstudio-server-via-growl
 379384729109164032  Sep 15 19:22  @recology_        RT @SAGRudd: Send OSX Growl Notifications From #rstats @rstudioapp Server = #TrackingProcesses @ http://www.r-bloggers.com/send-mac-os-notifications-from-rstudio-server-via-growl
 379404000074162176  Sep 15 20:38  @genetics_blog    @leonidkruglyak @Strava also, the data is fun alternative to use to teach git, #Rstats, etc. E.g. https://github.com/stephenturner/trailprofile
+379426070325260288  Sep 15 22:06  @KevinLDavenport  Anyone recommend an interesting way to plot a randomforest model other than MDSplot or varImpPlot? #rstats
+379428506196652032  Sep 15 22:16  @DLabAtBerkeley   RT @rOpenSci: New use case up: Easily make an interactive #geoJSON map on the web from #rstats    http://bit.ly/1aM1rdA
+379432253475921921  Sep 15 22:31  @Gonpa83          RT @DatametricsBI: Los 10 mejores algoritmos en minería de datos http://idata.com.co/index.php/blog-page/62-los-mejores-10-algoritmos-en-mineria-de-datos #rstats #SocialCRM #BI #SPSS
+379437591356899328  Sep 15 22:52  @Gliders_Coach    @astrabelli the r for twitter connection still does not work for windows. any updates - can you cross check #rstats
+379441035509653504  Sep 15 23:06  @drago_carlo      The grammar of graphics in R with ggplot2 by Hadley Wickman:  http://courses.had.co.nz/11-rice/slides/01-basics.pdf … … … via @DEAGiles #DataVisualization #Rstats
+379441597634445312  Sep 15 23:08  @CelHern          Inspiring talk by K. Lilley emphasizing use of great #rstats tools for #proteomics . #HUPO2013
+379442294547415040  Sep 15 23:11  @murraystokely    RT @eddelbuettel: New release 0.3.1 of RProtoBuf, more at http://goo.gl/Um8SGS #rstats
+379454718999031808  Sep 16 00:00  @SAGRudd          RDAVIDWebService: a versatile #Rstats interface to DAVID = #useful @ http://buff.ly/146KdCz
+379455861929672704  Sep 16 00:05  @PhilippBayer     RT @SAGRudd: RDAVIDWebService: a versatile #Rstats interface to DAVID = #useful @ http://buff.ly/146KdCz
+379463116192354304  Sep 16 00:33  @zentree          'NIR-Quimiometría' #chemometrics using #Rstats. http://nir-quimiometria.blogspot.co.nz/
+379464207411838976  Sep 16 00:38  @dckallos         Million $ Q: "Best" software for grad research? Research firms? Option(s): #SPSS #SAS #rstats #Stata #STATISTICA #Sap ...? #data #analytics
+379465147737067520  Sep 16 00:41  @WMUESA           RT @dckallos: Million $ Q: "Best" software for grad research? Research firms? Option(s): #SPSS #SAS #rstats #Stata #STATISTICA #Sap ...? #data #analytics
+379466018487160833  Sep 16 00:45  @zentree          Ketchup: name suggested by son for an #Rstats package setting all my defaults in a session. *Every* program would require(ketchup).
+379466515848130560  Sep 16 00:47  @PageViral        RT @dckallos: Million $ Q: "Best" software for grad research? Research firms? Option(s): #SPSS #SAS #rstats #Stata #STATISTICA #Sap ...? #data #analytics
+379466721859342336  Sep 16 00:48  @pitakakariki     RT @zentree: Ketchup: name suggested by son for an #Rstats package setting all my defaults in a session. *Every* program would require(ketchup).
+379471329080004608  Sep 16 01:06  @RickSaporta      RT @RLangTip: Forgot to save the output from the last #rstats command? Retrieve it with .Last.value http://bit.ly/QKKDsn (via @joshlemaitre)
+379473180932317184  Sep 16 01:13  @Rbloggers        RProtoBuf 0.3.1:  (This article was first published on   Thinking inside the box   , and kindly cont... http://bit.ly/18mgdjp #rstats
+379473181683109888  Sep 16 01:13  @Rbloggers        Laplace the Bayesianista and the Mass of Saturn:  (This article was first published on   The Pith of... http://bit.ly/18mgeUz #rstats
+379477252230365184  Sep 16 01:30  @DailyRpackage    foreign - Read Data Stored by Minitab, S, SAS, SPSS, Stata, Systat, dBase, .. http://cran.r-project.org/web/packages/foreign/index.html #RStats
+379477669965885440  Sep 16 01:31  @andrewsu         THOU SHALT NOT USE DAVID until they update GO annotations MT @SAGRudd: RDAVIDWebService: a #Rstats interface to DAVID http://buff.ly/146KdCz
+379479021223821312  Sep 16 01:37  @kevin_ushey      RT @zentree: Ketchup: name suggested by son for an #Rstats package setting all my defaults in a session. *Every* program would require(ketchup).
+379479959787409408  Sep 16 01:40  @EricCrampton     RT @zentree: Ketchup: name suggested by son for an #Rstats package setting all my defaults in a session. *Every* program would require(ketchup).
+379492393386397696  Sep 16 02:30  @romain_francois  RT @CRANberriesFeed: CRAN updates: forensim RProtoBuf TAM http://goo.gl/5g3iZ #rstats
+379499692624990208  Sep 16 02:59  @josefslerka      The new RStudio Shiny Server – A bright Spark for hosted Stats Visualization #rstats http://bit.ly/1blxBMu
