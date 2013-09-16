@@ -18168,3 +18168,35 @@
 379575589050384384  Sep 16 08:00  @Rbloggers        Profile Likelihood for New Jersey U.S. Senate Special Election:  (This article was first published o... http://bit.ly/149zI1c #rstats
 379577786736050176  Sep 16 08:09  @masemresearch    Mollie's Research Blog: Only Load Data If Not Already Open in R #rstats | @scoopit http://sco.lt/5AIV2P
 379588800684359680  Sep 16 08:53  @sjGoring         RT @jmgomez: RT @sjGoring: I've written a "Get Started" for ecologists who want to use #RStudio & #Github http://downwithtime.wordpress.com/2013/09/13/writing-and-collaborating-on-github-a-primer-for-paleoecologists/ #rstats #datamining
+379590593237626880  Sep 16 09:00  @statisticsblog   The applications of quantile regression in stock analysis. http://i.cx/18lyc9A #r #rstats #statistics #regression
+379598641368813569  Sep 16 09:32  @RickWicklin      Versions of R that are supported by various #SAS releases: http://blogs.sas.com/content/iml/2013/09/16/what-versions-of-r-are-supported-by-sas/ #rstats
+379601800195608577  Sep 16 09:44  @timelyportfolio  good article on improved #rstats import of #svg from Paul Murrell and Simon Potter http://sjp.co.nz/projects/grimport2/grImport2.html
+379604270393225216  Sep 16 09:54  @stephaniehicks   "A short list of the most useful R commands" (though I think this list might be overdue for an update) http://www.personality-project.org/r/r.commands.html #rstats
+379610722482655233  Sep 16 10:20  @jebyrnes         If you haven't, try this dialect survey in #rstats today! Lots of fun.  I'm definitely from Bawlmer, Merlin, hon! http://spark.rstudio.com/jkatz/DialectQuiz/
+379613215220445184  Sep 16 10:30  @natebrix         RT @RickWicklin: Versions of R that are supported by various #SAS releases: http://blogs.sas.com/content/iml/2013/09/16/what-versions-of-r-are-supported-by-sas/ #rstats
+379615512977620992  Sep 16 10:39  @OhKay28          Fun dialect survey in #rstats! Mine is ~Buffalo NY. Yep, 1 of the closest US cities to where I grew up! http://spark.rstudio.com/jkatz/DialectQuiz/ via @jebyrnes
+379618554770751489  Sep 16 10:51  @noamross         Can anyone suggest debugging and profiling tools for a #Cplusplus beginner? Mostly using it in an #rstats / #Rcpp / @Rstudioapp context.
+379619473071681538  Sep 16 10:55  @clarkfitzg       Finally figured out why I don't like Excel- It distracts me to always see the data. #rstats abstracts the data away from the analysis.
+379624265374384129  Sep 16 11:14  @cbumg            RT @cjdinger: What versions of R are supported by SAS? http://blogs.sas.com/content/iml/2013/09/16/what-versions-of-r-are-supported-by-sas/ from @rickwicklin #rstats #sas
+379626827796328449  Sep 16 11:24  @chenghlee        Useful: Beginner's guide to #visualization in #R (mostly using ggplots) http://www.computerworld.com/s/article/print/9239723/Beginner_s_guide_to_R_Painless_data_visualization_ #rstats
+379628018592784384  Sep 16 11:29  @theburntcity     RT @chenghlee: Useful: Beginner's guide to #visualization in #R (mostly using ggplots) http://www.computerworld.com/s/article/print/9239723/Beginner_s_guide_to_R_Painless_data_visualization_ #rstats
+379629848198516736  Sep 16 11:36  @chenghlee        Also useful: #R syntax quirks  to watch out for and some other random tricks (I didn't know about sqldf pkg). http://www.computerworld.com/s/article/print/9239757/Beginner_s_guide_to_R_Syntax_quirks_you_ll_want_to_know #rstats
+379629908290322433  Sep 16 11:36  @TomRBishop       If I was born to do anything aside from looking at ants, then it is surely writing functions in R. #rstats #groovy #loveit
+379630099814817792  Sep 16 11:37  @chenghlee        Last link also raised good point: why does #R have 5 assignment operators??!! http://stat.ethz.ch/R-manual/R-patched/library/base/html/assignOps.html #rstats #wtf
+379633153817587712  Sep 16 11:49  @algaebarnacle    It figured out where I grew up, spot-on! MT @jebyrnes: If you haven't, try this dialect survey in #rstats today! http://spark.rstudio.com/jkatz/DialectQuiz/
+379635891850838019  Sep 16 12:00  @statisticsblog   Three neat tricks in R - paste, paste0, and sprintf. http://i.cx/1eDbwv8 #r #rstats
+379638706355048448  Sep 16 12:11  @RLangTip         Use variable name in plot title: hist(var,main=substitute(paste("Dist of ",var))) #rstats http://bit.ly/18cN8XN
+379639182765092864  Sep 16 12:13  @inside_R         #rstats R user group meetings this week in: Burlington, Sydney, Melbourne, Berkeley, Dublin and Northampton http://bit.ly/9hVAPE
+379639215988178945  Sep 16 12:13  @inside_R         #rstats More R user group meetings this week: Pittsburgh, Nashville and Raleigh-Durham http://bit.ly/9hVAPE
+379641377782390784  Sep 16 12:22  @raviupanishad    RT @statisticsblog: Three neat tricks in R - paste, paste0, and sprintf. http://i.cx/1eDbwv8 #r #rstats
+379642648027353088  Sep 16 12:27  @jhollist         Any one know if there is a Rhode Island #rstats #useR group???
+379657373440544768  Sep 16 13:25  @davdittrich      New robust statistical functions in WRS package – Guest post by Rand Wilcox http://ow.ly/232AvD #rstats
+379664706413559808  Sep 16 13:54  @StatsInTheWild   What are good conceptual examples of data that is left-skewed?  A student of mine suggested the number of hairs on people's heads.  #rstats
+379669879659319296  Sep 16 14:15  @SobriJozsi       RT @statisticsblog: Three neat tricks in R - paste, paste0, and sprintf. http://i.cx/1eDbwv8 #r #rstats
+379672009636343808  Sep 16 14:23  @aDataHead        HT @KirkDBorne: Putting the #Rstats Into Hadoop: http://www.datanami.com/datanami/2013-09-09/putting_the_r_into_hadoop.html
+379672536780652544  Sep 16 14:26  @denisohora       Check out these #rstats tutorials by Bodo Winder in UC Merced: F values, Monty Hall problems and lmes http://www.bodowinter.com/tutorials.html
+379673130530131968  Sep 16 14:28  @kevin_ushey      I really wish @rstudioapp had auto-completion for multi-line function declarations. #rstats
+379673854609592320  Sep 16 14:31  @mle425           Yep. I am a true N. Californian.  MT @jebyrnes @algaebarnacle Dialect survey in #rstats! http://spark.rstudio.com/jkatz/DialectQuiz/ … http://t.co/arVIiT531K
+379676679041331200  Sep 16 14:42  @darinself        Epistemology used in IR articles (top 12 journals) if issue area is IPE or International Security. #rstats #trip http://t.co/n8L4bLuRiy
+379676882331267072  Sep 16 14:43  @darinself        Proportion of quantitative methods used when issue area is IPE or Intl Security (top 12 journals) #Rstats #TRIP http://t.co/ViQfcLy413
+379680060703125504  Sep 16 14:55  @exceltricks      RT @orlandomezquita: paste, paste0, and sprintf | (R news & tutorials) http://bit.ly/1eA0KWn #rstats
