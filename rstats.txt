@@ -18152,3 +18152,19 @@
 379479959787409408  Sep 16 01:40  @EricCrampton     RT @zentree: Ketchup: name suggested by son for an #Rstats package setting all my defaults in a session. *Every* program would require(ketchup).
 379492393386397696  Sep 16 02:30  @romain_francois  RT @CRANberriesFeed: CRAN updates: forensim RProtoBuf TAM http://goo.gl/5g3iZ #rstats
 379499692624990208  Sep 16 02:59  @josefslerka      The new RStudio Shiny Server – A bright Spark for hosted Stats Visualization #rstats http://bit.ly/1blxBMu
+379506687448985600  Sep 16 03:26  @lgatt0           RT @CelHern: Inspiring talk by K. Lilley emphasizing use of great #rstats tools for #proteomics . #HUPO2013
+379522706640629760  Sep 16 04:30  @Rbloggers        Follow Up on Spatial Overlays with R – Getting Altitude for a Set of Points:  (This article was firs... http://bit.ly/1eEGYJl #rstats
+379541447147802624  Sep 16 05:45  @josefslerka      Using Twitter Data with R #rstats updated for API changes http://bit.ly/1efPAF0
+379544089198215168  Sep 16 05:55  @AGrinsted        RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+379557089921622016  Sep 16 06:47  @zentree          'Monty Hall (oh no, not again)' by @freakonometrics http://freakonometrics.hypotheses.org/8718 #Rstats #probability
+379557917134839808  Sep 16 06:50  @cjdinger         What versions of R are supported by SAS? http://blogs.sas.com/content/iml/2013/09/16/what-versions-of-r-are-supported-by-sas/ from @rickwicklin #rstats #sas
+379563659837464577  Sep 16 07:13  @statsforbios     Power Analysis 4) Plug into pwr #Rstats package or similar. It will tell you how many replicates you need.
+379569534694207489  Sep 16 07:36  @mjcavaretta      Does anyone actually use #rstats & #sas? RT @cjdinger: What versions of R are supported by SAS? http://blogs.sas.com/content/iml/2013/09/16/what-versions-of-r-are-supported-by-sas/ via @rickwicklin
+379571082539597824  Sep 16 07:42  @stevepowell99    yay, undocumented(?) feature for lovers of codefolding: #rstudio now does it right in #markdown even without "----" #rstats  #outliner
+379571409955336192  Sep 16 07:44  @jjgibaja         RT @zentree: 'Monty Hall (oh no, not again)' by @freakonometrics http://freakonometrics.hypotheses.org/8718 #Rstats #probability
+379573044609425408  Sep 16 07:50  @mjcavaretta      #Rstats No. 1 at 60% -> Languages used #analytics / #datamining in the past 12 months? http://www.kdnuggets.com/2013/08/languages-for-analytics-data-mining-data-science.html ht @TrackToAct @kdnuggets
+379575488705871872  Sep 16 08:00  @statisticsblog   R tip of the day - how to tell R to only load data sets that have not already been loaded. http://i.cx/1aIts5N #r #rstats #statistics
+379575588194775041  Sep 16 08:00  @Rbloggers        New robust statistical functions in WRS package – Guest post by Rand Wilcox:  (This article was firs... http://bit.ly/1gnqHnD #rstats
+379575589050384384  Sep 16 08:00  @Rbloggers        Profile Likelihood for New Jersey U.S. Senate Special Election:  (This article was first published o... http://bit.ly/149zI1c #rstats
+379577786736050176  Sep 16 08:09  @masemresearch    Mollie's Research Blog: Only Load Data If Not Already Open in R #rstats | @scoopit http://sco.lt/5AIV2P
+379588800684359680  Sep 16 08:53  @sjGoring         RT @jmgomez: RT @sjGoring: I've written a "Get Started" for ecologists who want to use #RStudio & #Github http://downwithtime.wordpress.com/2013/09/13/writing-and-collaborating-on-github-a-primer-for-paleoecologists/ #rstats #datamining
