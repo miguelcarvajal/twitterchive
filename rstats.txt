@@ -18111,3 +18111,20 @@
 379297356766019584  Sep 15 13:35  @SuaJorge         RT @orlandomezquita: paste, paste0, and sprintf | (R news & tutorials) http://bit.ly/1eA0KWn #rstats
 379300600275402752  Sep 15 13:48  @chibaf           RT @gappy3000: Which language has grown the most (delta perc)/(perc) in the TIOBE Index? Surprisingly, #Rstats http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
 379312193902092288  Sep 15 14:34  @sqlusa           RT @revodavid: "Google is a big user of R" - Wall Street Journal http://on.wsj.com/15kQQ4W #rstats
+379324710942932992  Sep 15 15:23  @Ronronia         R es una chulada. Espero que se esté enseñando en las prácticas de todas las asignaturas de estadística de cualquier carrera. #rstats
+379334875771179008  Sep 15 16:04  @eddelbuettel     New release 0.3.1 of RProtoBuf, more at http://goo.gl/Um8SGS #rstats
+379345587314774016  Sep 15 16:46  @rOpenSci         New use case up: Easily make an interactive #geoJSON map on the web from #rstats    http://bit.ly/1aM1rdA
+379348979009720321  Sep 15 17:00  @mpmanti          @gappy3000 I don’t find the growth in #rstats surprising, given the data science hype. Even a web designer friend of mine has used it.
+379350819549626368  Sep 15 17:07  @romain_francois  RT @eddelbuettel: New release 0.3.1 of RProtoBuf, more at http://goo.gl/Um8SGS #rstats
+379355145852551168  Sep 15 17:24  @jlbarojam        RT @rOpenSci: New use case up: Easily make an interactive #geoJSON map on the web from #rstats    http://bit.ly/1aM1rdA
+379358116342542337  Sep 15 17:36  @hodgson_lauren   RT @rOpenSci: New use case up: Easily make an interactive #geoJSON map on the web from #rstats    http://bit.ly/1aM1rdA
+379360377978757120  Sep 15 17:45  @quandl           Coursera's free #R courses are running again soon by @revodavid http://qndl.co/17Wl7pb #Rstats #MOOCs #data
+379361286242721792  Sep 15 17:49  @anderslindstrom  RT @quandl: Coursera's free #R courses are running again soon by @revodavid http://qndl.co/17Wl7pb #Rstats #MOOCs #data
+379362084460699648  Sep 15 17:52  @conradopreto     RT @rOpenSci: New use case up: Easily make an interactive #geoJSON map on the web from #rstats    http://bit.ly/1aM1rdA
+379364012544102401  Sep 15 18:00  @arRMorgan        YES. Signed up for #Bayesian Analysis in the fall. #stats #rstats
+379365274673094656  Sep 15 18:05  @algorithm_1      RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+379366733045198848  Sep 15 18:10  @arRMorgan        Hard to express how excited I am about #Bayesian Analysis. Super cool methods & the instructor is an #R-tian too! #rstats
+379370185607884801  Sep 15 18:24  @MAFLOnline       RT @cargomoose "R as the common language of advanced business analytics. \http://lnkd.in/bHGCTcF" #rstats
+379377339118780417  Sep 15 18:53  @SAGRudd          Send OSX Growl Notifications From #rstats @rstudioapp Server = #TrackingProcesses @ http://www.r-bloggers.com/send-mac-os-notifications-from-rstudio-server-via-growl
+379384729109164032  Sep 15 19:22  @recology_        RT @SAGRudd: Send OSX Growl Notifications From #rstats @rstudioapp Server = #TrackingProcesses @ http://www.r-bloggers.com/send-mac-os-notifications-from-rstudio-server-via-growl
+379404000074162176  Sep 15 20:38  @genetics_blog    @leonidkruglyak @Strava also, the data is fun alternative to use to teach git, #Rstats, etc. E.g. https://github.com/stephenturner/trailprofile
