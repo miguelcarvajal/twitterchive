@@ -18200,3 +18200,43 @@
 379676679041331200  Sep 16 14:42  @darinself        Epistemology used in IR articles (top 12 journals) if issue area is IPE or International Security. #rstats #trip http://t.co/n8L4bLuRiy
 379676882331267072  Sep 16 14:43  @darinself        Proportion of quantitative methods used when issue area is IPE or Intl Security (top 12 journals) #Rstats #TRIP http://t.co/ViQfcLy413
 379680060703125504  Sep 16 14:55  @exceltricks      RT @orlandomezquita: paste, paste0, and sprintf | (R news & tutorials) http://bit.ly/1eA0KWn #rstats
+379681190728695808  Sep 16 15:00  @statisticsblog   The New Jersey U.S. Senate Special Election - a Profile Likelihood approach. http://i.cx/164ycRm #r #rstats #likelihood
+379681235473530880  Sep 16 15:00  @PPUAMX           RT @RLangTip: Use variable name in plot title: hist(var,main=substitute(paste("Dist of ",var))) #rstats http://bit.ly/18cN8XN
+379681598377299968  Sep 16 15:02  @Rbloggers        Rstudio starts to codefold markdown:  (This article was first published on   socialdatablog » R, and... http://bit.ly/181glJa #rstats
+379681599518162945  Sep 16 15:02  @Rbloggers        Putting the R in Cloudera and Hortonworks Hadoop:  (This article was first published on   Revolution... http://bit.ly/181glZx #rstats
+379684146148159488  Sep 16 15:12  @GueyeNono        Anyone has a link to an introductory (nooby) tutorial on how to use #rstats and #hadoop for #bigdata?
+379685834762358784  Sep 16 15:18  @gjreda           Are there example internal ipython notebook setups or similar? A place where analyst work is aggregated for internal sharing #pydata #rstats
+379686110202310656  Sep 16 15:19  @gjreda           Specifically for sharing amongst other non-technical company groups, not necessarily amongst analysts. #pydata #rstats
+379688098193735681  Sep 16 15:27  @AriBFriedman     R needs short version of "character vector of length one" for documenting fxns. "String" is inaccurate. "CVLO"=worst neologism ever. #rstats
+379688552004866051  Sep 16 15:29  @GSwithR          RT “@panemma: @Flic_Anderson try @GSwithR The book came out of the best beginners course there is!” #rstats
+379690221333659648  Sep 16 15:36  @beckerhopper     RT @GSwithR: RT “@panemma: @Flic_Anderson try @GSwithR The book came out of the best beginners course there is!” #rstats
+379692650318008320  Sep 16 15:45  @raulpacheco      RT @darinself: Proportion of quantitative methods used when issue area is IPE or Intl Security (top 12 journals) #Rstats #TRIP http://t.co/ViQfcLy413
+379693741499764737  Sep 16 15:50  @kenpokiwi        RT @cjdinger: What versions of R are supported by SAS? http://blogs.sas.com/content/iml/2013/09/16/what-versions-of-r-are-supported-by-sas/ from @rickwicklin #rstats #sas
+379693991458906112  Sep 16 15:51  @sharon000        Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379694835248422912  Sep 16 15:54  @ryanbriggs       RT @darinself: Proportion of quantitative methods used when issue area is IPE or Intl Security (top 12 journals) #Rstats #TRIP http://t.co/ViQfcLy413
+379696765668036608  Sep 16 16:02  @lynngr           RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379700982160314368  Sep 16 16:19  @Fitz_the         RT @darinself: Proportion of quantitative methods used when issue area is IPE or Intl Security (top 12 journals) #Rstats #TRIP http://t.co/ViQfcLy413
+379704663693877248  Sep 16 16:33  @shashj           RT @darinself: Proportion of quantitative methods used when issue area is IPE or Intl Security (top 12 journals) #Rstats #TRIP http://t.co/ViQfcLy413
+379705672767926272  Sep 16 16:37  @revodavid        Datanami article on in-Hadoop R with Cloudera and Hortonworks and @RevolutionR http://bit.ly/181Aejb #rstats
+379706144710594561  Sep 16 16:39  @baogorek         Can you "search" for cause\effect relationships in a data set? The makers of the pcalg R package think so: http://cran.r-project.org/web/packages/pcalg/vignettes/pcalgDoc.pdf #rstats
+379706624115359744  Sep 16 16:41  @hpccsystems      RT @JesseCPBShaw Money Ball meets http://Match.com for recruiting via @hpccsystems! #hpccsummit @Comrise RightFit w/ #HPCC & #rstats
+379708957314396160  Sep 16 16:50  @shaunconnolly    RT @revodavid: Datanami article on in-Hadoop R with Cloudera and Hortonworks and @RevolutionR http://bit.ly/181Aejb #rstats
+379716549411500032  Sep 16 17:20  @davidetwittin    Enjoy R... A practical demonstration of linearity of MAD  http://wp.me/p3EOzv-A via @wordpressdotcom #rstats
+379719149599358976  Sep 16 17:31  @algaebarnacle    Anyone have good resources for getting started with species distribution models/bioclimate envelope models? #rstats or otherwise?
+379730311300403200  Sep 16 18:15  @revodavid        RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379730380733284352  Sep 16 18:15  @haewoon          RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379730922490585088  Sep 16 18:18  @revodavid        @GueyeNono Have you looked at RHadoop? There's a Mapreduce in R tutorial here: http://bit.ly/196PGaP #rstats
+379730979411464192  Sep 16 18:18  @wgi_pr31ea       RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379732363259174912  Sep 16 18:23  @jonsedar         RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379733106602692608  Sep 16 18:26  @DEAGiles         RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379734196438450176  Sep 16 18:31  @wussdotorg       RT @cjdinger: What versions of R are supported by SAS? http://blogs.sas.com/content/iml/2013/09/16/what-versions-of-r-are-supported-by-sas/ from @rickwicklin #rstats #sas
+379738284890816512  Sep 16 18:47  @epistatistic     RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379738981237145601  Sep 16 18:50  @thanhtungmilan   RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379742354199937024  Sep 16 19:03  @KLJohnson721     RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379743203898839040  Sep 16 19:06  @CZDS             RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379743338599297024  Sep 16 19:07  @berkeleymalagon  #Rstats and MongoDB http://bit.ly/1ejDQl3
+379743929069219840  Sep 16 19:09  @andharris        Imagine what he could create if he learned #rstats  instead of excel. http://www.spoon-tamago.com/2013/05/28/tatsuo-horiuchi-excel-spreadsheet-artist/
+379762705520787456  Sep 16 20:24  @b1205            RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379767911448989696  Sep 16 20:45  @mimmyfun         RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379768302949892096  Sep 16 20:46  @eduardo_leoni    RT @RLangTip: Use variable name in plot title: hist(var,main=substitute(paste("Dist of ",var))) #rstats http://bit.ly/18cN8XN
+379770078780063744  Sep 16 20:53  @strongtooth      RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
