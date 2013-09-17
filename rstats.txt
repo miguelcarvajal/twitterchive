@@ -18240,3 +18240,21 @@
 379767911448989696  Sep 16 20:45  @mimmyfun         RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
 379768302949892096  Sep 16 20:46  @eduardo_leoni    RT @RLangTip: Use variable name in plot title: hist(var,main=substitute(paste("Dist of ",var))) #rstats http://bit.ly/18cN8XN
 379770078780063744  Sep 16 20:53  @strongtooth      RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379779703286280192  Sep 16 21:31  @frenchrh         RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379780416284008448  Sep 16 21:34  @StatsClass       RT @andharris: Imagine what he could create if he learned #rstats  instead of excel. http://www.spoon-tamago.com/2013/05/28/tatsuo-horiuchi-excel-spreadsheet-artist/
+379780416330158080  Sep 16 21:34  @StatsInTheWild   RT @andharris: Imagine what he could create if he learned #rstats  instead of excel. http://www.spoon-tamago.com/2013/05/28/tatsuo-horiuchi-excel-spreadsheet-artist/
+379780730043117568  Sep 16 21:35  @kpeeps111        RT @andharris: Imagine what he could create if he learned #rstats  instead of excel. http://www.spoon-tamago.com/2013/05/28/tatsuo-horiuchi-excel-spreadsheet-artist/
+379781127205957633  Sep 16 21:37  @StatsInTheWild   RT @mle425: Yep. I am a true N. Californian.  MT @jebyrnes @algaebarnacle Dialect survey in #rstats! http://spark.rstudio.com/jkatz/DialectQuiz/ … https://twitter.com/adlleongrVIiT531K
+379781127222747137  Sep 16 21:37  @StatsClass       RT @mle425: Yep. I am a true N. Californian.  MT @jebyrnes @algaebarnacle Dialect survey in #rstats! http://spark.rstudio.com/jkatz/DialectQuiz/ … https://twitter.com/adlleongrVIiT531K
+379784173067575296  Sep 16 21:49  @clarkfitzg       RT @revodavid: @GueyeNono Have you looked at RHadoop? There's a Mapreduce in R tutorial here: http://bit.ly/196PGaP #rstats
+379795298735779840  Sep 16 22:33  @GueyeNono        RT @revodavid: @GueyeNono Have you looked at RHadoop? There's a Mapreduce in R tutorial here: http://bit.ly/196PGaP #rstats
+379795704291414017  Sep 16 22:35  @GueyeNono        Studying economics and using #Rstats? This is where it's at: http://programming-r-pro-bro.blogspot.com/
+379803148228915200  Sep 16 23:05  @AMULETAnalytics  RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379804789606871040  Sep 16 23:11  @Rbloggers        PirateGrunt goes to the CLRS:  (This article was first published on   PirateGrunt » R, and kindly co... http://bit.ly/1eJ6Q6Y #rstats
+379806212830687232  Sep 16 23:17  @lizhmartin       @fudgeh0g @statsforbios #rstats hashtag usually helps me with answers.
+379807287398785024  Sep 16 23:21  @fudgeh0g         1st use of #rstats on new laptop. "Warning message '.path.package' is deprecated. Use 'path.package' instead" on startup. have updated pckgs
+379819531905933312  Sep 17 00:10  @JAdP             RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379821749090541569  Sep 17 00:18  @drago_carlo      Forecasting Daily Data http://www.statsblogs.com/2013/09/17/forecasting-with-daily-data/ via @robjhyndman @StatsBlogs #Forecasting #TimeSeries #Modeling #Seasonality #Rstats
+379837323778613248  Sep 17 01:20  @NaveenanA        RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
+379839641891127296  Sep 17 01:30  @DailyRpackage    cvTools - Cross-validation tools for regression models http://cran.r-project.org/web/packages/cvTools/index.html #RStats
+379860324666470401  Sep 17 02:52  @koenhavlik       Nice R hack: pointers in R http://bit.ly/1grFb5S #rstats #nocopies
