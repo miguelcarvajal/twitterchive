@@ -18258,3 +18258,14 @@
 379837323778613248  Sep 17 01:20  @NaveenanA        RT @sharon000: Princeton's free 12-week Statistics online class starts Sunday at Coursera http://bit.ly/stats1class It will use R #rstats
 379839641891127296  Sep 17 01:30  @DailyRpackage    cvTools - Cross-validation tools for regression models http://cran.r-project.org/web/packages/cvTools/index.html #RStats
 379860324666470401  Sep 17 02:52  @koenhavlik       Nice R hack: pointers in R http://bit.ly/1grFb5S #rstats #nocopies
+379887604474208256  Sep 17 04:40  @Rbloggers        Using planel.groups in lattice:  (This article was first published on   mages' blog, and kindly cont... http://bit.ly/1eK4HaZ #rstats
+379921331912843264  Sep 17 06:54  @MangoTheCat      Using planel.groups in lattice http://www.r-bloggers.com/using-planel-groups-in-lattice/ via @rbloggers #rstats #londonr
+379923852412719104  Sep 17 07:04  @richardpugh      RT @MangoTheCat: Using planel.groups in lattice http://www.r-bloggers.com/using-planel-groups-in-lattice/ via @rbloggers #rstats #londonr
+379930965654528000  Sep 17 07:32  @papachan         RT @revodavid: Nice use of #rstats RT @francoismat: The Data Behind Why Google’s Play Is So Much Harder To Crack Than iOS App Store http://t.co/hlcALgzfSH
+379935078760996864  Sep 17 07:49  @ErynMcFarlane    It's a day of graph making. I think I'm having way too much fun playing with ggplot2. #rstats #gradschool #prettydata
+379935293228339200  Sep 17 07:50  @mrtnj            RT @ErynMcFarlane: It's a day of graph making. I think I'm having way too much fun playing with ggplot2. #rstats #gradschool #prettydata
+379936909633400832  Sep 17 07:56  @mjcavaretta      Anyone tried this? MT @baogorek: Finding cause\effect relationships in data? See the pcalg R package http://cran.r-project.org/web/packages/pcalg/vignettes/pcalgDoc.pdf #rstats
+379943571941756928  Sep 17 08:23  @GarfieldFisher   Putting the #RStats in Cloudera and Hortonworks #Hadoop | @scoopit via @bigdatameetups http://sco.lt/7g8VIf
+379950500436660224  Sep 17 08:50  @MangoTheCat      How many time have you types “which(data$var == max (data$var))”?  I’ve just discovered the “which.max” function … #rstats
+379950971050160128  Sep 17 08:52  @chenghlee        Using RColorBrewer to develop more #colorblind friendly palettes for your #viz. http://www.mollietaylor.com/2012/10/color-blindness-and-palette-choice.html via @statsforbios #rstats
+379951254988136448  Sep 17 08:53  @Terence_OM       Your Very Own Countdown Numbers Game Simulator #rstats… http://tmblr.co/Z7bbYqvHNuC9
