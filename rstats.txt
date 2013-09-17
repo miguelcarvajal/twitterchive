@@ -18269,3 +18269,53 @@
 379950500436660224  Sep 17 08:50  @MangoTheCat      How many time have you types “which(data$var == max (data$var))”?  I’ve just discovered the “which.max” function … #rstats
 379950971050160128  Sep 17 08:52  @chenghlee        Using RColorBrewer to develop more #colorblind friendly palettes for your #viz. http://www.mollietaylor.com/2012/10/color-blindness-and-palette-choice.html via @statsforbios #rstats
 379951254988136448  Sep 17 08:53  @Terence_OM       Your Very Own Countdown Numbers Game Simulator #rstats… http://tmblr.co/Z7bbYqvHNuC9
+379952993560317952  Sep 17 09:00  @statisticsblog   R tip of the day - Putting the R in Cloudera and Hortonworks Hadoop. http://i.cx/17EPMZw #r #rstats #hadoop #cloudera @revodavid
+379954623806595073  Sep 17 09:06  @XypressLLC       RT @statisticsblog: R tip of the day - Putting the R in Cloudera and Hortonworks Hadoop. http://i.cx/17EPMZw #r #rstats #hadoop #cloudera @revodavid
+379959420332933121  Sep 17 09:25  @timelyportfolio  RT @MangoTheCat: How many time have you types “which(data$var == max (data$var))”?  I’ve just discovered the “which.max” function … #rstats
+379978905689792512  Sep 17 10:43  @kdnuggets        Using Twitter Data with R #rstats, updated for API changes - great explanation by Ajay Ohri http://bit.ly/1aQj1gq
+379979188520124416  Sep 17 10:44  @caitodee         RT @kdnuggets: Using Twitter Data with R #rstats, updated for API changes - great explanation by Ajay Ohri http://bit.ly/1aQj1gq
+379980084473389056  Sep 17 10:48  @darinself        Breakdown of methods used in AJPS and APSR since 1980- unfixed y axis. #Rstats  #TRIP http://t.co/HEKFCBoDZG
+379980149652873216  Sep 17 10:48  @darinself        Breakdown of methods used in AJPS and APSR since 1980- fixed y axis. #Rstats  #TRIP http://t.co/eso6GbjRoV
+379980513592627200  Sep 17 10:49  @csimokat         RT @kdnuggets: Using Twitter Data with R #rstats, updated for API changes - great explanation by Ajay Ohri http://bit.ly/1aQj1gq
+379980851041157120  Sep 17 10:51  @felixhaass       RT @darinself: Breakdown of methods used in AJPS and APSR since 1980- fixed y axis. #Rstats  #TRIP http://t.co/eso6GbjRoV
+379981141975244800  Sep 17 10:52  @quandl           Why I am abandoning #Matlab in favour of #Python & #R by Arthur Lugtigheid http://qndl.co/17EvvC3 #Rstats
+379981334631833601  Sep 17 10:53  @raunakjhawar     RT @kdnuggets: Using Twitter Data with R #rstats, updated for API changes - great explanation by Ajay Ohri http://bit.ly/1aQj1gq
+379983185607553024  Sep 17 11:00  @statisticsblog   R GIS: Polygon Intersection with gIntersection{rgeos}. http://i.cx/15AcGBP #r #rstats
+379984969755803648  Sep 17 11:07  @michaelstencl    RT @kdnuggets: Using Twitter Data with R #rstats, updated for API changes - great explanation by Ajay Ohri http://bit.ly/1aQj1gq
+379987353169055744  Sep 17 11:16  @kevinkeenan_     My @evoldir announcement re. the diveRsity package has led to a 100% reduction in me doing work actually related to my PhD #popgen #Rstats
+379987619889033216  Sep 17 11:18  @Lidinwise        RT @M_T_Patterson: Using google's API with R (via @Rbloggers ) https://gist.github.com/josecarlosgonz/6417633 #RStats
+379990585140314112  Sep 17 11:29  @hadleywickham    join me, @simplystats, @hmason and more for the first simply statistics unconference Oct 30: http://simplystatistics.org/2013/09/17/announcing-the-simply-statistics-unconference-on-the-future-of-statistics-futureofstats/ #rstats
+379992630408392704  Sep 17 11:37  @darinself        Methodology trend in articles pub by International Organization and International Security  #Rstats #TRIP fixed yaxis http://t.co/7sB3y7ZppW
+379992804262305792  Sep 17 11:38  @darinself        Methodology trend in articles pub by International Organization and International Security  #Rstats #TRIP unfixed Y http://t.co/vH3xrqUcDD
+379993155958890496  Sep 17 11:40  @MDubins          Sometimes when I want to load plyr, I type "library(ddply)".  Shows my priorities!  #rstats
+379994888105771008  Sep 17 11:46  @DEAGiles         RT @quandl: Why I am abandoning #Matlab in favour of #Python & #R by Arthur Lugtigheid http://qndl.co/17EvvC3 #Rstats
+379995748617568257  Sep 17 11:50  @ErikJohnline     I have a love-hate relationship with #rstats, and I love our relationship.
+379996801341718528  Sep 17 11:54  @Ali_Alkan        Using Twitter Data with R #rstats updated for API changes http://decisionstats.com/2013/09/11/using-twitter-data-with-r/
+379996871197876224  Sep 17 11:54  @InforA           RT @Ali_Alkan: Using Twitter Data with R #rstats updated for API changes http://decisionstats.com/2013/09/11/using-twitter-data-with-r/
+379996948276600833  Sep 17 11:55  @VeriMadenciligi  RT @Ali_Alkan: Using Twitter Data with R #rstats updated for API changes http://decisionstats.com/2013/09/11/using-twitter-data-with-r/
+379997197884211200  Sep 17 11:56  @hadleywickham    RT @MDubins: Sometimes when I want to load plyr, I type "library(ddply)".  Shows my priorities!  #rstats
+379997752588922880  Sep 17 11:58  @polesasunder     RT @MDubins: Sometimes when I want to load plyr, I type "library(ddply)".  Shows my priorities!  #rstats
+379999418336157696  Sep 17 12:04  @Zementis         On-demand Webinars & Videos: Predictive Analytics #bigdata #dataminig w #Hadoop #rstats #IBM #SPSS #PMML and more http://buff.ly/1eBoua7
+379999694401064960  Sep 17 12:06  @RLangTip         Type ?Syntax to learn the precedence of operators in the R language: http://bit.ly/NaI9lG #rstats
+380000285303005184  Sep 17 12:08  @yodacomplex      RT @RLangTip: Type ?Syntax to learn the precedence of operators in the R language: http://bit.ly/NaI9lG #rstats
+380000509647548416  Sep 17 12:09  @DiogoProvete     RT @RLangTip: Type ?Syntax to learn the precedence of operators in the R language: http://bit.ly/NaI9lG #rstats
+380001383648210944  Sep 17 12:12  @therealprotonk   RT @MDubins: Sometimes when I want to load plyr, I type "library(ddply)".  Shows my priorities!  #rstats
+380002894151299072  Sep 17 12:18  @MarchiMax        My December hockey trip, planned with the help of #rstats - 8 games in 8 days (7 cities, 14 teams, 5 leagues) http://goo.gl/sdT9pw
+380005031073697792  Sep 17 12:27  @timelyportfolio  RT @MarchiMax: My December hockey trip, planned with the help of #rstats - 8 games in 8 days (7 cities, 14 teams, 5 leagues) http://t.co/RS10kptqKw
+380011799858647040  Sep 17 12:54  @nyhackr          Tonight's #rstats meetup is going to be great with @johnmyleswhite and @Rbloggers founder @talgalili http://bit.ly/17a5pUV
+380012785767559168  Sep 17 12:58  @RickSaporta      Excited for this one MT @nyhackr: Tonight's #rstats meetup with @johnmyleswhite and @Rbloggers founder @talgalili http://bit.ly/17a5pUV
+380019539289059328  Sep 17 13:24  @jirtob           RT @kdnuggets: Using Twitter Data with R #rstats, updated for API changes - great explanation by Ajay Ohri http://bit.ly/1aQj1gq
+380021461349830656  Sep 17 13:32  @mattgarciablitz  RT @RLangTip: Type ?Syntax to learn the precedence of operators in the R language: http://bit.ly/NaI9lG #rstats
+380021882948681728  Sep 17 13:34  @ddalyie          RT @kdnuggets: Using Twitter Data with R #rstats, updated for API changes - great explanation by Ajay Ohri http://bit.ly/1aQj1gq
+380023304855101441  Sep 17 13:39  @llthurman        Very helpful! MT @sjGoring @rOpenSci a "Get Started" for ecologists who want to use #rstats and #Github http://downwithtime.wordpress.com/2013/09/13/writing-and-collaborating-on-github-a-primer-for-paleoecologists/
+380023585542135808  Sep 17 13:40  @Rbloggers        A nifty area plot (or a bootleg of a ggplot geom):  (This article was first published on   R is my f... http://bit.ly/19aItGP #rstats
+380024784504881152  Sep 17 13:45  @tjshipman1       RT @kdnuggets: 60+ R resources, sites, software, books, blogs, and more to improve your data/analytics skills #rstats http://bit.ly/1aXsNJZ
+380025140014116866  Sep 17 13:47  @SarahSyrphid     Getting lots of #rstats help from @recology_  I wish there was an intro R course at @umanitoba R is great, but I don't speak the language.
+380026200850067456  Sep 17 13:51  @Gliders_Coach    Forecasting with daily data http://bit.ly/153yHVR  #rstats useful for web analytics
+380026380290772992  Sep 17 13:52  @Gliders_Coach    RT @hadleywickham: developing #rstats packages is easy: http://bit.ly/pkgsrez3 (so easy you should be doing it already)
+380026490924310529  Sep 17 13:52  @joscani          RT @RLangTip: Type ?Syntax to learn the precedence of operators in the R language: http://bit.ly/NaI9lG #rstats
+380033639347519488  Sep 17 14:20  @LaDiii88         RT @noamross: Using #rstats at #UCDavis? Join the Davis R Users Group, and help us pick a meeting time for the fall: http://www.noamross.net/davis-r-users-group.html
+380036660169154560  Sep 17 14:32  @moneywithwings   RT @jaredlander: Come see @johnmyleswhite & @talgalili ( @Rbloggers ) speak at the next #rstats meetup at @knewton http://bit.ly/17a5pUV
+380038775809654784  Sep 17 14:41  @MDubins          Hats off to the makers of the ff package.  Without it, I would be using another stats program for really large datasets *shudder* #rstats
+380039238730801152  Sep 17 14:43  @randyzwitch      Clustering Search Keywords Using K-Means Clustering http://randyzwitch.com/rsitecatalyst-k-means-clustering/ #AdobeAnalytics #omniture #rstats #measure
+380039469610831874  Sep 17 14:44  @JeffChasin       RT @randyzwitch: Clustering Search Keywords Using K-Means Clustering http://randyzwitch.com/rsitecatalyst-k-means-clustering/ #AdobeAnalytics #omniture #rstats #measure
