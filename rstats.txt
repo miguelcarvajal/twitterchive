@@ -18360,3 +18360,56 @@
 380300797277245440  Sep 18 08:02  @mjcavaretta      #rattle, #rapidminer, #weka, #rstats (statistical lang R) MT @jl_loren: Can anyone recommend me a #free #software for #datamining
 380308637614211072  Sep 18 08:33  @AnneWHilborn     RT @TrevorABranch: New and expanded R reference card v2.0. Put it on the wall in front of your computer. #HowDidImissThis #rstats  http://t.co/clWmlPMig4
 380310645100400640  Sep 18 08:41  @johannux         Web Analytics with R: What is web analytics; why use R; tips for newbies. Presentation to MelbURN http://www.slideshare.net/johanndeboer/web-analytics-with-r-melb-urn #ganalytics #rstats
+380320086952644608  Sep 18 09:19  @darinself        Methods used to analyze terrorism since 2001 in top 12 IR journals. #Rstats #TRIP http://t.co/kEoPPZirob
+380323183603109888  Sep 18 09:31  @statsforbios     apropos('search term') to search all functions in #Rstats. e.g. apropos('test') gives a list of stats tests.
+380323538156412928  Sep 18 09:32  @amhst20          RT @darinself: Methods used to analyze terrorism since 2001 in top 12 IR journals. #Rstats #TRIP http://t.co/kEoPPZirob
+380324008261996545  Sep 18 09:34  @brian_jphillips  RT @darinself: Methods used to analyze terrorism since 2001 in top 12 IR journals. #Rstats #TRIP http://t.co/kEoPPZirob
+380325410996637696  Sep 18 09:40  @JeffHemsley      Hey @rmason, you can access and plot your fitbit data with R http://bit.ly/150FPri  #rstats #dataviz via @sharon000 @znmeb
+380328438210379776  Sep 18 09:52  @chipmonkey75     Great post with a little code and nice charts about time-series analysis in R with SSA and EMD: http://wp.me/pSi4e-ec via @wfolta #Rstats
+380330499245608960  Sep 18 10:00  @genetics_blog    Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+380331056072626176  Sep 18 10:02  @msgbi            @TeraEuro fuego und #rstats aber anspruchsvoller ;)
+380331066747129856  Sep 18 10:02  @bishwasapkota    RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+380334902224633856  Sep 18 10:18  @ErikJohnline     Here’s a cool #rstats trick: need to plot “text” in top left corner without using coords? Use legend(”topleft”,”text”,bty=”n”,x.intersp=0)
+380335386787979264  Sep 18 10:19  @asela_1          RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+380337342256394240  Sep 18 10:27  @revodavid        Teradata and @RevolutionR bring R into the Database http://bit.ly/17Jueed #rstats
+380337730867064832  Sep 18 10:29  @pstyd            RT @revodavid: Teradata and @RevolutionR bring R into the Database http://bit.ly/17Jueed #rstats
+380339618685538305  Sep 18 10:36  @sandhu08         RT; “@revodavid: Teradata and @RevolutionR bring R into the Database http://bit.ly/17Jueed #rstats”
+380342339618603009  Sep 18 10:47  @randyzwitch      RT @Jowanza: Blogged about using Survival Analysis with A/B Test data: http://bit.ly/15AVVqb #measure #rstats
+380342508729171968  Sep 18 10:48  @BadHessian       RT @Jowanza: Blogged about using Survival Analysis with A/B Test data: http://bit.ly/15AVVqb #measure #rstats
+380344314653462528  Sep 18 10:55  @rOpenSci         New version of rplos (0.3) on CRAN http://bit.ly/zWOXdi Search @plos full text from #rstats
+380344331233538049  Sep 18 10:55  @recology_        RT @rOpenSci: New version of rplos (0.3) on CRAN http://bit.ly/zWOXdi Search @plos full text from #rstats
+380346784423227393  Sep 18 11:05  @TrevorABranch    .@tomjwebb this is often useful too  spp.list <- sort(unique(df$species)) returns sorted non-duplicated species list #rstats
+380348619443822592  Sep 18 11:12  @MoritzBuchi      "they live in the innocent world of bivariate plots and lm()" #Bayes #rstats  http://www.petrkeil.com/?p=1515
+380349357901357056  Sep 18 11:15  @statsforbios     bartlett.test() performs a parametric test of equal variance assuming normally distributed samples. #Rstats
+380351487521472512  Sep 18 11:23  @RinushaIrudeen   RT @revodavid: Teradata and @RevolutionR bring R into the Database http://bit.ly/17Jueed #rstats
+380352529009106945  Sep 18 11:28  @ElitaJaun        RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+380355181411840000  Sep 18 11:38  @Lanciaux_Maxime  RT @revodavid: Teradata and @RevolutionR bring R into the Database http://bit.ly/17Jueed #rstats
+380356489321279488  Sep 18 11:43  @revodavid        On Tuesday, @marked_man and I will present the Modern Data Architecture of @hortonworks with R. Register at http://bit.ly/16f9mHG #rstats
+380359402462511104  Sep 18 11:55  @sjGoring         Why is #ggplot giving me strange lines on my maps?  #rstats code is here: http://pastebin.com/JAr4RyZG #whatamidoingwrong! http://t.co/JbbM8qGfjj
+380362151686582272  Sep 18 12:06  @RLangTip         Meet other R users at a local R user group in your area: http://bit.ly/oa5sx5 #rstats
+380362526732455936  Sep 18 12:07  @stephhazlitt     RT @RLangTip: Meet other R users at a local R user group in your area: http://bit.ly/oa5sx5 #rstats
+380364633724698626  Sep 18 12:16  @pascalin         RT @RLangTip: Meet other R users at a local R user group in your area: http://bit.ly/oa5sx5 #rstats
+380364890071781376  Sep 18 12:17  @keegsdur         Nested list subset trick in R: extract sub-element e from each item in list L with: sapply(1:length(L), function(i) L[[i]][[e]]) #rstats
+380366590341951489  Sep 18 12:23  @benjaminlind     Networks go #metal today @BadHessian. "Patterns in the Ivy: The Small World of Metal" http://badhessian.org/2013/09/patterns-in-the-ivy-the-small-world-of-metal/ #sna #rstats
+380367762230480896  Sep 18 12:28  @recology_        taxize (taxonomic toolbelt for #rstats) manuscript on @F1000Research http://bit.ly/16EMKF1 - submitted via @writelatex
+380369715622731777  Sep 18 12:36  @DiogoProvete     RT @recology_: taxize (taxonomic toolbelt for #rstats) manuscript on @F1000Research http://bit.ly/16EMKF1 - submitted via @writelatex
+380370825762705408  Sep 18 12:40  @imser_           RT @RLangTip: Type ?Syntax to learn the precedence of operators in the R language: http://bit.ly/NaI9lG #rstats
+380371353007702016  Sep 18 12:42  @writelatex       RT @recology_: taxize (taxonomic toolbelt for #rstats) manuscript on @F1000Research http://bit.ly/16EMKF1 - submitted via @writelatex
+380371886808383488  Sep 18 12:44  @DrHammersley     RT @recology_: taxize (taxonomic toolbelt for #rstats) manuscript on @F1000Research http://bit.ly/16EMKF1 - submitted via @writelatex
+380373842310361088  Sep 18 12:52  @raviupanishad    RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+380374346000498688  Sep 18 12:54  @LornaCTweets     RT @recology_: taxize (taxonomic toolbelt for #rstats) manuscript on @F1000Research http://bit.ly/16EMKF1 - submitted via @writelatex
+380375789310472192  Sep 18 13:00  @statisticsblog   R tip of the day - how to plot a timeline with different areas in R. http://i.cx/1eneZNd #r #rstats #plot #visual #chart #graph
+380378573707563008  Sep 18 13:11  @algaebarnacle    Beautiful plots. RT @statisticsblog: R tip of the day - how to plot a timeline with different areas in R. http://i.cx/1eneZNd #rstats
+380382240510713856  Sep 18 13:26  @recology_        Is there a good reason for complicated #rstats task view formatting requirements? http://bit.ly/17JS0GR Why not just #MD -> #html and done?
+380383997273985024  Sep 18 13:33  @Rapid_I          RT @mjcavaretta: #rattle, #rapidminer, #weka, #rstats (statistical lang R) MT @jl_loren: Can anyone recommend me a #free #software for #datamining
+380386645842747392  Sep 18 13:43  @noamross         #stackoverflow question: Is there an equivalent to plyr::ddply's .drop=FALSE in data.table? http://stackoverflow.com/q/18878854/1757441?stw=2 #rstats #plyr #data.table
+380386675601334272  Sep 18 13:43  @omegaleph        An interesting project for learning #rstats  http://www.datamind.org
+380390882328866816  Sep 18 14:00  @statisticsblog   A simple forecasting technique with R. http://i.cx/1eNmNZG #r #rstats #forecasting
+380391105084555264  Sep 18 14:01  @dnanexus         RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+380392033006809088  Sep 18 14:05  @Point_Mutation   RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+380393991013154816  Sep 18 14:12  @MMMarksman       RT @recology_: taxize (taxonomic toolbelt for #rstats) manuscript on @F1000Research http://bit.ly/16EMKF1 - submitted via @writelatex
+380397743963111424  Sep 18 14:27  @paridebertulio   RT @RLangTip: Meet other R users at a local R user group in your area: http://bit.ly/oa5sx5 #rstats
+380398280213282816  Sep 18 14:29  @Fishy_Hayes      RT @recology_: taxize (taxonomic toolbelt for #rstats) manuscript on @F1000Research http://bit.ly/16EMKF1 - submitted via @writelatex
+380399364901838848  Sep 18 14:34  @smacneil_        RT @FastBigData: “@mortardata: This week's Hadoop Weekly features news on R + Hadoop integration and DataFu http://ow.ly/oGPNc” #rstats
+380399691180953600  Sep 18 14:35  @rapporters       Meet us at the Pioneers Festival on the 30-31st of October 2013 in Vienna: https://pioneers.meetin.gs/meet/daroczig/pioneers @PioneersHQ #startups #cloud #rstats
+380402649931083776  Sep 18 14:47  @M_T_Patterson    NFL Data Analysis: Better schools have smarter Quarterbacks, but only if they're in the top 50. #NFL, #RStats, #Data http://t.co/zc4MnwIRB2
