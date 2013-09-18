@@ -18319,3 +18319,22 @@
 380038775809654784  Sep 17 14:41  @MDubins          Hats off to the makers of the ff package.  Without it, I would be using another stats program for really large datasets *shudder* #rstats
 380039238730801152  Sep 17 14:43  @randyzwitch      Clustering Search Keywords Using K-Means Clustering http://randyzwitch.com/rsitecatalyst-k-means-clustering/ #AdobeAnalytics #omniture #rstats #measure
 380039469610831874  Sep 17 14:44  @JeffChasin       RT @randyzwitch: Clustering Search Keywords Using K-Means Clustering http://randyzwitch.com/rsitecatalyst-k-means-clustering/ #AdobeAnalytics #omniture #rstats #measure
+380044862050955264  Sep 17 15:05  @rmflight         #blogpost doing @Bioconductor  package dev, or want to use mult. #rstats versions with sep. libraries? my solution http://rmflight.github.io/posts/2013/09/bioconductorDevLibs.html
+380048105666002944  Sep 17 15:18  @GSwithR          RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY #rstats
+380048542779584512  Sep 17 15:20  @GSwithR          @SarahSyrphid @recology_ @umanitoba try @GSwithR book for a primer in computer and data organising, import, explore and graph for #rstats
+380053389884661761  Sep 17 15:39  @anniemthompson   Split and arrange data frames, then apply functions, with R package "plyr." http://bit.ly/2KFS6y #rstats
+380066127184793600  Sep 17 16:30  @bjdewilde        RT @nyhackr: Tonight's #rstats meetup is going to be great with @johnmyleswhite and @Rbloggers founder @talgalili http://bit.ly/17a5pUV
+380067581421715456  Sep 17 16:35  @tim_yates        Whisker is a {{Mustache}} implementation in R confirming to the Mustache specification https://github.com/edwindj/whisker (via @ramnath_vaidya) #rstats
+380077132354818049  Sep 17 17:13  @Jowanza          Blogged about using Survival Analysis with A/B Test data: http://bit.ly/15AVVqb #measure #rstats
+380087057722253313  Sep 17 17:53  @RudiShumpert     RT @randyzwitch: Clustering Search Keywords Using K-Means Clustering http://randyzwitch.com/rsitecatalyst-k-means-clustering/ #AdobeAnalytics #omniture #rstats #measure
+380088305896800259  Sep 17 17:58  @IstvanHajnal     RT @ucfagls: Michael Greenacre's book "Biplots in Practice" free to download from http://bit.ly/102ozOL with #rstats scripts to complement
+380089677245460480  Sep 17 18:03  @lucaborger       RT @revodavid: R animation gives a behind-the scenes peek into the workings of Bayesian Stats algorithm http://bit.ly/16g2BJY  #rstats
+380096417882058753  Sep 17 18:30  @amestadmx        RT @RLangTip: Type ?Syntax to learn the precedence of operators in the R language: http://bit.ly/NaI9lG #rstats
+380098911542603776  Sep 17 18:40  @prabhasp         Every time I use R for a new problem, I'm flabbergasted by the amount of existing work / algorithms I can build off of. #rstats is awesome!
+380106972214743040  Sep 17 19:12  @Rbloggers        Clustering Search Keywords Using K-Means Clustering:  (This article was first published on   randyzw... http://bit.ly/1eN5bx6 #rstats
+380107294555389952  Sep 17 19:13  @recology_        draft "Working with data on the web" taskview updated http://bit.ly/1eMuxJ3 #rstats
+380109502252453888  Sep 17 19:22  @neilfws          RT @recology_: draft "Working with data on the web" taskview updated http://bit.ly/1eMuxJ3 #rstats
+380109662281924608  Sep 17 19:23  @TrevorABranch    New and expanded R reference card v2.0. Put it on the wall in front of your computer. #HowDidImissThis #rstats  http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf
+380110117359730688  Sep 17 19:24  @NubianOR         Thanks for sharing. Printing out for hubs. MT @TrevorABranch: New and expanded R reference card v2.0. #rstats  http://bit.ly/15B7FbX
+380130407725154305  Sep 17 20:45  @idigdata         RT @kdnuggets: Using Twitter Data with R #rstats, updated for API changes - great explanation by Ajay Ohri http://bit.ly/1aQj1gq
+380130548716699648  Sep 17 20:45  @idigdata         RT @cjdinger: What versions of R are supported by SAS? http://blogs.sas.com/content/iml/2013/09/16/what-versions-of-r-are-supported-by-sas/ from @rickwicklin #rstats #sas
