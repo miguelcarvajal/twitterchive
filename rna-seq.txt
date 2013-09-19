@@ -4022,3 +4022,8 @@
 380443760087535616  Sep 18 17:30  @PacBio           RT @IcahnInstitute: Vince Magrini @GenomeInstitute  using long RNA-Seq reads to improve gene annotation - identified 1,500 additional genes w/ PacBio #PacBioUGM
 380449351434526720  Sep 18 17:52  @OmicsOmicsBlog   RT @infoecho: VM talks aPbout using RNA seq to improve genome annotation, 16k genes in reference  to ~17.5k genes with Pacbio  #PacBioUGM
 380482472384798720  Sep 18 20:04  @kaittenage       will check how this Poisson-based classifier performs compared to LDA w/transformed RNA-seq counts. My bet is on LDA http://bit.ly/18Al4O4
+380541526050209792  Sep 18 23:59  @LeucineRichBio   A New RNA-Seq Method to Detect the Transcription and Non-coding RNA in Prostate Cancer. http://www.ncbi.nlm.nih.gov/pubmed/24043589?dopt=Abstract
+380541604890570752  Sep 18 23:59  @hirooshi007      RNA-Seq
+380552041833439232  Sep 19 00:40  @rnomics          DEXUS: identifying differential expression in RNA-Seq studies with unknown conditions http://bit.ly/18cBdLE Detection of differential ex...
+380570351572242432  Sep 19 01:53  @hirooshi007      RNA-Seqが何なのかわからない限り イルミナのデータを解析するのは不可能
+380581935019343872  Sep 19 02:39  @hirooshi007      RSEM=期待値最大化によるRNA-Seq
