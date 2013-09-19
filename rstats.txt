@@ -18413,3 +18413,23 @@
 380399364901838848  Sep 18 14:34  @smacneil_        RT @FastBigData: “@mortardata: This week's Hadoop Weekly features news on R + Hadoop integration and DataFu http://ow.ly/oGPNc” #rstats
 380399691180953600  Sep 18 14:35  @rapporters       Meet us at the Pioneers Festival on the 30-31st of October 2013 in Vienna: https://pioneers.meetin.gs/meet/daroczig/pioneers @PioneersHQ #startups #cloud #rstats
 380402649931083776  Sep 18 14:47  @M_T_Patterson    NFL Data Analysis: Better schools have smarter Quarterbacks, but only if they're in the top 50. #NFL, #RStats, #Data http://t.co/zc4MnwIRB2
+380408940791881728  Sep 18 15:12  @Nemoralis        RT @recology_: taxize (taxonomic toolbelt for #rstats) manuscript on @F1000Research http://bit.ly/16EMKF1 - submitted via @writelatex
+380423156324130817  Sep 18 16:08  @MRHelmus         Nice example of k-means clustering of text data sets - web search terms http://randyzwitch.com/rsitecatalyst-k-means-clustering/ #rstats
+380423717907865600  Sep 18 16:10  @Demografia_CSIC  A simple forecasting technique with R. http://i.cx/1eNmNZG #r #rstats #forecasting vía @statisticsblog
+380423989719728128  Sep 18 16:12  @MRHelmus         Big tips for dealing with large data sets in #rstats http://www.mollietaylor.com/search/label/Series%3A%20Large%20Data?m=1
+380425618094977024  Sep 18 16:18  @KTInvasion       @sjGoring I've used the raster #rstats pkg to make data tables of the climate info for locations I need. I'm working on a gist right now.
+380425781744521216  Sep 18 16:19  @MRHelmus         paste, paste0, sprintf short "t u t o r i a l"  http://trinkerrstuff.wordpress.com/2013/09/15/paste-paste0-and-sprintf-2/ #rstats
+380429789137752064  Sep 18 16:35  @AnalyticIdeas    RT @Demografia_CSIC: A simple forecasting technique with R. http://i.cx/1eNmNZG #r #rstats #forecasting vía @statisticsblog
+380436280502255616  Sep 18 17:00  @StatsInTheWild   Check out ShinyHelper #rstats http://www.github.com/jayemerson/ShinyHelper
+380439749732745217  Sep 18 17:14  @trentyarwood     I am doing some stats this week. I am reminded why I am a doctor and not a statistician or a computer programmer. #rstats 
+380446245921107968  Sep 18 17:40  @epistatistic     Which is the best “graphical user interface” with menus (menu-driven) to use in #r? #rstats @Rbloggers @RLangTip
+380447382824964097  Sep 18 17:44  @nachosanchezo    "Torturamos los datos hasta hacerlos hablar. #rstats #SPSS"... uno no sabe si esto es #Promesa o #Amenaza...
+380447626677600256  Sep 18 17:45  @tonyojeda3       We're hosting 2 #rstats workshops on Oct 19th. Come out and learn the lingua franca of #datascience! http://bit.ly/19ePwzw #datadc #dctech
+380447628762570752  Sep 18 17:45  @DataCommunityDC  We're hosting 2 #rstats workshops on Oct 19th. Come out and learn the lingua franca of #datascience! http://bit.ly/19ePwzw #datadc #dctech
+380448314665095169  Sep 18 17:48  @brendan642       #rstats does anyone know how summary.glm() calculates logistic regression stderrs? is this...
+380448673018019840  Sep 18 17:50  @brendan642       @brendan642  ... based on a QR decomp from the last... IRLS iteration? 2nd order loglik approx, therefore a gaussian approx? #rstats
+380455909404581889  Sep 18 18:18  @SergeyKochergan  Where’s the Magic? (EMD and SSA in R) http://www.r-bloggers.com/wheres-the-magic-emd-and-ssa-in-r/ via @rbloggers #DataScience #Rstats #Rblog #timeseries #rstudio #bigdata #RT
+380456551628021760  Sep 18 18:21  @SergeyKochergan  Anomaly Detection Using The Adobe Analytics API http://randyzwitch.com/anomaly-detection-adobe-analytics-api/ #statistics #rstats
+380458251210350593  Sep 18 18:28  @lc0d3r           Top Languages for analytics, data mining, data science http://www.kdnuggets.com/2013/08/languages-for-analytics-data-mining-data-science.html via @kdnuggets #bigdata #rstats #datasci /cc @janstepien
+380480192986095616  Sep 18 19:55  @RevolutionR      Glad to support new local #rstats groups! RT @NashvilleRgroup: big thanks to @revolutionR for sponsoring us as we begin our group!
+380486080316723200  Sep 18 20:18  @Rbloggers        Revolution Analytics and Teradata bring R into the Database:  (This article was first published on  ... http://bit.ly/19gLMMw #rstats

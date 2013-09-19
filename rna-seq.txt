@@ -4013,3 +4013,12 @@
 380334961963696128  Sep 18 10:18  @weedinggems      MT @taylorlabsoton: learning and latest RNA-Seq pipeline at the @iPlantCollab meeting in Warwick #garnetiplant
 380344993887444992  Sep 18 10:58  @cistronic        statistical support for transcript assemblies in biological context, also for statistical comparisons on any network http://bit.ly/11EpBCV
 380398767905570818  Sep 18 14:31  @UMNmsi           MSI tutorial “Galaxy RNA-Seq Tutorial Lecture 2” to be held on Sep 24, 9-11 a.m. Info and registration: http://tinyurl.com/q5elf25
+380434444680585216  Sep 18 16:53  @bioinformer      OS X Time Machine backup + RNA-seq assembly of transcripts + ClamXAV daemon kicking in to scan for viruses == ARGH! http://t.co/RI6ifllFnw
+380439027867865088  Sep 18 17:11  @infoecho         Next, Vince Magrini from WUSTL on "Taking Advantage of Long RNA-Seq Reads" #PacBioUGM
+380439713133649920  Sep 18 17:14  @PacBio           Vince Magrini @GenomeInstitute: Taking Advantage of Long RNA-Seq Reads, starts with self-proclaimed 'boring' proof of principle #PacBioUGM
+380441914321154049  Sep 18 17:23  @mt_ur_mind       RT @PacBio: Vince Magrini @GenomeInstitute: Taking Advantage of Long RNA-Seq Reads, starts with self-proclaimed 'boring' proof of principle #PacBioUGM
+380442685271580672  Sep 18 17:26  @infoecho         VM talks aPbout using RNA seq to improve genome annotation, 16k genes in reference  to ~17.5k genes with Pacbio  #PacBioUGM
+380443074112937984  Sep 18 17:27  @IcahnInstitute   Vince Magrini @GenomeInstitute  using long RNA-Seq reads to improve gene annotation - identified 1,500 additional genes w/ PacBio #PacBioUGM
+380443760087535616  Sep 18 17:30  @PacBio           RT @IcahnInstitute: Vince Magrini @GenomeInstitute  using long RNA-Seq reads to improve gene annotation - identified 1,500 additional genes w/ PacBio #PacBioUGM
+380449351434526720  Sep 18 17:52  @OmicsOmicsBlog   RT @infoecho: VM talks aPbout using RNA seq to improve genome annotation, 16k genes in reference  to ~17.5k genes with Pacbio  #PacBioUGM
+380482472384798720  Sep 18 20:04  @kaittenage       will check how this Poisson-based classifier performs compared to LDA w/transformed RNA-seq counts. My bet is on LDA http://bit.ly/18Al4O4
