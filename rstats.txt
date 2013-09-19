@@ -18449,3 +18449,34 @@
 380574155919220736  Sep 19 02:08  @GueyeNono        RT @sekhardrona: R Reference Card 2.0 http://goo.gl/8FeFRp #rstats
 380579526389923840  Sep 19 02:30  @sjackman         RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
 380583645041688576  Sep 19 02:46  @BioMickWatson    RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+380587531802136576  Sep 19 03:01  @idigdata         RT @sekhardrona: R Reference Card 2.0 http://goo.gl/8FeFRp #rstats
+380588000746278912  Sep 19 03:03  @james_gilbert    Naturally, pirates eschew all other statistical software  #talklikeapirateday #rstats
+380590075920515073  Sep 19 03:11  @Dockroach        RT @james_gilbert: Naturally, pirates eschew all other statistical software  #talklikeapirateday #rstats
+380590259668398080  Sep 19 03:12  @gargar454        RT @SergeyKochergan: Where’s the Magic? (EMD and SSA in R) http://www.r-bloggers.com/wheres-the-magic-emd-and-ssa-in-r/ via @rbloggers #DataScience #Rstats #Rblog #timeseries #rstudio #bigdata #RT
+380597657112035328  Sep 19 03:42  @hfmuehleisen     You know you are getting real wit #Rstats if you call R_RegisterCFinalizerEx() for the first time...
+380597779086970880  Sep 19 03:42  @importio         RT @Jowanza: Looks like a blog post about Barry Bonds and #Rstats is coming up.  @importio is making grabbing this data pretty snappy.
+380598059702317057  Sep 19 03:43  @johannux         RT @JeromyAnglim: New Video: Google Analytics with R http://www.r-bloggers.com/RUG/2013/09/video-google-analytics-with-r/ Melbourne R Users and @johannux #rstats
+380599558327533568  Sep 19 03:49  @drchriscole      RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+380604498949185536  Sep 19 04:09  @SteveLaurie42    RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+380606730343682048  Sep 19 04:18  @Rbloggers        Church numerals in R (or how to prove the existence of natural numbers using the lambda calculus):  ... http://bit.ly/1faFuUZ #rstats
+380622090153390080  Sep 19 05:19  @SergeyKochergan  Statistics One by Andrew Conway https://class.coursera.org/stats1-002/ #statistics #rstats #bigdata @coursera @Princeton @AndrewRAConway #bigdata #RT
+380622460229779456  Sep 19 05:20  @jorgaf           @JonesZM: this is going to be an awesome R #resource http://adv-r.had.co.nz/ #rstats #statistics
+380628492167438336  Sep 19 05:44  @CWBadger12       RT @SergeyKochergan: Statistics One by Andrew Conway https://class.coursera.org/stats1-002/ #statistics #rstats #bigdata @coursera @Princeton @AndrewRAConway #bigdata #RT
+380630011742404608  Sep 19 05:50  @Rbloggers        Video: Google Analytics with R:  (This article was first published on   R User Groups, and kindly co... http://bit.ly/19ijz8i #rstats
+380634241521827841  Sep 19 06:07  @statsforbios     Paper could be replicated in #stata but not #Rstats. Stata was wrong. http://www.r-bloggers.com/can-your-results-be-replicated/
+380645723857231872  Sep 19 06:53  @GarfieldFisher   Revolution Analytics and Teradata bring #RStats into the Database | @scoopit http://sco.lt/848Oo5
+380657035492478976  Sep 19 07:38  @pschulam         Keeping your data tidy #rstats http://vita.had.co.nz/papers/tidy-data.pdf
+380657192221020160  Sep 19 07:38  @kevrichard       RT @pschulam: Keeping your data tidy #rstats http://vita.had.co.nz/papers/tidy-data.pdf
+380660677641527296  Sep 19 07:52  @davdittrich      RT @JonesZM: this is going to be an awesome R resource http://adv-r.had.co.nz/ #rstats
+380667959108440064  Sep 19 08:21  @quandl           An animated peek into the workings of Bayesian #Statistics by @revodavid http://qndl.co/15jRm3p #Rstats #data #statistics
+380669083705815040  Sep 19 08:25  @mjcavaretta      Looks interesting. RT @davdittrich @JonesZM: this is going to be an awesome #Rstats resource http://adv-r.had.co.nz/ cc @hadleywickham
+380669117898190848  Sep 19 08:26  @HarlanH          RT @statsforbios: Paper could be replicated in #stata but not #Rstats. Stata was wrong. http://www.r-bloggers.com/can-your-results-be-replicated/
+380669493816483841  Sep 19 08:27  @mjcavaretta      Neat #dataviz RT @quandlsean: animated peek into Bayesian #Statistics by @revodavid http://qndl.co/15jRm3p #Rstats #data #statistics
+380670966655111168  Sep 19 08:33  @KirkDBorne       Free online R Programming book > HT @mjcavaretta: Looks interesting... an awesome #Rstats resource http://adv-r.had.co.nz/ by @hadleywickham
+380672092586655744  Sep 19 08:37  @mjcavaretta      Groan! #Rstats. MT @CKMAdvisors: Happy Talk Like a Pirate Day! Our data scientists are having too much fun talking about Arrrrrrrrr
+380673474920210432  Sep 19 08:43  @KirkDBorne       WOW! Researchers must-read > #Rstats shows published results could not be replicated by HUGE factor! http://www.r-bloggers.com/can-your-results-be-replicated/ ¦ @statsforbios
+380674383876214784  Sep 19 08:47  @drjerrynyc       RT @statsforbios: Paper could be replicated in #stata but not #Rstats. Stata was wrong. http://www.r-bloggers.com/can-your-results-be-replicated/
+380674546728067073  Sep 19 08:47  @bluelephant      RT @statsforbios: Paper could be replicated in #stata but not #Rstats. Stata was wrong. http://www.r-bloggers.com/can-your-results-be-replicated/
+380675666565279744  Sep 19 08:52  @Liliordo         RT @statsforbios: Paper could be replicated in #stata but not #Rstats. Stata was wrong. http://www.r-bloggers.com/can-your-results-be-replicated/
+380676360693223424  Sep 19 08:54  @complex          for #talklikeapirateday @oreillymedia has 50% off R books and videos. http://shop.oreilly.com/category/deals/r-pirate.do marketing, they're doing it right. #rstats
+380676684061499392  Sep 19 08:56  @MandBeasley      RT @KirkDBorne: Free online R Programming book > HT @mjcavaretta: Looks interesting... an awesome #Rstats resource http://adv-r.had.co.nz/ by @hadleywickham
