@@ -18608,3 +18608,38 @@
 380762818691092480  Sep 19 14:38  @clarkfitzg       Cool to be turning people at work on to #rstats
 380765375861760001  Sep 19 14:48  @chrishanretty    RT @RyanGrannell: Command line tools for data science! the final script lets you use unix pipes with #rstats http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
 380765979888074752  Sep 19 14:50  @davdittrich      7 command-line tools for data science (formerly known as statistics) http://ow.ly/23hfmr #rstats
+380768228646998016  Sep 19 14:59  @adkatrit         RT @RyanGrannell: Command line tools for data science! the final script lets you use unix pipes with #rstats http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
+380768397874581504  Sep 19 15:00  @favstar_pop      RT @RyanGrannell: Command line tools for data science! the final script lets you use unix pipes with #rstats http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
+380778494516797441  Sep 19 15:40  @dw_p             Course: Computing for Data Analysis http://ow.ly/p1Nts by @Coursera #rstats #rproject
+380785951012040704  Sep 19 16:10  @pschulam         "Bayesian Forecasting and Dynamic Models" by West and Harrison has a lofty but mind-stretching first chapter; recommend for modelers #rstats
+380786365463797760  Sep 19 16:11  @pschulam         "…a consistent view of the system; and only later, and if appropriate, to use a mathematical description" (2/2) #rstats
+380787153589915648  Sep 19 16:15  @hrbrmstr         Animated IRL Pirate Attacks In R : http://buff.ly/1gEwENe #rstats #RPirate2013 #blogspam #talklikeapirateday http://t.co/nEemFydpIZ
+380787545526632448  Sep 19 16:16  @revodavid        RT @hrbrmstr: Animated IRL Pirate Attacks In R : http://buff.ly/1gEwENe #rstats #RPirate2013 #blogspam #talklikeapirateday http://t.co/nEemFydpIZ
+380788968851111936  Sep 19 16:22  @timelyportfolio  good tutorial from the master michael friendly: vis categorical data with #rstats http://www.datavis.ca/courses/VCD/
+380789209012776960  Sep 19 16:23  @christoper_hamm  #DavisRUserGroup work session now. Playing around with #phylogenetics #RStats
+380789670034276352  Sep 19 16:25  @pschulam         H&W "analytic methods have some contribution to offer, but they must be seen as servants of explanatory thought and not its usurper" #rstats
+380790712909840384  Sep 19 16:29  @andyteucher      RT @hrbrmstr: Animated IRL Pirate Attacks In R : http://buff.ly/1gEwENe #rstats #RPirate2013 #blogspam #talklikeapirateday http://t.co/nEemFydpIZ
+380793376612024320  Sep 19 16:39  @frod_san         RT @jebyrnes: RT @pschulam: Keeping your data tidy #rstats http://vita.had.co.nz/papers/tidy-data.pdf
+380794548307234816  Sep 19 16:44  @kara_woo         I've never met the person whose #rstats code I'm currently reading, but based on the comments I think we'd get along.
+380798479410688000  Sep 19 17:00  @jonesor          RT @rOpenSci: New use case: Match tables with different taxon names in #rstats  http://bit.ly/18d3aF3
+380799813127643136  Sep 19 17:05  @brianabelson     why does base `merge()` perform so much better than `plyr::join()` in #rstats ?
+380800066568462337  Sep 19 17:06  @Sakkaden         Nice marketing: to celebrate International Talk Like a Pirate Day, O’Reilly has a 50% sale on ‘R’ e-books: http://shop.oreilly.com/category/deals/r-pirate.do?code=DEAL #rstats
+380800675015172096  Sep 19 17:08  @timelyportfolio  RT @datennutzen: Interactive Graphics with #rstats - Course in Germany in October with #shiny and #GoogleVis http://blog.eoda.de/2013/09/19/interactive-graphics-with-r-course-kassel-germany-october-24/
+380801478354821120  Sep 19 17:12  @kdnuggets        R tips for dealing with (moderately) Large Data: only load Data if not already open in R #rstats http://shrd.by/pStzy5
+380804629350862848  Sep 19 17:24  @MikePearmain     RT @RyanGrannell: Command line tools for data science! the final script lets you use unix pipes with #rstats http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
+380805452138684416  Sep 19 17:27  @Hacktuarial      RT @hrbrmstr: Animated IRL Pirate Attacks In R : http://buff.ly/1gEwENe #rstats #RPirate2013 #blogspam #talklikeapirateday http://t.co/nEemFydpIZ
+380805798613377024  Sep 19 17:29  @zKanCS           RT @kdnuggets: R tips for dealing with (moderately) Large Data: only load Data if not already open in R #rstats http://shrd.by/pStzy5
+380810543998574592  Sep 19 17:48  @georgedarroch    RT @hrbrmstr: Animated IRL Pirate Attacks In R : http://buff.ly/1gEwENe #rstats #RPirate2013 #blogspam #talklikeapirateday http://t.co/nEemFydpIZ
+380814997409914880  Sep 19 18:05  @dckallos         RT @Zementis: On-demand Webinars & Videos: Predictive Analytics #bigdata #dataminig w #Hadoop #rstats #IBM #SPSS #PMML and more http://t.co/aWDq4appbQ
+380822058344927232  Sep 19 18:33  @frzambra         Simply Statistics http://simplystatistics.org/2013/09/17/announcing-the-simply-statistics-unconference-on-the-future-of-statistics-futureofstats/ #rstats cc @gvegayon
+380822073343352832  Sep 19 18:33  @kathryn_tm       Why is the first actual symbol I'd want to use in a scatterplot pch=16 ? #rstats
+380826795747966976  Sep 19 18:52  @ucfagls          @kathryn_tm S! That is all you need to know... #rstats
+380827492535136256  Sep 19 18:55  @davidjayharris   @hylopsar possibly useful tip: one can use from=0 in the density function to avoid that problem in #Rstats
+380827776799875073  Sep 19 18:56  @hylopsar         RT @davidjayharris: @hylopsar possibly useful tip: one can use from=0 in the density function to avoid that problem in #Rstats
+380828460446257152  Sep 19 18:59  @joey4J           FOAS becomes hottest thing in open source data science #rstats http://wp.me/p9q8Y-2V3 via @Gliders_Coach
+380831120394174464  Sep 19 19:09  @planarrowspace   "Computing in the Statistics Curricula" is a good idea http://www.stat.berkeley.edu/~statcur/Preprints/ComputingCurric3.pdf thanks Nolan and Lang @duncantl #Rstats etc.
+380842668575973376  Sep 19 19:55  @_Econometria     RT @KirkDBorne: Free online R Programming book > HT @mjcavaretta: Looks interesting... an awesome #Rstats resource http://adv-r.had.co.nz/ by @hadleywickham
+380844531161133056  Sep 19 20:03  @davidjayharris   Upon actually reading the docs for `density` in #Rstats, I've decided to retract my suggestion about using from=0.  cc @hylopsar @ucfagls
+380844803170516992  Sep 19 20:04  @gvegayon         RT @frzambra: Simply Statistics http://simplystatistics.org/2013/09/17/announcing-the-simply-statistics-unconference-on-the-future-of-statistics-futureofstats/ #rstats cc @gvegayon
+380847506441392128  Sep 19 20:14  @Anzardo          RT @kdnuggets: R tips for dealing with (moderately) Large Data: only load Data if not already open in R #rstats http://shrd.by/pStzy5
+380851145419538432  Sep 19 20:29  @GrunerDaniel     That's what I'm talking about! #rstats RT @A_unicolorQuest: R you wonderful thing. #Rlove
