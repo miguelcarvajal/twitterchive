@@ -18671,3 +18671,65 @@
 381030912575950848  Sep 20 08:23  @klopiano         RT @kwbroman: .@richierocks Put your #rstats pkg on github and it’s accessible (and browseable) w/o bothering CRAN. install_github is the best. @xieyihui
 381033025469165568  Sep 20 08:32  @quandl           Coursera: Free 12-week #Statistics online class starts on Sunday; introduction to using #R http://qndl.co/1br9tbl #Rstats
 381038855702315008  Sep 20 08:55  @darinself        Number of pubs w/in IR journals w/ Monetary Policy as substantive focus. Only until 2010 unfortunately #Rstats #TRIP http://t.co/LJoDcOgPsW
+381041785092313088  Sep 20 09:06  @ManningMEAP      MEAP Update: R in Action, Second Edition has added chapters 11-14 http://www.manning.com/kabacoff2/ @ManningBooks @kabacoff #Rstats
+381041847440666624  Sep 20 09:07  @ManningBooks     RT @ManningMEAP: MEAP Update: R in Action, Second Edition has added chapters 11-14 http://www.manning.com/kabacoff2/ @ManningBooks @kabacoff #Rstats
+381042484463558656  Sep 20 09:09  @hadleywickham    RT @kwbroman: .@richierocks Put your #rstats pkg on github and it’s accessible (and browseable) w/o bothering CRAN. install_github is the best. @xieyihui
+381044472043167744  Sep 20 09:17  @CrystalEShelton  RT @darinself: Methods used to analyze terrorism since 2001 in top 12 IR journals. #Rstats #TRIP http://t.co/kEoPPZirob
+381045822483214337  Sep 20 09:22  @kevinkoosk       RT @darinself: Methods used to analyze terrorism since 2001 in top 12 IR journals. #Rstats #TRIP http://t.co/kEoPPZirob
+381046397094887424  Sep 20 09:25  @jvabad           Using Twitter Data with R #rstats updated for API changes « DECISION STATS http://buff.ly/16Elera #datamining
+381046502241480704  Sep 20 09:25  @oscarperpinan    R, GeoJSON and GitHub http://wp.me/pNSqK-m0 #rstats
+381047729608093696  Sep 20 09:30  @epistatistic     I'm surprised! It's impossible to perform a mixed model (lme4) that incorporates sampling weights with R! #rstats @Rbloggers @RLangTip
+381048168516833280  Sep 20 09:32  @darinself        Prevalence of research on WMDs proliferation and arms control in top IR journals. #Rstats #TRIP http://t.co/Rb995x0lMA
+381048484863823872  Sep 20 09:33  @darinself        Type of methods used to analyze WMD proliferation &arms control  in top 12 IR journals. unfixed y axis #Rstats #TRIP http://t.co/bTQPOeZ24R
+381048839127318529  Sep 20 09:34  @EYE_Epi          RT @epistatistic: I'm surprised! It's impossible to perform a mixed model (lme4) that incorporates sampling weights with R! #rstats @Rbloggers @RLangTip
+381049518625542146  Sep 20 09:37  @darinself        Type of methods used to analyze WMD proliferation &arms control  in top 12 IR journals. fixed y axis #Rstats #TRIP http://t.co/2Zw4H6HEDA
+381053984464990208  Sep 20 09:55  @gsantosgo        RT @oscarperpinan: R, GeoJSON and GitHub http://wp.me/pNSqK-m0 #rstats
+381054287448506369  Sep 20 09:56  @GalenStocking    RT @RyanGrannell: Command line tools for data science! the final script lets you use unix pipes with #rstats http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
+381059730329710592  Sep 20 10:18  @prabhasp         R markdown wish: "source" just the R code from an R-markdown document. #rstats @rstudioapp
+381062879606489089  Sep 20 10:30  @romain_francois  RT @kwbroman: .@richierocks Put your #rstats pkg on github and it’s accessible (and browseable) w/o bothering CRAN. install_github is the best. @xieyihui
+381064770540945408  Sep 20 10:38  @sjGoring         500 hits on my "Getting Started" @github & @rstudioapp post, 1 pull request.  Not a bad ratio. http://downwithtime.wordpress.com/2013/09/13/writing-and-collaborating-on-github-a-primer-for-paleoecologists/ #rstats
+381066376552521730  Sep 20 10:44  @kwbroman         .@geoffjentry True, it’s hard to find #rstats pkgs on github. But CRAN has gotten so enormous, you can’t find anything there either.
+381068267470614528  Sep 20 10:52  @mikecb           RT @kwbroman: .@geoffjentry True, it’s hard to find #rstats pkgs on github. But CRAN has gotten so enormous, you can’t find anything there either.
+381070153493929985  Sep 20 10:59  @NKSBarker        Andy McKee and @Coffivity make a great combination for #Rstats coding and thesis-writing. #AcWri #PhDChat
+381070909722734592  Sep 20 11:02  @MangoTheCat      Advanced R Training  8&9 Oct, London. Learn advanced graphics, data manipulation, create packages etc training@mango-solutions.com #rstats
+381071683341135872  Sep 20 11:05  @treycausey       Reading #rstats code written by software engineers can be really weird.
+381074152989265920  Sep 20 11:15  @revodavid        The "What is R" video has been viewed 10,000 times on YouTube: http://bit.ly/18BBlp0 #rstats
+381076256260767744  Sep 20 11:23  @soafaq           RT @revodavid: The "What is R" video has been viewed 10,000 times on YouTube: http://bit.ly/18BBlp0 #rstats
+381076303308267520  Sep 20 11:24  @DistribEcology   @DrCraigMc @jebyrnes @_inundata This will do you right I think.  https://gist.github.com/emhart/6639202 #rstats
+381076960476020737  Sep 20 11:26  @DistribEcology   Some #rstats code to plot the use of #ubcbdg, of interest to  @polesasunder @skmorgane @srsupp ex. for @DrCraigMc https://gist.github.com/emhart/6639202
+381077469433839616  Sep 20 11:28  @revodavid        R is used in the majority of articles in J Computational and Graphical Statistics http://bit.ly/16eivHx #rstats #ReproducibleResearch
+381079949614264320  Sep 20 11:38  @ElisaTP          RT @revodavid: R is used in the majority of articles in J Computational and Graphical Statistics http://bit.ly/16eivHx #rstats #ReproducibleResearch
+381081391301001217  Sep 20 11:44  @sjGoring         #ff #rstats people: @DistribEcology @recology_ @rOpenSci @_inundata @ucfagls @aparnellstats and @JacquelynGill
+381082103057633281  Sep 20 11:47  @jbenno           RT @revodavid: R is used in the majority of articles in J Computational and Graphical Statistics http://bit.ly/16eivHx #rstats #ReproducibleResearch
+381085695471013888  Sep 20 12:01  @kdnuggets        Teradata snubs SAS, partners with Revolution Analytics for In-Database processing #rstats http://ubm.io/18fWDHF
+381086635804196865  Sep 20 12:05  @soafaq           RT @kdnuggets: Teradata snubs SAS, partners with Revolution Analytics for In-Database processing #rstats http://ubm.io/18fWDHF
+381086812812636160  Sep 20 12:05  @khrabrov         RT @kdnuggets: Teradata snubs SAS, partners with Revolution Analytics for In-Database processing #rstats http://ubm.io/18fWDHF
+381087371326132224  Sep 20 12:08  @RLangTip         To convert dates/times from one timezone to another, use format() on a POSIXct object. Details: http://bit.ly/NaIjcI #rstats
+381089320024961024  Sep 20 12:15  @BI_Australia     RT @kdnuggets: Teradata snubs SAS, partners with Revolution Analytics for In-Database processing #rstats http://ubm.io/18fWDHF
+381089678897594369  Sep 20 12:17  @drago_carlo      R in Action, Second Edition has added chapters 11-14 http://www.manning.com/kabacoff2/ via @ManningMEAP @ManningBooks @kabacoff #Rstats #Statistics
+381089894870695937  Sep 20 12:18  @timtriche        RT @kwbroman: .@richierocks Put your #rstats pkg on github and it’s accessible (and browseable) w/o bothering CRAN. install_github is the best. @xieyihui
+381089939640700928  Sep 20 12:18  @DEAGiles         RT @revodavid: R is used in the majority of articles in J Computational and Graphical Statistics http://bit.ly/16eivHx #rstats #ReproducibleResearch
+381095718611460096  Sep 20 12:41  @Candace35        R in Action, 2e has added chapters 11-14 http://manning.com/kabacoff2/ via  #Rstats #Statistics http://lnkd.in/_JGdiU
+381096359090065408  Sep 20 12:43  @revodavid        Enterprise adoption of the open-source MapReduce, Pig and R #rstats languages will continue to grow - @jameskobielus http://ibm.co/19kEgBD
+381097260521902080  Sep 20 12:47  @YvesMulkers      RT @revodavid: Enterprise adoption of the open-source MapReduce, Pig and R #rstats languages will continue to grow - @jameskobielus http://t.co/scs7lHh9nV
+381099083890298880  Sep 20 12:54  @M_T_Patterson    (via @JeromyAnglim ): R vs. SPSS in undergrad psych methods courses: http://www.r-bloggers.com/evaluating-the-potential-incorporation-of-r-into-research-methods-education-in-psychology/ #RStats, #Teaching
+381100235608449024  Sep 20 12:59  @recology_        govdat, #rstats interface to @nytdevs congress and @sunlightlabs #APIs moved to @rOpenGov  http://bit.ly/1ficDhy
+381100387056775168  Sep 20 12:59  @RickSaporta      RT @M_T_Patterson: (via @JeromyAnglim ): R vs. SPSS in undergrad psych methods courses: http://www.r-bloggers.com/evaluating-the-potential-incorporation-of-r-into-research-methods-education-in-psychology/ #RStats, #Teaching
+381100415468982272  Sep 20 12:59  @sunlightlabs     RT @recology_: govdat, #rstats interface to @nytdevs congress and @sunlightlabs #APIs moved to @rOpenGov  http://bit.ly/1ficDhy
+381100449409302529  Sep 20 13:00  @Graniteprof      RT @M_T_Patterson: (via @JeromyAnglim ): R vs. SPSS in undergrad psych methods courses: http://www.r-bloggers.com/evaluating-the-potential-incorporation-of-r-into-research-methods-education-in-psychology/ #RStats, #Teaching
+381100580719964160  Sep 20 13:00  @statisticsblog   An animated map of world pirate attacks since 1978, charted with R. http://i.cx/15afiYC @revodavid #r #rstats #visual #chart
+381101902576222209  Sep 20 13:05  @geospacedman     Dear #rstats users, take a look at the http://qgis.org website, compare with http://r-project.org
+381103133897678848  Sep 20 13:10  @RevoJoe          #rstats R code is very helpful in making sense of stats journal articles http://bit.ly/1gIaI3C
+381103284037365760  Sep 20 13:11  @chlalanne        RT @geospacedman: Dear #rstats users, take a look at the http://qgis.org website, compare with http://r-project.org
+381104747521921024  Sep 20 13:17  @recology_        Yep, or really any modern website MT @geospacedman: Dear #rstats users, compare http://bit.ly/1fihUpm w/ http://bit.ly/1fihUpo
+381104831579959297  Sep 20 13:17  @dangerousp       Learning from @marcelsalathe at #DigDisDet that making use Twitter data not actually hard for someone with my #rstats skill set - yay!
+381105024082128896  Sep 20 13:18  @chlalanne        RT @zentree: 'Animating the Metropolis Algorithm' using #Rstats http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+381107146261164032  Sep 20 13:26  @JonKalodimos     Question: Is there a "partial out" function in #rstats similar to #Stata ivreg2? I want to apply FWL theorem to an IV regression.
+381112201043378176  Sep 20 13:46  @ValisJason       RT @M_T_Patterson: (via @JeromyAnglim ): R vs. SPSS in undergrad psych methods courses: http://www.r-bloggers.com/evaluating-the-potential-incorporation-of-r-into-research-methods-education-in-psychology/ #RStats, #Teaching
+381117537221898242  Sep 20 14:07  @DanCassino       RT @M_T_Patterson: (via @JeromyAnglim ): R vs. SPSS in undergrad psych methods courses: http://www.r-bloggers.com/evaluating-the-potential-incorporation-of-r-into-research-methods-education-in-psychology/ #RStats, #Teaching
+381121349676068864  Sep 20 14:23  @ValisJason       @DanCassino @M_T_Patterson @JeromyAnglim There is a new #rstats lab workbook for Pollock's political analysis methods text.
+381123218108465152  Sep 20 14:30  @noticiasSobreR   R, GeoJSON and GitHub: GeoJSON is an open computer file format for encoding collections of simple geog... http://tinyurl.com/mnlmwdj #rstats
+381126645509140481  Sep 20 14:44  @timelyportfolio  RT @recology_: govdat, #rstats interface to @nytdevs congress and @sunlightlabs #APIs moved to @rOpenGov  http://bit.ly/1ficDhy
+381128116405805056  Sep 20 14:49  @OliverBelmans    RT @revodavid: The "What is R" video has been viewed 10,000 times on YouTube: http://bit.ly/18BBlp0 #rstats
+381130385007992832  Sep 20 14:58  @timtriche        RT @recology_: govdat, #rstats interface to @nytdevs congress and @sunlightlabs #APIs moved to @rOpenGov  http://bit.ly/1ficDhy
+381130396915625984  Sep 20 14:59  @TATA_BOX         An R Script to Automatically download PubMed Citation Counts By Year of Publication <- http://rpsychologist.com/an-r-script-to-automatically-look-at-pubmed-citation-counts-by-year-of-publication/ #rstats
