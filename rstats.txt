@@ -18733,3 +18733,44 @@
 381128116405805056  Sep 20 14:49  @OliverBelmans    RT @revodavid: The "What is R" video has been viewed 10,000 times on YouTube: http://bit.ly/18BBlp0 #rstats
 381130385007992832  Sep 20 14:58  @timtriche        RT @recology_: govdat, #rstats interface to @nytdevs congress and @sunlightlabs #APIs moved to @rOpenGov  http://bit.ly/1ficDhy
 381130396915625984  Sep 20 14:59  @TATA_BOX         An R Script to Automatically download PubMed Citation Counts By Year of Publication <- http://rpsychologist.com/an-r-script-to-automatically-look-at-pubmed-citation-counts-by-year-of-publication/ #rstats
+381135523240095744  Sep 20 15:19  @JJVenky          Any tips on putting together two data sets with melt+merge for facet_grid plotting with #ggplot2? #rstats
+381136468913446912  Sep 20 15:23  @TechPRGuy        RT @kdnuggets: Teradata snubs SAS, partners with Revolution Analytics for In-Database processing #rstats http://ubm.io/18fWDHF
+381137322940436480  Sep 20 15:26  @revodavid        Learn how #Hadoop and R #rstats form the modern data architecture for #DataScience, Tuesday 9AM PT http://bit.ly/1aaInkL
+381138471839993856  Sep 20 15:31  @davidjayharris   Radford Neal is awesome. Really hope this makes its way into #Rstats core. Would speed up my current project a *lot*. http://radfordneal.wordpress.com/2013/07/02/fixing-rs-named-problems-in-pqr/
+381138586411606016  Sep 20 15:31  @ProfTeigen       RT @M_T_Patterson: (via @JeromyAnglim ): R vs. SPSS in undergrad psych methods courses: http://www.r-bloggers.com/evaluating-the-potential-incorporation-of-r-into-research-methods-education-in-psychology/ #RStats, #Teaching
+381138685351448576  Sep 20 15:31  @whosbacon        RT @revodavid: Learn how #Hadoop and R #rstats form the modern data architecture for #DataScience, Tuesday 9AM PT http://bit.ly/1aaInkL
+381139215653695488  Sep 20 15:34  @RobertsPaige     RT @revodavid: How do pirates calculate the dimensions of the Jolly Roger? pi*r*8, of course. #rstats code at http://bit.ly/157lals http://t.co/v6gPbUg4MK
+381139603245109248  Sep 20 15:35  @soafaq           RT @revodavid: The "What is R" video has been viewed 10,000 times on YouTube: http://bit.ly/18BBlp0 #rstats
+381139757775867906  Sep 20 15:36  @soafaq           RT @revodavid: Datanami article on in-Hadoop R with Cloudera and Hortonworks and @RevolutionR http://bit.ly/181Aejb #rstats
+381140839247781888  Sep 20 15:40  @pnavarrc         RT @revodavid: Learn how #Hadoop and R #rstats form the modern data architecture for #DataScience, Tuesday 9AM PT http://bit.ly/1aaInkL
+381143258794975232  Sep 20 15:50  @baogorek         Was messing around with the topicmodels package in R. It's easy enough to use, but I'm still not sure what to *do* with it. #rstats
+381146166320041985  Sep 20 16:01  @shaunconnolly    RT @revodavid: Learn how #Hadoop and R #rstats form the modern data architecture for #DataScience, Tuesday 9AM PT http://bit.ly/1aaInkL
+381147328511344641  Sep 20 16:06  @recology_        See No. 7 here http://bit.ly/15bDutN nice #bash shortcut to #rstats
+381147948463054849  Sep 20 16:08  @GueyeNono        A good introductory video on "reproducibility" in research: http://www.youtube.com/watch?v=DfBSiOupI1I #rstats
+381149838819065856  Sep 20 16:16  @Zementis         Butler Analytics on Zementis and R model deployment in #PMML http://lnkd.in/bUnsH3E #rstats #bigdata #datamining
+381151484479422464  Sep 20 16:22  @KirkDBorne       Need #DataScience #BI Exercises? http://www.information-management.com/blogs/a-data-science-BI-exercise-10024885-1.html Good source of data for #Python, #Rstats, @Tableau exercises: http://www.census.gov/acs/www/data_documentation/pums_data/
+381152007731425280  Sep 20 16:24  @nsphung          RT @KirkDBorne: Need #DataScience #BI Exercises? http://www.information-management.com/blogs/a-data-science-BI-exercise-10024885-1.html Good source of data for #Python, #Rstats, @Tableau exercises: http://t.co/qpswGTe2SE
+381152792074653697  Sep 20 16:28  @cocoahn          RT @RLangTip: To convert dates/times from one timezone to another, use format() on a POSIXct object. Details: http://bit.ly/NaIjcI #rstats
+381155307738906624  Sep 20 16:38  @HadoopDaily      Learn how #Hadoop and R #rstats form the modern data architecture for #DataScience, Tuesday 9AM PT http://bit.ly/1aaInkL via @revodavid
+381156340531355648  Sep 20 16:42  @alexhanna        Got geocoding in DSTK working. Producing some interesting stuff on this #jan25 map. Hopefully can dump some in #rstats for prelim viz.
+381160353419509760  Sep 20 16:58  @antbarros        RT @TATA_BOX: An R Script to Automatically download PubMed Citation Counts By Year of Publication <- http://rpsychologist.com/an-r-script-to-automatically-look-at-pubmed-citation-counts-by-year-of-publication/ #rstats
+381161545234788352  Sep 20 17:02  @Rbloggers        R, GeoJSON and GitHub:  (This article was first published on   Omnia sunt Communia! » R-english, and... http://bit.ly/1f0iABY #rstats
+381171410460487680  Sep 20 17:42  @cookedapple      RT @recology_: See No. 7 here http://bit.ly/15bDutN nice #bash shortcut to #rstats
+381176112425869313  Sep 20 18:00  @jfreels4         Awesome #rstats #rshiny app: http://vnijs.rady.ucsd.edu:3838/marketing/# code: https://github.com/mostly-harmless/radyant
+381182749841063936  Sep 20 18:27  @abresler         Always love me some #rstats & dope sports stats this fits the bill http://r-datameister.blogspot.com/2013/09/are-you-ready-for-some-football-no-not.html?m=1
+381188317191999488  Sep 20 18:49  @ramnath_vaidya   NVD3 Chart with Custom Tooltips: http://rcharts.io/viewer/?6644957 #rstats #rCharts
+381190103638351872  Sep 20 18:56  @SergeyKochergan  Real Pirate Attacks since 1978 Charted with R http://www.r-bloggers.com/real-pirate-attacks-charted-with-r/ @rbloggers #rstats #pirates #history #charts #IRL #dataviz @hrbrmstr
+381190137033408513  Sep 20 18:56  @vitoaguiar       Taking 16 hours of classes to learn data analysis with STATISTICA is priceless. Well, classes are, software costs $5,000! #Rstats is free
+381190354344484864  Sep 20 18:57  @SergeyKochergan  RT @hrbrmstr: Animated IRL Pirate Attacks In R : http://buff.ly/1gEwENe #rstats #RPirate2013 #blogspam #talklikeapirateday http://t.co/nEemFydpIZ
+381192074374049792  Sep 20 19:04  @KirkDBorne       RT @revodavid: Learn how #Hadoop and R #rstats form the modern data architecture for #DataScience, Tuesday 9AM PT http://bit.ly/1aaInkL
+381195822492172289  Sep 20 19:19  @ramnath_vaidya   @znmeb Skeleton as Slidify framework :) http://slidify.github.io/testSkeleton/ #rstats
+381196858120339456  Sep 20 19:23  @lgatt0           .@ypriverol @theoneamit @CelHern You might be interested in an #rstats #proteomics sig group https://groups.google.com/forum/#!members/rbioc-sig-proteomics http://lgatto.github.io/RforProteomics/
+381204534791372800  Sep 20 19:53  @noamross         The #UCDavis #Rstats Users' Group will meet 1-3PM on Wednesdays this fall: http://www.noamross.net/davis-r-users-group.html
+381205620830896128  Sep 20 19:57  @Graham_Coop      RT @noamross: The #UCDavis #Rstats Users' Group will meet 1-3PM on Wednesdays this fall: http://www.noamross.net/davis-r-users-group.html
+381210025349234688  Sep 20 20:15  @davidjayharris   RT @noamross: The #UCDavis #Rstats Users' Group will meet 1-3PM on Wednesdays this fall: http://www.noamross.net/davis-r-users-group.html
+381210518121246720  Sep 20 20:17  @SunWC            RT @zentree: 'Animating the Metropolis Algorithm' using #Rstats http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+381211208742735872  Sep 20 20:20  @Gliders_Coach    6 weeks Training at $324 #rstats http://www.edureka.in/r-for-analytics
+381211313567199232  Sep 20 20:20  @Gliders_Coach    6 weeks Training at $324 #rstats http://www.edureka.in/r-for-analytics http://fb.me/2R7m57Xqe
+381212008038662144  Sep 20 20:23  @davis_egsa       RT @noamross: The #UCDavis #Rstats Users' Group will meet 1-3PM on Wednesdays this fall: http://www.noamross.net/davis-r-users-group.html
+381215334813806592  Sep 20 20:36  @TrustedBSD       New release 0.3.1 of RProtoBuf, more at http://goo.gl/Um8SGS  #rstats @i_314
+381218687862063104  Sep 20 20:49  @imser_           Dinámica de la popularidad de los distintos softwares para analizar datos: http://r4stats.com/articles/popularity/ #rstats
