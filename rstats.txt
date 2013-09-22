@@ -18866,3 +18866,18 @@
 381651580875198464  Sep 22 01:30  @DailyRpackage    NetworkAnalysis - Statistical inference on populations of weighted or unweighted networks http://cran.r-project.org/web/packages/NetworkAnalysis/index.html #RStats
 381655001627516928  Sep 22 01:43  @berndweiss       Applied Meta-Analysis with R (~ £58) http://www.crcpress.com/product/isbn/9781466505995 #rstats #metaanalysis
 381669550124584961  Sep 22 02:41  @Gematria314      RT @quandl: Free online textbook on Forecasting using #R by Rob J Hyndman and George Athanasopoulos http://qndl.co/16ypLvd #Rstats
+381677471625531392  Sep 22 03:12  @yichuanw         Preview of a #rstats #shiny mapping tool -- code and hosting coming soon -- @sinoceros, @AshokRao95 @esoltas http://t.co/gYRpO9HnwS
+381683864235569153  Sep 22 03:38  @flimbar          R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381685587880984576  Sep 22 03:45  @riesjean         RT @quandl: Free online textbook on Forecasting using #R by Rob J Hyndman and George Athanasopoulos http://qndl.co/16ypLvd #Rstats
+381685612971298816  Sep 22 03:45  @chlalanne        RT @berndweiss: Applied Meta-Analysis with R (~ £58) http://www.crcpress.com/product/isbn/9781466505995 #rstats #metaanalysis
+381687638702686208  Sep 22 03:53  @chlalanne        RT @gappy3000: Modeling data with functional programming in #rstats.Interesting throughout.Brian gets FP 4 data analysis. http://t.co/YIS45qafXy
+381688977251917824  Sep 22 03:58  @chlalanne        "#rstats and The Journal of Computational and Graphical Statistics" http://www.r-bloggers.com/r-and-the-journal-of-computational-and-graphical-statistics/
+381709929058684928  Sep 22 05:21  @masemresearch    First Draft - PDF - Modeling Data With Functional Programming in R #rstats | @scoopit http://sco.lt/4yum5B
+381710441749041152  Sep 22 05:23  @luisabbastos     RT @statisticsblog: From genetics to finance,  some results of fine combinations of R and d3. http://i.cx/1gJNVEM #r #rstats #finance #genetics
+381721531438886912  Sep 22 06:07  @eff_jot          @RAStadler Und mit Quellcode. Sehr schön! #Rstats
+381724243664199680  Sep 22 06:18  @catherinepasca1  RT @llepape: Deuxièmes rencontres R à Lyon, 27-28/06/2013 #Calenda #AppelàContribution http://bit.ly/147uSjc #Rstats #LogicielLibre
+381730984468955136  Sep 22 06:45  @fazol            Each and every Sunday I tell myself that the next Sunday will be different. And then I have a coffee and type require(plyr) #rstats
+381735600115965953  Sep 22 07:03  @datennutzen      Interessante Analysen zur Neutralität von Wahlanalysen mit #rstats   http://www.zeit.de/politik/deutschland/2013-09/wahlumfragen-parteilichkeit-Bundestagswahl via @driven_by_data
+381737129099141120  Sep 22 07:09  @blattnerma       “@chlalanne: "#rstats and The Journal of Computational and Graphical Statistics" http://www.r-bloggers.com/r-and-the-journal-of-computational-and-graphical-statistics/”
+381740407396130816  Sep 22 07:23  @certifiedwaif    Writing variational approximation code in C using the GNU Scientific Library, to be called from R. Pretty good fun so far ... #Rstats
+381741793299398656  Sep 22 07:28  @geographyjim     Map of property sales in Islington in 2012 by price and type #rstats http://yfrog.com/o0d10qp
