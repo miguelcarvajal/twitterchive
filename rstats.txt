@@ -18855,3 +18855,14 @@
 381564460504055808  Sep 21 19:43  @lc0d3r           The story of your data by R - thoughts in plain text http://lc0.github.io/blog/2013/09/21/the-story-of-your-data-by-r/ #dataviz #rstats #maps #bigdata
 381566175286554624  Sep 21 19:50  @Rbloggers        Preview of my book – Modeling data with functional programming in R:  (This article was first publis... http://bit.ly/1f5ap7C #rstats
 381573389376167936  Sep 21 20:19  @recology_        rplos use case: get DOIs for articles in @plosone published in 2010 http://bit.ly/1fokFW1 #rstats
+381590345651208192  Sep 21 21:26  @sekhardrona      Preview of e- book – Modeling data with functional programming in R http://goo.gl/7itvux by @cartesianfaith #rstats via @Rbloggers
+381598874541891584  Sep 21 22:00  @ManningBooks     Last call on DOTD! Save 50% on R in Action, Second Edition. Code dotd0921tw at http://www.manning.com/kabacoff2/ #manningbooks #Rstats
+381603657156141056  Sep 21 22:19  @pschulam         RT @mj_kallen: Blogged: my logging package for #rstats. http://www.maartenjan.org/artikelen/2013-09-20-introducing-the-rlogging-package-for-simple-logging-in-r.html
+381603974862082048  Sep 21 22:20  @gappy3000        Modeling data with functional programming in #rstats.Interesting throughout.Brian gets FP 4 data analysis. http://cartesianfaith.com/2013/09/21/preview-of-my-book-modeling-data-with-functional-programming-in-r/
+381606069115428864  Sep 21 22:29  @mgroeninger      RT @gappy3000: Modeling data with functional programming in #rstats.Interesting throughout.Brian gets FP 4 data analysis. http://t.co/YIS45qafXy
+381623227245527040  Sep 21 23:37  @oescalan4        RT @quandl: Free online textbook on Forecasting using #R by Rob J Hyndman and George Athanasopoulos http://qndl.co/16ypLvd #Rstats
+381631663362834432  Sep 22 00:10  @vishnebo         RT @gappy3000: Modeling data with functional programming in #rstats.Interesting throughout.Brian gets FP 4 data analysis. http://t.co/YIS45qafXy
+381631703220895744  Sep 22 00:11  @Irvtuit          RT @arnicas: Beautiful stats/graphs in a post on German election data by @driven_by_data #Rstats http://vis4.net/blog/posts/analyzing-bias-in-election-polls-with-r/
+381651580875198464  Sep 22 01:30  @DailyRpackage    NetworkAnalysis - Statistical inference on populations of weighted or unweighted networks http://cran.r-project.org/web/packages/NetworkAnalysis/index.html #RStats
+381655001627516928  Sep 22 01:43  @berndweiss       Applied Meta-Analysis with R (~ £58) http://www.crcpress.com/product/isbn/9781466505995 #rstats #metaanalysis
+381669550124584961  Sep 22 02:41  @Gematria314      RT @quandl: Free online textbook on Forecasting using #R by Rob J Hyndman and George Athanasopoulos http://qndl.co/16ypLvd #Rstats
