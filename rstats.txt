@@ -18881,3 +18881,35 @@
 381737129099141120  Sep 22 07:09  @blattnerma       “@chlalanne: "#rstats and The Journal of Computational and Graphical Statistics" http://www.r-bloggers.com/r-and-the-journal-of-computational-and-graphical-statistics/”
 381740407396130816  Sep 22 07:23  @certifiedwaif    Writing variational approximation code in C using the GNU Scientific Library, to be called from R. Pretty good fun so far ... #Rstats
 381741793299398656  Sep 22 07:28  @geographyjim     Map of property sales in Islington in 2012 by price and type #rstats http://yfrog.com/o0d10qp
+381768332858241024  Sep 22 09:13  @hadleywickham    RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381769172398534657  Sep 22 09:17  @AshokRao95       RT @yichuanw: Preview of a #rstats #shiny mapping tool -- code and hosting coming soon -- @sinoceros, @AshokRao95 @esoltas http://t.co/gYRpO9HnwS
+381769634401488896  Sep 22 09:19  @benjaminlmoore   And > Matlab! RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381770206382526464  Sep 22 09:21  @prisonrodeo      2022 = world domination RT @flimbar R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381770239891222528  Sep 22 09:21  @mfenner          RT @recology_: rplos use case: get DOIs for articles in @plosone published in 2010 http://bit.ly/1fokFW1 #rstats
+381770883138064384  Sep 22 09:24  @joscani          RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381773751723253760  Sep 22 09:35  @quandl           Free ebook: Advanced #R #programming by @hadleywickham http://qndl.co/1dvL826 #Rstats #Data
+381773974138781696  Sep 22 09:36  @AriBFriedman     RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381777531264704513  Sep 22 09:50  @Piboonrungroj    RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381777791932702720  Sep 22 09:51  @askeluv          “@flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html” ...with COBOL up 5 places?!
+381780495530721280  Sep 22 10:02  @hrbrmstr         Great example of how to work with imperfect data & how to "show the work" involved in the cleanup right in R http://buff.ly/1gOxmYi #rstats
+381782843724029952  Sep 22 10:11  @Gliders_Coach    RT @_inundata: rlogging is a nice R package by @mj_kallen that provides nicer debugging helpers. http://bit.ly/1aUBd57 #rstats
+381785777891340289  Sep 22 10:23  @matthewkrachey   RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381789310313570304  Sep 22 10:37  @jimineep         RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381789369318645760  Sep 22 10:37  @Swayson          RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381792809260294144  Sep 22 10:51  @Data_for_Good    RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381794006436306944  Sep 22 10:55  @moorejh          I can understand why #rstats is climbing the computer #programming popularity list. http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html HT @flimbar
+381795402640400384  Sep 22 11:01  @benjaminlind     RT @prisonrodeo: 2022 = world domination RT @flimbar R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381803389027622912  Sep 22 11:33  @bicho_paulinho   RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381804118399926272  Sep 22 11:36  @tomhouslay       #rstats Q: centring my time covariate (which interacts w/ treatment) in repeated-measures model changes the results a *lot* - is this right?
+381806006285901824  Sep 22 11:43  @Thiagogm         RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381807786403045376  Sep 22 11:50  @vishnebo         RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381815545437224960  Sep 22 12:21  @stephhazlitt     RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381821342829772800  Sep 22 12:44  @datennutzen      Interessante Analysen zur Neutralität von Wahlanalysen mit #rstats via@driven_by_data  http://www.zeit.de/politik/deutschland/2013-09/wahlumfragen-parteilichkeit-bundestagswahl
+381822077831221248  Sep 22 12:47  @axelopp          RT @datennutzen: Interessante Analysen zur Neutralität von Wahlanalysen mit #rstats via@driven_by_data  http://www.zeit.de/politik/deutschland/2013-09/wahlumfragen-parteilichkeit-bundestagswahl
+381827108479053825  Sep 22 13:07  @koneru18         RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+381835355030568960  Sep 22 13:40  @Ronronia         ¿Alguien sabe cómo se cambia el decimal_point de "." a "," en R? (How can I change decimal_point from "." to "," in R? #rstats
+381838951620673536  Sep 22 13:54  @yichuanw         20 years ago, Chinese coastal incomes weren't that different from inland ones #rstats #ggplot2 http://t.co/K5gLPxGdoh
+381841056385740800  Sep 22 14:02  @PeterFlomStat    How user friendly should statistical software be? #rstats #SAS - http://ow.ly/oRHt0
+381841058117996544  Sep 22 14:02  @peterflom        How user friendly should statistical software be? #rstats #SAS - http://ow.ly/oRHrB
+381842301867134976  Sep 22 14:07  @KWZirkle         RT @PeterFlomStat: How user friendly should statistical software be? #rstats #SAS - http://ow.ly/oRHt0
+381855181463633920  Sep 22 14:59  @jonesor          RT @recology_: rplos use case: get DOIs for articles in @plosone published in 2010 http://bit.ly/1fokFW1 #rstats
