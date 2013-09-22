@@ -18836,3 +18836,22 @@
 381480217367162880  Sep 21 14:09  @arRMorgan        Sweet! Found a rad tutorial for learning #ggplot2: http://www.ling.upenn.edu/~joseff/rstudy/summer2010_ggplot2_intro.html. Broke down the aes() function down nicely. #Rstats
 381486008014888960  Sep 21 14:32  @BenBondLamberty  RT @mj_kallen: Blogged: my logging package for #rstats. http://www.maartenjan.org/artikelen/2013-09-20-introducing-the-rlogging-package-for-simple-logging-in-r.html
 381490041207664640  Sep 21 14:48  @HadoopDaily      Top Languages for #Analytics, #DataMining, #DataScience = R, #Python, SQL, SAS; with #Hadoop rising: http://bit.ly/1aNYwQz #abdsc #Rstats
+381493398378934272  Sep 21 15:01  @everydayanalyst  K-means clustering of search terms using #rstats. Amazing stuff by @randyzwitch http://randyzwitch.com/rsitecatalyst-k-means-clustering/ #measure
+381494299436646400  Sep 21 15:05  @frzambra         Investigación reproducible: conceptos e ideas http://www.youtube.com/watch?v=DfBSiOupI1I #rstats #useRChile
+381499889776992256  Sep 21 15:27  @davidjayharris   New version of lme4 is now on CRAN! Lots of new goodies for #rstats and a sane version number http://cran.r-project.org/web/packages/lme4/index.html
+381499985625223169  Sep 21 15:27  @recology_        Awesomeness RT @mj_kallen: Blogged: my logging package for #rstats. http://bit.ly/14u3XAi
+381509597476843521  Sep 21 16:05  @timtriche        RT @eddelbuettel: Neat: the lme4 package on CRAN now uses RcppEigen -- and a new Debian package of lme4 just uploaded too. #rstats #rcpp
+381516124321751040  Sep 21 16:31  @Altons           RT @hnycombinator: Command-line tools for data science http://flip.it/9OOTH #stats #rstats #unix
+381516456661635072  Sep 21 16:33  @PythonDaily      Top Languages for #Analytics, #DataMining, #DataScience = R, #Python, SQL, SAS; with #Hadoop rising: http://bit.ly/1aNYwQz #abdsc #Rstats
+381523376709193730  Sep 21 17:00  @ManningBooks     Deal of the Day Sept 21: R in Action, Second Edition. Use code dotd0921tw at http://www.manning.com/kabacoff2/ #Rstats
+381525393900978176  Sep 21 17:08  @_inundata        rlogging is a nice R package by @mj_kallen that provides nicer debugging helpers. http://bit.ly/1aUBd57 #rstats
+381525738257936384  Sep 21 17:09  @mj_kallen        RT @_inundata: rlogging is a nice R package by @mj_kallen that provides nicer debugging helpers. http://bit.ly/1aUBd57 #rstats
+381526817821036544  Sep 21 17:14  @mattmoehr        Classic #rstats moment: Not sure if typo "...object describing both the fixed-effects and fixed-effects part of the model..." >_>
+381535652120379392  Sep 21 17:49  @denisohora       Script for obtaining error intervals from lmer http://hlplab.wordpress.com/2013/09/13/script-for-obtaining-error-intervals-from-lmer/ #rstats
+381537106893348865  Sep 21 17:55  @lucaborger       RT @_inundata: rlogging is a nice R package by @mj_kallen that provides nicer debugging helpers. http://bit.ly/1aUBd57  #rstats
+381537588357505024  Sep 21 17:57  @_inundata        @Gaming_Dude Begin with the #rstats tag. Then you’ll start to identify folks who you find useful.
+381546560124760064  Sep 21 18:32  @certifiedwaif    Trying to build RStudio on my Samsung Chromebook. C++ part is done, GWT/Java part is taking forever. Is it progressing? #RStats #rstudio
+381564267561893888  Sep 21 19:43  @PlethodoNick     "Model is syntactically correct" Those are sweet sweet words during late-night coding #rstats #WinBUGS
+381564460504055808  Sep 21 19:43  @lc0d3r           The story of your data by R - thoughts in plain text http://lc0.github.io/blog/2013/09/21/the-story-of-your-data-by-r/ #dataviz #rstats #maps #bigdata
+381566175286554624  Sep 21 19:50  @Rbloggers        Preview of my book – Modeling data with functional programming in R:  (This article was first publis... http://bit.ly/1f5ap7C #rstats
+381573389376167936  Sep 21 20:19  @recology_        rplos use case: get DOIs for articles in @plosone published in 2010 http://bit.ly/1fokFW1 #rstats

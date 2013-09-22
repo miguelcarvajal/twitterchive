@@ -4084,3 +4084,6 @@
 381425818356154368  Sep 21 10:32  @bluemm79         customProDB: an R package to generate customized protein databases from RNA-Seq data | @scoopit http://sco.lt/5swLsf
 381483653890469888  Sep 21 14:22  @LeucineRichBio   DEXUS: identifying differential expression in RNA-Seq studies with unknown conditions. http://www.ncbi.nlm.nih.gov/pubmed/24049071?dopt=Abstract
 381483787344830464  Sep 21 14:23  @LeucineRichBio   Directed shotgun proteomics guided by saturated RNA-seq identifies a complete expressed prokaryotic proteome [METHOD] http://genome.cshlp.org/cgi/reprint/gr.151035.112v3
+381535584826580992  Sep 21 17:49  @Life_Sciences_   http://scienceindex.com CustomProDB: an R package to generate customized protein databases from RNA-Seq data for... http://dlvr.it/4102Cv
+381570389601562624  Sep 21 20:07  @CelHern          customProDB: an R package to generate customized protein databases from RNA-Seq... http://bit.ly/18HNyeW #bioinformatics #proteomics Edited
+381573227610247169  Sep 21 20:18  @CelHern          A comparison of methods for differential expression analysis of #RNA-seq data http://www.biomedcentral.com/1471-2105/14/91 #bioinformatics
