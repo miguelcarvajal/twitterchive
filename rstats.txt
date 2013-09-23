@@ -18986,3 +18986,57 @@
 382122431705395201  Sep 23 08:41  @jfreels4         RT @Rstats4Econ: Advanced R Development by @hadleywickham #rstats  http://adv-r.had.co.nz/
 382122992467472384  Sep 23 08:43  @jjgibaja         RT @KirkDBorne: Free online R Programming book > HT @mjcavaretta: Looks interesting... an awesome #Rstats resource http://adv-r.had.co.nz/ by @hadleywickham
 382124869678166017  Sep 23 08:50  @jfreels4         RT @cpsievert: An interactive visualization platform for interpreting textual topic models using #rstats #shiny #d3js http://bit.ly/18jz7eU
+382127369781125120  Sep 23 09:00  @statisticsblog   R tip of the day - Calling R functions through AJAX using opencpu.js. http://i.cx/15jFQBA #r #rstats #ajax
+382129531274149888  Sep 23 09:09  @BrockTibert      @John4man If memory serves, you were asking about Random Forest convergence.  Check this out.  http://blog.mckuhn.de/2013/09/introducing-parallelrandomforest-faster.html  #Rstats
+382129649230168065  Sep 23 09:09  @kushan_s         RT @KirkDBorne: Free online R Programming book > HT @mjcavaretta: Looks interesting... an awesome #Rstats resource http://adv-r.had.co.nz/ by @hadleywickham
+382131350137872384  Sep 23 09:16  @noticiasSobreR   Recordatorio: V Jornadas de Usuarios de R, diciembre 2013, Zaragoza: Que sirva esta entrada de recorda... http://tinyurl.com/lujh99f #rstats
+382131601414438912  Sep 23 09:17  @CarlSchmertmann  RT @kdnuggets: R tips for dealing with (moderately) Large Data: only load Data if not already open in R #rstats http://shrd.by/pStzy5
+382132402195562496  Sep 23 09:20  @jslefche         RT @ficaryl: Because, MONDAYS http://researchinprogress.tumblr.com/post/56767793795/what-if-you-include-this-factor-in-your-model #rstats #ecrchat #oneofthosedays
+382133701737316353  Sep 23 09:25  @MoritzBuchi      Unfortunately, R #rstats is not designed for multiple CPU cores http://t.co/1GXFUL8M9H
+382135555170914304  Sep 23 09:33  @SuseJohnston     Using ginv() in #rstats. Error message is "BLAS/LAPACK routine 'DLASCL' gave error code -4". Cannot figure this out - any ideas? No NaNs.
+382135841457307649  Sep 23 09:34  @randyzwitch      @MoritzBuchi You can do parallelized RF pretty easily using caret and doMC packages, not sure how RTextTools handles it #rstats
+382136083464482816  Sep 23 09:35  @caitsydney       Trying out a Coursera class on #rstats. Videos on youtube! http://www.youtube.com/playlist?list=PLjTlxb-wKvXNSDfcKPFH2gzHGyjpeCZmJ
+382140249142358016  Sep 23 09:51  @timelyportfolio  RT @ramnath_vaidya: Shiny made it to the front page of HN!! #rstats @rstudioapp @jcheng http://t.co/G2Pz8oXWxc
+382141263170248704  Sep 23 09:55  @F1000Research    Our latest web tool article, 'taxize' has been published with 2 reviews in 3 working days: http://f1000research.com/articles/2-191/v1 @recology_ #rstats
+382143253262245888  Sep 23 10:03  @statslabdublin   Dublin R Workshop on Time Series Analysis with Mick Cooney - #rstats Wed Oct 16th at TCube http://www.meetup.com/DublinR/ev…http://lnkd.in/bCgxDgQ
+382143873570451456  Sep 23 10:06  @DEAGiles         RT @Piboonrungroj: @Rstats4Econ A must read if you are really into R #rstats
+382144098192592896  Sep 23 10:07  @katz_stats       RT @cpsievert: An interactive visualization platform for interpreting textual topic models using #rstats #shiny #d3js http://bit.ly/18jz7eU
+382144754793717760  Sep 23 10:09  @kenniajin        RT @cpsievert: An interactive visualization platform for interpreting textual topic models using #rstats #shiny #d3js http://bit.ly/18jz7eU
+382144844031725568  Sep 23 10:10  @josembecerra     RT @statslabdublin: Dublin R Workshop on Time Series Analysis with Mick Cooney - #rstats Wed Oct 16th at TCube http://www.meetup.com/DublinR/ev…http://t.co/ckvvkp6DNU
+382145745429991424  Sep 23 10:13  @eoinbrazil       RT @statslabdublin: Dublin R Workshop on Time Series Analysis with Mick Cooney - #rstats Wed Oct 16th at TCube http://www.meetup.com/DublinR/ev…http://t.co/ckvvkp6DNU
+382145952640806913  Sep 23 10:14  @clarkfitzg       Use #Linux crontab to automate #rstats jobs- so handy.
+382151965775376386  Sep 23 10:38  @acalgar          Using #Rstats to allocate tutors & tutees in constrained random way 4 new @UoNGeography 2nd year Research Tutorials #TransferableSkill
+382152341522513920  Sep 23 10:39  @UoNGeography     RT @acalgar: Using #Rstats to allocate tutors & tutees in constrained random way 4 new @UoNGeography 2nd year Research Tutorials #TransferableSkill
+382154957799317504  Sep 23 10:50  @quantlabs        IS #Rstats good with #CSharp or #DotNet for #quant #trading and How I hire programmers http://ow.ly/p7BFZ
+382163796946862080  Sep 23 11:25  @quantlabs        Is #RevolutionaryAnalytics #Rstats Enterprise really comparable to Matlab or #Cpp http://ow.ly/p7BJE
+382169548322910210  Sep 23 11:48  @mcpasin          Today is starting Computing for Data Analysis course @coursera look forward to learn more R! https://www.coursera.org/course/compdata #rstats #compdata #mooc
+382173103733760000  Sep 23 12:02  @MDubins          Want to merge dataframes based on "Field 1" and "Field 2"? Insert c("Field 1","Field 2") in by.x and by.y arguments in merge(). #rstats
+382173253172609024  Sep 23 12:02  @KTInvasion       New post: Nuts and Bolts: Extracting global climate and soil data in R http://wp.me/p1Ye5e-aD #rstats
+382173332948254721  Sep 23 12:03  @desultor         #rstats R is effing up my UNIX. I just typed "getwd()" in bash instead of "pwd"....
+382173923665661952  Sep 23 12:05  @RevolutionR      RT @mcpasin: Today is starting Computing for Data Analysis course @coursera look forward to learn more R! https://www.coursera.org/course/compdata #rstats #compdata #mooc
+382173971653074944  Sep 23 12:05  @RLangTip         #rstats Get a list of the arguments for a function: formals(func) http://bit.ly/14rinAX
+382175226882457600  Sep 23 12:10  @inside_R         #rstats useR group meetings this week: Amherst, Dayton, Denver, Auckland, Luxembourg, Singapore, Paris  http://bit.ly/9hVAPE
+382175660405714944  Sep 23 12:12  @KTInvasion       New Post: Nuts and Bolts: Squishing columns together to get rid of NAs in R http://wp.me/p1Ye5e-aJ #rstats
+382176168113209344  Sep 23 12:14  @recology_        RT @KTInvasion: New Post: Nuts and Bolts: Squishing columns together to get rid of NAs in R http://wp.me/p1Ye5e-aJ #rstats
+382178053968769024  Sep 23 12:22  @lucaborger       R functions to squish columns together to get rid of NAs http://wp.me/p1Ye5e-aJ by @KTInvasion - seems really usful! HT @recology_ #rstats
+382178409134034944  Sep 23 12:23  @arRMorgan        RT @RLangTip: #rstats Get a list of the arguments for a function: formals(func) http://bit.ly/14rinAX
+382180098863947776  Sep 23 12:30  @gappy3000        Reading Brian Lee Young Rowe's book (http://cartesianfaith.files.wordpress.com/2013/09/rowe-modeling-data-with-functional-programming.pdf), and thinking it fits like a glove with #julialang, much more than #rstats
+382181020054716416  Sep 23 12:33  @TrevorABranch    RT @RLangTip: #rstats Get a list of the arguments for a function: formals(func) http://bit.ly/14rinAX
+382182051442851840  Sep 23 12:37  @drodriguezperez  RT @mcpasin: Today is starting Computing for Data Analysis course @coursera look forward to learn more R! https://www.coursera.org/course/compdata #rstats #compdata #mooc
+382183458291720192  Sep 23 12:43  @VoltaVentures    RT @datamarket: got a mention in ComputerWorld earlier this month. If you are into #Rstats, check out our rdatamarket package... http://t.co/F6DHdKlHZ6
+382186240826957824  Sep 23 12:54  @nereda17         RT @mcpasin: Today is starting Computing for Data Analysis course @coursera look forward to learn more R! https://www.coursera.org/course/compdata #rstats #compdata #mooc
+382186529587998720  Sep 23 12:55  @afflorezr        RT @RLangTip: #rstats Get a list of the arguments for a function: formals(func) http://bit.ly/14rinAX
+382189333874085888  Sep 23 13:06  @tonyojeda3       We're hosting 2 #rstats workshops on Oct 19th. Come out and learn the lingua franca of #datascience! http://bit.ly/19ePwzw  #datadc #dctech
+382189335476715520  Sep 23 13:06  @DataCommunityDC  We're hosting 2 #rstats workshops on Oct 19th. Come out and learn the lingua franca of #datascience! http://bit.ly/19ePwzw  #datadc #dctech
+382193762748735488  Sep 23 13:24  @dmimno           RT @cpsievert: An interactive visualization platform for interpreting textual topic models using #rstats #shiny #d3js http://bit.ly/18jz7eU
+382196574790508545  Sep 23 13:35  @MathBioPaul      RT @revodavid: Cool Spanish-language overview of #rstats (prezi): http://bit.ly/y5SdpL
+382197381585842176  Sep 23 13:38  @JimRFisher       Oracle Big Data Connectors also added XQuery for #Hadoop, Perfect Balance, and new models in R for Hadoop http://online.wsj.com/article/PR-CO-20130923-906434.html?mod=googlenews_wsj #rstats
+382198114888605696  Sep 23 13:41  @_John_Handel     RT @cpsievert: An interactive visualization platform for interpreting textual topic models using #rstats #shiny #d3js http://bit.ly/18jz7eU
+382202190237949952  Sep 23 13:57  @darinself        Proportion of Paradigm for US IR Scholars since 2004 (4 waves) - self identified in TRIP surveys. #Rstats #TRIP http://t.co/GUzAVWtsOs
+382205471316115457  Sep 23 14:11  @pafborg          RT @RLangTip: #rstats Get a list of the arguments for a function: formals(func) http://bit.ly/14rinAX
+382205790582358016  Sep 23 14:12  @RickSaporta      On StackOverflow, #rstats  "Why are some of the logical operators so slow?"  http://stackoverflow.com/q/18939282/1492421?stw=2
+382206958041706496  Sep 23 14:16  @eff_jot          @_keentech_ @qobi Ich könnt’s ja mal durch R durchnudeln. Immerhin scheint’s Wahlkreisgrenzen zu geben: http://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_13/wahlkreiseinteilung/kartographische_darstellung.html #Rstats
+382210999010349056  Sep 23 14:32  @alexcpsec        parallelRandomForest in #rstats, finally a good implementation, it seems: http://blog.mckuhn.de/2013/09/introducing-parallelrandomforest-faster.html
+382211418788876288  Sep 23 14:34  @alexcpsec        In my love/hate relationship with #rstats, I realized it has very quirky speed issues. You have to know how to optimize stuff for it.
+382211743008960512  Sep 23 14:35  @jmgomez          RT @rbloggers: Creating your personal, portable R code library with #GitHub  http://bit.ly/18QS70k #rstats
+382215556507901952  Sep 23 14:51  @nhcooper123      Hmmm RT “@ErynMcFarlane: Richard Sibly on phylogenetic corrections: "Don't try this at home; find a collaborator who uses R" #rstats #MTE”
