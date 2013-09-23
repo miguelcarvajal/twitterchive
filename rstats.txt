@@ -18940,3 +18940,49 @@
 382020473602588672  Sep 23 01:55  @jullybobble      RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
 382032136146255872  Sep 23 02:42  @RickSaporta      RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
 382032552099201024  Sep 23 02:43  @laurencstill     RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+382038016946360320  Sep 23 03:05  @jmgomez          MT @cpsievert: Interactive visualization for interpreting textual topic models w/ #rstats #shiny #d3js http://bit.ly/18jz7eU #textmining
+382038405745369088  Sep 23 03:07  @laurencstill     Easy web applications in R  http://www.rstudio.com/shiny/ #rstats #webdev #dataviz
+382042389117825024  Sep 23 03:22  @ficaryl          Because, MONDAYS http://researchinprogress.tumblr.com/post/56767793795/what-if-you-include-this-factor-in-your-model #rstats #ecrchat #oneofthosedays
+382046223135682560  Sep 23 03:38  @Xeradox          RT @arnicas: Beautiful stats/graphs in a post on German election data by @driven_by_data #Rstats http://vis4.net/blog/posts/analyzing-bias-in-election-polls-with-r/
+382056940349571072  Sep 23 04:20  @Rbloggers        Exploratory Data Analysis: Quantile-Quantile Plots for New York’s Ozone Pollution Data:  (This artic... http://bit.ly/1fa2Psm #rstats
+382070241636802560  Sep 23 05:13  @statsforbios     ansari.test() to perform an Ansari-Bradley test; a nonparametric test for differences in scale (related to variance). #Rstats
+382074739747201024  Sep 23 05:31  @ProgrammingR     Creating your personal, portable R code library with GitHub http://goo.gl/fb/u1f2q #rstats
+382083715767468032  Sep 23 06:07  @psychemedia      Analyzing bias in opinion polls with R http://bit.ly/14yOvCO #rstats #ddj /via @driven_by_data
+382083918402682880  Sep 23 06:07  @ErynMcFarlane    Richard Sibly on phylogenetic corrections: "Don't try this at home; find a collaborator who uses R" #rstats #MTE
+382084269020954624  Sep 23 06:09  @DiffusePrioR     Here is a blog post I wrote on detecting weak instrumental variables in R http://wp.me/p2jI3P-bf via @wordpressdotcom #rstats #econometrics
+382084618121256960  Sep 23 06:10  @Rbloggers        Creating your personal, portable R code library with GitHub:  (This article was first published on  ... http://bit.ly/18QS70k #rstats
+382084898082664448  Sep 23 06:11  @sjgknight        RT @psychemedia: Analyzing bias in opinion polls with R http://bit.ly/14yOvCO #rstats #ddj /via @driven_by_data
+382087253872242688  Sep 23 06:21  @gagliol          A good critical intro to #ggplot2 http://rpubs.com/HarlanH/how-to-speak-ggplot2-like-a-native #rstats #dataviz better start from ggplot+layer, learn shortcuts later
+382087711491780608  Sep 23 06:23  @stochazesthai    RT @gagliol: A good critical intro to #ggplot2 http://rpubs.com/HarlanH/how-to-speak-ggplot2-like-a-native #rstats #dataviz better start from ggplot+layer, learn shortcuts later
+382088647731732480  Sep 23 06:26  @DataMinerUK      RT @psychemedia: Analyzing bias in opinion polls with R http://bit.ly/14yOvCO #rstats #ddj /via @driven_by_data
+382090854128574464  Sep 23 06:35  @MikejMcDermott   2 useful FREE courses on #RStats https://www.coursera.org/course/compdata & https://www.coursera.org/course/dataanalysis Had started doing them B4 but life got in the way!
+382095388431237120  Sep 23 06:53  @Rstats4Econ      RT @revodavid: Enterprise adoption of the open-source MapReduce, Pig and R #rstats languages will continue to grow - @jameskobielus http://t.co/scs7lHh9nV
+382095470568300544  Sep 23 06:53  @Rstats4Econ      RT @kdnuggets: R tips for dealing with (moderately) Large Data: only load Data if not already open in R #rstats http://shrd.by/pStzy5
+382095551216365568  Sep 23 06:54  @Rstats4Econ      RT @sharon000: O'Reilly Media marks Talk Like a Pirate Day with 50% off all R ebooks :-) Really! http://oreil.ly/1erZGTy #rstats
+382095646586449920  Sep 23 06:54  @Rstats4Econ      RT @KirkDBorne: Free online R Programming book > HT @mjcavaretta: Looks interesting... an awesome #Rstats resource http://adv-r.had.co.nz/ by @hadleywickham
+382096101345476608  Sep 23 06:56  @Rstats4Econ      Advanced R Development by @hadleywickham #rstats  http://adv-r.had.co.nz/
+382096851425443840  Sep 23 06:59  @Piboonrungroj    RT @Rstats4Econ: Advanced R Development by @hadleywickham #rstats  http://adv-r.had.co.nz/
+382097086788820992  Sep 23 07:00  @Piboonrungroj    @Rstats4Econ A must read if you are really into R #rstats
+382097457485598721  Sep 23 07:01  @PairachCMSE      โปรแกรม R ขั้นสูง “@Rstats4Econ: Advanced R Development by @hadleywickham #rstats  http://adv-r.had.co.nz/”
+382097462103519232  Sep 23 07:01  @PairachCMSE      RT @Rstats4Econ: Advanced R Development by @hadleywickham #rstats  http://adv-r.had.co.nz/
+382097653581881344  Sep 23 07:02  @CMSEcon          RT @Rstats4Econ: Advanced R Development by @hadleywickham #rstats  http://adv-r.had.co.nz/
+382098255036690433  Sep 23 07:04  @vishnebo         RT @cpsievert: An interactive visualization platform for interpreting textual topic models using #rstats #shiny #d3js http://bit.ly/18jz7eU
+382098507412164608  Sep 23 07:05  @mj_kallen        #rstats library paths must be separated by a **colon** in R_LIBS on Unix systems (http://www.cran.r-project.org/doc/manuals/R-admin.html#Managing-libraries), ?.libPaths fails to mention this.
+382098932827840512  Sep 23 07:07  @mjturner99       RT @KirkDBorne: Free online R Programming book > HT @mjcavaretta: Looks interesting... an awesome #Rstats resource http://adv-r.had.co.nz/ by @hadleywickham
+382099647067475968  Sep 23 07:10  @Rstats4Econ      RT @Piboonrungroj: @Rstats4Econ A must read if you are really into R #rstats
+382105851743318017  Sep 23 07:35  @lc0d3r           nice - 7 command-line tools for data science http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html via @jeroenhjanssens #datasci #rstats
+382106067272212480  Sep 23 07:36  @mattmcd          Shiny: Easy web applications in R | Hacker News http://bit.ly/1faEC5i #rstats
+382107354944135169  Sep 23 07:41  @Rbloggers        Detecting Weak Instruments in R:  (This article was first published on   DiffusePrioR » R, and kindl... http://bit.ly/1faFI0I #rstats
+382109556936937472  Sep 23 07:49  @drago_carlo      Detecting Weak Instruments in R http://www.r-bloggers.com/detecting-weak-instruments-in-r/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29 via @Rbloggers #Econometrics #Modeling #Statistics #Rstats
+382110280047554561  Sep 23 07:52  @hadleywickham    RT @ramnath_vaidya: Shiny made it to the front page of HN!! #rstats @rstudioapp @jcheng http://t.co/G2Pz8oXWxc
+382112057552031744  Sep 23 07:59  @pschulam         RT @gagliol: A good critical intro to #ggplot2 http://rpubs.com/HarlanH/how-to-speak-ggplot2-like-a-native #rstats #dataviz better start from ggplot+layer, learn shortcuts later
+382113650376712193  Sep 23 08:06  @pschulam         @simplystats has there ever been interest in an #rstats users group at JHU?
+382116933782343681  Sep 23 08:19  @Protohedgehog    Fancy learning how to code for data analysis? There's a MOOC for it, now open! http://bit.ly/18kGti7 #rstats with @rdpeng #PhDchat
+382116987310456832  Sep 23 08:19  @jlehtoma         RT @Protohedgehog: Fancy learning how to code for data analysis? There's a MOOC for it, now open! http://bit.ly/18kGti7 #rstats with @rdpeng #PhDchat
+382117208286953473  Sep 23 08:20  @Judith_Lock      RT @Protohedgehog: Fancy learning how to code for data analysis? There's a MOOC for it, now open! http://bit.ly/18kGti7 #rstats with @rdpeng #PhDchat
+382117325174210560  Sep 23 08:20  @EcoExpert1       2 useful FREE courses on #RStats  http://coursera.org/course/compdata & https://www.coursera.org/course/dataanalysis  via @mikejmcdermott
+382117805262241792  Sep 23 08:22  @SciCommForum     RT @Protohedgehog: Fancy learning how to code for data analysis? There's a MOOC for it, now open! http://bit.ly/18kGti7 #rstats with @rdpeng #PhDchat
+382118486014951424  Sep 23 08:25  @quandl           #R and the journal of computational & graphical #Statistics by @RevoJoe http://qndl.co/1aaDVCx #Rstats
+382122431705395201  Sep 23 08:41  @jfreels4         RT @Rstats4Econ: Advanced R Development by @hadleywickham #rstats  http://adv-r.had.co.nz/
+382122992467472384  Sep 23 08:43  @jjgibaja         RT @KirkDBorne: Free online R Programming book > HT @mjcavaretta: Looks interesting... an awesome #Rstats resource http://adv-r.had.co.nz/ by @hadleywickham
+382124869678166017  Sep 23 08:50  @jfreels4         RT @cpsievert: An interactive visualization platform for interpreting textual topic models using #rstats #shiny #d3js http://bit.ly/18jz7eU
