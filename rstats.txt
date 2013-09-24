@@ -19040,3 +19040,32 @@
 382211418788876288  Sep 23 14:34  @alexcpsec        In my love/hate relationship with #rstats, I realized it has very quirky speed issues. You have to know how to optimize stuff for it.
 382211743008960512  Sep 23 14:35  @jmgomez          RT @rbloggers: Creating your personal, portable R code library with #GitHub  http://bit.ly/18QS70k #rstats
 382215556507901952  Sep 23 14:51  @nhcooper123      Hmmm RT “@ErynMcFarlane: Richard Sibly on phylogenetic corrections: "Don't try this at home; find a collaborator who uses R" #rstats #MTE”
+382218407061385216  Sep 23 15:02  @AL4S_Rich          #rstats  and #astronomy   Text with scripts and #data  
+382222432339103744  Sep 23 15:18  @KTInvasion       With the eager help of @polesasunder! Squishing columns together to get rid of NAs in R http://wp.me/p1Ye5e-aJ  #rstats
+382223456365854720  Sep 23 15:22  @rmflight         @jmgomez @rbloggers why not packages?? http://rmflight.github.io/posts/2013/09/github_packages.html #rstats
+382223614575005696  Sep 23 15:23  @rmflight         #blog #rstats portable personal packages via @github http://rmflight.github.io/posts/2013/09/github_packages.html
+382226618485207040  Sep 23 15:35  @AL4S_Rich        http://goo.gl/imokCW  introductory material to manipulate characters and strings in #rstats Handling and Processing Strings in R
+382226947092135937  Sep 23 15:36  @polesasunder     RT @KTInvasion: With the eager help of @polesasunder! Squishing columns together to get rid of NAs in R http://wp.me/p1Ye5e-aJ  #rstats
+382227869620899840  Sep 23 15:40  @KTInvasion       Oooh! I have enough #rstats blog posts! Now I can sign up for @Rbloggers! Does this mean I'm a real scientist now?
+382232619313684480  Sep 23 15:58  @randyzwitch      I've got two uninterrupted hours to write/improve #rstats code. The first hour will definitely be consumed by a WTF or two on my own code.
+382234441826828289  Sep 23 16:06  @treycausey       #rstats-like functionality in Clojure with Incanter, complete with quasi-#ggplot viz style. https://github.com/liebke/incanter/wiki#wiki-docs
+382235235561140224  Sep 23 16:09  @recology_        .@jebyrnes any packages/scripts for visualizing lavaan outputs in ggplot2? #rstats
+382237912714457088  Sep 23 16:19  @texhewson        RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+382243884769624064  Sep 23 16:43  @marcoscan        RT @ProgrammingR: Creating your personal, portable R code library with GitHub http://goo.gl/fb/u1f2q #rstats
+382248404937883648  Sep 23 17:01  @hadleywickham    RT @rmflight: #blog #rstats portable personal packages via @github http://rmflight.github.io/posts/2013/09/github_packages.html
+382249027607474176  Sep 23 17:04  @lincolnmullen    RT @rmflight: #blog #rstats portable personal packages via @github http://rmflight.github.io/posts/2013/09/github_packages.html
+382250400587722752  Sep 23 17:09  @bryancshepherd   RT @ProgrammingR: Creating your personal, portable R code library with GitHub http://goo.gl/fb/u1f2q #rstats
+382251476115935232  Sep 23 17:13  @kwbroman         If you want to get your #rstats package into CRAN, be sure to read the fine print. That’s how I spent my day. http://cran.r-project.org/web/packages/policies.html
+382252196038844416  Sep 23 17:16  @randyzwitch      RT @kwbroman: If you want to get your #rstats package into CRAN, be sure to read the fine print. That’s how I spent my day. http://t.co/dJFmlQvjEG
+382260098468311040  Sep 23 17:48  @SobriJozsi       RT @rmflight: #blog #rstats portable personal packages via @github http://rmflight.github.io/posts/2013/09/github_packages.html
+382260356405792768  Sep 23 17:49  @MathBioPaul      R prezi in spanish, alternate link http://prezi.com/embed/-3jqhcpmyqpq/ @recology_ @AliciaMstt @MasCienciaMx @rOpenSci @revodavid #rstats
+382262777802264576  Sep 23 17:58  @AliciaMstt       RT @MathBioPaul: R prezi in spanish, alternate link http://prezi.com/embed/-3jqhcpmyqpq/ @recology_ @AliciaMstt @MasCienciaMx @rOpenSci @revodavid #rstats
+382264079600988160  Sep 23 18:03  @PlethodoNick     @kwren88 @EdKabay @Carlybacter @gracediren @ANOVA1226 How about some #WinBUGS #Rstats mark-recapture code? http://t.co/L0uA5ItLFt
+382264855312334848  Sep 23 18:06  @algaebarnacle    Shoot! Updated my version of #rstats, now lmer from lme4 won't work. Anyone else having that problem?
+382267407152058368  Sep 23 18:17  @JGreenbrookHeld  Is there an easy way to put a normal dist curve over a histogram? #rstats
+382272840306671616  Sep 23 18:38  @SAGRudd          RT @rmflight: #blog #rstats portable personal packages via @github http://rmflight.github.io/posts/2013/09/github_packages.html
+382275208804958209  Sep 23 18:48  @GueyeNono        Anyone has a link to a good/full tutorial on how to use #slidify? Can't wait to switch from Powerpoint for my classes. #rstats
+382278702433714176  Sep 23 19:01  @MikeHoffmanCxA   Finally off to the races with #rstats - starting Dr. Peng's intro course on #Coursera. Advice and recommendations welcome.
+382288482091012096  Sep 23 19:40  @TheAtavism       @neilfws Don't know, but don't think it does anything very special? In #rstats could sample() a/a's with weights from empirical freqs?
+382288999840112641  Sep 23 19:42  @kwbroman         RT @rmflight: #blog #rstats portable personal packages via @github http://rmflight.github.io/posts/2013/09/github_packages.html
+382289826579353600  Sep 23 19:46  @sharon000        @MikeHoffmanCxA If I may :-) my Beginner's Guide to R http://cwrld.us/RGuideIntro and 60+ R resources http://cwrld.us/Rresources #rstats
