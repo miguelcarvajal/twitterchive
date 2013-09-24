@@ -19111,3 +19111,102 @@
 382482093067866112  Sep 24 08:30  @SCEconomists     RT @Piboonrungroj: Creating R code in #GitHub #rstats  http://www.programmingr.com/content/creating-personal-portable-r-code-library-github/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ProgrammingR+%28Programming+R%29
 382483026329862145  Sep 24 08:33  @hadleywickham    dplyr uses 11+ functions to do what data.table does with [. Your gut response to that statement will determine which you will prefer #rstats
 382489461315362816  Sep 24 08:59  @KirkDBorne       Wiki for Advanced R Programming, #Rstats, & #MachineLearning | @scoopit http://sco.lt/4tp70D
+382489778374987776  Sep 24 09:00  @statisticsblog   Detecting Weak Instruments in R. http://i.cx/1fvXGsd #r #rstats
+382491556382801920  Sep 24 09:07  @mgaldino         "Using Quandl for Datasets and Research #rstats" http://feedly.com/k/1dG9B4Z
+382492305535401984  Sep 24 09:10  @Rbloggers        Bio7 1.7.1 for Linux Released:  (This article was first published on    » R, and kindly contributed ... http://bit.ly/1gW5i5i #rstats
+382496535813959681  Sep 24 09:27  @CodeXmonk        RT @statisticsblog: Detecting Weak Instruments in R. http://i.cx/1fvXGsd #r #rstats
+382497132084600832  Sep 24 09:29  @timelyportfolio  RT @nachocaballero: 7 #rstats Tips Rescued from the Vault http://reasoniamhere.com/2013/09/23/7-r-tips-rescued-from-the-vault/
+382499441233510401  Sep 24 09:39  @MDubins          Ridiculous errors that occur in excel really don't seem to happen in R.  #rstats #damnyouexcel
+382500199937351680  Sep 24 09:42  @RickSaporta      Hadley spoke of #dplyr at .@nyhackr this summer. Psyched to see some benchmarks! #plyr #rstats http://bit.ly/1eDZl00 (via @Rbloggers )
+382501614432436224  Sep 24 09:47  @JakeRuss         For the #Rstats crowd, I wrote up a speed test comparison of plyr, data.table, and dplyr. http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/
+382501926698369024  Sep 24 09:49  @marcoscan        RT @nachocaballero: 7 #rstats Tips Rescued from the Vault http://reasoniamhere.com/2013/09/23/7-r-tips-rescued-from-the-vault/
+382513861644914688  Sep 24 10:36  @LeviABowles      Yes, #rstats has the logit functionality, but not designed for the type of whatifs I run through excel regularly.  This allows flexibility.
+382515900722593792  Sep 24 10:44  @robertvesco      MT @hadleywickham: dplyr uses 11+ func to do what data.table does with [. UR gut response to that will determine which you'll prefer #rstats
+382516161965223936  Sep 24 10:45  @whitcher         R Based Medical Imaging Tutorial at #MICCAI2013 on 26 September. Don't miss it! #rstats http://stnava.github.io/RMI/
+382518940175699968  Sep 24 10:56  @er1kb            RT @nachocaballero: 7 #rstats Tips Rescued from the Vault http://reasoniamhere.com/2013/09/23/7-r-tips-rescued-from-the-vault/
+382519973114961920  Sep 24 11:00  @statisticsblog   The optimal strategies for waiting - a guide for those of you who likes shopping. http://i.cx/18n93O0 #r #rstats #simulation
+382520471809294336  Sep 24 11:02  @rstudioapp       RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382520675790893057  Sep 24 11:03  @hadleywickham    RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382521026216603648  Sep 24 11:04  @hadleywickham    i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382521027252596737  Sep 24 11:04  @eddelbuettel     RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382521185965072386  Sep 24 11:05  @miguelacevedopr  RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382521274792017920  Sep 24 11:05  @alstated         RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382521514823651329  Sep 24 11:06  @alstated         RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382521703378989056  Sep 24 11:07  @AriBFriedman     Do not pass go. Go directly to heaven. RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382521731937615873  Sep 24 11:07  @josh_wills       RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382521753962295296  Sep 24 11:07  @mmeierer         RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382521810845454336  Sep 24 11:08  @mmeierer         RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382521815127441408  Sep 24 11:08  @ramnath_vaidya   RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382521836069609473  Sep 24 11:08  @joelgombin       RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382521836514193410  Sep 24 11:08  @ramnath_vaidya   RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382522102349180929  Sep 24 11:09  @sebastien_ferry  RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382522109672849408  Sep 24 11:09  @renaysingh       RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382522180694573056  Sep 24 11:09  @TuxedoPong       RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382522202152644608  Sep 24 11:09  @ethanwhite       The @rstudioapp now has a graphical debugger! http://blog.rstudio.org/2013/09/24/rstudio-v0-98-preview/ Fantastic addition. #rstats
+382523038207451136  Sep 24 11:12  @recology_        RT @ethanwhite: The @rstudioapp now has a graphical debugger! http://blog.rstudio.org/2013/09/24/rstudio-v0-98-preview/ Fantastic addition. #rstats
+382523389157462018  Sep 24 11:14  @abresler         RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382523559743987714  Sep 24 11:14  @christonard      RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382523561283317761  Sep 24 11:14  @imser_           RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382523747426529280  Sep 24 11:15  @revodavid        On live with @hortonworks in 45 mins to talk Hadoop, R (#rstats) and the modern data architecture http://bit.ly/1aaInkL
+382523835297185792  Sep 24 11:16  @kozo2            RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382523892905938946  Sep 24 11:16  @hortonworks      RT @revodavid: On live with @hortonworks in 45 mins to talk Hadoop, R (#rstats) and the modern data architecture http://bit.ly/1aaInkL
+382524044048080896  Sep 24 11:16  @uzelsukru        RT @revodavid: On live with @hortonworks in 45 mins to talk Hadoop, R (#rstats) and the modern data architecture http://bit.ly/1aaInkL
+382524059579596800  Sep 24 11:16  @otfrom           RT: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio (via @rstudioapp) < FAO @fhr
+382524117662330881  Sep 24 11:17  @yy               RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382524128269713408  Sep 24 11:17  @yy               RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382524200612687872  Sep 24 11:17  @dennylee         RT @revodavid: On live with @hortonworks in 45 mins to talk Hadoop, R (#rstats) and the modern data architecture http://bit.ly/1aaInkL
+382524471401140224  Sep 24 11:18  @TrestleJeff      RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382524680306831360  Sep 24 11:19  @dnusinow         RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382524729128517632  Sep 24 11:19  @sc_evans         RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382524742789390336  Sep 24 11:19  @sc_evans         RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382524814994731008  Sep 24 11:19  @jonsedar         Hooray for debugging! RT @hadleywickham: the new RStudio debugging support is fantastic. #rstats
+382525117018148864  Sep 24 11:21  @biocs            RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382525420630855680  Sep 24 11:22  @benjaminlmoore   RT @ethanwhite: The @rstudioapp now has a graphical debugger! http://blog.rstudio.org/2013/09/24/rstudio-v0-98-preview/ Fantastic addition. #rstats
+382526564853760000  Sep 24 11:26  @matthewkrachey   RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382526634349166592  Sep 24 11:27  @matthewkrachey   RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382526958711885824  Sep 24 11:28  @jullybobble      RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382528952402980864  Sep 24 11:36  @larysar          RT @ethanwhite: The @rstudioapp now has a graphical debugger! http://blog.rstudio.org/2013/09/24/rstudio-v0-98-preview/ Fantastic addition. #rstats
+382529435708440576  Sep 24 11:38  @mianromu         RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382529880673779712  Sep 24 11:40  @konradhoppe      RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382530066644611072  Sep 24 11:40  @kwbroman         Released R/qtl version 1.28-19 http://www.rqtl.org #rstats
+382532031722188800  Sep 24 11:48  @eddelbuettel     Nice new Rcpp Gallery post on Munkres' Assignment Problem via RcppArmadillo: http://goo.gl/VLh1VP #rstats #rcpp
+382532069681033216  Sep 24 11:48  @HarlanH          RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382532276677922816  Sep 24 11:49  @Aelkus           RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382532897233592321  Sep 24 11:52  @uzERP            RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382533826901458944  Sep 24 11:55  @ArthurFlam       RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382533945583099905  Sep 24 11:56  @jmcphers         RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382535549048733696  Sep 24 12:02  @Colin_at_cu      RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382535601829855233  Sep 24 12:02  @Colin_at_cu      RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382536102995034112  Sep 24 12:04  @Zementis         On-demand Webinars & Videos: Predictive Analytics #bigdata #dataminig w #Hadoop #rstats #IBM #SPSS #PMML and more http://buff.ly/15nnHmu
+382536133441511424  Sep 24 12:04  @hpgomide         RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382536319240798208  Sep 24 12:05  @RonDotsch        Great developments: “@rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio”
+382536365491363840  Sep 24 12:05  @RLangTip         #rstats Send plots to pdf file: run pdf("myOut.pdf"), produce plots, turn off with dev.off() http://bit.ly/1bwnJPS
+382538679245217792  Sep 24 12:15  @jakecologist     Enjoying Rob Thomas' R course in Cardiff, lots of useful models for messy ecological data & reassurance my analysis is fine so far! #rstats
+382540100627750912  Sep 24 12:20  @_inundata        Anyone writing their dissertation in the open using knitr and markdown? I need to share examples with a student. #rstats
+382540312175837184  Sep 24 12:21  @annakrystalli    Excellent news! RT @ethanwhite The @rstudioapp now has a graphical debugger! http://blog.rstudio.org/2013/09/24/rstudio-v0-98-preview/ … Fantastic addition. #rstats
+382540983004835841  Sep 24 12:24  @OliverBelmans    RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382541077669879808  Sep 24 12:24  @noamross         Just discovered the great notes from @vsbuffalo's short course on #DataViz in #Rstats http://training.bioinformatics.ucdavis.edu/docs/2012/05/DAV/index.html
+382541081759346688  Sep 24 12:24  @mpmckenna8       RT @_inundata: Anyone writing their dissertation in the open using knitr and markdown? I need to share examples with a student. #rstats
+382541424752730112  Sep 24 12:25  @bryanmparsons    Absolutely in love with the package 'coefplot.' Such a great way to quickly visualize model estimates using #ggplot2. #rstats
+382541967835795456  Sep 24 12:28  @jasonpbecker     RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382542577612128256  Sep 24 12:30  @tdhopper         RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382548108200005633  Sep 24 12:52  @vsbuffalo        RT @noamross: Just discovered the great notes from @vsbuffalo's short course on #DataViz in #Rstats http://training.bioinformatics.ucdavis.edu/docs/2012/05/DAV/index.html
+382548388970893313  Sep 24 12:53  @winston_chang    RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382548459682664449  Sep 24 12:53  @winston_chang    RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382549125046472704  Sep 24 12:56  @MikePearmain     I always thought my #Rstats packaging skills were pretty reasonable. After a crash course from @mj_kallen how naive I have been.
+382550169729773568  Sep 24 13:00  @statisticsblog   A speed test comparison of plyr, data.table, and dplyr for large data frames. http://i.cx/16w3v15 #r #rstats
+382552605731217408  Sep 24 13:10  @CStothart        RT @RLangTip: Type ?Syntax to learn the precedence of operators in the R language: http://bit.ly/NaI9lG #rstats
+382552682637975552  Sep 24 13:10  @AliRebaie        Shiny makes it super simple for R users to turn analyses into interactive web applications http://www.rstudio.com/shiny/ #rstats #bigdata
+382553292301033473  Sep 24 13:13  @Physical_Prep    This is what happens when you give R to a coach #rstats @rstudioapp http://t.co/gFJJVAmbZS
+382554417540919296  Sep 24 13:17  @YvesMulkers      RT @AliRebaie: Shiny makes it super simple for R users to turn analyses into interactive web applications http://www.rstudio.com/shiny/ #rstats #bigdata
+382556334140301313  Sep 24 13:25  @Natty_V2         RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382556929366556673  Sep 24 13:27  @giostats         RT @statisticsblog: A speed test comparison of plyr, data.table, and dplyr for large data frames. http://i.cx/16w3v15 #r #rstats
+382557636082040832  Sep 24 13:30  @mglbranco        RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382560135706456065  Sep 24 13:40  @Zementis         Newsletter - coverage on R #rstats extensive support for #PMML to deploy predictive analytics http://lnkd.in/bBx4WjU #datamining
+382562916152512512  Sep 24 13:51  @DLabAtBerkeley   RT @_inundata: Anyone writing their dissertation in the open using knitr and markdown? I need to share examples with a student. #rstats
+382564656537018369  Sep 24 13:58  @jingbay          RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382565888479596544  Sep 24 14:03  @revodavid        How #OpenSource is changing business: Replay of our #BigDataBytes hangout discussing R #rstats and #Hadoop now avail: http://bit.ly/18TqgTt
+382568209188024320  Sep 24 14:12  @mwpennell        #Rstats q: what is the best way to print to screen when an object is called. as in: res <- myfxn(x); res; "here are the results"
+382569074313949184  Sep 24 14:15  @siah             Kudos to @revodavid for always helping the #rstats community. I have certainly learned a lot from him.  http://ow.ly/paDjr
+382570818800451584  Sep 24 14:22  @dmedri           Teradata and Revolution Analytics http://bit.ly/1a5hlLR via @YvesMulkers @revodavid #bigdata #rstats #datascience #datascientists
+382572426888216576  Sep 24 14:29  @andyteucher      Debugging tools in @rstudioapp v0.98 Preview are cool, but this: "Control+Enter can now execute commands in console" makes my day #rstats
