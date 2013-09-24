@@ -19069,3 +19069,29 @@
 382288482091012096  Sep 23 19:40  @TheAtavism       @neilfws Don't know, but don't think it does anything very special? In #rstats could sample() a/a's with weights from empirical freqs?
 382288999840112641  Sep 23 19:42  @kwbroman         RT @rmflight: #blog #rstats portable personal packages via @github http://rmflight.github.io/posts/2013/09/github_packages.html
 382289826579353600  Sep 23 19:46  @sharon000        @MikeHoffmanCxA If I may :-) my Beginner's Guide to R http://cwrld.us/RGuideIntro and 60+ R resources http://cwrld.us/Rresources #rstats
+382308616797052930  Sep 23 21:00  @cureffi          Quick intro to #cheminformatics in #rStats re: #prion #drugdiscovery http://www.cureffi.org/2013/09/23/a-quick-intro-to-chemical-informatics-in-r/ using rcdk by @rguha
+382312363195510784  Sep 23 21:15  @Rbloggers        Building models over rolling time periods:  (This article was first published on   Shifting sands, a... http://bit.ly/15nAIwl #rstats
+382315159403782144  Sep 23 21:26  @pkaushik         RT @ChicagoCDO: RSocrata: Load datasets from @Socrata to #rstats with read.socrata(url). Converts date/time to POSIX http://j.mp/18zP9TQ (also on CRAN)
+382315735047213056  Sep 23 21:29  @bad_lad          RT @sharon000: @MikeHoffmanCxA Beginner's Guide to R http://cwrld.us/RGuideIntro and 60+ R resources http://cwrld.us/Rresources #rstats
+382317458905780224  Sep 23 21:35  @ficaryl          Hi Jon, really appreciated this code but am getting error msgs w lme4_0.999 mer objects. Any ideas? #rstats http://jslefche.wordpress.com/2013/03/13/r2-for-linear-mixed-effects-models/ @jslefche
+382317742591733760  Sep 23 21:37  @DextraordinaryH  RT @RLangTip: Type ?Syntax to learn the precedence of operators in the R language: http://bit.ly/NaI9lG #rstats
+382320097198477313  Sep 23 21:46  @Rbloggers        A speed test comparison of plyr, data.table, and dplyr:  (This article was first published on   R-st... http://bit.ly/15nEkhS #rstats
+382322169138536448  Sep 23 21:54  @neilfws          A speed test comparison of plyr, data.table, and dplyr: http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/ #rstats
+382326934782242816  Sep 23 22:13  @nextgenseek      RT @neilfws: A speed test comparison of plyr, data.table, and dplyr: http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/ #rstats
+382327395019026433  Sep 23 22:15  @GeekyScienceGrl  RT @cureffi: Quick intro to #cheminformatics in #rStats re: #prion #drugdiscovery http://www.cureffi.org/2013/09/23/a-quick-intro-to-chemical-informatics-in-r/ using rcdk by @rguha
+382328707743895552  Sep 23 22:20  @davetang31       RT @neilfws: A speed test comparison of plyr, data.table, and dplyr: http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/ #rstats
+382328997381554176  Sep 23 22:21  @DavidBush10      RT @neilfws: A speed test comparison of plyr, data.table, and dplyr: http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/ #rstats
+382332828723056642  Sep 23 22:37  @zentree          'A speed test comparison of plyr, data.table, and dplyr' by @talgalili http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/ #Rstats
+382335644129034241  Sep 23 22:48  @GueyeNono        #ggplot2 #rstats
+382341244686327809  Sep 23 23:10  @recology_        PLOS article @plosalm #altmetrics as #rstats density plots http://bit.ly/15nOmzl , a work in progress. cc: @mfenner
+382342251965186048  Sep 23 23:14  @RladiesSF        Next R-ladies meetup: Computing for Data Analysis (study group).  Check it out and RSVP! http://meetu.ps/1ZZSQn #rstats #compdata #coursera
+382353458122088448  Sep 23 23:59  @timelyportfolio  RT @neilfws: A speed test comparison of plyr, data.table, and dplyr: http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/ #rstats
+382354830431236096  Sep 24 00:04  @clarkfitzg       "we can go beyond the model of Code + Documentation" A great #rstats thought from @xieyihui - http://yihui.name/slides/2012-knitr-RStudio.html#23.1
+382356158251806720  Sep 24 00:09  @gappy3000        Ok, deep into this book, I am starting to miss the point, I must confess. #rstats http://cartesianfaith.files.wordpress.com/2013/09/rowe-modeling-data-with-functional-programming.pdf
+382361245136855040  Sep 24 00:29  @nachocaballero   7 #rstats Tips Rescued from the Vault http://reasoniamhere.com/2013/09/23/7-r-tips-rescued-from-the-vault/
+382376356749017088  Sep 24 01:30  @DailyRpackage    hmmm - hierarchical multinomial marginal models http://cran.r-project.org/web/packages/hmmm/index.html #RStats
+382378551598534657  Sep 24 01:38  @mfenner          RT @recology_: PLOS article @plosalm #altmetrics as #rstats density plots http://bit.ly/15nOmzl , a work in progress. cc: @mfenner
+382381931226071040  Sep 24 01:52  @BenSadeghi       parallelRandomForest: faster, leaner, parallelized  #rstats  http://blog.mckuhn.de/2013/09/introducing-parallelrandomforest-faster.html
+382384562849861632  Sep 24 02:02  @PPUAMX           RT @RLangTip: #rstats Get a list of the arguments for a function: formals(func) http://bit.ly/14rinAX
+382391225091108864  Sep 24 02:29  @biocs            RT @neilfws: A speed test comparison of plyr, data.table, and dplyr: http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/ #rstats
+382394275524132864  Sep 24 02:41  @Rbloggers        Changing the width of bars and columns in googleVis: Changing the plotting width in bar-, column- and ... http://bit.ly/15od9U8 #rstats
