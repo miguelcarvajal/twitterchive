@@ -19095,3 +19095,19 @@
 382384562849861632  Sep 24 02:02  @PPUAMX           RT @RLangTip: #rstats Get a list of the arguments for a function: formals(func) http://bit.ly/14rinAX
 382391225091108864  Sep 24 02:29  @biocs            RT @neilfws: A speed test comparison of plyr, data.table, and dplyr: http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/ #rstats
 382394275524132864  Sep 24 02:41  @Rbloggers        Changing the width of bars and columns in googleVis: Changing the plotting width in bar-, column- and ... http://bit.ly/15od9U8 #rstats
+382408111954206722  Sep 24 03:36  @mj_kallen        Some people post very detailed #rstats questions on programming and maths in LinkedIN/Google+ groups. What's a better place? StackOverflow?
+382434325901230080  Sep 24 05:20  @tim_yates        RT @neilfws: A speed test comparison of plyr, data.table, and dplyr: http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/ #rstats
+382434774129725440  Sep 24 05:22  @hfmuehleisen     New blog post: "Socialists are lazy" – #BTW13 election result reporting delay analysis with #Rstats http://tmblr.co/ZR5N7tvtvwAj
+382446226710757376  Sep 24 06:07  @rguha            RT @cureffi: Quick intro to #cheminformatics in #rStats re: #prion #drugdiscovery http://www.cureffi.org/2013/09/23/a-quick-intro-to-chemical-informatics-in-r/ using rcdk by @rguha
+382447011506561024  Sep 24 06:10  @McDawg           RT @cureffi: Quick intro to #cheminformatics in #rStats re: #prion #drugdiscovery http://www.cureffi.org/2013/09/23/a-quick-intro-to-chemical-informatics-in-r/ using rcdk by @rguha
+382458623974060032  Sep 24 06:56  @kwbroman         RT @nachocaballero: 7 #rstats Tips Rescued from the Vault http://reasoniamhere.com/2013/09/23/7-r-tips-rescued-from-the-vault/
+382471123373260800  Sep 24 07:46  @baoilleach       RT @cureffi: Quick intro to #cheminformatics in #rStats re: #prion #drugdiscovery http://www.cureffi.org/2013/09/23/a-quick-intro-to-chemical-informatics-in-r/ using rcdk by @rguha
+382474676577902596  Sep 24 08:00  @statisticsblog   R tip of the day - analyze the home mortgage disclosure act (hmda) microdata with r and monetdb. http://i.cx/16CRcB1 #r #rstats
+382477098369433601  Sep 24 08:10  @quandl           The Story of your #data by #R by @lc0d3r http://qndl.co/18lniD7 #dataviz #Rstats
+382479797189750784  Sep 24 08:21  @Piboonrungroj    Creating R code in #GitHub #rstats  http://www.programmingr.com/content/creating-personal-portable-r-code-library-github/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ProgrammingR+%28Programming+R%29
+382480011392860161  Sep 24 08:21  @Rstats4Econ      RT @Piboonrungroj: Creating R code in #GitHub #rstats  http://www.programmingr.com/content/creating-personal-portable-r-code-library-github/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ProgrammingR+%28Programming+R%29
+382480125872201729  Sep 24 08:22  @CMSEcon          RT @Piboonrungroj: Creating R code in #GitHub #rstats  http://www.programmingr.com/content/creating-personal-portable-r-code-library-github/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ProgrammingR+%28Programming+R%29
+382481444926259201  Sep 24 08:27  @Physical_Prep    Ok, this is a start. #rstats #learning http://t.co/mnFSFlgWCP
+382482093067866112  Sep 24 08:30  @SCEconomists     RT @Piboonrungroj: Creating R code in #GitHub #rstats  http://www.programmingr.com/content/creating-personal-portable-r-code-library-github/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ProgrammingR+%28Programming+R%29
+382483026329862145  Sep 24 08:33  @hadleywickham    dplyr uses 11+ functions to do what data.table does with [. Your gut response to that statement will determine which you will prefer #rstats
+382489461315362816  Sep 24 08:59  @KirkDBorne       Wiki for Advanced R Programming, #Rstats, & #MachineLearning | @scoopit http://sco.lt/4tp70D
