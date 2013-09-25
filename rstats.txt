@@ -19254,3 +19254,25 @@
 382668081656369152  Sep 24 20:49  @neilfws          RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
 382668749402165249  Sep 24 20:51  @GueyeNono        Imagine a world where the code editor of  #Rstudio is #SublimeText. #Rstats
 382670092263124992  Sep 24 20:57  @Sakkaden         RT @zentree: The #Rstats Project website is stuck in time. It needs to add some blinking text and an 'under construction' GIF. http://t.co/i5G2xgzl9S
+382670787611619329  Sep 24 21:00  @cpsievert        Fixed a couple bugs in the #LDAviz #shiny app. Documents are now ranked properly! http://bit.ly/18jz7eU #rstats #d3js
+382670802367565824  Sep 24 21:00  @JacqHarper       Anyone? @EdwardTufte: A+ Report'g errors in best journalism,  far higher stds > clin trials research. http://source.mozillaopennews.org/en-US/learning/times-regrets-programmer-error/ #rstats #ddj
+382671397798965248  Sep 24 21:02  @Rbloggers        R as a command-line tool for data science:  (This article was first published on   Revolutions, and ... http://bit.ly/1gY9IIY #rstats
+382675565842419712  Sep 24 21:18  @GueyeNono        Detecting weak instruments in #Rstats http://diffuseprior.wordpress.com/2013/09/23/detecting-weak-instruments-in-r/
+382675772093120512  Sep 24 21:19  @kwbroman         RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382678212171407360  Sep 24 21:29  @victoriastodden  RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382684703951572992  Sep 24 21:55  @polimath         You can build and reload #rstats packages with one click in #RStudio, even with #Rcpp embedded. http://www.rstudio.com/ide/docs/advanced/using_rcpp
+382691613044387840  Sep 24 22:22  @jorgaf           RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382697016583020544  Sep 24 22:44  @jeridfrancom     RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382707486521696256  Sep 24 23:25  @JamesKLavin      RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382711897721561088  Sep 24 23:43  @timelyportfolio  RT @polimath: You can build and reload #rstats packages with one click in #RStudio, even with #Rcpp embedded. http://www.rstudio.com/ide/docs/advanced/using_rcpp
+382713362317967360  Sep 24 23:49  @xieyihui         great, it seems CRAN starts displaying Markdown/HTML vignettes for newly submitted pkgs now, e.g. http://cran.r-project.org/web/packages/biom/index.html #rstats
+382714828634087424  Sep 24 23:55  @Gliders_Coach    CRAN adopts Markdown for Packages #rstats http://cran.r-project.org/web/packages/biom/vignettes/biom-demo.html@WBrettWilson @WBrettWilson
+382733684795015168  Sep 25 01:09  @texhewson        RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382735391184683008  Sep 25 01:16  @dilipkamath      RT @Cojoin: For the more technically inclined: Seven command-line tools for data science http://flip.it/wMMpN @jeroenhjanssens #rstats
+382738151519047680  Sep 25 01:27  @gerd_koenig      RT @revodavid: Several ways to include R #rstats in command-line workflow w/ other #DataScience tools suggested by @jeroenhjanssens http://t.co/NJ5PUBCOJn
+382738741192052736  Sep 25 01:30  @DailyRpackage    clv - Cluster Validation Techniques http://cran.r-project.org/web/packages/clv/index.html #RStats
+382744188443308033  Sep 25 01:51  @munjal_gitanshu  RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382751322153304064  Sep 25 02:20  @xprimexinverse   RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382754337610399744  Sep 25 02:31  @recology_        @bendmorris is sphinx like roxygen2 for #rstats
+382755931299516416  Sep 25 02:38  @FlorianOswald    RT @xieyihui: CRAN starts displaying Markdown/HTML vignettes for newly submitted pkgs now, e.g. http://cran.r-project.org/web/packages/biom/index.html #rstats @zadigh
+382757087526543360  Sep 25 02:42  @webbedfeet       RT @tonyojeda3: We're hosting 2 #rstats workshops on Oct 19th. Come out and learn the lingua franca of #datascience! http://bit.ly/19ePwzw  #datadc #dctech
