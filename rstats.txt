@@ -19303,3 +19303,66 @@
 382842029136281600  Sep 25 08:20  @JeffHemsley      @richierocks any date on part two of fearsom engines for #rstats?
 382843283971780608  Sep 25 08:25  @quandl           Handling & processing strings in #R by Gaston Sanchez http://qndl.co/1aispFu #Rstats
 382848673668804609  Sep 25 08:46  @datennutzen      How #OpenSource like #rstats and #hadoop is changing (#BigData) Business with @revodavid http://www.ibmbigdatahub.com/bigdatabytes/how-open-source-changing-business
+382859060938158083  Sep 25 09:28  @MJMcGuffin       RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+382859718907002880  Sep 25 09:30  @Protohedgehog    Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382860704971100160  Sep 25 09:34  @ColdMtGeologist  RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382861410315038720  Sep 25 09:37  @SciCommForum     RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382861519375306752  Sep 25 09:37  @DrSnygg          RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382861595073736704  Sep 25 09:38  @SciMedLibraries  RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382863238792085504  Sep 25 09:44  @palaeoisotopes   RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382863999940845568  Sep 25 09:47  @PopePolar        RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382864657167695872  Sep 25 09:50  @jillpruetz       RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382865254717595648  Sep 25 09:52  @APV2600          RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382865418450247681  Sep 25 09:53  @SciOfMotherhood  RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382867272915640321  Sep 25 10:00  @statisticsblog   R tip of the day - The Munkres' Assignment Algorithm in R. http://i.cx/16Ii4PT#r #rstats
+382868286293442561  Sep 25 10:04  @HayleyEversKing  RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382869880325668864  Sep 25 10:11  @etologen         RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382871963204464640  Sep 25 10:19  @recology_        #rstats folks beware in new R v3.0.2 "R CMD check --as-cran checks the line widths in usage & examples sections of the package Rd files."
+382872988728983552  Sep 25 10:23  @ErikJohnline     Anyone have luck multicore processing with #rstats in win? Works in Linux no prob but can’t get a package that actually works in win.
+382873957101096960  Sep 25 10:27  @BrownJosephW     RT @recology_: #rstats folks beware in new R v3.0.2 "R CMD check --as-cran checks the line widths in usage & examples sections of the package Rd files."
+382874051339120640  Sep 25 10:27  @hylopsar         #Rstats  3.0.2 (codename: "Frisbee Sailing") rolling out today… http://cran.r-project.org/src/base/NEWS.html download build (binaries soon) http://cran.r-project.org/src/base/R-3/R-3.0.2.tar.gz
+382874981824077824  Sep 25 10:31  @bobskool         RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382876078835916801  Sep 25 10:35  @QuaternaryRA_UK  RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382876525948715008  Sep 25 10:37  @dschoolmaster    RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382876636573478912  Sep 25 10:37  @axelopp          RT @datennutzen: How #OpenSource like #rstats and #hadoop is changing (#BigData) Business with @revodavid http://www.ibmbigdatahub.com/bigdatabytes/how-open-source-changing-business
+382876636586078208  Sep 25 10:37  @avispadorDE      RT @datennutzen: How #OpenSource like #rstats and #hadoop is changing (#BigData) Business with @revodavid http://www.ibmbigdatahub.com/bigdatabytes/how-open-source-changing-business
+382878817615761408  Sep 25 10:46  @doctorjackpine   RT @recology_: #rstats folks beware in new R v3.0.2 "R CMD check --as-cran checks the line widths in usage & examples sections of the package Rd files."
+382880048446836739  Sep 25 10:51  @dwbapst          RT @hylopsar: #Rstats  3.0.2 (codename: "Frisbee Sailing") rolling out today… http://cran.r-project.org/src/base/NEWS.html download build (binaries soon) http://t.co/FPzSoORuw3
+382881772692066304  Sep 25 10:58  @patterns4living  @Tash_Reynolds MT “@Protohedgehog: Want to learn how to use R? Free MOOC! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat”
+382888094841974786  Sep 25 11:23  @Koalha           Is there a reason for the indexing i NOT to work in df[i.] inside a for-loop? #rstats
+382888271384027136  Sep 25 11:24  @Tash_Reynolds    @J_C_French MT "@patterns4living @Protohedgehog: Want to learn how to use R? Free MOOC! http://bit.ly/18kGti7  #rstats #PhDchat #ECRchat”
+382890417600999424  Sep 25 11:32  @chenghlee        Yay! #CRAN now displays #Markdown vignettes for newly submitted pkgs; e.g. "Vignettes" link for http://cran.r-project.org/web/packages/biom/index.html via @xieyihui #rstats
+382897554515439618  Sep 25 12:01  @algaebarnacle    This is just what I've been looking for: online materials for advanced #rstats users (to be a book by @hadleywickham) http://adv-r.had.co.nz/
+382898796466020353  Sep 25 12:06  @RLangTip         Turn off all warnings in R with options(warn=-1), or use suppressWarnings(<expr>) http://bit.ly/qXsMe5 #rstats
+382899334435860480  Sep 25 12:08  @Phil_B_Diatom    RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382899629756796928  Sep 25 12:09  @hersheyp         RT @saadgulzar: ggmap FTW... Kind of @hersheyp #rstats
+382900050818764802  Sep 25 12:11  @raulpacheco      #RStats RT @Stata: Stata Blog: Export tables to Excel http://bit.ly/1h0ROVY
+382900059714502656  Sep 25 12:11  @recology_        RT @quandl: Handling & processing strings in #R by Gaston Sanchez http://qndl.co/1aispFu #Rstats
+382900535021416448  Sep 25 12:12  @mgwhitfield      I foresee this being very handy: RT @quandl: Handling & processing strings in #R by Gaston Sanchez http://qndl.co/1aispFu #Rstats
+382901512839499776  Sep 25 12:16  @aratob           R Meetup az Elte északi tömbjének második emeletén. Az első előadó Szakács László a Planiméter Kft-től, aki a #Shiny csomagról mesél #rstats
+382901648378437633  Sep 25 12:17  @mmparker         RT @recology_: #rstats folks beware in new R v3.0.2 "R CMD check --as-cran checks the line widths in usage & examples sections of the package Rd files."
+382901979452030977  Sep 25 12:18  @bobskool         RT @algaebarnacle: This is just what I've been looking for: online materials for advanced #rstats users (to be a book by @hadleywickham) http://t.co/TvDAvqKHmb
+382902554201718784  Sep 25 12:20  @mjcavaretta      Interesting. RT @jfelipe: A multi-stage method for content classification & #opinionmining on blog comments: http://bit.ly/15TqveH #rstats
+382906373790388224  Sep 25 12:36  @sharon000        Added to my R resource list: Art of R Programming. Useful if u code in another language. Full list: http://cwrld.us/RGuideList #rstats
+382906743967076354  Sep 25 12:37  @AL4S_Rich        #rstats I just signed up for the O'Reilly Webcast: Writing Great R Code http://oreillynet.com/pub/e/2866 via @oreillymedia
+382908313861505026  Sep 25 12:43  @aratob           Kérdések #shiny témában: Hogyan skálázódik sok felhasználóra? Hozzáférhető és szabadon kezelhető a  teljes forrás? #rstats #rstudio
+382909774326542337  Sep 25 12:49  @aratob           Második előadó Kocsis Imre a BME-től illetve Quanopt Kft-től, aki a vizuális adatfelderítésről és az #iplots csomagról fog beszélni #rstats
+382909957361774593  Sep 25 12:50  @mcpasin          60+ R resources to improve your data skills http://shar.es/KteYQ via @computerworld #rstats #rbooks
+382910287168290817  Sep 25 12:51  @Thiagogm         Profiling R code http://wp.me/p29TGp-bN #rstats
+382911556390223872  Sep 25 12:56  @RickSaporta      RT @eddelbuettel: R 3.0.2 is released -- and the updated Debian package set has just been uploaded. #Rstats
+382911968690319360  Sep 25 12:58  @RickSaporta      Also very curious to read pt2!  RT @JeffHemsley: @richierocks any date on part two of fearsom engines for #rstats?
+382916224755437568  Sep 25 13:15  @quantlabs        Yes #Matlab Code generation to C or #Cplusplus beats #Rstats hands down but still has limitations http://ow.ly/pczDf
+382916971454423041  Sep 25 13:18  @TrevorABranch    Teaching Intro to R to natural scientists this quarter, my first time, and the class (24) is overflowing. Clearly #rstats IS useful!
+382917265361891328  Sep 25 13:19  @aratob           Interaktív adatfelderítés tömören: "Kijelölünk valamit, kijön valami és örülünk" #rstats
+382919398077771776  Sep 25 13:27  @AshJones26       RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382924130162450434  Sep 25 13:46  @TrevorABranch    RT @algaebarnacle: This is just what I've been looking for: online materials for advanced #rstats users (to be a book by @hadleywickham) http://t.co/TvDAvqKHmb
+382924230762844160  Sep 25 13:47  @michellejw       Ok, time to overlay some data on a bathymetric map. Thought about it & decided I could do it fastest in R. :-) #Rstats @TrevorABranch
+382933875011239936  Sep 25 14:25  @blackscence      RT @RLangTip: Turn off all warnings in R with options(warn=-1), or use suppressWarnings(<expr>) http://bit.ly/qXsMe5 #rstats
+382938317190623232  Sep 25 14:43  @kdnuggets        ganalytics: Google Analytics with R and tips to newcomers to help succeed in using R #rstats http://bit.ly/1h1n7Qr
+382938524137177088  Sep 25 14:43  @pavelnuzhdin     RT @kdnuggets: ganalytics: Google Analytics with R and tips to newcomers to help succeed in using R #rstats http://bit.ly/1h1n7Qr
+382938830505930752  Sep 25 14:45  @BeataStrack      RT @kdnuggets: ganalytics: Google Analytics with R and tips to newcomers to help succeed in using R #rstats http://bit.ly/1h1n7Qr
+382941156671098880  Sep 25 14:54  @ngodelw          True story:  if( i %% 10000000 == 0 ) { msg = paste("Still running. This is trial ", i, "\n") ; cat( msg )  } Named output 'ohShit' #rstats
+382941949512384513  Sep 25 14:57  @mattgarciablitz  RT @kdnuggets: ganalytics: Google Analytics with R and tips to newcomers to help succeed in using R #rstats http://bit.ly/1h1n7Qr
+382942262830718977  Sep 25 14:58  @JonathanPSadler  RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382942263099158528  Sep 25 14:58  @WildaboutBrum    RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+382942544684146688  Sep 25 14:59  @DrJPritchard     RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
