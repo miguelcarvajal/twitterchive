@@ -19210,3 +19210,47 @@
 382569074313949184  Sep 24 14:15  @siah             Kudos to @revodavid for always helping the #rstats community. I have certainly learned a lot from him.  http://ow.ly/paDjr
 382570818800451584  Sep 24 14:22  @dmedri           Teradata and Revolution Analytics http://bit.ly/1a5hlLR via @YvesMulkers @revodavid #bigdata #rstats #datascience #datascientists
 382572426888216576  Sep 24 14:29  @andyteucher      Debugging tools in @rstudioapp v0.98 Preview are cool, but this: "Control+Enter can now execute commands in console" makes my day #rstats
+382580405754687488  Sep 24 15:00  @josefslerka      I am looking for #elasticsearch client for R:( #rstats
+382581238277898240  Sep 24 15:04  @sidderb          Amazing #rstats vis of sailing routes over 100's yrs. As a sailor and history buff I love this! http://sappingattention.blogspot.co.uk/2012/04/visualizing-ocean-shipping.html?m=1
+382582048176619520  Sep 24 15:07  @LluisR_Tgn       RT @flimbar: R #rstats up 6 places to 18th most popular programming language http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+382583193805021184  Sep 24 15:11  @dannydb_stellar  RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382584441920438272  Sep 24 15:16  @josefslerka      @recology_ thnx I used rCurl, #elasticsearch and #shiny in this project a few month ago http://bit.ly/WJlAVC and I was happy #rstats
+382591758703398912  Sep 24 15:45  @Sakkaden         RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382591780723519488  Sep 24 15:46  @Sakkaden         RT @ethanwhite: The @rstudioapp now has a graphical debugger! http://blog.rstudio.org/2013/09/24/rstudio-v0-98-preview/ Fantastic addition. #rstats
+382599367795822592  Sep 24 16:16  @benjaminlind     Small components for a reason (@BadHessian) | Patterns in the Ivy II: Beyond the Giant Component http://badhessian.org/2013/09/patterns-in-the-ivy-ii-beyond-the-giant-component/ #sna #metal #rstats
+382600327801106432  Sep 24 16:20  @MRHelmus         3Data motion charts with google and R http://code.google.com/p/google-motion-charts-with-r/ #rstats @willpearse
+382600600304615425  Sep 24 16:21  @noamross         Can anyone get the error inspector in the new @rstudioapp? I can't seem to invoke it: http://support.rstudio.org/help/discussions/problems/8696-invoking-error-inspector #rstats
+382606569117974528  Sep 24 16:44  @gdequeiroz       RT @RladiesSF: Next R-ladies meetup: Computing for Data Analysis (study group).  Check it out and RSVP! http://meetu.ps/1ZZSQn #rstats #compdata #coursera
+382607036220862464  Sep 24 16:46  @gdequeiroz       RT @revodavid: How #OpenSource is changing business: Replay of our #BigDataBytes hangout discussing R #rstats and #Hadoop now avail: http://t.co/QrNU4FWMbR
+382607398021517312  Sep 24 16:48  @kobriendublin    RT @RladiesSF: Next R-ladies meetup: Computing for Data Analysis (study group).  Check it out and RSVP! http://meetu.ps/1ZZSQn #rstats #compdata #coursera
+382607747512279040  Sep 24 16:49  @rtelmore         Come to the Denver #rstats meetup tonight! I'm talking about the pbdR project. Wooo hooo. http://www.meetup.com/DenverRUG/events/139458862/
+382609127110766592  Sep 24 16:54  @hadleywickham    RT @RladiesSF: Next R-ladies meetup: Computing for Data Analysis (study group).  Check it out and RSVP! http://meetu.ps/1ZZSQn #rstats #compdata #coursera
+382609595513856000  Sep 24 16:56  @dorcatherium     Forget diamonds, Markov chains are a girl's best friend! #rstats #bayestraits
+382609599481659392  Sep 24 16:56  @marcosluis2186   RT @revodavid: How #OpenSource is changing business: Replay of our #BigDataBytes hangout discussing R #rstats and #Hadoop now avail: http://t.co/QrNU4FWMbR
+382616385744273408  Sep 24 17:23  @denisparra       RT @hadleywickham: i thought that GUI debugging tools weren't needed with #rstats, but the new rstudio debugging support is fantastic. I was totally wrong.
+382616971977953280  Sep 24 17:26  @jcanistrum       RT @Protohedgehog: Fancy learning how to code for data analysis? There's a MOOC for it, now open! http://bit.ly/18kGti7 #rstats with @rdpeng #PhDchat
+382628889442648064  Sep 24 18:13  @saadgulzar       ggmap FTW... Kind of @hersheyp #rstats
+382633461711781888  Sep 24 18:31  @corey_phillis    Presentation feature handy for our #rstats intro class @sean_anderson @alexchubaty @rstudioapp v0.98. http://wp.me/p1h48z-g9
+382634710884569089  Sep 24 18:36  @sjengle          RT @RladiesSF: Next R-ladies meetup: Computing for Data Analysis (study group).  Check it out and RSVP! http://meetu.ps/1ZZSQn #rstats #compdata #coursera
+382635191828619264  Sep 24 18:38  @BobMuenchen      An #rstats speed test comparison of plyr, data.table, and dplyr http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/
+382639148617564160  Sep 24 18:54  @revodavid        Several ways to include R #rstats in command-line workflow w/ other #DataScience tools suggested by @jeroenhjanssens http://bit.ly/18UkosZ
+382643595540717568  Sep 24 19:11  @abresler         Thanks to the badasses of the #rstats world especially @rstudioapp's shiny package @GothamCookies is now empowered by with the #marginator!!
+382648257639620608  Sep 24 19:30  @ErikJohnline     RT @ethanwhite: The @rstudioapp now has a graphical debugger! http://blog.rstudio.org/2013/09/24/rstudio-v0-98-preview/ Fantastic addition. #rstats
+382648887283949568  Sep 24 19:32  @CZDS             RT @revodavid: Several ways to include R #rstats in command-line workflow w/ other #DataScience tools suggested by @jeroenhjanssens http://t.co/NJ5PUBCOJn
+382649452080943104  Sep 24 19:35  @Anzardo          RT @revodavid: Several ways to include R #rstats in command-line workflow w/ other #DataScience tools suggested by @jeroenhjanssens http://t.co/NJ5PUBCOJn
+382649607404003328  Sep 24 19:35  @ArthurFlam       A #grep former maintainer talks about its optimizations. Fairly low-level. Beat that #Rstats...  http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html
+382652138616147968  Sep 24 19:45  @zentree          The #Rstats Project website is stuck in time. It needs to add some blinking text and an 'under construction' GIF. http://www.r-project.org/
+382653072507285505  Sep 24 19:49  @georgedarroch    RT @zentree: The #Rstats Project website is stuck in time. It needs to add some blinking text and an 'under construction' GIF. http://t.co/i5G2xgzl9S
+382653467891752960  Sep 24 19:51  @recology_        visualizing phenology of 20 plant-pollinator mutualistic networks   http://bit.ly/1fjh9ic #rstats #ggplot2 - could be better for sure
+382653560040607744  Sep 24 19:51  @randyzwitch      RT @zentree: The #Rstats Project website is stuck in time. It needs to add some blinking text and an 'under construction' GIF. http://t.co/i5G2xgzl9S
+382655389558255617  Sep 24 19:58  @georgedarroch    Compare the #Rstats site with that of #tableau. Night and day. http://www.tableausoftware.com/ @zentree
+382656565192323072  Sep 24 20:03  @recology_        @georgedarroch @zentree #rstats site does suck, but not really a fair comparison to a multimillion dollar corp.
+382666169615798272  Sep 24 20:41  @JeromyAnglim     RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382667031834677248  Sep 24 20:45  @JeromyAnglim     New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382667159052103680  Sep 24 20:45  @Bill_Gardner     RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382667201141948416  Sep 24 20:45  @khakieconomist   RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382667598543876096  Sep 24 20:47  @EdwardTufte      A+ Reporting errors in best journalism,  far higher standards than for, say, clinical trials research. http://source.mozillaopennews.org/en-US/learning/times-regrets-programmer-error/ #rstats #ddj
+382667855885393921  Sep 24 20:48  @ramnath_vaidya   RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382668081656369152  Sep 24 20:49  @neilfws          RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382668749402165249  Sep 24 20:51  @GueyeNono        Imagine a world where the code editor of  #Rstudio is #SublimeText. #Rstats
+382670092263124992  Sep 24 20:57  @Sakkaden         RT @zentree: The #Rstats Project website is stuck in time. It needs to add some blinking text and an 'under construction' GIF. http://t.co/i5G2xgzl9S
