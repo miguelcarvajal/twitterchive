@@ -19276,3 +19276,30 @@
 382754337610399744  Sep 25 02:31  @recology_        @bendmorris is sphinx like roxygen2 for #rstats
 382755931299516416  Sep 25 02:38  @FlorianOswald    RT @xieyihui: CRAN starts displaying Markdown/HTML vignettes for newly submitted pkgs now, e.g. http://cran.r-project.org/web/packages/biom/index.html #rstats @zadigh
 382757087526543360  Sep 25 02:42  @webbedfeet       RT @tonyojeda3: We're hosting 2 #rstats workshops on Oct 19th. Come out and learn the lingua franca of #datascience! http://bit.ly/19ePwzw  #datadc #dctech
+382767511340462080  Sep 25 03:24  @OliverBelmans    Need to know html5 to make browser slides? The answer is NO! Just learn markdown and publish #git or local #rstats #rstudio #autodidact
+382770941602066432  Sep 25 03:37  @drchriscole      RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382771202399301632  Sep 25 03:39  @marcoscan        RT @revodavid: Several ways to include R #rstats in command-line workflow w/ other #DataScience tools suggested by @jeroenhjanssens http://t.co/NJ5PUBCOJn
+382771483325390850  Sep 25 03:40  @larsen           RT @revodavid: Several ways to include R #rstats in command-line workflow w/ other #DataScience tools suggested by @jeroenhjanssens http://t.co/NJ5PUBCOJn
+382777393250697217  Sep 25 04:03  @yuu_ito          RT @rstudioapp: RStudio v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9 #rstats #rstudio
+382787595455201281  Sep 25 04:44  @cloudHPC         Cool #rstats command line tool for some fast and first #analyses https://github.com/jeroenjanssens/data-science-toolbox/blob/master/Rio #Rio
+382797235458560001  Sep 25 05:22  @zx8754           RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382799481655545856  Sep 25 05:31  @nicoleradziwill  RT @revodavid: Several ways to include R #rstats in command-line workflow w/ other #DataScience tools suggested by @jeroenhjanssens http://t.co/NJ5PUBCOJn
+382804298570420224  Sep 25 05:50  @chlalanne        "#rstats as a command-line tool for data science" http://www.r-bloggers.com/r-as-a-command-line-tool-for-data-science/
+382804529286483968  Sep 25 05:51  @chlalanne        "A speed test comparison of plyr, data.table, and dplyr" #rstats http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/
+382806958300221440  Sep 25 06:01  @pacoramon        RT @chlalanne: "#rstats as a command-line tool for data science" http://www.r-bloggers.com/r-as-a-command-line-tool-for-data-science/
+382807528524226560  Sep 25 06:03  @pschulam         RT @revodavid: Several ways to include R #rstats in command-line workflow w/ other #DataScience tools suggested by @jeroenhjanssens http://t.co/NJ5PUBCOJn
+382811812116185088  Sep 25 06:20  @jfelipe          Six forks of R core engine available now, not counting #RevolutionAnalytics: http://4dpiecharts.com/2013/09/07/fearsome-engines-part-1/ #rstats
+382812201033035776  Sep 25 06:21  @jfelipe          BTW, I don't buy the comments about R core team slowing down performance improvements. Too many open source counterexamples #rstats
+382817443359358977  Sep 25 06:42  @DiseaseMapper    Frustrating #Rstats morning. line of code works one moment, not the next, but nothing has changed!
+382817640864956416  Sep 25 06:43  @yodacomplex      awesomes. #rstats q(save="no") to quit and avoid the annoying "do you want to save the environment" dialogue
+382819558945337344  Sep 25 06:51  @Piboonrungroj    RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+382819704269971456  Sep 25 06:51  @gappy3000        In the past 2 years, the #rstats, #pydata and #julialang communities have been on fire. So, what has Mathworks been doing?
+382825557299195904  Sep 25 07:15  @eddelbuettel     R 3.0.2 is released -- and the updated Debian package set has just been uploaded. #Rstats
+382829831508852737  Sep 25 07:31  @jfelipe          A multi-stage method for content classification and opinion mining on weblog comments: http://bit.ly/15TqveH #rstats #opinion_mining
+382831741141925888  Sep 25 07:39  @arkaitz          RT @jfelipe: A multi-stage method for content classification and opinion mining on weblog comments: http://bit.ly/15TqveH #rstats #opinion_mining
+382833289410519040  Sep 25 07:45  @Protohedgehog    If you fancy learning how to do phylogenetic comparative methods, there's a course in Barcelona soon http://bit.ly/11JsPjy #rstats
+382835582797238272  Sep 25 07:54  @jmanelsg         A la nova oferta del @ColpisCat INTRODUCCIÓ A R (16h.), tot el necessari per començar amb bon peu. Més info: http://www.colpis.cat/formacio/fitxa/190 #rstats
+382838044262662144  Sep 25 08:04  @blattnerma       “@chlalanne: "A speed test comparison of plyr, data.table, and dplyr" #rstats http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/”
+382842029136281600  Sep 25 08:20  @JeffHemsley      @richierocks any date on part two of fearsom engines for #rstats?
+382843283971780608  Sep 25 08:25  @quandl           Handling & processing strings in #R by Gaston Sanchez http://qndl.co/1aispFu #Rstats
+382848673668804609  Sep 25 08:46  @datennutzen      How #OpenSource like #rstats and #hadoop is changing (#BigData) Business with @revodavid http://www.ibmbigdatahub.com/bigdatabytes/how-open-source-changing-business
