@@ -19448,3 +19448,22 @@
 383109545910095872  Sep 26 02:03  @mja              RT @hadleywickham: interesting how slow rm() is in #rstats https://gist.github.com/hadley/6706143
 383120307693060096  Sep 26 02:46  @grserrano_       RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
 383123540637392896  Sep 26 02:59  @josefslerka      Ode to Systematic Clusters http://bit.ly/18r0lyf  #rstats
+383129712253345792  Sep 26 03:23  @AksChougule      RT @quandl: Free ebook: Advanced #R #programming by @hadleywickham http://qndl.co/1dvL826 #Rstats #Data
+383131581365641216  Sep 26 03:31  @JenMarBio        Ooooooo this looks kind of fun! Have you used R for this @tomjwebb? RT “@i_314: Web Analytics with R. http://www.slideshare.net/johanndeboer/web-analytics-with-r-melb-urn #rstats”
+383132796622880768  Sep 26 03:35  @rahul_suresh     RT @quandl: Free ebook: Advanced #R #programming by @hadleywickham http://qndl.co/1dvL826 #Rstats #Data
+383150405125177344  Sep 26 04:45  @jmgomez          RT @jeromyanglim: New #RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+383156030948913152  Sep 26 05:08  @SergeyKochergan  7 command-line tools for data science http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html via @jeroenhjanssens #bigdata #rstats #statistics #datamining
+383156146200002561  Sep 26 05:08  @SergeyKochergan  RT @RLangTip: #rstats Send plots to pdf file: run pdf("myOut.pdf"), produce plots, turn off with dev.off() http://bit.ly/1bwnJPS
+383164079260446722  Sep 26 05:40  @HerveSchnegg     Great experience to work with Mani @theNeomatrix369 on an #rstats ETL project! Read his blog: http://lab.brightnorth.co.uk/2013/09/my-experience-of-learning-r-from-basic.html. Pair dev rocks!
+383164784264245250  Sep 26 05:42  @m_a_upson        @jamesvbarlow #Rstats for the win! Where did you get a lesson? There is still space on the session I am running http://tinyurl.com/pnfan5j
+383166391567650816  Sep 26 05:49  @conjugateprior   Those are some nice attributes you got there. It’d be a shame if anything were to happen to them #rstats http://t.co/vFlEGim2PP
+383169185503002624  Sep 26 06:00  @andharris        RT @treycausey: RT @mattmoehr: I mean obviously you have to convert factors into characters and then into numbers. >[ #rstats #angryNightcap
+383172555479080960  Sep 26 06:13  @eoinbrazil       Nice one - parallel RandomForest implementation for #rstats Code- https://bitbucket.org/mkuhn/parallelrandomforest Blog - http://blog.mckuhn.de/2013/09/introducing-parallelrandomforest-faster.html
+383173789095194625  Sep 26 06:18  @CPuertaPinero    Spatial data in #rstats: using R as #GIS https://sites.google.com/site/rodriguezsanchezf/resources/rgis vía @frod_san
+383174011842482176  Sep 26 06:19  @Protohedgehog    Coding is an important skill for academics atm. Here's a free MOOC on using R for data analysis: http://bit.ly/18kGti7 #rstats
+383174671564161024  Sep 26 06:22  @paulblaser       RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://bit.ly/120khaG #rstats
+383175144044105728  Sep 26 06:24  @adityosanjaya    Langsung dijawab twitter... :')  "@Protohedgehog:  MOOC on using R for data analysis: http://bit.ly/18kGti7 #rstats"
+383186079081570304  Sep 26 07:07  @ComparteSig      RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://bit.ly/120khaG #rstats
+383189431622303744  Sep 26 07:20  @ronert_obst      RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383193387018383360  Sep 26 07:36  @johannux         RT @kdnuggets: ganalytics: Google Analytics with R and tips to newcomers to help succeed in using R #rstats http://bit.ly/1h1n7Qr
+383209512095592449  Sep 26 08:40  @datennutzen      Neue Kurse für #rstats in der R-Akademie #bigdata #hadoop http://blog.eoda.de/2013/09/26/eoda-baut-das-umfassende-deutschsprachige-trainingsprogramm-fuer-r-weiter-aus/
