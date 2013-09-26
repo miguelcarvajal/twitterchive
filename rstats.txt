@@ -19467,3 +19467,53 @@
 383189431622303744  Sep 26 07:20  @ronert_obst      RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
 383193387018383360  Sep 26 07:36  @johannux         RT @kdnuggets: ganalytics: Google Analytics with R and tips to newcomers to help succeed in using R #rstats http://bit.ly/1h1n7Qr
 383209512095592449  Sep 26 08:40  @datennutzen      Neue Kurse für #rstats in der R-Akademie #bigdata #hadoop http://blog.eoda.de/2013/09/26/eoda-baut-das-umfassende-deutschsprachige-trainingsprogramm-fuer-r-weiter-aus/
+383217547685793792  Sep 26 09:12  @jfreels4         RT @quandl: Handling & processing strings in #R by Gaston Sanchez http://qndl.co/1aispFu #Rstats
+383219749951635456  Sep 26 09:21  @mcdickenson      RT @conjugateprior: Those are some nice attributes you got there. It’d be a shame if anything were to happen to them #rstats http://t.co/vFlEGim2PP
+383222805531070464  Sep 26 09:33  @hadleywickham    RT @arRMorgan: Once you get the hang of ggplot2, you'll not want to go back to base graphics. #Rstats
+383222981146591232  Sep 26 09:34  @eliazerk         RT @revodavid: Beginners to R should check out this "Intro to R" video series from Google: http://bit.ly/120khaG #rstats
+383223420613185536  Sep 26 09:35  @rmflight         RT @arRMorgan: Once you get the hang of ggplot2, you'll not want to go back to base graphics. #Rstats
+383223529212096514  Sep 26 09:36  @statisticsblog   R tip of the day - RStudio v0.98 Preview. http://i.cx/1bIg3dm #r #rstats #rstudio
+383224268219113472  Sep 26 09:39  @justingrimmer    RT @BradSpahn: When teaching #rstats to students with no programming experience, do you start out showing them vectorized code, or do you use for() loops?
+383224400671424512  Sep 26 09:39  @wactbprot        RT @arRMorgan: Once you get the hang of ggplot2, you'll not want to go back to base graphics. #Rstats ...not true for me I went back ...
+383226006649454592  Sep 26 09:46  @Swayson          RT @arRMorgan: Once you get the hang of ggplot2, you'll not want to go back to base graphics. #Rstats
+383229666737131520  Sep 26 10:00  @statisticsblog   An analysis of US High School graduation rates using googleVis. http://i.cx/1fqMiAs #r #rstats
+383229945998082048  Sep 26 10:01  @monsoontrader    Lol comments section RT @statisticsblog: R tip of the day - RStudio v0.98 Preview. http://i.cx/1bIg3dm #r #rstats #rstudio
+383230431975317504  Sep 26 10:03  @Valery_Bomanov   @kara_woo I already need help with #rstats #oy
+383231044566020096  Sep 26 10:06  @vasantmarur      @interzoneboy This might interest you @rstudioapp's  v0.98 Preview (debugging tools) http://wp.me/p1h48z-g9  #rstats #rstudio
+383231492379271169  Sep 26 10:08  @Bladeislegit     “An analysis of US High School graduation rates using googleVis. http://i.cx/1fqMiAs #r #rstats” #OPM20750
+383232826633498625  Sep 26 10:13  @drdrewsteen      My #Rstats code has its own theme song, and it is by Metallica http://www.youtube.com/watch?v=lyodOpUxgHA
+383236845766586368  Sep 26 10:29  @michellejw       I have a kmz file of tectonic plate boundaries. What's the best way to get it into R and plot it? #Rstats @TrevorABranch ?
+383238897121361920  Sep 26 10:37  @Yanri_Yanri      RT @michellejw: I have a kmz file of tectonic plate boundaries. What's the best way to get it into R and plot it? #Rstats @TrevorABranch ?
+383245150207500290  Sep 26 11:02  @elegrand         as an #rstats user and @americascup fan, I'm hugely impressed of the contributions of NZ, thanks @EmiratesTeamNZ @hadleywickham and more
+383248250624438272  Sep 26 11:14  @attilacsordas    dealing with #rstats: Plotting multiple curves same graph and same scale - Stack Overflow -  http://stackoverflow.com/questions/6853204/plotting-multiple-curves-same-graph-and-same-scale
+383252721647628288  Sep 26 11:32  @JeffHemsley      @drdrewsteen Funny. My #rstats code has a theme too: Vince Guaraldi's Charlie Brown Theme
+383257124676984832  Sep 26 11:49  @arRMorgan        @JoFrhwld Wow! Your notes look super helpful. Am redoing some old labs w/ggplot2 to help new students. Will def. include your notes! #Rstats
+383257157455470592  Sep 26 11:50  @arRMorgan        RT @wactbprot: RT @arRMorgan: Once you get the hang of ggplot2, you'll not want to go back to base graphics. #Rstats ...not true for me I went back ...
+383257352507383809  Sep 26 11:50  @arRMorgan        @wactbprot Oh yeah? What influenced that decision? Achieving the same results w/base graphics is way difficult. #RStats #ggplot2
+383261223703556096  Sep 26 12:06  @RLangTip         R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383261330246889472  Sep 26 12:06  @mattmoehr        googling oh, nice paper by Doug Bates (2004) on mixed models in #rstats. googling ugh, listserv post (2013) by D.B. says he moved to #Julia
+383262151143481345  Sep 26 12:09  @flavioclesio     RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383262403183788032  Sep 26 12:10  @SylvainCF        RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383262633782042624  Sep 26 12:11  @arRMorgan        .@healthstatsdude @hadleywickham @Swayson Currently reworking my advisor's learning labs & want to get new people started w/ggplot2. #RStats
+383262824140513280  Sep 26 12:12  @arRMorgan        .@healthstatsdude @hadleywickham @Swayson Would just be better to get new R-tians working w/ggplot2 right out of the gate. #RStats
+383264049141927936  Sep 26 12:17  @dataJujitsu      Parellelised random forests in #rstats!  http://feedly.com/k/1b5WBYH
+383265807473451009  Sep 26 12:24  @mcxfrank         RT @arRMorgan: @JoFrhwld's excellent ggplot2 intro helps the package's syntax makes sense: http://www.ling.upenn.edu/~joseff/rstudy/summer2010_ggplot2_intro.html.  #Rstats
+383268693259866112  Sep 26 12:35  @MuntagMarton     RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383271875247222785  Sep 26 12:48  @arRMorgan        @wactbprot Thanks for the response! The syntax is atypical of most #Rstats graphics stuff. Lots of nested functions too.
+383275914605641728  Sep 26 13:04  @jonesor          Advanced R programming by Hadley Wickham. #rstats http://buff.ly/19FQyDM
+383278929743589376  Sep 26 13:16  @arRMorgan        RT @mcxfrank: RT @arRMorgan: @JoFrhwld's excellent ggplot2 intro helps the package's syntax makes sense: http://www.ling.upenn.edu/~joseff/rstudy/summer2010_ggplot2_intro.html.  #Rstats
+383279294581329920  Sep 26 13:17  @CortRudolph      RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383279602379943937  Sep 26 13:19  @GregRousell      RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383282585293840384  Sep 26 13:31  @fredbenenson     Every time I have to add another argument (stringsAsFactors, sep, strip.white, etc.) to #Rstats' read.csv I sigh a little.
+383286575351611392  Sep 26 13:46  @RevoJoe          #rstats On October 1, Revolution Analytics begins taking applications for 2014 R User Group support http://bit.ly/1frj8B2
+383286985999138816  Sep 26 13:48  @ramnath_vaidya   My workshop on Slidify 101 will be livecast https://plus.google.com/103555210384339847661/posts/Y4stHNoFB8W. Workshop material can be found at http://slidify.github.io/workshops #rstats
+383290863771987969  Sep 26 14:03  @fermar841        RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383292871715328000  Sep 26 14:11  @RickSaporta      RT @ErikJohnline: Anyone have luck multicore processing with #rstats in win? Works in Linux no prob but can’t get a package that actually works in win.
+383294016739360769  Sep 26 14:16  @mattgarciablitz  RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383294188500299776  Sep 26 14:17  @GSwithR          @hadleywickham 's  'Advanced R Development' - in progress, and what progress it is: http://adv-r.had.co.nz/?utm_content=bufferac6f9&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer #rstats
+383294272688365568  Sep 26 14:17  @beckerhopper     RT @GSwithR: @hadleywickham 's  'Advanced R Development' - in progress, and what progress it is: http://adv-r.had.co.nz/?utm_content=bufferac6f9&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer #rstats
+383294456834715648  Sep 26 14:18  @revodavid        Revolution Analytics sponsored 61 R user groups worldwide in 2013 - 50% growth over 2013 http://bit.ly/1dMfspn #rstats
+383295434116321280  Sep 26 14:22  @chr1swallace     Yestersay I updated 3 #rstats packages on CRAN with no errors. Something of a record. Then today a coauthor reported a one line bug. Sigh.
+383295583743520770  Sep 26 14:22  @RevolutionR      RT @revodavid: Revolution Analytics sponsored 61 R user groups worldwide in 2013 - 50% growth over 2013 http://bit.ly/1dMfspn #rstats
+383297707739062272  Sep 26 14:31  @cbahlai          Teaching grad student to use #rstats. Also taught him to listen to gangta rap while he codes. Because #badass.
+383299384294637568  Sep 26 14:37  @algaebarnacle    There are so many beautiful things you can do with the persp() function in #rstats. http://t.co/LQIXSNjH3Q
