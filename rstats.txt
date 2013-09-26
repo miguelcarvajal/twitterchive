@@ -19421,3 +19421,30 @@
 383023305038770177  Sep 25 20:20  @fwrogue          RT @kdnuggets: ganalytics: Google Analytics with R and tips to newcomers to help succeed in using R #rstats http://bit.ly/1h1n7Qr
 383024467276210176  Sep 25 20:25  @denisparra       RT @jfelipe: A multi-stage method for content classification and opinion mining on weblog comments: http://bit.ly/15TqveH #rstats #opinion_mining
 383031525828091904  Sep 25 20:53  @ErikJohnline     Anyone have luck multicore processing with #rstats in win? Works in Linux no prob but can’t get a package that actually works in win.
+383044559296798721  Sep 25 21:45  @TomTensfeldt     RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383044881460903936  Sep 25 21:46  @thanhtungmilan   RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383046091731914752  Sep 25 21:51  @HartleyDM        RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383046609174814720  Sep 25 21:53  @patmmccann       RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383048032696012800  Sep 25 21:59  @arRMorgan        Once you get the hang of ggplot2, you'll not want to go back to base graphics. #Rstats
+383048313139777536  Sep 25 22:00  @MarcKissel       Dear R: please read my mind and make the code do what i wish it to.  Don't make me turn to SPSS :-)   #rstats
+383049907755442177  Sep 25 22:06  @timelyportfolio  Timely Portfolio: Ode to Systematic Clusters http://timelyportfolio.blogspot.com/2013/09/ode-to-systematic-clusters.html?spref=tw with @PIMCO mutual fund price data #d3js #rCharts #rstats
+383054805175767040  Sep 25 22:25  @arRMorgan        .@JoFrhwld Thanks so much! Your excellent ggplot2 intro is what helped the package's syntax makes sense: http://www.ling.upenn.edu/~joseff/rstudy/summer2010_ggplot2_intro.html.  #Rstats
+383061067191943168  Sep 25 22:50  @Rbloggers        Ode to Systematic Clusters:  (This article was first published on   Timely Portfolio, and kindly con... http://bit.ly/1h2UW3I #rstats
+383065627243466752  Sep 25 23:08  @BradSpahn        When teaching #rstats to students with no programming experience, do you start out showing them vectorized code, or do you use for() loops?
+383066927637069824  Sep 25 23:14  @rvprasadTweet    RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383067595143774208  Sep 25 23:16  @BradSpahn        @blfraga Is it segfaulting when you do a find+replace in the code editor window of the #rstats gui?
+383068416741216257  Sep 25 23:20  @andmag25         RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+383069323507806208  Sep 25 23:23  @jkuhnert         RT @BradSpahn: When teaching #rstats to students with no programming experience, do you start out showing them vectorized code, or do you use for() loops?
+383070972061839360  Sep 25 23:30  @zentree          When #Rstats approaches emacness. http://editerna.free.fr/wp/?p=61 HT: @freakonometrics
+383076741578625024  Sep 25 23:53  @mattmoehr        I mean obviously you have to convert factors into characters and then into numbers. >[ #rstats #angryNightcap
+383076813976502272  Sep 25 23:53  @treycausey       RT @mattmoehr: I mean obviously you have to convert factors into characters and then into numbers. >[ #rstats #angryNightcap
+383083036658503680  Sep 26 00:18  @Emrah_Er         RT @zentree: When #Rstats approaches emacness. http://editerna.free.fr/wp/?p=61 HT: @freakonometrics
+383086495822647296  Sep 26 00:31  @zentree          Learning package data.table http://datatable.r-forge.r-project.org/ Really cool. #Rstats
+383096590090514432  Sep 26 01:11  @isragaytan       RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383100769920376832  Sep 26 01:28  @matteoredaelli   RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383101131356131328  Sep 26 01:30  @DailyRpackage    QT - QT Knowledge Management System http://cran.r-project.org/web/packages/QT/index.html #RStats
+383101184472776704  Sep 26 01:30  @drago_carlo      Random Forests Algorithm http://prsm.tc/cY7uwO via @prismatic  #DataMining #MachineLearning #Algorithms #Python #Rstats
+383106174502981632  Sep 26 01:50  @JeromyAnglim     I completely agree: RT  @andyteucher @rstudioapp "Control+Enter can now execute commands in console" makes my day #rstats
+383109545910095872  Sep 26 02:03  @mja              RT @hadleywickham: interesting how slow rm() is in #rstats https://gist.github.com/hadley/6706143
+383120307693060096  Sep 26 02:46  @grserrano_       RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383123540637392896  Sep 26 02:59  @josefslerka      Ode to Systematic Clusters http://bit.ly/18r0lyf  #rstats
