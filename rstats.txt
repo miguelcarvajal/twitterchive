@@ -19548,3 +19548,15 @@
 383388989874794496  Sep 26 20:33  @BrockTibert      Having no formal training in programming, I never really got formal debugging. Now I do. New debugging in Rstudio is amazing. #rstats
 383389137157763073  Sep 26 20:34  @unlimcloud       RT @coolbutuseless: Change https://www.dropbox.com/s/XXXX/script.R to http://dl.dropbox.com/s/XXXX/script.R to load shared files on #dropbox with read.csv() #rstats @RLangTip
 383391409081827328  Sep 26 20:43  @coolbutuseless   Change https :// http://www.dropbox.com/s/XXXX/script.R  to http :// http://dl.dropbox.com/s/XXXX/script.R  to load #dropbox files with read.csv() #rstats @RLangTip
+383396290077282308  Sep 26 21:02  @coolbutuseless   Change https :// www dropbox com/s/XXXX/script.R  to http :// dl dropbox com/s/XXXX/script.R  to read.csv() #dropbox files #rstats @RLangTip
+383415826885644288  Sep 26 22:20  @adamhsparks      happy day! it's here! #rstats #ggplot2 http://instagram.com/p/evzJpluejU/
+383416125163192320  Sep 26 22:21  @monsoontrader    RT @adamhsparks: happy day! it's here! #rstats #ggplot2 http://instagram.com/p/evzJpluejU/
+383416772616941568  Sep 26 22:24  @skclaros         RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383418643268108288  Sep 26 22:31  @hadleywickham    RT @adamhsparks: happy day! it's here! #rstats #ggplot2 http://instagram.com/p/evzJpluejU/
+383425882322661376  Sep 26 23:00  @josephcroberts   RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383430518823337986  Sep 26 23:18  @SherryVogel      RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+383436690762645504  Sep 26 23:43  @monsoontrader    Douglas Bates’ unfinished mixed model #rstats book is excellent. #HolidayReading
+383443987408777217  Sep 27 00:12  @michellejw       ok fine coding gods you win. I will make this damn plot using GMT. Importing netcdf files in R will just have to wait. #rstats
+383449543435489280  Sep 27 00:34  @arRMorgan        Oh! The '+' in #ggplot2 totally makes sense now. Exploratory data analysis way easier w/stored plot and different visual displays. #rstats
+383454356395147265  Sep 27 00:53  @arRMorgan        Nice little document about how to write to .csv in #rstats: http://rprogramming.net/write-csv-in-r/. #stats #programming
+383463520681357312  Sep 27 01:30  @DailyRpackage    pmg - Poor Man's GUI http://cran.r-project.org/web/packages/pmg/index.html #RStats
