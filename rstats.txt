@@ -19578,3 +19578,94 @@
 383567939733307392  Sep 27 08:24  @aDataHead        #rstats | Introducing parallelRandomForest: faster, leaner, parallelized http://feedly.com/k/1faIZ05
 383569494297546752  Sep 27 08:31  @quandl           Detecting weak instruments in #R by @DiffusePrioR http://qndl.co/1aorGSZ #Rstats
 383575657034162176  Sep 27 08:55  @timelyportfolio  RT @hjms: The UCLA Stats consulting website is a gift that keeps on giving. Great primer on mixed effects logit in #rstats http://t.co/0ZyUNj742i
+383577119260827648  Sep 27 09:01  @medzihorsky      An alternative icon for R https://github.com/jmedzihorsky/r_alt_icon #rstats Comparison w the original: http://t.co/A6U1rHogm8
+383578896169312256  Sep 27 09:08  @sharon000        Federal IT hiring slips with US political deadlock http://cwrld.us/fedITlistings Data analyzed with #rstats @DCgov #ITjobs
+383579355835662336  Sep 27 09:10  @Computerworld    RT @sharon000: Federal IT hiring slips with US political deadlock http://cwrld.us/fedITlistings Data analyzed with #rstats @DCgov #ITjobs
+383579355965702144  Sep 27 09:10  @mbucken          RT @sharon000: Federal IT hiring slips with US political deadlock http://cwrld.us/fedITlistings Data analyzed with #rstats @DCgov #ITjobs
+383581212394409984  Sep 27 09:17  @MikePearmain     RT @mj_kallen: assertCondition() & friends (http://svn.r-project.org/R/trunk/src/library/tools/man/assertCondition.Rd) are the most sensible additions to R 3.0.2 #rstats needs better testing funcs baked in.
+383584469938372608  Sep 27 09:30  @sharon000        Nice step-by-step on analyzing NFL quarterback data with corrplot in R http://bit.ly/15zGobN #rstats #dataviz #ddj
+383585722152005632  Sep 27 09:35  @RickSaporta      Have a look at ggmap MT @Yanri_Yanri: I have a kmz file. What's the best way to get it into R and plot it? #Rstats @TrevorABranch ?
+383587566164787200  Sep 27 09:42  @PPUAMX           RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383588474843959296  Sep 27 09:46  @SnowPlowData     Calculate the AWS costs driven by Snowplow using our just-published Total Cost of Ownership model https://github.com/snowplow/snowplow-tco-model #rstats #aws
+383591890261524480  Sep 27 10:00  @i_314            Forecasting: principles and practice. Open Access Book. #rstats
+383592489677910017  Sep 27 10:02  @medzihorsky      A simple dark-on-light #vim color scheme for use with vim-r-plugin https://github.com/jmedzihorsky/rgbr #rstats http://t.co/5KMh3mZNAX
+383597380785815552  Sep 27 10:21  @statsforbios     #Rstats from a blind persons perspective. Really interesting. http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CEcQFjAD&url=http%3A%2F%2Fjournal.r-project.org%2Farchive%2F2013-1%2Fgodfrey.pdf&ei=5rhCUtvRJYSp0QWdqoGgDw&usg=AFQjCNG1B7-ueTgAA6wCUQYNBIPTMQiVbg&sig2=yxwqgXPGl_oodGnpwKEqEw&bvm=bv.53077864,d.d2k
+383601425298636800  Sep 27 10:38  @medzihorsky      'pistar', an R package for the Rudas-Clogg-Lindsay π* mixture index of fit https://github.com/jmedzihorsky/pistar #rstats #pistar
+383603281160699904  Sep 27 10:45  @chrishanretty    Does anyone know where #rstats codenames come from?
+383604287966035968  Sep 27 10:49  @kdnuggets        R is also a command-line tool for data science! #rstats http://bit.ly/1780vft
+383604490462449664  Sep 27 10:50  @moorejh          #bioinformatics #datascience RT @kdnuggets: R is also a command-line tool for data science! #rstats http://bit.ly/1780vft
+383609769870626817  Sep 27 11:11  @medzihorsky      A modified #vim theme slate for use with the vim-r-plugin  https://github.com/jmedzihorsky/rslate  #rstats http://t.co/a2z1ZWzZCT
+383612176528703488  Sep 27 11:20  @Rbloggers        Perform a Function on Each File in R:  (This article was first published on   Mollie's Research Blog... http://bit.ly/16Pd2kQ #rstats
+383612224096317440  Sep 27 11:20  @recology_        [Blog] Taxonomy data from the web in 3 langs #rstats #rubylang #python http://bit.ly/1avqfCp
+383614205057712128  Sep 27 11:28  @AriBFriedman     Interactive R learning environment http://ncarchedi.github.io/swirl/ #rstats H/T@simplystats
+383614530485768193  Sep 27 11:30  @DrBobBarr        RT @kdnuggets: R is also a command-line tool for data science! #rstats http://bit.ly/1780vft
+383615891125972993  Sep 27 11:35  @EdgarSanchez     RT @kdnuggets: R is also a command-line tool for data science! #rstats http://bit.ly/1780vft
+383616010466504704  Sep 27 11:35  @hspter           This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383616932454232065  Sep 27 11:39  @hspter           Last R package via @NickCarchedi, direct link to github repo here: https://github.com/ncarchedi/swirl #rstats
+383617492259594241  Sep 27 11:41  @cpsievert        I gave a talk on #LDAviz yesterday here are the slides http://cpsievert.github.io/slides/LDA/0926/#/ and the talk https://www.dropbox.com/s/datl8sshpp859sh/LDAviz.mov #rstats
+383617710917029888  Sep 27 11:42  @healthstatsdude  "@simplystats: Statistics with Interactive R Learning Software Environment http://simplystatistics.org/?p=1916"  game changer for stats ed? #rstats
+383618811028832256  Sep 27 11:47  @acepor           RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383619031242375168  Sep 27 11:47  @fire_fox         RT @kdnuggets: R is also a command-line tool for data science! #rstats http://bit.ly/1780vft
+383620079134310401  Sep 27 11:52  @kara_woo         Awesome: learn statistics and R simultaneously with the new #rstats package swirl. http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ HT @hspter
+383622283668905985  Sep 27 12:00  @rmflight         RT @kara_woo: Awesome: learn statistics and R simultaneously with the new #rstats package swirl. http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ HT @hspter
+383622643435720704  Sep 27 12:02  @millerdl         anyone installed R from source on Mac with openMP support? Seems possible but need GNU gcc rather than XCode? Any tips? #rstats
+383623529918263296  Sep 27 12:05  @raviupanishad    RT @kara_woo: Awesome: learn statistics and R simultaneously with the new #rstats package swirl. http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ HT @hspter
+383623718951723009  Sep 27 12:06  @RLangTip         #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+383623724353601537  Sep 27 12:06  @Rstats4Econ      RT @PairachCMSE: โปรแกรม R ขั้นสูง “@Rstats4Econ: Advanced R Development by @hadleywickham #rstats  http://adv-r.had.co.nz/”
+383623929945808896  Sep 27 12:07  @Rstats4Econ      RT @RLangTip: #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+383623973692379136  Sep 27 12:07  @Rstats4Econ      RT @cpsievert: I gave a talk on #LDAviz yesterday here are the slides http://cpsievert.github.io/slides/LDA/0926/#/ and the talk https://www.dropbox.com/s/datl8sshpp859sh/LDAviz.mov #rstats
+383624179704016897  Sep 27 12:08  @Rstats4Econ      RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383624199786360832  Sep 27 12:08  @tjmahr           Negate(any) #rstats
+383624227540066304  Sep 27 12:08  @Rstats4Econ      RT @kdnuggets: R is also a command-line tool for data science! #rstats http://bit.ly/1780vft
+383624352807145472  Sep 27 12:09  @lekoenig         RT @RLangTip: #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+383624397531004928  Sep 27 12:09  @Rstats4Econ      RT @revodavid: Several ways to include R #rstats in command-line workflow w/ other #DataScience tools suggested by @jeroenhjanssens http://t.co/NJ5PUBCOJn
+383624410218770433  Sep 27 12:09  @an_dre_a_        RT @recology_: [Blog] Taxonomy data from the web in 3 langs #rstats #rubylang #python http://bit.ly/1avqfCp
+383624817443737600  Sep 27 12:10  @Rstats4Econ      RT @genetics_blog: Coursera #Rstats class starting again soon https://www.coursera.org/course/compdata. One of my staff, orig a python programmer, took this with great success.
+383625347230859264  Sep 27 12:13  @pe_hi            RT @RLangTip: #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+383625485529677824  Sep 27 12:13  @jmgomez          RT @KirkDBorne: Powerful #DataMining w/ Random Forests Algorithm - #Rstats, #Python, #Weka http://bit.ly/16JAn7u / @DataScienceCtrl
+383626265158098944  Sep 27 12:16  @gregollaniz      RT @RLangTip: #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+383626745875689473  Sep 27 12:18  @_inundata        RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383628253828628480  Sep 27 12:24  @djpappano        RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383628436977106946  Sep 27 12:25  @stephhazlitt     RT @RLangTip: #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+383629135400026112  Sep 27 12:28  @jarlogan         Anyone learning stats in R? Rt @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383629951120850944  Sep 27 12:31  @tinkerbel405     RT @RLangTip: #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+383631928760348672  Sep 27 12:39  @AmeliaMN         RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383632171673468928  Sep 27 12:40  @IanDworkin       RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383632320428650496  Sep 27 12:40  @lbolanos68       RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383632555020255232  Sep 27 12:41  @Atabey_Kaygun    RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383633302885638144  Sep 27 12:44  @databiologist    “What were you thinking trying to make R act like Matlab? Matlab is for losers (and rich people).” #rstats http://obeautifulcode.com/R/How-R-Searches-And-Finds-Stuff/
+383633429222260736  Sep 27 12:45  @JJVenky          For #rstats and #ubuntu: any preference for libcurl4-gnutls-dev or libcurl4-openssl-dev when getting curl-config?
+383634071999352832  Sep 27 12:47  @kara_woo         It was blissfully easy to get started with swirl in #rstats. Here are a couple screenshots from the first lesson: http://imgur.com/a/2EjnF.
+383635488206110720  Sep 27 12:53  @mwilsonsayres    RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383635530581151744  Sep 27 12:53  @thatdnaguy       RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383636250730569728  Sep 27 12:56  @timelyportfolio  RT @cpsievert: I gave a talk on #LDAviz yesterday here are the slides http://cpsievert.github.io/slides/LDA/0926/#/ and the talk https://www.dropbox.com/s/datl8sshpp859sh/LDAviz.mov #rstats
+383636784397049856  Sep 27 12:58  @Julia_Barthold   RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383637334312222721  Sep 27 13:00  @timtriche        RT @cpsievert: I gave a talk on #LDAviz yesterday here are the slides http://cpsievert.github.io/slides/LDA/0926/#/ and the talk https://www.dropbox.com/s/datl8sshpp859sh/LDAviz.mov #rstats
+383637435730919424  Sep 27 13:01  @libcce           RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383637460170702848  Sep 27 13:01  @coding_doc       RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383637723531075584  Sep 27 13:02  @davetang31       RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383639404171886595  Sep 27 13:08  @noamross         .@RobKnell1 created a bunch of interactive web apps of classic population models using #shiny and #rstats. Cool. http://87.117.69.131:3838/
+383639551916650496  Sep 27 13:09  @Valery_Bomanov   RT @kara_woo: Awesome: learn statistics and R simultaneously with the new #rstats package swirl. http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ HT @hspter
+383640240566456320  Sep 27 13:12  @DistribEcology   RT @noamross: .@RobKnell1 created a bunch of interactive web apps of classic population models using #shiny and #rstats. Cool. http://87.117.69.131:3838/
+383641029557374976  Sep 27 13:15  @kristenobacter   This sounds useful! Cc @sueleschine ht @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383641356544921600  Sep 27 13:16  @BlasMBenito      RT @noamross: .@RobKnell1 created a bunch of interactive web apps of classic population models using #shiny and #rstats. Cool. http://87.117.69.131:3838/
+383642223385927680  Sep 27 13:20  @timothybean      RT @RobKnell1 created interactive web apps of classic population models using #shiny and #rstats. Cool. http://87.117.69.131:3838/ #wldf301
+383643144715108352  Sep 27 13:23  @alex_yakubovich  RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383643892736073728  Sep 27 13:26  @AaronJSams       RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383646077217697794  Sep 27 13:35  @quandl           #R as a command-line tool for #dataScience by @revodavid http://qndl.co/16Ir6ww #Rstats
+383646395934453760  Sep 27 13:36  @alexhanna        .@benjaminlind shows how to do it in #rstats http://gdeltblog.wordpress.com/2013/09/02/how-to-both-download-and-read-gdelt-using-just-r/ #GDELT
+383647340089049088  Sep 27 13:40  @Paul_R_Johnston  RT @statsforbios: #Rstats from a blind persons perspective. Really interesting. http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CEcQFjAD&url=http%3A%2F%2Fjournal.r-project.org%2Farchive%2F2013-1%2Fgodfrey.pdf&ei=5rhCUtvRJYSp0QWdqoGgDw&usg=AFQjCNG1B7-ueTgAA6wCUQYNBIPTMQiVbg&sig2=yxwqgXPGl_oodGnpwKEqEw&bvm=bv.53077864,d.d2k
+383648769226858497  Sep 27 13:46  @jmgomez          RT @revodavid: R 3.0.2 released, improves documentation for both R and packages submitted to CRAN: http://bit.ly/19Gv75v #rstats
+383650527978217473  Sep 27 13:53  @alexhanna        .@johnb30 warns to define EventCode, EventBaseCode, EventRootCode as objects in pandas (character in #rstats) b/c leading 0s in CAMEO #GDELT
+383650906132463616  Sep 27 13:54  @RMorphet         RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383651367039950848  Sep 27 13:56  @jackiburos       Wondering how many people in the #rstats community use #drake to manage their analyses. It looks amazing - http://bit.ly/16PHnj7
+383651874341388288  Sep 27 13:58  @joloml           RT @noamross: .@RobKnell1 created a bunch of interactive web apps of classic population models using #shiny and #rstats. Cool. http://87.117.69.131:3838/
+383653135736377344  Sep 27 14:03  @drnickisaac      Tore my hair out today: wish I could understand namespaces #rstats
+383654257888489472  Sep 27 14:07  @llthurman        Looking for intro tutorial on writing for loops in #rstats @rOpenSci Any suggestions appreciated!
+383654716687003648  Sep 27 14:09  @mattgarciablitz  RT @RLangTip: #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+383657978869456896  Sep 27 14:22  @revodavid        How @robjhyndman used #rstats to help the Australian govt correct a billion-dollar healthcare forecasting error: http://bit.ly/1fviwKL
+383661223637970944  Sep 27 14:35  @OliverBelmans    Any idea how to group spelling variations #rstats #textmining #tm
+383661498700025856  Sep 27 14:36  @randyzwitch      Oh snap, I think I finally got the hang of the difference between [, [[, and $ in #rstats
+383663867634515968  Sep 27 14:46  @ramnath_vaidya   RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383664499707756544  Sep 27 14:48  @MSMC_1997        RT @RLangTip: Meet other R users at a local R user group in your area: http://bit.ly/oa5sx5 #rstats
+383664611901587456  Sep 27 14:49  @davelunt         RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
