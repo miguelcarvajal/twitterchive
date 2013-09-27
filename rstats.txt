@@ -19560,3 +19560,21 @@
 383449543435489280  Sep 27 00:34  @arRMorgan        Oh! The '+' in #ggplot2 totally makes sense now. Exploratory data analysis way easier w/stored plot and different visual displays. #rstats
 383454356395147265  Sep 27 00:53  @arRMorgan        Nice little document about how to write to .csv in #rstats: http://rprogramming.net/write-csv-in-r/. #stats #programming
 383463520681357312  Sep 27 01:30  @DailyRpackage    pmg - Poor Man's GUI http://cran.r-project.org/web/packages/pmg/index.html #RStats
+383487095072768000  Sep 27 03:03  @southmapr        What kind of mapmaker are you? Good to see #rstats in at 3, thats me. If it's you check out #rworldmap http://www.mapcite.com/posts/2013/september/are-you-a-map-maker,-a-map-builder,-a-map-scripter-or-a-map-creator.aspx#.UkUq0PVCcbE.twitter
+383492776463441920  Sep 27 03:26  @dom_muller       RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+383497083405078528  Sep 27 03:43  @marcoscan        R code to obtain and plot rainfall data for the whole world http://gopigoteti.tumblr.com/post/50831661809/r-code-to-obtain-and-plot-rainfall-data-for-the-whole #rstats
+383501541824413696  Sep 27 04:01  @WildaboutBrum    RT @jonesor: Advanced R programming by Hadley Wickham. #rstats http://buff.ly/19FQyDM
+383501541895708673  Sep 27 04:01  @JonathanPSadler  RT @jonesor: Advanced R programming by Hadley Wickham. #rstats http://buff.ly/19FQyDM
+383524203472769024  Sep 27 05:31  @rvprasadTweet    Pure awesomeness!!! RStudio v0.98 Preview (Debugging Tools and More) http://www.r-bloggers.com/rstudio-v0-98-preview-debugging-tools-and-more/ via @rbloggers #rstats
+383529061491818497  Sep 27 05:50  @abhi9u           RT @rvprasadTweet: Pure awesomeness!!! RStudio v0.98 Preview (Debugging Tools and More) http://www.r-bloggers.com/rstudio-v0-98-preview-debugging-tools-and-more/ via @rbloggers #rstats
+383532157677092864  Sep 27 06:02  @psicometrica     "@RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats"
+383534275947008000  Sep 27 06:11  @rapporters       A summary on #GSoC experiences while working on the rapport #rstats package: http://blog.rapporter.net/2013/09/google-summer-of-code-experiences.html
+383540544057507841  Sep 27 06:36  @ramnath_vaidya   #rCharts viz created by @abresler on BW. http://www.businessweek.com/articles/2013-09-26/the-amazing-growth-in-college-football-revenues#! Interactive version here http://aragorn.org/bloomberg/top_10_mens_football_revenue_programs_2000_2012/#! #rstats
+383544426116554752  Sep 27 06:51  @mj_kallen        assertCondition() & friends (http://svn.r-project.org/R/trunk/src/library/tools/man/assertCondition.Rd) are the most sensible additions to R 3.0.2 #rstats needs better testing funcs baked in.
+383547993548275712  Sep 27 07:05  @hjms             The UCLA Stats consulting website is a gift that keeps on giving. Great primer on mixed effects logit in #rstats http://www.ats.ucla.edu/stat/r/dae/melogit.htm
+383551604839829505  Sep 27 07:20  @marutterstat     R 3.0.2 has been uploaded to Launchpad for Ubuntu.  Should be available in a couple of hours on RRutter PPA, longer on CRAN. #rstats
+383559462684200960  Sep 27 07:51  @Zayba_G          RT @Protohedgehog: Want to learn how to use R to analyse your data? Free MOOC now running! Do share! http://bit.ly/18kGti7 #rstats #PhDchat #ECRchat
+383563051288371201  Sep 27 08:05  @FlorianOswald    RT @hadleywickham: interesting how slow rm() is in #rstats https://gist.github.com/hadley/6706143
+383567939733307392  Sep 27 08:24  @aDataHead        #rstats | Introducing parallelRandomForest: faster, leaner, parallelized http://feedly.com/k/1faIZ05
+383569494297546752  Sep 27 08:31  @quandl           Detecting weak instruments in #R by @DiffusePrioR http://qndl.co/1aorGSZ #Rstats
+383575657034162176  Sep 27 08:55  @timelyportfolio  RT @hjms: The UCLA Stats consulting website is a gift that keeps on giving. Great primer on mixed effects logit in #rstats http://t.co/0ZyUNj742i
