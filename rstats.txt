@@ -19669,3 +19669,50 @@
 383663867634515968  Sep 27 14:46  @ramnath_vaidya   RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
 383664499707756544  Sep 27 14:48  @MSMC_1997        RT @RLangTip: Meet other R users at a local R user group in your area: http://bit.ly/oa5sx5 #rstats
 383664611901587456  Sep 27 14:49  @davelunt         RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+383673630262956032  Sep 27 15:24  @timelyportfolio  RT @revodavid: How @robjhyndman used #rstats to help the Australian govt correct a billion-dollar healthcare forecasting error: http://t.co/g3mh630YE5
+383674612921298944  Sep 27 15:28  @sc_evans         Hey #Rstats-ers: w/in a multifaceted ggplot, is there an easy way to show the R^2 values from stat_smooth(method="lm")? Maybe w/ geom_text?
+383676011058966529  Sep 27 15:34  @timelyportfolio  Timely Portfolio: Long Winding Road Marked w Error Bars & Tweets http://timelyportfolio.blogspot.com/2013/09/long-winding-road-marked-with-error.html?spref=tw   @ramnath_vaidya @cpsievert  #d3js #rstats
+383677371280138241  Sep 27 15:39  @cboettig         RT @noamross: .@RobKnell1 created a bunch of interactive web apps of classic population models using #shiny and #rstats. Cool. http://87.117.69.131:3838/
+383682478332215296  Sep 27 16:00  @flavioclesio     RT @jmgomez: RT @KirkDBorne: Powerful #DataMining w/ Random Forests Algorithm - #Rstats, #Python, #Weka http://bit.ly/16JAn7u / @DataScienceCtrl
+383684483519889408  Sep 27 16:08  @strengejacke     R 3.0.2 and RStudio 0.9.8 are released! http://www.r-statistics.com/2013/09/r-3-0-2-and-rstudio-0-9-8-are-released - vor allem die debug-Funktion n RStudio ist genial! #rstats
+383685143287713792  Sep 27 16:10  @ReedResearch     @JeffHemsley Well, my job is to butter you up. But relative to my starting point, you're definitely an expert. #rstats
+383686830270320640  Sep 27 16:17  @JeffHemsley      @ReedResearch: you on #LinkedIn? Recently the #Rstats group been talking about learning R from the ground up. Anyway. Sure. lets chat.
+383687608741548032  Sep 27 16:20  @timelyportfolio  #ggplot2 early timeline from @hadleywickham google tech talk http://t.co/4pQ3dPHuJf #rstats http://t.co/cJuegTAbAj
+383687724978667520  Sep 27 16:20  @hadleywickham    RT @timelyportfolio: #ggplot2 early timeline from @hadleywickham google tech talk http://www.youtube.com/watch?v=iSXNfZESR5I #rstats http://t.co/cJuegTAbAj
+383687862119837696  Sep 27 16:21  @millerdl         New (useless) life skill: picking ranges for negative binomial parameters. #rstats
+383690499103526912  Sep 27 16:31  @clarkfitzg       Taught another #rstats class at work today using @rstudioapp Linux VM
+383691193827491840  Sep 27 16:34  @hadleywickham    my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383691225267974144  Sep 27 16:34  @hadleywickham    RT @clarkfitzg: Taught another #rstats class at work today using @rstudioapp Linux VM
+383692817437958144  Sep 27 16:41  @stephhazlitt     RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383693103791493120  Sep 27 16:42  @pschulam         RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383693121483468800  Sep 27 16:42  @RocketingSoltns  RT @JeffHemsley: @ReedResearch: you on #LinkedIn? Recently the #Rstats group been talking about learning R from the ground up. Anyway. Sure. lets chat.
+383693492155056128  Sep 27 16:43  @jeffreyhorner    Powerful insight with markers and construction paper. No need for fancy #ggplot2 #rstats graphics. http://t.co/dsSeaECeWJ
+383693639006060544  Sep 27 16:44  @josh_wills       RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383693848373121024  Sep 27 16:45  @pschulam         Free forecasting book in #rstats https://www.otexts.org/fpp
+383694288913068032  Sep 27 16:47  @Jowanza          RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383694807992111104  Sep 27 16:49  @tallinzen        simplified analysis of factorial experiments in #rstats + p values for mixed effects models http://buff.ly/1bcOSol
+383695503851913216  Sep 27 16:51  @jimhamski        RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383696032241954816  Sep 27 16:53  @NestorMontano    Forecasting: Principles and practice, libro online recomendado http://blog.espol.edu.ec/nemo/2012/07/19/forecasting-principles-and-practice-libro-online-recomendado/ #RStats
+383696036364955648  Sep 27 16:53  @KTInvasion       RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383696053775908864  Sep 27 16:54  @hylopsar         RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383696430663090176  Sep 27 16:55  @thelabandfield   RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383697305687171072  Sep 27 16:59  @Jowanza          RCharts is that jam right now.  #Rstats
+383697917434818560  Sep 27 17:01  @ramnath_vaidya   #rCharts with #DataMaps: http://rcharts.io/viewer/?6735051 #rstats thanks to ‏@markmarkoh http://t.co/CDUnIbCWeP
+383698094560649216  Sep 27 17:02  @m4xl1n           Swirl, a #rstats package from @NickCarchedi for learning (and teaching) R and Statistics interactively http://bit.ly/1eNqY6Q
+383699467586641920  Sep 27 17:07  @davidjayharris   RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383700843804901376  Sep 27 17:13  @markmarkoh       RT @ramnath_vaidya: #rCharts with #DataMaps: http://rcharts.io/viewer/?6735051 #rstats thanks to ‏@markmarkoh http://t.co/CDUnIbCWeP
+383702778272436224  Sep 27 17:20  @Rbloggers        Logistic regression and categorical covariates:  (This article was first published on   Freakonometr... http://bit.ly/179fEx2 #rstats
+383702779014807553  Sep 27 17:20  @Rbloggers        Volume-weighted Exponential Moving Average:  (This article was first published on   DataPunks... http://bit.ly/18wEvcO #rstats
+383705692852326401  Sep 27 17:32  @dalejbarr        RT @tallinzen: simplified analysis of factorial experiments in #rstats + p values for mixed effects models http://buff.ly/1bcOSol
+383709968416780289  Sep 27 17:49  @ProfBunnie       RT @timelyportfolio: #ggplot2 early timeline from @hadleywickham google tech talk http://www.youtube.com/watch?v=iSXNfZESR5I #rstats http://t.co/cJuegTAbAj
+383725135946997760  Sep 27 18:49  @yanivbrandvain   RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383725902800355328  Sep 27 18:52  @duke_data        RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383726678339379201  Sep 27 18:55  @lc0d3r           I am not a Tableau fan, but seems like new v8.1 is fixing lots of bugs I was complaining last weeks. Even some #rstats support /cc @schuon
+383727326887833600  Sep 27 18:58  @polesasunder     I just solved my own #rstats problem while crafting a Minimum Reproducible Example for SO. Again.  I imagine this is a common experience?
+383727676168888320  Sep 27 18:59  @bradiversity     @polesasunder #rstats and I have a love/hate relationship
+383734854300364800  Sep 27 19:28  @ZeerakW          RT @m4xl1n: Swirl, a #rstats package from @NickCarchedi for learning (and teaching) R and Statistics interactively http://bit.ly/1eNqY6Q
+383735369155743744  Sep 27 19:30  @SinanMavruk      RT @RLangTip: #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+383736873970958336  Sep 27 19:36  @tslevi           RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+383743475965243394  Sep 27 20:02  @timelyportfolio  "Volume-weighted Exponential Moving Average" good read #rstats http://blog.datapunks.com/2013/09/volume-weighted-exponential-moving-average/
+383756262594207746  Sep 27 20:53  @ramnath_vaidya   @markmarkoh Thanks. I hope to popularize datamaps among #rstats users, by exposing more of the wonderful API you have put in place :)
+383757847860764672  Sep 27 20:59  @rmflight         RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
