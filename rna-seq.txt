@@ -4232,3 +4232,6 @@
 383708825892966400  Sep 27 17:44  @bioinformer      just got the first set of RNA-Seq analysis done for an alphavirus (VEEV) time course study. #excited A Great way to start Friday night.
 383713594908499968  Sep 27 18:03  @nwshino          Well, that was not so easy, but I think I have a useful mapping of RNA-seq data now? Let's find out!
 383719008064643074  Sep 27 18:25  @kgwin1018        RT @genetics_blog: DEXUS: identifying differential expression in RNA-Seq studies with unknown conditions http://nar.oxfordjournals.org/content/early/2013/09/17/nar.gkt834.long
+383772135895748609  Sep 27 21:56  @rnomics          CT @rnomics/bioinfo Differential expression in #RNA-seq experiment - BioStar: http://biostars.org... http://bit.ly/16xN62U @MyEN
+383804799142993920  Sep 28 00:06  @hypothesizin     One day, after we're done with genomics, RNA-seq, proteomics, metabolomics, most likely all attention will turn to the the microbiome. Maybe
+383837575426764800  Sep 28 02:16  @suimye           USBフラッシュメモリにfastqファイル入れて、突き刺したらexcelが起動して、ワンクリックしたらRNA-SeqとChIP-Seqデータのbamファイル,tdfファイル, indexファイルが自動生成される持ち運びサーバ
