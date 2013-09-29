@@ -19806,3 +19806,28 @@
 384087964071895040  Sep 28 18:51  @hadleywickham    @DataJunkie lack of strong typing is a good choice for #rstats. It's a massive plus for its audience and goals
 384092052671049728  Sep 28 19:07  @ramnath_vaidya   RT @hadleywickham: @DataJunkie lack of strong typing is a good choice for #rstats. It's a massive plus for its audience and goals
 384096901765038080  Sep 28 19:26  @MColebrook       RT @KirkDBorne: #DataScience / #BI Exercise - good source of data for exercises in #Python, R, and #Tableau: http://www.information-management.com/blogs/a-data-science-BI-exercise-10024885-1.html #Rstats
+384120334091186176  Sep 28 20:59  @mjcavaretta      #rstats fan... MT @joyclee: Erin Shellman, #datascience at Nordstrom Innovation Lab http://goo.gl/vlAe9n #dataviz cc @erinshellman
+384120438856499201  Sep 28 21:00  @wpostbot         making of R package elliplot. #rstats http://tomizonor.wordpress.com/2013/09/29/making-elliplot-package/ http://t.co/zaAf778rSd
+384120563066605568  Sep 28 21:00  @wpostbot         @wpostbot R package elliplot 1.1.0 released. #rstats http://tomizonor.wordpress.com/2013/09/28/elliplot-1-1-0/
+384124259120861184  Sep 28 21:15  @mjcavaretta      gr8! RT @SchoolOfData: Nice - quick #rstats way of generating geojson from CSV lat/lon... http://bit.ly/19K69n2 #schoolOfData
+384125750514683904  Sep 28 21:21  @roycoding        RT @SchoolOfData: Nice - quick #rstats way of generating geojson from CSV lat/lon, then previewing map via github http://bit.ly/19K69n2 #schoolOfData
+384136833304887296  Sep 28 22:05  @CloudNewsCenter  RからMongoDBを利用する: #Rstats と #MongoDB http://bit.ly/1ejDQl3
+384137589839515648  Sep 28 22:08  @ItSANgo          RT @CloudNewsCenter: RからMongoDBを利用する: #Rstats と #MongoDB http://bit.ly/1ejDQl3
+384143362405978112  Sep 28 22:31  @znmeb            Resources for tomorrow's hack session 1: R, GeoJSON and GitHub http://j.mp/1bRKcao #rstats #wherecamppdx
+384143879181987840  Sep 28 22:33  @znmeb            Resources for tomorrow's hack session 2 :R to GeoJSON http://j.mp/1aA5vcQ #rstats #wherecamppdx
+384144641911967744  Sep 28 22:36  @znmeb            Resources for tomorrow's hack session 3: OpenStreetMap and R http://j.mp/18A5gir #rstats #wherecamppdx
+384145105621245954  Sep 28 22:38  @Gliders_Coach    RT @znmeb: Resources for tomorrow's hack session 3: OpenStreetMap and R http://j.mp/18A5gir #rstats #wherecamppdx
+384146357210316800  Sep 28 22:43  @znmeb            Resources for tomorrow's hack session 4: ggmap: Spatial Visualization with ggplot2 http://j.mp/18f06Yc #rstats #wherecamppdx
+384147543690866688  Sep 28 22:48  @znmeb            Resources for tomorrow's hack session 5:  The OpenStreetMap Package Opens Up http://j.mp/ZGktqM #rstats #wherecamppdx
+384148190288936960  Sep 28 22:50  @znmeb            pdxcensusdata by znmeb http://j.mp/164Fnag #rstats #wherecamppdx
+384149352400556032  Sep 28 22:55  @znmeb            Collected blog posts, etc. for the #wherecamppdx #rstats hackers http://j.mp/16U69i2
+384150789125849091  Sep 28 23:00  @znmeb            The OpenStreetMap Package Opens Up http://j.mp/1fz93lT #rstats #wherecamppdx
+384163260838064128  Sep 28 23:50  @Gliders_Coach    using reproducible random numbers from time stamps in R   > a=as.numeric(Sys.time()) > set.seed(a) > rnorm(log(a))  #rstats
+384165051810459648  Sep 28 23:57  @Gliders_Coach    Using R for random number creation from time stamps #rstats http://wp.me/p9q8Y-2Xl
+384173899572727808  Sep 29 00:32  @Gliders_Coach    RT @znmeb: Collected blog posts, etc. for the #wherecamppdx #rstats hackers http://j.mp/16U69i2
+384174029453545472  Sep 29 00:33  @Gliders_Coach    RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+384182249144745984  Sep 29 01:06  @znmeb            .@maryannepdx R mapping resources http://j.mp/16U69i2 #rstats #wherecamppdx
+384188295275872257  Sep 29 01:30  @DailyRpackage    splm - Econometric Models for Spatial Panel Data http://cran.r-project.org/web/packages/splm/index.html #RStats
+384195822357086208  Sep 29 01:59  @znmeb            GPS Basemaps in R Using get_map | @scoopit http://sco.lt/8zShWb #rstats #wherecamppdx
+384195930331037696  Sep 29 02:00  @znmeb            Elevation Profiles in R | @scoopit http://sco.lt/5CQppB #rstats #wherecamppdx
+384196040251162624  Sep 29 02:00  @znmeb            Shapefiles in R | @scoopit http://sco.lt/5nz6vJ #rstats #wherecamppdx
