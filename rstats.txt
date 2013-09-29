@@ -19846,3 +19846,26 @@
 384297005134004224  Sep 29 08:42  @statisticsblog   A free online course on forecasting with R by Prof. Hyndman. http://i.cx/18AaPf1 @robjhyndman #r #rstats #forecasting
 384297732380172288  Sep 29 08:44  @monsoontrader    RT @quandl: Forecasting using #R: A new online course from Rob Hyndman by @revodavid http://qndl.co/160timm #Rstats
 384298426227507200  Sep 29 08:47  @kobriendublin    RT @statisticsblog: A free online course on forecasting with R by Prof. Hyndman. http://i.cx/18AaPf1 @robjhyndman #r #rstats #forecasting
+384302173322244096  Sep 29 09:02  @jewsforjets      RT @statisticsblog: A free online course on forecasting with R by Prof. Hyndman. http://i.cx/18AaPf1 @robjhyndman #r #rstats #forecasting
+384306389931147265  Sep 29 09:19  @TraineeGeek      @statisticsblog @statslabdublin @robjhyndman Please note this course http://i.cx/18AaPf1, does not appear free #r #rstats #forecasting
+384313160569585665  Sep 29 09:46  @arnicas          Adding: by @hrbmstr. Super post - plus D3 bubbles! RT @Rbloggers: Visualizing “ObamaCare-related” Job Cuts:  http://bit.ly/1bSRcUh #rstats
+384314920679903232  Sep 29 09:53  @MikejMcDermott   "penny dropping" moment when I typed  fix(data) in to the R console #Rstats https://www.zoology.ubc.ca/~schluter/R/data/#frames
+384321310941122560  Sep 29 10:18  @MikejMcDermott   Came across this R tutorial that may be of use/interest to some http://www.cyclismo.org/tutorial/R/ #Rstats
+384327456242421760  Sep 29 10:43  @statisticsblog   Perform a function on multiple files in R. http://i.cx/197A0tb #r #rstats
+384328719353266176  Sep 29 10:48  @pschulam         Check out the swirl package http://ncarchedi.github.io/swirl/. Wonderful #rstats tutorial built by @NickCarchedi.
+384331905526542336  Sep 29 11:00  @vinayakh         Updating from R 2.15 to R3.0.2 was so easy. 1-liner to update all installed packages update.packages(checkBuilt=TRUE, ask=FALSE) #rstats
+384335616948707328  Sep 29 11:15  @mjcavaretta      Mouse over shows 'NA'? -> Visualizing “ObamaCare-related” Job Cuts:  http://bit.ly/1bSRcUh via @arnicas @Rbloggers #rstats cc @hrbrmstr
+384342854073462784  Sep 29 11:44  @mjcavaretta      based on #Rstats. RT @RajaPasupuleti: free good  #datascience introduction book  http://jsresearch.net/wiki/projects/teachdatascience
+384346410444800000  Sep 29 11:58  @ochkrebt         RT @darrenjw: Parallel tempering and Metropolis coupled MCMC http://wp.me/pB0wL-k8 with example code in #rstats
+384349351465988096  Sep 29 12:10  @timelyportfolio  "Visualizing: ObamaCare Employer Mandate: A List Of Cuts To Work Hours, Jobs"  #rstats and #d3js http://rud.is/ocd3/
+384350589590994944  Sep 29 12:14  @davidfredman     Great tutorials on Rcpp, metaprogramming and other advanced topics in @hadleywickham #rstats book at http://adv-r.had.co.nz/
+384351409014968322  Sep 29 12:18  @hadleywickham    interview with me on capital of statistics: http://cos.name/2013/09/a-conversation-with-hadley-wickham/ (in chinese) #rstats
+384355575628177410  Sep 29 12:34  @ramnath_vaidya   RT @hadleywickham: interview with me on capital of statistics: http://cos.name/2013/09/a-conversation-with-hadley-wickham/ (in chinese) #rstats
+384362627381460992  Sep 29 13:02  @ramnath_vaidya   #rCharts. Adding additional labels in #nvd3 scatterChart tooltips http://stackoverflow.com/a/19080749/235349?stw=2 #rstats
+384366621583626240  Sep 29 13:18  @recology_        RT @ramnath_vaidya: #rCharts. Adding additional labels in #nvd3 scatterChart tooltips http://stackoverflow.com/a/19080749/235349?stw=2 #rstats
+384367420258807808  Sep 29 13:21  @nickholway       Nice tutorials to discover R | Freakonometrics http://freakonometrics.hypotheses.org/9069 #rstats
+384376080326348800  Sep 29 13:56  @emisshula        @suzannTee @jgieseking @jboy Emacs has really nice integration with statistical software #Rstats and #IPython
+384377236222005248  Sep 29 14:00  @Rbloggers        Mixed Models: Influence in Heterogeneous Variance Model:  (This article was first published on   Wie... http://bit.ly/17fpLRe #rstats
+384378625543270402  Sep 29 14:06  @aaronanticic     Thank you for sharing“@mjcavaretta: based on #Rstats. RT @RajaPasupuleti: free good  #datascience introduction book  http://jsresearch.net/wiki/projects/teachdatascience”
+384387757797154816  Sep 29 14:42  @felixhaass       Don't R alone! A guide to tools for collaboration with #rstats http://www.noamross.net/blog/2013/1/7/collaborating-with-r.html
+384389593216208896  Sep 29 14:49  @sheanineseven    This is really smart. An R package to learn stats and R interactively, like @Codecademy, from @rdpeng http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #swirl #rstats
