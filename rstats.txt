@@ -19775,3 +19775,34 @@
 384012991663841280  Sep 28 13:53  @KirkDBorne       #DataScience / #BI Exercise - good source of data for exercises in #Python, R, and #Tableau: http://www.information-management.com/blogs/a-data-science-BI-exercise-10024885-1.html #Rstats
 384018523426521089  Sep 28 14:15  @noamross         RT @RobKnell1: New and improved interactive population models with #shiny and #rstats http://87.117.69.131:3838/Ecology_models/
 384022872470994945  Sep 28 14:32  @arRMorgan        Super sweet #Rstats tutorial on facets in #ggplot2! Learn to look at your data in different dimensions: http://www.cookbook-r.com/Graphs/Facets_%28ggplot2%29/
+384032223483031552  Sep 28 15:09  @abmathewks       RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+384040472236552192  Sep 28 15:42  @gappy3000        It would be fun if hackers bypassed Bypassed R core team forked #rstats, added a type system, improved performance 100x
+384050096998199296  Sep 28 16:20  @jeffreyhorner    @gappy3000 hackers did fork #rstats and add a type system.  They call it #julia.
+384053979279142912  Sep 28 16:36  @rebekahredux     RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+384057784993857536  Sep 28 16:51  @alexhanna        .@polimath now discussing gdelttools, an #rstats package for #GDELT. Allows you to download, subset, and does normalization.
+384059114017411073  Sep 28 16:56  @MikejMcDermott   the most important function in R  The str function Really ?? #Rstats  #AskingForAFriend #Honest
+384060169023270912  Sep 28 17:00  @DataJunkie       @gappy3000 The problem is audience. #Rstats tries to avoid complicating things for non-programmers, thus leaving out typing. Bad choice tho
+384060258018406400  Sep 28 17:01  @321matthew       RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+384060329069920256  Sep 28 17:01  @banxia           RT @JGreenbrookHeld: Awesome - how to improve a barchart by removing junk. Of course, this is the default in #rstats http://www.statschat.org.nz/wp-content/uploads/2013/09/data-ink.gif ht @statschat
+384060956160315392  Sep 28 17:04  @gappy3000        Word .@jeffreyhorner: @gappy3000 hackers did fork #rstats and add a type system.  They call it #julialang
+384062915676241922  Sep 28 17:11  @fonnesbeck       Um … no. RT @gappy3000: Word .@jeffreyhorner: @gappy3000 hackers did fork #rstats and add a type system.  They call it #julialang
+384065138724450304  Sep 28 17:20  @polimath         A little debugging remains, but the #rstats package GDELTtools will be released in a few days.
+384067843743969280  Sep 28 17:31  @treycausey       RT @polimath: A little debugging remains, but the #rstats package GDELTtools will be released in a few days.
+384068179623825409  Sep 28 17:32  @blebeau11        My jekyll website is live, http://educate-r.org. The blog will primarily cover #rstats, #latex, and other computing topics.
+384070111956832256  Sep 28 17:40  @PatrickTBrandt   RT @treycausey: RT @polimath: A little debugging remains, but the #rstats package GDELTtools will be released in a few days.
+384075593291415552  Sep 28 18:02  @MDMGeek          RT @RLangTip: #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+384076828597440512  Sep 28 18:07  @3876             RT @polimath: A little debugging remains, but the #rstats package GDELTtools will be released in a few days.
+384078486047956992  Sep 28 18:13  @kwcollins        RT @polimath: A little debugging remains, but the #rstats package GDELTtools will be released in a few days.
+384079222689783808  Sep 28 18:16  @gappy3000        #rstats users, @MattDowle of data.table fame is on twitter, and in the shape of an egg.
+384079649409470464  Sep 28 18:18  @zentree          RT @gappy3000: #rstats users, @MattDowle of data.table fame is on twitter, and in the shape of an egg.
+384080614108184577  Sep 28 18:22  @ca_metin         RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+384082761373736960  Sep 28 18:30  @quandl           Announcing #Statistics with interactive #R learning software environment by @simplystats http://qndl.co/1h9eQtE #Rstats
+384083658191011841  Sep 28 18:34  @MikejMcDermott   how to lose an hour in what seems like 2mins on a Sat (or any) night Get bogged down trying to do a simple thing in #Rstats #OneWeeError
+384085425234927616  Sep 28 18:41  @psychemedia      Nice - quick #rstats way of generating geojson from CSV lat/lon, then previewing map via github http://bit.ly/19K69n2 #schoolOfData
+384085426002460672  Sep 28 18:41  @SchoolOfData     Nice - quick #rstats way of generating geojson from CSV lat/lon, then previewing map via github http://bit.ly/19K69n2 #schoolOfData
+384086294085005312  Sep 28 18:44  @nicotron         quick #rstats way of generating geojson from CSV lat/lon, then previewing map http://bit.ly/19K69n2 @armincifuentes entiendes algo?
+384086525832470528  Sep 28 18:45  @dartdog          RT @psychemedia: Nice - quick #rstats way of generating geojson from CSV lat/lon, then previewing map via github http://bit.ly/19K69n2 #schoolOfData
+384087661650006016  Sep 28 18:50  @evolcoop         RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+384087964071895040  Sep 28 18:51  @hadleywickham    @DataJunkie lack of strong typing is a good choice for #rstats. It's a massive plus for its audience and goals
+384092052671049728  Sep 28 19:07  @ramnath_vaidya   RT @hadleywickham: @DataJunkie lack of strong typing is a good choice for #rstats. It's a massive plus for its audience and goals
+384096901765038080  Sep 28 19:26  @MColebrook       RT @KirkDBorne: #DataScience / #BI Exercise - good source of data for exercises in #Python, R, and #Tableau: http://www.information-management.com/blogs/a-data-science-BI-exercise-10024885-1.html #Rstats
