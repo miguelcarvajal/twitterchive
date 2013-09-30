@@ -19914,3 +19914,54 @@
 384658083731226624  Sep 30 08:36  @jonsedar         RT @DextraordinaryH: my new favorite #rstats blog http://anythingbutrbitrary.blogspot.com/ @RStatsJobs @Rstats4Econ @rstatsmob
 384658449906155520  Sep 30 08:38  @cnrlwlss         RT @DextraordinaryH: my new favorite #rstats blog http://anythingbutrbitrary.blogspot.com/ @RStatsJobs @Rstats4Econ @rstatsmob
 384661459222810625  Sep 30 08:50  @BrownJosephW     RT @eddelbuettel: New Rcpp release 0.10.5 brings a bunch of small improvements http://goo.gl/hp3AeI #rstats #rcpp
+384663937729310720  Sep 30 09:00  @statisticsblog   Volume-weighted Exponential Moving Average (EMA) via R package "xts". http://i.cx/16Aaqgn #r #rstats
+384666857288237056  Sep 30 09:11  @CasalsTMarti     RT @statisticsblog: R tip of the day - Logistic regression and categorical covariates. http://i.cx/1dPMrt2 #r #rstats #regression
+384671119254380544  Sep 30 09:28  @datennutzen      Webinar: Wie Sie @Jaspersoft #BI mit #Rstats für #DataMining und #Analytics erweitern http://eoda.de/index.php/de/aktuelle-informationen-ii.html
+384671908916383744  Sep 30 09:31  @analysis_factor  Happy to have R expert and statistician Dan Neal joining me to teach Repeated Measures Workshop, starts next week. #rstats...
+384672113153433600  Sep 30 09:32  @benjaminlmoore   Well-written for loops can be fast as *apply or faster, the way people write them makes them slow—sage #rstats advice http://stackoverflow.com/q/19094360/1274516
+384682806212718592  Sep 30 10:15  @kevinkeenan_     Forgetting the '[fragile]' flag in beamer & #rstats pres' must have the largest 'time to id problem / time to fixing the problem ratio' ever
+384683948846374912  Sep 30 10:19  @RickSaporta      RT @mjcavaretta: Gr8 stuff. RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) from @statshero #rstats http://t.co/0i7ijhQEcy
+384686763588857858  Sep 30 10:30  @tonyojeda3       We're hosting 2 #rstats workshops on Oct 19th.Come out and learn the lingua franca of #datascience! http://bit.ly/19ePwzw  #datadc #bigdata
+384686768454635520  Sep 30 10:30  @DataCommunityDC  We're hosting 2 #rstats workshops on Oct 19th.Come out and learn the lingua franca of #datascience! http://bit.ly/19ePwzw  #datadc #bigdata
+384687685442732033  Sep 30 10:34  @jewsforjets      RT @statisticsblog: Volume-weighted Exponential Moving Average (EMA) via R package "xts". http://i.cx/16Aaqgn #r #rstats
+384692202703978496  Sep 30 10:52  @BrockTibert      My SO question on trying to use rCharts and Notebook Viewer.  http://stackoverflow.com/questions/1908… #Rstats
+384692508913328128  Sep 30 10:53  @BobLannon        for an #rstats intro, I still find myself linking people to @JoFrhwld's excellent "R Study Group" http://www.ling.upenn.edu/~joseff/rstudy/
+384693391759405056  Sep 30 10:57  @AlexanderFurnas  RT @BobLannon: for an #rstats intro, I still find myself linking people to @JoFrhwld's excellent "R Study Group" http://www.ling.upenn.edu/~joseff/rstudy/
+384694137489870850  Sep 30 11:00  @statisticsblog   Do you support Obama? Here are some visuals of “ObamaCare-related” Job Cuts (using R of course). http://i.cx/167g2MQ #r #rstats #visual
+384697033740668928  Sep 30 11:11  @BigDataBorat     R version 3.0.2 "Frisbee Sailing" recent was release. Version 3.0.2 is available for download, on DVD, and on vinyl. #rstats
+384700987002195968  Sep 30 11:27  @ucfagls          Suboptimal #rstats function argument name choice results in my writing which <- which(which) *slaps head*
+384702243473076224  Sep 30 11:32  @ucfagls          In my defence, the arg name makes sense from the user's point of view but I clearly didn't think it through from my sanity viewpoint #rstats
+384702518724677633  Sep 30 11:33  @BobOHara         RT @ucfagls: Suboptimal #rstats function argument name choice results in my writing which <- which(which) *slaps head*
+384702753982783488  Sep 30 11:34  @reichlab         RT @JeromyAnglim: New RStudio feature for creating markdown presentations looks very cool http://www.rstudio.com/ide/docs/presentations/overview #rstats @rstudioapp
+384706078996697090  Sep 30 11:47  @millerdl         RT @ucfagls: Suboptimal #rstats function argument name choice results in my writing which <- which(which) *slaps head*
+384706923087396864  Sep 30 11:50  @MarchiMax        @Bbl_Astrophyscs In slightly more than a month, my book Analyzing Baseball Data with R will be available: http://www.crcpress.com/product/isbn/9781466570221 #rstats
+384707652996976640  Sep 30 11:53  @Sky_Kalkman      RT @MarchiMax: In slightly more than a month, my book Analyzing Baseball Data with R will be available: http://www.crcpress.com/product/isbn/9781466570221 #rstats
+384708108628422657  Sep 30 11:55  @lgatt0           Feedback from my RSS workshop: "An interactive session on building an R #rstats package with @lgatt0" -  http://www.statslife.org.uk/events/annual-conference/conference-blog/969-a-presentation-on-building-an-r-package-with-laurent-gatto
+384709235814051840  Sep 30 12:00  @statisticsblog   Mixed Models: Influence in Heterogeneous Variance Model. http://i.cx/15EmFT1 #r #rstats
+384710654118334465  Sep 30 12:05  @RLangTip         #rstats Use ls(pattern="^is",baseenv()) to see all "is" functions in base package (R. Cotton: Learning R) http://oreil.ly/19PbWsf
+384711112521826306  Sep 30 12:07  @sethlatimer      RT @RLangTip: #rstats Use ls(pattern="^is",baseenv()) to see all "is" functions in base package (R. Cotton: Learning R) http://t.co/hWhB9qcikB
+384711931372007424  Sep 30 12:10  @inside_R         #rstats More useR Group meetings this week: San Francisco, Dublin and Edmonton http://bit.ly/9hVAPE
+384712276533452800  Sep 30 12:12  @arRMorgan        Useful page on how to use #ggplot2's ggplot_build() function to extract bin counts for a histogramme: https://groups.google.com/forum/#!topic/ggplot2/8E7LmyLvNXk. #Rstats
+384712429252669440  Sep 30 12:12  @haikuman         RT @RLangTip: #rstats Use ls(pattern="^is",baseenv()) to see all "is" functions in base package (R. Cotton: Learning R) http://t.co/hWhB9qcikB
+384712542494289921  Sep 30 12:13  @algaebarnacle    RT @benjaminlmoore: Well-written for loops can be fast as *apply or faster, the way people write them makes them slow—sage #rstats advice http://t.co/iXvDdrmrXc
+384713711505518592  Sep 30 12:17  @Minkoo           RT @RLangTip: #rstats Use ls(pattern="^is",baseenv()) to see all "is" functions in base package (R. Cotton: Learning R) http://t.co/hWhB9qcikB
+384714449073885184  Sep 30 12:20  @Datamarketing_   El valor de la información http://www.idata.com.co/index.php/blog-page/65-el-valor-de-la-informacion #rstats #BI #Datamining #CRM #Marketing
+384714747616038912  Sep 30 12:21  @SmartketingCol   RT @Datamarketing_: El valor de la información http://www.idata.com.co/index.php/blog-page/65-el-valor-de-la-informacion #rstats #BI #Datamining #CRM #Marketing
+384717333287034880  Sep 30 12:32  @Gliders_Coach    Fast summary statistics in R with data.table http://blog.yhathq.com/posts/fast-summary-statistics-with-data-dot-table.html via @yhathq #rstats
+384719164172021761  Sep 30 12:39  @Gastove          You know your SQL dialect is bad when people who use it say things like, "This is hideous! I'ma go re-produce this in #rstats." #netezza
+384720856322031616  Sep 30 12:46  @sharendh         RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+384723805223915520  Sep 30 12:57  @christoper_hamm  RT @RLangTip: #rstats Use ls(pattern="^is",baseenv()) to see all "is" functions in base package (R. Cotton: Learning R) http://t.co/hWhB9qcikB
+384729821432909824  Sep 30 13:21  @AriBFriedman     @katyetc No...Shiny http://www.rstudio.com/shiny/ #rstats
+384730799888556032  Sep 30 13:25  @wesmckinn        RT @hadleywickham: @DataJunkie lack of strong typing is a good choice for #rstats. It's a massive plus for its audience and goals
+384731021700112384  Sep 30 13:26  @ngamita          RT @Gastove: You know your SQL dialect is bad when people who use it say things like, "This is hideous! I'ma go re-produce this in #rstats." #netezza
+384732208331640832  Sep 30 13:31  @Jowanza          rCharts is changing my life right now #RStats
+384734791213400064  Sep 30 13:41  @Marko_GHz        RT @RLangTip: #rstats Use ls(pattern="^is",baseenv()) to see all "is" functions in base package (R. Cotton: Learning R) http://t.co/hWhB9qcikB
+384735978599882752  Sep 30 13:46  @mmparker         I have searched for the exact functionality of quarters() in #rstats several times and never found it. Yet there it is.
+384740154960658432  Sep 30 14:02  @stephaniehicks   How can I take the intersection of all ranges within a single GRanges object? disjoin() almost does it, but not quite. #bioconductor #rstats
+384741266774171648  Sep 30 14:07  @NHoughSnee       After discovering the permutation-based tests in the RVAideMemoire package, I may never have to code pairwise comparisons again! #rstats
+384741642118238208  Sep 30 14:08  @mxwlj            New blog post; How heavy is the Siberut macaque? A Bayesian phylogenetic approach http://mbjoseph.github.io/ #rstats #mrbayes #openbugs
+384742960488644608  Sep 30 14:14  @mjcavaretta      No #Rstats? RT @drsrinip: @strataconf: best #machinelearning methods have Accuracy, speed... http://oreil.ly/18hKyDa #bigdata cc @bigdata
+384746481913036801  Sep 30 14:28  @DatametricsBI    El valor de la información http://www.idata.com.co/index.php/blog-page/65-el-valor-de-la-informacion #rstats #BI #Datamining #CRM #Marketing
+384751684221546496  Sep 30 14:48  @hspter           Has anyone run into the problem in #rstats where they need a single column with different variable types (numeric, strings, etc.)
+384754079081062400  Sep 30 14:58  @MikejMcDermott   Right horsey time - only 7 decent races tomorrow Then a bit more brain melting with #Rstats - I'll get there in the end (hopefully)
+384754201844142081  Sep 30 14:58  @rastrau          Video tutorials for #rstats: http://www.ralphstraumann.ch/blog/2013/09/video-tutorials-for-r
