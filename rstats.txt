@@ -19895,3 +19895,22 @@
 384496129460559874  Sep 29 21:53  @StoufferLab      RT @RobKnell1: New and improved interactive population models with #shiny and #rstats http://87.117.69.131:3838/Ecology_models/
 384505910497783808  Sep 29 22:32  @dseverski        Packed for 3 days of Stephen Few workshops this week, glass of cab on the side table, playing with ggplot2. Life is good. #rstats #dataviz
 384550682503950337  Sep 30 01:30  @DailyRpackage    fastSOM - Fast Calculation of Spillover Measures http://cran.r-project.org/web/packages/fastSOM/index.html #RStats
+384594156632305664  Sep 30 04:22  @thonoir          New #Rstats package #swirl uses the cmd line to teach statistics and R: http://ncarchedi.github.io/swirl/students.html Definitely has promise.
+384601841905848320  Sep 30 04:53  @enterthesloth    Great day of #rstats led by @DrLukeHHedge, looking forward to more learnings with @ecostats, @Jakub_Stats and Mr Hui on the morrow!
+384608778747785216  Sep 30 05:20  @DiseaseMapper    Today is for lecture writing. 1 to modify, 2 to write plus a seminar on #Rstats to plan.
+384612444767002624  Sep 30 05:35  @jmgomez          Nice tutorials to discover R http://ow.ly/2479ZH #rstats #datamining
+384616807690424320  Sep 30 05:52  @vitojph          RT @jmgomez: Nice tutorials to discover R http://ow.ly/2479ZH #rstats #datamining
+384624894907932672  Sep 30 06:24  @davetang31       .Last.value in #rstats returns the value of the last evaluated expression; very useful when using R as a calculator.
+384625739925970945  Sep 30 06:28  @adolfoalvarez    RT @jmgomez: Nice tutorials to discover R http://ow.ly/2479ZH #rstats #datamining
+384635026115031040  Sep 30 07:05  @humphriesedd     The transformation from using Graphpad to Rstudio starts here....... #rstats #science #biology
+384643353339392001  Sep 30 07:38  @eddelbuettel     New RcppArmadillo release 0.3.920.1 http://goo.gl/qYA5lJ along with the new Rcpp 0.10.5 http://goo.gl/hp3AeI #rcpp #rstats
+384644929638920192  Sep 30 07:44  @AdiePrestone     what's the R package for FAO data? #Rstats
+384645817920811008  Sep 30 07:48  @RyanGrannell     The new @rstudioapp (0.98) debugging tools are amazing; probably speeds up my debugging x4 over using the tools manually #rstats
+384647443259748352  Sep 30 07:54  @razZ0r           RT @statisticsblog: A speed test comparison of plyr, data.table, and dplyr for large data frames. http://i.cx/16w3v15 #r #rstats
+384648836670439426  Sep 30 08:00  @statisticsblog   R tip of the day - Logistic regression and categorical covariates. http://i.cx/1dPMrt2 #r #rstats #regression
+384655686165999616  Sep 30 08:27  @hadleywickham    RT @eddelbuettel: New Rcpp release 0.10.5 brings a bunch of small improvements http://goo.gl/hp3AeI #rstats #rcpp
+384656765683789824  Sep 30 08:31  @RStatsJobs       RT @DextraordinaryH: my new favorite #rstats blog http://anythingbutrbitrary.blogspot.com/ @RStatsJobs @Rstats4Econ @rstatsmob
+384657419369844736  Sep 30 08:34  @random1977       RT @DextraordinaryH: my new favorite #rstats blog http://anythingbutrbitrary.blogspot.com/ @RStatsJobs @Rstats4Econ @rstatsmob
+384658083731226624  Sep 30 08:36  @jonsedar         RT @DextraordinaryH: my new favorite #rstats blog http://anythingbutrbitrary.blogspot.com/ @RStatsJobs @Rstats4Econ @rstatsmob
+384658449906155520  Sep 30 08:38  @cnrlwlss         RT @DextraordinaryH: my new favorite #rstats blog http://anythingbutrbitrary.blogspot.com/ @RStatsJobs @Rstats4Econ @rstatsmob
+384661459222810625  Sep 30 08:50  @BrownJosephW     RT @eddelbuettel: New Rcpp release 0.10.5 brings a bunch of small improvements http://goo.gl/hp3AeI #rstats #rcpp
