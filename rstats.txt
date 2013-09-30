@@ -19869,3 +19869,26 @@
 384378625543270402  Sep 29 14:06  @aaronanticic     Thank you for sharing“@mjcavaretta: based on #Rstats. RT @RajaPasupuleti: free good  #datascience introduction book  http://jsresearch.net/wiki/projects/teachdatascience”
 384387757797154816  Sep 29 14:42  @felixhaass       Don't R alone! A guide to tools for collaboration with #rstats http://www.noamross.net/blog/2013/1/7/collaborating-with-r.html
 384389593216208896  Sep 29 14:49  @sheanineseven    This is really smart. An R package to learn stats and R interactively, like @Codecademy, from @rdpeng http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #swirl #rstats
+384399014705106945  Sep 29 15:27  @eddelbuettel     New Rcpp release 0.10.5 brings a bunch of small improvements http://goo.gl/hp3AeI #rstats #rcpp
+384400289920724992  Sep 29 15:32  @BrockTibert      #lazyR  Any idea why the Rchart wont render in my #knitr parsed HTML doc? #rstats  cc @ramnath_vaidya  https://gist.github.com/Btibert3/6755713
+384403979914215424  Sep 29 15:47  @BrockTibert      I just discovered rNotebook for #rstats.  Why did it take me so long to try this out? Closest thing R has to iPython.
+384406025081585664  Sep 29 15:55  @abmathewks       My #rstats and #statistics question: Best way to visually present relationships from a multivariate linear model http://stats.stackexchange.com/q/71413/29640?stw=2
+384409761828974594  Sep 29 16:10  @matthewkrachey   RT @eddelbuettel: New Rcpp release 0.10.5 brings a bunch of small improvements http://goo.gl/hp3AeI #rstats #rcpp
+384411218284273664  Sep 29 16:15  @MDMGeek          RT @RLangTip: Function to find the peaks in a time series: http://bit.ly/PIZFgJ #rstats (via @therealprotonk)
+384414964234354688  Sep 29 16:30  @BrockTibert      My question on SO regarding rCharts and rNotebook rendering of HTML reports. #rstats http://stackoverflow.com/questions/19082919/rnotebook-and-rcharts-not-rendering-in-browser
+384424445588148225  Sep 29 17:08  @MikejMcDermott   oohh some #progress with #Rstats  I crossed another "wee stream" there - hopefully I'll still remember how to do that tomorrow!
+384424449908695041  Sep 29 17:08  @perilscope       RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) #rstats http://shrd.by/lqst4p
+384425002395000832  Sep 29 17:10  @GSwithR          RT @RobKnell1: New and improved interactive population models with #shiny and #rstats http://87.117.69.131:3838/Ecology_models/
+384425365533229056  Sep 29 17:12  @mjcavaretta      Like #crowdsourcing aspect. MT @sheanineseven: R package to learn stats & R interactively from @rdpeng http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #swirl #rstats
+384426949676134401  Sep 29 17:18  @BrynRWilliams    “@mjcavaretta  MT @sheanineseven: R package to learn stats & R  from @rdpeng http://bit.ly/1fAYPkU #swirl #rstats” Been waiting for this!
+384427488866095105  Sep 29 17:20  @Rbloggers        Rcpp 0.10.5:  (This article was first published on   Thinking inside the box   , and kindly contribu... http://bit.ly/166UzUj #rstats
+384435009899470848  Sep 29 17:50  @FarahAlShorbaji  RT @RobKnell1: New and improved interactive population models with #shiny and #rstats http://87.117.69.131:3838/Ecology_models/
+384437474375655424  Sep 29 18:00  @mjcavaretta      Gr8 stuff. RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) from @statshero #rstats http://shrd.by/lqst4p
+384438705412640768  Sep 29 18:05  @BrynRWilliams    RT @mjcavaretta: Gr8 stuff. RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) from @statshero #rstats http://t.co/0i7ijhQEcy
+384443102414401536  Sep 29 18:22  @romain_francois  RT @eddelbuettel: New Rcpp release 0.10.5 brings a bunch of small improvements http://goo.gl/hp3AeI #rstats #rcpp
+384446739387662336  Sep 29 18:37  @DanielBSuhr      I'm excited to be learning #Rstats with Prof. Das
+384446808702726144  Sep 29 18:37  @DanielBSuhr      RT @mjcavaretta: Gr8 stuff. RT @kdnuggets: 11 Tips on how to handle #BigData in R (and one bad pun) from @statshero #rstats http://t.co/0i7ijhQEcy
+384448861718470656  Sep 29 18:45  @quandl           #R learning resources to improve your #data skills are updated by @sharon000 http://qndl.co/1clgTgc #Rstats
+384450118734585856  Sep 29 18:50  @quandlsean       #R learning resources to improve your #data skills are updated by @sharon000 http://qndl.co/1clgTgc #Rstats
+384466021983072256  Sep 29 19:53  @timelyportfolio  RT @ramnath_vaidya: #rCharts. Adding additional labels in #nvd3 scatterChart tooltips http://stackoverflow.com/a/19080749/235349?stw=2 #rstats
+384482566708813824  Sep 29 20:59  @Gliders_Coach    Recommendation System in R http://blog.yhathq.com/posts/recommender-system-in-r.html via @yhathq #rstats
