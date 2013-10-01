@@ -20098,3 +20098,51 @@
 385011114205282304  Oct  1 07:59  @RickSaporta      RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
 385013047129284608  Oct  1 08:07  @RickSaporta      RT @TrevorABranch: Classroom for teaching R has 24 PCs. I've allowed an extra 4 and their laptops. No room now. Maybe #rstats is more than a passing fad?
 385025194848681984  Oct  1 08:55  @jmgomez          ROC curves and classification http://ow.ly/pnuRU #rstats #datamining #evaluation
+385026808997232640  Oct  1 09:01  @quandl           Nice tutorials to discover #R by @rbloggers http://qndl.co/1eU14yw  #Rstats
+385031591606910976  Oct  1 09:20  @flavioclesio     RT @jmgomez: ROC curves and classification http://ow.ly/pnuRU #rstats #datamining #evaluation
+385036671823400960  Oct  1 09:41  @jmgomez          Using Datumbox #API with #Python and R languages | @DatumBox http://ow.ly/pnuX7 #rstats #textmining #nlproc
+385037610554380288  Oct  1 09:44  @didumdida        #masterarbeit, oder: Der Teufel steckt im Detail. Immer. #rstats
+385038119587688448  Oct  1 09:46  @timtriche        RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385042307122491393  Oct  1 10:03  @genetics_blog    Differential abundance analysis for microbial marker-gene surveys http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2658.html #metagenomics #Rstats
+385042476756512768  Oct  1 10:04  @ramnath_vaidya   RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385043990795411456  Oct  1 10:10  @Motoma           Is there an R-related IRC channel? #rstats
+385046624386289664  Oct  1 10:20  @rmflight         has anyone used rRook to preview static github pages site or similar? having trouble with paths to other posts, files #rstats
+385048595906318338  Oct  1 10:28  @bajozocalo       @c1ndere11a gracias a tí, por ser la oveja negra de la Actuaría #rstats
+385048624386019328  Oct  1 10:28  @Ninouchkaia      RT @RLangTip: #rstats Two-minute video tutorials for R beginners:http://bit.ly/y4JP9f
+385050488359514112  Oct  1 10:36  @Jowanza          OH: "R is something like Excel on Steriods."  #Rstats #Inaccurate
+385051462964756481  Oct  1 10:39  @KevinLDavenport  RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385055063032356864  Oct  1 10:54  @stevepowell99    @hadleywickham Thanks, reinstalling Rcpp was enough to fix. I guess it isn't an issue then. #rstats #lineprof
+385056493273235456  Oct  1 10:59  @raphg            New @PLOSONE paper on V2 & V3 antibody resp. #HIV correlate of protection in #RV144  http://dx.plos.org/10.1371/journal.pone.0075665 using @Bioconductor and #rstats
+385056526731182080  Oct  1 11:00  @jebyrnes         Trying to correct wide-angle lens distortion in photo quads. Anyone have any #matlab or #rstats scripts?
+385057783777095680  Oct  1 11:05  @BobOHara         RT @jebyrnes: Trying to correct wide-angle lens distortion in photo quads. Anyone have any #matlab or #rstats scripts?
+385059832832983041  Oct  1 11:13  @tomjwebb         RT @jebyrnes: Trying to correct wide-angle lens distortion in photo quads. Anyone have any #matlab or #rstats scripts?
+385062383573413889  Oct  1 11:23  @MikejMcDermott   @erikpaterson it's not you know DLed from the coursera web site vids on #Rstats
+385066100528250880  Oct  1 11:38  @millerdl         quick guide to installing pqR on Mac OS 10.6 https://gist.github.com/dill/6737617 #rstats
+385070420468068352  Oct  1 11:55  @MikejMcDermott   Cookbook for R http://www.cookbook-r.com/ #Rstats
+385073391243632640  Oct  1 12:07  @RLangTip         How R finds variables used in statistical models: http://bit.ly/TN15uC #rstats
+385075112761769984  Oct  1 12:13  @arRMorgan        RT @RLangTip: How R finds variables used in statistical models: http://bit.ly/TN15uC #rstats
+385075413791170560  Oct  1 12:15  @arRMorgan        I am so excited for my Bayesian Analysis class! The professor is also an R-tian and isn't going to waste my time with #SAS or #SPSS. #Rstats
+385081008686514177  Oct  1 12:37  @RladiesSF        Second week - Meetup with R-ladies! http://meetu.ps/21dHhq #rstats #compdata
+385081888962252800  Oct  1 12:40  @zanols           New in RStudio: create HTML5 presentations http://www.rstudio.com/ide/docs/presentations/overview #rstats
+385082133964128256  Oct  1 12:41  @YoungForesters   RT @RLangTip: How R finds variables used in statistical models: http://bit.ly/TN15uC #rstats
+385085001248694272  Oct  1 12:53  @marmistead       RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385085806211510272  Oct  1 12:56  @bicho_paulinho   RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385086734544818176  Oct  1 13:00  @statisticsblog   The omitted variable bias in regressions. http://i.cx/1bYy6w4 #regression #statistics #r #rstats
+385088844581711872  Oct  1 13:08  @arRMorgan        Hope the demise of #SPSS & #SAS comes soon and that #R takes over. I hate those progs: http://r4stats.com/2013/05/14/beginning-of-the-end-v2/. #Rstats
+385089811121721344  Oct  1 13:12  @texhewson        RT @statisticsblog: The omitted variable bias in regressions. http://i.cx/1bYy6w4 #regression #statistics #r #rstats
+385089823792717824  Oct  1 13:12  @jonesor          RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385091955627413504  Oct  1 13:20  @Bernd_Z          @cloudHPC @almightyData this is #masochism but #rstats seems to be unusable without the #jvm in the real world - http://www.r-bloggers.com/connecting-the-real-world-to-r-with-an-arduino/
+385092102499352576  Oct  1 13:21  @KokkasKostas     RT @SchoolOfData: Nice - quick #rstats way of generating geojson from CSV lat/lon, then previewing map via github http://bit.ly/19K69n2 #schoolOfData
+385093956318810112  Oct  1 13:28  @RobKnell1        Really useful guide to a confusing subject "@RLangTip: How R finds variables used in statistical models: http://bit.ly/TN15uC #rstats"
+385094746970279936  Oct  1 13:31  @ronert_obst      RT @cloudHPC: New #aws #ec2 Linux AMI with #rstats v. 3.0.1 http://aws.typepad.com/aws/2013/09/amazon-linux-ami-201309-now-available.html
+385099513867669504  Oct  1 13:50  @sharon000        Any advice on this #rstats error? Fatal error: Unexpected exception: vector<bool>::_M_range_check Now my RStudio project won't load
+385101839437287427  Oct  1 14:00  @statisticsblog   R tip of the day - ROC curves, their interpretations and classification. http://i.cx/18oBQ67 #r #rstats
+385106200301281282  Oct  1 14:17  @Jowanza          Plotting by zip-code is easier than plotting by city by a mile #Rstats #ggplot2
+385106278042714112  Oct  1 14:17  @mphnyc           @furrier #Rstats is where the movement is, this spells trouble for #SAS, they have been a long ti... #hadoopworld via http://www.crowdchat.net/post/1609
+385107918015574017  Oct  1 14:24  @mphnyc           Don't know if #Rstats is that good (it looks like sanskrit to me) it IS prolific - kids graduatin... #hadoopworld via http://www.crowdchat.net/post/1618
+385108611795398656  Oct  1 14:27  @humanresearcher  RT @RLangTip: How R finds variables used in statistical models: http://bit.ly/TN15uC #rstats
+385108649997529088  Oct  1 14:27  @chlalanne        RT @statisticsblog: R tip of the day - ROC curves, their interpretations and classification. http://i.cx/18oBQ67 #r #rstats
+385114786901397504  Oct  1 14:51  @RyanData         final "Intro to R" #rstats on Data Manipulation tonight at 7 at Alexander Library.  Revised handouts at http://libguides.rutgers.edu/data
+385115039071354880  Oct  1 14:52  @RyanData         Session 2 #rstats videos posted at http://libguides.rutgers.edu/data #Stata video posted too, thanks to @minglu!
+385115312749703168  Oct  1 14:53  @rutgersdata      RT @RyanData: final "Intro to R" #rstats on Data Manipulation tonight at 7 at Alexander Library.  Revised handouts at http://libguides.rutgers.edu/data
+385115327849197568  Oct  1 14:53  @rutgersdata      RT @RyanData: Session 2 #rstats videos posted at http://libguides.rutgers.edu/data #Stata video posted too, thanks to @minglu!
