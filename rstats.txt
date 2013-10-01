@@ -20076,3 +20076,25 @@
 384922933103050754  Oct  1 02:09  @PeteHaitch       RT @neilfws: Piping subset of VCF file into R: myvcf <- read.table(pipe("bgzip -dc my.vcf.gz | grep NON_SYNONYMOUS_CODING"), ...) #rstats
 384930722454470656  Oct  1 02:40  @ladelund         RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
 384934788026486784  Oct  1 02:56  @drago_carlo      ROC curves and classification http://freakonometrics.hypotheses.org/9066 via @freakonometrics #DataMining #Statistics #Classification #Rstats
+384936129272627200  Oct  1 03:01  @thusmann         Schweizer Bodennutzung als Treemap: http://blog.thomas-husmann.ch/2013/09/30/bodennutzung-in-der-schweiz-als-treemap/ inspiriert von @nzzdata mit Daten von @StatSchweiz #rstats #d3js
+384937839768920065  Oct  1 03:08  @masemresearch    R 3.0.2 and RStudio 0.9.8 are released! #rstats | @scoopit http://sco.lt/67chQ9
+384938780643164160  Oct  1 03:12  @nzzdata          RT @thusmann: Schweizer Bodennutzung als Treemap: http://blog.thomas-husmann.ch/2013/09/30/bodennutzung-in-der-schweiz-als-treemap/ inspiriert von @nzzdata mit Daten von @StatSchweiz #rstats #d3js
+384939722789126144  Oct  1 03:15  @sekhardrona      RT @drago_carlo: ROC curves and classification http://freakonometrics.hypotheses.org/9066 via @freakonometrics #DataMining #Statistics #Classification #Rstats
+384944398137438208  Oct  1 03:34  @sjackman         RT @neilfws: Piping subset of VCF file into R: myvcf <- read.table(pipe("bgzip -dc my.vcf.gz | grep NON_SYNONYMOUS_CODING"), ...) #rstats
+384953769357635584  Oct  1 04:11  @Rbloggers        Remotely use R packages on Github through OpenCPU:  (This article was first published on   OpenCPU, ... http://bit.ly/18JcT4r #rstats
+384955300194697216  Oct  1 04:17  @jameskeirstead   decctools 0.1.2 should be on #rstats CRAN shortly.  Fixes a bug caused by a change in DECC's website
+384958110496206848  Oct  1 04:29  @stevepowell99    #worldbank DataBank data query system Open Data goes multilingual http://bit.ly/18nExVC #rstats
+384961923340460032  Oct  1 04:44  @sekhardrona      RT @revodavid: Several ways to include R #rstats in command-line workflow w/ other #DataScience tools suggested by @jeroenhjanssens http://t.co/NJ5PUBCOJn
+384974397183782912  Oct  1 05:33  @arcalb           named vectors! non ci avevo pensato!!! http://r.789695.n4.nabble.com/python-like-dictionary-for-R-td3161530.html #Rstats
+384978265179295744  Oct  1 05:49  @rastrau          RT @thusmann: Schweizer Bodennutzung als Treemap: http://blog.thomas-husmann.ch/2013/09/30/bodennutzung-in-der-schweiz-als-treemap/ inspiriert von @nzzdata mit Daten von @StatSchweiz #rstats #d3js
+384980268425437184  Oct  1 05:57  @herrstucki       RT @thusmann: Schweizer Bodennutzung als Treemap: http://blog.thomas-husmann.ch/2013/09/30/bodennutzung-in-der-schweiz-als-treemap/ inspiriert von @nzzdata mit Daten von @StatSchweiz #rstats #d3js
+384980508100554752  Oct  1 05:58  @louisaslett      RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384982002715197441  Oct  1 06:03  @mgwhitfield      Animal social network inference in #Rstats: http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12121/abstract via @MethodsEcolEvol
+384982891748290560  Oct  1 06:07  @ChrisGandrud     Very nice: Visualise the performance of your #rstats code from @hadleywickham http://bit.ly/1eWfeir
+385002619103903745  Oct  1 07:25  @cloudHPC         New #aws #ec2 Linux AMI with #rstats v. 3.0.1 http://aws.typepad.com/aws/2013/09/amazon-linux-ami-201309-now-available.html
+385005502251282432  Oct  1 07:37  @ngamita          MongoDB Export to JSON/CSV , getting data ready for #rstats http://goo.gl/d5IHNM
+385007802223042560  Oct  1 07:46  @sandeepchellppn  RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385010700197703680  Oct  1 07:57  @adolfoalvarez    RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385011114205282304  Oct  1 07:59  @RickSaporta      RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385013047129284608  Oct  1 08:07  @RickSaporta      RT @TrevorABranch: Classroom for teaching R has 24 PCs. I've allowed an extra 4 and their laptops. No room now. Maybe #rstats is more than a passing fad?
+385025194848681984  Oct  1 08:55  @jmgomez          ROC curves and classification http://ow.ly/pnuRU #rstats #datamining #evaluation
