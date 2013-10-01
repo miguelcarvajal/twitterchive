@@ -19965,3 +19965,89 @@
 384751684221546496  Sep 30 14:48  @hspter           Has anyone run into the problem in #rstats where they need a single column with different variable types (numeric, strings, etc.)
 384754079081062400  Sep 30 14:58  @MikejMcDermott   Right horsey time - only 7 decent races tomorrow Then a bit more brain melting with #Rstats - I'll get there in the end (hopefully)
 384754201844142081  Sep 30 14:58  @rastrau          Video tutorials for #rstats: http://www.ralphstraumann.ch/blog/2013/09/video-tutorials-for-r
+384754541238841344  Sep 30 15:00  @statisticsblog   91 nice tutorials to discover R. http://i.cx/1bloB7u #r #rstats #tutorial
+384754929622994944  Sep 30 15:01  @mthielbar        RT @statisticsblog: 91 nice tutorials to discover R. http://i.cx/1bloB7u #r #rstats #tutorial
+384755568462004224  Sep 30 15:04  @AriBFriedman     @BrendanSaloner there are #rstats options with a GUI I think
+384755812696358912  Sep 30 15:05  @EpiFunky         RT @statisticsblog: 91 nice tutorials to discover R. http://i.cx/1bloB7u #r #rstats #tutorial
+384756345440063488  Sep 30 15:07  @hadleywickham    a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384756394424926208  Sep 30 15:07  @recology_        RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384756695571763200  Sep 30 15:08  @JonesZM          RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384756740945760257  Sep 30 15:08  @MikejMcDermott   RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384756754082693120  Sep 30 15:08  @hylopsar         fantastic RT @hadleywickham a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384756804875350016  Sep 30 15:09  @MarchiMax        RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384757259504320512  Sep 30 15:10  @cboettig         RT @hylopsar: fantastic RT @hadleywickham a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://t.co/neh9JbTslV
+384757299065024512  Sep 30 15:11  @clarkfitzg       TeradataR #rstats package- disappointing. I had such high hopes.
+384757496281182208  Sep 30 15:11  @Gastove          RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384757777366654976  Sep 30 15:12  @chemstateric     RT @statisticsblog: 91 nice tutorials to discover R. http://i.cx/1bloB7u #r #rstats #tutorial
+384757831829696512  Sep 30 15:13  @dnusinow         RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384758425260793856  Sep 30 15:15  @kara_woo         Awesome! RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384759002695225344  Sep 30 15:17  @tdhopper         RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384759077513224192  Sep 30 15:18  @Demografia_CSIC  91 nice tutorials to discover R. http://i.cx/1bloB7u #r #rstats #tutorial vía @statisticsblog
+384759762799181824  Sep 30 15:20  @shabbychef       RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384760106832760832  Sep 30 15:22  @eddelbuettel     RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384760419367149568  Sep 30 15:23  @tim_yates        RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384760666512322560  Sep 30 15:24  @lordsutch        RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384760875220873216  Sep 30 15:25  @KTInvasion       RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384761682385317888  Sep 30 15:28  @romain_francois  RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384762168299634689  Sep 30 15:30  @anshul           RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384763560288866304  Sep 30 15:35  @jullybobble      RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384763728291311617  Sep 30 15:36  @StatsInTheWild   @reichlab sent me this today: "SWIRL: Statistics with Interactive R Learning".  Worth checking out. http://ncarchedi.github.io/swirl/students.html #rstats
+384764124762103808  Sep 30 15:38  @darinself        The percentage of articles containing a policy proposal as found in top 12 IR journals. Hmmmm #Rstats http://t.co/XiNqmhFW8m
+384764752465260545  Sep 30 15:40  @stevepowell99    #lineprof: promising new package in #rstats to visualise performance of code http://bit.ly/1aFaHfA. Not compiling for me: R3.0.01 #ubuntu
+384765486283497472  Sep 30 15:43  @AriBFriedman     @BrendanSaloner Try Deducer: http://www.deducer.org/pmwiki/pmwiki.php?n=Main.PlotBuilder or R Commander: http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/ #rstats
+384765596576927744  Sep 30 15:44  @M_T_Patterson    RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+384766469302935552  Sep 30 15:47  @simplystats      RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384766554992549888  Sep 30 15:47  @xavimb           RT @jmgomez: Nice tutorials to discover R http://ow.ly/2479ZH #rstats #datamining
+384766981851070464  Sep 30 15:49  @Johnfinn310      RT @hylopsar: fantastic RT @hadleywickham a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://t.co/neh9JbTslV
+384767329969913857  Sep 30 15:50  @jameskeirstead   RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384767580365668353  Sep 30 15:51  @secscientist     RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384767693330472960  Sep 30 15:52  @DrQz             RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384767861895340032  Sep 30 15:53  @mrstiffsmith     RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384768359474024449  Sep 30 15:55  @brian_jphillips  RT @darinself The percentage of articles containing a policy proposal as found in top 12 IR journals. Hmmmm #Rstats http://t.co/o2Pl67R2cP
+384768589720330240  Sep 30 15:55  @evillarrealc     RT @brian_jphillips: RT @darinself The percentage of articles containing a policy proposal as found in top 12 IR journals. Hmmmm #Rstats http://t.co/o2Pl67R2cP
+384768702337810432  Sep 30 15:56  @Klarevas         RT @brian_jphillips: RT @darinself The percentage of articles containing a policy proposal as found in top 12 IR journals. Hmmmm #Rstats http://t.co/o2Pl67R2cP
+384770310660046848  Sep 30 16:02  @MartinSEdwards   RT @darinself: The percentage of articles containing a policy proposal as found in top 12 IR journals. Hmmmm #Rstats http://t.co/XiNqmhFW8m
+384771867124322304  Sep 30 16:08  @lgatt0           RT @hylopsar: fantastic RT @hadleywickham a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://t.co/neh9JbTslV
+384773213487894528  Sep 30 16:14  @jabawack         91 Nice tutorials to discover R | Freakonometrics http://buff.ly/16aILQY #rstats
+384774613068038144  Sep 30 16:19  @DistribEcology   Anyone work with HDF5 files using rhdf want to lend a hand?  #rstats
+384778924229545984  Sep 30 16:36  @MingStar         RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384781406716452864  Sep 30 16:46  @pierreroudier    RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384781581204066304  Sep 30 16:47  @SunCafaro        RT @darinself: The percentage of articles containing a policy proposal as found in top 12 IR journals. Hmmmm #Rstats http://t.co/XiNqmhFW8m
+384782124542218240  Sep 30 16:49  @TheAtavism       RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384783182249213952  Sep 30 16:53  @pierreroudier    @bucksci I co-authored a #rstats package for soil science :) http://aqp.r-forge.r-project.org/
+384787513287528452  Sep 30 17:11  @BrendanSaloner   RT @AriBFriedman: @BrendanSaloner Try Deducer: http://www.deducer.org/pmwiki/pmwiki.php?n=Main.PlotBuilder or R Commander: http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/ #rstats
+384789763993403392  Sep 30 17:20  @jabawack         Video tutorials for R | Spatialists http://buff.ly/16aISfj #rstats
+384789800651218944  Sep 30 17:20  @frod_san         RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384789937297428480  Sep 30 17:20  @Rbloggers        ROC curves and classification:  (This article was first published on   Freakonometrics » R-english, ... http://bit.ly/18Hgos2 #rstats
+384792337396023296  Sep 30 17:30  @ArthurFlam       RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384792725755002880  Sep 30 17:31  @MasterEBP        R leren? Probeer eens hier...RT“@statisticsblog: 91 nice tutorials to discover R. http://i.cx/1bloB7u #r #rstats #tutorial”
+384794327173435392  Sep 30 17:38  @Colin_at_cu      RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384795067979821056  Sep 30 17:41  @winston_chang    RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384795864813682688  Sep 30 17:44  @abresler         Thanks to @reddit r/NBA for voting on 13-14 prediction we now have a beautiful #rcharts/#rstats mocked up vizie!! http://aragorn.org/reddit/nba/2013-2014/nba_pre_season_sentiment_by_team/
+384795866344615936  Sep 30 17:44  @llthurman        RT @DistribEcology: Anyone work with HDF5 files using rhdf want to lend a hand?  #rstats
+384796220939444224  Sep 30 17:45  @thecity2         RT @abresler: Thanks to @reddit r/NBA for voting on 13-14 prediction we now have a beautiful #rcharts/#rstats mocked up vizie!! http://t.co/ocSa7d2Otc
+384798559184240642  Sep 30 17:55  @lgatt0           RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384799312212815873  Sep 30 17:57  @frod_san         RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+384801927164198912  Sep 30 18:08  @Jowanza          I think my #Rstats blog posts are going to be done using slidify from now on.
+384804386397900800  Sep 30 18:18  @davidjohnwild    RT @cureffi: Quick intro to #cheminformatics in #rStats re: #prion #drugdiscovery http://www.cureffi.org/2013/09/23/a-quick-intro-to-chemical-informatics-in-r/ using rcdk by @rguha
+384805368796553216  Sep 30 18:22  @TheRealJimShady  RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+384808265332191232  Sep 30 18:33  @piccolbo         RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384809199727017985  Sep 30 18:37  @graemeleehickey  RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384813626701643778  Sep 30 18:54  @ProfDurbin       RT @darinself: The percentage of articles containing a policy proposal as found in top 12 IR journals. Hmmmm #Rstats http://t.co/XiNqmhFW8m
+384813777687814144  Sep 30 18:55  @tavisrudd        next Van #rstats meetup is on Oct 29th http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/143102242/ ping me if you want to give a 10min lightning talk
+384814487095607297  Sep 30 18:58  @recology_        RT @tavisrudd: next Van #rstats meetup is on Oct 29th http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/143102242/ ping me if you want to give a 10min lightning talk
+384815937448595456  Sep 30 19:04  @conradopreto     RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384816061905768448  Sep 30 19:04  @DrLukeHHedge     @enterthesloth @ecostats @Jakub_Stats Hopefully the #rstats BEES attendees are now R experts! Or at least know how to plot...
+384820785409323008  Sep 30 19:23  @kwbroman         RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384820895820156928  Sep 30 19:23  @flash_us         RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384822418986266625  Sep 30 19:29  @davidkgoldstein  RT @statisticsblog: 91 nice tutorials to discover R. http://i.cx/1bloB7u #r #rstats #tutorial
+384825353102848000  Sep 30 19:41  @_inundata        The lineprof package makes it easy to understand performance of  code and quickly visualize results. #rstats  http://bit.ly/17lfpiK
+384825445192986624  Sep 30 19:41  @RobLanfear       RT @_inundata: The lineprof package makes it easy to understand performance of  code and quickly visualize results. #rstats  http://t.co/rgk4708ra6
+384825887423610880  Sep 30 19:43  @phdpqc           RT @_inundata: The lineprof package makes it easy to understand performance of  code and quickly visualize results. #rstats  http://t.co/rgk4708ra6
+384826301049102336  Sep 30 19:45  @revodavid        What's the best US state to conduct a "flyover" of the most other states? R has the answer: http://bit.ly/15FwpBV @NewsGenius #rstats
+384827414703898624  Sep 30 19:49  @JamesMeadow      RT @_inundata: The lineprof package makes it easy to understand performance of  code and quickly visualize results. #rstats  http://t.co/rgk4708ra6
+384831513079984129  Sep 30 20:05  @noamross         RT @_inundata: The lineprof package makes it easy to understand performance of  code and quickly visualize results. #rstats  http://t.co/rgk4708ra6
+384836455954018305  Sep 30 20:25  @wkvong           RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384836584748511232  Sep 30 20:26  @hodgson_lauren   RT @_inundata: The lineprof package makes it easy to understand performance of  code and quickly visualize results. #rstats  http://t.co/rgk4708ra6
+384841130405150720  Sep 30 20:44  @CrisVanHout      RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384841730048028673  Sep 30 20:46  @dkuo             RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
