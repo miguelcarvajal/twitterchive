@@ -20051,3 +20051,28 @@
 384836584748511232  Sep 30 20:26  @hodgson_lauren   RT @_inundata: The lineprof package makes it easy to understand performance of  code and quickly visualize results. #rstats  http://t.co/rgk4708ra6
 384841130405150720  Sep 30 20:44  @CrisVanHout      RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
 384841730048028673  Sep 30 20:46  @dkuo             RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384852768780849152  Sep 30 21:30  @BenBondLamberty  A speed test comparison of plyr, data.table, and dplyr #rstats http://tinyurl.com/mlw7ak8
+384855322172465152  Sep 30 21:40  @Rbloggers        An R function to download shapefiles:  (This article was first published on   Landscape Ecology 2.0 ... http://bit.ly/1bnOuDv #rstats
+384858475253075968  Sep 30 21:53  @zentree          "Classification with O-PLS-DA" using #Rstats. http://imdevsoftware.wordpress.com/2013/09/29/classification-with-o-pls-da/
+384861438830845952  Sep 30 22:04  @perisaccadic     Have a high-dpi tablet and #rstats? Get AirDisplay, or the equivalent, and dev.new(dpi=250) for your plot window.
+384862185916084224  Sep 30 22:07  @blakemallan      Reading through #rstats forums for help makes my problem seem sooo easy no-one has bothered to explain from such a basic level #rstatsfail
+384864574627151872  Sep 30 22:17  @ErikJohnline     RT @benjaminlmoore: Well-written for loops can be fast as *apply or faster, the way people write them makes them slow—sage #rstats advice http://t.co/iXvDdrmrXc
+384865697362223105  Sep 30 22:21  @DLabAtBerkeley   Intermediate R - 3 new #rstats training offerings Tuesdays in Oct & Nov http://dlab.berkeley.edu/training
+384866993821605889  Sep 30 22:26  @munjal_gitanshu  RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384871158891302913  Sep 30 22:43  @JGreenbrookHeld  Any idea how to change the legend font to Verdana in #rstats? All other text has changed, but not the legend...
+384874639802904576  Sep 30 22:57  @Gliders_Coach    interesting stuff google fusion with #rstats https://developers.google.com/fusiontables/docs/sample_code?csw=1
+384886036074999808  Sep 30 23:42  @reiver           RT @tavisrudd: next Van #rstats meetup is on Oct 29th http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/143102242/ ping me if you want to give a 10min lightning talk
+384889619793199105  Sep 30 23:56  @Avatron          A cool use of Air Display! RT @perisaccadic: Have a high-dpi tablet and #rstats? Get AirDisplay … and dev.new(dpi=250) for your plot window.
+384899937751683072  Oct  1 00:37  @neilfws          Very nice visualization of #rstats code over time: http://www.ohloh.net/p/rproject
+384901359457140736  Oct  1 00:43  @sheriter         RT @neilfws: Very nice visualization of #rstats code over time: http://www.ohloh.net/p/rproject
+384902675013201920  Oct  1 00:48  @TrevorABranch    Classroom for teaching R has 24 PCs. I've allowed an extra 4 and their laptops. No room now. Maybe #rstats is more than a passing fad?
+384904150737494016  Oct  1 00:54  @diego_torres     RT @quandl: #R learning resources to improve your #data skills are updated by @sharon000 http://qndl.co/1clgTgc #Rstats
+384908111443927040  Oct  1 01:10  @joscani          RT @quandl: #R learning resources to improve your #data skills are updated by @sharon000 http://qndl.co/1clgTgc #Rstats
+384911101466406912  Oct  1 01:22  @neilfws          Piping subset of VCF file into R: myvcf <- read.table(pipe("bgzip -dc my.vcf.gz | grep NON_SYNONYMOUS_CODING"), ...) #rstats
+384911418178301952  Oct  1 01:23  @vsbuffalo        RT @neilfws: Piping subset of VCF file into R: myvcf <- read.table(pipe("bgzip -dc my.vcf.gz | grep NON_SYNONYMOUS_CODING"), ...) #rstats
+384913071934046208  Oct  1 01:30  @DailyRpackage    Formula - Extended Model Formulas http://cran.r-project.org/web/packages/Formula/index.html #RStats
+384914440568963072  Oct  1 01:35  @chlalanne        RT @neilfws: Very nice visualization of #rstats code over time: http://www.ohloh.net/p/rproject
+384917715552440320  Oct  1 01:48  @cwvhogue         RT @neilfws: Piping subset of VCF file into R: myvcf <- read.table(pipe("bgzip -dc my.vcf.gz | grep NON_SYNONYMOUS_CODING"), ...) #rstats
+384922933103050754  Oct  1 02:09  @PeteHaitch       RT @neilfws: Piping subset of VCF file into R: myvcf <- read.table(pipe("bgzip -dc my.vcf.gz | grep NON_SYNONYMOUS_CODING"), ...) #rstats
+384930722454470656  Oct  1 02:40  @ladelund         RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+384934788026486784  Oct  1 02:56  @drago_carlo      ROC curves and classification http://freakonometrics.hypotheses.org/9066 via @freakonometrics #DataMining #Statistics #Classification #Rstats
