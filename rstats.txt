@@ -20146,3 +20146,22 @@
 385115039071354880  Oct  1 14:52  @RyanData         Session 2 #rstats videos posted at http://libguides.rutgers.edu/data #Stata video posted too, thanks to @minglu!
 385115312749703168  Oct  1 14:53  @rutgersdata      RT @RyanData: final "Intro to R" #rstats on Data Manipulation tonight at 7 at Alexander Library.  Revised handouts at http://libguides.rutgers.edu/data
 385115327849197568  Oct  1 14:53  @rutgersdata      RT @RyanData: Session 2 #rstats videos posted at http://libguides.rutgers.edu/data #Stata video posted too, thanks to @minglu!
+385117263722184705  Oct  1 15:01  @zanols           RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385127276444409856  Oct  1 15:41  @arun_sriniv      RT @MattDowle: Prompted by Andy Hayden's comment, took a deep breath and updated http://stackoverflow.com/questions/8991709/why-are-pandas-merges-in-python-faster-than-data-table-merges-in-r  #rstats
+385130689840295937  Oct  1 15:54  @analysis_factor  RT @statisticsblog: R tip of the day - ROC curves, their interpretations and classification. http://i.cx/18oBQ67 #r #rstats
+385134660071604224  Oct  1 16:10  @Rbloggers        PirateGruntTV:  (This article was first published on   PirateGrunt » R, and kindly contributed to R-... http://bit.ly/18LBh77 #rstats
+385138932167737345  Oct  1 16:27  @bryancshepherd   RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385142247643041792  Oct  1 16:40  @Rbloggers        What’s the Most “Concave” State in the U.S.? Using R to Solve a Geography Puzzle: This is a guest post... http://bit.ly/1aINGIE #rstats
+385142901145358336  Oct  1 16:43  @laurencstill     #dataweek #rstats bootcamp! (@ Fort Mason) http://4sq.com/19fAyx6
+385147351142531072  Oct  1 17:00  @Ohloh            RT @neilfws: Very nice visualization of #rstats code over time: http://www.ohloh.net/p/rproject
+385148173011800064  Oct  1 17:04  @ucfagls          @bhundey I don't think that option exists in #rstats at the mo. It is the OPTIMAL method in @StephenJuggins ZONE IIRC (dig out course notes)
+385152310118068224  Oct  1 17:20  @QuantEcologyABC  Very cool example with #rstats code! "How Heavy Is the Siberut Macaque? A Bayesian Phylogenetic Approach" http://mbjoseph.github.io/blog/2013/09/30/macaques/
+385157284193501184  Oct  1 17:40  @trentyarwood     @drdisco_  also, I suggest following @RLangTip #rstats
+385171548224499712  Oct  1 18:37  @SergeyKochergan  What’s the Most “Concave” State in the U.S.? Using R to Solve a Geography Puzzle http://www.r-bloggers.com/whats-the-most-concave-state-in-the-u-s-using-r-to-solve-a-geography-puzzle/ via @rbloggers #rstats #statistics
+385178773202538496  Oct  1 19:05  @SergeyKochergan  Creating a matrix from a long data frame in R http://lamages.blogspot.com/2013/10/creating-matrix-from-long-dataframe.html?spref=tw #rstats
+385179383444799488  Oct  1 19:08  @ciarakeenanLP    RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+385200391408726016  Oct  1 20:31  @revodavid        R with #BigData on @hortonworks Hadoop (video): http://bit.ly/171VFxp #rstats
+385200598049497089  Oct  1 20:32  @lkafle           RT @dmedri: Teradata and Revolution Analytics http://bit.ly/1a5hlLR via @YvesMulkers @revodavid #bigdata #rstats #datascience #datascientists
+385201420188000256  Oct  1 20:35  @CregVanEtten     RT @revodavid: R with #BigData on @hortonworks Hadoop (video): http://bit.ly/171VFxp #rstats
+385204606655299585  Oct  1 20:48  @sekhardrona      MT @revodavid: "R with #BigData on @hortonworks #Hadoop (video): http://bit.ly/171VFxp #rstats"
+385206058257362945  Oct  1 20:54  @Gliders_Coach    RT @revodavid: R with #BigData on @hortonworks Hadoop (video): http://bit.ly/171VFxp #rstats
