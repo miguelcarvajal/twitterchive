@@ -20199,3 +20199,70 @@
 385378444923510784  Oct  2 08:19  @Ajenstat         RT @idigdata: Tableau 8.1 Beta & R Part 1 http://bit.ly/1c36GVV #tableau #rstats via @idigdata
 385384401648893952  Oct  2 08:42  @eoinbrazil       Next Tues I'll talk on Intro to Machine Learning with #rstats last push as I want to see if a larger room is needed http://www.meetup.com/DublinR/events/139262702/
 385386280936165377  Oct  2 08:50  @np_jiang         RT @statisticsblog: Perform a function on multiple files in R. http://i.cx/197A0tb #r #rstats
+385388686265057280  Oct  2 08:59  @dalejbarr        For #SAS & #SPSS users transitioning to #rstats, a list of R equivalents (via @RLangTip) http://bit.ly/ttStw6
+385388726701916160  Oct  2 09:00  @statisticsblog   R tip of the day - Creating a matrix from a long data.frame. http://i.cx/1bpIGwZ #r #rstats
+385389990022098944  Oct  2 09:05  @GVBodenhausen    RT @dalejbarr: For #SAS & #SPSS users transitioning to #rstats, a list of R equivalents (via @RLangTip) http://bit.ly/ttStw6
+385391368043917312  Oct  2 09:10  @Staburo          RT @statisticsblog: R tip of the day - Creating a matrix from a long data.frame. http://i.cx/1bpIGwZ #r #rstats
+385391398243299328  Oct  2 09:10  @xavi_barber      RT @statisticsblog: R tip of the day - ROC curves, their interpretations and classification. http://i.cx/18oBQ67 #r #rstats
+385392035899121664  Oct  2 09:13  @jonesor          RT @RLangTip: How R finds variables used in statistical models: http://bit.ly/TN15uC #rstats
+385395295003353089  Oct  2 09:26  @MDMGeek          Nice code school for learning R basics http://qndl.co/18zTe7O #RStats << Great!
+385396957042442240  Oct  2 09:32  @quandl           Swirl package: #Statistics with interactive #R learning by @rdpeng http://qndl.co/19QjmJR #Rstats
+385397044241645568  Oct  2 09:33  @mjcavaretta      Gr8 list. Wish it had links to R packages -> #SAS, #SPSS & #rstats, equivalents http://bit.ly/ttStw6 ht @BobMuenchen @dalejbarr @RLangTip
+385398943711916032  Oct  2 09:40  @HlthAnalysis     RT @idigdata: Tableau 8.1 Beta & R Part 1 http://bit.ly/1c36GVV #tableau #rstats via @idigdata
+385399796309037056  Oct  2 09:44  @HlthAnalysis     Most read for learning how to integrate Tableau & R "Tableau 8.1 Beta & R Part 1" http://bit.ly/1c36GVV  #tableau #rstats via @idigdata
+385400356898746368  Oct  2 09:46  @kobriendublin    RT @eoinbrazil: Next Tues I'll talk on Intro to Machine Learning with #rstats last push as I want to see if a larger room is needed http://t.co/aIcyLMO08p
+385400646146347008  Oct  2 09:47  @statslabdublin   RT @eoinbrazil: Next Tues I'll talk on Intro to Machine Learning with #rstats last push as I want to see if a larger room is needed http://t.co/aIcyLMO08p
+385401178630422528  Oct  2 09:49  @RussianSphinx    V @HlthAnalysis Most read for learning how to integrate Tableau & R "Tableau 8.1 & R" http://bit.ly/1c36GVV  #tableau #rstats via @idigdata
+385404090769219584  Oct  2 10:01  @genetics_blog    customProDB: #Rstats pkg to generate customized protein databases from RNA-Seq data for #proteomics search http://www.ncbi.nlm.nih.gov/pubmed/24058055
+385405095803756544  Oct  2 10:05  @monsoontrader    Excruciatingly lame linkedin #rstats thread is getting longer. Does no one use google these days….
+385408454191362048  Oct  2 10:18  @jfzeac           RT @revodavid: R with #BigData on @hortonworks Hadoop (video): http://bit.ly/171VFxp #rstats
+385411807575150592  Oct  2 10:31  @sjGoring         @JacquelynGill obviously, let me know if you need any help getting the #Rstats part sorted.
+385414428033683457  Oct  2 10:42  @polimath         New #GDELT #rstats package GDELTtools available on CRAN: http://cran.r-project.org/web/packages/GDELTtools #hackathon FTW!
+385415125248638977  Oct  2 10:45  @PPUAMX           RT @RLangTip: How R finds variables used in statistical models: http://bit.ly/TN15uC #rstats
+385416122633572352  Oct  2 10:48  @Hack_in_a_Box    RT @polimath: New #GDELT #rstats package GDELTtools available on CRAN: http://cran.r-project.org/web/packages/GDELTtools #hackathon FTW!
+385418376132063232  Oct  2 10:57  @distributedcog   RT @dalejbarr: For #SAS & #SPSS users transitioning to #rstats, a list of R equivalents (via @RLangTip) http://bit.ly/ttStw6
+385419344899211264  Oct  2 11:01  @jslefche         Anybody have a good #rstats data.table tutorial?
+385420809470496768  Oct  2 11:07  @jebyrnes         Generalized linear mixed models can detect unimodal species-environment relationships [PeerJ] http://bit.ly/GzO4zf with #rstats code
+385422498147225600  Oct  2 11:14  @lucaborger       GLMMs can detect unimodal species-environment relationships http://bit.ly/GzO4zf Seems great and includes #rstats code MT @jebyrnes
+385423704705867777  Oct  2 11:19  @Gliders_Coach    nice stuff on #rstats and #hadoop from @revodavid  and @marked_man http://www.slideshare.net/RevolutionAnalytics/modern-data-architecture-for-predictive-analytics-hortonworks-and-revolution-analytics  cc- @RevolutionR + @hortonworks
+385428405212033025  Oct  2 11:37  @srmulcahy        Hope to get more isochrons like this beauty #geology.  Calculated w #rstats isochron package https://github.com/srmulcahy/isochron http://t.co/moSQ4vNnxl
+385429779672858625  Oct  2 11:43  @chipmonkey75     RT @idigdata: Tableau 8.1 Beta & R Part 1 http://bit.ly/1c36GVV #tableau #rstats via @idigdata
+385430337142013952  Oct  2 11:45  @strengejacke     Thanks to the new debug-feature of RStudio (http://www.rstudio.com/ide/download/preview) I found a bug in my PlotLikert-function: http://strengejacke.wordpress.com/2013/07/17/plotting-likert-scales-net-stacked-distributions-with-ggplot-rstats/ #rstats
+385431208655458305  Oct  2 11:48  @zachstednick     Glad to be in town for SF #rstats Meetup tonight  http://meetu.ps/1Z82zq
+385431444668940288  Oct  2 11:49  @DistribEcology   excited to read RT @jebyrnes: Generalized linear mixed models can detect unimodal.... @thePeerJ http://bit.ly/GzO4zf with #rstats code
+385435749199675392  Oct  2 12:06  @RLangTip         Find the list of changes in the forthcoming release of R (R-devel) here: http://bit.ly/TNcLO8 #rstats
+385436590492762113  Oct  2 12:10  @lic_grajales     Here's the list of changes in the forthcoming release of R (R-devel) http://bit.ly/TNcLO8 #rstats
+385436742511120384  Oct  2 12:10  @eddelbuettel     RT @RLangTip: Find the list of changes in the forthcoming release of R (R-devel) here: http://bit.ly/TNcLO8 #rstats
+385436846534037504  Oct  2 12:11  @paridebertulio   RT @RLangTip: Find the list of changes in the forthcoming release of R (R-devel) here: http://bit.ly/TNcLO8 #rstats
+385436929699102720  Oct  2 12:11  @bvoisin          RT @eoinbrazil: Next Tues I'll talk on Intro to Machine Learning with #rstats last push as I want to see if a larger room is needed http://t.co/aIcyLMO08p
+385437834108076033  Oct  2 12:15  @theorecol        Loving @yodacomplex's #Rstats intro vids. Just disappointed he didn't save his example files as "fingerbang_data.rdata". #missedopportunity
+385440322882265088  Oct  2 12:25  @JillBudden       RT @RLangTip: Find the list of changes in the forthcoming release of R (R-devel) here: http://bit.ly/TNcLO8 #rstats
+385446856160862208  Oct  2 12:51  @raviupanishad    RT @genetics_blog: customProDB: #Rstats pkg to generate customized protein databases from RNA-Seq data for #proteomics search http://t.co/Ep1wo4yXOx
+385447554478899200  Oct  2 12:53  @Jowanza          Making ggplot2 maps like whoa #Rstats
+385448293116809216  Oct  2 12:56  @followlori       RT @cpsievert: An interactive visualization platform for interpreting textual topic models using #rstats #shiny #d3js http://bit.ly/18jz7eU
+385449551437766656  Oct  2 13:01  @genetics_blog    Software for Computing and Annotating Genomic Ranges http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003118 #Rstats #bioconductor #genomics #bioinformatics
+385450050543169536  Oct  2 13:03  @Bioinfomatic     RT @genetics_blog: Software for Computing and Annotating Genomic Ranges http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003118 #Rstats #bioconductor #genomics #bioinformatics
+385451429235662849  Oct  2 13:09  @RavineshKumar    +1 RT. Software for Computing and Annotating Genomic Ranges http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003118 … #Rstats #bioconductor #genomics #bioinformatics
+385451693103542272  Oct  2 13:10  @hadleywickham    RT @Jowanza: Making ggplot2 maps like whoa #Rstats
+385452597987250176  Oct  2 13:13  @cntalavera       RT @genetics_blog: Software for Computing and Annotating Genomic Ranges http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003118 #Rstats #bioconductor #genomics #bioinformatics
+385452814232588288  Oct  2 13:14  @srmulcahy        RT @Jowanza: Making ggplot2 maps like whoa #Rstats
+385454771802750976  Oct  2 13:22  @mattgarciablitz  RT @RLangTip: Find the list of changes in the forthcoming release of R (R-devel) here: http://bit.ly/TNcLO8 #rstats
+385461938966495232  Oct  2 13:51  @ErikJohnline     Too much #rstats, I think I’m starting to speak computer.
+385464215235862528  Oct  2 14:00  @WheelOfTruth     An interactive visualization platform for interpreting textual topic models using #rstats #shiny #d3js http://bit.ly/18jz7eU
+385464675111927808  Oct  2 14:01  @jfreels4         RT @WheelOfTruth: An interactive visualization platform for interpreting textual topic models using #rstats #shiny #d3js http://t.co/g3SADCTWu3
+385465070836125696  Oct  2 14:03  @chris_harrod     RT @TrevorABranch: New and expanded R reference card v2.0. Put it on the wall in front of your computer. #HowDidImissThis #rstats  http://t.co/clWmlPMig4
+385465346066350081  Oct  2 14:04  @DrFishSG         RT @TrevorABranch: New and expanded R reference card v2.0. Put it on the wall in front of your computer. #HowDidImissThis #rstats  http://t.co/clWmlPMig4
+385465795347632129  Oct  2 14:06  @JonathanPSadler  RT @jebyrnes: GLMM can detect unimodal species-environment relationships http://bit.ly/GzO4zf with #rstats code Excellent paper
+385465799474823168  Oct  2 14:06  @WildaboutBrum    RT @jebyrnes: GLMM can detect unimodal species-environment relationships http://bit.ly/GzO4zf with #rstats code Excellent paper
+385467370401050624  Oct  2 14:12  @TrevorABranch    Our grads voted R programming the single most useful @UW_SAFS grad class. #rstats (My "Beautiful R Graphics" also mentioned by many.)
+385467977878872064  Oct  2 14:15  @TrevorABranch    Eight out of ten of the *fisheries* courses voted most useful by our @UW_SAFS grads, are stats, modelling, or programming classes. #rstats
+385470424823255040  Oct  2 14:24  @oceansresearch   any plan to turn your #rstats course into a MOOC @TrevorABranch @uw_safs? We'd love to take "Beautiful R Graphics"
+385470658487910401  Oct  2 14:25  @recology_        check out the new rnoaa startup message, i think you'll like it = install_github("rnoaa", "ropensci"); library(rnoaa) / #rstats @noaa
+385471267626688512  Oct  2 14:28  @statsforbios     A decent, #oa overview of machine learning in biology. Has short guide to useful #Rstats functions too. http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.0030116
+385471386598133761  Oct  2 14:28  @kevin_ushey      RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385472175995490304  Oct  2 14:31  @Jowanza          RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+385472580976902144  Oct  2 14:33  @BrockTibert      @JonBoeckenstedt Do you know where I can get my hands on a demo of Tableau 8.1?  I want to try play around with the #rstats integration
+385474676081700864  Oct  2 14:41  @Rbloggers        First day of State of Food Insecurity (SOFI) 2013:  (This article was first published on   StaTEAsti... http://bit.ly/18PvUUB #rstats
+385474987575881728  Oct  2 14:42  @chris_harrod     one for @QUBFoodProf RT @Rbloggers: First day of State of Food Insecurity (SOFI) 2013: http://bit.ly/18PvUUB #rstats
+385478376859119616  Oct  2 14:56  @johnb30          RT @polimath: New #GDELT #rstats package GDELTtools available on CRAN: http://cran.r-project.org/web/packages/GDELTtools #hackathon FTW!
+385478483335319552  Oct  2 14:56  @jscarto          RT @polimath: New #GDELT #rstats package GDELTtools available on CRAN: http://cran.r-project.org/web/packages/GDELTtools #hackathon FTW!
