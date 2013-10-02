@@ -20179,3 +20179,23 @@
 385290618203021312  Oct  2 02:30  @YvesMulkers      RT @moorejh: #datamining #bioinformatics MT @Petzoldt @drago_carlo: intro to ROC curves and classification http://freakonometrics.hypotheses.org/9066 #Rstats
 385291784231714816  Oct  2 02:34  @mvargasgarro     RT @moorejh: #datamining #bioinformatics MT @Petzoldt @drago_carlo: intro to ROC curves and classification http://freakonometrics.hypotheses.org/9066 #Rstats
 385293921728749568  Oct  2 02:43  @idigdata         Tableau 8.1 Beta & R Part 1 http://bit.ly/1c36GVV #tableau #rstats via @idigdata
+385300632699428864  Oct  2 03:10  @GregKapfhammer   Well, maybe #rstats or #python is enough! See: "Don't use Hadoop - your data isn't that big" http://j.mp/15NqEQF
+385302686616154112  Oct  2 03:18  @onlyonestepaway  RT @GregKapfhammer: Well, maybe #rstats or #python is enough! See: "Don't use Hadoop - your data isn't that big" http://j.mp/15NqEQF
+385309881231634432  Oct  2 03:46  @hjms             RT @Petzoldt: Good intro to ROC curve “@drago_carlo: ROC curves and classification http://freakonometrics.hypotheses.org/9066 #Rstats”
+385322928084357120  Oct  2 04:38  @elige_ar         RT @statisticsblog: R tip of the day - ROC curves, their interpretations and classification. http://i.cx/18oBQ67 #r #rstats
+385326888182628352  Oct  2 04:54  @chriswright89    RT @GregKapfhammer: Well, maybe #rstats or #python is enough! See: "Don't use Hadoop - your data isn't that big" http://j.mp/15NqEQF
+385332665357836289  Oct  2 05:17  @joloml           RT @jmgomez: Using Datumbox #API with #Python and R languages | @DatumBox http://ow.ly/pnuX7 #rstats #textmining #nlproc
+385336025318707200  Oct  2 05:30  @gknoProject      RT @moorejh: #datamining #bioinformatics MT @Petzoldt @drago_carlo: intro to ROC curves and classification http://freakonometrics.hypotheses.org/9066 #Rstats
+385346368547463168  Oct  2 06:11  @dataJujitsu      Am I really the only #Rstats user in medical statistics?
+385353086912319488  Oct  2 06:38  @monsoontrader    Most likely RT @dataJujitsu: Am I really the only #Rstats user in medical statistics?
+385354223837138944  Oct  2 06:43  @monsoontrader    Quantile modelling on Likert data? I think someone is taking the piss. #rstats
+385362150035714048  Oct  2 07:14  @Rbloggers        The Uncertainty of Predictions:  (This article was first published on   Statistical Research » R, an... http://bit.ly/17rGi4q #rstats
+385364814047870976  Oct  2 07:25  @Jaspersoft       RT @datennutzen: Webinar: Wie Sie @Jaspersoft #BI mit #Rstats für #DataMining und #Analytics erweitern http://eoda.de/index.php/de/aktuelle-informationen-ii.html
+385364953701814272  Oct  2 07:25  @jmgomez          RT @ngamita: MongoDB Export to JSON/CSV , getting data ready for #rstats http://goo.gl/d5IHNM #datamining
+385367495928197120  Oct  2 07:35  @pschulam         RT @RLangTip: How R finds variables used in statistical models: http://bit.ly/TN15uC #rstats
+385368056043937792  Oct  2 07:37  @rbrito71         RT @idigdata: Tableau 8.1 Beta & R Part 1 http://bit.ly/1c36GVV #tableau #rstats via @idigdata
+385375909298970624  Oct  2 08:09  @dseverski        RT @idigdata: Tableau 8.1 Beta & R Part 1 http://bit.ly/1c36GVV #tableau #rstats via @idigdata
+385378091343704064  Oct  2 08:17  @VizCandy         RT @idigdata: Tableau 8.1 Beta & R Part 1 http://bit.ly/1c36GVV #tableau #rstats via @idigdata
+385378444923510784  Oct  2 08:19  @Ajenstat         RT @idigdata: Tableau 8.1 Beta & R Part 1 http://bit.ly/1c36GVV #tableau #rstats via @idigdata
+385384401648893952  Oct  2 08:42  @eoinbrazil       Next Tues I'll talk on Intro to Machine Learning with #rstats last push as I want to see if a larger room is needed http://www.meetup.com/DublinR/events/139262702/
+385386280936165377  Oct  2 08:50  @np_jiang         RT @statisticsblog: Perform a function on multiple files in R. http://i.cx/197A0tb #r #rstats
