@@ -20307,3 +20307,20 @@
 385656171975045120  Oct  3 02:42  @Zementis         R #PMML support just got better. For details see: http://bit.ly/17t3SxX http://lnkd.in/bs6ccSD #rstats #bigdata #datamining
 385656210525286400  Oct  3 02:43  @BioFares         RT @Zementis: R #PMML support just got better. For details see: http://bit.ly/17t3SxX http://lnkd.in/bs6ccSD #rstats #bigdata #datamining
 385660383563767809  Oct  3 02:59  @cmsprs           RT @Zementis: R #PMML support just got better. For details see: http://bit.ly/17t3SxX http://lnkd.in/bs6ccSD #rstats #bigdata #datamining
+385677196364226560  Oct  3 04:06  @MarleeTucker     A big thank you @ecostats and team. Its been an informative and stats packed couple of days. Now to do some analysing. #rstats
+385682628684177408  Oct  3 04:27  @PastelBio        RT @genetics_blog: customProDB: #Rstats pkg to generate customized protein databases from RNA-Seq data for #proteomics search http://t.co/Ep1wo4yXOx
+385701461444673536  Oct  3 05:42  @trentyarwood     Embracing my inner:  #rstats  #infectioncontrol  #public health &   #OpenScience nerds, all at once! http://t.co/ahWkOiUoPd
+385707034517049344  Oct  3 06:04  @fcastanedo       http://www.wiseathena.com is looking for Maths/Physics/Stats/Eng grad students in #Madrid  with #Rstats and #MachineLearning know-how
+385709631701409792  Oct  3 06:15  @fcastanedo       Eres estudiante/fresh grad de Maths/Stats/Physics en #Madrid sabes #Rstats y te apasionan los retos: http://bit.ly/18SLBsn
+385709803164946432  Oct  3 06:15  @AhmedMoustafa    @mrrizkallah @mrrizkallah Deploying it on @rstudioapp #Shiny worked like a charm :) #rstats
+385714125500076032  Oct  3 06:33  @mrrizkallah      RT @AhmedMoustafa: @mrrizkallah @mrrizkallah Deploying it on @rstudioapp #Shiny worked like a charm :) #rstats
+385718340712275968  Oct  3 06:49  @kwbroman         RT @raphg: We’re hiring, 2 positions: 1) postdoc in computational statistics/biology and 2) bioinformatician. #rstats #immunology #singlecell. Email us
+385731339648917504  Oct  3 07:41  @MangoTheCat      NewJerseyR user group meeting 22 OCT in Iselin http://www.newjerseyr.org  great lineup, all welcome  #rstats
+385736024485134336  Oct  3 08:00  @statisticsblog   R tip of the day - creating fractals with R. http://i.cx/16ZvrdY #r #rstats #fractals
+385736247487909888  Oct  3 08:01  @adolfoalvarez    RT @fcastanedo: Eres estudiante/fresh grad de Maths/Stats/Physics en #Madrid sabes #Rstats y te apasionan los retos: http://bit.ly/18SLBsn
+385736623889330176  Oct  3 08:02  @medialurker      RT @statisticsblog: R tip of the day - creating fractals with R. http://i.cx/16ZvrdY #r #rstats #fractals
+385737929814835200  Oct  3 08:07  @kylehamilton     My experience at #ucmerced was where I was first shown #rstats please help other students in need #ucpromise http://promises.promiseforeducation.org/kylehamilton
+385740526861185024  Oct  3 08:18  @jewsforjets      RT @statisticsblog: R tip of the day - creating fractals with R. http://i.cx/16ZvrdY #r #rstats #fractals
+385741868660953088  Oct  3 08:23  @ilthea           RT @fcastanedo: Eres estudiante/fresh grad de Maths/Stats/Physics en #Madrid sabes #Rstats y te apasionan los retos: http://bit.ly/18SLBsn
+385745470632378368  Oct  3 08:37  @statsforbios     Why use TRUE/FALSE and not T/F in #RStats? > x<-1:2 > x[c(T,F)] [1] 1 > F<-TRUE > x[c(T,F)] [1] 1 2
+385746574498070528  Oct  3 08:42  @kevinkeenan_     RT @statsforbios: Why use TRUE/FALSE and not T/F in #RStats? > x<-1:2 > x[c(T,F)] [1] 1 > F<-TRUE > x[c(T,F)] [1] 1 2
