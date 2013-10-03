@@ -20324,3 +20324,87 @@
 385741868660953088  Oct  3 08:23  @ilthea           RT @fcastanedo: Eres estudiante/fresh grad de Maths/Stats/Physics en #Madrid sabes #Rstats y te apasionan los retos: http://bit.ly/18SLBsn
 385745470632378368  Oct  3 08:37  @statsforbios     Why use TRUE/FALSE and not T/F in #RStats? > x<-1:2 > x[c(T,F)] [1] 1 > F<-TRUE > x[c(T,F)] [1] 1 2
 385746574498070528  Oct  3 08:42  @kevinkeenan_     RT @statsforbios: Why use TRUE/FALSE and not T/F in #RStats? > x<-1:2 > x[c(T,F)] [1] 1 > F<-TRUE > x[c(T,F)] [1] 1 2
+385754207782850561  Oct  3 09:12  @joshua_ulrich    Check if a #rstats object is a certain type of vector: x=1:9 is.vector(x, "numeric") # TRUE int is 'numeric' is.vector(x, "double") # FALSE
+385761451001909248  Oct  3 09:41  @wayoutmind       RT @joshua_ulrich: Check if a #rstats object is a certain type of vector: x=1:9 is.vector(x, "numeric") # TRUE int is 'numeric' is.vector(x, "double") # FALSE
+385766982575861760  Oct  3 10:03  @jdtonkin         Does anyone know how to pick variable names from a separate compiled table column to use for inserting in a loop for sep analysis? #Rstats
+385767351829819392  Oct  3 10:04  @jdtonkin         2/2 The separate analysis is a glm and i need the dep and indep vals to be read from the same row in separate table...  #Rstats
+385768776350048256  Oct  3 10:10  @RickWicklin      Awesome! Here's a #SAS version: http://blogs.sas.com/content/iml/2012/12/12/iterated-function-systems-and-barnsleys-fern-in-sas/ MT @statisticsblog: creating #fractals with R. http://i.cx/16ZvrdY #rstats
+385776820366237697  Oct  3 10:42  @Jowanza          OH: "R is not like excel, dudes are building web pages with R."  #Rstats
+385777283241226240  Oct  3 10:44  @hadleywickham    RT @kevin_ushey: Using #rstats and #shiny together makes me feel like a kid in a candy store. So much fun to be had, so many cool things to do.
+385777995106877440  Oct  3 10:46  @erikriverson     RT @kevin_ushey: Using #rstats and #shiny together makes me feel like a kid in a candy store. So much fun to be had, so many cool things to do.
+385778819598393345  Oct  3 10:50  @HadoopDaily      Interested in R, #BigData and #Hadoop? Don't miss webinar with @RevolutionR and @cloudera tomorrow: http://bit.ly/1559zBb #rstats
+385778985348923392  Oct  3 10:50  @BrockTibert      The ability to leverage #rstats to calc a value in @tableau is great, but why not create an API for dataframes + use them as a datasource
+385779241586937856  Oct  3 10:51  @mjcavaretta      Gr8 code expls. MT @RussianSphinx: @HlthAnalysis how to integrate Tableau 8.1 & R http://bit.ly/1c36GVV  #tableau #rstats via @idigdata
+385779677685899264  Oct  3 10:53  @kyeagerKSU       RT @RLangTip: Find the list of changes in the forthcoming release of R (R-devel) here: http://bit.ly/TNcLO8 #rstats
+385785601401704448  Oct  3 11:17  @RickWicklin      Sweet! #SAS customers like PMML too http://www.sas.com/news/preleases/pmml-a2012.html  MT @Zementis: #Rstats #PMML support just got better.http://bit.ly/17t3SxX
+385791290392076288  Oct  3 11:39  @kite_africa      #rstats packages that interface with data repositories, incl @GBIF, fisheries, climate | Tutorials here by @rOpenSci http://ropensci.org/tutorials/index.html
+385792578077343744  Oct  3 11:44  @marion_pfeifer   RT @kite_africa: #rstats packages that interface with data repositories, incl @GBIF, fisheries, climate | Tutorials here by @rOpenSci http://t.co/ASMt94COKY
+385792651733127168  Oct  3 11:45  @timelyportfolio  quick video demo combining #rstats with #d3js tool from @densitydesign http://youtu.be/TfQXQAZIQ6s
+385797829907980289  Oct  3 12:05  @johnb30          Blog post about the GDELTtools #rstats package is up: https://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/. Thanks to @polimath! #GDELT
+385797905145401344  Oct  3 12:06  @RLangTip         Use "deriv" to create a function that returns the derivative and hessian of a symbolic expression: http://bit.ly/RE2H6l #rstats
+385798416107728896  Oct  3 12:08  @griverorz        RT @johnb30: Blog post about the GDELTtools #rstats package is up: https://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/. Thanks to @polimath! #GDELT
+385799225084104705  Oct  3 12:11  @Jowanza          Gotta say with the work by @ramnath_vaidya @hadleywickham and others, #Rstats is hard to beat for creating amazing #dataviz
+385799954889179136  Oct  3 12:14  @HarlanH          RT @Jowanza: Gotta say with the work by @ramnath_vaidya @hadleywickham and others, #Rstats is hard to beat for creating amazing #dataviz
+385800763739361280  Oct  3 12:17  @ngamita          RT @Jowanza: Gotta say with the work by @ramnath_vaidya @hadleywickham and others, #Rstats is hard to beat for creating amazing #dataviz
+385801720564940800  Oct  3 12:21  @StatsInTheWild   RT @Jowanza: Gotta say with the work by @ramnath_vaidya @hadleywickham and others, #Rstats is hard to beat for creating amazing #dataviz
+385802706624868352  Oct  3 12:25  @alexhanna        GDELTtools -- #rstats package for downloading, subsetting, and normalizing #GDELT http://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/
+385802746214875136  Oct  3 12:25  @RevolutionR      RT @Zementis: R #PMML support just got better. For details see: http://bit.ly/17t3SxX http://lnkd.in/bs6ccSD #rstats #bigdata #datamining
+385802784185937920  Oct  3 12:25  @polimath         RT @johnb30: Blog post about the GDELTtools #rstats package is up: https://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/. Thanks to @polimath! #GDELT
+385802884912140289  Oct  3 12:25  @cskovron         RT @alexhanna: GDELTtools -- #rstats package for downloading, subsetting, and normalizing #GDELT http://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/
+385803301825957888  Oct  3 12:27  @timelyportfolio  RT @Jowanza: Gotta say with the work by @ramnath_vaidya @hadleywickham and others, #Rstats is hard to beat for creating amazing #dataviz
+385803545007513600  Oct  3 12:28  @darinself        Are IR scholars too theoretical? % of articles having Analytic/Non-formal methodology in Top IR Journals. #Rstats http://t.co/sElsHiyiOp
+385803761983037440  Oct  3 12:29  @rOpenSci         [Blog] A new tutorials setup on our website #rstats #openscience #opendata  http://bit.ly/1fLOWAU
+385803775576776704  Oct  3 12:29  @recology_        RT @rOpenSci: [Blog] A new tutorials setup on our website #rstats #openscience #opendata  http://bit.ly/1fLOWAU
+385804434611372032  Oct  3 12:31  @jdtonkin         Go to office on public holiday, play with #rstats all day to automate something I could do manually and achieve nothing... #average
+385804859498172417  Oct  3 12:33  @VickySchneiderG  RT @rOpenSci: [Blog] A new tutorials setup on our website #rstats #openscience #opendata  http://bit.ly/1fLOWAU
+385805339204915201  Oct  3 12:35  @mjcavaretta      Interesting! Papers? RT @johnb30: Blog about GDELTtools #rstats package https://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/. Thanks to @polimath! #GDELT
+385806611824279553  Oct  3 12:40  @andrewheiss      Oh man, this is so cool. A new #rstats package for dealing with GDELT data http://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/
+385806616131821568  Oct  3 12:40  @siah             Holly awesomeness of the day "Voronoi Treemaps in R" http://ow.ly/pqIGc #rstats
+385806684590845952  Oct  3 12:40  @dougmcneall      Great. My #Rstats code downloaded data from a US gvmt website, to always be up to date/robust. Smooth move, genius. http://governmentshutdown.noaa.gov/
+385806812433625088  Oct  3 12:41  @brianohoro       RT @Zementis: R #PMML support just got better. For details see: http://bit.ly/17t3SxX http://lnkd.in/bs6ccSD #rstats #bigdata #datamining
+385807116553830400  Oct  3 12:42  @infixum          RT @siah: Holly awesomeness of the day "Voronoi Treemaps in R" http://ow.ly/pqIGc #rstats
+385808024566128642  Oct  3 12:46  @ThePigLA         RT @siah: Holly awesomeness of the day "Voronoi Treemaps in R" http://ow.ly/pqIGc #rstats
+385809405096108032  Oct  3 12:51  @p_barbera        RT @alexhanna: GDELTtools -- #rstats package for downloading, subsetting, and normalizing #GDELT http://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/
+385810391441235968  Oct  3 12:55  @revodavid        .@revojoe reports in from #dataweek - 6 lightning talks on R http://bit.ly/GBcl8t #rstats  cc @brandewinder @clarkfitzg #rstats
+385810662363901952  Oct  3 12:56  @clarkfitzg       RT @revodavid: .@revojoe reports in from #dataweek - 6 lightning talks on R http://bit.ly/GBcl8t #rstats  cc @brandewinder @clarkfitzg #rstats
+385810941797220352  Oct  3 12:57  @redsharkgroup    RT @revodavid: .@revojoe reports in from #dataweek - 6 lightning talks on R http://bit.ly/GBcl8t #rstats  cc @brandewinder @clarkfitzg #rstats
+385811099289157632  Oct  3 12:58  @rrichard09       RT @alexhanna: GDELTtools -- #rstats package for downloading, subsetting, and normalizing #GDELT http://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/
+385811392063762432  Oct  3 12:59  @RoyWilds         RT @Zementis: R #PMML support just got better. For details see: http://bit.ly/17t3SxX http://lnkd.in/bs6ccSD #rstats #bigdata #datamining
+385812355747438592  Oct  3 13:03  @chlalanne        RT @revodavid: .@revojoe reports in from #dataweek - 6 lightning talks on R http://bit.ly/GBcl8t #rstats  cc @brandewinder @clarkfitzg #rstats
+385813434874757120  Oct  3 13:07  @chlalanne        RT @siah: Holly awesomeness of the day "Voronoi Treemaps in R" http://ow.ly/pqIGc #rstats
+385814193074495488  Oct  3 13:10  @duke_data        RT @andrewheiss: Oh man, this is so cool. A new #rstats package for dealing with GDELT data http://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/
+385815263305670656  Oct  3 13:15  @brandewinder     RT @revodavid: .@revojoe reports in from #dataweek - 6 lightning talks on R http://bit.ly/GBcl8t #rstats  cc @brandewinder @clarkfitzg #rstats
+385817448433586177  Oct  3 13:23  @densitydesign    Nice! RT @timelyportfolio: quick video demo combining #rstats with #d3js tool from @densitydesign http://youtu.be/TfQXQAZIQ6s #RAW
+385817588607221760  Oct  3 13:24  @pciuccarelli     RT @densitydesign: Nice! RT @timelyportfolio: quick video demo combining #rstats with #d3js tool from @densitydesign http://youtu.be/TfQXQAZIQ6s #RAW
+385818607331966976  Oct  3 13:28  @ramnath_vaidya   @Jowanza Thanks! @hadleywickham has set the standards really high, and so from hereon #rstats viz is only going to get better and better!
+385823988045602816  Oct  3 13:49  @kdnuggets        Data Science with R: Getting Started with Rattle - a survival guide (free) #rstats #DataMining http://bit.ly/1bAqFZr
+385824601751977984  Oct  3 13:52  @BigDataGal       Environmental Geospatial Statistics of Zaatari Refugee Camp #Syria #Rstats #GIS http://ow.ly/ptaRC by Lillian Pierson @StatisticsViews
+385824602729250816  Oct  3 13:52  @LillianPierson   Environmental Geospatial Statistics of Zaatari Refugee Camp #Syria #Rstats #GIS http://ow.ly/ptbNK by Lillian Pierson @StatisticsViews
+385824603815555072  Oct  3 13:52  @TheFreedomCoop   Environmental Geospatial Statistics of Zaatari Refugee Camp #Syria #Rstats #GIS http://ow.ly/ptbNQ by Lillian Pierson @StatisticsViews
+385824698136670209  Oct  3 13:52  @SyriaTweetEn     RT @TheFreedomCoop: Environmental Geospatial Statistics of Zaatari Refugee Camp #Syria #Rstats #GIS http://ow.ly/ptbNQ by Lillian Pierson @StatisticsViews
+385824702733623297  Oct  3 13:52  @SyriaTweetEn     RT @LillianPierson: Environmental Geospatial Statistics of Zaatari Refugee Camp #Syria #Rstats #GIS http://ow.ly/ptbNK by Lillian Pierson @StatisticsViews
+385824704860127232  Oct  3 13:52  @SyriaTweetEn     RT @BigDataGal: Environmental Geospatial Statistics of Zaatari Refugee Camp #Syria #Rstats #GIS http://ow.ly/ptaRC by Lillian Pierson @StatisticsViews
+385824889162432512  Oct  3 13:53  @Popher           RT @kdnuggets: Data Science with R: Getting Started with Rattle - a survival guide (free) #rstats #DataMining http://bit.ly/1bAqFZr
+385825579842273281  Oct  3 13:56  @Indyradmama      RT @LillianPierson: Environmental Geospatial Statistics of Zaatari Refugee Camp #Syria #Rstats #GIS http://ow.ly/ptbNK by Lillian Pierson @StatisticsViews
+385825766421700608  Oct  3 13:56  @renesugar        RT @LillianPierson: Environmental Geospatial Statistics of Zaatari Refugee Camp #Syria #Rstats #GIS http://ow.ly/ptbNK by Lillian Pierson @StatisticsViews
+385827223124455424  Oct  3 14:02  @tonyfujs         RT @kdnuggets: Data Science with R: Getting Started with Rattle - a survival guide (free) #rstats #DataMining http://bit.ly/1bAqFZr
+385827567275884544  Oct  3 14:03  @koolkaps         RT @densitydesign: Nice! RT @timelyportfolio: quick video demo combining #rstats with #d3js tool from @densitydesign http://youtu.be/TfQXQAZIQ6s #RAW
+385827785756770304  Oct  3 14:04  @monkeyonahill    RT @kdnuggets: Data Science with R: Getting Started with Rattle - a survival guide (free) #rstats #DataMining http://bit.ly/1bAqFZr
+385830227974189056  Oct  3 14:14  @eddelbuettel     New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385830427262324736  Oct  3 14:15  @misternaxal      RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385830783627575296  Oct  3 14:16  @geospacedman     RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385830833543602176  Oct  3 14:16  @recology_        RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385830833572950016  Oct  3 14:16  @rOpenSci         RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385830976720764928  Oct  3 14:17  @geospacedman     @eddelbuettel #rstats nice, have wanted one of those for ages. Have some additions...
+385833305188626432  Oct  3 14:26  @HarlanH          RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385833893569363968  Oct  3 14:29  @rmflight         RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385836817473228801  Oct  3 14:40  @andyteucher      RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385837323629248513  Oct  3 14:42  @kevin_ushey      RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385837702002003968  Oct  3 14:44  @millerdl         RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385837850358345728  Oct  3 14:44  @chasetsc         RT @Zementis: R #PMML support just got better. For details see: http://bit.ly/17t3SxX http://lnkd.in/bs6ccSD #rstats #bigdata #datamining
+385838191221014528  Oct  3 14:46  @BoydtoAmuse      Chilling with @RevolutionR during their webinar. ASK BIGGER QUESTIONS AND GET BETTER FASTER ANSWERS #rstats #hadoop #data #questions
+385838704507383808  Oct  3 14:48  @noamross         RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385838858941640704  Oct  3 14:48  @noamross         Good work @rOpenSci! RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385839031923523584  Oct  3 14:49  @kdnuggets        Great example of a smart algorithm - finding the most "Concave" state in the US using R #rstats http://bit.ly/GBwLO1
+385839508236677120  Oct  3 14:51  @BMMillsy         #rstats is currently giving me fits :-(. Do not want to impute data manually, darn it!
+385840874523201536  Oct  3 14:56  @CregVanEtten     RT @kdnuggets: Great example of a smart algorithm - finding the most "Concave" state in the US using R #rstats http://bit.ly/GBwLO1
