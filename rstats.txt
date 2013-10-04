@@ -20453,3 +20453,17 @@
 385909743740403712  Oct  3 19:30  @LinearModel      Whew, teaching linear models is hard! It's a worthwhile effort though- everyone should know about the wonders of model matrices! #rstats
 385920894821863424  Oct  3 20:14  @databiologist    proof that some #python things are irreplaceably awesome: R libraries optparse and argparse #rstats
 385927357942333440  Oct  3 20:40  @jfreels4         RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+385940290852622336  Oct  3 21:31  @craigbeebe       R is tough. Trying to discern difference between () and []. #rstats
+385940542447943680  Oct  3 21:32  @humanresearcher  RT @siah: Holly awesomeness of the day "Voronoi Treemaps in R" http://ow.ly/pqIGc #rstats
+385941183895457792  Oct  3 21:35  @GrunerDaniel     @LinearModel huh, I was thinking you make it look easy! #rstats
+385949330210705408  Oct  3 22:07  @prisonrodeo      #GDELT and #rstats http://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/
+385950065606406144  Oct  3 22:10  @Rbloggers        The MakeR way: Using R to reify social media data via 3d printing:  (This article was first publishe... http://bit.ly/1aQ9iCI #rstats
+385961729521242113  Oct  3 22:57  @ecostats         "@MarleeTucker: A big thank you @ecostats and team. Its been an informative... #rstats" A pleasure! Feeling buggered now though...
+385993849534812160  Oct  4 01:04  @rOpenSci         & from #rstats http://bit.ly/v1wGEl MT @DJPMoore: 'Crowdsourcing' comes to the garden with @USANPN   http://bit.ly/19lRwu0 #phenology
+385999909297467392  Oct  4 01:28  @arunatma         A case for "switch" usage instead of multiple 'if's explained in this stackoverflow thread. #rstats http://stackoverflow.com/questions/7825501/switch-statement-usage
+386000234566135808  Oct  4 01:30  @DailyRpackage    tslars - Least angle regression for time series analysis http://cran.r-project.org/web/packages/tslars/index.html #RStats
+386002518385254401  Oct  4 01:39  @perisaccadic     So do #rstats graphics devices support any blend functions other than (src_alpha, 1-src_alpha)? Because that's not usually what you want.
+386003013141155840  Oct  4 01:41  @recology_        RT @arunatma: A case for "switch" usage instead of multiple 'if's explained in this stackoverflow thread. #rstats http://stackoverflow.com/questions/7825501/switch-statement-usage
+386006168738344960  Oct  4 01:53  @svincenzi        RT @arunatma: A case for "switch" usage instead of multiple 'if's explained in this stackoverflow thread. #rstats http://stackoverflow.com/questions/7825501/switch-statement-usage
+386009325946552320  Oct  4 02:06  @_NickGolding_    RT @arunatma: A case for "switch" usage instead of multiple 'if's explained in this stackoverflow thread. #rstats http://stackoverflow.com/questions/7825501/switch-statement-usage
+386017342515585024  Oct  4 02:38  @MuntagMarton     RT @kdnuggets: Data Science with R: Getting Started with Rattle - a survival guide (free) #rstats #DataMining http://bit.ly/1bAqFZr
