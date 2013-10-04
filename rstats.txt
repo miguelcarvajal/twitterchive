@@ -20467,3 +20467,24 @@
 386006168738344960  Oct  4 01:53  @svincenzi        RT @arunatma: A case for "switch" usage instead of multiple 'if's explained in this stackoverflow thread. #rstats http://stackoverflow.com/questions/7825501/switch-statement-usage
 386009325946552320  Oct  4 02:06  @_NickGolding_    RT @arunatma: A case for "switch" usage instead of multiple 'if's explained in this stackoverflow thread. #rstats http://stackoverflow.com/questions/7825501/switch-statement-usage
 386017342515585024  Oct  4 02:38  @MuntagMarton     RT @kdnuggets: Data Science with R: Getting Started with Rattle - a survival guide (free) #rstats #DataMining http://bit.ly/1bAqFZr
+386025805207191553  Oct  4 03:11  @Rbloggers        Questions on my online forecasting course:  (This article was first published on   Hyndsight » R, an... http://bit.ly/1cbniec #rstats
+386042411962474496  Oct  4 04:17  @MangoTheCat      Quote of the day "“R grows because people are building and sharing” #rstats
+386043275359956992  Oct  4 04:21  @comeetie         RT @eddelbuettel: New and nicely comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats
+386044870546059264  Oct  4 04:27  @RobKnell1        Online population ecology models now with two infectious disease models #shiny #rstats http://87.117.69.131:3838/Ecology_models/
+386049812979658753  Oct  4 04:47  @msgbi            RT @siah: This old blog has so many useful material "Statistics for all" http://ow.ly/pryam #rstats
+386052371484135425  Oct  4 04:57  @monsoontrader    RT @RobKnell1: Online population ecology models now with two infectious disease models #shiny #rstats http://87.117.69.131:3838/Ecology_models/
+386056086236581888  Oct  4 05:11  @rastrau          paste("String concatenation", "is", "too complicated in #rstats, but powerful.", sep=" ")
+386071099269586945  Oct  4 06:11  @monsoontrader    Apart from Bates' unfinished book any #rstats people got good refs for interpreting profile pairs plots from lme4?
+386071746584907777  Oct  4 06:14  @cloudHPC         connecting to the #bigdata #jumbodb database with #rstats https://github.com/comsysto/jumbodb-Rpkg
+386072083903430657  Oct  4 06:15  @chrishanretty    Geeky #rstats cry for help: anyone know a way to estimate a parametric proportional hazards model with time-varying covariates? no joy w/eha
+386072760427896832  Oct  4 06:18  @philipjcowley    RT @chrishanretty: Geeky #rstats cry for help: anyone know a way to estimate a parametric proportional hazards model with time-varying covariates? no joy w/eha
+386082429427257344  Oct  4 06:56  @jjgibaja         Los alumnos del MUDE de @deusto ya tienen #rstats instalado en sus ordenadores. ¡Ahora a analizar datos!
+386083733998411776  Oct  4 07:01  @anbusch          @chrishanretty While you’re waiting for the solution to the #rstats problem: what about #Berlusconi? Critical juncture for him, or comeback?
+386091356021481475  Oct  4 07:32  @cloudHPC         creating #rstats presentations with @rstudioapp is sensational. will use it for #MongoDBDays in #Munich http://www.mongodb.com/events/mongodb-munich-2013
+386093688646303744  Oct  4 07:41  @craigbeebe       This is awesome. Thank you. Gonna get this #rstats thing! RT @recology_ @craigbeebe this may be helpful http://bit.ly/19lRlPk
+386096231933423616  Oct  4 07:51  @monsoontrader    On close inspection it appears swans like seagrass. #rstats
+386098688612777985  Oct  4 08:01  @cloudHPC         Check out my #rstats and #mongodb session @MongoDB Munich in less than 14 days: http://bit.ly/16rwYZU. 25% off w/Speaker25
+386105155956903936  Oct  4 08:26  @eddelbuettel     For those in Hyde Park: I'll talk Rcpp / RcppArmadillo at Booth / U of C in Harper C08 from 2pm to 4pm today. #rstats #rcpp
+386105956012421120  Oct  4 08:30  @pgalpern         RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+386112590721466368  Oct  4 08:56  @monsoontrader    RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
+386113297763672065  Oct  4 08:59  @AriBFriedman     RT @eddelbuettel: For those in Hyde Park: I'll talk Rcpp / RcppArmadillo at Booth / U of C in Harper C08 from 2pm to 4pm today. #rstats #rcpp
