@@ -20488,3 +20488,60 @@
 386105956012421120  Oct  4 08:30  @pgalpern         RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
 386112590721466368  Oct  4 08:56  @monsoontrader    RT @RLangTip: Google's style guide for R programmers: http://bit.ly/unTY2g #rstats
 386113297763672065  Oct  4 08:59  @AriBFriedman     RT @eddelbuettel: For those in Hyde Park: I'll talk Rcpp / RcppArmadillo at Booth / U of C in Harper C08 from 2pm to 4pm today. #rstats #rcpp
+386114558193963008  Oct  4 09:04  @cloudHPC         #rmongodb package removed from #CRAN #rstats )-:
+386115090878967808  Oct  4 09:06  @vinayakh         What's the Most "Concave" State in the U.S.? Using R to Solve a Geography Puzzle http://news.rapgenius.com/Atodd-whats-the-most-concave-state-in-the-us-using-r-to-solve-a-geography-puzzle-lyrics #rstats
+386117104472059904  Oct  4 09:14  @cloudHPC         which #rstats package do you prefer: #rmongodb or #RMongo?
+386119207462518784  Oct  4 09:22  @fcastanedo       "Formula with many variables:" xnam <- paste0("x", 1:25) (fmla <- as.formula(paste("y ~ ", paste(xnam, collapse= "+")))) #RStats  #USeR
+386122160982355968  Oct  4 09:34  @mcmahok          anyone out there have experience with cluster analysis involving censored data? #rstats
+386122823833382913  Oct  4 09:37  @TommieKelly      RT @mcmahok: anyone out there have experience with cluster analysis involving censored data? #rstats
+386123162041057280  Oct  4 09:38  @yodacomplex      RT @mcmahok: anyone out there have experience with cluster analysis involving censored data? #rstats
+386123371060031488  Oct  4 09:39  @ngamita          RT @mcmahok: anyone out there have experience with cluster analysis involving censored data? #rstats
+386130328395345920  Oct  4 10:06  @sekhardrona      RT @kdnuggets: "Data Science with R: Getting Started with Rattle - a survival guide (free) #rstats #DataMining http://bit.ly/1bAqFZr"
+386130965091065857  Oct  4 10:09  @nhcooper123      RT @mcmahok: anyone out there have experience with cluster analysis involving censored data? #rstats
+386134471113580545  Oct  4 10:23  @rastrau          Just learnt: want to elegantly (gg)plot residual plots of lm() in #rstats? Look into "fortify" function.
+386134830754189312  Oct  4 10:24  @JeffHemsley      The #MakeR way: Using #rstats to reify social media data via 3d printing http://bit.ly/1a6nRRD
+386135654460977155  Oct  4 10:28  @recology_        RT @rastrau: Just learnt: want to elegantly (gg)plot residual plots of lm() in #rstats? Look into "fortify" function.
+386136955013976066  Oct  4 10:33  @randyzwitch      @benjamingaines Can you or someone write down the 4-5 use cases that the real-time API provides? Having a hard time coding for #rstats
+386141010612346881  Oct  4 10:49  @bill_jacobs      @gkm1 of #alteryx takes keynote stage at CU #LeedsAnalytics conference #analytics #bigdata #rstats #revolutionanalytics
+386142294056775680  Oct  4 10:54  @bill_jacobs      The "moneyballing" of many industries - @gkm1. #LeedsAnalytics #rstats @alteryx #analytics #bigdata
+386142615688597505  Oct  4 10:55  @alteryx          RT @bill_jacobs: @gkm1 of #alteryx takes keynote stage at CU #LeedsAnalytics conference #analytics #bigdata #rstats #revolutionanalytics
+386142942034796544  Oct  4 10:57  @MCanalytics      RT @bill_jacobs: @gkm1 of #alteryx takes keynote stage at CU #LeedsAnalytics conference #analytics #bigdata #rstats #revolutionanalytics
+386143070267244547  Oct  4 10:57  @MCanalytics      RT @bill_jacobs: The "moneyballing" of many industries - @gkm1. #LeedsAnalytics #rstats @alteryx #analytics #bigdata
+386143751783346176  Oct  4 11:00  @PageViral        RT @bill_jacobs: The "moneyballing" of many industries - @gkm1. #LeedsAnalytics #rstats @alteryx #analytics #bigdata
+386146843832221697  Oct  4 11:12  @bill_jacobs      "democratizing data" @gkmq1 at #leedsanalytics #rstats @alteryx @revolutionR #analytics #bigdata
+386147753371258881  Oct  4 11:16  @bill_jacobs      strategy can't be guided solely by qualitative thinking.  strategy & analytics need to converge.  @gkm1 #leedsanalytics #rstats #analytics
+386148180892463104  Oct  4 11:17  @RevolutionR      RT @gdequeiroz: R Summit @dataweeksf: Panel Discussion w/@DataSong,@RevolutionR, @A9com,@BlueShieldCA & @revodavid.#dataweek #rstats http://t.co/YUYY2OU045
+386148438380789761  Oct  4 11:18  @bill_jacobs      @gkm1 @alteryx "Under 200K true data scientists in the world today - big limiter at #leedsanalytics @revolutionR #rstats #analytics
+386148984256864257  Oct  4 11:21  @kenniajin        OpenCPU: producing and reproducing results. http://opencpu.org #rstats via @OpenCPU
+386149166923001856  Oct  4 11:21  @ramnath_vaidya   How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386149540979412993  Oct  4 11:23  @TJO_datasci      RT @gdequeiroz: R Summit @dataweeksf: Panel Discussion w/@DataSong,@RevolutionR, @A9com,@BlueShieldCA & @revodavid.#dataweek #rstats http://t.co/YUYY2OU045
+386150084419010561  Oct  4 11:25  @RevolutionR      RT @bill_jacobs: "democratizing data" @gkmq1 at #leedsanalytics #rstats @alteryx @RevolutionR #analytics #bigdata
+386150116916490240  Oct  4 11:25  @RevolutionR      RT @bill_jacobs: @gkm1 @alteryx "Under 200K true data scientists in the world today - big limiter at #leedsanalytics @RevolutionR #rstats...
+386150533624774656  Oct  4 11:27  @RevolutionR      RT @bill_jacobs: Charles Ince speaking on sockal data for analytics at #leedsanalytics @RevolutionR #rstats @hackathorn #analytics #bigdata
+386150557552898048  Oct  4 11:27  @kyle_e_walker    RT @ramnath_vaidya: How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386150612951658496  Oct  4 11:27  @PageViral        RT @bill_jacobs: "democratizing data" @gkmq1 at #leedsanalytics #rstats @alteryx @revolutionR #analytics #bigdata
+386150624716664832  Oct  4 11:27  @PageViral        RT @bill_jacobs: @gkm1 @alteryx "Under 200K true data scientists in the world today - big limiter at #leedsanalytics @revolutionR #rstats #analytics
+386150850298920960  Oct  4 11:28  @eparkerstephen   RT @ramnath_vaidya: How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386151469994766336  Oct  4 11:30  @CWBadger12       RT @bill_jacobs: "democratizing data" @gkmq1 at #leedsanalytics #rstats @alteryx @revolutionR #analytics #bigdata
+386152723533406208  Oct  4 11:35  @RichardFergie    Looking for a nonparametric test for conditional independence. Preferably one that is already coded in R. #rstats
+386152813249572867  Oct  4 11:36  @SarahSyrphid     I love it when a plan comes together. #rstats #ATeam
+386153992197521408  Oct  4 11:41  @chlalanne        RT @ramnath_vaidya: How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386156495307419648  Oct  4 11:50  @healthstatsdude  RT @ramnath_vaidya: How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386156674177724416  Oct  4 11:51  @mjcavaretta      Seems high? RT @RevolutionR: RT @bill_jacobs: @gkm1 @alteryx "Under 200K true data scientists in the world today" -  #leedsanalytics #rstats
+386159988206764033  Oct  4 12:04  @johnb30          ICYMI: New #GDELT posts on Arab Spring (https://gdeltblog.wordpress.com/2013/10/02/the-arab-spring-and-gdelt/) and an #rstats package (https://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/).
+386161148803821568  Oct  4 12:09  @timelyportfolio  really good guide to how #rstats #rCharts works with #d3js MT @ramnath_vaidya How #rCharts works? Part 1 http://rcharts.io/howitworks
+386166151769636864  Oct  4 12:29  @gkm1             My friend @Bill_Jacobs setting up the story for the generational shift in #Analytics #LeedsAnalytics #rstats cc' @Alteryx
+386167209619652608  Oct  4 12:33  @PageViral        RT @gkm1: My friend @Bill_Jacobs setting up the story for the generational shift in #Analytics #LeedsAnalytics #rstats cc' @Alteryx
+386168917871558656  Oct  4 12:40  @tlpinney         RT @johnb30: ICYMI: New #GDELT posts on Arab Spring (https://gdeltblog.wordpress.com/2013/10/02/the-arab-spring-and-gdelt/) and an #rstats package (https://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/).
+386171133780697088  Oct  4 12:49  @kwbroman         @ctitusbrown I was reading “R-loops” as “loops in #rstats”: Wait, what? Using loops affects my methylation pattern?
+386173268236828672  Oct  4 12:57  @jay_yonamine     RT @johnb30: ICYMI: New #GDELT posts on Arab Spring (https://gdeltblog.wordpress.com/2013/10/02/the-arab-spring-and-gdelt/) and an #rstats package (https://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/).
+386173977321689090  Oct  4 13:00  @statisticsblog   R tip of the day - Using R to reify social media data via 3d printing. http://i.cx/GCEueD #r #rstats
+386177408186867713  Oct  4 13:14  @Rbloggers        Simplicity Explained by The Author:  (This article was first published on   Timely Portfolio, and ki... http://bit.ly/18XGzwF #rstats
+386178195848167424  Oct  4 13:17  @ukituki          DataMind - free, fun and interactive way to learn #datamining in R #rstats http://sco.lt/6OHAjx cc:@dziennikarz
+386180086363586560  Oct  4 13:24  @dziennikarz      RT @ukituki: DataMind - free, fun and interactive way to learn #datamining in R #rstats http://sco.lt/6OHAjx cc:@dziennikarz
+386181243512954880  Oct  4 13:29  @stevepiccolo     Now that I am really getting the hang of plotting in #Rstats (after several years), I am amazed at its flexibility.
+386181478037458944  Oct  4 13:30  @felixhaass       Ppl, check out #rstats package GDELTtools now on CRAN for downloading & subsetting #GDELT data. Most useful! thx @johnb30 @polimath et al
+386182380803092480  Oct  4 13:33  @jay_ulfelder     RT @felixhaass: Ppl, check out #rstats package GDELTtools now on CRAN for downloading & subsetting #GDELT data. Most useful! thx @johnb30 @polimath et al
+386187245029294080  Oct  4 13:53  @CStothart        Starting to find out why calculus is useful for understanding statistics.  Also finding that #rstats is useful for understanding calculus.
+386196135791976448  Oct  4 14:28  @rOpenSci         rbison tutorial fixed http://bit.ly/GCL0Ti #rstats
+386199847209938944  Oct  4 14:43  @carlyziter       Hey there #rstats - it's been a loooong while...
