@@ -20545,3 +20545,32 @@
 386187245029294080  Oct  4 13:53  @CStothart        Starting to find out why calculus is useful for understanding statistics.  Also finding that #rstats is useful for understanding calculus.
 386196135791976448  Oct  4 14:28  @rOpenSci         rbison tutorial fixed http://bit.ly/GCL0Ti #rstats
 386199847209938944  Oct  4 14:43  @carlyziter       Hey there #rstats - it's been a loooong while...
+386204169582813184  Oct  4 15:00  @statisticsblog   R and Data Week 2013. http://i.cx/1hpQEDH @revodavid #r #rstats
+386205575681671168  Oct  4 15:05  @orlandomezquita  Using apply, sapply, lapply in R | (R news & tutorials) http://bit.ly/18XGEQS #rstats
+386206115437895681  Oct  4 15:08  @bill_jacobs      Nathan Halko, data scientists, Lee Messman CEO @ Spotright up next at #leedsanalytics to talk about social media analytics #rstats
+386206823834857472  Oct  4 15:10  @lcdutoit         #rstats dplyr now supports PostgreSQL oh yeah https://github.com/hadley/dplyr
+386207772255072256  Oct  4 15:14  @pavanmirla       RT @timelyportfolio: really good guide to how #rstats #rCharts works with #d3js MT @ramnath_vaidya How #rCharts works? Part 1 http://t.co/KwUOGEhElV
+386209178642952193  Oct  4 15:20  @timelyportfolio  RT @lcdutoit: #rstats dplyr now supports PostgreSQL oh yeah https://github.com/hadley/dplyr
+386216884057944064  Oct  4 15:50  @jullybobble      How to tame #d3js from #rstats. Thanks @ramnath_vaidya: "How #rCharts works? Part 1 http://rcharts.io/howitworks [...] @d3visualization [...]"
+386220847205081089  Oct  4 16:06  @MarkHornick      Do you connect to #OracleDatabase from R? Have you tried #ROracle? Tell us what you think https://www.surveymonkey.com/s/YKLLDHZ #RStats
+386221123249381376  Oct  4 16:07  @drdrewsteen      IT NIMBIOS workshop on modeling animal social networks - might be interesting to some of my #Rstats tweeps http://nimbios.org/workshops/WS_socialnet
+386221708836749312  Oct  4 16:10  @bryangoodrich    RT - "@eddelbuettel ... comprehensive CRAN Task View on 'Web Technologies':  http://cran.r-project.org/web/views/WebTechnologies.html #rstats" - I should add to econ section!
+386224983870935040  Oct  4 16:23  @JonKalodimos     How do you hard threshold a variance-covariance matrix? #rstats #stats http://stats.stackexchange.com/q/71934/24450?stw=2
+386225533756788736  Oct  4 16:25  @zentree          RT @ramnath_vaidya: How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386231318326956032  Oct  4 16:48  @d3visualization  RT @ramnath_vaidya: How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386231540318883840  Oct  4 16:49  @KirkDBorne       A☆W☆E☆S☆O☆M☆E! HT @Inke @DZone > 91 Tutorials to Help You Explore R http://news360.com/article/203600078 by @freakonometrics #Rstats #BigData #Analytics
+386231718446784512  Oct  4 16:49  @briancragin      RT @ramnath_vaidya: How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386232124426428416  Oct  4 16:51  @PageViral        RT @KirkDBorne: A☆W☆E☆S☆O☆M☆E! HT @Inke @DZone > 91 Tutorials to Help You Explore R http://news360.com/article/203600078 by @freakonometrics #Rstats #BigData #Analytics
+386244173281505280  Oct  4 17:39  @FoD5             RT @ramnath_vaidya: How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386246581684408320  Oct  4 17:48  @cureffi          Anyone used this #rStats circos plot package? http://cran.r-project.org/web/packages/RCircos/RCircos.pdf
+386251097511186432  Oct  4 18:06  @KirkDBorne       Good R programming resource for #DataScience:  "Bayesian Networks in R with Applications in Systems Biology" http://isbn.nu/9781461464457 #Rstats
+386256123873206272  Oct  4 18:26  @bsvingen         RT @lcdutoit: #rstats dplyr now supports PostgreSQL oh yeah https://github.com/hadley/dplyr
+386265433156124672  Oct  4 19:03  @AlejandroM2d     RT @BigDataGal: Geospatial data mining techniques described #datascience #GIS #rstats http://t.co/BqbmNFI2Gj
+386274034876293120  Oct  4 19:38  @jfreels4         RT @ramnath_vaidya: How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386278030185742336  Oct  4 19:53  @d4ny3h           RT @ramnath_vaidya: How #rCharts works? Part 1 http://rcharts.io/howitworks #rstats @d3visualization @uvCharts
+386284027444854785  Oct  4 20:17  @hadleywickham    RT @lcdutoit: #rstats dplyr now supports PostgreSQL oh yeah https://github.com/hadley/dplyr
+386285968929480704  Oct  4 20:25  @hgmnz            RT @lcdutoit: #rstats dplyr now supports PostgreSQL oh yeah https://github.com/hadley/dplyr
+386286114069561344  Oct  4 20:26  @AriBFriedman     RT @lcdutoit: #rstats dplyr now supports PostgreSQL oh yeah https://github.com/hadley/dplyr
+386287554879705088  Oct  4 20:31  @SergeyKochergan  Simplicity Explained by The Author http://www.r-bloggers.com/simplicity-explained-by-the-author/ via @rbloggers @ramnath_vaidya #rstats #rCharts #statistics #dataviz #slidify
+386288506177216512  Oct  4 20:35  @znmeb            RT @JeffHemsley: The #MakeR way: Using #rstats to reify social media data via 3d printing http://bit.ly/1a6nRRD
+386288637630894080  Oct  4 20:36  @Gliders_Coach    RT @JeffHemsley: The #MakeR way: Using #rstats to reify social media data via 3d printing http://bit.ly/1a6nRRD
