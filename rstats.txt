@@ -20582,3 +20582,7 @@
 386364008925638656  Oct  5 01:35  @davidjayharris   I'm sure this will bite me later, but I'm actually surprised with how accurately #Rstats deals with very very tiny numbers #floatingpoint
 386367748210585600  Oct  5 01:50  @Rbloggers        Loops revisited: How to rethink macros when using R:  (This article was first published on   R for P... http://bit.ly/17E0dgG #rstats
 386377416920563712  Oct  5 02:28  @jorgaf           RT @ukituki: DataMind - free, fun and interactive way to learn #datamining in R #rstats http://sco.lt/6OHAjx cc:@dziennikarz
+386386208068096000  Oct  5 03:03  @JeromyAnglim     Cool feature: Pressing F2 with cursor on function name shows source code in own tab or navigates to source in @rstudioapp #rstats
+386432043993010176  Oct  5 06:05  @aninditode       RT @kdnuggets: Great example of a smart algorithm - finding the most "Concave" state in the US using R #rstats http://bit.ly/GBwLO1
+386453419856121856  Oct  5 07:30  @monsoontrader    RT @KirkDBorne: A☆W☆E☆S☆O☆M☆E! HT @Inke @DZone > 91 Tutorials to Help You Explore R http://news360.com/article/203600078 by @freakonometrics #Rstats #BigData #Analytics
+386470764532097024  Oct  5 08:39  @cos_name         RT @hadleywickham: interview with me on capital of statistics: http://cos.name/2013/09/a-conversation-with-hadley-wickham/ (in chinese) #rstats
