@@ -20604,3 +20604,34 @@
 386561595691642881  Oct  5 14:40  @Rbloggers        Crime Against Women in India – Addressing 8 Questions Using rCharts, googleVis, and shiny:  (This ar... http://bit.ly/193dbTU #rstats
 386562628102782976  Oct  5 14:44  @BeardedBlues     #rstats for a sad state"@Rbloggers Crime Against Women in India–Addressing 8 Questions Using rCharts/googleVis/shiny http://bit.ly/193dbTU"
 386563353633488897  Oct  5 14:47  @christoper_hamm  @phylorich MLE got stuck on a local optimum. We would have missed some some cool results if we didn't go #Bayesian. #rstats.
+386573792803557377  Oct  5 15:29  @fazol            Great, Copenhagen useR meet-up with Peter Dalgaard's talk "R Core Team: Development Principles and War Stories". October 17, CPH #rstats
+386574279611277312  Oct  5 15:31  @openscience      New tutorials to help you use @rOpenSci packages http://bit.ly/1fLOWAU #rstats #openscience #opendata
+386575720622735360  Oct  5 15:36  @nickwan          RT @openscience: New tutorials to help you use @rOpenSci packages http://bit.ly/1fLOWAU #rstats #openscience #opendata
+386576244780695553  Oct  5 15:38  @MalthusJohn      RT @openscience: New tutorials to help you use @rOpenSci packages http://bit.ly/1fLOWAU #rstats #openscience #opendata
+386578260059897857  Oct  5 15:46  @alisonmarigold   RT @openscience: New tutorials to help you use @rOpenSci packages http://bit.ly/1fLOWAU #rstats #openscience #opendata
+386579035230179328  Oct  5 15:49  @eb_only1me       happy to have @Incredible_Yae back in my life #rs  we gone turn up at that dinner table when we actually make a date for it lol #rstats
+386579197906268160  Oct  5 15:50  @rOpenSci         alm now on CRAN http://bit.ly/15cPPeW #rstats library for @plosalm #altmetrics, binaries avail. soon
+386579251979251712  Oct  5 15:50  @recology_        RT @rOpenSci: alm now on CRAN http://bit.ly/15cPPeW #rstats library for @plosalm #altmetrics, binaries avail. soon
+386581679302651904  Oct  5 16:00  @kara_woo         RT @rOpenSci: alm now on CRAN http://bit.ly/15cPPeW #rstats library for @plosalm #altmetrics, binaries avail. soon
+386584732852830209  Oct  5 16:12  @ronert_obst      RT @lcdutoit: #rstats dplyr now supports PostgreSQL oh yeah https://github.com/hadley/dplyr
+386586905569021952  Oct  5 16:21  @PLOSALM          RT @rOpenSci: alm now on CRAN http://bit.ly/15cPPeW #rstats library for @plosalm #altmetrics, binaries avail. soon
+386591040678805504  Oct  5 16:37  @drkevinwood      RT @MikejMcDermott: Plotting graphs in R http://www.harding.edu/fmccown/r/ #RStats
+386592123975266304  Oct  5 16:41  @ErikJohnline     A good outline of #rstats plotting basics: http://www.harding.edu/fmccown/r/ HT @MikejMcDermott @drkevinwood
+386592506680717312  Oct  5 16:43  @craigbeebe       Great. Fills in gaps from my training in @codeschool. RT @MikejMcDermott: Plotting graphs in R http://bit.ly/17asXcx #RStats
+386592658887426049  Oct  5 16:44  @thonoir          RT @MikejMcDermott: Plotting graphs in R http://www.harding.edu/fmccown/r/ #RStats
+386593572981841920  Oct  5 16:47  @LiberTIC         RT @openscience: New tutorials to help you use @rOpenSci packages http://bit.ly/1fLOWAU #rstats #openscience #opendata
+386596864210259968  Oct  5 17:00  @jjgibaja         Pero seguimos instalando el carísimo #SPSS en vez del gratis y mucho más potente #rstats. No aprendemos.
+386597108046135296  Oct  5 17:01  @DrHaydo          Quick 'n dirty R graphs via “@MikejMcDermott: Plotting graphs in R http://www.harding.edu/fmccown/r/ #RStats”
+386598781921132544  Oct  5 17:08  @MikejMcDermott   "tapply is used to apply a function over subsets of a vector. I don’t know why it’s called tapply" At least instructor is honest! #Rstats
+386603510227144705  Oct  5 17:27  @Wagner__Markus   RT @MikejMcDermott: Plotting graphs in R http://www.harding.edu/fmccown/r/ #RStats
+386603816457875456  Oct  5 17:28  @joscani          RT @jjgibaja: Pero seguimos instalando el carísimo #SPSS en vez del gratis y mucho más potente #rstats. No aprendemos.
+386608167452295169  Oct  5 17:45  @CasalsTMarti     RT @jjgibaja: Pero seguimos instalando el carísimo #SPSS en vez del gratis y mucho más potente #rstats. No aprendemos.
+386608903762767872  Oct  5 17:48  @flyerLPA         RT @jjgibaja: Pero seguimos instalando el carísimo #SPSS en vez del gratis y mucho más potente #rstats. No aprendemos.
+386620878215053312  Oct  5 18:36  @IanDworkin       RT @openscience: New tutorials to help you use @rOpenSci packages http://bit.ly/1fLOWAU #rstats #openscience #opendata
+386632187560595456  Oct  5 19:21  @flavioclesio     RT @kdnuggets: Data Science with R: Getting Started with Rattle - a survival guide (free) #rstats #DataMining http://bit.ly/1bAqFZr
+386634751362101248  Oct  5 19:31  @aroblesr83       Using #rstats as a #GIS https://sites.google.com/site/rodriguezsanchezf/news/usingrasagis vía @frod_san
+386637506914971649  Oct  5 19:42  @Graham_Coop      RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+386643177039749120  Oct  5 20:04  @APV2600          RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+386644195491868673  Oct  5 20:08  @ramnath_vaidya   Waterfall Chart with #rCharts and @uvCharts http://rcharts.github.io/viewer/?6847603 #rstats @d3visualization http://t.co/7n6UAoqOZh
+386655986653466624  Oct  5 20:55  @wabarree         @hadleywickham curriculum for R very useful http://bit.ly/GFOJ31 - says 1:length(x) is dangerous.  Why? I do it all the time :-|  #Rstats
+386656799304482816  Oct  5 20:58  @nalyticsatwork   RT @statisticsblog: 91 nice tutorials to discover R. http://i.cx/1bloB7u #r #rstats #tutorial
