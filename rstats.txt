@@ -20642,3 +20642,14 @@
 386725011576614912  Oct  6 01:30  @DailyRpackage    dataone - DataONE R Client http://cran.r-project.org/web/packages/dataone/index.html #RStats
 386735652684824576  Oct  6 02:12  @rOpenSci         RT @DailyRpackage: dataone - DataONE R Client http://cran.r-project.org/web/packages/dataone/index.html #RStats
 386747262312800257  Oct  6 02:58  @_inundata        RT @DailyRpackage: dataone - DataONE R Client http://cran.r-project.org/web/packages/dataone/index.html #RStats
+386755176251789312  Oct  6 03:29  @Paul_R_Johnston  RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+386768713179209729  Oct  6 04:23  @horacio_ps       RT @cureffi: Quick intro to #cheminformatics in #rStats re: #prion #drugdiscovery http://www.cureffi.org/2013/09/23/a-quick-intro-to-chemical-informatics-in-r/ using rcdk by @rguha
+386769649922482176  Oct  6 04:27  @grserrano_       RT @LluisR_Tgn: Videos de los Talleres IV Jornadas de usuarios de R: http://wp.me/p1KCUp-ky @grserrano_ @gilbellosta #rstats #IVjornadas
+386783950234214400  Oct  6 05:24  @hfmuehleisen     Finally reached the point where my own #Rstats scripts take too long to eat the data. Now able to take advantage of MonetDB.R myself…
+386787833840533505  Oct  6 05:39  @zentree          "References for S4 classes in #Rstats" http://gastonsanchez.wordpress.com/2013/10/05/references-for-s4-classes-in-r/
+386791570462097408  Oct  6 05:54  @drago_carlo      Financial Data Accessible from R http://www.r-bloggers.com/financial-data-accessible-from-r/ via @Rbloggers #Data #Finance #Rstats
+386793943666405376  Oct  6 06:03  @MikejMcDermott   @thonoir Only beginning to learn R so google about the area I'm trying to learn Happy to share what I find under the #Rstats tag
+386797070537228288  Oct  6 06:16  @BenBondLamberty  RT @DailyRpackage: dataone - DataONE R Client http://cran.r-project.org/web/packages/dataone/index.html #RStats
+386798753354481664  Oct  6 06:23  @sunilmalik314    RT @drago_carlo: Financial Data Accessible from R http://www.r-bloggers.com/financial-data-accessible-from-r/ via @Rbloggers #Data #Finance #Rstats
+386809009593802752  Oct  6 07:03  @imLinJ           Use geom_rect() to add recession bars to your time series plots #rstats #ggplot | (R news & tutorials) http://www.r-bloggers.com/use-geom_rect-to-add-recession-bars-to-your-time-series-plots-rstats-ggplot/
+386827195320377344  Oct  6 08:16  @usethedata       RT @DailyRpackage: dataone - DataONE R Client http://cran.r-project.org/web/packages/dataone/index.html #RStats
