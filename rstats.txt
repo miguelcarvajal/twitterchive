@@ -20653,3 +20653,23 @@
 386798753354481664  Oct  6 06:23  @sunilmalik314    RT @drago_carlo: Financial Data Accessible from R http://www.r-bloggers.com/financial-data-accessible-from-r/ via @Rbloggers #Data #Finance #Rstats
 386809009593802752  Oct  6 07:03  @imLinJ           Use geom_rect() to add recession bars to your time series plots #rstats #ggplot | (R news & tutorials) http://www.r-bloggers.com/use-geom_rect-to-add-recession-bars-to-your-time-series-plots-rstats-ggplot/
 386827195320377344  Oct  6 08:16  @usethedata       RT @DailyRpackage: dataone - DataONE R Client http://cran.r-project.org/web/packages/dataone/index.html #RStats
+386839637257621504  Oct  6 09:05  @quandl           #R package versioning by @xieyihui http://qndl.co/1a6MUUQ #Rstats
+386850931741974528  Oct  6 09:50  @tresquintos      no hay nada como salir a dar una vuelta en #Rstats un domingo en la mañana.
+386857399358730240  Oct  6 10:16  @recology_        RT @quandl: #R package versioning by @xieyihui http://qndl.co/1a6MUUQ #Rstats
+386861218323263489  Oct  6 10:31  @idigdata         RT @siah: Holly awesomeness of the day "Voronoi Treemaps in R" http://ow.ly/pqIGc #rstats
+386864664694358016  Oct  6 10:44  @DinosaurusGrace  Today I've drawn some awesome looking 3d space-time plots of temperature using  the wireplot function in Lattice #rstats
+386869739915853824  Oct  6 11:05  @orlandomezquita  Basic R Curriculum http://bit.ly/1fSrli3 by @hadleywickham  #rstats
+386874068915347456  Oct  6 11:22  @raskberry        RT @openscience: New tutorials to help you use @rOpenSci packages http://bit.ly/1fLOWAU #rstats #openscience #opendata
+386876123667496960  Oct  6 11:30  @siah             Financial Data Accessible from R  http://ow.ly/pxk4s #rstats
+386876172371779584  Oct  6 11:30  @keholsinger      RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+386880929492664320  Oct  6 11:49  @albertlumbreras  RT @siah: Financial Data Accessible from R  http://ow.ly/pxk4s #rstats
+386881891434909696  Oct  6 11:53  @Petzoldt         Just learned about pypeR for #rstats #python at http://bit.ly/12pkXqE  by @openbillc. Faster than RPy/RPy2 http://bit.ly/195WZRG
+386889325654183937  Oct  6 12:22  @raviupanishad    RT @keholsinger: RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+386891750326800384  Oct  6 12:32  @spandalai        RT @siah: Financial Data Accessible from R  http://ow.ly/pxk4s #rstats
+386893268052496384  Oct  6 12:38  @otaviocarvalho   RT @siah: Financial Data Accessible from R  http://ow.ly/pxk4s #rstats
+386904704652804098  Oct  6 13:24  @kathryn_tm       Super handy CRAN task view #rstats http://cran.r-project.org/web/views/
+386905246007443458  Oct  6 13:26  @LRaykin          tapply function for efficient summary statistics in R #rstats http://stat.ethz.ch/R-manual/R-devel/library/base/html/tapply.html
+386912901262356480  Oct  6 13:56  @rguha            any suggestions how to specify an include dir (-I/some/unqiue/dir) when instaling an R package on R 3.0.2, llvm-gcc #rstats #tearinghairout
+386919676665929732  Oct  6 14:23  @egonwillighagen  RT @rguha: any suggestions how to specify an include dir (-I/some/unqiue/dir) when instaling an R package on R 3.0.2, llvm-gcc #rstats #tearinghairout
+386924010589544448  Oct  6 14:40  @Rbloggers        Influence Analysis for Repeated Measures Data:  (This article was first published on   Wiekvoet, and... http://bit.ly/1bMP3Hb #rstats
+386926477109125120  Oct  6 14:50  @jmgomez          RT @siah: This old blog has so many useful material "Statistics for all" | mine: oh yes! http://ow.ly/pryam #rstats #datamining
