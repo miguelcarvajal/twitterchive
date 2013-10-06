@@ -20635,3 +20635,10 @@
 386644195491868673  Oct  5 20:08  @ramnath_vaidya   Waterfall Chart with #rCharts and @uvCharts http://rcharts.github.io/viewer/?6847603 #rstats @d3visualization http://t.co/7n6UAoqOZh
 386655986653466624  Oct  5 20:55  @wabarree         @hadleywickham curriculum for R very useful http://bit.ly/GFOJ31 - says 1:length(x) is dangerous.  Why? I do it all the time :-|  #Rstats
 386656799304482816  Oct  5 20:58  @nalyticsatwork   RT @statisticsblog: 91 nice tutorials to discover R. http://i.cx/1bloB7u #r #rstats #tutorial
+386658361044779008  Oct  5 21:05  @timelyportfolio  RT @ramnath_vaidya: Waterfall Chart with #rCharts and @uvCharts http://rcharts.github.io/viewer/?6847603 #rstats @d3visualization http://t.co/7n6UAoqOZh
+386662683941933056  Oct  5 21:22  @treycausey       One interesting thing I've noticed while switching from being primarily an #rstats user to more of a Python user.
+386663976223772672  Oct  5 21:27  @timelyportfolio  RT @ramnath_vaidya: RT @muranava: @esl_robert pretty neat corpus ling presentation using #slidify and @shower http://lope.linguistics.ntu.edu.tw/courses/corpusling/slides/week4/?full#Cover #rstats
+386701734082396161  Oct  5 23:57  @ctitusbrown      RT @openscience: New tutorials to help you use @rOpenSci packages http://bit.ly/1fLOWAU #rstats #openscience #opendata
+386725011576614912  Oct  6 01:30  @DailyRpackage    dataone - DataONE R Client http://cran.r-project.org/web/packages/dataone/index.html #RStats
+386735652684824576  Oct  6 02:12  @rOpenSci         RT @DailyRpackage: dataone - DataONE R Client http://cran.r-project.org/web/packages/dataone/index.html #RStats
+386747262312800257  Oct  6 02:58  @_inundata        RT @DailyRpackage: dataone - DataONE R Client http://cran.r-project.org/web/packages/dataone/index.html #RStats
