@@ -20709,3 +20709,21 @@
 387083091082485760  Oct  7 01:12  @pushthings4ward  [collection] Useful RStats Resources http://bit.ly/15ghX0I via .@albertocairo | #ddj #rstats #journalism #tools #statistics
 387087399765180416  Oct  7 01:30  @DailyRpackage    blockrand - Randomization for block random clinical trials http://cran.r-project.org/web/packages/blockrand/index.html #RStats
 387091080337825792  Oct  7 01:44  @cephillips       RT @pushthings4ward: [collection] Useful RStats Resources http://bit.ly/15ghX0I via .@albertocairo | #ddj #rstats #journalism #tools #statistics
+387130579591774208  Oct  7 04:21  @Soc_Net_Intel    RT @ukituki: DataMind - free, fun and interactive way to learn #datamining in R #rstats http://sco.lt/6OHAjx cc:@dziennikarz
+387141938970767360  Oct  7 05:06  @MangoTheCat      RT @Mark_Graph: Another R Cheat Sheet - this time on common trips and traps #rstats http://bit.ly/17KR2Lv
+387151117831786496  Oct  7 05:43  @wulab            ROC curves, classification and classification tree http://freakonometrics.hypotheses.org/9066 via @freakonometrics #rstats
+387156951320117248  Oct  7 06:06  @didumdida        Ihr habt ja keine Ahnung, wieviel Arbeit in dieser Grafik verbuddelt sind. #masterarbeit #rstats http://t.co/yA0VbO2chl
+387163307444305920  Oct  7 06:31  @eoinbrazil       I'm giving #rstats talk tomorrow 19:00 at DIT Kevin St on Introduction to Machine Learning with R http://meetu.ps/1ZK5VH for DublinR meetup.
+387167668773470208  Oct  7 06:49  @portfolioprobe   The look of verifying data http://bit.ly/1e3xDXT #quant #finance #rstats
+387167863460888576  Oct  7 06:49  @JohnMccay4       RT @portfolioprobe: The look of verifying data http://bit.ly/1e3xDXT #quant #finance #rstats
+387169786276216832  Oct  7 06:57  @monsoontrader    This is one for the social science types collecting survey data with Likert type data #rstats http://jason.bryer.org/likert/
+387172463831818241  Oct  7 07:08  @TweetFromBecky   @yodacomplex Thank you for providing such useful #OpenAccess #Rstats podcasts! Even on a Mac it was simple enough!
+387174801510391808  Oct  7 07:17  @monsoontrader    Biggest gripe with #rstats is masking. #grrrrrrrrrrrrrrrr
+387174808573575168  Oct  7 07:17  @RyanGrannell     Is this a bug in #rstats? identical( NA, NA_real_, single.NA = TRUE) == FALSE
+387184381732728832  Oct  7 07:55  @geospacedman     Some basic spatial analysis of Zaatari Refugee camp using OpenStreetMap data #qgis and #rstats http://geospaced.blogspot.co.uk/2013/10/refugee-camp-spatial-analysis.html
+387185578988425217  Oct  7 08:00  @statisticsblog   R tip of the day - accessing financial data via R. http://i.cx/15U3WTE #finance #r #rstats
+387187156306780161  Oct  7 08:06  @DinosaurusGrace  Posted my first question on Stack Overflow. I'd be grateful for any help http://stackoverflow.com/questions/19224468/lattice-wireframe-color-formula #rstats #lattice
+387197068273795072  Oct  7 08:45  @gappy3000        Like in sex, "moderately large" is in the eyeof the beholder #rstats http://bit.ly/191EsYC
+387198801691574272  Oct  7 08:52  @RickWicklin      That list is old and incomplete. More at http://support.sas.com/rnd/app/RT @RLangTip: R equivalents for #SAS: http://bit.ly/ttStw6 #rstats
+387199443214163968  Oct  7 08:55  @mjcavaretta      Neat #dataviz + code! RT @monsoontrader: For the social science types collecting survey data with Likert data #rstats http://jason.bryer.org/likert/
+387199879153340417  Oct  7 08:56  @monsoontrader    @mjcavaretta It's good but found a bug. All vectors must have at least one response for each level. #rstats
