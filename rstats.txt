@@ -20727,3 +20727,41 @@
 387198801691574272  Oct  7 08:52  @RickWicklin      That list is old and incomplete. More at http://support.sas.com/rnd/app/RT @RLangTip: R equivalents for #SAS: http://bit.ly/ttStw6 #rstats
 387199443214163968  Oct  7 08:55  @mjcavaretta      Neat #dataviz + code! RT @monsoontrader: For the social science types collecting survey data with Likert data #rstats http://jason.bryer.org/likert/
 387199879153340417  Oct  7 08:56  @monsoontrader    @mjcavaretta It's good but found a bug. All vectors must have at least one response for each level. #rstats
+387201512675373056  Oct  7 09:03  @F_Darlington     learning how to use R = big headache! #phdchat  #Rstats
+387202038767300608  Oct  7 09:05  @AndrewLMacumber  RT @hspter: This is super super cool -- R package that teaches you stats! http://buff.ly/GGTCYA #rstats
+387207110750400512  Oct  7 09:25  @analysis_factor  Analyzing Repeated Measures Data Online Workshop with examples in #SPSS, #SAS, and R #rstats http://ow.ly/pl6zw
+387208290779668481  Oct  7 09:30  @ebsessa          RT @keholsinger: RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+387210303723044864  Oct  7 09:38  @RickWicklin      That list is old and incomplete. More at http://support.sas.com/rnd/app/ RT @RLangTip: R equivalents for #SAS: http://bit.ly/ttStw6 #rstats
+387212674238402560  Oct  7 09:47  @vinayakh         Crimes against women in India analyzed using R, googleVis and shiny - http://analyticsandvisualization.blogspot.in/p/his-is-culmination-of-discussions-with.html #rstats
+387212793541570560  Oct  7 09:48  @Protohedgehog    Congrats to @hylopsar who made the front cover of @methodsecolevol with his new (open access) #rstats paper http://onlinelibrary.wiley.com/doi/10.1111/mee3.2013.4.issue-10/issuetoc
+387213375790280706  Oct  7 09:50  @eddelbuettel     Repost from Sat: "Slides from yesterday's Rcpp / RcppArmadillo talk at Booth / U of C now posted: http://goo.gl/rVeUve  #rstats #rcpp"
+387213717747679232  Oct  7 09:51  @_PhilMartin      Hey people. Do any of you know good resources for learning how to write functions in R? #rstats
+387215303026827264  Oct  7 09:58  @bes_aeg          @_PhilMartin Here's a decent one: http://cran.r-project.org/doc/contrib/Lemon-kickstart/kr_rfunc.html #rstats
+387215374401290241  Oct  7 09:58  @timelyportfolio  mt @ramnath_vaidya How #rCharts works?Part 2 http://rcharts.io/howitworks/part2/ …  Really like this.Great read for those wanting #d3js from #rstats
+387215768854597632  Oct  7 10:00  @statisticsblog   Influence Analysis for Repeated Measures Data using R. http://i.cx/GHvrKk #r #rstats
+387225484938866688  Oct  7 10:38  @timelyportfolio  @d3visualization @ramnath_vaidya trying to find #rstats examples to replicate; I don't often use polar plots so learning now
+387226015707054081  Oct  7 10:40  @ramnath_vaidya   @d3visualization Looking terrific!! Awesome library and easy configuration. #rCharts wrapper on the way http://rcharts.io/howitworks/micropolar/ #rstats
+387226446365589504  Oct  7 10:42  @abresler         @ramnath_vaidya @d3visualization every day is an amazing new surprise.  This cause (#rCharts #d3js #rstats ect) is world changing
+387230348285071360  Oct  7 10:58  @thelabandfield   When updating #Rstats to a new version (and using RStudio) on Vista, how do you avoid losing all your packages each time? :/
+387231010829529088  Oct  7 11:00  @Rbloggers        Parallel Tempering in R with Rmpi:  (This article was first published on   Lindons Log » R, and kind... http://bit.ly/199vYyC #rstats
+387234857140883456  Oct  7 11:15  @quandl           A #DataScience exploration from the Titanic in #R by @padjiman http://qndl.co/15MC4WY #Rstats
+387235489951920130  Oct  7 11:18  @DEAGiles         RT @quandl: A #DataScience exploration from the Titanic in #R by @padjiman http://qndl.co/15MC4WY #Rstats
+387242977762238464  Oct  7 11:48  @cloudHPC         I will talk about @MongoSoup with #rstats at @MongoDB munich http://www.mongodb.com/events/mongodb-munich-2013?utm_source=twitter&utm_medium=social&utm_term=Speaker+Promo&utm_content=Speaker+Promo&utm_campaign=MongoDB+Munich+10-14
+387243284415803392  Oct  7 11:49  @MongoSoup        RT @cloudHPC: I will talk about @MongoSoup with #rstats at @MongoDB munich http://www.mongodb.com/events/mongodb-munich-2013?utm_source=twitter&utm_medium=social&utm_term=Speaker+Promo&utm_content=Speaker+Promo&utm_campaign=MongoDB+Munich+10-14
+387244735703691265  Oct  7 11:55  @Datamarketing_   #include<stdio.h>  void main(void){ printf("HOLA MUNDO!!!"); return 0; } #rstats #BI #BigData
+387244737100398593  Oct  7 11:55  @DatametricsBI    #include<stdio.h>  void main(void){ printf("HOLA MUNDO!!!"); return 0; } #rstats #BI #BigData
+387246494757453824  Oct  7 12:02  @comsysto         "@cloudHPC: I will talk about @MongoSoup with #rstats at @MongoDB munich http://www.mongodb.com/events/mongodb-munich-2013?utm_source=twitter&utm_medium=social&utm_term=Speaker+Promo&utm_content=Speaker+Promo&utm_campaign=MongoDB+Munich+10-14"
+387247407068889088  Oct  7 12:05  @RLangTip         #rstats Use rpart:::summary.rpart to look at the code in the hidden method summary.rpart (from Ecostudies) http://bit.ly/1eNXbes
+387247706668027904  Oct  7 12:07  @Zementis         On-demand Webinars & Videos: Predictive Analytics #bigdata #dataminig w #Hadoop #rstats #IBM #SPSS #PMML and more http://buff.ly/16Fna5u
+387247724338622464  Oct  7 12:07  @YvesMulkers      RT @Datamarketing_: #include<stdio.h>  void main(void){ printf("HOLA MUNDO!!!"); return 0; } #rstats #BI #BigData
+387248599546859521  Oct  7 12:10  @Rbloggers        Argentan half-marathon [split times]:  (This article was first published on   Xi'an's Og » R, and ki... http://bit.ly/1bQIweD #rstats
+387248605951971328  Oct  7 12:10  @inside_R         #rstats R user group meetings this week: Stockholm, Vienna, Dublin, Wellington, Los Angeles, San Diego and Singapore http://bit.ly/9hVAPE
+387250143616966657  Oct  7 12:16  @kieslowskian     @amisdame 트위터에서도 #rstats 라는 해쉬태그로 검색하면 많이 나올 거에요.
+387250395904737280  Oct  7 12:17  @BrockTibert      I see many ppl suggest that lines should be no more than 80 characters in #rstats.  Is there a functional reason for this limit?
+387256460821803008  Oct  7 12:41  @statsforbios     solve(A,b) to solve a set of linear equations in #Rstats.
+387262996260847617  Oct  7 13:07  @chlalanne        RT @gappy3000: Like in sex, "moderately large" is in the eyeof the beholder #rstats http://bit.ly/191EsYC
+387264065979965441  Oct  7 13:12  @sunilmalik314    RT @gappy3000: Like in sex, "moderately large" is in the eyeof the beholder #rstats http://bit.ly/191EsYC
+387264784854294528  Oct  7 13:14  @newtonstreetwit  RT @pushthings4ward: [collection] Useful RStats Resources http://bit.ly/15ghX0I via .@albertocairo | #ddj #rstats #journalism #tools #statistics
+387272839650234369  Oct  7 13:46  @JJVenky          What's the best #Rstats package to combine daily (precip or flow) & multi-day aggregate (average of several days)?
+387282906261233664  Oct  7 14:26  @richardburcher   RT @geospacedman: Some basic spatial analysis of Zaatari Refugee camp using OpenStreetMap data #qgis and #rstats http://geospaced.blogspot.co.uk/2013/10/refugee-camp-spatial-analysis.html
+387284470086127618  Oct  7 14:33  @RickWicklin      Easy Influence Analysis via #SAS PROC MIXED http://support.sas.com/documentation/cdl/en/statug/66103/HTML/default/viewer.htm#statug_mixed_examples08.htm MT @statisticsblog: Re-do In R http://i.cx/GHvrKk #rstats
