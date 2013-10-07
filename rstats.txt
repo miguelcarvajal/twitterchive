@@ -20694,3 +20694,18 @@
 386995378144292864  Oct  6 19:24  @Mark_Graph       Another R Cheat Sheet - this time on common trips and traps #rstats http://bit.ly/17KR2Lv
 387008410773778432  Oct  6 20:16  @Biff_Bruise      Not just journalists. "@albertocairo: Impressive list of R and stats resources for journalists http://analyticsandvisualization.blogspot.com/p/r.html via @znmeb" #rstats
 387014845020663808  Oct  6 20:41  @rebecca_jarvis   @joshuathoresen oooh, I am doing the #rstats one too! #statisticalecologyhighfive
+387022341919621120  Oct  6 21:11  @rebecca_jarvis   @joshuathoresen Yes! Then we can compare notes! Looking forward to the exhilirating highs and frustrating lows of learning #rstats
+387033345365798912  Oct  6 21:55  @RladiesSF        RT @Mark_Graph: Another R Cheat Sheet - this time on common trips and traps #rstats http://bit.ly/17KR2Lv
+387038447451373568  Oct  6 22:15  @jkhartshorne     Any way to get *single* # for 3x4 interaction in lmer and 2 #s for main effects? (Reviewer request) LLR? #rstats
+387045110929956864  Oct  6 22:42  @gregorypark      RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+387049399114670081  Oct  6 22:59  @jkhartshorne     @kleinschmidt That'll compare the whole model, right? Reviewers want separate p-values for interaction and main effects. #rstats
+387049537828687873  Oct  6 22:59  @jkhartshorne     @kleinschmidt And they only want one p-value for the entire main effect (all 3 levels or all 4 levels). So like in an ANOVA. #rstats
+387052665365987329  Oct  6 23:12  @jkhartshorne     @kleinschmidt BTW this function treats regression main effect separately. So if 4 levels, 3 fixed effects. #rstats http://blog.lib.umn.edu/moor0554/canoemoore/2010/09/lmer_p-values_lrt.html
+387054678904565761  Oct  6 23:20  @DarioTrujano     RT @RLangTip: R equivalents for #SAS and #SPSS modules: http://bit.ly/ttStw6 #rstats
+387055350631129088  Oct  6 23:22  @GarfieldFisher   Using #R for random number creation from time stamps #rstats | @scoopit http://sco.lt/8YJ6af
+387057783650418689  Oct  6 23:32  @GarfieldFisher   Task View on Web Technologies #rstats | @scoopit http://sco.lt/7wPej3
+387066095040872448  Oct  7 00:05  @Jowanza          Geez having mad trouble getting my list into a dataframe in #Rstats going to have to reach out to someone in the AM.
+387078503419494400  Oct  7 00:54  @TrevorABranch    Wish list for teaching using @rstudioapp: a Copy-Special command 4 #Rstats script window that saves colors for ppt teaching @hadleywickham ?
+387083091082485760  Oct  7 01:12  @pushthings4ward  [collection] Useful RStats Resources http://bit.ly/15ghX0I via .@albertocairo | #ddj #rstats #journalism #tools #statistics
+387087399765180416  Oct  7 01:30  @DailyRpackage    blockrand - Randomization for block random clinical trials http://cran.r-project.org/web/packages/blockrand/index.html #RStats
+387091080337825792  Oct  7 01:44  @cephillips       RT @pushthings4ward: [collection] Useful RStats Resources http://bit.ly/15ghX0I via .@albertocairo | #ddj #rstats #journalism #tools #statistics
