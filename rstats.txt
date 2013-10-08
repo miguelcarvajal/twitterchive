@@ -20765,3 +20765,36 @@
 387272839650234369  Oct  7 13:46  @JJVenky          What's the best #Rstats package to combine daily (precip or flow) & multi-day aggregate (average of several days)?
 387282906261233664  Oct  7 14:26  @richardburcher   RT @geospacedman: Some basic spatial analysis of Zaatari Refugee camp using OpenStreetMap data #qgis and #rstats http://geospaced.blogspot.co.uk/2013/10/refugee-camp-spatial-analysis.html
 387284470086127618  Oct  7 14:33  @RickWicklin      Easy Influence Analysis via #SAS PROC MIXED http://support.sas.com/documentation/cdl/en/statug/66103/HTML/default/viewer.htm#statug_mixed_examples08.htm MT @statisticsblog: Re-do In R http://i.cx/GHvrKk #rstats
+387298543066951680  Oct  7 15:29  @texhewson        RT @DailyRpackage: dataone - DataONE R Client http://cran.r-project.org/web/packages/dataone/index.html #RStats
+387299177224364032  Oct  7 15:31  @brianabelson     so i've been fooling around for awhile with turning data into midi and it resulted in this.... http://bit.ly/1bRo0KS #rstats
+387301485547388928  Oct  7 15:40  @aDataHead        two min #rstats tutorials by anthony damico http://feedly.com/k/14HO1sr
+387304794013978625  Oct  7 15:53  @recology_        @sjGoring @KTInvasion @bendmorris for #rstats bioclim available in dismo, right? http://bit.ly/199YfDe
+387306647996993536  Oct  7 16:01  @srsupp           @recology_ @sjGoring @KTInvasion @bendmorris This is stuff I'm learning right now! I was told dismo is a good pkg for #rstats nerds.
+387308562793238528  Oct  7 16:08  @davidjayharris   .@bendmorris @recology_ @sjGoring @KTInvasion you can get the bioclim data in #Rstats from the getData function in the raster package
+387309090583883776  Oct  7 16:10  @quandl           Free ebook: The #R inferno by Patrick Burns http://qndl.co/GCSo0i #Rstats #Data #Statistics
+387309225417789440  Oct  7 16:11  @CondorOptions    Modern classic. RT @quandl: Free ebook: The #R inferno by Patrick Burns http://qndl.co/GCSo0i #Rstats #Data #Statistics
+387314391974436864  Oct  7 16:32  @GregFRogers      RT @lcdutoit: #rstats dplyr now supports PostgreSQL oh yeah https://github.com/hadley/dplyr
+387317651631923200  Oct  7 16:44  @murraystokely    New #rstats package HistogramTools with a number of functions to manipulate, visualize, and measure information loss: http://cran.r-project.org/web/packages/HistogramTools/index.html
+387335183537410048  Oct  7 17:54  @dseverski        Whether it's the cold medication or sheer osmotic pressure is unclear, but this #rstats code has been making a surprising amount of sense.
+387335250655072256  Oct  7 17:54  @humanresearcher  RT @RLangTip: #rstats Use rpart:::summary.rpart to look at the code in the hidden method summary.rpart (from Ecostudies) http://t.co/Ai8PrrpnRn
+387335969411571712  Oct  7 17:57  @ramnath_vaidya   A Big List of D3 Examples (http://christopheviau.com) Top Listing on Hacker News @d3visualization #rstats
+387338981827817472  Oct  7 18:09  @amv_fournier     Exciting to see other applications of the R packages I use #tws2013 #Rstats
+387340919357186048  Oct  7 18:17  @mickresearch     Just starting a workshop at @qaecology by @_inundata on open science with #rstats. Starting with a call out to @cboettig. Thanks for coming!
+387341735996579841  Oct  7 18:20  @timelyportfolio  @CondorOptions if you are using  #rstats, this would look great as #d3js using @ramnath_vaidya #rCharts
+387344176532426752  Oct  7 18:30  @hadleywickham    RT @murraystokely: New #rstats package HistogramTools with a number of functions to manipulate, visualize, and measure information loss: http://t.co/8ViumXH8H8
+387344301765976065  Oct  7 18:30  @BrynRWilliams    RT @murraystokely: New #rstats package HistogramTools with a number of functions to manipulate, visualize, and measure information loss: http://t.co/8ViumXH8H8
+387344400940273665  Oct  7 18:31  @delsweil         RT @murraystokely: New #rstats package HistogramTools with a number of functions to manipulate, visualize, and measure information loss: http://t.co/8ViumXH8H8
+387346101285564416  Oct  7 18:38  @berkeleymalagon  I need to export a data.frame to an excel spreadsheet with layout and formatting (e.g. colors, bold, spacing). Please help! #RStats
+387346275877679107  Oct  7 18:38  @johnbaums        RT @mickresearch: Just starting a workshop at @qaecology by @_inundata on open science with #rstats. Starting with a call out to @cboettig. Thanks for coming!
+387350564285464576  Oct  7 18:55  @ArjumandYounus   RT @murraystokely: New #rstats package HistogramTools with a number of functions to manipulate, visualize, and measure information loss: http://t.co/8ViumXH8H8
+387355044699336704  Oct  7 19:13  @d3visualization  RT @ramnath_vaidya: A Big List of D3 Examples (http://christopheviau.com) Top Listing on Hacker News @d3visualization #rstats
+387362023211671552  Oct  7 19:41  @berkeleymalagon  @SchaunW That will definitely do the trick - thanks! #RStats
+387365431113420800  Oct  7 19:54  @franckyvall      RT @ramnath_vaidya: A Big List of D3 Examples (http://christopheviau.com) Top Listing on Hacker News @d3visualization #rstats
+387365851709468672  Oct  7 19:56  @np_jiang         RT @statisticsblog: Influence Analysis for Repeated Measures Data using R. http://i.cx/GHvrKk #r #rstats
+387366255008575489  Oct  7 19:58  @np_jiang         RT @inside_R: #rstats R user group meetings this week: Stockholm, Vienna, Dublin, Wellington, Los Angeles, San Diego and Singapore http://t.co/YlCLykc7lX
+387367857283018753  Oct  7 20:04  @ShiftChart       @robbtuftshockey We just checked out your Blues blog, nice! We're huge #rstats fans, we use it for most of the @shiftchart data processing.
+387369099086815232  Oct  7 20:09  @denisparra       RT @murraystokely: New #rstats package HistogramTools with a number of functions to manipulate, visualize, and measure information loss: http://t.co/8ViumXH8H8
+387369788118294528  Oct  7 20:12  @berkeleymalagon  Damn upgrade… don't scare me like that! "Error in library(reshape) : there is no package called ‘reshape’" #Rstats
+387373973782405120  Oct  7 20:28  @statsforbios     RT @murraystokely: New #rstats package HistogramTools with a number of functions to manipulate, visualize, and measure information loss: http://t.co/8ViumXH8H8
+387377169124450304  Oct  7 20:41  @huannews         RT @murraystokely: New #rstats package HistogramTools with a number of functions to manipulate, visualize, and measure information loss: http://t.co/8ViumXH8H8
+387380493521801216  Oct  7 20:54  @mdigan           RT @murraystokely: New #rstats package HistogramTools with a number of functions to manipulate, visualize, and measure information loss: http://t.co/8ViumXH8H8
