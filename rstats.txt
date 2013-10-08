@@ -20831,3 +20831,37 @@
 387547059957825537  Oct  8 07:56  @Krisztab         RT @murraystokely: New #rstats package HistogramTools with a number of functions to manipulate, visualize, and measure information loss: http://t.co/8ViumXH8H8
 387549862826631168  Oct  8 08:07  @JonesZM          RT @_inundata: The Leek group @simplystats has a well-written guide on package dev in R. Highly recommended. #rstats ↬ @ctitusbrown http://t.co/jFPK8h7HcX
 387555007916019715  Oct  8 08:28  @OpenExpl         Tutorials to help you use @rOpenSci packages => http://bit.ly/1fLOWAU (v @openscience) #rstats #OpenScience
+387563058564194304  Oct  8 09:00  @riannefijten     How to deal with duplicate row names error in R http://bit.ly/1b79de6 #rstats
+387563952726503424  Oct  8 09:03  @kwbroman         Jeff Leek’s doc on #Rstats package devel/maintenance is a good illustration of the value of #github (eg pull requests & issues) @simplystats
+387564352511176704  Oct  8 09:05  @simplystats      RT @kwbroman: Jeff Leek’s doc on #Rstats package devel/maintenance is a good illustration of the value of #github (eg pull requests & issues) @simplystats
+387565643085934592  Oct  8 09:10  @quandl           Installing #R packages by @csgillespie http://qndl.co/GHp6OJ #Rstats
+387570728734056448  Oct  8 09:30  @jmsidhu          RT @kdnuggets: Data Science with R: Getting Started with Rattle - a survival guide (free) #rstats #DataMining http://bit.ly/1bAqFZr
+387574732565934080  Oct  8 09:46  @GraemeTLloyd     @hylopsar Transferable skills! #rstats
+387576261381345280  Oct  8 09:52  @MangoTheCat      Basel R user group meeting - Oct 30th. Email baselR@mango-solutions.com to come along or to present  #rstats
+387585849929367552  Oct  8 10:30  @gknoProject      ReportingTools: an automated result processing and presentation toolkit for high throughput genomic analyses  http://bioinformatics.oxfordjournals.org/cgi/content/long/btt551v1 #Rstats
+387589720584101888  Oct  8 10:46  @cbumg            RT @_inundata: The Leek group @simplystats has a well-written guide on package dev in R. Highly recommended. #rstats ↬ @ctitusbrown http://t.co/jFPK8h7HcX
+387593275852337152  Oct  8 11:00  @statisticsblog   R tip of the day - Parallel Tempering in R with Rmpi. http://i.cx/GJjNyo #r #rstats
+387597754626629632  Oct  8 11:18  @ErynMcFarlane    Digging into some analyses for a paper that I haven't looked at in months. Why are we doing this again? #readtheintro #Rstats #evolution
+387602107844808704  Oct  8 11:35  @therealprotonk   View R function bodies as JSON Objects: https://gist.github.com/Protonk/6886551 #rstats
+387605212917014528  Oct  8 11:47  @timelyportfolio  RT @therealprotonk: View R function bodies as JSON Objects: https://gist.github.com/Protonk/6886551 #rstats
+387608368107356160  Oct  8 12:00  @statsforbios     Solving and estimating parameters for ODEs in #Rstats. http://www.r-bloggers.com/learning-r-parameter-fitting-for-models-involving-differential-equations/
+387608491747069952  Oct  8 12:00  @attilacsordas    finally made matplot & cbind friends w/ legend on my chart with 8 plots #rstats
+387609832465113088  Oct  8 12:06  @RLangTip         Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+387609943848656896  Oct  8 12:06  @statsforbios     RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+387610139769192448  Oct  8 12:07  @Zementis         On-demand Webinars & Videos: Predictive Analytics #bigdata #dataminig w #Hadoop #rstats #IBM #SPSS #PMML and more http://buff.ly/15JJ29M
+387611093322854400  Oct  8 12:11  @Rbloggers        New course on bayesian data analysis for psycholinguistics:  (This article was first published on   ... http://bit.ly/1bVeMNT #rstats
+387616290816286721  Oct  8 12:31  @noticiasSobreR   Sexo, deporte y la cantidad de información mutua: Perdón por el titular. No soy inasequible a las moda... http://tinyurl.com/mx85rrv #rstats
+387621226203463680  Oct  8 12:51  @mjcavaretta      RT @ChrisAllen99: Random Forests Algorithm http://bit.ly/1bDx5u8 #machinelearning #rstats
+387622491088515072  Oct  8 12:56  @idigdata         RT @mjcavaretta: RT @ChrisAllen99: Random Forests Algorithm http://bit.ly/1bDx5u8 #machinelearning #rstats
+387622571858223104  Oct  8 12:56  @idigdata         RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+387627828516110336  Oct  8 13:17  @statslabdublin   #compdata #rstats Week 3 - edit line 20 in submitscript.R from CLASS <- "compdata-002" to CLASS <- "compdata-003" then you can submit.
+387628644635783168  Oct  8 13:20  @denisohora       RT @_inundata: The Leek group @simplystats has a well-written guide on package dev in R. Highly recommended. #rstats ↬ @ctitusbrown http://t.co/jFPK8h7HcX
+387632337351352320  Oct  8 13:35  @mattgarciablitz  RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+387635835484774400  Oct  8 13:49  @simounma         RT @mjcavaretta: RT @ChrisAllen99: Random Forests Algorithm http://bit.ly/1bDx5u8 #machinelearning #rstats
+387636179572510720  Oct  8 13:50  @recology_        Guide to using @rOpenSci #rstats  pkgs during the US Gov't #shutdown   http://bit.ly/1ajpeN5
+387636205271015424  Oct  8 13:50  @rOpenSci         RT @recology_: Guide to using @rOpenSci #rstats  pkgs during the US Gov't #shutdown   http://bit.ly/1ajpeN5
+387636364856283136  Oct  8 13:51  @lucaborger       RT @recology_: Guide to using @rOpenSci #rstats  pkgs during the US Gov't #shutdown   http://bit.ly/1ajpeN5
+387644267406979072  Oct  8 14:22  @raskberry        RT @_inundata: The Leek group @simplystats has a well-written guide on package dev in R. Highly recommended. #rstats ↬ @ctitusbrown http://t.co/jFPK8h7HcX
+387644921181507584  Oct  8 14:25  @kara_woo         First time digging into map-making with #rstats. Wish me luck...
+387650489137266688  Oct  8 14:47  @HarlanH          #Rstats If you use rpart for decision/regression trees, do yourself a favor and check out rpart.plot. http://bit.ly/1csfVPH
+387650621975035904  Oct  8 14:48  @OracleTim        RT @mjcavaretta: RT @ChrisAllen99: Random Forests Algorithm http://bit.ly/1bDx5u8 #machinelearning #rstats
