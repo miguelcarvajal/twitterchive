@@ -20865,3 +20865,45 @@
 387644921181507584  Oct  8 14:25  @kara_woo         First time digging into map-making with #rstats. Wish me luck...
 387650489137266688  Oct  8 14:47  @HarlanH          #Rstats If you use rpart for decision/regression trees, do yourself a favor and check out rpart.plot. http://bit.ly/1csfVPH
 387650621975035904  Oct  8 14:48  @OracleTim        RT @mjcavaretta: RT @ChrisAllen99: Random Forests Algorithm http://bit.ly/1bDx5u8 #machinelearning #rstats
+387654355878690816  Oct  8 15:02  @BenPourquoi      #RStats integration in @tableau : will be interesting to see if market is there  http://www.tableausoftware.com/about/blog/2013/10/tableau-81-and-r-25327
+387655209784057856  Oct  8 15:06  @mjcavaretta      Try #python? RT @MattLWilliams: Running #bigdata #analytics in #Rstats w/@pbFeed & @DrLukeSloan. Might need to move to #bigmemory and HPC
+387657707987431424  Oct  8 15:16  @ivanh            RT @mjcavaretta: Try #python? RT @MattLWilliams: Running #bigdata #analytics in #Rstats w/@pbFeed & @DrLukeSloan. Might need to move to #bigmemory and HPC
+387660596298387456  Oct  8 15:27  @jorgefabrega     Arghh, StringsAsFactors=F debería ser la opción por default #rstats
+387663021004570624  Oct  8 15:37  @anderslindstrom  RT @RLangTip: Use object.size() to estimate the amount of memory an R object is consuming #rstats http://bit.ly/1dYFk2m
+387665954668150784  Oct  8 15:49  @statsforbios     Most things still work. RT @recology_ Guide to using @rOpenSci #rstats pkgs during the US Gov't #shutdown http://bit.ly/1ajpeN5
+387666955668553728  Oct  8 15:52  @ngamita          RT @hadleywickham: a new way to see where your #rstats code is slow or hogging memory: lineprof @ https://github.com/hadley/lineprof
+387671545545388032  Oct  8 16:11  @F_Darlington     Has an R related headache :-| am sure it will be worth it in the end! #phdchat  #rstats
+387673496119410688  Oct  8 16:18  @stefanbjork      @F_Darlington Yes! R is user friendly when you get to know her! #phdchat #rstats
+387674223746899968  Oct  8 16:21  @kara_woo         First stab at plotting our sampling stations from #Baikal13 fieldwork in #rstats. cc @se_hampton http://t.co/FYrtIcy7T9
+387675103401480192  Oct  8 16:25  @kara_woo         Instead of zoom is there a way to specify lat/lon boundaries with get_map()? zoom = 7 is too close, zoom = 6 not close enough. #rstats
+387677053392138240  Oct  8 16:33  @se_hampton       Totally pro! RT @kara_woo: First stab at plotting our sampling stations from #Baikal13 fieldwork in #rstats.  http://t.co/IppNz9vJ5K
+387677291763228672  Oct  8 16:34  @F_Darlington     @stefanbjork I hope so, she's taking up a lot of my time at the moment! #phdchat #rstats
+387677526652633088  Oct  8 16:34  @stefanbjork      @F_Darlington "R is user friendly. She's just picky with who her friends are." :-) #phdchat #rstats
+387677914239868928  Oct  8 16:36  @F_Darlington     @stefanbjork Ha! She'll love me (eventually) #phdchat  #rstats
+387680607532089344  Oct  8 16:47  @Gliders_Coach    Plyrmr- bringing #rstats Plyr to Map Reduce for Hadoop http://wp.me/p9q8Y-2Yv
+387684049914843137  Oct  8 17:00  @timelyportfolio  Timely Portfolio: #rCharts goes Polar http://timelyportfolio.blogspot.com/2013/10/rcharts-goes-polar.html?spref=tw #rstats #d3js @ramnath_vaidya @d3visualization
+387685989008699392  Oct  8 17:08  @timelyportfolio  American Indians vs Indian Americans, statewide population using #rstats #googleVis http://rpubs.com/RationShop/indians_americans
+387692660170821632  Oct  8 17:35  @DieterDeMesmkr   R documentation search - All R packages and R manuals from CRAN and Bioconductor http://www.rdocumentation.org/ #Rstats
+387692951175831552  Oct  8 17:36  @Jowanza          Anyone use #Rstats with the AdWords API?
+387693060811141120  Oct  8 17:36  @tjmahr           @StackOverflowR function(x = 0, y = 0, z = c(x, y)) return(sum(z)) #rstats
+387696768118300673  Oct  8 17:51  @tonyojeda3       We're hosting 2 #rstats workshops on Oct 19th.Come out and learn the lingua franca of #datascience! http://bit.ly/19ePwzw  #datadc #bigdata
+387698028528009216  Oct  8 17:56  @DataCommunityDC  We're hosting 2 #rstats workshops on Oct 19th.Come out and learn the lingua franca of #datascience! http://bit.ly/19ePwzw  #datadc #bigdata
+387702395360538624  Oct  8 18:13  @ramnath_vaidya   RT @timelyportfolio: Timely Portfolio: #rCharts goes Polar http://timelyportfolio.blogspot.com/2013/10/rcharts-goes-polar.html?spref=tw #rstats #d3js @ramnath_vaidya @d3visualization
+387706109509005312  Oct  8 18:28  @kdnuggets        Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://bit.ly/1ak4MM4
+387706296050647040  Oct  8 18:29  @ccorrea5         RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387707123687116800  Oct  8 18:32  @TylerDeutsch     RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387709319158190080  Oct  8 18:41  @scianalytics     RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387711195777466368  Oct  8 18:48  @curtisfrye       RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387713347866877952  Oct  8 18:57  @chlalanne        RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387713861781950464  Oct  8 18:59  @eoinbrazil       My #rstats / DublinR introduction talk on Machine Learning with R is on GH: https://github.com/braz/DublinR-ML-treesandforests/ and SS: http://www.slideshare.net/eoinbrazil/introduction-to-machine-learning-using-r-dublin-r-user-group-oct-2013
+387714149998157824  Oct  8 19:00  @craigbeebe       #rstats Is there a limit to size of .txt file when using read.table() function? I'm loading a big table, but it's not loading right! #newbie
+387714160475529217  Oct  8 19:00  @kevin2kane       I'm a Polyglot! “@kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave”
+387714164829208577  Oct  8 19:00  @miguelpdl        RT @eoinbrazil: My #rstats / DublinR introduction talk on Machine Learning with R is on GH: https://github.com/braz/DublinR-ML-treesandforests/ and SS: http://t.co/28QdEkDzzQ
+387714203928129536  Oct  8 19:00  @Jowanza          #ggplot2 is so much fun #rstats http://t.co/wtcb0q5lkb
+387714794868178944  Oct  8 19:03  @gilttech         RT @eoinbrazil: My #rstats / DublinR introduction talk on Machine Learning with R is on GH: https://github.com/braz/DublinR-ML-treesandforests/ and SS: http://t.co/28QdEkDzzQ
+387715910095478784  Oct  8 19:07  @love_life_logic  RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387716715452567552  Oct  8 19:10  @FastBigData      Tableau 8.1 and R http://prsm.tc/26a0r0 via @prismatic #rstats
+387718124126371840  Oct  8 19:16  @WSankey          RT @DataCommunityDC: We're hosting 2 #rstats workshops on Oct 19th.Come out and learn the lingua franca of #datascience! http://t.co/CUQYrwMHS8  #datadc #bigdata
+387730686695981057  Oct  8 20:06  @sedgeboy         Started working with roxygen & devtools today. Should've done this ages ago! #rstats @hadleywickham
+387734293360807936  Oct  8 20:20  @Rbloggers        rCharts goes Polar:  (This article was first published on   Timely Portfolio, and kindly contributed... http://bit.ly/1ct8SGw #rstats
+387739103556816896  Oct  8 20:39  @statslabdublin   RT @eoinbrazil: My #rstats / DublinR introduction talk on Machine Learning with R is on GH: https://github.com/braz/DublinR-ML-treesandforests/ and SS: http://t.co/28QdEkDzzQ
