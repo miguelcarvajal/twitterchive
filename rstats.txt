@@ -20954,3 +20954,65 @@
 387921632490450944  Oct  9 08:44  @ibartomeus       Just recover my last value of an R session: x <– .Last.value Great when you forgot to save a long simulation #rstats
 387922452405166080  Oct  9 08:48  @ngamita          There are so many ways to do same thing in #rstats - now always looking for the best and quickest way, even if i already have a long soln.
 387924056668143617  Oct  9 08:54  @aCraigPfeifer    RT @mjcavaretta: MT @kdnuggets: #DataScience needs Polyglots - know 2+ of #python #rstats #sas #spss #matlab #julia #octave http://t.co/JYIc3w7ibz
+387925459419160577  Oct  9 09:00  @statisticsblog   R tip of the day - Get data that fit before you fit data. http://i.cx/1a8XObn #r #rstats
+387925545708568576  Oct  9 09:00  @lucaborger       Exploratory Data Analysis with #rstats by Jennifer Bryan http://bit.ly/GGpBZb great lattice tutorials http://bit.ly/1fZo0O5 MT @chlalanne
+387926936292700160  Oct  9 09:06  @ThaRealHokage    RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387928395218051072  Oct  9 09:11  @eddelbuettel     Applies to R in a similar way: Notes on mixing Debian and native package managers for Python packages http://notes.pault.ag/debian-python/  #rstats
+387929063744368640  Oct  9 09:14  @RickWicklin      Excellent article on local regression and kernel smoothing http://www.r-bloggers.com/some-heuristics-about-local-regression-and-kernel-smoothing/ Kudos to @freakonometrics #Statistics #Rstats
+387930602554408960  Oct  9 09:20  @Mark_Gardener    Using dimnames() for row and column names in matrix, array or data.frames http://www.dataanalytics.org.uk/Data%20Analysis/tips%20and%20tricks.htm #rstats
+387932251041722368  Oct  9 09:27  @RickWicklin      Agree! I'm a polyglot. RT @kdnuggets: Data Scientists need to be Polyglots-know 2 or more of #python #rstats #sas ... http://bit.ly/1ak4MM4
+387932833865420801  Oct  9 09:29  @rapporters       Vote for our #cloud data analysis and reporting #rstats platform on @PioneersHQ Community Award at http://woobox.com/wqcfse/vote/for/1381190
+387932959803600896  Oct  9 09:29  @iicy_clues       at the end of the day you cant trust nobody not even the woman who gave you birth .. all you got is you and God #rstats
+387933296803336192  Oct  9 09:31  @timelyportfolio  RT @lucaborger: Exploratory Data Analysis with #rstats by Jennifer Bryan http://bit.ly/GGpBZb great lattice tutorials http://t.co/p5JyEE8owM MT @chlalanne
+387933629134827521  Oct  9 09:32  @timelyportfolio  RT @mgaldino: "Plyrmr- bringing #rstats Plyr to Map Reduce for Hadoop" http://feedly.com/k/18NV6tT
+387934865070370816  Oct  9 09:37  @CjBayesian       Robert Gentleman of #rstats and @Bioconductor fame to give public lecture at UofT tomorrow. I'm definitely going! http://www.utstat.toronto.edu/wordpress/?page_id=3808
+387936767963168768  Oct  9 09:45  @timelyportfolio  RT @CjBayesian: Robert Gentleman of #rstats and @Bioconductor fame to give public lecture at UofT tomorrow. I'm definitely going! http://t.co/04tvu9eEst
+387936986537144322  Oct  9 09:45  @quandl           An interactive tool to explain Simpson’s Paradox by @revodavid http://qndl.co/1e3XHC3 #Rstats #Statistics
+387940564366155776  Oct  9 10:00  @statisticsblog   Sensitivity analysis for neural networks. http://i.cx/1a8XTvO #r #rstats
+387942000231997440  Oct  9 10:05  @tdomhan          RT @quandl: An interactive tool to explain Simpson’s Paradox by @revodavid http://qndl.co/1e3XHC3 #Rstats #Statistics
+387945087533338624  Oct  9 10:18  @MoritzBuchi      Not a bad team for my thesis: RStudio #rstats + #Mendeley + TeXnicCenter/MiKTeX #LaTeX + #GitHub. (@thesiswhisperer http://buff.ly/19fK1B4)
+387945099708997632  Oct  9 10:18  @ImADataGuy       @RickWicklin @kdnuggets definitely agree - know #sas Weka EpiInfo JMP stata learning #python #rstats - each has pros/cons but sas my fav 😄
+387955661880844288  Oct  9 11:00  @statisticsblog   American Indians vs Indian Americans, statewide population using googleVis. http://i.cx/1hALR2c #r #rstats
+387955807435767808  Oct  9 11:00  @Rbloggers        R in Raw:  (This article was first published on   Timely Portfolio, and kindly contributed to R-blog... http://bit.ly/1bZCqst #rstats
+387956226531012608  Oct  9 11:02  @bgajdero         Robert Gentleman, of #rstats, giving talk  #UofT “Computationally Intensive Biology Problems” Oct 10 '13 @ 4pm RM103 http://bit.ly/18P1UaV
+387956266263273472  Oct  9 11:02  @romunov          My new favorite package for plotting correlations: corrplot:::corrplot HT to @eddelbuettel #rstats
+387957621333848064  Oct  9 11:07  @revodavid        #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387957661225865216  Oct  9 11:08  @marcosluis2186   RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387957751970004992  Oct  9 11:08  @skram            RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387958075761917953  Oct  9 11:09  @jwindz           RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387958401893814272  Oct  9 11:11  @tpoi             Reviewing code achievement of the day: just decreased run-time of code given by authors in supp. mat. by 10 times! #rstats
+387958671474298880  Oct  9 11:12  @mrhunsaker       RT @tpoi: Reviewing code achievement of the day: just decreased run-time of code given by authors in supp. mat. by 10 times! #rstats
+387958765724893184  Oct  9 11:12  @meggsie          RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387962170861821952  Oct  9 11:26  @abxda            RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387963186802331649  Oct  9 11:30  @algoriffic       RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387963454411128833  Oct  9 11:31  @pjam76           RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387963974521991168  Oct  9 11:33  @oostopitre       RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387967428288077824  Oct  9 11:46  @hylopsar         any suggestions on how to speed up #Rstats code when X(n+1) depends on X(n) to be calculated? #cannotescapeforloop @tpoi @Timcdlucas
+387968101225996288  Oct  9 11:49  @statsforbios     RT @hylopsar: any suggestions on how to speed up #Rstats code when X(n+1) depends on X(n) to be calculated? #cannotescapeforloop @tpoi @Timcdlucas
+387972197190737920  Oct  9 12:05  @RLangTip         Customize your R environment with these suggestions for your .Rprofile: http://bit.ly/SAFtuh #rstats
+387972820934094849  Oct  9 12:08  @eyadsibai        RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387973242108919808  Oct  9 12:10  @pontischeswild   @hellerme RT @RLangTip Customize your R environment with these suggestions for your .Rprofile: http://bit.ly/SAFtuh  #rstats
+387973611417796609  Oct  9 12:11  @orojas           RT @RLangTip: Customize your R environment with these suggestions for your .Rprofile: http://bit.ly/SAFtuh #rstats
+387974959680593920  Oct  9 12:16  @rOpenSci         As the new @GBIF portal web launches, try out the new #rstats interface http://bit.ly/17iwozR quick start: http://bit.ly/1e8QMrl
+387974973412757505  Oct  9 12:16  @recology_        RT @rOpenSci: As the new @GBIF portal web launches, try out the new #rstats interface http://bit.ly/17iwozR quick start: http://t.co/dhXqQPYCAL
+387977024515899392  Oct  9 12:25  @mohans           RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387979028940214273  Oct  9 12:33  @VickySchneiderG  RT @rOpenSci: As the new @GBIF portal web launches, try out the new #rstats interface http://bit.ly/17iwozR quick start: http://t.co/dhXqQPYCAL
+387981273265737728  Oct  9 12:41  @_bmartinez_      Adentrándome en el mundo de @github con mi charla-demo en el @FuerteHack https://github.com/beamartinez/fuertehack #rstats
+387981319122063360  Oct  9 12:42  @bajozocalo       Todo es risas y diversión hasta que hay que conectar #Rstats con #Hadoop y #Pig. Ahí ya valió madre.
+387982136764268544  Oct  9 12:45  @marcelinollano   RT @_bmartinez_: Adentrándome en el mundo de @github con mi charla-demo en el @FuerteHack https://github.com/beamartinez/fuertehack #rstats
+387982555066028032  Oct  9 12:47  @Ferdev           RT @_bmartinez_: Adentrándome en el mundo de @github con mi charla-demo en el @FuerteHack https://github.com/beamartinez/fuertehack #rstats
+387984108539744256  Oct  9 12:53  @revodavid        Just saw preview of @DataSong Time-to-Event Models webinar. Great stuff: predict events, find why they occur http://bit.ly/17fYYkH #rstats
+387985860139839488  Oct  9 13:00  @statisticsblog   Tableau 8.1 and R integration in 30 seconds. http://i.cx/1bbkMRH @revodavid #r #rstats
+387986314312040448  Oct  9 13:02  @AndrewStatsol    RT @statisticsblog: Tableau 8.1 and R integration in 30 seconds. http://i.cx/1bbkMRH @revodavid #r #rstats
+387988682117877760  Oct  9 13:11  @JeffHemsley      RT @statisticsblog: Tableau 8.1 and R integration in 30 seconds. http://i.cx/1bbkMRH @revodavid #r #rstats
+387992788375437312  Oct  9 13:27  @mattgarciablitz  RT @RLangTip: Customize your R environment with these suggestions for your .Rprofile: http://bit.ly/SAFtuh #rstats
+387996932507185152  Oct  9 13:44  @Biff_Bruise      RT @revodavid: #DataScience + #DataViz unite -- @tableau to add R integration in next version:  http://bit.ly/17fO52b #rstats
+387997660336357376  Oct  9 13:47  @emnavarretem     RT @statisticsblog: Sensitivity analysis for neural networks. http://i.cx/1a8XTvO #r #rstats
+387997944462737408  Oct  9 13:48  @jjgibaja         Interesante sesión con los participantes del MUDE en @deusto: #graficaca #DataInkRatio y primer contacto (no traumático) con #rstats.
+387999612545413121  Oct  9 13:54  @TrevorABranch    A simple typo converts "lecture" into "let-cure".  This quarter, let me cure your #rstats weaknesses.
+388000593341861888  Oct  9 13:58  @cocoahn          RT @RLangTip: Customize your R environment with these suggestions for your .Rprofile: http://bit.ly/SAFtuh #rstats
+388000962687692800  Oct  9 14:00  @statisticsblog   Some heuristics about local regression and kernel smoothing. http://i.cx/19zsQyc @freakonometrics #r #rstats
+388007021192028160  Oct  9 14:24  @timelyportfolio  Timely Portfolio: More Polarized http://timelyportfolio.blogspot.com/2013/10/more-polarized.html?spref=tw #rstats #rCharts #d3js #micropolar @biovisualize
+388008616638566400  Oct  9 14:30  @Rbloggers        Tomorrow: Webinar on Time-to-Event Models:  (This article was first published on   Revolutions, and ... http://bit.ly/19kzHcO #rstats
+388009908177612800  Oct  9 14:35  @cwarden45        RT @_inundata: The Leek group @simplystats has a well-written guide on package dev in R. Highly recommended. #rstats ↬ @ctitusbrown http://t.co/jFPK8h7HcX
+388012778281529344  Oct  9 14:47  @mjcavaretta      Good for #opensource. MT @_inundata: The Leek group @simplystats has guide to package dev in #rstats ↬ @ctitusbrown http://bit.ly/19b7QtG
