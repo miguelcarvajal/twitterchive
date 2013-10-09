@@ -20927,3 +20927,30 @@
 387813421099802625  Oct  9 01:34  @ChrisBeeley      RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
 387824772928634880  Oct  9 02:20  @drago_carlo      Some heuristics about local regression and kernel smoothing http://www.r-bloggers.com/some-heuristics-about-local-regression-and-kernel-smoothing/ via @freakonometrics @rbloggers #Statistics #Rstats
 387834069481844736  Oct  9 02:57  @cloudHPC         #free eBook: Programming on Parallel Machines; GPU, Multicore, Clusters and More including #rstats examples http://heather.cs.ucdavis.edu/~matloff/158/PLN/ParProcBook.pdf
+387852323248025600  Oct  9 04:09  @adolfoalvarez    RT @eoinbrazil: My #rstats / DublinR introduction talk on Machine Learning with R is on GH: https://github.com/braz/DublinR-ML-treesandforests/ and SS: http://t.co/28QdEkDzzQ
+387853202885857280  Oct  9 04:13  @CeADARIreland    @eoinbrazil talking  #machinelearning at @CeADARIreland / #rstats Dublin event in @ditofficial yesterday. http://t.co/OOG1xcoLyI
+387858219185754112  Oct  9 04:33  @mianromu         Acabo de generar un vector de 9'2Gb y se me ha quedado "frito" el equipo. Cachis! #rstats
+387858682010402816  Oct  9 04:34  @BrianMacNamee    RT @CeADARIreland: @eoinbrazil talking  #machinelearning at @CeADARIreland / #rstats Dublin event in @ditofficial yesterday. http://t.co/OOG1xcoLyI
+387859083325214720  Oct  9 04:36  @jameskeirstead   http://Sys.info() but sessionInfo().  Really #rstats?  Really?
+387859293984550912  Oct  9 04:37  @mianromu         Xornada R. Mañán, 10/10, no Centro de Novas Tecnoloxías de Galicia. http://ow.ly/pDuOl #rstats http://ow.ly/i/3nab1
+387859896521469952  Oct  9 04:39  @mianromu         Primeira xornada técnica sobre a linguaxe de programación R http://ow.ly/pDvkc #rstats
+387873547705524224  Oct  9 05:33  @MikejMcDermott   Would be a useful tutorial http://www.itc.nl/~rossiter/teach/R/R_corregr.pdf IF  had the data set! Anyone know where it can be DLed or am I missing something? #RStats
+387874605911638016  Oct  9 05:38  @Thiagogm         Fast Bayesian Inference with INLA http://wp.me/p29TGp-d6 #rstats
+387882985770725376  Oct  9 06:11  @mmeierer         Tableau 8.1 adds integration with R http://bit.ly/1baEvRw via @tableau #rstats #DataScience
+387883690090446848  Oct  9 06:14  @theorecol        Right, time to see if IT lab computers actually have R installed for Intro to #Rstats course. Starts in 45 mins. Don't be late!
+387895539100286976  Oct  9 07:01  @ERN_Malleyscrub  RT @SylvainCF: RT @quandl: Writing code efficiently for R: http://qndl.co/19dKSm9 #rstats I just love the graph: http://t.co/KTOfyizuV0
+387899636217675777  Oct  9 07:17  @data_nerd        RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387907561346715648  Oct  9 07:49  @mjcavaretta      MT @kdnuggets: #DataScience needs Polyglots - know 2+ of #python #rstats #sas #spss #matlab #julia #octave http://bit.ly/1ak4MM4
+387908744387895297  Oct  9 07:53  @mjcavaretta      @rmflight @kdnuggets @data_nerd Gr8 to see something like this http://programmers.stackexchange.com/questions/181342/r-vs-python-for-data-analysis comparing #rstats & #python for #analytics 4 the list.
+387910915800047616  Oct  9 08:02  @nextgenseek      RT @_inundata: The Leek group @simplystats has a well-written guide on package dev in R. Highly recommended. #rstats ↬ @ctitusbrown http://t.co/jFPK8h7HcX
+387910932250517504  Oct  9 08:02  @rmflight         @data_nerd @kdnuggets I agree mult lang r good, but I think open-source languages are going to win over closed, ie. #rstats over #matlab
+387912778411159552  Oct  9 08:09  @phnk             @joelgombin pas sûr que tu l'aies vu, might be of interest (plein d'exemples) : http://spatialdemography.org/wp-content/uploads/2013/04/SD_Vol1_Issue11.pdf (includes some #rstats tutorials)
+387914326327062528  Oct  9 08:15  @ShlomoArgamon    RT @mjcavaretta: MT @kdnuggets: #DataScience needs Polyglots - know 2+ of #python #rstats #sas #spss #matlab #julia #octave http://t.co/JYIc3w7ibz
+387915354707468288  Oct  9 08:20  @hadleywickham    RT @timelyportfolio: #rstats #ggplot2 in the wild on hacker news http://www.mysqlperformanceblog.com/2013/10/08/a-closer-look-at-percona-server-5-6/
+387915406570037248  Oct  9 08:20  @chlalanne        Exploratory Data Analysis with #rstats, by Jennifer Bryan http://bit.ly/GGpBZb, with great lattice tutorials, e.g. http://bit.ly/1fZo0O5
+387915520332152832  Oct  9 08:20  @hadleywickham    @jameskeirstead Sys.Date() vs Sys.time() is even worse #rstats
+387916255052587008  Oct  9 08:23  @chlalanne        GitHub repos here: http://bit.ly/1hBNXyN; and more links on "Doing data analysis with #rstats: My Way" here: http://bit.ly/1gpUb7j
+387916712718639104  Oct  9 08:25  @jjgibaja         RT @chlalanne: Exploratory Data Analysis with #rstats, by Jennifer Bryan http://bit.ly/GGpBZb, with great lattice tutorials, e.g. http://t.co/C25J0CtlzJ
+387921632490450944  Oct  9 08:44  @ibartomeus       Just recover my last value of an R session: x <– .Last.value Great when you forgot to save a long simulation #rstats
+387922452405166080  Oct  9 08:48  @ngamita          There are so many ways to do same thing in #rstats - now always looking for the best and quickest way, even if i already have a long soln.
+387924056668143617  Oct  9 08:54  @aCraigPfeifer    RT @mjcavaretta: MT @kdnuggets: #DataScience needs Polyglots - know 2+ of #python #rstats #sas #spss #matlab #julia #octave http://t.co/JYIc3w7ibz
