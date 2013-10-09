@@ -20907,3 +20907,23 @@
 387730686695981057  Oct  8 20:06  @sedgeboy         Started working with roxygen & devtools today. Should've done this ages ago! #rstats @hadleywickham
 387734293360807936  Oct  8 20:20  @Rbloggers        rCharts goes Polar:  (This article was first published on   Timely Portfolio, and kindly contributed... http://bit.ly/1ct8SGw #rstats
 387739103556816896  Oct  8 20:39  @statslabdublin   RT @eoinbrazil: My #rstats / DublinR introduction talk on Machine Learning with R is on GH: https://github.com/braz/DublinR-ML-treesandforests/ and SS: http://t.co/28QdEkDzzQ
+387763706798411776  Oct  8 22:17  @Gliders_Coach    RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387764000844283904  Oct  8 22:18  @sjGoring         Does anyone know the Lat/Long for Lansing Woods in the #RStats package #spatstat?
+387764535202816000  Oct  8 22:20  @Rbloggers        Some heuristics about local regression and kernel smoothing:  (This article was first published on  ... http://bit.ly/19gZC5h #rstats
+387765526908248065  Oct  8 22:24  @timelyportfolio  #rstats #ggplot2 in the wild on hacker news http://www.mysqlperformanceblog.com/2013/10/08/a-closer-look-at-percona-server-5-6/
+387768614348017664  Oct  8 22:36  @HKotadia         RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387769924237529089  Oct  8 22:42  @clarkfitzg       Enjoying this #rstats documentation by @hadleywickham. Lots of good foundational stuff- http://adv-r.had.co.nz/Functional-programming.html
+387772544730025985  Oct  8 22:52  @mgaldino         "Plyrmr- bringing #rstats Plyr to Map Reduce for Hadoop" http://feedly.com/k/18NV6tT
+387775222134603776  Oct  8 23:03  @ramnath_vaidya   RT @timelyportfolio: #rstats #ggplot2 in the wild on hacker news http://www.mysqlperformanceblog.com/2013/10/08/a-closer-look-at-percona-server-5-6/
+387777997521965056  Oct  8 23:14  @HlthAnalysis     Excellent How-to Tutorial "Getting Started with #Tableau 8.1 Beta & R" (Part 1) by  @idigdata http://bit.ly/1c36GVV #rstats #rbloggers
+387786144844234752  Oct  8 23:46  @Sergio_Ibarra    I'm looking some help for geoprocessing BIG shapefiles. If you know some tip i'd be very thankful #qgis #rstats #sql http://gis.stackexchange.com/q/73807/18535?stw=2
+387786369596395520  Oct  8 23:47  @FreeRangeRsrch   RT @DataCommunityDC: We're hosting 2 #rstats workshops on Oct 19th.Come out and learn the lingua franca of #datascience! http://t.co/CUQYrwMHS8  #datadc #bigdata
+387789908380631040  Oct  9 00:01  @reiver           RT @_inundata: The Leek group @simplystats has a well-written guide on package dev in R. Highly recommended. #rstats ↬ @ctitusbrown http://t.co/jFPK8h7HcX
+387795797351219200  Oct  9 00:24  @timtriche        RT @therealprotonk: View R function bodies as JSON Objects: https://gist.github.com/Protonk/6886551 #rstats
+387800792172068864  Oct  9 00:44  @spandalai        #Plyrmr- bringing #rstats Plyr to Map Reduce for #Hadoop http://sco.lt/9KfTkH
+387806732271235072  Oct  9 01:08  @VeriMadenciligi  RT @eoinbrazil: My #rstats / DublinR introduction talk on Machine Learning with R is on GH: https://github.com/braz/DublinR-ML-treesandforests/ and SS: http://t.co/28QdEkDzzQ
+387812187211038720  Oct  9 01:30  @DailyRpackage    cplexAPI - R Interface to C API of IBM ILOG CPLEX http://cran.r-project.org/web/packages/cplexAPI/index.html #RStats
+387812490660552704  Oct  9 01:31  @cloudHPC         RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387813421099802625  Oct  9 01:34  @ChrisBeeley      RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+387824772928634880  Oct  9 02:20  @drago_carlo      Some heuristics about local regression and kernel smoothing http://www.r-bloggers.com/some-heuristics-about-local-regression-and-kernel-smoothing/ via @freakonometrics @rbloggers #Statistics #Rstats
+387834069481844736  Oct  9 02:57  @cloudHPC         #free eBook: Programming on Parallel Machines; GPU, Multicore, Clusters and More including #rstats examples http://heather.cs.ucdavis.edu/~matloff/158/PLN/ParProcBook.pdf
