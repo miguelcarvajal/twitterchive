@@ -21016,3 +21016,33 @@
 388008616638566400  Oct  9 14:30  @Rbloggers        Tomorrow: Webinar on Time-to-Event Models:  (This article was first published on   Revolutions, and ... http://bit.ly/19kzHcO #rstats
 388009908177612800  Oct  9 14:35  @cwarden45        RT @_inundata: The Leek group @simplystats has a well-written guide on package dev in R. Highly recommended. #rstats ↬ @ctitusbrown http://t.co/jFPK8h7HcX
 388012778281529344  Oct  9 14:47  @mjcavaretta      Good for #opensource. MT @_inundata: The Leek group @simplystats has guide to package dev in #rstats ↬ @ctitusbrown http://bit.ly/19b7QtG
+388018705378316288  Oct  9 15:10  @kribys           Gi deg selv en liten fordel i Scrabble ved hjelp av #rstats: ScrabbleScore with initial version ... http://tmi.me/1anIpe
+388020564033429504  Oct  9 15:18  @megritude        RT @TrevorABranch: A simple typo converts "lecture" into "let-cure".  This quarter, let me cure your #rstats weaknesses.
+388022208582254592  Oct  9 15:24  @randyzwitch      In the battle of @rstudio server on AWS vs. IPython Notebook, RStudio Server wins so far ease of install! Still screaming at IPython #rstats
+388025534464016384  Oct  9 15:37  @Jowanza          Spending an hour trying to figure out how to get my dates to show up properly in ggplot2 #Rstats
+388025641964019712  Oct  9 15:38  @DavideMassidda   Latent variable analysis: a huge collection of teaching materials http://bit.ly/15VOk7w #rstats #lavaan
+388025805831692288  Oct  9 15:38  @insula_r         RT @DavideMassidda: Latent variable analysis: a huge collection of teaching materials http://bit.ly/15VOk7w #rstats #lavaan
+388027767603744768  Oct  9 15:46  @Flic_Anderson    Today I did a bit of getting to know #Rstats. I learned that "maroon 4" is a valid colour in R, but "Maroon5" is not. #NotMusicTrivia
+388029937774379009  Oct  9 15:55  @gappy3000        wanted: integrate the best "functional" packages for #rstats (vadr, lambda.r) into a concise, consistent functional language for data.
+388030810655182848  Oct  9 15:58  @algaebarnacle    That swooping feeling in your stomach before you run some potentially beautiful #rstats code
+388036368435126272  Oct  9 16:20  @RupertTheBeer    @LaurieFleming @RachelRayner @paulbrislen @jmbrnt I'm an #rstats user - #opensourceFTW
+388038272766996480  Oct  9 16:28  @AhmedMoustafa    Demo for sampling distribution of x-bar http://spark.rstudio.com/ahmed/sampling/ deployed on #Shiny beta server. Thanks @rstudioapp for the access! #rstats
+388039250887069696  Oct  9 16:32  @hadleywickham    RT @algaebarnacle: That swooping feeling in your stomach before you run some potentially beautiful #rstats code
+388040007128080384  Oct  9 16:35  @RladiesSF        Week 3 of our R-ladies Meetup for the R coursera course. Check it out and RSVP! http://meetu.ps/21DBwM #rstats #compdata
+388040008533172225  Oct  9 16:35  @gdequeiroz       Week 3 of our R-ladies Meetup for the R coursera course. Check it out and RSVP! http://meetu.ps/21DBwM #rstats #compdata
+388045053714649088  Oct  9 16:55  @ngamita          late nite #rstats
+388045913270145024  Oct  9 16:58  @adailyventure    RT @gdequeiroz: Week 3 of our R-ladies Meetup for the R coursera course. Check it out and RSVP! http://meetu.ps/21DBwM #rstats #compdata
+388047714501787650  Oct  9 17:05  @AriBFriedman     @algaebarnacle @hadleywickham that crashing feeling when your potentially beautiful #rstats code doesn't work....
+388049251780919296  Oct  9 17:12  @Gliders_Coach    RT @statisticsblog: Tableau 8.1 and R integration in 30 seconds. http://i.cx/1bbkMRH @revodavid #r #rstats
+388049667549708288  Oct  9 17:13  @Gliders_Coach    RT @treycausey: #rstats-like functionality in Clojure with Incanter, complete with quasi-#ggplot viz style. https://github.com/liebke/incanter/wiki#wiki-docs
+388049937931333632  Oct  9 17:14  @Gliders_Coach    RT @gdequeiroz: Week 3 of our R-ladies Meetup for the R coursera course. Check it out and RSVP! http://meetu.ps/21DBwM #rstats #compdata
+388050595984064512  Oct  9 17:17  @poliscipunk      Data Scientist job hunters- open #rstats position at WeddingWire: http://jobs.weddingwire.com/apply/VJU97H/Data-ScientistStatistician.html
+388052847889481728  Oct  9 17:26  @hadleywickham    RT @RladiesSF: Week 3 of our R-ladies Meetup for the R coursera course. Check it out and RSVP! http://meetu.ps/21DBwM #rstats #compdata
+388054167329443840  Oct  9 17:31  @jrisingsun       @algaebarnacle love #rstats too. And particularly the swooping feeling when a cool #ggplot figure is getting constructed
+388054318953156608  Oct  9 17:32  @jrisingsun       @algaebarnacle we should talk #rstats! Next time I'm in Corvallis
+388055034006863873  Oct  9 17:35  @andydavies       RT @RladiesSF: Week 3 of our R-ladies Meetup for the R coursera course. Check it out and RSVP! http://meetu.ps/21DBwM #rstats #compdata
+388055487700541440  Oct  9 17:36  @piprrr           RT @RLangTip: Customize your R environment with these suggestions for your .Rprofile: http://bit.ly/SAFtuh #rstats
+388056432777920512  Oct  9 17:40  @Rbloggers        Please, never use my codes without checking twice (at least)!:  (This article was first published on... http://bit.ly/19ljHHo #rstats
+388057036534976512  Oct  9 17:43  @lenwood          I am itching for an R project. I haven't needed it in the past few weeks, which is too long. #rstats
+388063311876481024  Oct  9 18:07  @amestadmx        RT @RLangTip: Customize your R environment with these suggestions for your .Rprofile: http://bit.ly/SAFtuh #rstats
+388100340056600576  Oct  9 20:35  @LSimonetta       RT @poliscipunk: Data Scientist job hunters- open #rstats position at WeddingWire: http://jobs.weddingwire.com/apply/VJU97H/Data-ScientistStatistician.html
