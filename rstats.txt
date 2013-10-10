@@ -21069,3 +21069,37 @@
 388275519294173184  Oct 10 08:11  @statsforbios     A comparison of spatial correlograms in #RStats. http://www.petrkeil.com/?p=1050
 388277031533703168  Oct 10 08:17  @DiseaseMapper    RT @statsforbios: A comparison of spatial correlograms in #RStats. http://bit.ly/1g29Njz
 388279666936537088  Oct 10 08:27  @mjcavaretta      @abxda Very cool! & @signmagazine looks like it has good articles in #statistics and of interest to #rstats / #machinelearning
+388289188518703104  Oct 10 09:05  @ecolandlab       RT @ibartomeus: I just decided to start a repo with customized functions I use often https://github.com/ibartomeus/misc_func #rstats
+388289330919530496  Oct 10 09:06  @quantlabs        University of Toronto Lecture 5. October 10, 2013, 4pm: Robert Gentleman creator of #Rstats #statistical tool http://ow.ly/pEbVq
+388296320727126016  Oct 10 09:33  @alexhanna        Drawing a derby helmet decal with #rstats and #ggplot2.
+388299929321369600  Oct 10 09:48  @noticiasSobreR   rasterVis and solaR moved to GitHub: I have just published a new version of solaR and rasterVis on CRA... http://tinyurl.com/k3pypkq #rstats
+388304282631819264  Oct 10 10:05  @william_cairns   Things I should have known.. Using R display the time as epoch unclass(Sys.time()) #Rstats
+388305992405905408  Oct 10 10:12  @insula_r         Analisi in Componenti Principali: quante componenti estrarre? La parallel analysis | http://www.insular.it/?p=403  #rstats #psychometrics
+388308863176278018  Oct 10 10:23  @ErikaMudrak      Ugh... How to make JMP do a Likelihood Ratio Test for model comparison between two nested models? Like anova(Mod1.lm, Mod2.lm) in #rstats
+388313308542926848  Oct 10 10:41  @timelyportfolio  not quite there but good start #rCharts #micropolar dartboard: http://rcharts.io/viewer/?6919316#.Ula9BsLisy3.twitter #rstats @biovisualize #d3js
+388317614105448448  Oct 10 10:58  @ramnath_vaidya   RT @timelyportfolio: not quite there but good start #rCharts #micropolar dartboard: http://rcharts.io/viewer/?6919316#.Ula9BsLisy3.twitter #rstats @biovisualize #d3js
+388325738467704833  Oct 10 11:30  @Rbloggers        rasterVis and solaR moved to GitHub:  (This article was first published on   Omnia sunt Communia! » ... http://bit.ly/19lmrTh #rstats
+388326301326921728  Oct 10 11:32  @andreaesseci     @DMR_Rosaria at #Knime Meetup Pavia/Milano presents 2.8 new featurea: improved #Rstats integr, #timeseries, #maps...
+388327013863657472  Oct 10 11:35  @jmgomez          RT @jmsidhu: Data Science with R: Getting Started with Rattle - a survival guide (free) #rstats #DataMining http://bit.ly/1bAqFZr
+388331938521833472  Oct 10 11:55  @quandl           The look of verifying #data by Pat @RBloggers http://qndl.co/15nBbll #Rstats
+388332501980020737  Oct 10 11:57  @knime            RT @andreaesseci: @DMR_Rosaria at #Knime Meetup Pavia/Milano presents 2.8 new featurea: improved #Rstats integr, #timeseries, #maps...
+388332788803309568  Oct 10 11:58  @LeoCaomhanach    Five years on, it still blows my mind that the Hat matrix isn't equivalent to the identity matrix. Witchcraft. #rstats
+388334558405726208  Oct 10 12:05  @RLangTip         How to calculate Prob(X > Y) where X and Y are Gamma distributed: http://bit.ly/Pq3v0n #rstats
+388334605923020800  Oct 10 12:05  @andreaesseci     Bridging the worlds in #bioinformatics:@franzcivardi of DaisyLabs on mixing #Rstats and #Cytoscape with #Knime
+388335422088417281  Oct 10 12:09  @GiacomoGaudio    RT @RLangTip: How to calculate Prob(X > Y) where X and Y are Gamma distributed: http://bit.ly/Pq3v0n #rstats
+388335774388584451  Oct 10 12:10  @ianjacobs        @amy_mccarter I'm both proud and impressed! Are you going to use #rstats for your PhD analysis?
+388336277990305792  Oct 10 12:12  @DMR_Rosaria      RT @andreaesseci: @DMR_Rosaria at #Knime Meetup Pavia/Milano presents 2.8 new featurea: improved #Rstats integr, #timeseries, #maps...
+388336337234837505  Oct 10 12:12  @DMR_Rosaria      RT @andreaesseci: Bridging the worlds in #bioinformatics:@franzcivardi of DaisyLabs on mixing #Rstats and #Cytoscape with #Knime
+388336510308610048  Oct 10 12:13  @knime            RT @andreaesseci: Bridging the worlds in #bioinformatics:@franzcivardi of DaisyLabs on mixing #Rstats and #Cytoscape with #Knime
+388340963766071296  Oct 10 12:31  @mjcavaretta      #nlproc 2? RT @andreaesseci: @DMR_Rosaria at #Knime Meetup Pavia/Milano presents 2.8 new features: #Rstats integr, #timeseries, #maps...
+388352455471136768  Oct 10 13:16  @CjBayesian       New post: Calculating AUC the Hard Way. http://bayesianbiologist.com/2013/10/10/calculating-auc-the-hard-way/ #rstats
+388357824616464385  Oct 10 13:38  @recology_        .@crossref Metadata search #API   at http://bit.ly/19Cu59U #alm13 / @rOpenSci working on #rstats library here http://bit.ly/19Cu59V
+388358805567705088  Oct 10 13:42  @RevoJoe          #rstats Think R next time you have a signal processing project http://bit.ly/16zCQoB
+388362777376485376  Oct 10 13:57  @oscarperpinan    rasterVis and solaR moved to GitHub http://wp.me/pNSqK-mf #rstats
+388363562990592000  Oct 10 14:01  @davidjayharris   RT @CjBayesian: New post: Calculating AUC the Hard Way. http://bayesianbiologist.com/2013/10/10/calculating-auc-the-hard-way/ #rstats
+388369273770356736  Oct 10 14:23  @_Makeithappenn_  best shoes for this weather, is Some nike Boots ! #rstats
+388372200773791745  Oct 10 14:35  @revodavid        R has all the signal processing capabilities of Matlab and SAS -- and then some: http://bit.ly/17rhcyC #rstats
+388372945762263041  Oct 10 14:38  @sdataanalytics   RT @revodavid: R has all the signal processing capabilities of Matlab and SAS -- and then some: http://bit.ly/17rhcyC #rstats
+388373638207918080  Oct 10 14:41  @algaebarnacle    @jess_reimer Good explanation of the different "apply" functions in #rstats http://stackoverflow.com/questions/3505701/r-grouping-functions-sapply-vs-lapply-vs-apply-vs-tapply-vs-by-vs-aggrega
+388376091385417728  Oct 10 14:50  @GothicSmurf      RT @revodavid: R has all the signal processing capabilities of Matlab and SAS -- and then some: http://bit.ly/17rhcyC #rstats
+388377815030063104  Oct 10 14:57  @anniemthompson   R's "gridExtra" package makes it easy to create multi panel plots with ggplot2. http://bit.ly/19DbxMC #rstats
