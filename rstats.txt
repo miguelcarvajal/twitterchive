@@ -21103,3 +21103,59 @@
 388373638207918080  Oct 10 14:41  @algaebarnacle    @jess_reimer Good explanation of the different "apply" functions in #rstats http://stackoverflow.com/questions/3505701/r-grouping-functions-sapply-vs-lapply-vs-apply-vs-tapply-vs-by-vs-aggrega
 388376091385417728  Oct 10 14:50  @GothicSmurf      RT @revodavid: R has all the signal processing capabilities of Matlab and SAS -- and then some: http://bit.ly/17rhcyC #rstats
 388377815030063104  Oct 10 14:57  @anniemthompson   R's "gridExtra" package makes it easy to create multi panel plots with ggplot2. http://bit.ly/19DbxMC #rstats
+388379621978550272  Oct 10 15:04  @mattgarciablitz  RT @revodavid: R has all the signal processing capabilities of Matlab and SAS -- and then some: http://bit.ly/17rhcyC #rstats
+388380158279024640  Oct 10 15:07  @martinmev        RT @revodavid: R has all the signal processing capabilities of Matlab and SAS -- and then some: http://bit.ly/17rhcyC #rstats
+388380196598185985  Oct 10 15:07  @or_exchange      RT @DailyRpackage: cplexAPI - R Interface to C API of IBM ILOG CPLEX http://cran.r-project.org/web/packages/cplexAPI/index.html #RStats
+388384317614743552  Oct 10 15:23  @IronistM         Core plots for A/B Test across 3 domains: AOV, Conversion & Goal % #GoogleAnalytics ,#ContentExperiments & #rstats https://gist.github.com/IronistM/6923644
+388385664816803841  Oct 10 15:28  @AMULETAnalytics  RT @revodavid: R has all the signal processing capabilities of Matlab and SAS -- and then some: http://bit.ly/17rhcyC #rstats
+388388526683070465  Oct 10 15:40  @MoritzBuchi      "Tweeting News Articles" http://dx.doi.org/10.1177/2158244013502496 features some fancy R #rstats plots @herrcafe  (via @SAGElibrarynews) #openaccess
+388390796698726401  Oct 10 15:49  @ngamita          I've stretched my #Inkscape skills to a level i didn't know i could reach. #rstats #Inkscape
+388392036673789952  Oct 10 15:54  @brian_chano      Well done. RT @ngamita: I've stretched my #Inkscape skills to a level i didn't know i could reach. #rstats #Inkscape
+388392396868042752  Oct 10 15:55  @quandlsean       The look of verifying #data http://qndl.co/15nBbll #Rstats
+388395537365344256  Oct 10 16:08  @rmflight         RT @quandlsean: The look of verifying #data http://qndl.co/15nBbll #Rstats
+388397452799131649  Oct 10 16:15  @chlalanne        Maps in #rstats (with #ggplot2), http://bit.ly/19CM14l (PDF, 30 pp.)
+388398557977640962  Oct 10 16:20  @bgajdero         Robert Gentelmen, of #rstats, at #UofT presenting "Computationally Intensive Biology Problems":  Outline: [pic] http://t.co/BL3JEshaA2
+388399794613280769  Oct 10 16:25  @shoha99          MT: @chlalanne #Maps in #rstats with #ggplot2, http://bit.ly/19CM14l #DataVizQMSS
+388401419398549505  Oct 10 16:31  @chlalanne        Exploratory Methods and Data Mining, by Di Cook, http://bit.ly/16TZsma #rstats #ggplot2 #dataviz
+388401513045180416  Oct 10 16:31  @bgajdero         "#bigdata has been solved. #complexity is the problem to solve next." - Robert Gentlemen @ #UofT #rstats
+388402326311948288  Oct 10 16:35  @timelyportfolio  RT @bgajdero: "#bigdata has been solved. #complexity is the problem to solve next." - Robert Gentlemen @ #UofT #rstats
+388402403801718784  Oct 10 16:35  @attilacsordas    R.Gentelman: "it's data structures that drive interoperability" http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html?WT.ec_id=NBT-201310 in the context of #rstats & #bioconductor
+388402701152702464  Oct 10 16:36  @KTInvasion       I've never used time series analyses before - any suggestions of pkgs/functions/resources where to start? #rstats
+388402757901631488  Oct 10 16:36  @timelyportfolio  RT @chlalanne: Exploratory Methods and Data Mining, by Di Cook, http://bit.ly/16TZsma #rstats #ggplot2 #dataviz
+388403085460377600  Oct 10 16:38  @shoha99          RT @chlalanne: Exploratory Methods and Data Mining, by Di Cook, http://bit.ly/16TZsma #rstats #ggplot2 #dataviz
+388403592383971328  Oct 10 16:40  @BidwiserApp      RT @bgajdero: "#bigdata has been solved. #complexity is the problem to solve next." - Robert Gentlemen @ #UofT #rstats
+388403593130569729  Oct 10 16:40  @latentview       RT @bgajdero: "#bigdata has been solved. #complexity is the problem to solve next." - Robert Gentlemen @ #UofT #rstats
+388404645686554624  Oct 10 16:44  @RevolutionR      RT @latentview: RT @bgajdero: "#bigdata has been solved. #complexity is the problem to solve next." - Robert Gentlemen @ #UofT #rstats
+388407427198361600  Oct 10 16:55  @kdnuggets        Plyrmr: bringing #rstats Plyr to Map Reduce for Hadoop http://bit.ly/19mtZoS
+388408213487763456  Oct 10 16:58  @maddenker        RT @kdnuggets: Plyrmr: bringing #rstats Plyr to Map Reduce for Hadoop http://bit.ly/19mtZoS
+388408288108642304  Oct 10 16:58  @YvesMulkers      RT @kdnuggets: Plyrmr: bringing #rstats Plyr to Map Reduce for Hadoop http://bit.ly/19mtZoS
+388409231822823424  Oct 10 17:02  @bitools24        RT @latentview: RT @bgajdero: "#bigdata has been solved. #complexity is the problem to solve next." - Robert Gentlemen @ #UofT #rstats
+388410562561863680  Oct 10 17:07  @sjGoring         @revodavid @KTInvasion @RevoJoe what about when it's irregular time intervals known with uncertainty?  Then we're in trouble! #rstats
+388413066498420736  Oct 10 17:17  @revodavid        RT @kdnuggets: Plyrmr: bringing #rstats Plyr to Map Reduce for Hadoop http://bit.ly/19mtZoS
+388413550965694464  Oct 10 17:19  @ucfagls          @sjGoring all of which can be done in #rstats with a bit of coding, sufficient coffee & a bit of math @revodavid @KTInvasion @RevoJoe
+388413733350830080  Oct 10 17:20  @mjcavaretta      Excellent! RT @kdnuggets: Plyrmr: bringing #rstats Plyr to Map Reduce for #Hadoop http://bit.ly/19mtZoS
+388416360176308224  Oct 10 17:30  @ficaryl          What Would Ben Bolker Do? #Rstats #LOL RT @DynamicEcology #wwbbd http://wp.me/s2wMuW-wwbbd
+388429465938046977  Oct 10 18:22  @tomhouslay       RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+388430354832293888  Oct 10 18:26  @berkeleymalagon  Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388430681656668161  Oct 10 18:27  @ezbrooks         RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+388430861953421312  Oct 10 18:28  @BizIntelAnalyst  Excellent! RT @kdnuggets: Plyrmr: bringing #rstats Plyr to Map Reduce for #Hadoop via @mjcavaretta http://flip.it/Pysu6
+388431214513627136  Oct 10 18:29  @cpsievert        #rstats ggplot2 FTW @borisachen: made it to the nytimes! http://nyti.ms/1aqt8DP
+388431787178721280  Oct 10 18:32  @algaebarnacle    Anyone know syntax for glht() post-hoc contrasts for 2-way mixed effects model (lme)? Need specific contrasts to test interaction #rstats
+388431855277453312  Oct 10 18:32  @jebyrnes         RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+388435120715476993  Oct 10 18:45  @ciamk            http://R.NET enables .NET Framework to collaborate with R statistical computing. http://ow.ly/pHEd6 #rstats
+388436664059588609  Oct 10 18:51  @TrevorABranch    A riddle that reveals much about bottlenecks in #Rstats:  X[which(!duplicated(X))]  is twice as fast as  X[!duplicated(X)]
+388437901937111041  Oct 10 18:56  @murraystokely    My #rstats post on Google opensource blog: RProtoBuf & HistogramTools: Statistical Analysis Tools for Large Data Sets http://google-opensource.blogspot.com/2013/10/rprotobuf-histogramtools-statistical_10.html
+388438404926414848  Oct 10 18:58  @lucaborger       Basic #rstats programming curriculum by @hadleywickham https://gist.github.com/hadley/6734639 Fantastic! HT @jebyrnes
+388438611949273088  Oct 10 18:59  @bosko            RT @murraystokely: My #rstats post on Google opensource blog: RProtoBuf & HistogramTools: Statistical Analysis Tools for Large Data Sets http://t.co/5WfwqM4X6E
+388442437146140672  Oct 10 19:14  @MayersJosh       RT @lucaborger: Basic #rstats programming curriculum by @hadleywickham https://gist.github.com/hadley/6734639 Fantastic! HT @jebyrnes
+388443198487793664  Oct 10 19:17  @ramnath_vaidya   RT @cpsievert: #rstats ggplot2 FTW @borisachen: made it to the nytimes! http://nyti.ms/1aqt8DP
+388449838527823872  Oct 10 19:43  @DistribEcology   Can anyone answer my cross-validated Q about mixed models?  If you live in Boulder I'll buy you a beer.  #rstats http://stats.stackexchange.com/questions/72503/difference-between-two-different-mixed-effects-models
+388454716503764992  Oct 10 20:03  @millerdl         whenever I get someone else's code to look at (esp. bio PhD students) it's so organised. There are titles, sections, all fancy... #rstats
+388454965376983040  Oct 10 20:04  @millerdl         ... of course, it doesn't work and that's why they sent it to me... I just paste in an ASCII art bear and mash on the keyboard... #rstats
+388455170356809728  Oct 10 20:05  @millerdl         I guess we all have a coding style. Just mine involves ASCII art. #rstats
+388456786459893761  Oct 10 20:11  @mattVDiLeo       Signal processing with #Rstats. http://feedly.com/k/1g3TByo
+388457180841529344  Oct 10 20:13  @IanDworkin       RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+388458127621779456  Oct 10 20:16  @LinearModel      Happy to be done with stats in R class! Thankfully will be  presenting plyr and reshape2 next week. These pkgs have serious power. #rstats
+388461998125506561  Oct 10 20:32  @Rbloggers        Calculating AUC the hard way:  (This article was first published on   bayesianbiologist » Rstats, an... http://bit.ly/1c6hSyt #rstats
+388464084703641600  Oct 10 20:40  @Rbloggers        RProtoBuf & HistogramTools: Statistical Analysis Tools for Large Data Sets:  (This article was first... http://bit.ly/1c6jys3 #rstats
+388467450205184000  Oct 10 20:53  @KatherineMejia   “Introducing parallelRandomForest: faster, leaner, parallelized” #Rstats #Dream8 http://blog.mckuhn.de/2013/09/introducing-parallelrandomforest-faster.html
