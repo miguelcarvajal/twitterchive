@@ -21180,3 +21180,29 @@
 388550215633870848  Oct 11 02:22  @ajreeves         RT @Gliders_Coach: Google releases new R package for Big Data #rstats http://wp.me/p9q8Y-2YC via @Gliders_Coach
 388552300807327744  Oct 11 02:31  @mpleier          Google releases new R package for Big Data #rstats http://zite.to/1aediLb
 388557037933580288  Oct 11 02:49  @yannabraham      RT @RLangTip: Customize your R environment with these suggestions for your .Rprofile: http://bit.ly/SAFtuh #rstats
+388563524605448192  Oct 11 03:15  @jmgomez          The look of verifying data - nice advice with example in #rstats http://ow.ly/24Qhbn #datamining
+388579481273008128  Oct 11 04:19  @ukituki          Forecasting hierarchical time series #rstats http://sco.lt/6TT4cL
+388610294777266176  Oct 11 06:21  @RPanczak         #RStats function to download #shapefiles http://wp.me/p3Sr2Q-2b via @jhollist
+388626924701888512  Oct 11 07:27  @hfmuehleisen     Might be old, but I like #rstats http://t.co/tLsI6No4gN
+388630419844780032  Oct 11 07:41  @hadleywickham    RT @chlalanne: Exploratory Methods and Data Mining, by Di Cook, http://bit.ly/16TZsma #rstats #ggplot2 #dataviz
+388630678729809920  Oct 11 07:42  @hadleywickham    RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388630817767194624  Oct 11 07:43  @mrtnj            RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388631100727103488  Oct 11 07:44  @mrtnj            So true. data.frame(everything)! RT @berkeleymalagon13h /.../ Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388631821572771840  Oct 11 07:47  @AstroRJS         RT @hfmuehleisen: Might be old, but I like #rstats http://t.co/tLsI6No4gN
+388632164851396608  Oct 11 07:48  @AstroRJS         RT @franckrasolo: Amusing statement made during the reproducible research lecture on https://www.coursera.org/course/compdata :) #compdata #rstats #r http://t.co/dbo6b6OCQz
+388633794280173568  Oct 11 07:54  @davidbraze       RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388635579585277952  Oct 11 08:01  @kleinschmidt     RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388636398544105473  Oct 11 08:05  @LuisDVerde       RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388636560003850240  Oct 11 08:05  @rmflight         MT @mrtnj @berkeleymalagon13h Q: "How do I make ggplot do [blah]?" A: "tidy your data first!" #Rstats http://vita.had.co.nz/papers/tidy-data.pdf
+388637865342541824  Oct 11 08:11  @monsoontrader    RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388638064274575360  Oct 11 08:11  @christianlura    RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388638673069035520  Oct 11 08:14  @jleinaweaver     RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388639127307968514  Oct 11 08:16  @qx               RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388639204064116736  Oct 11 08:16  @RickWicklin      RT @StatisticalR: Random Sequence of Heads and Tails: For R Users http://wp.me/p2DFcH-xl #rstats converted from #SAS
+388640607163666432  Oct 11 08:21  @dozenoaks        RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388640632975400960  Oct 11 08:22  @romain_francois  RT @murraystokely: My #rstats post on Google opensource blog: RProtoBuf & HistogramTools: Statistical Analysis Tools for Large Data Sets http://t.co/5WfwqM4X6E
+388644105825161216  Oct 11 08:35  @DevNambi         RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388644783184695296  Oct 11 08:38  @tmuth            RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388645996105699328  Oct 11 08:43  @sjGoring         RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388647361742110720  Oct 11 08:48  @HAStark          RT @chlalanne: Exploratory Methods and Data Mining, by Di Cook, http://bit.ly/16TZsma #rstats #ggplot2 #dataviz
+388649035306778624  Oct 11 08:55  @hadleywickham    RT @rmflight: MT @mrtnj @berkeleymalagon13h Q: "How do I make ggplot do [blah]?" A: "tidy your data first!" #Rstats http://vita.had.co.nz/papers/tidy-data.pdf
