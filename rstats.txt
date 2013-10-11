@@ -21206,3 +21206,58 @@
 388645996105699328  Oct 11 08:43  @sjGoring         RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
 388647361742110720  Oct 11 08:48  @HAStark          RT @chlalanne: Exploratory Methods and Data Mining, by Di Cook, http://bit.ly/16TZsma #rstats #ggplot2 #dataviz
 388649035306778624  Oct 11 08:55  @hadleywickham    RT @rmflight: MT @mrtnj @berkeleymalagon13h Q: "How do I make ggplot do [blah]?" A: "tidy your data first!" #Rstats http://vita.had.co.nz/papers/tidy-data.pdf
+388650412737183745  Oct 11 09:00  @statisticsblog   R tip of the day - more polar charts with R. http://i.cx/17smcTM #r #rstats
+388651478707351552  Oct 11 09:05  @MichelSpeiser    RT @kdnuggets: Plyrmr: bringing #rstats Plyr to Map Reduce for Hadoop http://bit.ly/19mtZoS
+388652064190255105  Oct 11 09:07  @RinaldoBonazzo   RT @latentview: RT @bgajdero: "#bigdata has been solved. #complexity is the problem to solve next." - Robert Gentlemen @ #UofT #rstats
+388652733030342656  Oct 11 09:10  @kleinschmidt     RT @rmflight: MT @mrtnj @berkeleymalagon13h Q: "How do I make ggplot do [blah]?" A: "tidy your data first!" #Rstats http://vita.had.co.nz/papers/tidy-data.pdf
+388655412184383488  Oct 11 09:20  @davekincaid      RT @rmflight: MT @mrtnj @berkeleymalagon13h Q: "How do I make ggplot do [blah]?" A: "tidy your data first!" #Rstats http://vita.had.co.nz/papers/tidy-data.pdf
+388657202648862722  Oct 11 09:27  @cdhowe           RT @rmflight: MT @mrtnj @berkeleymalagon13h Q: "How do I make ggplot do [blah]?" A: "tidy your data first!" #Rstats http://vita.had.co.nz/papers/tidy-data.pdf
+388658778985725952  Oct 11 09:34  @hylopsar         RT @DistribEcology: Can anyone answer my cross-validated Q about mixed models?  If you live in Boulder I'll buy you a beer.  #rstats http://t.co/YuJMtE9NC2
+388660151039041536  Oct 11 09:39  @jewsforjets      RT @DailyRpackage: cplexAPI - R Interface to C API of IBM ILOG CPLEX http://cran.r-project.org/web/packages/cplexAPI/index.html #RStats
+388666738230845440  Oct 11 10:05  @Amar_gondaliya   RT @chlalanne: Exploratory Methods and Data Mining, by Di Cook, http://bit.ly/16TZsma #rstats #ggplot2 #dataviz
+388669778384400385  Oct 11 10:17  @IAmNotACylon     RT @RladiesSF: Week 3 of our R-ladies Meetup for the R coursera course. Check it out and RSVP! http://meetu.ps/21DBwM #rstats #compdata
+388670133054750720  Oct 11 10:19  @cloudHPC         Slides for #rstats and #rmongodb with @MongoSoup at #mongodbmuc finalized. Thanks @rstudioapp for #Rpres
+388677447488503808  Oct 11 10:48  @MongoSoup        RT @cloudHPC: Slides for #rstats and #rmongodb with @MongoSoup at #mongodbmuc finalized. Thanks @rstudioapp for #Rpres
+388677447547244544  Oct 11 10:48  @comsysto         RT @cloudHPC: Slides for #rstats and #rmongodb with @MongoSoup at #mongodbmuc finalized. Thanks @rstudioapp for #Rpres
+388677447551438848  Oct 11 10:48  @mongomuc         RT @cloudHPC: Slides for #rstats and #rmongodb with @MongoSoup at #mongodbmuc finalized. Thanks @rstudioapp for #Rpres
+388677552098656256  Oct 11 10:48  @TrevorABranch    RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388681844923072512  Oct 11 11:05  @RLangTip         A progress bar that shows only in the console: if(interactive) {pb <- txtProgressBar(…)} #rstats http://bit.ly/PxLttn (via @noamross)
+388684018511650816  Oct 11 11:14  @SimonJackman     RT @rmflight: MT @mrtnj @berkeleymalagon13h Q: "How do I make ggplot do [blah]?" A: "tidy your data first!" #Rstats http://vita.had.co.nz/papers/tidy-data.pdf
+388684689617068033  Oct 11 11:17  @davidjayharris   RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+388686793618755584  Oct 11 11:25  @DSI2013          Nice R Package: Google releases new R package for Big Data #rstats #datascience http://ht.ly/pJ6Qc
+388686809687154688  Oct 11 11:25  @drjerryasmith    Nice R Package: Google releases new R package for Big Data #rstats #datascience http://ht.ly/pJ6El
+388686815328497664  Oct 11 11:25  @jmgomez          RT @statisticsblog: Tableau 8.1 and R integration in 30 seconds. http://i.cx/1bbkMRH @revodavid #r #rstats #dataviz
+388687488128008192  Oct 11 11:28  @revodavid        Catch up on last month's stories about R in the latest Revolutions Blog roundup: http://bit.ly/GJvUes #rstats
+388687659566002176  Oct 11 11:28  @mjcavaretta      MT @BigDataSpeaker: What is “Practical #DataScience w/R”? http://www.r-bloggers.com/what-is-practical-data-science-with-r/ @BigDataBody #rstats #bigdata #analytics cc @WinVectorLLC
+388689707020058624  Oct 11 11:37  @jipvankuijk      RT @drjerryasmith: Nice R Package: Google releases new R package for Big Data #rstats #datascience http://ht.ly/pJ6El
+388690751330086913  Oct 11 11:41  @berkeleymalagon  RT @rmflight: MT @mrtnj @berkeleymalagon13h Q: "How do I make ggplot do [blah]?" A: "tidy your data first!" #Rstats http://vita.had.co.nz/papers/tidy-data.pdf
+388695717880930304  Oct 11 12:00  @statisticsblog   Some smoothing techniques in R. http://i.cx/163YSML #r #rstats
+388697585306718209  Oct 11 12:08  @danslimmon       Making a quick data visualization webapp with Shiny: http://danslimmon.wordpress.com/2013/10/11/making-a-quick-data-visualization-web-app-with-shiny/ #devops #rstats
+388698352910483456  Oct 11 12:11  @VamsiPannala     Tableau 8.1 and R integration in 30 seconds. http://i.cx/1bbkMRH #r #rstats #dataviz @INSOFEedu
+388699913481355264  Oct 11 12:17  @emnavarretem     RT @statisticsblog: Some smoothing techniques in R. http://i.cx/163YSML #r #rstats
+388702501827907584  Oct 11 12:27  @stephaniehicks   Named my R fun 'meltMeth( )' aka "melt"-ing a methylation data set. Then #BreakingBad came to mind. ha! #shouldcomeupwithabettername #rstats
+388703078477615104  Oct 11 12:30  @deronaucoin      RT @statisticsblog: Some smoothing techniques in R. http://i.cx/163YSML #r #rstats
+388703660290490368  Oct 11 12:32  @duke_data        Get up to speed with the R statistical package in our Analysis with R Workshop from 2-4 on Monday, Oct 28th  http://bit.ly/1edVjsE #rstats
+388703977556434944  Oct 11 12:33  @MikePearmain     Just sat in a #renjin workshop #rstats on the #jvm. Guys are doing amazing stuff.  Data size issue for #kaggle comps just disappeared
+388705419042250752  Oct 11 12:39  @Demografia_CSIC  Some smoothing techniques in R. http://i.cx/163YSML #r #rstats vía @statisticsblog
+388706200998526976  Oct 11 12:42  @MarkHornick      Take #OracleREnterprise for a test drive https://blogs.oracle.com/R/entry/take_oracle_r_enterprise_for #rstats #Oracle
+388707185212932097  Oct 11 12:46  @raphg            Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+388707419435458562  Oct 11 12:47  @OracleBITech     RT @MarkHornick: Take #OracleREnterprise for a test drive https://blogs.oracle.com/R/entry/take_oracle_r_enterprise_for #rstats #Oracle
+388707691624792065  Oct 11 12:48  @recology_        RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+388708955192438784  Oct 11 12:53  @kcranstn         RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+388710049276628992  Oct 11 12:57  @svincenzi        RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+388711677925289984  Oct 11 13:04  @mj_kallen        RT @MikePearmain: Just sat in a #renjin workshop #rstats on the #jvm. Guys are doing amazing stuff.  Data size issue for #kaggle comps just disappeared
+388713417168527360  Oct 11 13:11  @Jowanza          @ScraperWiki is hiring a Data Scientist: http://bit.ly/15tOhNG #DataScience #dataviz #Rstats #Python #JS
+388713761248661504  Oct 11 13:12  @GuillemSalazar   RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+388714117949030400  Oct 11 13:14  @flavioclesio     RT @jmgomez: RT @statisticsblog: Tableau 8.1 and R integration in 30 seconds. http://i.cx/1bbkMRH @revodavid #r #rstats #dataviz
+388717947130511360  Oct 11 13:29  @lgatt0           RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+388719814379712512  Oct 11 13:36  @rOpenSci         taxize (taxonomic toolbelt for #rstats) MS is the featured article on @F1000Research today http://bit.ly/GJGJx3
+388719838933180416  Oct 11 13:36  @recology_        RT @rOpenSci: taxize (taxonomic toolbelt for #rstats) MS is the featured article on @F1000Research today http://bit.ly/GJGJx3
+388720149118726144  Oct 11 13:38  @llthurman        @Evo_Ichs, RT taxize (taxonomic toolbelt for #rstats) MS is the featured article on @F1000Research today http://bit.ly/GJGJx3
+388720488391798784  Oct 11 13:39  @cboettig         RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+388720556289576961  Oct 11 13:39  @CjBayesian       RT @rOpenSci: taxize (taxonomic toolbelt for #rstats) MS is the featured article on @F1000Research today http://bit.ly/GJGJx3
+388720857603784704  Oct 11 13:40  @MikejMcDermott   @tomjwebb @statsforbios @carolinebeavon  Done with #RStats???  If so it's brilliant indeed Only learning just now Very steep learning curve!
+388721305203138560  Oct 11 13:42  @liondatasystems  R prevalence assessment studies (free webinar) on October 22  https://www3.gotomeeting.com/register/278262270 #BigDataTechCon #Rstats
+388722496326754304  Oct 11 13:47  @Marko_GHz        RT @RLangTip: A progress bar that shows only in the console: if(interactive) {pb <- txtProgressBar(…)} #rstats http://bit.ly/PxLttn (via @noamross)
+388724638085173249  Oct 11 13:55  @raviupanishad    RT @statisticsblog: R tip of the day - more polar charts with R. http://i.cx/17smcTM #r #rstats
+388737964425351168  Oct 11 14:48  @karenanya        RT @rOpenSci: taxize (taxonomic toolbelt for #rstats) MS is the featured article on @F1000Research today http://bit.ly/GJGJx3

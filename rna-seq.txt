@@ -4495,3 +4495,11 @@
 388648892398440449  Oct 11 08:54  @rnomics          Benchmarking #RNA-Seq quantification tools: RNA-Seq, a deep... http://bit.ly/GTs9mz #ExpressionandQuantification #cufflinks #RNAseq @MyEN
 388650048827179008  Oct 11 08:59  @bluemm79         RASTA – Robust adjustment of sequence tag abundance from incorrectly amplified reads | RNA-Seq Blog | @scoopit http://sco.lt/5EaoyH
 388650137616396288  Oct 11 08:59  @bluemm79         Benchmarking RNA-Seq quantification tools | RNA-Seq Blog | @scoopit http://sco.lt/6zamv3
+388673471947210752  Oct 11 10:32  @nikhilgopal      Benchmarking RNA-Seq quantification tools http://ift.tt/16Vdu79
+388678528814051328  Oct 11 10:52  @notSoJunkDNA     A method for removing PCR amplification biases in RNA Seq. http://bioinformatics.oxfordjournals.org/content/early/2013/10/09/bioinformatics.btt575.abstract RASTA: http://www.stat.purdue.edu/~doerge/ (via @michelebusby)
+388679633836998656  Oct 11 10:57  @JuIienJx         RT @notSoJunkDNA: A method for removing PCR amplification biases in RNA Seq. http://bioinformatics.oxfordjournals.org/content/early/2013/10/09/bioinformatics.btt575.abstract RASTA: http://www.stat.purdue.edu/~doerge/ (via @michelebusby)
+388681462331215873  Oct 11 11:04  @jamimmunology    RT @notSoJunkDNA: A method for removing PCR amplification biases in RNA Seq. http://bioinformatics.oxfordjournals.org/content/early/2013/10/09/bioinformatics.btt575.abstract RASTA: http://www.stat.purdue.edu/~doerge/ (via @michelebusby)
+388682678121164800  Oct 11 11:09  @rnomics          Integrated #RNA-seq and s#RNA-seq analysis identifies novel nitrate-responsive genes in Arabidopsis... http://bit.ly/GTKrEf #BMC @MyEN
+388717263496683521  Oct 11 13:26  @notSoJunkDNA     Benchmarking RNA-Seq quantification tools. http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&tp=&arnumber=6609583 [$]
+388721032057479168  Oct 11 13:41  @GuiomeNicolas    RT @notSoJunkDNA: Benchmarking RNA-Seq quantification tools. http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&tp=&arnumber=6609583 [$]
+388723440402051072  Oct 11 13:51  @schelhorn        RNA-Seq: Benchmark of quantization tools; HTSeq best for counting but inferior for DE http://bit.ly/1foLBGJ
