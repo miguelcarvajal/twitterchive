@@ -4482,3 +4482,7 @@
 388360023509696512  Oct 10 13:46  @Neuroinfo132     You know how I was looking forward to a large chunk of unbroken time for my RNA-Seq analysis?? Yeah...not gonna happen today. Gra!
 388400029092048896  Oct 10 16:25  @NucDiv           http://haldanessieve.org/2013/08/19/sailfish-alignment-free-isoform-quantification-from-rna-seq-reads-using-lightweight-algorithms/ @myen
 388407946683498496  Oct 10 16:57  @BioinformticaGC  Trinity: Método para la reconstrucción de novo de transcriptomas de datos RNA-seq.... http://fb.me/NHCaDlQR
+388516932078809088  Oct 11 00:10  @LeucineRichBio   MITIE: Simultaneous RNA-Seq-based transcript identification and quantification in multiple samples http://bioinformatics.oxfordjournals.org/cgi/content/short/29/20/2529
+388520328504160256  Oct 11 00:23  @LeucineRichBio   A Collection of new RNA-Seq Videos from The Broad Institute http://www.rna-seqblog.com/presentations/a-collection-of-new-rna-seq-videos-from-the-broad-institute/
+388523827585486849  Oct 11 00:37  @LeucineRichBio   Presentations from the inaugural RNA-Seq 2013 meeting http://www.rna-seqblog.com/events/presentations-from-the-inaugural-rna-seq-2013-meeting/
+388525599481790464  Oct 11 00:44  @LeucineRichBio   customProDB: an R package to generate customized protein databases from RNA-Seq data for proteomics search http://bioinformatics.oxfordjournals.org/cgi/content/short/btt543v2
