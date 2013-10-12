@@ -21261,3 +21261,44 @@
 388722496326754304  Oct 11 13:47  @Marko_GHz        RT @RLangTip: A progress bar that shows only in the console: if(interactive) {pb <- txtProgressBar(…)} #rstats http://bit.ly/PxLttn (via @noamross)
 388724638085173249  Oct 11 13:55  @raviupanishad    RT @statisticsblog: R tip of the day - more polar charts with R. http://i.cx/17smcTM #r #rstats
 388737964425351168  Oct 11 14:48  @karenanya        RT @rOpenSci: taxize (taxonomic toolbelt for #rstats) MS is the featured article on @F1000Research today http://bit.ly/GJGJx3
+388741423551746048  Oct 11 15:02  @FredGonceAtDell  Google releases new R package for Big Data #rstats http://bit.ly/15YPSxr
+388741913471225857  Oct 11 15:04  @DextraordinaryH  Number of Pirates by Distance from Land by Beard Type http://casoilresource.lawr.ucdavis.edu/drupal/node/715 #rstats
+388745687317622784  Oct 11 15:19  @chlalanne        RT @statisticsblog: Some smoothing techniques in R. http://i.cx/163YSML #r #rstats
+388747023886721024  Oct 11 15:24  @algaebarnacle    WOW!! EcoSim, the classic null model analysis software now available as an #rstats package! Life changed.
+388749441236074497  Oct 11 15:34  @bshor            @SeanTrende By far the easiest way is to run W-Nominate in #rstats and forget that Fortran nonsense. http://cran.r-project.org/web/packages/wnominate/index.html
+388751401276284929  Oct 11 15:42  @recology_        RT @algaebarnacle: WOW!! EcoSim, the classic null model analysis software now available as an #rstats package! Life changed.
+388751811949383680  Oct 11 15:43  @GrunerDaniel     RT @algaebarnacle: WOW!! EcoSim, the classic null model analysis software now available as an #rstats package! Life changed.
+388752519855235072  Oct 11 15:46  @recology_        New @PLOSALM sources (PMC Europe citations/database, Reddit, WordPress, OpenEdition) in #rstats alm pkg http://bit.ly/10Bh1nr  #alm13
+388752576356704256  Oct 11 15:46  @Gastove          #Rstats and #Python are my traditional go-tos for this, but I need MORE FASTER and high concurrency, so, #Scala.
+388753484641599488  Oct 11 15:50  @TuxedoPong       just learned how to use the switch() control flow function. mind = blown #rstats #shiny #intuitive #logic
+388753842440921088  Oct 11 15:51  @TrevorABranch    RT @algaebarnacle: WOW!! EcoSim, the classic null model analysis software now available as an #rstats package! Life changed.
+388754137837752320  Oct 11 15:53  @GuillemSalazar   RT @algaebarnacle: WOW!! EcoSim, the classic null model analysis software now available as an #rstats package! Life changed.
+388755459370651648  Oct 11 15:58  @GarfieldFisher   Google releases new R package for #Big #Data #rstats | @scoopit http://sco.lt/8d62DJ
+388755995150671872  Oct 11 16:00  @baumlab          RT @algaebarnacle: WOW!! EcoSim, the classic null model analysis software now available as an #rstats package! Life changed.
+388756209513529344  Oct 11 16:01  @genetics_blog    Really good primer on #Rstats package development https://github.com/jtleek/rpackages
+388756274797871104  Oct 11 16:01  @jdtonkin         Cool! RT"@algaebarnacle: WOW!! EcoSim, the classic null model analysis software now available as an #rstats package! Life changed."
+388756470407634944  Oct 11 16:02  @AbelValdivia     RT @algaebarnacle: WOW!! EcoSim, the classic null model analysis software now available as an #rstats package! Life changed.
+388756733796954113  Oct 11 16:03  @abxda            RT @genetics_blog: Really good primer on #Rstats package development https://github.com/jtleek/rpackages
+388756741590368256  Oct 11 16:03  @EduEyras         RT @genetics_blog: Really good primer on #Rstats package development https://github.com/jtleek/rpackages
+388758324226703361  Oct 11 16:09  @danslimmon       "How does this compare to the other David Bowie error?" http://danslimmon.wordpress.com/2013/10/11/making-a-quick-data-visualization-web-app-with-shiny/ #rstats #shiny #devops
+388759854594023424  Oct 11 16:15  @jrmontag         TIL: knitr is pretty awesome for R/TeX report generation http://bit.ly/GJTPuk #rstats ht/ @DrSkippy27
+388763770081652736  Oct 11 16:31  @berkeleymalagon  "This data", or "these data"? #rstats #datascience #machinelearning
+388765251216236544  Oct 11 16:37  @JChrisPires      RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+388772448235048960  Oct 11 17:05  @KirkDBorne       Google releases new R package for #BigData #Rstats: http://decisionstats.com/2013/10/10/google-releases-new-r-package-for-big-data-rstats/ > HistogramTools at: http://cran.r-project.org/web/packages/HistogramTools/
+388772973076688896  Oct 11 17:07  @adolfoalvarez    RT @KirkDBorne: Google releases new R package for #BigData #Rstats: http://decisionstats.com/2013/10/10/google-releases-new-r-package-for-big-data-rstats/ > HistogramTools at: http://cran.r-project.org/web/packages/HistogramTools/
+388777853233287168  Oct 11 17:27  @algaebarnacle    Here is link for EcoSimR: http://bit.ly/1hIWnEI Looks like it's implemented for null analysis of resource util., not co-occurrence #rstats
+388779058718584832  Oct 11 17:32  @andyteucher      Writing #rstats code in basic Win RGui for first time in a long time & keep leaving off closing parens, quotes etc. Spoiled by @rstudioapp!
+388779749516259328  Oct 11 17:34  @davidfredman     RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+388781389929545728  Oct 11 17:41  @MColebrook       RT @KirkDBorne: Google releases new R package for #BigData #Rstats: http://decisionstats.com/2013/10/10/google-releases-new-r-package-for-big-data-rstats/ > HistogramTools at: http://cran.r-project.org/web/packages/HistogramTools/
+388781735439503360  Oct 11 17:42  @ASIHCopeia       RT @algaebarnacle: WOW!! EcoSim, the classic null model analysis software now available as an #rstats package! Life changed.
+388784267289186306  Oct 11 17:52  @AndrewRAConway   RT @statisticsblog: Some smoothing techniques in R. http://i.cx/163YSML #r #rstats
+388789850234572800  Oct 11 18:14  @Rbloggers        In case you missed it: September 2013 Roundup:  (This article was first published on   Revolutions, ... http://bit.ly/1bk4vtJ #rstats
+388790845983305729  Oct 11 18:18  @bierbryo         RT @algaebarnacle: WOW!! EcoSim, the classic null model analysis software now available as an #rstats package! Life changed.
+388793972073971712  Oct 11 18:31  @Percud           RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+388819587392757760  Oct 11 20:13  @srsupp           Made my first sweet maps in #rstats today. Great tutorials @kj_gilbert & @hadleywickham! http://bit.ly/162PlV4 & http://bit.ly/Qzh7Cu
+388820200243871744  Oct 11 20:15  @aloraine205      RT @genetics_blog: Really good primer on #Rstats package development https://github.com/jtleek/rpackages
+388824930000699392  Oct 11 20:34  @StatsInTheWild   2013 NFL Playoff Probabilities by Week...in #shiny  http://glimmer.rstudio.com/gjm112/NFLPlayoffProbs/ #rstats #nfl
+388825098649489409  Oct 11 20:35  @abresler         RT @StatsInTheWild: 2013 NFL Playoff Probabilities by Week...in #shiny  http://glimmer.rstudio.com/gjm112/NFLPlayoffProbs/ #rstats #nfl
+388829745674088449  Oct 11 20:53  @abresler         My favorite new #rcharts / #rstats creation http://aragorn.org/visualization/nfl/features/peyton_manning/peyton_quest_2013/ can't wait ot see if Peyton keeps this #NFL madness up
+388830943315632128  Oct 11 20:58  @StatsInTheWild   RT @abresler: My favorite new #rcharts / #rstats creation http://aragorn.org/visualization/nfl/features/peyton_manning/peyton_quest_2013/ can't wait ot see if Peyton keeps this #NFL madness up
+388831309461585920  Oct 11 20:59  @abresler         My second favorite #rcharts/#rstats #NFL creation of the week!  Matt Schaub's season is bad but how bad? http://aragorn.org/visualization/nfl/features/matt_schaub/schaub_are_you_that_bad_2013
