@@ -21361,3 +21361,10 @@
 389169827601842176  Oct 12 19:24  @Rbloggers        Stochastic Optimization in R by Parallel Tempering:  (This article was first published on   Lindons ... http://bit.ly/1ceiYIA #rstats
 389178347034804224  Oct 12 19:58  @roland_har       RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
 389191678893912064  Oct 12 20:51  @james_gilbert    The "dredge" command in R's MuMIn package has been named in order to make you feel guilty, dirty and used after invoking it #rstats
+389205147261227008  Oct 12 21:45  @mrgunn           RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+389207504002899968  Oct 12 21:54  @eltonjohn        RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+389223523891171328  Oct 12 22:58  @zentree          Good ways in #Rstats to traverse an unknown number of subdirectories? Give starting directory and find all subdirs to unknown {n} depth.
+389224570453893121  Oct 12 23:02  @zentree          I mean besides using dir('whatever', recursive = TRUE) in #Rstats
+389261724270231552  Oct 13 01:30  @DailyRpackage    tiger - TIme series of Grouped ERrors http://cran.r-project.org/web/packages/tiger/index.html #RStats
+389272681574449152  Oct 13 02:13  @GueyeNono        Useful R Links http://lnkd.in/N3eK8d #rstats
+389274652276580352  Oct 13 02:21  @JoshChien        It's time to do coding R for data analysis. #rstats #R refresh refresh my mind.
