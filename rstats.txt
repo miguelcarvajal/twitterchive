@@ -21395,3 +21395,34 @@
 389463258244997120  Oct 13 14:50  @clarkfitzg       RT @GueyeNono: Useful R Links http://lnkd.in/N3eK8d #rstats
 389464521800450051  Oct 13 14:55  @jackwmson        RT @MDMGeek: Google releases new R package for Big Data http://ow.ly/pLFz3 #rstats #BigData
 389465304729792512  Oct 13 14:58  @StatsInTheWild   RT @wonkydata: “@drjerryasmith: Nice R Package: Google releases R package for #BigData #rstats #datascience http://ht.ly/pJ6El @wonkydata = Bigquery"
+389482281469239298  Oct 13 16:06  @kdnuggets        Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389487135029731329  Oct 13 16:25  @gsantosgo        "@kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r"
+389487323798196224  Oct 13 16:26  @kylehamilton     RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389491756800438272  Oct 13 16:44  @jackwmson        RT @gsantosgo: "@kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r"
+389492785633443840  Oct 13 16:48  @AMULETAnalytics  RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389493259161968640  Oct 13 16:50  @gappy3000        Interesting choice of cover picture for a book about parallel #rstats http://bit.ly/1aBLYIe
+389494237336580097  Oct 13 16:53  @ramnath_vaidya   Adding DeckJS Extensions in #Slidify http://slidify.github.io/add-deck-ext/ #rstats
+389495769709166592  Oct 13 17:00  @erwtokritos      RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389495912562556928  Oct 13 17:00  @aande763         Love working with #rstats . Using the MCMCglmm package for the first time today, and it's pretty cool! #biostats #nerdland
+389496510888824832  Oct 13 17:02  @mattgarciablitz  RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389496869724094464  Oct 13 17:04  @predicador37     RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389499714590486528  Oct 13 17:15  @AndreKatsurada   RT @raphg: Successful software in biology: http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html via @NatureBiotech #rstats @Bioconductor
+389499776758476800  Oct 13 17:15  @mj_kallen        Looking forward to @hfmuehleisen speaking about MongoDB integration at Amsterdam's #rstats meetup tomorrow!
+389500218179616768  Oct 13 17:17  @SuaJorge         RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389503750299451392  Oct 13 17:31  @SavingMila17     RT @rmflight: MT @mrtnj @berkeleymalagon13h Q: "How do I make ggplot do [blah]?" A: "tidy your data first!" #Rstats http://vita.had.co.nz/papers/tidy-data.pdf
+389504232640233472  Oct 13 17:33  @twbrey           RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389504280668823553  Oct 13 17:33  @m_sandholzer     First I was sceptical about #R, but after working w/ it for last 72h I'm convinced. Best stats software ever. Beer o'clock now- To #rstats!
+389507625911468032  Oct 13 17:47  @DrLyndonWalker   RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389511476693987328  Oct 13 18:02  @afigueiredo      RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389514995853455360  Oct 13 18:16  @lelayf           RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389518500076589056  Oct 13 18:30  @plusepsilon      RT @berkeleymalagon: Almost every ggplot2 question: Q: "How do I make ggplot do [blah]?" A: "Make it a column first." #Rstats
+389526606051426304  Oct 13 19:02  @kirk_hadley      @X9T_Yen... i got a machine learning model making 85% accurate predictions on 6 mo. sector-wide moves. beat that. #rstats #quant #analytics
+389526835966795776  Oct 13 19:03  @PageViral        RT @kirk_hadley: @X9T_Yen... i got a machine learning model making 85% accurate predictions on 6 mo. sector-wide moves. beat that. #rstats #quant #analytics
+389527590278791169  Oct 13 19:06  @chlalanne        RT @ramnath_vaidya: Adding DeckJS Extensions in #Slidify http://slidify.github.io/add-deck-ext/ #rstats
+389528285450743809  Oct 13 19:09  @kirk_hadley      @m_sandholzer @ramnath_vaidya From a Stata convert, glad you found the light #useR #rstats
+389530853258174464  Oct 13 19:19  @baogorek         I don't always get confused about multinomial regression, but when I do, the mlogit vignette is a big help: http://cran.r-project.org/web/packages/mlogit/vignettes/mlogit.pdf #rstats
+389532862434668544  Oct 13 19:27  @m_sandholzer     @kirk_hadley sometimes it just takes years to find that #rstats light.. ;)
+389533444184612864  Oct 13 19:29  @tedesco_paul     RT @kirk_hadley: @X9T_Yen... i got a machine learning model making 85% accurate predictions on 6 mo. sector-wide moves. beat that. #rstats #quant #analytics
+389537254978252800  Oct 13 19:44  @flash_us         RT @ramnath_vaidya: Adding DeckJS Extensions in #Slidify http://slidify.github.io/add-deck-ext/ #rstats
+389541802807918592  Oct 13 20:02  @OpenDataAlex     RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389547030013440001  Oct 13 20:23  @TrevorABranch    @Curly_McGee yes that's why I finally embraced #rstats, excel make it impossible to replicate figures.
