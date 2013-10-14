@@ -21426,3 +21426,22 @@
 389537254978252800  Oct 13 19:44  @flash_us         RT @ramnath_vaidya: Adding DeckJS Extensions in #Slidify http://slidify.github.io/add-deck-ext/ #rstats
 389541802807918592  Oct 13 20:02  @OpenDataAlex     RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
 389547030013440001  Oct 13 20:23  @TrevorABranch    @Curly_McGee yes that's why I finally embraced #rstats, excel make it impossible to replicate figures.
+389565228557406209  Oct 13 21:36  @ficaryl          Anyone know how to predict confint component of MuMIn model.avg objects so they can be plotted? #rstats #mumin #ECRChat
+389570537980051456  Oct 13 21:57  @TrestleJeff      RT @CRANberriesFeed: New CRAN package shinyRGL with initial version 0.1.0 http://goo.gl/pgljT #rstats
+389575998447943680  Oct 13 22:18  @kyloring         #rstats is so clever, automatically making my 'burnt' group orange, and 'unburnt' green http://t.co/6cgC9oRmQq
+389584110101872640  Oct 13 22:51  @monsoontrader    @ficaryl http://www.inside-r.org/packages/cran/MuMIn/docs/coef.averaging #rstats
+389590734237491200  Oct 13 23:17  @noticiasSobreR   Species occurrence data: converting UTM/MGRS coordinates to geographic coordinates: In my previous pos... http://tinyurl.com/lludhka #rstats
+389594428827897856  Oct 13 23:32  @TrestleJeff      Interactive 3D in Shiny using shinyRGL. Now available on CRAN. http://trestletechnology.net/2013/10/interactive-3d-in-shiny-shinyrgl/ #rstats #shiny
+389597484949209088  Oct 13 23:44  @cpsievert        RT @TrestleJeff: Interactive 3D in Shiny using shinyRGL. Now available on CRAN. http://trestletechnology.net/2013/10/interactive-3d-in-shiny-shinyrgl/ #rstats #shiny
+389599268975435778  Oct 13 23:51  @tdynes           RT @TrestleJeff: Interactive 3D in Shiny using shinyRGL. Now available on CRAN. http://trestletechnology.net/2013/10/interactive-3d-in-shiny-shinyrgl/ #rstats #shiny
+389604897009573888  Oct 14 00:13  @ficaryl          OK way 2 get CIs around av.mod predictions? pred=predict(av.mod, newdata, se.fit=TRUE); y=pred$fit; ci=pred$se.fit*2; U=y+ci; L=y-ci #rstats
+389622251126927360  Oct 14 01:22  @kirk_hadley      model build in parallel right now... feels like im using the internet in 1999 #rstats #data #analytics
+389624051842285568  Oct 14 01:29  @aryafaisal       RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389624111036895232  Oct 14 01:30  @DailyRpackage    gsmaRt - Gene Set Microarray Testing http://cran.r-project.org/web/packages/gsmaRt/index.html #RStats
+389624709475610624  Oct 14 01:32  @MacarenaEstevez  Google releases new R package for Big Data #rstats http://wp.me/p9q8Y-2YC vía @Gliders_Coach
+389625283420356608  Oct 14 01:34  @mj_kallen        Correction: @hfmuehleisen will be speaking about #rstats integration with *MonetDB* which is waaaay more interesting: http://www.meetup.com/amst-R-dam/events/128849462/
+389625341796708352  Oct 14 01:34  @hfmuehleisen     RT @mj_kallen: Correction: @hfmuehleisen will be speaking about #rstats integration with *MonetDB* which is waaaay more interesting: http://t.co/oQvDtvJH8k
+389625974868180992  Oct 14 01:37  @PageViral        RT @kirk_hadley: model build in parallel right now... feels like im using the internet in 1999 #rstats #data #analytics
+389626310625984512  Oct 14 01:38  @TrevorABranch    Biometrician ad at Terraqua: at interview... "you must be prepared to present a selection of your recent work using R" #Rstats
+389629288095293441  Oct 14 01:50  @abilashgatti     RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389634842742509568  Oct 14 02:12  @_NickGolding_    RT @TrestleJeff: Interactive 3D in Shiny using shinyRGL. Now available on CRAN. http://trestletechnology.net/2013/10/interactive-3d-in-shiny-shinyrgl/ #rstats #shiny
