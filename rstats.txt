@@ -21468,3 +21468,63 @@
 389715932928802817  Oct 14 07:34  @MikePearmain     RT @bedatadriven: BeDataDriven is looking for a full time R developer! https://gist.github.com/akbertram/6971794 #rstats
 389716254996840448  Oct 14 07:36  @GregMcI          RT @TrestleJeff: Interactive 3D in Shiny using shinyRGL. Now available on CRAN. http://trestletechnology.net/2013/10/interactive-3d-in-shiny-shinyrgl/ #rstats #shiny
 389736100673363968  Oct 14 08:55  @cloudHPC         RT @comsysto: @cloudHPC on #rstats with @MongoDB using @MongoSoup - German #cloud hosting at #MongoDBDays in #Munich http://t.co/1Seplkwhzb
+389737597469069312  Oct 14 09:00  @statisticsblog   R tip of the day - Custom Legend in R. http://i.cx/1hMAuEk #r #rstats
+389738904754335744  Oct 14 09:06  @orlandomezquita  @Rbloggers: Applying an Operation to a List of Variables:  http://bit.ly/1ekPKse #rstats
+389740274173222912  Oct 14 09:11  @hadleywickham    RT @hfmuehleisen: v. 0.8.0 of MonetDB.R, the @MonetDB <-> #Rstats connector now on CRAN http://cran.r-project.org/web/packages/MonetDB.R/ – New socket handling and protocol code
+389742287099404289  Oct 14 09:19  @treycausey       Really fantastic further analysis of kickers in the NFL by @StatsInTheWild. http://bit.ly/19J4X18 #rstats
+389743572452659200  Oct 14 09:24  @romain_francois  RT @hfmuehleisen: v. 0.8.0 of MonetDB.R, the @MonetDB <-> #Rstats connector now on CRAN http://cran.r-project.org/web/packages/MonetDB.R/ – New socket handling and protocol code
+389744449355800576  Oct 14 09:28  @MoritzBuchi      RT @treycausey: Really fantastic further analysis of kickers in the NFL by @StatsInTheWild. http://bit.ly/19J4X18 #rstats
+389746517625810944  Oct 14 09:36  @GarfieldFisher   Google releases new R package for Big Data #rstats | @scoopit http://sco.lt/8OTNpp
+389746584428482561  Oct 14 09:36  @zeitzoff         RT @treycausey: Really fantastic further analysis of kickers in the NFL by @StatsInTheWild. http://bit.ly/19J4X18 #rstats
+389748209590882304  Oct 14 09:43  @timelyportfolio  RT @treycausey: Really fantastic further analysis of kickers in the NFL by @StatsInTheWild. http://bit.ly/19J4X18 #rstats
+389750913964859392  Oct 14 09:53  @timelyportfolio  RT @ramnath_vaidya: Adding DeckJS Extensions in #Slidify http://slidify.github.io/add-deck-ext/ #rstats
+389751203606700032  Oct 14 09:55  @timelyportfolio  RT @hfmuehleisen: v. 0.8.0 of MonetDB.R, the @MonetDB <-> #Rstats connector now on CRAN http://cran.r-project.org/web/packages/MonetDB.R/ – New socket handling and protocol code
+389752131722305536  Oct 14 09:58  @timelyportfolio  good #rstats #rcharts from @abresler http://aragorn.org/visualization/nfl/features/matt_schaub/schaub_are_you_that_bad_2013/ http://aragorn.org/visualization/nfl/features/peyton_manning/peyton_quest_2013/
+389755212602171392  Oct 14 10:10  @statsforbios     Smoothing in #Rstats. I like the look of LOESS, will have to read up. via @statisticsblog http://statistical-research.com/thats-smooth/?utm_source=rss&utm_medium=rss&utm_campaign=thats-smooth
+389760560058736641  Oct 14 10:32  @JeffHemsley      RT @GueyeNono: Useful R Links http://lnkd.in/N3eK8d #rstats
+389762633357733889  Oct 14 10:40  @davidjayharris   .@statsforbios @statisticsblog I've found base #Rstats code for plotting LOESS very clunky. Highly recommend ggplot2 +stat_smooth()
+389763116676186113  Oct 14 10:42  @Altons           Interactive 3D in Shiny (shinyRGL) http://zite.to/1elBCPv #rstats
+389765418534965248  Oct 14 10:51  @rmflight         RT @Altons: Interactive 3D in Shiny (shinyRGL) http://zite.to/1elBCPv #rstats
+389767803261054977  Oct 14 11:01  @statisticsblog   Stochastic Optimization in R by Parallel Tempering. http://i.cx/GTZzC4 #r #rstats
+389770815396274179  Oct 14 11:12  @statsforbios     Can't remember if I've posted this before. @Google #Rstats style guide.  A code bible. http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml
+389774553150267393  Oct 14 11:27  @joshua_ulrich    How to view the source code for #rstats functions http://goo.gl/6OXMBf
+389775881641537537  Oct 14 11:33  @brianabelson     I'm sorry #rstats, you now having nothing left for me. RT @guan: ggplot2 for Python http://bit.ly/1bRGhLH
+389775908388626432  Oct 14 11:33  @rOpenSci         Fxn to get plant spp. list from theplantlist dot org updated & new fxn to get df of avail. families  http://bit.ly/1fxmJg7 #taxize #rstats
+389776201834713088  Oct 14 11:34  @recology_        RT @brianabelson: I'm sorry #rstats, you now having nothing left for me. RT @guan: ggplot2 for Python http://bit.ly/1bRGhLH
+389776240141668352  Oct 14 11:34  @JoFrhwld         The white noise is the fan. Doing statistics like a boss #rstats #parallel #swag http://instagram.com/p/fctBkZMCFz/
+389776434366914563  Oct 14 11:35  @randyzwitch      RT @brianabelson: I'm sorry #rstats, you now having nothing left for me. RT @guan: ggplot2 for Python http://bit.ly/1bRGhLH
+389776806381101057  Oct 14 11:36  @carlosp420       RT @brianabelson: I'm sorry #rstats, you now having nothing left for me. RT @guan: ggplot2 for Python http://bit.ly/1bRGhLH
+389778160826740736  Oct 14 11:42  @BigDataTechCon   #Google releases new R package for Big Data #rstats  http://buff.ly/1hQU96k #bigdata
+389778802647134208  Oct 14 11:44  @statsforbios     RT @davidjayharris: .@statsforbios @statisticsblog I've found base #Rstats code for plotting LOESS very clunky. Highly recommend ggplot2 +stat_smooth()
+389780240118976512  Oct 14 11:50  @Rbloggers        Portable, personal packages:  (This article was first published on   Deciphering life: One bit at a ... http://bit.ly/1brquyI #rstats
+389780240827826176  Oct 14 11:50  @Rbloggers        R, RStudio, and release and dev Bioconductor:  (This article was first published on   Deciphering li... http://bit.ly/1brqxdS #rstats
+389783825758187520  Oct 14 12:04  @Jowanza          Finally finished this post: Visualizing discontinuous web data in #Rstats: http://bit.ly/19AKZrL #DataViz #Measure
+389784177480306689  Oct 14 12:06  @RLangTip         #rstats Get variable name y into plot title without quotes: plot(x,y,main=paste("x vs ", deparse(substitute(y)))) http://bit.ly/18WaGnv
+389785323963944960  Oct 14 12:10  @inside_R         #rstats more RUG meetings this week: San Antonio, Minneapolis, Köln, Raleigh http://bit.ly/9hVAPE
+389785874772144128  Oct 14 12:12  @imser_           RT @RLangTip: #rstats Get variable name y into plot title without quotes: plot(x,y,main=paste("x vs ", deparse(substitute(y)))) http://t.co/GwlXtLYhup
+389786617202098176  Oct 14 12:15  @inside_R         #rstats R user group meetings this week: Munich, Amsterdam, Berkeley, Melbourne, Dublin, Nashville, Seattle,  Amherst http://bit.ly/9hVAPE
+389787923471540224  Oct 14 12:20  @michaelwaskom    This is gross RT @RLangTip #rstats Get variable name y into plot title without quotes: plot(x,y,main=paste("x vs ", deparse(substitute(y))))
+389790796762738688  Oct 14 12:32  @timelyportfolio  RT @Jowanza: Finally finished this post: Visualizing discontinuous web data in #Rstats: http://bit.ly/19AKZrL #DataViz #Measure
+389791421932134402  Oct 14 12:34  @kevin_ushey      RT @brianabelson: I'm sorry #rstats, you now having nothing left for me. RT @guan: ggplot2 for Python http://bit.ly/1bRGhLH
+389793252066332673  Oct 14 12:42  @Jowanza          @seanjtaylor @Cmrn_DP Been using #Rstats for survival analysis for years now, this looks quite awesome.
+389800171342938113  Oct 14 13:09  @raviupanishad    RT @Altons: Interactive 3D in Shiny (shinyRGL) http://zite.to/1elBCPv #rstats
+389802974924800000  Oct 14 13:20  @noamross         Has anyone attempted to use #knitr to create a dynamic SVG poster with embedded plots that update? #rstats
+389805055127597056  Oct 14 13:29  @jllopezpino      RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389805921582739456  Oct 14 13:32  @clarkfitzg       RT @genetics_blog: Really good primer on #Rstats package development https://github.com/jtleek/rpackages
+389806092609282048  Oct 14 13:33  @BrockTibert      I cant wait to try this out. The #python community is starting to port the key pkgs in #rstats that make me stay.  https://github.com/yhat/ggplot
+389807197229948928  Oct 14 13:37  @tonyojeda3       There are still some seats left for the #rstats workshops this weekend. Come learn statistical programming! http://bit.ly/19ePwzw #datadc
+389807201843703808  Oct 14 13:37  @DataCommunityDC  There are still some seats left for the #rstats workshops this weekend. Come learn statistical programming! http://bit.ly/19ePwzw #datadc v
+389807288930009088  Oct 14 13:37  @lousylinguist    RT @tonyojeda3: There are still some seats left for the #rstats workshops this weekend. Come learn statistical programming! http://t.co/sfjTiZxJd8 #datadc
+389807402197204993  Oct 14 13:38  @chlalanne        RT @Altons: Interactive 3D in Shiny (shinyRGL) http://zite.to/1elBCPv #rstats
+389810787163701248  Oct 14 13:51  @Jowanza          @usujason I'll check it out.  I'm trying to make shot charts using #Rstats
+389811484848820224  Oct 14 13:54  @timelyportfolio  RT @Jowanza: @seanjtaylor @Cmrn_DP Been using #Rstats for survival analysis for years now, this looks quite awesome.
+389812840548540416  Oct 14 13:59  @idigdata         RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389813777602187264  Oct 14 14:03  @_mirandes        RT @kdnuggets: Google releases new R package HistogramTools for #BigData #rstats http://bit.ly/19I7B7r
+389820036656799744  Oct 14 14:28  @hspter           How did I not know about the "log = 'x'" argument for "plot" in #rstats? Life. Changing. http://www.stat.ubc.ca/~jenny/STAT545A/2012-lectures/cm06.pdf (via @simplystats)
+389820247936483328  Oct 14 14:29  @hspter           Seriously, it plots the x covariate in log scale but leaves the x-axis in the original scale #rstats
+389822222472597506  Oct 14 14:37  @Kikapp           @hspter I'm a big scale_x_log10() fan myself, but I learned ggplot2 from the get-go and know nothing of plotting with base r. #rstats
+389825106723098624  Oct 14 14:48  @ianmcook         Impressive demo of high-performance parallel #rstats with TIBCO Enterprise Runtime for R and @TIBCOSpotfire by @LouBajuk at #TUCON2013
+389825349271318528  Oct 14 14:49  @znmeb            @mozilla No R? *Gasp!* #rstats #draggedkickingandscreamingotjavascriptbecausebrendaneich
+389825376895397888  Oct 14 14:49  @LouBajuk         RT @ianmcook: Impressive demo of high-performance parallel #rstats with TIBCO Enterprise Runtime for R and @TIBCOSpotfire by @LouBajuk at #TUCON2013
+389825977779384320  Oct 14 14:52  @randal_olson     R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389826823724740608  Oct 14 14:55  @TIBCO            MT @ianmcook: Impressive demo of high-performance parallel #rstats w TIBCO Enterprise Runtime for R and #Spotfire by @LouBajuk at #TUCON2013
