@@ -21528,3 +21528,39 @@
 389825376895397888  Oct 14 14:49  @LouBajuk         RT @ianmcook: Impressive demo of high-performance parallel #rstats with TIBCO Enterprise Runtime for R and @TIBCOSpotfire by @LouBajuk at #TUCON2013
 389825977779384320  Oct 14 14:52  @randal_olson     R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
 389826823724740608  Oct 14 14:55  @TIBCO            MT @ianmcook: Impressive demo of high-performance parallel #rstats w TIBCO Enterprise Runtime for R and #Spotfire by @LouBajuk at #TUCON2013
+389828037325627393  Oct 14 15:00  @aDataHead        rPython – #Rstats Interface to Python http://feedly.com/k/1emdPz2
+389835647227535360  Oct 14 15:30  @gawbul           @hmason Why would anyone have the need for #RStats now? Lol! #Python all the way :-D #ggplot2forpython
+389836776539303936  Oct 14 15:35  @jeffreyhorner    Blogging with #rstats and Markdown is broken. Neither @tumblr nor @wordpress (.com) can deal with large data uris anymore. #frustrated
+389837044270133248  Oct 14 15:36  @HadoopSphere     R is the flavor of the season - http://hadoopsphere.com http://www.hadoopsphere.com/2013/10/r-is-flavor-of-season.html #hadoop #bigdata #rstats via @HadoopSphere
+389842472689737728  Oct 14 15:57  @ethanwhite       ggplot2 for Python https://github.com/yhat/ggplot/ Very exciting. #pydata #rstats via @willpearse & @DanMcGlinn
+389843454731497472  Oct 14 16:01  @JoergR           RT @ethanwhite: ggplot2 for Python https://github.com/yhat/ggplot/ Very exciting. #pydata #rstats via @willpearse & @DanMcGlinn
+389844079540178946  Oct 14 16:04  @RobLanfear       RT @ethanwhite: ggplot2 for Python https://github.com/yhat/ggplot/ Very exciting. #pydata #rstats via @willpearse & @DanMcGlinn
+389844345765257217  Oct 14 16:05  @MikejMcDermott   RT @ethanwhite: ggplot2 for Python https://github.com/yhat/ggplot/ Very exciting. #pydata #rstats via @willpearse & @DanMcGlinn
+389844631854522368  Oct 14 16:06  @mjcavaretta      #awesome RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389846665244729344  Oct 14 16:14  @AquaticMicrobes  RT @ethanwhite: ggplot2 for Python https://github.com/yhat/ggplot/ Very exciting. #pydata #rstats via @willpearse & @DanMcGlinn
+389847333376376832  Oct 14 16:17  @eff_jot          Grafische Darstellung vorläuf. Ergebnis #Volksbegehren „Hochschulen erhalten“ #BTUCS #Rstats http://blog.effjot.net/?p=3937
+389847933010866177  Oct 14 16:19  @FandaBear        RT @ethanwhite: ggplot2 for Python https://github.com/yhat/ggplot/ Very exciting. #pydata #rstats via @willpearse & @DanMcGlinn
+389848873406963712  Oct 14 16:23  @randal_olson     @sjmgarnier @mjcavaretta Naw, the #Python community is just a rad enough community to port things over to make the #Rstats folks happy!
+389849271979479040  Oct 14 16:24  @WSchDsch         RT @eff_jot: Grafische Darstellung vorläuf. Ergebnis #Volksbegehren „Hochschulen erhalten“ #BTUCS #Rstats http://blog.effjot.net/?p=3937
+389849434688741376  Oct 14 16:25  @gdiepen          Last week Computing 4 Data Analysis (@coursera):#rstats & #regex  length(grep("the end","endless possibilities"))==0 :)
+389851046815600640  Oct 14 16:31  @arRMorgan        Wrote a sweet little #R function to extract counts for each bin in histogrammes done with #ggplot2. Will get it on @github soon. #rstats
+389851604154732544  Oct 14 16:34  @abresler         Favorite weekly @aragorntech #Rcharts creation is up and ready! #PeytonQuest2013 week 6 http://aragorn.org/visualization/nfl/features/peyton_manning/peyton_quest_2013/week_6/ #NFL #PeytonManning #rstats
+389854302686441473  Oct 14 16:44  @dgraziotin       RT @ethanwhite: ggplot2 for Python https://github.com/yhat/ggplot/ Very exciting. #pydata #rstats via @willpearse & @DanMcGlinn
+389855312275980289  Oct 14 16:48  @esuess           Google releases new R package for Big Data #rstats http://wp.me/p9q8Y-2YC via @Gliders_Coach
+389857532636057602  Oct 14 16:57  @hadleywickham    catch me at the Seattle #rstats users group at the FHCRC this Wednesday 6pm: http://www.meetup.com/Seattle-useR/
+389859005612310528  Oct 14 17:03  @TrevorABranch    RT @hadleywickham: catch me at the Seattle #rstats users group at the FHCRC this Wednesday 6pm: http://www.meetup.com/Seattle-useR/
+389860115970420736  Oct 14 17:07  @joelgrus         RT @hadleywickham: catch me at the Seattle #rstats users group at the FHCRC this Wednesday 6pm: http://www.meetup.com/Seattle-useR/
+389860139513044992  Oct 14 17:07  @recology_        A start for a #python wrapper to  @PLOSALM - a port of alm pkg for #rstats  http://bit.ly/1cPi4oI
+389860620847161344  Oct 14 17:09  @mattbarbour34    Just realized how much I love writing my own functions in R.  Why did it take me so long to realize their potential? #rstats
+389860994626752513  Oct 14 17:11  @mmaenner         I'm having fun playing with @RPsychologist 's functions for getting PubMed information into #rstats: http://rpsychologist.com/an-r-script-to-automatically-look-at-pubmed-citation-counts-by-year-of-publication/
+389865152461275136  Oct 14 17:27  @erinshellman     !!!! RT @hadleywickham: catch me at the Seattle #rstats users group at the FHCRC this Wednesday 6pm: http://www.meetup.com/Seattle-useR/
+389865613243338752  Oct 14 17:29  @revodavid        Video replay of last week's webinar on @cloudera and @RevolutionR #Hadoop/#rstats integration: http://bit.ly/1bSgIKo
+389870564774379520  Oct 14 17:49  @_inundata        What’s the protocol to remove (archive) an existing package from CRAN? #rstats
+389876017931636736  Oct 14 18:11  @xlfe             Ggplot2 for python https://github.com/yhat/ggplot This is the last thing that R had over python for data mining IMHO #dataviz #pydata #rstats
+389877945160196096  Oct 14 18:18  @rmcgibony        RT @DataCommunityDC: There are still some seats left for the #rstats workshops this weekend. Come learn statistical programming! http://t.co/CUQYrwMHS8 #datadc v
+389879319192813569  Oct 14 18:24  @teeniedeenie     RT @ethanwhite: ggplot2 for Python https://github.com/yhat/ggplot/ Very exciting. #pydata #rstats via @willpearse & @DanMcGlinn
+389884914985758721  Oct 14 18:46  @briandconnelly   Excited to see that @hadleywickham will be at the Hutch this Wednesday night to talk about dplyr http://bit.ly/17q8stz #Rstats
+389885183538638848  Oct 14 18:47  @gknoProject      GViz: Plotting data and annotation information along genomic coordinates http://www.bioconductor.org/packages/2.12/bioc/html/Gviz.html h/t @vsbuffalo  #Rstats #bioconductor
+389890404730306560  Oct 14 19:08  @tim_yates        RT @Altons: Interactive 3D in Shiny (shinyRGL) http://zite.to/1elBCPv #rstats
+389898564195082240  Oct 14 19:40  @siah             Algorithmic Trading using R http://ow.ly/pMBYp #rstats
+389898982744281088  Oct 14 19:42  @marcosluis2186   RT @siah: Algorithmic Trading using R http://ow.ly/pMBYp #rstats
