@@ -21618,3 +21618,64 @@
 390097669575958528  Oct 15 08:51  @Altons           Statistician: "I'm your father" - Data Scientist: "nooo!!" #rstats #sas #stat Statistician = Sith Lord/Jedi Master Data Scientist = padawan
 390098091762020352  Oct 15 08:53  @mryap            RT @Altons: Statistician: "I'm your father" - Data Scientist: "nooo!!" #rstats #sas #stat Statistician = Sith Lord/Jedi Master Data Scientist = padawan
 390098355717935104  Oct 15 08:54  @joseantoniogall  RT @estebanmoro: Hoy en "Taller Innova Challenge": como construir una app sencilla con datos de tarjetas crédito con #rstats y Shiny http://t.co/vexDyfOFIH
+390101145244688385  Oct 15 09:05  @NEdgingtonPhD    Good stuff: “@nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats”
+390103937224699904  Oct 15 09:16  @timelyportfolio  RT @lcdutoit: Use #rstats #ggplot2 with #pandas from python https://github.com/leondutoit/gogplot in 20 lines :)
+390106174424883200  Oct 15 09:25  @Grupo_LaBDA      RT @estebanmoro: Hoy en "Taller Innova Challenge": como construir una app sencilla con datos de tarjetas crédito con #rstats y Shiny http://t.co/vexDyfOFIH
+390108118060765186  Oct 15 09:33  @sqrtnegative1    RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+390110459204214784  Oct 15 09:42  @cjdinger         RT @Altons: Statistician: "I'm your father" - Data Scientist: "nooo!!" #rstats #sas #stat Statistician = Sith Lord/Jedi Master Data Scientist = padawan
+390113601891352576  Oct 15 09:55  @HarlanH          RT @frod_san: Nice app to learn git and @GitHub http://pcottle.github.io/learnGitBranching/. Version control your #rstats code! HT @RobLanfear
+390118908042412032  Oct 15 10:16  @hrbrmstr         #spiffy // Analysis with Programming: R: Mapping Typhoon Labuyo (Utor) Track http://buff.ly/1amFGL9 #rstats
+390121835158704128  Oct 15 10:27  @bryangoodrich    "@nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats" - nice!
+390122068529803265  Oct 15 10:28  @algonpaje        Scraping #rstats functions http://bit.ly/16KbV9S
+390122941838397441  Oct 15 10:32  @jbryer           RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390127753955000320  Oct 15 10:51  @_bmartinez_      Parques y jardines de Madrid, mucho gris y poco verde (con áreas inventadas...), barrios enteros sin parque! #rstats http://t.co/E0N4cDvnQl
+390129950629453824  Oct 15 11:00  @statsforbios     x <- ts(sin(seq(1,100,by=0.1))) wave <- cwt(x, noctave=8, nvoice=150) Wavelet analysis in #Rstats
+390130775460708353  Oct 15 11:03  @CaritoTV         RT @statsforbios: x <- ts(sin(seq(1,100,by=0.1))) wave <- cwt(x, noctave=8, nvoice=150) Wavelet analysis in #Rstats
+390131363565010944  Oct 15 11:05  @RLangTip         Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390131513339424769  Oct 15 11:06  @orlandomezquita  Fit models to data:  http://bit.ly/19IKq10 #rstats
+390131588622974976  Oct 15 11:06  @kite_africa      RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390132161925242880  Oct 15 11:08  @rcmorriss        @RLangTip @Mark_Graph This is fantastic, thanks! Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj  #rstats
+390132594743848960  Oct 15 11:10  @rcmorriss        RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390133249319907328  Oct 15 11:13  @OliverBelmans    RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390133314381963264  Oct 15 11:13  @VidCanC          RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390135392407519233  Oct 15 11:21  @FarahAlShorbaji  Helpful R tips! RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj  #rstats
+390135584549007362  Oct 15 11:22  @jewsforjets      RT @statisticsblog: Stochastic Optimization in R by Parallel Tempering. http://i.cx/GTZzC4 #r #rstats
+390135646360461312  Oct 15 11:22  @BenBondLamberty  RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390135722990002178  Oct 15 11:22  @sjGoring         Why does R not match this properly: http://pastebin.com/cjWBzmFm Is it because it converts to char?  How do I fix it? #rstats #grrr
+390136708114944000  Oct 15 11:26  @theja2t          RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390139795550507008  Oct 15 11:39  @or_exchange      RT @statisticsblog: Stochastic Optimization in R by Parallel Tempering. http://i.cx/GTZzC4 #r #rstats
+390142184076242945  Oct 15 11:48  @CondorOptions    corrplot is lots of fun #rstats http://cran.r-project.org/web/packages/corrplot/index.html
+390142725619978240  Oct 15 11:50  @aDataHead        automatic feature selection: #Rstats Package Cheesy Goodness http://feedly.com/k/16KmPMB
+390143030713278464  Oct 15 11:52  @trevs            RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390147664945217537  Oct 15 12:10  @revodavid        A drag-and-drop workflow UI for R from @alteryx, with #BigData #rstats support from @RevolutionR http://bit.ly/16KpCp4
+390148628838236162  Oct 15 12:14  @stephhazlitt     RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390148799336701953  Oct 15 12:14  @ucfagls          @sjGoring try `match(zapsmall(set1), zapsmall(set2))` & this is FAQ 7.31; not all numbers exactly representable #rstats
+390149972198711296  Oct 15 12:19  @kevrichard       RT @revodavid: A drag-and-drop workflow UI for R from @alteryx, with #BigData #rstats support from @RevolutionR http://bit.ly/16KpCp4
+390153788851363841  Oct 15 12:34  @tyhenkaline      RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390154895338139648  Oct 15 12:39  @timelyportfolio  RT @CondorOptions: corrplot is lots of fun #rstats http://cran.r-project.org/web/packages/corrplot/index.html
+390155408721338368  Oct 15 12:41  @tyhenkaline      RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390156557788250112  Oct 15 12:45  @eric_kavanagh    RT @revodavid: A drag-and-drop workflow UI for R from @alteryx, with #BigData #rstats support from @RevolutionR http://bit.ly/16KpCp4
+390156725732802561  Oct 15 12:46  @BillNigh         RT @revodavid: A drag-and-drop workflow UI for R from @alteryx, with #BigData #rstats support from @RevolutionR http://bit.ly/16KpCp4
+390156737279324160  Oct 15 12:46  @M_T_Patterson    Just found the "fortune" function (in fortunes package)..  #RStats, #Humor
+390157086266388480  Oct 15 12:47  @rOpenSci         [Blog] Altmetrics workshop recap  http://bit.ly/1ghV7gj / #altmetrics  @PLOSALM #rstats
+390157111788716032  Oct 15 12:47  @recology_        RT @rOpenSci: [Blog] Altmetrics workshop recap  http://bit.ly/1ghV7gj / #altmetrics  @PLOSALM #rstats
+390159616530604033  Oct 15 12:57  @christoper_hamm  RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390160400227901440  Oct 15 13:01  @statisticsblog   R tip of the day - Applying an Operation to a List of Variables. http://i.cx/19J2t71 #r #rstats
+390163426309189632  Oct 15 13:13  @attilacsordas    went on an inflection point hunting trip with #rstats naturally the package 'inflection' is the first stop
+390167729740972032  Oct 15 13:30  @iFromm           RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390168488578252801  Oct 15 13:33  @revodavid        Latest Rexer poll shows continued skyrocketing growth of R usage: http://bit.ly/16KzVcR #rstats
+390169636198969344  Oct 15 13:37  @rtelmore         RT @revodavid: Latest Rexer poll shows continued skyrocketing growth of R usage: http://bit.ly/16KzVcR #rstats
+390173929794306049  Oct 15 13:54  @rmflight         RT @revodavid: Latest Rexer poll shows continued skyrocketing growth of R usage: http://bit.ly/16KzVcR #rstats
+390174604385210369  Oct 15 13:57  @since1968        Thanks @ArthurZ for joining the talk! http://oreillynet.com/pub/e/2713 #rstats
+390175231559491584  Oct 15 13:59  @KirkwoodLab      @CackleofRad Yes, I would think it is possible in R. Maybe some #RStats tweeps @sjGoring @ucfagls can offer advice.
+390175246495383552  Oct 15 14:00  @statisticsblog   rPython – the R Interface to Python. http://i.cx/1gG60X6 #r #rstats
+390177903079874560  Oct 15 14:10  @DominiqueVanpee  RT @rOpenSci: [Blog] Altmetrics workshop recap  http://bit.ly/1ghV7gj / #altmetrics  @PLOSALM #rstats
+390178240603508736  Oct 15 14:11  @wabarree         @JacquelynGill @WhySharksMatter one of the many reasons I love ggplot in #rstats is because it is very simple to make GIANT axis labels.
+390178491968151552  Oct 15 14:12  @CortRudolph      RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390178848492380160  Oct 15 14:14  @ucfagls          @WhySharksMatter Really?? I've never had a problem with that #rstats @JacquelynGill
+390178972354359296  Oct 15 14:14  @since1968        Thanks @mjfreshyfresh for coming to the webinar. I'll ping you when we release Waggle. #rstats
+390178982131294208  Oct 15 14:14  @ucfagls          @wabarree axis titles are still too close to the labels though :-( @JacquelynGill @WhySharksMatter #rstats
+390179085915136000  Oct 15 14:15  @since1968        Hi @cparisi @OReillyMedia thanks so much for attending. #rstats
+390179227808456704  Oct 15 14:15  @anasrini         RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390188307432239104  Oct 15 14:51  @Rbloggers        Next Kölner R User Meeting: 18 Oktober 2013:  (This article was first published on   mages' blog, an... http://bit.ly/1cpJD5x #rstats
+390188308292063232  Oct 15 14:51  @Rbloggers        Bio7 1.7.1 MacOSX Released:  (This article was first published on    » R, and kindly contributed to ... http://bit.ly/1cSmaMX #rstats
