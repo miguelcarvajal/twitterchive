@@ -21585,6 +21585,7 @@
 389973876127838208  Oct 15 00:39  @flavioclesio     RT @siah: Algorithmic Trading using R http://ow.ly/pMBYp #rstats
 389981590937296896  Oct 15 01:10  @ihansel          RT @TrestleJeff: Interactive 3D in Shiny using shinyRGL. Now available on CRAN. http://trestletechnology.net/2013/10/interactive-3d-in-shiny-shinyrgl/ #rstats #shiny
 389983745266032641  Oct 15 01:19  @KevinLDavenport  ggplot for python #rstats https://news.ycombinator.com/item?id=6547579
+389986498713763840  Oct 15 01:30  @DailyRpackage    sqldf - Perform SQL Selects on R Data Frames http://cran.r-project.org/web/packages/sqldf/index.html #RStats
 389989985480634368  Oct 15 01:43  @gawbul           RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
 389990166905233408  Oct 15 01:44  @gedankenstuecke  RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
 389991586936786944  Oct 15 01:50  @malleefocus      @Agstatic Can't wait for the interface to #Genstat and #RStats
@@ -21592,3 +21593,28 @@
 389998146979643392  Oct 15 02:16  @F_Vaggi          “@randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats” @Teudimundo
 390001566050451456  Oct 15 02:29  @en_tropy         RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
 390001782732378112  Oct 15 02:30  @jmgomez          RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: http://github.com/yhat/ggplot/ #rstats #dataviz
+390025346525184000  Oct 15 04:04  @vitojph          RT @jmgomez: RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: http://github.com/yhat/ggplot/ #rstats #dataviz
+390032761937199104  Oct 15 04:33  @estebanmoro      Hoy en "Taller Innova Challenge": como construir una app sencilla con datos de tarjetas crédito con #rstats y Shiny http://medialab-prado.es/article/tallerdeinnovachallengebigdata
+390044735391281152  Oct 15 05:21  @rvimieiro        RT @estebanmoro: Hoy en "Taller Innova Challenge": como construir una app sencilla con datos de tarjetas crédito con #rstats y Shiny http://t.co/vexDyfOFIH
+390045259989647360  Oct 15 05:23  @octonion         RT @hadleywickham: my stab at a basic #rstats programming curriculum: https://gist.github.com/hadley/6734639. Comments welcomed!
+390056525458186241  Oct 15 06:08  @lcdutoit         Use #rstats #ggplot2 with #pandas from python https://github.com/leondutoit/gogplot in 20 lines :)
+390063096615555072  Oct 15 06:34  @MangoTheCat      BaselR user group meeting 30 Oct -  details announced http://www.baselr.org #rstats #basel
+390064758767902720  Oct 15 06:41  @statsforbios     Looks useful RT @DailyRpackage sqldf - Perform SQL Selects on R Data Frames http://cran.r-project.org/web/packages/s… #RStats
+390072104676507648  Oct 15 07:10  @dlizcano         RT @rOpenSci: taxize (taxonomic toolbelt for #rstats) MS is the featured article on @F1000Research today http://bit.ly/GJGJx3
+390072842886197248  Oct 15 07:13  @frod_san         Nice app to learn git and @GitHub http://pcottle.github.io/learnGitBranching/. Version control your #rstats code! HT @RobLanfear
+390074035679535104  Oct 15 07:17  @gilromera        RT @frod_san: Nice app to learn git and @GitHub http://pcottle.github.io/learnGitBranching/. Version control your #rstats code! HT @RobLanfear
+390084728495169537  Oct 15 08:00  @hadleywickham    RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390085680346308608  Oct 15 08:04  @derekborba       RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390086219352510464  Oct 15 08:06  @tim_yates        RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390087967248625664  Oct 15 08:13  @lurino           RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390089028672159744  Oct 15 08:17  @mmeierer         RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390089814898249728  Oct 15 08:20  @Rbloggers        R: Mapping Typhoon Labuyo (Utor) Track:  (This article was first published on   Analysis with Progra... http://bit.ly/19KSsGG #rstats
+390090022395056128  Oct 15 08:21  @slawarokicki     RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390090552018214912  Oct 15 08:23  @LewisB_Venturi   Google releases new R package for Big Data #rstats « DECISION STATS http://buff.ly/19KT9zx
+390092661044301825  Oct 15 08:31  @delsweil         RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390092975260188672  Oct 15 08:33  @hjms             RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390097339496415232  Oct 15 08:50  @MongoSoup        RT @comsysto: @cloudHPC on #rstats with @MongoDB using @MongoSoup - German #cloud hosting at #MongoDBDays in #Munich http://t.co/1Seplkwhzb
+390097619856273408  Oct 15 08:51  @noahhlo          RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390097669575958528  Oct 15 08:51  @Altons           Statistician: "I'm your father" - Data Scientist: "nooo!!" #rstats #sas #stat Statistician = Sith Lord/Jedi Master Data Scientist = padawan
+390098091762020352  Oct 15 08:53  @mryap            RT @Altons: Statistician: "I'm your father" - Data Scientist: "nooo!!" #rstats #sas #stat Statistician = Sith Lord/Jedi Master Data Scientist = padawan
+390098355717935104  Oct 15 08:54  @joseantoniogall  RT @estebanmoro: Hoy en "Taller Innova Challenge": como construir una app sencilla con datos de tarjetas crédito con #rstats y Shiny http://t.co/vexDyfOFIH
