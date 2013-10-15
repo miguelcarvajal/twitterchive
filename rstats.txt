@@ -21564,3 +21564,31 @@
 389890404730306560  Oct 14 19:08  @tim_yates        RT @Altons: Interactive 3D in Shiny (shinyRGL) http://zite.to/1elBCPv #rstats
 389898564195082240  Oct 14 19:40  @siah             Algorithmic Trading using R http://ow.ly/pMBYp #rstats
 389898982744281088  Oct 14 19:42  @marcosluis2186   RT @siah: Algorithmic Trading using R http://ow.ly/pMBYp #rstats
+389919013289349121  Oct 14 21:01  @VernaPolitics    RT @RLangTip: To convert dates/times from one timezone to another, use format() on a POSIXct object. Details: http://bit.ly/NaIjcI #rstats
+389919659245707264  Oct 14 21:04  @fperez_org       RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389919885067042816  Oct 14 21:05  @seaandsailor     RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389921909342617600  Oct 14 21:13  @nicoleradziwill  I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+389923010368389121  Oct 14 21:17  @AlvarezRobertoC  RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389925021721714688  Oct 14 21:25  @xiddw            RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389936393188679680  Oct 14 22:10  @nipun_batra      RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389939891670233088  Oct 14 22:24  @kyloring         Just wasted an hour or so tweaking things with #ggplot2 #rstats Time to do some work
+389949480935501824  Oct 14 23:02  @seandpayne       RT @hadleywickham: catch me at the Seattle #rstats users group at the FHCRC this Wednesday 6pm: http://www.meetup.com/Seattle-useR/
+389950243862634496  Oct 14 23:05  @IbnFirnas        Ooohhh, snap, no they didn't: https://github.com/yhat/ggplot/ #rstats
+389951623692173312  Oct 14 23:11  @BP191            RT @kdnuggets: Data Scientists need to be Polyglots - know 2 or more of #python #rstats #sas #spss #matlab #julia #octave http://t.co/LtzIOzZ4XH
+389955790892986368  Oct 14 23:28  @andrewheiss      Fighting with the rdd #rstats package all day. Gives completely different bandwidth than Stata's rd command. Blergh.
+389966312811687937  Oct 15 00:09  @Rbloggers        Beta Distribution and the NJ U.S. Senate Election:  (This article was first published on   Statistic... http://bit.ly/19CL0v8 #rstats
+389966418675916800  Oct 15 00:10  @robinkraft       @juliamgclark speaking of #rstats have u checked the type face.Palm returns? You could run into some serious memory issues cc @econohammer
+389966820330835968  Oct 15 00:11  @juliamgclark     Hahaha RT @robinkraft: speaking of #rstats have u checked the type face.Palm returns? You could run into some serious memory issues
+389969386792292352  Oct 15 00:22  @RickSaporta      RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389970947484422144  Oct 15 00:28  @whatthecarp      RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389971955836649472  Oct 15 00:32  @adwayish         RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389973876127838208  Oct 15 00:39  @flavioclesio     RT @siah: Algorithmic Trading using R http://ow.ly/pMBYp #rstats
+389981590937296896  Oct 15 01:10  @ihansel          RT @TrestleJeff: Interactive 3D in Shiny using shinyRGL. Now available on CRAN. http://trestletechnology.net/2013/10/interactive-3d-in-shiny-shinyrgl/ #rstats #shiny
+389983745266032641  Oct 15 01:19  @KevinLDavenport  ggplot for python #rstats https://news.ycombinator.com/item?id=6547579
+389989985480634368  Oct 15 01:43  @gawbul           RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389990166905233408  Oct 15 01:44  @gedankenstuecke  RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+389991586936786944  Oct 15 01:50  @malleefocus      @Agstatic Can't wait for the interface to #Genstat and #RStats
+389992035257966592  Oct 15 01:52  @KangaBecks       RT @wkmor1: I ran the analyses in #rstats package lme4 "@qaecology: How to link functional traits to species distribution models http://t.co/H0dboBmW"
+389998146979643392  Oct 15 02:16  @F_Vaggi          “@randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats” @Teudimundo
+390001566050451456  Oct 15 02:29  @en_tropy         RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats
+390001782732378112  Oct 15 02:30  @jmgomez          RT @randal_olson: R's popular plotting system Ggplot2 ported to #python: http://github.com/yhat/ggplot/ #rstats #dataviz
