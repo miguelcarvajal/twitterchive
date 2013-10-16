@@ -21679,3 +21679,40 @@
 390179227808456704  Oct 15 14:15  @anasrini         RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
 390188307432239104  Oct 15 14:51  @Rbloggers        Next Kölner R User Meeting: 18 Oktober 2013:  (This article was first published on   mages' blog, an... http://bit.ly/1cpJD5x #rstats
 390188308292063232  Oct 15 14:51  @Rbloggers        Bio7 1.7.1 MacOSX Released:  (This article was first published on    » R, and kindly contributed to ... http://bit.ly/1cSmaMX #rstats
+390192367976058881  Oct 15 15:08  @muellerwHH       RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390193929468923905  Oct 15 15:14  @intipedroso      RT @F_Vaggi: “@randal_olson: R's popular plotting system Ggplot2 ported to #python: https://github.com/yhat/ggplot/ #ipython #rstats” @Teudimundo
+390194160655163392  Oct 15 15:15  @texhewson        RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390196113476558849  Oct 15 15:22  @KirkDBorne       Some websites are sparse. Some are stale. A few are super, such as: http://blog.revolutionanalytics.com/ > #BigData #DataScience #Rstats #Hadoop heaven
+390199644812083200  Oct 15 15:36  @news_hu          [instapaper] A drag-and-drop workflow UI for R from @alteryx, with #BigData #rstats support from @RevolutionR ... http://bit.ly/1cRNniR
+390201743092359168  Oct 15 15:45  @KirkDBorne       RT @xlfe "Ggplot2 for #Python https://github.com/yhat/ggplot = the last thing that R had over python for #DataMining IMHO #DataViz #PyData #Rstats"
+390202453892685824  Oct 15 15:48  @danslimmon       @jmeickle Yep. I'm hoping to have an MVP by the end of the day, but grappling with #Rstats quirks right now :-/
+390208473017118720  Oct 15 16:12  @zx8754           RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390211617511579648  Oct 15 16:24  @TonyCosentinoVR  79% say that staffing is their #1 challenge to #bigdata #analytics, but this changing. http://www.ventanaresearch.com/bda #mrx #bi #hadoop #rstats
+390212133671022592  Oct 15 16:26  @TonyCosentinoVR  Take #BigData #Analytics benchmark and receive a free copy of this research report: http://ventanaresearch.bda13.sgizmo.com/s3/?uniqueid=Vrtwitter #mrx #bi #mrx #bi #hadoop #rstats
+390214400923025409  Oct 15 16:35  @PLOSALM          RT @recology_: A start for a #python wrapper to  @PLOSALM - a port of alm pkg for #rstats  http://bit.ly/1cPi4oI
+390216582049574912  Oct 15 16:44  @markkellystats   RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390218165671976960  Oct 15 16:50  @Rbloggers        Portable, personal packages:  (This article was first published on   Deciphering life: One bit at a ... http://bit.ly/1cSHMc9 #rstats
+390219695392964608  Oct 15 16:56  @DiogoProvete     RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390222134720884736  Oct 15 17:06  @phschaer         RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://jason.bryer.org/likert/ #rstats
+390224741107122176  Oct 15 17:16  @richierocks      #rstats pop quiz: All variable types are atomic xor recursive, except one.  Which is it?
+390227700902010880  Oct 15 17:28  @genetics_blog    #Rstats #bioinformatics RT @mikelove: #Bioconductor 2.13 is released. >10% new packages. same low price. http://www.bioconductor.org/news/bioc_2_13_release/
+390228838099075072  Oct 15 17:32  @znmeb            @kaythaney For #rstats, I'd start with http://cran.r-project.org/web/views/ReproducibleResearch.html and http://christophergandrud.github.io/RepResR-RStudio/
+390231641916207104  Oct 15 17:44  @NEdgingtonPhD    RT @genetics_blog: #Rstats #bioinformatics RT @mikelove: #Bioconductor 2.13 is released. >10% new packages. same low price. http://t.co/GDrGTXsWd1
+390234925820940288  Oct 15 17:57  @Mark_Graph       RT @RLangTip: Cheat sheet on working with factors in R (by @Mark_Graph): http://bit.ly/UzCoCj #rstats
+390237003364966400  Oct 15 18:05  @showjumper42     RT @genetics_blog: #Rstats #bioinformatics RT @mikelove: #Bioconductor 2.13 is released. >10% new packages. same low price. http://t.co/GDrGTXsWd1
+390238164788314113  Oct 15 18:10  @rtraborn         @vsbuffalo I use the 'IRanges' package (#RStats), make an IRanges object and execute the command findOverlaps(). It uses binary searching.
+390241442960257024  Oct 15 18:23  @AriBFriedman     Never so happy to have #git as when I need to refactor code I just got working an hour ago.  #rstats
+390252234081959936  Oct 15 19:05  @Zementis         RT @RickWicklin: Sweet! #SAS customers like PMML too http://www.sas.com/news/preleases/pmml-a2012.html  MT @Zementis: #Rstats #PMML support just got better.http://t.co/ZOG6qLLGMa
+390253083701161985  Oct 15 19:09  @InfoMgmtExec     Excellent! @RickWicklin:  #SAS #analytics  customers like #PMML ! http://www.sas.com/news/preleases/pmml-a2012.html @Zementis: #Rstats .http://bit.ly/17t3SxX”
+390258568051433472  Oct 15 19:31  @freakonometrics  "Generating your own normal distribution table" http://freakonometrics.hypotheses.org/9404 (with #rstats and #latex)
+390261465971572736  Oct 15 19:42  @HelSouth         RT @freakonometrics: "Generating your own normal distribution table" http://freakonometrics.hypotheses.org/9404 (with #rstats and #latex)
+390270286857129984  Oct 15 20:17  @bumphunt         #rstats new version for google trend API for R user. Trial package download at :  http://github.com/okugami79/googletrend
+390270619180220416  Oct 15 20:19  @p_barbera        Materials for my workshop "Data Visualization with #rstats and #ggplot2" at the @NYUPolitics Data Lab https://github.com/pablobarbera/Rdataviz
+390271840003694592  Oct 15 20:23  @deaneckles       RT @p_barbera: Materials for my workshop "Data Visualization with #rstats and #ggplot2" at the @NYUPolitics Data Lab https://github.com/pablobarbera/Rdataviz
+390272516893052928  Oct 15 20:26  @treycausey       RT @p_barbera: Materials for my workshop "Data Visualization with #rstats and #ggplot2" at the @NYUPolitics Data Lab https://github.com/pablobarbera/Rdataviz
+390272718551408640  Oct 15 20:27  @saadgulzar       RT @p_barbera: Materials for my workshop "Data Visualization with #rstats and #ggplot2" at the @NYUPolitics Data Lab https://github.com/pablobarbera/Rdataviz
+390272781301993472  Oct 15 20:27  @ficaryl          Re: last tweet - Measuring distances in Google Earth is a totally normal way to kill time while waiting for R to process, right? #rstats
+390273131220598785  Oct 15 20:29  @DrewDim          RT @p_barbera: Materials for my workshop "Data Visualization with #rstats and #ggplot2" at the @NYUPolitics Data Lab https://github.com/pablobarbera/Rdataviz
+390278530166030336  Oct 15 20:50  @hadleywickham    RT @p_barbera: Materials for my workshop "Data Visualization with #rstats and #ggplot2" at the @NYUPolitics Data Lab https://github.com/pablobarbera/Rdataviz
+390279270238404608  Oct 15 20:53  @sfalcon          Forgot what a delightful language R can be. The lispy bits and non std eval enable mini DSL fun #rstats
+390280045303840769  Oct 15 20:56  @hadleywickham    RT @sfalcon: Forgot what a delightful language R can be. The lispy bits and non std eval enable mini DSL fun #rstats
