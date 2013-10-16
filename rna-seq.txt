@@ -4619,3 +4619,8 @@
 390344904682917888  Oct 16 01:14  @n0rr             RT @dritoshi: 異なる機関から出たRNA-Seqデータを比較する際にリード数がばらついて、発現量がゼロを示すものが不当に増えるデータがあります。発現量差解析に影響を与えるので、そこをうまいこと検定する方法を、@antiplastics が考えて実装してくれました。
 390347312620257280  Oct 16 01:23  @sanoche16        RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
 390362748074201088  Oct 16 02:25  @yoshidamasaaki   RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390384655004090368  Oct 16 03:52  @biosoftcn        MiTie – Simultaneous RNA-Seq-based Transcript Identification and Quantification in Multiple… http://goo.gl/fb/Pg50H
+390435401267019776  Oct 16 07:13  @razoralign       metaSeq: Meta-analysis of RNA-Seq count data in multiple studies: one-sided NOISeq by Fisher's or Stouffer's method: http://www.bioconductor.org/packages/release/bioc/html/metaSeq.html
+390440996032753664  Oct 16 07:36  @asela_1          To Pool or not to Pool | RNA-Seq Blog | @scoopit via @bluemm79 http://sco.lt/7on477
+390451684335714304  Oct 16 08:18  @nikhilgopal      GIIRA – RNA-Seq Driven Gene Finding Incorporating Ambiguous Reads http://ift.tt/1by5c2C
+390453805239660544  Oct 16 08:26  @rnomics          GIIRA – #RNA-Seq Driven Gene Finding Incorporating Ambiguous... http://bit.ly/16a7Pcw #UnsplicedMappingTools #AmbiguousReads #RNAseq @MyEN
