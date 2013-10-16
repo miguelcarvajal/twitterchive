@@ -4595,3 +4595,27 @@
 390203142354534401  Oct 15 15:50  @GenomeScience    RT @genetics_blog: Long-read @PacBio RNA-seq http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2705.html #genomics #bioinformatics
 390254111720865792  Oct 15 19:13  @AliciaOshlack    Jian-Bing Fan talking about single cell RNA-seq #AMATA
 390270927193509889  Oct 15 20:20  @DaleYuzuki       Accounting for technical noise in RNA-Seq experiments | Nature Meth. http://ow.ly/pQCeS
+390295044965429248  Oct 15 21:56  @maskot1977       RNA-Seq Data Pathway and Gene-set Analysis Workflows http://bioconductor.org/packages/2.13/bioc/vignettes/gage/inst/doc/RNA-seqWorkflow.pdf
+390319576069582848  Oct 15 23:33  @antiplastics     RT @seandavis12: New to #bioconductor http://bioconductor.org/packages/2.13/bioc/html/metaSeq.html metaSeq Meta-analysis of RNA-Seq count data in multiple…
+390319713328193536  Oct 15 23:34  @antiplastics     RT @Bioconductor: http://bioconductor.org/packages/2.13/bioc/html/metaSeq.html metaSeq Meta-analysis of RNA-Seq count data in multiple…
+390320629955584002  Oct 15 23:37  @antiplastics     @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390321278160089088  Oct 15 23:40  @n0rr             RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390321662295801856  Oct 15 23:41  @br091422         RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390326301061419008  Oct 16 00:00  @rnomics          Optimal Resolution of Ambiguous #RNA-Seq multimappings in the Presence of Novel Isoforms:... http://bit.ly/169adQS #bioinformaticsj @MyEN
+390327585248649216  Oct 16 00:05  @LeucineRichBio   Sample size calculation for differential expression analysis of RNA-seq data under Poisson distribution. http://www.ncbi.nlm.nih.gov/pubmed/24088268?dopt=Abstract
+390328749322801152  Oct 16 00:10  @yuifu            RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390335318273957888  Oct 16 00:36  @ngotogenome      RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390335359957368832  Oct 16 00:36  @iNut             RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390335611241910273  Oct 16 00:37  @Ochan78          RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390338983583952896  Oct 16 00:50  @dritoshi         RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390340189530255360  Oct 16 00:55  @dritoshi         RT @Bioconductor: http://bioconductor.org/packages/2.13/bioc/html/metaSeq.html metaSeq Meta-analysis of RNA-Seq count data in multiple…
+390340216298295296  Oct 16 00:55  @dritoshi         RT @seandavis12: New to #bioconductor http://bioconductor.org/packages/2.13/bioc/html/metaSeq.html metaSeq Meta-analysis of RNA-Seq count data in multiple…
+390340653881630720  Oct 16 00:57  @dritoshi         異なる機関から出たRNA-Seqデータを比較する際にリード数がばらついて、発現量がゼロを示すものが不当に増えるデータがあります。発現量差解析に影響を与えるので、そこをうまいこと検定する方法を、@antiplastics が考えて実装してくれました。
+390340794806054912  Oct 16 00:57  @dritoshien       RT @Bioconductor: http://bioconductor.org/packages/2.13/bioc/html/metaSeq.html metaSeq Meta-analysis of RNA-Seq count data in multiple…
+390340997374160896  Oct 16 00:58  @dritoshien       RT @seandavis12: New to #bioconductor http://bioconductor.org/packages/2.13/bioc/html/metaSeq.html metaSeq Meta-analysis of RNA-Seq count data in multiple…
+390341350970761217  Oct 16 01:00  @Markchloro       RT @dritoshi: 異なる機関から出たRNA-Seqデータを比較する際にリード数がばらついて、発現量がゼロを示すものが不当に増えるデータがあります。発現量差解析に影響を与えるので、そこをうまいこと検定する方法を、@antiplastics が考えて実装してくれました。
+390342051985752064  Oct 16 01:02  @antiplastics     RT @dritoshi: 異なる機関から出たRNA-Seqデータを比較する際にリード数がばらついて、発現量がゼロを示すものが不当に増えるデータがあります。発現量差解析に影響を与えるので、そこをうまいこと検定する方法を、@antiplastics が考えて実装してくれました。
+390343271592906753  Oct 16 01:07  @kozo2            RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390344904682917888  Oct 16 01:14  @n0rr             RT @dritoshi: 異なる機関から出たRNA-Seqデータを比較する際にリード数がばらついて、発現量がゼロを示すものが不当に増えるデータがあります。発現量差解析に影響を与えるので、そこをうまいこと検定する方法を、@antiplastics が考えて実装してくれました。
+390347312620257280  Oct 16 01:23  @sanoche16        RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+390362748074201088  Oct 16 02:25  @yoshidamasaaki   RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html

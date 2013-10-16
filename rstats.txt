@@ -21716,3 +21716,24 @@
 390278530166030336  Oct 15 20:50  @hadleywickham    RT @p_barbera: Materials for my workshop "Data Visualization with #rstats and #ggplot2" at the @NYUPolitics Data Lab https://github.com/pablobarbera/Rdataviz
 390279270238404608  Oct 15 20:53  @sfalcon          Forgot what a delightful language R can be. The lispy bits and non std eval enable mini DSL fun #rstats
 390280045303840769  Oct 15 20:56  @hadleywickham    RT @sfalcon: Forgot what a delightful language R can be. The lispy bits and non std eval enable mini DSL fun #rstats
+390284124969123840  Oct 15 21:12  @tjmahr           RT @sfalcon: Forgot what a delightful language R can be. The lispy bits and non std eval enable mini DSL fun #rstats
+390284429941149697  Oct 15 21:13  @kyloring         mixed models in ecology #rstats @monsoontrader http://t.co/IjEQrOkZN6
+390287189017649152  Oct 15 21:24  @romain_francois  RT @sfalcon: Forgot what a delightful language R can be. The lispy bits and non std eval enable mini DSL fun #rstats
+390287803654746112  Oct 15 21:27  @carlislerainey   RT @p_barbera: Materials for my workshop "Data Visualization with #rstats and #ggplot2" at the @NYUPolitics Data Lab https://github.com/pablobarbera/Rdataviz
+390313371431882752  Oct 15 23:08  @pschulam         RT @sfalcon: Forgot what a delightful language R can be. The lispy bits and non std eval enable mini DSL fun #rstats
+390315261091278848  Oct 15 23:16  @wdenton          @dchud Have you got into #ggplot yet? It's really cool. #rstats
+390318729709752320  Oct 15 23:30  @WSankey          RT @p_barbera: Materials for my workshop "Data Visualization with #rstats and #ggplot2" at the @NYUPolitics Data Lab https://github.com/pablobarbera/Rdataviz
+390336730814894080  Oct 16 00:41  @wkmor1           RT @kyloring: mixed models in ecology #rstats @monsoontrader http://t.co/IjEQrOkZN6
+390336967130370048  Oct 16 00:42  @LuisDVerde       RT @kyloring: mixed models in ecology #rstats @monsoontrader http://t.co/IjEQrOkZN6
+390340572541509632  Oct 16 00:56  @xlfe             So we're running 'High productivity analytics and data mining' in Canberra in November http://pivotal-python-nov-2013-cbr.eventbrite.com.au/ #rstats #pydata #bigdata #doit
+390346952413831168  Oct 16 01:22  @_inundata        RT @kyloring: mixed models in ecology #rstats @monsoontrader http://t.co/IjEQrOkZN6
+390348055989743617  Oct 16 01:26  @BlasMBenito      RT @frod_san: Nice app to learn git and @GitHub http://pcottle.github.io/learnGitBranching/. Version control your #rstats code! HT @RobLanfear
+390348887296577536  Oct 16 01:30  @DailyRpackage    Metadata - Collates Metadata for Climate Surface Stations http://cran.r-project.org/web/packages/Metadata/index.html #RStats
+390349009824808960  Oct 16 01:30  @BobOHara         RT @kyloring: mixed models in ecology #rstats @monsoontrader http://t.co/IjEQrOkZN6
+390353405111050240  Oct 16 01:47  @RobLanfear       Songs that might have been written about coding in R: Westlife, Flying Without Wings  http://www.azlyrics.com/lyrics/westlife/flyingwithoutwings.html #rstats #Rsongs
+390356517255651328  Oct 16 02:00  @almightyData     Via @DataWL: host R packages on github and install directly from it - awesome! http://bit.ly/1brquyI #rstats #github
+390357374835240960  Oct 16 02:03  @polesasunder     RT @kyloring: mixed models in ecology #rstats @monsoontrader http://t.co/IjEQrOkZN6
+390358081441660928  Oct 16 02:06  @stochazesthai    RT @p_barbera: Materials for my workshop "Data Visualization with #rstats and #ggplot2" at the @NYUPolitics Data Lab https://github.com/pablobarbera/Rdataviz
+390360923908476928  Oct 16 02:17  @PhDBee           RT @kyloring: mixed models in ecology #rstats @monsoontrader http://t.co/IjEQrOkZN6
+390364275900162048  Oct 16 02:31  @domino_joyce     RT @kyloring: mixed models in ecology #rstats @monsoontrader http://t.co/IjEQrOkZN6
+390371145297694720  Oct 16 02:58  @g_coqui          great RT @freakonometrics: "Generating your own normal distribution table" http://freakonometrics.hypotheses.org/9404 (with #rstats and #latex)
