@@ -21863,3 +21863,26 @@
 390615846357176320  Oct 16 19:10  @christoper_hamm  RT @RLangTip: Use the integrate function to calculate the area under a curve: http://bit.ly/OET7Ri #rstats
 390631747148197889  Oct 16 20:14  @tjvision         RT @rOpenSci: #odinproject FWIW #rstats wrapper for @datacite  http://bit.ly/I7zGeA and another w/ other metadata sources here http://t.co/DNzHpSp6m0
 390632254424498176  Oct 16 20:16  @habib            RT @rOpenSci: #odinproject FWIW #rstats wrapper for @datacite  http://bit.ly/I7zGeA and another w/ other metadata sources here http://t.co/DNzHpSp6m0
+390643819755995136  Oct 16 21:01  @marcosluis2186   @alteryx integrates with @RevolutionR Enterprise http://blog.revolutionanalytics.com/2013/10/alteryx-and-revolution-analytics.html #rstats #Analytics
+390659100360458240  Oct 16 22:02  @briandconnelly   Wow, full house for @hadleywickham's dplyr intro! http://bit.ly/intro-dplyr2 #rstats
+390659165179232256  Oct 16 22:02  @berkeleymalagon  Excited to see @hadleywickham present dplyr in #Seattle tonight! I'm a huge fan of his stuff. #rstats #DataScience http://t.co/2LVXJl9YrH
+390659954383654912  Oct 16 22:06  @achorripsis      RT @hadleywickham: ggplot2 in the nytimes: http://www.nytimes.com/interactive/sports/football/2013-fantasy-football-tier-charts-QB.html?ref=football&_r=0 #rstats more details at http://www.borischen.co/ HT @chrishwiggins
+390661807808847872  Oct 16 22:13  @winterswift      @YhatHQ Guys, your ggplot2 port is really cool and all...but now I can't tell people that as a reason to use #rstats instead of #Python. D:
+390664942107365376  Oct 16 22:25  @MDubins          Can't sleep, have to make hobby maps in R.... #rstats
+390669198503854080  Oct 16 22:42  @ucfagls          @srsupp @ethanwhite @jiffyclub the python "version" is way less aesthetically pleasing than the #rstats original
+390680884145172480  Oct 16 23:29  @Aelkus           #rstats for teh win!!!!!! http://www.r-bloggers.com/r-usage-skyrocketing-rexer-poll/
+390683127095361536  Oct 16 23:38  @berkeleymalagon  @hadleywickham Thanks for stopping by Seattle! Exciting stuff in dplyr - learned a lot. #rstats #SeattleUseR http://t.co/vHzcml4ybR
+390683722996908032  Oct 16 23:40  @Rbloggers        Cont model back after a year:  (This article was first published on   R snippets, and kindly contrib... http://bit.ly/1993K6u #rstats
+390687293712773120  Oct 16 23:54  @TJO_datasci      RT @kdnuggets: Data Scientist Heaven: rPython – R Interface to Python #rstats  http://bit.ly/GRpc6q
+390691327018819584  Oct 17 00:10  @Rbloggers        Fantasy Football Modeling with R:  Boris Chen, a data scientist for the New York Times, has been runni... http://bit.ly/18nJ5wb #rstats
+390692114717102080  Oct 17 00:13  @_inundata        RT @hadleywickham: ggplot2 in the nytimes: http://www.nytimes.com/interactive/sports/football/2013-fantasy-football-tier-charts-QB.html?ref=football&_r=0 #rstats more details at http://www.borischen.co/ HT @chrishwiggins
+390693122352898049  Oct 17 00:17  @neilfws          so xlsx::write.xlsx automatically truncates sheet names to 31 chars; XLConnect::createSheet does not and returns error #rstats
+390694512785629184  Oct 17 00:23  @srsupp           RT @hadleywickham: ggplot2 in the nytimes: http://www.nytimes.com/interactive/sports/football/2013-fantasy-football-tier-charts-QB.html?ref=football&_r=0 #rstats more details at http://www.borischen.co/ HT @chrishwiggins
+390695161430155264  Oct 17 00:25  @Lewis_Lab        @cgranade I'm an #Rstats person.
+390695401390493696  Oct 17 00:26  @LRaykin          Just finished "computing for data analysis" on @coursera.  Nice, easy intro to R & coding. #rstats
+390703143266164737  Oct 17 00:57  @u_ot             RT @kdnuggets: Data Scientist Heaven: rPython – R Interface to Python #rstats  http://bit.ly/GRpc6q
+390705941672656896  Oct 17 01:08  @RickSaporta      @JGreenbrookHeld Have a look at dread from the data.table pkg MT: have CSV with 16m rows - suggestions on how  work with it in #rstats?
+390706026472677376  Oct 17 01:09  @u_ot             少し前までは，summary関数で useNA なんか指定しなくても NA は別個で集計されていたような気がする． #rstats
+390711277355827200  Oct 17 01:30  @DailyRpackage    biomod2 - Ensemble platform for species distribution modeling http://cran.r-project.org/web/packages/biomod2/index.html #RStats
+390721935371276288  Oct 17 02:12  @drago_carlo      A first step towards R from spreadsheets http://www.r-bloggers.com/a-first-step-towards-r-from-spreadsheets/ via @Prismatic @Rbloggers #Rstats #Graphics
+390724800374534144  Oct 17 02:23  @DrQz             Tweets Have Become Shorter Since 2009 http://techre.vu/1fz3nY1 #bigdata #rstats #twitter
