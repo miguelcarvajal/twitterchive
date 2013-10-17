@@ -21902,3 +21902,53 @@
 390802023987564544  Oct 17 07:30  @Rbloggers        Hungarian RUG on ggplot2:  (This article was first published on   rapporter, and kindly contributed ... http://bit.ly/1cY3gnQ #rstats
 390806930337574912  Oct 17 07:50  @hstm42           Any R enthusiasts in Karlsruhe area, Germany, interested in founding an R user group? #rstats
 390820378777362432  Oct 17 08:43  @tcrug            #tcrug tonight! @erikriverson on exploring data, @jayjacobs on animation, @winston_chang on speeding R up! #rstats http://meetup.com/twincitiesrug
+390826488184205312  Oct 17 09:07  @jayjacobs        RT @tcrug: #tcrug tonight! @erikriverson on exploring data, @jayjacobs on animation, @winston_chang on speeding R up! #rstats http://t.co/LdpwpynE3e
+390828633641603074  Oct 17 09:16  @matthrussell     RT @tcrug: #tcrug tonight! @erikriverson on exploring data, @jayjacobs on animation, @winston_chang on speeding R up! #rstats http://t.co/LdpwpynE3e
+390830879506837504  Oct 17 09:25  @m_a_upson        #RStats continues to gain traction with researchers  http://lnkd.in/bxAThBx
+390835563043241986  Oct 17 09:43  @PPUAMX           RT @RLangTip: Use the integrate function to calculate the area under a curve: http://bit.ly/OET7Ri #rstats
+390837952823054336  Oct 17 09:53  @insula_r         Migliorare i grafici in R con il filtro antialiasing: Antialias plotting in R using #Cairo http://bit.ly/16dfkj8 #rstats #dataviz
+390838676839604224  Oct 17 09:56  @OpenCPU          #rstats by @opencpu: OpenCPU Release 1.0.4 https://public.opencpu.org/posts/opencpu-release.1.0.4
+390839710312308736  Oct 17 10:00  @genetics_blog    #ggplot2 for #python https://github.com/yhat/ggplot/ #rstats
+390839845590798336  Oct 17 10:00  @statisticsblog   R tip of the day - generating your own normal table with R. http://i.cx/18neIWw #r #rstats
+390840098864250880  Oct 17 10:01  @hardikshah007    RT @genetics_blog: #ggplot2 for #python https://github.com/yhat/ggplot/ #rstats
+390845877926899713  Oct 17 10:24  @statsforbios     Great example of using #Rcpp to speed up #Rstats by using c++. 100x speedup.  http://dirk.eddelbuettel.com/blog/2011/04/23/
+390848386850897920  Oct 17 10:34  @rafaldotnet      Exciting stuff: ggplot2, famous in #Rstats world is now available for #Python, can't wait to play. http://blog.yhathq.com/posts/ggplot-for-python.html
+390849876231077889  Oct 17 10:40  @Rbloggers        Mapping Earthquake in Bohol using R:  (This article was first published on   Data Analysis and Visua... http://bit.ly/18p7EJ1 #rstats
+390853542891630592  Oct 17 10:55  @kevinkeenan_     Why use mapply function in #rstats? - http://tinyurl.com/nfpzy4e @BelfastRUsers
+390854945278140416  Oct 17 11:00  @statisticsblog   Why R and not spreadsheets? http://i.cx/1aq9bfj #r #rstats
+390855355720159232  Oct 17 11:02  @revodavid        Using #rstats for better Fantasy Football teams, ranking NFL players: http://bit.ly/198tIXQ
+390855414818299904  Oct 17 11:02  @ag_la_u          RT @revodavid: Using #rstats for better Fantasy Football teams, ranking NFL players: http://bit.ly/198tIXQ
+390855482740457472  Oct 17 11:03  @Bashir9ist       RT @revodavid: Using #rstats for better Fantasy Football teams, ranking NFL players: http://bit.ly/198tIXQ
+390855915836293120  Oct 17 11:04  @Lenandlar        RT @statisticsblog: Why R and not spreadsheets? http://i.cx/1aq9bfj #r #rstats
+390856691014979587  Oct 17 11:07  @jdtonkin         Anyone know why I get this error in gbm.plot..? Error: could not find function "windows" - can't find windows() function anywhere! #rstats
+390856903720718336  Oct 17 11:08  @unstressedvowel  RT @revodavid: Using #rstats for better Fantasy Football teams, ranking NFL players: http://bit.ly/198tIXQ
+390857538234621953  Oct 17 11:11  @geospacedman     Am going to stop swearing at #rstats inconsistencies between S3, S4 and Reference Classes for long enough to eat a pancake with maple syrup.
+390859302698618881  Oct 17 11:18  @ScootJD          V frustrating R problem - type in a command and the > disappears? This is probably really obvious but it's never happened before...#rstats
+390869347440537601  Oct 17 11:58  @timelyportfolio  RT @ramnath_vaidya: Answer: nvd3 scatterPlot with #rCharts in R: Vary size of points? http://stackoverflow.com/a/19424225/235349?stw=2 #rstats
+390870384209190912  Oct 17 12:02  @RevoJoe          Will "Deep Learning" be the next big thing in Data Science"? http://bit.ly/1hZf9aY #rstats
+390870441415688192  Oct 17 12:02  @zenrhino         RT @tcrug: #tcrug tonight! @erikriverson on exploring data, @jayjacobs on animation, @winston_chang on speeding R up! #rstats http://t.co/LdpwpynE3e
+390871319006699521  Oct 17 12:05  @RLangTip         The ddply function (in package plyr) makes aggregating rows of data (e.g. medians by group) simpler: http://bit.ly/Qs64Kj #rstats
+390872484649897984  Oct 17 12:10  @Rbloggers        The ACM 2013 Mining Big Data Camp and "Un-Conference":  (This article was first published on   Revol... http://bit.ly/1cZ3JGr #rstats
+390880555115372544  Oct 17 12:42  @Ognyanova        Check out @isDotR, by David Sparks (who does analytics for the Boston Celtics) & Chris DeSante: http://bit.ly/19PbF5S #dataswap #rstats
+390886018117042176  Oct 17 13:04  @FrederikHjorth   Hearing talk by #rstats core team member Peter Dalgaard. Biggest schocker: CRAN is pronounced "c-ran". #mindblown #cannotunhear
+390886693626478592  Oct 17 13:07  @gustavozeferino  RT @DataJunkie: A Little Book of R for Time Series http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/ (basic, but good intro) #Rstats
+390886699871395841  Oct 17 13:07  @recology_        Breaking: MT @FrederikHjorth: Hearing talk by #rstats core team member Peter Dalgaard. CRAN is pronounced "c-ran". #mindblown #cannotunhear
+390887137597329408  Oct 17 13:08  @kara_woo         RT @recology_: Breaking: MT @FrederikHjorth: Hearing talk by #rstats core team member Peter Dalgaard. CRAN is pronounced "c-ran". #mindblown #cannotunhear
+390887450564132864  Oct 17 13:10  @benjaminlmoore   RT @recology_: Breaking: MT @FrederikHjorth: Hearing talk by #rstats core team member Peter Dalgaard. CRAN is pronounced "c-ran". #mindblown #cannotunhear
+390888969723850752  Oct 17 13:16  @ucfagls          Why do some #rstats pkg authors insist on naming functions `pkgname.something()`? (where they aren't referring to an S3 class)
+390890112331956224  Oct 17 13:20  @ucfagls          Are they worried I'll forget the name of their #rstats package? Or are they pissed at the world & want to get back by making us type more?
+390890415735316480  Oct 17 13:21  @raviupanishad    RT @statisticsblog: R tip of the day - generating your own normal table with R. http://i.cx/18neIWw #r #rstats
+390891941183094784  Oct 17 13:27  @rmflight         pre-calculating p-values in a lookup table, using #rstats and #cpp, blog post http://rmflight.github.io/posts/2013/10/precalcLookup.html
+390892978996125696  Oct 17 13:32  @winston_chang    RT @recology_: Breaking: MT @FrederikHjorth: Hearing talk by #rstats core team member Peter Dalgaard. CRAN is pronounced "c-ran". #mindblown #cannotunhear
+390898599196114945  Oct 17 13:54  @BobMuenchen      What #Rstats Has Been Missing | http://r4stats.com http://bit.ly/RisMissing @IBMSPSS @SASsoftware #analytics #bigdata @alteryx
+390899025869676544  Oct 17 13:56  @M_T_Patterson    Using R for important things... like fantasy football! http://www.r-bloggers.com/fantasy-football-modeling-with-r/ #RStats, #SportsAnalysis
+390900714278768640  Oct 17 14:02  @joscani          RT @BobMuenchen: What #Rstats Has Been Missing | http://r4stats.com http://bit.ly/RisMissing @IBMSPSS @SASsoftware #analytics #bigdata @alteryx
+390903711629058050  Oct 17 14:14  @Rbloggers        What R Has Been Missing:  (This article was first published on   http://r4stats.com » R, and kind... http://bit.ly/19N3wB9 #rstats
+390904375289581568  Oct 17 14:17  @andyteucher      What??? MT @FrederikHjorth: Hearing talk by #rstats core team member Peter Dalgaard. CRAN is pronounced "c-ran". #mindblown #cannotunhear
+390904793280958464  Oct 17 14:19  @pjross01         RT @BobMuenchen: What #Rstats Has Been Missing | http://r4stats.com http://bit.ly/RisMissing @IBMSPSS @SASsoftware #analytics #bigdata @alteryx
+390904889917710336  Oct 17 14:19  @alteryx          RT @BobMuenchen: What #Rstats Has Been Missing | http://r4stats.com http://bit.ly/RisMissing @IBMSPSS @SASsoftware #analytics #bigdata @alteryx
+390906582013579264  Oct 17 14:26  @mattmoehr        R is all "what you're not inverting 400K by 400K matrices today? SLACKER." I'm all, "just you wait...first Miami then the nation." #rstats
+390908401347088385  Oct 17 14:33  @Elisotope        Thanks @recology_ and @drdrewsteen for helping me out with #Rstats! Amazing how people who don't know you are happy to share time/knowledge!
+390910097766875136  Oct 17 14:40  @stevepowell99    What R Has Been Missing. #revolutionanalytics should give this flow-chart interface for all useRs  http://www.r-bloggers.com/what-r-has-been-missing #rstats
+390911324819308544  Oct 17 14:44  @Rbloggers        Introduction to Feature selection for bioinformaticians using R, correlation matrix filters, PCA & bac... http://bit.ly/19N8Wfj #rstats
+390914508749017088  Oct 17 14:57  @AsmusLethOlsen   RT @FrederikHjorth: Hearing talk by #rstats core team member Peter Dalgaard. Biggest schocker: CRAN is pronounced "c-ran". #mindblown #cannotunhear
