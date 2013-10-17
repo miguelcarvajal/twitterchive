@@ -21886,3 +21886,19 @@
 390711277355827200  Oct 17 01:30  @DailyRpackage    biomod2 - Ensemble platform for species distribution modeling http://cran.r-project.org/web/packages/biomod2/index.html #RStats
 390721935371276288  Oct 17 02:12  @drago_carlo      A first step towards R from spreadsheets http://www.r-bloggers.com/a-first-step-towards-r-from-spreadsheets/ via @Prismatic @Rbloggers #Rstats #Graphics
 390724800374534144  Oct 17 02:23  @DrQz             Tweets Have Become Shorter Since 2009 http://techre.vu/1fz3nY1 #bigdata #rstats #twitter
+390736765952466944  Oct 17 03:11  @luisdans         RT @DrQz: Tweets Have Become Shorter Since 2009 http://techre.vu/1fz3nY1 #bigdata #rstats #twitter
+390742647381319680  Oct 17 03:34  @RKNimmakayala    RT @kdnuggets: Data Scientist Heaven: rPython – R Interface to Python #rstats  http://bit.ly/GRpc6q
+390746113134710784  Oct 17 03:48  @cloudHPC         #hadoop for storing&processing, #dbs as #mongodb for operation data, #rstats for analyses http://www.odbms.org/blog/2013/10/on-big-data-and-nosql-interview-with-renat-khasanshyn/ @odbmsorg @renatkhasanshyn
+390751221155237888  Oct 17 04:08  @MangoTheCat      R usage skyrocketing: Rexer poll http://www.r-bloggers.com/r-usage-skyrocketing-rexer-poll/ via @rbloggers  #proof #rstats
+390762940149678080  Oct 17 04:55  @rapporters       Hungarian #rstats User Group (BURN) meeting and talks on ggplot2 http://blog.rapporter.net/2013/10/hungarian-rug-on-ggplot2.html
+390767023480774657  Oct 17 05:11  @MoritzBuchi      first results: topics of 50k science-related tweets in the last couple of weeks #rstats (thanks @dmimno ) http://t.co/ImoeuLsJYK
+390777277421998081  Oct 17 05:52  @Minkoo           RT @revodavid: Latest Rexer poll shows continued skyrocketing growth of R usage: http://bit.ly/16KzVcR #rstats
+390782114095828993  Oct 17 06:11  @kevinkeenan_     I just figured out an actual use for 'mapply' in #rstats. It is glorious :-)
+390786606468055040  Oct 17 06:29  @ramnath_vaidya   Answer: nvd3 scatterPlot with #rCharts in R: Vary size of points? http://stackoverflow.com/a/19424225/235349?stw=2 #rstats
+390786949000474624  Oct 17 06:30  @Rbloggers        OpenCPU Release 1.0.4:  (This article was first published on   OpenCPU, and kindly contributed to R-... http://bit.ly/199Wzei #rstats
+390788439697670144  Oct 17 06:36  @rvimieiro        How to plot a 'bubble' chart in #NVD3 using #rCharts http://stackoverflow.com/questions/19421211/nvd3-scatterplot-with-rcharts-in-r-vary-size-of-points/19424225#19424225 #Rstats #dataviz #d3js MT @ramnath_vaidya
+390789396359675904  Oct 17 06:40  @arunatma         RT @ramnath_vaidya: Answer: nvd3 scatterPlot with #rCharts in R: Vary size of points? http://stackoverflow.com/a/19424225/235349?stw=2 #rstats
+390795016828104706  Oct 17 07:02  @ChPietsch        RT @rOpenSci: #odinproject FWIW #rstats wrapper for @datacite  http://bit.ly/I7zGeA and another w/ other metadata sources here http://t.co/DNzHpSp6m0
+390802023987564544  Oct 17 07:30  @Rbloggers        Hungarian RUG on ggplot2:  (This article was first published on   rapporter, and kindly contributed ... http://bit.ly/1cY3gnQ #rstats
+390806930337574912  Oct 17 07:50  @hstm42           Any R enthusiasts in Karlsruhe area, Germany, interested in founding an R user group? #rstats
+390820378777362432  Oct 17 08:43  @tcrug            #tcrug tonight! @erikriverson on exploring data, @jayjacobs on animation, @winston_chang on speeding R up! #rstats http://meetup.com/twincitiesrug
