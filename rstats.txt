@@ -21963,3 +21963,37 @@
 390982819532787712  Oct 17 19:29  @jabawack         RT @kdnuggets: Data Scientist Heaven: rPython – R Interface to Python #rstats  http://bit.ly/GRpc6q
 390999113091002369  Oct 17 20:33  @andrewheiss      Playing with makefiles for #rstats + pandoc stuff. Neato.
 391002477136314369  Oct 17 20:47  @zentree          Good comment: "show me a REAL example of why #Rstats is better th[a]n #Excel". http://www.burns-stat.com/first-step-towards-r-spreadsheets/
+391014639397388288  Oct 17 21:35  @joshua_ulrich    #RFinance 2014 is gearing up; the Call For Papers is out! http://goo.gl/wpNcIF #rstats
+391016090119053313  Oct 17 21:41  @joshua_ulrich    Need to blog about this year's GSoC xtsExtra project and speed gains in blotter/quantstrat; what else do you want to see? #rstats
+391023450791227393  Oct 17 22:10  @Rbloggers        R/Finance 2014 Call for Papers:  (This article was first published on   FOSS Trading, and kindly con... http://bit.ly/1bDDW2R #rstats
+391023607708934144  Oct 17 22:11  @timelyportfolio  RT @joshua_ulrich: #RFinance 2014 is gearing up; the Call For Papers is out! http://goo.gl/wpNcIF #rstats
+391026755344924672  Oct 17 22:23  @ricksschultz     RT @BobMuenchen: What #Rstats Has Been Missing | http://r4stats.com http://bit.ly/RisMissing @IBMSPSS @SASsoftware #analytics #bigdata @alteryx
+391038019773296640  Oct 17 23:08  @hadleywickham    DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
+391038603847282688  Oct 17 23:10  @mhanco           RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
+391038957288693760  Oct 17 23:12  @timelyportfolio  RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
+391038958815035394  Oct 17 23:12  @sfalcon          RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
+391040075494354944  Oct 17 23:16  @hukuuu           RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
+391040451634921473  Oct 17 23:18  @eddelbuettel     RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
+391043483777003520  Oct 17 23:30  @matthrussell     Thanks to @tcrug for showing me how lineprof() can help me see how slow my #rstats code really is: https://github.com/hadley/lineprof
+391043603155279872  Oct 17 23:30  @hadleywickham    RT @matthrussell: Thanks to @tcrug for showing me how lineprof() can help me see how slow my #rstats code really is: https://github.com/hadley/lineprof
+391044228199227392  Oct 17 23:33  @hukuuu           Thanks to @tcrug for showing me how lineprof() can help me see how slow my #rstats code really is: https://github.com/hadley/lineprof
+391046006189469696  Oct 17 23:40  @zentree          self.loathe: name for fictitious #Rstats package.  require(self.loathe) forces the programmer to use *apply at least ten times in a script.
+391046695649161216  Oct 17 23:42  @keith_ng         RT @zentree: self.loathe: name for fictitious #Rstats package.  require(self.loathe) forces the programmer to use *apply at least ten times in a script.
+391047569846984704  Oct 17 23:46  @jrauser          RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
+391047643578634242  Oct 17 23:46  @Aethylred        RT @zentree: self.loathe: name for fictitious #Rstats package.  require(self.loathe) forces the programmer to use *apply at least ten times in a script.
+391052024806002688  Oct 18 00:04  @drago_carlo      Techniques to improve the accuracy of your Predictive Models http://anotherdataminingblog.blogspot.it/2013/10/techniques-to-improve-accuracy-of-your_17.html #PredictiveModels #Modeling #Rstats
+391053444787609600  Oct 18 00:09  @GregFinak        RT @matthrussell: Thanks to @tcrug for showing me how lineprof() can help me see how slow my #rstats code really is: https://github.com/hadley/lineprof
+391054066836443136  Oct 18 00:12  @recology_        RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
+391054549999697920  Oct 18 00:14  @hukuuu           RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
+391055277245472768  Oct 18 00:16  @khakieconomist   RT @matthrussell: Thanks to @tcrug for showing me how lineprof() can help me see how slow my #rstats code really is: https://github.com/hadley/lineprof
+391055682512105472  Oct 18 00:18  @hukuuu           RT @matthrussell: Thanks to @tcrug for showing me how lineprof() can help me see how slow my #rstats code really is: https://github.com/hadley/lineprof
+391055846085369856  Oct 18 00:19  @drago_carlo      Introduction to Feature selection http://www.r-bloggers.com/introduction-to-feature-selection-for-bioinformaticians-using-r-correlation-matrix-filters-pca-backward-selection/ via @Rbloggers #FeatureSelection #Bioinformatics #DataMining #Rstats
+391067208882745344  Oct 18 01:04  @znmeb            RT @OpenCPU: #rstats by @opencpu: OpenCPU Release 1.0.4 https://public.opencpu.org/posts/opencpu-release.1.0.4
+391068731461222400  Oct 18 01:10  @TILaing          Recommend this RT@JeromyAnglim New Video: "How to improve accuracy of predictive models" by Phil Brierley   http://www.r-bloggers.com/RUG/2013/10/video-techniques-to-improve-the-accuracy-of-predictive-models/ … #rstats
+391068977083846656  Oct 18 01:11  @timtriche        RT @matthrussell: Thanks to @tcrug for showing me how lineprof() can help me see how slow my #rstats code really is: https://github.com/hadley/lineprof
+391073192603045888  Oct 18 01:28  @disktnk          RT @joshua_ulrich: #RFinance 2014 is gearing up; the Call For Papers is out! http://goo.gl/wpNcIF #rstats
+391073662579007488  Oct 18 01:30  @DailyRpackage    AutoSEARCH - General-to-Specific (GETS) Model Selection http://cran.r-project.org/web/packages/AutoSEARCH/index.html #RStats
+391076031085297665  Oct 18 01:39  @abhik1368        anyone having a good manual for revolutions R and functions  #Revolution #rstats @RevolutionR
+391077009251516417  Oct 18 01:43  @berndweiss       "Divide et impera: Split-apply-combine-Ansätze in R" - Vortrag in Köln #rstats User Group (Folien + Material: https://github.com/berndweiss/ps2013-10-krug-apply_co)
+391087189116739584  Oct 18 02:23  @bryangoodrich    RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
+391088602479751168  Oct 18 02:29  @rvimieiro        RT @drago_carlo Introduction to Feature selection http://www.r-bloggers.com/introduction-to-feature-selection-for-bioinformaticians-using-r-correlation-matrix-filters-pca-backward-selection/ #FeatureSelection #Bioinformatics #DataMining #Rstats
