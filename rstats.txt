@@ -22009,3 +22009,37 @@
 391158835471081472  Oct 18 07:08  @ErynMcFarlane    Thanks so much for everyone's help with GenABEL. Still no luck, but with any luck it will work out #Rstats
 391169044600356864  Oct 18 07:49  @romain_francois  RT @joshua_ulrich: #RFinance 2014 is gearing up; the Call For Papers is out! http://goo.gl/wpNcIF #rstats
 391184165065850880  Oct 18 08:49  @bearloga         In Pittsburgh and use R? Come to the next useR Group meeting! I'll be giving a talk on twitter notifications. http://meetu.ps/22thbv #rstats
+391187145555066881  Oct 18 09:00  @statisticsblog   R tip of the day - Introduction to Feature selection for bioinformaticians using R. http://i.cx/1as2nxM #r #rstats
+391191155401969664  Oct 18 09:16  @csimokat         RT @statisticsblog: R tip of the day - Introduction to Feature selection for bioinformaticians using R. http://i.cx/1as2nxM #r #rstats
+391197405070524416  Oct 18 09:41  @jewsforjets      RT @statisticsblog: R tip of the day - Introduction to Feature selection for bioinformaticians using R. http://i.cx/1as2nxM #r #rstats
+391203308083245056  Oct 18 10:05  @fcastanedo       Wise Athena apoyando a la comunidad de usuarios de R http://lnkd.in/beEfmcD  #rstats #useR
+391203601541902336  Oct 18 10:06  @fcastanedo       Wise Athena supporting local R community http://r-es.org/dl1141&display   #rstats #useR
+391206431048753153  Oct 18 10:17  @deronaucoin      RT @statisticsblog: R tip of the day - Introduction to Feature selection for bioinformaticians using R. http://i.cx/1as2nxM #r #rstats
+391210006269272065  Oct 18 10:31  @mjcavaretta      A cautionary tale MT @kevinkeenan_ recent misinterpretation of the 'noble' p-value http://tinyurl.com/ntdkbv5 by @CjBayesian #stats #rstats #ddj
+391212261257117698  Oct 18 10:40  @mjcavaretta      Interesting, any use-cases? RT @OpenCPU: #rstats by @opencpu: OpenCPU Release 1.0.4 https://public.opencpu.org/posts/opencpu-release.1.0.4
+391214812639666176  Oct 18 10:50  @Jowanza          Gotta be careful with P-values: http://www.r-bloggers.com/p-value-fallacy-alive-and-well-latest-case-in-the-journal-nature/ #Stats #Bayes #Rstats
+391217519865778178  Oct 18 11:01  @raviupanishad    RT @statisticsblog: R tip of the day - Introduction to Feature selection for bioinformaticians using R. http://i.cx/1as2nxM #r #rstats
+391222368514744320  Oct 18 11:20  @statsforbios     RT @DailyRpackage biomod2 - Ensemble platform for species distribution modeling http://cran.r-project.org/web/packages/biomod2/index.html … #RStats
+391222748443594753  Oct 18 11:22  @ndronen          I would love it if R could automatically save variables in my environment to disc, so I could load and use them in other sessions. #rstats
+391224919662399488  Oct 18 11:31  @jrmontag         round_any() http://bit.ly/1cCluJ2 nice rounding of numeric / POSIXct things to arb multiples #rstats
+391225137359368192  Oct 18 11:31  @ndronen          A better save.image: new/modified variables in an R session would be (optionally) written to .Rdata automatically. #rstats
+391226738211962880  Oct 18 11:38  @AquaticMicrobes  RT @statsforbios: RT @DailyRpackage biomod2 - Ensemble platform for species distribution modeling http://cran.r-project.org/web/packages/biomod2/index.html … #RStats
+391227769377804288  Oct 18 11:42  @OpenGamma        RT @joshua_ulrich: #RFinance 2014 is gearing up; the Call For Papers is out! http://goo.gl/wpNcIF #rstats
+391232764965445632  Oct 18 12:02  @darinself        Trends in IR methodology where article issue area is International Security - top 12 journals. #Rstats http://t.co/Jt8Ec5cdjo
+391234235497197569  Oct 18 12:08  @RLangTip         #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+391235245699510273  Oct 18 12:12  @ianjacobs        RT @RLangTip: #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+391237662885314560  Oct 18 12:21  @tdoyon           RT @RLangTip: #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+391239382025654273  Oct 18 12:28  @kirkwy           RT @joshua_ulrich: #RFinance 2014 is gearing up; the Call For Papers is out! http://goo.gl/wpNcIF #rstats
+391239997929426944  Oct 18 12:30  @johnschrom       RT @statisticsblog: R tip of the day - Introduction to Feature selection for bioinformaticians using R. http://i.cx/1as2nxM #r #rstats
+391240692422283264  Oct 18 12:33  @znmeb            @swcarpentry There are #rstats books with the source on Github. See https://github.com/christophergandrud/Rep-Res-Book for example.
+391243598592614400  Oct 18 12:45  @rmflight         RT @znmeb: @swcarpentry There are #rstats books with the source on Github. See https://github.com/christophergandrud/Rep-Res-Book for example.
+391244603460165632  Oct 18 12:49  @kyeagerKSU       RT @RLangTip: #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+391246469870534656  Oct 18 12:56  @shubclimate      RT @RLangTip: #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+391254008972984320  Oct 18 13:26  @shmarmielarmie   RT @Rbloggers: Introduction to Feature selection for bioinformaticians http://flip.it/trboW #rstats
+391257997189468160  Oct 18 13:42  @peteswilson      @turtleandweasel? @statsforbios RT @DailyRpackage biomod2-Ensemble platform for species distribution modeling http://cran.r-project.org/web/packages/biomod2/index.html #RStats
+391259981548240896  Oct 18 13:50  @berkeleymalagon  Tab completion for filesystem paths is like butta. #Rstats #RStudio
+391265083487428608  Oct 18 14:10  @mattgarciablitz  RT @RLangTip: #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+391271493143130112  Oct 18 14:36  @herrcafe         Today I realized I'm becoming a bit of an R evangelist. Hopefully not too much an annoying one. #rstats #rememberwhen
+391274884761796608  Oct 18 14:49  @revodavid        Forbes article today talks about putting R-based analytics in the hands of business analysts http://bit.ly/16gOUgn #rstats @alteryx
+391275451290615808  Oct 18 14:51  @windcompanion    RT @revodavid: Forbes article today talks about putting R-based analytics in the hands of business analysts http://bit.ly/16gOUgn #rstats @alteryx
+391275560326168576  Oct 18 14:52  @hurricanejim     RT @revodavid: Forbes article today talks about putting R-based analytics in the hands of business analysts http://bit.ly/16gOUgn #rstats @alteryx
