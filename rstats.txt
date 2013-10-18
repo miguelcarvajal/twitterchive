@@ -21952,3 +21952,14 @@
 390910097766875136  Oct 17 14:40  @stevepowell99    What R Has Been Missing. #revolutionanalytics should give this flow-chart interface for all useRs  http://www.r-bloggers.com/what-r-has-been-missing #rstats
 390911324819308544  Oct 17 14:44  @Rbloggers        Introduction to Feature selection for bioinformaticians using R, correlation matrix filters, PCA & bac... http://bit.ly/19N8Wfj #rstats
 390914508749017088  Oct 17 14:57  @AsmusLethOlsen   RT @FrederikHjorth: Hearing talk by #rstats core team member Peter Dalgaard. Biggest schocker: CRAN is pronounced "c-ran". #mindblown #cannotunhear
+390925537901682688  Oct 17 15:41  @geospacedman     #rstats reference classes have different behaviour to S3 and S4 when you change method code it seems: http://rpubs.com/geospacedman/updating_methods
+390930854140059648  Oct 17 16:02  @p_barbera        RT @FrederikHjorth: Hearing talk by #rstats core team member Peter Dalgaard. Biggest schocker: CRAN is pronounced "c-ran". #mindblown #cannotunhear
+390949812784201728  Oct 17 17:17  @revodavid        RT @BobMuenchen: What #Rstats Has Been Missing | http://r4stats.com http://bit.ly/RisMissing @IBMSPSS @SASsoftware #analytics #bigdata @alteryx
+390962159196176384  Oct 17 18:06  @JeromyAnglim     New Video: "How to improve accuracy of predictive models" by Phil Brierley   http://www.r-bloggers.com/RUG/2013/10/video-techniques-to-improve-the-accuracy-of-predictive-models/ #rstats @kaggle
+390967902263721984  Oct 17 18:29  @Jowanza          Really impressed with the work for SVG graphics in the #Rstats community.  So many good people working on stuff.
+390968457124007936  Oct 17 18:31  @GraemeTLloyd     @PaleoGould @WrightingApril Why are you using #MatLab and not #Rstats? (Genuine Question!)
+390969689893244928  Oct 17 18:36  @naupakaz         Any #ESA14 tweeps want to co-organize an #Rstats wkshop?  Ppl liked #ggplot2 last summer, could also do basics cc @_inundata @ATredennick
+390974044981694464  Oct 17 18:54  @johnwcobb        RT @recology_: A start for a #python wrapper to  @PLOSALM - a port of alm pkg for #rstats  http://bit.ly/1cPi4oI
+390982819532787712  Oct 17 19:29  @jabawack         RT @kdnuggets: Data Scientist Heaven: rPython – R Interface to Python #rstats  http://bit.ly/GRpc6q
+390999113091002369  Oct 17 20:33  @andrewheiss      Playing with makefiles for #rstats + pandoc stuff. Neato.
+391002477136314369  Oct 17 20:47  @zentree          Good comment: "show me a REAL example of why #Rstats is better th[a]n #Excel". http://www.burns-stat.com/first-step-towards-r-spreadsheets/
