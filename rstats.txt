@@ -21997,3 +21997,15 @@
 391077009251516417  Oct 18 01:43  @berndweiss       "Divide et impera: Split-apply-combine-Ansätze in R" - Vortrag in Köln #rstats User Group (Folien + Material: https://github.com/berndweiss/ps2013-10-krug-apply_co)
 391087189116739584  Oct 18 02:23  @bryangoodrich    RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
 391088602479751168  Oct 18 02:29  @rvimieiro        RT @drago_carlo Introduction to Feature selection http://www.r-bloggers.com/introduction-to-feature-selection-for-bioinformaticians-using-r-correlation-matrix-filters-pca-backward-selection/ #FeatureSelection #Bioinformatics #DataMining #Rstats
+391098544473403392  Oct 18 03:08  @themba           Manager of Statistics at ESPN. Sounds like an awesome job. #rstats #stats #research #sports http://jobs.espncareers.com/connecticut/statistics/jobid4253383-manager-statistics-jobs #CT
+391101874293596160  Oct 18 03:22  @sirishasun       RT @matthrussell: Thanks to @tcrug for showing me how lineprof() can help me see how slow my #rstats code really is: https://github.com/hadley/lineprof
+391114293866811392  Oct 18 04:11  @Rbloggers        Big and small daycares in Toronto by building type, mapped using RGoogleMaps and Toronto Open Data:  ... http://bit.ly/18rHaXs #rstats
+391126111104425984  Oct 18 04:58  @kyloring         There were 48 warnings (use warnings() to see them) #rstats
+391129844676706304  Oct 18 05:13  @ErynMcFarlane    Losing my mind with the GenABEL R package. Does anyone else have trouble loading it? Worked yesterday and now won't load! Help! #Rstats
+391131030205108224  Oct 18 05:17  @kevinkeenan_     A nice summary of a recent misinterpretation of the 'noble' p-value: http://tinyurl.com/ntdkbv5 by @CjBayesian #stats #rstats
+391144747303071744  Oct 18 06:12  @CASALATWEET      RT @shane_a_lynn: Analytics? Get on the R bandwagon... Everyone else is. http://feedly.com/k/16f1pUn #rstats
+391146969382391808  Oct 18 06:21  @_bmartinez_      R Users Group Madrid estrena blog con el Taller que daré para hacer Mapas en R http://goo.gl/6Yo36k  #rstats
+391150737579048960  Oct 18 06:36  @teramonagi       RT @joshua_ulrich: #RFinance 2014 is gearing up; the Call For Papers is out! http://goo.gl/wpNcIF #rstats
+391158835471081472  Oct 18 07:08  @ErynMcFarlane    Thanks so much for everyone's help with GenABEL. Still no luck, but with any luck it will work out #Rstats
+391169044600356864  Oct 18 07:49  @romain_francois  RT @joshua_ulrich: #RFinance 2014 is gearing up; the Call For Papers is out! http://goo.gl/wpNcIF #rstats
+391184165065850880  Oct 18 08:49  @bearloga         In Pittsburgh and use R? Come to the next useR Group meeting! I'll be giving a talk on twitter notifications. http://meetu.ps/22thbv #rstats
