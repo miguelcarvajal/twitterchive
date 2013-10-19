@@ -22099,3 +22099,32 @@
 391542667324039168  Oct 19 08:33  @felixhaass       Visualizing & animating African @UNPeacekeeping contributions w #rstats.Post (DE): http://bretterblog.wordpress.com/2013/10/19/multilaterale-friedenssicherung-in-afrika-in-zahlen-und-grafiken/ Code (EN): https://gist.github.com/felixhaass
 391545781309960193  Oct 19 08:46  @maxlesch         RT @felixhaass: Visualizing & animating African @UNPeacekeeping contributions w #rstats.Post (DE): http://bretterblog.wordpress.com/2013/10/19/multilaterale-friedenssicherung-in-afrika-in-zahlen-und-grafiken/ Code (EN): https://t.co/GNz5J4Ac1E
 391548133735297024  Oct 19 08:55  @berndweiss       Neue Fassung von "Divide et impera: Split-apply-combine-Ansätze in R" verfügbar https://github.com/berndweiss/ps2013-10-krug-apply_co #rstats
+391553287860006912  Oct 19 09:15  @quandl           What #R has been missing by @BobMuenchen http://qndl.co/1aVQZvq #Rstats #Data
+391553852752658433  Oct 19 09:18  @octonion         RT @quandl: What #R has been missing by @BobMuenchen http://qndl.co/1aVQZvq #Rstats #Data
+391555422668087296  Oct 19 09:24  @DatametricsBI    Actualmente estamos buscando programadores freelance en R. Comunícate con nosotros en contacto@idata.com.co #rstats #Datamining #bigdata
+391556673900257282  Oct 19 09:29  @iDATA_co         RT @DatametricsBI: Actualmente estamos buscando programadores freelance en R. Comunícate con nosotros en contacto@idata.com.co #rstats #Datamining #bigdata
+391580392308088832  Oct 19 11:03  @KirkDBorne       RT @revodavid via @Forbes:  Putting R-based #Analytics in the hands of business analysts http://bit.ly/16gOUgn #BigData #Rstats @alteryx
+391590295445725184  Oct 19 11:42  @chlalanne        RT @cpsievert: A sneak peek into my new #rstats package XML2R (CRAN version coming) http://bit.ly/19fsbzk
+391591449214861312  Oct 19 11:47  @chlalanne        "#rstats package for effect size calculations for psychology researchers" http://feedproxy.google.com/~r/StatisticalModelingCausalInferenceAndSocialScience/~3/qRHeaRkWdPc/
+391594484061851648  Oct 19 11:59  @joshua_ulrich    Compare two data.frames, column-by-column: mapply(identical, df1, df2) #rstats
+391595088188420096  Oct 19 12:01  @Vanxarp          RT @joshua_ulrich: Compare two data.frames, column-by-column: mapply(identical, df1, df2) #rstats
+391596556241362944  Oct 19 12:07  @gappy3000        "Why Python is Better than Matlab for Scientific Software" (with imitations of #rstats ggplot charts!) http://prsm.tc/TTMVsQ
+391596577540034561  Oct 19 12:07  @MarchiMax        RT @cpsievert: A sneak peek into my new #rstats package XML2R (CRAN version coming) http://bit.ly/19fsbzk
+391597189014646784  Oct 19 12:10  @treycausey       RT @gappy3000: "Why Python is Better than Matlab for Scientific Software" (with imitations of #rstats ggplot charts!) http://prsm.tc/TTMVsQ
+391598771723075586  Oct 19 12:16  @ChrisGandrud     Very handy: "@cpsievert: A sneak peek into my new #rstats package XML2R (CRAN version coming) http://bit.ly/19fsbzk"
+391599118205743105  Oct 19 12:18  @griverorz        RT @gappy3000: "Why Python is Better than Matlab for Scientific Software" (with imitations of #rstats ggplot charts!) http://prsm.tc/TTMVsQ
+391599712807051264  Oct 19 12:20  @TATA_BOX         Computational Biology Blog in fasta format: Optimizing a multivariable function parameters http://tata-box-blog.blogspot.com/2013/10/optimizing-multivariable-function.html?spref=tw #rstats
+391604499699499008  Oct 19 12:39  @juanfont         RT @gappy3000: "Why Python is Better than Matlab for Scientific Software" (with imitations of #rstats ggplot charts!) http://prsm.tc/TTMVsQ
+391605951704608768  Oct 19 12:45  @Mitheor          "@gappy3000: "Why Python is Better than Matlab... " (with imitations of #rstats ggplot charts!) http://prsm.tc/TTMVsQ" /Cc @Daniel5293
+391605972361166848  Oct 19 12:45  @x111k            @rstudioapp RStudio have really slow scrolling #rstats
+391608345377116160  Oct 19 12:54  @AhmedMoustafa    Demonstration for #permutation test using #R with #Shiny http://spark.rstudio.com/ahmed/permutation/ - R source https://gist.github.com/ahmedmoustafa/5518429/ #rstats #shiny #stats
+391609343898304512  Oct 19 12:58  @r_vaquerizo      RT @DatametricsBI: Actualmente estamos buscando programadores freelance en R. Comunícate con nosotros en contacto@idata.com.co #rstats #Datamining #bigdata
+391612397841956864  Oct 19 13:10  @Rbloggers        Carry-over balanced designs for 8 treatments:  (This article was first published on   Wiekvoet, and ... http://bit.ly/1d64ddP #rstats
+391613825889632257  Oct 19 13:16  @MattDabrowski    RT @polimath: New #GDELT #rstats package GDELTtools available on CRAN: http://cran.r-project.org/web/packages/GDELTtools #hackathon FTW!
+391615103428493312  Oct 19 13:21  @romain_francois  RT @CRANberriesFeed: CRAN updates: BH http://goo.gl/5g3iZ #rstats
+391621513805172737  Oct 19 13:46  @_iMarine         RT @TATA_BOX: Computational Biology Blog in fasta format: Optimizing a multivariable function parameters http://tata-box-blog.blogspot.com/2013/10/optimizing-multivariable-function.html?spref=tw #rstats
+391624646115987456  Oct 19 13:59  @miro165sabo      RT @neilfws: Very nice visualization of #rstats code over time: http://www.ohloh.net/p/rproject
+391625637880168448  Oct 19 14:03  @miro165sabo      RT @zentree: 'Animating the Metropolis Algorithm' using #Rstats http://mbjoseph.github.io/blog/2013/09/08/metropolis/
+391627003528753152  Oct 19 14:08  @miro165sabo      RT @drago_carlo: R packages for Structural Equation Model http://pairach.com/2011/08/13/r-packages-for-structural-equation-model/ via @prismatic #Statistics #SEM #Modeling #Rstats
+391627420152782848  Oct 19 14:10  @Rbloggers        Plotting Times of Discrete Events:  (This article was first published on   Exegetic Analytics » R, a... http://bit.ly/19hXTMc #rstats
+391628085780824064  Oct 19 14:13  @leonardojofre    RT @DatametricsBI: Actualmente estamos buscando programadores freelance en R. Comunícate con nosotros en contacto@idata.com.co #rstats #Datamining #bigdata
