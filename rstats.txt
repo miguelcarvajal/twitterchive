@@ -21968,6 +21968,7 @@
 391023450791227393  Oct 17 22:10  @Rbloggers        R/Finance 2014 Call for Papers:  (This article was first published on   FOSS Trading, and kindly con... http://bit.ly/1bDDW2R #rstats
 391023607708934144  Oct 17 22:11  @timelyportfolio  RT @joshua_ulrich: #RFinance 2014 is gearing up; the Call For Papers is out! http://goo.gl/wpNcIF #rstats
 391026755344924672  Oct 17 22:23  @ricksschultz     RT @BobMuenchen: What #Rstats Has Been Missing | http://r4stats.com http://bit.ly/RisMissing @IBMSPSS @SASsoftware #analytics #bigdata @alteryx
+391033313118257152  Oct 17 22:49  @MDubins          Big and small daycares in Toronto by building type, mapped using RGoogleMaps and Toronto Open Data #rstats @Open_TO http://wp.me/p2mL6o-4T
 391038019773296640  Oct 17 23:08  @hadleywickham    DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
 391038603847282688  Oct 17 23:10  @mhanco           RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
 391038957288693760  Oct 17 23:12  @timelyportfolio  RT @hadleywickham: DBI package gets new home (https://github.com/rstats-db/DBI) and new maintainer (me) #rstats
@@ -22043,3 +22044,32 @@
 391274884761796608  Oct 18 14:49  @revodavid        Forbes article today talks about putting R-based analytics in the hands of business analysts http://bit.ly/16gOUgn #rstats @alteryx
 391275451290615808  Oct 18 14:51  @windcompanion    RT @revodavid: Forbes article today talks about putting R-based analytics in the hands of business analysts http://bit.ly/16gOUgn #rstats @alteryx
 391275560326168576  Oct 18 14:52  @hurricanejim     RT @revodavid: Forbes article today talks about putting R-based analytics in the hands of business analysts http://bit.ly/16gOUgn #rstats @alteryx
+391291185358446593  Oct 18 15:54  @texhewson        RT @JeromyAnglim: New Video: "How to improve accuracy of predictive models" by Phil Brierley   http://www.r-bloggers.com/RUG/2013/10/video-techniques-to-improve-the-accuracy-of-predictive-models/ #rstats @kaggle
+391293024946241536  Oct 18 16:01  @abmathewks       Where to start with text mining. http://wp.me/p1fHxQ-Oe #rstats
+391293450617769984  Oct 18 16:03  @ricksschultz     Analytics Unchained Blog: R You Ready to Improve your #Analytics? http://bit.ly/19RGBT0 #rstats @alteryx @RevolutionR
+391293830990815233  Oct 18 16:04  @mattmoehr        Is it possible for people in downtown Miami to live within 2km of 3 million people?! #rstats #sanityChecks http://t.co/0CZA4rrKUh
+391294014139695104  Oct 18 16:05  @i_314            RT @abmathewks: Where to start with text mining. http://wp.me/p1fHxQ-Oe #rstats
+391294345279963136  Oct 18 16:06  @chlalanne        RT @abmathewks: Where to start with text mining. http://wp.me/p1fHxQ-Oe #rstats
+391296024041779200  Oct 18 16:13  @hugeiezzy        RT @abmathewks: Where to start with text mining. http://wp.me/p1fHxQ-Oe #rstats
+391297095295975424  Oct 18 16:17  @RevolutionR      RT @ricksschultz: Analytics Unchained Blog: R You Ready to Improve your #Analytics? http://bit.ly/19RGBT0 #rstats @alteryx @RevolutionR
+391306606853361665  Oct 18 16:55  @L_Aylesworth     RT @RLangTip: #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+391310596832251904  Oct 18 17:11  @miro165sabo      RT @abmathewks: Where to start with text mining. http://wp.me/p1fHxQ-Oe #rstats
+391314348380921856  Oct 18 17:26  @Jowanza          All of this: http://rcharts.io/viewer/?5735146#.UmGnRWRxtJE #Rstats
+391314618548637696  Oct 18 17:27  @MichaelDHealy    RT @Jowanza: All of this: http://rcharts.io/viewer/?5735146#.UmGnRWRxtJE #Rstats
+391319431751544832  Oct 18 17:46  @timelyportfolio  RT @Jowanza: All of this: http://rcharts.io/viewer/?5735146#.UmGnRWRxtJE #Rstats
+391326162305429504  Oct 18 18:13  @mcwizard1        RT @nyhackr: Come see Bill Cleveland at the #rstats meetup on Oct 22nd hosted by @Knewton http://bit.ly/16MYmGE
+391327323351306240  Oct 18 18:17  @cpsievert        A sneak peek into my new #rstats package XML2R (CRAN version coming) http://bit.ly/19fsbzk
+391328647862181888  Oct 18 18:23  @recology_        RT @cpsievert: A sneak peek into my new #rstats package XML2R (CRAN version coming) http://bit.ly/19fsbzk
+391329405013721089  Oct 18 18:26  @SergeyKochergan  Big and small daycares in Toronto by building type, mapped using RGoogleMaps and Toronto Open Data http://www.r-bloggers.com/big-and-small-daycares-in-toronto-by-building-type-mapped-using-rgooglemaps-and-toronto-open-data/ #rstats #bigdata
+391333043333779456  Oct 18 18:40  @Rbloggers        Three jobs at Monash:  (This article was first published on   Hyndsight » R, and kindly contributed ... http://bit.ly/18u3a3Y #rstats
+391333806277672960  Oct 18 18:43  @RevolutionR      RT @ricksschultz: Analytics Unchained Blog: R You Ready to Improve your #Analytics? http://bit.ly/19RGBT0 #rstats @alteryx @RevolutionR
+391336725462937600  Oct 18 18:55  @everydayanalyst  RT @MDubins: Big and small daycares in Toronto by building type, mapped using RGoogleMaps and Toronto Open Data #rstats @Open_TO http://t.co/aCbXLx72jy
+391336883571023872  Oct 18 18:55  @FastBigData      Like R? You must check out the new R cloud platform. I just discovered and love the tutorial http://rapporter.net/ #rstats #datascience
+391337638122098689  Oct 18 18:58  @FastBigData      @rapporters You have any tutorials on building an R cloudapp on your platform? #rstats #cloud
+391340442945462272  Oct 18 19:10  @KTInvasion       Suddenly my #git repo fails to sync through @rstudioapp or git gui - suggests debugging by cmd line... Any other options? @_inundata #rstats
+391353119054905344  Oct 18 20:00  @Rbloggers        Subsidies, Revenues, and Expenses of NCAA Division I Public Schools Athletic Departments – Visualizati... http://bit.ly/16VXgsh #rstats
+391356690525732864  Oct 18 20:14  @baogorek         One reason to switch from #SAS to #rstats: text-replacement macros have serious downsides: http://stackoverflow.com/questions/14041453/why-are-preprocessor-macros-evil-and-what-are-the-alternatives
+391358553811718144  Oct 18 20:22  @SergeyKochergan  Check out "how to make perfect pour-over coffee and time your french press steeping with r" on Vimeo http://vimeo.com/43305640 #Vimeo #rstats
+391361636243869696  Oct 18 20:34  @msgbi            RT @abmathewks: Where to start with text mining. http://wp.me/p1fHxQ-Oe #rstats
+391362239334449152  Oct 18 20:36  @timelyportfolio  RT @cpsievert: A sneak peek into my new #rstats package XML2R (CRAN version coming) http://bit.ly/19fsbzk
+391364645325271040  Oct 18 20:46  @tonyfujs         #rstats presentation tomorrow at #eval13 with @AnnKEmery & @wtfenn  Code + Slides already on Github https://github.com/tonyfujs/AEA2013
