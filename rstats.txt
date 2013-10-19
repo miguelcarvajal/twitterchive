@@ -22086,3 +22086,16 @@
 391436052038422528  Oct 19 01:30  @DailyRpackage    sdcTable - Methods for SDC (statistical disclosure control) in tabular data http://cran.r-project.org/web/packages/sdcTable/index.html #RStats
 391443009088151553  Oct 19 01:57  @thomaslevine     RT @nyhackr: Come see Bill Cleveland at the #rstats meetup on Oct 22nd hosted by @Knewton http://bit.ly/16MYmGE
 391452099545808896  Oct 19 02:33  @drago_carlo      Trading Strategies Performance Report with R and Knitr http://goo.gl/fb/U9s0e via @StatsBlogs #Finance #Trading #Rstats
+391480327375687680  Oct 19 04:25  @ngamita          "@abmathewks: Where to start with text mining. http://wp.me/p1fHxQ-Oe #rstats" nice. .
+391480424754855936  Oct 19 04:26  @ngamita          "@Jowanza: All of this: http://rcharts.io/viewer/?5735146#.UmGnRWRxtJE #Rstats" I love it
+391481667640377344  Oct 19 04:31  @davdittrich      RT @abmathewks: Text Mining in R http://wp.me/p24dgM-5 #rstats
+391499619470831617  Oct 19 05:42  @dalanMendonca    RT @revodavid: Forbes article today talks about putting R-based analytics in the hands of business analysts http://bit.ly/16gOUgn #rstats @alteryx
+391512224428470272  Oct 19 06:32  @ianjacobs        Equidistant points on a map #rstats http://feedly.com/k/1gTR4EX
+391516323546939392  Oct 19 06:49  @greenbacker      RT @johnb30: Blog post about the GDELTtools #rstats package is up: https://gdeltblog.wordpress.com/2013/10/03/gdelttools-r-package-to-download-subset-and-normalize-gdelt-data/. Thanks to @polimath! #GDELT
+391535129912307713  Oct 19 08:03  @GSwithR          RT @abmathewks: Where to start with text mining. http://wp.me/p1fHxQ-Oe #rstats
+391537070553845760  Oct 19 08:11  @GSwithR          RT @RLangTip: #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+391537286917021696  Oct 19 08:12  @GSwithR          RT @statsforbios: RT @DailyRpackage biomod2 - Ensemble platform for species distribution modeling http://cran.r-project.org/web/packages/biomod2/index.html … #RStats
+391542002451759104  Oct 19 08:31  @BDataScientist   Forbes on putting R-based analytics in the hands of business analysts http://zite.to/15P77PK via #datascience #rstats
+391542667324039168  Oct 19 08:33  @felixhaass       Visualizing & animating African @UNPeacekeeping contributions w #rstats.Post (DE): http://bretterblog.wordpress.com/2013/10/19/multilaterale-friedenssicherung-in-afrika-in-zahlen-und-grafiken/ Code (EN): https://gist.github.com/felixhaass
+391545781309960193  Oct 19 08:46  @maxlesch         RT @felixhaass: Visualizing & animating African @UNPeacekeeping contributions w #rstats.Post (DE): http://bretterblog.wordpress.com/2013/10/19/multilaterale-friedenssicherung-in-afrika-in-zahlen-und-grafiken/ Code (EN): https://t.co/GNz5J4Ac1E
+391548133735297024  Oct 19 08:55  @berndweiss       Neue Fassung von "Divide et impera: Split-apply-combine-Ansätze in R" verfügbar https://github.com/berndweiss/ps2013-10-krug-apply_co #rstats
