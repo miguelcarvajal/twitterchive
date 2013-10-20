@@ -22128,3 +22128,17 @@
 391627003528753152  Oct 19 14:08  @miro165sabo      RT @drago_carlo: R packages for Structural Equation Model http://pairach.com/2011/08/13/r-packages-for-structural-equation-model/ via @prismatic #Statistics #SEM #Modeling #Rstats
 391627420152782848  Oct 19 14:10  @Rbloggers        Plotting Times of Discrete Events:  (This article was first published on   Exegetic Analytics » R, a... http://bit.ly/19hXTMc #rstats
 391628085780824064  Oct 19 14:13  @leonardojofre    RT @DatametricsBI: Actualmente estamos buscando programadores freelance en R. Comunícate con nosotros en contacto@idata.com.co #rstats #Datamining #bigdata
+391643646157946880  Oct 19 15:14  @MasterEBP        “@Voor R-users: "@chlalanne: "#rstats package for effect size calculations for psychology researchers" http://feedproxy.google.com/~r/StatisticalModelingCausalInferenceAndSocialScience/~3/qRHeaRkWdPc/”
+391651933930287104  Oct 19 15:47  @eddelbuettel     New BH package with even more Boost C++ goodness for R: http://goo.gl/fX6IQK #rstats
+391652362592346113  Oct 19 15:49  @kevin_ushey      RT @eddelbuettel: New BH package with even more Boost C++ goodness for R: http://goo.gl/fX6IQK #rstats
+391652802789146624  Oct 19 15:51  @greenbacker      @webbedfeet ddply(mtcars, ~cyl, summarise, mean.mpg = mean(mpg)) == ddply(mtcars, ~cyl, summarize, mean.mpg = mean(mpg)) ... TRUE #rstats
+391655306268139520  Oct 19 16:01  @chlalanne        RT @eddelbuettel: New BH package with even more Boost C++ goodness for R: http://goo.gl/fX6IQK #rstats
+391658766502203392  Oct 19 16:15  @mglbranco        RT @gappy3000: "Why Python is Better than Matlab for Scientific Software" (with imitations of #rstats ggplot charts!) http://prsm.tc/TTMVsQ
+391670411496128514  Oct 19 17:01  @carlosgis        The R Ecosystem by David Smith on Prezi http://prezi.com/s1qrgfm9ko4i/the-r-ecosystem/ #rstats
+391672947334598656  Oct 19 17:11  @Rbloggers        Which are the best programming languages for a bioinformatician?:  (This article was first published... http://bit.ly/1a23wPC #rstats
+391677650575441921  Oct 19 17:30  @jjgibaja         @griverorz @orapmagon @jordimunozm Me he perdido. Yo estaba apoyando la idea de leer el SPSS desde #rstats.
+391678484323778560  Oct 19 17:33  @anx0s            RT @gappy3000: "Why Python is Better than Matlab for Scientific Software" (with imitations of #rstats ggplot charts!) http://prsm.tc/TTMVsQ
+391681143415644160  Oct 19 17:43  @ImaStreetHustla  I LOVE 2 FUCK I GOT AH FUCKIN PROBLEM..#FrFr #rstats
+391696643105370113  Oct 19 18:45  @marcosluis2186   Forbes on putting R-based analytics in the hands of business analysts http://blog.revolutionanalytics.com/2013/10/forbes-on-putting-r-based-analytics-in-the-hands-of-business-analysts-.html @RevolutionR and @alteryx #rstats
+391707447972212737  Oct 19 19:28  @PPUAMX           RT @RLangTip: #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+391712200815296512  Oct 19 19:47  @AndrewRAConway   RT @chlalanne: "#rstats package for effect size calculations for psychology researchers" http://feedproxy.google.com/~r/StatisticalModelingCausalInferenceAndSocialScience/~3/qRHeaRkWdPc/
