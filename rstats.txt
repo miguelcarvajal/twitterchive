@@ -22172,3 +22172,11 @@
 391968611343953920  Oct 20 12:46  @recology_        RT @_inundata: Excellent post by @xieyihui on how to choose between #markdown and #LaTeX.  http://bit.ly/GW5zKs ↬ @kwbroman #rstats
 391971123925377024  Oct 20 12:56  @mfenner          RT @_inundata: Excellent post by @xieyihui on how to choose between #markdown and #LaTeX.  http://bit.ly/GW5zKs ↬ @kwbroman #rstats
 391982541215113219  Oct 20 13:41  @ca_metin         RT @RLangTip: #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+392005009816031232  Oct 20 15:10  @Rbloggers        A Nation of Real Estate Agents:  (This article was first published on   plausibel, and kindly contri... http://bit.ly/19WFRhQ #rstats
+392015871347945472  Oct 20 15:54  @stubbornmule     ngramr package fixed to deal with changes to Google's web pages. Any problems let me know! #linguistics #rstats http://cran.r-project.org/web/packages/ngramr/index.html
+392015920962363392  Oct 20 15:54  @seancarmody      RT @stubbornmule: ngramr package fixed to deal with changes to Google's web pages. Any problems let me know! #linguistics #rstats http://t.co/RVuFETFfxJ
+392019451618803712  Oct 20 16:08  @masemresearch    pvclust: An R package for hierarchical clustering with p-values #rstats | @scoopit http://sco.lt/8Aj3kP
+392034341326692353  Oct 20 17:07  @acepor           RT @_inundata: Anyone writing their dissertation in the open using knitr and markdown? I need to share examples with a student. #rstats
+392061347388592129  Oct 20 18:54  @danslimmon       Agonized for an hour about how to get a data stream passively into Shiny, then googled & in seconds found reactiveTimer() #facepalm #rstats
+392086648319508480  Oct 20 20:35  @romeroescobar    Version 1.1 of the likert Package Released to CRAN http://www.r-bloggers.com/version-1-1-of-the-likert-package-released-to-cran/ #in This looks like an interesting #Rstats #Psychometrics package.
+392090823359070208  Oct 20 20:51  @FastBigData      Working with RMongo busting my memory #rstats. Set heapsize in R using options(java.parameters = "-Xmx5g") before calling library(RMongo)
