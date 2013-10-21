@@ -22180,3 +22180,16 @@
 392061347388592129  Oct 20 18:54  @danslimmon       Agonized for an hour about how to get a data stream passively into Shiny, then googled & in seconds found reactiveTimer() #facepalm #rstats
 392086648319508480  Oct 20 20:35  @romeroescobar    Version 1.1 of the likert Package Released to CRAN http://www.r-bloggers.com/version-1-1-of-the-likert-package-released-to-cran/ #in This looks like an interesting #Rstats #Psychometrics package.
 392090823359070208  Oct 20 20:51  @FastBigData      Working with RMongo busting my memory #rstats. Set heapsize in R using options(java.parameters = "-Xmx5g") before calling library(RMongo)
+392101977875697664  Oct 20 21:36  @hossiet          RT @hylopsar: #Rstats package for effect size calculations for psychology researchers http://andrewgelman.com/2013/10/19/r-package-for-effect-size-calculations-for-psychology-researchers/
+392121616022261760  Oct 20 22:54  @eddelbuettel     Very nice (though a little dated) introduction to #Rcpp for Economists by @LanceBachmeier: https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxsYW5jZWJhY2htZWllcnxneDoxNGU4MWI3Zjg4ZTAzYzAz  #rstats
+392121708783476736  Oct 20 22:54  @MDubins          Can someone send me a link to a tutorial on accessing an MS SQL server from R?  Thanks!  #rstats
+392124241946357760  Oct 20 23:04  @RickSaporta      @MDubins have you read the #rstats data import/export doc yet? It's quite detailed. http://bit.ly/HcjJqw
+392143362880323585  Oct 21 00:20  @Rbloggers        No surprises: More people tweet more. Visualizing twitter counts during election day.:  (This articl... http://bit.ly/172xK4v #rstats
+392143363584950273  Oct 21 00:20  @Rbloggers        machine learning [book review]:  (This article was first published on   Xi'an's Og » R, and kindly c... http://bit.ly/172xHph #rstats
+392149584405073920  Oct 21 00:45  @DrLyndonWalker   R usage skyrocketing: #rstats http://ow.ly/pZeRX
+392153692775800833  Oct 21 01:01  @tavisrudd        "Machine Learning and R" talk next Tues (Oct 29th, YVR #rstats Users + Data Science meetups) http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/143102242/ / http://www.meetup.com/DataScience/events/142278212/
+392154380910092288  Oct 21 01:04  @adron            RT @tavisrudd: "Machine Learning and R" talk next Tues (Oct 29th, YVR #rstats Users + Data Science meetups) http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/143102242/ / http://t.co/60OA323jlN
+392157475186561025  Oct 21 01:16  @JGreenbrookHeld  RT @DrLyndonWalker: R usage skyrocketing: #rstats http://ow.ly/pZeRX
+392160826268057600  Oct 21 01:30  @DailyRpackage    sem - Structural Equation Models http://cran.r-project.org/web/packages/sem/index.html #RStats
+392168095923441664  Oct 21 01:58  @isomorphisms     yeah I don't think #Rstats really likes complex numbers.
+392173163523485696  Oct 21 02:19  @recology_        RT @tavisrudd: "Machine Learning and R" talk next Tues (Oct 29th, YVR #rstats Users + Data Science meetups) http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/143102242/ / http://t.co/60OA323jlN
