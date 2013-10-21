@@ -22193,3 +22193,20 @@
 392160826268057600  Oct 21 01:30  @DailyRpackage    sem - Structural Equation Models http://cran.r-project.org/web/packages/sem/index.html #RStats
 392168095923441664  Oct 21 01:58  @isomorphisms     yeah I don't think #Rstats really likes complex numbers.
 392173163523485696  Oct 21 02:19  @recology_        RT @tavisrudd: "Machine Learning and R" talk next Tues (Oct 29th, YVR #rstats Users + Data Science meetups) http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/143102242/ / http://t.co/60OA323jlN
+392183696817545216  Oct 21 03:00  @Rbloggers        Bar plot with error bars in R:  (This article was first published on   Heuristic Andrew » r-project,... http://bit.ly/19Y7nvp #rstats
+392183740127928320  Oct 21 03:01  @reiver           RT @tavisrudd: "Machine Learning and R" talk next Tues (Oct 29th, YVR #rstats Users + Data Science meetups) http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/143102242/ / http://t.co/60OA323jlN
+392189710077931520  Oct 21 03:24  @lc0d3r           Quite interesting, for data people - Rport - Business Intelligence Apps with R - Big elephants http://big-elephants.com/2013-10/rport-business-intelligence-apps-with-r/ @adevencom #rstats
+392191370552545280  Oct 21 03:31  @rafael_leon      @CMSEcon #rstats  #Econometrics How to deal with two time factors in panel data modelling using PLM package in R? http://stats.stackexchange.com/questions/50374/how-to-deal-with-two-time-factors-in-panel-data-modelling-using-plm-package-in-r
+392197666211233793  Oct 21 03:56  @JimGrange        Cool! You can now post #Rstats code on http://Wordpress.com-based blogs by wrapping code between [code lang="r"] and [/code]
+392203630146646016  Oct 21 04:20  @cloudHPC         #rstats and #MongoDB | Javalobby: http://java.dzone.com/articles/r-and-mongodb#.UmTjdo2bQGQ.twitter
+392206626528059392  Oct 21 04:32  @datennutzen      Watch our Webcast: @Jaspersoft mit #Rstats für DataMining und Predictive Analytics erweitern http://www.jaspersoft.com/watch/Erweitern-Jaspersoft-mit-R-Eoda
+392214716707131393  Oct 21 05:04  @Jaspersoft       RT @datennutzen: Watch our Webcast: @Jaspersoft mit #Rstats für DataMining und Predictive Analytics erweitern http://www.jaspersoft.com/watch/Erweitern-Jaspersoft-mit-R-Eoda
+392229066897489920  Oct 21 06:01  @Rbloggers        analyze the national vital statistics system (nvss) with r and monetdb:  (This article was first pub... http://bit.ly/19mN1wJ #rstats
+392238997151297537  Oct 21 06:40  @Rbloggers        Tracking the 2013 Hurricane Season:  (This article was first published on   Statistical Research » R... http://bit.ly/1a6SoBc #rstats
+392247317312458752  Oct 21 07:13  @acalgar          Increasing my efficiency by writing #Rstats wrapper functions that are just my common misspellings of standard functions.
+392247610339123200  Oct 21 07:14  @chrishanretty    Alright, what joker changed default .Rnw app from #gedit to #emacs? #rstats
+392249712377475072  Oct 21 07:23  @cloudHPC         new version of #RjumboDB available: install_github("jumbodb-Rpkg", username="comsysto")  #rstats #jumbodb
+392249912886185984  Oct 21 07:24  @statsforbios     And here I was coding trapezium rules. RT @RLangTip Integrate function to calculate the area under a curve: http://bit.ly/OET7Ri  #rstats
+392256719318814720  Oct 21 07:51  @MaxPlischke      analysis/text mining of unstructured data using R #rstats http://bit.ly/12jyqex
+392263515878092800  Oct 21 08:18  @iDATA_co         Buscamos profesionales en estadística o áreas afines que tengan un excelente dominio en el lenguaje de programación R. #rstats #Empleo
+392273628127318016  Oct 21 08:58  @MoritzBuchi      useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
