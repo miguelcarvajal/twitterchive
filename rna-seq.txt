@@ -4706,3 +4706,35 @@
 392233086861058048  Oct 21 06:17  @EduEyras         A comparison of differential expression methods from RNA-Seq (deja vu?) http://genomebiology.com/2013/14/9/R95/abstract
 392272506007977984  Oct 21 08:53  @rnomics          CT @rnomics/bioinfo Optimal Resolution of Ambiguous #RNA-Seq multimappings in the Presence of Novel Isoforms http://bit.ly/1b72Abh @MyEN
 392272514753105921  Oct 21 08:53  @rnomics          CT @rnomics/bioinfo SeqGSEA 1.3.0 - Gene Set Enrichment Analysis (GSEA) of #RNA-Seq Data: integrating... http://bit.ly/16mKODs @MyEN
+392274660001595392  Oct 21 09:02  @GenomeBiology    RT @illumina: 2013 SeQC pub in @GenomeBiology Comp eval of differential gene exp analysis methods for RNA-seq data http://bit.ly/1hZdCl7 #ILMNEast
+392275238513168386  Oct 21 09:04  @JohnGilleard     @HPI_UofC Comprehensive evaluation of differential gene analysis methods for #RNA-seq data http://genomebiology.com/content/pdf/gb-2013-14-9-r95.pdf
+392279019476893697  Oct 21 09:19  @pride_ebi        PXD000419: Comparative Proteomics in Primates, human/chimp/rhesus http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD000419 in @sciencemagazine PMID:24136357 RNA-seq:GSE49682
+392280332046974976  Oct 21 09:24  @attilacsordas    RT @pride_ebi: PXD000419: Comparative Proteomics in Primates, human/chimp/rhesus http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD000419 in @sciencemagazine PMID:24136357 RNA-seq:GSE49682
+392284888063164416  Oct 21 09:43  @sae_wataru       RNA-seqかマイクロアレイか、これからはRNA-seqが主流になるのかな。データ取っても解析が出来ない人がたくさん出そう(￣ω￣)
+392296596509323264  Oct 21 10:29  @chapmanb         Brilliant deconstruction by @lpachter of FluxCapacitor, used in GTEx RNA-Seq work; eXpress/Cufflinks/RSEM comparisons http://wp.me/sRx4V-gtex
+392297217325031424  Oct 21 10:31  @PRNAlert         Stranded RNA-Seq with =99% accuracy and a fast protocol (under 4 hours). http://prn.to/1daMimk
+392302098185875458  Oct 21 10:51  @LutzBraune       $SLAB Clontech Laboratories, Inc. Releases the SMARTer® Stranded RNA-Seq Kit http://top10stocks2buy.com/i.php?http://www.sys-con.com/node/2841715
+392303150008262656  Oct 21 10:55  @ErnstGrosz       $QSII Clontech Laboratories, Inc. Releases the SMARTer® Stranded RNA-Seq Kit http://top10stocks2buy.com/i.php?http://www.prnewswire.com/news-releases/clontech-laboratories-inc-releases-the-smarter-stranded-rna-seq-kit-228620001.html
+392307300888633344  Oct 21 11:12  @BaseSpace        Genomatix was awarded as most creatve visualization for RNA-Seq data in the 2011 iDEA Challenge! #basedev2013
+392307409961910272  Oct 21 11:12  @illumina         RT @BaseSpace: Genomatix was awarded as most creatve visualization for RNA-Seq data in the 2011 iDEA Challenge! #basedev2013
+392309123074641920  Oct 21 11:19  @nextgenseek      Critical look at Flux-Capacitor, unpublished RNA-seq method used in HapMap/1000 Genomes/GTEx project by @lpachter http://liorpachter.wordpress.com/2013/10/21/gtex/
+392310105519423488  Oct 21 11:23  @wateresa         GB: recursive splicing in total RNA-seq data appears to be important mechanism in some large introns #DiscoSympASHG2013
+392310723553923072  Oct 21 11:25  @StockryTeller    $AREX Clontech Laboratories, Inc. Releases the SMARTer® Stranded RNA-Seq Kit http://top10stocks2buy.com/i.php?http://www.sys-con.com/node/2841715
+392312034555342848  Oct 21 11:30  @pellekan         RT @BaseSpace: Genomatix was awarded as most creatve visualization for RNA-Seq data in the 2011 iDEA Challenge! #basedev2013
+392312850905300992  Oct 21 11:34  @CloningBio       Clontech Laboratories Inc. Releases the SMARTerÂ Stranded RNASeq Kit http://ow.ly/2AUUap
+392314493318873089  Oct 21 11:40  @naturemethods    AOP: Systematic comparison of single-cell RNA-seq methods. ($) http://bit.ly/1a7RIvm
+392314941673594880  Oct 21 11:42  @TeckYew          RT @naturemethods: AOP: Systematic comparison of single-cell RNA-seq methods. ($) http://bit.ly/1a7RIvm
+392315447401394178  Oct 21 11:44  @SSuthram         RT @naturemethods: AOP: Systematic comparison of single-cell RNA-seq methods. ($) http://bit.ly/1a7RIvm
+392315553026564096  Oct 21 11:44  @SeymourAlberta   $ISSC Clontech Laboratories, Inc. Releases the SMARTer® Stranded RNA-Seq Kit http://top10stocks2buy.com/i.php?http://www.sacbee.com/2013/10/21/5838984/clontech-laboratories-inc-releases.html
+392317166705709056  Oct 21 11:51  @antisense_bio    Clontech Laboratories Inc. Releases the SMARTerÂ Stranded RNASeq Kit http://ow.ly/2AUOMR
+392317240600985600  Oct 21 11:51  @miRNANews        Clontech Laboratories Inc. Releases the SMARTerÂ Stranded RNASeq Kit http://ow.ly/2AUOI8
+392317571887681536  Oct 21 11:52  @StockNewsForYou  $LEDR Clontech Laboratories, Inc. Releases the SMARTer® Stranded RNA-Seq Kit http://top10stocks2buy.com/i.php?http://www.sacbee.com/2013/10/21/5838984/clontech-laboratories-inc-releases.html
+392320951293317120  Oct 21 12:06  @TeckYew          RT @nextgenseek: Critical look at Flux-Capacitor, unpublished RNA-seq method used in HapMap/1000 Genomes/GTEx project by @lpachter http://t.co/xOFhYxgiIj
+392323041163620352  Oct 21 12:14  @Clontech         Clontech announces SMARTer Stranded RNA-Seq Kit. Indexed libraries from 100 pg RNA, in 3.5 hr. http://ht.ly/q1Bi1 #rnaseq
+392324972963565568  Oct 21 12:22  @SeymourAlberta   $ISSC Clontech Laboratories, Inc. Releases the SMARTer® Stranded RNA-Seq Kit http://top10stocks2buy.com/i.php?http://www.sacbee.com/2013/10/21/5838984/clontech-laboratories-inc-releases.html
+392325259908485120  Oct 21 12:23  @TheGoodTrader    $ILMN Clontech Laboratories, Inc. Releases the SMARTer® Stranded RNA-Seq Kit http://top10stocks2buy.com/i.php?http://www.sacbee.com/2013/10/21/5838984/clontech-laboratories-inc-releases.html
+392325437717614592  Oct 21 12:24  @StockNewsForYou  $LEDR Clontech Laboratories, Inc. Releases the SMARTer® Stranded RNA-Seq Kit http://top10stocks2buy.com/i.php?http://www.sacbee.com/2013/10/21/5838984/clontech-laboratories-inc-releases.html
+392327416766799872  Oct 21 12:31  @PRNbiz           Stranded RNA-Seq with =99% accuracy and a fast protocol (under 4 hours). http://prn.to/1daMimk
+392329711558623232  Oct 21 12:41  @rnomics          Sailfish 0.5.0 - Ultrafast Isoform Abundance Estimation from RNA-seq Reads http://bit.ly/17ZPzgh http://mybiosoftware.com posted by friends:…
+392357439279882240  Oct 21 14:31  @HPI_UofC         RT @JohnGilleard: @HPI_UofC Comprehensive evaluation of differential gene analysis methods for #RNA-seq data http://genomebiology.com/content/pdf/gb-2013-14-9-r95.pdf
+392357638987862016  Oct 21 14:32  @PRNbiztech       Stranded RNA-Seq with =99% accuracy and a fast protocol (under 4 hours). http://prn.to/1daMimk

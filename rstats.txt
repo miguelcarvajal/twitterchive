@@ -22210,3 +22210,38 @@
 392256719318814720  Oct 21 07:51  @MaxPlischke      analysis/text mining of unstructured data using R #rstats http://bit.ly/12jyqex
 392263515878092800  Oct 21 08:18  @iDATA_co         Buscamos profesionales en estadística o áreas afines que tengan un excelente dominio en el lenguaje de programación R. #rstats #Empleo
 392273628127318016  Oct 21 08:58  @MoritzBuchi      useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
+392286813781377024  Oct 21 09:50  @tonyfujs         @SheilaBRobinson Yes! Stay tuned. Tutorials & workshops on #dataviz & #eval with #rstats coming - hopefully - soon. cc @AnnKEmery
+392289181839273984  Oct 21 10:00  @statisticsblog   R tip of the day - Archimedes' Spiral plots in R. http://i.cx/GVWDop #r #rstats #statistics
+392289639341776896  Oct 21 10:01  @mherradora       RT @wpostbot "Comments are welcomed to boxplotdbl and diaplt packages 1.0.0 public beta. #rstats..." http://ow.ly/pZFZI /Good job
+392298114024873984  Oct 21 10:35  @ramnath_vaidya   Having trouble getting an #rCharts app working on OpenCPU. Details in gist here https://gist.github.com/ramnathv/7084851 #rstats @opencpu
+392298455084695553  Oct 21 10:36  @cpsievert        XML2R binaries now on CRAN! http://bit.ly/19nGr9g ICYMI, here is the tutorial page http://bit.ly/19fsbzk #rstats
+392298735947902977  Oct 21 10:38  @statsforbios     Nice short answer. Choosing the variable that best discriminates the dependant variable. #rstats http://stats.stackexchange.com/questions/72981/how-to-identify-variable-from-many-variables-which-is-able-to-discriminate-bet
+392300383907119104  Oct 21 10:44  @CaritoTV         RT @statsforbios: Nice short answer. Choosing the variable that best discriminates the dependant variable. #rstats http://stats.stackexchange.com/questions/72981/how-to-identify-variable-from-many-variables-which-is-able-to-discriminate-bet
+392301480692051968  Oct 21 10:48  @hadleywickham    RT @_inundata: Excellent post by @xieyihui on how to choose between #markdown and #LaTeX.  http://bit.ly/GW5zKs ↬ @kwbroman #rstats
+392301612355428352  Oct 21 10:49  @hadleywickham    RT @jdtonkin: I just can't get enough of making plots in #ggplot2!!  #rstats
+392301731603677184  Oct 21 10:49  @timelyportfolio  RT @ramnath_vaidya: Having trouble getting an #rCharts app working on OpenCPU. Details in gist here https://gist.github.com/ramnathv/7084851 #rstats @opencpu
+392301971488514048  Oct 21 10:50  @Jowanza          Might be time to move? http://bit.ly/1daPf6r #DataScence #Rstats
+392307009590394880  Oct 21 11:10  @hurricanejim     RT @_inundata: Excellent post by @xieyihui on how to choose between #markdown and #LaTeX.  http://bit.ly/GW5zKs ↬ @kwbroman #rstats
+392311489660350465  Oct 21 11:28  @jeffreyhorner    A @stumpjump50k race report (copious ggplot2 #rstats plots with data from @ultrasignup) http://jeffreyhorner.blogspot.com/2013/10/rockcreek-stumpjump-50k-2013-report.html
+392312634000678912  Oct 21 11:33  @hadleywickham    RT @jeffreyhorner: A @stumpjump50k race report (copious ggplot2 #rstats plots with data from @ultrasignup) http://jeffreyhorner.blogspot.com/2013/10/rockcreek-stumpjump-50k-2013-report.html
+392313257874030593  Oct 21 11:35  @timelyportfolio  RT @jeffreyhorner: A @stumpjump50k race report (copious ggplot2 #rstats plots with data from @ultrasignup) http://jeffreyhorner.blogspot.com/2013/10/rockcreek-stumpjump-50k-2013-report.html
+392316853613510656  Oct 21 11:50  @mathew_hall      RT @jeffreyhorner: A @stumpjump50k race report (copious ggplot2 #rstats plots with data from @ultrasignup) http://jeffreyhorner.blogspot.com/2013/10/rockcreek-stumpjump-50k-2013-report.html
+392319373152497665  Oct 21 12:00  @statisticsblog   Do you work with Likert scales often? Version 1.1 of the likert Package is released to CRAN. http://i.cx/1721777 #r #rstats #likert
+392320638221688833  Oct 21 12:05  @raviupanishad    RT @statisticsblog: R tip of the day - Archimedes' Spiral plots in R. http://i.cx/GVWDop #r #rstats #statistics
+392321031748464640  Oct 21 12:06  @RLangTip         Compare the speed of several R expressions with the benchmark function: http://bit.ly/Sppip1 #rstats
+392322215498485760  Oct 21 12:11  @inside_R         #rstats useR group meetings this week: Burlington, Toronto, New York, Northampton, Toronto, Los Angeles, Protland Sydney and more...
+392324129824595968  Oct 21 12:18  @anasrini         RT @RLangTip: Compare the speed of several R expressions with the benchmark function: http://bit.ly/Sppip1 #rstats
+392324835017117697  Oct 21 12:21  @__mharrison__    RT @jeffreyhorner: A @stumpjump50k race report (copious ggplot2 #rstats plots with data from @ultrasignup) http://jeffreyhorner.blogspot.com/2013/10/rockcreek-stumpjump-50k-2013-report.html
+392326567554072576  Oct 21 12:28  @oracli           RT @RLangTip: Compare the speed of several R expressions with the benchmark function: http://bit.ly/Sppip1 #rstats
+392329150620786688  Oct 21 12:38  @mrtnj            A day spent mostly teaching data analysis and planning projects. Main tools: #rstats and post-its.
+392331783737311232  Oct 21 12:49  @ramnath_vaidya   #rCharts reaches 200 stars on @github, and you can now try it out online, thanks to @opencpu http://public.opencpu.org/ocpu/github/rcharts/rCharts/www/ #rstats
+392334171269369857  Oct 21 12:58  @hexheadtn        RT @RLangTip: Compare the speed of several R expressions with the benchmark function: http://bit.ly/Sppip1 #rstats
+392346234154803200  Oct 21 13:46  @rmflight         Open VS Closed Analysis Languages #blogpost http://rmflight.github.io/posts/2013/10/openvsclosed.html #rstats #python #others
+392346615626727425  Oct 21 13:48  @kirk_hadley      it finally happened. ran out of memory in #rstats. i feel like a grown up now. innocence lost. #data #analytics #AWS here i come cloud
+392351373628411904  Oct 21 14:07  @rOpenSci         Hey #ESCJAM2013 - if you want to talk programmatic access to data in #rstats I'll (@recology_) be around Tue/Wed
+392358558999654400  Oct 21 14:35  @ramnath_vaidya   Want to learn more about #rCharts?  28th Oct at 6:30pm at Nottman House in Montreal http://meetu.ps/22rnvY #rstats @d3visualization
+392358623268990976  Oct 21 14:36  @abresler         RT @ramnath_vaidya: Want to learn more about #rCharts?  28th Oct at 6:30pm at Nottman House in Montreal http://meetu.ps/22rnvY #rstats @d3visualization
+392358993999327232  Oct 21 14:37  @recology_        RT @ramnath_vaidya: Want to learn more about #rCharts?  28th Oct at 6:30pm at Nottman House in Montreal http://meetu.ps/22rnvY #rstats @d3visualization
+392359594775048192  Oct 21 14:39  @mickeypash       just what I need "@RLangTip: The ddply function (in package plyr) makes aggregating rows of data simpler: http://bit.ly/Qs64Kj #rstats"
+392363054740291584  Oct 21 14:53  @VCHadzz          RT @kirk_hadley: it finally happened. ran out of memory in #rstats. i feel like a grown up now. innocence lost. #data #analytics #AWS here i come cloud
+392364262078681088  Oct 21 14:58  @stubbornmule     ngramr binaries now updated on CRAN #rstats #linguistics http://cran.r-project.org/web/packages/ngramr/index.html
