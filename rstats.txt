@@ -397,8 +397,8 @@
 312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
-312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -15514,8 +15514,8 @@
 369577294995939329  Aug 19 17:51  @JodyEdmondson    #rstats excellent quick ggplot2 guide  http://bit.ly/1bNDNKx
 369578855511891968  Aug 19 17:57  @richierocks      @RLangTip To rephrase: Improve your #rstats code performance by removing calls to Sys.sleep!
 369581889683615744  Aug 19 18:09  @Gliders_Coach    The Wonderful ggmap package for spatial analysis in R #rstats http://wp.me/p9q8Y-2VE
-369587742092443648  Aug 19 18:32  @nashturley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369587742092443648  Aug 19 18:32  @NashTurley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
+369587742092443648  Aug 19 18:32  @nashturley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369594751223205888  Aug 19 19:00  @Rbloggers        Text Mining with R – Comparing Word Counts in two Text Documents:  (This article was first published... http://bit.ly/162U1cV #rstats
 369602780643614721  Aug 19 19:32  @richmanmax       Learning about Slidify (html slidedecks from yaml & rMarkdown) and rCharts (generate js charts from #Rstats) at @DataCommunityDC meetup.
 369610770965090304  Aug 19 20:04  @richmanmax       Cool, rCharts has bindings with @LeafletJS so can quickly publish interactive webmaps from #Rstats and then push to Slidify & github #DataDC
@@ -17151,8 +17151,8 @@
 375789903914602497  Sep  5 21:17  @ajreeves         Is there any way to open Stata v13 files in R (read.dta doesn't work)? #rstats
 375802291082653696  Sep  5 22:07  @coolbutuseless   RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
 375803404980723712  Sep  5 22:11  @wwangcg          RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
-375827593217314816  Sep  5 23:47  @m_van_scoyoc     Martinis pair well with ordination. #rstats
 375827593217314816  Sep  5 23:47  @M_VanScoyoc      Martinis pair well with ordination. #rstats
+375827593217314816  Sep  5 23:47  @m_van_scoyoc     Martinis pair well with ordination. #rstats
 375829346490916864  Sep  5 23:54  @j_zelikova       RT @m_van_scoyoc: Martinis pair well with ordination. #rstats
 375829761731207169  Sep  5 23:56  @jfreels4         RT @ramnath_vaidya: Good use of R Markdown with Slidify and rCharts http://rpubs.com/PhilippB/x721-hw1 #rstats
 375830234324406272  Sep  5 23:58  @MathBioPaul      RT @statisticsblog: R tip of the day - R & Linear Algebra: Why R is more than just a statistical package. http://i.cx/1drPaLs #r #rstats #algebra @revodavid
@@ -22335,3 +22335,86 @@
 392642263169265665  Oct 22 09:23  @StatsInTheWild   RT @CSCU_Cornell: RT @statisticsblog: R tip of the day - Tracking the 2013 Hurricane Season with R. http://i.cx/1a9wm0B #r #rstats #statistics
 392642263244759043  Oct 22 09:23  @StatsClass       RT @CSCU_Cornell: RT @statisticsblog: R tip of the day - Tracking the 2013 Hurricane Season with R. http://i.cx/1a9wm0B #r #rstats #statistics
 392642609182953473  Oct 22 09:24  @vgaltes          I'm so proud of you! RT @ibartomeus "using testthat for unit testing in R #rstats @vgaltes will be proud of me."
+392643755007676416  Oct 22 09:29  @rOpenSci         [Blog] #OAweek - A simple use case for programmatic access to @plos full text http://bit.ly/19YzOa9 #rstats #textmining
+392643781003980800  Oct 22 09:29  @recology_        RT @rOpenSci: [Blog] #OAweek - A simple use case for programmatic access to @plos full text http://bit.ly/19YzOa9 #rstats #textmining
+392644595869560832  Oct 22 09:32  @AriBFriedman     RT @rOpenSci: [Blog] #OAweek - A simple use case for programmatic access to @plos full text http://bit.ly/19YzOa9 #rstats #textmining
+392646180233953280  Oct 22 09:38  @timelyportfolio  RT @Alistair_Leak: Neat page of R spatial examples #maps #rstats http://casoilresource.lawr.ucdavis.edu/drupal/book/export/html/519
+392648745998753793  Oct 22 09:48  @CjBayesian       Come out next Monday to see @ramnath_vaidya talk on interactive documents using rCharts @RusersMtl #rstats http://www.meetup.com/Montreal-R-User-Group/events/144636812/
+392649776010784768  Oct 22 09:52  @rOpenSci         In @rdmpage post "What can @GBIF do for you?" http://bit.ly/19YClkE - #rstats pkgs already exist ->  http://bit.ly/19YCkNF
+392651005328105472  Oct 22 09:57  @rdmpage          RT @rOpenSci: In @rdmpage post "What can @GBIF do for you?" http://bit.ly/19YClkE - #rstats pkgs already exist ->  http://bit.ly/19YCkNF
+392652572873728000  Oct 22 10:04  @emeyke           RT @rOpenSci: In @rdmpage post "What can @GBIF do for you?" http://bit.ly/19YClkE - #rstats pkgs already exist ->  http://bit.ly/19YCkNF
+392653134939447296  Oct 22 10:06  @sharon000        Westward ho! The shifting center of US population http://bit.ly/1fSPNiv #dataviz using StoryMapJS & rCharts #rstats
+392653677334654976  Oct 22 10:08  @texhewson        RT @CSCU_Cornell: RT @statisticsblog: R tip of the day - Tracking the 2013 Hurricane Season with R. http://i.cx/1a9wm0B #r #rstats #statistics
+392654381252091904  Oct 22 10:11  @wilhendra        RT @nicoleradziwill: I just stumbled upon a yummy R package for visualizing data on Likert scales: http://flip.it/7V7yx #rstats
+392654600475389954  Oct 22 10:12  @adolfoalvarez    and to see the list of functions inside an installed package:  lsf.str('package:packagename') #rstats
+392655120225161216  Oct 22 10:14  @fcastanedo       Willing to have a data flow file tool in R #rstats #useR
+392655590696034305  Oct 22 10:16  @jameskeirstead   Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://github.com/jkeirstead/scholar
+392655625064161280  Oct 22 10:16  @adolfoalvarez    RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392655776218501120  Oct 22 10:16  @Gliders_Coach    RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392655934209941504  Oct 22 10:17  @alexsingleton    RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392660762118074368  Oct 22 10:36  @nyhackr          Still time left to register for tonight's #rstats meetup with Bill Cleveland http://bit.ly/16MYmGE
+392661329892638720  Oct 22 10:38  @carlyziter       Hey tweeps! labmate is wondering best resource to learn #Rstats (w/ no background). Can I get your fav. suggestions?
+392661955879514113  Oct 22 10:41  @jameskeirstead   Short blog post on my new #rstats package 'scholar' including a Feynman/Hawking head-to-head http://www.jameskeirstead.ca/blog/new-r-package-scholar/
+392662154962554880  Oct 22 10:42  @jaredlander      RT @CjBayesian: Come out next Monday to see @ramnath_vaidya talk on interactive documents using rCharts @RusersMtl #rstats http://t.co/DQ40nMIqIp
+392666192269160449  Oct 22 10:58  @wrathematics     East Tennessee's #rstats user group is meeting November 1. I'mma talk about R on supercomputers.  Join us: http://goo.gl/wNaqz6
+392666707954647040  Oct 22 11:00  @Jowanza          When How I Met Your Mother meets #Rstats: http://bit.ly/1h5eAPa Great work here.
+392671253045080064  Oct 22 11:18  @hadleywickham    RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392671345735397376  Oct 22 11:18  @TriploidTree     RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392671752981319680  Oct 22 11:20  @p_barbera        RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392671765761388545  Oct 22 11:20  @_PhilMartin      RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392671836879597568  Oct 22 11:20  @LJVillanuevaSci  RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392674703006892032  Oct 22 11:31  @PlanktonCounter  Numerical integration in R. Can anyone recommend a package for this jazz? #rstats
+392674825056952320  Oct 22 11:32  @RickSaporta      Would any #rstats programmer like to share how to step *out* of browser() context? (questn on SO) http://bit.ly/H07a1F
+392674905482752001  Oct 22 11:32  @TrevorABranch    RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392675017495814144  Oct 22 11:33  @healthstatsdude  RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392675825524699136  Oct 22 11:36  @p5k12            RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392676619430936576  Oct 22 11:39  @statwonk         RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392677005810221056  Oct 22 11:41  @caseybergman     RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392678722261614592  Oct 22 11:47  @jaredlander      RT @Jowanza: When How I Met Your Mother meets #Rstats: http://bit.ly/1h5eAPa Great work here.
+392679279625895936  Oct 22 11:50  @timelyportfolio  RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392679685760376832  Oct 22 11:51  @chris_harrod     RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392679885690658816  Oct 22 11:52  @onertipaday      RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392681070950236160  Oct 22 11:57  @khrabrov         RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392681208535982081  Oct 22 11:57  @Rbloggers        Quant finance blogs:  (This article was first published on   Portfolio Probe » R language, and kindl... http://bit.ly/1acbCp9 #rstats
+392681434819096577  Oct 22 11:58  @rOpenSci         Want gov't data in #rstats? Check & contribute 2 rOpenGov http://bit.ly/1fT4Jgg (Finnish gov data, @sunlightlabs , @nytdevs congress #API)
+392681459376717824  Oct 22 11:58  @recology_        RT @rOpenSci: Want gov't data in #rstats? Check & contribute 2 rOpenGov http://bit.ly/1fT4Jgg (Finnish gov data, @sunlightlabs , @nytdevs congress #API)
+392681860536348672  Oct 22 12:00  @Jowanza          #Rstats and Excel don't seem to be getting along today.
+392682405070643200  Oct 22 12:02  @IronistM         RT @Jowanza: When How I Met Your Mother meets #Rstats: http://bit.ly/1h5eAPa Great work here.
+392683117770977282  Oct 22 12:05  @drchriscole      RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392683563146936322  Oct 22 12:07  @deronaucoin      RT @rOpenSci: Want gov't data in #rstats? Check & contribute 2 rOpenGov http://bit.ly/1fT4Jgg (Finnish gov data, @sunlightlabs , @nytdevs congress #API)
+392683623205593089  Oct 22 12:07  @amarois          RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392683912956481536  Oct 22 12:08  @RLangTip         Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
+392684146268454912  Oct 22 12:09  @StatsInTheWild   RT @RLangTip: Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
+392684778346254337  Oct 22 12:12  @CStothart        RT @RLangTip: Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
+392687780801032192  Oct 22 12:23  @JonesZM          RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392688120237686784  Oct 22 12:25  @carlislerainey   RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392688227628634112  Oct 22 12:25  @_NickGolding_    .@ficaryl won't like it though MT @RLangTip: Convert numeric vector to factor w "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats
+392688300349489152  Oct 22 12:26  @darinself        RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392688441273483265  Oct 22 12:26  @ngamita          When thinking reproducibility in #rstats, dont forget the set.seed
+392688624288149505  Oct 22 12:27  @LilithElina      Things learned: the variances in my dataset are not homogeneous, and the dataset is too big to be tested for normal distribution. #rstats
+392688754336362496  Oct 22 12:27  @douglasduhaime   RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392688929822220288  Oct 22 12:28  @LilithElina      More things learned: the data also can't be analysed with a Friedman test. Tomorrow, we'll try Welch. #rstats
+392688956296286208  Oct 22 12:28  @hjms             RT @RLangTip: Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
+392690258703581185  Oct 22 12:33  @texhewson        RT @rOpenSci: Want gov't data in #rstats? Check & contribute 2 rOpenGov http://bit.ly/1fT4Jgg (Finnish gov data, @sunlightlabs , @nytdevs congress #API)
+392691894498914304  Oct 22 12:40  @LordMacaulay     RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392693522639241217  Oct 22 12:46  @jasonpbecker     RT @RLangTip: Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
+392694121644556288  Oct 22 12:49  @gjreda           Is there a #pydata equivalent of #rstats lubridate? Specifically, lubridate's calculate.period and as.duration functions?
+392695411757969408  Oct 22 12:54  @SportIsAllOver   Whisper to serious procrastinators: you can analyse Google Scholar data with @jameskeirstead #rstats #UpWithFun  https://github.com/jkeirstead/scholar
+392695750901370880  Oct 22 12:55  @marion_pfeifer   RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392696407595171840  Oct 22 12:58  @recology_        help: "No such vignette" error using #rstats win-builder - my vignettes r in vignettes/ as .Rmd files, "VignetteBuilder: knitr" in DESC 2
+392697115274911745  Oct 22 13:01  @theja2t          RT @RLangTip: Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
+392699513447923712  Oct 22 13:10  @quantlabs        Oct 2013 #Quant #Finance and #Matlab #Rstats User Group #Meetup - See more at: http://quantlabs.net/blog/2013/10/oct-2013-quant-finance-and-matlab-r-user-group-meetup/#sthash.IldKW0jj.dpuf
+392703026123001857  Oct 22 13:24  @hylopsar         RT @recology_: help: "No such vignette" error using #rstats win-builder - my vignettes r in vignettes/ as .Rmd files, "VignetteBuilder: knitr" in DESC 2
+392708523622031361  Oct 22 13:46  @ndoogan          RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392709628099715072  Oct 22 13:50  @jfreels4         RT @RLangTip: Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
+392712148461576192  Oct 22 14:00  @PaulCrease       RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392713432241549312  Oct 22 14:05  @PeterFlomStat    How user friendly should statistical software be? #rstats #SAS http://ow.ly/pKHto
+392713449064898560  Oct 22 14:05  @peterflom        How user friendly should statistical software be? #rstats #SAS http://ow.ly/pKHsl
+392713580400766977  Oct 22 14:06  @torstenseemann   RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392716801139687424  Oct 22 14:19  @timelyportfolio  @jfreels4 @ramnath_vaidya planning to include even more #angularjs in #rstats #rCharts
+392717015946772480  Oct 22 14:20  @timelyportfolio  RT @sharon000: Westward ho! The shifting center of US population http://bit.ly/1fSPNiv #dataviz using StoryMapJS & rCharts #rstats
+392719172087844865  Oct 22 14:28  @__Romain__       RT @RLangTip: Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
+392719699466657792  Oct 22 14:30  @tonyfujs         MT @sharon000 The shifting center of US population http://bit.ly/1fSPNiv  #dataviz using StoryMapJS & rCharts #rstats
+392720574692474880  Oct 22 14:34  @fredbenenson     Does anyone notice RStudio begins to lag when pasting text into the console after its been open for a while? #RStats?
+392723723297779712  Oct 22 14:46  @kyeagerKSU       RT @RLangTip: Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
+392726599700713473  Oct 22 14:58  @bryangoodrich    RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
