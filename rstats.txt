@@ -22283,3 +22283,22 @@
 392440835901767680  Oct 21 20:02  @bob_solar        RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
 392445023200878592  Oct 21 20:19  @am_tracey        RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
 392447620339093506  Oct 21 20:29  @IanDworkin       RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
+392456227097018368  Oct 21 21:03  @ericpgreen       My 1st reproducible example using #knitr and #rpubs. Published while on plane working on @rstudioapp server. http://rpubs.com/ericpgreen/9923 #rstats
+392459575581868032  Oct 21 21:17  @johnbaums        Using #rstats to parse time (and taxon names) with @GBIF's API: http://wp.me/p1IqFD-74
+392459772168912896  Oct 21 21:17  @wabarree         function on @github to add convex hulls to ggplot2 plots, with optional grouping factor. http://bit.ly/1a3y59E #OAWeek #rstats
+392467536693821440  Oct 21 21:48  @DaleNimmo        RT @johnbaums: Using #rstats to parse time (and taxon names) with @GBIF's API: http://wp.me/p1IqFD-74
+392474885307387904  Oct 21 22:17  @ramnath_vaidya   Watching the #d3js bay area meetup live!!! http://livestream.com/githubpub Fascinating stuff #rstats
+392478043031482368  Oct 21 22:30  @recology_        Awesome, also http://bit.ly/1eFkEMm RT @johnbaums: Using #rstats to parse time (and taxon names) with @GBIF's API: http://bit.ly/1eFkEvO
+392478468719386626  Oct 21 22:32  @GBIF             RT @johnbaums: Using #rstats to parse time (and taxon names) with @GBIF's API: http://wp.me/p1IqFD-74
+392479634639437824  Oct 21 22:36  @JChrisPires      RT @johnbaums: Using #rstats to parse time (and taxon names) with @GBIF's API: http://wp.me/p1IqFD-74
+392483573627756544  Oct 21 22:52  @TrevorABranch    In R what is an elegant way to add (a), (b), ... to the corner of subplots of differing sizes. Wrote kludgy par(usr)-based function #rstats
+392486420050235393  Oct 21 23:03  @sean_anderson    .@TrevorABranch I tend to use mtext() for (a), (b) labels in #rstats, but sometimes you need par(“usr”): http://seananderson.ca/2013/10/21/panel-letters.html
+392490638727323648  Oct 21 23:20  @Rbloggers        Open VS Closed Analysis Languages:  (This article was first published on   Deciphering life: One bit... http://bit.ly/1cQT3qS #rstats
+392492578458697728  Oct 21 23:28  @TrevorABranch    RT @sean_anderson: .@TrevorABranch I tend to use mtext() for (a), (b) labels in #rstats, but sometimes you need par(“usr”): http://t.co/nBWSINUwrA
+392494082049576961  Oct 21 23:34  @brettfavaro      RT @sean_anderson: .@TrevorABranch I tend to use mtext() for (a), (b) labels in #rstats, but sometimes you need par(“usr”): http://t.co/nBWSINUwrA
+392496857907081217  Oct 21 23:45  @cornejotux       RT @RLangTip: #rstats Compare 2 R objects using compare(obj1,obj2) in the compare package http://bit.ly/1caN5AN
+392511365682049024  Oct 22 00:42  @aloukina         Advanced R programming by @hadleywickham - why haven't I found this earlier? #rstats http://adv-r.had.co.nz/
+392523215157092352  Oct 22 01:30  @DailyRpackage    reldist - Relative Distribution Methods http://cran.r-project.org/web/packages/reldist/index.html #RStats
+392523700903616512  Oct 22 01:31  @RickSaporta      RT @JimGrange: Cool! You can now post #Rstats code on http://Wordpress.com-based blogs by wrapping code between [code lang="r"] and [/code]
+392531069117153280  Oct 22 02:01  @_PhilMartin      RT @JimGrange: Cool! You can now post #Rstats code on http://Wordpress.com-based blogs by wrapping code between [code lang="r"] and [/code]
+392539907916562432  Oct 22 02:36  @hfmuehleisen     You know you are in trouble when you have to add more swap space to your box in order to run a #Rstats script...
