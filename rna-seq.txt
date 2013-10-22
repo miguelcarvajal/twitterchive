@@ -4777,3 +4777,11 @@
 392469445588688897  Oct 21 21:56  @SystemsResearch  Working on isoform detection in RNA-seq data. Many options: cuffdiff, casper, eXpress, etc. Testing which one is most suited to our needs.
 392475715980894208  Oct 21 22:21  @kayellbe         Showing how STAR + Bowtie2 https://igor.sbgenomics.com/lab/pipeline/details/7805/ outperform other protocols to align Proton RNA-Seq. #ionworld2013 http://t.co/1eB8p20ZKB
 392507883583053825  Oct 22 00:29  @rnomics          CT @rnomics/bioinfo Non-uniform coverage of transcripts in #RNA-Seq experiments | Bits of DNA:... http://bit.ly/16gMgqN @MyEN
+392553829755265024  Oct 22 03:31  @drchriscole      RT @SEQquestions: RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor with GAGE/Pathview http://ift.tt/1bQLU8E
+392560999100071936  Oct 22 04:00  @cathcoste        RT @DaleYuzuki: Wang: Glioblastoma (GBM) looking at intratumor hetergeneity, RNA-Seq first, very consistent metrics, up/down reg. genes #ionworld2013
+392561147607801856  Oct 22 04:00  @cathcoste        RT @kayellbe: Showing how STAR + Bowtie2 https://igor.sbgenomics.com/lab/pipeline/details/7805/ outperform other protocols to align Proton RNA-Seq. #ionworld2013 http://t.co/1eB8p20ZKB
+392618218889961472  Oct 22 07:47  @nikhilgopal      Clontech Laboratories, Inc. Releases the SMARTer® Stranded RNA-Seq Kit http://ift.tt/1h4PlfP
+392625062534062080  Oct 22 08:14  @rnomics          Clontech Laboratories, Inc. Releases the SMARTer®... http://bit.ly/16pBe2u #NewProducts #PressRelease #smarterstrandedrnaseq #RNAseq @MyEN
+392625086445785089  Oct 22 08:14  @rnomics          Bina Debuts #RNA-Seq Processing and Web-based Evaluation at... http://bit.ly/1baJaCl #NewProducts #PressRelease #bina #RNAseq @MyEN
+392626676708175872  Oct 22 08:21  @rnomics          SeqGSEA 1.3.0 - Gene Set Enrichment Analysis (GSEA) of RNA-Seq Data: integrating differential expression and splicing ...
+392630732503277569  Oct 22 08:37  @BeckmanGenomics  Busy setting up our stand. Come talk to us tomorrow about sequencing services and our new RNA-Seq promotion - Booth 1228. #ASHG2013

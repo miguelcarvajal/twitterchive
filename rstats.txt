@@ -22302,3 +22302,28 @@
 392523700903616512  Oct 22 01:31  @RickSaporta      RT @JimGrange: Cool! You can now post #Rstats code on http://Wordpress.com-based blogs by wrapping code between [code lang="r"] and [/code]
 392531069117153280  Oct 22 02:01  @_PhilMartin      RT @JimGrange: Cool! You can now post #Rstats code on http://Wordpress.com-based blogs by wrapping code between [code lang="r"] and [/code]
 392539907916562432  Oct 22 02:36  @hfmuehleisen     You know you are in trouble when you have to add more swap space to your box in order to run a #Rstats script...
+392559447274299392  Oct 22 03:54  @certifiedwaif    @rstudioapp keeps getting better and better, with every release. Great work, guys! #Rstats
+392560515538771968  Oct 22 03:58  @frod_san         RT @sean_anderson: .@TrevorABranch I tend to use mtext() for (a), (b) labels in #rstats, but sometimes you need par(“usr”): http://t.co/nBWSINUwrA
+392561498369064960  Oct 22 04:02  @frod_san         RT @johnbaums: Using #rstats to parse time (and taxon names) with @GBIF's API: http://wp.me/p1IqFD-74
+392564271999385600  Oct 22 04:13  @BennoSimmons     RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
+392566289643737088  Oct 22 04:21  @adolfoalvarez    .@MoritzBuchi @BennoSimmons and to wipe everything except functions: rm(list = setdiff(ls(), lsf.str())) #rstats
+392566573954654208  Oct 22 04:22  @adolfoalvarez    @LilithElina I invite you to tweet your experience in the #rstats hashtag.
+392566882144104448  Oct 22 04:23  @psychemedia      Open VS Closed [data] Analysis Languages http://bit.ly/17dw7U0 /via Rbloggers #rstats #ddj #tm351
+392567741648883712  Oct 22 04:26  @Alistair_Leak    Neat page of R spatial examples #maps #rstats http://casoilresource.lawr.ucdavis.edu/drupal/book/export/html/519
+392582313076609024  Oct 22 05:24  @MoritzBuchi      #rstats CRAN Task Views: comments and packages for 32 fields (e.g. NLP, ML, Bayesian) http://cran.r-project.org/web/views/
+392583791132545024  Oct 22 05:30  @LilithElina      RT @_inundata: Excellent post by @xieyihui on how to choose between #markdown and #LaTeX.  http://bit.ly/GW5zKs ↬ @kwbroman #rstats
+392586815880069120  Oct 22 05:42  @ibartomeus       RT @JimGrange: Cool! You can now post #Rstats code on http://Wordpress.com-based blogs by wrapping code between [code lang="r"] and [/code]
+392591367333228545  Oct 22 06:00  @mariusgilbert    RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
+392591982121721856  Oct 22 06:03  @pe_hi            RT @JimGrange: Cool! You can now post #Rstats code on http://Wordpress.com-based blogs by wrapping code between [code lang="r"] and [/code]
+392595239719796736  Oct 22 06:16  @GSwithR          RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
+392595953628495873  Oct 22 06:19  @masemresearch    Programming in R | Vincent Zoonekynd #rstats | @scoopit http://sco.lt/5lpMtV
+392598161367126017  Oct 22 06:27  @statsforbios     RT @adolfoalvarez: .@MoritzBuchi @BennoSimmons and to wipe everything except functions: rm(list = setdiff(ls(), lsf.str())) #rstats
+392599471281815552  Oct 22 06:33  @jameskeirstead   New #rstats package nearly ready, just waiting for email from Win-Builder and CRAN
+392601398463832064  Oct 22 06:40  @Rbloggers        Review: Kölner R Meeting 18 October 2013:  (This article was first published on   mages' blog, and k... http://bit.ly/1cS7bA9 #rstats
+392609750590169088  Oct 22 07:13  @sharon000        RT @DataMinerUK: Resources from data journalism class taught by @jonathanstray at Hong Kong Univ http://bit.ly/17Gdouz #ddj #rstats #python
+392610639979372544  Oct 22 07:17  @portfolioprobe   Quant finance blogs http://bit.ly/1fSwdTu #quant #finance #rstats
+392614164067524608  Oct 22 07:31  @ibartomeus       using testthat for unit testing in R #rstats @vgaltes will be proud of me.
+392619316996108288  Oct 22 07:51  @jameskeirstead   Cannot believe this is still a problem. As @hadleywickham says, official CRAN solution is a hideous hack #rstats http://stackoverflow.com/questions/9439256/how-can-i-handle-r-cmd-check-no-visible-binding-for-global-variable-notes-when/12429344#12429344
+392634479220916224  Oct 22 08:52  @hadleywickham    RT @ibartomeus: using testthat for unit testing in R #rstats @vgaltes will be proud of me.
+392634846860029952  Oct 22 08:53  @BatmanFran       RT @ibartomeus: using testthat for unit testing in R #rstats @vgaltes will be proud of me.
+392635168714141696  Oct 22 08:54  @delsweil         RT @ibartomeus: using testthat for unit testing in R #rstats @vgaltes will be proud of me.
