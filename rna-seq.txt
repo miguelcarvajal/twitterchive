@@ -4738,3 +4738,37 @@
 392329711558623232  Oct 21 12:41  @rnomics          Sailfish 0.5.0 - Ultrafast Isoform Abundance Estimation from RNA-seq Reads http://bit.ly/17ZPzgh http://mybiosoftware.com posted by friends:…
 392357439279882240  Oct 21 14:31  @HPI_UofC         RT @JohnGilleard: @HPI_UofC Comprehensive evaluation of differential gene analysis methods for #RNA-seq data http://genomebiology.com/content/pdf/gb-2013-14-9-r95.pdf
 392357638987862016  Oct 21 14:32  @PRNbiztech       Stranded RNA-Seq with =99% accuracy and a fast protocol (under 4 hours). http://prn.to/1daMimk
+392372479442051072  Oct 21 15:31  @mateongenaert    RT @illumina: 2013 SeQC pub in @GenomeBiology Comp eval of differential gene exp analysis methods for RNA-seq data http://bit.ly/1hZdCl7 #ILMNEast
+392372893491142656  Oct 21 15:32  @hyphaltip        RT @lpachter: Non-uniform coverage of transcripts in RNA-Seq experiments http://wp.me/pRx4V-cP
+392374911152304128  Oct 21 15:40  @digitalbio       RT @lpachter: Non-uniform coverage of transcripts in RNA-Seq experiments http://wp.me/pRx4V-cP
+392387815054770176  Oct 21 16:31  @PRNTech          Stranded RNA-Seq with =99% accuracy and a fast protocol (under 4 hours). http://prn.to/1daMimk
+392393653815353344  Oct 21 16:55  @DaleYuzuki       Next speaker is Milan Radovich, 'next-gen RNA-Seq and Exome-Seq ... for translational oncology research'. #ionworld2013
+392393822162157568  Oct 21 16:55  @iontorrent       Next up- Milan Radovich from Indiana U talking about cancer RNA-Seq on Ion Proton #ionworld2013
+392393872141479937  Oct 21 16:56  @kayellbe         Finally some RNA-Seq at #ionworld2013 from Milan Radovich. :)
+392393940047249408  Oct 21 16:56  @cathcoste        RT @DaleYuzuki: Next speaker is Milan Radovich, 'next-gen RNA-Seq and Exome-Seq ... for translational oncology research'. #ionworld2013
+392394129977933824  Oct 21 16:57  @cathcoste        RT @kayellbe: Finally some RNA-Seq at #ionworld2013 from Milan Radovich. :)
+392394159065399296  Oct 21 16:57  @cathcoste        RT @iontorrent: Next up- Milan Radovich from Indiana U talking about cancer RNA-Seq on Ion Proton #ionworld2013
+392396400463724545  Oct 21 17:06  @SBGenomics       Looking for more Ion Proton RNA-Seq Analysis? Check out poster 6 from Vladimir Mladenovic and @kayellbe: comparative analysis of alignment.
+392396484207210496  Oct 21 17:06  @DaleYuzuki       Radovich: Does laser-capture microdissection (LCM) of the normal ductal tissue. They detail via RNA-seq what normal is #ionworld2013
+392397303077961728  Oct 21 17:09  @cathcoste        RT @DaleYuzuki: Radovich: Does laser-capture microdissection (LCM) of the normal ductal tissue. They detail via RNA-seq what normal is #ionworld2013
+392397416886173696  Oct 21 17:10  @DaleYuzuki       Radovich: TN BrCa - review of EGFR, c-KIT and PARP overexp., microarray, RNA-Seq, clinical trial outcome of treatments. #ionworld2013
+392397549883379712  Oct 21 17:10  @cathcoste        RT @DaleYuzuki: Radovich: TN BrCa - review of EGFR, c-KIT and PARP overexp., microarray, RNA-Seq, clinical trial outcome of treatments. #ionworld2013
+392398050691670016  Oct 21 17:12  @DaleYuzuki       Radovich: Using RNA-Seq to look for candidates to target; genes involved with epithelial dev. - Wnt pathway gene ID'd #ionworld2013
+392398381009891328  Oct 21 17:13  @DaleYuzuki       Radovich: PI3K / Wnt inhibitor at low nanomolar combination effect. Then RNA-Seq pre- and post-treatment. 'Whack-a-mole'  #ionworld2013
+392398878244610048  Oct 21 17:15  @iontorrent       MR: RNA-Seq on Proton used to increase understanding of triple negative breast cancer research #ionworld2013
+392398891901280256  Oct 21 17:16  @cathcoste        RT @DaleYuzuki: Radovich: Using RNA-Seq to look for candidates to target; genes involved with epithelial dev. - Wnt pathway gene ID'd #ionworld2013
+392399060722008064  Oct 21 17:16  @DaleYuzuki       Radovich: PARP inhibitor clinical trial: looking at pts with sig residual disease; looking at RNA-Seq, exome-seq, plasma-seq #ionworld2013
+392400581098479616  Oct 21 17:22  @cathcoste        RT @DaleYuzuki: Radovich: PARP inhibitor clinical trial: looking at pts with sig residual disease; looking at RNA-Seq, exome-seq, plasma-seq #ionworld2013
+392400693220618240  Oct 21 17:23  @cathcoste        RT @iontorrent: MR: RNA-Seq on Proton used to increase understanding of triple negative breast cancer research #ionworld2013
+392402221713092608  Oct 21 17:29  @iontorrent       JW: RNA-Seq on Proton yields data in only 3 days, start to finish #ionworld2013
+392402286250844161  Oct 21 17:29  @DaleYuzuki       Wang: First application: RNA-Seq; the workflow is 3d 'quite amazing actually'. '~14G per run!' 144bp RL #ionworld2013
+392402646134706176  Oct 21 17:30  @DaleYuzuki       Wang: Corrrelate RNA-Seq on Proton to qPCR, Proton to HiSeq 'very good'. Also technical replicates r2=0.997 #ionworld2013
+392403009424343040  Oct 21 17:32  @DaleYuzuki       Wang: Glioblastoma (GBM) looking at intratumor hetergeneity, RNA-Seq first, very consistent metrics, up/down reg. genes #ionworld2013
+392403938789822464  Oct 21 17:36  @cathcoste        RT @DaleYuzuki: Wang: Corrrelate RNA-Seq on Proton to qPCR, Proton to HiSeq 'very good'. Also technical replicates r2=0.997 #ionworld2013
+392422667179282432  Oct 21 18:50  @LeucineRichBio   ORMAN – Optimal Resolution of Ambiguous RNASeq multimappings in the Presence of Novel Isoforms http://www.rna-seqblog.com/technology/methods/data-analysis/splicing-junction/orman-optimal-resolution-of-ambiguous-rna-seq-multimappings-in-the-presence-of-novel-isoforms/
+392428542551937024  Oct 21 19:13  @SEQquestions     RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor with GAGE/Pathview http://ift.tt/1bQLU8E
+392434369098289152  Oct 21 19:36  @copypasteusa     RT @antiplastics: @dritoshi さんと開発していたRNA-seqのメタアナリシスパッケージ「metaSeq」が今日公開になりました。 http://www.bioconductor.org/packages/2.13/bioc/html/metaSeq.html
+392436542230114304  Oct 21 19:45  @lpachter         Kasper Hansen has posted an interesting comment re: non-uniform coverage in RNA-Seq http://tinyurl.com/l69xfc5
+392442368974409729  Oct 21 20:08  @notSoJunkDNA     RT @SEQquestions: RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor with GAGE/Pathview http://ift.tt/1bQLU8E
+392447426088296448  Oct 21 20:28  @IanDworkin       RT @SEQquestions: RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor with GAGE/Pathview http://ift.tt/1bQLU8E
+392447653784870913  Oct 21 20:29  @jung_gt          #bio4150 RT @SEQquestions: RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor with GAGE/Pathview http://ift.tt/1bQLU8E

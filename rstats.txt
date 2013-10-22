@@ -22245,3 +22245,41 @@
 392359594775048192  Oct 21 14:39  @mickeypash       just what I need "@RLangTip: The ddply function (in package plyr) makes aggregating rows of data simpler: http://bit.ly/Qs64Kj #rstats"
 392363054740291584  Oct 21 14:53  @VCHadzz          RT @kirk_hadley: it finally happened. ran out of memory in #rstats. i feel like a grown up now. innocence lost. #data #analytics #AWS here i come cloud
 392364262078681088  Oct 21 14:58  @stubbornmule     ngramr binaries now updated on CRAN #rstats #linguistics http://cran.r-project.org/web/packages/ngramr/index.html
+392365337771278336  Oct 21 15:02  @mattgarciablitz  RT @RLangTip: Compare the speed of several R expressions with the benchmark function: http://bit.ly/Sppip1 #rstats
+392367350999052289  Oct 21 15:10  @Rbloggers        A note about the estimating the number of visits to a site:  (This article was first published on   ... http://bit.ly/1750sBK #rstats
+392369445253152769  Oct 21 15:19  @ramnath_vaidya   RT @rmflight: Open VS Closed Analysis Languages #blogpost http://rmflight.github.io/posts/2013/10/openvsclosed.html #rstats #python #others
+392370569917652992  Oct 21 15:23  @rmflight         .@ramnath_vaidya thanks. this is why I switched from #matlab to #rstats when I started my postdoc
+392371087075311616  Oct 21 15:25  @ramnath_vaidya   @rmflight I switched from #matlab to #rstats too during my PhD, but for a different reason; statistical capabilities of R
+392376332153126912  Oct 21 15:46  @epistatistic     I'll try to run #winbugs in parallel with #bugsparallel. I hope it works with windows 7. Any experience? http://code.google.com/p/bugsparallel/ #rstats
+392386851572441088  Oct 21 16:28  @noamross         Have data as data.table in #rstats, but exceeding memory limits.  What to use to store on disk, but use plyr/DT-like fns to load summaries?
+392388047867609088  Oct 21 16:32  @isomorphisms     Cool. http://cran.r-project.org/web/packages/Rmpfr/vignettes/Rmpfr-pkg.pdf #Rstats
+392390529729564672  Oct 21 16:42  @kwbroman         Dammit #rstats, do you have to replace the hyphens in my column names?! I really did want B6_01-011-S not B6_01.011.S
+392391310985805824  Oct 21 16:45  @kwbroman         For that last #rstats tweet, I guess I just needed check.names=FALSE in read.csv
+392391807969271808  Oct 21 16:47  @almightyData     RT @cloudHPC: new version of #RjumboDB available: install_github("jumbodb-Rpkg", username="comsysto")  #rstats #jumbodb
+392392462066397184  Oct 21 16:50  @FashionObserved  RT @RickSaporta: @MDubins have you read the #rstats data import/export doc yet? It's quite detailed. http://bit.ly/HcjJqw
+392395147834429440  Oct 21 17:01  @AccessToken      RT @tavisrudd: "Machine Learning and R" talk next Tues (Oct 29th, YVR #rstats Users + Data Science meetups) http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/events/143102242/ / http://t.co/60OA323jlN
+392398221751771136  Oct 21 17:13  @mljockers        On LaTeX vs. Markdown in R from @xieyihui (author of knitr): http://yihui.name/en/2013/10/markdown-or-latex/ #rstats
+392400697511010304  Oct 21 17:23  @ceptional        Why does google "(1 | subject)" not search for entire expression, even when put in quotes? Difficult googling #Rstats formulas
+392402206563270656  Oct 21 17:29  @timelyportfolio  RT @ramnath_vaidya: Want to learn more about #rCharts?  28th Oct at 6:30pm at Nottman House in Montreal http://meetu.ps/22rnvY #rstats @d3visualization
+392403429596741632  Oct 21 17:34  @ceptional        Best reference I've found on #Rstats formulas http://science.nature.nps.gov/im/datamgmt/statistics/r/formulas/ But doesn't explain why "(1 | subject)" means a random effect
+392404988556619777  Oct 21 17:40  @berkeleymalagon  @noamross Is your data in a DB? If so, dplyr by @hadleywickham might be worth a look. Not sure if can chunk flat files on disk, tho #Rstats
+392406407774887936  Oct 21 17:45  @ceptional        Useful start to #Rstats mixed-effects models http://www2.hawaii.edu/~kdrager/MixedEffectsModels.pdf lmer uses "1 | factor" as signal factor is random effect, I think
+392411674969669632  Oct 21 18:06  @lgatt0           Next CambR Cambridge #rstats user group meeting on Mon 28 October - http://www.cambr.org.uk/
+392412712325492736  Oct 21 18:10  @revodavid        Video replay of @DataSong webinar on time-to-event models with @RevolutionR and #Hadoop: http://bit.ly/GYCduO #rstats
+392412823499702272  Oct 21 18:11  @AdvBizAnalytics  RT @DrLyndonWalker: R usage skyrocketing: #rstats http://ow.ly/pZeRX
+392413423969263616  Oct 21 18:13  @rtelmore         Just learned about commandArgs() in #rstats. Cool. Unrelated: I eat bananas exactly how I imagine a monkey would eat them.
+392419466731982849  Oct 21 18:37  @DataSong         RT @revodavid: Video replay of @DataSong webinar on time-to-event models with @RevolutionR and #Hadoop: http://bit.ly/GYCduO #rstats
+392421153194520576  Oct 21 18:44  @Zementis         Deploy SAS Enterprise Miner and R #rstats models side by side w #PMML standard http://www.zementis.com/solution4SAS.htm #Analytics2013 #datamining
+392424925232779264  Oct 21 18:59  @SergeyKochergan  No surprises: More people tweet more. Visualizing twitter counts during election day. http://www.r-bloggers.com/no-surprises-more-people-tweet-more-visualizing-twitter-counts-during-election-day/ via @rbloggers #rstats #twitter
+392426667093671936  Oct 21 19:06  @dseverski        Interesting looking #rstats package for working with likert data. http://www.r-bloggers.com/version-1-1-of-the-likert-package-released-to-cran/
+392430113242894336  Oct 21 19:20  @noamross         How can I change the width of point shape borders in #ggplot? e.g. if shape=21, what controls the outline thickness? #rstats @hadleywickham
+392430359129763840  Oct 21 19:21  @OpenCPU          Use the new 'viewer pane' in the latest build of @RStudio 0.98 to view opencpu #rstats apps http://i.imgur.com/CpUeWbw.png
+392434538691190784  Oct 21 19:37  @RusersMtl        RT @ramnath_vaidya: Want to learn more about #rCharts?  28th Oct at 6:30pm at Nottman House in Montreal http://meetu.ps/22rnvY #rstats @d3visualization
+392435548323086336  Oct 21 19:41  @noamross         My #StackOverflow question: How to control plotting point border thickness in #ggplot? http://stackoverflow.com/q/19506630/1757441?stw=2 #rstats @hadleywickham
+392436187987976192  Oct 21 19:44  @RevolutionR      RT @revodavid: Video replay of @DataSong webinar on time-to-event models with @RevolutionR and #Hadoop: http://bit.ly/GYCduO #rstats
+392438219713040384  Oct 21 19:52  @Timcdlucas       RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
+392439803943202816  Oct 21 19:58  @statsforbios     RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
+392440095879725057  Oct 21 19:59  @statsforbios     RT @JimGrange: Cool! You can now post #Rstats code on http://Wordpress.com-based blogs by wrapping code between [code lang="r"] and [/code]
+392440835901767680  Oct 21 20:02  @bob_solar        RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
+392445023200878592  Oct 21 20:19  @am_tracey        RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
+392447620339093506  Oct 21 20:29  @IanDworkin       RT @MoritzBuchi: useful R #rstats line: rm(list=setdiff(ls(), c("importantObject"))) will wipe the workspace except for the specified object
