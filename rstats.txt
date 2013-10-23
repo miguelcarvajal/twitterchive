@@ -397,8 +397,8 @@
 312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
-312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -15514,8 +15514,8 @@
 369577294995939329  Aug 19 17:51  @JodyEdmondson    #rstats excellent quick ggplot2 guide  http://bit.ly/1bNDNKx
 369578855511891968  Aug 19 17:57  @richierocks      @RLangTip To rephrase: Improve your #rstats code performance by removing calls to Sys.sleep!
 369581889683615744  Aug 19 18:09  @Gliders_Coach    The Wonderful ggmap package for spatial analysis in R #rstats http://wp.me/p9q8Y-2VE
-369587742092443648  Aug 19 18:32  @NashTurley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369587742092443648  Aug 19 18:32  @nashturley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
+369587742092443648  Aug 19 18:32  @NashTurley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369594751223205888  Aug 19 19:00  @Rbloggers        Text Mining with R – Comparing Word Counts in two Text Documents:  (This article was first published... http://bit.ly/162U1cV #rstats
 369602780643614721  Aug 19 19:32  @richmanmax       Learning about Slidify (html slidedecks from yaml & rMarkdown) and rCharts (generate js charts from #Rstats) at @DataCommunityDC meetup.
 369610770965090304  Aug 19 20:04  @richmanmax       Cool, rCharts has bindings with @LeafletJS so can quickly publish interactive webmaps from #Rstats and then push to Slidify & github #DataDC
@@ -17151,8 +17151,8 @@
 375789903914602497  Sep  5 21:17  @ajreeves         Is there any way to open Stata v13 files in R (read.dta doesn't work)? #rstats
 375802291082653696  Sep  5 22:07  @coolbutuseless   RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
 375803404980723712  Sep  5 22:11  @wwangcg          RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
-375827593217314816  Sep  5 23:47  @M_VanScoyoc      Martinis pair well with ordination. #rstats
 375827593217314816  Sep  5 23:47  @m_van_scoyoc     Martinis pair well with ordination. #rstats
+375827593217314816  Sep  5 23:47  @M_VanScoyoc      Martinis pair well with ordination. #rstats
 375829346490916864  Sep  5 23:54  @j_zelikova       RT @m_van_scoyoc: Martinis pair well with ordination. #rstats
 375829761731207169  Sep  5 23:56  @jfreels4         RT @ramnath_vaidya: Good use of R Markdown with Slidify and rCharts http://rpubs.com/PhilippB/x721-hw1 #rstats
 375830234324406272  Sep  5 23:58  @MathBioPaul      RT @statisticsblog: R tip of the day - R & Linear Algebra: Why R is more than just a statistical package. http://i.cx/1drPaLs #r #rstats #algebra @revodavid
@@ -22630,3 +22630,18 @@
 393085448974643200  Oct 23 14:44  @xieyihui         The Leek group has been working too hard. I haven't found time to respond to the last #rstats policy yet, and another policy has come.
 393086055794348033  Oct 23 14:46  @harpactocrates   RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
 393086484875444224  Oct 23 14:48  @gvegayon         Quandl and #Rstats: Introductory Econometrics using R http://www.quandl.com/help/resources/econometrics-tutorial via @revodavid
+393090008988385280  Oct 23 15:02  @adaptive_plant   RT @cboettig: a package / interface with google scholar in #rstats https://github.com/jkeirstead/scholar / ht @recology_
+393090544856883200  Oct 23 15:04  @amcrisan         Does #bootstrapped #MLE refine  (update?) estimates at each sampling iteration or perform model selection for best parameters? #rstats
+393091913579900928  Oct 23 15:09  @isragaytan       RT @ramnath_vaidya: RStudio Viewer is awesome!!!!!  http://youtu.be/wi2fUKqHtpM via @rstudioapp #rstats
+393092105028907008  Oct 23 15:10  @isragaytan       RT @Piboonrungroj: Another nice and brand new R graphic online tutorial site http://plot.ly/api/r by @plotlygraphs #rstats #dataviz http://t.co/ctT2lJ6E9o
+393092940413022208  Oct 23 15:13  @ADEH_demografia  RT @Demografia_CSIC: My experience of learning R – from basic graphs to performance tuning: http://bit.ly/19u6XOc #rstats via @Rbloggers
+393097502338998272  Oct 23 15:32  @ucfagls          Drawing time series plots with lattice & ggplot in R. (Or: Answering email support requests with blog posts) #rstats http://bit.ly/1fVKcrA
+393097614838988800  Oct 23 15:32  @as2140           RT @RLangTip: Visualize a 3-D surface with the persp function: http://bit.ly/Svpkai #rstats
+393098935461371904  Oct 23 15:37  @recology_        RT @ucfagls: Drawing time series plots with lattice & ggplot in R. (Or: Answering email support requests with blog posts) #rstats http://t.co/nOxHUusUU4
+393099741069709313  Oct 23 15:40  @timelyportfolio  RT @ucfagls: Drawing time series plots with lattice & ggplot in R. (Or: Answering email support requests with blog posts) #rstats http://t.co/nOxHUusUU4
+393099888491503616  Oct 23 15:41  @RickSaporta      Yep! Like it was asleep? MT @fredbenenson: anyone notice @RStudio lags when pasting into console after its been open for a while? #RStats?
+393100277643239424  Oct 23 15:43  @rmflight         RT @ucfagls: Drawing time series plots with lattice & ggplot in R. (Or: Answering email support requests with blog posts) #rstats http://t.co/nOxHUusUU4
+393101483735937024  Oct 23 15:47  @rabow            RT @tonyfischetti: To fix issues with @rstudioapp and Qt on Mavericks, use the preview release: http://www.rstudio.com/ide/download/preview #rstats
+393102497986129921  Oct 23 15:51  @JJVenky          RT @ucfagls: Drawing time series plots with lattice & ggplot in R. (Or: Answering email support requests with blog posts) #rstats http://t.co/nOxHUusUU4
+393102553510342656  Oct 23 15:52  @JacquelynGill    RT @ucfagls: Drawing time series plots with lattice & ggplot in R. (Or: Answering email support requests with blog posts) #rstats http://t.co/nOxHUusUU4
+393102752722612225  Oct 23 15:52  @KirkDBorne       Programming in R - many basic and advanced topics & examples presented here: http://zoonek2.free.fr/UNIX/48_R/02.html #Rstats > data structures, tricks,....
