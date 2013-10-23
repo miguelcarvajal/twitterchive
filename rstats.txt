@@ -397,8 +397,8 @@
 312447361051918336  Mar 15 02:17  @PPUAMX           RT @RLangTip: List of 100+ probability distributions (densities, quantiles, simulation) supported in R: http://bit.ly/y3ecGN #rstats
 312460038310617088  Mar 15 03:07  @RyanGrannell     RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312463916754145280  Mar 15 03:22  @datalies         @soccermetrics have you tried #Rstats? ... idk how large your process is, but R can move pretty quick.
-312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312468944390848512  Mar 15 03:42  @DATACMDR         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
+312468944390848512  Mar 15 03:42  @datacmdr         RT @coolbutuseless: Best #rstats error: "FUN" is missing, with no default.
 312504792335405056  Mar 15 06:05  @lucaborger       New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312504887780970497  Mar 15 06:05  @silverlangur     RT @lucaborger: New R package for species distribution modelling by @_NickGolding_ http://cran.r-project.org/web/packages/GRaF/index.html #rstats
 312512653056696321  Mar 15 06:36  @EDENextDMT       @_NickGolding_ Well done Nick! Can we add it to our R-Project links page? http://www.edenextdata.com/?q=content/r-project-links #rstats
@@ -15514,8 +15514,8 @@
 369577294995939329  Aug 19 17:51  @JodyEdmondson    #rstats excellent quick ggplot2 guide  http://bit.ly/1bNDNKx
 369578855511891968  Aug 19 17:57  @richierocks      @RLangTip To rephrase: Improve your #rstats code performance by removing calls to Sys.sleep!
 369581889683615744  Aug 19 18:09  @Gliders_Coach    The Wonderful ggmap package for spatial analysis in R #rstats http://wp.me/p9q8Y-2VE
-369587742092443648  Aug 19 18:32  @nashturley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369587742092443648  Aug 19 18:32  @NashTurley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
+369587742092443648  Aug 19 18:32  @nashturley       Learning how to fit a structural equation model in #R, this is my hypothetical path diagram #Rstats #Rabbits http://t.co/sVgPyw2n1Y
 369594751223205888  Aug 19 19:00  @Rbloggers        Text Mining with R – Comparing Word Counts in two Text Documents:  (This article was first published... http://bit.ly/162U1cV #rstats
 369602780643614721  Aug 19 19:32  @richmanmax       Learning about Slidify (html slidedecks from yaml & rMarkdown) and rCharts (generate js charts from #Rstats) at @DataCommunityDC meetup.
 369610770965090304  Aug 19 20:04  @richmanmax       Cool, rCharts has bindings with @LeafletJS so can quickly publish interactive webmaps from #Rstats and then push to Slidify & github #DataDC
@@ -17151,8 +17151,8 @@
 375789903914602497  Sep  5 21:17  @ajreeves         Is there any way to open Stata v13 files in R (read.dta doesn't work)? #rstats
 375802291082653696  Sep  5 22:07  @coolbutuseless   RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
 375803404980723712  Sep  5 22:11  @wwangcg          RT @stephaniehicks: Similar to One R Tip a Day (@RLangTip), someone should start a One ggplot2 Tip a Day! who wants to start it? #rstats #dataviz
-375827593217314816  Sep  5 23:47  @m_van_scoyoc     Martinis pair well with ordination. #rstats
 375827593217314816  Sep  5 23:47  @M_VanScoyoc      Martinis pair well with ordination. #rstats
+375827593217314816  Sep  5 23:47  @m_van_scoyoc     Martinis pair well with ordination. #rstats
 375829346490916864  Sep  5 23:54  @j_zelikova       RT @m_van_scoyoc: Martinis pair well with ordination. #rstats
 375829761731207169  Sep  5 23:56  @jfreels4         RT @ramnath_vaidya: Good use of R Markdown with Slidify and rCharts http://rpubs.com/PhilippB/x721-hw1 #rstats
 375830234324406272  Sep  5 23:58  @MathBioPaul      RT @statisticsblog: R tip of the day - R & Linear Algebra: Why R is more than just a statistical package. http://i.cx/1drPaLs #r #rstats #algebra @revodavid
@@ -22423,3 +22423,58 @@
 392731499176660992  Oct 22 15:17  @arcalb           RT @RLangTip: Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
 392731575294500864  Oct 22 15:17  @jjgibaja         Recomendar a una alumna que preguntaba por recursos para analizar datos "The Elements of Statistical Learning" y #rstats #GoingTheHardWay...
 392738723122520064  Oct 22 15:46  @abhik1368        RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392743071529857024  Oct 22 16:03  @NashTurley       RT @RLangTip: Convert a numeric vector to a factor with "cut", e.g. cut(rnorm(100),3,c("Low","Med","High")) #rstats http://bit.ly/PG2UmB
+392749297412104192  Oct 22 16:28  @aurora_8light    RT @statisticsblog: R tip of the day - Analysis of English Texts with Hidden Markov Models (HMM) in R. http://i.cx/14Oj0Vl #r #rstats
+392749870764679168  Oct 22 16:30  @KirkDBorne       Awesome new book: "Applied Predictive Modeling" http://isbn.nu/9781461468486 #Analytics #Statistics #DataMining #Rstats #CRAN
+392752398784950273  Oct 22 16:40  @KirkDBorne       Great #DataScience book > "An Introduction to Statistical Learning: With Applications in R" http://isbn.nu/9781461471370 #Rstats #MachineLearning
+392752582881738753  Oct 22 16:41  @hadleywickham    do you use devtools? if so, please help us test the latest release candidate: https://groups.google.com/forum/#!topic/rdevtools/3bfSKMri7zo #rstats
+392752790420086785  Oct 22 16:42  @marcosluis2186   RT @KirkDBorne: Great #DataScience book > "An Introduction to Statistical Learning: With Applications in R" http://isbn.nu/9781461471370 #Rstats #MachineLearning
+392752860389474304  Oct 22 16:42  @romain_francois  RT @hadleywickham: do you use devtools? if so, please help us test the latest release candidate: https://groups.google.com/forum/#!topic/rdevtools/3bfSKMri7zo #rstats
+392752998897561600  Oct 22 16:43  @mattmoehr        Super helpful #rstats and geodata post: http://www.obscureanalytics.com/2012/12/07/visualizing-baltimore-with-r-and-ggplot2-crime-data/ But hell no: 'THIS is why Baltimore is the "City of Neighborhoods"'
+392753189230878720  Oct 22 16:43  @recology_        RT @hadleywickham: do you use devtools? if so, please help us test the latest release candidate: https://groups.google.com/forum/#!topic/rdevtools/3bfSKMri7zo #rstats
+392754605487947776  Oct 22 16:49  @winston_chang    RT @hadleywickham: do you use devtools? if so, please help us test the latest release candidate: https://groups.google.com/forum/#!topic/rdevtools/3bfSKMri7zo #rstats
+392754937949462528  Oct 22 16:50  @Rbloggers        Knoxville R User’s Group Meeting November 1:  (This article was first published on   r4stat... http://bit.ly/1bTZjgu #rstats
+392756659413852161  Oct 22 16:57  @MColebrook       RT @KirkDBorne: Great #DataScience book > "An Introduction to Statistical Learning: With Applications in R" http://isbn.nu/9781461471370 #Rstats #MachineLearning
+392758797334487041  Oct 22 17:06  @hadleywickham    RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392759284398059520  Oct 22 17:08  @widdowquinn      RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392759297290932224  Oct 22 17:08  @Jowanza          RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392759509166612480  Oct 22 17:08  @mscharkow        RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392759957222723584  Oct 22 17:10  @aad34210         RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392760079591538688  Oct 22 17:11  @cpsievert        RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392760833459376128  Oct 22 17:14  @_inundata        Currently upgrading to Mavericks while reading about RStudio compatibility issues.  http://bit.ly/1bU39G8 #rstats
+392761056725962752  Oct 22 17:15  @kazutan          RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392762604349034496  Oct 22 17:21  @jonsedar         Noted! “@hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats”
+392762989725511680  Oct 22 17:22  @daviddotduncan   Innapropriate apostrophes from R, of all my valued correspondents? NA, surely not #rstats http://t.co/iHPh8Tbvgy
+392763145166782464  Oct 22 17:23  @hspter           RT @_inundata: Currently upgrading to Mavericks while reading about RStudio compatibility issues.  http://bit.ly/1bU39G8 #rstats
+392763325089873920  Oct 22 17:24  @mmaenner         RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392763377308557312  Oct 22 17:24  @Bashir9ist       RT @_inundata: Currently upgrading to Mavericks while reading about RStudio compatibility issues.  http://bit.ly/1bU39G8 #rstats
+392763563527634944  Oct 22 17:25  @andydavies       RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392763953358450688  Oct 22 17:26  @kleinschmidt     RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392764534638661632  Oct 22 17:28  @egonwillighagen  RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392766391717462016  Oct 22 17:36  @stevepowell99    One of the hottest questions in #rstats: Markdown or LaTeX? Yihui says LaTeX if you are going to have to print it http://bit.ly/1a5CbOu #in
+392766495245475840  Oct 22 17:36  @ewandun          RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392766739416875008  Oct 22 17:37  @Timcdlucas       Meant to say earlier, great talk by @rOpenSci today. #rstats
+392766954408132608  Oct 22 17:38  @ucfagls          @stevepowell99 Not convinced you can't have both. Pandoc allows raw LaTeX in MD file. I like the conciseness of MD. \cc @xieyihui #rstats
+392767175674433536  Oct 22 17:39  @erwtokritos      How do I fit a set of data to a Pareto distribution in R? #Rstats http://stats.stackexchange.com/questions/27426/how-do-i-fit-a-set-of-data-to-a-pareto-distribution-in-r
+392767929973870592  Oct 22 17:42  @bkeegan          RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392768467520077824  Oct 22 17:44  @thmcmahon        RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392769058472341504  Oct 22 17:46  @AvrahamAdler     New blog post: An OpenBLAS-based Rblas for Windows 64 http://wp.me/p3ORLw-37 #rstats
+392770041894031362  Oct 22 17:50  @KirkDBorne       Working At Home With R: http://www.information-management.com/blogs/working-at-home-with-r-10024982-1.html  > Fitter & Happier: Improve Your Health & Productivity with R http://oreillynet.com/pub/e/2713 #Rstats
+392770513904218113  Oct 22 17:52  @kbradnam         RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392772748407078912  Oct 22 18:01  @msgbi            Setup of OAuth in twitteR setup_twitter_oauth are 4 codes from dev twitter .com (github version(new auth method) not CRAN) #rstats
+392779471725412352  Oct 22 18:28  @KirkDBorne       Revamped #BI for blending #BigData & faster visuals → @MicroStrategy #Analytics Enterprise 9.4: http://www.itworld.com/379668/microstrategy-revamps-software-bigger-data-sets-faster-visuals > #NoSQL #GIS #Rstats
+392780027843973121  Oct 22 18:30  @Rbloggers        RStudio and OS X 10.9 Mavericks:  (This article was first published on   RStudio Blog, and kindly co... http://bit.ly/1adDysu #rstats
+392783165707657216  Oct 22 18:42  @Knewton          .@Knewton is proud to host @NYHackr's #RStats @Meetup tonight! Special guest: the creator of the term #DataScience, Bill Cleveland.
+392783213313003520  Oct 22 18:43  @lgatt0           Another reminder about our next CambR Cambridge #rstats user group meeting on Mon 28 October - http://www.cambr.org.uk/
+392784032725204992  Oct 22 18:46  @ChrisBeeley      RT @stevepowell99: One of the hottest questions in #rstats: Markdown or LaTeX? Yihui says LaTeX if you are going to have to print it http://t.co/ch46oDZKS7 #in
+392786809089839105  Oct 22 18:57  @Knewton          Check out the @Livestream for @NYHackr #RStats @Meetup right now! http://livestream.com/knerd
+392791339450261506  Oct 22 19:15  @RickSaporta      RT @hadleywickham: do you use devtools? if so, please help us test the latest release candidate: https://groups.google.com/forum/#!topic/rdevtools/3bfSKMri7zo #rstats
+392791594891345920  Oct 22 19:16  @FastBigData      RT @BDataScientist: Forbes on putting R-based analytics in the hands of business analysts http://zite.to/15P77PK via #datascience #rstats
+392791737661677568  Oct 22 19:17  @nyhackr          Head of AmStat at tonight's #rstats meetup http://t.co/jhFEL63GY2
+392791792162058240  Oct 22 19:17  @_jjphillips      RT @Knewton: Check out the @Livestream for @NYHackr #RStats @Meetup right now! http://livestream.com/knerd
+392791962140422144  Oct 22 19:17  @FastBigData      Using #rstats + @Neo4j to build predictive models? Remember to rebuild indexes for preexisting data after auto indexer is switched #graphdb
+392792202700931072  Oct 22 19:18  @nyhackr          Bill Cleveland discussing divide and recombine to #rstats crowd. http://t.co/pb1GUrPsNm
+392797574656442368  Oct 22 19:40  @Knewton          RT @nyhackr: Bill Cleveland discussing divide and recombine to #rstats crowd. http://t.co/pb1GUrPsNm
+392800416955908096  Oct 22 19:51  @jaredlander      Bill Cleveland had to surrender to r core over having RHIPE on CRAN #rstats
+392804901006630912  Oct 22 20:09  @slseager78       RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
+392812192325586944  Oct 22 20:38  @bryangoodrich    RT @hadleywickham: do you use devtools? if so, please help us test the latest release candidate: https://groups.google.com/forum/#!topic/rdevtools/3bfSKMri7zo #rstats
