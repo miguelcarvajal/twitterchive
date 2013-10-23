@@ -1111,3 +1111,253 @@
 392998763780141056  Oct 23 08:59  @juansearch       @RGCrystal talks about pathway-based assessment of gene therapy efficacy in the brain #ASHG2013
 392998789289873408  Oct 23 08:59  @MarkWLeach       RT @DrKhouryCDC: RT @malinoj #ASHG2013 Jim Evans on return of incidental findings in NGS- we need common ground  http://www.cdc.gov/genomics/update/current.htm#incidental
 392998802447421440  Oct 23 08:59  @genomeresearch   MT @gabeinformatics: DN: Kabuki Syndrome as example of NGS challenges. False pos in low mappability genes. Poor InDel call quality #ASHG2013
+393075333194194945  Oct 23 14:03  @larry_parnell    JP undertook initially an exhaustive SNP x SNP test for each gene expression probe using epiGPU software on GPU clusters #ASHG2013
+393075335904100353  Oct 23 14:03  @JeffreyMOtto     JP: looking for common variant epistaxis through expression analysis across 846 individuals and SNPxSNP probe testing #ASHG2013
+393075370708467712  Oct 23 14:04  @OmicsOmicsBlog   RT @illumina: CB: Whole Genome In Situ Capture (coming out next week in @AJHG) from Carpenter et al.  #ashg2013
+393075401062227968  Oct 23 14:04  @blancahimes      JP: no epistasis has been measured using normally varying human samples but his group is trying to #ASHG2013
+393075404321603584  Oct 23 14:04  @OmicsOmicsBlog   RT @illumina: CB: studying the Y chr: longest stretch of non recombining DNA in the genome- thanks to linear inheritence #ashg2013
+393075466031996928  Oct 23 14:04  @Genohub          Joseph Powell: Talking about epistasis in the genetic control of humans #ASHG2013
+393075537746624512  Oct 23 14:04  @OmicsOmicsBlog   RT @illumina: JP: sharing data from HiSeq 1 Tb, translating to 10 genomes per run. Via advances in chem & software, avail Q214  #ashg2013
+393075549394194432  Oct 23 14:04  @deannachurch     @ngsgene oh no! I need to find him. #ashg2013 #badgematch
+393075595749257217  Oct 23 14:04  @girlscientist    Love immunogenomics. Mark Rieder showing Adaptive Biotech's approach for sequencing V-D-J regions in T-cell beta chain. #ASHG2013
+393075652955340800  Oct 23 14:05  @Affymetrix       @BrownGeneGal Just saw Dr. Sarah South do an awesome presentation on #FFPE samples at #ASHG2012. Nailed it! #ASHG2013
+393075756508921856  Oct 23 14:05  @DrEdWild         RT @cureffi: #ASHG2013 Naldini's lentiviral #genetherapy MLD #clinicaltrial result: "No Disease Manifestation or Progression". see http://t.co/4pAT4tVVLg
+393075837060517889  Oct 23 14:05  @iontorrent       RT @DaleYuzuki: RT @girlscientist: For @DivaBiotech and everyone else: #ASHG2013 tweetup is Tues Oct 22, 730pm, O'Connor Pub Westin http://t.co/Siya9iYuPy
+393075857251893249  Oct 23 14:06  @GenomeBiology    Come pick up your free @biomedcentral tote bag at #ASHG2013 booth 922. You might even meet @rosenovich #fashionatashg http://t.co/ND0gy9xMlQ
+393075861370712064  Oct 23 14:06  @DrEdWild         RT @cureffi: #ASHG2013 Naldini's #genetherapy results are astonishing: fatal disease reverted to _no phenotype_.
+393075913589805056  Oct 23 14:06  @BarbourAnalytix  Looking for my badge match! - Alfred G. Knudson - the lasker winning cancer geneticist -  #ASHG2013
+393075933135261696  Oct 23 14:06  @agnieszkaml      Efficacy and costs for genetic testing. How NGS fit into this? #ASHG2013
+393076060692021249  Oct 23 14:06  @larry_parnell    JP ANOVA test w Bonferroni corr et al gave 501 SNP pairs influencing expression values #ASHG2013
+393076094418833408  Oct 23 14:06  @BarbourAnalytix  @bioinfosm / not me but he did scoop Darwin - that's Alfred Wallace #ASHG2013
+393076141528866818  Oct 23 14:07  @girlscientist    Plenty of seats still open in Hall B2. Remember have to find down escalator on the east side to get to this genomics session. #ASHG2013
+393076158465462272  Oct 23 14:07  @GholsonLyon      Intrafamilial variability in cardiomyopathy demonstrated in Alstrom Syndrome. Of course.  #ASHG2013
+393076175813484544  Oct 23 14:07  @patsule          RT @BarbourAnalytix: Looking for my badge match! - Alfred G. Knudson - the lasker winning cancer geneticist -  #ASHG2013
+393076247456387072  Oct 23 14:07  @markgbaxter      RT @cureffi: #ASHG2013 Naldini's lentiviral #genetherapy MLD #clinicaltrial result: "No Disease Manifestation or Progression". see http://t.co/4pAT4tVVLg
+393076251847819264  Oct 23 14:07  @appistry         RT @GeneticsSociety: The Exhibits and Posters are very busy! #ASHG2013 http://t.co/gwZC0CxgIr
+393076261155000320  Oct 23 14:07  @markgbaxter      RT @cureffi: #ASHG2013 Naldini's #genetherapy results are astonishing: fatal disease reverted to _no phenotype_.
+393076306310479873  Oct 23 14:07  @cureffi          #ASHG2013 rm210 Powell on epistasis controlling transcription in humans.
+393076475978452992  Oct 23 14:08  @mwilsonsayres    Mark Reider: amplification and deep sequencing of antigen receptor recombinant genes: ID discrepancies in gene/pseudo annotation #ASHG2013
+393076700176601088  Oct 23 14:09  @GholsonLyon      Extreme diabetes variability too in Alstrom Syndrome. See what I mean? "Mendelian" disease IS "complex". #ASHG2013
+393076753134260224  Oct 23 14:09  @Rosenovich       RT @GenomeBiology: Come pick up your free @biomedcentral tote bag at #ASHG2013 booth 922. You might even meet @rosenovich #fashionatashg http://t.co/ND0gy9xMlQ
+393076849011470336  Oct 23 14:09  @Genohub          Joseph Powell: Q-Q plots showing 434 SNP pairs, 80% significant, matched direction of epistasis effects p =5.5x10^-31 #ASHG2013
+393076876228304896  Oct 23 14:10  @blancahimes      JP: Tested 434 snp-snp pairs identified in primary cohort in 2 independent cohorts. QQ plot of replication looks very impressive #ASHG2013
+393076882113306624  Oct 23 14:10  @JeffreyMOtto     JP: found 500 SNPs with evidence of epistatic control. Tested 434 in replication cohort, found 345 (80%) exceeded 2.5% C.I. #ASHG2013
+393076961431789568  Oct 23 14:10  @EpigenChromatin  RT @GenomeBiology: Come pick up your free @biomedcentral tote bag at #ASHG2013 booth 922. You might even meet @rosenovich #fashionatashg http://t.co/ND0gy9xMlQ
+393077183008481280  Oct 23 14:11  @OAgenetics       RT @GenomeBiology: Come pick up your free @biomedcentral tote bag at #ASHG2013 booth 922. You might even meet @rosenovich #fashionatashg http://t.co/ND0gy9xMlQ
+393077271273439232  Oct 23 14:11  @JeffreyMOtto     JP: one cis SNP controlled by 13 trans SNPs #ASHG2013
+393077290101243904  Oct 23 14:11  @ngsgene          Voila I found my match! Though #ASHG2013 central didn't know what to do with us :| what happened to cupcakes and restaurant gift cards!
+393077320484798465  Oct 23 14:11  @girlscientist    Rieder: significant amount of segregating variation in VDJ gene segments that is not currently annotated. #ASHG2013
+393077383265144832  Oct 23 14:12  @cureffi          #ASHG2013 Joseph Powell's website http://www.josephepowell.com/
+393077390252855297  Oct 23 14:12  @larry_parnell    JP Func'al analysis of expression epistatic pairs showed strong enrichment for chromosome interactions w Hi-C + ChIP-seq #ASHG2013
+393077420678316032  Oct 23 14:12  @GholsonLyon      Incredibly variable liver presentation too in Alstrom Syndrome. Very detailed phenotyping as part of NIH study. #ASHG2013
+393077429033394176  Oct 23 14:12  @Genohub          Joseph Powell: Epistatic SNPS are located in positions known to interact. #ASHG2013
+393077544259293184  Oct 23 14:12  @mary_carmichael  Sitting in one of the #ASHG2013-logo beanbag chairs. I want to keep it. Alas, it doesn't fit in my handbag. @girlscientist: eBay auction?
+393077571753353216  Oct 23 14:12  @WiringTheBrain   RT @GholsonLyon: Extreme diabetes variability too in Alstrom Syndrome. See what I mean? "Mendelian" disease IS "complex". #ASHG2013
+393077589041893376  Oct 23 14:12  @blancahimes      JP: epistatic SNPs preferentially located in Hi-C and chip-seq chromosome interaction regions #ASHG2013
+393077717253373952  Oct 23 14:13  @ngsgene          Found my match #badgematch What happens next?! #ASHG2013 central didn't know what to do with us #cupcakes #restauran gift cards ? #genomics
+393077804666851328  Oct 23 14:13  @ontowonka        #ASHG2013 V.Shashi most diagnoses of genetic disorders occur in 1st visit; NGS better for undiagnosed after 1st visit
+393077963454808064  Oct 23 14:14  @larry_parnell    JP Resp to ?: We did not look for trans eQTL interaction independent of the cis-trans epistatic pairing #ASHG2013
+393078024184528896  Oct 23 14:14  @agnieszkaml      NGS clinically indicated and economically viable after 1st test fails. #ASHG2013
+393078217827188737  Oct 23 14:15  @GenomeGal        Anyone have Francis Galton? #badgematch #I'mInItForTheCupcakes #ASHG2013
+393078474606649345  Oct 23 14:16  @dn_meadows       Are you Schleiden, Schwann, or Virchow? If so, you're my #badgematch #ASHG2013
+393078496274042881  Oct 23 14:16  @larry_parnell    Andrew Wood on whole genome seq to find 1325 SNPs and indels assoc w cis gene expression eQTL #ASHG2013
+393078502276075520  Oct 23 14:16  @LIFECorporation  Attendees at #ASHG2013 stand in line for the chance to see the latest sequencing technology in the @iontorrent Bus. http://t.co/Hl43WtIljj
+393078691456360448  Oct 23 14:17  @illumina         Boris Grinshpun from Colombia Univ on HTP seq analysis of TCR repertoire in dysregulation of immunity in glioma #ashg2013
+393078801120649216  Oct 23 14:17  @deannachurch     Megan Dennis talking about 15q13.3 deletions associated with developmental delay. #ashg2013
+393078837082210304  Oct 23 14:17  @GholsonLyon      Now up: Beckwith-Widemann syndrome. With numerous phenotypes, all quite variable. Huge spectrum from lethal to unapparent. #ASHG2013
+393078842208034816  Oct 23 14:17  @brigittegs       Nice #infographic about CHARGE in @dnanexus booth #ASHG2013 http://t.co/u0pHi79jfL
+393078854064959488  Oct 23 14:17  @sharonmoalem     #ASHG2013 translating the translation.
+393078997510549505  Oct 23 14:18  @joshulux         Alkes Price: Mixed model association isn't just for dealing with confounding but can also increase power. #ASHG2013
+393079064128262144  Oct 23 14:18  @girlscientist    Boris Grinshpun continues on VDJ sequencing, here in context of gliomas and cancer diagnosis. homepage: http://www.columbia.edu/~bg2178/ #ASHG2013
+393079114510663680  Oct 23 14:18  @JeffreyMOtto     AW: variant frequency and effect size are directly correlated to power of detection #ASHG2013
+393079121200173056  Oct 23 14:19  @GholsonLyon      CDKN1c gene with hypomyethylation, or LOF mutation, or hypermethylation, or Pat. UPD in BWS. #ASHG2013
+393079131438469120  Oct 23 14:19  @mwilsonsayres    Boris Grinshpun - Glioma (brain cancer) and T-cells: developing technology to profile t-cells in brain tumors and blood #ASHG2013
+393079161444925440  Oct 23 14:19  @dnanexus         RT @brigittegs: Nice #infographic about CHARGE in @dnanexus booth #ASHG2013 http://t.co/u0pHi79jfL
+393079199751495680  Oct 23 14:19  @illumina         BG: high grade glioblasts have a char suppressed immune response- develop comput appr for profiling TCR as disease progresses #ashg2013
+393079229614542848  Oct 23 14:19  @GenomeNathan     Spoken like a true geneticist: Price casually calls non-genetic causal component in linear mixed model 'environmental noise'. #ASHG2013
+393079241727676416  Oct 23 14:19  @girlscientist    Yay! Grinshpun is using @irepertoire kit to do sequencing! They're based @hudsonalpha. #ASHG2013
+393079269762400258  Oct 23 14:19  @RoxanaDaneshjou  #ASHG2013 Statistical genetics section -- Pal et al. used maximum likelihood ratio test rather than Fisher's 1-sided vs 2-sided test.
+393079317632393216  Oct 23 14:19  @chopranik        #ashg2013 I have Frederick Griffith if you have Bac tranformation
+393079320840654848  Oct 23 14:19  @ngsgene          @girlscientist sounds good! will be there for the lurrv of #cupcakes :) #ASHG2013
+393079332211793921  Oct 23 14:19  @deannachurch     MD: segmental duplications in this region are human specific. #ashg2013
+393079362683019265  Oct 23 14:19  @cureffi          Re: Naldini's #ASHG2013 #genetherapy talk- MLD is a brain disease but caused by toxic metabolites from blood cells http://en.wikipedia.org/wiki/Metachromatic_leukodystrophy
+393079368110460928  Oct 23 14:19  @sebhtml          RT @pathogenomenick: New blog post: The Oxford @nanopore golden ticket! Minion access programme announced http://pathogenomics.bham.ac.uk/blog/2013/10/the-oxford-nanopore-golden-ticket/ #ASHG2013
+393079485441925121  Oct 23 14:20  @GholsonLyon      318 BWS cases evaluated in detail, with 190 having IC2 hypomethylation. #ASHG2013
+393079563913560065  Oct 23 14:20  @illumina         BG: CDR3 identification pipeline using HiSeq/MiSeq- 250 bp or longer a must, PE overlapping reads good for correction #ashg2013
+393079760319827968  Oct 23 14:21  @larry_parnell    AW used InCHIANTI cohort n=450 WGS @ ~7x (Data transfer btwn labs by hard drive shipment). Got genotypes: 20.5 M SNPs 2.7 M indels #ASHG2013
+393079794864115712  Oct 23 14:21  @aindap           NIH Undiagnosed Disease Program: in  identifying causation there are no bioinformatics short cuts! #ASHG2013
+393079800878747648  Oct 23 14:21  @BiooScientific   RT @NextGenSequence: Join us at #ASHG2013 booth 448 to learn more about 2 hour DNA library prep. Looking forward to meeting you!
+393079829660438528  Oct 23 14:21  @fluidigm         #ASHG2013 Polymorphic human segmental duplications are mediating deletions causing structural variations. Megan Dennis, westin grand AB
+393079862681800704  Oct 23 14:21  @cureffi          Doing #genetherapy in blood cells (e.g. in MLD) is easier than treating the brain directly. #ASHG2013 (1/2)
+393079962917691393  Oct 23 14:22  @illumina         BG: hypothesis: marked immune response decrease due to decreased diversity of peripheral T cells #ashg2013
+393080032559919104  Oct 23 14:22  @shadebrm         RT @vubush: "@AlexandraFish1: Impressive talk by Loviglio! Really motivational to see a grad student up there! #ASHG2013" indeed! Great work!
+393080114512003072  Oct 23 14:22  @idtdna           Are you presenting a poster at #ASHG2013? Did you use IDT oligos? If so, mention @idtdna in a tweet about your poster and we'll retweet it.
+393080126252281856  Oct 23 14:22  @mjcgenetics      I could really go without the full screen zoomed in photographs of kids with rare diseases in genetics talks. #ASHG2013
+393080130462957568  Oct 23 14:23  @cureffi          Still, Naldini's result (total prevention of disease in 3 patients) is among the best #genetherapy results reported so far #ASHG2013 (2/2)
+393080165237944322  Oct 23 14:23  @mwilsonsayres    Grinshpun computes "entropy" of V-J reads. I don't know what entropy means in this context. #ASHG2013
+393080255721635840  Oct 23 14:23  @girlscientist    n on Grinshpun study quite low at the moment. Seeing potential differences between normal and cancer for CDR3 diversity. #ASHG2013
+393080284037783553  Oct 23 14:23  @Massgenomics     NIH undiagnosed diseases accepts challenging cases: compound hets, small pedigrees with few meioses, etc #ASHG2013
+393080332377133056  Oct 23 14:23  @bioinfosm        #ashg2013 grand ballrm east on level3 is overflowing! Guess shifting landscape of #genetic testing is REALLY popular!!
+393080333626667008  Oct 23 14:23  @aindap           NIH UDP uses  PhenoTips to generate  clinical grade datasets http://phenotips.org #ASHG2013
+393080377105203200  Oct 23 14:23  @deannachurch     MD: using BAC clones to analyze haplotypes in different individuals. #ashg2013
+393080386093211648  Oct 23 14:24  @cyphergenomics   Come visit @cyphergenomics booth 646 #ASHG2013 for a product demo & register for the Mantis early access program! http://t.co/RvSnVSnvWD
+393080403721859074  Oct 23 14:24  @ING_SYS          Are you at #ASHG2013? Stop by booth, 621 to learn how Ingenuity products can help identify the biological meaning from your genomic data.
+393080409929826304  Oct 23 14:24  @thsaey           I keep forgetting how much jargon geneticists use. "Capturing SNPs" means nothing to most people but hearing it constantly @ #ASHG2013
+393080442385342464  Oct 23 14:24  @concaff          RT @GholsonLyon: CDKN1c gene with hypomyethylation, or LOF mutation, or hypermethylation, or Pat. UPD in BWS. #ASHG2013
+393080445631750144  Oct 23 14:24  @Comprendia       RT @artologica: Hey #ASHG2013, got a lolcat for you. http://thefinchandpea.com/2013/03/02/science-caturday-teh-encat-project/
+393080526355312640  Oct 23 14:24  @agnieszkaml      Undiagnosed disease program at NIH #ASHG2013
+393080548526018561  Oct 23 14:24  @GenomeNathan     Babies survive a little bathwater: Price notes that GWAS -should- look lambda-inflated under genetic causal heterogeneity. #ashg2013
+393080564406046721  Oct 23 14:24  @Nathbontoux      Full room on #genetic testing #ASHG2013 - clearly lots of interest!
+393080608857284609  Oct 23 14:24  @EdwardWinstead   RT @AlexisCarere: NIH/NHGRI employee disclosure: "Nothing I say reflects anything that anyone important actually believes" ;) #ASHG2013
+393080628855332864  Oct 23 14:24  @NEBiolabs        Visit NEB at booth #511 and get your lab a floatie and a sharpie! #ASHG2013
+393080721604354048  Oct 23 14:25  @Cryofeed1        #ASHG2013 - Need storage solutions that work with your automated systems, WHEATON now offers E-Z Microtubes - Booth 543.
+393080728109744129  Oct 23 14:25  @agnieszkaml      RT @Massgenomics: NIH undiagnosed diseases accepts challenging cases: compound hets, small pedigrees with few meioses, etc #ASHG2013
+393080960230510592  Oct 23 14:26  @ngsgene          @bioinfosm that too in a record time of 8 mins We left for the #badgematch at 1:59 and 2:07 the hall barely had open seats left #ASHG2013
+393081070612017152  Oct 23 14:26  @larry_parnell    Sounds like term 4 conf bingo @konrad_jk MT @thsaey "Capturing SNPs" means nothing to most people but hearing it constantly @ #ASHG2013
+393081085753446400  Oct 23 14:26  @GholsonLyon      Nice correlations shown in phenotype variability in BWS w IC2 Loss of methylation, UPD11, etc...  #ASHG2013
+393081141239877632  Oct 23 14:27  @cureffi          Poster on genes that contribute to #huntingtons disease CAG expansion coming up tomorrow at #ASHG2013 http://abstracts.ashg.org/cgi-bin/2013/ashg13s.pl?abst=huntington&sort=ptimes&sbutton=Detail&absno=130120478&sid=607232
+393081195229364224  Oct 23 14:27  @AAPasqualone     looking for my partner at #ASHG2013 : Rosalind Franklin (I'm photograph 51)
+393081338648985600  Oct 23 14:27  @MikeSivley       Mary Davis up next in Session 10 to talk about analyzing clinical traits of multiple sclerosis using EMRs. #ASHG2013
+393081341333348352  Oct 23 14:27  @spbiotech        Another data pt in heavy lifting 2 use #NGS 4 actionable data: MT @Illumina dependent on mut rate ~1700 tumors/type to get 2% freq #ashg2013
+393081359813455872  Oct 23 14:27  @illumina         Session 11, David Adams NIH is talking about the first four years in the Undiagnosed Disease Program. Exome-seq provide answers #ASHG2013
+393081370723254272  Oct 23 14:27  @deannachurch     MD: GOLGA duplicons imbedded in larger segmental duplications. Mediate evolutionary rearrangements and deletions in humans. #ashg2013
+393081378990215168  Oct 23 14:27  @CrowdedHead      RT @deannachurch: MD: segmental duplications in this region are human specific. #ashg2013
+393081419733676032  Oct 23 14:28  @CourtneyKagan    David Adams @NIH Undiagnosed Disease Program: first 4 yrs; 24% clarification/diagnosis & collaboration important moving forward #ASHG2013
+393081611585355776  Oct 23 14:28  @PJCventure       RT @nabsys: See poster 1588 at #ASHG2013 with the first-ever nanodetector-generated map of a microbial genome. >60x coverage in 2h with just 1 detector
+393081630362832896  Oct 23 14:28  @blancahimes      Andrew Wood 6.5% of cis-eQTL were for low-frequency variants, rather than common ones (based on MAF 5% threshold) #ASHG2013
+393081631315353601  Oct 23 14:28  @scilahn          Alkes Price: mixed model association methods--great for maxing power, not so good for controlling pop. stratification. #ASHG2013
+393081736180948992  Oct 23 14:29  @infoecho         MD uses PacBio sequences to identify breaking points at GOLGA inversion  #ASHG2013
+393081760688267264  Oct 23 14:29  @blancahimes      AW: 45 of 87 cis-eQTL remained significant after conditioning on most common significant variant #ASHG2013
+393081772461682688  Oct 23 14:29  @cureffi          Another poster on #huntingtons tomorrow asks if knowing one's own gene carrier status affects age of onset http://abstracts.ashg.org/cgi-bin/2013/ashg13s.pl?abst=huntington&sort=ptimes&sbutton=Detail&absno=130122417&sid=607232 #ASHG2013
+393081821141151745  Oct 23 14:29  @JeffreyMOtto     RT @blancahimes: Andrew Wood 6.5% of cis-eQTL were for low-frequency variants, rather than common ones (based on MAF 5% threshold) #ASHG2013
+393081983527436288  Oct 23 14:30  @MarylynRitchie   Multivariate gene-metabolome associations.  Sounds interesting. #ASHG2013
+393082010811764736  Oct 23 14:30  @CourtneyKagan    RT @blancahimes: Andrew Wood 6.5% of cis-eQTL were for low-frequency variants, rather than common ones (based on MAF 5% threshold) #ASHG2013
+393082147696689152  Oct 23 14:31  @ontowonka        #ASHG2013 D.Adams Undiagnosed Disease Program. Thanks for shout out of Monarch Initiative. Excited to be a part of UDP, model data can help.
+393082256920940544  Oct 23 14:31  @bionanogenomics  Busy #ASHG2013 launching the new IrysChip V2. Don't forget our workshop tomorrow, see how you can #CompleteYourStory http://buff.ly/HeJtDB
+393082291574280192  Oct 23 14:31  @RocheAppliedSci  Discover how to optimize HRM analysis of SNPs in a large population at our #ASHG2013 workshop tomorrow, 12:30pm, room 208. Lunch provided!
+393082381277880320  Oct 23 14:31  @girlscientist    I know what you're thinking and yes! It's true. This session is a mashup of the best abstracts using sequencing for biology. #ASHG2013
+393082389049532416  Oct 23 14:31  @mwilsonsayres    Mary Davis: Extraction and analysis of clinical traits of multiple sclerosis using electronic medical records #ASHG2013
+393082429163831296  Oct 23 14:32  @blancahimes      Goo Jun on WGS in pedigrees to quantify T2D private variation contribution to disease #ASHG2013
+393082467164246016  Oct 23 14:32  @obahcall         Goo Jun: whole-genome seq over 1000 indv for T2D + related metabolic traits as part T2D-GENES, charact role rare/private variation #ASHG2013
+393082478271156224  Oct 23 14:32  @AgilentCyto      Come by booth #639 and learn about our NEW Postnatal Research CGH & CGH+SNP #Microarrays with Baylor College of Medicine content #ASHG2013
+393082523078496256  Oct 23 14:32  @nextgenseek      Oxford @nanopore Launches MinION Access Program: #ASHG2013 http://nextgenseek.com/2013/10/oxford-nanopore-launches-minion-access-program-ashg2013/
+393082628510728192  Oct 23 14:32  @mwilsonsayres    Same is true for a disease I study, Rheumatoid Arthritis: M. Davis - Longitudinal data for MS is difficult to collect. #ASHG2013
+393082630343622656  Oct 23 14:32  @illumina         S11: Hane Lee UCLA, first year with Clinical Exome Seq. 27% of cases with conclusive diagnosis, 21% with potential diagnosis #ASHG2013
+393082653542330368  Oct 23 14:33  @girlscientist    Mary Davis: few published studies on how MS genetics contributes to disease course. She's using EMR at Vanderbilt to examine. #ASHG2013
+393082904508522496  Oct 23 14:34  @BiolineUSA       Do you have your Thermus aquaticus t-shirt yet? Stop by booth 707 at #ASHG2013!
+393083034393911296  Oct 23 14:34  @TheDoctorTorres  #ASHG2013
+393083062453829632  Oct 23 14:34  @nberry57         RT @illumina: JP: sharing data from HiSeq 1 Tb, translating to 10 genomes per run. Via advances in chem & software, avail Q214  #ashg2013
+393083062671912961  Oct 23 14:34  @Integromics      RT @nextgenseek: Oxford @nanopore Launches MinION Access Program: #ASHG2013 http://nextgenseek.com/2013/10/oxford-nanopore-launches-minion-access-program-ashg2013/
+393083088777277440  Oct 23 14:34  @lauribe          H.Lee: developmental delay, myopathy the top 2 phenotypes where MDs request exome sequencing #ASHG2013
+393083209250246656  Oct 23 14:35  @JeffreyMOtto     GJ: in T2D study, used large pedigrees. Performed WGS on most informative individuals, did GWAS on rest, & imputed remaining GTs #ASHG2013
+393083355283357696  Oct 23 14:35  @GenomeGrl        @UCLA clinical exome program: Trio testing results in significantly higher diagnosis rate than proband only #ASHG2013
+393083402603094016  Oct 23 14:36  @GholsonLyon      Hearing now about "LAPS" syndrome.  Also quite variable w phenotype. http://www.ncbi.nlm.nih.gov/pubmed/22585601 #ASHG2013
+393083425055588352  Oct 23 14:36  @peterborak       Thirsty? Need a pick me up?  Stop by @fluidigm's booth #1131 for some bubble tea! #ASHG2013
+393083484559794176  Oct 23 14:36  @Genohub          G.Jun: Discussing deep whole-genome sequencing in pedigrees to quantify the contribution of private variants to type 2 diabetes #ASHG2013
+393083559696953344  Oct 23 14:36  @Massgenomics     G. Jun on deep WGS in T2D pedigrees... "Deep" = 40x on CGI... And here I was thinking like 100x #ASHG2013
+393083748595793920  Oct 23 14:37  @fluidigm         #ASHG2013. Speaker machiela looking  at mosaicism in 127k samples. Found 341 events. Most are copy neutral.
+393083849049395200  Oct 23 14:37  @RobinThomas99    RT @RocheAppliedSci: Discover how to optimize HRM analysis of SNPs in a large population at our #ASHG2013 workshop tomorrow, 12:30pm, room 208. Lunch provided!
+393083881563639808  Oct 23 14:37  @mwilsonsayres    RT @GenomeGrl: @UCLA clinical exome program: Trio testing results in significantly higher diagnosis rate than proband only #ASHG2013
+393083883006066688  Oct 23 14:37  @AWRgenes         RT @illumina: CB: Using WISC to develop human baits for capture of diverse ancient DNA smpls #ashg2013
+393083929735204864  Oct 23 14:38  @fluidigm         #ASHG2013 Machiela: increasing number of mosaic events as you age. Males also have more. African American population has less occurrence.
+393083945392558080  Oct 23 14:38  @JeffreyMOtto     RT @Massgenomics: G. Jun on deep WGS in T2D pedigrees... "Deep" = 40x on CGI... And here I was thinking like 100x #ASHG2013
+393084110241288192  Oct 23 14:38  @fluidigm         Machiela:  Most samples contain one event. #ASHG2013
+393084225857261568  Oct 23 14:39  @Scalene          RT @illumina: JP: sharing data from HiSeq 1 Tb, translating to 10 genomes per run. Via advances in chem & software, avail Q214  #ashg2013
+393084246266748928  Oct 23 14:39  @Joseph_E_Powell  @larry_parnell We used an exhaustive analysis, so every snp against every other snp. We find lots of trans-trans #ashg2013
+393084274531786752  Oct 23 14:39  @girlscientist    Davis: going through correlation of 8 clinical traits in MS to DNA results from ImmunoChip. But "saw no major effects." #ASHG2013
+393084277094510592  Oct 23 14:39  @AWRgenes         MT“@illumina: CBustamante: Using WISC to develop human baits for capture of diverse ancient DNA samples #ashg2013”
+393084377858453505  Oct 23 14:39  @illumina         S11 HL: Do we really need whole exome sequencing for trios? Answer yes, trio sequencing is more powerful #ASHG2013
+393084398268317696  Oct 23 14:39  @agnieszkaml      Trio testing improves diagnosis over pro and only sequencing S11 #ASHG2013
+393084407298682881  Oct 23 14:40  @fluidigm         #ASHG2013 Machiela: Copy neutral events tend to be around telomere and in the q arm Loss tends to be in the interstitial regions.
+393084506158424064  Oct 23 14:40  @Massgenomics     Another clarity note... "GWAS" is a study type... You probably wanted to say "SNP array" #ASHG2013
+393084552979427328  Oct 23 14:40  @Integromics      RT @PKI_Informatics: Happy "Hump Day"! Visit us at booth #1220 at #ASHG2013 & see @TIBCO #Spotfire-powered OmicsOffice for life science! http://t.co/o38BXwgWne
+393084588559699968  Oct 23 14:40  @appistry         Have you stopped by booth 431 at #ASHG2013 yet?  We are offering discounted pricing!
+393084678787567616  Oct 23 14:41  @the_girl         RT @Massgenomics: Another clarity note... "GWAS" is a study type... You probably wanted to say "SNP array" #ASHG2013
+393084709045284864  Oct 23 14:41  @Integromics      RT @PKI_Informatics: Excited to be giving demos of OmicsOffice in booth #1220 at #ASHG2013 Weds and Thurs this week! #lifescience #omics #data #Spotfire
+393084885419560960  Oct 23 14:41  @cyphergenomics   Our #cloud-based platform provides reliable answers at your fingertips w/ great #speed and #precision. Check us out at booth #646 #ASHG2013
+393084908241174529  Oct 23 14:41  @fluidigm         #ASHG2013 Sergi Villatoro creating UFEST human inversion database by high throughput MLPA. Westin grand ballroom AB
+393084914859393024  Oct 23 14:42  @bullymom2        Please remember, no filming or recording at #ashg2013
+393085002571075585  Oct 23 14:42  @fluidigm         RT @peterborak: Thirsty? Need a pick me up?  Stop by @fluidigm's booth #1131 for some bubble tea! #ASHG2013
+393085003854528512  Oct 23 14:42  @lauribe          H.Lee: why analyzing trios and not only sequencing the patient?de novo hetrozygous variants can be identified #ASHG2013
+393085164768989184  Oct 23 14:43  @RoxanaDaneshjou  Exome sequencing is becoming a regular approach to rare disease at #UCLA #ASHG2013
+393085252408987648  Oct 23 14:43  @malinoj          Desperately seeking Rosalind Franklin. #ASHG2013 #didntexplainthegame
+393085311636340736  Oct 23 14:43  @obahcall         GJ: WGS in large pedigrees identified 7M novel and private variants, see signif assoc at known GWAS variants for triglycerides #ASHG2013
+393085351448690688  Oct 23 14:43  @ngsgene          HLee @UCLA #clinical #exome #sequencing good for hetergenous disorders #ASHG2013 @ The Shifting Landscape of Genetic Testing
+393085416380715008  Oct 23 14:44  @MarylynRitchie   How do you get an FDR from a "couple of permutations"?  Did I misunderstand that?  Anyone in statgen session... #ASHG2013
+393085424740360192  Oct 23 14:44  @RoxanaDaneshjou  We have 3.5 clinical geneticists per 1 million population! Makes getting the expertise for diagnosis difficult! #ASHG2013
+393085450618814464  Oct 23 14:44  @aindap           C. Eng: Only 3.5 medical geneticists per 1M people #ASHG2013
+393085471087427584  Oct 23 14:44  @ElissaRLevin     #UCLA: sequencing trios - parents and child - yields much higher diagnosis rate and further clarifies spectrum of dz phenotypes. #ASHG2013
+393085572216262656  Oct 23 14:44  @ngsgene          RT @lauribe: H.Lee: why analyzing trios and not only sequencing the patient?de novo hetrozygous variants can be identified #ASHG2013
+393085574422462465  Oct 23 14:44  @fluidigm         #ASHG2013 McGregor:  Most common sporadic cancers have a substantial Germline genetic component. Talk up next
+393085581401411584  Oct 23 14:44  @atulbutte        Will have fun presenting keynote at @connectedhealth #cHealth13 awesomely next door to #ASHG2013... Medicine's social/genome future!
+393085680626462720  Oct 23 14:45  @chopranik        #ashg2013 lee from Ucla showed two showed clinical cases where trio sequencing (not just proband) made it possible for disease diagnosis
+393085726449213440  Oct 23 14:45  @lauribe          C.Eng, Baylor: patients suspected with genetic disease many times do not have a dx after doing  trad tests #ASHG2013
+393085738704588801  Oct 23 14:45  @infoecho         Christelle Golzio talks about he challenge on identify causal gene(s) responsible of CNV-associated phenotypes #ASHG2013
+393085867490689024  Oct 23 14:45  @AppliedBio       No worries if you didn’t make it to our posters today – they can all be downloaded here: http://oak.ctx.ly/r/fhej #ASHG2013
+393085870313861120  Oct 23 14:45  @brigittegs       EC: only ~3.5 geneticists per 1 million people #ASHG2013
+393085945223720960  Oct 23 14:46  @LifeTech_TaqMan  Blood Group Genotyping on the TaqMan OpenArray Poster 2602F Fri 10/25 11:30a #ASHG2013
+393086003856289792  Oct 23 14:46  @bioinfosm        @atulbutte @connectedhealth thought you'll be there at the @PersonalisInc session at #ASHG2013.
+393086074823507968  Oct 23 14:46  @GholsonLyon      Now hearing all about Diamond-Blackfan anemia and Treacher Collins Syndrome. Ribosomopathy? #ASHG2013
+393086079047192577  Oct 23 14:46  @Genohub          Harm-Jan Westra: IBD associated genetic variants preferentially alter gene expression in neutrophil granulocytes #ASHG2013
+393086084126474240  Oct 23 14:46  @mwilsonsayres    YiYi Ma: Haplotype of CpG-related SNPs is associated with DNA methylation pattern #ASHG2013
+393086089755639808  Oct 23 14:46  @lauribe          C.Eng: Baylor has done more than 1200 Clinical exome tests in the past year #ASHG2013
+393086115932303360  Oct 23 14:46  @brigittegs       Victor McKusick anyone? #ASHG2013
+393086162770092032  Oct 23 14:46  @AgilentNGS       SureSelect Target Enrichment Now Available for Ion Proton #Sequencing. Visit booth #639 #ASHG2013 http://www.agilent.com/about/newsroom/presrel/2013/22oct-ca13074.html
+393086193392287744  Oct 23 14:47  @aindap           C. Eng Baylor: 26% clinical exome cases solved #ASHG2013
+393086336129048576  Oct 23 14:47  @obahcall         RT @nextgenseek: Oxford @nanopore Launches MinION Access Program: #ASHG2013 http://nextgenseek.com/2013/10/oxford-nanopore-launches-minion-access-program-ashg2013/
+393086371268919296  Oct 23 14:47  @chopranik        RT @pathogenomenick: New blog post: The Oxford @nanopore golden ticket! Minion access programme announced http://pathogenomics.bham.ac.uk/blog/2013/10/the-oxford-nanopore-golden-ticket/ #ASHG2013
+393086426096467968  Oct 23 14:48  @blancahimes      Harm-Jan Westra Looking at tissue specificity of cis-eQTLs in whole blood cell types #ASHG2013
+393086461329018880  Oct 23 14:48  @mjcgenetics      RT @atulbutte: Will have fun presenting keynote at @connectedhealth #cHealth13 awesomely next door to #ASHG2013... Medicine's social/genome future!
+393086499870109696  Oct 23 14:48  @MarylynRitchie   A. Keinan: DiseasePCA (disPCA) investigates shared pathogenesis at the gene level.  YES! #ASHG2013
+393086502147989504  Oct 23 14:48  @lauribe          C.Eng: in the group of positive patients 59% of mutated variants where de novo mutations #ASHG2013
+393086590723305472  Oct 23 14:48  @fluidigm         #ASHG2013 McGregor:  estimating heritability in cancer takes a large sample population. Previous study with 40k samples not enough
+393086737343184897  Oct 23 14:49  @mwilsonsayres    Wow!! Y Ma - Of the 54 million SNPs in human genome a quarter of them are at CpG sites. #ASHG2013
+393086785276096512  Oct 23 14:49  @concaff          RT @girlscientist: Rieder: significant amount of segregating variation in VDJ gene segments that is not currently annotated. #ASHG2013
+393086805274140673  Oct 23 14:49  @aindap           C.Eng Baylor: 3/4th of AD solved cases were de-novo mutations #ASHG2013
+393086843517812736  Oct 23 14:49  @GholsonLyon      Phenotypic spectrum in Diamond Blackfan anemia, w 30-40% having congenital anomalies, involving upper limb & craniofacial. #ASHG2013
+393086900019687424  Oct 23 14:49  @BabyKayla5       Only thing that could make my week even better is one of the DNA sequence onesies from @TuteGenomics ! #ASHG2013 #gottahavethatonesie
+393086904411123712  Oct 23 14:49  @yokofakun        RT @nextgenseek: Oxford @nanopore Launches MinION Access Program: #ASHG2013 http://nextgenseek.com/2013/10/oxford-nanopore-launches-minion-access-program-ashg2013/
+393086909590671360  Oct 23 14:49  @atulbutte        @MarylynRitchie  I'll be heading to #ASHG2013 too, right after my talk!
+393086937516740609  Oct 23 14:50  @RocheSequencing  Thanks to Dr Greally @EpgntxEinstein and Dr Heinzen for a great workshop at #ASHG2013
+393086989417062400  Oct 23 14:50  @mwilsonsayres    RT @fluidigm: #ASHG2013 McGregor:  estimating heritability in cancer takes a large sample population. Previous study with 40k samples not enough
+393087055435010049  Oct 23 14:50  @MarylynRitchie   A. Keinan: PCA plot color-coded by disease type.  Cool. #ASHG2013
+393087297253826560  Oct 23 14:51  @miracleoflife4   "@cureffi: #ASHG2013 rm210 Powell on epistasis controlling transcription in humans."
+393087298243272704  Oct 23 14:51  @HajnalkaHejjaMD  RT @GholsonLyon Phenotypic spectrum in Diamond Blackfan anemia,w 30-40% having congenital anomalies #ASHG2013
+393087327150813185  Oct 23 14:51  @TriploidTree     RT @fluidigm: #ASHG2013 McGregor:  estimating heritability in cancer takes a large sample population. Previous study with 40k samples not enough
+393087380451631105  Oct 23 14:51  @MarylynRitchie   A Keinan: WebGestalt enrichment analysis by gene and pathway enrichment via GSEA for PC1 and PC2.  Really cool work.  #ASHG2013
+393087430326484992  Oct 23 14:52  @RoxanaDaneshjou  Eng: 5% incidence of incidental findings in 1200 exomes in Baylor study. Used both ACMG and non-ACMG genes.  #ASHG2013
+393087498878210048  Oct 23 14:52  @harpactocrates   RT @GenomeRef: Most of the decoy sequence will be in GRCh38 but some will be on alternate loci, not primary assembly. #ASHG2013
+393087531970859008  Oct 23 14:52  @ngsgene          Eng #Baylor: 1k samples #WES mean cov 160x; >95% at 20x. 59% novel mutations for underlying non-specific disorders #ASHG2013 #bioinformatics
+393087550920740864  Oct 23 14:52  @splon            RT @RoxanaDaneshjou: Eng: 5% incidence of incidental findings in 1200 exomes in Baylor study. Used both ACMG and non-ACMG genes.  #ASHG2013
+393087586652016640  Oct 23 14:52  @bioinfosm        wow, is this epi-cube #genomics!! Y Ma studying the A-C SNPs create new CpGs at #ashg2013 #epigenomics "Haplotype of CpG-related SNPs"
+393087640213651459  Oct 23 14:52  @JeffreyMOtto     JB uses networks to demonstrate evolutionary origin of disease associated haplotypes. Pretty neat analysis. #ASHG2013
+393087657003450368  Oct 23 14:52  @GenomeGrl        Baylor clinical exome: 5% medically actionable incidental finding rate #ASHG2013
+393087665467191296  Oct 23 14:52  @GenomeNathan     Chang: How do diseases cluster by genetic underpinnings (beyond HLA)? PCs 1 & 2 split cancers from autoimmune diseases... #ashg2013
+393088032728809472  Oct 23 14:54  @GenomeNathan     Chang: Some psych diseases look a bit autoimmunish. [Points still sparse, but no more so than early attempts at ancestry PCA...] #ashg2013
+393088139654217728  Oct 23 14:54  @bioinfosm        looking fwd to the 'Blood Group Prediction Using #WGS' and pVaast talks at 'Which Comes First: Sequence or Biology?' session #ashg2013 #NGS
+393088148550733824  Oct 23 14:54  @girlscientist    Yiyi Ma now from Tufts: haplotype of CpG related SNPs is assoc'd w/methylation status. Tx to @larry_parnell! #ASHG2013
+393088150836633600  Oct 23 14:54  @casey6r0wn       Westra: Using a neutrophil GEx signature to identify cell specific eQTLs from whole blood #ASHG2013
+393088189172572160  Oct 23 14:55  @SpunkyScientist  My pal has rediscovery of Mendels work  Any clue who the other half is?  Want to spread cupcake love. #badgematch  #ashg2013
+393088245149761537  Oct 23 14:55  @joshulux         Yiyi Ma: genotype of CpG related SNPs are associated with methylation status in the region (based on ENCODE data) #ASHG2013
+393088361709064193  Oct 23 14:55  @fluidigm         RT @GenomeGrl: Baylor clinical exome: 5% medically actionable incidental finding rate #ASHG2013
+393088436359684096  Oct 23 14:56  @RoxanaDaneshjou  Eng: A family with one child that had giant axonal neuropathy. Sister was diagnosed genetically and is eligible for gene therapy. #ASHG2013
+393088445398405120  Oct 23 14:56  @scilahn          Keinan et al: gene-level PCA reveals shared gene sets for disparate diseases without prior knowledge of comorbidities #ASHG2013
+393088467694927873  Oct 23 14:56  @GenomeNathan     In tweeting conference talks more, are we asking fewer questions live? #ASHG2013
+393088483704995840  Oct 23 14:56  @CellPressNews    Cell author Nataly Manjarrez-Orduño stops by our booth at #ASHG2013!
+393088540025708544  Oct 23 14:56  @MarylynRitchie   RT @scilahn: Keinan et al: gene-level PCA reveals shared gene sets for disparate diseases without prior knowledge of comorbidities #ASHG2013
+393088585563648000  Oct 23 14:56  @fluidigm         >10k DNA samples and cell lines from individuals with neurological disorders are publically available @ http://ccr.coriell.org/ninds #ASHG2013
+393088642446798848  Oct 23 14:56  @concaff          RT @GholsonLyon: Extreme diabetes variability too in Alstrom Syndrome. See what I mean? "Mendelian" disease IS "complex". #ASHG2013
+393088660234444800  Oct 23 14:56  @rantalainen      H. Westra report cell-type specific cis-eQTLs in blood #ASHG2013
+393088671509139456  Oct 23 14:56  @RoxanaDaneshjou  Eng: diagnosing rare conditions genetically allows us to identify management strategies. #ASHG2013
+393088740576350208  Oct 23 14:57  @blancahimes      HW: 7% neutrophil-specific vs. 1.5% lymphocyte-specific vs. 91.5% generic cis-eQTL identified #ASHG2013
+393088749908684801  Oct 23 14:57  @Genohub          Harm-Jan Westra: Able to detect cell-type specificity of cis-eQTLs in whole blood #ASHG2013
+393088829260709888  Oct 23 14:57  @johnwitte        S MacGregor shows inverse heritability btwn prostate and melanoma. #ASHG2013
+393088886454243328  Oct 23 14:57  @blancahimes      HW: Crohn's dz enriched for neutrophil-specific cis-eQTLs (22% vs. expected 8%) #ASHG2013
+393088954905677824  Oct 23 14:58  @lauribe          C.Eng: exome sequencing diagnostic rate of 26% in unselected clinical samples #ASHG2013
+393088955287359488  Oct 23 14:58  @lauribe          C.Eng: patient found with mutations in GLUT1, just with a change in diet improved the number of seizures #ASHG2013
+393089029727481856  Oct 23 14:58  @GenomeNathan     Chang's disease PCA method aptly/tweet-friendly-ly dubbed disPCA. #ASHG2013
+393089054591684609  Oct 23 14:58  @Massgenomics     RT @ngsgene: Eng #Baylor: 1k samples #WES mean cov 160x; >95% at 20x. 59% novel mutations for underlying non-specific disorders #ASHG2013 #bioinformatics
+393089094944690176  Oct 23 14:58  @Genohub          Harm-Jan Westra: Next trans-eQTL meta analysis (>20,000 samples) #ASHG2013
+393089104545845249  Oct 23 14:58  @illumina         S15, Michael Guipponi, University of Geneva, Exome sequencing for sporadic schizophrenia and ID of candidate genes #ashg2013
+393089171277234176  Oct 23 14:58  @Joseph_E_Powell  RT @johnwitte: S MacGregor shows inverse heritability btwn prostate and melanoma. #ASHG2013
+393089320657375232  Oct 23 14:59  @cshperspectives  RT @GenomeNathan: In tweeting conference talks more, are we asking fewer questions live? #ASHG2013

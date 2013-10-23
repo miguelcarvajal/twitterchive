@@ -22550,3 +22550,83 @@
 392997375264161792  Oct 23 08:54  @bgoncalves       RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
 392998348606939136  Oct 23 08:58  @jorgefabrega     RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
 392998465904451584  Oct 23 08:58  @klmr             One genuine problem of #Rstats: no proper scope concept. Let me illustrate: output from ls(). [RT with relevant tag] http://t.co/asphI62pf0
+393000296374599680  Oct 23 09:05  @GregMcI          RT @statsforbios: .@plotlygraphs have put up an #rstats plotting library. https://plot.ly/api/r/ Looks pretty.
+393001257352187904  Oct 23 09:09  @BrownJosephW     RT @hylopsar: new #Rstats package to extract data from Google Scholar - http://www.jameskeirstead.ca/blog/new-r-package-scholar/
+393001694445203457  Oct 23 09:11  @tdhopper         RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
+393003910824472576  Oct 23 09:20  @larysar          RT @hylopsar: new #Rstats package to extract data from Google Scholar - http://www.jameskeirstead.ca/blog/new-r-package-scholar/
+393007713656913920  Oct 23 09:35  @Jowanza          @randyzwitch I have an #Rstats blog I wanted to finish tonight.  Now that I upgraded, I just realized I am probably not going to do that.
+393009702570688512  Oct 23 09:43  @ClausWilke       RT @hylopsar: new #Rstats package to extract data from Google Scholar - http://www.jameskeirstead.ca/blog/new-r-package-scholar/
+393012130569416704  Oct 23 09:52  @timelyportfolio  Timely Portfolio: Overfitted Backtests Translated to #rstats http://timelyportfolio.blogspot.com/2013/10/overfitted-backtests.html?spref=tw h/t @researchpuzzler #rCharts #d3js #nvd3
+393013334439890944  Oct 23 09:57  @mstrohm          RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
+393013778893135872  Oct 23 09:59  @CondorOptions    RT @timelyportfolio: Timely Portfolio: Overfitted Backtests Translated to #rstats http://timelyportfolio.blogspot.com/2013/10/overfitted-backtests.html?spref=tw h/t @researchpuzzler #rCharts #d3js #nvd3
+393013965543854080  Oct 23 10:00  @statisticsblog   R tip of the day - estimating the number of visits to a site. http://i.cx/17eLaNg #r #rstats #statistics
+393014083504463872  Oct 23 10:00  @CjBayesian       RT @statisticsblog: R tip of the day - estimating the number of visits to a site. http://i.cx/17eLaNg #r #rstats #statistics
+393014126416379904  Oct 23 10:00  @Hoosier_Charlie  RT @statisticsblog: R tip of the day - estimating the number of visits to a site. http://i.cx/17eLaNg #r #rstats #statistics
+393015834043764736  Oct 23 10:07  @Ranzher          RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
+393018273148583936  Oct 23 10:17  @ngamita          If you have big datasets try to run smaller samples to see if the data is aligned right and the process works as planned #rstats
+393020256685670400  Oct 23 10:25  @pjpuglia         RT @nyhackr: Head of AmStat at tonight's #rstats meetup http://t.co/jhFEL63GY2
+393020899164577793  Oct 23 10:27  @RStatsJobs       Was just made aware of a new graphing library at https://plot.ly/api/r/ their page says they're also hiring. #RStats (cc: @plotlygraphs)
+393021226438098944  Oct 23 10:28  @damiano10        RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
+393022327812018176  Oct 23 10:33  @mavircm          RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
+393027251626721280  Oct 23 10:52  @srmulcahy        RT @RStatsJobs: Was just made aware of a new graphing library at https://plot.ly/api/r/ their page says they're also hiring. #RStats (cc: @plotlygraphs)
+393027370086854656  Oct 23 10:53  @jdtonkin         RT @hylopsar: new #Rstats package to extract data from Google Scholar - http://www.jameskeirstead.ca/blog/new-r-package-scholar/
+393034195179544576  Oct 23 11:20  @Jowanza          Anyone use the Google Trends API and #Rstats together yet?  Looking to save myself some work ;).
+393036419502841856  Oct 23 11:29  @Minkoo           RT @Piboonrungroj: Another nice and brand new R graphic online tutorial site http://plot.ly/api/r by @plotlygraphs #rstats #dataviz http://t.co/ctT2lJ6E9o
+393037455722811392  Oct 23 11:33  @BigPupazzoVerde  RT @Piboonrungroj: Another nice and brand new R graphic online tutorial site http://plot.ly/api/r by @plotlygraphs #rstats #dataviz http://t.co/ctT2lJ6E9o
+393038891592085504  Oct 23 11:39  @brianabelson     the nat'l debt is literally 'spiraling out of control'.  #rstats + #ggplot2 + @TreasuryIO http://bit.ly/HhvUSX
+393039025801822208  Oct 23 11:39  @pudo             RT @brianabelson: the nat'l debt is literally 'spiraling out of control'.  #rstats + #ggplot2 + @TreasuryIO http://bit.ly/HhvUSX
+393039762652921856  Oct 23 11:42  @coffee001        RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
+393039901253324800  Oct 23 11:43  @hadleywickham    RT @brianabelson: the nat'l debt is literally 'spiraling out of control'.  #rstats + #ggplot2 + @TreasuryIO http://bit.ly/HhvUSX
+393043914321457152  Oct 23 11:59  @clarkfitzg       RT @Piboonrungroj: Another nice and brand new R graphic online tutorial site http://plot.ly/api/r by @plotlygraphs #rstats #dataviz http://t.co/ctT2lJ6E9o
+393044073571155968  Oct 23 11:59  @cnrlwlss         RT @RStatsJobs: Was just made aware of a new graphing library at https://plot.ly/api/r/ their page says they're also hiring. #RStats (cc: @plotlygraphs)
+393045077909835776  Oct 23 12:03  @hadleywickham    thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393045474619719680  Oct 23 12:05  @therealprotonk   ! RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393045541438775296  Oct 23 12:05  @rOpenSci         Someone wanted to see how to use polygons w/ the R->#geojson->@Github flow, Here's a start http://bit.ly/1dj4ytY #rstats
+393045670036508672  Oct 23 12:06  @will_goldstein   RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393045944792383489  Oct 23 12:07  @winston_chang    RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393046404362694656  Oct 23 12:08  @FlorianOswald    RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393046509832663040  Oct 23 12:09  @RLangTip         Visualize a 3-D surface with the persp function: http://bit.ly/Svpkai #rstats
+393047284490858496  Oct 23 12:12  @tonyfischetti    To fix issues with @rstudioapp and Qt on Mavericks, use the preview release: http://www.rstudio.com/ide/download/preview #rstats
+393047631351402496  Oct 23 12:13  @jasonpbecker     RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393047754911809536  Oct 23 12:14  @geoffjentry      RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393049873743765504  Oct 23 12:22  @Gliders_Coach    RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393050482240786432  Oct 23 12:25  @Gliders_Coach    @geoffjentry @hadleywickham @romain_francois will it work for json like data- the json part is one where I feel #rstats is not so tidy ;)
+393050507612147713  Oct 23 12:25  @TrevorABranch    RT @brianabelson: the nat'l debt is literally 'spiraling out of control'.  #rstats + #ggplot2 + @TreasuryIO http://bit.ly/HhvUSX
+393051528564842496  Oct 23 12:29  @JonesZM          RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393052511487029248  Oct 23 12:33  @introtoir        Maybe a little late to the #R game, but BLTN! So, what's the best way to get started w/ a Mac? Any suggestions? #Rstats
+393053493876895744  Oct 23 12:37  @cpsievert        RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393056830772895744  Oct 23 12:50  @recology_        RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393058857892978688  Oct 23 12:58  @Physical_Prep    Winter is comming... Plenty to read! #rstats #nerd http://t.co/NG70tfXq9D
+393059344876441603  Oct 23 13:00  @KevinLDavenport  RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393060707538722816  Oct 23 13:05  @ramnath_vaidya   RStudio Viewer is awesome!!!!!  http://youtu.be/wi2fUKqHtpM via @rstudioapp #rstats
+393061146007445504  Oct 23 13:07  @mbclarkson23     RT @Physical_Prep: Winter is comming... Plenty to read! #rstats #nerd http://t.co/NG70tfXq9D
+393061339712593920  Oct 23 13:08  @MarkHornick      Ready to put your R scripts into production for database applications? https://blogs.oracle.com/R/entry/migrating_r_scripts_from_development #OracleREnterprise #RStats
+393061421204131840  Oct 23 13:08  @kenandavis       RT @brianabelson: the nat'l debt is literally 'spiraling out of control'.  #rstats + #ggplot2 + @TreasuryIO http://bit.ly/HhvUSX
+393061515462316032  Oct 23 13:09  @recology_        RT @ramnath_vaidya: RStudio Viewer is awesome!!!!!  http://youtu.be/wi2fUKqHtpM via @rstudioapp #rstats
+393063014171017216  Oct 23 13:15  @cpsievert        RT @ramnath_vaidya: RStudio Viewer is awesome!!!!!  http://youtu.be/wi2fUKqHtpM via @rstudioapp #rstats
+393063632398864385  Oct 23 13:17  @adolfoalvarez    RT @ramnath_vaidya: RStudio Viewer is awesome!!!!!  http://youtu.be/wi2fUKqHtpM via @rstudioapp #rstats
+393064518491725826  Oct 23 13:20  @adolfoalvarez    .@ramnath_vaidya I can't wait to see how cool #rstats and @rstudioapp will be in 10 years...
+393064587961962496  Oct 23 13:21  @VamsiPannala     RT @ramnath_vaidya: RStudio Viewer is awesome!!!!!  http://youtu.be/wi2fUKqHtpM via @rstudioapp #rstats
+393068338454495232  Oct 23 13:36  @InforA           RT @MarkHornick: Ready to put your R scripts into production for database applications? https://blogs.oracle.com/R/entry/migrating_r_scripts_from_development #OracleREnterprise #RStats
+393068528158273536  Oct 23 13:36  @srsupp           Now I have another grad student using @xieyihui's #knitr package to visualize and share results with the group! #Rstats FTW!
+393073212830924800  Oct 23 13:55  @ucfagls          Today's problem: writing YAML arguments as if I were in #rstats
+393073679262703616  Oct 23 13:57  @revodavid        Learn about econometrics, regression and R with real data in this @Quandl #rstats tutorial: http://bit.ly/1fVzmlh
+393075472478658561  Oct 23 14:04  @timelyportfolio  RT @ramnath_vaidya: RStudio Viewer is awesome!!!!!  http://youtu.be/wi2fUKqHtpM via @rstudioapp #rstats
+393076422467923968  Oct 23 14:08  @KirkDBorne       HT @brianabelson: #Rstats http://bit.ly/HhvUSX < ggplot2 #DataViz R package, based on The Grammar of Graphics | #data #visualisation
+393076448119885824  Oct 23 14:08  @adityosanjaya    RT @revodavid: Learn about econometrics, regression and R with real data in this @Quandl #rstats tutorial: http://bit.ly/1fVzmlh
+393078145365991424  Oct 23 14:15  @skardhamar       Tutorial - Introductory Econometrics using Quandl and R - http://www.quandl.com/help/resources/econometrics-tutorial #rstats
+393078351273164800  Oct 23 14:15  @ramnath_vaidya   RT @timelyportfolio: Timely Portfolio: Overfitted Backtests Translated to #rstats http://timelyportfolio.blogspot.com/2013/10/overfitted-backtests.html?spref=tw h/t @researchpuzzler #rCharts #d3js #nvd3
+393080636879421440  Oct 23 14:25  @SergeyKochergan  RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393080772137345025  Oct 23 14:25  @DzejBi_JB        RT @KirkDBorne: HT @brianabelson: #Rstats http://bit.ly/HhvUSX < ggplot2 #DataViz R package, based on The Grammar of Graphics | #data #visualisation
+393081302943301632  Oct 23 14:27  @DzejBi_JB        “@revodavid: Learn about econometrics, regression and R with real data in this @Quandl #rstats tutorial: http://bit.ly/1fVzmlh”
+393081764614139904  Oct 23 14:29  @Arc_lne          RT @revodavid: Learn about econometrics, regression and R with real data in this @Quandl #rstats tutorial: http://bit.ly/1fVzmlh
+393081863922647040  Oct 23 14:29  @revodavid        RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393082476202958848  Oct 23 14:32  @CinoSejati       RT @revodavid: Learn about econometrics, regression and R with real data in this @Quandl #rstats tutorial: http://bit.ly/1fVzmlh
+393083445498241024  Oct 23 14:36  @ramhiser         RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393084569177837568  Oct 23 14:40  @er1kb            RT @brianabelson: the nat'l debt is literally 'spiraling out of control'.  #rstats + #ggplot2 + @TreasuryIO http://bit.ly/HhvUSX
+393084802942771200  Oct 23 14:41  @GrunerDaniel     prepping data management presentation for #rstats course; beautiful modules already available from @DataONEorg http://www.dataone.org/education-modules
+393085281697398784  Oct 23 14:43  @jameskeirstead   Having trouble getting the correct h-index, etc from the scholar #rstats package? Just posted a fix to Github https://github.com/jkeirstead/scholar/issues/2
+393085340577038337  Oct 23 14:43  @kara_woo         RT @GrunerDaniel: prepping data management presentation for #rstats course; beautiful modules already available from @DataONEorg http://t.co/k2YuB4TNjC
+393085448974643200  Oct 23 14:44  @xieyihui         The Leek group has been working too hard. I haven't found time to respond to the last #rstats policy yet, and another policy has come.
+393086055794348033  Oct 23 14:46  @harpactocrates   RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393086484875444224  Oct 23 14:48  @gvegayon         Quandl and #Rstats: Introductory Econometrics using R http://www.quandl.com/help/resources/econometrics-tutorial via @revodavid
