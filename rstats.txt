@@ -22514,3 +22514,39 @@
 392903220982730752  Oct 23 02:40  @DrLyndonWalker   RStudio and OS X 10.9 Mavericks #rstats #osx http://ow.ly/q5gXW
 392904684903874560  Oct 23 02:45  @jmgomez          RT @rOpenSci: [Blog] #OAweek - A simple use case for programmatic access to @plos full text http://bit.ly/19YzOa9 #rstats #textmining
 392907573524828160  Oct 23 02:57  @parikhkunal      Really excited with the release of Web Application Development with #R Using #Shiny by @chrisbeeley70 http://amzn.to/16uvBed #rstats
+392908456392675328  Oct 23 03:00  @GregMcI          RT @cboettig: a package / interface with google scholar in #rstats https://github.com/jkeirstead/scholar / ht @recology_
+392920159494864896  Oct 23 03:47  @frod_san         RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392925340743766018  Oct 23 04:07  @denisohora       RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392934401966743552  Oct 23 04:43  @cheshireb        RT @certifiedwaif: @rstudioapp keeps getting better and better, with every release. Great work, guys! #Rstats
+392935675399774208  Oct 23 04:49  @Rbloggers        My experience of learning R – from basic graphs to performance tuning:  (This article was first publ... http://bit.ly/19u6XOc #rstats
+392936980989767681  Oct 23 04:54  @Rbloggers        New R package: scholar:  (This article was first published on   James Keirstead » Rstats, and kindly... http://bit.ly/1cWdZg9 #rstats
+392940726402953216  Oct 23 05:09  @Demografia_CSIC  My experience of learning R – from basic graphs to performance tuning: http://bit.ly/19u6XOc #rstats via @Rbloggers
+392941811414466560  Oct 23 05:13  @kohske           グーグルスカラー用パッケージ “@Rbloggers: New R package: scholar:  (This article was first published on  http://bit.ly/1cWdZg9 #rstats” #statsj #TokyoR
+392941965680988160  Oct 23 05:13  @RobLanfear       RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392943168464764928  Oct 23 05:18  @kozo2            RT @kohske: グーグルスカラー用パッケージ “@Rbloggers: New R package: scholar:  (This article was first published on  http://bit.ly/1cWdZg9 #rstats” #statsj #TokyoR
+392949458159161344  Oct 23 05:43  @mgwhitfield      Jolly good #rstats tutorial podcasts and examples by @tcddublin's @yodacomplex: http://www.tcd.ie/Zoology/research/research/theoretical/Rpodcasts.php
+392950602440769536  Oct 23 05:48  @datennutzen      #TextMining with #Rstats - new training course in November http://r-akademie.de/
+392950944511823872  Oct 23 05:49  @firegenome       RT @jameskeirstead: Want to analyse Google Scholar data with #rstats?  Try my new 'scholar' package now on CRAN http://cran.r-project.org/web/packages/scholar https://t.co/cMTCdlWJGK
+392952000796966912  Oct 23 05:53  @axelopp          RT @datennutzen: #TextMining with #Rstats - new training course in November http://r-akademie.de/
+392954351238799360  Oct 23 06:03  @surang_kana      RT @Piboonrungroj: Another nice and brand new R graphic online tutorial site http://plot.ly/api/r by @plotlygraphs #rstats #dataviz http://t.co/ctT2lJ6E9o
+392956277837791232  Oct 23 06:10  @DrLyndonWalker   Demand for R jobs on the rise, #rstats http://ow.ly/q5iUq
+392959508253016064  Oct 23 06:23  @eoinbrazil       RT @aloukina: Advanced R programming by @hadleywickham - why haven't I found this earlier? #rstats http://adv-r.had.co.nz/
+392972460431511552  Oct 23 07:15  @hylopsar         new #Rstats package to extract data from Google Scholar - http://www.jameskeirstead.ca/blog/new-r-package-scholar/
+392974158956470272  Oct 23 07:21  @SciOfMotherhood  RT @hylopsar: new #Rstats package to extract data from Google Scholar - http://www.jameskeirstead.ca/blog/new-r-package-scholar/
+392974199225987072  Oct 23 07:22  @statsforbios     .@plotlygraphs have put up an #rstats plotting library. https://plot.ly/api/r/ Looks pretty.
+392976327206109184  Oct 23 07:30  @sciencetell      Free Podcasts for R http://www.tcd.ie/Zoology/research/research/theoretical/Rpodcasts.php #rstats via @AndrewLLJackson
+392976758112153601  Oct 23 07:32  @southmapr        @felixhaass Nice use of #rworldmap #rstats animation UN #Peacekeeping support in Africa http://bretterblog.files.wordpress.com/2013/10/tcc.gif  R: https://gist.github.com/felixhaass/7054062 …
+392978005725032448  Oct 23 07:37  @tomjwebb         RT @statsforbios: .@plotlygraphs have put up an #rstats plotting library. https://plot.ly/api/r/ Looks pretty.
+392980667988209666  Oct 23 07:47  @tdynes           RT @statsforbios: .@plotlygraphs have put up an #rstats plotting library. https://plot.ly/api/r/ Looks pretty.
+392980713211179008  Oct 23 07:47  @tdynes           RT @hylopsar: new #Rstats package to extract data from Google Scholar - http://www.jameskeirstead.ca/blog/new-r-package-scholar/
+392982877089980416  Oct 23 07:56  @IanDworkin       RT @hylopsar: new #Rstats package to extract data from Google Scholar - http://www.jameskeirstead.ca/blog/new-r-package-scholar/
+392985815024164864  Oct 23 08:08  @CjBayesian       RT @ramnath_vaidya: Want to learn more about #rCharts?  28th Oct at 6:30pm at Nottman House in Montreal http://meetu.ps/22rnvY #rstats @d3visualization
+392986657130946560  Oct 23 08:11  @lowdecarie       RT @ramnath_vaidya: Want to learn more about #rCharts?  28th Oct at 6:30pm at Nottman House in Montreal http://meetu.ps/22rnvY #rstats @d3visualization
+392991714568204288  Oct 23 08:31  @Rbloggers        Test post:  (This article was first published on   Deciphering life: One bit at a time :: R, and kin... http://bit.ly/17b7hBL #rstats
+392991967204106240  Oct 23 08:32  @emble64          R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
+392992306619752448  Oct 23 08:34  @ianwalker        RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
+392994287346262018  Oct 23 08:41  @csbq_qcbs        RT @ramnath_vaidya: Want to learn more about #rCharts?  28th Oct at 6:30pm at Nottman House in Montreal http://meetu.ps/22rnvY #rstats @d3visualization
+392995594978877440  Oct 23 08:47  @statsforbios     Subset rows within a certain time fram. #Rstats http://stackoverflow.com/questions/19420155/r-subset-rows-according-to-a-range-of-time
+392997375264161792  Oct 23 08:54  @bgoncalves       RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
+392998348606939136  Oct 23 08:58  @jorgefabrega     RT @emble64: R package to get citations from Google scholar- gonna try this, potentially a big timesaver! http://ow.ly/25RWTG #rstats #rbloggers #cite
+392998465904451584  Oct 23 08:58  @klmr             One genuine problem of #Rstats: no proper scope concept. Let me illustrate: output from ls(). [RT with relevant tag] http://t.co/asphI62pf0
