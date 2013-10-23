@@ -22478,3 +22478,39 @@
 392800416955908096  Oct 22 19:51  @jaredlander      Bill Cleveland had to surrender to r core over having RHIPE on CRAN #rstats
 392804901006630912  Oct 22 20:09  @slseager78       RT @hspter: This is super super cool -- R package that teaches you stats! http://simplystatistics.org/2013/09/27/announcing-statistics-with-interactive-r-learning-software-environment/ #rstats
 392812192325586944  Oct 22 20:38  @bryangoodrich    RT @hadleywickham: do you use devtools? if so, please help us test the latest release candidate: https://groups.google.com/forum/#!topic/rdevtools/3bfSKMri7zo #rstats
+392823345823350784  Oct 22 21:22  @genetics_blog    Holding off on Mavericks update. Not crippling my @rstudioapp more important than Apple Maps or Finder tabs http://blog.rstudio.org/2013/10/22/rstudio-and-os-x-10-9-mavericks/ #Rstats
+392823761713782784  Oct 22 21:24  @chris_bail       RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392825497127641089  Oct 22 21:31  @kristin_linn     R tip: lm(y ~ X - 1) calculates R^2 differently than lm(y ~ Z) even when X = cbind(1, Z)! #Rstats
+392826086502838272  Oct 22 21:33  @sandeepchellppn  RT @hadleywickham: do you use devtools? if so, please help us test the latest release candidate: https://groups.google.com/forum/#!topic/rdevtools/3bfSKMri7zo #rstats
+392826500358995969  Oct 22 21:35  @monsoontrader    RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392830614228856832  Oct 22 21:51  @alejorojas2      RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392831091494510592  Oct 22 21:53  @cboettig         a package / interface with google scholar in #rstats https://github.com/jkeirstead/scholar / ht @recology_
+392831517811949569  Oct 22 21:55  @neilfws          RT @cboettig: a package / interface with google scholar in #rstats https://github.com/jkeirstead/scholar / ht @recology_
+392833880006201344  Oct 22 22:04  @bjrobson         RT @cboettig: a package / interface with google scholar in #rstats https://github.com/jkeirstead/scholar / ht @recology_
+392834921989177344  Oct 22 22:08  @rOpenSci         Want to contribute to the Web Technologies CRAN task view? fork, edit .ctv, run make, push, pull request  http://bit.ly/1dgGl7t / #rstats
+392836170310492160  Oct 22 22:13  @rafaelsidi       RT @cboettig: a package / interface with google scholar in #rstats https://github.com/jkeirstead/scholar / ht @recology_
+392849862024114176  Oct 22 23:08  @ramhiser         RT @cboettig: a package / interface with google scholar in #rstats https://github.com/jkeirstead/scholar / ht @recology_
+392849954357526528  Oct 22 23:08  @theladybeck      RT @cboettig: a package / interface with google scholar in #rstats https://github.com/jkeirstead/scholar / ht @recology_
+392850148633501696  Oct 22 23:09  @emmaggiees       RT @cboettig: a package / interface with google scholar in #rstats https://github.com/jkeirstead/scholar / ht @recology_
+392852996800778240  Oct 22 23:20  @Rbloggers        Pre-calculating large tables of values:  (This article was first published on   Deciphering life: On... http://bit.ly/1a6CSDj #rstats
+392856701038112768  Oct 22 23:35  @monsoontrader    'They' are making me use Word. #LaTeX #rstats
+392863901676617728  Oct 23 00:03  @Piboonrungroj    Another nice and brand new R graphic online tutorial site http://plot.ly/api/r by @plotlygraphs #rstats #dataviz http://t.co/ctT2lJ6E9o
+392864697935876096  Oct 23 00:06  @Rstats4Econ      RT @Piboonrungroj: Another nice and brand new R graphic online tutorial site http://plot.ly/api/r by @plotlygraphs #rstats #dataviz http://t.co/ctT2lJ6E9o
+392864883244421120  Oct 23 00:07  @PairachCMSE      RT @Piboonrungroj: Another nice and brand new R graphic online tutorial site http://plot.ly/api/r by @plotlygraphs #rstats #dataviz http://t.co/ctT2lJ6E9o
+392865018389471232  Oct 23 00:08  @CMSEcon          RT @Piboonrungroj: Another nice and brand new R graphic online tutorial site http://plot.ly/api/r by @plotlygraphs #rstats #dataviz http://t.co/ctT2lJ6E9o
+392865315219992576  Oct 23 00:09  @SCEconomists     RT @Piboonrungroj: Another nice and brand new R graphic online tutorial site http://plot.ly/api/r by @plotlygraphs #rstats #dataviz http://t.co/ctT2lJ6E9o
+392872900736606208  Oct 23 00:39  @markruddy        Hope these issue sorted by Apple soon RT @Rbloggers: RStudio and OS X 10.9 Mavericks:  http://bit.ly/1adDysu #rstats
+392874245857873920  Oct 23 00:44  @ceptional        RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392874512376926208  Oct 23 00:45  @mfenner          RT @hadleywickham: RT @rstudioapp: Note on OS X 10.9 Mavericks compatibility with RStudio: http://wp.me/p1h48z-gt #rstats
+392874838395600896  Oct 23 00:47  @ceptional        Hey @hadleywickham, ggplot custom error bars updated due to changes in ggplot (and maybe also PropCIs) #Rstats http://stackoverflow.com/questions/6717675/how-can-one-write-a-function-to-create-custom-error-bars-for-use-with-ggplot2/6717697#6717697
+392876860981272576  Oct 23 00:55  @chetm12          Working my way through "Intro to @rstudioapp programming" on @YouTube http://www.youtube.com/user/Stuar51XT/videos #rstats
+392885601378512896  Oct 23 01:30  @DailyRpackage    systemfit - Estimating Systems of Simultaneous Equations http://cran.r-project.org/web/packages/systemfit/index.html #RStats
+392886310026760192  Oct 23 01:32  @RichyYoung__     Don't kiss my neck unless you trying to let Sean fuck #rstats
+392886708833775616  Oct 23 01:34  @monsoontrader    Coding error perhaps. Head to Stackoverflow RT @RichyYoung__: Don't kiss my neck unless you trying to let Sean fuck #rstats
+392887767660634112  Oct 23 01:38  @drago_carlo      GLM, non-linearity and heteroscedasticity http://freakonometrics.hypotheses.org/9593 via @freakonometrics #Statistics #Econometrics #Modeling #Rstats
+392888853817982976  Oct 23 01:42  @gtamazian        RT @cboettig: a package / interface with google scholar in #rstats https://github.com/jkeirstead/scholar / ht @recology_
+392895844447309824  Oct 23 02:10  @biotimylated     Hitting lots of segfaults running R 3.0.1 on Mavericks tonight, on system errors + resizing Quartz windows. #rstats
+392902236529246208  Oct 23 02:36  @DrLyndonWalker   What R Has Been Missing #rstats #datamining http://ow.ly/q5iSv
+392903220982730752  Oct 23 02:40  @DrLyndonWalker   RStudio and OS X 10.9 Mavericks #rstats #osx http://ow.ly/q5gXW
+392904684903874560  Oct 23 02:45  @jmgomez          RT @rOpenSci: [Blog] #OAweek - A simple use case for programmatic access to @plos full text http://bit.ly/19YzOa9 #rstats #textmining
+392907573524828160  Oct 23 02:57  @parikhkunal      Really excited with the release of Web Application Development with #R Using #Shiny by @chrisbeeley70 http://amzn.to/16uvBed #rstats
