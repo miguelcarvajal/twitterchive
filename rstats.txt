@@ -22741,3 +22741,55 @@
 393356661206687744  Oct 24 08:41  @QuantOfAsia      RT @tkb: A nice little econometrics and regression tutorial by @Quandl using #rstats and @worldbankdata - http://bit.ly/HgQO5E #opendata
 393358113920659456  Oct 24 08:47  @Biff_Bruise      MT @freakonometrics: "R videos" http://dist.stat.tamu.edu/pub/rvideos/ #rstats
 393358883000815617  Oct 24 08:50  @_nicolemargaret  RT @KirkDBorne: Big list of programming references: HT @Bihua_chen: Polyglots for #DataScience -- #Python #SAS #Rstats and more! http://t.co/KuYPdfCr7F
+393361264505655298  Oct 24 09:00  @statisticsblog   R tip of the day - the statistics of "How I Met Your Mother" - an analysis with R. http://i.cx/1h9TRd7 #r #rstats #statistics
+393361300778008577  Oct 24 09:00  @sinha_mayankraj  RT @tkb: A nice little econometrics and regression tutorial by @Quandl using #rstats and @worldbankdata - http://bit.ly/HgQO5E #opendata
+393361378469085185  Oct 24 09:00  @Rbloggers        Introducing the CRAN Repository Policy Watch:  (This article was first published on   Thinking insid... http://bit.ly/17ex4ZT #rstats
+393362459727130624  Oct 24 09:04  @timelyportfolio  Timely Portfolio: ISO Popularity on Flickr Explore http://timelyportfolio.blogspot.com/2013/10/iso-popularity-on-flickr-explore.html?spref=tw #rstats #slidify #rCharts #d3js @ramnath_vaidya
+393362651436552192  Oct 24 09:05  @d3visualization  RT @timelyportfolio: Timely Portfolio: ISO Popularity on Flickr Explore http://timelyportfolio.blogspot.com/2013/10/iso-popularity-on-flickr-explore.html?spref=tw #rstats #slidify #rCharts #d3js @ramnath_vaidya
+393362838191742976  Oct 24 09:06  @introtoir        Hrm... #rstats people seem to love R, but when I tweeted about wanting to join the bandwagon yesterday, no response...
+393364007983120386  Oct 24 09:11  @timelyportfolio  RT @ramnath_vaidya: RStudio Presentation + Viewer => Interactive Tutorial!! http://youtu.be/U0E4NtkXNDM #rstats @rstudioapp
+393364283129479168  Oct 24 09:12  @emjonaitis       RT @alexhanna: Finishing up an #rstats lab. Do folks have fav CSS for displaying Markdown? Been using http://kevinburke.bitbucket.org/markdowncss/ but code could look better.
+393364705756315648  Oct 24 09:13  @tembu22          RT @statisticsblog: R tip of the day - the statistics of "How I Met Your Mother" - an analysis with R. http://i.cx/1h9TRd7 #r #rstats #statistics
+393365218526760961  Oct 24 09:15  @CSJCampbell      Intro to Generalized Linear Models (#GLM) from #RManchester http://tinyurl.com/r-man-20130808 #R #rstats
+393370694534184960  Oct 24 09:37  @adolfoalvarez    RT @statisticsblog: R tip of the day - the statistics of "How I Met Your Mother" - an analysis with R. http://i.cx/1h9TRd7 #r #rstats #statistics
+393372067187675136  Oct 24 09:43  @_inundata        RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393373779688456192  Oct 24 09:49  @pschulam         “Programming with Data: A Guide to the S Language” by Chambers is a great read for #rstats programmers; gives good insight into R’s design.
+393374444476829696  Oct 24 09:52  @CherylBehrens    Ghement’s R Course is a full day this year! Read about it & other courses being offered at #CSP2014 in Tampa http://tinyurl.com/msypsws  #rstats
+393374807712333824  Oct 24 09:53  @ibartomeus       Why I can't name a variable starting with "_"?  _var <- 2 Error: unexpected input in "_"  #rstats
+393375164366618624  Oct 24 09:55  @mattfrost        <-- guy who gets to keep working when the office network's down because he uses in-memory data sets in #RStats and not the file server
+393376407641812992  Oct 24 10:00  @adolfoalvarez    @ibartomeus names "start with a letter or the dot not followed by a number" check ?make.names #rstats
+393376826514743296  Oct 24 10:01  @ThatAndromeda    RT @alexhanna: Finishing up an #rstats lab. Do folks have fav CSS for displaying Markdown? Been using http://kevinburke.bitbucket.org/markdowncss/ but code could look better.
+393378326901186560  Oct 24 10:07  @ibartomeus       RT @adolfoalvarez: @ibartomeus names "start with a letter or the dot not followed by a number" check ?make.names #rstats
+393380406252158977  Oct 24 10:16  @BruceMcAdam      Data Analysis Using R.  Course 2-6 Dec in Stirling http://www.masts.ac.uk/training/data-analysis-using-r/ #rstats
+393387518571593728  Oct 24 10:44  @sekhardrona      MT @statisticsblog: "R tip of the day - the statistics of "How I Met Your Mother" - an analysis with R. http://i.cx/1h9TRd7  #rstats "
+393387760767483904  Oct 24 10:45  @sekhardrona      RT @Biff_Bruise: "MT @freakonometrics: "R videos" http://dist.stat.tamu.edu/pub/rvideos/ #rstats"
+393392165230899201  Oct 24 11:02  @siah             Advanced R Programming by @hadleywickham http://ow.ly/q7hyY #rstats
+393393899948867584  Oct 24 11:09  @ucfagls          @statsforbios true, but the implementations in R don't do that optimisation for you. Tho you could use caret #rstats pkg for eg @jdtonkin
+393395522670575616  Oct 24 11:16  @RevoJoe          #rstats Get a glimpse at the future of sports statistics: big money to be made? http://bit.ly/1akDirT
+393395934198902784  Oct 24 11:17  @zuacsea          RT @siah: Advanced R Programming by @hadleywickham http://ow.ly/q7hyY #rstats
+393396205830410240  Oct 24 11:18  @datennutzen      Schools out today: Interactive #rstats Apps with in our R Academy using @datamarket http://blog.eoda.de/ http://t.co/63CdDxdhT3
+393396241263894530  Oct 24 11:19  @statsforbios     Density plots in #RStats with a bound e.g. density() will often overlap 0 for positive data. http://stats.stackexchange.com/questions/65866/good-methods-for-density-plots-of-non-negative-variables-in-r
+393397399541911552  Oct 24 11:23  @skalas           RT @siah: Advanced R Programming by @hadleywickham http://ow.ly/q7hyY #rstats
+393404060902379520  Oct 24 11:50  @chlalanne        RT @siah: Advanced R Programming by @hadleywickham http://ow.ly/q7hyY #rstats
+393404174777331713  Oct 24 11:50  @Rbloggers        The joy of data analysis:  (This article was first published on   Burns Statistics » R language, and... http://bit.ly/18PnSeQ #rstats
+393408652667002880  Oct 24 12:08  @RLangTip         In R, NA represents missing values. To check for NA's, use the is.na function, not the == operator http://bit.ly/qjhWGI #rstats
+393410910238539776  Oct 24 12:17  @simonohanlon101  Loving OS X Mavericks except that R crashes on every single syntax error. Ain’t no Brian Ripley! #maverickswoes #rstats
+393411145563783168  Oct 24 12:18  @timelyportfolio  RT @RevoJoe: #rstats Get a glimpse at the future of sports statistics: big money to be made? http://bit.ly/1akDirT
+393412287538941952  Oct 24 12:22  @BrockTibert      Excited to work thru the Big Data in Education course, https://class.coursera.org/bigdata-edu-001/class/index, but wonder why #rstats and #python are not being leveraged
+393412404064710656  Oct 24 12:23  @msgbi            RT @siah: Advanced R Programming by @hadleywickham http://ow.ly/q7hyY #rstats
+393414262585950208  Oct 24 12:30  @Rbloggers        NESSIS 2013: The future of sports statistics is here!:  (This article was first published on   Revol... http://bit.ly/1al3EtP #rstats
+393415199408943104  Oct 24 12:34  @naupakaz         Compatibility issues for RStudio and OS X 10.9 Mavericks http://npk.io/1NTB #rstats
+393418935258738688  Oct 24 12:49  @Jowanza          Finally getting down with Slidify today #Rstats.  Thanks @ramnath_vaidya for your great work.
+393419823180296193  Oct 24 12:52  @timelyportfolio  RT @Jowanza: Finally getting down with Slidify today #Rstats.  Thanks @ramnath_vaidya for your great work.
+393419843803705345  Oct 24 12:52  @gappy3000        @johnmyleswhite so, #pydata users: we love you (we'll be complements), #rstats users: tough luck (we'll be substitutes).
+393421978305982464  Oct 24 13:01  @AvrahamAdler     An OpenBLAS-based Rblas for Windows 64: Step-by-step http://wp.me/p3ORLw-3O #rstats #blas
+393425319895379968  Oct 24 13:14  @davidjayharris   RT @statsforbios: Density plots in #RStats with a bound e.g. density() will often overlap 0 for positive data. http://stats.stackexchange.com/questions/65866/good-methods-for-density-plots-of-non-negative-variables-in-r
+393428828162228225  Oct 24 13:28  @econoprof        RT @KirkDBorne: Big list of programming references: HT @Bihua_chen: Polyglots for #DataScience -- #Python #SAS #Rstats and more! http://t.co/KuYPdfCr7F
+393431831502020608  Oct 24 13:40  @MisterMenon      I love you R. You so smart and yet so simple. #rstats http://www.r-project.org/
+393432447116779521  Oct 24 13:42  @John4man         Been reading Kuhn (of caret fame) and Johnson's excellent new book http://amzn.com/1461468485 #rstats
+393433131967320064  Oct 24 13:45  @aDataHead        RT @siah: Advanced R Programming by @hadleywickham http://ow.ly/q7hyY #rstats
+393433431549685760  Oct 24 13:46  @ramnath_vaidya   RT @timelyportfolio: Timely Portfolio: ISO Popularity on Flickr Explore http://timelyportfolio.blogspot.com/2013/10/iso-popularity-on-flickr-explore.html?spref=tw #rstats #slidify #rCharts #d3js @ramnath_vaidya
+393443094949281793  Oct 24 14:25  @Physical_Prep    Complementary Training: Playing with R, ggplot2 and knitr http://bit.ly/HjLTQy #rstats #nerd #sportscience
+393444256456900608  Oct 24 14:29  @idigdata         RT @Biff_Bruise: MT @freakonometrics: "R videos" http://dist.stat.tamu.edu/pub/rvideos/ #rstats
+393447918780178432  Oct 24 14:44  @JimGrange        New #rstats package lets you do cool tests of your Google sholar profile (h-index prediction, career comparison etc): http://bit.ly/Hh31pT
+393450592581849088  Oct 24 14:55  @AnnKEmery        Missed the R presentation by @tonyfujs and @wtfenn at last week's #eval13 conference? Handout is here: http://annkemery.files.wordpress.com/2012/02/handout1.pdf #eval #Rstats

@@ -4839,3 +4839,21 @@
 393346673998852096  Oct 24 08:02  @nikhilgopal      New RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor http://ift.tt/Hdht2W
 393349440813019136  Oct 24 08:13  @rnomics          New #RNA-Seq Pathway and Gene-set Analysis Workflows in... http://bit.ly/1ad7u6b #PathwayAnalysis #bioconductor #GAGE #RNAseq @MyEN
 393357000337129472  Oct 24 08:43  @rnomics          CT @rnomics/bioinfo ORMAN – Optimal Resolution of Ambiguous #RNA-Seq multimappings in the Presence of Novel... http://bit.ly/1dmCC8x @MyEN
+393370541505384448  Oct 24 09:37  @bluemm79         “Seq”ing SNPs in RNA Data | RNA-Seq Blog | @scoopit http://sco.lt/5EnULx
+393371121896407040  Oct 24 09:39  @bluemm79         Quantitative assessment of #single-cell #RNA-sequencing methods | RNA-Seq Blog | @scoopit http://sco.lt/5TPpYH
+393381709778923521  Oct 24 10:21  @GeneQuan         New RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor - http://s.shr.lc/1ig1Hj3
+393394496542875648  Oct 24 11:12  @TeckYew          RT @GeneQuan: New RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor - http://s.shr.lc/1ig1Hj3
+393421612504317952  Oct 24 12:59  @fluidigm         #ASHG2013 can we leverage variation to model systems of cell behavior? Alex Shalek single cell RNA-Seq with SMARTer
+393422288676474880  Oct 24 13:02  @fluidigm         #ASHG2013 - RNA FISH validates single cell RNA seq. application free methods..Alex Shalek
+393426255066189825  Oct 24 13:18  @illumina         JC: At @TGen, perform long insert, low coverage WGS, tumor/normal exome, and tumor/reference RNA-Seq #ashg2013
+393428510339256321  Oct 24 13:27  @illumina         JC: sequencing normal genomes can reveal important cancer predisposition genes, and RNA-Seq can find therapeutically imp isoforms #ashg2013
+393429086267531265  Oct 24 13:29  @illumina         JC: therapeutically relevant, activated EGFRvIII isoform detected only by RNA-Seq data #ashg2013
+393438140868083712  Oct 24 14:05  @daniel2nico      RT @illumina: JC: sequencing normal genomes can reveal important cancer predisposition genes, and RNA-Seq can find therapeutically imp isoforms #ashg2013
+393440487514071040  Oct 24 14:14  @stephaniehicks   Mordelet discusses hierarchical Dirichlet process to assign RNA-seq reads to isoforms in non uniform coverage. Very diff problem #ASHG2013
+393441191200821248  Oct 24 14:17  @DaleYuzuki       Up next: D. DeLuca, Broad Inst., on RNA-seq aligners for QTL and ASE analysis for GTex. #ASHG2013
+393443996175192064  Oct 24 14:28  @illumina         David DeLuca shows a comparison of different RNA-seq aligners - one thing they all do poorly at is calling insertions. #ASHG2013
+393444053049552896  Oct 24 14:29  @stephaniehicks   David DeLuca discussing all the criteria used to evaluate RNA-seq aligners with a RNA-Seq simulator from http://www.ncbi.nlm.nih.gov/pubmed/21775302 #ASHG2013
+393444151712555008  Oct 24 14:29  @CMDooley77       RT @illumina: David DeLuca shows a comparison of different RNA-seq aligners - one thing they all do poorly at is calling insertions. #ASHG2013
+393444624884572160  Oct 24 14:31  @illumina         DD: different RNA-seq  aligners are optimal for different applications - considering using multiple aligners together #ASHG2013
+393446279172599808  Oct 24 14:37  @illumina         Peter Hoen - performed RNA-seq across several samples from 5 populations from the 1000 genomes study #ASHG2013
+393448882287702016  Oct 24 14:48  @Bioinformatik80  RT @illumina: David DeLuca shows a comparison of different RNA-seq aligners - one thing they all do poorly at is calling insertions. #ASHG2013
