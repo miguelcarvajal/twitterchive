@@ -1995,3 +1995,303 @@
 393252642417160192  Oct 24 01:48  @PForayter        RT @LabCritics: Bionano genomics launches chip for structural variation analysis  http://www.labcritics.com/2013/10/23/bionano-genomics-launches-iryschip-v2-ashg-2013-annual-meeting/ #ashg2013
 393259075670376448  Oct 24 02:14  @elcinchu27       RT @notSoJunkDNA: Oh. My. Goodness! #ashgfashion RT @MarcellaAtLife: Check out this AWESOME running shirt!! #ASHG2013 http://t.co/22UP5lPCxR
 393265015240658945  Oct 24 02:37  @be_stranger      Who brought home a glowing ball from illumina party tonight? Many thanks for a great time in a beautiful venue. Ready for tomorrow #ASHG2013
+393352016887443457  Oct 24 08:23  @KSLontok         Briggs: Several fold increased risk of MS in people with SNP in tobacco smoke metabolism enzyme who are exposed to smoke #ASHG2013
+393352018456485888  Oct 24 08:23  @athos10025       DK: variant prioritization: sum of autosomal dom+rare+ damaging+Gex scores #ASHG2013
+393352278574661632  Oct 24 08:24  @eatsai           75% of missense variants are concordantly called as deleterious between polyphen, sift, and condel. #ASHG2013 better than I thought
+393352280637837313  Oct 24 08:24  @cureffi          VP: chromothripsis may not be as rare as we thought. It seems to happen fairly often in the germline. #ASHG2013
+393352338200866816  Oct 24 08:24  @athos10025       DK: dominant disease genes segregate as haplotype not alone #ASHG2013
+393352343145938946  Oct 24 08:24  @agnieszkaml      Variant prioritization a nice way to find RP mutations in exome except for autosomal #ASHG2013 @Massgenomics
+393352411533684737  Oct 24 08:24  @gabeinformatics  Dan Koboldt: Challenges of variant searches for causal variant in dominant diseases: no easy classifier and hard filters. #ASHG2013
+393352485542576129  Oct 24 08:25  @CMDooley77       RT @eatsai: 75% of missense variants are concordantly called as deleterious between polyphen, sift, and condel. #ASHG2013 better than I thought
+393352550185185281  Oct 24 08:25  @GeneInsight      DK: 8/24 RP families had muts in known RP genes but had diff inheritance pattern than previously thought based on the family Hx. #ASHG2013
+393352576974192641  Oct 24 08:25  @lauribe          VP: it is possible to find chromothripsis events in viable human germline #ASHG2013
+393352670796587008  Oct 24 08:25  @GenomicsD        MP: found in additional patients, mutations found dominant negative in zebrafish, -/- GRHL3 murine model concur. #ASHG2013 Well done Myriam!
+393352735137214464  Oct 24 08:26  @GeneInsight      DK: In RP you can't just look for LOF variants since many causative mutations are gain-of-function #ASHG2013
+393352923457290240  Oct 24 08:26  @GholsonLyon      RT @cureffi: VP: chromothripsis may not be as rare as we thought. It seems to happen fairly often in the germline. #ASHG2013
+393352987042934784  Oct 24 08:27  @CMDooley77       RT @GenomicsD: MP: found in additional patients, mutations found dominant negative in zebrafish, -/- GRHL3 murine model concur. #ASHG2013 Well done Myriam!
+393353066982146048  Oct 24 08:27  @dinazielinski    DK: for small pedigrees, use exome data to map dominant disease genes by looking for max IBD regions in affecteds: MendelScan. #ASHG2013
+393353251346583552  Oct 24 08:28  @girlscientist    .@Massgenomics: if there's one theme of #ASHG2013 it's that we need to share tools and resources to succeed in finding disease genes. Word!
+393353352740106240  Oct 24 08:28  @GeneInsight      DK: MendelScan is an open-source package w/ variant prioritization, RHRO and shared IBD fxn. Encourages us all to share our tools #ASHG2013
+393353353503059968  Oct 24 08:28  @larry_parnell    @vubush Me too. There's much overlap between eye diseases and blood lipids. So, liver eg as a 2nd tissue to examine? #ASHG2013
+393353446445027328  Oct 24 08:29  @vubush           Kobolt: open source MendelScan for variant prioritization in families https://github.com/genome/mendelscan #ASHG2013
+393353526312566784  Oct 24 08:29  @gabeinformatics  Dan Koboldt:MendelScan can narrow search space when 3+ affected individuals in family for dominant disorder variant prioritization #ASHG2013
+393353564463960064  Oct 24 08:29  @DataDiviner      Great talk on new tool for NGS variant prioritization #mendlescan in session 20 #ASHG2013
+393353651584262144  Oct 24 08:29  @genomeresearch   RT @zevkronenberg: #ASHG2013 Be sure to check out my buddies single exome disease search tool #Phevor  @genotyper #VAAST #YandellLab
+393353713701912576  Oct 24 08:30  @mgymrek          Cool examples of gene by environment interaction with eqtls and hrv infection in room 205. Didn't catch speaker's name #ASHG2013
+393353728499412993  Oct 24 08:30  @DaleYuzuki       Kobolt: MendelScan: Java package that uses variants, pedigree, var. annotation and exp data for the score #ASHG2013 http://ow.ly/q86Rs
+393353760585818112  Oct 24 08:30  @richardson_dm    RT @blueprint_eu: @laurastephen presenting Blueprint: Resources provided by the large-scale Epigenomics project. 1681T #ASHG2013  http://t.co/HhdGPYVNBu
+393353777174294528  Oct 24 08:30  @vubush           @larry_parnell agreed!  I always cringe when we assume a disease is driven by one tissue type #ASHG2013
+393353799613841408  Oct 24 08:30  @athos10025       DK: Mendelscan-downloadable package to prioritize variants  http://gmt.genome.wustl.edu/mendelscan/current/ @WUSTL #ASHG2013
+393353948301918208  Oct 24 08:31  @GholsonLyon      RT @DataDiviner: Great talk on new tool for NGS variant prioritization #mendlescan in session 20 #ASHG2013
+393354001791856640  Oct 24 08:31  @ma_ko            MendelScan http://gmt.genome.wustl.edu/mendelscan/current/ seems to be nice package for dominant and pedigree analysis #ASHG2013
+393354006300332032  Oct 24 08:31  @be_stranger      Jimmie Ye up in eQTL & epigenetics: response QTLs #Immvar #ASHG2013
+393354085803778048  Oct 24 08:31  @athos10025       Ekta Khurana: Analysis of variants from 1092 humans #ASHG2013
+393354141831274496  Oct 24 08:31  @girlscientist    Ekta Khurana now on the Where's Waldo problem of finding cancer variants in ~3M germline and ~5K somatic variants in a WGS. #ASHG2013
+393354143282114560  Oct 24 08:31  @AWRgenes         RT @GenomeBiology: John Novembre is excited about how studies w/ >10k sample sizes are informing human population genetics #ASHG2013
+393354151691702272  Oct 24 08:31  @shramdas         Ekta Khurana: Integrative annotation of variants. #ASHG2013
+393354185376546816  Oct 24 08:32  @mwilsonsayres    RT @eatsai: 75% of missense variants are concordantly called as deleterious between polyphen, sift, and condel. #ASHG2013 better than I thought
+393354185703702528  Oct 24 08:32  @DaleYuzuki       Up next: E. Khurana: Integrative annotation from 1092 humans for cancer. #ASHG2013
+393354192406192128  Oct 24 08:32  @vubush           #ASHG2013 where's waldo analogy appears... Kobolt used a needle in a haystack.
+393354263017299968  Oct 24 08:32  @illumina         RT @cureffi: VP: chromothripsis may not be as rare as we thought. It seems to happen fairly often in the germline. #ASHG2013
+393354301277753344  Oct 24 08:32  @drbachinsky      RT @cureffi: And here's the application of this technology VP just referenced as an example http://www.ncbi.nlm.nih.gov/pubmed/22521361 #ASHG2013
+393354363793854464  Oct 24 08:32  @athos10025       EK: most seq variants and GWAS hits are non-coding; no standard approaches to prioritize NC variants #ASHG2013
+393354365551271936  Oct 24 08:32  @fluidigm         #ASHG2013 - Poster 1639T - A Complete System for NGS @Fluidigm Access Array System showing on Thurs. 10:30am Exhibit Hall, Level 1.
+393354403433824257  Oct 24 08:32  @shramdas         EK: Could non-coding variants be driver mutations in cancer? #ASHG2013
+393354404474400768  Oct 24 08:32  @drbachinsky      RT @cureffi: Next up at #ASHG2013 Grand Ballroom CDE: Vamsee Pillalamarri on structural variation in neuropsych disorders http://t.co/afCwRXXAWm
+393354438708330496  Oct 24 08:33  @genomeresearch   RT @girlscientist: .@Massgenomics: if there's one theme of #ASHG2013 it's that we need to share tools and resources to succeed in finding disease genes. Word!
+393354466726252544  Oct 24 08:33  @AlexisCarere     Note to self: Factor an extra 15-20 mins into my #ASHG2013 commute to account for the endless meandering that occurs upon entering the BCEC
+393354511336878080  Oct 24 08:33  @Massgenomics     RT @girlscientist: .@Massgenomics: if there's one theme of #ASHG2013 it's that we need to share tools and resources to succeed in finding disease genes. Word!
+393354597412392960  Oct 24 08:33  @GeneInsight      Ekta Khurana: WGS returns on average ~3 mill. germline variants and/or ~5K somatic variants in a tumor sample.  #ASHG2013
+393354600851730432  Oct 24 08:33  @DaleYuzuki       Khurana: Goad is to ID deleterious non-coding mutations: 'No standard approaches exist'. Using TGP and ENCODE data for cancer #ASHG2013
+393354614319616000  Oct 24 08:33  @rahman_nazneen   Evaluation in other series shows NEIL1 is NOT a breast cancer predisposition gene. #ASHG2013
+393354640693399552  Oct 24 08:33  @agnieszkaml      How to identify deleterious mutations in non-coding regions? Discussing cancer cases #ASHG2013
+393354715226206208  Oct 24 08:34  @agnieszkaml      RT @vubush: @larry_parnell agreed!  I always cringe when we assume a disease is driven by one tissue type #ASHG2013
+393354752571883521  Oct 24 08:34  @gabeinformatics  Ekta Khurana: Train non-coding variant classifier on 1KG and ENCODE data. Ranks variants that don't follow "natural" patterns. #ASHG2013
+393354753238761472  Oct 24 08:34  @larry_parnell    @vubush Thx! Problems are 1) retina not always sampled for gene expression; 2) rodents not best model for blood lipids #ASHG2013
+393354805143285760  Oct 24 08:34  @shramdas         EK:Combine 1000G and ENCODE 2 characterize natural patterns of variation in regulatory elements;Those breaking these-> cancer vars #ashg2013
+393354887381393408  Oct 24 08:34  @vubush           Khurana: using 1000G to identify regions of neg. selection, along with ENCODE to ID non-coding driver mutations #ASHG2013
+393355046617755648  Oct 24 08:35  @girlscientist    Tells you what people are grappling with: most of #ASHG2013 tweeters this AM are in this session on figuring out WTH disease variants are.
+393355106705350657  Oct 24 08:35  @larry_parnell    C Willer now up to speak on LDL. Looking @ extremes (top/bottom 2%) of LDL-C levels, 412 subjects, exome seq'ing #ASHG2013
+393355108232486912  Oct 24 08:35  @avsmith          Let's play genomics bingo. RT @vubush: #ASHG2013 where's waldo analogy appears... Kobolt used a needle in a haystack.
+393355143531728896  Oct 24 08:35  @DaleYuzuki       E. Khurana: Looked at evol. conservation of rare SNPs 'as a metric for neg selection' Essential and Cancer genes most conserv'd. #ASHG2013
+393355273068613632  Oct 24 08:36  @vubush           RT @girlscientist: Tells you what people are grappling with: most of #ASHG2013 tweeters this AM are in this session on figuring out WTH disease variants are.
+393355275748790272  Oct 24 08:36  @guy_zinman       RT @girlscientist: .@Massgenomics: if there's one theme of #ASHG2013 it's that we need to share tools and resources to succeed in finding disease genes. Word!
+393355363757850624  Oct 24 08:36  @stromulus        Nice talk D. Koboldt on adRP. What new genes have you found (or at least, how many)?! #ASHG2013
+393355420473253888  Oct 24 08:36  @drbachinsky      RT @DaleYuzuki: Up next: E. Khurana: Integrative annotation from 1092 humans for cancer. #ASHG2013
+393355499745579008  Oct 24 08:37  @Massgenomics     RT @vubush: #ASHG2013 where's waldo analogy appears... Kobolt used a needle in a haystack.
+393355607312728064  Oct 24 08:37  @athos10025       EK: which NC variants are under similar selective pressure as coding variants? #ASHG2013
+393355623955304448  Oct 24 08:37  @shramdas         EK: Negative selection seen on noncoding elements of the genome #ASHG2013
+393355695149813760  Oct 24 08:38  @GholsonLyon      RT @girlscientist: Tells you what people are grappling with: most of #ASHG2013 tweeters this AM are in this session on figuring out WTH disease variants are.
+393355728473563136  Oct 24 08:38  @GholsonLyon      RT @vubush: Khurana: using 1000G to identify regions of neg. selection, along with ENCODE to ID non-coding driver mutations #ASHG2013
+393355777295269888  Oct 24 08:38  @markgenome       RT @girlscientist: .@Massgenomics: if there's one theme of #ASHG2013 it's that we need to share tools and resources to succeed in finding disease genes. Word!
+393355920635613184  Oct 24 08:38  @chenghlee        RT @girlscientist: .@Massgenomics: if there's one theme of #ASHG2013 it's that we need to share tools and resources to succeed in finding disease genes. Word!
+393355932388065281  Oct 24 08:38  @DaleYuzuki       Khurana: Identify the nc elements that are under 'coding-like' selection, then look at HGMD for functional significance. #ASHG2013
+393355967678930944  Oct 24 08:39  @AlexisCarere     “@rahman_nazneen: Evaluation in other series shows NEIL1 is NOT a breast cancer predisposition gene. #ASHG2013” cc @andree_e
+393355968395743232  Oct 24 08:39  @gabeinformatics  Ekta Khurana: Found specific regions of non-coding DNA with as much negative selection (enrichment of rare snps) as coding! #ASHG2013
+393356012763488257  Oct 24 08:39  @athos10025       EK: most sensitive NC variants include transcription factor binding sites #ASHG2013
+393356033109663744  Oct 24 08:39  @cureffi          Next up at #ASHG2013: @erlichya on a 13 million person, 500-year pedigree reconstructed from social media data http://abstracts.ashg.org/cgi-bin/2013/ashg13s.pl?author=macarthur&sort=ptimes&sbutton=Detail&absno=130122190&sid=505424
+393356090555256832  Oct 24 08:39  @BeEngelhardt     Vivian Zhang discusses our work on methylation in 'from eqtls to epigenetics...' at 9:30 #ASHG2013
+393356171584606208  Oct 24 08:39  @OxfordGeneTech   1 day until OGT's #ASHG2013 workshop: Complementing NGS experiments with high-resolution CNV detection. Register at http://bit.ly/19KsP8V
+393356177985122305  Oct 24 08:39  @appistry         @Ellie_C_Venezia Glad you did! Enjoy the rest of your week at #ASHG2013.
+393356206955184128  Oct 24 08:40  @larry_parnell    CW: PCSK9, LDLR APOB + PNPLA5 had rare variants for LDL after exome seq'ing of 3307 subs; effect size range -109 - +43 mg/dL #ASHG2013
+393356235774627840  Oct 24 08:40  @JeffreyMOtto     Rare variants + moderate effect sizes = v. big cohorts = lots'o'dollars,  #ASHG2013
+393356301155049472  Oct 24 08:40  @shramdas         EK: SNVs that break TF binding motifs under strongest negative selection #ASHG2013
+393356327520833536  Oct 24 08:40  @fluidigm         Walsh: 25% people with hereditary Br cancer are neg for commercial Brca1 testing. #ASHG2013
+393356380440371201  Oct 24 08:40  @erlichya         RT @cureffi: Next up at #ASHG2013: @erlichya on a 13 million person, 500-year pedigree reconstructed from social media data http://t.co/Ix4MMKf5Mu
+393356408382447616  Oct 24 08:40  @Massgenomics     Khurana: Looking at selection on variant categories... SNPs that break TF binding motifs are under negative selection. #ASHG2013
+393356645809393664  Oct 24 08:41  @cureffi          @erlichya the background on your @WhiteheadInst homepage is so not the Whitehead http://erlichlab.wi.mit.edu/ Where is it? #ASHG2013
+393356735173648384  Oct 24 08:42  @fluidigm         Walsh:  Using BROCA, the seq of 20 breast cancer genes including introns.  #ASHG2013
+393356770162515968  Oct 24 08:42  @GenomeBiology    Ekta Khurana (Gerstein lab) discussing -ve selection in the human genome; identified noncoding variants as sensitive as if genic #ASHG2013
+393356927058448384  Oct 24 08:42  @girlscientist    Khurana using cancer sample WGS for testing algorithm finding variants that break TF motifs & are under negative selection. #ASHG2013
+393356966556598272  Oct 24 08:43  @DaleYuzuki       Khurana:SNPs which break TF binding motifs under stronger selection #ASHG2013
+393357016514584576  Oct 24 08:43  @vvacic           Ekta Khurana: enrichment of rare vars in coding regions, DHS, ... in 1kG, to identify funct elements. See http://bit.ly/GBn2bx #ASHG2013
+393357145498189824  Oct 24 08:43  @BioDiscoveryInc  Identifying deleterious non-coding variants as #cancer drivers using ENCODE. Ekta Khurana. Now in Grand ballroom East. Level 3. #ASHG2013
+393357154721091585  Oct 24 08:43  @larry_parnell    CW Ran 5 diff burden tests to find signif assoc w LDL-C levels. No one test found all genes. #ASHG2013
+393357205312765952  Oct 24 08:44  @CrowdedHead      Breakfast snack.  Gonna need extra fuel to burn for sessions today #ASHG2013 http://t.co/10iKQRSEST
+393357259780415488  Oct 24 08:44  @DrJackKruse      RT @avsmith: SPurcell points out key (and under appreciated) point. Gene size can influence pathway results. Biases wrt function. #ASHG2013
+393357335822745601  Oct 24 08:44  @rantalainen      C. Ye presents interesting work on response quantitative trait loci (reQTLs) for gene x environment effects #ASHG2013
+393357354613633024  Oct 24 08:44  @DaleYuzuki       Khurana: Germline vs. somatic variants from existing cancer datasets, fig. Khurana Science 2013 #ASHG2013 PubMed: http://ow.ly/q88Km
+393357420338360321  Oct 24 08:44  @HIHGatUM         @TheCanesBoy2010 8:45 #ASHG2013  platform pres (136). Mutations in PLPA6 cause range of neurodegenerative phenotypes
+393357439229100032  Oct 24 08:44  @rkolberg         RT @girlscientist: .@Massgenomics: if there's one theme of #ASHG2013 it's that we need to share tools and resources to succeed in finding disease genes. Word!
+393357468799344640  Oct 24 08:45  @GenomicsD        V. Gelovani CMT1A triplication gives more severe phenotype than dup. Trip rate for dup carrier 130x over wt to dup. Anticipation? #ASHG2013
+393357470589927424  Oct 24 08:45  @larry_parnell    CW Those 4 genes explain 5% of variance of LDL-C, which is a bit high given that GWAS (~all genes) finds ~20% #ASHG2013
+393357486788317185  Oct 24 08:45  @mwilsonsayres    @erlichya "Harnessing web 2.0 social networks for genetic epidemiology studies with millions of people" #ASHG2013
+393357490257031168  Oct 24 08:45  @BCILifeSciences  RT @CrowdedHead: #ASHG2013 - All lost in the Westin? Get the map of rooms here: http://bit.ly/19F8kbV
+393357578069344256  Oct 24 08:45  @DaleYuzuki       Khurana: Found 1 variant in WDR74 gene promoter after multi-step filtering, shows diff. exp in tumor samples. #ASHG2013
+393357642883551232  Oct 24 08:45  @Massgenomics     Khurana at #ASHG2013: Find noncoding driver mutations w/ functional annotation, negative selection, TFBS disruption, networks, recurrence
+393357656695377921  Oct 24 08:45  @BCILifeSciences  @CrowdedHead great post - thx for the useful info! #ASHG2013
+393357768960536576  Oct 24 08:46  @MarkRobsonMD     Tom Walsh @ #ASHG2013 : 66/740 families with neg commercial BRCA testing had BRCA mutations (but many were VUS)
+393357792436031488  Oct 24 08:46  @DaleYuzuki       Khurana: Gerstein lab developed a tool called FunSeq. #ASHG2013 Gerstein lab FunSeq link http://ow.ly/q88Y1
+393357799708958720  Oct 24 08:46  @stromulus        FunSeq sounds like a good time! #ASHG2013
+393357817635037184  Oct 24 08:46  @BCILifeSciences  RT @SeqComplete: glimpse into everything that was reported today at #ASHG2013 buzzz at #ASHG2013 http://chirpstory.com/li/164553
+393357889102159872  Oct 24 08:46  @athos10025       EK: FunSeq http://info.gersteinlab.org/FunSeq #ASHG2013
+393357927085395969  Oct 24 08:46  @shramdas         EK: http://funseq.gersteinlab.org for prioritization of noncoding elements of the genome #ASHG2013
+393357984006275072  Oct 24 08:47  @BCILifeSciences  RT @illumina: Heavy tweets this week for #ashg2013! Don't unfollow, turn down the volume. MT @girlscientist how to block a hashtag http://t.co/SKa4Qh5Fi5
+393357993292488705  Oct 24 08:47  @mwilsonsayres    .@erlichya Asked who in the audience has facebook/twitter accounts (but not who actually uses them) ;) #ASHG2013
+393358001660129281  Oct 24 08:47  @GeneticsSociety  Coverage, interview with #ASHG2013 plenary speaker Jeanne Lawrence + her work on suppressing down syndrome chromosome http://bo.st/1akh8Gh
+393358010430795776  Oct 24 08:47  @vubush           Another great tool for variant prioritization in cancer - anyone get the link? #ASHG2013
+393358035974119424  Oct 24 08:47  @illumina         Pengfei Liu giving back to backs in the chr variants session: second talk is on excessive CNVs #ashg2013
+393358042794033152  Oct 24 08:47  @lauribe          J.Liu:more than one de novo CNVs usually found in Cancer, but are frequent in germline of normal patients? #ASHG2013
+393358075824197632  Oct 24 08:47  @drbachinsky      RT @DaleYuzuki: Khurana: Found 1 variant in WDR74 gene promoter after multi-step filtering, shows diff. exp in tumor samples. #ASHG2013
+393358082001993729  Oct 24 08:47  @roy_ronen        @erlichya on social media for genetic epidemiology, when was the last time you played around with a 13M-strong pedigree? #ASHG2013
+393358088197378048  Oct 24 08:47  @drbachinsky      RT @larry_parnell: CW Those 4 genes explain 5% of variance of LDL-C, which is a bit high given that GWAS (~all genes) finds ~20% #ASHG2013
+393358097067958272  Oct 24 08:47  @cureffi          @erlichya discusses the additive vs. epistatic debate. Why epistasis may explain "missing heritability": http://www.ncbi.nlm.nih.gov/pubmed/22223662  #ASHG2013
+393358107406893056  Oct 24 08:47  @koadman          RT @cureffi: VP: chromothripsis may not be as rare as we thought. It seems to happen fairly often in the germline. #ASHG2013
+393358116944752640  Oct 24 08:47  @JenniferRaff     Trying to send taunting texts to hungover colleagues at the morning #ASHG2013 talks, but my phone keeps autocorrecting "mitogenome". Fail.
+393358150277292032  Oct 24 08:47  @DaleYuzuki       Up next: M. Towne, BCH: Efficiency of whole exome/genome sequencing for achieving a diagnosis in rare presentations. #ASHG2013
+393358165825167360  Oct 24 08:47  @Massgenomics     Now: Meghan Towne, notes "I'm a genetic counselor, not a doctor" to @GholsonLyon . Efficiency of WGS/exome for rare disorders #ASHG2013
+393358186981240832  Oct 24 08:47  @BCILifeSciences  RT @GeneticsSociety: Coverage, interview with #ASHG2013 plenary speaker Jeanne Lawrence + her work on suppressing down syndrome chromosome http://t.co/ZZBgn5RI8q
+393358200524660736  Oct 24 08:47  @gabeinformatics  Ekta Khurana: Tool for ranking non-coding variants in regions that have highest impact to gene dsiruption http://info.gersteinlab.org/FunSeq #ASHG2013
+393358205549830144  Oct 24 08:47  @agnieszkaml      RT @DaleYuzuki: Khurana: Gerstein lab developed a tool called FunSeq. #ASHG2013 Gerstein lab FunSeq link http://ow.ly/q88Y1
+393358274172837888  Oct 24 08:48  @vubush           RT @shramdas: EK: http://funseq.gersteinlab.org for prioritization of noncoding elements of the genome #ASHG2013
+393358312411910144  Oct 24 08:48  @larry_parnell    Ursula Schick on CRP levels and exome seq'ing. CRP is an independent predictor of heart disease #ASHG2013
+393358321341980673  Oct 24 08:48  @drbachinsky      RT @cureffi: Next up at #ASHG2013: @erlichya on a 13 million person, 500-year pedigree reconstructed from social media data http://t.co/Ix4MMKf5Mu
+393358326119280640  Oct 24 08:48  @lauribe          J.Liu:we sequenced 3 trios with more than one de novo CNVs with array CGH and WGS #ASHG2013
+393358338953854976  Oct 24 08:48  @illumina         PL: Used Omni-quad array, among others, plus WGS approach to ID de novo CNVs  #ashg2013
+393358375305482240  Oct 24 08:48  @cureffi          .@erlichya: to answer the additive v. epistatic debate we need a large number of large pedigrees. solution: http://Geni.com #ASHG2013
+393358431610228736  Oct 24 08:48  @DaleYuzuki       Towne: Majority is WES, reporting primary findings back, 1408 pts from 427 families; 375 samples as trios (82), 45 probands only #ASHG2013
+393358466347466752  Oct 24 08:49  @athos10025       Meghan Towne: Where does NGS fit into clinic?  #ASHG2013
+393358534798508032  Oct 24 08:49  @DaleYuzuki       Towne: 17 with extended families due to consanguinity or other factors. #ASHG2013
+393358544281407489  Oct 24 08:49  @BCILifeSciences  RT @GeneticsSociety: Any guesses on #ASHG2013 scientific registration? As of tonight, it's an easy number to remember: 6666
+393358600501874688  Oct 24 08:49  @mwilsonsayres    .@erlichya Need a large # of large pedigrees - but not scaleable through usual recruitment -so get social: http://Geni.com #ASHG2013
+393358604348059648  Oct 24 08:49  @cureffi          .@erlichya accessed 43.7M public profiles using the http://Geni.com API #ASHG2013
+393358608018464768  Oct 24 08:49  @dgmacarthur      Yaniv Erlich (@erlichya) is presenting some very cool work using public genealogy data for genetic research. #ASHG2013
+393358613873311745  Oct 24 08:49  @EncodeDCC        Learn more about annotating noncoding variants. @ekta_khurana will be at #ENCODE workshop at 7pm in Rm 102: http://goo.gl/UVgGtV #ASHG2013
+393358629459726336  Oct 24 08:49  @lauribe          JL: array showed to be more sensitive to detect larger CNVs VS sequencing #ASHG2013
+393358634769330176  Oct 24 08:49  @markmccarthyoxf  @erlichya  using social media to detect epistasis in geneological dbs. Recurrence rate curves amongst relatives #ASHG2013
+393358639672868866  Oct 24 08:49  @stromulus        More on FunSeq: predicts pathogenicity of non-coding vars genome-wide using cons.  and tx factor data. #ASHG2013
+393358642440699905  Oct 24 08:49  @BCILifeSciences  RT @GeneticsSociety: #ASHG2013 reminder - there is NO PHOTOGRAPHY in session rooms or posters. Not appropriate to post to Twitter...
+393358694554939392  Oct 24 08:49  @BCILifeSciences  RT @GeneticsSociety: "Genetown comes to Beantown" coverage of #ASHG2013: http://www.ddn-news.com/index.php?newsarticle=7710
+393358702876835840  Oct 24 08:49  @DaleYuzuki       Towne:48% unk. Dx; 45% unk. molecular cause (e.g. mt disease); 5% primary etiology known #ASHG2013
+393358762842402816  Oct 24 08:50  @BCILifeSciences  RT @GeneticsSociety: What’s your milestone in #genetics? Tell us by posting it on posterboards in the walkway to Hall B2 in #ASHG2013 exhibit hall.
+393358797319966720  Oct 24 08:50  @illumina         RT @dgmacarthur: Yaniv Erlich (@erlichya) is presenting some very cool work using public genealogy data for genetic research. #ASHG2013
+393358798238121984  Oct 24 08:50  @ngsgene          Subways an extra, LOVE being in a city! MT @jxchong Love being back in a city with frequent subway/t/l service #ASHG2013
+393358938605092864  Oct 24 08:50  @dgmacarthur      YA: downloaded pedigree data from over 40 million people from http://Geni.com. Largest single pedigree has ~13M people! #ASHG2013
+393358941125496832  Oct 24 08:50  @mwilsonsayres    Wow! @erlichya downloaded 44 million ppl from http://Geni.com (largest pedigree has 13 million people!!) #ASHG2013
+393358941440069633  Oct 24 08:50  @cureffi          The largest pedigree @erlichya constructed from http://Geni.com data is 13M people, by far the largest ever constructed. #ASHG2013
+393358981517045760  Oct 24 08:51  @casey6r0wn       Lee (Regev lab): nanostring based responseQTLs, fine mapping, effector TF identification. Fantastic stuff. #ASHG2013
+393359072046874624  Oct 24 08:51  @GeneInsight      Meghan Towne: 375 samples, 144 families had WES/WGS. 49% w/ unknown dx, 45% have dx w/no known mol dx, 5% looking for modifiers  #ASHG2013
+393359077403017216  Oct 24 08:51  @drbachinsky      RT @athos10025: EK: which NC variants are under similar selective pressure as coding variants? #ASHG2013
+393359146751647744  Oct 24 08:51  @eatsai           Assessing # of rare variants can be a good indicator of neg selection. Rare variants in TFBS are enriched to break motif. #ASHG2013 27:abs99
+393359180339621888  Oct 24 08:51  @GENES_PK         Frida Renstrom: genetic associations  with response to glucose challenge among a northern Swedish population. #ASHG2013
+393359182814265344  Oct 24 08:51  @drbachinsky      RT @DaleYuzuki: Khurana: Germline vs. somatic variants from existing cancer datasets, fig. Khurana Science 2013 #ASHG2013 PubMed: http://t.co/dGgTDZ0pSJ
+393359184059588608  Oct 24 08:51  @cureffi          .@erlichya: > 1M http://Geni.com profiles have date of birth and death. Therefore: longevity is a phenotype we can get. #ASHG2013
+393359198714490882  Oct 24 08:51  @iManhe_          GO>http://www.google.me/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.followix.info%2F&ei=Q5MyUtv9GZDItAaf-oCwAw&usg=AFQjCNGI2i-t5Ry9hki0SmxBLJ8O-ZZ8NQ&bvm=bv.52164340,d.Yms?shainastormborn1382295810 NEW FOLLOWERS #throwbackthursday Miami Florida #tbt #ASHG2013 Halloween http://t.co/UznDCD1w2N
+393359243921072128  Oct 24 08:52  @roy_ronen        RT @dgmacarthur: Yaniv Erlich (@erlichya) is presenting some very cool work using public genealogy data for genetic research. #ASHG2013
+393359271276314624  Oct 24 08:52  @DaleYuzuki       Towne: Pipelines include Codified genomics, Xbrowse. Data from 79 families: 26 in analysis; 22 found known muts; 17 w/novel genes #ASHG2013
+393359282491518976  Oct 24 08:52  @LuvJustin3ieber  CLICK►https://www.google.nu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCkQFjAA&url=http%3A%2F%2Fwww.getfreefollowers.info%2F&ei=pEtkUtiRDdHVsgbEnYD4CQ&usg=AFQjCNElkcZ5dxvB6FcCHOSzZwtjw9kATg FREE►FOLLOWERS Florida #throwbackthursday #ASHG2013 #blessed #tbt #tcot http://t.co/dv3gtOTMeJ
+393359307729022976  Oct 24 08:52  @LuvJustin3ieber  GO>https://www.google.nu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.worldfollowers.info%2F&ei=8E1kUujeEcfJtAbL0oDYBg&usg=AFQjCNGIHyBCA_wP0ZKMSCxYwlSH4XswEA NEW FOLLOWERS #ASHG2013 Obamacare Halloween Miami Rams #tbt http://t.co/xVAfKa96j3
+393359407498530817  Oct 24 08:52  @cureffi          .@erlichya: longevity is a "superphenotype... everything that can kill you is embedded" in it #ASHG2013
+393359434228850688  Oct 24 08:52  @belalovic19      GO>http://www.google.nu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCwQFjAA&url=http%3A%2F%2Fnaturalfollowers.com%2F&ei=AZEyUrGMNYnetAav5YDABA&usg=AFQjCNGX3ya5Of8T5gR72Vo9y6PCKiHF4A&bvm=bv.52164340,d.Yms?JoshDaggs1382303810 NEW FOLLOWERS Miami Rams #throwbackthursday #tcot Obamacare #ASHG2013 http://t.co/T7U2ZceAGl
+393359439706599424  Oct 24 08:52  @larry_parnell    US: Of 2 novel rare coding variants identified for CRP levels, one is in CRP itself, other is in TOMM40 (neighbor to APOE) $$$$ #ASHG2013
+393359530383253504  Oct 24 08:53  @mwilsonsayres    .@erlichya Longevity (exact birth/death dates for >1 million Geni profiles) - 99% correlation btwn crowd-sourced & previous data #ASHG2013
+393359530689433600  Oct 24 08:53  @GyelianeHao18    GO=>http://hotredirect.info/bestfollowers?EBvw #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/5eSzgdqJAU
+393359538289532928  Oct 24 08:53  @maria21121999    GO=>http://hotredirect.info/bestfollowers?jUu8 #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/zCJ5LzvOVR
+393359539401424896  Oct 24 08:53  @drbachinsky      RT @mwilsonsayres: Wow! @erlichya downloaded 44 million ppl from http://Geni.com (largest pedigree has 13 million people!!) #ASHG2013
+393359563639902208  Oct 24 08:53  @K_Rusheal        Visit=>http://hotredirect.info/bulkfollowers?Dtjr AND★RT★IF★YOU★WANT★FOLLOWERS★#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hal http://t.co/wtygDuqVNk
+393359571747495936  Oct 24 08:53  @deephousvandlSA  NEW  F O L L O W E R S=>http://hotredirect.info/followport?sNq0O ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,Flo http://t.co/KuszkYX1ob
+393359573009960960  Oct 24 08:53  @RizkyIrgi99      GO>http://www.google.nu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCoQFjAA&url=http%3A%2F%2Fwww.flyfollowers.com%2F&ei=OpIyUsnTO4fYsgbKg4HQCA&usg=AFQjCNH_OeAPP7jZXpugpeVWlOAW-KTidw&bvm=bv.52164340,d.Yms?karlindasw1382303494 NEW FOLLOWERS Rams #tbt Obamacare #ASHG2013 #throwbackthursday Florida http://t.co/FEJlPwegnG
+393359575459856384  Oct 24 08:53  @vubush           Justin Bieber is abusing the #ASHG2013 hashtag!!
+393359582031929344  Oct 24 08:53  @fluidigm         RT @rantalainen: C. Ye presents interesting work on response quantitative trait loci (reQTLs) for gene x environment effects #ASHG2013
+393359601283768320  Oct 24 08:53  @PrettyNixx       i get 1022 new followers=>>http://hotredirect.info/goodfollowers?BEl4 ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/6eAa2KkPiQ
+393359601573175296  Oct 24 08:53  @hehheko          GET MORE FOLLOWERS? Click to http://hotredirect.info/justfollowers?hehhekoF9pm ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/qddnZPtQ2K
+393359612142837761  Oct 24 08:53  @padillaaaaaa_02  GO TO http://hotredirect.info/gainfollowers?CKPF&padillaaaaaa_02 AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/pFWRB3Vm5M
+393359617557676033  Oct 24 08:53  @lil_stylish      i get 2877 new followers=>>http://hotredirect.info/goodfollowers?WkR2 ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/WUnpfRkMdN
+393359621697445888  Oct 24 08:53  @SindineiLima     VISIT=>http://hotredirect.info/newfollowers?CbU6&SindineiLima ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/GR2Ciskxx1
+393359635693842432  Oct 24 08:53  @HairiLaVida      Visit=>http://hotredirect.info/bulkfollowers?bdlM AND★RT★IF★YOU★WANT★FOLLOWERS★#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hal http://t.co/BUqLqvByIv
+393359640055922688  Oct 24 08:53  @LaNegri022       VISIT=>http://hotredirect.info/newfollowers?BP9F&LaNegri022 ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/TKgpVzUXGe
+393359640991236096  Oct 24 08:53  @cbsacharya       GO TO http://hotredirect.info/gainfollowers?vJrk&cbsacharya AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/OliroWILXG
+393359649300176896  Oct 24 08:53  @cureffi          .@erlichya uses parent-offspring regression to estimate additive heritability of longevity = 17% #ASHG2013
+393359650395275264  Oct 24 08:53  @CaptainFuture__  RT @GeneticsSociety: Coverage, interview with #ASHG2013 plenary speaker Jeanne Lawrence + her work on suppressing down syndrome chromosome http://t.co/ZZBgn5RI8q
+393359658225631233  Oct 24 08:53  @KAYEDEECRUISE    GO TO http://hotredirect.info/gainfollowers?nK5T&KAYEDEECRUISE AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/I2IULs2u25
+393359677578178561  Oct 24 08:53  @Mzta_lee         GO=>http://hotredirect.info/twitterfollowers?oOLE ♥AND♥RT♥IF♥WANT♥NEW♥FOLLOWERS♥ ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hall http://t.co/7CqSoPLYIe
+393359734566572032  Oct 24 08:54  @Leni_Arista2     VISIT=>http://hotredirect.info/newfollowers?UkCz&Leni_Arista2 ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/H1j5hgHgxw
+393359737221165056  Oct 24 08:54  @chaingtrunf      VISIT=>http://hotredirect.info/newfollowers?mdti&chaingtrunf ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/BtTQC5t1ns
+393359752325246976  Oct 24 08:54  @GeneInsight      Meghan Towne: Out of 79 families w/ likely monogenic disease, found 22 w/ known genes, 17 w/ novel genes candidates, 14 negative  #ASHG2013
+393359753617113088  Oct 24 08:54  @dgmacarthur      YA: extracted longevity data from across the sample - estimate heritability of longevity = 17%. Fits with literature. #ASHG2013
+393359765083926528  Oct 24 08:54  @agung_prima23    GO=>http://hotredirect.info/bestfollowers?vutP #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/MXpKvv1eHr
+393359770557505536  Oct 24 08:54  @iSubalBD         GO=>http://hotredirect.info/followcrazy?bMuZ&iSubalBD ★RT★FOLLOWME★IFOLLOWYOU✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,Fl http://t.co/5iqGZ4FWBU
+393359785451847680  Oct 24 08:54  @GENES_PK         FR: response to glucose challenge differs greatly between people measured during dark versus light months. #ASHG2013
+393359786248376320  Oct 24 08:54  @TurkOktay        GO=>http://hotredirect.info/twitterfollowers?jaJ0 ♥AND♥RT♥IF♥WANT♥NEW♥FOLLOWERS♥ ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hall http://t.co/ifQqkEEuHO
+393359789960351745  Oct 24 08:54  @cureffi          .@erlichya's 17% heritability of longevity estimate matches twin study estimates of 10-33% #ASHG2013
+393359804233568256  Oct 24 08:54  @janmaydquen7     VISIT=>http://hotredirect.info/newfollowers?xyA9&janmaydquen7 ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/QIPthhLpai
+393359811636523009  Oct 24 08:54  @cmpun23          VISIT=>http://hotredirect.info/newfollowers?yujh&cmpun23 ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/Sih1o343YT
+393359832935186432  Oct 24 08:54  @Darael2001       GO TO http://hotredirect.info/gainfollowers?IAdx&Darael2001 AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/yXMQxdY8jQ
+393359838371012609  Oct 24 08:54  @_febrifebrin     Visit=>http://hotredirect.info/teamfollowback?qrCy AND★RT★IF★YOU★WANT★FOLLOWERS★#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hal http://t.co/iwiR2cyY1C
+393359838983380993  Oct 24 08:54  @IM_DAT_NICCA_47  RT @KAYEDEECRUISE: GO TO http://hotredirect.info/gainfollowers?nK5T&KAYEDEECRUISE AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/I2IULs2u25
+393359848899108864  Oct 24 08:54  @BCECNav          Well #ASHG2013, did you have fun last night or what? Coffee is brewing at the BCEC to wake you up before your sessions!
+393359849917911040  Oct 24 08:54  @itssceizaaa      GO TO http://hotredirect.info/gainfollowers?BmcJ&itssceizaaa AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/x2DCMh0zhS
+393359861552906240  Oct 24 08:54  @LadyE1990        GO=>http://hotredirect.info/bestfollowers?BOGQ #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/IzxuFKxC9J
+393359878091067393  Oct 24 08:54  @PrettyNixx       VISIT=>http://hotredirect.info/newfollowers?1Wcj&PrettyNixx ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/ASgh6WDgF4
+393359904867901440  Oct 24 08:54  @PowaM8           GO>http://www.google.nu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCkQFjAA&url=http%3A%2F%2Ffreeaddme.com%2F&ei=xZIyUrXVK8rLtQaE5oDQCA&usg=AFQjCNGjsMa6GP50bMBXh-WJg5Mr6P_CSw&bvm=bv.52164340,d.Yms?veryminted1382299421 NEW FOLLOWERS #ASHG2013 #blessed Obamacare Rams #tcot #tbt http://t.co/ZVjbopOUAr
+393359908227129344  Oct 24 08:54  @IRep_Chtl87      GET NEW F O L L O WERS? Visit http://hotredirect.info/getnewfollowers?rvuBEHCjZm #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/dKfsdkS1j3
+393359921879588864  Oct 24 08:54  @origzulu         Visit=>http://hotredirect.info/bulkfollowers?TFA8 AND★RT★IF★YOU★WANT★FOLLOWERS★#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hal http://t.co/SGUnGN8oWM
+393359940632739841  Oct 24 08:54  @avsmith          . @erlichya Harnessing Geni to build ginormous pedigrees. Largest 13m! Iceland drop in bucket #ASHG2013 http://Geni.com
+393359948207255553  Oct 24 08:54  @WaldiArmn        GO TO http://hotredirect.info/gainfollowers?h4OA&WaldiArmn AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/V9VUxETcCx
+393359949901754368  Oct 24 08:54  @maria21121999    GO=>http://hotredirect.info/bestfollowers?3nZf #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/zCJ5LzvOVR
+393359965265477632  Oct 24 08:54  @yokofakun        my profile is in http://geni.com . I want to be the 698789th author on the paper #ASHG2013
+393359968084426752  Oct 24 08:54  @kirstinroundy    NEIL1-Controlled study using new technology that didn't pan out-Kudos for taking us through the process #ASHG2013
+393359970999083008  Oct 24 08:55  @HazelNuuut_      Visit=>http://hotredirect.info/bulkfollowers?yfR6 AND★RT★IF★YOU★WANT★FOLLOWERS★#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hal http://t.co/BhekC4rQor
+393359982839607296  Oct 24 08:55  @EstefaniaSw      GO=>http://hotredirect.info/followcrazy?dPi9&EstefaniaSw ★RT★FOLLOWME★IFOLLOWYOU✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,Fl http://t.co/LBnbHSowfN
+393359994072342528  Oct 24 08:55  @illumina         PL: phased info shows that most de novo muts associated with paternal halpotype #ashg2013
+393360004687740929  Oct 24 08:55  @Jano_1DMahone    GO=>http://hotredirect.info/bestfollowers?BWOT #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/JBA8LtHBPU
+393360014028439552  Oct 24 08:55  @Maymzee04        RT & VISIT 4 GAIN FOLLOWERS=>http://hotredirect.info/morefollowers?GWqI ★#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/Gg4N6Y2fek
+393360036006600706  Oct 24 08:55  @Jason_Espina     RT & VISIT 4 GAIN FOLLOWERS=>http://hotredirect.info/morefollowers?MrEF ★#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/YQ1yVj04jS
+393360064569819137  Oct 24 08:55  @alyanahayagan    RT @cmpun23: VISIT=>http://hotredirect.info/newfollowers?yujh&cmpun23 ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/Sih1o343YT
+393360118084939776  Oct 24 08:55  @zaijongin        GO TO http://hotredirect.info/gainfollowers?8wB9&zaijongin AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/vrsruojeNi
+393360134707351552  Oct 24 08:55  @maude_tessier    RT @GenzymeCorp: "We need more young people entering the field of #raredisease research" -Dr Greg Grabowski, #ashg2013 http://t.co/ElitiE26Yu
+393360136141418496  Oct 24 08:55  @PSFIII           VISIT=>http://hotredirect.info/newfollowers?1kKq&PSFIII ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/ganxjARu0v
+393360160015400960  Oct 24 08:55  @giovannixmild    GET NEW F O L L O WERS? Visit http://hotredirect.info/getnewfollowers?Y8MxrB0atm #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/u4Ebx8edZJ
+393360167036669952  Oct 24 08:55  @Leni_Arista2     VISIT=>http://hotredirect.info/newfollowers?uXWA&Leni_Arista2 ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/VEJAF12P3g
+393360167871324160  Oct 24 08:55  @cureffi          .@erlichya tested models with 1,2,3, or 4 interacting genes. best fit was with 1. tl;dr: additive model is best fit for longevity #ASHG2013
+393360168261406720  Oct 24 08:55  @Freds_Facts      VISIT=>http://hotredirect.info/newfollowers?rMo8&Freds_Facts ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/7tUhCTBs7y
+393360173214863362  Oct 24 08:55  @AnnMaryann2000   GO TO http://hotredirect.info/gainfollowers?RYE1&AnnMaryann2000 AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/yLnkDmoKRb
+393360204974133249  Oct 24 08:55  @jerseycarten     GO=>http://hotredirect.info/bestfollowers?AVf9 #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/ZqF6J8azPn
+393360287749144576  Oct 24 08:56  @BabyKayla5       For everyone who thinks scientists aren't creative or artistic you've never seen a geneticist make a gene pathway on PowerPoint #ASHG2013
+393360292690022400  Oct 24 08:56  @meandertail      .@dicentric just told me she got turned away from room 205 eQTL session because it was full. I’m surrounded by empty seats. #ASHG2013
+393360298054148096  Oct 24 08:56  @BYE_Kristina     GO TO http://hotredirect.info/gainfollowers?XZEA&BYE_Kristina AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/e4qnJMhBdZ
+393360303888424961  Oct 24 08:56  @LN_Colossus25    NEW  F O L L O W E R S=>http://hotredirect.info/followport?7PRkT ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,Flo http://t.co/UODGo2iop4
+393360306795470848  Oct 24 08:56  @drbachinsky      RT @cureffi: .@erlichya uses parent-offspring regression to estimate additive heritability of longevity = 17% #ASHG2013
+393360321760342017  Oct 24 08:56  @RCaporte         GO=>http://hotredirect.info/twitterfollowers?LDFn ♥AND♥RT♥IF♥WANT♥NEW♥FOLLOWERS♥ ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hall http://t.co/3Nnh3f9MqN
+393360333781229568  Oct 24 08:56  @RonnahMiyoko     GO=>http://hotredirect.info/bestfollowers?enX0 #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/IzT3ZU7SfQ
+393360346695487488  Oct 24 08:56  @michael_wehage   GET NEW F O L L O WERS? Visit http://hotredirect.info/getnewfollowers?nw43bAe9FS #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/y40kFVbv8u
+393360358079201280  Oct 24 08:56  @agnieszkaml      Costing analysis of WGS tests vs regular diagnostic tests seem to vary between labs and are not yet very clear #ASHG2013
+393360365620183040  Oct 24 08:56  @mallong_ligia    GO=>http://hotredirect.info/bestfollowers?0Zli #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/8OuiWFt0ao
+393360381101355008  Oct 24 08:56  @ClarizzaFango19  GO=>http://hotredirect.info/bestfollowers?nf8R #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/09QkDO71Cl
+393360392316940288  Oct 24 08:56  @XblissCortal     GET MORE FOLLOWERS? Click to http://hotredirect.info/justfollowers?XblissCortalLI9g ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/qEkzovDl55
+393360403268263936  Oct 24 08:56  @markmccarthyoxf  YA:  data from 44M pedigree members consistent with additive effects on longevity. Epistasis unlikely. Data set freely available. #ASHG2013
+393360406917300224  Oct 24 08:56  @Elvira_hua       GET MORE FOLLOWERS? Click to http://hotredirect.info/justfollowers?Elvira_huajfde ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/R6xKjpoYRt
+393360421240856576  Oct 24 08:56  @HazelNuuut_      GO=>http://hotredirect.info/twitterfollowers?NRIE ♥AND♥RT♥IF♥WANT♥NEW♥FOLLOWERS♥ ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hall http://t.co/qg7EkfsO4k
+393360443139293184  Oct 24 08:56  @__Esha_          CLICK►http://www.google.nu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCwQFjAA&url=http%3A%2F%2Fwww.fenertakip.com%2F&ei=EJIyUu_YGoirtAaO1IDIAg&usg=AFQjCNHkO9DhERXn5rIBMth-6bxfVevMng&bvm=bv.52164340,d.Yms?boynuzlupuma1382303367 FREE►FOLLOWERS #throwbackthursday #tbt Obamacare Halloween #ASHG2013 #tcot http://t.co/iAcAQcLiJS
+393360455751593984  Oct 24 08:56  @mwilsonsayres    Awesome #openscience #OA: @erlichya Geni data available without names from http://www.FamiLinx.org in an SQL database #ASHG2013
+393360457752248320  Oct 24 08:56  @KarizzaCariaga   GO=>http://hotredirect.info/twitterfollowers?vdB6 ♥AND♥RT♥IF♥WANT♥NEW♥FOLLOWERS♥ ✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hall http://t.co/ugDFIcGbNT
+393360459723993088  Oct 24 08:56  @illumina         PL: alternate theory that the mutant phenotype is not transmitted by the maternal contrib #ashg2013
+393360462718320640  Oct 24 08:56  @larry_parnell    Neat! Phenotypes? @mwilsonsayres @erlichya Harnessing web 2.0 social networks 4 genetic epidemiology studies w millions of people #ASHG2013
+393360468527808512  Oct 24 08:56  @__Esha_          GO>http://www.google.me/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.bestfollow.info%2F&ei=UZEyUsCJNMvPsgbn04CwBw&usg=AFQjCNG1efptpj_SNEyJADYF8EXrFMWN7g&bvm=bv.52164340,d.Yms?iTzZKhlEad1382298671 NEW FOLLOWERS #ASHG2013 Miami #blessed Obamacare #throwbackthursday #tbt http://t.co/BHipQCHzRY
+393360473166323712  Oct 24 08:56  @pokart123        GO TO http://hotredirect.info/gainfollowers?Dv2Z&pokart123 AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/VL1QwJ1KQS
+393360473476710401  Oct 24 08:56  @cureffi          .@erlichya: see http://FamiLinx.org for anonymized http://Geni.com pedigrees- publicly downloadable as MySQL database #ASHG2013
+393360475997487104  Oct 24 08:57  @WewNgBuhayMo     GO=>http://hotredirect.info/bestfollowers?Iyj6 #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,F http://t.co/p5DSaMR25y
+393360489323167744  Oct 24 08:57  @dgmacarthur      Using correlations between relative pairs, @erlichya finds zero evidence for epistasis in longevity. Zero. #ASHG2013
+393360495878475776  Oct 24 08:57  @ArizaJoooooy     GO TO http://hotredirect.info/gainfollowers?K8Hw&ArizaJoooooy AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/cTj12NWucQ
+393360516262793216  Oct 24 08:57  @AppliedBio       Next-Gen Sequencing PCR Primer Design Tool for Sanger Sequencing Confirmation Poster 1603T Thurs 10/24 10:30a #ASHG2013
+393360528443060225  Oct 24 08:57  @askmr            with public data (w institutional permission, 6 mo datacleaning) YE sees additivity in genes is dominant over epistatic #ashg2013 #drylab
+393360532285050880  Oct 24 08:57  @Mezian592        VISIT=>http://hotredirect.info/newfollowers?SLF9&Mezian592 ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/N0fhWrHTPR
+393360539629285376  Oct 24 08:57  @girlscientist    @geneticssociety RT @meandertail: @dicentric got turned away from room 205 because it was full. I’m surrounded by empty seats. #ASHG2013
+393360545711001600  Oct 24 08:57  @emmanuel9510     RT & VISIT 4 GAIN FOLLOWERS=>http://hotredirect.info/morefollowers?o6iS ★#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/FfEOh0WCij
+393360561893015553  Oct 24 08:57  @agnieszkaml      RT @mwilsonsayres: Wow! @erlichya downloaded 44 million ppl from http://Geni.com (largest pedigree has 13 million people!!) #ASHG2013
+393360566137663488  Oct 24 08:57  @PSFIII           VISIT=>http://hotredirect.info/newfollowers?Rt8r&PSFIII ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/C4WDhJg2TV
+393360568838414336  Oct 24 08:57  @laureOFF_59      GO=>http://hotredirect.info/followmania?kE3yS ♥AND♥RT♥IF♥WANT♥NEW♥FOLLOWERS✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hall http://t.co/UJbWwa92rT
+393360593253445632  Oct 24 08:57  @izelarslan2      GO TO http://hotredirect.info/gainfollowers?FR5N&izelarslan2 AND★RT★FOR★NEW★FOLLOWERS★✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hallowe http://t.co/8GGWRh2XkF
+393360602275389440  Oct 24 08:57  @GUgUnnaksPaSoLa  GET NEW F O L L O WERS? Visit http://hotredirect.info/getnewfollowers?9pvDcow6ZN #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/X3Ncb2OZ1i
+393360602803871744  Oct 24 08:57  @james_hicks      A fascinating talk by @erlichya on social networking and web 2.0. Data available at http://familinx.org #ASHG2013
+393360607623118848  Oct 24 08:57  @cureffi          .@erlichya: "linearity is good for you." additive heritability means genetics is easier to study. #ASHG2013
+393360625478275072  Oct 24 08:57  @ArieTanubrata    GET NEW F O L L O WERS? Visit http://hotredirect.info/getnewfollowers?hjU8weDdXV #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/ZszXWjZ6HT
+393360651206156288  Oct 24 08:57  @edgrallan        Visit=>http://hotredirect.info/bulkfollowers?OJcU AND★RT★IF★YOU★WANT★FOLLOWERS★#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Hal http://t.co/b0maengHOi
+393360656839102464  Oct 24 08:57  @djmixroman       VISIT=>http://hotredirect.info/newfollowers?bhYj&djmixroman ☀RT☀FOR☀NEW☀FOLLOWERS☀✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/YNxqwZOYLD
+393360659292749825  Oct 24 08:57  @nkbannu          GET NEW F O L L O WERS? Visit http://hotredirect.info/getnewfollowers?ftnm7UYkTC #ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween http://t.co/FR1Lmms666
+393360670357348354  Oct 24 08:57  @imjoybpadilla    I GET 4595 REALL FOLLOWERS! http://hotredirect.info/livefollowers?nZcw ✈#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween, http://t.co/JPWMoN16qv
+393360693744766976  Oct 24 08:57  @gabeinformatics  Towne: Doing translational exome diagnosis. Indicates WES > gene testing in both cost and success rate. #ASHG2013
+393360698958299137  Oct 24 08:57  @cureffi          That concludes an absolutely outstanding talk by @erlichya at #ASHG2013.
+393360705245564928  Oct 24 08:57  @myfavisfab       GO>https://www.google.nu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCkQFjAA&url=http%3A%2F%2Fwww.getfreefollowers.info%2F&ei=pEtkUtiRDdHVsgbEnYD4CQ&usg=AFQjCNElkcZ5dxvB6FcCHOSzZwtjw9kATg NEW FOLLOWERS #tcot Florida #throwbackthursday #tbt #ASHG2013 Obamacare http://t.co/FsbJa3uQpv
+393360720622268416  Oct 24 08:57  @fluidigm         Olopade: Br Ca in African population.  Using BROCA panel to understand usefulness of panels. #ASHG2013
+393360731036344321  Oct 24 08:58  @imareeuelGalizd  I GET 7638 REALL FOLLOWERS! http://hotredirect.info/livefollowers?HYyx ✈#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween, http://t.co/E1AtYS2VHr
+393360732299223040  Oct 24 08:58  @DebbieKennett    RT @cureffi: Next up at #ASHG2013: @erlichya on a 13 million person, 500-year pedigree reconstructed from social media data http://t.co/Ix4MMKf5Mu
+393360734727319553  Oct 24 08:58  @emmanuel9510     GO=>http://hotredirect.info/followcrazy?JKjN&emmanuel9510 ★RT★FOLLOWME★IFOLLOWYOU✔#ASHG2013,#tbt,#throwbackthursday,Rams,#blessed,#tcot,Halloween,Fl http://t.co/PgtcfVc8Mj
+393360803816284162  Oct 24 08:58  @dinazielinski    MT: avg of 9.2 genetic tests per ind. Research discovered variants cheaper and faster. #ASHG2013
+393360832706248705  Oct 24 08:58  @WesleyMyler      GO>http://www.google.me/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCwQFjAA&url=http%3A%2F%2Fwww.cimbomtakip.com%2F&ei=9pEyUrVwx8a0BtnDgdAN&usg=AFQjCNFVmu-5Vfv0evP5folSbKrwwm7vlQ&bvm=bv.52164340,d.Yms?FreexxxPornTube1382299639 NEW FOLLOWERS #tcot Obamacare Rams #blessed #ASHG2013 Florida http://t.co/SwYx0gTckz
+393360840667439104  Oct 24 08:58  @illumina         Awesome. now #ashg2013 is getting spammed. Cuz thats what we need this morning.
+393360841862823936  Oct 24 08:58  @avsmith          YA releasing these cool pedigrees (without names) to community. Very cool. #ASHG2013 http://familinx.org
+393360845591564288  Oct 24 08:58  @DaleYuzuki       Towne: Research group did show reduced cost and time. Ave cost for WES was $4.5K/family. Over 15mo cost (to Dec 2012) ~$2K to ~$1K #ASHG2013
+393360871118106624  Oct 24 08:58  @fluidigm         #ASHG2013 - Olopade:  AA pop has higher rate if high grade or trp neg breast cancer. Found 75 inh mut in 10 genes in 70 of the 395
+393360886401753090  Oct 24 08:58  @mwilsonsayres    Anyone know how to remove the spammers clogging #ASHG2013? cc @girlscientist @GeneticsSociety
+393360948829769728  Oct 24 08:58  @gabeinformatics  Towne: Research Identified results of exome trio analysis cheaper and faster than clinically dx (but no validation/CLIA overhead) #ASHG2013
+393360969059291136  Oct 24 08:58  @yluo86           RT @dgmacarthur: Using correlations between relative pairs, @erlichya finds zero evidence for epistasis in longevity. Zero. #ASHG2013
+393360982191247361  Oct 24 08:59  @NurhalizaLtfh    CLICK►http://www.google.nu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCwQFjAA&url=http%3A%2F%2Faskfollow.com%2F&ei=OpEyUvugMYirtAaO1IDIAg&usg=AFQjCNGpdsV0swvrksfsla-wIsvEmDbqGA&bvm=bv.52164340,d.Yms?satlikhesap_011382299270 FREE►FOLLOWERS #tcot Rams Florida #ASHG2013 #blessed Halloween http://t.co/C7RKVBKO4Q
+393361010037243905  Oct 24 08:59  @NurhalizaLtfh    GO>http://www.google.me/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCoQFjAA&url=http%3A%2F%2Fwww.bjktakip.com%2F&ei=3ZEyUs6qNcrbtAa4-IDoDg&usg=AFQjCNGa51wMgYpAUSMWRph0iN32MHpWAA&bvm=bv.52164340,d.Yms?iTzZKhlEad1382299619 NEW FOLLOWERS #ASHG2013 #blessed Halloween #throwbackthursday Miami #tcot http://t.co/CAXCA52ZFD
+393361015968378880  Oct 24 08:59  @dgmacarthur      YA: all of the underlying pedigree data (without names) is freely available for download: http://erlichlab.wi.mit.edu/familinx/ #ASHG2013
+393361043088769024  Oct 24 08:59  @athos10025       MT: time to clinical diagnosis is cut in half by WES/WGS; costs higher, but dropping #ASHG2013
+393361043701137408  Oct 24 08:59  @DaleYuzuki       Towne: Concl: "WES is a valuable tool"; "may shorthen time"; "clinician involvement... is crucial" #ASHG2013
+393361164807467008  Oct 24 08:59  @pathogenomenick  Oh dear, conference hashtag spam is an unwelcome development. #ASHG2013
+393361181026820096  Oct 24 08:59  @illumina         RT @dgmacarthur: YA: all of the underlying pedigree data (without names) is freely available for download: http://erlichlab.wi.mit.edu/familinx/ #ASHG2013
+393361201255555073  Oct 24 08:59  @cureffi          Q&A - @erlichya says estimates of heritability from his linear models are remarkably consistent #ASHG2013
+393361223103676416  Oct 24 08:59  @mangie2011x3     GO>https://www.google.nu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.newfreefollowers.com%2F&ei=dExkUo_kJYbRsgbWlIHIDg&usg=AFQjCNFH4if6Kgff1XuLJ_PSq6keSrq2tA&bvm=bv.54934254,d.Yms NEW FOLLOWERS #tcot Rams #throwbackthursday #ASHG2013 #tbt Miami http://t.co/fkJ0lOlHd7

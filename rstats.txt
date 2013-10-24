@@ -22702,3 +22702,42 @@
 393256260302557184  Oct 24 02:02  @yannabraham      RT @eddelbuettel: Introducing the CRAN (Repository) Policy Watch: http://goo.gl/lWuntq #rstats
 393265453826854913  Oct 24 02:39  @oscarperpinan    RT @eddelbuettel: Introducing the CRAN (Repository) Policy Watch: http://goo.gl/lWuntq #rstats
 393268688284958720  Oct 24 02:52  @geschichtenpost  RT @ucfagls: Drawing time series plots with lattice & ggplot in R. (Or: Answering email support requests with blog posts) #rstats http://t.co/nOxHUusUU4
+393281225454284800  Oct 24 03:42  @frod_san         RT @ucfagls: Drawing time series plots with lattice & ggplot in R. (Or: Answering email support requests with blog posts) #rstats http://t.co/nOxHUusUU4
+393282917323255808  Oct 24 03:48  @ianjacobs        Customize your R session with .Rprofile #rstats http://feedproxy.google.com/~r/RBloggers/~3/FXK45BtA_9I/
+393283180884938752  Oct 24 03:49  @ianjacobs        GLM, non-linearity and heteroscedasticity #rstats http://feedproxy.google.com/~r/RBloggers/~3/LC1K5trMH8c/
+393283324078477312  Oct 24 03:50  @ianjacobs        An introduction to Econometrics, using R #rstats http://feedproxy.google.com/~r/RBloggers/~3/l-KWw0t0zvo/
+393283717328019456  Oct 24 03:51  @ianjacobs        New R package: scholar; competition among academics comes to #rstats http://feedproxy.google.com/~r/RBloggers/~3/YgnhBIwYPec/
+393283719668445184  Oct 24 03:52  @masemresearch    Getting Genetics Done: Customize your .Rprofile and Keep Your Workspace Clean #rstats | @scoopit http://sco.lt/5otIMT
+393283923478061056  Oct 24 03:52  @Dadabla001       RT @ianjacobs: An introduction to Econometrics, using R #rstats http://feedproxy.google.com/~r/RBloggers/~3/l-KWw0t0zvo/
+393285555074899968  Oct 24 03:59  @ianjacobs        @Dadabla001 no worries, follow @Rbloggers for more #rstats tips
+393286035611717633  Oct 24 04:01  @jjgibaja         Para quienes quieran iniciarse en el análisis de datos (y además con #rstats), nuevo curso en @coursera: https://www.coursera.org/course/statistics?sharebuttons_ref=tw
+393295106754625536  Oct 24 04:37  @JGreenbrookHeld  I've ended up with a #GIS file that is a *.MAP extension. Any idea how I can read this into #rstats?
+393296010836848641  Oct 24 04:40  @keith_ng         RT @JGreenbrookHeld: I've ended up with a #GIS file that is a *.MAP extension. Any idea how I can read this into #rstats?
+393296205154762752  Oct 24 04:41  @Kubke            RT @JGreenbrookHeld: I've ended up with a #GIS file that is a *.MAP extension. Any idea how I can read this into #rstats?
+393299680701841408  Oct 24 04:55  @coolbutuseless   RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393303820216066048  Oct 24 05:11  @masemresearch    http://Renjin.org | Home of the JVM-based interpreter for R #rstats | @scoopit http://sco.lt/5Ozfn7
+393305762513952768  Oct 24 05:19  @raviupanishad    RT @KirkDBorne: Programming in R - many basic and advanced topics & examples presented here: http://zoonek2.free.fr/UNIX/48_R/02.html #Rstats > data structures, tricks,....
+393308643011338240  Oct 24 05:31  @LilithElina      How to learn about p-values... xkcd: Significant http://j.mp/1ajl21S #rstats
+393313255994580992  Oct 24 05:49  @DatametricsBI    Articulo recomendado: minería de texto para datos no estructurados http://idata.com.co/Datametrics/ArticuloMineriaTexto.pdf #rstats #BI #Datamining #CRM #Marketing
+393316750093062144  Oct 24 06:03  @monsoontrader    RT @LilithElina: How to learn about p-values... xkcd: Significant http://j.mp/1ajl21S #rstats
+393324905439444992  Oct 24 06:35  @jmgomez          New R package: scholar - export citations from #Google #Scholar in #Rstats http://ow.ly/25S7Ga
+393325013752758272  Oct 24 06:36  @burnsstat        The joy of data analysis http:// http://bit.ly/19zwTYJ #stats #rstats
+393326089143353344  Oct 24 06:40  @portfolioprobe   RT @burnsstat: The joy of data analysis http:// http://bit.ly/19zwTYJ #stats #rstats
+393328308194385921  Oct 24 06:49  @mjcavaretta      Using data from @quandl RT @ianjacobs: An introduction to Econometrics, using R #rstats http://feedproxy.google.com/~r/RBloggers/~3/l-KWw0t0zvo/
+393328887830429697  Oct 24 06:51  @mjcavaretta      Gr8 code examples. Thx! RT @ucfagls: Drawing time series plots with lattice & ggplot in R.  #rstats http://bit.ly/1fVKcrA
+393329500798201856  Oct 24 06:53  @monsoontrader    RT @mjcavaretta: Gr8 code examples. Thx! RT @ucfagls: Drawing time series plots with lattice & ggplot in R.  #rstats http://bit.ly/1fVKcrA
+393330598636318720  Oct 24 06:58  @moorejh          #visualization RT @RLangTip: Visualize a #3D surface with the persp function: http://bit.ly/Svpkai #rstats
+393343928269041664  Oct 24 07:51  @gappy3000        I am completely ignorant, but... what are the objections against switching code (like #rstats code base) from GPL to MIT license?
+393344980783489024  Oct 24 07:55  @KirkDBorne       Big list of programming references: HT @Bihua_chen: Polyglots for #DataScience -- #Python #SAS #Rstats and more! http://wp.me/p9q8Y-2XV
+393345171112615936  Oct 24 07:56  @vishalgreat      RT @KirkDBorne: Big list of programming references: HT @Bihua_chen: Polyglots for #DataScience -- #Python #SAS #Rstats and more! http://t.co/KuYPdfCr7F
+393345427183267840  Oct 24 07:57  @DrTrevaskis      RT @KirkDBorne: Big list of programming references: HT @Bihua_chen: Polyglots for #DataScience -- #Python #SAS #Rstats and more! http://t.co/KuYPdfCr7F
+393345745769603073  Oct 24 07:58  @treycausey       RT @cpsievert: A good example of why I hesitate to post questions on #rstats-help http://r.789695.n4.nabble.com/Optim-function-with-multivariate-inputs-td3768850.html cc @treycausey
+393347938040442880  Oct 24 08:07  @GrapheneDB       RT @FastBigData: #rstats + @Neo4j to build predictive models? Remember to rebuild indexes for preexisting data after auto index is switched
+393350563641196544  Oct 24 08:17  @tkb              A nice little econometrics and regression tutorial by @Quandl using #rstats and @worldbankdata - http://bit.ly/HgQO5E #opendata
+393351234402254849  Oct 24 08:20  @alexhanna        Finishing up an #rstats lab. Do folks have fav CSS for displaying Markdown? Been using http://kevinburke.bitbucket.org/markdowncss/ but code could look better.
+393352012265717760  Oct 24 08:23  @consuey          RT @tkb: A nice little econometrics and regression tutorial by @Quandl using #rstats and @worldbankdata - http://bit.ly/HgQO5E #opendata
+393352017051398144  Oct 24 08:23  @PythonDaily      RT @KirkDBorne: Big list of programming references: HT @Bihua_chen: Polyglots for #DataScience -- #Python #SAS #Rstats and more! http://t.co/KuYPdfCr7F
+393353046732058624  Oct 24 08:27  @worldbankdata    RT @tkb: A nice little econometrics and regression tutorial by @Quandl using #rstats and @worldbankdata - http://bit.ly/HgQO5E #opendata
+393356661206687744  Oct 24 08:41  @QuantOfAsia      RT @tkb: A nice little econometrics and regression tutorial by @Quandl using #rstats and @worldbankdata - http://bit.ly/HgQO5E #opendata
+393358113920659456  Oct 24 08:47  @Biff_Bruise      MT @freakonometrics: "R videos" http://dist.stat.tamu.edu/pub/rvideos/ #rstats
+393358883000815617  Oct 24 08:50  @_nicolemargaret  RT @KirkDBorne: Big list of programming references: HT @Bihua_chen: Polyglots for #DataScience -- #Python #SAS #Rstats and more! http://t.co/KuYPdfCr7F
