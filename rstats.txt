@@ -22675,3 +22675,30 @@
 393175123265462272  Oct 23 20:40  @Vladiim          RT @revodavid: Learn about econometrics, regression and R with real data in this @Quandl #rstats tutorial: http://bit.ly/1fVzmlh
 393177050347225088  Oct 23 20:48  @ArthurFlam       RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
 393178797232893952  Oct 23 20:55  @ciamk            Advanced R Programming by @hadleywickham http://ow.ly/q7hss #rstats
+393180628738248704  Oct 23 21:02  @bryangoodrich    Awesome! - RT "@hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats"
+393184422352019456  Oct 23 21:17  @sekhardrona      RT @KirkDBorne: Programming in R - many basic and advanced topics & examples presented here: http://zoonek2.free.fr/UNIX/48_R/02.html #Rstats > data structures, tricks,....
+393184510717612034  Oct 23 21:17  @sekhardrona      RT @revodavid: "Learn about econometrics, regression and R with real data in this @Quandl #rstats tutorial: http://bit.ly/1fVzmlh"
+393184753047719938  Oct 23 21:18  @tylerrinker      RT @hadleywickham: thanks to @romain_francois it looks like joins in dplyr will be faster than data.table and pandas #rstats
+393185031889616896  Oct 23 21:19  @mktgdata         RT @KirkDBorne: Programming in R - many basic and advanced topics & examples presented here: http://zoonek2.free.fr/UNIX/48_R/02.html #Rstats > data structures, tricks,....
+393186446288248833  Oct 23 21:25  @ucfagls          @hylopsar you could have look at #rstats script for a chapter I wrote: http://bit.ly/Hce4kS @tslumley @distribecology @davidjayharris
+393190561613889536  Oct 23 21:41  @randyzwitch      Is there anyone out there using RSiteCatalyst successfully on a Windows machine? #omniture #AdobeAnalytics #rstats
+393191705400590336  Oct 23 21:46  @aloukina         @haikuman I think it's the most useful book on #rstats I've seen
+393194642570633216  Oct 23 21:58  @planarrowspace   include explicit assumption tests in analysis code http://planspace.org/2013/10/23/include-explicit-assumption-tests-in-analysis-code/ continuing thoughts on how to do data analysis well #data #rstats
+393205336544251904  Oct 23 22:40  @Rbloggers        Customize your R session with .Rprofile:  (This article was first published on   Revolutions, and ki... http://bit.ly/17d5GLS #rstats
+393207236857569280  Oct 23 22:48  @CRANPolicyWatch  New CRAN Repository Policy rev2935 posted, history at https://github.com/eddelbuettel/crp/tree/master/txt #rstats
+393208348499542016  Oct 23 22:52  @recology_        RT @CRANPolicyWatch: New CRAN Repository Policy rev2935 posted, history at https://github.com/eddelbuettel/crp/tree/master/txt #rstats
+393210043094429696  Oct 23 22:59  @sekhardrona      RT @eddelbuettel: "Very nice (though little dated) introduction to #Rcpp for Economists by @LanceBachmeier https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxsYW5jZWJhY2htZWllcnxneDoxNGU4MWI3Zjg4ZTAzYzAz  #rstats"
+393211576976949248  Oct 23 23:05  @DrLyndonWalker   #Finance & R Blogs #rstats http://ow.ly/q5gZf
+393213879473299456  Oct 23 23:14  @eddelbuettel     Introducing the CRAN (Repository) Policy Watch: http://goo.gl/lWuntq #rstats
+393214470740127744  Oct 23 23:16  @ucfagls          RT @eddelbuettel: Introducing the CRAN (Repository) Policy Watch: http://goo.gl/lWuntq #rstats
+393214478172844032  Oct 23 23:16  @ramnath_vaidya   RT @eddelbuettel: Introducing the CRAN (Repository) Policy Watch: http://goo.gl/lWuntq #rstats
+393214576310747136  Oct 23 23:17  @sekhardrona      RT @revodavid: Forbes article today talks about putting R-based analytics in the hands of business analysts http://bit.ly/16gOUgn #rstats @alteryx
+393217841782337536  Oct 23 23:30  @statsmaths       RT @eddelbuettel: Introducing the CRAN (Repository) Policy Watch: http://goo.gl/lWuntq #rstats
+393226947884367872  Oct 24 00:06  @hughparsonage    qplot(manyX, manyY, alpha=I(0.1), data=Bigdata, col=Type) + guides(colour = guide_legend(override.aes = list(alpha = 1))) #ggplot2 #rstats
+393228847937634304  Oct 24 00:13  @cpsievert        A good example of why I hesitate to post questions on #rstats-help http://r.789695.n4.nabble.com/Optim-function-with-multivariate-inputs-td3768850.html cc @treycausey
+393242262244560896  Oct 24 01:07  @PPUAMX           RT @RLangTip: Visualize a 3-D surface with the persp function: http://bit.ly/Svpkai #rstats
+393247989353168896  Oct 24 01:30  @DailyRpackage    sitools - Format a number to a string with SI prefix http://cran.r-project.org/web/packages/sitools/index.html #RStats
+393251832195055616  Oct 24 01:45  @rvimieiro        BlueSNP: #Rstats package for highly scalable genome-wide association studies using #Hadoop clusters  http://bioinformatics.oxfordjournals.org/content/29/1/135.full #gwas #genomics
+393256260302557184  Oct 24 02:02  @yannabraham      RT @eddelbuettel: Introducing the CRAN (Repository) Policy Watch: http://goo.gl/lWuntq #rstats
+393265453826854913  Oct 24 02:39  @oscarperpinan    RT @eddelbuettel: Introducing the CRAN (Repository) Policy Watch: http://goo.gl/lWuntq #rstats
+393268688284958720  Oct 24 02:52  @geschichtenpost  RT @ucfagls: Drawing time series plots with lattice & ggplot in R. (Or: Answering email support requests with blog posts) #rstats http://t.co/nOxHUusUU4
