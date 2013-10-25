@@ -22851,3 +22851,25 @@
 393627750679867392  Oct 25 02:39  @kj_gilbert       RT @phylorich: Tempted to define a HELL_NO constant in #rstats, just for use with stringsAsFactors.
 393629787337785344  Oct 25 02:47  @_NickGolding_    RT @phylorich: Tempted to define a HELL_NO constant in #rstats, just for use with stringsAsFactors.
 393630078737076224  Oct 25 02:48  @Physical_Prep    R-Studio very slow on Mac OS X 10.9 Maverics http://bit.ly/1agW7KD #rstats #rstudio Glad I am not the only one experiencing this :)
+393633797146546176  Oct 25 03:03  @MathewPell       RT @Physical_Prep: R-Studio very slow on Mac OS X 10.9 Maverics http://bit.ly/1agW7KD #rstats #rstudio Glad I am not the only one experiencing this :)
+393638220023734272  Oct 25 03:20  @RickSaporta      Theres options() to default F, yet still frust MT @_NickGolding_: Tempted to define a HELL_NO constant in #rstats just for stringsAsFactors.
+393639004081770496  Oct 25 03:23  @RickSaporta      RT @np_jiang: My experience of learning R - from basic graphs to performance tuning. http://i.cx/1bieW0g #statistics #r #rstats
+393640198103248896  Oct 25 03:28  @datennutzen      @HansRosling we realized one of your visualizations with modern #rstats concepts - could be interessting http://blog.eoda.de/2013/10/24/schools-out-building-interactive-r-apps-with-shiny-googlevis-in-our-r-academy/ …
+393649335692705792  Oct 25 04:04  @lvgap            RT @jjgibaja: Para quienes quieran iniciarse en el análisis de datos (y además con #rstats), nuevo curso en @coursera: https://t.co/XFl5OEEoVp
+393667600837660672  Oct 25 05:17  @RPanczak         Table as an Image in #Rstats http://www.mollietaylor.com/2013/10/table-as-image-in-r.html?spref=tw
+393668512574484480  Oct 25 05:21  @adolfoalvarez    RT @RPanczak: Table as an Image in #Rstats http://www.mollietaylor.com/2013/10/table-as-image-in-r.html?spref=tw
+393683225174081536  Oct 25 06:19  @romain_francois  RT @CRANberriesFeed: CRAN updates: biomod2 Matrix nanop RcppEigen http://goo.gl/5g3iZ #rstats
+393688827677913088  Oct 25 06:41  @statsforbios     RT @phylorich: Tempted to define a HELL_NO constant in #rstats, just for use with stringsAsFactors.
+393690974666637312  Oct 25 06:50  @jjmullz          Turn street level addresses into lat-long with Ruby gem http://www.rubygeocoder.com/ and visualise with #rstats ggmaps.
+393692576467144704  Oct 25 06:56  @texhewson        RT @jjmullz: Turn street level addresses into lat-long with Ruby gem http://www.rubygeocoder.com/ and visualise with #rstats ggmaps.
+393696291806400512  Oct 25 07:11  @MangoTheCat      Presentations from NewJerseyR user group meeting now available http://www.newjerseyr.org #rstats
+393696548233961472  Oct 25 07:12  @MangoTheCat      RT @CRANberriesFeed: CRAN updates: biomod2 Matrix nanop RcppEigen http://goo.gl/5g3iZ #rstats
+393701509700931584  Oct 25 07:32  @chenghlee        THIS! Why is TRUE the default?!! RT @phylorich: Tempted to define a HELL_NO constant in #rstats, just for use with stringsAsFactors.
+393710243919589376  Oct 25 08:06  @moorejh          #bioinformatics RT @rvimieiro: BlueSNP: #Rstats package for highly scalable #GWAS using #Hadoop clusters  http://bioinformatics.oxfordjournals.org/content/29/1/135.full #genomics
+393710784070418432  Oct 25 08:09  @johnpharmd       RT @moorejh: #bioinformatics RT @rvimieiro: BlueSNP: #Rstats package for highly scalable #GWAS using #Hadoop clusters  http://t.co/islNTwSGMs #genomics
+393714181176045568  Oct 25 08:22  @FremietLara      RT @moorejh: #bioinformatics RT @rvimieiro: BlueSNP: #Rstats package for highly scalable #GWAS using #Hadoop clusters  http://t.co/islNTwSGMs #genomics
+393716429721042944  Oct 25 08:31  @ojessen          I love knitr, markdown and pandoc - define 1 input file, get three report formats. #rstats
+393718558489731072  Oct 25 08:39  @ojessen          @rmflight html, docx and pdf (via Latex).  The stack is knit2html, pandoc html ->docx & pdf. Looks nice. #rstats
+393719851384315904  Oct 25 08:45  @pinin4fjords     I am not alone in hating stringsAsFactors! MT @Rbloggers: Customize your R session with .Rprofile http://bit.ly/17d5GLS #rstats
+393720299054571520  Oct 25 08:46  @raviupanishad    RT @moorejh: #bioinformatics RT @rvimieiro: BlueSNP: #Rstats package for highly scalable #GWAS using #Hadoop clusters  http://t.co/islNTwSGMs #genomics
+393723260996960256  Oct 25 08:58  @mushmy           RT @statisticsblog: My experience of learning R - from basic graphs to performance tuning. http://i.cx/1bieW0g #statistics #r #rstats
