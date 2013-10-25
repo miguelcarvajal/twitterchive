@@ -4857,3 +4857,8 @@
 393444624884572160  Oct 24 14:31  @illumina         DD: different RNA-seq  aligners are optimal for different applications - considering using multiple aligners together #ASHG2013
 393446279172599808  Oct 24 14:37  @illumina         Peter Hoen - performed RNA-seq across several samples from 5 populations from the 1000 genomes study #ASHG2013
 393448882287702016  Oct 24 14:48  @Bioinformatik80  RT @illumina: David DeLuca shows a comparison of different RNA-seq aligners - one thing they all do poorly at is calling insertions. #ASHG2013
+393456381271236609  Oct 24 15:18  @GeneQuan         RT @genomeresearch: RT @nextgenseek: On @genomeresearch: The largest Transcriptomics using RNA-Seq study with 922 individuals  http://t.co/fgaP1dIilc #RNASeq
+393464774945542145  Oct 24 15:51  @RoxanaDaneshjou  CB: Using single cell RNA-Seq -- 1% of exons showed difference for exon inclusion between single cells. #ASHG2013
+393470572140560385  Oct 24 16:14  @BioMath          RT @stephaniehicks: David DeLuca discussing all the criteria used to evaluate RNA-seq aligners with a RNA-Seq simulator from http://t.co/O5r2ou5E4t #ASHG2013
+393477191108812800  Oct 24 16:40  @larry_parnell    ED RNA-seq data gives exon eQTL, gene eQTL, transcript ratio QTL, mirQTL, repeat QTL RNA edit QTL data #ASHG2013
+393504422762127360  Oct 24 18:29  @EpigenChromatin  Stephen Montgomery finishes off the day discussing rare, non-coding variants; shows interesting RNA-seq eQTL data #ASHG2013

@@ -22793,3 +22793,45 @@
 393444256456900608  Oct 24 14:29  @idigdata         RT @Biff_Bruise: MT @freakonometrics: "R videos" http://dist.stat.tamu.edu/pub/rvideos/ #rstats
 393447918780178432  Oct 24 14:44  @JimGrange        New #rstats package lets you do cool tests of your Google sholar profile (h-index prediction, career comparison etc): http://bit.ly/Hh31pT
 393450592581849088  Oct 24 14:55  @AnnKEmery        Missed the R presentation by @tonyfujs and @wtfenn at last week's #eval13 conference? Handout is here: http://annkemery.files.wordpress.com/2012/02/handout1.pdf #eval #Rstats
+393451861342035968  Oct 24 15:00  @statisticsblog   My experience of learning R - from basic graphs to performance tuning. http://i.cx/1bieW0g #statistics #r #rstats
+393451896624513024  Oct 24 15:00  @simonohanlon101  @hadleywickham That was the ticket. Thanks! #rstats #nirvana
+393456579300687872  Oct 24 15:18  @KirkDBorne       Syracuse U's popular #MOOC in "Applied #DataScience" starts a new session on Oct.28: http://ischool.syr.edu/newsroom/index.aspx?recid=1532 #Rstats #BigData #Analytics
+393457674094137344  Oct 24 15:23  @jackwmson        RT @KirkDBorne: Syracuse U's popular #MOOC in "Applied #DataScience" starts a new session on Oct.28: http://ischool.syr.edu/newsroom/index.aspx?recid=1532 #Rstats #BigData #Analytics
+393458744849604608  Oct 24 15:27  @emnavarretem     RT @statisticsblog: My experience of learning R - from basic graphs to performance tuning. http://i.cx/1bieW0g #statistics #r #rstats
+393459312724832256  Oct 24 15:29  @AndrewStatsol    RT @statisticsblog: My experience of learning R - from basic graphs to performance tuning. http://i.cx/1bieW0g #statistics #r #rstats
+393462079652249600  Oct 24 15:40  @Rbloggers        Table as an Image in R:  (This article was first published on   Mollie's Research Blog, and kindly c... http://bit.ly/18Q7niq #rstats
+393464407721668609  Oct 24 15:49  @statsmaths       Having fun "prying back the surface of R" with @hadleywickham's pryr package: http://ow.ly/q9cSw #rstats
+393464728627838977  Oct 24 15:51  @ahujhes          need a copy of @Stata MP to run simulations but for some obnoxious reason it costs way more than SE despite being almost identical #rstats
+393465036867256320  Oct 24 15:52  @revodavid        RT @RevoJoe: #rstats Get a glimpse at the future of sports statistics: big money to be made? http://bit.ly/1akDirT
+393466653994156033  Oct 24 15:58  @microbeatic      RT @RevoJoe: #rstats Get a glimpse at the future of sports statistics: big money to be made? http://bit.ly/1akDirT
+393467627496284160  Oct 24 16:02  @mfelker          RT @JimGrange: Cool! You can now post #Rstats code on http://Wordpress.com-based blogs by wrapping code between [code lang="r"] and [/code]
+393468859526574080  Oct 24 16:07  @berkeleymalagon  @rstudioapp It is extremely painful that @rstudioapp doesn’t remember the last location from which I opened a file. On the backlog? #Rstats
+393469045628211200  Oct 24 16:08  @DaleEArnold      Whoa! Who are you? “@statsmaths: fun "prying back the surface of R" with @hadleywickham's pryr package: http://ow.ly/q9cSw #rstats”
+393469317184241664  Oct 24 16:09  @lifeaquatic      Fantastic 3 hours teaching R to undergraduates: "Why isn't everyone taught this?" Smiles of triumph when code works = priceless #Rstats
+393469940797161473  Oct 24 16:11  @hadleywickham    RT @statsmaths: Having fun "prying back the surface of R" with @hadleywickham's pryr package: http://ow.ly/q9cSw #rstats
+393470046124904448  Oct 24 16:12  @therealprotonk   RT @statsmaths: Having fun "prying back the surface of R" with @hadleywickham's pryr package: http://ow.ly/q9cSw #rstats
+393470185228992512  Oct 24 16:12  @Luffbro_Uni      RT @statisticsblog: My experience of learning R - from basic graphs to performance tuning. http://i.cx/1bieW0g #statistics #r #rstats
+393471666116104192  Oct 24 16:18  @therealprotonk   R Graphics protip: type = "p" GOOD. pch = "p" BAD. http://i.imgur.com/2yTi1hR.png #rstats
+393472042713874433  Oct 24 16:20  @rmflight         when using *apply, putting function separate will make debugging easier #rstats
+393473137519501312  Oct 24 16:24  @lincolnmullen    How do you deal with projections in fortified data frames using ggplot2? http://gis.stackexchange.com/q/75413/21006?stw=2 #rstats
+393473663519162368  Oct 24 16:26  @Entropisch       RT @RevoJoe: #rstats Get a glimpse at the future of sports statistics: big money to be made? http://bit.ly/1akDirT
+393474403167911936  Oct 24 16:29  @therealprotonk   pch = "20" is even worse. #rstats
+393475105315356672  Oct 24 16:32  @JonesZM          RT @statsmaths: Having fun "prying back the surface of R" with @hadleywickham's pryr package: http://ow.ly/q9cSw #rstats
+393477378984263680  Oct 24 16:41  @MathewPell       RT @Physical_Prep: Complementary Training: Playing with R, ggplot2 and knitr http://bit.ly/HjLTQy #rstats #nerd #sportscience
+393480220457463808  Oct 24 16:52  @AllanWalkerIT    RT @Biff_Bruise: MT @freakonometrics: "R videos" http://dist.stat.tamu.edu/pub/rvideos/ #rstats
+393480237998428160  Oct 24 16:52  @tim_yates        RT @rmflight: when using *apply, putting function separate will make debugging easier #rstats
+393481422461497344  Oct 24 16:57  @ckomiya          RT @rmflight: when using *apply, putting function separate will make debugging easier #rstats
+393488583945756673  Oct 24 17:26  @erwtokritos      Stratified sampling in #RStats http://rss.acs.unt.edu/Rdoc/library/sampling/html/strata.html
+393494390548623360  Oct 24 17:49  @Datamarketing_   Articulo recomendado: minería de texto para datos no estructurados http://idata.com.co/Datametrics/ArticuloMineriaTexto.pdf #rstats #BI #Datamining #CRM #Marketing
+393496030278189056  Oct 24 17:55  @AarontheEcolog   I must admit. I do get a thrill as the analyses appear RT"@Rbloggers: The joy of data analysis:   http://bit.ly/18PnSeQ" #rstats #ecology
+393496615823998977  Oct 24 17:57  @geospacedman     Experimenting with terraced contours using extrude3d in #rstats and the rgl package http://t.co/qTgmReetu5
+393497696671395840  Oct 24 18:02  @mfelker          RT @genetics_blog: Really good primer on #Rstats package development https://github.com/jtleek/rpackages
+393504495033778177  Oct 24 18:29  @SergeyKochergan  Table as an Image in R http://www.r-bloggers.com/table-as-an-image-in-r/ via @rbloggers #rstats
+393513273867259905  Oct 24 19:04  @np_jiang         RT @statisticsblog: My experience of learning R - from basic graphs to performance tuning. http://i.cx/1bieW0g #statistics #r #rstats
+393516595227942912  Oct 24 19:17  @SobriJozsi       RT @statsmaths: Having fun "prying back the surface of R" with @hadleywickham's pryr package: http://ow.ly/q9cSw #rstats
+393516913936330752  Oct 24 19:18  @SAGRudd          New #RNASeq Pathway and Gene-set Analysis Workflows in R/Bioconductor = #gage #awesome #rstats #tutorial @ http://buff.ly/Hi8H3Z
+393517340853161984  Oct 24 19:20  @neilfws          RT @SAGRudd: New #RNASeq Pathway and Gene-set Analysis Workflows in R/Bioconductor = #gage #awesome #rstats #tutorial @ http://t.co/NgEeTFn9R7
+393517877891829761  Oct 24 19:22  @JChrisPires      RT @SAGRudd: New #RNASeq Pathway and Gene-set Analysis Workflows in R/Bioconductor = #gage #awesome #rstats #tutorial @ http://t.co/NgEeTFn9R7
+393521663351873536  Oct 24 19:37  @KirkDBorne       R Tutorial for Beginners - A Quick Start-Up Kit: http://bit.ly/1a3GdRz #abdsc #Rstats #DataScience #Statistics #Programming
+393522687743520768  Oct 24 19:41  @agwm             RT @KirkDBorne: R Tutorial for Beginners - A Quick Start-Up Kit: http://bit.ly/1a3GdRz #abdsc #Rstats #DataScience #Statistics #Programming
+393539177813655552  Oct 24 20:47  @CaldwellLea      RT @KirkDBorne: R Tutorial for Beginners - A Quick Start-Up Kit: http://bit.ly/1a3GdRz #abdsc #Rstats #DataScience #Statistics #Programming
