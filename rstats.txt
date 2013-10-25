@@ -22873,3 +22873,50 @@
 393719851384315904  Oct 25 08:45  @pinin4fjords     I am not alone in hating stringsAsFactors! MT @Rbloggers: Customize your R session with .Rprofile http://bit.ly/17d5GLS #rstats
 393720299054571520  Oct 25 08:46  @raviupanishad    RT @moorejh: #bioinformatics RT @rvimieiro: BlueSNP: #Rstats package for highly scalable #GWAS using #Hadoop clusters  http://t.co/islNTwSGMs #genomics
 393723260996960256  Oct 25 08:58  @mushmy           RT @statisticsblog: My experience of learning R - from basic graphs to performance tuning. http://i.cx/1bieW0g #statistics #r #rstats
+393726747683721216  Oct 25 09:12  @timelyportfolio  RT @cpsievert: .@rstudioapp's shiny + ggvis are making interactive data visualization so easy it's gonna make me cry (in a good way) #rstats
+393726861949538304  Oct 25 09:12  @ramnath_vaidya   RT @cpsievert: .@rstudioapp's shiny + ggvis are making interactive data visualization so easy it's gonna make me cry (in a good way) #rstats
+393729451453730817  Oct 25 09:23  @ojessen          @rmflight I build a small example here: https://github.com/ojessen/Example_knitr #rstats
+393731854752567296  Oct 25 09:32  @es_arman         RT @statisticsblog: My experience of learning R - from basic graphs to performance tuning. http://i.cx/1bieW0g #statistics #r #rstats
+393734261208928256  Oct 25 09:42  @silverlangur     Anyone know #rstats interface for Vortex & co PVA stuff, or use Vortex10 in absence of GUI? Constant clicking at Vortex9 pissing me off...
+393735576970870784  Oct 25 09:47  @sharon000        Make a map in 4 lines of code with R, GeoJSON & GitHub http://bit.ly/1d6DoUl by @recology_ via @DashingD3js #rstats #gis #ddj
+393736523767898112  Oct 25 09:51  @texhewson        RT @sharon000: Make a map in 4 lines of code with R, GeoJSON & GitHub http://bit.ly/1d6DoUl by @recology_ via @DashingD3js #rstats #gis #ddj
+393737810676830208  Oct 25 09:56  @RodolfoVanzini   (Edit): Some (preliminary text-mining) on #eurocrisis on Twitter using R.   http://bit.ly/1681fRE #eurocrisis #rstats
+393738800200810496  Oct 25 10:00  @josecamoessilva  Interesting (staing w/ #Rstats for now, tho) RT @siah: Julia’s Role in Data Science http://ow.ly/q9TEu by @johnmyleswhite #fb
+393738859789287424  Oct 25 10:00  @statisticsblog   R tip of the day - Customize your .Rprofile and Keep Your Workspace Clean. http://i.cx/18OT51x #r #rstats @genetics_blog
+393739116560408576  Oct 25 10:01  @Rbloggers        xkcd: A webcomic of the internet, small talk, meta discussions, and whimsical phantasmagoria:  (This... http://bit.ly/17itfCV #rstats
+393739525287325696  Oct 25 10:03  @NISSSAMSI        RT @statisticsblog: R tip of the day - Customize your .Rprofile and Keep Your Workspace Clean. http://i.cx/18OT51x #r #rstats @genetics_blog
+393739537127841792  Oct 25 10:03  @genetics_blog    CAPE: An #Rstats Package for Combined Analysis of Pleiotropy and Epistasis http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003270?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ploscompbiol/NewArticles+(PLOS+Computational+Biology+-+New+Articles)
+393741318129590272  Oct 25 10:10  @timelyportfolio  Timely Portfolio: Equity Market Risk Premium Around the World http://timelyportfolio.blogspot.com/2013/10/equity-market-risk-premium-around-world.html?spref=tw .@ramnath_vaidya #rstats #rCharts #d3js
+393741636087209984  Oct 25 10:11  @CjBayesian       Monte Hall on xkcd http://xkcd.com/1282/. If you __don't__ want the goat, try this: http://bayesianbiologist.com/2012/02/03/monty-hall-by-simulation/ #rstats
+393743788654329857  Oct 25 10:20  @emjonaitis       Thanks for all the nerd help with string gen in #rstats :) problem: solved! TIL: letters and LETTERS are things!
+393744068494512128  Oct 25 10:21  @palasaty         RT @genetics_blog: CAPE: An #Rstats Package for Combined Analysis of Pleiotropy and Epistasis http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003270?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ploscompbiol/NewArticles+(PLOS+Computational+Biology+-+New+Articles)
+393746448040210432  Oct 25 10:30  @bibaswanghoshal  RT @genetics_blog: CAPE: An #Rstats Package for Combined Analysis of Pleiotropy and Epistasis http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003270?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ploscompbiol/NewArticles+(PLOS+Computational+Biology+-+New+Articles)
+393747726384381952  Oct 25 10:35  @raviupanishad    RT @genetics_blog: CAPE: An #Rstats Package for Combined Analysis of Pleiotropy and Epistasis http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003270?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ploscompbiol/NewArticles+(PLOS+Computational+Biology+-+New+Articles)
+393747799046914048  Oct 25 10:36  @statsmaths       RT @CRANberriesFeed: CRAN updates: dgof hdlm http://goo.gl/5g3iZ #rstats
+393749439002996736  Oct 25 10:42  @ramnath_vaidya   RT @timelyportfolio: Timely Portfolio: Equity Market Risk Premium Around the World http://timelyportfolio.blogspot.com/2013/10/equity-market-risk-premium-around-world.html?spref=tw .@ramnath_vaidya #rstats #rCharts #d3js
+393749575309066241  Oct 25 10:43  @ramnath_vaidya   Publish #slidify decks as gists now. https://gist.github.com/ramnathv/7155503 #rstats
+393749646159253505  Oct 25 10:43  @recology_        RT @ramnath_vaidya: Publish #slidify decks as gists now. https://gist.github.com/ramnathv/7155503 #rstats
+393749802938556416  Oct 25 10:44  @romain_francois  RT @ramnath_vaidya: Publish #slidify decks as gists now. https://gist.github.com/ramnathv/7155503 #rstats
+393751505792425984  Oct 25 10:50  @timelyportfolio  RT @ramnath_vaidya: Publish #slidify decks as gists now. https://gist.github.com/ramnathv/7155503 #rstats
+393752638619021312  Oct 25 10:55  @brent_p          I wish all you #rstats people would jump ship and start writing stuff in #python. we'd thank each other should it occur.
+393753776558858242  Oct 25 10:59  @ucfagls          @brent_p & the incentive to do that is what, for us, exactly? #rstats
+393755828223635456  Oct 25 11:07  @Jowanza          @cpsievert @ramnath_vaidya @timelyportfolio I feel like everyday #Rstats steps up its game in a way that is mind blowing.
+393757382796263424  Oct 25 11:14  @davidjayharris   RT @phylorich: Tempted to define a HELL_NO constant in #rstats, just for use with stringsAsFactors.
+393760317492064256  Oct 25 11:25  @ramnath_vaidya   #slidify + @rstudioapp viewer!! http://youtu.be/dRuwVY-TiSg #rstats
+393761708293890049  Oct 25 11:31  @Jowanza          OMG RT @ramnath_vaidya #slidify + @rstudioapp viewer!! http://youtu.be/dRuwVY-TiSg  #rstats
+393764502845394944  Oct 25 11:42  @Rbloggers        Another Rcpp/RcppArmadillo success story:  (This article was first published on   Shifting sands, an... http://bit.ly/1c42gec #rstats
+393770471122288640  Oct 25 12:06  @RLangTip         Use str(obj) to display the components of any object in human-readable format. http://ow.ly/pXXgI #rstats
+393772877750620160  Oct 25 12:15  @Marko_GHz        RT @RLangTip: Use str(obj) to display the components of any object in human-readable format. http://ow.ly/pXXgI #rstats
+393772941718351872  Oct 25 12:15  @DataAtCU         RT @sharon000: Make a map w 4 lines of code with R, GeoJSON & GitHub http://bit.ly/1d6DoUl by @recology_ via @DashingD3js #rstats #gis #ddj
+393773235625791488  Oct 25 12:17  @froliol          RT @RLangTip: Use str(obj) to display the components of any object in human-readable format. http://ow.ly/pXXgI #rstats
+393773483416510464  Oct 25 12:18  @miguelacevedopr  RT @RLangTip: Use str(obj) to display the components of any object in human-readable format. http://ow.ly/pXXgI #rstats
+393779129621155840  Oct 25 12:40  @RickSaporta      Well that's just silly. Why exactly? RT @brent_p: I wish all you #rstats people would jump ship and start writing stuff in #python.
+393779727225597952  Oct 25 12:42  @thorei           RT @ramnath_vaidya: Publish #slidify decks as gists now. https://gist.github.com/ramnathv/7155503 #rstats
+393784043135053825  Oct 25 13:00  @GB_foodwebs      Fighting with R. Sob. Needless to say things are not going well... #rstats #phdchat
+393785240214597632  Oct 25 13:04  @ErikaMudrak      Trying my hand at a zero inflated, beta-binomial mixed-effects model. Why must I always jump in at the deep end? #rstats
+393786911040733184  Oct 25 13:11  @gatellgm         RT @RLangTip: Use str(obj) to display the components of any object in human-readable format. http://ow.ly/pXXgI #rstats
+393790078083792896  Oct 25 13:24  @duke_data        Workshop Monday (10/28) - Designing Academic Posters and Analysis with R back to back  - join us! http://bit.ly/zQ8hgt #rstats #dataviz
+393791641397764096  Oct 25 13:30  @Petzoldt         Video: Nice hands-on intro to basic #TextMining #Classification with #RStats http://tmblr.co/ZgQLxxybhKRD
+393798877481947136  Oct 25 13:59  @Jowanza          Pretty sure if I made a slidify deck for my team people would pass out.  #Rstats
+393805334831067136  Oct 25 14:24  @kara_woo         Dear bathymetry map, I am going to own you today or die trying. #rstats
+393808652198748161  Oct 25 14:37  @recology_        much better interface to #rstats pkgs on renjin http://bit.ly/1c4ypCC than on CRAN's site
