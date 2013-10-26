@@ -22920,3 +22920,40 @@
 393798877481947136  Oct 25 13:59  @Jowanza          Pretty sure if I made a slidify deck for my team people would pass out.  #Rstats
 393805334831067136  Oct 25 14:24  @kara_woo         Dear bathymetry map, I am going to own you today or die trying. #rstats
 393808652198748161  Oct 25 14:37  @recology_        much better interface to #rstats pkgs on renjin http://bit.ly/1c4ypCC than on CRAN's site
+393818623703121921  Oct 25 15:17  @kara_woo         Accidental art through failed #rstats plots. I kind of like this. http://t.co/PJUIiRABne
+393819378128408576  Oct 25 15:20  @scisus           RT @kara_woo: Accidental art through failed #rstats plots. I kind of like this. http://t.co/PJUIiRABne
+393820044767285248  Oct 25 15:23  @cgranade         RT @kara_woo: Accidental art through failed #rstats plots. I kind of like this. http://t.co/PJUIiRABne
+393824181718351872  Oct 25 15:39  @_jak             RT @kara_woo: Accidental art through failed #rstats plots. I kind of like this. http://t.co/PJUIiRABne
+393824199141498880  Oct 25 15:39  @hadleywickham    if you're using #travisci on #github with #rstats, make sure to join the conversation at https://github.com/craigcitro/r-travis
+393824513668186112  Oct 25 15:40  @patcallier       RT @kara_woo: Accidental art through failed #rstats plots. I kind of like this. http://t.co/PJUIiRABne
+393825777336451072  Oct 25 15:45  @genetics_blog    and reimplement all of #bioconductor??? RT @brent_p: I wish all you #rstats people would jump ship and start writing stuff in #python.
+393825918214754304  Oct 25 15:46  @Koalha           When changing from #rstats to browser window, I first type the URL normally, then try to load page by pressing ctrl + r. Annoying.
+393827647694053376  Oct 25 15:53  @genetics_blog    @Jeffhsu3 @brent_p how slowly = rate limiting step in converting die hard #rstats bioinformaticians to pythonistas
+393833776318402560  Oct 25 16:17  @timelyportfolio  Timely Portfolio: Combining Eugene Fama, rCharts, dygraphs, and scho... http://timelyportfolio.blogspot.com/2013/10/combining-eugene-fama-rcharts-dygraphs.html?spref=tw #rstats .@ramnath_vaidya #dygraphs #d3js
+393834726580322304  Oct 25 16:21  @timelyportfolio  RT @hadleywickham: if you're using #travisci on #github with #rstats, make sure to join the conversation at https://github.com/craigcitro/r-travis
+393835201060564992  Oct 25 16:23  @mxwlj            Fun adaptive landscape/evolution toy model w. #rstats and #rshiny: http://glimmer.rstudio.com/mbjoseph/evo_modules/ Source code: https://github.com/mbjoseph/evo_modules/tree/master/fitness_landscape
+393837954105237504  Oct 25 16:34  @RachelShadoan    RT @kara_woo: Accidental art through failed #rstats plots. I kind of like this. http://t.co/PJUIiRABne
+393838911295741952  Oct 25 16:38  @piisalie         RT @kara_woo: Accidental art through failed #rstats plots. I kind of like this. http://t.co/PJUIiRABne
+393839443003867136  Oct 25 16:40  @quandl           Julia’s role in #DataScience by @johnmyleswhite http://qndl.co/19DXRyo #Rstats
+393844287085223936  Oct 25 16:59  @abresler         RT @timelyportfolio: Timely Portfolio: Combining Eugene Fama, rCharts, dygraphs, and scho... http://timelyportfolio.blogspot.com/2013/10/combining-eugene-fama-rcharts-dygraphs.html?spref=tw #rstats .@ramnath_vaidya #dygraphs #d3js
+393846319372312576  Oct 25 17:07  @SobriJozsi       RT @RLangTip: Use str(obj) to display the components of any object in human-readable format. http://ow.ly/pXXgI #rstats
+393849698332590080  Oct 25 17:21  @MMiiina          RT @thomaslevine: I have no idea how people learn R. Maybe this will help. http://thomaslevine.com/!/r-spells-for-data-wizards/ #rstats
+393850545753976832  Oct 25 17:24  @recology_        @kara_woo nice, I can picture a new blog for accidental #rstats art
+393850660552048641  Oct 25 17:24  @recology_        RT @hadleywickham: if you're using #travisci on #github with #rstats, make sure to join the conversation at https://github.com/craigcitro/r-travis
+393851334274719744  Oct 25 17:27  @recology_        FYI @xieyihui MT @hadleywickham: if you're using #travisci on #github w/ #rstats, make sure to join conversation at http://bit.ly/1admVzf
+393852196795584512  Oct 25 17:30  @Rbloggers        Little Book of R for Bioinformatics by Avril Coghlan:  (This article was first published on   BioCod... http://bit.ly/17jNj85 #rstats
+393853648918556672  Oct 25 17:36  @Demografia_CSIC  Little Book of R for Bioinformatics by Avril Coghlan:article was first published on BioCod... http://bit.ly/17jNj85 #rstats vía @Rbloggers
+393856128528166912  Oct 25 17:46  @roy_ronen        RT @genetics_blog: and reimplement all of #bioconductor??? RT @brent_p: I wish all you #rstats people would jump ship and start writing stuff in #python.
+393860894964215808  Oct 25 18:05  @aloukina         Switching to data.table @MattDowle reduced the running time for one of my bootstrapping tasks from 4.5 hours to 10 mins - amazing! #rstats
+393862064596209664  Oct 25 18:10  @craigcitro       RT @hadleywickham: if you're using #travisci on #github with #rstats, make sure to join the conversation at https://github.com/craigcitro/r-travis
+393870950858375169  Oct 25 18:45  @nado9025         RT @siah: Advanced R Programming by @hadleywickham http://ow.ly/q7hyY #rstats
+393872850664558592  Oct 25 18:53  @hywelm           R teaching material: https://github.com/lgatto/TeachingMaterial #rstats
+393876432956317696  Oct 25 19:07  @kara_woo         Is it just me or is there something sort of cubist about this one? #rstats #accidentalart http://t.co/bC03TGigSW
+393877127415619584  Oct 25 19:09  @cpsievert        @visnut I'd love to have your opinion on my new #rstats package. And maybe some ideas for applications? http://bit.ly/19fsbzk
+393880992332533760  Oct 25 19:25  @imanuelcostigan  Homebrew formula for R has been moved to the homebrew/science tap #rstats https://github.com/mxcl/homebrew/issues/22806?source=cc
+393881709927612416  Oct 25 19:28  @recology_        RT @imanuelcostigan: Homebrew formula for R has been moved to the homebrew/science tap #rstats https://github.com/mxcl/homebrew/issues/22806?source=cc
+393887492342288384  Oct 25 19:51  @conradopreto     RT @imanuelcostigan: Homebrew formula for R has been moved to the homebrew/science tap #rstats https://github.com/mxcl/homebrew/issues/22806?source=cc
+393892554317389824  Oct 25 20:11  @tanyacash21      Realizing you're answering http://stackoverflow.com #rstats questions just to build up 'dat reputation on a Friday night... #beeroclock
+393895149693984768  Oct 25 20:21  @Rbloggers        How to switch from spreadsheets to R for data analysis:  (This article was first published on   Revo... http://bit.ly/19FFKs5 #rstats
+393900340963078144  Oct 25 20:42  @recology_        Pumpkin added to cowsay say("boo!", "pumpkin") http://bit.ly/1cBnaVB #rstats #essentialcode
+393901953073180672  Oct 25 20:48  @Gastove          RT @recology_: Pumpkin added to cowsay say("boo!", "pumpkin") http://bit.ly/1cBnaVB #rstats #essentialcode

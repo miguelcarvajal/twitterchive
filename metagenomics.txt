@@ -5914,3 +5914,11 @@
 393740523602604032  Oct 25 10:07  @bioinformer      RT @genetics_blog: How much #metagenomics sequencing is enough to achieve a given goal? http://www.nature.com/srep/2013/130611/srep01968/full/srep01968.html
 393742388419891200  Oct 25 10:14  @pathogenomenick  RT @DrSivWatkins: Applying to attend Liv. CGR's metagenomics course end of November-fingers crossed. Also, Beatles and Bioinformatics? NICE. @pathogenomenick
 393750195088801794  Oct 25 10:45  @watermicrobe     Just sent registration for course at CGR/Liverpool led by @pathogenomenick. http://goo.gl/Fjwbxt. Hands on exercise on Day 2, possible?
+393814745825816577  Oct 25 15:02  @kgwin1018        Does anyone know of a way to mask a 7bp repeat in a genome that appears ~3,000 times? Thanks in advance! #metagenomics #microecology
+393849929770491904  Oct 25 17:21  @surt_lab         @Symbionticism @nanopore longer reads better for metagenomics and associating with single microbes…depend on how much/quality of DNA needed
+393853948186337281  Oct 25 17:37  @pathogenomenick  @Symbionticism @nanopore throughput might be an issue for whole-genome metagenomics initially but could be good for e.g. pathogen detection
+393855734649487360  Oct 25 17:44  @pathogenomenick  @surt_lab @Symbionticism we did have a quote of 100-150Mb/hour. So that’s PacBio levels. Not many people doing metagenomics on PacBio
+393856000299524096  Oct 25 17:46  @surt_lab         @Symbionticism @pathogenomenick well, many folks STILL use 454 for metagenomics because error spectrum and biases known
+393856160815935488  Oct 25 17:46  @pathogenomenick  @surt_lab @Symbionticism 16S or WGS metagenomics? Not many people can afford to do the latter on 454!
+393856398616190976  Oct 25 17:47  @pathogenomenick  @Symbionticism @surt_lab yep though that’s 16S phylogenetic profiling rather than ‘true’ metagenomics
+393885641626243073  Oct 25 19:43  @metagenomics     [PubMed] Mechanisms and consequence of bacteria detection by the Drosophila gut epithelium. http://1.usa.gov/1c5i5BF
