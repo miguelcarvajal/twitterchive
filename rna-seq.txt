@@ -4901,3 +4901,13 @@
 393984337135550464  Oct 26 02:16  @LeucineRichBio   Benchmarking RNA-Seq quantification tools. #RNASeq #NGS http://www.ncbi.nlm.nih.gov/pubmed/24109770?dopt=Abstract
 394027438612561920  Oct 26 05:07  @pigbird666       RT @jameslz: New RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor , RNA-Seq Blog http://bit.ly/1c2IdNq
 394027517926842368  Oct 26 05:07  @pigbird666       RT @genetics_blog: Accuracy of allele frequency estimation using pooled RNA-Seq http://www.ncbi.nlm.nih.gov/pubmed/24119300
+394135784783376385  Oct 26 12:17  @chopranik        Message from Emardis talk on mosaicism in cancer, RNA seq is the ultimate way to see effects of tumor heterogenocity #ashg2013
+394139676723793921  Oct 26 12:33  @B_ologist        AR did single cell RNA seq on LPS-stim bone marrow derived dendritic cells #ASHG2013
+394140009550594048  Oct 26 12:34  @RoxanaDaneshjou  AR: Identical dendritic cells behave differently. Did single cell RNA-SEQ. Immune response genes varied 1000-fold in LPS response. #ASHG2013
+394141797938888704  Oct 26 12:41  @GenomeBiology    AV using multiple approaches (RNA-seq, qPCR and mRNA-FISH) at single-cell level to for independent validation #ASHG2013
+394142153531613184  Oct 26 12:43  @lukejostins      Aviv Regev's RNA-seq analysis of stimulated dendretic cells gives impressive resolution on cellular responses #ASHG2013
+394142580004229123  Oct 26 12:44  @B_ologist        AR: 2000 single cells, RNA seq, are there more DC cell types in response to LPS? #ASHG2013
+394143369221668864  Oct 26 12:47  @GenomeBiology    AV: given limitations of current single-cell RNA-seq methods, best approach is maximizing cell # rather than read depth #ASHG2013
+394143762428874752  Oct 26 12:49  @fluidigm         MT @GenomeBiology AR: given limitations of current single-cell RNA-seq methods, best approach is maximizing cell # rather than read depth.
+394144516330233856  Oct 26 12:52  @AlexAlexAlex184  RT @RoxanaDaneshjou: AR: Identical dendritic cells behave differently. Did single cell RNA-SEQ. Immune response genes varied 1000-fold in LPS response. #ASHG2013
+394150488691601408  Oct 26 13:16  @Affymetrix       RT @GenomeBiology: AV: given limitations of current single-cell RNA-seq methods, best approach is maximizing cell # rather than read depth #ASHG2013
