@@ -23048,3 +23048,16 @@
 394258494276112385  Oct 26 20:25  @sebhtml          RT @moorejh: #rstats MT @sebhtml: The anatomy of successful computational biology #software http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html #bioinformatics #genomics
 394260594242502656  Oct 26 20:33  @TrestleJeff      shinyAce now has examples for integrating with eval, knitR, and renderUI. https://github.com/trestletech/shinyAce #rstats #shiny
 394263603139715073  Oct 26 20:45  @hardikshah007    RT @moorejh: #rstats MT @sebhtml: The anatomy of successful computational biology #software http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html #bioinformatics #genomics
+394279223286071296  Oct 26 21:47  @RNieuwenhuis     RT @hadleywickham: Submitting to cran makes me cran-ky #rstats
+394284151043391488  Oct 26 22:07  @zentree          "Literate Testing in #Rstats". http://gastonsanchez.wordpress.com/2013/10/26/literate-testing-in-r/
+394285656068734976  Oct 26 22:13  @zentree          @ucfagls @hadleywickham That sounds like CRAN hijacking the #Rstats community, which is a lot broader than CRAN members.
+394287576707657728  Oct 26 22:20  @MDubins          Does anyone have a fun text data set for me use LDA modeling on? Anything like text responses on a survey would be nice.. #rstats
+394289122292301824  Oct 26 22:27  @rcheetham        RT @JamesMeadow: Whoa - data.table in #rstats: 10x faster than tapply() 100x faster than == 500x faster than DF[i,j]<-value http://t.co/A7BnRk4bCm
+394301472524886017  Oct 26 23:16  @graceklai        @RickSaporta thanks for the follow. Looking at your Tweet timeline you are "off the hook" when it comes to math and this #rstats stuff! :)
+394321352163069952  Oct 27 00:35  @jmgomez          Practical example ot #textmining xkcd with #LDA in #rstats http://ow.ly/qaOnc
+394328073669468160  Oct 27 01:01  @abresler         This is some serious #rstats knowledge, RZA style wisdom & Paul Pierce level truth https://www.burns-stat.com/first-step-towards-r-spreadsheets/
+394338010457989120  Oct 27 01:41  @jjgibaja         RT @zentree: "Literate Testing in #Rstats". http://gastonsanchez.wordpress.com/2013/10/26/literate-testing-in-r/
+394350255556550656  Oct 27 02:30  @DailyRpackage    iFad - An integrative factor analysis model for drug-pathway association inference http://cran.r-project.org/web/packages/iFad/index.html #RStats
+394351804278128640  Oct 27 02:36  @mattgarciablitz  RT @KirkDBorne: Learn R - the Statistical Programming Language - #Rstats Tutorial for Beginners: http://bit.ly/1a3GdRz #abdsc via @DataScienceCtrl
+394355799658876928  Oct 27 02:52  @romain_francois  RT @hadleywickham: Submitting to cran makes me cran-ky #rstats
+394355952121806848  Oct 27 02:52  @gawbul           RT @eddelbuettel: Oldie but Goldie: Logic of installation location of R packages under Linux http://stackoverflow.com/a/7541440/143305?stw=2   #rstats  #ThingsINeedToBlogAbout
