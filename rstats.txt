@@ -23084,3 +23084,41 @@
 394446335878774785  Oct 27 08:51  @hadleywickham    RT @romain_francois: Little #rstats script that grabs issues from a github repo. https://gist.github.com/romainfrancois/7179245
 394446941364703232  Oct 27 08:54  @thomaslevine     Hello #MozFest and followers. What do you use in Javascript for something like a data frame in R? #rstats
 394447830288306176  Oct 27 08:57  @shubclimate      RT @revodavid: Good advice from @burnsstat on switching from spreadsheets to R: http://bit.ly/H9d0y1 #rstats
+394451559343742976  Oct 27 09:12  @jonsedar         RT @romain_francois: Generic #rstats tools to REST: siesta. https://github.com/romainfrancois/siesta
+394456165527977984  Oct 27 09:30  @JChrisPires      RT @genetics_blog: @Jeffhsu3 @brent_p how slowly = rate limiting step in converting die hard #rstats bioinformaticians to pythonistas
+394459506748698625  Oct 27 09:44  @AriBFriedman     RT @romain_francois: Generic #rstats tools to REST: siesta. https://github.com/romainfrancois/siesta
+394463293689311232  Oct 27 09:59  @wcc957           RT @moorejh: #rstats MT @sebhtml: The anatomy of successful computational biology #software http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html #bioinformatics #genomics
+394463776780865538  Oct 27 10:01  @mikeloukides     Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394468582299795456  Oct 27 10:20  @BrockTibert      My first Shiny question posted to SO.  #rstats  http://stackoverflow.com/questions/19613580/shiny-runexample-error-fail-to-create-server
+394471435617312768  Oct 27 10:31  @hadleywickham    RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394471987864928256  Oct 27 10:33  @p_barbera        RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394472539478450176  Oct 27 10:35  @statisticsblog   RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394474724644110336  Oct 27 10:44  @simeons          “@mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46” get the super soaker.
+394477069318356992  Oct 27 10:53  @scheidegger      @romain_francois @hadleywickham the wrapper for the github API I wrote might be of help as well https://github.com/cscheid/rgithub #rstats
+394477488744968193  Oct 27 10:55  @eoinbrazil       RT @romain_francois: Generic #rstats tools to REST: siesta. https://github.com/romainfrancois/siesta
+394478601568940033  Oct 27 11:00  @scheidegger      @romain_francois @hadleywickham fwiw, siesta requires R 3.0.2, but dplyr is not available for 3.0.2 :) #rstats
+394479375665487873  Oct 27 11:03  @infoecho         RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394485679607934976  Oct 27 11:28  @albertlumbreras  RT @alexk_z: Bayesian Computation with #R,  slides on the topic by Kastner, Hornik et.al. http://statmath.wu.ac.at/~kastner/bayes/Bayesian.pdf #rstats
+394487493271113729  Oct 27 11:35  @matthewwolken    RT @simeons: “@mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46” get the super soaker.
+394488135704662017  Oct 27 11:37  @russellkt        RT @timelyportfolio: Timely Portfolio: Combining Eugene Fama, rCharts, dygraphs, and scho... http://timelyportfolio.blogspot.com/2013/10/combining-eugene-fama-rcharts-dygraphs.html?spref=tw #rstats .@ramnath_vaidya #dygraphs #d3js
+394488835066707970  Oct 27 11:40  @chickamade       RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394491037235695617  Oct 27 11:49  @tomschenkjr      RT @romain_francois: Little #rstats script that grabs issues from a github repo. https://gist.github.com/romainfrancois/7179245
+394491206115139585  Oct 27 11:50  @recology_        Cool, taxize as dependency in another #rstats package - evobir  http://bit.ly/17phVVS
+394493434930556928  Oct 27 11:58  @datachick        #WorldsCollide RT @simeons: “@mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46” get the super soaker.
+394497742698852353  Oct 27 12:16  @ucfagls          @ramnath_vaidya If CRAN doesn't suit then #rstats community needs to offer alternatives. There are ppl working on it @zentree @hadleywickham
+394498500773179393  Oct 27 12:19  @ramnath_vaidya   @ucfagls CRAN's the main reason for exponential growth of #rstats No doubts about that. Fragmentation does not help @zentree @hadleywickham
+394498789995986944  Oct 27 12:20  @idigdata         RT @revodavid: Good advice from @burnsstat on switching from spreadsheets to R: http://bit.ly/H9d0y1 #rstats
+394498852516294656  Oct 27 12:20  @hadleywickham    anyone have any thoughts on conditional vignettes? i.e. how to skip if pre-req (e.g. database) not available #rstats
+394500868742971393  Oct 27 12:28  @ucfagls          @hadleywickham could you cache a version of query results in ./data & use that if the real DB or connection is not available? #rstats
+394508125878771712  Oct 27 12:57  @TrevorABranch    RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394511534342168576  Oct 27 13:10  @Rbloggers        Symmetry in Williams designs:  (This article was first published on   Wiekvoet, and kindly contribut... http://bit.ly/17pvSmF #rstats
+394513665032212480  Oct 27 13:19  @matiasfrndz      RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394514036613603328  Oct 27 13:20  @allafarce        RT @romain_francois: Little #rstats script that grabs issues from a github repo. https://gist.github.com/romainfrancois/7179245
+394515918924939264  Oct 27 13:28  @jabawack         RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394516550960832512  Oct 27 13:30  @bpoblete         RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394516823556648960  Oct 27 13:31  @pan_con_chancho  RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394520473087655936  Oct 27 13:46  @josephmarotta    I want to play around with data mining & automated data collection in #rstats and #pandas to learn data exploration better in my unemplyment
+394533635631509504  Oct 27 14:38  @RickSaporta      #pqR & understanding #rstats copying objects: http://bit.ly/pqRnm    (also for fans of #data_table )
+394535612843565056  Oct 27 14:46  @chlalanne        Mixed Models and Advanced Regression (PDF, 115 pp.) with #rstats code, http://goo.gl/0vXVIr
+394537947506425856  Oct 27 14:55  @cistronic        RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394538042569932800  Oct 27 14:56  @lucaborger       Good lecture notes. RT @chlalanne Mixed Models and Advanced Regression (PDF, 115 pp.) with #rstats code, http://goo.gl/0vXVIr
