@@ -23018,3 +23018,33 @@
 394161296418934784  Oct 26 13:59  @hadleywickham    Submitting to cran makes me cran-ky #rstats
 394172713872265217  Oct 26 14:44  @3876             RT @hadleywickham: Submitting to cran makes me cran-ky #rstats
 394173886952382464  Oct 26 14:49  @sekhardrona      RT @statisticsblog: "My experience of learning R - from basic graphs to performance tuning. http://i.cx/1bieW0g #statistics #r #rstats"
+394176769944604672  Oct 26 15:00  @StuartBuck1      RT @revodavid: Good advice from @burnsstat on switching from spreadsheets to R: http://bit.ly/H9d0y1 #rstats
+394187937895972864  Oct 26 15:45  @burnsstat        RT @revodavid: Good advice from @burnsstat on switching from spreadsheets to R: http://bit.ly/H9d0y1 #rstats
+394191092205510657  Oct 26 15:57  @RickSaporta      Has anyone had/heard of issues with #rstats & #OSX #Mavericks -- NOT regarding RStudio?
+394196282597998592  Oct 26 16:18  @Gagan_S          RT @revodavid: Good advice from @burnsstat on switching from spreadsheets to R: http://bit.ly/H9d0y1 #rstats
+394197277692018689  Oct 26 16:22  @CDWren           @electricarchaeo tricky but possible. I get 3 var at once with repeat runs using ggplot2 library for #rstats. Boxplots across a facet grid.
+394198483218878464  Oct 26 16:26  @kwbroman         RT @hadleywickham: Submitting to cran makes me cran-ky #rstats
+394199062280290304  Oct 26 16:29  @KirkDBorne       Learn R - the Statistical Programming Language - #Rstats Tutorial for Beginners: http://bit.ly/1a3GdRz #abdsc via @DataScienceCtrl
+394199543845105665  Oct 26 16:31  @adolfoalvarez    RT @revodavid: Good advice from @burnsstat on switching from spreadsheets to R: http://bit.ly/H9d0y1 #rstats
+394204132032385024  Oct 26 16:49  @chorfa672m       RT @KirkDBorne: Learn R - the Statistical Programming Language - #Rstats Tutorial for Beginners: http://bit.ly/1a3GdRz #abdsc via @DataScienceCtrl
+394205316461518849  Oct 26 16:54  @recology_        RT @hadleywickham: Submitting to cran makes me cran-ky #rstats
+394205716002525184  Oct 26 16:55  @zentree          RT @hadleywickham: Submitting to cran makes me cran-ky #rstats
+394211639958183936  Oct 26 17:19  @santirocco       RT @KirkDBorne: Learn R - the Statistical Programming Language - #Rstats Tutorial for Beginners: http://bit.ly/1a3GdRz #abdsc via @DataScienceCtrl
+394214373746417664  Oct 26 17:30  @MKM_Abdul        @ProbFact Made the charts interactive using R/Shiny #rstats http://spark.rstudio.com/skewtosis/nt/
+394223579027767297  Oct 26 18:06  @idigdata         RT @KirkDBorne: Learn R - the Statistical Programming Language - #Rstats Tutorial for Beginners: http://bit.ly/1a3GdRz #abdsc via @DataScienceCtrl
+394224295208960000  Oct 26 18:09  @rashmi511        RT @KirkDBorne: Learn R - the Statistical Programming Language - #Rstats Tutorial for Beginners: http://bit.ly/1a3GdRz #abdsc via @DataScienceCtrl
+394224384799703042  Oct 26 18:09  @electricarchaeo  @CDWren I need to play more with #rstats
+394235131994853376  Oct 26 18:52  @CDWren           @electricarchaeo check out @wabarree 's blog for some intro #rstats and ggplot2 posts.
+394243485458395137  Oct 26 19:25  @cgroom           RT @KirkDBorne: Learn R - the Statistical Programming Language - #Rstats Tutorial for Beginners: http://bit.ly/1a3GdRz #abdsc via @DataScienceCtrl
+394244298767486976  Oct 26 19:29  @moorejh          #rstats MT @sebhtml: The anatomy of successful computational biology #software http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html #bioinformatics #genomics
+394248934497198080  Oct 26 19:47  @MColebrook       RT @KirkDBorne: Learn R - the Statistical Programming Language - #Rstats Tutorial for Beginners: http://bit.ly/1a3GdRz #abdsc via @DataScienceCtrl
+394249747764371456  Oct 26 19:50  @jaredlander      Awesome students showing #nycdatamafia love. #rstats #python @github @elliephantom http://t.co/BJRRgDfWcO
+394250183401168896  Oct 26 19:52  @wesmckinn        RT @jaredlander: Awesome students showing #nycdatamafia love. #rstats #python @github @elliephantom http://t.co/BJRRgDfWcO
+394251930341351424  Oct 26 19:59  @JamesMeadow      Whoa - data.table in #rstats: 10x faster than tapply() 100x faster than == 500x faster than DF[i,j]<-value http://datatable.r-forge.r-project.org/
+394252710289358848  Oct 26 20:02  @DextraordinaryH  RT @JamesMeadow: Whoa - data.table in #rstats: 10x faster than tapply() 100x faster than == 500x faster than DF[i,j]<-value http://t.co/A7BnRk4bCm
+394255259209433089  Oct 26 20:12  @ale_alvarador    RT @moorejh: #rstats MT @sebhtml: The anatomy of successful computational biology #software http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html #bioinformatics #genomics
+394256167264092160  Oct 26 20:16  @RickSaporta      RT @eddelbuettel: Oldie but Goldie: Logic of installation location of R packages under Linux http://stackoverflow.com/a/7541440/143305?stw=2   #rstats  #ThingsINeedToBlogAbout
+394256480376860672  Oct 26 20:17  @chriscrossross   RT @KirkDBorne: Learn R - the Statistical Programming Language - #Rstats Tutorial for Beginners: http://bit.ly/1a3GdRz #abdsc via @DataScienceCtrl
+394258494276112385  Oct 26 20:25  @sebhtml          RT @moorejh: #rstats MT @sebhtml: The anatomy of successful computational biology #software http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html #bioinformatics #genomics
+394260594242502656  Oct 26 20:33  @TrestleJeff      shinyAce now has examples for integrating with eval, knitR, and renderUI. https://github.com/trestletech/shinyAce #rstats #shiny
+394263603139715073  Oct 26 20:45  @hardikshah007    RT @moorejh: #rstats MT @sebhtml: The anatomy of successful computational biology #software http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html #bioinformatics #genomics
