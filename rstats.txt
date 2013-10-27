@@ -23061,3 +23061,26 @@
 394351804278128640  Oct 27 02:36  @mattgarciablitz  RT @KirkDBorne: Learn R - the Statistical Programming Language - #Rstats Tutorial for Beginners: http://bit.ly/1a3GdRz #abdsc via @DataScienceCtrl
 394355799658876928  Oct 27 02:52  @romain_francois  RT @hadleywickham: Submitting to cran makes me cran-ky #rstats
 394355952121806848  Oct 27 02:52  @gawbul           RT @eddelbuettel: Oldie but Goldie: Logic of installation location of R packages under Linux http://stackoverflow.com/a/7541440/143305?stw=2   #rstats  #ThingsINeedToBlogAbout
+394360613771550720  Oct 27 03:11  @SAGRudd          RT @eddelbuettel: Oldie but Goldie: Logic of installation location of R packages under Linux http://stackoverflow.com/a/7541440/143305?stw=2   #rstats  #ThingsINeedToBlogAbout
+394379539851538432  Oct 27 04:26  @chlalanne        Practical Data Science with #rstats October 2013 update http://prsm.tc/5q9Lr9 via @prismatic
+394380595788541952  Oct 27 04:30  @chlalanne        "Little Book of #rstats for Bioinformatics by Avril Coghlan" http://www.r-bloggers.com/little-book-of-r-for-bioinformatics-by-avril-coghlan/
+394380693863559168  Oct 27 04:30  @divyakkm         RT @chlalanne: "Little Book of #rstats for Bioinformatics by Avril Coghlan" http://www.r-bloggers.com/little-book-of-r-for-bioinformatics-by-avril-coghlan/
+394380817629077504  Oct 27 04:31  @divyakkm         RT @chlalanne: Practical Data Science with #rstats October 2013 update http://prsm.tc/5q9Lr9 via @prismatic
+394383598301634560  Oct 27 04:42  @romain_francois  Little #rstats script that grabs issues from a github repo. https://gist.github.com/romainfrancois/7179245
+394392354402353152  Oct 27 05:17  @phnk             @rstudioapp thank you very much for your help; @apple is being VERY annoying with #rstats users these days…
+394392601563914240  Oct 27 05:18  @insula_r         Quattro libretti su R, utili e gratuiti: http://www.insular.it/?p=1436 #rstats #statistica
+394396087349673984  Oct 27 05:32  @alexk_z          Nice overview of Object Orientation in #rstats a.k.a. S3 and S4 Class Systems by Kurt Hornik http://statmath.wu.ac.at/~hornik/ATC/oop.pdf
+394397097652666368  Oct 27 05:36  @alexk_z          Bayesian Computation with #R,  slides on the topic by Kastner, Hornik et.al. http://statmath.wu.ac.at/~kastner/bayes/Bayesian.pdf #rstats
+394398525007867905  Oct 27 05:41  @chlalanne        RT @alexk_z: Bayesian Computation with #R,  slides on the topic by Kastner, Hornik et.al. http://statmath.wu.ac.at/~kastner/bayes/Bayesian.pdf #rstats
+394398634655358976  Oct 27 05:42  @chlalanne        RT @alexk_z: Nice overview of Object Orientation in #rstats a.k.a. S3 and S4 Class Systems by Kurt Hornik http://statmath.wu.ac.at/~hornik/ATC/oop.pdf
+394430165314719744  Oct 27 07:47  @thomaslevine     Checking the #MozFest schedule in R #rstats @csvsoundsystem http://t.co/mfAg9xG4Iw
+394430547008958464  Oct 27 07:49  @_inundata        RT @thomaslevine: Checking the #MozFest schedule in R #rstats @csvsoundsystem http://t.co/mfAg9xG4Iw
+394433366495600640  Oct 27 08:00  @sharon000        Nice example of pulling data from an API with R http://bit.ly/1im1smI by @romain_francois #rstats #api #ddj
+394433731974270976  Oct 27 08:01  @romain_francois  Skeleton for an #rstats package to grab info about travis builds. https://github.com/romainfrancois/travis
+394435958479015936  Oct 27 08:10  @jmgomez          RT @FastBigData: Easy, flexible framework for community detection http://prsm.tc/4Sq58p via @prismatic #sna #graphdb #rstats
+394437362429595648  Oct 27 08:16  @romain_francois  Generic #rstats tools to REST: siesta. https://github.com/romainfrancois/siesta
+394437947837014017  Oct 27 08:18  @umekinu          RT @RevoJoe: #rstats Get a glimpse at the future of sports statistics: big money to be made? http://bit.ly/1akDirT
+394445634779901952  Oct 27 08:49  @GSwithR          RT @revodavid: Good advice from @burnsstat on switching from spreadsheets to R: http://bit.ly/H9d0y1 #rstats
+394446335878774785  Oct 27 08:51  @hadleywickham    RT @romain_francois: Little #rstats script that grabs issues from a github repo. https://gist.github.com/romainfrancois/7179245
+394446941364703232  Oct 27 08:54  @thomaslevine     Hello #MozFest and followers. What do you use in Javascript for something like a data frame in R? #rstats
+394447830288306176  Oct 27 08:57  @shubclimate      RT @revodavid: Good advice from @burnsstat on switching from spreadsheets to R: http://bit.ly/H9d0y1 #rstats
