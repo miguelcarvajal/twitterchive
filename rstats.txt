@@ -23122,3 +23122,45 @@
 394535612843565056  Oct 27 14:46  @chlalanne        Mixed Models and Advanced Regression (PDF, 115 pp.) with #rstats code, http://goo.gl/0vXVIr
 394537947506425856  Oct 27 14:55  @cistronic        RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
 394538042569932800  Oct 27 14:56  @lucaborger       Good lecture notes. RT @chlalanne Mixed Models and Advanced Regression (PDF, 115 pp.) with #rstats code, http://goo.gl/0vXVIr
+394545611099234304  Oct 27 15:26  @zentree          MT @chlalanne "Mixed Models and Advanced Regression (PDF, 115 pp.) with #rstats [and some #SAS] code" http://goo.gl/0vXVIr
+394548664095367168  Oct 27 15:38  @baogorek         The #lme4 package in #rstats solves large linear systems *quickly* with cholesky - but not ordinary cholesky! p105 - http://lme4.r-forge.r-project.org/lMMwR/lrgprt.pdf
+394549398501617665  Oct 27 15:41  @tomhouslay       RT @zentree: MT @chlalanne "Mixed Models and Advanced Regression (PDF, 115 pp.) with #rstats [and some #SAS] code" http://goo.gl/0vXVIr
+394552982765068288  Oct 27 15:55  @markmadsen       RT @datachick: #WorldsCollide RT @simeons: “@mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46” get the super soaker.
+394553670236258305  Oct 27 15:58  @ramnath_vaidya   @zentree CRAN makes package installation seamless and that is often cited as a reason for #rstats success. @ucfagls @hadleywickham
+394559340817813504  Oct 27 16:20  @epistatistic     Free book: Mixed Models and Advanced Regression. Jim Robison-Cox. With R #rstats and #SAS. via: @chlalanne
+394559827978244096  Oct 27 16:22  @MaicaRodriSanz   RT @epistatistic: Free book: Mixed Models and Advanced Regression. Jim Robison-Cox. With R #rstats and #SAS. via: @chlalanne
+394560256283795456  Oct 27 16:24  @MaicaRodriSanz   @epistatistic Cox como siempre tan generoso: Mixed Models & Advanced Regression. Jim Robison-Cox. With R #rstats and #SAS
+394566079231852545  Oct 27 16:47  @MDubins          Any advice for reading in a plain txt file w incomplete end of line?  #rstats
+394566172881846272  Oct 27 16:48  @seandavis12      RT @hadleywickham: anyone have any thoughts on conditional vignettes? i.e. how to skip if pre-req (e.g. database) not available #rstats
+394566373256728576  Oct 27 16:48  @lgatt0           Tomorrow, Cambridge #rstats user group meeting in the Fountain Inn. On the menu: ggplot2 and unit testing - http://www.cambr.org.uk/
+394567727769079809  Oct 27 16:54  @adolfoalvarez    RT @zentree: MT @chlalanne "Mixed Models and Advanced Regression (PDF, 115 pp.) with #rstats [and some #SAS] code" http://goo.gl/0vXVIr
+394568026085142528  Oct 27 16:55  @quandl           The joy of #Data Analyst by @burnsstat via @rbloggers http://qndl.co/HgfKdg #Analytics #Rstats
+394568250383556608  Oct 27 16:56  @ucfagls          Anyone recommend a Haswell-equipped ultrabook on which to run #Linux & #rstats (hene with min. 8GB RAM, & that isn't a Mac)?
+394568641980530688  Oct 27 16:57  @attilacsordas    do you start at 7pm? MT @lgatt0 Tomorrow, Cambridge #rstats user group meeting: ggplot2 and unit testing  http://www.cambr.org.uk/
+394569345063329793  Oct 27 17:00  @Rbloggers        ipython notebook for R: Quickstart for Ubuntu:  (This article was first published on   Bommarito Con... http://bit.ly/1aylnOD #rstats
+394573342755143680  Oct 27 17:16  @ojessen          What is great about #shiny, from a consultant's perspective http://datacommunitydc.org/blog/2013/03/data-visualization-shiny-spiced-consulting/ #rstats
+394573504219054080  Oct 27 17:17  @Pepucho666       @ucfagls I'm looking forward to new Lenovo thinkpads although I use python :-) #Linux #rstats
+394576291132743680  Oct 27 17:28  @datalies         #foodpic of lunch. 423 calories with too much Na, and a good bit of P, K, & Ca.  #nutrition #shiny #rstats #nutwition http://t.co/8Ek3uaE7ZQ
+394577194649141249  Oct 27 17:31  @chlalanne        RT @ramnath_vaidya: Publish #slidify decks as gists now. https://gist.github.com/ramnathv/7155503 #rstats
+394586800120807424  Oct 27 18:09  @emnavarretem     RT @epistatistic: Free book: Mixed Models and Advanced Regression. Jim Robison-Cox. With R #rstats and #SAS. via: @chlalanne
+394592244134449152  Oct 27 18:31  @ChrisBeeley      Advanced R Development Book as a wiki from Hadley Wickham, looks interesting http://adv-r.had.co.nz/ #rstats
+394600808475799552  Oct 27 19:05  @DrLyndonWalker   Bar plot with error bars in R  #rstats #tips http://ow.ly/q5h2F
+394605849798524928  Oct 27 19:25  @Aidan_M_Keith    RT @lucaborger: Good lecture notes. RT @chlalanne Mixed Models and Advanced Regression (PDF, 115 pp.) with #rstats code, http://t.co/qYcP5Eraww
+394608346025570306  Oct 27 19:35  @timoreilly       Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394608484551237632  Oct 27 19:36  @chema_ar         RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394608977675567104  Oct 27 19:38  @dutchlight360    RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394609028816326658  Oct 27 19:38  @samehfayed       RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394609455989399553  Oct 27 19:40  @TechDigest360    RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394609924212146176  Oct 27 19:41  @YvesMulkers      RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394610695926333441  Oct 27 19:44  @bfontn           RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394610851736322049  Oct 27 19:45  @LISNews          RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394610851786674176  Oct 27 19:45  @blakesterz       RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394611674360979456  Oct 27 19:48  @Brarian          As a fan of xkcd and discourse analysis, I'm intrigued “@timoreilly RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46”
+394613137032638464  Oct 27 19:54  @Zelnox           RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394613393929564160  Oct 27 19:55  @jskobe           @SCviaDC RT @timoreilly:  RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394613518013448194  Oct 27 19:56  @ajcook           RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394614824300052481  Oct 27 20:01  @Phaseit          RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394615255965257728  Oct 27 20:03  @wbic16           RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394615382041825280  Oct 27 20:03  @alexweberis      RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394616215617802240  Oct 27 20:06  @OJTien           RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394620601442533376  Oct 27 20:24  @pcolazurdo       RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
