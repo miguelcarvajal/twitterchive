@@ -23180,3 +23180,29 @@
 394701773778075648  Oct 28 01:46  @StrictlyStat     I like the fullscreen apps in OSX Mavericks, but then I realize I don't know how much time I've been on #rstudio doing #rstats.
 394704729282191360  Oct 28 01:58  @feedmem          RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
 394712641928986624  Oct 28 02:30  @DailyRpackage    betfairly - Access Betfair API from R http://cran.r-project.org/web/packages/betfairly/index.html #RStats
+394733820345196544  Oct 28 03:54  @monsoontrader    When my #rstats code suddenly works http://media.tumblr.com/tumblr_m6s6lsooom1rpxm1i.gif
+394741878827909120  Oct 28 04:26  @JGreenbrookHeld  RT @monsoontrader: When my #rstats code suddenly works http://media.tumblr.com/tumblr_m6s6lsooom1rpxm1i.gif
+394742851042832384  Oct 28 04:30  @chlalanne        Slidify Workshop from NYC Open Data meetup, https://github.com/slidify/workshops/ #rstats via @ramnath_vaidya
+394749109560950784  Oct 28 04:54  @renelaennec      RT @moorejh: #rstats MT @sebhtml: The anatomy of successful computational biology #software http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html #bioinformatics #genomics
+394753457208315904  Oct 28 05:12  @southmapr        Marvelously meta. Textual analysis of xkcd themes using #rstats thanks to @kablunk. http://www.hotdamndata.com/2013/10/xkcd-webcomic-of-internet-small-talk.html
+394763233946767360  Oct 28 05:51  @xrubiocampillo   RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394769490162221056  Oct 28 06:15  @msgbi            RT @alexk_z: Nice overview of Object Orientation in #rstats a.k.a. S3 and S4 Class Systems by Kurt Hornik http://statmath.wu.ac.at/~hornik/ATC/oop.pdf
+394769507257827328  Oct 28 06:15  @msgbi            RT @alexk_z: Bayesian Computation with #R,  slides on the topic by Kastner, Hornik et.al. http://statmath.wu.ac.at/~kastner/bayes/Bayesian.pdf #rstats
+394769581467643904  Oct 28 06:16  @msgbi            RT @chlalanne: "Little Book of #rstats for Bioinformatics by Avril Coghlan" http://www.r-bloggers.com/little-book-of-r-for-bioinformatics-by-avril-coghlan/
+394773049339170816  Oct 28 06:30  @vinayakh         Where are people who are tweeting / retweeting #NPC2013 located ? Made using #rstats at #bigdata workshop. http://t.co/MU66ON45Av
+394773436368576512  Oct 28 06:31  @vinayakh         What are people tweeting about at #NPC2013 ? Made using #rstats at #bigdata workshop http://t.co/wn5GuyIWOJ
+394777934386696192  Oct 28 06:49  @statsforbios     RT @lgatt0: Tomorrow, Cambridge #rstats user group meeting in the Fountain Inn. On the menu: ggplot2 and unit testing - http://t.co/taoJ5CNMSo
+394779483560878081  Oct 28 06:55  @jameskeirstead   scholar v0.1.1 will be hitting CRAN mirrors shortly.  Fixes bug in get_profile and improves h-index prediction. #rstats
+394779894640807936  Oct 28 06:57  @denisohora       RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
+394782082011889665  Oct 28 07:05  @moorejh          #genomics #bioinformatics RT @CarterLabJax: Our #Rstats package for pleiotropy & #epistasis analysis http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003270
+394784513227640832  Oct 28 07:15  @statsforbios     Nice guide to Boosted Regression Trees. Sorry about the paywall. gbm package implements BRTs in #RStats  http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2656.2008.01390.x/abstract
+394784579800031232  Oct 28 07:15  @SardelichM       RT @alexk_z: Bayesian Computation with #R,  slides on the topic by Kastner, Hornik et.al. http://statmath.wu.ac.at/~kastner/bayes/Bayesian.pdf #rstats
+394784677023973376  Oct 28 07:16  @SardelichM       RT @alexk_z: Nice overview of Object Orientation in #rstats a.k.a. S3 and S4 Class Systems by Kurt Hornik http://statmath.wu.ac.at/~hornik/ATC/oop.pdf
+394788129808216064  Oct 28 07:29  @Timcammm         Google citations of random assortment of successful Australian economists. Made easy by R package 'scholar' #rstats http://t.co/pnJUNJlTWg
+394788904643358720  Oct 28 07:33  @Mark_Gardener    R Object elements: braces, double braces and $ http://www.dataanalytics.org.uk/Data%20Analysis/tips%20and%20tricks.htm #rstats
+394795969872543744  Oct 28 08:01  @KirkDBorne       Practical #DataScience with R: http://www.win-vector.com/blog/2013/10/practical-data-science-with-r-october-2013-update/ > #Rstats #Statistics #MachineLearning  >Chapter 1 preview: http://www.manning.com/zumel/PracticalDataScienceR_MEAP_ch01.pdf
+394797377439027201  Oct 28 08:06  @kyloring         #rstats Googled "glmer families". Results #6: http://t.co/JVb6PAg92c
+394803239524499456  Oct 28 08:30  @sharon000        Brief but useful roundup of how to access elements in R http://bit.ly/HbMtjz by @Mark_Gardener #rstats
+394806663124750337  Oct 28 08:43  @mjbommar         #ipython notebook for #Rstats: Quickstart for Ubuntu - http://bommaritollc.com/2013/10/27/ipython-notebook-r-quickstart-ubuntu/ (thanks to @ramnath_vaidya and @xieyihui)
+394810169043197952  Oct 28 08:57  @hadleywickham    RT @lgatt0: Tomorrow, Cambridge #rstats user group meeting in the Fountain Inn. On the menu: ggplot2 and unit testing - http://t.co/taoJ5CNMSo
+394810495300927490  Oct 28 08:58  @hadleywickham    RT @ojessen: What is great about #shiny, from a consultant's perspective http://datacommunitydc.org/blog/2013/03/data-visualization-shiny-spiced-consulting/ #rstats
