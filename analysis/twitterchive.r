@@ -74,7 +74,7 @@ twitterchivePlots <- function (filename=NULL) {
     head(ht)
     png(paste(searchTerm, "barplot-top-hashtags.png", sep="--"), w=1000, h=700)
     par(mar=c(5,10,4,2))
-    with(ht[order(ht$Freq), ], barplot(Freq, names=ht, horiz=T, col="black", las=1, cex.names=1.2, cex.axis=1.2, main=paste("Number of Tweets by Hour", paste("Term:", searchTerm), paste("Date:", Sys.Date()), sep="\n")))
+    with(ht[order(ht$Freq), ], barplot(Freq, names=ht, horiz=T, col="black", las=1, cex.names=1.2, cex.axis=1.2, main=paste("Top Hashtags", paste("Term:", searchTerm), paste("Date:", Sys.Date()), sep="\n")))
     dev.off()
     # ggplot(ht) + geom_bar(aes(ht, Freq), fill = "black", stat="identity") + coord_flip() + theme_bw() + ggtitle("Top hashtags")
     
@@ -111,6 +111,6 @@ twitterchivePlots <- function (filename=NULL) {
     message(paste(searchTerm, ": All done!\n"))
 }
 
-filelist <- as.list(list.files("..", pattern="*.txt", full.names=T))
+filelist <- as.list(list.files("..", pattern="ASHG2013.txt", full.names=T))
 #filelist <- list("../bioinformatics.txt", "../metagenomics.txt", "../rstats.txt", "../rna-seq.txt", "../cville.txt", "../SFAF2013.txt")
 lapply(filelist, twitterchivePlots)
