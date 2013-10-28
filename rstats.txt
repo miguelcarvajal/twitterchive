@@ -23088,6 +23088,7 @@
 394456165527977984  Oct 27 09:30  @JChrisPires      RT @genetics_blog: @Jeffhsu3 @brent_p how slowly = rate limiting step in converting die hard #rstats bioinformaticians to pythonistas
 394459506748698625  Oct 27 09:44  @AriBFriedman     RT @romain_francois: Generic #rstats tools to REST: siesta. https://github.com/romainfrancois/siesta
 394463293689311232  Oct 27 09:59  @wcc957           RT @moorejh: #rstats MT @sebhtml: The anatomy of successful computational biology #software http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html #bioinformatics #genomics
+394463293689311232  Oct 27 09:59  @wenchichou       RT @moorejh: #rstats MT @sebhtml: The anatomy of successful computational biology #software http://www.nature.com/nbt/journal/v31/n10/full/nbt.2721.html #bioinformatics #genomics
 394463776780865538  Oct 27 10:01  @mikeloukides     Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
 394468582299795456  Oct 27 10:20  @BrockTibert      My first Shiny question posted to SO.  #rstats  http://stackoverflow.com/questions/19613580/shiny-runexample-error-fail-to-create-server
 394471435617312768  Oct 27 10:31  @hadleywickham    RT @mikeloukides: Data analysis of xkcd: #rstats http://bit.ly/1ahAD46
@@ -23164,3 +23165,18 @@
 394615382041825280  Oct 27 20:03  @alexweberis      RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
 394616215617802240  Oct 27 20:06  @OJTien           RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
 394620601442533376  Oct 27 20:24  @pcolazurdo       RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394633698492284928  Oct 27 21:16  @BizCommando      RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394633885415649280  Oct 27 21:17  @DFWSmallBiz      RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394637584858488832  Oct 27 21:31  @planarrowspace   rjstat now supports read and write of @jsonstat in R; some limitations, but does the job! https://github.com/ajschumacher/rjstat #rstats #jsonstat @badosa
+394639073010147328  Oct 27 21:37  @thebusby         RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394639612741550080  Oct 27 21:39  @HisRauhlDreamer  Ik @theswaggyboss is real I don't believe other poser bs like if u don't believe it's him why fuckin bother to follow just leave?! #rstats
+394639837396869120  Oct 27 21:40  @yichuanw         Remember to order the years before you use ddply to calculate first differences. #rstats
+394655905091817473  Oct 27 22:44  @Lamont47617028   RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394656526000197632  Oct 27 22:47  @BucksCtyPA       RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394656832180203520  Oct 27 22:48  @akid_            RT @mikeloukides: Data analysis of xkcd: #rstats http://flip.it/9hvZg
+394658492914884608  Oct 27 22:54  @KELionsRoar      RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394690850929643520  Oct 28 01:03  @kirk_hadley      @genetics_blog @brent_p real challenge isnt for everyone to switch to #python or #Rstats or xyz but get everyone on one platform #pipedream
+394691425184382976  Oct 28 01:05  @kirk_hadley      @abresler +1 for "paul pierce level truth". thinking abt starting my monday by showing this blog 2 my boss. convert them all 2 #rstats
+394701773778075648  Oct 28 01:46  @StrictlyStat     I like the fullscreen apps in OSX Mavericks, but then I realize I don't know how much time I've been on #rstudio doing #rstats.
+394704729282191360  Oct 28 01:58  @feedmem          RT @timoreilly: Awesome idea. A great comic. Can you understand what makes it tick? RT @mikeloukides: Data analysis of xkcd: #rstats http://t.co/rdzIey372n
+394712641928986624  Oct 28 02:30  @DailyRpackage    betfairly - Access Betfair API from R http://cran.r-project.org/web/packages/betfairly/index.html #RStats
