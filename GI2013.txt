@@ -357,3 +357,69 @@
 395733063046815744  Oct 30 22:04  @benjaminlmoore   RT @genetics_blog: #gi2013 hear! RT @mikelove: @bffo @benjaminlmoore let's get date of library prep & date of sequencing in there, not GEO/SRA's date of upload
 395733073008263168  Oct 30 22:04  @mt_ur_mind       Interesting! Wish I could be there! “@homolog_us: Genome Informatics Meeting at CSHL #GI2013 (http://www.homolog.us/blogs/blog/2013/10/30/genome-informatics-meeting-cshl/)”
 395733138019590144  Oct 30 22:05  @Pericarus        great Q: what if you use a virtual machine for each journal submission? A: then you'll have to include data, that's a bit tricky #GI2013
+395733171108466688  Oct 30 22:05  @SahaSurya        RT @natefoo: reproducibility via VM, #usegalaxy share-an-instance provides reproducibility via Amazon EC2 #gi2013
+395733244429471744  Oct 30 22:05  @jxtx             RT @natefoo: reproducibility via VM, #usegalaxy share-an-instance provides reproducibility via Amazon EC2 #gi2013
+395733386162999296  Oct 30 22:06  @SahaSurya        #GI2013 @gmodproject also offers a VM based solution for its suite of tools http://www.gmod.org/wiki/Cloud
+395733672164597760  Oct 30 22:07  @SaraBallouz      Reproducible bioinformatics = data + code? #gi2013
+395733780574384128  Oct 30 22:07  @infoecho         Malachi Griffith on the genome modeling system. #GI2013 Sample Management tools, Genome Modeling pipeline, workflow system GMS tool tree
+395733885012553729  Oct 30 22:08  @byuhobbes        @malachigriffith presenting the Genome Modeling System #gi2013
+395733952809295872  Oct 30 22:08  @infoecho         MG, The GMS is an analysis information management system (AIMS) #GI2013
+395734038922555392  Oct 30 22:08  @katatonikkat     RT @byuhobbes: @bffo Take home point: archiving data is not the same as making data publicly useful #gi2013
+395734281747587072  Oct 30 22:09  @infoecho         MG "Scalability and tracking of analysis matters!!" #GI2013
+395734571406213120  Oct 30 22:10  @byuhobbes        @malachigriffith 900+ sequencing centers worldwide, many using Illumina. How much duplication in data management infrastructure? #gi2013
+395734927549136896  Oct 30 22:12  @martenson        RT @natefoo: reproducibility via VM, #usegalaxy share-an-instance provides reproducibility via Amazon EC2 #gi2013
+395734968594616320  Oct 30 22:12  @mike_schatz      Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395735061091192833  Oct 30 22:12  @byuhobbes        @malachigriffith GMS: Reusable intermediate files are cached and reused for later pipelines that depend on those results #gi2013
+395735155027247104  Oct 30 22:13  @GuiomeNicolas    RT @sebhtml: List of talks and posters at Genome Informatics 2013 #GI2013 http://meetings.cshl.edu/abstracts/info2013_absstat.html @CSHLnews #genomics #informatics #computer #science
+395735197531914240  Oct 30 22:13  @assemblathon     RT @mike_schatz: Nice map of sequencers around the world from http://cl.ly/130J0v1U0c45 #gi2013
+395735206134820864  Oct 30 22:13  @byuhobbes        @malachigriffith Eric Lyons’ CoGe does similar tricks. #gi2013
+395735295640862721  Oct 30 22:13  @FGED             .@bffo just gave a talk on #minseqe standard at #gi2013 > suggestions about the use of virtual machines to make software reproducible
+395735299953012736  Oct 30 22:13  @benjaminlmoore   RT @mike_schatz: Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395735322593460224  Oct 30 22:13  @bffo             RT @FGED: .@bffo just gave a talk on #minseqe standard at #gi2013 > suggestions about the use of virtual machines to make software reproducible
+395735464159637505  Oct 30 22:14  @CrowdedHead      RT @mike_schatz: Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395735836001460225  Oct 30 22:15  @PhilippBayer     RT @assemblathon: RT @mike_schatz: Nice map of sequencers around the world from http://cl.ly/130J0v1U0c45 #gi2013
+395735986346262529  Oct 30 22:16  @bffo             Next FGED conf in Riva del Garda, Italy, Sept 11-13, 2014,  there will b session on reproducible science http://fged.org/news/next-fged-meeting-riva-del-garda-italy-september-11-13-2014/ #GI2013
+395736066222608384  Oct 30 22:16  @rvidal           RT @mike_schatz: Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395736321680875520  Oct 30 22:17  @razibkhan        RT @mike_schatz: Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395736499968151553  Oct 30 22:18  @SahaSurya        @notSoJunkDNA Anybody from @nygenome at #GI2013?
+395736599323242496  Oct 30 22:18  @mt_ur_mind       RT @mike_schatz: Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395736947634601984  Oct 30 22:20  @bffo             .@malachigriffith & @obigriffith  also teach a great RNASeq workshop at bioinformatics.ca video/pdf here: http://bioinformatics.ca/workshops/2013/informatics-rna-sequence-analysis-2013 #GI2013
+395737053322682369  Oct 30 22:20  @byuhobbes        @malachigriffith Genome Modeling System facilitates comparison of results from different methods / tools #gi2013
+395737068107620352  Oct 30 22:20  @infoecho         MG - GMS enables method/tool comparisons #GI2013
+395737222864830464  Oct 30 22:21  @gmodproject      RT @SahaSurya: #GI2013 @gmodproject also offers a VM based solution for its suite of tools http://www.gmod.org/wiki/Cloud
+395737638545522688  Oct 30 22:23  @benjaminlmoore   Nice mutation diagrams auto-generated as part of genome modelling system (via @malachigriffith) — oft-requested plot on #biostar #gi2013
+395737700734881792  Oct 30 22:23  @aaronquinlan     @malachigriffith giving a great overview of the medSeq pipeline at the @GenomeInstitute.  Nice automated pipeline with viz. etc. #gi2013
+395737831206686720  Oct 30 22:23  @bffo             .@genetics_blog found things here https://github.com/malachig?tab=activity @GenomeInstitute #GI2013
+395737849230008320  Oct 30 22:23  @genetics_blog    #gi2013 @GenomeInstitute GMS available at https://github.com/genome/gms, VM available via http://vagrantup.com
+395737871778185216  Oct 30 22:23  @infoecho         GMS https://github.com/genome/gms #GI2013
+395737982029672449  Oct 30 22:24  @byuhobbes        RT @infoecho: GMS https://github.com/genome/gms #GI2013
+395737996177448960  Oct 30 22:24  @aaronquinlan     RT @genetics_blog: #gi2013 @GenomeInstitute GMS available at https://github.com/genome/gms, VM available via http://vagrantup.com
+395738043551739904  Oct 30 22:24  @akarlin88        RT @mike_schatz: Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395738099054940160  Oct 30 22:24  @KateYandell      RT @mike_schatz: Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395738136510099456  Oct 30 22:24  @byuhobbes        RT @genetics_blog: #gi2013 @GenomeInstitute GMS available at https://github.com/genome/gms, VM available via http://vagrantup.com
+395738181943173120  Oct 30 22:25  @SaraBallouz      The GMS model should be standard practice: consistency & analysis tracking. Will try it out #gi2013
+395738190101118976  Oct 30 22:25  @Amiacalva        RT @assemblathon: RT @mike_schatz: Nice map of sequencers around the world from http://cl.ly/130J0v1U0c45 #gi2013
+395738584093040641  Oct 30 22:26  @mhairioz         #gi2013 great first session, must be beer o'clock
+395739564775858176  Oct 30 22:30  @JoshAinsley      Great first session at #GI2013 . Already learned some new things I can use to improve my own work.
+395743257780441088  Oct 30 22:45  @biomap           RT @assemblathon: RT @mike_schatz: Nice map of sequencers around the world from http://cl.ly/130J0v1U0c45 #gi2013
+395744347066728448  Oct 30 22:49  @scottjcain       and http://gmod.org/wiki/GMOD_in_a_Box “@SahasSurya: #gi2013 also offers a VM based solution for its suite of tools http://gmod.org/wiki/Cloud”
+395745689319124992  Oct 30 22:54  @scottjcain       sad to not be at #gi2013 first one I've missed in 11 years. Want to spend Halloween with the kids.
+395745798379429888  Oct 30 22:55  @mike_schatz      Thanks for all the great talks and discussion tonight! See you in the morning for Mike Snyder #gi2013 http://t.co/hV1Z6D6XMX
+395746302404751360  Oct 30 22:57  @lpachter         RT @mike_schatz: Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395750783615893504  Oct 30 23:15  @chrisamiller     Bummer that I couldn't join in the fun at #gi2013  Glad to see that the @GenomeInstitute is well represented, though.
+395751400099315712  Oct 30 23:17  @lynxoid          RT @mike_schatz: Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395751725824741376  Oct 30 23:18  @lynxoid          RT @mike_schatz: Looking forward to Genome Informatics starting tomorrow! #GI2013 http://t.co/5nOiiYS3gj
+395755516565020672  Oct 30 23:34  @byuhobbes        @mike_schatz @RobAboukhalil @genetics_blog @iddux How about other meta tags / terms like RT? That was a big one in the cloud. #gi2013
+395755692126404608  Oct 30 23:34  @benjaminlmoore   A baseball thing just happened, not sure of the details but I think I'm quite happy about it #RedSox #gi2013
+395762624580710400  Oct 31 00:02  @LeucineRichBio   Genome Informatics Meeting at CSHL #GI2013 http://www.homolog.us/blogs/blog/2013/10/30/genome-informatics-meeting-cshl/
+395765408541995008  Oct 31 00:13  @SahaSurya        #Storify of tweets from Genome Informatics 2013, day 1 http://sfy.co/hUdn #gi2013
+395766739406823425  Oct 31 00:18  @dell_alison      RT @sminot: #GI2013 MedSavant appears to give medical geneticists the ability to efficiently identify disease-causing genomic variants w/o command line.
+395766825448767488  Oct 31 00:18  @dell_alison      RT @genetics_blog: NC: 3.5 TB of reference data (!) behind Galaxy main http://usegalaxy.org #usegalaxy #GI2013
+395769188758736896  Oct 31 00:28  @mahtabm81        Great start in Genome informatics conferance tonight in Cold Spring Harbor #gi2013. Looking forward to tomorrow's presentations!
+395772615681245184  Oct 31 00:41  @a_statham        RT @genetics_blog: #gi2013 @bffo just introduced me to a new niche: 'forensic #bioinformatics' - figuring out what the hell people did to get results
+395773466387161088  Oct 31 00:45  @AllSeq           Follow #GI2013 to catch what's going on at CSHL's Genome Informatics. We're archiving the tweets here: http://ngs.is/1cnOsLL
+395774396872151040  Oct 31 00:49  @obigriffith      RT @genetics_blog: #gi2013 @GenomeInstitute GMS available at https://github.com/genome/gms, VM available via http://vagrantup.com
+395788421957812224  Oct 31 01:44  @raviupanishad    RT @genetics_blog: MetSavant also #opensource https://github.com/compbio-UofT/medsavant #GI2013
+395789661588566016  Oct 31 01:49  @FGED             @iddux @bffo Complimentary efforts. @fged= using seq as assay (RNAseq, ChIPseq), @genomestandards= genome & metagenome sequencing. #gi2013
+395790887822692352  Oct 31 01:54  @mincle           The Genome Informatics #GI2013 looks like an interesting meeting.
+395803474317029377  Oct 31 02:44  @braincode        RT @genetics_blog: MedSavant looks slick for filtering and viewing genomic variants http://genomesavant.com/p/medsavant/ cross-platform, GUI+CLI #GI2013

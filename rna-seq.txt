@@ -1207,8 +1207,8 @@
 327231075715788800  Apr 24 21:22  @tosnam           잘 만든 라이브러리로 충분히 sequencing하고 replication까지 해주면 당연히 좋겠지만 연구비의 압박이 있으므로... RNA-Seq에서의 SNV는 결국 돈 많은 랩에서나 해라 이건가?ㅋ
 327250968829898752  Apr 24 22:41  @Science_Alerts   http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HCctF
 327252456096534529  Apr 24 22:47  @Life_Sciences_   http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HCfgD
-327252487360884737  Apr 24 22:47  @jameslz          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
 327252487360884737  Apr 24 22:47  @JamesLZ          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
+327252487360884737  Apr 24 22:47  @jameslz          RNA-Seq Blog: http://www.rna-seqblog.com/  and  lncrnablog: http://www.lncrnablog.com/
 327272525732143104  Apr 25 00:07  @BiologyMag       http://sciencealerts.com A model based criterion for gene expression calls using RNA-seq data http://dlvr.it/3HDF79
 327317362514739200  Apr 25 03:05  @drchriscole      RT @aemonten: Measurement of mRNA abundance using RNA-Seq  data: RPKM is inconsistent among samples http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf
 327317562297835520  Apr 25 03:06  @Masamichi_C2     RNA-Seqの発現量データの解析に手こずるとか情弱すぎる。
@@ -2155,8 +2155,8 @@
 347240358373109760  Jun 19 02:32  @ryu_11_qpg       RT @dritoshi: 録画(録音?)が公開されました。「0.1 pg の mRNA をシーケンスする高精度なRNA-Seq法: Quartz-Seq」 http://goo.gl/ouH7R Chrome for Mac ではうまくみれなかったので、Safari でどうぞ。
 347337892974190592  Jun 19 08:59  @JavierHerrero7   @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
 347339598218801152  Jun 19 09:06  @GenomeAnalysis   RT @JavierHerrero7: @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
-347342370456616960  Jun 19 09:17  @mvschneiderg     RT @JavierHerrero7: @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
 347342370456616960  Jun 19 09:17  @VickySchneiderG  RT @JavierHerrero7: @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
+347342370456616960  Jun 19 09:17  @mvschneiderg     RT @JavierHerrero7: @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
 347343780560642048  Jun 19 09:23  @mcaccamo         RT @JavierHerrero7: @matholomoo reviewed the current sequencing techniques @GenomeAnalysis for de-novo sequencing, variation and RNA-seq #NIB
 347380176629424128  Jun 19 11:47  @SEQquestions     How do I get a genes.gtf file for RNA Seq Analysis http://bit.ly/14K03mj
 347381006581514240  Jun 19 11:51  @taylorlabsoton   Experiment in Nancy on  drought tolerance in poplar and RNA-Seq is going well with Suzie, Maud and Adrienne in Nancy for final harvest
@@ -2457,8 +2457,8 @@
 352798656371507200  Jul  4 10:38  @Fish_Genomics    RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
 352799481751814145  Jul  4 10:42  @raisinsleeps     RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
 352801752829001730  Jul  4 10:51  @rnomics          Ribosomal #RNA Depletion for Efficient Use of... http://bit.ly/11jT709 #LibraryPreparation #qiagen #ribosomaldepletion #RNAseq @MyEN
-352801892780343296  Jul  4 10:51  @_ramrs           RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
 352801892780343296  Jul  4 10:51  @_r_am            RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
+352801892780343296  Jul  4 10:51  @_ramrs           RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
 352803309733679104  Jul  4 10:57  @7Journals        RNaseIII and T4 Polynucleotide Kinase sequence biases and solutions during RNA-seq library... http://adf.ly/RWEhz #BioMed #Journals
 352812197702942721  Jul  4 11:32  @nikhilgopal      Ribosomal RNA Depletion for Efficient Use of RNA-Seq Capacity http://bit.ly/123M5et
 352831578835128320  Jul  4 12:49  @theoneamit       RT @DanGraur: Protein-level variation not linked to RNA levels! May we throw microarray and quantitative RNA-Seq to the thrash can? http://t.co/ac80BbsEaf
@@ -4030,8 +4030,8 @@
 380602442075090944  Sep 19 04:01  @NatureBiotech    Functional variation in human genomes through RNA-seq from #1000Genomes http://bit.ly/1faCkR3 #NBTHighlight
 380602739429883905  Sep 19 04:02  @EATechV          RT @NatureBiotech: Functional variation in human genomes through RNA-seq from #1000Genomes http://bit.ly/1faCkR3 #NBTHighlight
 380603168163241984  Sep 19 04:04  @ecoharmony       RT @NatureBiotech: Functional variation in human genomes through RNA-seq from #1000Genomes http://bit.ly/1faCkR3 #NBTHighlight
-380603743559254016  Sep 19 04:06  @vasiliy_07       RT @NatureBiotech: Functional variation in human genomes through RNA-seq from #1000Genomes http://bit.ly/1faCkR3 #NBTHighlight
 380603743559254016  Sep 19 04:06  @Vasiliy_Taranov  RT @NatureBiotech: Functional variation in human genomes through RNA-seq from #1000Genomes http://bit.ly/1faCkR3 #NBTHighlight
+380603743559254016  Sep 19 04:06  @vasiliy_07       RT @NatureBiotech: Functional variation in human genomes through RNA-seq from #1000Genomes http://bit.ly/1faCkR3 #NBTHighlight
 380603747367264256  Sep 19 04:06  @abcam            RT @NatureBiotech: Functional variation in human genomes through RNA-seq from #1000Genomes http://bit.ly/1faCkR3 #NBTHighlight
 380612007210123264  Sep 19 04:39  @HDelVecchio      RT @NatureBiotech: Functional variation in human genomes through RNA-seq from #1000Genomes http://bit.ly/1faCkR3 #NBTHighlight
 380612559784529920  Sep 19 04:41  @plaza_genomics   TRAPID - an efficient tool for the functional and comparative analysis of de novo RNA-Seq transcriptomes #teaser http://t.co/XUnBNXeQLc
@@ -4993,3 +4993,5 @@
 395730392067866625  Oct 30 21:54  @genetics_blog    How do MIAMI standards translate to RNA-seq? @bffo drafting MINSEQE standards #gi2013 (that's "min-seek-ee", @benjaminlmoore)
 395731368677609472  Oct 30 21:58  @MyHealthShare    RT @genetics_blog: How do MIAMI standards translate to RNA-seq? @bffo drafting MINSEQE standards #gi2013 (that's "min-seek-ee", @benjaminlmoore)
 395731448776634368  Oct 30 21:58  @GholsonLyon      RT @genetics_blog: How do MIAMI standards translate to RNA-seq? @bffo drafting MINSEQE standards #gi2013 (that's "min-seek-ee", @benjaminlmoore)
+395737332717854720  Oct 30 22:21  @synobu           (Rで)塩基配列解析（主にNGSやRNA-seq解析）：書籍化予定. Unixを使ったことがない農学部系の学生に教えることにフォーカスしている. クロスブラウザなバグレポートは歓迎します. #osa2013 http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq.html
+395744174630137857  Oct 30 22:48  @razoralign       GeneProf data: a resource of curated, integrated & reusable high-throughput genomics (RNA-seq/ChIP-seq) experiments: http://nar.oxfordjournals.org/content/early/2013/10/29/nar.gkt966.full
