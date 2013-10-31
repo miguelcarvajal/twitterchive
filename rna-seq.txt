@@ -4995,3 +4995,6 @@
 395731448776634368  Oct 30 21:58  @GholsonLyon      RT @genetics_blog: How do MIAMI standards translate to RNA-seq? @bffo drafting MINSEQE standards #gi2013 (that's "min-seek-ee", @benjaminlmoore)
 395737332717854720  Oct 30 22:21  @synobu           (Rで)塩基配列解析（主にNGSやRNA-seq解析）：書籍化予定. Unixを使ったことがない農学部系の学生に教えることにフォーカスしている. クロスブラウザなバグレポートは歓迎します. #osa2013 http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq.html
 395744174630137857  Oct 30 22:48  @razoralign       GeneProf data: a resource of curated, integrated & reusable high-throughput genomics (RNA-seq/ChIP-seq) experiments: http://nar.oxfordjournals.org/content/early/2013/10/29/nar.gkt966.full
+395816171460907008  Oct 31 03:35  @LeucineRichBio   Isoform Resolution Analysis of RNA-Seq http://www.rna-seqblog.com/technology/presentations/isoform-resolution-analysis-of-rna-seq/
+395831375691259904  Oct 31 04:35  @LeucineRichBio   The Integrated Microbial Genomes (IMG) data warehouse now includes analysis pipeline for RNA-Seq http://www.rna-seqblog.com/technology/methods/data-analysis/databases/the-integrated-microbial-genomes-img-data-warehouse-now-includes-analysis-pipeline-for-rna-seq/
+395845523980050432  Oct 31 05:31  @TAKAKO43006098   「ＳＭＡＲＴｅｒ　Ｓｔｒａｎｄｅｄ　ＲＮＡ－Ｓｅｑ」を１１月１日から国内で販売する。超微量なサンプルから試料調整でき、これまで解析が難しかった遺伝子発現解析が可能になる。
