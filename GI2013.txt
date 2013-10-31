@@ -441,3 +441,303 @@
 395894498565570560  Oct 31 08:46  @larry_parnell    RT @laxvid: #GI2013  low throughput cottage industry curation is important!
 395895231863721984  Oct 31 08:49  @byuhobbes        Stanford’s Michael Snyder is this morning’s keynote speaker at #gi2013 http://snyderlab.stanford.edu/
 395897779899629568  Oct 31 08:59  @iddux            @byuhobbes agree. Here's something I wrote about the subject a while ago. http://bytesizebio.net/2012/08/24/can-we-make-research-software-accountable/ #gi2013
+395917161409298432  Oct 31 10:16  @dbarthjones      RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+395917267310878720  Oct 31 10:16  @larry_parnell    N=1 studies for nutrition & genomics starting @ minimal cost: Nutrition Researcher Cohort: http://link.springer.com/article/10.1007/s12263-013-0348-4 #GI2013
+395917339494850560  Oct 31 10:17  @PacBio           RT @genetics_blog: The @PacBio RNA-seq paper Snyder's talking about http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2705.html #gi2013
+395917368171311104  Oct 31 10:17  @PacBio           RT @infoecho: MS talking about using Pacbio long read for studying full length transcripts, getting full length half of time #GI2013,
+395917481321431040  Oct 31 10:17  @gluxan           RT @cshperspectives: Mike Snyder on personal genomics: if you are a worrier, do not get your genome sequenced! #gi2013
+395917712314343424  Oct 31 10:18  @dbarthjones      RT @SobiaHamid: Michael Snyder sharing his omics data (& there's ALOT of it!) @CSHL Genome Informatics conference #GI2013 Snyderome http://t.co/kfeBIsROAB
+395918120961183745  Oct 31 10:20  @eurogene         RT @larry_parnell: N=1 studies for nutrition & genomics starting @ minimal cost: Nutrition Researcher Cohort: http://link.springer.com/article/10.1007/s12263-013-0348-4 #GI2013
+395918150535225344  Oct 31 10:20  @KristaTernus     @sminot The process of interpretation would need to be automated to really drop the time down. Not sure how soon that could happen? #gi2013
+395918336501874690  Oct 31 10:21  @larry_parnell    @GholsonLyon The genome repository MSnyder calls for exists: dbNP for nutrition & health studies org'ed by @benvanommen et al. #GI2013
+395918408182935553  Oct 31 10:21  @laxvid           #GI2013 Next up my friend and collaborator in crime Josh Ainsley on ribosome0boumd mRNA from activated dendrites
+395918457386303488  Oct 31 10:21  @sminot           @KristaTernus perhaps MedSavant could be expanded to healthy patients? #GI2013
+395918627305574400  Oct 31 10:22  @infoecho         MS, Q&A,  question about how the assembly quality affects the quality of comparative gene predictions. #GI2013
+395918884978446336  Oct 31 10:23  @infoecho         MS, Q&A, what effect would gene duplication & gene loss have on the prediction #GI2013
+395919327951847424  Oct 31 10:24  @edithfeskens     RT @larry_parnell: N=1 studies for nutrition & genomics starting @ minimal cost: Nutrition Researcher Cohort: http://link.springer.com/article/10.1007/s12263-013-0348-4 #GI2013
+395919684220231680  Oct 31 10:26  @renelaennec      RT @genomeresearch: ClinSeq: large-scale medical sequencing #gi2013 http://genome.cshlp.org/content/19/9/1665.full
+395919747008987136  Oct 31 10:26  @gnarzisi         RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+395919817720754176  Oct 31 10:26  @laxvid           #GI2013 Problem studying brain- it is a giant mess - can't be emphasized enough
+395919957558431744  Oct 31 10:27  @byuhobbes        Joshua Ainsley: human brain is a big mess; sampling for RNA-seq is complicated #gi2013
+395921033280389120  Oct 31 10:31  @SaraBallouz      RT @byuhobbes: Joshua Ainsley: human brain is a big mess; sampling for RNA-seq is complicated #gi2013
+395921165468041217  Oct 31 10:32  @KristaTernus     @sminot It's difficult when genotype does not always = phenotype. Would need MedSavant + contextual info, other omics data, etc. #gi2013
+395921566673817600  Oct 31 10:33  @CONPILY          RT @genomeresearch: ClinSeq: large-scale medical sequencing #gi2013 http://genome.cshlp.org/content/19/9/1665.full
+395921959046754305  Oct 31 10:35  @SobiaHamid       Neurons have a sh*t load of dendritic spines, that's alot of connectivity! #GI2013 @CSHL #genomeinformatics
+395922461071388672  Oct 31 10:37  @mattrasmus       RT @genomeresearch: ClinSeq: large-scale medical sequencing #gi2013 http://genome.cshlp.org/content/19/9/1665.full
+395923088111849472  Oct 31 10:39  @lucacozzuto      RT @genetics_blog: The @PacBio RNA-seq paper Snyder's talking about http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2705.html #gi2013
+395923528857710592  Oct 31 10:41  @laxvid           #GI2013 JA: Q&A What are the histone proteins doing in dendrites
+395923657832546304  Oct 31 10:42  @cdeboever        great talk by Joshua Ainsley. Smart to split up RNA-seq reads as coding vs 3' UTR, especially (because?) in the brain. #gi2013
+395923723041001473  Oct 31 10:42  @infoecho         Next, Sreeram Kannan on "Optimal algorithms and fundamental limits for de novo transcriptome assembly" #GI2013
+395924211836792832  Oct 31 10:44  @scottjcain       RT @SahaSurya: #GI2013 Guess this is the most exhaustive Omics study ever with a n=1 #snyderomics
+395926355566923776  Oct 31 10:52  @wimverleyen      RT @SahaSurya: #GI2013 MS: My wife won’t let me sequence my kids :-)
+395927480260763648  Oct 31 10:57  @assemblathon     RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+395929039409393665  Oct 31 11:03  @byuhobbes        Anticipating talk from Sreeram Kannan (@lpachter’s lab) on new transcriptome assembly algorithm(s) #gi2013
+395929114843967489  Oct 31 11:03  @sminot           #gi2013 Good talk by Joshua Ainsley using HiSeq of ribosome-bound RNA to discover fear-activated transcripts in mouse neurons.
+395929373972242433  Oct 31 11:04  @SahaSurya        #GI2013 Next up Sreeram Kannan frm @lpachter grp on Optimal algorithms and fundamental limits for de novo transcriptome assembly #GI2013
+395929413910417409  Oct 31 11:05  @infoecho         SK has background from information theory #GI2013
+395929436903596032  Oct 31 11:05  @GholsonLyon      "A near optimal algorithm for de novo transcriptome assembly" now at #gi2013
+395929583603568640  Oct 31 11:05  @infoecho         SK two flavors, Genome guide and de novo for transcriptome assembly #GI2013
+395929620928671744  Oct 31 11:05  @byuhobbes        Correction: Sreeram is a postdoc with David Tse, collaborating with @lpachter #gi2013
+395929680739835905  Oct 31 11:06  @genetics_blog    Sreeram Kannan from @lpachter lab talking abt optimal algos for denovo transcriptome assembly. looking forward to see how benchmark #gi2013
+395929688209494016  Oct 31 11:06  @SahaSurya        RT @byuhobbes: Correction: Sreeram is a postdoc with David Tse, collaborating with @lpachter #gi2013
+395929790684741632  Oct 31 11:06  @infoecho         SK "Theoretical underpinnings not well understood" "Is RNA-Seq harder or easier than DNA assembly?". #GI2013  good questions
+395929818564673536  Oct 31 11:06  @genetics_blog    #gi2013 SK: rna-seq or dna-seq: which is harder? depends on your application IMO
+395930030317903872  Oct 31 11:07  @infoecho         SK, Bresler-Bresler-Tes 2013, prior work on optimal DNA(genome) assembly #GI2013
+395930055849033728  Oct 31 11:07  @AlexAlexAlex184  RT @mike_schatz: Nice map of sequencers around the world from http://omicsmaps.com #gi2013
+395930182248595456  Oct 31 11:08  @SaraBallouz      Which is harder, RNA or DNA assembly?  #gi2013
+395930202653483008  Oct 31 11:08  @infoecho         SK, Mutibridging algorithm can achieve to the lower bound requirement of the read lengths #GI2013
+395930574612754433  Oct 31 11:09  @infoecho         SK, on "what is the L_critical for RNA assembly" #GI2013
+395930700806778880  Oct 31 11:10  @SahaSurya        #GI2013 SK: Varying abundances and isoforms make RNA assembly compared to DNA assembly. L critical is more difficult to define here.
+395930899402862593  Oct 31 11:10  @infoecho         SK, Main results, L_critical = 4077 for muse transcriptome #GI2013  (very doable with PacBio reads..)
+395931029703520256  Oct 31 11:11  @SaraBallouz      RT @infoecho: SK, Main results, L_critical = 4077 for muse transcriptome #GI2013  (very doable with PacBio reads..)
+395931159072210944  Oct 31 11:11  @infoecho         SK, read length 200, about 95% transcripts can be reconstructed. #GI2013
+395931177011662848  Oct 31 11:12  @genetics_blog    SK: what's the critical read length at which point you can completely reconstruct the transcript? #gi2013 cool work.
+395931208988651520  Oct 31 11:12  @byuhobbes        Sreeram Kannan discussing reconstructability of transcriptomes, taking lessons from reconstructability of genomes #gi2013
+395931235421126656  Oct 31 11:12  @SahaSurya        RT @genetics_blog: SK: what's the critical read length at which point you can completely reconstruct the transcript? #gi2013 cool work.
+395931254861746177  Oct 31 11:12  @byuhobbes        RT @genetics_blog: SK: what's the critical read length at which point you can completely reconstruct the transcript? #gi2013 cool work.
+395931536383422464  Oct 31 11:13  @infoecho         SK, abundance information is important for reconstruction, especially for shorter read lengths. #GI2013
+395931559569526785  Oct 31 11:13  @byuhobbes        Huge performance gap between transcriptome reconstruction approaches that do and do not use abundance information #gi2013
+395931636350455808  Oct 31 11:13  @SahaSurya        #GI2013 SK:” Varying abundance of the transcriptome is a blessing, not a curse “
+395931965805064192  Oct 31 11:15  @lpachter         RT @SahaSurya: #GI2013 SK:” Varying abundance of the transcriptome is a blessing, not a curse “
+395932021639229440  Oct 31 11:15  @infoecho         SK on more complex splice graph. however, finding sparsest flows is NP hard in general. #GI2013
+395932590047113216  Oct 31 11:17  @byuhobbes        Kannan: reconstructing transcripts using complex splice graphs, sparse flow inference; clever recovery of transcripts #gi2013
+395932614688636928  Oct 31 11:17  @infoecho         SK test the algorithm on simulated reads from human chromosome 15, gencode data, comparing to Trinity, about 30% more recovery #GI2013
+395932638592397312  Oct 31 11:17  @songtree         RT @laxvid: #GI2013 Problem studying brain- it is a giant mess - can't be emphasized enough
+395932662189551616  Oct 31 11:17  @songtree         RT @byuhobbes: Joshua Ainsley: human brain is a big mess; sampling for RNA-seq is complicated #gi2013
+395932780049072128  Oct 31 11:18  @SahaSurya        #GI2013 SK: Algorithm tests on simulated reads from human chr 15. Reconstructs 98-99% of transcripts compared to Trinity (63-64%)
+395932818456326145  Oct 31 11:18  @sminot           @infoecho What is the current state-of-the-art for transcript assembly? Trinity? #gi2013
+395932921837547520  Oct 31 11:18  @piper_jason      Would love some ROC curves right around now #GI2013
+395932954649575424  Oct 31 11:19  @infoecho         SK "our algorithm has on 8% false positive vs. 10+% FP from trinity" #GI2013
+395932972655726592  Oct 31 11:19  @byuhobbes        @sminot @infoecho Trinity and Oases seem to be the big names in this space #gi2013
+395933256010313729  Oct 31 11:20  @infoecho         SK, Q&A how does the sequencing error rate affect the algorithm #GI2013
+395933540220542976  Oct 31 11:21  @sminot           #GI2013 I would love to see the performance of Sreeram Kannan's near-optimal assembly algorithm on real, not simulated, data
+395933952424177664  Oct 31 11:23  @infoecho         SK Q&A "what kind of transcripts are hard to reconstruct?"  "Z or S structure in the splice graph" if the coverage is the same #GI2013
+395933982858018816  Oct 31 11:23  @benjaminlmoore   First use of cool illuminated chalkboards spotted at #gi2013, courtesy of Sreeram Kannan
+395934181449945088  Oct 31 11:23  @byuhobbes        Kannan: going to the whiteboard, fielding questions like a boss #gi2013
+395934282935316480  Oct 31 11:24  @infoecho         n the other word, there are some case one only get degenerate information from coverage information -> hard to reconstruct  #GI2013
+395934325025148929  Oct 31 11:24  @sminot           #GI2013 Next up: RNA editing with Ali Mortazavi
+395934330394251264  Oct 31 11:24  @genetics_blog    Ali Mortazavi talking about a touchy topic in recent years: RNA-editing in RNA-seq #gi2013
+395934368331730944  Oct 31 11:24  @lpachter         RT @byuhobbes: Kannan: going to the whiteboard, fielding questions like a boss #gi2013
+395934401999011841  Oct 31 11:24  @infoecho         Ali Mortazavi on RNA-editing #GI2013
+395934479811747840  Oct 31 11:25  @SahaSurya        RT @genetics_blog: Ali Mortazavi talking about a touchy topic in recent years: RNA-editing in RNA-seq #gi2013
+395934578163986432  Oct 31 11:25  @infoecho         AK, A-I C-<U are common form of RND editing #GI2013
+395934580361805825  Oct 31 11:25  @byuhobbes        RT @genetics_blog: Ali Mortazavi talking about a touchy topic in recent years: RNA-editing in RNA-seq #gi2013
+395934669629579264  Oct 31 11:25  @genetics_blog    Adenosine Deaminases that Act on RNA http://en.wikipedia.org/wiki/ADAR #gi2013
+395934812608811008  Oct 31 11:26  @infoecho         AK, more than 85% of RNA editing events involve repeats #GI2013
+395934918091370496  Oct 31 11:26  @infoecho         AK, RNA editing happens in clusters and also stochastic #GI2013
+395934979248504832  Oct 31 11:27  @SahaSurya        RT @infoecho: AK, more than 85% of RNA editing events involve repeats #GI2013 #transposons
+395935015847989248  Oct 31 11:27  @infoecho         AK -> AM, sorry #GI2013
+395935209830772736  Oct 31 11:28  @cdeboever        RT @sminot: #GI2013 I would love to see the performance of Sreeram Kannan's near-optimal assembly algorithm on real, not simulated, data
+395935245456797698  Oct 31 11:28  @infoecho         AM, Calling RNA editing is difficult. #GI2013
+395935309097345024  Oct 31 11:28  @genetics_blog    A-to-I editing (canonical) is ?85% of all editing. Calling RNA-editing in resequenced genomes is problematic. #gi2013
+395935376524574720  Oct 31 11:28  @byuhobbes        RT @genetics_blog: A-to-I editing (canonical) is ?85% of all editing. Calling RNA-editing in resequenced genomes is problematic. #gi2013
+395935597728366592  Oct 31 11:29  @genetics_blog    AM: But Inosine chemical erasing with cyanoethylinosine blocks reverse transcription. This motivates ICE-seq http://www.ncbi.nlm.nih.gov/pubmed/21370043 #gi2013
+395935857812590592  Oct 31 11:30  @mjcgenetics      RT @SahaSurya: #GI2013 MS: Only 94% variants overlap from same DNA, same technology/machine using Illumina (60X covg, GQ>50). Need to do this better
+395937835246567425  Oct 31 11:38  @tuuliel          RT @SahaSurya: #GI2013 SK:” Varying abundance of the transcriptome is a blessing, not a curse “
+395937921695756290  Oct 31 11:38  @SaraBallouz      Mortazavi: "Taking the -seq in RNA-seq seriously" #gi2013
+395938229901619200  Oct 31 11:40  @genomeresearch   RT @infoecho: Ali Mortazavi on RNA-editing #GI2013
+395938595745570817  Oct 31 11:41  @lexnederbragt    RT @dzerbino: Carol Bult (Jackson Labs) reminds us that manually curated genesets are necessary to correcty interpret RNAseq data #gi2013
+395938597695922177  Oct 31 11:41  @lexnederbragt    RT @dzerbino: Nathaniel Nutter (WUSTL) giving a tutorial on sane software development (versioning, testing, reviewing...) #gi2013
+395938608982790144  Oct 31 11:41  @lexnederbragt    RT @sminot: #GI2013 Nathaniel Nutter: "Version everything"
+395938681959493632  Oct 31 11:41  @piper_jason      Super interesting talk on RNA editing somewhat annoying me by bad data visualisation. Pie charts? Bar graphs instead of Venn charts? #GI2013
+395938704570978304  Oct 31 11:41  @KristaTernus     Ali Mortazavi is looking for postdocs #GI2013
+395938790851620864  Oct 31 11:42  @mjcgenetics      Re MS's 94% run-to-run inconsistency: majorly due to poor local read depth due to hard to sequence elements like high GC #gi2013
+395939102459428864  Oct 31 11:43  @genomeresearch   RNA–DNA differences in human mitochondria restore ancestral form of 16S ribosomal RNA http://tinyurl.com/qz5t66a #gi2013
+395939246701166592  Oct 31 11:44  @DeMoNiO_Mx       RT @genomeresearch: RNA–DNA differences in human mitochondria restore ancestral form of 16S ribosomal RNA http://tinyurl.com/qz5t66a #gi2013
+395939276354908160  Oct 31 11:44  @infoecho         Chris Burge on Combining HTC in vitro & in vio analyses to understand post-transcriptional gene regulation #GI2013
+395939323654463488  Oct 31 11:44  @lexnederbragt    RT @genetics_blog: #gi2013 @bffo just introduced me to a new niche: 'forensic #bioinformatics' - figuring out what the hell people did to get results
+395939353005785088  Oct 31 11:44  @SahaSurya        RT @infoecho: Chris Burge on Combining HTC in vitro & in vio analyses to understand post-transcriptional gene regulation #GI2013
+395939422987747330  Oct 31 11:44  @iddux            Chris Burge from MIT on in vivo and in vitro protein-RNA interactions. #gi2013
+395939452603756544  Oct 31 11:44  @byuhobbes        RT @iddux: Chris Burge from MIT on in vivo and in vitro protein-RNA interactions. #gi2013
+395939677183959040  Oct 31 11:45  @TeckYew          RT @genetics_blog: A-to-I editing (canonical) is ?85% of all editing. Calling RNA-editing in resequenced genomes is problematic. #gi2013
+395939844016197632  Oct 31 11:46  @soh__i           RT @genomeresearch: RNA–DNA differences in human mitochondria restore ancestral form of 16S ribosomal RNA http://tinyurl.com/qz5t66a #gi2013
+395940296724205568  Oct 31 11:48  @tads09           RT @genomeresearch: RNA–DNA differences in human mitochondria restore ancestral form of 16S ribosomal RNA http://tinyurl.com/qz5t66a #gi2013
+395940941347176448  Oct 31 11:50  @GenomeInstitute  RT @genetics_blog: #gi2013 @GenomeInstitute GMS available at http://github.com/genome/gms, VM available via http://vagrantup.com
+395940978634547200  Oct 31 11:51  @GenomeInstitute  RT @chrisamiller: Bummer that I couldn't join in the fun at #gi2013  Glad to see that the @GenomeInstitute is well represented, though.
+395941092626927617  Oct 31 11:51  @malachigriffith  RT @GenomeInstitute: RT @genetics_blog: #gi2013 @GenomeInstitute GMS available at http://github.com/genome/gms, VM available via http://t.co/qpYhyqnBM5
+395941334365650944  Oct 31 11:52  @infoecho         CB shows Motif enrichment in Bind-n-Seq reads: comparing simulated and observed data #GI2013
+395941993487953920  Oct 31 11:55  @lpachter         CB: Streaming k-mer assignment (SKA) #gi2013
+395942088224677888  Oct 31 11:55  @infoecho         CB, detect in vivo bind by CLIP seq. #GI2013
+395942581906853888  Oct 31 11:57  @piper_jason      Now this is some data visualisation I can get behind #GI2013
+395944293312905216  Oct 31 12:04  @sminot           #GI2013 CB: Binding affinity of a protein to all possible RNAs determined by pulling down random oligo pools Bind-n-Seq
+395944325659377664  Oct 31 12:04  @SahaSurya        #GI2013 Nicola Neretti (@nneretti ) on Genome-wide transcriptional landscape of repetitive elements in humans next #transposon
+395944591171395584  Oct 31 12:05  @nomad421         RT @lpachter: CB: Streaming k-mer assignment (SKA) #gi2013
+395944613447340032  Oct 31 12:05  @sminot           Nicola Neretti - RepEnrich: Analyzing repetitive DNA in ChIP-Seq and RNA-Seq datasets #GI2013
+395944700236300288  Oct 31 12:05  @SaraBallouz      Repetitive DNA elements - underrepresented due to multiple mapping. #gi2013
+395944813058465792  Oct 31 12:06  @SahaSurya        @nneretti:  Regions of genome with rep elems are problem for chip seq, rna seq read mapping for non-uniqueness #GI2013 #transposon
+395944857652301824  Oct 31 12:06  @infoecho         Nicola Neretti on RepEnrich: analyzing repetitive  DNA in CHiP-seq  and RNA-seq dataset #GI2013
+395944993858129920  Oct 31 12:06  @byuhobbes        RT @SahaSurya: @nneretti:  Regions of genome with rep elems are problem for chip seq, rna seq read mapping for non-uniqueness #GI2013 #transposon
+395945205645340674  Oct 31 12:07  @infoecho         NN "tens of millions of repetitive reads can map to more than one location, many of them to thousands of locations" #GI2013 #needlongerreads
+395945339535892480  Oct 31 12:08  @SahaSurya        RepEnrich from @nneretti  is available at http://nerettilab.com/repenrich/ #GI2013 #transposon
+395945689265356800  Oct 31 12:09  @SahaSurya        @nneretti:  Count data is imported into EdgeR for count normalization and calculating enrichment #GI2013 #transposon
+395945916999294976  Oct 31 12:10  @piper_jason      Really interesting to see the prevalence of MacBooks at #gi2013 only seen one or two (out of 350!) with a PC
+395946162563190784  Oct 31 12:11  @byuhobbes        RT @piper_jason: Really interesting to see the prevalence of MacBooks at #gi2013 only seen one or two (out of 350!) with a PC
+395946228074024961  Oct 31 12:11  @benjaminlmoore   Neretti: How to quantify exprs of rep elements? Aggregate into repeat classes ignoring exact mappings, analyse as other count data #gi2013
+395946417828552704  Oct 31 12:12  @martenson        RT @galaxyproject: Did you like @natefoo 's talk at #GI2013 ? Let us know! We are eager to hear you!
+395947385211191297  Oct 31 12:16  @infoecho         NN "Recent primate and human specific LINE-1 retrotransposons are up-regulated" #GI2013
+395947467843182592  Oct 31 12:16  @SahaSurya        RT @infoecho: NN "Recent primate and human specific LINE-1 retrotransposons are up-regulated" #GI2013 #transposon
+395947770584256512  Oct 31 12:17  @KristaTernus     Brave Nicola Neretti took on huge challenges in studying the genome-wide transcriptional landscape of repetitive elements! #shudder #gi2013
+395947823440478208  Oct 31 12:18  @infoecho         NN RNA-seq of mouse liver duing aging, 5mo, 24 mo, 36 mo. Satellites and LINE-1 display increased expression in 36 mo. #GI2013
+395947866230771713  Oct 31 12:18  @SahaSurya        @nneretti referring to this study of senescence and TEs http://onlinelibrary.wiley.com/doi/10.1111/acel.12047/abstract #GI2013 #transposon
+395947904642207745  Oct 31 12:18  @infoecho         NN L1 copy number increase with age #GI2013
+395948056564084737  Oct 31 12:19  @sminot           NN Death by Retrotransposition #gi2013
+395948170892427264  Oct 31 12:19  @SahaSurya        RT @sminot: NN Death by Retrotransposition #gi2013 #transposon
+395948188005576705  Oct 31 12:19  @SaraBallouz      Death by retrotransposition. #gi2013
+395948524614860800  Oct 31 12:20  @sminot           #Gi2013 Maybe @jacksonlab can make a retrotransposon-free mouse to test the hypothesis that retrotransposition causes senescence
+395948526896549888  Oct 31 12:20  @SahaSurya        @nneretti:  Death by Retrotransposon paper http://onlinelibrary.wiley.com/doi/10.1002/bies.201300097/abstract #GI2013 #transposon
+395948695315030016  Oct 31 12:21  @drbachinsky      RT @infoecho: NN RNA-seq of mouse liver duing aging, 5mo, 24 mo, 36 mo. Satellites and LINE-1 display increased expression in 36 mo. #GI2013
+395948843369377792  Oct 31 12:22  @roy_ronen        Neretti lab: new mechanism for human aging/senescence? Death by Retrotransposon #GI2013
+395949065084891137  Oct 31 12:23  @genetics_blog    Looking fwd to Rob Patro's talk about Sailfish for RNA-seq. See @nextgenseek's blog post about the software http://nextgenseek.com/2013/08/sailfish-isoform-quantitation-at-the-speed-of-making-a-cup-of-coffee/ #gi2013
+395949224262893568  Oct 31 12:23  @salcagu          RT @EncodeDCC: Will be at #GI2013 with poster on REST API access to #ENCODE metadata: possible to integrate w/@uniprot and @ensembl data programmatically.
+395949474859593728  Oct 31 12:24  @SahaSurya        @nneretti:  Increase in TEs in liver and muscle with aging but not as much in brain #GI2013 #transposon // liver I understand :-)
+395949630866718720  Oct 31 12:25  @rtraborn         If you’re interested in genomics, keep an eye on the #gi2013 hashtag today- it’s the Genome Informatics meeting at Cold Spring Harbor.
+395949722013544448  Oct 31 12:25  @songtree         RT @infoecho: NN RNA-seq of mouse liver duing aging, 5mo, 24 mo, 36 mo. Satellites and LINE-1 display increased expression in 36 mo. #GI2013
+395949874086436864  Oct 31 12:26  @songtree         RT @SaraBallouz: Death by retrotransposition. #gi2013
+395949907405971456  Oct 31 12:26  @songtree         RT @sminot: #Gi2013 Maybe @jacksonlab can make a retrotransposon-free mouse to test the hypothesis that retrotransposition causes senescence
+395949950754127872  Oct 31 12:26  @songtree         RT @SahaSurya: @nneretti:  Death by Retrotransposon paper http://onlinelibrary.wiley.com/doi/10.1002/bies.201300097/abstract #GI2013 #transposon
+395950092059815936  Oct 31 12:27  @byuhobbes        Rob Patro on the isoform expression estimation problem, using reference #gi2013
+395950152860450816  Oct 31 12:27  @SahaSurya        #GI2013 Rob Patro on Sailfish— v fast RNA-seq expression estimates. Preprint at http://arxiv.org/abs/1308.3700 #arxiv
+395950325338628096  Oct 31 12:28  @byuhobbes        RP: 2 big problems in isoform quantification: robustness (wrt complex mixtures, errors, variation) and speed #gi2013
+395950371568619520  Oct 31 12:28  @SaraBallouz      Isoform estimation: robustness and speed are the computational challenges. #gi2013
+395950507597914112  Oct 31 12:28  @benjaminlmoore   Ha, Pierre Lindebaum's (@yokofakun) XKCD mod (compiling -> aligning) in Rob Patro's Sailfish talk #gi2013
+395950599578996736  Oct 31 12:29  @byuhobbes        RT @benjaminlmoore: Ha, Pierre Lindebaum's (@yokofakun) XKCD mod (compiling -> aligning) in Rob Patro's Sailfish talk #gi2013
+395950668952793088  Oct 31 12:29  @jakeyeung        #gi2013 death by retrotransposon: could we look at repeat elements in genome over-time in a longitudinal study of a person?
+395950775932686336  Oct 31 12:29  @infoecho         Rob Patro on fast way to estimate RNA-seq expression. #GI2013
+395950797558521856  Oct 31 12:30  @nextgenseek      RT "@genetics_blog: Looking fwd to Rob Patro's talk about Sailfish for RNA-seq. See @nextgenseek's blog http://nextgenseek.com/2013/08/sailfish-isoform-quantitation-at-the-speed-of-making-a-cup-of-coffee/ #gi2013”
+395950902592286720  Oct 31 12:30  @SahaSurya        @jakeyeung Wonder if #snyderome looked at TE expression too #GI2013
+395950954941403138  Oct 31 12:30  @BenLangmead      Bioinformatician-philosopher @nomad421 adeptly links computational efficiency of RNA-seq analysis with Kant's categorical imperative #gi2013
+395950991096680448  Oct 31 12:30  @aphillippy       RT @SahaSurya: #GI2013 Rob Patro on Sailfish— v fast RNA-seq expression estimates. Preprint at http://arxiv.org/abs/1308.3700 #arxiv
+395951037921898496  Oct 31 12:30  @yokofakun        RT @benjaminlmoore: Ha, Pierre Lindebaum's (@yokofakun) XKCD mod (compiling -> aligning) in Rob Patro's Sailfish talk #gi2013
+395951186685472768  Oct 31 12:31  @SaraBallouz      Robustness in the light of inexactness of RNA reads and the reference genome #gi2013
+395951268046594048  Oct 31 12:31  @songtree         @piper_jason #gi2013 seen any chromebooks here?
+395951318323691520  Oct 31 12:32  @lynxoid          RT @SahaSurya: #GI2013 Rob Patro on Sailfish— v fast RNA-seq expression estimates. Preprint at http://arxiv.org/abs/1308.3700 #arxiv
+395951324111454208  Oct 31 12:32  @SahaSurya        @aphillippy Are you here at #GI2013 ?
+395951387235721216  Oct 31 12:32  @assemblathon     “@rtraborn: If you’re interested in genomics, keep an eye on the #gi2013 hashtag today- it’s the CSH Genome Informatics meeting”
+395951487123070977  Oct 31 12:32  @infoecho         RP, using shorter sequence & allow fewer errors, use modify EM to compensate #GI2013
+395951579846545408  Oct 31 12:33  @infoecho         RP "k-mer counting can be robust" #gi2013
+395951611471609856  Oct 31 12:33  @byuhobbes        RT @infoecho: RP "k-mer counting can be robust" #gi2013
+395951849666117635  Oct 31 12:34  @infoecho         RP "sailfish" pipeline,k-mer index -> k-mer count -> allocate k-mer comput abundance -> repeat #GI2013
+395951979026849792  Oct 31 12:34  @SahaSurya        @assemblathon @rtraborn Tweets from Day 1 at http://bit.ly/1aqNrVH #GI2013
+395952027240382464  Oct 31 12:34  @infoecho         RP using minimal perfect hash function for very fast k-mer lookup #GI2013
+395952032294526977  Oct 31 12:34  @nequitans        RT @infoecho: RP "k-mer counting can be robust" #gi2013
+395952048685858817  Oct 31 12:34  @byuhobbes        RP: Sailfish pipepine: build kmer idx, count kmers, allocate kmers & compute abundance (modified EM algorithm?), bias correction #gi2013
+395952078377349120  Oct 31 12:35  @byuhobbes        RT @infoecho: RP using minimal perfect hash function for very fast k-mer lookup #GI2013
+395952187882622976  Oct 31 12:35  @SaraBallouz      Sailfish: count of k-mers versus aligning.  Clustering/collapse and then? Hash lookup? #gi2013
+395952266718347266  Oct 31 12:35  @nequitans        @nomad421 (Rob Patro’s) Sailfish talk happening right now at #GI2013!
+395952332556341249  Oct 31 12:36  @infoecho         RP minimal perfect hash has no collisions -> fast #GI2013 but you need to know what to get hashed first
+395952504258969601  Oct 31 12:36  @songtree         RT @benjaminlmoore: Ha, Pierre Lindebaum's (@yokofakun) XKCD mod (compiling -> aligning) in Rob Patro's Sailfish talk #gi2013
+395952781967638528  Oct 31 12:37  @byuhobbes        Tangentially related note: Rob Patro (@nomad421) personal home page uses a clever Beamer-like theme http://www.robpatro.com/redesign/ #gi2013
+395952857545191424  Oct 31 12:38  @rvaerle          RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+395953114110373888  Oct 31 12:39  @SahaSurya        RT @infoecho: RP minimal perfect hash has no collisions -> fast #GI2013 but you need to know what to get hashed first
+395953165444849664  Oct 31 12:39  @lynxoid          RT @benjaminlmoore: Ha, Pierre Lindebaum's (@yokofakun) XKCD mod (compiling -> aligning) in Rob Patro's Sailfish talk #gi2013
+395953169353560064  Oct 31 12:39  @Pericarus        RT @infoecho: RP using minimal perfect hash function for very fast k-mer lookup #GI2013
+395953216313393152  Oct 31 12:39  @lynxoid          RT @byuhobbes: RP: 2 big problems in isoform quantification: robustness (wrt complex mixtures, errors, variation) and speed #gi2013
+395953238190456832  Oct 31 12:39  @Pericarus        RT @infoecho: RP minimal perfect hash has no collisions -> fast #GI2013 but you need to know what to get hashed first
+395953248529829888  Oct 31 12:39  @genetics_blog    #GI2013 RNA-seq: RSEM, eXpress, cufflinks eating Sailfish's dust in speed benchmark in RNA-seq analysis. Discuss.
+395953307677511680  Oct 31 12:39  @Pericarus        RT @genetics_blog: #GI2013 RNA-seq: RSEM, eXpress, cufflinks eating Sailfish's dust in speed benchmark in RNA-seq analysis. Discuss.
+395953402708258816  Oct 31 12:40  @lynxoid          RT @genetics_blog: #GI2013 RNA-seq: RSEM, eXpress, cufflinks eating Sailfish's dust in speed benchmark in RNA-seq analysis. Discuss.
+395953403844915200  Oct 31 12:40  @songtree         RT @SaraBallouz: Sailfish: count of k-mers versus aligning.  Clustering/collapse and then? Hash lookup? #gi2013
+395953520874373120  Oct 31 12:40  @songtree         RT @genetics_blog: #GI2013 RNA-seq: RSEM, eXpress, cufflinks eating Sailfish's dust in speed benchmark in RNA-seq analysis. Discuss.
+395953540176166912  Oct 31 12:40  @infoecho         RP the problem gets hard when more isoforms present #GI2013
+395953564428042240  Oct 31 12:41  @SaraBallouz      Sailfish vs RSEM vs eXpress vs cufflinks. Pick your poison? Time difference is impressive given similar performance #gi2013
+395953775677960192  Oct 31 12:41  @lpachter         RP shows Cufflinks results on simulation using Flux Simulator at Spearman 0.95. GTEx claims in reply to my blog 0.75. #confused #GI2013
+395953913091731457  Oct 31 12:42  @SahaSurya        RT @SaraBallouz: Sailfish vs RSEM vs eXpress vs cufflinks. Pick your poison? Time difference is impressive given similar performance #gi2013
+395954136577236992  Oct 31 12:43  @KristaTernus     RT @genetics_blog: #GI2013 RNA-seq: RSEM, eXpress, cufflinks eating Sailfish's dust in speed benchmark in RNA-seq analysis. Discuss.
+395954304718471168  Oct 31 12:43  @sminot           RT @SaraBallouz: Sailfish vs RSEM vs eXpress vs cufflinks. Pick your poison? Time difference is impressive given similar performance #gi2013
+395954337933189120  Oct 31 12:44  @AlexAlexAlex184  RT @infoecho: Rob Patro on fast way to estimate RNA-seq expression. #GI2013
+395954566032007168  Oct 31 12:44  @laxvid           #gi2013 Sailfish could be pretty useful when you want to try out multiple gene annotations for transcriptome quantization. Very fast.
+395954630263189504  Oct 31 12:45  @sminot           @genetics_blog Another implication is that long reads won't add much information #GI2013 @infoecho
+395954709468823552  Oct 31 12:45  @cdeboever        Sailfish looks great, any user complaints? #gi2013
+395954841249255424  Oct 31 12:46  @byuhobbes        RT @genetics_blog: #GI2013 RNA-seq: RSEM, eXpress, cufflinks eating Sailfish's dust in speed benchmark in RNA-seq analysis. Discuss.
+395954861952335872  Oct 31 12:46  @infoecho         Next, Jonas  Sibbesen on Probabilistic transcriptome assembly #GI2013
+395954949068054529  Oct 31 12:46  @byuhobbes        Did anyone catch the URL for Sailfish from @nomad421’s presentation? #gi2013
+395955161606406147  Oct 31 12:47  @genetics_blog    @aaronquinlan @byuhobbes and other #gi2013 runners - assuming this talk ends on time, let's meet around 1:20 under the grace auditorium tent
+395955226915520512  Oct 31 12:47  @SahaSurya        @byuhobbes @nomad421 http://bit.ly/1aqOKE9 #gi2013
+395955298231656448  Oct 31 12:47  @byuhobbes        RT @SahaSurya: @byuhobbes @nomad421 http://bit.ly/1aqOKE9 #gi2013
+395955470554238976  Oct 31 12:48  @roy_ronen        @genetics_blog Any thoughts on k-mer counting (although faster!) for distinguishing splice variants?? Sounds too good to be true #gi2013
+395955527014182912  Oct 31 12:48  @lynxoid          RT @laxvid: #gi2013 Sailfish could be pretty useful when you want to try out multiple gene annotations for transcriptome quantization. Very fast.
+395955533993091072  Oct 31 12:48  @byuhobbes        RT @genetics_blog: @aaronquinlan @byuhobbes and other #gi2013 runners - assuming this talk ends on time, let's meet around 1:20 under the grace auditorium tent
+395955552510963712  Oct 31 12:48  @genetics_blog    Speed and accuracy aside, as a quantitation tool, Sailfish has a pretty clever logo #gi2013 http://t.co/gmaDq19tS5
+395955590088126464  Oct 31 12:49  @lynxoid          RT @cdeboever: Sailfish looks great, any user complaints? #gi2013
+395955621289132032  Oct 31 12:49  @SahaSurya        RT @genetics_blog: Speed and accuracy aside, as a quantitation tool, Sailfish has a pretty clever logo #gi2013 http://t.co/gmaDq19tS5
+395955686037008384  Oct 31 12:49  @aphillippy       Props to @nomad421 for releasing both Sailfish code and pre-print prior to publication #gi2013 #OA
+395955774733549568  Oct 31 12:49  @SahaSurya        Agree! RT @aphillippy: Props to @nomad421 for releasing both Sailfish code and pre-print prior to publication #gi2013 #OA
+395955779536027648  Oct 31 12:49  @drricky          RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+395955787342020608  Oct 31 12:49  @lynxoid          RT @byuhobbes: Did anyone catch the URL for Sailfish from @nomad421’s presentation? #gi2013
+395955853284900865  Oct 31 12:50  @genetics_blog    +1 RT @aphillippy: Props to @nomad421 for releasing both Sailfish code and pre-print prior to publication #gi2013 #OA
+395955870473142272  Oct 31 12:50  @lynxoid          RT @aphillippy: Props to @nomad421 for releasing both Sailfish code and pre-print prior to publication #gi2013 #OA
+395955875623337984  Oct 31 12:50  @nequitans        RT @genetics_blog: Speed and accuracy aside, as a quantitation tool, Sailfish has a pretty clever logo #gi2013 http://t.co/gmaDq19tS5
+395955891448860672  Oct 31 12:50  @lynxoid          RT @genetics_blog: Speed and accuracy aside, as a quantitation tool, Sailfish has a pretty clever logo #gi2013 http://t.co/gmaDq19tS5
+395955926378610688  Oct 31 12:50  @byuhobbes        RT @genetics_blog: +1 RT @aphillippy: Props to @nomad421 for releasing both Sailfish code and pre-print prior to publication #gi2013 #OA
+395955951443779584  Oct 31 12:50  @nequitans        RT @aphillippy: Props to @nomad421 for releasing both Sailfish code and pre-print prior to publication #gi2013 #OA
+395956245082824704  Oct 31 12:51  @infoecho         JS describes a bayesian model of RNA-seqeunces #GI2013
+395956536696397824  Oct 31 12:52  @SaraBallouz      Probabilistic assembly: problematic given the 'inexactness' of the data?  #gi2013
+395956562487156736  Oct 31 12:52  @lynxoid          RT @infoecho: RP the problem gets hard when more isoforms present #GI2013
+395956737091457024  Oct 31 12:53  @infoecho         JS Bayesembler http://bayesembler.binf.ku.dk #GI2013
+395956863008665600  Oct 31 12:54  @galaxyproject    First poster session next at #GI2013 Galaxy has poster No. 28 - test automation improving reproducibility by @InitHello is worth visiting!
+395957025693134848  Oct 31 12:54  @SahaSurya        RNA seq assembly using  bayesian modeling RT @infoecho: JS Bayesembler http://bit.ly/1aqPuJA #GI2013
+395957266182324226  Oct 31 12:55  @pjacock          PDF http://samtools.sourceforge.net/Samtools-GenomeInformatics2013.pdf MT @drtkeane: If you’re interested in the latest development for Samtools - see poster 93 this afternoon #gi2013
+395957269495832576  Oct 31 12:55  @genetics_blog    Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+395957348751384577  Oct 31 12:56  @Amiacalva        RT @genetics_blog: #GI2013 RNA-seq: RSEM, eXpress, cufflinks eating Sailfish's dust in speed benchmark in RNA-seq analysis. Discuss.
+395957648547278849  Oct 31 12:57  @nomad421         RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+395957741677981696  Oct 31 12:57  @muellerwHH       RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+395957918979608576  Oct 31 12:58  @SaraBallouz      Bayesembler has really high relative benchmarking results, again interesting ... #gi2013
+395957925744631808  Oct 31 12:58  @rmflight         RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+395957947597340672  Oct 31 12:58  @mt_ur_mind       RT @infoecho: MS talking about using Pacbio long read for studying full length transcripts, getting full length half of time #GI2013,
+395957982330376192  Oct 31 12:58  @mt_ur_mind       RT @genetics_blog: The @PacBio RNA-seq paper Snyder's talking about http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2705.html #gi2013
+395958010188943360  Oct 31 12:58  @lpachter         RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+395958526482186240  Oct 31 13:00  @iddux            Talk about  bayesembler http://baysembler.binf.ku.dk #gi2013
+395958566961811456  Oct 31 13:00  @arvestad         RT @genetics_blog: #gi2013 @bffo just introduced me to a new niche: 'forensic #bioinformatics' - figuring out what the hell people did to get results
+395958657881759744  Oct 31 13:01  @erlichya         Just arrived to #gi2013 (after spoking to watson students this morning for 2 hours)
+395958686197485568  Oct 31 13:01  @DNAmlin          RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+395958694938435584  Oct 31 13:01  @piper_jason      @SaraBallouz I've noticed a need for a standardised assessment of transcriptome assembly!  #GI2013
+395958848592154624  Oct 31 13:02  @tuuliel          @genetics_blog @lpachter I wish I was at Cold Spring Harbor at #gi2013!
+395959096039710721  Oct 31 13:02  @drbachinsky      RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+395959365729263616  Oct 31 13:04  @genetics_blog    RT @tuuliel: @genetics_blog @lpachter I wish I was at Cold Spring Harbor at #gi2013!
+395960246704676864  Oct 31 13:07  @jjmerkin         RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+395960519229968385  Oct 31 13:08  @SaraBallouz      Posters soon! Visit me at 22. I've got candy! #gi2013
+395960656840896512  Oct 31 13:09  @aaronquinlan     RT @aphillippy: Props to @nomad421 for releasing both Sailfish code and pre-print prior to publication #gi2013 #OA
+395961194953314304  Oct 31 13:11  @aaronquinlan     Please check out Ryan Layer's posters on accurate SV discovery and alignment free DNA classification.  Posters 84 and 85.  #gi2013
+395961200644993024  Oct 31 13:11  @byuhobbes        @SaraBallouz @piper_jason Just like genome assembly (@assemblathon 2), there is unlikely to be One True Metric. #gi2013
+395961349194645504  Oct 31 13:11  @EncodeDCC        Visit Drew at poster 41 this afternoon to see plans on accessing #ENCODE metadata programmatically via REST API #GI2013
+395961752430456832  Oct 31 13:13  @nextgenseek      @notSoJunkDNA @genetics_blog there is a lot 2 like about Sailfish if exp. quant. is the goal, even if it doesn't do "alignment" #GI2013
+395962722099023872  Oct 31 13:17  @nextgenseek      @genetics_blog true. found that this Sailfish is a cousin of Wikipedia sailfish :) http://en.wikipedia.org/wiki/File:Istiophorus_platypterus_.jpg #gi2013
+395964598198603776  Oct 31 13:24  @mike_schatz      @tuuliel @genetics_blog @lpachter Across the pond in Cambridge next year, back at CSHL in 2015. Looking forward to seeing you #gi2013
+395965326661550080  Oct 31 13:27  @lexnederbragt    RT @infoecho: MS "SNP variants getting better. Indels and structural variants need work!" #GI2013
+395965452046053376  Oct 31 13:28  @lexnederbragt    RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+395965939902320640  Oct 31 13:30  @lexnederbragt    RT @malachigriffith: Moleculo successfully phased 98.2% of Mike Snyder’s SNPs. #gi2013
+395966602795319296  Oct 31 13:32  @wimverleyen      #GI2013 poster session! Poster 22: Coexpression - microarray vs RNAseq. Sweet... not only because of its candy.
+395967313096507392  Oct 31 13:35  @OmicsOmicsBlog   RT @genetics_blog: Speed and accuracy aside, as a quantitation tool, Sailfish has a pretty clever logo #gi2013 http://t.co/gmaDq19tS5
+395968197515837440  Oct 31 13:39  @gkapatai         RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+395968657433829377  Oct 31 13:40  @lexnederbragt    RT @genetics_blog: SK: what's the critical read length at which point you can completely reconstruct the transcript? #gi2013 cool work.
+395968671006593025  Oct 31 13:41  @lexnederbragt    RT @infoecho: SK, read length 200, about 95% transcripts can be reconstructed. #GI2013
+395968688974987264  Oct 31 13:41  @lexnederbragt    RT @infoecho: SK, Main results, L_critical = 4077 for muse transcriptome #GI2013  (very doable with PacBio reads..)
+395969610962731008  Oct 31 13:44  @OmicsOmicsBlog   RT @SahaSurya: RNA seq assembly using  bayesian modeling RT @infoecho: JS Bayesembler http://bit.ly/1aqPuJA #GI2013
+395969648145211393  Oct 31 13:44  @OmicsOmicsBlog   RT @SahaSurya: Agree! RT @aphillippy: Props to @nomad421 for releasing both Sailfish code and pre-print prior to publication #gi2013 #OA
+395970469310246912  Oct 31 13:48  @OmicsOmicsBlog   RT @infoecho: RP "sailfish" pipeline,k-mer index -> k-mer count -> allocate k-mer comput abundance -> repeat #GI2013
+395971432750256128  Oct 31 13:52  @Oli_viajera      RT @wimverleyen: #GI2013 poster session! Poster 22: Coexpression - microarray vs RNAseq. Sweet... not only because of its candy.
+395971814297722880  Oct 31 13:53  @OmicsOmicsBlog   RT @sminot: #GI2013 I would love to see the performance of Sreeram Kannan's near-optimal assembly algorithm on real, not simulated, data
+395972001955074048  Oct 31 13:54  @OmicsOmicsBlog   RT @infoecho: SK, read length 200, about 95% transcripts can be reconstructed. #GI2013
+395972019143327744  Oct 31 13:54  @OmicsOmicsBlog   RT @genetics_blog: SK: what's the critical read length at which point you can completely reconstruct the transcript? #gi2013 cool work.
+395972066853552128  Oct 31 13:54  @OmicsOmicsBlog   RT @infoecho: SK, Main results, L_critical = 4077 for muse transcriptome #GI2013  (very doable with PacBio reads..)
+395972148923486208  Oct 31 13:54  @OmicsOmicsBlog   RT @infoecho: SK "Theoretical underpinnings not well understood" "Is RNA-Seq harder or easier than DNA assembly?". #GI2013  good questions
+395972459230294016  Oct 31 13:56  @Genome10K        RT @assemblathon: RT @mike_schatz: Nice map of sequencers around the world from http://cl.ly/130J0v1U0c45 #gi2013
+395973061804969984  Oct 31 13:58  @Genome10K        RT @assemblathon: “@rtraborn: If you’re interested in genomics, keep an eye on the #gi2013 hashtag today- it’s the CSH Genome Informatics meeting”
+395973512932110337  Oct 31 14:00  @iddux            #gi2013 come see poster 46. Learn all about CAFA http://biofunctionprediction.org Free cash!! (OK, maybe not the latter.)
+395974621977399296  Oct 31 14:04  @Oli_viajera      Poster session of #GI2013 has begun!
+395974873157095424  Oct 31 14:05  @galaxyproject    RT @genetics_blog: NC: 3.5 TB of reference data (!) behind Galaxy main http://usegalaxy.org #usegalaxy #GI2013
+395975094721187840  Oct 31 14:06  @galaxyproject    RT @natefoo: reproducibility via VM, #usegalaxy share-an-instance provides reproducibility via Amazon EC2 #gi2013
+395976202319822848  Oct 31 14:10  @pjacock          RT @genetics_blog: Speed and accuracy aside, as a quantitation tool, Sailfish has a pretty clever logo #gi2013 http://t.co/gmaDq19tS5
+395977366331490304  Oct 31 14:15  @mahtabm81        I'm presenting poster 98 this afternoon. Please stop by if you could. Already got a very good feedback! #gi2013
+395977712327999488  Oct 31 14:16  @peter1402        RT @SahaSurya: RNA seq assembly using  bayesian modeling RT @infoecho: JS Bayesembler http://bit.ly/1aqPuJA #GI2013
+395978958061465600  Oct 31 14:21  @aaronquinlan     RT @iddux: #gi2013 come see poster 46. Learn all about CAFA http://biofunctionprediction.org Free cash!! (OK, maybe not the latter.)
+395980272534962176  Oct 31 14:27  @biotechjones     RT @genetics_blog: Speed and accuracy aside, as a quantitation tool, Sailfish has a pretty clever logo #gi2013 http://t.co/gmaDq19tS5
+395980843073548289  Oct 31 14:29  @gscjim           RT @malachigriffith: 88% of disease variants reside outside of known genes. #gi2013
+395980900871053312  Oct 31 14:29  @gscjim           RT @dzerbino: Cool! rss2jira reads RSS feeds from BioStar, and creates a JIRA ticket when it finds a keyword #gi2013 https://github.com/genome/rss2jira
+395980962762199040  Oct 31 14:29  @gscjim           RT @aaronquinlan: Nutter.  Test all the things.  And automate all the tests.  I want to be this guy's friend. #gi2013
+395981028973506560  Oct 31 14:30  @gscjim           RT @jxtx: #gi2013 From @nnutter, a software engineering talk. 1. Version everything. Hellyeah.
+395981219839873024  Oct 31 14:30  @Oli_viajera      @wimverleyen I am going for candy poster 22 #GI2013 @SaraBallouz
+395981679451725824  Oct 31 14:32  @lynxoid          RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+395982043898982401  Oct 31 14:34  @ReleaseTEAMInc   RT @dzerbino: Cool! rss2jira reads RSS feeds from BioStar, and creates a JIRA ticket when it finds a keyword #gi2013 https://github.com/genome/rss2jira
+395982526092566529  Oct 31 14:36  @AlexAlexAlex184  I am looking for a job - please email me if you have anything going - postdoc, lectureship or company - #gi2013 #genomics #bioinformatics
+395984547868725248  Oct 31 14:44  @HdzZ_Liliana     RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
