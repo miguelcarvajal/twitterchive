@@ -111,6 +111,6 @@ twitterchivePlots <- function (filename=NULL) {
     message(paste(searchTerm, ": All done!\n"))
 }
 
-filelist <- as.list(list.files("..", pattern="ASHG2013.txt", full.names=T))
+filelist <- as.list(list.files("..", pattern="GI2013.txt", full.names=T))
 #filelist <- list("../bioinformatics.txt", "../metagenomics.txt", "../rstats.txt", "../rna-seq.txt", "../cville.txt", "../SFAF2013.txt")
 lapply(filelist, twitterchivePlots)
