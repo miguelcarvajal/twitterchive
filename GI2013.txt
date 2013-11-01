@@ -741,3 +741,148 @@
 395982043898982401  Oct 31 14:34  @ReleaseTEAMInc   RT @dzerbino: Cool! rss2jira reads RSS feeds from BioStar, and creates a JIRA ticket when it finds a keyword #gi2013 https://github.com/genome/rss2jira
 395982526092566529  Oct 31 14:36  @AlexAlexAlex184  I am looking for a job - please email me if you have anything going - postdoc, lectureship or company - #gi2013 #genomics #bioinformatics
 395984547868725248  Oct 31 14:44  @HdzZ_Liliana     RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+395988572584808448  Oct 31 15:00  @iddux            Poster #46 Critical Assessment of Function Annotations #gi2013  http://biofunctionprediction.org wicked cool QR-codes
+395988817045233665  Oct 31 15:01  @benlikestocode   RT @aaronquinlan: Nutter.  Test all the things.  And automate all the tests.  I want to be this guy's friend. #gi2013
+395991695835152384  Oct 31 15:12  @tangming2005     RT @malachigriffith: 88% of disease variants reside outside of known genes. #gi2013
+395993728563052544  Oct 31 15:20  @malachigriffith  Isaac aligner and variant caller from Illumina sounds promising... #gi2013
+395994991929335808  Oct 31 15:25  @schelhorn        RT @malachigriffith: Moleculo successfully phased 98.2% of Mike Snyder’s SNPs. #gi2013
+395995841577910273  Oct 31 15:29  @malachigriffith  Ryan Layer presenting some promising results from a new SV caller: lumpy-sv. #gi2013
+395996816619372544  Oct 31 15:32  @songtree         RT @EncodeDCC: Visit Drew at poster 41 this afternoon to see plans on accessing #ENCODE metadata programmatically via REST API #GI2013
+395998416611704832  Oct 31 15:39  @byuhobbes        RT @malachigriffith: Ryan Layer presenting some promising results from a new SV caller: lumpy-sv. #gi2013
+395998526863196161  Oct 31 15:39  @byuhobbes        RT @iddux: #gi2013 come see poster 46. Learn all about CAFA http://biofunctionprediction.org Free cash!! (OK, maybe not the latter.)
+395998993982828544  Oct 31 15:41  @byuhobbes        My favorite #gi2013 posters from session I: coming up
+395999612953051136  Oct 31 15:43  @byuhobbes        40: A. Dobin and T. Gingeras: detection/classification of circular RNAs from RNA-Seq data #gi2013 #favoriteposters
+396000112410763265  Oct 31 15:45  @byuhobbes        41: D. Erickson et al, REST API for ENCODE data; this type of data access is really slick, should be more common #gi2013 #favoriteposters
+396001004912517120  Oct 31 15:49  @byuhobbes        53: G. Gonnella, S. Kurtz: Harlekin, really efficient homopolymer error correction; soon 2b released w/ GenomeTools #gi2013 #favoriteposters
+396001439958319104  Oct 31 15:51  @byuhobbes        63: J Herrero: Genome assembly assessment based on single-copy genes; similar to CEGMA method, need to compare #gi2013 #favoriteposters
+396001848848429056  Oct 31 15:52  @nnutter          Really enjoying #gi2013 CSHL is a beautiful campus and there are a lot of interesting people, talks, and posters.
+396003498359128064  Oct 31 15:59  @byuhobbes        84: R Layer, @aaronquinlan: efficient+accurate (metagenomic) DNA classification on raspberry pi; cool applications #gi2013 #favoriteposters
+396003751791579137  Oct 31 16:00  @benjaminlmoore   My (slightly creased) poster at #gi2013 http://t.co/PKPsf9Jwhe
+396003869584400385  Oct 31 16:00  @byuhobbes        85: R Layer, @aaronquinlan, I Hall: Lumpy framework for variant disc; low-level pooling to discover rare variants #gi2013 #favoriteposters
+396004233180631040  Oct 31 16:02  @genetics_blog    Nice poster session at #GI2013. Somehow I missed the tophat3 RNA-seq poster. Did anyone else see it?
+396005947828486144  Oct 31 16:09  @EncodeDCC        RT @byuhobbes: 41: D. Erickson et al, REST API for ENCODE data; this type of data access is really slick, should be more common #gi2013 #favoriteposters
+396006333289222145  Oct 31 16:10  @EncodeDCC        RT @aaronquinlan: Nutter.  Test all the things.  And automate all the tests.  I want to be this guy's friend. #gi2013
+396011074711195648  Oct 31 16:29  @blahah404        RT @byuhobbes: 53: G. Gonnella, S. Kurtz: Harlekin, really efficient homopolymer error correction; soon 2b released w/ GenomeTools #gi2013 #favoriteposters
+396012079804862464  Oct 31 16:33  @who_is_vikas     Poster done, Time for some wine #gi2013 http://t.co/747CR4oge9
+396014516326367232  Oct 31 16:43  @piper_jason      T shirts only in Large and XL at #GI2013. No love for the slim I guess :(
+396016704503177216  Oct 31 16:51  @lynxoid          RT @nextgenseek: @genetics_blog true. found that this Sailfish is a cousin of Wikipedia sailfish :) http://en.wikipedia.org/wiki/File:Istiophorus_platypterus_.jpg #gi2013
+396017135816048641  Oct 31 16:53  @JokeReumers      RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+396018166217715712  Oct 31 16:57  @gscjim           RT @nnutter: Really enjoying #gi2013 CSHL is a beautiful campus and there are a lot of interesting people, talks, and posters.
+396018947210088449  Oct 31 17:00  @lynxoid          RT @SaraBallouz: Sailfish vs RSEM vs eXpress vs cufflinks. Pick your poison? Time difference is impressive given similar performance #gi2013
+396019146796072962  Oct 31 17:01  @lynxoid          RT @infoecho: RP, using shorter sequence & allow fewer errors, use modify EM to compensate #GI2013
+396027040177987584  Oct 31 17:32  @aaronquinlan     . @ryanlayer managing two posters at #gi2013 http://t.co/XKtxgI9Yy8
+396028712845844480  Oct 31 17:39  @memeticrick      Might as well tweet the current tweet board #gi2013 #meta http://t.co/FFwKMdvylT
+396035506070253568  Oct 31 18:06  @dopaminergic13   RT @bffo: MS your genome is a better record of your family history than your family #GI2013
+396039811963707392  Oct 31 18:23  @GenomeBrowser    Visit Brian at poster 151 tomorrow afternoon (5:15PM) to learn about Assembly Hubs. Host your own assembly in the @GenomeBrowser. #GI2013
+396043224843689984  Oct 31 18:37  @byuhobbes        97: Minot, Budowle: eval'd metagenomic classification algos; SIANN does well when u know what you’re looking for #gi2013 #favoriteposters
+396048013829079040  Oct 31 18:56  @benjaminlmoore   I made the top 10! Wonder if I can put that on the CV #gi2013 MT @memeticrick: current tweet board http://t.co/ZlGDD3KdcC
+396050540804964352  Oct 31 19:06  @jckuga           RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+396052957378007040  Oct 31 19:15  @byuhobbes        T-15 for tonight’s session on sequencing pipelines and assembly, featuring @aaronquinlan and @IanKorf #gi2013
+396054333579468800  Oct 31 19:21  @SahaSurya        #GI2013 Last session of the day coming up: Sequencing pipelines and Assembly
+396055095928184832  Oct 31 19:24  @laxvid           #GI2013 B000! This tweet is just to improve my standing on the twitter  board (@)-\/-(@)
+396055767100686337  Oct 31 19:27  @who_is_vikas     RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+396056765948637184  Oct 31 19:31  @cdeboever        Fiance as Barbara McClintock for her shift at @GriffithObserv because I imagine she misses me while I'm at #GI2013 http://twitpic.com/dji2ek
+396057020442611712  Oct 31 19:32  @laxvid           #GI2013 pipes, lines, assemblies ... boooooo that is what you are not getting last session Oct 31
+396057032358252544  Oct 31 19:32  @SahaSurya        #GI2013 First up: @aaronquinlan on Mining genetic variation with GEMINI // web http://bit.ly/1agF4pR ppr http://bit.ly/1agF74U #OA
+396057035735052288  Oct 31 19:32  @SaraBallouz      Wine and sequencing pipelines. A brilliant combination. #gi2013
+396057114470137856  Oct 31 19:32  @nomad421         After a great poster session, I’m looking forward to evening talks at #gi2013. So much more calm  after my talk!
+396057212806000640  Oct 31 19:32  @genetics_blog    #GI2013 @aaronquinlan talking about Gemini (genome mining?) https://github.com/arq5x/gemini
+396057251083194368  Oct 31 19:33  @who_is_vikas     Ready for another session on sequencing pipelines and assembly ... Looking forward for pacbio ..#GI2013 #cshl #stevenSalzbergInTheHouse
+396057732165664768  Oct 31 19:34  @sminot           Yet another beautifully formatted talk here at #GI2013 by Aaron Quinlan
+396057783084134400  Oct 31 19:35  @byuhobbes        RT @sminot: Yet another beautifully formatted talk here at #GI2013 by Aaron Quinlan
+396058586809257984  Oct 31 19:38  @natefoo          .@aaronquinlan has a "Knuth" line on his code error graph, hah! #gi2013
+396058598687920128  Oct 31 19:38  @genetics_blog    #GI2013 gemini filtering similar to that presented in medsavant on day 1. but also incl framework for analytics
+396058684436275201  Oct 31 19:38  @sminot           @genetics_blog @aaronquinlan including example code on the slides nicely shows the level of sophistication needed to use Gemini #GI2013
+396058812748021760  Oct 31 19:39  @davetang31       RT @genetics_blog: #GI2013 @aaronquinlan talking about Gemini (genome mining?) https://github.com/arq5x/gemini
+396058878682464256  Oct 31 19:39  @byuhobbes        @aaronquinlan: GEMINI provides a slick API for exploration of genomic variation data #gi2013
+396058885427326976  Oct 31 19:39  @sminot           @genetics_blog and MedSavant is just for single samples, perhaps? #GI2013
+396058986891710464  Oct 31 19:39  @genetics_blog    If you're happy using SQL, you'll love using https://github.com/arq5x/gemini #gi2013
+396059196875358208  Oct 31 19:40  @genetics_blog    SELECT * FROM variants WHERE <enter your filtering & subsetting criteria here> #gi2013
+396059274612183040  Oct 31 19:41  @SahaSurya        #GI2013 @aaronquinlan showing a neat SQL type interface to GEMINI
+396059476056629248  Oct 31 19:41  @genetics_blog    Now, if Gemini can do aggregate statistics in a GROUP BY-like framework, that would be killer. #gi2013
+396059806017921024  Oct 31 19:43  @byuhobbes        @aaronquinlan GEMINI also provides a localhost browser for the CLI-averse #gi2013
+396059835583959040  Oct 31 19:43  @sminot           @SahaSurya @aaronquinlan and there's a nice GUI for Gemini too! #GI2013
+396059856433446912  Oct 31 19:43  @mgymrek          Nice real code examples by @aaronquinlan of gemini API, with straightforward SQL queries for filtering variants. #gi2013
+396059900758851584  Oct 31 19:43  @martenson        #gi2013 is everybody using basic Boostrap buttons and styling these days?
+396059930190311424  Oct 31 19:43  @SahaSurya        #GI2013 @aaronquinlan’s GENMINI has excellent documentation http://gemini.readthedocs.org/en/latest/ and a mailing list https://groups.google.com/forum/?fromgroups#!forum/gemini-variation
+396060039107981312  Oct 31 19:44  @byuhobbes        RT @SahaSurya: #GI2013 @aaronquinlan’s GENMINI has excellent documentation http://gemini.readthedocs.org/en/latest/ and a mailing list https://groups.google.com/forum/?fromgroups#!forum/gemini-variation
+396060047081361408  Oct 31 19:44  @SahaSurya        Agree! RT @sminot: @SahaSurya @aaronquinlan and there's a nice GUI for Gemini too! #GI2013
+396060078044094464  Oct 31 19:44  @genetics_blog    yes, browse YC hacker news if you dont believe me RT @martenson: #gi2013 is everybody using basic Boostrap buttons and styling these days?
+396060098680086528  Oct 31 19:44  @mike_schatz      RT @mgymrek: Nice real code examples by @aaronquinlan of gemini API, with straightforward SQL queries for filtering variants. #gi2013
+396060184260657152  Oct 31 19:44  @OmicsOmicsBlog   RT @genetics_blog: If you're happy using SQL, you'll love using https://github.com/arq5x/gemini #gi2013
+396060464985432064  Oct 31 19:45  @mike_schatz      RT @who_is_vikas: Ready for another session on sequencing pipelines and assembly ... Looking forward for pacbio ..#GI2013 #cshl #stevenSalzbergInTheHouse
+396060472816173056  Oct 31 19:45  @KristaTernus     RT @SahaSurya: #GI2013 @aaronquinlan’s GENMINI has excellent documentation http://gemini.readthedocs.org/en/latest/ and a mailing list https://groups.google.com/forum/?fromgroups#!forum/gemini-variation
+396060714831319040  Oct 31 19:46  @piper_jason      @martenson Bootstrap's portability enables your bioinformatics tools to be used on your iPhone on the bus, though #GI2013 #workonthemove
+396060720825372672  Oct 31 19:46  @who_is_vikas     MySQL index querying, integrated in a web browser vs GUI based search engine. Which filtering method ? #gi2013 #gemini #medServent
+396060783941259264  Oct 31 19:47  @genetics_blog    ClinVar - free interface for deriving info from sources like HGMD, OMIM, etc. http://www.ncbi.nlm.nih.gov/clinvar/ #gi2013
+396061359458091008  Oct 31 19:49  @GenomeNathan     @aaronquinlan showing simple command-line poetry to flexibly filter human genomes. nice stuff. #GEMINI #gi2013
+396061438663745536  Oct 31 19:49  @genetics_blog    Not that anyone asked, but @aaronquinlan is one of the few bioinformaticians that writes good documentation http://gemini.readthedocs.org/en/latest/ #gi2013
+396061659254771712  Oct 31 19:50  @KristaTernus     RT @genetics_blog: If you're happy using SQL, you'll love using https://github.com/arq5x/gemini #gi2013
+396062175455748097  Oct 31 19:52  @SahaSurya        #GI2013 Jason Chin (@infoecho) from @pacbio on deck for String graph assembly for diploid genomes with long reads
+396062276236890112  Oct 31 19:52  @jxtx             #gi2013 @aaronquinlan Don't worry folks GEMINI is free as in speech as well as beer (MIT license). Scared me there for a minute...
+396062366741192704  Oct 31 19:53  @byuhobbes        Jason Chin of PacBio, discussing string-graph-based  diploid assembly #gi2013
+396062596736237568  Oct 31 19:54  @genetics_blog    More about string graph assembly: http://bioinformatics.oxfordjournals.org/content/21/suppl_2/ii79.abstract and http://bioinformatics.oxfordjournals.org/content/26/12/i367.short #gi2013
+396062768195194880  Oct 31 19:54  @jxtx             RT @natefoo: .@aaronquinlan has a "Knuth" line on his code error graph, hah! #gi2013
+396062950005293056  Oct 31 19:55  @SahaSurya        RT @genetics_blog: More about string graph assembly: http://bioinformatics.oxfordjournals.org/content/21/suppl_2/ii79.abstract and http://bioinformatics.oxfordjournals.org/content/26/12/i367.short #gi2013
+396063708285534208  Oct 31 19:58  @genetics_blog    When someone explains string or de bruijn graphs, the fact that these genome assembly tactics actually work never ceases to amaze me #gi2013
+396063961877344257  Oct 31 19:59  @GholsonLyon      RT @byuhobbes: Jason Chin of PacBio, discussing string-graph-based  diploid assembly #gi2013
+396063981552816128  Oct 31 19:59  @genetics_blog    JC: a fundamental challenge in genome assembly: distinguishing homologous regions from repeats #gi2013
+396064013190459393  Oct 31 19:59  @GholsonLyon      RT @genetics_blog: More about string graph assembly: http://bioinformatics.oxfordjournals.org/content/21/suppl_2/ii79.abstract and http://bioinformatics.oxfordjournals.org/content/26/12/i367.short #gi2013
+396064230144606208  Oct 31 20:00  @SahaSurya        #GI2013 @infoecho: String graph has a quasi linear structure with haplotypes as bubbles.
+396064252328284160  Oct 31 20:00  @APMisLow         RT @byuhobbes: Jason Chin of PacBio, discussing string-graph-based  diploid assembly #gi2013
+396064346453073920  Oct 31 20:01  @KristaTernus     Jason Chin @infoecho has some great figures in his presentation. Are the slides available online? #gi2013
+396064505077465088  Oct 31 20:01  @genetics_blog    If you take only reads 11kb or longer, you're not getting reads from common repeats (retrotransposons, 45S rRNA, etc) #gi2013
+396064962982207488  Oct 31 20:03  @PacBio           RT @genetics_blog: JC: a fundamental challenge in genome assembly: distinguishing homologous regions from repeats #gi2013
+396065147560542208  Oct 31 20:04  @piper_jason      "I won't go into the details, here is just algorithms" #GI2013
+396065222437253120  Oct 31 20:04  @mike_schatz      @infoecho explaining diploid assembly with @PacBio #gi2013 http://t.co/MaxSqSxOGH
+396065302888587264  Oct 31 20:05  @sminot           @genetics_blog or at least no reads that are contained by them #GI2013
+396065455003435008  Oct 31 20:05  @genetics_blog    RT @sminot: @genetics_blog or at least no reads that are contained by them #GI2013
+396065703717253120  Oct 31 20:06  @who_is_vikas     How often you hear 6.2 mb as N50, haploid inbred arabidopsis #pacbio #gi2013
+396065841252290560  Oct 31 20:07  @chenghlee        RT @genetics_blog: JC: a fundamental challenge in genome assembly: distinguishing homologous regions from repeats #gi2013
+396066659850416128  Oct 31 20:10  @SahaSurya        #GI2013 @infoecho: Successfully assembled simulated diploid genome with heuristics. N50>5mb for haploid and >2.5mb for diploid <- promising!
+396066888339320834  Oct 31 20:11  @nomad421         PacBio data available @ https://github.com/PacificBiosciences/DevNet/wiki/Datasets — Now let’s develop awesome stuff! #gi2013
+396067425764245504  Oct 31 20:13  @genetics_blog    Step it up @nanopore RT @nomad421: PacBio data available @ https://github.com/PacificBiosciences/DevNet/wiki/Datasets — Now let’s develop awesome stuff! #gi2013
+396067437281837056  Oct 31 20:13  @SaraBallouz      Best answer of the evening: lots (of processing/nodes) #gi2013
+396067498769924097  Oct 31 20:13  @chenghlee        Yesterday: baseball & dark matter. Today: Halloween cuteness & bioinformatics (#GI2013). So thanks, Twitter, for feeding my ADD.
+396067662675345408  Oct 31 20:14  @PacBio           RT @SahaSurya: #GI2013 @infoecho: Successfully assembled simulated diploid genome with heuristics. N50>5mb for haploid and >2.5mb for diploid <- promising!
+396067744757870592  Oct 31 20:14  @aphillippy       RT @nomad421: PacBio data available @ https://github.com/PacificBiosciences/DevNet/wiki/Datasets — Now let’s develop awesome stuff! #gi2013
+396068775793278976  Oct 31 20:18  @glwinsor         RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+396069171131199488  Oct 31 20:20  @infoecho         ok just gave my talk, not as smooth as I hope, but I hope to get the message across #GI2013
+396069255537360897  Oct 31 20:20  @GenomeNathan     @alteris Hara now discussing 'ultra-micro-inversions'. Will he address A<>T & C<>G substitution/indel duality?... #staytuned #gi2013
+396069531497418752  Oct 31 20:21  @SahaSurya        #GI2013 Yuichiro Hara from RIKEN using nice visuals to convey complexities of genome alignments. Talking about http://www.biomedcentral.com/1471-2148/11/308
+396069696837267456  Oct 31 20:22  @PacBio           RT @nomad421: PacBio data available @ https://github.com/PacificBiosciences/DevNet/wiki/Datasets — Now let’s develop awesome stuff! #gi2013
+396070000890765312  Oct 31 20:23  @genetics_blog    #GI2013 Abundance of Ultramicro Inversions within Local Alignments between Human and Chimpanzee Genomes http://www.biomedcentral.com/1471-2148/11/308
+396070444996255744  Oct 31 20:25  @aphillippy       RT @KristaTernus: Jason Chin @infoecho has some great figures in his presentation. Are the slides available online? #gi2013
+396070604757270528  Oct 31 20:26  @Pericarus        RT @genetics_blog: yes, browse YC hacker news if you dont believe me RT @martenson: #gi2013 is everybody using basic Boostrap buttons and styling these days?
+396070785615679488  Oct 31 20:26  @SaraBallouz      RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+396071004155674624  Oct 31 20:27  @who_is_vikas     Are all the observed snps and indels are real ? Watch out for micro inversions @yuichirohara #gi2013  #bioinformatics #birc #inano #carb
+396071452711325696  Oct 31 20:29  @OmicsOmicsBlog   RT @genetics_blog: More about string graph assembly: http://bioinformatics.oxfordjournals.org/content/21/suppl_2/ii79.abstract and http://bioinformatics.oxfordjournals.org/content/26/12/i367.short #gi2013
+396071599587471360  Oct 31 20:30  @genetics_blog    to the #gi2013 folks RT @graveley: Interesting? "ADAR Regulates RNA Editing, Transcript Stability, Gene Expression"  http://www.cell.com/cell-reports/abstract/S2211-1247(13)00571-8
+396071962851540992  Oct 31 20:31  @Pericarus        Hairpin loop mechanisms are also implicated in trinucleotide repeats tied to huntington's http://www.jbc.org/content/285/19/14648 #GI2013
+396072003884834816  Oct 31 20:31  @genetics_blog    why do bacteria have such higher rate of ultramicro inversions relative to number of point mutations #gi2013
+396072738068365312  Oct 31 20:34  @sminot           #GI2013 Did @RELenski find any ultramicroinversions in his LTE experiment?
+396072812281991168  Oct 31 20:34  @znfinger         Are there microinversions biases? Seems like a dangerous way to introduce diversity without a bias to avoid hitting useful things. #gi2013
+396072991215616000  Oct 31 20:35  @aphillippy       Inner alignment nerd is digging Yuichiro Hara's presentation of ultramicro inversions #GI2013
+396073335710547968  Oct 31 20:36  @mike_schatz      RT @aphillippy: Inner alignment nerd is digging Yuichiro Hara's presentation of ultramicro inversions #GI2013
+396073381344591872  Oct 31 20:37  @sminot           More beautiful figures! RT “@aphillippy: Inner alignment nerd is digging Yuichiro Hara's presentation of ultramicro inversions #GI2013”
+396073584570810368  Oct 31 20:37  @MohrDavidow      RT @nomad421: PacBio data available @ https://github.com/PacificBiosciences/DevNet/wiki/Datasets — Now let’s develop awesome stuff! #gi2013
+396074220901662720  Oct 31 20:40  @genetics_blog    #GI2013 Mascher's paper: Anchoring and ordering NGS contig assemblies by population sequencing (POPSEQ) http://www.ncbi.nlm.nih.gov/pubmed/23998490
+396074227310141440  Oct 31 20:40  @isugif           RT @genetics_blog: If you're happy using SQL, you'll love using https://github.com/arq5x/gemini #gi2013
+396074243886026752  Oct 31 20:40  @infoecho         Next, Martin Mascher on Anchoring and ordering NGS contig assembly by population sequencing (POPSEQ) #GI2013
+396074480545439744  Oct 31 20:41  @infoecho         MM, barley genome 5Gb genome, 80% repetitive #GI2013
+396074496949764096  Oct 31 20:41  @nnutter          RT @jxtx: #gi2013 @aaronquinlan Don't worry folks GEMINI is free as in speech as well as beer (MIT license). Scared me there for a minute...
+396074569766682625  Oct 31 20:41  @SahaSurya        RT @genetics_blog: #GI2013 Mascher's paper: Anchoring and ordering NGS contig assemblies by population sequencing (POPSEQ) http://t.co/Rm8VOdvshx
+396074681138413568  Oct 31 20:42  @genetics_blog    I can think of a reason or six to study the barley genome http://www.sciencedaily.com/releases/2012/10/121017131841.htm #gi2013
+396074791100092416  Oct 31 20:42  @infoecho         MM, more than 300,000 BACs were end sequenced and 6,300 clones were fully sequenced. Many contigs from short read assembly #GI2013
+396074804358299648  Oct 31 20:42  @SahaSurya        Sounds like fun! RT @infoecho: MM, barley genome 5Gb genome, 80% repetitive #GI2013
+396075509919920131  Oct 31 20:45  @nomad421         RT @aphillippy: Inner alignment nerd is digging Yuichiro Hara's presentation of ultramicro inversions #GI2013
+396075883381145600  Oct 31 20:47  @jxtx             RT @aphillippy: Inner alignment nerd is digging Yuichiro Hara's presentation of ultramicro inversions #GI2013
+396075921091747840  Oct 31 20:47  @genetics_blog    POPSEQ schematic #gi2013 http://t.co/iR4koBGAUU
+396076272230465537  Oct 31 20:48  @GenomeNathan     Qs ask Hara how we count potential 1-few b indels (where length distributions of subs/indels respectively peak/trough) #toughtrivia #gi2013
+396076468943331328  Oct 31 20:49  @chenghlee        Wow! Talk about informatics "fun"! RT @infoecho: Martin Mascher: barley genome 5Gb genome, 80% repetitive #GI2013
+396076721981493248  Oct 31 20:50  @chenghlee        Only six?! RT @genetics_blog: I can think of a reason or six to study the barley genome http://www.sciencedaily.com/releases/2012/10/121017131841.htm #GI2013
+396076993445650432  Oct 31 20:51  @genetics_blog    Steven Salzberg weighs in on the #GTEX debate on @lpachter's blog http://liorpachter.wordpress.com/2013/10/31/response-to-gtex-is-throwing-away-90-of-their-data/#comment-104 #gi2013 #methodsmatter #bioinformatics
+396078044172935168  Oct 31 20:55  @Graham_Coop      RT @genetics_blog: Steven Salzberg weighs in on the #GTEX debate on @lpachter's blog http://liorpachter.wordpress.com/2013/10/31/response-to-gtex-is-throwing-away-90-of-their-data/#comment-104 #gi2013 #methodsmatter #bioinformatics
+396078192018337792  Oct 31 20:56  @jxtx             RT @genetics_blog: Steven Salzberg weighs in on the #GTEX debate on @lpachter's blog http://liorpachter.wordpress.com/2013/10/31/response-to-gtex-is-throwing-away-90-of-their-data/#comment-104 #gi2013 #methodsmatter #bioinformatics
+396078258468683776  Oct 31 20:56  @aphillippy       RT @genetics_blog: Steven Salzberg weighs in on the #GTEX debate on @lpachter's blog http://liorpachter.wordpress.com/2013/10/31/response-to-gtex-is-throwing-away-90-of-their-data/#comment-104 #gi2013 #methodsmatter #bioinformatics
+396078933093122048  Oct 31 20:59  @OmicsOmicsBlog   RT @genetics_blog: Steven Salzberg weighs in on the #GTEX debate on @lpachter's blog http://liorpachter.wordpress.com/2013/10/31/response-to-gtex-is-throwing-away-90-of-their-data/#comment-104 #gi2013 #methodsmatter #bioinformatics
