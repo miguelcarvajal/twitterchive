@@ -897,6 +897,7 @@
 396083347585134592  Oct 31 21:16  @GenomeNathan     The talk tweetability list at #gi2013 reads like a When Harry Met Sally cue card. #yesyesyesyesyes #yes
 396083511704051713  Oct 31 21:17  @bffo             RT @GenomeNathan: The talk tweetability list at #gi2013 reads like a When Harry Met Sally cue card. #yesyesyesyesyes #yes
 396083671142510592  Oct 31 21:18  @laxvid           #GI2013 Oh! yah! That part of the genome which we know not, centromeres ... Karen Miga
+396083701538623489  Oct 31 21:18  @The_Smiao        RT @byuhobbes: Karen Higa: understanding of centromeres had not improved in 10 years #gi2013
 396083729858179072  Oct 31 21:18  @infoecho         Karen Miga, on centeromere sequences #GI2013
 396083896095215616  Oct 31 21:18  @SahaSurya        #GI2013 Karen Higa: Abt 60MB new centromeric sequences to be released in GRC38 #NCBI
 396084095668588544  Oct 31 21:19  @infoecho         KM, centromere: New source of sequence variation, Chromosome Segregation & Centromere function, Dataset exist, but not reference #GI2013
@@ -922,6 +923,7 @@
 396088256355639296  Oct 31 21:36  @GenomeNathan     RT @genetics_blog: Karen Miga's paper and some of these beautiful figures in preprint on arXiv: http://arxiv.org/abs/1307.0035 #gi2013
 396088636632215552  Oct 31 21:37  @aphillippy       RT @genetics_blog: Karen Miga's paper and some of these beautiful figures in preprint on arXiv: http://arxiv.org/abs/1307.0035 #gi2013
 396088778713874432  Oct 31 21:38  @infoecho         Next, Jason Miller on "Scalable assembly of native single-molecule reads" #GI2013
+396088814869159936  Oct 31 21:38  @OmicsOmicsBlog   RT @genetics_blog: Karen Miga's paper and some of these beautiful figures in preprint on arXiv: http://arxiv.org/abs/1307.0035 #gi2013
 396088849417252864  Oct 31 21:38  @SahaSurya        RT @infoecho: Next, Jason Miller on "Scalable assembly of native single-molecule reads" #GI2013
 396089075872309248  Oct 31 21:39  @mike_schatz      #GI2013 really nice talk by Miga on shining a light on the centromeres
 396089089558331393  Oct 31 21:39  @OmicsOmicsBlog   RT @infoecho: Next, Jason Miller on "Scalable assembly of native single-molecule reads" #GI2013
@@ -941,10 +943,13 @@
 396090656390533120  Oct 31 21:45  @infoecho         JM, 30Mbp Pelagomonas assembly, N50 1,314,343, CA on raw PacBio #GI2013
 396091121803067392  Oct 31 21:47  @infoecho         JM wants to try to merge assembly by jumping contigs from two different assembly #GI2013
 396091244797263872  Oct 31 21:48  @Amiacalva        RT @genetics_blog: Karen Miga's paper and some of these beautiful figures in preprint on arXiv: http://arxiv.org/abs/1307.0035 #gi2013
+396091333582266368  Oct 31 21:48  @Amiacalva        RT @SahaSurya: #GI2013 Karen Higa: Abt 60MB new centromeric sequences to be released in GRC38 #NCBI
 396091409142677504  Oct 31 21:48  @aphillippy       Jason Miller on updating Celera Assembler to assemble low coverage PacBio data, de novo, no hybrid. Code available now #GI2013
 396091520446517248  Oct 31 21:49  @infoecho         JM, Atlantic Salmon assembly, 3Gbp genome, 12x PacBio reads, NG50: 58 Kb, vs 31kb MaSuRCA on Sanger + ILMN gap fill with PacBio #GI2013
+396091726311329792  Oct 31 21:50  @infoecho         correction, the NG50 58k if from PacBio raw + Sanger with CA #GI2013
 396091741843247104  Oct 31 21:50  @genetics_blog    The MaSuRCA genome assembler http://bioinformatics.oxfordjournals.org/content/29/21/2669 #bioinformatics #gi2013
 396091860558835712  Oct 31 21:50  @SaraBallouz      Salmon genomes. Salmon consortia. Salmon assemblies. Salmon. #gi2013
+396092154398797824  Oct 31 21:51  @SahaSurya        #GI2013 JM describing latest version of Celera Assembler available at http://sourceforge.net/projects/wgs-assembler/files/wgs-assembler/wgs-8.0/ #NGS #assembly
 396092639138705409  Oct 31 21:53  @StevenSalzberg1  #GI2013 JM assembling salmon is hard, "lots of small, leftover pieces".  Good for lox?
 396092673099960320  Oct 31 21:53  @infoecho         JM, Assembly of single-molecule reads in native state on two small genomes and a large, complex one #GI2013
 396093236797661184  Oct 31 21:56  @bffo             Forgot to mwntion, current chair @aaronquinlan  at #GI2013 also did some teaching at bioinformatics.ca #NGS workshop http://bioinformatics.ca/workshops/2013/informatics-high-throughput-sequencing-data-2013
@@ -954,6 +959,7 @@
 396094602479800320  Oct 31 22:01  @RobAboukhalil    @bffo @aaronquinlan I watched several bioinformatics.ca workshops and they're really useful! Highly recommended. #GI2013
 396094625779167232  Oct 31 22:01  @infoecho         Giuseppe Narzisi, on Scalpel: A Novel DNA sequence micro-assembly pipeline to detect mutations within exome-capture data #GI2013
 396094709258395648  Oct 31 22:01  @chenghlee        RT @infoecho: Jason Miller, PacBio RS - long unmated reads, low base call accuracy, "ask, can we assembly raw, correct later?" #GI2013
+396094800912322560  Oct 31 22:02  @infoecho         GN, Scalpel features: self-tinning k-mer, on-the fly repeat composition analysis, ... #GI2013
 396095601537851393  Oct 31 22:05  @SobiaHamid       2nd day of #GI2013 drawing to a close (talks at least :) Interesting insights and meets @genomeNathan @gertidenas
 396095621264052224  Oct 31 22:05  @sminot           Scalpel #gi2013 independently assembling small windows across the genome
 396096024139141121  Oct 31 22:07  @infoecho         GN, only 37.1% gatk, soapindel, scalpel all agree on indel call.  Hard to judge the quality of the indel calls #GI2013
@@ -994,6 +1000,7 @@
 396123421391593472  Oct 31 23:55  @likesky3         RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
 396124252656898048  Oct 31 23:59  @dgmacarthur      RT @GenomeNathan: Happy halloween from #cshl: jean conversion #gi2013 http://t.co/q84urkzbTa
 396126871210835968  Nov  1 00:09  @SahaSurya        @aaronquinlan @ryanlayer Hey, thats me in there. BTW, Great job with both the posters #GI2013
+396129261305987072  Nov  1 00:19  @ozgunharmanci    RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
 396133793611788288  Nov  1 00:37  @elhong           Hope the DSB wasn't too painful @GenomeNathan: Happy halloween from #cshl: jean conversion #gi2013 http://t.co/NFUtvkJbPK
 396136094125010944  Nov  1 00:46  @raviupanishad    RT @genetics_blog: #GI2013 @aaronquinlan talking about Gemini (genome mining?) https://github.com/arq5x/gemini
 396137063537737728  Nov  1 00:50  @mahtabm81        What a day! Had a great time in the conferance today. Met some of the most interesting people in the world! #gi2013
@@ -1001,3 +1008,32 @@
 396139217606426624  Nov  1 00:58  @aaronquinlan     RT @mgymrek: Nice real code examples by @aaronquinlan of gemini API, with straightforward SQL queries for filtering variants. #gi2013
 396140296289128448  Nov  1 01:03  @aaronquinlan     RT @genetics_blog: If you're happy using SQL, you'll love using https://github.com/arq5x/gemini #gi2013
 396164474874654720  Nov  1 02:39  @cntalavera       RT @StevenSalzberg1: #GI2013 JM assembling salmon is hard, "lots of small, leftover pieces".  Good for lox?
+396173645913268224  Nov  1 03:15  @lexnederbragt    RT @genetics_blog: JC: a fundamental challenge in genome assembly: distinguishing homologous regions from repeats #gi2013
+396173692440694784  Nov  1 03:15  @lexnederbragt    RT @mike_schatz: @infoecho explaining diploid assembly with @PacBio #gi2013 http://t.co/MaxSqSxOGH
+396173807679197184  Nov  1 03:16  @lexnederbragt    RT @SahaSurya: #GI2013 @infoecho: Successfully assembled simulated diploid genome with heuristics. N50>5mb for haploid and >2.5mb for diploid <- promising!
+396173918710812672  Nov  1 03:16  @richardbadge     So geeky, it's good!  RT @GenomeNathan Happy halloween from #cshl: jean conversion #gi2013 http://t.co/tS21CE8fbg
+396175750996688896  Nov  1 03:23  @mt_ur_mind       RT @mike_schatz: @infoecho explaining diploid assembly with @PacBio #gi2013 http://t.co/MaxSqSxOGH
+396180725604835328  Nov  1 03:43  @lexnederbragt    RT @infoecho: Next, Jason Miller on "Scalable assembly of native single-molecule reads" #GI2013
+396180739257274368  Nov  1 03:43  @lexnederbragt    RT @infoecho: JM, PacBio RS -long unmated reads, low base call accuracy, "ask, can we assembly raw, correct later?" #GI2013
+396180871247826944  Nov  1 03:44  @lexnederbragt    RT @infoecho: JM, assembly to 5 contigs from 75x raw PacBio acceptant pair-wise overlaps up to 40% overlap errors #GI2013 (nice and cool.)
+396180881066696704  Nov  1 03:44  @lexnederbragt    RT @infoecho: JM, new algorithm for repeat detection in new Celera Assembler release #GI2013
+396180913689997312  Nov  1 03:44  @lexnederbragt    RT @infoecho: JM using non-best overlapped to find pattern to detect repeats #GI2013
+396180944849502209  Nov  1 03:44  @lexnederbragt    RT @infoecho: JM, 30Mbp Pelagomonas assembly, N50 1,314,343, CA on raw PacBio #GI2013
+396181046766870529  Nov  1 03:44  @lexnederbragt    RT @infoecho: correction, the NG50 58k if from PacBio raw + Sanger with CA #GI2013
+396181088609263616  Nov  1 03:45  @lexnederbragt    RT @infoecho: JM, Assembly of single-molecule reads in native state on two small genomes and a large, complex one #GI2013
+396182011750010880  Nov  1 03:48  @hinaichigo       RT @infoecho: JM, 30Mbp Pelagomonas assembly, N50 1,314,343, CA on raw PacBio #GI2013
+396183652440481792  Nov  1 03:55  @luhugerth        RT @genetics_blog: #gi2013 @bffo just introduced me to a new niche: 'forensic #bioinformatics' - figuring out what the hell people did to get results
+396196565007626240  Nov  1 04:46  @davetang31       RT @genetics_blog: #gi2013 @bffo just introduced me to a new niche: 'forensic #bioinformatics' - figuring out what the hell people did to get results
+396199112267554816  Nov  1 04:56  @gawbul           RT @sebhtml: List of talks and posters at Genome Informatics 2013 #GI2013 http://meetings.cshl.edu/abstracts/info2013_absstat.html @CSHLnews #genomics #informatics #computer #science
+396220804373151744  Nov  1 06:22  @josembecerra     RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+396233905801789440  Nov  1 07:14  @GenomeNathan     RT @richardbadge: So geeky, it's good!  RT @GenomeNathan Happy halloween from #cshl: jean conversion #gi2013 http://t.co/tS21CE8fbg
+396238723693572096  Nov  1 07:34  @Ayub1985         RT @genomeresearch: ClinSeq: large-scale medical sequencing #gi2013 http://genome.cshlp.org/content/19/9/1665.full
+396240241927147521  Nov  1 07:40  @danielbmariani   RT @genetics_blog: #gi2013 @bffo just introduced me to a new niche: 'forensic #bioinformatics' - figuring out what the hell people did to get results
+396240660053131264  Nov  1 07:41  @OmicsOmicsBlog   RT @SahaSurya: #GI2013 @infoecho: Successfully assembled simulated diploid genome with heuristics. N50>5mb for haploid and >2.5mb for diploid <- promising!
+396245319416963072  Nov  1 08:00  @ReleaseTEAMInc   RT @SahaSurya: #GI2013 Layla Oesper on complex genomic rearrangements using high throughput DNA sequencing data now. PREGO avlbl at http://t.co/XtfhXC7oKI
+396256321911398400  Nov  1 08:44  @maxal6           Looking forward to my talk at #GI2013. It's just 15 minutes, which is tough.
+396257105591562240  Nov  1 08:47  @CamLBerthelot    Comparative genomics and evolution session starts in a few minutes. Really looking forward to it! #GI2013
+396257814592503808  Nov  1 08:49  @ddgenome         Don't hesitate, he's nice "@aaronquinlan: @nnutter Test all the things. And automate all the tests. I want to be this guy's friend. #gi2013"
+396258622235475968  Nov  1 08:53  @genetics_blog    The discussion continues: @MDermitzakis responds to @StevenSalzberg1 on @lpachter's blog http://liorpachter.wordpress.com/2013/10/31/response-to-gtex-is-throwing-away-90-of-their-data/#comment-105 #methodsmatter #gi2013
+396259850260197376  Nov  1 08:58  @mgymrek          Leaving for a ~5 mi run from Grace after the morning session of talks. Message me if you're interested! #gi2013 @genetics_blog
+396259975690846209  Nov  1 08:58  @owlmonkey        RT @mike_schatz: @infoecho explaining diploid assembly with @PacBio #gi2013 http://t.co/MaxSqSxOGH
