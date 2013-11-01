@@ -5100,3 +5100,21 @@
 396154935076605952  Nov  1 02:01  @windowmoon       @kusege_tawashy trinityはRNA-seq用なんで、de novo目的なら要らないのでは。
 396182494338220032  Nov  1 03:50  @bio_impact       【Bioimpact PR】 Strand-SpecificなRNA-Seq解析を早く、簡単に！ 【 SMARTer Stranded RNA-Seq Kit 】■ クロンテックMail News:           ... http://bit.ly/1ct1YOg
 396220567545970688  Nov  1 06:21  @josembecerra     RT @genetics_blog: Looking fwd to Rob Patro's talk about Sailfish for RNA-seq. See @nextgenseek's blog post about the software http://t.co/bsReI2XzqW #gi2013
+396268210322149376  Nov  1 09:31  @LeucineRichBio   New RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor http://www.rna-seqblog.com/new-rna-seq-pathway-and-gene-set-analysis-workflows-in-rbioconductor/
+396268653039333376  Nov  1 09:33  @genetics_blog    If you're watching the GTEX discussion and want to know more about RNA-seq, start here: http://rnaseq.uoregon.edu/
+396278372466044928  Nov  1 10:11  @IanDworkin       RT @genetics_blog: If you're watching the GTEX discussion and want to know more about RNA-seq, start here: http://rnaseq.uoregon.edu/
+396284018863640576  Nov  1 10:34  @nikleotide       RT @genetics_blog: If you're watching the GTEX discussion and want to know more about RNA-seq, start here: http://rnaseq.uoregon.edu/
+396284531956670464  Nov  1 10:36  @Genomics_Guy     RT @genetics_blog: If you're watching the GTEX discussion and want to know more about RNA-seq, start here: http://rnaseq.uoregon.edu/
+396291863369367553  Nov  1 11:05  @infoecho         Joel Rozowsky, Comparison of 2 Metazoan Transcriptomes,  integrate all ENCODE/modENCODE RNA-seq data..  human/worm and fly #GI2013
+396292136225619968  Nov  1 11:06  @rnomics          Directed shotgun proteomics guided by saturated #RNA-seq identifies a complete expressed prokaryotic... http://bit.ly/1aN2Lsn #CSH @MyEN
+396303160572411904  Nov  1 11:50  @bluemm79         Genome Biology Comprehensive evaluation of differential gene expression analysis methods for RNA-seq data @scoopit http://sco.lt/6i05cv
+396303211218223106  Nov  1 11:50  @lpachter         Flux Simulator is using a model for RNA-Seq fragmentation based on sonicating lipid vesicles. ?? http://liorpachter.wordpress.com/2013/10/31/response-to-gtex-is-throwing-away-90-of-their-data/#comment-107
+396304418398027776  Nov  1 11:55  @genetics_blog    RE: RNA-seq: "simply looking at counts can be misleading. Or to put it more forcefully: it is incorrect. " http://liorpachter.wordpress.com/2013/10/31/response-to-gtex-is-throwing-away-90-of-their-data/#comment-107 discuss.
+396304565567766528  Nov  1 11:55  @bluemm79         Efficient and robust RNA-seq process for cultured bacteria and complex community transcriptomes @scoopit http://sco.lt/7unOOv
+396305209208496128  Nov  1 11:58  @gauravjain49     This is a really useful resource: An overview of RNA-seq and of the choices that one must make to carry out a succes…http://rnaseq.uoregon.edu/
+396305816807940096  Nov  1 12:00  @raviupanishad    RT @gauravjain49: This is a really useful resource: An overview of RNA-seq and of the choices that one must make to carry out a succes…http://t.co/6rcwE4AGjG
+396305863662514176  Nov  1 12:00  @leonidkruglyak   RT @lpachter: Flux Simulator is using a model for RNA-Seq fragmentation based on sonicating lipid vesicles. ?? http://liorpachter.wordpress.com/2013/10/31/response-to-gtex-is-throwing-away-90-of-their-data/#comment-107
+396314125854199809  Nov  1 12:33  @vsbuffalo        RT @genetics_blog: RE: RNA-seq: "simply looking at counts can be misleading. Or to put it more forcefully: it is incorrect. " http://twitter.com/rxIAhAxgzqE discuss.
+396318858082287616  Nov  1 12:52  @OmicsOmicsBlog   RT @genetics_blog: RE: RNA-seq: "simply looking at counts can be misleading. Or to put it more forcefully: it is incorrect. " http://twitter.com/rxIAhAxgzqE discuss.
+396329054527578112  Nov  1 13:33  @lpachter         RT @genetics_blog: RE: RNA-seq: "simply looking at counts can be misleading. Or to put it more forcefully: it is incorrect. " http://twitter.com/rxIAhAxgzqE discuss.
+396338193806946304  Nov  1 14:09  @genetics_blog    #gi2013 Poster 150: benchmarking rna-seq methods for isoform-resolution diff expr. cc @lpachter @yarbsalocin #methodsmatter
