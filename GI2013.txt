@@ -1670,3 +1670,40 @@
 396426782242783232  Nov  1 20:01  @mike_schatz      RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013
 396427680494526464  Nov  1 20:04  @anshul           RT @malachigriffith: The Genomics Virtual Laboratory (GVL) is creating bioinformatics tutorials using Galaxy. #gi2013
 396429006334996480  Nov  1 20:10  @anshul           RT @genetics_blog: lncRNA transcription associated with enhanced expression of genes nearby http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002841 #gi2013
+396443568287809536  Nov  1 21:08  @benjaminlmoore   Hate to be "that guy" taking photos of food but fair to say it's pretty good eatin' here at #gi2013 http://t.co/p10jN9J9oN
+396445907324919808  Nov  1 21:17  @theoneamit       RT @genetics_blog: Supplementary material is a terrible thing for the field, really limits computational biologists #gi2013 @lpachter
+396447005146218496  Nov  1 21:21  @theoneamit       RT @iddux: #gi2013 Visiting poster 154 will get your pending grant funded. Retweeting will get your revised paper published.
+396450409528569856  Nov  1 21:35  @tsucheta         What a meeting!! WiIl take sometime for me to absorb all the information #GI2013
+396450769580601344  Nov  1 21:36  @lynxoid          RT @nomad421: Relevant to LP’s current discussion (http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf) #gi2013
+396457959922081793  Nov  1 22:05  @SteveQinEmory    RT @genetics_blog: #gi2013 LP: http://omicsmaps.com/ map needs to be updated w/ where bioinformaticians are, not machines. shows cufflinks google analytics
+396458498944290816  Nov  1 22:07  @RosselloFJ       “@benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013” Def. true
+396463643258535936  Nov  1 22:27  @tsucheta         RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+396465467046387712  Nov  1 22:35  @biotechjones     RT @iddux: @lpachter talks about a paper in arxiv to detect WIMPs with a DNA sequencer... #gi2013 @AstroKatie http://arxiv.org/abs/1206.6809
+396466679212830720  Nov  1 22:39  @byuhobbes        Didn’t make it to see my poster on mRNAmarkup? Check it out on @figshare: http://dx.doi.org/10.6084/m9.figshare.839655 #gi2013
+396467326330994688  Nov  1 22:42  @JulioVegaUNAM    RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+396468872448335872  Nov  1 22:48  @genetics_blog    @laxvid at #gi2013 http://t.co/Rbanauk22R
+396471139310239744  Nov  1 22:57  @BioInformGW      RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+396472904336289792  Nov  1 23:04  @dyollluap        #gi2013 after party glow rings (RNA-seq read distribution) tribute to @lpachter s keynote: http://t.co/zYVljGU4tX
+396474590144507904  Nov  1 23:11  @tangming2005     RT @genetics_blog: #gi2013 @lpachter: "wrong doesn't cancel out wrong" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA
+396475192157167616  Nov  1 23:13  @tangming2005     RT @genetics_blog: #gi2013 LP: a better unit is TPM (go back to the RSEM paper http://www.biomedcentral.com/1471-2105/12/323
+396475262596292608  Nov  1 23:14  @tangming2005     RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.
+396475487759130624  Nov  1 23:14  @Amiacalva        RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+396475879922352129  Nov  1 23:16  @Amiacalva        RT @nomad421: Relevant to LP’s current discussion (http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf) #gi2013
+396476321070862337  Nov  1 23:18  @Amiacalva        RT @genetics_blog: #gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html
+396477407685017600  Nov  1 23:22  @Amiacalva        RT @SahaSurya: #GI2013 @lpachter pushing TPM use proposed in http://www.biomedcentral.com/1471-2105/12/323
+396478609365663744  Nov  1 23:27  @Amiacalva        RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.
+396479632180277249  Nov  1 23:31  @AMIAinformatics  RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+396481180331438080  Nov  1 23:37  @Amiacalva        RT @byuhobbes: @lpachter: throwing away multi reads drastically increases variance of expression estimates #gi2013
+396481774194536448  Nov  1 23:39  @byuhobbes        RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+396495218674917376  Nov  2 00:33  @homolog_us       RT @genetics_blog: Initial analysis of #gi2013 tweets (thousands of tweets, >200 unique Tweeters), based on https://github.com/stephenturner/twitterchive/blob/master/GI2013.csv http://t.co/iKhvB38CZX
+396495777553715200  Nov  2 00:35  @infoecho         RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics
+396499018345230336  Nov  2 00:48  @Han_Fang_        One good thing about a great meeting: Spend your whole day for great talks! Bad thing about it? Hmm.. Spend your night working... #gi2013
+396499353566982144  Nov  2 00:49  @meso_cacase      GGRNA is a Google-like search engine for genes & transcripts. Here's an example for protein sequence 'LGSAL': http://GGRNA.dbcls.jp/LGSAL #GI2013
+396499579354763264  Nov  2 00:50  @meso_cacase      GGRNA poster is available from http://bit.ly/GI2013Naito #GI2013
+396499802479153152  Nov  2 00:51  @meso_cacase      Search short DNA sequence 'TGACTGGT' from human genome: http://GGGenome.dbcls.jp/hg19/TGACTGGT / My poster is available from http://bit.ly/GI2013Naito #GI2013
+396501616284938240  Nov  2 00:58  @JoshAinsley      Free cocktails after two days of trying to be smart and attentive? Probably not the best idea... #gi2013
+396503068100923392  Nov  2 01:04  @rnomics          CT @rnomics/bioinfo Twitter / genetics_blog: #gi2013 @lpachter: "wrong doesn't ...: http://twitter.com... http://bit.ly/1aPOuuS @MyEN
+396504506315575296  Nov  2 01:10  @4a6a5a           RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013
+396515625578676224  Nov  2 01:54  @obigriffith      RT @malachigriffith: The Genomics Virtual Laboratory (GVL) is creating bioinformatics tutorials using Galaxy. #gi2013
+396516247669465088  Nov  2 01:56  @obigriffith      RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics
+396516672359522304  Nov  2 01:58  @pharmachristine  RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
