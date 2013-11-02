@@ -1386,11 +1386,15 @@
 396361689781649408  Nov  1 15:42  @iddux            Flanking information helps predict bound/unbound TF in poorly predicted binding states of the motif. #gi2013
 396361847722356736  Nov  1 15:43  @byuhobbes        Take home message from ID: regions flanking TFBS motifs are important, not for sequence but for structure #gi2013
 396362242280534016  Nov  1 15:44  @CamLBerthelot    99.8% of motifs are unbound by TF but motif can predict binding with AUC > 0.6 in most cases...?? Am I missing something? #gi2013
+396362269195776000  Nov  1 15:45  @nkt_rarry        RT @byuhobbes: Take home message from ID: regions flanking TFBS motifs are important, not for sequence but for structure #gi2013
 396362693697097728  Nov  1 15:46  @OmicsOmicsBlog   RT @infoecho: ID, Zhou, Tianyin 2013 NAR, High throughput DNA shape prediction #GI2013
 396362977634693120  Nov  1 15:47  @markgerstein     #gi2013 Dror: Interesting inverse relationship between DNA structural information and sequence information content in motif
 396363378425200640  Nov  1 15:49  @byuhobbes        Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013
+396363416128200704  Nov  1 15:49  @genetics_blog    It was the best of transcripts, it was the worst of transcripts #gi2013
 396363460046368768  Nov  1 15:49  @infoecho         CCH, Entamoeba genome 20Mb, 9000, 75% AT, Entamoeba #GI2013
+396363489696292864  Nov  1 15:49  @Oli_viajera      RT @byuhobbes: Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013
 396363547615039488  Nov  1 15:50  @byuhobbes        CH discusses “Tale of two strands” RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013
+396363643501019136  Nov  1 15:50  @infoecho         CCH, codon restarted evolution on both strands #GI2013
 396363726624145408  Nov  1 15:50  @mgymrek          RT @byuhobbes: Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013
 396363761747247105  Nov  1 15:50  @SaraBallouz      RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013
 396363775231946752  Nov  1 15:51  @SaraBallouz      RT @byuhobbes: Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013
@@ -1401,7 +1405,9 @@
 396365490853261313  Nov  1 15:57  @Oli_viajera      RT @byuhobbes: CH: are the positional constraints of short antisense transcripts encoded in the genome? Stay tuned to find out ;) #gi2013
 396365564530003968  Nov  1 15:58  @rtraborn         #FF Scientists tweeting excellent live updates from #gi2013: @markgerstein @genetics_blog @SahaSurya @byuhobbes @iddux @bffo @infoecho
 396365872425861120  Nov  1 15:59  @benjaminlmoore   RT @genetics_blog: Nice to have an engaging speaker at the end of a long day #gi2013 chung-chau hon
+396365919884025856  Nov  1 15:59  @byuhobbes        CH: poly-A of protein-coding gene also serves dual purpose for transcriptional regulation of short antisense RNAs #gi2013
 396366226345033728  Nov  1 16:00  @byuhobbes        @byuhobbes yes #gi2013
+396366263133671425  Nov  1 16:00  @markgerstein     #gi2013 Hon: Sharing of a seq. motif between strands - similar to converting your desk into a bed to be efficient in cramped quarters.
 396366672258281473  Nov  1 16:02  @iddux            RT @markgerstein: #gi2013 Hon: Sharing of a seq. motif between strands - similar to converting your desk into a bed to be efficient in cramped quarters.
 396366710191562752  Nov  1 16:02  @iddux            RT @byuhobbes: CH: poly-A of protein-coding gene also serves dual purpose for transcriptional regulation of short antisense RNAs #gi2013
 396366884209033216  Nov  1 16:03  @tsucheta         Towards the middle of the coding region there is a strong  bias towards T rather than any other base #GI2013
@@ -1414,16 +1420,19 @@
 396372323348926464  Nov  1 16:25  @tsucheta         Chromatin marks are highly heritable #GI2013
 396372409638731776  Nov  1 16:25  @Oli_viajera      chromatin variation another 'layer' to decipher; impressed with the work of MKasowski #gi2013
 396372477435465728  Nov  1 16:25  @Oli_viajera      RT @tsucheta: Chromatin marks are highly heritable #GI2013
+396372585703026689  Nov  1 16:26  @GuiomeNicolas    RT @iddux: RT @genomeresearch: @iddux Predicting Gene Expression from Promoter Sequences http://genome.cshlp.org/content/23/11/1928 #gi2013 Thanks!
 396372950070607872  Nov  1 16:27  @GuiomeNicolas    RT @iddux: Alignathon: a critical assessment of alignments http://compbio.soe.ucsc.edu/alignathon simulated data as a gold standard #gi2013
 396373101208174592  Nov  1 16:28  @SaraBallouz      Enhancer variation on top of it all. @Oli_viajera another layer indeed #gi2013
 396373570747904000  Nov  1 16:29  @mahtabm81        Lior Patcher's Keynote coming up next #gi2013
 396373573339586560  Nov  1 16:29  @drbachinsky      RT @iddux: Iris: diff in propeller twist & minor groove width explain said differences between bound and unbound motifs. #gi2013
 396373916626604033  Nov  1 16:31  @SahaSurya        #GI2013 Keynote by @lpachter http://math.berkeley.edu/~lpachter/ coming up now
+396374078426058752  Nov  1 16:31  @tsucheta         Human variations are due to Transcription factor binding,Epigenetic or post transcriptional.Contributions SNP 0.1% and CNVs 0.8% #GI2013
 396374174576689152  Nov  1 16:32  @wimverleyen      RT @Oli_viajera: chromatin variation another 'layer' to decipher; impressed with the work of MKasowski #gi2013
 396374380378615808  Nov  1 16:33  @SobiaHamid       Waltzing polypeptides @coldspringharborlaboratory #gi2013 http://t.co/TS0aphtRXv
 396374503556927488  Nov  1 16:33  @Oli_viajera      “@SahaSurya: #GI2013 Keynote by @lpachter http://math.berkeley.edu/~lpachter/ coming up now” I am looking forward!
 396374699346632704  Nov  1 16:34  @benjaminlmoore   #gi2013 keynote from @lpachter up next,wonder if a certain local Nobel laureate will make another appearance...
 396376527085899777  Nov  1 16:41  @byuhobbes        Title slide for @lpachter's keynote is up. “Stories from the Supplement.” Wonder what that could refer to… ;) #gi2013
+396376700554330112  Nov  1 16:42  @markgerstein     RT @byuhobbes: Title slide for @lpachter's keynote is up. “Stories from the Supplement.” Wonder what that could refer to… ;) #gi2013
 396376758498230272  Nov  1 16:42  @nomad421         Excited for LP’s keynote: “Stories from the Supplement”! #GI2013
 396376858524004354  Nov  1 16:43  @bffo             Lior Pachter is last keynote at #gi2013 and is tweetable http://t.co/sgCRGQIDYd
 396376974009958400  Nov  1 16:43  @infoecho         Keynote, Lior Pachter "Stories from the Supplement" #GI2013 Like the title...
@@ -1461,6 +1470,7 @@
 396378901565304832  Nov  1 16:51  @iddux            @lpachter was forced to reduce his method to 10 equations, making the paper somewhat illegible without digging in supplement. #gi2013
 396378951616307200  Nov  1 16:51  @K_dele           RT @Graham_Coop: the heteroduplex repair must have been quite a spectacle @GenomeNathan halloween from #cshl: jean conversion #gi2013 http://t.co/OoL424aF1W
 396379092439691264  Nov  1 16:51  @infoecho         LP, review on many assays, Soon et al., Molecular System Biology  More than 50 different assay publish. #GI2013
+396379126317469697  Nov  1 16:52  @genetics_blog    #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/
 396379230922997760  Nov  1 16:52  @infoecho         LP, *Seq list http://liorpachter.wordpress.com/seq/ #GI2013
 396379250724331521  Nov  1 16:52  @byuhobbes        RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/
 396379392420499456  Nov  1 16:53  @SahaSurya        RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/
@@ -1479,3 +1489,184 @@
 396380283361951744  Nov  1 16:56  @iddux            RT @genetics_blog: #gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html
 396380284402155520  Nov  1 16:56  @SahaSurya        #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance
 396380375393792000  Nov  1 16:57  @froggleston      RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/
+396380495422164992  Nov  1 16:57  @nkt_rarry        RT @SahaSurya: #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance
+396380856828559360  Nov  1 16:58  @cdeboever        Maybe @lpachter can publish supplemental videos, doing well explaining the methods here #gi2013
+396381011308974081  Nov  1 16:59  @byuhobbes        @lpachter: EM algorithm as chicken —> egg —> chicken —> egg, ad nauseum #gi2013
+396381065519955969  Nov  1 16:59  @nomad421         \alpha ~ NPM, \rho ~ TPM — very important distinction #gi2013
+396381071467900928  Nov  1 16:59  @Oli_viajera      LP: pie charts are fuzzy -> em solution #gi2013
+396381075007864832  Nov  1 16:59  @roy_ronen        #gi2013 This talk is fun. @lpachter
+396381142540361728  Nov  1 17:00  @k8hert           RT @SahaSurya: #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance
+396381152631480320  Nov  1 17:00  @SahaSurya        #GI2013 @lpachter: Likelihood function for fragment assignment using EM for RNaseq. But people like counts because “reads are real” :-)
+396381164585631744  Nov  1 17:00  @SaraBallouz      Hokey pokey RNAseq reads #gi2013
+396381243660857344  Nov  1 17:00  @genetics_blog    yes, and rare for a talk with 7 summations and half the greek alphabet on one slide RT @roy_ronen: #gi2013 This talk is fun. @lpachter
+396381437647400960  Nov  1 17:01  @markgerstein     .@iddux Pachter: Nice comparison of the Nature editor cutting equations in his express method paper to Mozart's patron cutting notes #gi2013
+396381463857618944  Nov  1 17:01  @mgymrek          RT @roy_ronen: #gi2013 This talk is fun. @lpachter
+396381499492429825  Nov  1 17:01  @Henzed           #gi2013 on the turning away... #postersession2
+396381590680764416  Nov  1 17:01  @SahaSurya        #GI2013 Interested in #metagenomics #microbiome #maize? Chk out poster #159. If you are not at #CSHL, see http://bit.ly/1iAHcxV
+396381622578458624  Nov  1 17:01  @Oli_viajera      LP: nature methods limits the replicability and/or explanation of the maths behind RNAseq #gi2013
+396381651368161280  Nov  1 17:02  @Oli_viajera      RT @SaraBallouz: Hokey pokey RNAseq reads #gi2013
+396381668950675456  Nov  1 17:02  @athmapai         RT @cdeboever: Maybe @lpachter can publish supplemental videos, doing well explaining the methods here #gi2013
+396381702026584064  Nov  1 17:02  @iddux            @lpachter describes eXpress method of fragment assignment well. Unlike the limits set on his paper. "So much for peer review"  #gi2013
+396381720175726592  Nov  1 17:02  @Oli_viajera      #gi2013
+396382041626779648  Nov  1 17:03  @iddux            @lpachter eXpress paper. http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html "If you want to understand, read my student's thesis, not the paper". #gi2013
+396382308905009152  Nov  1 17:04  @nkt_rarry        RT @SahaSurya: #GI2013 @lpachter: Likelihood function for fragment assignment using EM for RNaseq. But people like counts because “reads are real” :-)
+396382494020235264  Nov  1 17:05  @infoecho         LP. on "Regularized pooling for joint analysis of RNA-seq", using Non-negative matrix factorization (Lee-Seug algorithm) #GI2013
+396382514551726081  Nov  1 17:05  @genetics_blog    #gi2013 @lpachter: apply the Lee-Seung algorithm (netflix problem) to an RNA-seq matrix of transcripts by experiments
+396382616641110016  Nov  1 17:05  @Oli_viajera      LP: usage of the netflix algo for RNAseq data; so cool!  #gi2013
+396382897827217408  Nov  1 17:07  @cdeboever        @roy_ronen @lpachter Regularizing with nmf is a *really* interesting idea #gi2013
+396382923861291008  Nov  1 17:07  @nkt_rarry        RT @iddux: @lpachter eXpress paper. http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html "If you want to understand, read my student's thesis, not the paper". #gi2013
+396383123702685697  Nov  1 17:07  @byuhobbes        RT @genetics_blog: #gi2013 @lpachter: apply the Lee-Seung algorithm (netflix problem) to an RNA-seq matrix of transcripts by experiments
+396383180065742848  Nov  1 17:08  @byuhobbes        RT @iddux: @lpachter eXpress paper. http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html "If you want to understand, read my student's thesis, not the paper". #gi2013
+396383408911167488  Nov  1 17:09  @benjaminlmoore   LP: "regularised pooling" technique allows highly accurate imputation of expression from RNA-seq, magnifying coverage many times #gi2013
+396383609092702208  Nov  1 17:09  @iddux            @lpachter continues with "stories from my papers supplements" on counting RNA-Seq reads. #gi2013
+396383617313550336  Nov  1 17:09  @genetics_blog    #gi2013 @lpachter: "wrong doesn't cancel out wrong" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA
+396383632333746176  Nov  1 17:09  @SobiaHamid       #gi2013
+396383955647082498  Nov  1 17:11  @abcruzm          RT @genetics_blog: (1) fast (2) low-mem req (3) accurate. Pick two. #gi2013
+396384023938752512  Nov  1 17:11  @iddux            @lpachter "in math something is true, or false. Unless you're a logician" #gi2013
+396384158928211969  Nov  1 17:12  @SahaSurya        RT @iddux: @lpachter "in math something is true, or false. Unless you're a logician" #gi2013
+396384175399247873  Nov  1 17:12  @iddux            RT @genetics_blog: #gi2013 @lpachter: "wrong doesn't cancel out wrong" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA
+396384209704452096  Nov  1 17:12  @byuhobbes        @lpachter: in so many words, essentially: “if you torture the RNA-seq data, they’ll confess to anything” #gi2013
+396384319414882304  Nov  1 17:12  @bffo             from @lpachter | Streaming fragment assignment for real-time analysis of sequencing experiments |http://go.nature.com/K3ZQYI #gi2013
+396384380127817728  Nov  1 17:12  @Oli_viajera      RT @SahaSurya: RT @iddux: @lpachter "in math something is true, or false. Unless you're a logician" #gi2013
+396384650429739008  Nov  1 17:13  @byuhobbes        @lpachter Doing The Right Thing gives significant improvement over naïve method; go figure #gi2013
+396384735184035840  Nov  1 17:14  @KristaTernus     RT @genetics_blog: #gi2013 @lpachter: "wrong doesn't cancel out wrong" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA
+396384780209909760  Nov  1 17:14  @genetics_blog    #gi2013 yeah, that whole transcript / counting business isn't just a thought expt. From cuffdiff2 paper: http://t.co/TMm8teL7TR
+396384854138716161  Nov  1 17:14  @SaraBallouz      RT @byuhobbes: @lpachter: in so many words, essentially: “if you torture the RNA-seq data, they’ll confess to anything” #gi2013
+396384970161131520  Nov  1 17:15  @infoecho         LP, Unit for RNA-Seq: CPM, RPKM, FPKM or TPM? #GI2013 LP wants us to tweet this...
+396385109127200768  Nov  1 17:15  @Oli_viajera      RT @infoecho: LP, Unit for RNA-Seq: CPM, RPKM, FPKM or TPM? #GI2013 LP wants us to tweet this...
+396385110691692544  Nov  1 17:15  @byuhobbes        @lpachter “Please tweet this”; wrt units for RNA-Seq (RPKM, FPKM, etc), people really don’t know what’s going on #gi2013
+396385118157537281  Nov  1 17:15  @genetics_blog    #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS
+396385119403274240  Nov  1 17:15  @SaraBallouz      CPM, RPKM, FPKM, TPM. I don't know. Can you repeat the question? #gi2013
+396385243592409088  Nov  1 17:16  @ispiyou          RT @byuhobbes: @lpachter “Please tweet this”; wrt units for RNA-Seq (RPKM, FPKM, etc), people really don’t know what’s going on #gi2013
+396385286911164416  Nov  1 17:16  @genetics_blog    #gi2013 greek symbols past 5pm. move along now LP.
+396385326228574209  Nov  1 17:16  @Oli_viajera      RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS
+396385402330046464  Nov  1 17:16  @byuhobbes        Nothing to see here, move along :) RT @genetics_blog: #gi2013 greek symbols past 5pm. move along now LP.
+396385586225106944  Nov  1 17:17  @chfloudas        RT @genetics_blog: lncRNA transcription associated with enhanced expression of genes nearby http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002841 #gi2013
+396385620295430146  Nov  1 17:17  @nkt_rarry        RT @byuhobbes: @lpachter: in so many words, essentially: “if you torture the RNA-seq data, they’ll confess to anything” #gi2013
+396385627715174400  Nov  1 17:17  @genetics_blog    #gi2013 Jokes aside, slide illustrates exactly what RPKM actually is.
+396385627757105152  Nov  1 17:17  @nomad421         Relevant to LP’s current discussion (http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf) #gi2013
+396385660153913345  Nov  1 17:18  @BioMickWatson    RT @bffo: from @lpachter | Streaming fragment assignment for real-time analysis of sequencing experiments |http://go.nature.com/K3ZQYI #gi2013
+396385787660759041  Nov  1 17:18  @jjmerkin         RT @nomad421: Relevant to LP’s current discussion (http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf) #gi2013
+396385810079293440  Nov  1 17:18  @Oli_viajera      RT @genetics_blog: #gi2013 Jokes aside, slide illustrates exactly what RPKM actually is.
+396385905860440065  Nov  1 17:18  @genetics_blog    #gi2013: published cufflinks with FPKM but didn't really think about it, reviewers didn't review, thinks isn't the best way to measure.
+396385920464588800  Nov  1 17:19  @benjaminlmoore   LP: FPKM is the "wrong unit", no one read the suppl. mat. #gi2013
+396385937800044544  Nov  1 17:19  @byuhobbes        @lpachter: Every time I open a paper and see FPKM, I die a little inside #gi2013
+396385973384531968  Nov  1 17:19  @jjmerkin         RT @byuhobbes: @lpachter: Every time I open a paper and see FPKM, I die a little inside #gi2013
+396385998810382336  Nov  1 17:19  @SahaSurya        RT @genetics_blog: #gi2013: published cufflinks with FPKM but didn't really think about it, reviewers didn't review, thinks isn't the best way to measure.
+396386029113860096  Nov  1 17:19  @mgymrek          LP: Every time I open a paper and they say FPKM, I feel awful inside. #gi2013
+396386039029571586  Nov  1 17:19  @Oli_viajera      RT @byuhobbes: @lpachter: Every time I open a paper and see FPKM, I die a little inside #gi2013
+396386067513081858  Nov  1 17:19  @infoecho         RT @nomad421: Relevant to LP’s current discussion (http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf) #gi2013
+396386097200386049  Nov  1 17:19  @genetics_blog    #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.
+396386117052018689  Nov  1 17:19  @iddux            RT @genetics_blog: #gi2013: published cufflinks with FPKM but didn't really think about it, reviewers didn't review, thinks isn't the best way to measure.
+396386130415079424  Nov  1 17:19  @SaraBallouz      RT @byuhobbes: @lpachter: Every time I open a paper and see FPKM, I die a little inside #gi2013
+396386139059535872  Nov  1 17:19  @byuhobbes        RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.
+396386187499544576  Nov  1 17:20  @nomad421         I support the community’s transition to TPM! #gi2013
+396386247054094337  Nov  1 17:20  @infoecho         LP "please use TPM in your papers" #GI2013
+396386302461214722  Nov  1 17:20  @byuhobbes        @lpachter: Just use rho (TPM) #gi2013
+396386319913734145  Nov  1 17:20  @iddux            RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.
+396386375081414656  Nov  1 17:20  @genetics_blog    #gi2013 LP: a better unit is TPM (go back to the RSEM paper http://www.biomedcentral.com/1471-2105/12/323
+396386375987372032  Nov  1 17:20  @wimverleyen      #GI2013 FPKM should not be used for RNASeq. Finally, the engagement and information are there!!!!! Love this guy
+396386393091743744  Nov  1 17:20  @Oli_viajera      LP: Use TPM in your RNAseq exp/papers #gi2013
+396386470573117440  Nov  1 17:21  @benjaminlmoore   RT @infoecho: LP "please use TPM in your papers" #GI2013
+396386503301292033  Nov  1 17:21  @nkt_rarry        RT @infoecho: LP, Unit for RNA-Seq: CPM, RPKM, FPKM or TPM? #GI2013 LP wants us to tweet this...
+396386511198765056  Nov  1 17:21  @SahaSurya        #GI2013 @lpachter pushing TPM use proposed in http://www.biomedcentral.com/1471-2105/12/323
+396386546355826688  Nov  1 17:21  @SaraBallouz      And TPM wins? #gi2013
+396386567683465216  Nov  1 17:21  @infoecho         LP, TPM has no problem about the missing normalization factor, my interpretation  #GI2013
+396386631013646336  Nov  1 17:21  @SaraBallouz      RT @wimverleyen: #GI2013 FPKM should not be used for RNASeq. Finally, the engagement and information are there!!!!! Love this guy
+396386647924670464  Nov  1 17:21  @ldemare          Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+396386660856107008  Nov  1 17:21  @SaraBallouz      RT @SahaSurya: #GI2013 @lpachter pushing TPM use proposed in http://www.biomedcentral.com/1471-2105/12/323
+396386716350967808  Nov  1 17:22  @markgerstein     #gi2013 Pachter: "Rpkm is a unit not a method"
+396386804305117184  Nov  1 17:22  @benoitbruneau    .@akholloway thoughts on this? “@infoecho: LP, TPM has no problem about the missing normalization factor, my interpretation  #GI2013”
+396386815810469888  Nov  1 17:22  @Oli_viajera      RT @markgerstein: #gi2013 Pachter: "Rpkm is a unit not a method"
+396386824924708864  Nov  1 17:22  @KatherineMejia   RT @SahaSurya: #GI2013 @lpachter: Likelihood function for fragment assignment using EM for RNaseq. But people like counts because “reads are real” :-)
+396386843820036096  Nov  1 17:22  @KatherineMejia   RT @SahaSurya: #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance
+396386932420521984  Nov  1 17:23  @genetics_blog    #gi2013 LP: http://omicsmaps.com/ map needs to be updated w/ where bioinformaticians are, not machines. shows cufflinks google analytics
+396386974984339457  Nov  1 17:23  @mahtabm81        #gi2013 wow Lior Patcher is admitting FPKM is not a correct method, yet people use it everywhere.
+396386991149178881  Nov  1 17:23  @cdeboever        Does lior have a map plot showing who downloaded the supplement? #gi2013
+396387047856148480  Nov  1 17:23  @Oli_viajera      RT @genetics_blog: #gi2013 LP: http://omicsmaps.com/ map needs to be updated w/ where bioinformaticians are, not machines. shows cufflinks google analytics
+396387149563854848  Nov  1 17:23  @genetics_blog    #gi2013 LP: #methodsmatter
+396387197198540800  Nov  1 17:24  @genetics_blog    RT @cdeboever: Does lior have a map plot showing who downloaded the supplement? #gi2013
+396387206752784384  Nov  1 17:24  @nomad421         @benoitbruneau @akholloway @infoecho (R/F)PKM depends on average expressed transcript length; also TPM just makes more sense! #gi2013
+396387223266148352  Nov  1 17:24  @athmapai         RT @genetics_blog: #gi2013 LP: http://omicsmaps.com/ map needs to be updated w/ where bioinformaticians are, not machines. shows cufflinks google analytics
+396387297073299457  Nov  1 17:24  @Oli_viajera      LP take home message: methods matter  #gi2013 indeed!
+396387353465344001  Nov  1 17:24  @benjaminlmoore   Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013
+396387361170259968  Nov  1 17:24  @SahaSurya        Cannot agree more! #GI2013 @lpachter: #METHODSMATTER
+396387418917466112  Nov  1 17:24  @nomad421         RT @SahaSurya: Cannot agree more! #GI2013 @lpachter: #METHODSMATTER
+396387428514422784  Nov  1 17:25  @widdowquinn      RT @genetics_blog: #gi2013 @lpachter: "wrong doesn't cancel out wrong" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA
+396387529093431297  Nov  1 17:25  @genetics_blog    Initial analysis of #gi2013 tweets (thousands of tweets, >200 unique Tweeters), based on https://github.com/stephenturner/twitterchive/blob/master/GI2013.csv http://t.co/iKhvB38CZX
+396387603882450944  Nov  1 17:25  @infoecho         RT @SahaSurya: Cannot agree more! #GI2013 @lpachter: #METHODSMATTER
+396387622643200000  Nov  1 17:25  @SahaSurya        RT @genetics_blog: Initial analysis of #gi2013 tweets (thousands of tweets, >200 unique Tweeters), based on https://github.com/stephenturner/twitterchive/blob/master/GI2013.csv http://t.co/iKhvB38CZX
+396387645628375040  Nov  1 17:25  @nextgenseek      RT @genetics_blog: #gi2013 LP: a better unit is TPM (go back to the RSEM paper http://www.biomedcentral.com/1471-2105/12/323
+396387665744257024  Nov  1 17:25  @KristaTernus     @lpachter is great at illustrating his points and engaging the audience! People are shouting their comments to him. #gi2013
+396387950914985985  Nov  1 17:27  @widdowquinn      RT @SahaSurya: Cannot agree more! #GI2013 @lpachter: #METHODSMATTER
+396388012806115328  Nov  1 17:27  @SaraBallouz      Methods matter. Wrong doesn't cancel out wrong. Blog about it. #gi2013
+396388081521426432  Nov  1 17:27  @nkt_rarry        RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+396388093692878849  Nov  1 17:27  @SahaSurya        #GI2013 @lpachter: Very important for methods to be fast as that enables larger scale analysis #methodsmatter
+396388108025212929  Nov  1 17:27  @nkt_rarry        RT @markgerstein: #gi2013 Pachter: "Rpkm is a unit not a method"
+396388213700710400  Nov  1 17:28  @athmapai         "watching" @lpachter's #gi2013 keynote on twitter was highlight of my day - probably not as great as being in GraceAud though!
+396388377391812609  Nov  1 17:28  @nkt_rarry        RT @mahtabm81: #gi2013 wow Lior Patcher is admitting FPKM is not a correct method, yet people use it everywhere.
+396388436586012672  Nov  1 17:29  @Oli_viajera      RT @SaraBallouz: Methods matter. Wrong doesn't cancel out wrong. Blog about it. #gi2013
+396388522091110400  Nov  1 17:29  @genetics_blog    Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics
+396388743470661633  Nov  1 17:30  @nkt_rarry        RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013
+396388789146648576  Nov  1 17:30  @markgerstein     #gi2013 @Lpachter : Original RNAseq Rescue method draws from Chris Lee's use of EM for ESTs
+396389081514786816  Nov  1 17:31  @jxtx             RT @mgymrek: LP: Every time I open a paper and they say FPKM, I feel awful inside. #gi2013
+396389484389888000  Nov  1 17:33  @infoecho         http://www.pnas.org/content/109/29/11735.full useful reference after LP's talk #GI2013
+396389586957385728  Nov  1 17:33  @mtothen          RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics
+396389619199410176  Nov  1 17:33  @iddux            #gi2013 Visiting poster 154 will get your pending grant funded. Retweeting will get your revised paper published.
+396389742444834816  Nov  1 17:34  @widdowquinn      RT @mgymrek: LP: Every time I open a paper and they say FPKM, I feel awful inside. #gi2013
+396389876817727488  Nov  1 17:34  @widdowquinn      RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.
+396389977996935168  Nov  1 17:35  @widdowquinn      RT @SahaSurya: #GI2013 @lpachter pushing TPM use proposed in http://www.biomedcentral.com/1471-2105/12/323
+396390243114704896  Nov  1 17:36  @deannachurch     RT @SahaSurya: #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance
+396390509624967168  Nov  1 17:37  @GholsonLyon      RT @ldemare: Lior Pachter: Journal limitations on the number of equations is terrible for our field #gi2013
+396390635273719808  Nov  1 17:37  @GholsonLyon      RT @genetics_blog: Supplementary material is a terrible thing for the field, really limits computational biologists #gi2013 @lpachter
+396390813787496448  Nov  1 17:38  @cntalavera       RT @markgerstein: #gi2013 @Lpachter : Original RNAseq Rescue method draws from Chris Lee's use of EM for ESTs
+396390874818412544  Nov  1 17:38  @abcruzm          RT @iddux: @lpachter eXpress paper. http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html "If you want to understand, read my student's thesis, not the paper". #gi2013
+396391348346970113  Nov  1 17:40  @BioinfoTools     Bioinformatics & genomics: if you’re not already you might find following #gi2013 worthwhile (@CSHLaboratory Genomic Informatics meeting)
+396391746969411584  Nov  1 17:42  @SaheliDatta      RT @cdeboever: Maybe @lpachter can publish supplemental videos, doing well explaining the methods here #gi2013
+396391940767219712  Nov  1 17:42  @UFPersonalMed    RT @genetics_blog: Initial analysis of #gi2013 tweets (thousands of tweets, >200 unique Tweeters), based on https://github.com/stephenturner/twitterchive/blob/master/GI2013.csv http://t.co/iKhvB38CZX
+396392425515937792  Nov  1 17:44  @Oli_viajera      #gi2013 https://twitter.com/oli_viajera/status/396324643738759168
+396393554576044032  Nov  1 17:49  @byuhobbes        Doing transcriptome assembly? Come see poster 174, learn abt QC, annotation; check it out later on @figshare http://dx.doi.org/10.6084/m9.figshare.839655 #gi2013
+396393787444166656  Nov  1 17:50  @4a6a5a           RT @bffo: from @lpachter | Streaming fragment assignment for real-time analysis of sequencing experiments |http://go.nature.com/K3ZQYI #gi2013
+396393816733020160  Nov  1 17:50  @4a6a5a           RT @markgerstein: #gi2013 Pachter: "Rpkm is a unit not a method"
+396394221776535552  Nov  1 17:52  @blahah404        @byuhobbes yet another reason I wish I was at #GI2013. V interested to discuss with you at some point - our work is complementary
+396395365207113730  Nov  1 17:56  @malachigriffith  The Genomics Virtual Laboratory (GVL) is creating bioinformatics tutorials using Galaxy. #gi2013
+396395506701991936  Nov  1 17:57  @rvidal           RT @iddux: #gi2013 Visiting poster 154 will get your pending grant funded. Retweeting will get your revised paper published.
+396395990271684608  Nov  1 17:59  @lynxoid          RT @lpachter: Kraken+Sailfish could be fast metatranscriptomics. #GI2013
+396396426907099138  Nov  1 18:00  @jxtx             RT @malachigriffith: The Genomics Virtual Laboratory (GVL) is creating bioinformatics tutorials using Galaxy. #gi2013
+396398037251399682  Nov  1 18:07  @malachigriffith  Brian O'Connor has a poster on SeqWare, the analysis engine of OICR and probably the closest competitor to the GMS. #gi2013
+396400066820575232  Nov  1 18:15  @fiamh            Fellow next to me on train to #gi2013 writing about whistle blower litigation at BT Group. In Arial 24pt. With names and addresses. Welp.
+396400478642524160  Nov  1 18:16  @OmicsOmicsBlog   RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS
+396400600705150976  Nov  1 18:17  @pjacock          RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS
+396400760373911552  Nov  1 18:18  @OmicsOmicsBlog   RT @genetics_blog: #gi2013 @lpachter: apply the Lee-Seung algorithm (netflix problem) to an RNA-seq matrix of transcripts by experiments
+396400875125886976  Nov  1 18:18  @OmicsOmicsBlog   RT @SahaSurya: #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance
+396400927089127425  Nov  1 18:18  @OmicsOmicsBlog   RT @genetics_blog: #gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html
+396400969883590656  Nov  1 18:18  @OmicsOmicsBlog   RT @iddux: @lpachter talks about a paper in arxiv to detect WIMPs with a DNA sequencer... #gi2013 @AstroKatie http://arxiv.org/abs/1206.6809
+396401437921779712  Nov  1 18:20  @OmicsOmicsBlog   RT @SahaSurya: V typical RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing
+396401497099214848  Nov  1 18:20  @OmicsOmicsBlog   RT @genetics_blog: #GI2013 @jxtx introducing keynote @lpachter and his mastery of writing inflammatory titles on his blog
+396401602661474304  Nov  1 18:21  @OmicsOmicsBlog   RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013
+396404869214781441  Nov  1 18:34  @EduEyras         RT @SahaSurya: #GI2013 @lpachter: Likelihood function for fragment assignment using EM for RNaseq. But people like counts because “reads are real” :-)
+396405096978071552  Nov  1 18:35  @EduEyras         RT @markgerstein: #gi2013 @Lpachter : Original RNAseq Rescue method draws from Chris Lee's use of EM for ESTs
+396405343800266752  Nov  1 18:36  @EduEyras         RT @infoecho: http://www.pnas.org/content/109/29/11735.full useful reference after LP's talk #GI2013
+396405400897343488  Nov  1 18:36  @EduEyras         RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013
+396405487023165441  Nov  1 18:36  @EduEyras         RT @infoecho: LP, TPM has no problem about the missing normalization factor, my interpretation  #GI2013
+396405780439924737  Nov  1 18:37  @EduEyras         RT @SahaSurya: #GI2013 @lpachter pushing TPM use proposed in http://www.biomedcentral.com/1471-2105/12/323
+396407302754144257  Nov  1 18:44  @EduEyras         RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+396408194169585664  Nov  1 18:47  @bjoerngruening   RT @genetics_blog: #gi2013 @lpachter: "wrong doesn't cancel out wrong" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA
+396408251245670400  Nov  1 18:47  @Alfons_Valencia  RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+396408857771380737  Nov  1 18:50  @EduEyras         RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS
+396409081227137025  Nov  1 18:51  @EduEyras         RT @genetics_blog: #gi2013: published cufflinks with FPKM but didn't really think about it, reviewers didn't review, thinks isn't the best way to measure.
+396409099669475328  Nov  1 18:51  @EduEyras         RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.
+396409137414025216  Nov  1 18:51  @EduEyras         RT @nomad421: I support the community’s transition to TPM! #gi2013
+396409911195615233  Nov  1 18:54  @davetang31       RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013
+396410171439583234  Nov  1 18:55  @davetang31       RT @infoecho: http://www.pnas.org/content/109/29/11735.full useful reference after LP's talk #GI2013
+396412994458238976  Nov  1 19:06  @aaronquinlan     RT @fiamh: Fellow next to me on train to #gi2013 writing about whistle blower litigation at BT Group. In Arial 24pt. With names and addresses. Welp.
+396413404468215808  Nov  1 19:08  @KatherineMejia   RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+396415000891248641  Nov  1 19:14  @KatherineMejia   RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics
+396415113038528512  Nov  1 19:15  @KatherineMejia   RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS
+396415625452859392  Nov  1 19:17  @drbachinsky      RT @genetics_blog: #gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html
+396420159080267776  Nov  1 19:35  @lucacozzuto      RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+396422057975877632  Nov  1 19:42  @fiamh            Penn Station. Then LIRR. Then cab. Glad I’m from Boston and lobstered out already, no #gi2013 dinner for me.
+396423900445540352  Nov  1 19:49  @GholsonLyon      RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013
+396426782242783232  Nov  1 20:01  @mike_schatz      RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013
+396427680494526464  Nov  1 20:04  @anshul           RT @malachigriffith: The Genomics Virtual Laboratory (GVL) is creating bioinformatics tutorials using Galaxy. #gi2013
+396429006334996480  Nov  1 20:10  @anshul           RT @genetics_blog: lncRNA transcription associated with enhanced expression of genes nearby http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002841 #gi2013
