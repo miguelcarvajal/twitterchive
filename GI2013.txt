@@ -1707,3 +1707,26 @@
 396515625578676224  Nov  2 01:54  @obigriffith      RT @malachigriffith: The Genomics Virtual Laboratory (GVL) is creating bioinformatics tutorials using Galaxy. #gi2013
 396516247669465088  Nov  2 01:56  @obigriffith      RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics
 396516672359522304  Nov  2 01:58  @pharmachristine  RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics
+396540807458480128  Nov  2 03:34  @YiXing77         RT @markgerstein: #gi2013 @Lpachter : Original RNAseq Rescue method draws from Chris Lee's use of EM for ESTs
+396548086883160065  Nov  2 04:03  @marc_rr          RT @SahaSurya: V typical RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing
+396548853438349312  Nov  2 04:06  @lexnederbragt    RT @genetics_blog: Supplementary material is a terrible thing for the field, really limits computational biologists #gi2013 @lpachter
+396549627023224832  Nov  2 04:09  @lexnederbragt    RT @genetics_blog: #gi2013 LP: http://omicsmaps.com/ map needs to be updated w/ where bioinformaticians are, not machines. shows cufflinks google analytics
+396562316130803712  Nov  2 04:59  @sharmanedit      RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013
+396562823884443648  Nov  2 05:01  @hlapp            RT @SahaSurya: V typical RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing
+396566855382728704  Nov  2 05:18  @lopantano        RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+396578336744280064  Nov  2 06:03  @SeqComplete      "#GI2013" on Tweeted Times http://tweetedtimes.com/search/%23GI2013/en
+396579245637779456  Nov  2 06:07  @Bastounette      RT @iddux: The Ancestrome: http://ancestrome.univ-lyon1.fr/  Integrative phylogenetic approaches for reconstructing ancestral "-omes" #gi2013
+396581510675193856  Nov  2 06:16  @markgerstein     Posting my #gi2013 talk: Integrative Annotation of Variants from 1092 Humans: Application to #Cancer #Genomics http://lectures.gersteinlab.org/summary/Integ_Annot_Var_from_1092_App_to_Cancer--20131102-i0gi2013
+396584009641525248  Nov  2 06:26  @EduEyras         RT @markgerstein: Posting my #gi2013 talk: Integrative Annotation of Variants from 1092 Humans: Application to #Cancer #Genomics http://t.co/FJB59Vjgfo
+396587261288284160  Nov  2 06:39  @icases           RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.
+396587569657294848  Nov  2 06:40  @bffo             . @lpachter “RPKM is not a method, it is a unit” #gi2013
+396589914717831168  Nov  2 06:49  @bffo             I’ve put my Thursday talk on slideshare on the @FGED account http://www.slideshare.net/FGED/cshl-minseqe-2013ouellette #gi2013
+396589953183776768  Nov  2 06:49  @FGED             RT @bffo: I’ve put my Thursday talk on slideshare on the @FGED account http://www.slideshare.net/FGED/cshl-minseqe-2013ouellette #gi2013
+396596615282446336  Nov  2 07:16  @infoecho         RT @markgerstein: Posting my #gi2013 talk: Integrative Annotation of Variants from 1092 Humans: Application to #Cancer #Genomics http://t.co/FJB59Vjgfo
+396598393503760384  Nov  2 07:23  @drbachinsky      RT @bffo: I’ve put my Thursday talk on slideshare on the @FGED account http://www.slideshare.net/FGED/cshl-minseqe-2013ouellette #gi2013
+396617679861059585  Nov  2 08:39  @isugif           RT @genetics_blog: #GI2013 Mascher's paper: Anchoring and ordering NGS contig assemblies by population sequencing (POPSEQ) http://t.co/Rm8VOdvshx
+396618090588282880  Nov  2 08:41  @byuhobbes        Ha! RT @infoecho: http://www.pnas.org/content/109/29/11735.full useful reference after LP's talk #GI2013
+396618836520095744  Nov  2 08:44  @isugif           RT @genetics_blog: The MaSuRCA genome assembler http://bioinformatics.oxfordjournals.org/content/29/21/2669 #bioinformatics #gi2013
+396620372860489728  Nov  2 08:50  @iddux            Dance of the ribosomes #gi2013 @cshlmeetings http://t.co/MTMJrAqo5z
+396621071040143360  Nov  2 08:53  @technophilicmag  Last session of #CSHL's Genome Informatics starts soon. Follow along on our live Twitter activity stream: http://technophilicmag.com/genomeinformatics/ #GI2013
+396622472373489665  Nov  2 08:59  @isugif           RT @genetics_blog: RELEASE THE KRAKEN http://ccb.jhu.edu/software/kraken/ #gi2013 #metagenomics
