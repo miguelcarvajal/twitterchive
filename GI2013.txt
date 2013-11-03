@@ -2030,3 +2030,38 @@
 396711048197468161  Nov  2 14:50  @Yvan2935         RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS
 396711465832693760  Nov  2 14:52  @Yvan2935         RT @genetics_blog: #gi2013 @dgmacarthur: to get this working, took 750 TB raw data, 150k cpu hrs, 64GB ram, 12 mos engineering. not trivial.
 396711517917552640  Nov  2 14:52  @Yvan2935         RT @genetics_blog: #gi2013 @dgmacarthur the N+1 problem: can't do entire recompute when add 1 sample. GATK haplotypecaller, joint-calling at VCF level, not bam
+396715007351992320  Nov  2 15:06  @nnutter          I love the fall!  This is just outside the auditorium at #GI2013 http://t.co/qamYDthml1
+396715270464884736  Nov  2 15:07  @nnutter          And here’s the harbor/bay at #GI2013 http://t.co/K1UlDxQexL
+396723259615768576  Nov  2 15:39  @tgarretson82     RT @iddux: Dance of the ribosomes #gi2013 @cshlmeetings http://t.co/MTMJrAqo5z
+396724634667610112  Nov  2 15:44  @rtraborn         V. cool: CSHL’s campus has biologically-themed sculptures // RT @iddux: Dance of the ribosomes #gi2013 @cshlmeetings http://t.co/RfjiaSj2ci
+396730695156256769  Nov  2 16:09  @CodersCrowd      RT @genetics_blog #gi2013 @fiamh @winhide @RoryKirchner @chapmanb: community development of variant calling pipelines http://ow.ly/qqJhb
+396730696355835904  Nov  2 16:09  @radaniba         RT @genetics_blog #gi2013 @fiamh @winhide @RoryKirchner @chapmanb: community development of variant calling pipelines http://ow.ly/qqJhb
+396733833971658752  Nov  2 16:21  @JChrisPires      RT @genetics_blog: #gi2013 @fiamh how to scale variant detection? http://bcbio.wordpress.com/2013/05/22/scaling-variant-detection-pipelines-for-whole-genome-sequencing-analysis/
+396734777132199936  Nov  2 16:25  @roy_ronen        @cdeboever  I guarantee it. That's why I emphasized 'younger' @roy_ronen was there! Meanwhile, #phdbelly became a serious obstacle #gi2013
+396737762239324160  Nov  2 16:37  @dntse            I left a notebook on far right of front row of auditorium this morning. If someone picked it up, please email dnctse@gmail.com. Thx.#gi2013
+396737825569505280  Nov  2 16:37  @GenomeNathan     RT @bffo: Yes, 100% tweetable conference, and a talk that uses twitter by @erlichya #gi2013 http://t.co/wqr9qtG71D
+396740143542829056  Nov  2 16:46  @roy_ronen        RT @erlichya: Next in #GI2013 @roy_ronen on chromic mountain sickness (CMS) in Andes. Starts by describing his tour to the Salar dessert.
+396745153110872064  Nov  2 17:06  @SahaSurya        +1000 RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013
+396747817521524736  Nov  2 17:17  @mike_schatz      @SahaSurya @GholsonLyon the credit goes to all the scientists that shared their fascinating stories with us. Thank you #gi2013
+396748333936816128  Nov  2 17:19  @SahaSurya        Thanks to fellow tweeters http://www.technophilicmag.com/genomeinformatics/ for interactions and making #GI2013 one of the most tweeted #bioinformatics meetings
+396748849324109824  Nov  2 17:21  @roy_ronen        RT @dgmacarthur: RR actually made a stronger argument for benefits of WGS in question time - makes more sense now. #gi2013
+396749934063792128  Nov  2 17:25  @ekta_khurana     RT @genetics_blog: #GI2013 direct link to @markgerstein's slides from today (PDF): http://archive.gersteinlab.org/mark/out/log/2013/11.02/talk/Integ_Annot_Var_from_1092_App_to_Cancer--20131102-i0gi2013.pdf
+396750143321800704  Nov  2 17:26  @ekta_khurana     RT @genetics_blog: #gi2013 How to prioritize/annotate? FunSeq (FUNction based Prioritization of SEQuence Variants) from @markgerstein http://t.co/MNJ4Xh59hj
+396752296865824768  Nov  2 17:34  @mike_schatz      And thanks to everyone posting on #gi2013. The online discussions really added to the meeting http://t.co/uCXMx7LtGC
+396752910387662849  Nov  2 17:37  @BioinfoTools     RT @mike_schatz: And thanks to everyone posting on #gi2013. The online discussions really added to the meeting http://t.co/uCXMx7LtGC
+396761590282067968  Nov  2 18:11  @laxvid           #GI2013 back home after a great meeting.made a lot of new friends, met some old ones and ideas galore!
+396765512505769984  Nov  2 18:27  @mt_ur_mind       RT @infoecho: YE, need to convert free text into GPS coordinate, use  Geoparser to get Lat/Long #GI2013
+396767109989928960  Nov  2 18:33  @nextgenseek      RT @mike_schatz: And thanks to everyone posting on #gi2013. The online discussions really added to the meeting http://t.co/uCXMx7LtGC
+396767881871908864  Nov  2 18:36  @nextgenseek      Stories from the Supplement. New blog post from @lpachter: http://wp.me/pRx4V-hI #gi2013
+396768237204959232  Nov  2 18:38  @evolvability     RT @mike_schatz: And thanks to everyone posting on #gi2013. The online discussions really added to the meeting http://t.co/uCXMx7LtGC
+396779578490097664  Nov  2 19:23  @SahaSurya        RT @lpachter: Stories from the Supplement http://wp.me/pRx4V-hI #GI2013 #bioinformatics #rnaseq
+396779755246481408  Nov  2 19:24  @SahaSurya        RT @mike_schatz: And thanks to everyone posting on #gi2013. The online discussions really added to the meeting http://t.co/uCXMx7LtGC
+396795107145314305  Nov  2 20:25  @Awesomics        RT @markgerstein: Posting my #gi2013 talk: Integrative Annotation of Variants from 1092 Humans: Application to #Cancer #Genomics http://t.co/FJB59Vjgfo
+396797711732580352  Nov  2 20:35  @GenomeNathan     The Genome Hacker. @erlichya conjures 13 million spirits at #gi2013 #cshl http://t.co/KUXzihmNPg
+396800447031566336  Nov  2 20:46  @tuuliel          RT @GenomeNathan: The Genome Hacker. @erlichya conjures 13 million spirits at #gi2013 #cshl http://t.co/KUXzihmNPg
+396800471438213120  Nov  2 20:46  @mike_schatz      @lpachter thanks for sharing the slides and a fantastic keynote! #gi2013
+396801356914495488  Nov  2 20:49  @mike_schatz      @lpachter I might be able to help in about a month. Building the world's fastest platform for Cufflinks and much more for @DOEKBase #gi2013
+396801715657138176  Nov  2 20:51  @GenomeNathan     13 million shades of gray: @erlichya holds forth at #gi2013 in more sober professorial tones (NB tweet yeslist) #cshl http://t.co/TdXbXJJ3MO
+396802780780056576  Nov  2 20:55  @erlichya         RT @GenomeNathan: 13 million shades of gray: @erlichya holds forth at #gi2013 in more sober professorial tones (NB tweet yeslist) #cshl http://t.co/TdXbXJJ3MO
+396802899176873984  Nov  2 20:55  @erlichya         RT @GenomeNathan: The Genome Hacker. @erlichya conjures 13 million spirits at #gi2013 #cshl http://t.co/KUXzihmNPg
+396803322885464064  Nov  2 20:57  @infoecho         RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013
