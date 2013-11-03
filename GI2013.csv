@@ -1387,96 +1387,696 @@
 "1386","396361689781649408",2013-11-01 15:42:00,"iddux","Flanking information helps predict bound/unbound TF in poorly predicted binding states of the motif. #gi2013",2013-11-01,15
 "1387","396361847722356736",2013-11-01 15:43:00,"byuhobbes","Take home message from ID: regions flanking TFBS motifs are important, not for sequence but for structure #gi2013",2013-11-01,15
 "1388","396362242280534016",2013-11-01 15:44:00,"CamLBerthelot","99.8% of motifs are unbound by TF but motif can predict binding with AUC > 0.6 in most cases...?? Am I missing something? #gi2013",2013-11-01,15
-"1389","396362693697097728",2013-11-01 15:46:00,"OmicsOmicsBlog","RT @infoecho: ID, Zhou, Tianyin 2013 NAR, High throughput DNA shape prediction #GI2013",2013-11-01,15
-"1390","396362977634693120",2013-11-01 15:47:00,"markgerstein","#gi2013 Dror: Interesting inverse relationship between DNA structural information and sequence information content in motif",2013-11-01,15
-"1391","396363378425200640",2013-11-01 15:49:00,"byuhobbes","Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013",2013-11-01,15
-"1392","396363460046368768",2013-11-01 15:49:00,"infoecho","CCH, Entamoeba genome 20Mb, 9000, 75% AT, Entamoeba #GI2013",2013-11-01,15
-"1393","396363547615039488",2013-11-01 15:50:00,"byuhobbes","CH discusses “Tale of two strands” RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013",2013-11-01,15
-"1394","396363726624145408",2013-11-01 15:50:00,"mgymrek","RT @byuhobbes: Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013",2013-11-01,15
-"1395","396363761747247104",2013-11-01 15:50:00,"SaraBallouz","RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013",2013-11-01,15
-"1396","396363775231946752",2013-11-01 15:51:00,"SaraBallouz","RT @byuhobbes: Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013",2013-11-01,15
-"1397","396364398279004160",2013-11-01 15:53:00,"genetics_blog","Nice to have an engaging speaker at the end of a long day #gi2013 chung-chau hon",2013-11-01,15
-"1398","396364439449907200",2013-11-01 15:53:00,"byuhobbes","RT @genetics_blog: Nice to have an engaging speaker at the end of a long day #gi2013 chung-chau hon",2013-11-01,15
-"1399","396364572585885696",2013-11-01 15:54:00,"notSoJunkDNA","RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013",2013-11-01,15
-"1400","396365369457119232",2013-11-01 15:57:00,"byuhobbes","CH: are the positional constraints of short antisense transcripts encoded in the genome? Stay tuned to find out ;) #gi2013",2013-11-01,15
-"1401","396365490853261312",2013-11-01 15:57:00,"Oli_viajera","RT @byuhobbes: CH: are the positional constraints of short antisense transcripts encoded in the genome? Stay tuned to find out ;) #gi2013",2013-11-01,15
-"1402","396365564530003968",2013-11-01 15:58:00,"rtraborn","#FF Scientists tweeting excellent live updates from #gi2013: @markgerstein @genetics_blog @SahaSurya @byuhobbes @iddux @bffo @infoecho",2013-11-01,15
-"1403","396365872425861120",2013-11-01 15:59:00,"benjaminlmoore","RT @genetics_blog: Nice to have an engaging speaker at the end of a long day #gi2013 chung-chau hon",2013-11-01,15
-"1404","396366226345033728",2013-11-01 16:00:00,"byuhobbes","@byuhobbes yes #gi2013",2013-11-01,16
-"1405","396366672258281472",2013-11-01 16:02:00,"iddux","RT @markgerstein: #gi2013 Hon: Sharing of a seq. motif between strands - similar to converting your desk into a bed to be efficient in cramped quarters.",2013-11-01,16
-"1406","396366710191562752",2013-11-01 16:02:00,"iddux","RT @byuhobbes: CH: poly-A of protein-coding gene also serves dual purpose for transcriptional regulation of short antisense RNAs #gi2013",2013-11-01,16
-"1407","396366884209033216",2013-11-01 16:03:00,"tsucheta","Towards the middle of the coding region there is a strong  bias towards T rather than any other base #GI2013",2013-11-01,16
-"1408","396367249776201728",2013-11-01 16:04:00,"tsucheta","Short NATs(Natural Antisense Transcript) have T rich regions and vice versa #GI2013",2013-11-01,16
-"1409","396367962720198656",2013-11-01 16:07:00,"sminot","“@Oli_viajera: Seen at CSHL http://t.co/FtZ0Vip5lR” #GI2013 RT",2013-11-01,16
-"1410","396368205704597504",2013-11-01 16:08:00,"RobAboukhalil","RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013",2013-11-01,16
-"1411","396369742002262016",2013-11-01 16:14:00,"AstroNutKyle","#woot  #gi2013",2013-11-01,16
-"1412","396370909910814720",2013-11-01 16:19:00,"SobiaHamid","They love us everywhere  :-) #gi2013 #cshlnews #cambridge http://t.co/0cAYftYmPu",2013-11-01,16
-"1413","396371507170910208",2013-11-01 16:21:00,"tuuliel","RT @genetics_blog: lncRNA transcription associated with enhanced expression of genes nearby http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002841 #gi2013",2013-11-01,16
-"1414","396372323348926464",2013-11-01 16:25:00,"tsucheta","Chromatin marks are highly heritable #GI2013",2013-11-01,16
-"1415","396372409638731776",2013-11-01 16:25:00,"Oli_viajera","chromatin variation another 'layer' to decipher; impressed with the work of MKasowski #gi2013",2013-11-01,16
-"1416","396372477435465728",2013-11-01 16:25:00,"Oli_viajera","RT @tsucheta: Chromatin marks are highly heritable #GI2013",2013-11-01,16
-"1417","396372950070607872",2013-11-01 16:27:00,"GuiomeNicolas","RT @iddux: Alignathon: a critical assessment of alignments http://compbio.soe.ucsc.edu/alignathon simulated data as a gold standard #gi2013",2013-11-01,16
-"1418","396373101208174592",2013-11-01 16:28:00,"SaraBallouz","Enhancer variation on top of it all. @Oli_viajera another layer indeed #gi2013",2013-11-01,16
-"1419","396373570747904000",2013-11-01 16:29:00,"mahtabm81","Lior Patcher's Keynote coming up next #gi2013",2013-11-01,16
-"1420","396373573339586560",2013-11-01 16:29:00,"drbachinsky","RT @iddux: Iris: diff in propeller twist & minor groove width explain said differences between bound and unbound motifs. #gi2013",2013-11-01,16
-"1421","396373916626604032",2013-11-01 16:31:00,"SahaSurya","#GI2013 Keynote by @lpachter http://math.berkeley.edu/~lpachter/ coming up now",2013-11-01,16
-"1422","396374174576689152",2013-11-01 16:32:00,"wimverleyen","RT @Oli_viajera: chromatin variation another 'layer' to decipher; impressed with the work of MKasowski #gi2013",2013-11-01,16
-"1423","396374380378615808",2013-11-01 16:33:00,"SobiaHamid","Waltzing polypeptides @coldspringharborlaboratory #gi2013 http://t.co/TS0aphtRXv",2013-11-01,16
-"1424","396374503556927488",2013-11-01 16:33:00,"Oli_viajera","“@SahaSurya: #GI2013 Keynote by @lpachter http://math.berkeley.edu/~lpachter/ coming up now” I am looking forward!",2013-11-01,16
-"1425","396374699346632704",2013-11-01 16:34:00,"benjaminlmoore","#gi2013 keynote from @lpachter up next,wonder if a certain local Nobel laureate will make another appearance...",2013-11-01,16
-"1426","396376527085899776",2013-11-01 16:41:00,"byuhobbes","Title slide for @lpachter's keynote is up. “Stories from the Supplement.” Wonder what that could refer to… ;) #gi2013",2013-11-01,16
-"1427","396376758498230272",2013-11-01 16:42:00,"nomad421","Excited for LP’s keynote: “Stories from the Supplement”! #GI2013",2013-11-01,16
-"1428","396376858524004352",2013-11-01 16:43:00,"bffo","Lior Pachter is last keynote at #gi2013 and is tweetable http://t.co/sgCRGQIDYd",2013-11-01,16
-"1429","396376974009958400",2013-11-01 16:43:00,"infoecho","Keynote, Lior Pachter ""Stories from the Supplement"" #GI2013 Like the title...",2013-11-01,16
-"1430","396377050262798336",2013-11-01 16:43:00,"mahtabm81","RT @nomad421: Excited for LP’s keynote: “Stories from the Supplement”! #GI2013",2013-11-01,16
-"1431","396377119305269248",2013-11-01 16:44:00,"genetics_blog","#GI2013 @jxtx introducing keynote @lpachter and his mastery of writing inflammatory titles on his blog",2013-11-01,16
-"1432","396377195095941120",2013-11-01 16:44:00,"byuhobbes","@jxtx “@lpachter in the last 3 months has created one of the most interesting and informative science blogs.” Hear hear! #gi2013",2013-11-01,16
-"1433","396377206471282688",2013-11-01 16:44:00,"KristaTernus","Maya Kasowski noted extensive variation in regulatory regions during her talk about variation in human chromatin states. #gi2013",2013-11-01,16
-"1434","396377321231622144",2013-11-01 16:44:00,"genetics_blog","Cufflinks 2 supplement was 70 pages long http://www.nature.com/nprot/journal/v7/n3/full/nprot.2012.016.html #GI2013",2013-11-01,16
-"1435","396377503473745920",2013-11-01 16:45:00,"infoecho","LP, Cufflinks, Nature Biotech 28(2010) p 511-515 SM:42 pages, Nature Biotech, 31(2012) p46-54 SM:70 pages #GI2013",2013-11-01,16
-"1436","396377517365665792",2013-11-01 16:45:00,"SaraBallouz","""If you're not pissing people off, you're not doing something important."" #gi2013",2013-11-01,16
-"1437","396377569400205312",2013-11-01 16:45:00,"genetics_blog","#gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-01,16
-"1438","396377655500480512",2013-11-01 16:46:00,"byuhobbes","@lpachter: CuffLinks long supplement have errors, received no feedback from reviewers #gi2013",2013-11-01,16
-"1439","396377659824820224",2013-11-01 16:46:00,"SahaSurya","V typical RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-01,16
-"1440","396377701378162688",2013-11-01 16:46:00,"wimverleyen","Reproducibility in computational protein function? Interested in quantitative analysis... check poster 180 #GI2013",2013-11-01,16
-"1441","396377732755361792",2013-11-01 16:46:00,"byuhobbes","RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-01,16
-"1442","396377946669064192",2013-11-01 16:47:00,"infoecho","LP, Next one 98 pages #GI2013 Nature Method 10 (2013) , p71-73",2013-11-01,16
-"1443","396378129272283136",2013-11-01 16:48:00,"byuhobbes","@lpachter: @naturemethods only allows 10 mathematical equations in the methods; more than that, put it in supplement section #gi2013",2013-11-01,16
-"1444","396378165062291456",2013-11-01 16:48:00,"infoecho","LP used all 10 equations allowed for ""Online Method"" #GI2013",2013-11-01,16
-"1445","396378165691842560",2013-11-01 16:48:00,"nkt_rarry","RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-01,16
-"1446","396378186386509824",2013-11-01 16:48:00,"nkt_rarry","RT @SaraBallouz: ""If you're not pissing people off, you're not doing something important."" #gi2013",2013-11-01,16
-"1447","396378215406522368",2013-11-01 16:48:00,"benjaminlmoore","Lior Pachter: Supp. materials — a terrible thing for our field #gi2013",2013-11-01,16
-"1448","396378226295316480",2013-11-01 16:48:00,"genetics_blog","Supplementary material is a terrible thing for the field, really limits computational biologists #gi2013 @lpachter",2013-11-01,16
-"1449","396378272855883776",2013-11-01 16:48:00,"byuhobbes","RT @genetics_blog: Supplementary material is a terrible thing for the field, really limits computational biologists #gi2013 @lpachter",2013-11-01,16
-"1450","396378323766345728",2013-11-01 16:48:00,"infoecho","LP, ""Fragment assignment is fundamental for *Seq assays"" #GI2013",2013-11-01,16
-"1451","396378359032475648",2013-11-01 16:48:00,"Oli_viajera","At @lpachter talk, supplementary info where all the science is #gi2013 (I feel so identified as I made my phd out of supmat)",2013-11-01,16
-"1452","396378405051973632",2013-11-01 16:49:00,"mgymrek","very amusing but sad struggle described by #lpachter to publish full methods for RNA-seq methods. #gi2013",2013-11-01,16
-"1453","396378426657214464",2013-11-01 16:49:00,"Oli_viajera","“@SaraBallouz: ""If you're not pissing people off, you're not doing something important."" #gi2013” :)",2013-11-01,16
-"1454","396378507410145280",2013-11-01 16:49:00,"SaraBallouz","Too many equations! #gi2013",2013-11-01,16
-"1455","396378510714863616",2013-11-01 16:49:00,"iddux","@lpachter talking about the bad editorial practice of limiting ""Methods"" sections in papers, making the research irreplicable. #gi2013",2013-11-01,16
-"1456","396378556873605120",2013-11-01 16:49:00,"SaraBallouz","RT @wimverleyen: Reproducibility in computational protein function? Interested in quantitative analysis... check poster 180 #GI2013",2013-11-01,16
-"1457","396378598669443072",2013-11-01 16:49:00,"byuhobbes","RT @mgymrek: very amusing but sad struggle described by @lpachter to publish full methods for RNA-seq methods. #gi2013",2013-11-01,16
-"1458","396378677329403904",2013-11-01 16:50:00,"infoecho","LP, What is a *Seq assay? ""Creativity -> Chem/Phys -> Statistics -> Biology"" #GI2013",2013-11-01,16
-"1459","396378683914452992",2013-11-01 16:50:00,"ldemare","Lior Pachter: Journal limitations on the number of equations is terrible for our field #gi2013",2013-11-01,16
-"1460","396378814474756096",2013-11-01 16:50:00,"iddux","@lpachterwas forced to reduce his method to 10 equations, making the paper somewhat illegible without digging in supplement. #gi2013",2013-11-01,16
-"1461","396378901565304832",2013-11-01 16:51:00,"iddux","@lpachter was forced to reduce his method to 10 equations, making the paper somewhat illegible without digging in supplement. #gi2013",2013-11-01,16
-"1462","396378951616307200",2013-11-01 16:51:00,"K_dele","RT @Graham_Coop: the heteroduplex repair must have been quite a spectacle @GenomeNathan halloween from #cshl: jean conversion #gi2013 http://t.co/OoL424aF1W",2013-11-01,16
-"1463","396379092439691264",2013-11-01 16:51:00,"infoecho","LP, review on many assays, Soon et al., Molecular System Biology  More than 50 different assay publish. #GI2013",2013-11-01,16
-"1464","396379230922997760",2013-11-01 16:52:00,"infoecho","LP, *Seq list http://liorpachter.wordpress.com/seq/ #GI2013",2013-11-01,16
-"1465","396379250724331520",2013-11-01 16:52:00,"byuhobbes","RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
-"1466","396379392420499456",2013-11-01 16:53:00,"SahaSurya","RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
-"1467","396379513426554880",2013-11-01 16:53:00,"nkt_rarry","RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
-"1468","396379523102416896",2013-11-01 16:53:00,"infoecho","LP, Analysis of the seq. output = Solve inverse problem = Fragment assignment + Density deconvolution  #GI2013",2013-11-01,16
-"1469","396379549576884224",2013-11-01 16:53:00,"mgymrek","a ""-seq"" for everyone: #lpachter's seq list: http://liorpachter.wordpress.com/seq/ #gi2013",2013-11-01,16
-"1470","396379705647308800",2013-11-01 16:54:00,"SaraBallouz","Fragment assignment and density deconvolution. Catch-22. #gi2013",2013-11-01,16
-"1471","396379762513698816",2013-11-01 16:54:00,"widdowquinn","RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
-"1472","396379844516118528",2013-11-01 16:54:00,"byuhobbes","@lpachter on the fragment assignment problem; really relevant to my current project #gi2013",2013-11-01,16
-"1473","396379874056626176",2013-11-01 16:55:00,"iddux","@lpachter talks about a paper in arxiv to detect WIMPs with a DNA sequencer... #gi2013 @AstroKatie http://arxiv.org/abs/1206.6809",2013-11-01,16
-"1474","396380017686757376",2013-11-01 16:55:00,"Oli_viajera","RT @SaraBallouz: Fragment assignment and density deconvolution. Catch-22. #gi2013",2013-11-01,16
-"1475","396380059285876736",2013-11-01 16:55:00,"genetics_blog","#gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html",2013-11-01,16
-"1476","396380060862521344",2013-11-01 16:55:00,"tsucheta","Latest assays to look for http://liorpachter.wordpress.com/seq/ #GI2013",2013-11-01,16
-"1477","396380162297577472",2013-11-01 16:56:00,"byuhobbes","@lpachter: throwing away multi reads drastically increases variance of expression estimates #gi2013",2013-11-01,16
-"1478","396380183688531968",2013-11-01 16:56:00,"ldemare","Chicken-and-egg problem @lpachter: Fragment assignment and density decovolution (only easy if read maps uniquely) #gi2013",2013-11-01,16
-"1479","396380283361951744",2013-11-01 16:56:00,"iddux","RT @genetics_blog: #gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html",2013-11-01,16
-"1480","396380284402155520",2013-11-01 16:56:00,"SahaSurya","#GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance",2013-11-01,16
-"1481","396380375393792000",2013-11-01 16:57:00,"froggleston","RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
+"1389","396362269195776000",2013-11-01 15:45:00,"nkt_rarry","RT @byuhobbes: Take home message from ID: regions flanking TFBS motifs are important, not for sequence but for structure #gi2013",2013-11-01,15
+"1390","396362693697097728",2013-11-01 15:46:00,"OmicsOmicsBlog","RT @infoecho: ID, Zhou, Tianyin 2013 NAR, High throughput DNA shape prediction #GI2013",2013-11-01,15
+"1391","396362977634693120",2013-11-01 15:47:00,"markgerstein","#gi2013 Dror: Interesting inverse relationship between DNA structural information and sequence information content in motif",2013-11-01,15
+"1392","396363378425200640",2013-11-01 15:49:00,"byuhobbes","Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013",2013-11-01,15
+"1393","396363416128200704",2013-11-01 15:49:00,"genetics_blog","It was the best of transcripts, it was the worst of transcripts #gi2013",2013-11-01,15
+"1394","396363460046368768",2013-11-01 15:49:00,"infoecho","CCH, Entamoeba genome 20Mb, 9000, 75% AT, Entamoeba #GI2013",2013-11-01,15
+"1395","396363489696292864",2013-11-01 15:49:00,"Oli_viajera","RT @byuhobbes: Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013",2013-11-01,15
+"1396","396363547615039488",2013-11-01 15:50:00,"byuhobbes","CH discusses “Tale of two strands” RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013",2013-11-01,15
+"1397","396363643501019136",2013-11-01 15:50:00,"infoecho","CCH, codon restarted evolution on both strands #GI2013",2013-11-01,15
+"1398","396363726624145408",2013-11-01 15:50:00,"mgymrek","RT @byuhobbes: Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013",2013-11-01,15
+"1399","396363761747247104",2013-11-01 15:50:00,"SaraBallouz","RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013",2013-11-01,15
+"1400","396363775231946752",2013-11-01 15:51:00,"SaraBallouz","RT @byuhobbes: Chung-chau Hon starts with a bang: good attention getter, slick slides #gi2013",2013-11-01,15
+"1401","396364398279004160",2013-11-01 15:53:00,"genetics_blog","Nice to have an engaging speaker at the end of a long day #gi2013 chung-chau hon",2013-11-01,15
+"1402","396364439449907200",2013-11-01 15:53:00,"byuhobbes","RT @genetics_blog: Nice to have an engaging speaker at the end of a long day #gi2013 chung-chau hon",2013-11-01,15
+"1403","396364572585885696",2013-11-01 15:54:00,"notSoJunkDNA","RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013",2013-11-01,15
+"1404","396365369457119232",2013-11-01 15:57:00,"byuhobbes","CH: are the positional constraints of short antisense transcripts encoded in the genome? Stay tuned to find out ;) #gi2013",2013-11-01,15
+"1405","396365490853261312",2013-11-01 15:57:00,"Oli_viajera","RT @byuhobbes: CH: are the positional constraints of short antisense transcripts encoded in the genome? Stay tuned to find out ;) #gi2013",2013-11-01,15
+"1406","396365564530003968",2013-11-01 15:58:00,"rtraborn","#FF Scientists tweeting excellent live updates from #gi2013: @markgerstein @genetics_blog @SahaSurya @byuhobbes @iddux @bffo @infoecho",2013-11-01,15
+"1407","396365872425861120",2013-11-01 15:59:00,"benjaminlmoore","RT @genetics_blog: Nice to have an engaging speaker at the end of a long day #gi2013 chung-chau hon",2013-11-01,15
+"1408","396365919884025856",2013-11-01 15:59:00,"byuhobbes","CH: poly-A of protein-coding gene also serves dual purpose for transcriptional regulation of short antisense RNAs #gi2013",2013-11-01,15
+"1409","396366226345033728",2013-11-01 16:00:00,"byuhobbes","@byuhobbes yes #gi2013",2013-11-01,16
+"1410","396366263133671424",2013-11-01 16:00:00,"markgerstein","#gi2013 Hon: Sharing of a seq. motif between strands - similar to converting your desk into a bed to be efficient in cramped quarters.",2013-11-01,16
+"1411","396366672258281472",2013-11-01 16:02:00,"iddux","RT @markgerstein: #gi2013 Hon: Sharing of a seq. motif between strands - similar to converting your desk into a bed to be efficient in cramped quarters.",2013-11-01,16
+"1412","396366710191562752",2013-11-01 16:02:00,"iddux","RT @byuhobbes: CH: poly-A of protein-coding gene also serves dual purpose for transcriptional regulation of short antisense RNAs #gi2013",2013-11-01,16
+"1413","396366884209033216",2013-11-01 16:03:00,"tsucheta","Towards the middle of the coding region there is a strong  bias towards T rather than any other base #GI2013",2013-11-01,16
+"1414","396367249776201728",2013-11-01 16:04:00,"tsucheta","Short NATs(Natural Antisense Transcript) have T rich regions and vice versa #GI2013",2013-11-01,16
+"1415","396367962720198656",2013-11-01 16:07:00,"sminot","“@Oli_viajera: Seen at CSHL http://t.co/FtZ0Vip5lR” #GI2013 RT",2013-11-01,16
+"1416","396368205704597504",2013-11-01 16:08:00,"RobAboukhalil","RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013",2013-11-01,16
+"1417","396369742002262016",2013-11-01 16:14:00,"AstroNutKyle","#woot  #gi2013",2013-11-01,16
+"1418","396370909910814720",2013-11-01 16:19:00,"SobiaHamid","They love us everywhere  :-) #gi2013 #cshlnews #cambridge http://t.co/0cAYftYmPu",2013-11-01,16
+"1419","396371507170910208",2013-11-01 16:21:00,"tuuliel","RT @genetics_blog: lncRNA transcription associated with enhanced expression of genes nearby http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002841 #gi2013",2013-11-01,16
+"1420","396372323348926464",2013-11-01 16:25:00,"tsucheta","Chromatin marks are highly heritable #GI2013",2013-11-01,16
+"1421","396372409638731776",2013-11-01 16:25:00,"Oli_viajera","chromatin variation another 'layer' to decipher; impressed with the work of MKasowski #gi2013",2013-11-01,16
+"1422","396372477435465728",2013-11-01 16:25:00,"Oli_viajera","RT @tsucheta: Chromatin marks are highly heritable #GI2013",2013-11-01,16
+"1423","396372585703026688",2013-11-01 16:26:00,"GuiomeNicolas","RT @iddux: RT @genomeresearch: @iddux Predicting Gene Expression from Promoter Sequences http://genome.cshlp.org/content/23/11/1928 #gi2013 Thanks!",2013-11-01,16
+"1424","396372950070607872",2013-11-01 16:27:00,"GuiomeNicolas","RT @iddux: Alignathon: a critical assessment of alignments http://compbio.soe.ucsc.edu/alignathon simulated data as a gold standard #gi2013",2013-11-01,16
+"1425","396373101208174592",2013-11-01 16:28:00,"SaraBallouz","Enhancer variation on top of it all. @Oli_viajera another layer indeed #gi2013",2013-11-01,16
+"1426","396373570747904000",2013-11-01 16:29:00,"mahtabm81","Lior Patcher's Keynote coming up next #gi2013",2013-11-01,16
+"1427","396373573339586560",2013-11-01 16:29:00,"drbachinsky","RT @iddux: Iris: diff in propeller twist & minor groove width explain said differences between bound and unbound motifs. #gi2013",2013-11-01,16
+"1428","396373916626604032",2013-11-01 16:31:00,"SahaSurya","#GI2013 Keynote by @lpachter http://math.berkeley.edu/~lpachter/ coming up now",2013-11-01,16
+"1429","396374078426058752",2013-11-01 16:31:00,"tsucheta","Human variations are due to Transcription factor binding,Epigenetic or post transcriptional.Contributions SNP 0.1% and CNVs 0.8% #GI2013",2013-11-01,16
+"1430","396374174576689152",2013-11-01 16:32:00,"wimverleyen","RT @Oli_viajera: chromatin variation another 'layer' to decipher; impressed with the work of MKasowski #gi2013",2013-11-01,16
+"1431","396374380378615808",2013-11-01 16:33:00,"SobiaHamid","Waltzing polypeptides @coldspringharborlaboratory #gi2013 http://t.co/TS0aphtRXv",2013-11-01,16
+"1432","396374503556927488",2013-11-01 16:33:00,"Oli_viajera","“@SahaSurya: #GI2013 Keynote by @lpachter http://math.berkeley.edu/~lpachter/ coming up now” I am looking forward!",2013-11-01,16
+"1433","396374699346632704",2013-11-01 16:34:00,"benjaminlmoore","#gi2013 keynote from @lpachter up next,wonder if a certain local Nobel laureate will make another appearance...",2013-11-01,16
+"1434","396376527085899776",2013-11-01 16:41:00,"byuhobbes","Title slide for @lpachter's keynote is up. “Stories from the Supplement.” Wonder what that could refer to… ;) #gi2013",2013-11-01,16
+"1435","396376700554330112",2013-11-01 16:42:00,"markgerstein","RT @byuhobbes: Title slide for @lpachter's keynote is up. “Stories from the Supplement.” Wonder what that could refer to… ;) #gi2013",2013-11-01,16
+"1436","396376758498230272",2013-11-01 16:42:00,"nomad421","Excited for LP’s keynote: “Stories from the Supplement”! #GI2013",2013-11-01,16
+"1437","396376858524004352",2013-11-01 16:43:00,"bffo","Lior Pachter is last keynote at #gi2013 and is tweetable http://t.co/sgCRGQIDYd",2013-11-01,16
+"1438","396376974009958400",2013-11-01 16:43:00,"infoecho","Keynote, Lior Pachter ""Stories from the Supplement"" #GI2013 Like the title...",2013-11-01,16
+"1439","396377050262798336",2013-11-01 16:43:00,"mahtabm81","RT @nomad421: Excited for LP’s keynote: “Stories from the Supplement”! #GI2013",2013-11-01,16
+"1440","396377119305269248",2013-11-01 16:44:00,"genetics_blog","#GI2013 @jxtx introducing keynote @lpachter and his mastery of writing inflammatory titles on his blog",2013-11-01,16
+"1441","396377195095941120",2013-11-01 16:44:00,"byuhobbes","@jxtx “@lpachter in the last 3 months has created one of the most interesting and informative science blogs.” Hear hear! #gi2013",2013-11-01,16
+"1442","396377206471282688",2013-11-01 16:44:00,"KristaTernus","Maya Kasowski noted extensive variation in regulatory regions during her talk about variation in human chromatin states. #gi2013",2013-11-01,16
+"1443","396377321231622144",2013-11-01 16:44:00,"genetics_blog","Cufflinks 2 supplement was 70 pages long http://www.nature.com/nprot/journal/v7/n3/full/nprot.2012.016.html #GI2013",2013-11-01,16
+"1444","396377503473745920",2013-11-01 16:45:00,"infoecho","LP, Cufflinks, Nature Biotech 28(2010) p 511-515 SM:42 pages, Nature Biotech, 31(2012) p46-54 SM:70 pages #GI2013",2013-11-01,16
+"1445","396377517365665792",2013-11-01 16:45:00,"SaraBallouz","""If you're not pissing people off, you're not doing something important."" #gi2013",2013-11-01,16
+"1446","396377569400205312",2013-11-01 16:45:00,"genetics_blog","#gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-01,16
+"1447","396377655500480512",2013-11-01 16:46:00,"byuhobbes","@lpachter: CuffLinks long supplement have errors, received no feedback from reviewers #gi2013",2013-11-01,16
+"1448","396377659824820224",2013-11-01 16:46:00,"SahaSurya","V typical RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-01,16
+"1449","396377701378162688",2013-11-01 16:46:00,"wimverleyen","Reproducibility in computational protein function? Interested in quantitative analysis... check poster 180 #GI2013",2013-11-01,16
+"1450","396377732755361792",2013-11-01 16:46:00,"byuhobbes","RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-01,16
+"1451","396377946669064192",2013-11-01 16:47:00,"infoecho","LP, Next one 98 pages #GI2013 Nature Method 10 (2013) , p71-73",2013-11-01,16
+"1452","396378129272283136",2013-11-01 16:48:00,"byuhobbes","@lpachter: @naturemethods only allows 10 mathematical equations in the methods; more than that, put it in supplement section #gi2013",2013-11-01,16
+"1453","396378165062291456",2013-11-01 16:48:00,"infoecho","LP used all 10 equations allowed for ""Online Method"" #GI2013",2013-11-01,16
+"1454","396378165691842560",2013-11-01 16:48:00,"nkt_rarry","RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-01,16
+"1455","396378186386509824",2013-11-01 16:48:00,"nkt_rarry","RT @SaraBallouz: ""If you're not pissing people off, you're not doing something important."" #gi2013",2013-11-01,16
+"1456","396378215406522368",2013-11-01 16:48:00,"benjaminlmoore","Lior Pachter: Supp. materials — a terrible thing for our field #gi2013",2013-11-01,16
+"1457","396378226295316480",2013-11-01 16:48:00,"genetics_blog","Supplementary material is a terrible thing for the field, really limits computational biologists #gi2013 @lpachter",2013-11-01,16
+"1458","396378272855883776",2013-11-01 16:48:00,"byuhobbes","RT @genetics_blog: Supplementary material is a terrible thing for the field, really limits computational biologists #gi2013 @lpachter",2013-11-01,16
+"1459","396378323766345728",2013-11-01 16:48:00,"infoecho","LP, ""Fragment assignment is fundamental for *Seq assays"" #GI2013",2013-11-01,16
+"1460","396378359032475648",2013-11-01 16:48:00,"Oli_viajera","At @lpachter talk, supplementary info where all the science is #gi2013 (I feel so identified as I made my phd out of supmat)",2013-11-01,16
+"1461","396378405051973632",2013-11-01 16:49:00,"mgymrek","very amusing but sad struggle described by #lpachter to publish full methods for RNA-seq methods. #gi2013",2013-11-01,16
+"1462","396378426657214464",2013-11-01 16:49:00,"Oli_viajera","“@SaraBallouz: ""If you're not pissing people off, you're not doing something important."" #gi2013” :)",2013-11-01,16
+"1463","396378507410145280",2013-11-01 16:49:00,"SaraBallouz","Too many equations! #gi2013",2013-11-01,16
+"1464","396378510714863616",2013-11-01 16:49:00,"iddux","@lpachter talking about the bad editorial practice of limiting ""Methods"" sections in papers, making the research irreplicable. #gi2013",2013-11-01,16
+"1465","396378556873605120",2013-11-01 16:49:00,"SaraBallouz","RT @wimverleyen: Reproducibility in computational protein function? Interested in quantitative analysis... check poster 180 #GI2013",2013-11-01,16
+"1466","396378598669443072",2013-11-01 16:49:00,"byuhobbes","RT @mgymrek: very amusing but sad struggle described by @lpachter to publish full methods for RNA-seq methods. #gi2013",2013-11-01,16
+"1467","396378677329403904",2013-11-01 16:50:00,"infoecho","LP, What is a *Seq assay? ""Creativity -> Chem/Phys -> Statistics -> Biology"" #GI2013",2013-11-01,16
+"1468","396378683914452992",2013-11-01 16:50:00,"ldemare","Lior Pachter: Journal limitations on the number of equations is terrible for our field #gi2013",2013-11-01,16
+"1469","396378814474756096",2013-11-01 16:50:00,"iddux","@lpachterwas forced to reduce his method to 10 equations, making the paper somewhat illegible without digging in supplement. #gi2013",2013-11-01,16
+"1470","396378901565304832",2013-11-01 16:51:00,"iddux","@lpachter was forced to reduce his method to 10 equations, making the paper somewhat illegible without digging in supplement. #gi2013",2013-11-01,16
+"1471","396378951616307200",2013-11-01 16:51:00,"K_dele","RT @Graham_Coop: the heteroduplex repair must have been quite a spectacle @GenomeNathan halloween from #cshl: jean conversion #gi2013 http://t.co/OoL424aF1W",2013-11-01,16
+"1472","396379092439691264",2013-11-01 16:51:00,"infoecho","LP, review on many assays, Soon et al., Molecular System Biology  More than 50 different assay publish. #GI2013",2013-11-01,16
+"1473","396379126317469696",2013-11-01 16:52:00,"genetics_blog","#gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
+"1474","396379230922997760",2013-11-01 16:52:00,"infoecho","LP, *Seq list http://liorpachter.wordpress.com/seq/ #GI2013",2013-11-01,16
+"1475","396379250724331520",2013-11-01 16:52:00,"byuhobbes","RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
+"1476","396379392420499456",2013-11-01 16:53:00,"SahaSurya","RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
+"1477","396379513426554880",2013-11-01 16:53:00,"nkt_rarry","RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
+"1478","396379523102416896",2013-11-01 16:53:00,"infoecho","LP, Analysis of the seq. output = Solve inverse problem = Fragment assignment + Density deconvolution  #GI2013",2013-11-01,16
+"1479","396379549576884224",2013-11-01 16:53:00,"mgymrek","a ""-seq"" for everyone: #lpachter's seq list: http://liorpachter.wordpress.com/seq/ #gi2013",2013-11-01,16
+"1480","396379705647308800",2013-11-01 16:54:00,"SaraBallouz","Fragment assignment and density deconvolution. Catch-22. #gi2013",2013-11-01,16
+"1481","396379762513698816",2013-11-01 16:54:00,"widdowquinn","RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
+"1482","396379844516118528",2013-11-01 16:54:00,"byuhobbes","@lpachter on the fragment assignment problem; really relevant to my current project #gi2013",2013-11-01,16
+"1483","396379874056626176",2013-11-01 16:55:00,"iddux","@lpachter talks about a paper in arxiv to detect WIMPs with a DNA sequencer... #gi2013 @AstroKatie http://arxiv.org/abs/1206.6809",2013-11-01,16
+"1484","396380017686757376",2013-11-01 16:55:00,"Oli_viajera","RT @SaraBallouz: Fragment assignment and density deconvolution. Catch-22. #gi2013",2013-11-01,16
+"1485","396380059285876736",2013-11-01 16:55:00,"genetics_blog","#gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html",2013-11-01,16
+"1486","396380060862521344",2013-11-01 16:55:00,"tsucheta","Latest assays to look for http://liorpachter.wordpress.com/seq/ #GI2013",2013-11-01,16
+"1487","396380162297577472",2013-11-01 16:56:00,"byuhobbes","@lpachter: throwing away multi reads drastically increases variance of expression estimates #gi2013",2013-11-01,16
+"1488","396380183688531968",2013-11-01 16:56:00,"ldemare","Chicken-and-egg problem @lpachter: Fragment assignment and density decovolution (only easy if read maps uniquely) #gi2013",2013-11-01,16
+"1489","396380283361951744",2013-11-01 16:56:00,"iddux","RT @genetics_blog: #gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html",2013-11-01,16
+"1490","396380284402155520",2013-11-01 16:56:00,"SahaSurya","#GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance",2013-11-01,16
+"1491","396380375393792000",2013-11-01 16:57:00,"froggleston","RT @genetics_blog: #gi2013 @lpachter: list of all the *-seq assays http://liorpachter.wordpress.com/seq/",2013-11-01,16
+"1492","396380495422164992",2013-11-01 16:57:00,"nkt_rarry","RT @SahaSurya: #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance",2013-11-01,16
+"1493","396380856828559360",2013-11-01 16:58:00,"cdeboever","Maybe @lpachter can publish supplemental videos, doing well explaining the methods here #gi2013",2013-11-01,16
+"1494","396381011308974080",2013-11-01 16:59:00,"byuhobbes","@lpachter: EM algorithm as chicken —> egg —> chicken —> egg, ad nauseum #gi2013",2013-11-01,16
+"1495","396381065519955968",2013-11-01 16:59:00,"nomad421","\alpha ~ NPM, \rho ~ TPM — very important distinction #gi2013",2013-11-01,16
+"1496","396381071467900928",2013-11-01 16:59:00,"Oli_viajera","LP: pie charts are fuzzy -> em solution #gi2013",2013-11-01,16
+"1497","396381075007864832",2013-11-01 16:59:00,"roy_ronen","#gi2013 This talk is fun. @lpachter",2013-11-01,16
+"1498","396381142540361728",2013-11-01 17:00:00,"k8hert","RT @SahaSurya: #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance",2013-11-01,17
+"1499","396381152631480320",2013-11-01 17:00:00,"SahaSurya","#GI2013 @lpachter: Likelihood function for fragment assignment using EM for RNaseq. But people like counts because “reads are real” :-)",2013-11-01,17
+"1500","396381164585631744",2013-11-01 17:00:00,"SaraBallouz","Hokey pokey RNAseq reads #gi2013",2013-11-01,17
+"1501","396381243660857344",2013-11-01 17:00:00,"genetics_blog","yes, and rare for a talk with 7 summations and half the greek alphabet on one slide RT @roy_ronen: #gi2013 This talk is fun. @lpachter",2013-11-01,17
+"1502","396381437647400960",2013-11-01 17:01:00,"markgerstein",".@iddux Pachter: Nice comparison of the Nature editor cutting equations in his express method paper to Mozart's patron cutting notes #gi2013",2013-11-01,17
+"1503","396381463857618944",2013-11-01 17:01:00,"mgymrek","RT @roy_ronen: #gi2013 This talk is fun. @lpachter",2013-11-01,17
+"1504","396381499492429824",2013-11-01 17:01:00,"Henzed","#gi2013 on the turning away... #postersession2",2013-11-01,17
+"1505","396381590680764416",2013-11-01 17:01:00,"SahaSurya","#GI2013 Interested in #metagenomics #microbiome #maize? Chk out poster #159. If you are not at #CSHL, see http://bit.ly/1iAHcxV",2013-11-01,17
+"1506","396381622578458624",2013-11-01 17:01:00,"Oli_viajera","LP: nature methods limits the replicability and/or explanation of the maths behind RNAseq #gi2013",2013-11-01,17
+"1507","396381651368161280",2013-11-01 17:02:00,"Oli_viajera","RT @SaraBallouz: Hokey pokey RNAseq reads #gi2013",2013-11-01,17
+"1508","396381668950675456",2013-11-01 17:02:00,"athmapai","RT @cdeboever: Maybe @lpachter can publish supplemental videos, doing well explaining the methods here #gi2013",2013-11-01,17
+"1509","396381702026584064",2013-11-01 17:02:00,"iddux","@lpachter describes eXpress method of fragment assignment well. Unlike the limits set on his paper. ""So much for peer review""  #gi2013",2013-11-01,17
+"1510","396381720175726592",2013-11-01 17:02:00,"Oli_viajera","#gi2013",2013-11-01,17
+"1511","396382041626779648",2013-11-01 17:03:00,"iddux","@lpachter eXpress paper. http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html ""If you want to understand, read my student's thesis, not the paper"". #gi2013",2013-11-01,17
+"1512","396382308905009152",2013-11-01 17:04:00,"nkt_rarry","RT @SahaSurya: #GI2013 @lpachter: Likelihood function for fragment assignment using EM for RNaseq. But people like counts because “reads are real” :-)",2013-11-01,17
+"1513","396382494020235264",2013-11-01 17:05:00,"infoecho","LP. on ""Regularized pooling for joint analysis of RNA-seq"", using Non-negative matrix factorization (Lee-Seug algorithm) #GI2013",2013-11-01,17
+"1514","396382514551726080",2013-11-01 17:05:00,"genetics_blog","#gi2013 @lpachter: apply the Lee-Seung algorithm (netflix problem) to an RNA-seq matrix of transcripts by experiments",2013-11-01,17
+"1515","396382616641110016",2013-11-01 17:05:00,"Oli_viajera","LP: usage of the netflix algo for RNAseq data; so cool!  #gi2013",2013-11-01,17
+"1516","396382897827217408",2013-11-01 17:07:00,"cdeboever","@roy_ronen @lpachter Regularizing with nmf is a *really* interesting idea #gi2013",2013-11-01,17
+"1517","396382923861291008",2013-11-01 17:07:00,"nkt_rarry","RT @iddux: @lpachter eXpress paper. http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html ""If you want to understand, read my student's thesis, not the paper"". #gi2013",2013-11-01,17
+"1518","396383123702685696",2013-11-01 17:07:00,"byuhobbes","RT @genetics_blog: #gi2013 @lpachter: apply the Lee-Seung algorithm (netflix problem) to an RNA-seq matrix of transcripts by experiments",2013-11-01,17
+"1519","396383180065742848",2013-11-01 17:08:00,"byuhobbes","RT @iddux: @lpachter eXpress paper. http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html ""If you want to understand, read my student's thesis, not the paper"". #gi2013",2013-11-01,17
+"1520","396383408911167488",2013-11-01 17:09:00,"benjaminlmoore","LP: ""regularised pooling"" technique allows highly accurate imputation of expression from RNA-seq, magnifying coverage many times #gi2013",2013-11-01,17
+"1521","396383609092702208",2013-11-01 17:09:00,"iddux","@lpachter continues with ""stories from my papers supplements"" on counting RNA-Seq reads. #gi2013",2013-11-01,17
+"1522","396383617313550336",2013-11-01 17:09:00,"genetics_blog","#gi2013 @lpachter: ""wrong doesn't cancel out wrong"" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA",2013-11-01,17
+"1523","396383632333746176",2013-11-01 17:09:00,"SobiaHamid","#gi2013",2013-11-01,17
+"1524","396383955647082496",2013-11-01 17:11:00,"abcruzm","RT @genetics_blog: (1) fast (2) low-mem req (3) accurate. Pick two. #gi2013",2013-11-01,17
+"1525","396384023938752512",2013-11-01 17:11:00,"iddux","@lpachter ""in math something is true, or false. Unless you're a logician"" #gi2013",2013-11-01,17
+"1526","396384158928211968",2013-11-01 17:12:00,"SahaSurya","RT @iddux: @lpachter ""in math something is true, or false. Unless you're a logician"" #gi2013",2013-11-01,17
+"1527","396384175399247872",2013-11-01 17:12:00,"iddux","RT @genetics_blog: #gi2013 @lpachter: ""wrong doesn't cancel out wrong"" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA",2013-11-01,17
+"1528","396384209704452096",2013-11-01 17:12:00,"byuhobbes","@lpachter: in so many words, essentially: “if you torture the RNA-seq data, they’ll confess to anything” #gi2013",2013-11-01,17
+"1529","396384319414882304",2013-11-01 17:12:00,"bffo","from @lpachter | Streaming fragment assignment for real-time analysis of sequencing experiments |http://go.nature.com/K3ZQYI #gi2013",2013-11-01,17
+"1530","396384380127817728",2013-11-01 17:12:00,"Oli_viajera","RT @SahaSurya: RT @iddux: @lpachter ""in math something is true, or false. Unless you're a logician"" #gi2013",2013-11-01,17
+"1531","396384650429739008",2013-11-01 17:13:00,"byuhobbes","@lpachter Doing The Right Thing gives significant improvement over naïve method; go figure #gi2013",2013-11-01,17
+"1532","396384735184035840",2013-11-01 17:14:00,"KristaTernus","RT @genetics_blog: #gi2013 @lpachter: ""wrong doesn't cancel out wrong"" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA",2013-11-01,17
+"1533","396384780209909760",2013-11-01 17:14:00,"genetics_blog","#gi2013 yeah, that whole transcript / counting business isn't just a thought expt. From cuffdiff2 paper: http://t.co/TMm8teL7TR",2013-11-01,17
+"1534","396384854138716160",2013-11-01 17:14:00,"SaraBallouz","RT @byuhobbes: @lpachter: in so many words, essentially: “if you torture the RNA-seq data, they’ll confess to anything” #gi2013",2013-11-01,17
+"1535","396384970161131520",2013-11-01 17:15:00,"infoecho","LP, Unit for RNA-Seq: CPM, RPKM, FPKM or TPM? #GI2013 LP wants us to tweet this...",2013-11-01,17
+"1536","396385109127200768",2013-11-01 17:15:00,"Oli_viajera","RT @infoecho: LP, Unit for RNA-Seq: CPM, RPKM, FPKM or TPM? #GI2013 LP wants us to tweet this...",2013-11-01,17
+"1537","396385110691692544",2013-11-01 17:15:00,"byuhobbes","@lpachter “Please tweet this”; wrt units for RNA-Seq (RPKM, FPKM, etc), people really don’t know what’s going on #gi2013",2013-11-01,17
+"1538","396385118157537280",2013-11-01 17:15:00,"genetics_blog","#GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS",2013-11-01,17
+"1539","396385119403274240",2013-11-01 17:15:00,"SaraBallouz","CPM, RPKM, FPKM, TPM. I don't know. Can you repeat the question? #gi2013",2013-11-01,17
+"1540","396385243592409088",2013-11-01 17:16:00,"ispiyou","RT @byuhobbes: @lpachter “Please tweet this”; wrt units for RNA-Seq (RPKM, FPKM, etc), people really don’t know what’s going on #gi2013",2013-11-01,17
+"1541","396385286911164416",2013-11-01 17:16:00,"genetics_blog","#gi2013 greek symbols past 5pm. move along now LP.",2013-11-01,17
+"1542","396385326228574208",2013-11-01 17:16:00,"Oli_viajera","RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS",2013-11-01,17
+"1543","396385402330046464",2013-11-01 17:16:00,"byuhobbes","Nothing to see here, move along :) RT @genetics_blog: #gi2013 greek symbols past 5pm. move along now LP.",2013-11-01,17
+"1544","396385586225106944",2013-11-01 17:17:00,"chfloudas","RT @genetics_blog: lncRNA transcription associated with enhanced expression of genes nearby http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002841 #gi2013",2013-11-01,17
+"1545","396385620295430144",2013-11-01 17:17:00,"nkt_rarry","RT @byuhobbes: @lpachter: in so many words, essentially: “if you torture the RNA-seq data, they’ll confess to anything” #gi2013",2013-11-01,17
+"1546","396385627715174400",2013-11-01 17:17:00,"genetics_blog","#gi2013 Jokes aside, slide illustrates exactly what RPKM actually is.",2013-11-01,17
+"1547","396385627757105152",2013-11-01 17:17:00,"nomad421","Relevant to LP’s current discussion (http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf) #gi2013",2013-11-01,17
+"1548","396385660153913344",2013-11-01 17:18:00,"BioMickWatson","RT @bffo: from @lpachter | Streaming fragment assignment for real-time analysis of sequencing experiments |http://go.nature.com/K3ZQYI #gi2013",2013-11-01,17
+"1549","396385787660759040",2013-11-01 17:18:00,"jjmerkin","RT @nomad421: Relevant to LP’s current discussion (http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf) #gi2013",2013-11-01,17
+"1550","396385810079293440",2013-11-01 17:18:00,"Oli_viajera","RT @genetics_blog: #gi2013 Jokes aside, slide illustrates exactly what RPKM actually is.",2013-11-01,17
+"1551","396385905860440064",2013-11-01 17:18:00,"genetics_blog","#gi2013: published cufflinks with FPKM but didn't really think about it, reviewers didn't review, thinks isn't the best way to measure.",2013-11-01,17
+"1552","396385920464588800",2013-11-01 17:19:00,"benjaminlmoore","LP: FPKM is the ""wrong unit"", no one read the suppl. mat. #gi2013",2013-11-01,17
+"1553","396385937800044544",2013-11-01 17:19:00,"byuhobbes","@lpachter: Every time I open a paper and see FPKM, I die a little inside #gi2013",2013-11-01,17
+"1554","396385973384531968",2013-11-01 17:19:00,"jjmerkin","RT @byuhobbes: @lpachter: Every time I open a paper and see FPKM, I die a little inside #gi2013",2013-11-01,17
+"1555","396385998810382336",2013-11-01 17:19:00,"SahaSurya","RT @genetics_blog: #gi2013: published cufflinks with FPKM but didn't really think about it, reviewers didn't review, thinks isn't the best way to measure.",2013-11-01,17
+"1556","396386029113860096",2013-11-01 17:19:00,"mgymrek","LP: Every time I open a paper and they say FPKM, I feel awful inside. #gi2013",2013-11-01,17
+"1557","396386039029571584",2013-11-01 17:19:00,"Oli_viajera","RT @byuhobbes: @lpachter: Every time I open a paper and see FPKM, I die a little inside #gi2013",2013-11-01,17
+"1558","396386067513081856",2013-11-01 17:19:00,"infoecho","RT @nomad421: Relevant to LP’s current discussion (http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf) #gi2013",2013-11-01,17
+"1559","396386097200386048",2013-11-01 17:19:00,"genetics_blog","#gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.",2013-11-01,17
+"1560","396386117052018688",2013-11-01 17:19:00,"iddux","RT @genetics_blog: #gi2013: published cufflinks with FPKM but didn't really think about it, reviewers didn't review, thinks isn't the best way to measure.",2013-11-01,17
+"1561","396386130415079424",2013-11-01 17:19:00,"SaraBallouz","RT @byuhobbes: @lpachter: Every time I open a paper and see FPKM, I die a little inside #gi2013",2013-11-01,17
+"1562","396386139059535872",2013-11-01 17:19:00,"byuhobbes","RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.",2013-11-01,17
+"1563","396386187499544576",2013-11-01 17:20:00,"nomad421","I support the community’s transition to TPM! #gi2013",2013-11-01,17
+"1564","396386247054094336",2013-11-01 17:20:00,"infoecho","LP ""please use TPM in your papers"" #GI2013",2013-11-01,17
+"1565","396386302461214720",2013-11-01 17:20:00,"byuhobbes","@lpachter: Just use rho (TPM) #gi2013",2013-11-01,17
+"1566","396386319913734144",2013-11-01 17:20:00,"iddux","RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.",2013-11-01,17
+"1567","396386375081414656",2013-11-01 17:20:00,"genetics_blog","#gi2013 LP: a better unit is TPM (go back to the RSEM paper http://www.biomedcentral.com/1471-2105/12/323",2013-11-01,17
+"1568","396386375987372032",2013-11-01 17:20:00,"wimverleyen","#GI2013 FPKM should not be used for RNASeq. Finally, the engagement and information are there!!!!! Love this guy",2013-11-01,17
+"1569","396386393091743744",2013-11-01 17:20:00,"Oli_viajera","LP: Use TPM in your RNAseq exp/papers #gi2013",2013-11-01,17
+"1570","396386470573117440",2013-11-01 17:21:00,"benjaminlmoore","RT @infoecho: LP ""please use TPM in your papers"" #GI2013",2013-11-01,17
+"1571","396386503301292032",2013-11-01 17:21:00,"nkt_rarry","RT @infoecho: LP, Unit for RNA-Seq: CPM, RPKM, FPKM or TPM? #GI2013 LP wants us to tweet this...",2013-11-01,17
+"1572","396386511198765056",2013-11-01 17:21:00,"SahaSurya","#GI2013 @lpachter pushing TPM use proposed in http://www.biomedcentral.com/1471-2105/12/323",2013-11-01,17
+"1573","396386546355826688",2013-11-01 17:21:00,"SaraBallouz","And TPM wins? #gi2013",2013-11-01,17
+"1574","396386567683465216",2013-11-01 17:21:00,"infoecho","LP, TPM has no problem about the missing normalization factor, my interpretation  #GI2013",2013-11-01,17
+"1575","396386631013646336",2013-11-01 17:21:00,"SaraBallouz","RT @wimverleyen: #GI2013 FPKM should not be used for RNASeq. Finally, the engagement and information are there!!!!! Love this guy",2013-11-01,17
+"1576","396386647924670464",2013-11-01 17:21:00,"ldemare","Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013",2013-11-01,17
+"1577","396386660856107008",2013-11-01 17:21:00,"SaraBallouz","RT @SahaSurya: #GI2013 @lpachter pushing TPM use proposed in http://www.biomedcentral.com/1471-2105/12/323",2013-11-01,17
+"1578","396386716350967808",2013-11-01 17:22:00,"markgerstein","#gi2013 Pachter: ""Rpkm is a unit not a method""",2013-11-01,17
+"1579","396386804305117184",2013-11-01 17:22:00,"benoitbruneau",".@akholloway thoughts on this? “@infoecho: LP, TPM has no problem about the missing normalization factor, my interpretation  #GI2013”",2013-11-01,17
+"1580","396386815810469888",2013-11-01 17:22:00,"Oli_viajera","RT @markgerstein: #gi2013 Pachter: ""Rpkm is a unit not a method""",2013-11-01,17
+"1581","396386824924708864",2013-11-01 17:22:00,"KatherineMejia","RT @SahaSurya: #GI2013 @lpachter: Likelihood function for fragment assignment using EM for RNaseq. But people like counts because “reads are real” :-)",2013-11-01,17
+"1582","396386843820036096",2013-11-01 17:22:00,"KatherineMejia","RT @SahaSurya: #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance",2013-11-01,17
+"1583","396386932420521984",2013-11-01 17:23:00,"genetics_blog","#gi2013 LP: http://omicsmaps.com/ map needs to be updated w/ where bioinformaticians are, not machines. shows cufflinks google analytics",2013-11-01,17
+"1584","396386974984339456",2013-11-01 17:23:00,"mahtabm81","#gi2013 wow Lior Patcher is admitting FPKM is not a correct method, yet people use it everywhere.",2013-11-01,17
+"1585","396386991149178880",2013-11-01 17:23:00,"cdeboever","Does lior have a map plot showing who downloaded the supplement? #gi2013",2013-11-01,17
+"1586","396387047856148480",2013-11-01 17:23:00,"Oli_viajera","RT @genetics_blog: #gi2013 LP: http://omicsmaps.com/ map needs to be updated w/ where bioinformaticians are, not machines. shows cufflinks google analytics",2013-11-01,17
+"1587","396387149563854848",2013-11-01 17:23:00,"genetics_blog","#gi2013 LP: #methodsmatter",2013-11-01,17
+"1588","396387197198540800",2013-11-01 17:24:00,"genetics_blog","RT @cdeboever: Does lior have a map plot showing who downloaded the supplement? #gi2013",2013-11-01,17
+"1589","396387206752784384",2013-11-01 17:24:00,"nomad421","@benoitbruneau @akholloway @infoecho (R/F)PKM depends on average expressed transcript length; also TPM just makes more sense! #gi2013",2013-11-01,17
+"1590","396387223266148352",2013-11-01 17:24:00,"athmapai","RT @genetics_blog: #gi2013 LP: http://omicsmaps.com/ map needs to be updated w/ where bioinformaticians are, not machines. shows cufflinks google analytics",2013-11-01,17
+"1591","396387297073299456",2013-11-01 17:24:00,"Oli_viajera","LP take home message: methods matter  #gi2013 indeed!",2013-11-01,17
+"1592","396387353465344000",2013-11-01 17:24:00,"benjaminlmoore","Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013",2013-11-01,17
+"1593","396387361170259968",2013-11-01 17:24:00,"SahaSurya","Cannot agree more! #GI2013 @lpachter: #METHODSMATTER",2013-11-01,17
+"1594","396387418917466112",2013-11-01 17:24:00,"nomad421","RT @SahaSurya: Cannot agree more! #GI2013 @lpachter: #METHODSMATTER",2013-11-01,17
+"1595","396387428514422784",2013-11-01 17:25:00,"widdowquinn","RT @genetics_blog: #gi2013 @lpachter: ""wrong doesn't cancel out wrong"" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA",2013-11-01,17
+"1596","396387529093431296",2013-11-01 17:25:00,"genetics_blog","Initial analysis of #gi2013 tweets (thousands of tweets, >200 unique Tweeters), based on https://github.com/stephenturner/twitterchive/blob/master/GI2013.csv http://t.co/iKhvB38CZX",2013-11-01,17
+"1597","396387603882450944",2013-11-01 17:25:00,"infoecho","RT @SahaSurya: Cannot agree more! #GI2013 @lpachter: #METHODSMATTER",2013-11-01,17
+"1598","396387622643200000",2013-11-01 17:25:00,"SahaSurya","RT @genetics_blog: Initial analysis of #gi2013 tweets (thousands of tweets, >200 unique Tweeters), based on https://github.com/stephenturner/twitterchive/blob/master/GI2013.csv http://t.co/iKhvB38CZX",2013-11-01,17
+"1599","396387645628375040",2013-11-01 17:25:00,"nextgenseek","RT @genetics_blog: #gi2013 LP: a better unit is TPM (go back to the RSEM paper http://www.biomedcentral.com/1471-2105/12/323",2013-11-01,17
+"1600","396387665744257024",2013-11-01 17:25:00,"KristaTernus","@lpachter is great at illustrating his points and engaging the audience! People are shouting their comments to him. #gi2013",2013-11-01,17
+"1601","396387950914985984",2013-11-01 17:27:00,"widdowquinn","RT @SahaSurya: Cannot agree more! #GI2013 @lpachter: #METHODSMATTER",2013-11-01,17
+"1602","396388012806115328",2013-11-01 17:27:00,"SaraBallouz","Methods matter. Wrong doesn't cancel out wrong. Blog about it. #gi2013",2013-11-01,17
+"1603","396388081521426432",2013-11-01 17:27:00,"nkt_rarry","RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013",2013-11-01,17
+"1604","396388093692878848",2013-11-01 17:27:00,"SahaSurya","#GI2013 @lpachter: Very important for methods to be fast as that enables larger scale analysis #methodsmatter",2013-11-01,17
+"1605","396388108025212928",2013-11-01 17:27:00,"nkt_rarry","RT @markgerstein: #gi2013 Pachter: ""Rpkm is a unit not a method""",2013-11-01,17
+"1606","396388213700710400",2013-11-01 17:28:00,"athmapai","""watching"" @lpachter's #gi2013 keynote on twitter was highlight of my day - probably not as great as being in GraceAud though!",2013-11-01,17
+"1607","396388377391812608",2013-11-01 17:28:00,"nkt_rarry","RT @mahtabm81: #gi2013 wow Lior Patcher is admitting FPKM is not a correct method, yet people use it everywhere.",2013-11-01,17
+"1608","396388436586012672",2013-11-01 17:29:00,"Oli_viajera","RT @SaraBallouz: Methods matter. Wrong doesn't cancel out wrong. Blog about it. #gi2013",2013-11-01,17
+"1609","396388522091110400",2013-11-01 17:29:00,"genetics_blog","Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics",2013-11-01,17
+"1610","396388743470661632",2013-11-01 17:30:00,"nkt_rarry","RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013",2013-11-01,17
+"1611","396388789146648576",2013-11-01 17:30:00,"markgerstein","#gi2013 @Lpachter : Original RNAseq Rescue method draws from Chris Lee's use of EM for ESTs",2013-11-01,17
+"1612","396389081514786816",2013-11-01 17:31:00,"jxtx","RT @mgymrek: LP: Every time I open a paper and they say FPKM, I feel awful inside. #gi2013",2013-11-01,17
+"1613","396389484389888000",2013-11-01 17:33:00,"infoecho","http://www.pnas.org/content/109/29/11735.full useful reference after LP's talk #GI2013",2013-11-01,17
+"1614","396389586957385728",2013-11-01 17:33:00,"mtothen","RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics",2013-11-01,17
+"1615","396389619199410176",2013-11-01 17:33:00,"iddux","#gi2013 Visiting poster 154 will get your pending grant funded. Retweeting will get your revised paper published.",2013-11-01,17
+"1616","396389742444834816",2013-11-01 17:34:00,"widdowquinn","RT @mgymrek: LP: Every time I open a paper and they say FPKM, I feel awful inside. #gi2013",2013-11-01,17
+"1617","396389876817727488",2013-11-01 17:34:00,"widdowquinn","RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.",2013-11-01,17
+"1618","396389977996935168",2013-11-01 17:35:00,"widdowquinn","RT @SahaSurya: #GI2013 @lpachter pushing TPM use proposed in http://www.biomedcentral.com/1471-2105/12/323",2013-11-01,17
+"1619","396390243114704896",2013-11-01 17:36:00,"deannachurch","RT @SahaSurya: #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance",2013-11-01,17
+"1620","396390509624967168",2013-11-01 17:37:00,"GholsonLyon","RT @ldemare: Lior Pachter: Journal limitations on the number of equations is terrible for our field #gi2013",2013-11-01,17
+"1621","396390635273719808",2013-11-01 17:37:00,"GholsonLyon","RT @genetics_blog: Supplementary material is a terrible thing for the field, really limits computational biologists #gi2013 @lpachter",2013-11-01,17
+"1622","396390813787496448",2013-11-01 17:38:00,"cntalavera","RT @markgerstein: #gi2013 @Lpachter : Original RNAseq Rescue method draws from Chris Lee's use of EM for ESTs",2013-11-01,17
+"1623","396390874818412544",2013-11-01 17:38:00,"abcruzm","RT @iddux: @lpachter eXpress paper. http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html ""If you want to understand, read my student's thesis, not the paper"". #gi2013",2013-11-01,17
+"1624","396391348346970112",2013-11-01 17:40:00,"BioinfoTools","Bioinformatics & genomics: if you’re not already you might find following #gi2013 worthwhile (@CSHLaboratory Genomic Informatics meeting)",2013-11-01,17
+"1625","396391746969411584",2013-11-01 17:42:00,"SaheliDatta","RT @cdeboever: Maybe @lpachter can publish supplemental videos, doing well explaining the methods here #gi2013",2013-11-01,17
+"1626","396391940767219712",2013-11-01 17:42:00,"UFPersonalMed","RT @genetics_blog: Initial analysis of #gi2013 tweets (thousands of tweets, >200 unique Tweeters), based on https://github.com/stephenturner/twitterchive/blob/master/GI2013.csv http://t.co/iKhvB38CZX",2013-11-01,17
+"1627","396392425515937792",2013-11-01 17:44:00,"Oli_viajera","#gi2013 https://twitter.com/oli_viajera/status/396324643738759168",2013-11-01,17
+"1628","396393554576044032",2013-11-01 17:49:00,"byuhobbes","Doing transcriptome assembly? Come see poster 174, learn abt QC, annotation; check it out later on @figshare http://dx.doi.org/10.6084/m9.figshare.839655 #gi2013",2013-11-01,17
+"1629","396393787444166656",2013-11-01 17:50:00,"4a6a5a","RT @bffo: from @lpachter | Streaming fragment assignment for real-time analysis of sequencing experiments |http://go.nature.com/K3ZQYI #gi2013",2013-11-01,17
+"1630","396393816733020160",2013-11-01 17:50:00,"4a6a5a","RT @markgerstein: #gi2013 Pachter: ""Rpkm is a unit not a method""",2013-11-01,17
+"1631","396394221776535552",2013-11-01 17:52:00,"blahah404","@byuhobbes yet another reason I wish I was at #GI2013. V interested to discuss with you at some point - our work is complementary",2013-11-01,17
+"1632","396395365207113728",2013-11-01 17:56:00,"malachigriffith","The Genomics Virtual Laboratory (GVL) is creating bioinformatics tutorials using Galaxy. #gi2013",2013-11-01,17
+"1633","396395506701991936",2013-11-01 17:57:00,"rvidal","RT @iddux: #gi2013 Visiting poster 154 will get your pending grant funded. Retweeting will get your revised paper published.",2013-11-01,17
+"1634","396395990271684608",2013-11-01 17:59:00,"lynxoid","RT @lpachter: Kraken+Sailfish could be fast metatranscriptomics. #GI2013",2013-11-01,17
+"1635","396396426907099136",2013-11-01 18:00:00,"jxtx","RT @malachigriffith: The Genomics Virtual Laboratory (GVL) is creating bioinformatics tutorials using Galaxy. #gi2013",2013-11-01,18
+"1636","396398037251399680",2013-11-01 18:07:00,"malachigriffith","Brian O'Connor has a poster on SeqWare, the analysis engine of OICR and probably the closest competitor to the GMS. #gi2013",2013-11-01,18
+"1637","396400066820575232",2013-11-01 18:15:00,"fiamh","Fellow next to me on train to #gi2013 writing about whistle blower litigation at BT Group. In Arial 24pt. With names and addresses. Welp.",2013-11-01,18
+"1638","396400478642524160",2013-11-01 18:16:00,"OmicsOmicsBlog","RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS",2013-11-01,18
+"1639","396400600705150976",2013-11-01 18:17:00,"pjacock","RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS",2013-11-01,18
+"1640","396400760373911552",2013-11-01 18:18:00,"OmicsOmicsBlog","RT @genetics_blog: #gi2013 @lpachter: apply the Lee-Seung algorithm (netflix problem) to an RNA-seq matrix of transcripts by experiments",2013-11-01,18
+"1641","396400875125886976",2013-11-01 18:18:00,"OmicsOmicsBlog","RT @SahaSurya: #GI2013 @lpachter: Fragment assignment in *Seq: Throwing away non-uniquely mapping reads increases artificial variance",2013-11-01,18
+"1642","396400927089127424",2013-11-01 18:18:00,"OmicsOmicsBlog","RT @genetics_blog: #gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html",2013-11-01,18
+"1643","396400969883590656",2013-11-01 18:18:00,"OmicsOmicsBlog","RT @iddux: @lpachter talks about a paper in arxiv to detect WIMPs with a DNA sequencer... #gi2013 @AstroKatie http://arxiv.org/abs/1206.6809",2013-11-01,18
+"1644","396401437921779712",2013-11-01 18:20:00,"OmicsOmicsBlog","RT @SahaSurya: V typical RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-01,18
+"1645","396401497099214848",2013-11-01 18:20:00,"OmicsOmicsBlog","RT @genetics_blog: #GI2013 @jxtx introducing keynote @lpachter and his mastery of writing inflammatory titles on his blog",2013-11-01,18
+"1646","396401602661474304",2013-11-01 18:21:00,"OmicsOmicsBlog","RT @genetics_blog: It was the best of transcripts, it was the worst of transcripts #gi2013",2013-11-01,18
+"1647","396404869214781440",2013-11-01 18:34:00,"EduEyras","RT @SahaSurya: #GI2013 @lpachter: Likelihood function for fragment assignment using EM for RNaseq. But people like counts because “reads are real” :-)",2013-11-01,18
+"1648","396405096978071552",2013-11-01 18:35:00,"EduEyras","RT @markgerstein: #gi2013 @Lpachter : Original RNAseq Rescue method draws from Chris Lee's use of EM for ESTs",2013-11-01,18
+"1649","396405343800266752",2013-11-01 18:36:00,"EduEyras","RT @infoecho: http://www.pnas.org/content/109/29/11735.full useful reference after LP's talk #GI2013",2013-11-01,18
+"1650","396405400897343488",2013-11-01 18:36:00,"EduEyras","RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013",2013-11-01,18
+"1651","396405487023165440",2013-11-01 18:36:00,"EduEyras","RT @infoecho: LP, TPM has no problem about the missing normalization factor, my interpretation  #GI2013",2013-11-01,18
+"1652","396405780439924736",2013-11-01 18:37:00,"EduEyras","RT @SahaSurya: #GI2013 @lpachter pushing TPM use proposed in http://www.biomedcentral.com/1471-2105/12/323",2013-11-01,18
+"1653","396407302754144256",2013-11-01 18:44:00,"EduEyras","RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013",2013-11-01,18
+"1654","396408194169585664",2013-11-01 18:47:00,"bjoerngruening","RT @genetics_blog: #gi2013 @lpachter: ""wrong doesn't cancel out wrong"" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA",2013-11-01,18
+"1655","396408251245670400",2013-11-01 18:47:00,"Alfons_Valencia","RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013",2013-11-01,18
+"1656","396408857771380736",2013-11-01 18:50:00,"EduEyras","RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS",2013-11-01,18
+"1657","396409081227137024",2013-11-01 18:51:00,"EduEyras","RT @genetics_blog: #gi2013: published cufflinks with FPKM but didn't really think about it, reviewers didn't review, thinks isn't the best way to measure.",2013-11-01,18
+"1658","396409099669475328",2013-11-01 18:51:00,"EduEyras","RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.",2013-11-01,18
+"1659","396409137414025216",2013-11-01 18:51:00,"EduEyras","RT @nomad421: I support the community’s transition to TPM! #gi2013",2013-11-01,18
+"1660","396409911195615232",2013-11-01 18:54:00,"davetang31","RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013",2013-11-01,18
+"1661","396410171439583232",2013-11-01 18:55:00,"davetang31","RT @infoecho: http://www.pnas.org/content/109/29/11735.full useful reference after LP's talk #GI2013",2013-11-01,18
+"1662","396412994458238976",2013-11-01 19:06:00,"aaronquinlan","RT @fiamh: Fellow next to me on train to #gi2013 writing about whistle blower litigation at BT Group. In Arial 24pt. With names and addresses. Welp.",2013-11-01,19
+"1663","396413404468215808",2013-11-01 19:08:00,"KatherineMejia","RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013",2013-11-01,19
+"1664","396415000891248640",2013-11-01 19:14:00,"KatherineMejia","RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics",2013-11-01,19
+"1665","396415113038528512",2013-11-01 19:15:00,"KatherineMejia","RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS",2013-11-01,19
+"1666","396415625452859392",2013-11-01 19:17:00,"drbachinsky","RT @genetics_blog: #gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html",2013-11-01,19
+"1667","396420159080267776",2013-11-01 19:35:00,"lucacozzuto","RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013",2013-11-01,19
+"1668","396422057975877632",2013-11-01 19:42:00,"fiamh","Penn Station. Then LIRR. Then cab. Glad I’m from Boston and lobstered out already, no #gi2013 dinner for me.",2013-11-01,19
+"1669","396423900445540352",2013-11-01 19:49:00,"GholsonLyon","RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013",2013-11-01,19
+"1670","396426782242783232",2013-11-01 20:01:00,"mike_schatz","RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013",2013-11-01,20
+"1671","396427680494526464",2013-11-01 20:04:00,"anshul","RT @malachigriffith: The Genomics Virtual Laboratory (GVL) is creating bioinformatics tutorials using Galaxy. #gi2013",2013-11-01,20
+"1672","396429006334996480",2013-11-01 20:10:00,"anshul","RT @genetics_blog: lncRNA transcription associated with enhanced expression of genes nearby http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002841 #gi2013",2013-11-01,20
+"1673","396443568287809536",2013-11-01 21:08:00,"benjaminlmoore","Hate to be ""that guy"" taking photos of food but fair to say it's pretty good eatin' here at #gi2013 http://t.co/p10jN9J9oN",2013-11-01,21
+"1674","396445907324919808",2013-11-01 21:17:00,"theoneamit","RT @genetics_blog: Supplementary material is a terrible thing for the field, really limits computational biologists #gi2013 @lpachter",2013-11-01,21
+"1675","396447005146218496",2013-11-01 21:21:00,"theoneamit","RT @iddux: #gi2013 Visiting poster 154 will get your pending grant funded. Retweeting will get your revised paper published.",2013-11-01,21
+"1676","396450409528569856",2013-11-01 21:35:00,"tsucheta","What a meeting!! WiIl take sometime for me to absorb all the information #GI2013",2013-11-01,21
+"1677","396450769580601344",2013-11-01 21:36:00,"lynxoid","RT @nomad421: Relevant to LP’s current discussion (http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf) #gi2013",2013-11-01,21
+"1678","396457959922081792",2013-11-01 22:05:00,"SteveQinEmory","RT @genetics_blog: #gi2013 LP: http://omicsmaps.com/ map needs to be updated w/ where bioinformaticians are, not machines. shows cufflinks google analytics",2013-11-01,22
+"1679","396458498944290816",2013-11-01 22:07:00,"RosselloFJ","“@benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013” Def. true",2013-11-01,22
+"1680","396463643258535936",2013-11-01 22:27:00,"tsucheta","RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013",2013-11-01,22
+"1681","396465467046387712",2013-11-01 22:35:00,"biotechjones","RT @iddux: @lpachter talks about a paper in arxiv to detect WIMPs with a DNA sequencer... #gi2013 @AstroKatie http://arxiv.org/abs/1206.6809",2013-11-01,22
+"1682","396466679212830720",2013-11-01 22:39:00,"byuhobbes","Didn’t make it to see my poster on mRNAmarkup? Check it out on @figshare: http://dx.doi.org/10.6084/m9.figshare.839655 #gi2013",2013-11-01,22
+"1683","396467326330994688",2013-11-01 22:42:00,"JulioVegaUNAM","RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013",2013-11-01,22
+"1684","396468872448335872",2013-11-01 22:48:00,"genetics_blog","@laxvid at #gi2013 http://t.co/Rbanauk22R",2013-11-01,22
+"1685","396471139310239744",2013-11-01 22:57:00,"BioInformGW","RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics",2013-11-01,22
+"1686","396472904336289792",2013-11-01 23:04:00,"dyollluap","#gi2013 after party glow rings (RNA-seq read distribution) tribute to @lpachter s keynote: http://t.co/zYVljGU4tX",2013-11-01,23
+"1687","396474590144507904",2013-11-01 23:11:00,"tangming2005","RT @genetics_blog: #gi2013 @lpachter: ""wrong doesn't cancel out wrong"" - re read-counting approach with RNA-seq. see cuffdiff 2 paper http://t.co/8e4o8M8VYA",2013-11-01,23
+"1688","396475192157167616",2013-11-01 23:13:00,"tangming2005","RT @genetics_blog: #gi2013 LP: a better unit is TPM (go back to the RSEM paper http://www.biomedcentral.com/1471-2105/12/323",2013-11-01,23
+"1689","396475262596292608",2013-11-01 23:14:00,"tangming2005","RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.",2013-11-01,23
+"1690","396475487759130624",2013-11-01 23:14:00,"Amiacalva","RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013",2013-11-01,23
+"1691","396475879922352128",2013-11-01 23:16:00,"Amiacalva","RT @nomad421: Relevant to LP’s current discussion (http://lynchlab.uchicago.edu/publications/Wagner,%20Kin,%20and%20Lynch%20%282012%29.pdf) #gi2013",2013-11-01,23
+"1692","396476321070862336",2013-11-01 23:18:00,"Amiacalva","RT @genetics_blog: #gi2013 @lpachter: how to solve the fragment assignment problem? try  http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html",2013-11-01,23
+"1693","396477407685017600",2013-11-01 23:22:00,"Amiacalva","RT @SahaSurya: #GI2013 @lpachter pushing TPM use proposed in http://www.biomedcentral.com/1471-2105/12/323",2013-11-01,23
+"1694","396478609365663744",2013-11-01 23:27:00,"Amiacalva","RT @genetics_blog: #gi2013: FPKM dependent on the abundance in THAT experiment. not really comparable across expts.",2013-11-01,23
+"1695","396479632180277248",2013-11-01 23:31:00,"AMIAinformatics","RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics",2013-11-01,23
+"1696","396481180331438080",2013-11-01 23:37:00,"Amiacalva","RT @byuhobbes: @lpachter: throwing away multi reads drastically increases variance of expression estimates #gi2013",2013-11-01,23
+"1697","396481774194536448",2013-11-01 23:39:00,"byuhobbes","RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics",2013-11-01,23
+"1698","396495218674917376",2013-11-02 00:33:00,"homolog_us","RT @genetics_blog: Initial analysis of #gi2013 tweets (thousands of tweets, >200 unique Tweeters), based on https://github.com/stephenturner/twitterchive/blob/master/GI2013.csv http://t.co/iKhvB38CZX",2013-11-02,0
+"1699","396495777553715200",2013-11-02 00:35:00,"infoecho","RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics",2013-11-02,0
+"1700","396499018345230336",2013-11-02 00:48:00,"Han_Fang_","One good thing about a great meeting: Spend your whole day for great talks! Bad thing about it? Hmm.. Spend your night working... #gi2013",2013-11-02,0
+"1701","396499353566982144",2013-11-02 00:49:00,"meso_cacase","GGRNA is a Google-like search engine for genes & transcripts. Here's an example for protein sequence 'LGSAL': http://GGRNA.dbcls.jp/LGSAL #GI2013",2013-11-02,0
+"1702","396499579354763264",2013-11-02 00:50:00,"meso_cacase","GGRNA poster is available from http://bit.ly/GI2013Naito #GI2013",2013-11-02,0
+"1703","396499802479153152",2013-11-02 00:51:00,"meso_cacase","Search short DNA sequence 'TGACTGGT' from human genome: http://GGGenome.dbcls.jp/hg19/TGACTGGT / My poster is available from http://bit.ly/GI2013Naito #GI2013",2013-11-02,0
+"1704","396501616284938240",2013-11-02 00:58:00,"JoshAinsley","Free cocktails after two days of trying to be smart and attentive? Probably not the best idea... #gi2013",2013-11-02,0
+"1705","396503068100923392",2013-11-02 01:04:00,"rnomics","CT @rnomics/bioinfo Twitter / genetics_blog: #gi2013 @lpachter: ""wrong doesn't ...: http://twitter.com... http://bit.ly/1aPOuuS @MyEN",2013-11-02,1
+"1706","396504506315575296",2013-11-02 01:10:00,"4a6a5a","RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013",2013-11-02,1
+"1707","396515625578676224",2013-11-02 01:54:00,"obigriffith","RT @malachigriffith: The Genomics Virtual Laboratory (GVL) is creating bioinformatics tutorials using Galaxy. #gi2013",2013-11-02,1
+"1708","396516247669465088",2013-11-02 01:56:00,"obigriffith","RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics",2013-11-02,1
+"1709","396516672359522304",2013-11-02 01:58:00,"pharmachristine","RT @genetics_blog: Real-time streaming differential RNA-seq analysis with eXpress http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html cc @lpachter #rstats #gi2013 #bioinformatics",2013-11-02,1
+"1710","396540807458480128",2013-11-02 03:34:00,"YiXing77","RT @markgerstein: #gi2013 @Lpachter : Original RNAseq Rescue method draws from Chris Lee's use of EM for ESTs",2013-11-02,3
+"1711","396548086883160064",2013-11-02 04:03:00,"marc_rr","RT @SahaSurya: V typical RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-02,4
+"1712","396548853438349312",2013-11-02 04:06:00,"lexnederbragt","RT @genetics_blog: Supplementary material is a terrible thing for the field, really limits computational biologists #gi2013 @lpachter",2013-11-02,4
+"1713","396549627023224832",2013-11-02 04:09:00,"lexnederbragt","RT @genetics_blog: #gi2013 LP: http://omicsmaps.com/ map needs to be updated w/ where bioinformaticians are, not machines. shows cufflinks google analytics",2013-11-02,4
+"1714","396562316130803712",2013-11-02 04:59:00,"sharmanedit","RT @benjaminlmoore: Final word from @lpachter: Methods matter, should be up-front not buried in supplementary materials #gi2013",2013-11-02,4
+"1715","396562823884443648",2013-11-02 05:01:00,"hlapp","RT @SahaSurya: V typical RT @genetics_blog: #gi2013 @lpachter: reviewers didn't review the supplement, although that was the majority of the writing",2013-11-02,5
+"1716","396566855382728704",2013-11-02 05:18:00,"lopantano","RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013",2013-11-02,5
+"1717","396578336744280064",2013-11-02 06:03:00,"SeqComplete","""#GI2013"" on Tweeted Times http://tweetedtimes.com/search/%23GI2013/en",2013-11-02,6
+"1718","396579245637779456",2013-11-02 06:07:00,"Bastounette","RT @iddux: The Ancestrome: http://ancestrome.univ-lyon1.fr/  Integrative phylogenetic approaches for reconstructing ancestral ""-omes"" #gi2013",2013-11-02,6
+"1719","396581510675193856",2013-11-02 06:16:00,"markgerstein","Posting my #gi2013 talk: Integrative Annotation of Variants from 1092 Humans: Application to #Cancer #Genomics http://lectures.gersteinlab.org/summary/Integ_Annot_Var_from_1092_App_to_Cancer--20131102-i0gi2013",2013-11-02,6
+"1720","396584009641525248",2013-11-02 06:26:00,"EduEyras","RT @markgerstein: Posting my #gi2013 talk: Integrative Annotation of Variants from 1092 Humans: Application to #Cancer #Genomics http://t.co/FJB59Vjgfo",2013-11-02,6
+"1721","396587261288284160",2013-11-02 06:39:00,"icases","RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.",2013-11-02,6
+"1722","396587569657294848",2013-11-02 06:40:00,"bffo",". @lpachter “RPKM is not a method, it is a unit” #gi2013",2013-11-02,6
+"1723","396589914717831168",2013-11-02 06:49:00,"bffo","I’ve put my Thursday talk on slideshare on the @FGED account http://www.slideshare.net/FGED/cshl-minseqe-2013ouellette #gi2013",2013-11-02,6
+"1724","396589953183776768",2013-11-02 06:49:00,"FGED","RT @bffo: I’ve put my Thursday talk on slideshare on the @FGED account http://www.slideshare.net/FGED/cshl-minseqe-2013ouellette #gi2013",2013-11-02,6
+"1725","396596615282446336",2013-11-02 07:16:00,"infoecho","RT @markgerstein: Posting my #gi2013 talk: Integrative Annotation of Variants from 1092 Humans: Application to #Cancer #Genomics http://t.co/FJB59Vjgfo",2013-11-02,7
+"1726","396598393503760384",2013-11-02 07:23:00,"drbachinsky","RT @bffo: I’ve put my Thursday talk on slideshare on the @FGED account http://www.slideshare.net/FGED/cshl-minseqe-2013ouellette #gi2013",2013-11-02,7
+"1727","396617679861059584",2013-11-02 08:39:00,"isugif","RT @genetics_blog: #GI2013 Mascher's paper: Anchoring and ordering NGS contig assemblies by population sequencing (POPSEQ) http://t.co/Rm8VOdvshx",2013-11-02,8
+"1728","396618090588282880",2013-11-02 08:41:00,"byuhobbes","Ha! RT @infoecho: http://www.pnas.org/content/109/29/11735.full useful reference after LP's talk #GI2013",2013-11-02,8
+"1729","396618836520095744",2013-11-02 08:44:00,"isugif","RT @genetics_blog: The MaSuRCA genome assembler http://bioinformatics.oxfordjournals.org/content/29/21/2669 #bioinformatics #gi2013",2013-11-02,8
+"1730","396620372860489728",2013-11-02 08:50:00,"iddux","Dance of the ribosomes #gi2013 @cshlmeetings http://t.co/MTMJrAqo5z",2013-11-02,8
+"1731","396621071040143360",2013-11-02 08:53:00,"technophilicmag","Last session of #CSHL's Genome Informatics starts soon. Follow along on our live Twitter activity stream: http://technophilicmag.com/genomeinformatics/ #GI2013",2013-11-02,8
+"1732","396622472373489664",2013-11-02 08:59:00,"isugif","RT @genetics_blog: RELEASE THE KRAKEN http://ccb.jhu.edu/software/kraken/ #gi2013 #metagenomics",2013-11-02,8
+"1733","396634451796434944",2013-11-02 09:46:00,"infoecho","MG, STR is hard to typed with NGS #GI2013 lobSTR algorithm is introduced",2013-11-02,9
+"1734","396634525922770944",2013-11-02 09:46:00,"fiamh","Slides and links for the #gi2013 talk on bcbio.nextgen by @chapmanb and @RoryKirchner at https://bcbio-nextgen.readthedocs.org/en/latest/contents/presentations.html",2013-11-02,9
+"1735","396634580737736704",2013-11-02 09:47:00,"byuhobbes","@mgymrek profiling STRs from short reads: sensing —> alignment —> allelotyping #gi2013",2013-11-02,9
+"1736","396634759893639168",2013-11-02 09:47:00,"genetics_blog","#gi2013 @mgymrek: typing STRs with NGS not trivial, three-step process. see code https://github.com/whitehead/lobstr-code",2013-11-02,9
+"1737","396634817208401920",2013-11-02 09:48:00,"KatherineMejia","RT @fiamh: Slides and links for the #gi2013 talk on bcbio.nextgen by @chapmanb and @RoryKirchner at https://bcbio-nextgen.readthedocs.org/en/latest/contents/presentations.html",2013-11-02,9
+"1738","396634839115243520",2013-11-02 09:48:00,"KatherineMejia","RT @genetics_blog: #GI2013 direct link to @markgerstein's slides from today (PDF): http://archive.gersteinlab.org/mark/out/log/2013/11.02/talk/Integ_Annot_Var_from_1092_App_to_Cancer--20131102-i0gi2013.pdf",2013-11-02,9
+"1739","396634866064056320",2013-11-02 09:48:00,"KatherineMejia","RT @bffo: I’ve put my Thursday talk on slideshare on the @FGED account http://www.slideshare.net/FGED/cshl-minseqe-2013ouellette #gi2013",2013-11-02,9
+"1740","396634882731823104",2013-11-02 09:48:00,"GenomeNathan","@mgymrek uses #cshl banquet fare (lobstr) to call STRs from deep genome sequence data. #gi2013 #macgyverscience",2013-11-02,9
+"1741","396634898699526144",2013-11-02 09:48:00,"byuhobbes","RT @genetics_blog: #gi2013 @mgymrek: typing STRs with NGS not trivial, three-step process. see code https://github.com/whitehead/lobstr-code",2013-11-02,9
+"1742","396634905846628352",2013-11-02 09:48:00,"KristaTernus","RT @genetics_blog: #gi2013 @mgymrek: typing STRs with NGS not trivial, three-step process. see code https://github.com/whitehead/lobstr-code",2013-11-02,9
+"1743","396634936293072896",2013-11-02 09:48:00,"infoecho","MG,  eQTL: 19,160 STRS <-> GEUVADIS RNA-seq 21,953 gene #GI2013",2013-11-02,9
+"1744","396634978727239680",2013-11-02 09:48:00,"genetics_blog","#gi2013 @mgymrek: regress str length against gene expression. >250k str*gene tests (null hyp: slope=0).",2013-11-02,9
+"1745","396635191936311296",2013-11-02 09:49:00,"genetics_blog","#gi2013 @mgymrek: very strong signal: >2500 sig eSTRs at FDR .10. replicating in indep population, different tech (array).",2013-11-02,9
+"1746","396635208339824640",2013-11-02 09:49:00,"byuhobbes","@genetics_blog @mgymrek Paper available at http://genome.cshlp.org/content/22/6/1154.short #gi2013",2013-11-02,9
+"1747","396635231362367488",2013-11-02 09:49:00,"KatherineMejia","RT @bffo: Marc Fiume has a great lecture on bioinformatics.ca on the topic of  data visualization http://bioinformatics.ca//files/public/HT-seq_2013_Module4.pdf #gi2013",2013-11-02,9
+"1748","396635278703460352",2013-11-02 09:49:00,"KatherineMejia","RT @cshlmeetings: In addition, all Tweets from #GI2013 will be compiled here: http://fb.me/6y3fRLfk2",2013-11-02,9
+"1749","396635371712180224",2013-11-02 09:50:00,"GenomeNathan","@mgymrek checks correlation of STR alleles with RNAseq data from genes near and far. Strong cis signal, replicates w/array data. #gi2013",2013-11-02,9
+"1750","396635456730701824",2013-11-02 09:50:00,"bffo","very nice! RT @fiamh: Slides and links for the #gi2013 talk on bcbio.nextgen by @chapmanb and @RoryKirchner at https://bcbio-nextgen.readthedocs.org/en/latest/contents/presentations.html",2013-11-02,9
+"1751","396635628877537280",2013-11-02 09:51:00,"infoecho","MG, are eSTRs causal?, STR -> local SNP -> gene express as 2nd effect? signal from SNP or STR?  #GI2013",2013-11-02,9
+"1752","396635729238827008",2013-11-02 09:51:00,"CamLBerthelot","@mgymrek showed the QQ-plot of her null control to show that her expected null hypothesis is actually verified. Kudos to that! #gi2013",2013-11-02,9
+"1753","396635832372563968",2013-11-02 09:52:00,"GenomeNathan","@mgymrek: but do STR alleles just tag strongly linked (non-STR) regulatory variants? #gi2013",2013-11-02,9
+"1754","396635986756927488",2013-11-02 09:52:00,"aaronquinlan","RT @genetics_blog: #gi2013 @mgymrek: very strong signal: >2500 sig eSTRs at FDR .10. replicating in indep population, different tech (array).",2013-11-02,9
+"1755","396636184362762240",2013-11-02 09:53:00,"Pericarus","RT @genetics_blog: #gi2013 @mgymrek: very strong signal: >2500 sig eSTRs at FDR .10. replicating in indep population, different tech (array).",2013-11-02,9
+"1756","396636239819862016",2013-11-02 09:53:00,"GenomeNathan","@mgymrek: STR cis-allele-differential expression signal holds up in folks homozygous for nearby candidate regulatory variants... #gi2013",2013-11-02,9
+"1757","396636348599504896",2013-11-02 09:54:00,"AlexAlexAlex184","RT @markgerstein: Posting my #gi2013 talk: Integrative Annotation of Variants from 1092 Humans: Application to #Cancer #Genomics http://t.co/FJB59Vjgfo",2013-11-02,9
+"1758","396636471496433664",2013-11-02 09:54:00,"infoecho","MG, eSTRs most prevalent near transcription start sites #GI2013",2013-11-02,9
+"1759","396636722538098688",2013-11-02 09:55:00,"Pericarus","@mgymrek provides thoughtful multifaceted verification tests for eSTR signals - good to see so many negative controls. #GI2013",2013-11-02,9
+"1760","396636734143750144",2013-11-02 09:55:00,"infoecho","MG, ""eSTRs co-localize with active chromate regions"" #GI2013",2013-11-02,9
+"1761","396636801286164480",2013-11-02 09:55:00,"GenomeNathan","...and, @mgymrek adds, signal affirmed by homoplasy: otherwise disparate haplotypes w/same STR allele show similar expression! #gi2013",2013-11-02,9
+"1762","396636886338641920",2013-11-02 09:56:00,"SaraBallouz","eSTRs - where, what, and why? #gi2013",2013-11-02,9
+"1763","396636949772922880",2013-11-02 09:56:00,"bffo","let’s start a trend @ CSHL, default 2 b tweetable & post slides b4 ur talk | good thing we still want to hang out & have beers! #gi2013",2013-11-02,9
+"1764","396637156753424384",2013-11-02 09:57:00,"infoecho","MG, maybe STRs in intron play a role, ""spliceSTR"" #GI2013 e.g. Hefferon, et al, PNAS 2014",2013-11-02,9
+"1765","396637174277210112",2013-11-02 09:57:00,"FGED","RT @fiamh: Slides and links for the #gi2013 talk on bcbio.nextgen by @chapmanb and @RoryKirchner at https://bcbio-nextgen.readthedocs.org/en/latest/contents/presentations.html",2013-11-02,9
+"1766","396637316833218560",2013-11-02 09:58:00,"infoecho","MG, ""do long STRs near acceptors sites decrease splicing efficiency?"" #GI2013",2013-11-02,9
+"1767","396637355823493120",2013-11-02 09:58:00,"roy_ronen","@mgymrek: Longer STRs near splice accepter sites cause exon skipping. Pretty cool... #gi2013",2013-11-02,9
+"1768","396637401864355840",2013-11-02 09:58:00,"Pericarus","RT @roy_ronen: @mgymrek: Longer STRs near splice accepter sites cause exon skipping. Pretty cool... #gi2013",2013-11-02,9
+"1769","396637578402607104",2013-11-02 09:59:00,"byuhobbes","@bffo @cshlmeetings Definitely agree. By default talks should be tweetable, with option to opt out #gi2013",2013-11-02,9
+"1770","396637636116627456",2013-11-02 09:59:00,"SaraBallouz","LobSTRs, eSTRs, SpliceSTRs, oh my! How long is too long to be a short repeat? #gi2013",2013-11-02,9
+"1771","396637751791349760",2013-11-02 09:59:00,"GenomeNathan","RT @roy_ronen: @mgymrek: Longer STRs near splice accepter sites cause exon skipping. Pretty cool... #gi2013",2013-11-02,9
+"1772","396637793947877376",2013-11-02 09:59:00,"SahaSurya","Agree! MT @bffo: let’s start a trend @cshlmeetings, default 2 b tweetable & post slides b4 ur talk #gi2013",2013-11-02,9
+"1773","396637907852615680",2013-11-02 10:00:00,"evolvability","RT @SahaSurya: Agree! MT @bffo: let’s start a trend @cshlmeetings, default 2 b tweetable & post slides b4 ur talk #gi2013",2013-11-02,10
+"1774","396638201060020224",2013-11-02 10:01:00,"markgerstein","RT @SaraBallouz: LobSTRs, eSTRs, SpliceSTRs, oh my! How long is too long to be a short repeat? #gi2013",2013-11-02,10
+"1775","396638255262621696",2013-11-02 10:01:00,"Pericarus","MG: possible mechanism for eSTR splicing - STR length != mod 3 can cause frame shifts and influence exon expression #GI2013",2013-11-02,10
+"1776","396638315715497984",2013-11-02 10:01:00,"piper_jason","Loving the amount of statistics from @mgymrek -  lovely explanation of all the null hypotheses! #GI2013",2013-11-02,10
+"1777","396638549988347904",2013-11-02 10:02:00,"genetics_blog","#gi2013 Next @fiamh @winhide @RoryKirchner @chapmanb: community development of validated variant calling pipelines https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20131102%20CSHL%20Genome%20Informatics/20131101%20CSHL%20GI2013%20bcbio.pdf",2013-11-02,10
+"1778","396638688597139456",2013-11-02 10:03:00,"infoecho","Winston Hide, on ""Community development of validated variant calling pipelines"" #GI2013 slide at http://j.mp/bcbiolinks",2013-11-02,10
+"1779","396638925810585600",2013-11-02 10:04:00,"laxvid","@fiamh  is not @winhide but we will take it :-) #GI2013",2013-11-02,10
+"1780","396638984173936640",2013-11-02 10:04:00,"aaronquinlan","Oliver Hoffmann on vetted, scalable variant calling pipelines. #GI2013",2013-11-02,10
+"1781","396639097386569728",2013-11-02 10:05:00,"genetics_blog","#gi2013 @fiamh the installation/dependency hurdle. http://t.co/NoeKdxC4vR",2013-11-02,10
+"1782","396639206811774976",2013-11-02 10:05:00,"mgymrek","@SaraBallouz we were looking at repeats with motif lengths of 2-6bp for this study #gi2013",2013-11-02,10
+"1783","396639237971652608",2013-11-02 10:05:00,"GholsonLyon","RT @infoecho: Winston Hide, on ""Community development of validated variant calling pipelines"" #GI2013 slide at http://j.mp/bcbiolinks",2013-11-02,10
+"1784","396639253071155200",2013-11-02 10:05:00,"genetics_blog","#gi2013 @fiamh qualitative differences between ""best practices"" workflows http://www.bioplanet.com/gcat",2013-11-02,10
+"1785","396639261866205184",2013-11-02 10:05:00,"infoecho","WH, HugeSeq ""The Variant Detection Pipeline"" https://github.com/StanfordBioInformatics/HugeSeq #GI2013",2013-11-02,10
+"1786","396639342484934656",2013-11-02 10:06:00,"GenomeNathan","@mgymrek talk exemplified science clearly told: Walked us thru key question, method, first findings, counter-q's...and answers. #gi2013",2013-11-02,10
+"1787","396639374089015296",2013-11-02 10:06:00,"aaronquinlan","OH: 5-15% of variant calls vary solely based on choice of aligner (e.g., BWA versus Novoalign) #GI2013",2013-11-02,10
+"1788","396639437251444736",2013-11-02 10:06:00,"nkt_rarry","RT @genetics_blog: #gi2013 @fiamh the installation/dependency hurdle. http://t.co/NoeKdxC4vR",2013-11-02,10
+"1789","396639464023261184",2013-11-02 10:06:00,"byuhobbes","RT @genetics_blog: #gi2013 @fiamh the installation/dependency hurdle. http://t.co/NoeKdxC4vR",2013-11-02,10
+"1790","396639467307405312",2013-11-02 10:06:00,"iddux","#gi2013 @fiamh on work with  @chapmanb @winhide & others Community development of variant calling pipelines https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20131102%20CSHL%20Genome%20Informatics/20131101%20CSHL%20GI2013%20bcbio.pdf",2013-11-02,10
+"1791","396639516359794688",2013-11-02 10:06:00,"mgymrek","@infoecho here's the paper; looking at a TG repeat in CFTR  http://www.pnas.org/content/101/10/3504.full.pdf #gi2013",2013-11-02,10
+"1792","396639522555166720",2013-11-02 10:06:00,"genetics_blog","#gi2013 @fiamh how to fix some of these hurdles? blue collar #bioinformatics https://github.com/chapmanb/bcbio-nextgen",2013-11-02,10
+"1793","396639661482708992",2013-11-02 10:07:00,"infoecho","WH, http://github.com/chapmanb/bcbio-nextgen, project from @chapmanb  #GI2013",2013-11-02,10
+"1794","396639739807551488",2013-11-02 10:07:00,"markgerstein",".@infoecho @mgymrek: also, STRs that fall into active chromatin more likely to be correlated with expression - good pt! #gi2013",2013-11-02,10
+"1795","396639814109237248",2013-11-02 10:07:00,"infoecho","Many great computation resource links from WH, https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20131102%20CSHL%20Genome%20Informatics/20131101%20CSHL%20GI2013%20bcbio.pdf #GI2013",2013-11-02,10
+"1796","396639815242121216",2013-11-02 10:07:00,"GholsonLyon","RT @genetics_blog: #gi2013 Next @fiamh @winhide @RoryKirchner @chapmanb: community development of validated variant calling pipelines https://t.co/fGLFNTp3Ux",2013-11-02,10
+"1797","396639929574653952",2013-11-02 10:08:00,"genetics_blog","#gi2013 @fiamh another group who realizes importance of good documentation (homage to @aaronquinlan) https://bcbio-nextgen.readthedocs.org/en/latest/",2013-11-02,10
+"1798","396640048906780672",2013-11-02 10:08:00,"infoecho","RT @mgymrek: @infoecho here's the paper; looking at a TG repeat in CFTR  http://www.pnas.org/content/101/10/3504.full.pdf #gi2013",2013-11-02,10
+"1799","396640064437878784",2013-11-02 10:08:00,"byuhobbes","RT @genetics_blog: #gi2013 @fiamh another group who realizes importance of good documentation (homage to @aaronquinlan) https://t.co/X3mrw7kaqU",2013-11-02,10
+"1800","396640137012322304",2013-11-02 10:09:00,"markgerstein","RT @piper_jason: Loving the amount of statistics from @mgymrek -  lovely explanation of all the null hypotheses! #GI2013",2013-11-02,10
+"1801","396640146504040448",2013-11-02 10:09:00,"GholsonLyon","RT @infoecho: Many great computation resource links from WH, https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20131102%20CSHL%20Genome%20Informatics/20131101%20CSHL%20GI2013%20bcbio.pdf #GI2013",2013-11-02,10
+"1802","396640215059943424",2013-11-02 10:09:00,"markgerstein","RT @Pericarus: MG: possible mechanism for eSTR splicing - STR length != mod 3 can cause frame shifts and influence exon expression #GI2013",2013-11-02,10
+"1803","396640269032251392",2013-11-02 10:09:00,"GholsonLyon","RT @iddux: #gi2013 @fiamh on work with  @chapmanb @winhide & others Community development of variant calling pipelines https://t.co/spefIXwYI4",2013-11-02,10
+"1804","396640278637195264",2013-11-02 10:09:00,"genetics_blog","#gi2013 @fiamh simplifying installation/packaging with http://www.docker.io/ and http://www.openstack.org/",2013-11-02,10
+"1805","396640308601311232",2013-11-02 10:09:00,"GholsonLyon","RT @aaronquinlan: OH: 5-15% of variant calls vary solely based on choice of aligner (e.g., BWA versus Novoalign) #GI2013",2013-11-02,10
+"1806","396640329547264000",2013-11-02 10:09:00,"iddux","@fiamh on installation, docs & data provenance: using http://arvados.org http://openstack.org http://www.docker.io #gi2013",2013-11-02,10
+"1807","396640466860777472",2013-11-02 10:10:00,"genetics_blog","#gi2013 @fiamh how to scale variant detection? http://bcbio.wordpress.com/2013/05/22/scaling-variant-detection-pipelines-for-whole-genome-sequencing-analysis/",2013-11-02,10
+"1808","396640487546683392",2013-11-02 10:10:00,"bffo",".@fiamh  mentions http://arvados.org — looks interesting! #GI2013",2013-11-02,10
+"1809","396640556480073728",2013-11-02 10:10:00,"benjaminlmoore","Oliver Hofmann (@fiamh) mentions homebrew-science https://github.com/Homebrew/homebrew-science — good range of brew formulae for installing sci software #gi2013",2013-11-02,10
+"1810","396640668124069888",2013-11-02 10:11:00,"iddux","#gi2013 @fiamh on scalability http://j.mp/bcbioscale",2013-11-02,10
+"1811","396640707386957824",2013-11-02 10:11:00,"mgymrek","WH gives shout out to #arvados: https://arvados.org/. Solutions to the frustrating process of managing/processing large datasets #gi2013",2013-11-02,10
+"1812","396640794511024128",2013-11-02 10:11:00,"infoecho","WH makes point separating job by chromosome is not 100% idea since they have different sizes, working on improvement #GI2013",2013-11-02,10
+"1813","396641063156613120",2013-11-02 10:12:00,"infoecho","RT @bffo: .@fiamh  mentions http://arvados.org — looks interesting! #GI2013",2013-11-02,10
+"1814","396641264663162880",2013-11-02 10:13:00,"aaronquinlan","OH: Ha, Oliver mentions my wee grabix tool for grabbing arbitrary blocks of records from a BGZF file. #GI2013. https://github.com/arq5x/grabix",2013-11-02,10
+"1815","396641359668326400",2013-11-02 10:14:00,"GholsonLyon","Hearing now about the rapid industrialization & engineering of DNA seq & analysis in the genome world. NIST, GIAB. #GI2013",2013-11-02,10
+"1816","396641368157986816",2013-11-02 10:14:00,"genetics_blog","#gi2013 @fiamh @IPythonDev parallel abstraction layer between Torque, SGE, etc for simplifying parallelization http://ipython.org/ipython-doc/dev/parallel/",2013-11-02,10
+"1817","396641504649035776",2013-11-02 10:14:00,"genetics_blog","#gi2013 @fiamh genome in a bottle consortium to distribute reference bioinformatics workflows and variant calls http://genomeinabottle.org/",2013-11-02,10
+"1818","396641513851355136",2013-11-02 10:14:00,"GholsonLyon","RT @genetics_blog: #gi2013 @fiamh @IPythonDev parallel abstraction layer between Torque, SGE, etc for simplifying parallelization http://t.co/Mv1x75V85h",2013-11-02,10
+"1819","396641574052196352",2013-11-02 10:14:00,"benjaminlmoore","RT @genetics_blog: #gi2013 @fiamh @IPythonDev parallel abstraction layer between Torque, SGE, etc for simplifying parallelization http://t.co/Mv1x75V85h",2013-11-02,10
+"1820","396641579865104384",2013-11-02 10:14:00,"infoecho","WH, mentioned about IPython Parallel #GI2013  Thanks @fperez_org & @ellisonbg & the python team",2013-11-02,10
+"1821","396641671838203904",2013-11-02 10:15:00,"infoecho","RT @genetics_blog: #gi2013 @fiamh @IPythonDev parallel abstraction layer between Torque, SGE, etc for simplifying parallelization http://t.co/Mv1x75V85h",2013-11-02,10
+"1822","396641683292434432",2013-11-02 10:15:00,"iddux","lots of good information in @fiamh talk: genome in a bottle http://genomeinabottle.org #gi2013",2013-11-02,10
+"1823","396641834946285568",2013-11-02 10:15:00,"genetics_blog","#gi2013 @fiamh comparison of variant calling pipelines http://bcbio.wordpress.com/2013/10/21/updated-comparison-of-variant-detection-methods-ensemble-freebayes-and-minimal-bam-preparation-pipelines/",2013-11-02,10
+"1824","396641895017111552",2013-11-02 10:16:00,"SaraBallouz","Genome in a bottle. How many wishes do we get? <insert wit here> #gi2013",2013-11-02,10
+"1825","396641914965225472",2013-11-02 10:16:00,"piper_jason","Chart Junk! Someone has read Tufte's great books on data visualisation (which should be required reading for genome scientists) #GI2013",2013-11-02,10
+"1826","396641943192469504",2013-11-02 10:16:00,"aaronquinlan","OH: Recommending the use of BWA-MEM over Novoalign and touting the recent improvements to the Marth Lab FreeBayes variant caller. #GI2013",2013-11-02,10
+"1827","396641955595423744",2013-11-02 10:16:00,"KristaTernus","RT @aaronquinlan: OH: 5-15% of variant calls vary solely based on choice of aligner (e.g., BWA versus Novoalign) #GI2013",2013-11-02,10
+"1828","396641996044914688",2013-11-02 10:16:00,"iddux","evaluation of tools: @fiamh http://j.mp/bcbioeval2  #gi2013",2013-11-02,10
+"1829","396642019193659392",2013-11-02 10:16:00,"GholsonLyon","RT @genetics_blog: #gi2013 @fiamh comparison of variant calling pipelines http://bcbio.wordpress.com/2013/10/21/updated-comparison-of-variant-detection-methods-ensemble-freebayes-and-minimal-bam-preparation-pipelines/",2013-11-02,10
+"1830","396642024171913216",2013-11-02 10:16:00,"SahaSurya","Useful RT @genetics_blog: #gi2013 @fiamh comparison of variant calling pipelines http://bit.ly/1auGvXJ #bioinformatics",2013-11-02,10
+"1831","396642143311515648",2013-11-02 10:17:00,"genetics_blog","#gi2013 @fiamh big endorsement of @aaronquinlan's GEMINI https://github.com/arq5x/gemini (and docs of course http://gemini.readthedocs.org/en/latest/)",2013-11-02,10
+"1832","396642281148542976",2013-11-02 10:17:00,"aaronquinlan","OH: Freebayes competitive with GATK Haplotype caller. #GI2013",2013-11-02,10
+"1833","396642404855709696",2013-11-02 10:18:00,"widdowquinn","RT @SahaSurya: Useful RT @genetics_blog: #gi2013 @fiamh comparison of variant calling pipelines http://bit.ly/1auGvXJ #bioinformatics",2013-11-02,10
+"1834","396642592059686912",2013-11-02 10:18:00,"evolvability","RT @aaronquinlan: OH: Freebayes competitive with GATK Haplotype caller. #GI2013",2013-11-02,10
+"1835","396642599089766400",2013-11-02 10:18:00,"SaraBallouz","""We can't do it in our own."" Code, docs, support. #gi2013",2013-11-02,10
+"1836","396642614902276096",2013-11-02 10:19:00,"genetics_blog","#gi2013 and they're hiring #bioinformatics #clojure #bioinformatics #jobs contact @fiamh",2013-11-02,10
+"1837","396642676751466496",2013-11-02 10:19:00,"GholsonLyon","RT @genetics_blog: #gi2013 @fiamh big endorsement of @aaronquinlan's GEMINI https://github.com/arq5x/gemini (and docs of course http://t.co/kDsJ8Qkuzm)",2013-11-02,10
+"1838","396642703917973504",2013-11-02 10:19:00,"GholsonLyon","RT @SahaSurya: Useful RT @genetics_blog: #gi2013 @fiamh comparison of variant calling pipelines http://bit.ly/1auGvXJ #bioinformatics",2013-11-02,10
+"1839","396642737346605056",2013-11-02 10:19:00,"pathogenomenick","follow very clever genome bioinformaticians #gi2013",2013-11-02,10
+"1840","396642881836175360",2013-11-02 10:20:00,"genetics_blog","#gi2013 @fiamh Summarize coverage of high throughput sequencing experiments https://github.com/chapmanb/bcbio.coverage",2013-11-02,10
+"1841","396643217816686592",2013-11-02 10:21:00,"infoecho","RT @aaronquinlan: OH: Freebayes competitive with GATK Haplotype caller. #GI2013",2013-11-02,10
+"1842","396643225353465856",2013-11-02 10:21:00,"chfloudas","RT @genetics_blog: #gi2013 @fiamh comparison of variant calling pipelines http://bcbio.wordpress.com/2013/10/21/updated-comparison-of-variant-detection-methods-ensemble-freebayes-and-minimal-bam-preparation-pipelines/",2013-11-02,10
+"1843","396643400960970752",2013-11-02 10:22:00,"markgerstein",".@piper_jason I consider Tufte's classic as one of the first texts for Data Science, in general #gi2013",2013-11-02,10
+"1844","396643479390289920",2013-11-02 10:22:00,"genetics_blog","After the break at #gi2013: @erlichya on ""Genetic Media"". Wonder what this one's about?",2013-11-02,10
+"1845","396644004458422272",2013-11-02 10:24:00,"Oli_viajera","RT @byuhobbes: @dgmacarthur >750 Tb of raw data; talk about big data problems #gi2013",2013-11-02,10
+"1846","396644050012749824",2013-11-02 10:24:00,"aaronquinlan","RT @genetics_blog: #gi2013 @fiamh another group who realizes importance of good documentation (homage to @aaronquinlan) https://t.co/X3mrw7kaqU",2013-11-02,10
+"1847","396644096800202752",2013-11-02 10:24:00,"nkt_rarry","RT @SaraBallouz: ""We can't do it in our own."" Code, docs, support. #gi2013",2013-11-02,10
+"1848","396645511366967296",2013-11-02 10:30:00,"WiringTheBrain","RT @GholsonLyon: variant list and pop allele frequencies will be made publicly available. Great. @dgmacarthur. #gi2013",2013-11-02,10
+"1849","396645521269739520",2013-11-02 10:30:00,"BilkentCompGen","RT @aaronquinlan: OH: 5-15% of variant calls vary solely based on choice of aligner (e.g., BWA versus Novoalign) #GI2013",2013-11-02,10
+"1850","396646537683800064",2013-11-02 10:34:00,"sesejun","Tweets with #gi2013 to be summarized in Chirpstory! http://chirpstory.com/li/167076",2013-11-02,10
+"1851","396646834975690752",2013-11-02 10:35:00,"mgymrek","up next, @erlichya on using social media for human genetics! #gi2013",2013-11-02,10
+"1852","396646947873779712",2013-11-02 10:36:00,"infoecho","Yaniv Erlich, Social media & genetic study #GI2013",2013-11-02,10
+"1853","396647104862769152",2013-11-02 10:36:00,"genetics_blog","#gi2013 @erlichya: two schools of thought in genetic arch complex traits: additive camp vs epistasis camp",2013-11-02,10
+"1854","396647131370754048",2013-11-02 10:37:00,"fiamh","RT @aaronquinlan: OH: Ha, Oliver mentions my wee grabix tool for grabbing arbitrary blocks of records from a BGZF file. #GI2013. https://t.co/kRBv40mJLU",2013-11-02,10
+"1855","396647360195223552",2013-11-02 10:37:00,"genetics_blog","RT @lpachter: ""Online discussion is an essential aspect of the post-publication review of findings"" http://www.nature.com/news/time-to-talk-1.14045 #GI2013",2013-11-02,10
+"1856","396647470786437120",2013-11-02 10:38:00,"fiamh","And for the record, I am not related to @winhide #gi2013.",2013-11-02,10
+"1857","396647474192216064",2013-11-02 10:38:00,"SaraBallouz","Genetic architecture of complex traits. I'll tweet about that. #gi2013",2013-11-02,10
+"1858","396647507737866240",2013-11-02 10:38:00,"iddux","@erlichya on additive v. epistatic modes of complex traits. #gi2013",2013-11-02,10
+"1859","396647562205069312",2013-11-02 10:38:00,"bffo","Yes, 100% tweetable conference, and a talk that uses twitter by @erlichya #gi2013 http://t.co/wqr9qtG71D",2013-11-02,10
+"1860","396647653204717568",2013-11-02 10:39:00,"infoecho","YE, Additive:  (\Delta Y)^ \prop P(share a genetic variant) , Epsistasis:  (\Delta Y)^ \prop P^k ,""k\not=1"" interaction #GI2013",2013-11-02,10
+"1861","396647655935586304",2013-11-02 10:39:00,"genetics_blog","#gi2013 @erlichya social media as paradigm to dissect complex traits http://www.geni.com/",2013-11-02,10
+"1862","396647778459590656",2013-11-02 10:39:00,"Han_Fang_","RT @genetics_blog: #gi2013 @erlichya social media as paradigm to dissect complex traits http://www.geni.com/",2013-11-02,10
+"1863","396647867970252800",2013-11-02 10:39:00,"genetics_blog","#gi2013 @erlichya downloaded 43.7 million public profiles with http://geni.com API",2013-11-02,10
+"1864","396647886382825472",2013-11-02 10:40:00,"Pericarus","RT @genetics_blog: #gi2013 @erlichya downloaded 43.7 million public profiles with http://geni.com API",2013-11-02,10
+"1865","396648002573463552",2013-11-02 10:40:00,"iddux","@erlichya uses genealogical social media for pedigree trees  http://geni.com downloaded ~44M individuals #gi2013",2013-11-02,10
+"1866","396648061818404864",2013-11-02 10:40:00,"gatk_dev","RT @genetics_blog: #gi2013 @dgmacarthur the N+1 problem: can't do entire recompute when add 1 sample. GATK haplotypecaller, joint-calling at VCF level, not bam",2013-11-02,10
+"1867","396648074694893568",2013-11-02 10:40:00,"gatk_dev","RT @infoecho: DGM, on ""solving the N+1 problem"" GATK haplotypeCaller->GenomeicVCF, joint-callling at VCF level...  #GI2013 (work by Eric Banks)",2013-11-02,10
+"1868","396648080441114624",2013-11-02 10:40:00,"genetics_blog","#gi2013 @erlichya showing a 7-generation, 6000-person pedigree. this is smallest. a large pedigree had 13 million individuals!",2013-11-02,10
+"1869","396648188725063680",2013-11-02 10:41:00,"Pericarus","RT @genetics_blog: #gi2013 @erlichya showing a 7-generation, 6000-person pedigree. this is smallest. a large pedigree had 13 million individuals!",2013-11-02,10
+"1870","396648310435373056",2013-11-02 10:41:00,"byuhobbes","RT @iddux: @erlichya uses genealogical social media for pedigree trees  http://geni.com downloaded ~44M individuals #gi2013",2013-11-02,10
+"1871","396648443479064576",2013-11-02 10:42:00,"genetics_blog","#gi2013 @erlichya how to convert free text location info about residence, birth, death, etc., into GPS coordinates? Yahoo Geoparser",2013-11-02,10
+"1872","396648453985804288",2013-11-02 10:42:00,"Han_Fang_","RT @genetics_blog: #gi2013 @erlichya showing a 7-generation, 6000-person pedigree. this is smallest. a large pedigree had 13 million individuals!",2013-11-02,10
+"1873","396648490723315712",2013-11-02 10:42:00,"tsucheta","http://Geni.com->Geneology data can be uploaded.44 million  profiles uploaded into Geni API. Largest pedigree has 13 M #GI2013",2013-11-02,10
+"1874","396648584856076288",2013-11-02 10:42:00,"infoecho","YE, need to convert free text into GPS coordinate, use  Geoparser to get Lat/Long #GI2013",2013-11-02,10
+"1875","396648590753665024",2013-11-02 10:42:00,"genetics_blog","#gi2013 still waiting to see how this will resolve the additive vs epistasis architecture camps...",2013-11-02,10
+"1876","396648598865453056",2013-11-02 10:42:00,"GholsonLyon","RT @genetics_blog: #gi2013 @erlichya how to convert free text location info about residence, birth, death, etc., into GPS coordinates? Yahoo Geoparser",2013-11-02,10
+"1877","396648657732521984",2013-11-02 10:43:00,"genetics_blog","#gi2013 @erlichya huge pedigrees and geodata make for great artwork.",2013-11-02,10
+"1878","396648719182856192",2013-11-02 10:43:00,"benjaminlmoore","Yaniv Erlich (@erlichya) showed a pedigree of 70k individuals... and it's just part of one including 13 million people ! #gi2013",2013-11-02,10
+"1879","396648833905479680",2013-11-02 10:43:00,"iddux","@erlichya used Yahoo! maps to locate the individuals in pedigrees using freetext queries #gi2013",2013-11-02,10
+"1880","396649007725805568",2013-11-02 10:44:00,"infoecho","YE, using ""Longevity as a model"" for the study, get good results for life-span vs. year  #GI2013",2013-11-02,10
+"1881","396649011622723584",2013-11-02 10:44:00,"CelineBon","RT @SaraBallouz: Magsimus and Genomicus in AGORA, a G(r)eek tragedy. #gi2013",2013-11-02,10
+"1882","396649138609475584",2013-11-02 10:44:00,"genetics_blog","#gi2013 @erlichya ok, using this data to replicate previous findings about narrow sense heritability of longevity. calc 17%. lit: 10-33%.",2013-11-02,10
+"1883","396649195374788608",2013-11-02 10:45:00,"infoecho","YE, found ""heritability"" h^2 =17% for life span #GI2013",2013-11-02,10
+"1884","396649228413706240",2013-11-02 10:45:00,"SaraBallouz","Genetic hacking: publicly available data, funky data mining, 13M pedigree, and now genetic studies! #gi2013",2013-11-02,10
+"1885","396649369484525568",2013-11-02 10:45:00,"iddux","@erlichya used his set to look at heritability of longevity. Is longevity an additive or epistatic complex trait? #gi2013",2013-11-02,10
+"1886","396649396303319040",2013-11-02 10:46:00,"genetics_blog","#gi2013 @erlichya n=600k compare longevity difference over genetic similarity to get at additive vs epistasis question.",2013-11-02,10
+"1887","396649461067575296",2013-11-02 10:46:00,"granitehead","RT @pathogenomenick: follow very clever genome bioinformaticians #gi2013",2013-11-02,10
+"1888","396649538880290816",2013-11-02 10:46:00,"Amiacalva","RT @sesejun: Tweets with #gi2013 to be summarized in Chirpstory! http://chirpstory.com/li/167076",2013-11-02,10
+"1889","396649612075094016",2013-11-02 10:46:00,"genetics_blog","#gi2013 @erlichya results: best model of longevity is additive! higher order models were impossible (coefficients negative).",2013-11-02,10
+"1890","396649730400206848",2013-11-02 10:47:00,"infoecho","YE, 600,000 longevity ~ genetic distance to see (1) additive or (2) epistasis, best model fit is k=1 #GI2013",2013-11-02,10
+"1891","396649794539880448",2013-11-02 10:47:00,"genetics_blog","#gi2013 @erlichya but will this additive/no-epistasis finding generalize to other complex diseases? doubtful IMHO",2013-11-02,10
+"1892","396650022688653312",2013-11-02 10:48:00,"infoecho","YE, http://www.FamiLinx.org for the data if you want to do some analysis yourself #GI2013",2013-11-02,10
+"1893","396650030217428992",2013-11-02 10:48:00,"iddux","@erlichya best model of longevity is additive complex trait #gi2013 linear fit.",2013-11-02,10
+"1894","396650040556814336",2013-11-02 10:48:00,"genetics_blog","#gi2013 @erlichya data release: they've released everything for free at http://familinx.org",2013-11-02,10
+"1895","396650048856936448",2013-11-02 10:48:00,"byuhobbes","RT @infoecho: YE, http://www.FamiLinx.org for the data if you want to do some analysis yourself #GI2013",2013-11-02,10
+"1896","396650105140285440",2013-11-02 10:48:00,"byuhobbes","RT @genetics_blog: #gi2013 @erlichya results: best model of longevity is additive! higher order models were impossible (coefficients negative).",2013-11-02,10
+"1897","396650133346992128",2013-11-02 10:48:00,"byuhobbes","RT @genetics_blog: #gi2013 @erlichya but will this additive/no-epistasis finding generalize to other complex diseases? doubtful IMHO",2013-11-02,10
+"1898","396650209742053376",2013-11-02 10:49:00,"tsucheta","Cool http://erlichlab.wi.mit.edu/familinx/ for checking your pedigree #GI2013",2013-11-02,10
+"1899","396650278079852544",2013-11-02 10:49:00,"benjaminlmoore","YE introduces FamiLinx: crowd-sourced genealogy for human genetics http://erlichlab.wi.mit.edu/familinx/ #gi2013",2013-11-02,10
+"1900","396650306580529152",2013-11-02 10:49:00,"GholsonLyon","RT @genetics_blog: #gi2013 @erlichya data release: they've released everything for free at http://familinx.org",2013-11-02,10
+"1901","396650485127450624",2013-11-02 10:50:00,"genetics_blog","Nice morning at CSHL #gi2013 http://t.co/y58NXZjSp0",2013-11-02,10
+"1902","396650768217804800",2013-11-02 10:51:00,"byuhobbes","Q for @erlichya from @iddux about confounding impact of differences between reported pedigree and real pedigree #gi2013",2013-11-02,10
+"1903","396650797758693376",2013-11-02 10:51:00,"SCSanderson","RT @infoecho: I would like to see a panel discussion between Mike Snyder and Eric Schadt. #GI2013",2013-11-02,10
+"1904","396650827433013248",2013-11-02 10:51:00,"infoecho","YE, Q&A, there might be errors in the data (e.g. ""parents"" may not be the biological parents), what is the impact? #GI2013",2013-11-02,10
+"1905","396650894890369024",2013-11-02 10:51:00,"GholsonLyon","RT @byuhobbes: Q for @erlichya from @iddux about confounding impact of differences between reported pedigree and real pedigree #gi2013",2013-11-02,10
+"1906","396651152281845760",2013-11-02 10:52:00,"infoecho","YE, Q&A, does http://geni.com has information the cause of death? A:no detail information #GI2013",2013-11-02,10
+"1907","396651194799906816",2013-11-02 10:53:00,"XiaopingZhao","RT @iddux: @erlichya used Yahoo! maps to locate the individuals in pedigrees using freetext queries #gi2013",2013-11-02,10
+"1908","396651308687454208",2013-11-02 10:53:00,"bioinfosm","Thats a first! RT ""@bffo: Yes, 100% tweetable conference, and a talk that uses twitter by @erlichya #gi2013 http://t.co/ggKX60ST70""",2013-11-02,10
+"1909","396651346403016704",2013-11-02 10:53:00,"aaronquinlan","RT @genetics_blog: #gi2013 @erlichya data release: they've released everything for free at http://familinx.org",2013-11-02,10
+"1910","396651368921849856",2013-11-02 10:53:00,"infoecho","YE, Q&A, how many generations used in the study? A: some of them are more than 10 generations #GI2013",2013-11-02,10
+"1911","396651596597043200",2013-11-02 10:54:00,"infoecho","Bayo Lau, talk about ""Discovering more variants in a human genome—New algorithms applied to longer and less biased reads"" #GI2013",2013-11-02,10
+"1912","396651648904593408",2013-11-02 10:54:00,"markgerstein",".@iddux @erlichya : it's good that the relationship is simple and linear ! #gi2013",2013-11-02,10
+"1913","396651679015526400",2013-11-02 10:55:00,"markgerstein","RT @iddux: @erlichya used his set to look at heritability of longevity. Is longevity an additive or epistatic complex trait? #gi2013",2013-11-02,10
+"1914","396651876457779200",2013-11-02 10:55:00,"infoecho","BL, Mission for individual genome sequence, need low-cost data, improved assembly algorithm, new variant calling algorithm #GI2013",2013-11-02,10
+"1915","396652001070956544",2013-11-02 10:56:00,"WiringTheBrain","RT @genetics_blog: #gi2013 @erlichya but will this additive/no-epistasis finding generalize to other complex diseases? doubtful IMHO",2013-11-02,10
+"1916","396652053688098816",2013-11-02 10:56:00,"infoecho","BL, DISCOVAR algo, correct errors -> from graph -> simplify graph -> assembly/variant call #GI2013",2013-11-02,10
+"1917","396652118477524992",2013-11-02 10:56:00,"GholsonLyon","60x coverage by 250 bp paired reads on Illumina HiSeq2500. #gi2013 DISCOVAR as a de novo assembler.",2013-11-02,10
+"1918","396652200606564352",2013-11-02 10:57:00,"aphillippy","RT @bffo: Yes, 100% tweetable conference, and a talk that uses twitter by @erlichya #gi2013 http://t.co/wqr9qtG71D",2013-11-02,10
+"1919","396652223352299520",2013-11-02 10:57:00,"genetics_blog","#GI2013 DISCOVAR assembler http://www.broadinstitute.org/software/discovar/blog/",2013-11-02,10
+"1920","396652334870056960",2013-11-02 10:57:00,"infoecho","BL shows  assembly graph topology of Rhodobacter sphaeroids #GI2013",2013-11-02,10
+"1921","396652339987505152",2013-11-02 10:57:00,"GholsonLyon","RT @genetics_blog: #GI2013 DISCOVAR assembler http://www.broadinstitute.org/software/discovar/blog/",2013-11-02,10
+"1922","396652373617029120",2013-11-02 10:57:00,"byuhobbes","RT @genetics_blog: #GI2013 DISCOVAR assembler http://www.broadinstitute.org/software/discovar/blog/",2013-11-02,10
+"1923","396652466655076352",2013-11-02 10:58:00,"tuuliel","RT @genetics_blog: #gi2013 How to prioritize/annotate? FunSeq (FUNction based Prioritization of SEQuence Variants) from @markgerstein http://t.co/MNJ4Xh59hj",2013-11-02,10
+"1924","396652746046046208",2013-11-02 10:59:00,"infoecho","ABL, Arabidopsis assembly from DISCOVAR, edge N50 = 66kb, 1 flow cell -> 10 strains,  #GI2013",2013-11-02,10
+"1925","396652757480112128",2013-11-02 10:59:00,"dlhamilton82","RT @genetics_blog: #gi2013 How to prioritize/annotate? FunSeq (FUNction based Prioritization of SEQuence Variants) from @markgerstein http://t.co/MNJ4Xh59hj",2013-11-02,10
+"1926","396652935540899840",2013-11-02 11:00:00,"GholsonLyon","RT @infoecho: ABL, Arabidopsis assembly from DISCOVAR, edge N50 = 66kb, 1 flow cell -> 10 strains,  #GI2013",2013-11-02,11
+"1927","396652948798705664",2013-11-02 11:00:00,"martenson","@erlichya What about mining Facebook for the pedigree data? #gi2013",2013-11-02,11
+"1928","396653163958136832",2013-11-02 11:00:00,"GholsonLyon","NA12878 fosmid libarary, select 100 random clones, seq by Illumina and PacBio for 4 Mb of finished bias free truth set. #GI2013",2013-11-02,11
+"1929","396653194991788032",2013-11-02 11:01:00,"infoecho","BL, Generating an unbiased true set with Illumina & PacBio together for assembly for NA12878 fosmids #GI2013",2013-11-02,11
+"1930","396653222535782400",2013-11-02 11:01:00,"tuuliel","A big headache in analysis of their functional impact MT @GenomeNathan @dgmacarthur laments that all indel-calling, still sucks. #gi2013",2013-11-02,11
+"1931","396653289917669376",2013-11-02 11:01:00,"roy_ronen","@genetics_blog @erlichya small step for longevity, but big leap for additivity..? #gi2013",2013-11-02,11
+"1932","396653402643382272",2013-11-02 11:01:00,"byuhobbes","@martenson @erlichya I don’t know…a lot of missing information, and a lot of 14yo teenage girls listing their BFF as spouse #gi2013",2013-11-02,11
+"1933","396653439603970048",2013-11-02 11:02:00,"iddux","@markgerstein @erlichya  would have liked to see a non-linear relationship too. Epistasis == cool models. #gi2013",2013-11-02,11
+"1934","396653584890081280",2013-11-02 11:02:00,"infoecho","BL, Hard to call, 'novel' SNPs may have lower Ts/Tv ratio #GI2013",2013-11-02,11
+"1935","396653593388146688",2013-11-02 11:02:00,"OmicsOmicsBlog","RT @bioinfosm: Thats a first! RT ""@bffo: Yes, 100% tweetable conference, and a talk that uses twitter by @erlichya #gi2013 http://t.co/ggKX60ST70""",2013-11-02,11
+"1936","396653726901211136",2013-11-02 11:03:00,"OmicsOmicsBlog","RT @genetics_blog: #gi2013 @erlichya how to convert free text location info about residence, birth, death, etc., into GPS coordinates? Yahoo Geoparser",2013-11-02,11
+"1937","396653776347467776",2013-11-02 11:03:00,"infoecho","BL, Ts/Tv won't distinguish btw junk and novel SNPs #GI2013",2013-11-02,11
+"1938","396653876503248896",2013-11-02 11:03:00,"tuuliel","RT @genetics_blog: #gi2013 @dgmacarthur ""to understand a single genome you need to study thousands."" how to simultaneously call variants in 1000s? not easy.",2013-11-02,11
+"1939","396653923299516416",2013-11-02 11:03:00,"FurnoX","RT @genetics_blog: Nice morning at CSHL #gi2013 http://t.co/y58NXZjSp0",2013-11-02,11
+"1940","396654039477153792",2013-11-02 11:04:00,"infoecho","BL, DISCOVAR misses fewer variants #GI2013",2013-11-02,11
+"1941","396654087913353216",2013-11-02 11:04:00,"laxvid","#GI2013 what is the checkout time for the cabins? Is it 1.00pm?",2013-11-02,11
+"1942","396654236483584000",2013-11-02 11:05:00,"GholsonLyon","Fosmid truth set for specificity, thank god. Very much needed.  DISCOVAR misses fewer variants. 6% FN rate compared to 12% w GATK. #GI2013",2013-11-02,11
+"1943","396654555447832576",2013-11-02 11:06:00,"infoecho","BL, ""difficult variants are often clustered"" #GI2013  also cause by Polymerase slippage/simple sequence / Seg. duplication",2013-11-02,11
+"1944","396654626759802880",2013-11-02 11:06:00,"OmicsOmicsBlog","RT @infoecho: WH makes point separating job by chromosome is not 100% idea since they have different sizes, working on improvement #GI2013",2013-11-02,11
+"1945","396654660972736512",2013-11-02 11:06:00,"SaraBallouz","""It's all too (NP) hard"" is never a deterrent at #gi2013",2013-11-02,11
+"1946","396654751049592832",2013-11-02 11:07:00,"GholsonLyon","RT @infoecho: BL, ""difficult variants are often clustered"" #GI2013  also cause by Polymerase slippage/simple sequence / Seg. duplication",2013-11-02,11
+"1947","396654823925620736",2013-11-02 11:07:00,"OmicsOmicsBlog","RT @genetics_blog: #gi2013 @fiamh the installation/dependency hurdle. http://t.co/NoeKdxC4vR",2013-11-02,11
+"1948","396654870708498432",2013-11-02 11:07:00,"GenomeNathan","Lau notes that Nebulin is nebulous. #gi2013 #repeatsrepeats",2013-11-02,11
+"1949","396654942045614080",2013-11-02 11:08:00,"OmicsOmicsBlog","RT @genetics_blog: #gi2013 @mgymrek: typing STRs with NGS not trivial, three-step process. see code https://github.com/whitehead/lobstr-code",2013-11-02,11
+"1950","396654973301166080",2013-11-02 11:08:00,"infoecho","BL shows assembly graph for Nebulin repeats, 99.9% 10kb  identical repeats. For diploid, 6 passes, hard to call  #GI2013",2013-11-02,11
+"1951","396655057506426880",2013-11-02 11:08:00,"markgerstein",".@GholsonLyon Lau: 4mb of gold-standard truth set - a great resource but how typical for the human genome #gi2013",2013-11-02,11
+"1952","396655071032664064",2013-11-02 11:08:00,"GholsonLyon","new data type-- 250 bp reads from a PCR free library. Powerful, cheap and easy to generate. ??? #gi2013",2013-11-02,11
+"1953","396655082160525312",2013-11-02 11:08:00,"GenomeNathan","RT @genetics_blog: #gi2013 @mgymrek: typing STRs with NGS not trivial, three-step process. see code https://github.com/whitehead/lobstr-code",2013-11-02,11
+"1954","396655110908309504",2013-11-02 11:08:00,"FurnoX","RT @GholsonLyon: 60x coverage by 250 bp paired reads on Illumina HiSeq2500. #gi2013 DISCOVAR as a de novo assembler.",2013-11-02,11
+"1955","396655207708233728",2013-11-02 11:09:00,"tsucheta","Discovar is highly accurate for variant calls over GATK, but needs PCR free libraries #GI2013",2013-11-02,11
+"1956","396655252449288192",2013-11-02 11:09:00,"OmicsOmicsBlog","RT @infoecho: repost MG's slide deck for his talk http://archive.gersteinlab.org/mark/out/log/2013/11.02/talk/Integ_Annot_Var_from_1092_App_to_Cancer--20131102-i0gi2013.pdf #GI2013",2013-11-02,11
+"1957","396655413195964416",2013-11-02 11:09:00,"GenomeNathan","RT @infoecho: repost MG's slide deck for his talk http://archive.gersteinlab.org/mark/out/log/2013/11.02/talk/Integ_Annot_Var_from_1092_App_to_Cancer--20131102-i0gi2013.pdf #GI2013",2013-11-02,11
+"1958","396655487368069120",2013-11-02 11:10:00,"OmicsOmicsBlog","RT @genetics_blog: #gi2013 @dgmacarthur ""to understand a single genome you need to study thousands."" how to simultaneously call variants in 1000s? not easy.",2013-11-02,11
+"1959","396655808018382848",2013-11-02 11:11:00,"iddux","@moorejh @erlichya @markgerstein would love to see *any* NIH $$$ nowadays... #gi2013",2013-11-02,11
+"1960","396656191797207040",2013-11-02 11:13:00,"Amiacalva","RT @GholsonLyon: new data type-- 250 bp reads from a PCR free library. Powerful, cheap and easy to generate. ??? #gi2013",2013-11-02,11
+"1961","396656264924897280",2013-11-02 11:13:00,"FurnoX","RT @GholsonLyon: new data type-- 250 bp reads from a PCR free library. Powerful, cheap and easy to generate. ??? #gi2013",2013-11-02,11
+"1962","396656509079146496",2013-11-02 11:14:00,"GholsonLyon","Clarification provided by @dgmacarthur on the cost of this, but not sure if this is public yet?, so will not comment more here. #gi2013",2013-11-02,11
+"1963","396656634258132992",2013-11-02 11:14:00,"infoecho","Kjong-Van Lehmann, ""Causes and consequences of cancer transcriptome variability"" #GI2013",2013-11-02,11
+"1964","396656899162005504",2013-11-02 11:15:00,"infoecho","KVL, Challenges in Cancer Genomics, (1) Large sample size allows trans-associations (2) Heterogeneity and purity of sample #GI2013",2013-11-02,11
+"1965","396656935598325760",2013-11-02 11:15:00,"GholsonLyon","RT @markgerstein: .@GholsonLyon Lau: 4mb of gold-standard truth set - a great resource but how typical for the human genome #gi2013",2013-11-02,11
+"1966","396657147208945664",2013-11-02 11:16:00,"infoecho","KVL, Challenges, continued (3)Germline vs. somatic varians &t (4) High variability and rare variants #GI2013",2013-11-02,11
+"1967","396657252393701376",2013-11-02 11:17:00,"benjaminlmoore","Kjong-Van Lehmann talking analysis time in CPU _years_, don't see that unit every day #gi2013",2013-11-02,11
+"1968","396658032169742336",2013-11-02 11:20:00,"markgerstein","#gi2013 Lehmann: TCGA is 10x Geuvadis in RNAseq data size. Wow! But remapping this is 6 cpu years, var calling is 12 cpu yrs",2013-11-02,11
+"1969","396658076415062016",2013-11-02 11:20:00,"tsucheta","New analysis of human transcripts reveals high alternative splicing events than earlier predicted #GI2013",2013-11-02,11
+"1970","396658146258599936",2013-11-02 11:20:00,"byuhobbes","RT @benjaminlmoore: Kjong-Van Lehmann talking analysis time in CPU _years_, don't see that unit every day #gi2013",2013-11-02,11
+"1971","396658402933604352",2013-11-02 11:21:00,"SaraBallouz","~400TB of data. Is anyone still shocked by the terabyte? Bring on the petabytes!  #reallybigdata #gi2013",2013-11-02,11
+"1972","396658606210166784",2013-11-02 11:22:00,"infoecho","KVL, showing germ line and somatic variants have different PCA that shows cancer specific problem #GI2013",2013-11-02,11
+"1973","396659304226635776",2013-11-02 11:25:00,"markgerstein","RT @SaraBallouz: ~400TB of data. Is anyone still shocked by the terabyte? Bring on the petabytes!  #reallybigdata #gi2013",2013-11-02,11
+"1974","396659579125501952",2013-11-02 11:26:00,"RobAboukhalil","RT @SaraBallouz: ~400TB of data. Is anyone still shocked by the terabyte? Bring on the petabytes!  #reallybigdata #gi2013",2013-11-02,11
+"1975","396659879110533120",2013-11-02 11:27:00,"GENES_PK","RT @genetics_blog: #gi2013 @dgmacarthur ""to understand a single genome you need to study thousands."" how to simultaneously call variants in 1000s? not easy.",2013-11-02,11
+"1976","396660207947763712",2013-11-02 11:28:00,"tsucheta","SQLAddr for finding new alternative splice events #GI2013",2013-11-02,11
+"1977","396660757879738368",2013-11-02 11:31:00,"mgymrek","up next is @roy_ronen! last talk of many great ones at #gi2013",2013-11-02,11
+"1978","396660875618037760",2013-11-02 11:31:00,"erlichya","Next in #GI2013 @roy_ronen on chromic mountain sickness (CMS) in Andes. Starts by describing his tour to the Salar dessert.",2013-11-02,11
+"1979","396661119433322496",2013-11-02 11:32:00,"winhide","RT @iddux: #gi2013 @fiamh on work with  @chapmanb @winhide & others Community development of variant calling pipelines https://t.co/spefIXwYI4",2013-11-02,11
+"1980","396661175007473664",2013-11-02 11:32:00,"infoecho","RR, showing picture making ""salt pile"" on Bolivia, 3800m #GI2013  Mountain sickness, headaches, fatigue weakness, insomnia, dizziness",2013-11-02,11
+"1981","396661395980558336",2013-11-02 11:33:00,"SaraBallouz","RT @mgymrek: up next is @roy_ronen! last talk of many great ones at #gi2013",2013-11-02,11
+"1982","396661487697395712",2013-11-02 11:34:00,"winhide","RT @bffo: Yes, 100% tweetable conference, and a talk that uses twitter by @erlichya #gi2013 http://t.co/wqr9qtG71D",2013-11-02,11
+"1983","396661591321505792",2013-11-02 11:34:00,"infoecho","RR talks about the differences on Acute vs. Chronic Mountain Sickness #GI2013 some examples about positive Darwinian selection",2013-11-02,11
+"1984","396661867721920512",2013-11-02 11:35:00,"infoecho","RR, Andean has more chronic mountain sickness than Peru, Himalaya #GI2013",2013-11-02,11
+"1985","396661902182715392",2013-11-02 11:35:00,"cdeboever","I wonder if @roy_ronen would do worse shoveling salt now at sea level after 3 years of american food and San Diego beer #gi2013",2013-11-02,11
+"1986","396662043287486464",2013-11-02 11:36:00,"gerlach_d","RT @genetics_blog: #gi2013 @fiamh comparison of variant calling pipelines http://bcbio.wordpress.com/2013/10/21/updated-comparison-of-variant-detection-methods-ensemble-freebayes-and-minimal-bam-preparation-pipelines/",2013-11-02,11
+"1987","396662402076274688",2013-11-02 11:37:00,"infoecho","RR, setup, 30x coverage of 20 individual, 10 CMS, 10 non-CMS, using 66 MXL from 1000G as control  #GI2013",2013-11-02,11
+"1988","396662614949777408",2013-11-02 11:38:00,"GholsonLyon",". @notSoJunkDNA @tuuliel Unfortunately, Illumina delayed roll-out of this 250 bp read routinely: http://www.genomeweb.com/sequencing/illumina-launch-1-terabase-hiseq-upgrade-q2-2014-2x250-bp-reads-pushed-mid-2014 #gi2013",2013-11-02,11
+"1989","396662869917331456",2013-11-02 11:39:00,"erlichya","@roy_ronen: whole genome sequencing of few gen. == genotyping a large number of individuals with arrays for selection #gi2013",2013-11-02,11
+"1990","396663558370766848",2013-11-02 11:42:00,"dgmacarthur","Roy Ronen argues that you can get away with fewer individuals for a WGS study than a GWAS study. Erm. #gi2013",2013-11-02,11
+"1991","396663573323055104",2013-11-02 11:42:00,"erlichya","How refreshing! @roy_ronen :we wanted to experimentally validate our positive selection hits.   #gi2013",2013-11-02,11
+"1992","396663581346766848",2013-11-02 11:42:00,"benjaminlmoore","Wonder what % of speakers have a twitter account? And attendees? #gi2013",2013-11-02,11
+"1993","396663604969086976",2013-11-02 11:42:00,"mgymrek","@roy_ronen: we all know that given a list of genes, interesting stories can be told. Need to go further #gi2013",2013-11-02,11
+"1994","396663731239002112",2013-11-02 11:42:00,"infoecho","RT @mgymrek: @roy_ronen: we all know that given a list of genes, interesting stories can be told. Need to go further #gi2013",2013-11-02,11
+"1995","396663789313327104",2013-11-02 11:43:00,"SaraBallouz","RT @dgmacarthur: Roy Ronen argues that you can get away with fewer individuals for a WGS study than a GWAS study. Erm. #gi2013",2013-11-02,11
+"1996","396663893726363648",2013-11-02 11:43:00,"GenomicsD","RT @genetics_blog: #gi2013 @erlichya results: best model of longevity is additive! higher order models were impossible (coefficients negative).",2013-11-02,11
+"1997","396664072617197568",2013-11-02 11:44:00,"chenghlee","Stats eh?? RT @dgmacarthur: Roy Ronen argues that you can get away with fewer individuals for a WGS study than a GWAS study. Erm. #GI2013",2013-11-02,11
+"1998","396664243530903552",2013-11-02 11:44:00,"infoecho","RR, summay: selection of ANP32D, SENP1 in no-CMS, tested using fly model #GI2013",2013-11-02,11
+"1999","396664268969754624",2013-11-02 11:45:00,"SaraBallouz","Whole genome versus arrays. David versus Goliath. Man versus food. Wait, what? #gi2013",2013-11-02,11
+"2000","396664349957181440",2013-11-02 11:45:00,"chenghlee","And soon exabytes! RT @SaraBallouz: ~400TB of data. Is anyone still shocked by the terabyte? Bring on the petabytes!  #reallybigdata #gi2013",2013-11-02,11
+"2001","396664456479920128",2013-11-02 11:45:00,"infoecho","Great conference #GI2013, many good and interesting talks....  it comes to the end now",2013-11-02,11
+"2002","396664672377503744",2013-11-02 11:46:00,"GholsonLyon","Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,11
+"2003","396664847976652800",2013-11-02 11:47:00,"benjaminlmoore","RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,11
+"2004","396664904675233792",2013-11-02 11:47:00,"markgerstein",".@SaraBallouz don't arrays = David ? #gi2013",2013-11-02,11
+"2005","396664962414022656",2013-11-02 11:47:00,"markgerstein","RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,11
+"2006","396665118840594432",2013-11-02 11:48:00,"Han_Fang_","RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,11
+"2007","396665636556111872",2013-11-02 11:50:00,"fiamh","bcbio slides for #gi2013 now also on #figshare at http://figshare.com/articles/Community_Development_of_Validated_Variant_Calling_Pipelines/840461",2013-11-02,11
+"2008","396665750557315072",2013-11-02 11:50:00,"fiamh","RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,11
+"2009","396665810804277248",2013-11-02 11:51:00,"dgmacarthur","RR actually made a stronger argument for benefits of WGS in question time - makes more sense now. #gi2013",2013-11-02,11
+"2010","396665888692510720",2013-11-02 11:51:00,"SaraBallouz","Great meeting, ideas, feedback and tweets! Over and out. #gi2013",2013-11-02,11
+"2011","396665930853675008",2013-11-02 11:51:00,"aaronquinlan","RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,11
+"2012","396666219715395584",2013-11-02 11:52:00,"WClarke30","RT @genetics_blog: #gi2013 @dgmacarthur ""to understand a single genome you need to study thousands."" how to simultaneously call variants in 1000s? not easy.",2013-11-02,11
+"2013","396666800517439488",2013-11-02 11:55:00,"cdeboever","Found a ""cryptocard"" authentication token on the floor at #gi2013 anyone lose one? I'm giving it to the desk downstairs",2013-11-02,11
+"2014","396667033259376640",2013-11-02 11:56:00,"kmborgwardt","RT @genetics_blog: #gi2013 How to prioritize/annotate? FunSeq (FUNction based Prioritization of SEQuence Variants) from @markgerstein http://t.co/MNJ4Xh59hj",2013-11-02,11
+"2015","396667612438216704",2013-11-02 11:58:00,"RobAboukhalil","RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,11
+"2016","396668935074246656",2013-11-02 12:03:00,"BigPupazzoBlu","RT @byuhobbes: @dgmacarthur Big issue: solving the N+1 problem; not going to reproduce huge analysis just for 1 more data point #gi2013",2013-11-02,12
+"2017","396677319714410496",2013-11-02 12:36:00,"cdeboever","nice talks @roy_ronen & @mgymrek. I thought today's session was really good #gi2013",2013-11-02,12
+"2018","396682438488760320",2013-11-02 12:57:00,"nldowell","RT @genetics_blog: #GI2013 direct link to @markgerstein's slides from today (PDF): http://archive.gersteinlab.org/mark/out/log/2013/11.02/talk/Integ_Annot_Var_from_1092_App_to_Cancer--20131102-i0gi2013.pdf",2013-11-02,12
+"2019","396684173349752832",2013-11-02 13:04:00,"nlbigas","RT @markgerstein: Posting my #gi2013 talk: Integrative Annotation of Variants from 1092 Humans: Application to #Cancer #Genomics http://t.co/FJB59Vjgfo",2013-11-02,13
+"2020","396684805154152448",2013-11-02 13:06:00,"byuhobbes","RT @bffo: Yes, 100% tweetable conference, and a talk that uses twitter by @erlichya #gi2013 http://t.co/wqr9qtG71D",2013-11-02,13
+"2021","396685139524067328",2013-11-02 13:08:00,"technophilicmag","Thanks to organizers and speakers for this awesome conference! #GI2013 @mike_schatz @jxtx #JenniferHarrow",2013-11-02,13
+"2022","396685206700060672",2013-11-02 13:08:00,"technophilicmag","And thanks to @infoecho @byuhobbes @genetics_blog @SahaSurya @iddux @SaraBallouz @GholsonLyon @Oli_viajera & others for tweeting! #GI2013",2013-11-02,13
+"2023","396687118702874624",2013-11-02 13:15:00,"byuhobbes","RT @technophilicmag: Thanks to organizers and speakers for this awesome conference! #GI2013 @mike_schatz @jxtx #JenniferHarrow",2013-11-02,13
+"2024","396687565069512704",2013-11-02 13:17:00,"ekta_khurana","RT @markgerstein: #gi2013 Lehmann: TCGA is 10x Geuvadis in RNAseq data size. Wow! But remapping this is 6 cpu years, var calling is 12 cpu yrs",2013-11-02,13
+"2025","396691787743776768",2013-11-02 13:34:00,"iddux","RT @fiamh: bcbio slides for #gi2013 now also on #figshare at http://figshare.com/articles/Community_Development_of_Validated_Variant_Calling_Pipelines/840461",2013-11-02,13
+"2026","396703601990828032",2013-11-02 14:21:00,"KristaTernus","RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,14
+"2027","396709295586549760",2013-11-02 14:44:00,"Yvan2935","RT @genetics_blog: If you're happy using SQL, you'll love using https://github.com/arq5x/gemini #gi2013",2013-11-02,14
+"2028","396710382175535104",2013-11-02 14:48:00,"KristaTernus","I enjoyed meeting so many cool people at #gi2013!",2013-11-02,14
+"2029","396710994275483648",2013-11-02 14:50:00,"ehafen","RT @GholsonLyon: hearing from @dgmacarthur about large-scale exome data from 57K ppl, which is indeed an awesome resource. #GI2013",2013-11-02,14
+"2030","396711048197468160",2013-11-02 14:50:00,"Yvan2935","RT @genetics_blog: #GI2013 LP demanded that we tweet this: CPM, RPKM, FPKM, TPM? None of these are the same, not methods for quantifying expression, UNITS",2013-11-02,14
+"2031","396711465832693760",2013-11-02 14:52:00,"Yvan2935","RT @genetics_blog: #gi2013 @dgmacarthur: to get this working, took 750 TB raw data, 150k cpu hrs, 64GB ram, 12 mos engineering. not trivial.",2013-11-02,14
+"2032","396711517917552640",2013-11-02 14:52:00,"Yvan2935","RT @genetics_blog: #gi2013 @dgmacarthur the N+1 problem: can't do entire recompute when add 1 sample. GATK haplotypecaller, joint-calling at VCF level, not bam",2013-11-02,14
+"2033","396715007351992320",2013-11-02 15:06:00,"nnutter","I love the fall!  This is just outside the auditorium at #GI2013 http://t.co/qamYDthml1",2013-11-02,15
+"2034","396715270464884736",2013-11-02 15:07:00,"nnutter","And here’s the harbor/bay at #GI2013 http://t.co/K1UlDxQexL",2013-11-02,15
+"2035","396723259615768576",2013-11-02 15:39:00,"tgarretson82","RT @iddux: Dance of the ribosomes #gi2013 @cshlmeetings http://t.co/MTMJrAqo5z",2013-11-02,15
+"2036","396724634667610112",2013-11-02 15:44:00,"rtraborn","V. cool: CSHL’s campus has biologically-themed sculptures // RT @iddux: Dance of the ribosomes #gi2013 @cshlmeetings http://t.co/RfjiaSj2ci",2013-11-02,15
+"2037","396730695156256768",2013-11-02 16:09:00,"CodersCrowd","RT @genetics_blog #gi2013 @fiamh @winhide @RoryKirchner @chapmanb: community development of variant calling pipelines http://ow.ly/qqJhb",2013-11-02,16
+"2038","396730696355835904",2013-11-02 16:09:00,"radaniba","RT @genetics_blog #gi2013 @fiamh @winhide @RoryKirchner @chapmanb: community development of variant calling pipelines http://ow.ly/qqJhb",2013-11-02,16
+"2039","396733833971658752",2013-11-02 16:21:00,"JChrisPires","RT @genetics_blog: #gi2013 @fiamh how to scale variant detection? http://bcbio.wordpress.com/2013/05/22/scaling-variant-detection-pipelines-for-whole-genome-sequencing-analysis/",2013-11-02,16
+"2040","396734777132199936",2013-11-02 16:25:00,"roy_ronen","@cdeboever  I guarantee it. That's why I emphasized 'younger' @roy_ronen was there! Meanwhile, #phdbelly became a serious obstacle #gi2013",2013-11-02,16
+"2041","396737762239324160",2013-11-02 16:37:00,"dntse","I left a notebook on far right of front row of auditorium this morning. If someone picked it up, please email dnctse@gmail.com. Thx.#gi2013",2013-11-02,16
+"2042","396737825569505280",2013-11-02 16:37:00,"GenomeNathan","RT @bffo: Yes, 100% tweetable conference, and a talk that uses twitter by @erlichya #gi2013 http://t.co/wqr9qtG71D",2013-11-02,16
+"2043","396740143542829056",2013-11-02 16:46:00,"roy_ronen","RT @erlichya: Next in #GI2013 @roy_ronen on chromic mountain sickness (CMS) in Andes. Starts by describing his tour to the Salar dessert.",2013-11-02,16
+"2044","396745153110872064",2013-11-02 17:06:00,"SahaSurya","+1000 RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,17
+"2045","396747817521524736",2013-11-02 17:17:00,"mike_schatz","@SahaSurya @GholsonLyon the credit goes to all the scientists that shared their fascinating stories with us. Thank you #gi2013",2013-11-02,17
+"2046","396748333936816128",2013-11-02 17:19:00,"SahaSurya","Thanks to fellow tweeters http://www.technophilicmag.com/genomeinformatics/ for interactions and making #GI2013 one of the most tweeted #bioinformatics meetings",2013-11-02,17
+"2047","396748849324109824",2013-11-02 17:21:00,"roy_ronen","RT @dgmacarthur: RR actually made a stronger argument for benefits of WGS in question time - makes more sense now. #gi2013",2013-11-02,17
+"2048","396749934063792128",2013-11-02 17:25:00,"ekta_khurana","RT @genetics_blog: #GI2013 direct link to @markgerstein's slides from today (PDF): http://archive.gersteinlab.org/mark/out/log/2013/11.02/talk/Integ_Annot_Var_from_1092_App_to_Cancer--20131102-i0gi2013.pdf",2013-11-02,17
+"2049","396750143321800704",2013-11-02 17:26:00,"ekta_khurana","RT @genetics_blog: #gi2013 How to prioritize/annotate? FunSeq (FUNction based Prioritization of SEQuence Variants) from @markgerstein http://t.co/MNJ4Xh59hj",2013-11-02,17
+"2050","396752296865824768",2013-11-02 17:34:00,"mike_schatz","And thanks to everyone posting on #gi2013. The online discussions really added to the meeting http://t.co/uCXMx7LtGC",2013-11-02,17
+"2051","396752910387662848",2013-11-02 17:37:00,"BioinfoTools","RT @mike_schatz: And thanks to everyone posting on #gi2013. The online discussions really added to the meeting http://t.co/uCXMx7LtGC",2013-11-02,17
+"2052","396761590282067968",2013-11-02 18:11:00,"laxvid","#GI2013 back home after a great meeting.made a lot of new friends, met some old ones and ideas galore!",2013-11-02,18
+"2053","396765512505769984",2013-11-02 18:27:00,"mt_ur_mind","RT @infoecho: YE, need to convert free text into GPS coordinate, use  Geoparser to get Lat/Long #GI2013",2013-11-02,18
+"2054","396767109989928960",2013-11-02 18:33:00,"nextgenseek","RT @mike_schatz: And thanks to everyone posting on #gi2013. The online discussions really added to the meeting http://t.co/uCXMx7LtGC",2013-11-02,18
+"2055","396767881871908864",2013-11-02 18:36:00,"nextgenseek","Stories from the Supplement. New blog post from @lpachter: http://wp.me/pRx4V-hI #gi2013",2013-11-02,18
+"2056","396768237204959232",2013-11-02 18:38:00,"evolvability","RT @mike_schatz: And thanks to everyone posting on #gi2013. The online discussions really added to the meeting http://t.co/uCXMx7LtGC",2013-11-02,18
+"2057","396779578490097664",2013-11-02 19:23:00,"SahaSurya","RT @lpachter: Stories from the Supplement http://wp.me/pRx4V-hI #GI2013 #bioinformatics #rnaseq",2013-11-02,19
+"2058","396779755246481408",2013-11-02 19:24:00,"SahaSurya","RT @mike_schatz: And thanks to everyone posting on #gi2013. The online discussions really added to the meeting http://t.co/uCXMx7LtGC",2013-11-02,19
+"2059","396795107145314304",2013-11-02 20:25:00,"Awesomics","RT @markgerstein: Posting my #gi2013 talk: Integrative Annotation of Variants from 1092 Humans: Application to #Cancer #Genomics http://t.co/FJB59Vjgfo",2013-11-02,20
+"2060","396797711732580352",2013-11-02 20:35:00,"GenomeNathan","The Genome Hacker. @erlichya conjures 13 million spirits at #gi2013 #cshl http://t.co/KUXzihmNPg",2013-11-02,20
+"2061","396800447031566336",2013-11-02 20:46:00,"tuuliel","RT @GenomeNathan: The Genome Hacker. @erlichya conjures 13 million spirits at #gi2013 #cshl http://t.co/KUXzihmNPg",2013-11-02,20
+"2062","396800471438213120",2013-11-02 20:46:00,"mike_schatz","@lpachter thanks for sharing the slides and a fantastic keynote! #gi2013",2013-11-02,20
+"2063","396801356914495488",2013-11-02 20:49:00,"mike_schatz","@lpachter I might be able to help in about a month. Building the world's fastest platform for Cufflinks and much more for @DOEKBase #gi2013",2013-11-02,20
+"2064","396801715657138176",2013-11-02 20:51:00,"GenomeNathan","13 million shades of gray: @erlichya holds forth at #gi2013 in more sober professorial tones (NB tweet yeslist) #cshl http://t.co/TdXbXJJ3MO",2013-11-02,20
+"2065","396802780780056576",2013-11-02 20:55:00,"erlichya","RT @GenomeNathan: 13 million shades of gray: @erlichya holds forth at #gi2013 in more sober professorial tones (NB tweet yeslist) #cshl http://t.co/TdXbXJJ3MO",2013-11-02,20
+"2066","396802899176873984",2013-11-02 20:55:00,"erlichya","RT @GenomeNathan: The Genome Hacker. @erlichya conjures 13 million spirits at #gi2013 #cshl http://t.co/KUXzihmNPg",2013-11-02,20
+"2067","396803322885464064",2013-11-02 20:57:00,"infoecho","RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,20
+"2068","396804061179432960",2013-11-02 21:00:00,"GenomeNathan","RT @GholsonLyon: Thanks to @mike_schatz and other organizers for this awesome meeting here at CSHL. Great stuff! #gi2013",2013-11-02,21
+"2069","396808968628371456",2013-11-02 21:20:00,"alon_goren","RT @GenomeNathan: The Genome Hacker. @erlichya conjures 13 million spirits at #gi2013 #cshl http://t.co/KUXzihmNPg",2013-11-02,21
+"2070","396810387682631680",2013-11-02 21:25:00,"nextgenseek","RT @GenomeNathan: The Genome Hacker. @erlichya conjures 13 million spirits at #gi2013 #cshl http://t.co/KUXzihmNPg",2013-11-02,21
+"2071","396811691293700096",2013-11-02 21:30:00,"GholsonLyon","RT @nextgenseek: Stories from the Supplement. New blog post from @lpachter: http://wp.me/pRx4V-hI #gi2013",2013-11-02,21
+"2072","396812864712757248",2013-11-02 21:35:00,"brigittegs","RT @genetics_blog: #gi2013 @erlichya data release: they've released everything for free at http://familinx.org",2013-11-02,21
+"2073","396813002529193984",2013-11-02 21:36:00,"brigittegs","RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.",2013-11-02,21
+"2074","396813329647153152",2013-11-02 21:37:00,"mgymrek","RT @GenomeNathan: 13 million shades of gray: @erlichya holds forth at #gi2013 in more sober professorial tones (NB tweet yeslist) #cshl http://t.co/TdXbXJJ3MO",2013-11-02,21
+"2075","396814217887891456",2013-11-02 21:40:00,"nomad421","“@mike_schatz: @lpachter thanks for sharing the slides and a fantastic keynote! #gi2013” Excellent keynote indeed!",2013-11-02,21
+"2076","396816437756432384",2013-11-02 21:49:00,"copypasteusa","RT @StevenSalzberg1: #gi2013 Mike Snyder sequenced same genome twice at 60X and only 94% of the variants agreed.  Good lesson on reproducibility and seq. acc.",2013-11-02,21
+"2077","396817251439226880",2013-11-02 21:52:00,"laxvid","RT @nextgenseek: Stories from the Supplement. New blog post from @lpachter: http://wp.me/pRx4V-hI #gi2013",2013-11-02,21
+"2078","396819929967505408",2013-11-02 22:03:00,"ongenetics","I missed #gi2013 but want to thank all who made me feel that I was at least learning about the most significant results second hand. Thanks!",2013-11-02,22
+"2079","396824308527284224",2013-11-02 22:21:00,"ongenetics","Some blogs I was alerted to by #gi2013 tweets: http://bcbio.wordpress.com/ http://liorpachter.wordpress.com/ http://gettinggeneticsdone.blogspot.com/",2013-11-02,22
+"2080","396840565389946880",2013-11-02 23:25:00,"winhide","RT @fiamh: bcbio community variant calling #gi2013 also on #figshare at http://flip.it/HIqRz",2013-11-02,23
+"2081","396841297644109824",2013-11-02 23:28:00,"winhide","RT @fiamh: Slides and links for the #gi2013 talk on bcbio.nextgen by @chapmanb and @RoryKirchner at http://flip.it/5lUxd",2013-11-02,23
