@@ -2097,3 +2097,42 @@
 396981199199281152  Nov  3 07:44  @maxal6           RT "@homolog_us: A Tale of Two 'Peer Reviewed' Papers (http://www.homolog.us/blogs/blog/2013/11/02/tale-two-peer-reviewed-papers/)" #GI2013
 396989879323602946  Nov  3 08:18  @asela_1          RT @genetics_blog: Speed and accuracy aside, as a quantitation tool, Sailfish has a pretty clever logo #gi2013 http://t.co/gmaDq19tS5
 396990527196782594  Nov  3 08:21  @asela_1          RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics
+397007134057316352  Nov  3 09:27  @infoecho         RT @SahaSurya: Thanks to fellow tweeters http://www.technophilicmag.com/genomeinformatics/ for interactions and making #GI2013 one of the most tweeted #bioinformatics meetings
+397008365026816000  Nov  3 09:32  @genomicsLabIICB  RT @tsucheta: SQLAddr for finding new alternative splice events #GI2013
+397008399571099649  Nov  3 09:32  @genomicsLabIICB  RT @tsucheta: New analysis of human transcripts reveals high alternative splicing events than earlier predicted #GI2013
+397008423424118784  Nov  3 09:32  @genomicsLabIICB  RT @tsucheta: Discovar is highly accurate for variant calls over GATK, but needs PCR free libraries #GI2013
+397008452557746176  Nov  3 09:32  @genomicsLabIICB  RT @tsucheta: Cool http://erlichlab.wi.mit.edu/familinx/ for checking your pedigree #GI2013
+397008512947322880  Nov  3 09:33  @genomicsLabIICB  RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+397008553082642432  Nov  3 09:33  @genomicsLabIICB  RT @tsucheta: What a meeting!! WiIl take sometime for me to absorb all the information #GI2013
+397008566281715712  Nov  3 09:33  @infoecho         Nice to meet many bioinformaticists/scientists/tweeter in #GI2013 Looking forward to meeting you next time somewhere.  Thanks @mike_schatz 2
+397008611723214849  Nov  3 09:33  @genomicsLabIICB  RT @tsucheta: Chromatin marks are highly heritable #GI2013
+397008662289735680  Nov  3 09:33  @genomicsLabIICB  RT @tsucheta: Short NATs(Natural Antisense Transcript) have T rich regions and vice versa #GI2013
+397008688588001280  Nov  3 09:33  @genomicsLabIICB  RT @tsucheta: Towards the middle of the coding region there is a strong  bias towards T rather than any other base #GI2013
+397008718636023808  Nov  3 09:33  @genomicsLabIICB  RT @tsucheta: 50% LncRNAs are coming from enhancers.75% of these enhancers elements overlap with H3K4me3 peaks #GI2013
+397008755281633280  Nov  3 09:33  @genomicsLabIICB  RT @tsucheta: continued..related to current environmental changes #GI2013
+397008808234713089  Nov  3 09:34  @genomicsLabIICB  RT @tsucheta: Bisulfighter: accurate detection of methylated cytosines and differentially methylated regions http://epigenome.cbrc.jp/bisulfighter #GI2013
+397008826484150272  Nov  3 09:34  @genomicsLabIICB  RT @tsucheta: Methylated region will get higher c->T ratio than  unmethylated region. #GI2013
+397008880032837633  Nov  3 09:34  @genomicsLabIICB  RT @tsucheta: EVoPrinter : In silico identification of Evolutionary resilient DNA : http://evoprinter.ninds.nih.gov/ #GI2013
+397008897258844161  Nov  3 09:34  @genomicsLabIICB  RT @tsucheta: Repeat elements represent the signature sequences in enhancers. #GI2013
+397008929169084416  Nov  3 09:34  @genomicsLabIICB  RT @tsucheta: Neurons enriched  for mCH methylation glia depleted. #GI2013
+397008948060250112  Nov  3 09:34  @genomicsLabIICB  RT @tsucheta: mCH stands for non CHmethylation where H isanything but G.mCH accumulates during synaptogenesis #GI2013
+397008969035960321  Nov  3 09:34  @genomicsLabIICB  RT @tsucheta: Genic mCH in brain inversely co-related with gene expression #GI2013
+397009466593251328  Nov  3 09:36  @genomicsLabIICB  Kraken comes with faster and mini versions with lower memory footprint and reduced sensitivity. Available at http://ccb.jhu.edu/software/kraken/ #gi2013
+397009492107612161  Nov  3 09:36  @genomicsLabIICB  RT @tsucheta: Kraken:A pipeline for metagomic data analysis #GI2013
+397009509010669568  Nov  3 09:36  @genomicsLabIICB  RT @tsucheta: Hourglass behaviour also occurs within the same organism #GI2013
+397009527293612032  Nov  3 09:37  @genomicsLabIICB  RT @tsucheta: Hourglass behavior: All organisms go through a stage where expression difference between the genes are the smallest #GI2013
+397009547619213312  Nov  3 09:37  @genomicsLabIICB  RT @tsucheta: Rate of recombination increases in telomeres and so also the GC content #GI2013
+397009809784176641  Nov  3 09:38  @genomicsLabIICB  RT @tsucheta: Agora :A tool for gene order reconstruction in ancestors #GI2013
+397009937580044288  Nov  3 09:38  @genomicsLabIICB  @tsucheta However Gene structure of LincRNAs are not conserved. #GI2013
+397010040726372352  Nov  3 09:39  @genomicsLabIICB  @tsucheta LincRNA have a rapidly decaying orthology. Orthologoues LincRNAs preserve their tissue specificity #GI2013
+397010150386454529  Nov  3 09:39  @genomicsLabIICB  @tsucheta Reconstruction of ancestral genomes using MGRA2 - still under active development. http://mgra.bioinf.spbau.ru #GI2013
+397010270486155264  Nov  3 09:39  @genomicsLabIICB  @tsucheta Another great talk on detecting evolution of non-coding ergions by Jian Ma #GI2013
+397010391273721856  Nov  3 09:40  @genomicsLabIICB  @tsucheta Abundance correction is higher than cufflink CEM, IsoLasso; Traph using Bayesembler #GI2013
+397010539995332608  Nov  3 09:41  @genomicsLabIICB  @tsucheta Probablistic Transcriptome assembly using Bayesembler available at http://bayesembler.binf.ku.dk Jonas Sibbense #GI2013
+397010681133666304  Nov  3 09:41  @genomicsLabIICB  @tsucheta Sailfish - A new RNAseq expression estimation using Rapid alignment.Memory usageLow #GI2013
+397010901921837056  Nov  3 09:42  @genomicsLabIICB  @tsucheta LINE1 are upregulated in replicative senescence in humans Nicola Neretti #GI2013
+397011030678585344  Nov  3 09:43  @genomicsLabIICB  @tsucheta all significant BNS motifs are enriched in CLIP but not vice versa. CLIP has higher false positives? #GI2013 Chris Burge
+397011157715664896  Nov  3 09:43  @genomicsLabIICB  @tsucheta Motif enrichment using RBNS #GI2013
+397011304201719809  Nov  3 09:44  @genomicsLabIICB  @tsucheta RNA Bind-n-seq (RBNS) for RNAprotiein interaction #GI2013 Chris Burge
+397011446904532993  Nov  3 09:44  @genomicsLabIICB  @tsucheta ICE-seq for RNA editing- Ali Mortazavi #GI2013 #coldspringharbour
+397011576953110528  Nov  3 09:45  @genomicsLabIICB  @tsucheta L critical is the length of transcript below which transcript reconstruction is impossible- Kannan #GI2013 #coldspring
