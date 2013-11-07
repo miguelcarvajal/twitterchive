@@ -5098,6 +5098,7 @@
 396136778983538688  Nov  1 00:49  @withbioinformat  : http://www.rna-seqblog.com/technology/methods/data-analysis/expression-tools/benchmarking-rna-seq-quantification-tools/
 396149155045076992  Nov  1 01:38  @educhicano       #proteomics: "Proteogenomic Database Construction Driven from Large Scale RNA-seq Data" http://ift.tt/17CI0Mb
 396154935076605952  Nov  1 02:01  @windowmoon       @kusege_tawashy trinityはRNA-seq用なんで、de novo目的なら要らないのでは。
+396164580742672384  Nov  1 02:39  @rnomics          CT @rnomics/bioinfo BioTechniques - "Seq"ing SNPs in #RNA Data: http://biotechniques.com A new computational... http://bit.ly/1aLdMdH @MyEN
 396182494338220032  Nov  1 03:50  @bio_impact       【Bioimpact PR】 Strand-SpecificなRNA-Seq解析を早く、簡単に！ 【 SMARTer Stranded RNA-Seq Kit 】■ クロンテックMail News:           ... http://bit.ly/1ct1YOg
 396220567545970688  Nov  1 06:21  @josembecerra     RT @genetics_blog: Looking fwd to Rob Patro's talk about Sailfish for RNA-seq. See @nextgenseek's blog post about the software http://t.co/bsReI2XzqW #gi2013
 396268210322149376  Nov  1 09:31  @LeucineRichBio   New RNA-Seq Pathway and Gene-set Analysis Workflows in R/Bioconductor http://www.rna-seqblog.com/new-rna-seq-pathway-and-gene-set-analysis-workflows-in-rbioconductor/
@@ -5208,6 +5209,8 @@
 396982666840780800  Nov  3 07:50  @DaleYuzuki       Mason = good guy RT @mason_lab: Combined RNA-seq and WGS on Chernobyl patients finds new genetic drivers | Cornell  http://weill.cornell.edu/news/deans/2013/11_01_13.shtml
 396990527196782594  Nov  3 08:21  @asela_1          RT @genetics_blog: Blog post I wrote about LP's software for RNA-seq diff expr: http://gettinggeneticsdone.blogspot.com/2013/10/realtime-sreaming-rnaseq-analysis-with-express.html #gi2013 #bioinformatics
 397008512947322880  Nov  3 09:33  @genomicsLabIICB  RT @ldemare: Pachter: FPKM is experiment-dependent; proportionality constant changes -- not best way to measure RNA-seq #gi2013
+397011304201719809  Nov  3 09:44  @genomicsLabIICB  @tsucheta RNA Bind-n-seq (RBNS) for RNAprotiein interaction #GI2013 Chris Burge
+397011446904532993  Nov  3 09:44  @genomicsLabIICB  @tsucheta ICE-seq for RNA editing- Ali Mortazavi #GI2013 #coldspringharbour
 397019109348876289  Nov  3 10:15  @OmicsOmicsBlog   RT @DaleYuzuki: Mason = good guy RT @mason_lab: Combined RNA-seq and WGS on Chernobyl patients finds new genetic drivers | Cornell  http://t.co/x3d0IR07It
 397037731177848833  Nov  3 11:29  @rahman_nazneen   Jones: British Columbia study of 30 patients with rare cancers, unknown primary. Get WGS+RNA seq in 6 wks to impact treatment. #EMBLCanGen
 397126253452328960  Nov  3 17:20  @lpachter         NanoString counts and RNA-seq RPKMs ranged from 0.34 for Transomics to 0.68 for Cufflinks
@@ -5372,3 +5375,11 @@
 398165439496200192  Nov  6 14:10  @Fish_Genomics    RNA-Seq is not so easy after all... http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2714.html
 398165487043227648  Nov  6 14:10  @DaleYuzuki       Systematic evaluation of spliced alignment programs for RNA-seq data ($) Nature Methods http://ow.ly/26IVWK
 398170781685133312  Nov  6 14:31  @nikhilgopal      Assessment of transcript reconstruction methods for RNA-seq http://ift.tt/1grUf7W
+398183387544178689  Nov  6 15:21  @qygipojokigo     RT @juqilyxibinu: выступил с презентацией по RNA-Seq pipeline. уфф.. волнительно это все как-то..
+398190013416218624  Nov  6 15:47  @DrAlexFord       RT @Fish_Genomics: RNA-Seq is not so easy after all... http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2714.html
+398190635653824512  Nov  6 15:50  @difohagigol      RT @juqilyxibinu: выступил с презентацией по RNA-Seq pipeline. уфф.. волнительно это все как-то..
+398196114429861888  Nov  6 16:12  @jjmerkin         RT @notSoJunkDNA: Time Series Expression Analyses Using RNA-seq: A Statistical Approach http://www.hindawi.com/journals/bmri/2013/203681/ (via #lasttweet) #OA
+398217462090829824  Nov  6 17:36  @ziqynexehil      RT @juqilyxibinu: выступил с презентацией по RNA-Seq pipeline. уфф.. волнительно это все как-то..
+398234180804673536  Nov  6 18:43  @lucventurini     RT @notSoJunkDNA: Nice collection of tools for RNA-Seq analyses http://wiki.bits.vib.be/index.php/RNAseq_toolbox (vie @dbetel). And don't tell me it's missing one: I don't care!
+398247286440218624  Nov  6 19:35  @nikhilgopal      Systematic evaluation of spliced alignment programs for RNA-seq data http://ift.tt/1bZUuSb
+398259927636262912  Nov  6 20:25  @WINTERGENOMICS   Ensamble de novo, RNA-seq, resecuenciación y más #ServiciosWinter
