@@ -5709,3 +5709,10 @@
 401339056988360704  Nov 15 08:21  @LeucineRichBio   Assessment of transcript reconstruction methods for RNA-seq. http://www.ncbi.nlm.nih.gov/pubmed/24185837?dopt=Abstract
 401342264934277121  Nov 15 08:33  @razoralign       RiSER: Evaluation of Alignment Algorithms for Discovery and Identification of Pathogens Using RNA-Seq: http://www.plosone.org/article/info:doi/10.1371/journal.pone.0076935;jsessionid=4F06912EF934DA03547F7931C10D44EF
 401343182522163201  Nov 15 08:37  @razoralign       RiSER a realistic RNA-Seq simulation, evaluate aligners, BLAST, BLAT, BWA, BWA-SW, BWA-MEM, BFAST, SHRiMP2, Bowtie2, GSNAP, Novoaligna, STAR
+401360518445006848  Nov 15 09:46  @LeucineRichBio   Systematic evaluation of spliced alignment programs for RNA-seq data. http://www.ncbi.nlm.nih.gov/pubmed/24185836?dopt=Abstract
+401373622297583616  Nov 15 10:38  @anamika13        RT @assemblathon: Nature Methods has two articles that assess RNA-seq analysis methods http://buff.ly/1bkQ5HK http://buff.ly/1boY1vh
+401383961198604288  Nov 15 11:19  @ispiyou          @SnarkyScientist Yes a lot of people are interested but you carries out RNA-Seq already no? you do not say much in SE paper about the RNA?
+401388121595457536  Nov 15 11:36  @ctitusbrown      #satemls Formal language theory & comp ling => math tools for seq analysis: gene structure, folding/RNA, evo distance, cell processes
+401388594725945344  Nov 15 11:37  @muellerwHH       RT @ctitusbrown: #satemls Formal language theory & comp ling => math tools for seq analysis: gene structure, folding/RNA, evo distance, cell processes
+401426688736653312  Nov 15 14:09  @naturemethods    Stephen Quake responds to @lpachter blog post "Zero-cell RNA-Seq" about @naturemethods paper http://bit.ly/1hLMfQT @nextgenseek
+401431247836434433  Nov 15 14:27  @nextgenseek      MT "@naturemethods: Stephen Quake responds to @lpachter's Zero-cell RNA-Seq' about @naturemethods paper http://bit.ly/1hLMfQT @nextgenseek”
