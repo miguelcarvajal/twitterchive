@@ -5751,3 +5751,5 @@
 402102995913277440  Nov 17 10:56  @ElementoLab      RT @lpachter: Zero-cell RNA-Seq http://wp.me/pRx4V-h1
 402107210811310080  Nov 17 11:13  @GeneQuan         RT @Integromics: Microarray, RNA-seq, qPCR … data integration is one of the biggest challenges in genomics research. Overcome it! http://t.co/in48cNdO6m
 402128869999665152  Nov 17 12:39  @muktichowkwale   RT @genetics_blog: Evaluation of Alignment Algorithms for Discovery and Identification of Pathogens Using RNA-Seq http://www.plosone.org/article/info:doi/10.1371/journal.pone.0076935;jsessionid=4F06912EF934DA03547F7931C10D44EF #bioinformatics
+402168937518866433  Nov 17 15:18  @torfinnnome      "Systematic evaluation of spliced alignment programs for RNA-seq data" #bioinformatics http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2722.html
+402234515101188096  Nov 17 19:39  @YoshiKawahara    同じサンプルを複数のラボでRNA-Seqしてみたら・・という論文。ちゃんと解析すれば（←これが重要なのだが）Biologicalなものに比べ、Technicalな variationはかなり小さい。http://www.nature.com/nbt/journal/v31/n11/full/nbt.2702.html
