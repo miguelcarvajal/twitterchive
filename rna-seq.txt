@@ -5755,3 +5755,11 @@
 402234515101188096  Nov 17 19:39  @YoshiKawahara    同じサンプルを複数のラボでRNA-Seqしてみたら・・という論文。ちゃんと解析すれば（←これが重要なのだが）Biologicalなものに比べ、Technicalな variationはかなり小さい。http://www.nature.com/nbt/journal/v31/n11/full/nbt.2702.html
 402271632309227521  Nov 17 22:06  @shignak          RT @YoshiKawahara: 同じサンプルを複数のラボでRNA-Seqしてみたら・・という論文。ちゃんと解析すれば（←これが重要なのだが）Biologicalなものに比べ、Technicalな variationはかなり小さい。http://www.nature.com/nbt/journal/v31/n11/full/nbt.2702.html
 402339650229899264  Nov 18 02:37  @rabu_massu       Ribosome profiling, RNA-seq....then applied and comparitive genomics...vaccines and what not...ASDOUHASOUDHOUAHSD AND THAT'S ONLY GENOMICS
+402383271473848320  Nov 18 05:30  @imohorianu       Design of RNA splicing analysis null models for post hoc filtering of Drosophila head RNA-Seq data http://www.biomedcentral.com/1471-2105/14/320/abstract #bmcbioinformatics
+402383588827488256  Nov 18 05:31  @imohorianu       Finding the active genes in deep RNA-seq gene expression studies http://www.biomedcentral.com/1471-2164/14/778/abstract #bmcgenomics
+402398981210120192  Nov 18 06:32  @yokofakun        updated my Makefile-based RNA-Seq  workflow. Now handling cuffdiff. 24 samples. http://t.co/HelnmhSdrh
+402408300958216192  Nov 18 07:09  @Yvan2935         RT @yokofakun: updated my Makefile-based RNA-Seq  workflow. Now handling cuffdiff. 24 samples. http://t.co/HelnmhSdrh
+402418863385489408  Nov 18 07:51  @ma_ko            directional で依頼したのがフツーのRNA-seqに仕様書なってて、高速で返信した
+402421705198407680  Nov 18 08:03  @rnomics          Upcoming Webinar – Quantitative Assessment of Single-Cell #RNA... http://bit.ly/1dMZNpz #FeaturedEvents #Webinars #Fluidigm #RNAseq @MyEN
+402428995230502913  Nov 18 08:32  @nikhilgopal      Upcoming Webinar – Quantitative Assessment of Single-Cell RNA Seq Methods http://ift.tt/1b3k8sT
+402430830041374720  Nov 18 08:39  @UseqMiseq        Evaluation of #Alignment Algorithms for Discovery and Identification of #Pathogens Using #RNA-seq | @scoopit http://sco.lt/8SCFrl
