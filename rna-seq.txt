@@ -5779,3 +5779,15 @@
 402602478895525888  Nov 18 20:01  @ppgardne         @3rdKingsland @SiouxsieW Ouch. It is surprising what is not available. I spent months hunting 4 Ecoli RNA-seq data. Took ages to appear.
 402602701944401920  Nov 18 20:02  @taroleo          RT @dritoshi: いよいよ1細胞RNA-Seqの闇にメスが。。。 Stephen Quake responds to Lior Pachter http://blogs.nature.com/methagora/2013/11/stephen-quake-responds-to-lior-pachter.html
 402603565237014528  Nov 18 20:05  @dritoshien       Dr. Quake responds to Dr. Pachter that analyzes data from his analysis of single-cell RNA-seq. http://goo.gl/dwfXof
+402623612584464384  Nov 18 21:25  @DrLabRatOry      Just downloaded an RNA-Seq file where 1/2 of every 35bp read is the Illumina adapter sequence. Wat?
+402624542696157186  Nov 18 21:29  @thatdnaguy       @DrLabRatOry RNA-SEQ or miRNA seq? Expected behavior for miRNA seq.
+402624796200288256  Nov 18 21:30  @DrLabRatOry      @thatdnaguy RNA-Seq. Transcriptome, supposedly. http://www.ebi.ac.uk/ena/data/view/SRX157441
+402632264150188032  Nov 18 21:59  @notSoJunkDNA     rSeqDiff: Detecting Differential Isoform Expression from RNA-Seq Data Using Hierarchical Likelihood Ratio Test http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079448
+402633221319299073  Nov 18 22:03  @infoecho         RT @notSoJunkDNA: rSeqDiff: Detecting Differential Isoform Expression from RNA-Seq Data Using Hierarchical Likelihood Ratio Test http://t.co/CpLVph4iPy
+402633761495322626  Nov 18 22:05  @evolvability     @notSoJunkDNA it finally makes sense, all your RNA-Seq themed tweets :)
+402636019411202049  Nov 18 22:14  @NEdgingtonPhD    Downloading data from the server for my 1st #rnaseq experiment! Captured simultaneous gene expression of host & pathogen (ie 'dual RNA-Seq')
+402661368140423168  Nov 18 23:55  @robin_andersson  RT @notSoJunkDNA: rSeqDiff: Detecting Differential Isoform Expression from RNA-Seq Data Using Hierarchical Likelihood Ratio Test http://t.co/CpLVph4iPy
+402665596615000064  Nov 19 00:12  @rnomics          #RNA-seq from single nuclei [Cell Biology]: It has recently been established that synthesis of... http://bit.ly/1dQKlso #PNAS @MyEN
+402683185110081536  Nov 19 01:22  @anshul           RT @notSoJunkDNA: rSeqDiff: Detecting Differential Isoform Expression from RNA-Seq Data Using Hierarchical Likelihood Ratio Test http://t.co/CpLVph4iPy
+402689723631947776  Nov 19 01:48  @gerlach_d        RT @notSoJunkDNA: rSeqDiff: Detecting Differential Isoform Expression from RNA-Seq Data Using Hierarchical Likelihood Ratio Test http://t.co/CpLVph4iPy
+402699903186374656  Nov 19 02:28  @hirooshi007      今日はRNA-seqだけ勉強して帰るわ
