@@ -5848,6 +5848,7 @@
 403324535874658304  Nov 20 19:50  @CrowdedHead      RT @rnomics: Webinar: Quantitative Assessment of Single-Cell #RNA... http://bit.ly/1dMZNpz #Webinars #Fluidigm #RNAseq
 403374592393101312  Nov 20 23:09  @yosita0314       RT @dritoshi: 1細胞RNA-Seq の実験やデータ解析で世界を変えたい方、一緒にやりませんか? バイオインフォマティクス研究開発ユニット テクニカルスタッフI・II募集 | 理化学研究所 http://www.riken.jp/careers/researchers/20131115_3/
 403389061055803392  Nov 21 00:07  @Genohub          Standardization of RNA-Seq across labs: http://goo.gl/wSwMiq #NGS #bioinformatics
+403485434531303425  Nov 21 06:29  @razZ0r           [rss] "Systematically Differentiating Functions for Alternatively Spliced Isoforms through Integrating RNA-seq Data" http://ift.tt/1b9Kg5p
 403486148527259648  Nov 21 06:32  @tuuliel          Accounting for technical noise in single-cell RNA-seq experiments http://go.nature.com/rj52UQ
 403486845243105280  Nov 21 06:35  @nextgenseek      RT @tuuliel: Accounting for technical noise in single-cell RNA-seq experiments http://go.nature.com/rj52UQ
 403487795513425920  Nov 21 06:39  @silParacchini    RT @tuuliel: Accounting for technical noise in single-cell RNA-seq experiments http://go.nature.com/rj52UQ
@@ -5858,3 +5859,15 @@
 403511204343062528  Nov 21 08:12  @rnomics          UnSplicer: mapping spliced #RNA-seq reads in... http://bit.ly/1awYZWa #SplicingandJunctionMapping #alternativesplcing #RNAseq @MyEN
 403517272104660992  Nov 21 08:36  @UseqMiseq        UnSplicer: mapping spliced #RNA-seq reads in compact #genomes and filtering noisy splicing | @scoopit http://sco.lt/5yne9x
 403520073299927040  Nov 21 08:47  @nikhilgopal      UnSplicer: mapping spliced RNA-seq reads in compact genomes and filtering noisy splicing http://ift.tt/Ii616b
+403526444720332800  Nov 21 09:12  @SEQquestions     rna-seq tiling reads http://ift.tt/18aLT2t
+403535409180729344  Nov 21 09:48  @waneitzack       @shahazim rna-seq. without bioinfo analysis tuh. huaaaaa nak nanges. taxpayers money nih. hahahahaha
+403536534290186240  Nov 21 09:53  @shahazim         @waneitzack eh, Asal rna-seq mahal gila smpai cmtu.. Last2 rslt dpt dlm softcopy fasta seq format pastu blast sndiri mcm rslt seq biasa kan?
+403560305948495872  Nov 21 11:27  @anamika13        RT @CrowdedHead: RT @rnomics: Webinar: Quantitative Assessment of Single-Cell #RNA... http://bit.ly/1dMZNpz #Webinars #Fluidigm #RNAseq
+403580733052420096  Nov 21 12:48  @gauravjain49     A nice introduction to NGS applications, including RNA-seq, ChIP-seq, and other functional sequencing assays #NGS http://lnkd.in/d_Uyeay
+403583614539272193  Nov 21 13:00  @genetics_blog    Finding the active genes in deep RNA-seq gene expression studies http://www.biomedcentral.com/1471-2164/14/778/abstract #bioinformatics
+403592966104944641  Nov 21 13:37  @Alfons_Valencia  RT @genetics_blog: Finding the active genes in deep RNA-seq gene expression studies http://www.biomedcentral.com/1471-2164/14/778/abstract #bioinformatics
+403606659735752704  Nov 21 14:31  @genetics_blog    Brian Haas from @broadinstitute using a VM to teach workshop on RNA-seq w/ trinity, cufflinks. Works v well @swcarpentry @ctitusbrown
+403606909078761473  Nov 21 14:32  @genetics_blog    Trinity/cufflinks RNA-seq workshop at @UVA http://t.co/hspJyIRbhg
+403611356014051328  Nov 21 14:50  @LeucineRichBio   rSeqDiff: Detecting Differential Isoform Expression from RNA-Seq Data Using Hierarchical Likelihood Ratio Test. http://www.rna-seqblog.com/rseqdiff-detecting-differential-isoform-expression-from-rna-seq-data-using-hierarchical-likelihood-ratio-test/
+403611804607082496  Nov 21 14:52  @UseqMiseq        RT @genetics_blog: Trinity/cufflinks RNA-seq workshop at @UVA http://t.co/hspJyIRbhg
+403612884670091265  Nov 21 14:56  @cntalavera       RT @genetics_blog: Trinity/cufflinks RNA-seq workshop at @UVA http://t.co/hspJyIRbhg
