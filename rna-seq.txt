@@ -6000,3 +6000,11 @@
 405412931791122433  Nov 26 14:09  @HyundooJeong     RT @genetics_blog: RNA-seq from single nuclei http://www.pnas.org/content/early/2013/11/13/1319700110.abstract
 405413533363339264  Nov 26 14:11  @BioInfoBrett     Neat demo of the power of full-length RNA-seq using @PacBio out of Stanford today http://www.pnas.org/content/early/2013/11/25/1320101110.full.pdf
 405422633010741248  Nov 26 14:47  @NucDiv           RT @THE_inteins: Systematic evaluation of spliced alignment programs for RNA-seq data http://sco.lt/8YS6Px
+405427179971833856  Nov 26 15:05  @LeucineRichBio   Optimal Calculation of RNA-Seq Fold-Change Values. http://www.rna-seqblog.com/optimal-calculation-of-rna-seq-fold-change-values/
+405435866450903041  Nov 26 15:40  @sagebiel         RT @genetics_blog: rSeqDiff: diff isoform expr from RNA-Seq Data w/ Hierarchical Likelihood Ratio Test http://www.plosone.org/article/info:doi/10.1371/journal.pone.0079448 #rstats thoughts @lpachter?
+405437311539617792  Nov 26 15:46  @valeryah79       RT @assemblathon: "Genomics: the state of the art in RNA-seq analysis" http://buff.ly/194uHWR A new News & Views article in Nature Methods by Ian Korf.
+405442563227652096  Nov 26 16:06  @cwarden45        "Surprising variability" in the results from competitions to identify the best algorithms for RNA-seq analysis http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2735.html
+405447307652378624  Nov 26 16:25  @tuuliel          @notSoJunkDNA @genetics_blog @caseybergman I should publish the script that I wrote to format the author list for the Geuvadis RNA-seq paper
+405456672509816834  Nov 26 17:02  @agroppi          RT @assemblathon: New in Nature Methods, Genomics: the state of the art in RNA-seq analysis  by @iankorf http://buff.ly/18EKmzw
+405508200243269632  Nov 26 20:27  @abhimans         RT @genetics_blog: rSeqDiff: diff isoform expr from RNA-Seq Data w/ Hierarchical Likelihood Ratio Test http://www.plosone.org/article/info:doi/10.1371/journal.pone.0079448 #rstats thoughts @lpachter?
+405514755030646785  Nov 26 20:53  @jameslz          Flexible analysis of RNA-seq data using mixed effects models http://bioinformatics.oxfordjournals.org/content/early/2013/11/26/bioinformatics.btt624.abstract
