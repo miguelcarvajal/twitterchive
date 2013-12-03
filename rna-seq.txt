@@ -6148,3 +6148,26 @@
 407863097571815424  Dec  3 08:25  @rnomics          Flexible analysis of #RNA-seq data using mixed... http://bit.ly/IJ2M8I #OtherTools #bioinformatics #mixedeffectsmodels #RNAseq @MyEN
 407868911200124928  Dec  3 08:48  @flopezos         Genomics: the state of the art in RNA-seq analysis http://go.nature.com/NPowIU
 407869107120242689  Dec  3 08:49  @flopezos         Assessment of transcript reconstruction methods for RNA-seq http://go.nature.com/AxjChc
+407872135034855424  Dec  3 09:01  @nikhilgopal      Flexible analysis of RNA-seq data using mixed effects models http://ift.tt/1jgzdZX
+407875129666846720  Dec  3 09:13  @nickschurch      Interesting paper comparing Differential Expression tools for RNA-seq, using highly replicated archival data http://bib.oxfordjournals.org/cgi/content/long/bbt086v1
+407875317726842881  Dec  3 09:13  @BioMickWatson    RT @nickschurch: Interesting paper comparing Differential Expression tools for RNA-seq, using highly replicated archival data http://t.co/WH9BanhecP
+407879381106065408  Dec  3 09:29  @vubush           RT @genetics_blog: Flexible analysis of RNA-seq data using mixed effects models http://bioinformatics.oxfordjournals.org/content/early/2013/11/26/bioinformatics.btt624.abstract #bioinformatics
+407880120687284224  Dec  3 09:32  @Jason_J_Flowers  RT @nickschurch: Interesting paper comparing Differential Expression tools for RNA-seq, using highly replicated archival data http://t.co/WH9BanhecP
+407880848651067392  Dec  3 09:35  @winstanley_c     RT @nickschurch: Interesting paper comparing Differential Expression tools for RNA-seq, using highly replicated archival data http://t.co/WH9BanhecP
+407888942898241536  Dec  3 10:07  @aemonten         Assessment of transcript reconstruction methods for RNA-seq http://feedly.com/e/IQXL8rr1
+407889003975688192  Dec  3 10:08  @aemonten         Systematic evaluation of spliced alignment programs for RNA-seq data http://feedly.com/e/3IOhqJkr
+407890913982431232  Dec  3 10:15  @rnomics          starBase v2.0: #miRNA-lncRNA, miRNA-#mRNA, ... and protein-RNA interaction networks from large-scale CLIP-Seq data http://bit.ly/187DJHy
+407891058635575296  Dec  3 10:16  @nikhilgopal      Featured RNA-Seq Job – Post-doc Positions in Bioinformatics (RNA-Seq analysis) http://ift.tt/18XTLm9
+407915991818313729  Dec  3 11:55  @LauraPiddock     RT @nickschurch: Interesting paper comparing Differential Expression tools for RNA-seq, using highly replicated archival data http://t.co/WH9BanhecP
+407924817677914112  Dec  3 12:30  @sjackman         RT @nickschurch: Interesting paper comparing Differential Expression tools for RNA-seq, using highly replicated archival data http://t.co/WH9BanhecP
+407932980825698304  Dec  3 13:02  @genetics_blog    Yet another method bake-off for RNA-seq differential expression http://bib.oxfordjournals.org/content/early/2013/12/02/bib.bbt086.long #bioinformatics #Rstats
+407934948285612032  Dec  3 13:10  @SteveQinEmory    RT @genetics_blog: Yet another method bake-off for RNA-seq differential expression http://bib.oxfordjournals.org/content/early/2013/12/02/bib.bbt086.long #bioinformatics #Rstats
+407935991148580864  Dec  3 13:14  @BioMath          RT @nickschurch: Interesting paper comparing Differential Expression tools for RNA-seq, using highly replicated archival data http://t.co/WH9BanhecP
+407945110421118976  Dec  3 13:51  @ge_parada        Genomics: the state of the art in RNA-seq analysis http://go.nature.com/NPowIU
+407946072527364096  Dec  3 13:54  @assemblathon     “@genetics_blog: Yet another method bake-off for RNA-seq differential expression http://bib.oxfordjournals.org/content/early/2013/12/02/bib.bbt086.long #bioinformatics #Rstats”
+407946367492165632  Dec  3 13:56  @Pabliskodelia    RT @genetics_blog: Yet another method bake-off for RNA-seq differential expression http://bib.oxfordjournals.org/content/early/2013/12/02/bib.bbt086.long #bioinformatics #Rstats
+407952264046067712  Dec  3 14:19  @sekhardrona      RT @genetics_blog: Yet another method bake-off for RNA-seq differential expression http://bib.oxfordjournals.org/content/early/2013/12/02/bib.bbt086.long #bioinformatics #Rstats
+407952387324665856  Dec  3 14:20  @EvolutionPirate  anyone have any clever strategies for dealing with mapping bias in RNA-seq? (Two species, reference genome for only one of them)
+407953408596140032  Dec  3 14:24  @IGBIllinois      RT @genetics_blog: #Genomics: the state of the art in RNA-seq analysis by @IanKorf http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2735.html #bioinformatics
+407955273756602368  Dec  3 14:31  @nickholway       Comparison of software packages for detecting differential expression in RNA-seq studies http://bib.oxfordjournals.org/cgi/content/long/bbt086v1 #bioinformatics
+407958920783609856  Dec  3 14:46  @bits_and_bites   Bits & Bites meeting this Thursday. Daniel Fulop will be talking about how he uses RNA-seq data in his analysis of tomato genomes.
