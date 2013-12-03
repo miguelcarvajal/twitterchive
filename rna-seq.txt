@@ -6116,3 +6116,14 @@
 407590894729052160  Dec  2 14:23  @cwarden45        @notSoJunkDNA @nextgenseek For DNA-Seq, I've compared TMAP, BWA-MEM, Novoalign, and Bowtie2.  Haven't had Proton RNA-Seq data yet
 407591379716435968  Dec  2 14:25  @surt_lab         RT @lexnederbragt: Could have mentioned http://m.pnas.org/content/early/2013/11/25/1320101110 RT @genetics_blog: End-to-end RNA-seq with long reads http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2750.html
 407599082082168832  Dec  2 14:56  @pedstunite       RT @notSoJunkDNA: RNA-seq in Biomedical Research Workshop at Columbia. Dec 4, 1-4pm. http://systemsbiology.columbia.edu/news/columbia-illumina-rna-seq-in-biomedical-research-workshop
+407613186813464576  Dec  2 15:52  @druvus           RNAseqViewer: visualization tool for RNA-Seq data http://bit.ly/1gvH43r #sequencing
+407613667342311424  Dec  2 15:54  @PaulHoskisson    RT @druvus: RNAseqViewer: visualization tool for RNA-Seq data http://bit.ly/1gvH43r #sequencing
+407615951988080640  Dec  2 16:03  @genetics_blog    Flexible analysis of RNA-seq data using mixed effects models http://bioinformatics.oxfordjournals.org/content/early/2013/11/26/bioinformatics.btt624.abstract #bioinformatics
+407619340419084289  Dec  2 16:16  @dopaminergic13   RT @genetics_blog: Flexible analysis of RNA-seq data using mixed effects models http://bioinformatics.oxfordjournals.org/content/early/2013/11/26/bioinformatics.btt624.abstract #bioinformatics
+407628118296240128  Dec  2 16:51  @cwarden45        @cwarden45 @nextgenseek Just remembered: I have seen Proton RNA-Seq, and 2-step align was better than TMAP https://drive.google.com/file/d/0B1xpw6_kQMKuMzJldGt4WEZlbUE/edit?usp=sharing
+407641668746477569  Dec  2 17:45  @DaleYuzuki       RT @genetics_blog: #Genomics: the state of the art in RNA-seq analysis by @IanKorf http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2735.html #bioinformatics
+407664919329263617  Dec  2 19:17  @nextgenseek      RT @cwarden45: @cwarden45 @nextgenseek Just remembered: I have seen Proton RNA-Seq, and 2-step align was better than TMAP https://t.co/CITU5pPxjP
+407666969446346752  Dec  2 19:25  @isugif           RT @genetics_blog: End-to-end RNA-seq with long reads http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2750.html
+407667629605003264  Dec  2 19:28  @jamesemcdonald   RT @druvus: RNAseqViewer: visualization tool for RNA-Seq data http://bit.ly/1gvH43r #sequencing
+407667689763897345  Dec  2 19:28  @jamesemcdonald   RT @genetics_blog: Flexible analysis of RNA-seq data using mixed effects models http://bioinformatics.oxfordjournals.org/content/early/2013/11/26/bioinformatics.btt624.abstract #bioinformatics
+407668166391656449  Dec  2 19:30  @laszlorban57     RT @lexnederbragt: Could have mentioned http://m.pnas.org/content/early/2013/11/25/1320101110 RT @genetics_blog: End-to-end RNA-seq with long reads http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2750.html
