@@ -6171,3 +6171,18 @@
 407953408596140032  Dec  3 14:24  @IGBIllinois      RT @genetics_blog: #Genomics: the state of the art in RNA-seq analysis by @IanKorf http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2735.html #bioinformatics
 407955273756602368  Dec  3 14:31  @nickholway       Comparison of software packages for detecting differential expression in RNA-seq studies http://bib.oxfordjournals.org/cgi/content/long/bbt086v1 #bioinformatics
 407958920783609856  Dec  3 14:46  @bits_and_bites   Bits & Bites meeting this Thursday. Daniel Fulop will be talking about how he uses RNA-seq data in his analysis of tomato genomes.
+407963007482744833  Dec  3 15:02  @chris_bloke      RT @nickholway: Comparison of software packages for detecting differential expression in RNA-seq studies http://bib.oxfordjournals.org/cgi/content/long/bbt086v1 #bioinformatics
+407964981230325760  Dec  3 15:10  @sagebiel         RT @genetics_blog: Yet another method bake-off for RNA-seq differential expression http://bib.oxfordjournals.org/content/early/2013/12/02/bib.bbt086.long #bioinformatics #Rstats
+407967450261508096  Dec  3 15:19  @4130chromo       From #single-cell to cell-pool transcriptomes: stochasticity in gene expression and RNA splicing http://tinyurl.com/pvhppts #SMART-seq #RNA-seq
+407969117438636032  Dec  3 15:26  @rnomics          CT @rnomics/RNA Genomics: the state of the art in #RNA-seq analysis | #RNA-Seq Blog:... http://bit.ly/IKpOMu @MyEN
+407969324565942274  Dec  3 15:27  @vlsci            RT @nickholway: Comparison of software packages for detecting differential expression in RNA-seq studies http://bib.oxfordjournals.org/cgi/content/long/bbt086v1 #bioinformatics
+407969849906708480  Dec  3 15:29  @Malarky67        @genetics_blog we're going backwards with RNA-seq, bring back microarrays, all is forgiven.
+407970495477587969  Dec  3 15:32  @askroll          RT @genetics_blog: Flexible analysis of RNA-seq data using mixed effects models http://bioinformatics.oxfordjournals.org/content/early/2013/11/26/bioinformatics.btt624.abstract #bioinformatics
+407971185821900800  Dec  3 15:34  @PeroMHC          I wonder if they ‘forgot’ about Trinity? Assessment of transcript reconstruction methods for RNA-seq http://go.nature.com/AxjChc
+407971784815022080  Dec  3 15:37  @nextgenseek      RT @PeroMHC: I wonder if they ‘forgot’ about Trinity? Assessment of transcript reconstruction methods for RNA-seq http://go.nature.com/AxjChc
+407977997975945218  Dec  3 16:01  @Yvan2935         RT @assemblathon: “@genetics_blog: Yet another method bake-off for RNA-seq differential expression http://bib.oxfordjournals.org/content/early/2013/12/02/bib.bbt086.long #bioinformatics #Rstats”
+407979782744190978  Dec  3 16:08  @aemonten         RNA-seq from single nuclei [Cell Biology] http://feedly.com/e/5ioakkBC
+407982732992856064  Dec  3 16:20  @LeucineRichBio   Genomics: the state of the art in RNA-seq analysis. #RNASeq http://www.rna-seqblog.com/genomics-the-state-of-the-art-in-rna-seq-analysis/
+408020885128630272  Dec  3 18:52  @David_Dobbs      @razibkhan but u’ve a point: RNA seq might have made (for those familiar w distinction) firmer signal about RNA/expression link
+408033925349376000  Dec  3 19:44  @nextgenseek      @razibkhan @David_Dobbs second that for expression+more (absolute cost of RNA-seq is still high)
+408034917168472064  Dec  3 19:47  @David_Dobbs      @PeroMHC @sciencegurlz0 @DrLabRatOry @razibkhan I love that this has now turned into a thread about RNA seq pricing.
