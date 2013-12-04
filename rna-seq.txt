@@ -6115,6 +6115,7 @@
 407590490759245824  Dec  2 14:22  @genetics_blog    RT @lexnederbragt: Could have mentioned http://m.pnas.org/content/early/2013/11/25/1320101110 RT @genetics_blog: End-to-end RNA-seq with long reads http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2750.html
 407590894729052160  Dec  2 14:23  @cwarden45        @notSoJunkDNA @nextgenseek For DNA-Seq, I've compared TMAP, BWA-MEM, Novoalign, and Bowtie2.  Haven't had Proton RNA-Seq data yet
 407591379716435968  Dec  2 14:25  @surt_lab         RT @lexnederbragt: Could have mentioned http://m.pnas.org/content/early/2013/11/25/1320101110 RT @genetics_blog: End-to-end RNA-seq with long reads http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2750.html
+407599082082168832  Dec  2 14:56  @pedro_miura      RT @notSoJunkDNA: RNA-seq in Biomedical Research Workshop at Columbia. Dec 4, 1-4pm. http://systemsbiology.columbia.edu/news/columbia-illumina-rna-seq-in-biomedical-research-workshop
 407599082082168832  Dec  2 14:56  @pedstunite       RT @notSoJunkDNA: RNA-seq in Biomedical Research Workshop at Columbia. Dec 4, 1-4pm. http://systemsbiology.columbia.edu/news/columbia-illumina-rna-seq-in-biomedical-research-workshop
 407613186813464576  Dec  2 15:52  @druvus           RNAseqViewer: visualization tool for RNA-Seq data http://bit.ly/1gvH43r #sequencing
 407613667342311424  Dec  2 15:54  @PaulHoskisson    RT @druvus: RNAseqViewer: visualization tool for RNA-Seq data http://bit.ly/1gvH43r #sequencing
@@ -6207,3 +6208,21 @@
 408197758299148288  Dec  4 06:35  @notSoJunkDNA     RT @daniel2nico: New version of FusionCatcher (fusion genes finder in RNA-seq data) released @ https://code.google.com/p/fusioncatcher/ #RNA-seq
 408217400170266624  Dec  4 07:53  @UseqMiseq        Impact of RNA-seq attributes on false positive rates in diff expr analysis of denovo assem transcriptomes @scoopit http://sco.lt/7EOaO1
 408230011460538368  Dec  4 08:43  @ellielou_uk      I will be presenting my poster tonight, come and talk to me about #neutrophils #arthritis #rna-seq #bsi2013 http://t.co/45UoriTToi
+408242312641515520  Dec  4 09:32  @AngeMidgley      RT @ellielou_uk: I will be presenting my poster tonight, come and talk to me about #neutrophils #arthritis #rna-seq #bsi2013 http://t.co/45UoriTToi
+408247116297818112  Dec  4 09:51  @dritoshi         明日の午前中のワークショップ(第5会場)で発表します。「1細胞RNA-Seqを用いた幹細胞の細胞状態ゆらぎの理解に向けて」お待ちしております。 http://mbsj2013.castle104.com/#!_/presentations/4203
+408247343360663552  Dec  4 09:52  @bonohu           RT @dritoshi: 明日の午前中のワークショップ(第5会場)で発表します。「1細胞RNA-Seqを用いた幹細胞の細胞状態ゆらぎの理解に向けて」お待ちしております。 http://mbsj2013.castle104.com/#!_/presentations/4203
+408268329288486912  Dec  4 11:15  @LeucineRichBio   Flexible analysis of RNA-seq data using mixed effects models. #RNASeq http://www.rna-seqblog.com/flexible-analysis-of-rna-seq-data-using-mixed-effects-models/
+408276268786798593  Dec  4 11:47  @ypriverol        Model-based #clustering for #RNA-seq data http://bioinformatics.oxfordjournals.org/cgi/content/long/btt632v2 #bioinformatics
+408278395236392960  Dec  4 11:55  @druvus           Model-based clustering for RNA-seq data http://bit.ly/1izakuL #rnaseq #sequencing
+408282719383064576  Dec  4 12:12  @GuiomeNicolas    RT @druvus: Model-based clustering for RNA-seq data http://bit.ly/1izakuL #rnaseq #sequencing
+408286003611586560  Dec  4 12:25  @EpiExperts       Featured RNA-Seq Job - Post-doc Positions in Bioinformatics (RNA-Seq analysis) - http://s.shr.lc/IEmfGV  -NK
+408288132342099968  Dec  4 12:34  @naupakaz         .@iPlantCollab webinar happening now: genome assembly, RNA-Seq, etc.  Livestream here: http://npk.io/6dDg
+408297019699384320  Dec  4 13:09  @PacBio           Blog post: In RNA-seq study, long PacBio reads allow detection of full-length & novel isoforms http://j.mp/1eWoYaq @Stanford @SUMedicine
+408298637806952448  Dec  4 13:15  @nextgenseek      @PacBio's blog post on the PNAS paper that was reviewed here.  http://blog.pacificbiosciences.com/2013/12/in-rna-seq-study-long-pacbio-reads.html  & http://nextgenseek.com/2013/12/idp-isoform-detection-and-prediction-using-second-generation-sequencing-and-pacbio-sequencing/ #RNAseq
+408299096416714753  Dec  4 13:17  @OmicsOmicsBlog   RT @nextgenseek: @PacBio's blog post on the PNAS paper that was reviewed here.  http://blog.pacificbiosciences.com/2013/12/in-rna-seq-study-long-pacbio-reads.html  & http://nextgenseek.com/2013/12/idp-isoform-detection-and-prediction-using-second-generation-sequencing-and-pacbio-sequencing/ #RNAseq
+408307475776274432  Dec  4 13:51  @kc31958          RT @PacBio: Blog post: In RNA-seq study, long PacBio reads allow detection of full-length & novel isoforms http://j.mp/1eWoYaq @Stanford @SUMedicine
+408313246199066624  Dec  4 14:13  @John_Kuijpers    RT @PacBio: Blog post: In RNA-seq study, long PacBio reads allow detection of full-length & novel isoforms http://j.mp/1eWoYaq @Stanford @SUMedicine
+408314247039700993  Dec  4 14:17  @Miss_Salmonella  RT @PacBio: Blog post: In RNA-seq study, long PacBio reads allow detection of full-length & novel isoforms http://j.mp/1eWoYaq @Stanford @SUMedicine
+408314320825905152  Dec  4 14:18  @lexnederbragt    RT @PacBio: Blog post: In RNA-seq study, long PacBio reads allow detection of full-length & novel isoforms http://j.mp/1eWoYaq @Stanford @SUMedicine
+408317436002598913  Dec  4 14:30  @drchriscole      RT @PacBio: Blog post: In RNA-seq study, long PacBio reads allow detection of full-length & novel isoforms http://j.mp/1eWoYaq @Stanford @SUMedicine
+408319724884594688  Dec  4 14:39  @AW_NGS           RT @nextgenseek: @PacBio's blog post on the PNAS paper that was reviewed here.  http://blog.pacificbiosciences.com/2013/12/in-rna-seq-study-long-pacbio-reads.html  & http://nextgenseek.com/2013/12/idp-isoform-detection-and-prediction-using-second-generation-sequencing-and-pacbio-sequencing/ #RNAseq
