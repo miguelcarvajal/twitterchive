@@ -6416,3 +6416,10 @@
 410107867556220928  Dec  9 13:05  @LeucineRichBio   Joint estimation of isoform expression & isoform-specific read distribution using multi-sample RNA-Seq data. #RNASeq http://www.ncbi.nlm.nih.gov/pubmed/24307704?dopt=Abstract
 410113134880239616  Dec  9 13:26  @datadryadnew     Data from: Can RNA-Seq resolve the rapid radiation of advanced moths (Lepidoptera: Apoditrysia)? An exploratory study http://bit.ly/J7HOk9
 410134172905111552  Dec  9 14:49  @fredericpitre    Impact of RNA-seq attributes on false positive rates  http://www.biomedcentral.com/1756-0500/6/503
+410160688863387648  Dec  9 16:35  @Affymetrix       Are you missing key biological events by not #sequencing deep enough? See what #RNA-Seq misses and #HTA delivers.... http://fb.me/2kUg5ImQt
+410166538474618881  Dec  9 16:58  @rnomics          Dispersion Estimation and Its Effect on Test Performance in #RNA-seq Data Analysis: A Simulation-Based... http://bit.ly/IYNxYV #PLoS
+410184675697909760  Dec  9 18:10  @LeucineRichBio   Towards the integration, annotation and association of historical microarray experiments with RNA-seq. #RNASeq http://www.ncbi.nlm.nih.gov/pubmed/24268045?dopt=Abstract
+410199766241660928  Dec  9 19:10  @LeucineRichBio   Comparative studies of differential gene calling using RNA-Seq data. #RNASeq http://www.ncbi.nlm.nih.gov/pubmed/24267181?dopt=Abstract
+410199767223115776  Dec  9 19:10  @LeucineRichBio   mirCoX: a database of miRNA-mRNA expression correlations derived from RNA-seq meta-analysis. #RNASeq http://www.ncbi.nlm.nih.gov/pubmed/24267917?dopt=Abstract
+410205278261358592  Dec  9 19:32  @blackshadow0     biocLite("cummeRbund") / “RでNGSデータ（RNA-Seqによる発現データ）を可視化する - 牧場の朝” http://htn.to/fV93n7
+410214524650659840  Dec  9 20:08  @gokiniiri        RでNGSデータ（RNA-Seqによる発現データ）を可視化する - 牧場の朝 http://bit.ly/1iRfceO
