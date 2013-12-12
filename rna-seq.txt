@@ -6523,3 +6523,6 @@
 410927609233817600  Dec 11 19:22  @OmicsOmicsBlog   RT @jiglasscock: Cofactor Genomics weighs in on P-values in RNA-seq experiments. http://lnkd.in/bsj78ZE
 410941240826687488  Dec 11 20:16  @Yh_Taguchi       モンテカルロ法を用いた進化分岐図作成法　石井 一夫，松田 朋子，古崎 利紀，後藤 哲雄；RAxMLを使って、RNA-SEQからデノボでアッセンブルしたコンティグから拾った遺伝子を使って系統樹を書き、コンセンサスツリーを作った、でいいのかな？
 410942121659863040  Dec 11 20:20  @leeswijzer       RT @Yh_Taguchi: モンテカルロ法を用いた進化分岐図作成法　石井 一夫，松田 朋子，古崎 利紀，後藤 哲雄；RAxMLを使って、RNA-SEQからデノボでアッセンブルしたコンティグから拾った遺伝子を使って系統樹を書き、コンセンサスツリーを作った、でいいのかな？
+410976757903147008  Dec 11 22:37  @DrMegsW          Been teaching myself coding in R for RNA-seq data and fear I've driven myself made.  Mmmmmm, might turn this into a student project....
+411001062489739265  Dec 12 00:14  @rnomics          Flexible analysis of #RNA-seq data using mixed effects models: Motivation: Most methods for... http://bit.ly/J8AMew #bioinformaticsj
+411016354116808704  Dec 12 01:15  @yoshidamasaaki   RT @gaou_ak: 最近この手の論文かなり頻繁に見るようになったけどyet another replicate-over-depthなRNA-Seqの論文。http://www.ncbi.nlm.nih.gov/pubmed/24319002 10M readsはしかしかなり多い方だとおもうぞ。
