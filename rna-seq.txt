@@ -6526,3 +6526,24 @@
 410976757903147008  Dec 11 22:37  @DrMegsW          Been teaching myself coding in R for RNA-seq data and fear I've driven myself made.  Mmmmmm, might turn this into a student project....
 411001062489739265  Dec 12 00:14  @rnomics          Flexible analysis of #RNA-seq data using mixed effects models: Motivation: Most methods for... http://bit.ly/J8AMew #bioinformaticsj
 411016354116808704  Dec 12 01:15  @yoshidamasaaki   RT @gaou_ak: 最近この手の論文かなり頻繁に見るようになったけどyet another replicate-over-depthなRNA-Seqの論文。http://www.ncbi.nlm.nih.gov/pubmed/24319002 10M readsはしかしかなり多い方だとおもうぞ。
+411045058033381376  Dec 12 03:09  @BiotopeGarden    RT @Yh_Taguchi: モンテカルロ法を用いた進化分岐図作成法　石井 一夫，松田 朋子，古崎 利紀，後藤 哲雄；RAxMLを使って、RNA-SEQからデノボでアッセンブルしたコンティグから拾った遺伝子を使って系統樹を書き、コンセンサスツリーを作った、でいいのかな？
+411049916090580992  Dec 12 03:28  @animesh1977      Flexible analysis of RNA-seq data using mixed effects models http://ift.tt/18nmZfP
+411051628431941632  Dec 12 03:35  @LeucineRichBio   customProDB: an R package to generate customized protein databases from RNA-Seq data for proteomics search. #RNASeq http://bioinformatics.oxfordjournals.org/content/29/24/3235.short
+411056003270971392  Dec 12 03:52  @aawitney         RNA-seq differential expression studies: more sequence, or more replication? http://feedly.com/e/B6f-zTQ3 via @feedly
+411057983234539520  Dec 12 04:00  @lexnederbragt    RT @MyBioTechniques: RNA-seq offer precise counts of expressed transcripts, but no information on structure. Now, a new approach... http://t.co/EHZzBfmNpd
+411058356116553728  Dec 12 04:02  @daniel2nico      RT @WillisCD: RNA-Seq IDs Multiple Fusion Transcripts, DEGs and Reduced Expression of Immune Function Genes #metacore #braf http://t.co/DEUV7OiYqW
+411064739066695681  Dec 12 04:27  @jlandolin        RT @MyBioTechniques: RNA-seq offer precise counts of expressed transcripts, but no information on structure. Now, a new approach... http://t.co/EHZzBfmNpd
+411068413931692032  Dec 12 04:42  @generoom         RT @jiglasscock: Cofactor Genomics weighs in on P-values in RNA-seq experiments. http://lnkd.in/bsj78ZE
+411069313270161408  Dec 12 04:45  @subelesakyl      выступил с презентацией по RNA-Seq pipeline. уфф.. волнительно это все как-то..
+411074903304323072  Dec 12 05:07  @genefish         Systematic evaluation of spliced alignment programs for RNA-seq data :  Nature Methods :  Nature Publishing Group http://ift.tt/1bzkPb8
+411079960645091328  Dec 12 05:27  @SEQquestions     Meta-analysis of RNA-seq data http://ift.tt/1bGxvxM
+411080462216744961  Dec 12 05:29  @razZ0r           [rss] "RNA-seq differential expression studies: more sequence, or more replication?" http://ift.tt/19zbixm
+411081905434423296  Dec 12 05:35  @yves_twit        RNA-seq読みたいけどお金がない年度末
+411100449312628736  Dec 12 06:49  @GenomeAnalysis   RT @mgonzalezporta: New version of the RNA-seq practical (https://github.com/mgonzalezporta/TeachingMaterial/blob/2013.12-Norwich/README.md), now ready for the next course @GenomeAnalysis (http://t.co/MuDbkITBoM).
+411101060808196096  Dec 12 06:51  @GenomeAnalysis   Our two-day 'Analysing RNA-seq Data' course at TGAC starts today!   http://bit.ly/18WNEvc  #RNAseqTGAC @richardmleggett
+411106688142704640  Dec 12 07:14  @MayoClinicCIM    RNA-seq differential expression studies: more sequence, or more replication?  http://buff.ly/INZIrb
+411109676026040320  Dec 12 07:25  @GenomeAnalysis   Our Analysing RNA-seq Data course in action #RNAseqTGAC http://t.co/BDdB1MhigE
+411116183803285504  Dec 12 07:51  @Invest_in_ME     RT @GenomeAnalysis: Our Analysing RNA-seq Data course in action #RNAseqTGAC http://t.co/BDdB1MhigE
+411116898580201473  Dec 12 07:54  @Mattdrew89       RT @GenomeAnalysis: Our Analysing RNA-seq Data course in action #RNAseqTGAC http://t.co/BDdB1MhigE
+411116921019322368  Dec 12 07:54  @BioMath          RT @mgonzalezporta: New version of the RNA-seq practical (https://github.com/mgonzalezporta/TeachingMaterial/blob/2013.12-Norwich/README.md), now ready for the next course @GenomeAnalysis (http://t.co/MuDbkITBoM).
+411122934036856833  Dec 12 08:18  @UseqMiseq        Simultaneous #Transcriptional Profiling of #Bacteria and Their Host Cells | #RNASeq @scoopit http://sco.lt/8MxJeT
