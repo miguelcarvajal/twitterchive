@@ -6555,3 +6555,6 @@
 411211622334464000  Dec 12 14:11  @rnomics          CT @rnomics/bioinfo #RNA-seq differential expression studies: more sequence, or more replication? | #RNA-Seq Blog http://bit.ly/JjgO1n
 411211940531564544  Dec 12 14:12  @MVickySchneider  RT @GenomeAnalysis: Our Analysing RNA-seq Data course in action #RNAseqTGAC http://t.co/BDdB1MhigE
 411211977793736705  Dec 12 14:12  @MVickySchneider  RT @mgonzalezporta: New version of the RNA-seq practical (https://github.com/mgonzalezporta/TeachingMaterial/blob/2013.12-Norwich/README.md), now ready for the next course @GenomeAnalysis (http://t.co/MuDbkITBoM).
+411247730221019136  Dec 12 16:34  @tanghaibao       @brentp I am faring into diff exp of RNA-seq. I am currently using cuffdiff, should I use DEseq/EdgeR? which software can est TPM? thanks
+411271638018031616  Dec 12 18:09  @mcaccamo         RT @GenomeAnalysis: Our Analysing RNA-seq Data course in action #RNAseqTGAC http://t.co/BDdB1MhigE
+411293893347778560  Dec 12 19:38  @AzizAboobaker    Everybody's doing it! “@GenomeAnalysis: Our Analysing RNA-seq Data course in action #RNAseqTGAC http://t.co/PRW63hQrTh”
