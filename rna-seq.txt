@@ -6844,3 +6844,6 @@
 415603480087126017  Dec 24 17:02  @Bioconductor     http://bioconductor.org/packages/2.14/bioc/html/customProDB.html customProDB Generate customized protein database from NGS data, with a focus on RNA-Seq data, for proteomics search.
 415606020132835328  Dec 24 17:12  @SEQquestions     How to assign reads with multiple mapped locations for RNA-Seq quantification http://ift.tt/19cRu3a
 415624952948084736  Dec 24 18:28  @DrDanielSwan     Paper: Sample size calculation based on exact test for assessing differential expression analysis in RNA-seq data http://bit.ly/K3p3ig
+415665105763045376  Dec 24 21:07  @genefish         PennSeq: accurate isoform-specific gene expression quantification in RNA-Seq by modeling non-uniform read distr... http://ift.tt/1jGDyrY
+415694438984585216  Dec 24 23:04  @Juanmicroguy     RT @notSoJunkDNA: PennSeq: accurate isoform-specific gene exp. quantification in RNA-Seq by modeling non-uniform read distribution http://t.co/bfjNAs8zYx
+415694451596877824  Dec 24 23:04  @Juanmicroguy     RT @genetics_blog: A platform independent RNA-Seq protocol for the detection of transcriptome complexity http://www.biomedcentral.com/1471-2164/14/855/abstract #genomics
