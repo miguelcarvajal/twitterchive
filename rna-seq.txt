@@ -6837,3 +6837,10 @@
 415549760012308480  Dec 24 13:29  @NewsStories24    Blind spots of quantitative RNA-seq: the limits for assessing abundance, differential ... - http://bit.ly/19KuMTD
 415553943121723392  Dec 24 13:45  @RoryKirchner     Dear LazyTwitter: Is there a RNA-seq read simulator that can simulate a complicated experiment? A ~ lane + batch + gender kind of thing?
 415564857279533056  Dec 24 14:29  @NewsReactions    Blind spots of quantitative RNA-seq: the limits for assessing abundance, differential ... - http://bit.ly/19KuMTD
+415579959034662912  Dec 24 15:29  @PressOfficeEU    Press Alert: Blind spots of quantitative RNA-seq: the limits for assessing abundance, differential ... http://bit.ly/19KuMTD
+415598589034115072  Dec 24 16:43  @SEQquestions     Calculating sample size for RNA-Seq data http://ift.tt/1eD2BtQ
+415603454397018112  Dec 24 17:02  @Bioconductor     http://bioconductor.org/packages/2.14/bioc/html/roar.html roar Identify differential APA usage from RNA-seq alignments
+415603455416221696  Dec 24 17:02  @Bioconductor     http://bioconductor.org/packages/2.14/bioc/html/spliceSites.html spliceSites Manages align gap positions from RNA-seq data
+415603480087126017  Dec 24 17:02  @Bioconductor     http://bioconductor.org/packages/2.14/bioc/html/customProDB.html customProDB Generate customized protein database from NGS data, with a focus on RNA-Seq data, for proteomics search.
+415606020132835328  Dec 24 17:12  @SEQquestions     How to assign reads with multiple mapped locations for RNA-Seq quantification http://ift.tt/19cRu3a
+415624952948084736  Dec 24 18:28  @DrDanielSwan     Paper: Sample size calculation based on exact test for assessing differential expression analysis in RNA-seq data http://bit.ly/K3p3ig
