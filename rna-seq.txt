@@ -6965,3 +6965,9 @@
 418241500599042048  Dec 31 23:45  @LeucineRichBio   Joint estimation of isoform expression and isoform-specific read distribution using multisample RNA-Seq data. #RNASeq http://bioinformatics.oxfordjournals.org/content/early/2013/12/26/bioinformatics.btt704.short
 418302663898714112  Jan  1 03:48  @mpirooz          ALEA: a toolbox for allele-specific epigenomics analysis | RNA-Seq Blog | @scoopit http://sco.lt/8TUag5
 418342923604738049  Jan  1 06:28  @copypasteusa     COLOMBOS v2.0 http://nar.oxfordjournals.org/cgi/content/long/42/D1/D649 細菌の遺伝子発現（マイクロアレイとRNA-seq）データベース。大腸菌、枯草菌、チフス菌、放線菌、緑膿菌、結核菌、ピロリ菌
+418400704471240704  Jan  1 10:17  @bioinformer      Is trimming beneficial in RNA-Seq?? Aka Just Say No or Drink Only In Moderation, To Trimming of RNASeq reads http://www.rna-seqblog.com/is-trimming-is-beneficial-in-rna-seq/?utm_source=RNA-Seq+Blog+Subscribers&utm_campaign=30bbcee3aa-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_e9607034ee-30bbcee3aa-85917457
+418404101269880832  Jan  1 10:31  @PeroMHC          several interesting comments on blog as well: http://genomebio.org/is-trimming-is-beneficial-in-rna-seq/ @SahaSurya
+418404436361633792  Jan  1 10:32  @SahaSurya        RT @PeroMHC: several interesting comments on blog as well: http://genomebio.org/is-trimming-is-beneficial-in-rna-seq/ @SahaSurya
+418415247977095168  Jan  1 11:15  @OmicsOmicsBlog   RT @bioinformer: Is trimming beneficial in RNA-Seq?? Aka Just Say No or Drink Only In Moderation, To Trimming of RNASeq reads http://t.co/Sh75t2Q12H
+418426747781001216  Jan  1 12:01  @kaittenage       RT @bioinformer: Is trimming beneficial in RNA-Seq?? Aka Just Say No or Drink Only In Moderation, To Trimming of RNASeq reads http://t.co/Sh75t2Q12H
+418463405112958976  Jan  1 14:27  @homolog_us       Cross-post: Is trimming beneficial for RNA-Seq?? (http://www.homolog.us/blogs/blog/2014/01/01/cross-post-trimming-beneficial-rna-seq/)
