@@ -7251,3 +7251,16 @@
 422306628399288320  Jan 12 04:58  @ensembl          RT @ewanbirney: DZ: TSS 83% of CAGE+ TSS called by Segmentation @ensembl; 60.8% of Vista Enhancers. Transcription better done by RNA-seq than Histone marks
 422307246291574784  Jan 12 05:01  @LeucineRichBio   RIP-seq analysis of eukaryotic Sm proteins identifies three major categories of Sm-containing ribonucleoproteins. http://www.rna-seqblog.com/rip-seq-analysis-of-eukaryotic-sm-proteins-identifies-three-major-categories-of-sm-containing-ribonucleoproteins/
 422316490696966144  Jan 12 05:37  @jfkelso          RT @gxr: Our galaxy-based RNA-seq analysis suite #oqtans was published as paper http://goo.gl/I75poH, galaxy instance, AWS AMI, toolshed, github..
+422423112546656256  Jan 12 12:41  @galaxyproject    RT @gxr: Our galaxy-based RNA-seq analysis suite #oqtans was published as paper http://goo.gl/I75poH, galaxy instance, AWS AMI, toolshed, github..
+422426085763317760  Jan 12 12:53  @Jose_Oliver      RT @gxr: Our galaxy-based RNA-seq analysis suite #oqtans was published as paper http://goo.gl/I75poH, galaxy instance, AWS AMI, toolshed, github..
+422447003503562752  Jan 12 14:16  @infoecho         Mihaela Pertea on "The StringTie Approach to Reconstructing the Transcriptome from RNA-Seq Data” #PAGXXII
+422450053626601473  Jan 12 14:28  @LizzySollars     StringTie: a hybrid approach to gene discovery using RNA-seq reads and reference genome. #PAGXXII
+422450262054150144  Jan 12 14:29  @stochastic_jedi  RT @LizzySollars: StringTie: a hybrid approach to gene discovery using RNA-seq reads and reference genome. #PAGXXII
+422451887871242241  Jan 12 14:35  @infoecho         Alexander Souvorov from NCBI on "Improving Gene Annotation using RNA-Seq and Transcriptome Shotgun Assembly” #PAGXXII
+422452522406522880  Jan 12 14:38  @deannachurch     RT @infoecho: Alexander Souvorov from NCBI on "Improving Gene Annotation using RNA-Seq and Transcriptome Shotgun Assembly” #PAGXXII
+422452655739260928  Jan 12 14:38  @fstrozzi         AS: NCBI pipeline to improve genome annotation w/ RNA-seq and transcriptome assembly. Same pipeline used for Buffalo Genome #PAGXXII
+422452663100272640  Jan 12 14:38  @infoecho         AS: RNA-Seq in NCBI pipeline, the system accepts any mixture of “long” and “short” seqs. #PAGXXII
+422453268703219712  Jan 12 14:41  @TerryMcCracken   See what you've been missing: Explore RNA-Seq for Gene Expression research: http://youtu.be/V_4n8n5Z6I8 via @youtube
+422454331141406720  Jan 12 14:45  @infoecho         AS: Because the RNA-Seq reads are usually too short to reliably determine the coding regions… #PAGXXII
+422456051137409024  Jan 12 14:52  @fstrozzi         AS: more than 40 genomes currently annotated using RNA-seq data with the NCBI pipeline #PAGXXII
+422457715605004289  Jan 12 14:59  @fstrozzi         Gunnar Rätsch talking about RNA-Seq-based Genome Annotation using mGene.ngs and MiTie #PAGXXII
