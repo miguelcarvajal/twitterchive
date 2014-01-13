@@ -8134,3 +8134,8 @@
 422758140635918336  Jan 13 10:52  @UseqMiseq        RT @DrLauraEmery: Hurry last chance to register 15/01/14: Marine #Metagenomics #bioinformatics #training course sponsored by MicroB3 http://www.ebi.ac.uk/training/course/metagenomic-analysis-2014
 422759411409772544  Jan 13 10:57  @FlaithriNeff     @metagenomics wish it was as easy as that. Depends on some underlying conditions being fixed first too.
 422763453489504256  Jan 13 11:13  @JamesMeadow      @arturgreensward I made that mistake one time - the first time I went to a metagenomics conference. Never again.
+422768634402848768  Jan 13 11:34  @jongsanders      How to download private data from MGRAST on command line:  curl -X GET -H "auth: webkey" "http://api.metagenomics.anl.gov/1/download/mgm4491344.3?file=299.1" > curl_output.txt
+422770203500769280  Jan 13 11:40  @pathogenomenick  @nl_brown @NERCscience ooh, why don’t you come visit Dartington Hall for our genomics course! http://www.eventbrite.co.uk/e/nerc-workshop-on-population-and-metagenomics-analysis-tickets-8628888237
+422771171864875009  Jan 13 11:44  @OmicsOmicsBlog   RT @genetics_blog: SIANN: Strain Identification by Alignment to Near Neighbors - #metagenomics methods by @sminot @KristaTernus & gang http://biorxiv.org/content/early/2014/01/10/001727
+422774673936748544  Jan 13 11:58  @BioMickWatson    @pathogenomenick @NoahFierer @JamesMeadow @arturgreensward who needs a whole paper?  http://biomickwatson.wordpress.com/2014/01/12/youre-probably-not-doing-metagenomics/
+422774985292148736  Jan 13 11:59  @surt_lab         RT @BioMickWatson: @pathogenomenick @NoahFierer @JamesMeadow @arturgreensward who needs a whole paper?  http://biomickwatson.wordpress.com/2014/01/12/youre-probably-not-doing-metagenomics/
