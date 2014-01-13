@@ -7264,3 +7264,19 @@
 422454331141406720  Jan 12 14:45  @infoecho         AS: Because the RNA-Seq reads are usually too short to reliably determine the coding regions… #PAGXXII
 422456051137409024  Jan 12 14:52  @fstrozzi         AS: more than 40 genomes currently annotated using RNA-seq data with the NCBI pipeline #PAGXXII
 422457715605004289  Jan 12 14:59  @fstrozzi         Gunnar Rätsch talking about RNA-Seq-based Genome Annotation using mGene.ngs and MiTie #PAGXXII
+422458045952585728  Jan 12 15:00  @fstrozzi         GR: mGene.ngs predict annotation based on RNA-seq and genomic information with learning function scoring gene models #PAGXXII
+422458571649871872  Jan 12 15:02  @LizzySollars     #PAGXXII mGene.ngs predicts annotation using RNA-seq read alignment. Used to reannotate 19 arabidopsis genomes.
+422458729359867905  Jan 12 15:03  @fstrozzi         GR: training mGene to predict gene models combining SVM generated signals with RNA-seq data coverage #PAGXXII
+422459543356850176  Jan 12 15:06  @LizzySollars     #PAGXXII mGene.ngs: integrating RNA-seq data increases transcript f score compared to ab initio.
+422460182849781760  Jan 12 15:08  @fstrozzi         GR: Transcript Skimmer used to get the highly expressed genes from RNA-seq data and to train back mGene.ngs #PAGXXII
+422460910356418560  Jan 12 15:11  @NucDiv           [Report] Single-Cell RNA-Seq Reveals Dynamic, Random Monoallelic Gene Expression in Mammalian Cells http://flip.it/ryleA
+422470179927625728  Jan 12 15:48  @mt_ur_mind       RT @infoecho: Mihaela Pertea on "The StringTie Approach to Reconstructing the Transcriptome from RNA-Seq Data” #PAGXXII
+422482874307080192  Jan 12 16:39  @BioMickWatson    @HendersonLab RNA-Seq should be cDNA-Seq?
+422494649194778624  Jan 12 17:25  @Genohub          RNA-Seq outpacing WGS: http://goo.gl/rsZ6rF #PAGXXII http://t.co/EVdW4K0ejW
+422500109415636992  Jan 12 17:47  @braincode        RT @gxr: Our galaxy-based RNA-seq analysis suite #oqtans was published as paper http://goo.gl/I75poH, galaxy instance, AWS AMI, toolshed, github..
+422507806705467392  Jan 12 18:18  @JChrisPires      RT @LizzySollars: #PAGXXII mGene.ngs: integrating RNA-seq data increases transcript f score compared to ab initio.
+422515864684867584  Jan 12 18:50  @ZeroGravityKyle  RT @TerryMcCracken: See what you've been missing: Explore RNA-Seq for Gene Expression research: http://youtu.be/V_4n8n5Z6I8 via @youtube
+422538065932873728  Jan 12 20:18  @iPlantCollab     iPlant workshop on Genome assembly, annotation, and RNA-Seq today at 5:30 Stratford room. #PAGXXII #iplantpag
+422543190957514752  Jan 12 20:38  @nmatasci         Starting now! RT @iPlantCollab: iPlant workshop on Genome assembly, annotation, and RNA-Seq today at 5:30 Stratford room. #PAGXXII
+422543229335007232  Jan 12 20:38  @danmaclean       RT @nmatasci: Starting now! RT @iPlantCollab: iPlant workshop on Genome assembly, annotation, and RNA-Seq today at 5:30 Stratford room. #PAGXXII
+422543550404759552  Jan 12 20:40  @TreeGenes        RT @iPlantCollab: iPlant workshop on Genome assembly, annotation, and RNA-Seq today at 5:30 Stratford room. #PAGXXII #iplantpag
