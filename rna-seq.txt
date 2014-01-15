@@ -7372,3 +7372,11 @@
 423253551549136896  Jan 14 19:41  @Mermaidkim       RT @illumina: JP:Showing whole human genome, RNA-Seq data comparisons from #NextSeq500 and other Illumina sequencers; excellent quality data #PAGXXII
 423257409352519680  Jan 14 19:56  @n0rr             RT @illumina: JP:Showing whole human genome, RNA-Seq data comparisons from #NextSeq500 and other Illumina sequencers; excellent quality data #PAGXXII
 423265954580406272  Jan 14 20:30  @MolecularCell    Single-Cell RNA-Seq shows independent and stochastic allelic transcription in the mammalian cell. @sciencemagazine http://ow.ly/sAJEx
+423278717134073856  Jan 14 21:21  @YoshiKawahara    @drk0311 MiSeqよりはやっぱり高いですね。1サンプル当たり10Mリードで発現解析すると考えると、1サンプル1万円ほどになり、180kスライド（4アレイ搭載）が1枚10万円なので、場合によってはコスト的にアレイ＞RNA-Seqとなることもありますね。
+423282293772263424  Jan 14 21:35  @n0rr             RT @YoshiKawahara: @drk0311 MiSeqよりはやっぱり高いですね。1サンプル当たり10Mリードで発現解析すると考えると、1サンプル1万円ほどになり、180kスライド（4アレイ搭載）が1枚10万円なので、場合によってはコスト的にアレイ＞RNA-Seqとなることもありますね。
+423285523336024065  Jan 14 21:48  @Kevin_McKernan   @KevinADavies @BioMickWatson I see no reason it cant. RNA seq may be tricky but other DNA can circularize. BIFX may be harder
+423299162356973568  Jan 14 22:42  @JChrisPires      RT @KTInvasion: AW: RNA seq methodology for genomic approach to biochemistry: Gongora-Castillo, 2012, methods in enzymology #pagxxii
+423317654850764801  Jan 14 23:56  @vyahhi           RT @illumina: New blog post: Meet NextSeq 500, your new star player for RNA-Seq http://bit.ly/1cjtUBY cc @Genomics_Guy
+423324979170918400  Jan 15 00:25  @LeucineRichBio   RNA-seq analysis of bovine intramuscular, subcutaneous and perirenal adipose tissues. http://www.ncbi.nlm.nih.gov/pubmed/24398553?dopt=Abstract
+423332015857864704  Jan 15 00:53  @MohamadNajia     Technical Variations in Low-Input RNA-seq Methodologies @NatureNews http://dx.doi.org/10.1038/srep03678
+423353572265582592  Jan 15 02:18  @lenovere         RT @babraham_bioinf: SeqMonk v0.27.0 is out, adding a new tool for grouping large numbers of samples and improving RNA-Seq and HiC tools. http://www.bioinformatics.babraham.ac.uk/projects/seqmonk/
