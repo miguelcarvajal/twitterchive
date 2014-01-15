@@ -1358,3 +1358,303 @@
 423182440530583552  Jan 14 14:58  @iPlantCollab     RT @nmatasci: Jon Duvick: xGDBvm - a complete genome annotation pipeline as a virtual machine in Atmosphere, @iPlantCollab's free cloud service #pagxxii
 423182475649495040  Jan 14 14:58  @KTInvasion       Yanhui Peng: non target round up resistance in horseweed #PAGXXII
 423182618499104769  Jan 14 14:59  @infoecho         Shaun Jackman (@sjackman) from UBC on “Assembling the genome sequnces of the plastid and mitochondrion of White Spruce” #PAGXXII
+423226206868107265  Jan 14 17:52  @sidsingh78       RT @PacBio: Edwin Hauw @PacBio wrkshp, 2014 planned improvements: MT @Ajwhall N50 12-18kb and 1,6gb per SMRT cell later this year #PAGXXII
+423226293241389056  Jan 14 17:53  @tanghaibao       Shane Brubaker (@solazyme): MOSAIK to perform haplotype assembly via PacBio reads, allele-specific expression now possible #PAGXXII @PacBio
+423226324845854721  Jan 14 17:53  @vertraeumte      RT @PlantEvolution: RT @rubenrellan: "hunger kills more kids than cancer" @PlantEvolution and yet most of #PAGXXII plenary speakers are cancer researchers.
+423226551451131904  Jan 14 17:54  @KTInvasion       JM: workflow will be made available to assist others, even with little bioinformatic experience, plus workshop at #BSA2014 #pagxxii
+423226772943953920  Jan 14 17:55  @lizworthey       RT @tanghaibao: Shane Brubaker (@solazyme): MOSAIK to perform haplotype assembly via PacBio reads, allele-specific expression now possible #PAGXXII @PacBio
+423226860860764160  Jan 14 17:55  @melinaGALL       @jmschaffer @Giacomonizzolo @TrekFactory I was checking tweets for the Plant and animal genome conferenc #PAGXXII and I see my father's pic
+423227045305675777  Jan 14 17:56  @kc31958          RT @PacBio: Edwin Hauw @PacBio wrkshp, 2014 planned improvements: MT @Ajwhall N50 12-18kb and 1,6gb per SMRT cell later this year #PAGXXII
+423227125626200064  Jan 14 17:56  @lizworthey       RT @PacBio: SB @solazyme: Pacbio assembly resolves previously un-sequenceable regions, incl. high GC & highly repetitive regions #PAGXXII
+423227133436387328  Jan 14 17:56  @PacBio           RT @tanghaibao: Shane Brubaker (@solazyme): MOSAIK to perform haplotype assembly via PacBio reads, allele-specific expression now possible #PAGXXII @PacBio
+423227217192046592  Jan 14 17:56  @lizworthey       RT @PacBio: Shane Brubaker @solazyme: Assembly, haplotyping, and annotation of a high gc algal genome - couldn't sequence with Illumina or 454 #PAGXXII
+423227347186089984  Jan 14 17:57  @lizworthey       RT @PacBio: SG @USDA_ARS: PacBio resolves unannotated exons, exon connectivity. extreme alternative poly-adenylation PacBio Wrkshp #PAGXXII
+423227413581922304  Jan 14 17:57  @KTInvasion       ME Schranz: ancient polyploidy events in the sunflower family, told from the mustard family perspective #pagxxii
+423227498973786112  Jan 14 17:57  @JamesBreeder     RT @AdvTechLead: Rule of thumb:  3 BioNano chips (i.e. ~$3,000) to do a complete 1 Gb mammalian genome. #CompleteYourStory #PAGXXII
+423227504002727936  Jan 14 17:57  @fstrozzi         Check out http://sswap.info for descriptions and useful tools for the @iPlantCollab semweb technologies #PAGXXII
+423227536676384768  Jan 14 17:58  @lizworthey       RT @infoecho: CL: PacBio data found most variants in Illumina and more on where there no Illumina coverage  #PacBioWorkshop  #PAGXXII
+423227654385311744  Jan 14 17:58  @lizworthey       RT @illumina: Drawback of doing bisulfite conversion at the end (current method): needs many rounds of PCR, introduces bias to seq data #PAGXXII
+423227655660388352  Jan 14 17:58  @geneiam          Christine Kinross @EpicentreBio @illumina showing their RNA matchmaker tool, developed by @Biomatters #PAGXXII http://t.co/PrXjLdx6NF
+423227793833328640  Jan 14 17:59  @lizworthey       RT @KTInvasion: .@chrisgrassa : sunflower genome is 75% repetitive, mostly gypsy repetitive element #PAGXXII
+423228085191069696  Jan 14 18:00  @PacBio           Allen Van Deynze @ucdavis: A De Novo Draft Assembly of Spinach Using PacBio - 980 bp, diploid #PAGXXII
+423228275599482880  Jan 14 18:00  @nmatasci         RT @PacBio: Allen Van Deynze @ucdavis: A De Novo Draft Assembly of Spinach Using PacBio - 980 bp, diploid #PAGXXII
+423228772796878848  Jan 14 18:02  @PAGmeeting       The #PAGTweetUp! Is happening now in the Tiki Pavilion. Meet #PAGXXII tweeters & enjoy a #beertasting with @whitelabs http://ow.ly/sxDQO
+423228846825930752  Jan 14 18:03  @KTInvasion       ES: no make that diversification. Many genera in sunflower family have 100s to 1000s species. Crazy! Revisiting lettuce genera #PAGXXII
+423229253665034241  Jan 14 18:04  @tanghaibao       Allen Van Deynze: de novo assembly of spinach with 60x @PacBio reads (3 libs, BluePippin) alone done by @infoecho using HGAP #PAGXXII
+423229407600594944  Jan 14 18:05  @PacBio           RT @tanghaibao: Allen Van Deynze: de novo assembly of spinach with 60x @PacBio reads (3 libs, BluePippin) alone done by @infoecho using HGAP #PAGXXII
+423229437338214400  Jan 14 18:05  @fluidigm         Between workshops? Need a pick-me-up? Grab a healthy snack at our @fluidigm farmers market booth #511 #PAGXXII @PAGMeeting
+423229626014371840  Jan 14 18:06  @ekageyama        At the beer tasting #PAGXXII
+423229858856960000  Jan 14 18:07  @tanghaibao       Allen Van Deynze: spinach N50=531Kb using tools HBAR-DTK, Falcon, Celera Assembler and Quiver #PAGXXII @infoecho
+423229913060356096  Jan 14 18:07  @nmatasci         #Tweetup starting now! Fewer people with twitter accounts then with so far. Come out, beer is good #pagxxii
+423230087899906048  Jan 14 18:08  @PacBio           RT @tanghaibao: Allen Van Deynze: spinach N50=531Kb using tools HBAR-DTK, Falcon, Celera Assembler and Quiver #PAGXXII @infoecho
+423230265495134209  Jan 14 18:08  @Lisa_Crossman    RT @tanghaibao: Allen Van Deynze: spinach N50=531Kb using tools HBAR-DTK, Falcon, Celera Assembler and Quiver #PAGXXII @infoecho
+423230597620715521  Jan 14 18:10  @Ajwhall          #PAGXXII spinach 1gb genome de novo sequenced on PACBIO, used falcon to assemble 530kb n50.   Compared to 389kb n50 with illumina @PacBio
+423230614142066688  Jan 14 18:10  @MaurissaB23      @whitelabs can't wait for #beertasting at #PAGXXII
+423230713136033792  Jan 14 18:10  @KTInvasion       RT @PAGmeeting: The #PAGTweetUp! Is happening now in the Tiki Pavilion. Meet #PAGXXII tweeters & enjoy a #beertasting with @whitelabs http://ow.ly/sxDQO
+423230718207344641  Jan 14 18:10  @PacBio           RT @Ajwhall: #PAGXXII spinach 1gb genome de novo sequenced on PACBIO, used falcon to assemble 530kb n50.   Compared to 389kb n50 with illumina @PacBio
+423231202397401088  Jan 14 18:12  @PhytoBiomes      K Eversole @EversoleAssoc - 11 Jan - need ref crop genome sequences linked w/ phytobiomics to address climate change #PAGXXII @plantdisease
+423231344898887680  Jan 14 18:13  @infoecho         RT @tanghaibao: Allen Van Deynze: spinach N50=531Kb using tools HBAR-DTK, Falcon, Celera Assembler and Quiver #PAGXXII @infoecho
+423231550935683072  Jan 14 18:13  @tanghaibao       Allen Van Deynze: compare Illumina assembly and PB assembly side by side, checking complementary gaps and accurarcy #PAGXXII
+423231626353463296  Jan 14 18:14  @Ajwhall          “@mjcgenetics: What a surprise! RE: @broadinstitute being the first @illumina Hiseq X customer #PAGXXII
+423231781882826752  Jan 14 18:14  @OmicsOmicsBlog   RT @Ajwhall: #PAGXXII spinach 1gb genome de novo sequenced on PACBIO, used falcon to assemble 530kb n50.   Compared to 389kb n50 with illumina @PacBio
+423232158040223744  Jan 14 18:16  @tanghaibao       RT @KTInvasion: ME Schranz: ancient polyploidy events in the sunflower family, told from the mustard family perspective #pagxxii
+423232316744278017  Jan 14 18:17  @nmatasci         300 > 320 #pagtweetup #pagxxii
+423232341805236224  Jan 14 18:17  @bluessherpa      Last talk is finished @ #PAGXXII!  Talked about RNAseq and in silico subtraction w/ data from @CofactorGenomic #fellerslab
+423232369949028352  Jan 14 18:17  @Single_Molecule  Best yeast genetics talk ever, complete with beers brewed with different strains #PAGXXII
+423232412647047169  Jan 14 18:17  @wheatgenome      IWGSC wksp - Andy Sharpe @GenomeCanada & @GenomePrairie presenting update on ref sequence & snp discovery for bread wheat chrm 1A #PAGXXII
+423232550119952384  Jan 14 18:17  @PacBio           AVD @ucdavis '1GB genome is totally assemble-able using de novo PacBio at 60x coverage' #PAGXXII
+423232643832872960  Jan 14 18:18  @wheatgenome      IWGSC wksp - Dave Edwards (univ Queensland) presents method for assembling BACs for seq of bread wheat chrm 7DS #PAGXXII
+423232759663173632  Jan 14 18:18  @PacBio           RT @tanghaibao: Allen Van Deynze: compare Illumina assembly and PB assembly side by side, checking complementary gaps and accurarcy #PAGXXII
+423232798854758401  Jan 14 18:18  @PAGmeeting       http://ow.ly/i/4i7BU #pagxxii #beertasting with Troels Prahl of @whitelabs
+423232856983224322  Jan 14 18:19  @chloe46037       White Labs presenting our work on 96 strains of s.cerevisiae #PAGXXII http://t.co/xFBZs9KN6P
+423233057995227137  Jan 14 18:19  @chloe46037       RT @PAGmeeting: http://ow.ly/i/4i7BU #pagxxii #beertasting with Troels Prahl of @whitelabs
+423233094963826688  Jan 14 18:20  @lazo             #PAGXXII #beertasting lecture on yeast strains. Bavarian and American brewed Hefs compared.
+423233148991045632  Jan 14 18:20  @gknoProject      RT @ewanbirney: Thoughts from #PAGXXII : 1. cheap genomic data might have a bigger impact on agriculture than human health in the long term
+423233226602061824  Jan 14 18:20  @KTInvasion       ES: 4 conserved colinear single copy genes across all eudicots #pagxxii whoa! Wut?
+423233363835912193  Jan 14 18:21  @aphillippy       RT @tanghaibao: Allen Van Deynze: spinach N50=531Kb using tools HBAR-DTK, Falcon, Celera Assembler and Quiver #PAGXXII @infoecho
+423233720133246977  Jan 14 18:22  @PAGmeeting       RT @lazo: #PAGXXII #beertasting lecture on yeast strains. Bavarian and American brewed Hefs compared.
+423233748511903744  Jan 14 18:22  @dgmacgrant       #PAGXXII #beertasting FREE BEER in Tiki House
+423233786436780032  Jan 14 18:22  @galaxyproject    Coming to the #PAGXXII Galaxy workshop at 4? Slides are online http://bit.ly/gxypag2014 #usegalaxy
+423233801842470912  Jan 14 18:22  @PAGmeeting       RT @chloe46037: White Labs presenting our work on 96 strains of s.cerevisiae #PAGXXII http://t.co/xFBZs9KN6P
+423233907010465792  Jan 14 18:23  @memeticrick      WLP320 vs WLP300 tasting and culture population diversity talk by @whitelabs at this otherwise normal genomics conference is nice #PAGXXII
+423234011549270016  Jan 14 18:23  @KTInvasion       Wpl 320 vs wpl 300? Tweetup and beer tasting at #PAGXXII #whereMyHomebrewersAt?
+423234148502077440  Jan 14 18:24  @PAGmeeting       RT @dgmacgrant: #PAGXXII #beertasting FREE BEER in Tiki House for twitter followers
+423234269297651712  Jan 14 18:24  @MaurissaB23      RT @memeticrick: WLP320 vs WLP300 tasting and culture population diversity talk by @whitelabs at this otherwise normal genomics conference is nice #PAGXXII
+423234295394615296  Jan 14 18:24  @MaurissaB23      RT @dgmacgrant: #PAGXXII #beertasting FREE BEER in Tiki House
+423234374243344384  Jan 14 18:25  @MaurissaB23      RT @PAGmeeting: http://ow.ly/i/4i7BU #pagxxii #beertasting with Troels Prahl of @whitelabs
+423234446889066496  Jan 14 18:25  @PAGmeeting       What aroma notes do you pick up? #pagxxii # beertasting @whitelabs
+423234722731278338  Jan 14 18:26  @nmatasci         Word of the day: flocculation. Clustering of yeast cells. Hefewizen year should not do it. #pagtweetup #pagxxii
+423234811310784512  Jan 14 18:26  @nmatasci         RT @Single_Molecule: Best yeast genetics talk ever, complete with beers brewed with different strains #PAGXXII
+423234848095215616  Jan 14 18:27  @PAGmeeting       #pagxxii #pagtweetup can you taste the difference?
+423234939661086720  Jan 14 18:27  @nmatasci         RT @galaxyproject: Coming to the #PAGXXII Galaxy workshop at 4? Slides are online http://bit.ly/gxypag2014 #usegalaxy
+423234962842591232  Jan 14 18:27  @PAGmeeting       RT @nmatasci: Word of the day: flocculation. Clustering of yeast cells. Hefewizen year should not do it. #pagtweetup #pagxxii
+423235135706628096  Jan 14 18:28  @PAGmeeting       RT @KTInvasion: Wpl 320 vs wpl 300? Tweetup and beer tasting at #PAGXXII #whereMyHomebrewersAt?
+423235306570006528  Jan 14 18:28  @PAGmeeting       RT @Single_Molecule: Best yeast genetics talk ever, complete with beers brewed with different strains #PAGXXII
+423235321413636096  Jan 14 18:28  @mehmattski       Enjoying a scientific #beertasting courtesy of @whitelabs at #PAGXXII http://t.co/VV29sko1YD
+423235390170882048  Jan 14 18:29  @lazo             Chain forming yeasts in my Hefs.  Batch300 Batch320. #beertasting #pagxxii more batches?
+423235571704557568  Jan 14 18:29  @PAGmeeting       RT @mehmattski: Enjoying a scientific #beertasting courtesy of @whitelabs at #PAGXXII http://t.co/VV29sko1YD
+423235840752369664  Jan 14 18:31  @MaurissaB23      RT @mehmattski: Enjoying a scientific #beertasting courtesy of @whitelabs at #PAGXXII http://t.co/VV29sko1YD
+423236186300100608  Jan 14 18:32  @PAGmeeting       Yeast could care less about making beer, they just want to survive. #pagtweetup @whitelabs #beertasting #pagxxii
+423236714031616000  Jan 14 18:34  @JamesBreeder     RT @KTInvasion: JM: trees built with 763 loci conserved across family #PAGXXII
+423237330808221696  Jan 14 18:36  @jesusToast       #PAGXXII who knew I like American Hefeweizen yeast better than the German. (Not a fan of banana flavor) #whitelabs
+423238072965152768  Jan 14 18:39  @PAGmeeting       RT @jesusToast: #PAGXXII who knew I like American Hefeweizen yeast better than the German. (Not a fan of banana flavor) #whitelabs
+423238098290348034  Jan 14 18:40  @lazo             #beertasting #pagxxii genotyping yeast strains at a genome conference and sampling. Engineering a better brew through metabolomics.
+423238395343552513  Jan 14 18:41  @KTInvasion       .@whitelabs tasting room San Diego. Apparently, "brewers come in, taste our beer, say 'how do I make exactly this beer?'" ORLY? #pagxxii
+423238673589497856  Jan 14 18:42  @JosephGuhlin     Don't tell anyone I prefer @Wyeastlab . #PAGXXII
+423238941509054464  Jan 14 18:43  @JosephGuhlin     RT @PAGmeeting: What aroma notes do you pick up? #pagxxii # beertasting @whitelabs
+423238964703531008  Jan 14 18:43  @lazo             #pagxxii #beertasting Bioinformatics and beer! Now your talking.
+423239028624728064  Jan 14 18:43  @KTInvasion       .@whitelabs and @illumina sequencing 200 yeast strains with phenotype screens, will be publicly available #pagxxii cool! #homebrew
+423239807091748864  Jan 14 18:46  @PAGmeeting       RT @KTInvasion: .@whitelabs and @illumina sequencing 200 yeast strains with phenotype screens, will be publicly available #pagxxii cool! #homebrew
+423239831943004160  Jan 14 18:46  @nmatasci         #OpenScience for beer brewing with @whitelabs  #pagxxii
+423239978248724480  Jan 14 18:47  @KTInvasion       .@whitelabs: with genomes, perusal for advanced breeding or even genetic modification in brewers yeast #PAGXXII #homebrew
+423239999241199616  Jan 14 18:47  @mehmattski       This is the first beer tasting I've ever been to that featured bioinformatics and box plots. @whitelabs #PAGXXII
+423240502192783360  Jan 14 18:49  @mcaccamo         @michaelalaux gives an overview of the wheat tools at URGI - IWGSC SP workshop #PAGXXII
+423240517149675520  Jan 14 18:49  @JosephGuhlin     RT @KTInvasion: .@whitelabs and @illumina sequencing 200 yeast strains with phenotype screens, will be publicly available #pagxxii cool! #homebrew
+423240541887668224  Jan 14 18:49  @illumina         RT @KTInvasion: .@whitelabs and @illumina sequencing 200 yeast strains with phenotype screens, will be publicly available #pagxxii cool! #homebrew
+423240661769277440  Jan 14 18:50  @KTInvasion       .@whitelabs: ale yeast and lager yeast are different species, different phenotypes #pagxxii #homebrew (That's need to me!)
+423240755553914880  Jan 14 18:50  @PAGmeeting       RT @lazo: #pagxxii #beertasting Bioinformatics and beer! Now your talking.
+423240983749222400  Jan 14 18:51  @GigaScience      GigaDB curator @only1chunts currently at the @whitelabs scientific #beertasting at #PAGXXII #pagtweetup. Think we need some yeast genomes
+423241052422955008  Jan 14 18:51  @illumina         Illumina wkshp and networking reception begins in 10 min, Golden West. Get the latest product, research updates, walk-ins welcome! #PAGXXII
+423241291657248768  Jan 14 18:52  @doe_jgi          #PAGXXII Learn about DOE Joint Genome Institute (JGI) Plant Sciences http://bit.ly/JGI-plants today at 4pm in Pacific Salon 1
+423241435664490496  Jan 14 18:53  @nmatasci         Highly similar strains can lead to large flavor differences. How much of it is expression? #pagxxii
+423241937760423936  Jan 14 18:55  @fredChoulet      RT @wheatgenome: IWGSC wksp - Andy Sharpe @GenomeCanada & @GenomePrairie presenting update on ref sequence & snp discovery for bread wheat chrm 1A #PAGXXII
+423241942336413697  Jan 14 18:55  @fredChoulet      RT @wheatgenome: IWGSC wksp - Dave Edwards (univ Queensland) presents method for assembling BACs for seq of bread wheat chrm 7DS #PAGXXII
+423242113396908032  Jan 14 18:55  @foodimprover     RT @Single_Molecule: Best yeast genetics talk ever, complete with beers brewed with different strains #PAGXXII
+423242190463442944  Jan 14 18:56  @mahtabm81        RT @mike_schatz: Let's try that again. Predicting the future of genome assembly. #pagxxii http://schatzlab.cshl.edu/presentations/2014-01-14.PAG.Single%20Molecule%20Assembly.pdf
+423243386556936192  Jan 14 19:01  @doe_jgi          #PAGXXII 4-6:10pm KBase for the Plant Biologist and Community Developer: http://bit.ly/KBase-PAG in the Towne Hall
+423243916612481024  Jan 14 19:03  @lucventurini     RT @PacBio: Allen Van Deynze @ucdavis: A De Novo Draft Assembly of Spinach Using PacBio - 980 bp, diploid #PAGXXII
+423243968650825728  Jan 14 19:03  @noituloveand     Thought @Illumina session was full at #pagxxii b/c of line outside.  Nope - they were scanning everyone’s badge at the door.
+423244029795794944  Jan 14 19:03  @garimameh        Couldn't make it to PAG? See the best of all here-  http://sfy.co/fZfB #PAGXXII
+423244206002278400  Jan 14 19:04  @JamesBreeder     At the JGI Plant science...bioenergy and plants! Finally my area! #bioenergy #PAGXXII
+423244215850512384  Jan 14 19:04  @fstrozzi         At the @illumina workshop,  waiting to see NextSeq announcement and related news #PAGXXII
+423244521611075584  Jan 14 19:05  @stochastic_jedi  Cassava workshop at #PAGXXII has many more attendees than last year.
+423244834141265921  Jan 14 19:06  @KTInvasion       RT @garimameh: Couldn't make it to PAG? See the best of all here-  http://sfy.co/fZfB #PAGXXII
+423244858615033857  Jan 14 19:06  @doe_jgi          Check out the speakers’ list for JGI’s workshop today 4-6pm in #PAGXXII Pacific Salon 1 http://bit.ly/JGI-PAG
+423244954006069248  Jan 14 19:07  @KTInvasion       RT @stochastic_jedi: Cassava workshop at #PAGXXII has many more attendees than last year.
+423244991583244288  Jan 14 19:07  @mt_ur_mind       RT @infoecho: SK “Long reads compensate for high error” #PAGXXII
+423245054279307264  Jan 14 19:07  @wheatgenome      @michaelalaux gave great talk on tools/resources available at IWGSC repository hosted by @Inra_urgi #PAGXXII See: http://wheat-urgi.versailles.inra.fr/Seq-Repository/
+423245310068932608  Jan 14 19:08  @noituloveand     65% of #pagxxii abstracts mention @illumina technology.
+423245463463026688  Jan 14 19:09  @JamesBreeder     RT @doe_jgi: Check out the speakers’ list for JGI’s workshop today 4-6pm in #PAGXXII Pacific Salon 1 http://bit.ly/JGI-PAG
+423245481624338432  Jan 14 19:09  @stochastic_jedi  Cassava genetic linkage marker map available at http://cassavabase.org #PAGXXII
+423245889734320128  Jan 14 19:10  @illumina         What will you do next? #NextSeq500 http://bit.ly/KhHMWy #PAGXXII
+423245890145759232  Jan 14 19:10  @mt_ur_mind       RT @PacBio: Mike Schatz: It's no secret that long reads are the key to genome assembly #PAGXXII
+423245955941425152  Jan 14 19:11  @wheatgenome      IWGSC Wksp: Paul Kersey presenting wheat data available @ensembl Plants, including IWGSC bread wheat chrm survey seq & gene models #PAGXXII
+423245970902888448  Jan 14 19:11  @mt_ur_mind       RT @infoecho: MS, the spectrum using PacBio data,  PBJelly <5x to HGAP & Quiver >50x #PAGXXII
+423246311186391040  Jan 14 19:12  @stochastic_jedi  Cassava pseudo molecules available at http://phytozome.net #PAGXXII
+423246497044783104  Jan 14 19:13  @mt_ur_mind       RT @infoecho: MS, assembly results for rice, 370Mb genome, Chromosome N50 : 29.7Mbp, ECTools, N50 155695, #PAGXXII
+423246859511934976  Jan 14 19:14  @Inra_urgi        RT @wheatgenome: @michaelalaux gave great talk on tools/resources available at IWGSC repository hosted by @Inra_urgi #PAGXXII See: http://wheat-urgi.versailles.inra.fr/Seq-Repository/
+423246922627809280  Jan 14 19:15  @schnablep        RT @illumina: What will you do next? #NextSeq500 http://bit.ly/KhHMWy #PAGXXII
+423246980245381120  Jan 14 19:15  @mt_ur_mind       RT @infoecho: KW, PBJelly 1- fill gaps, PBJelly 2- scaffolding and gap filling Honey - Structural Variation identification and assembly QC #PAGXXII
+423247178862043136  Jan 14 19:16  @hquesneville     RT @wheatgenome: @michaelalaux gave great talk on tools/resources available at IWGSC repository hosted by @Inra_urgi #PAGXXII See: http://wheat-urgi.versailles.inra.fr/Seq-Repository/
+423247328167071746  Jan 14 19:16  @mt_ur_mind       RT @PacBio: Prescient? RT @mike_schatz: Predicting the future of long read assembly. #pagxxii http://schatzlab.cshl.edu/presentations/2012-01-17.PAG.SMRTassembly.pdf
+423247630261817344  Jan 14 19:17  @mt_ur_mind       RT @infoecho: KW, Sheep genome, 19X PacBio Data, 40kb max, 8kb N50, closed 89% of gaps Increased contig N50 to 500kb #PAGXXII
+423247653401817088  Jan 14 19:17  @mt_ur_mind       RT @infoecho: KW, Closed 40% gaps for Rat genome with PBJelly 2 #PAGXXII
+423247699303858176  Jan 14 19:18  @KTInvasion       @nmatasci I imagine @whitelabs is standardizing for phenotype screen. But there are diff. brew recc'd conditions for each strain #PAGXXII
+423248064275431424  Jan 14 19:19  @illumina         Recognizing recipients of the Agricultural Greater Good Initiative at #PAGXXII http://t.co/ciJ2gkbzER
+423248136841072640  Jan 14 19:19  @Alum_Canyon      Predictive modeling of plant phenotypes based on genotypes @MonsantoCo #PAGXXII
+423248258769485824  Jan 14 19:20  @rubenrellan      #PAGXXII @mdelucas80 How PCR2 regulates gene expression in different root cell types and why these genes are important @sudogenes
+423248452101754880  Jan 14 19:21  @illumina         In the Illumina technology workshop at #PAGXXII, Jeremy Preston gives an update on systems
+423248562604875777  Jan 14 19:21  @dritoshi         RT @illumina: In the Illumina technology workshop at #PAGXXII, Jeremy Preston gives an update on systems
+423248621509689344  Jan 14 19:21  @dritoshi         RT @illumina: What will you do next? #NextSeq500 http://bit.ly/KhHMWy #PAGXXII
+423249098423017473  Jan 14 19:23  @chloe46037       Jeremy Preston is introducing NextSeq 500 #PAGXXII http://t.co/5iVVidwmC0
+423249168753098752  Jan 14 19:24  @wheatgenome      @mcaccamo from @GenomeAnalysis speaking about integrating whole genome assemblies of bread wheat genome with chrms at IWGSC wksp #PAGXXII
+423249384608759808  Jan 14 19:24  @liu3zhen         Illumina introduces HiSeqX 10 and  NextSeq #PAGXXII
+423249487847362560  Jan 14 19:25  @illumina         #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423249714721464320  Jan 14 19:26  @chloe46037       RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423249727967084544  Jan 14 19:26  @yaskaz           RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423249812385828864  Jan 14 19:26  @dritoshi         RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423249844740714496  Jan 14 19:26  @sk1200           RT @illumina: What will you do next? #NextSeq500 http://bit.ly/KhHMWy #PAGXXII
+423249904589213698  Jan 14 19:26  @SvetlanaNikic    RT @illumina: In the Illumina technology workshop at #PAGXXII, Jeremy Preston gives an update on systems
+423249961820512256  Jan 14 19:27  @liu3zhen         NextSeq: speedy and simple system for everyday genomics: 120GB, 400M reads, 2x150 #PAGXXII
+423250043840126976  Jan 14 19:27  @ekageyama        Next seq so pretty #PAGXXII @illumina
+423250049066209280  Jan 14 19:27  @SvetlanaNikic    RT @illumina: What will you do next? #NextSeq500 http://bit.ly/KhHMWy #PAGXXII
+423250199381680128  Jan 14 19:28  @fstrozzi         @illumina HiSeq X delivering 1000$ genome. #PAGXXII
+423250281581654016  Jan 14 19:28  @kk824            RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423250618296598528  Jan 14 19:29  @byuhobbes        RT @tanghaibao: Davide Scaglione: artichoke, chicory and endive done by ALLPATHS-LG with scf N50 of ~120Kb, ~30Kb and ~60Kb  #whatsYourN50 #PAGXXII
+423250801058775041  Jan 14 19:30  @cjfields         Illumina is the Apple of biotechnology #PAGXXII
+423251093770862592  Jan 14 19:31  @ogishima         RT @illumina: What will you do next? #NextSeq500 http://bit.ly/KhHMWy #PAGXXII
+423251168098136064  Jan 14 19:31  @ogishima         RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423251173785604096  Jan 14 19:31  @KristaTernus     I'm flying home from #PAGXXII. It was exciting to see such an expansion in the variety of genomes & research presented at PAG!
+423251395957911553  Jan 14 19:32  @iNut             RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423251496638349312  Jan 14 19:33  @notSoJunkDNA     RT @liu3zhen: NextSeq: speedy and simple system for everyday genomics: 120GB, 400M reads, 2x150 #PAGXXII
+423251512282722304  Jan 14 19:33  @noituloveand     So true. RT @cjfields: Illumina is the Apple of biotechnology #PAGXXII
+423251585355898880  Jan 14 19:33  @cjfields         HiSeq X10 and NextSeq talk in progress #PAGXXII
+423251643547664386  Jan 14 19:33  @illumina         JP: #NextSeq500 represents an evolution of SBS chemistry, hits the sweet spot of output for many applications. #PAGXXII
+423251720823517184  Jan 14 19:34  @C2khenry         RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423251731800027136  Jan 14 19:34  @nmatasci         RT @KristaTernus: I'm flying home from #PAGXXII. It was exciting to see such an expansion in the variety of genomes & research presented at PAG!
+423252336547360768  Jan 14 19:36  @stochastic_jedi  NGSEP bifx pipeline for cassava genome http://sourceforge.net/p/ngsep/wiki/Home/ #CIAT #CGIAR #PAGXXII
+423252499605495808  Jan 14 19:37  @OmicsOmicsBlog   RT @PacBio: AVD @ucdavis '1GB genome is totally assemble-able using de novo PacBio at 60x coverage' #PAGXXII
+423252554575646721  Jan 14 19:37  @gatapishichan    RT @illumina: JP: #NextSeq500 represents an evolution of SBS chemistry, hits the sweet spot of output for many applications. #PAGXXII
+423252609231622144  Jan 14 19:37  @cjfields         NextSeq 30x human genome in 30 hrs #PAGXXII
+423252661899886592  Jan 14 19:37  @OmicsOmicsBlog   RT @KTInvasion: .@whitelabs and @illumina sequencing 200 yeast strains with phenotype screens, will be publicly available #pagxxii cool! #homebrew
+423252708569522177  Jan 14 19:38  @illumina         JP: Mid and high thoughput modes on #NextSeq500 give newfound experimental flexibility http://bit.ly/1b17lSU #PAGXXII
+423252863440392194  Jan 14 19:38  @GholsonLyon      RT @illumina: JP: Mid and high thoughput modes on #NextSeq500 give newfound experimental flexibility http://bit.ly/1b17lSU #PAGXXII
+423252895887159296  Jan 14 19:38  @vsbuffalo        RT @ewanbirney: Thoughts from #PAGXXII : 1. cheap genomic data might have a bigger impact on agriculture than human health in the long term
+423252950215954433  Jan 14 19:39  @fischer_cr       RT @KTInvasion: .@whitelabs and @illumina sequencing 200 yeast strains with phenotype screens, will be publicly available #pagxxii cool! #homebrew
+423253000396632064  Jan 14 19:39  @ekageyama        RT @cjfields: Illumina is the Apple of biotechnology #PAGXXII
+423253002648948736  Jan 14 19:39  @JuanUgaldeC      RT @ewanbirney: Thoughts from #PAGXXII : 1. cheap genomic data might have a bigger impact on agriculture than human health in the long term
+423253067463548928  Jan 14 19:39  @cjfields         That would be WGS, for clarification #PAGXXII
+423253140129869825  Jan 14 19:39  @illumina         JP:Showing whole human genome, RNA-Seq data comparisons from #NextSeq500 and other Illumina sequencers; excellent quality data #PAGXXII
+423253398226358272  Jan 14 19:40  @Mermaidkim       RT @illumina: What will you do next? #NextSeq500 http://bit.ly/KhHMWy #PAGXXII
+423253428614070272  Jan 14 19:40  @Mermaidkim       RT @KTInvasion: .@whitelabs and @illumina sequencing 200 yeast strains with phenotype screens, will be publicly available #pagxxii cool! #homebrew
+423253461736497152  Jan 14 19:41  @timtriche        RT @ewanbirney: Thoughts from #PAGXXII : 1. cheap genomic data might have a bigger impact on agriculture than human health in the long term
+423253463842037761  Jan 14 19:41  @Mermaidkim       RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423253487250464768  Jan 14 19:41  @Mermaidkim       RT @illumina: JP: #NextSeq500 represents an evolution of SBS chemistry, hits the sweet spot of output for many applications. #PAGXXII
+423253511191535616  Jan 14 19:41  @DanChitwood      RT @ewanbirney: Thoughts from #PAGXXII : 1. cheap genomic data might have a bigger impact on agriculture than human health in the long term
+423253531655536641  Jan 14 19:41  @Mermaidkim       RT @illumina: JP: Mid and high thoughput modes on #NextSeq500 give newfound experimental flexibility http://bit.ly/1b17lSU #PAGXXII
+423253540669521920  Jan 14 19:41  @Ataro1002        RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423253551549136896  Jan 14 19:41  @Mermaidkim       RT @illumina: JP:Showing whole human genome, RNA-Seq data comparisons from #NextSeq500 and other Illumina sequencers; excellent quality data #PAGXXII
+423253607085912064  Jan 14 19:41  @fstrozzi         @Illumina HiSeq X able to deliver16 human genomes sequenced in less then 3 days #PAGXXII
+423253733766885376  Jan 14 19:42  @GholsonLyon      RT @mike_schatz: Let's try that again. Predicting the future of genome assembly. #pagxxii http://schatzlab.cshl.edu/presentations/2014-01-14.PAG.Single%20Molecule%20Assembly.pdf
+423253810581364736  Jan 14 19:42  @GholsonLyon      RT @aphillippy: First animal sequenced and assembled solely w/ @PacBio! #PAGXXII Links: http://blog.pacificbiosciences.com/ http://bergmanlab.smith.man.ac.uk/?p=2176 http://cbcb.umd.edu/software/pbcr/dmel.html
+423253833024684032  Jan 14 19:42  @wheatgenome      Martin Mascher, IPK Gatersleben  presents POPSEQ for barley and efforts in wheat at IWGSC wkshp #PAGXXII
+423253902922756096  Jan 14 19:42  @illumina         JP: HiSeq X Ten: Patterned flowcell tech for optimal cluster spacing, exclusion amplification delivers single template per well #PAGXXII
+423254105054646274  Jan 14 19:43  @stochastic_jedi  Wonderful talk on cassava diversity by Luis Augusto Becerra #CIAT #PAGXXII
+423254207802900480  Jan 14 19:44  @drbachinsky      RT @illumina: What will you do next? #NextSeq500 http://bit.ly/KhHMWy #PAGXXII
+423254366431109121  Jan 14 19:44  @CornellCALSIP    RT @stochastic_jedi: Cassava genetic linkage marker map available at http://cassavabase.org #PAGXXII
+423254388291796992  Jan 14 19:44  @cjfields         Hiseqx10. Holy crap. #PAGXXII http://t.co/AsYvWwqI0i
+423254488606994432  Jan 14 19:45  @stochastic_jedi  The cassava diversity conversation has blown up in complexity  #PAGXXII
+423254501798051841  Jan 14 19:45  @mcaccamo         Martin Mascher - POPSeq - or high-density genetic maps using NGS on RILs - barley 927Mb anchored  #PAGXXII IWGSC workshop
+423254759361875968  Jan 14 19:46  @mcaccamo         RT @illumina: JP: HiSeq X Ten: Patterned flowcell tech for optimal cluster spacing, exclusion amplification delivers single template per well #PAGXXII
+423254853180080128  Jan 14 19:46  @illumina         JP: Our thorough lineup of sample prep solutions make the sequencing and analysis possible #PAGXXII
+423254891406974976  Jan 14 19:46  @ShannonStraub1   RT @liu3zhen: NextSeq: speedy and simple system for everyday genomics: 120GB, 400M reads, 2x150 #PAGXXII
+423254895039242240  Jan 14 19:46  @mt_ur_mind       RT @infoecho: Klaus Mayer, ‘fate” of duplicate genes: remain active, diverged expression, elimination #PAGXXII
+423255159658274816  Jan 14 19:47  @mt_ur_mind       RT @infoecho: SJ shows how they hack Illumina mating to get 500 bp read before Illumina #PAGXXII #hackingIsGood
+423255224090755072  Jan 14 19:48  @stochastic_jedi  Becky Bart from @DanforthCenter speaking now at the Cassava workshop #PAGXXII
+423255258437939202  Jan 14 19:48  @mcaccamo         RT @wheatgenome: IWGSC Wksp: Paul Kersey presenting wheat data available @ensembl Plants, including IWGSC bread wheat chrm survey seq & gene models #PAGXXII
+423255330512846848  Jan 14 19:48  @hutchins_e       RT @cjfields: Hiseqx10. Holy crap. #PAGXXII http://t.co/AsYvWwqI0i
+423255339752890368  Jan 14 19:48  @illumina         Up next, Pierre Turpin on overcoming NGS informatics challenges #PAGXXII
+423255872010481664  Jan 14 19:50  @Hotellook        http://bit.ly/Hotellook #man made vs #nature made #trees #sunset #sky #landscape #hotel #pagxxii #sandiego #calif... http://t.co/TL5Z274iNN
+423256070589407232  Jan 14 19:51  @stochastic_jedi  Becky Bart speaking on host pathogen interactions related to cassava #DanforthCenter #PAGXXII
+423256128621772801  Jan 14 19:51  @cjfields         Illumina: 1/2 day to analyze data. Bit nebulous... #PAGXXII
+423256132484743168  Jan 14 19:51  @illumina         PT: Seamless integration of #NextSeq500 with #BaseSapce- 50 GB and half a day of analysis for a 30x genome #PAGXXII
+423256218736394240  Jan 14 19:52  @C2khenry         RT @illumina: PT: Seamless integration of #NextSeq500 with #BaseSapce- 50 GB and half a day of analysis for a 30x genome #PAGXXII
+423256369915904001  Jan 14 19:52  @stochastic_jedi  TAL effectors getting some good attention #DanforthCenter #PAGXXII
+423256744899649537  Jan 14 19:54  @mt_ur_mind       RT @infoecho: SK, cost for 300Mbp genome = $23,000, one library with only PacBio reads #PAGXXII
+423256829389307904  Jan 14 19:54  @n0rr             RT @illumina: PT: Seamless integration of #NextSeq500 with #BaseSapce- 50 GB and half a day of analysis for a 30x genome #PAGXXII
+423256841922314240  Jan 14 19:54  @healthorder      RT @illumina: PT: Seamless integration of #NextSeq500 with #BaseSapce- 50 GB and half a day of analysis for a 30x genome #PAGXXII
+423256889103622144  Jan 14 19:54  @mt_ur_mind       RT @infoecho: SK, 10 SMRTCell getting 117X PacBio P4-C2 reads, S. cerevisaie  W303, N50 > 800kb #PAGXXII
+423256935417139201  Jan 14 19:54  @stochastic_jedi  TALEN used to mutate endogenous TAL binding site -> resistance @DanforthCenter #PAGXXII
+423257104145584128  Jan 14 19:55  @hquesneville     RT @wheatgenome: IWGSC Wksp: Paul Kersey presenting wheat data available @ensembl Plants, including IWGSC bread wheat chrm survey seq & gene models #PAGXXII
+423257165143355392  Jan 14 19:55  @hquesneville     RT @wheatgenome: @mcaccamo from @GenomeAnalysis speaking about integrating whole genome assemblies of bread wheat genome with chrms at IWGSC wksp #PAGXXII
+423257173729492992  Jan 14 19:55  @OmicsOmicsBlog   RT @illumina: JP: HiSeq X Ten: Patterned flowcell tech for optimal cluster spacing, exclusion amplification delivers single template per well #PAGXXII
+423257263206170625  Jan 14 19:56  @illumina         PT: #BaseSpace #Onsite: Keep your data on-premesis, if you prefer (or are required to)  http://bit.ly/1hozMzl #PAGXXII
+423257274262360064  Jan 14 19:56  @n0rr             RT @illumina: JP: HiSeq X Ten: Patterned flowcell tech for optimal cluster spacing, exclusion amplification delivers single template per well #PAGXXII
+423257311214198784  Jan 14 19:56  @n0rr             RT @illumina: PT: #BaseSpace #Onsite: Keep your data on-premesis, if you prefer (or are required to)  http://bit.ly/1hozMzl #PAGXXII
+423257360111390721  Jan 14 19:56  @cjfields         BaseSpace onsite: local analysis using basespace. #PAGXXII
+423257409352519680  Jan 14 19:56  @n0rr             RT @illumina: JP:Showing whole human genome, RNA-Seq data comparisons from #NextSeq500 and other Illumina sequencers; excellent quality data #PAGXXII
+423257473340813312  Jan 14 19:57  @fstrozzi         @illumina announcing BaseSpace OnSite to keep the BaseSpace solution within an existing infrastructure #PAGXXII
+423257526730125312  Jan 14 19:57  @ekageyama        Have  money? Buy 10 illumina hiseq10 and get it with your logo in a titanium plate. 1000 $ genome!16 human genomes 3 days@illumina #PAGXXII
+423257527266996224  Jan 14 19:57  @n0rr             RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423257599711002624  Jan 14 19:57  @chloe46037       Pierre Turpin is giving details on "baseSpace on-site". #PAGXXII http://t.co/649CZLwpBh
+423257667583234048  Jan 14 19:57  @mcaccamo         Rohde ( Bayer CropScience) - sustainable wheat prod = agronomy, protection products, improved variety and  technologies  IWGSC #PAGXXII
+423257842897145856  Jan 14 19:58  @mt_ur_mind       RT @PacBio: Not here at #PAGXXII ? Get the recording of our workshop: SMRTSeq for Reference Genomes, Annotation & Haplotyping  http://j.mp/1dO6LIU
+423258024992866304  Jan 14 19:59  @mt_ur_mind       RT @PacBio: Edwin Hauw @PacBio wrkshp, 2014 planned improvements: MT @Ajwhall N50 12-18kb and 1,6gb per SMRT cell later this year #PAGXXII
+423258043753570304  Jan 14 19:59  @wheatgenome      Antje Rohde explains wheat genome seq vital for breeding in IWGSC wkshp .. #PAGXXII
+423258412709711873  Jan 14 20:00  @illumina         PT: Integrated sample management within #BaseSpace for #NextSeq500- minimize errors and set-up time #PAGXXII
+423258529945104384  Jan 14 20:01  @mt_ur_mind       RT @infoecho: CL shows combing two single molecule technologies (PacBio +BioNano) to construct super scaffolds. #PAGXXII
+423258744051351552  Jan 14 20:02  @mcaccamo         Antje Rohde - about the importance of covering the entire wheat genome with dense SNPs panels  - IWGSC workshop #PAGXXII
+423258846753091584  Jan 14 20:02  @stochastic_jedi  Top notch talk by Becky Bart on resistance strategies @DanforthCenter #PAGXXII
+423258974017040384  Jan 14 20:02  @mt_ur_mind       RT @bionanogenomics: Dr. Weiping Wang excites attendees w/genome map de novo assemblies from a variety of plants, insects, & animals #PAGXXII #CompleteYourStory
+423259153679654912  Jan 14 20:03  @illumina         Raymond Tecotzky up now: #BaseSpace Core Apps for analysis of the most popular sequencing experiments #PAGXXII http://bit.ly/1j6pbMt
+423259204405587968  Jan 14 20:03  @cjfields         Huh. 'From seq to analysis results, without training.' So, actually suggesting a black box is good?  Ballsy. #PAGXXII
+423259262056296448  Jan 14 20:04  @stochastic_jedi  Robert Kawuki NaCCRI speaking next #PAGXXII
+423259515811667968  Jan 14 20:05  @stochastic_jedi  Robert Kawuki on  'Brown streak' disease in Uganda #PAGXXII
+423259657579151360  Jan 14 20:05  @cjfields         Seems like illumina basespace apps is aimed more as a Galaxy competitor w/ apps store. #PAGXXII
+423259731478589440  Jan 14 20:05  @fredChoulet      RT @wheatgenome: @michaelalaux gave great talk on tools/resources available at IWGSC repository hosted by @Inra_urgi #PAGXXII See: http://wheat-urgi.versailles.inra.fr/Seq-Repository/
+423259749920948224  Jan 14 20:06  @fredChoulet      RT @wheatgenome: IWGSC Wksp: Paul Kersey presenting wheat data available @ensembl Plants, including IWGSC bread wheat chrm survey seq & gene models #PAGXXII
+423259790689583104  Jan 14 20:06  @fredChoulet      RT @wheatgenome: Martin Mascher, IPK Gatersleben  presents POPSEQ for barley and efforts in wheat at IWGSC wkshp #PAGXXII
+423259797471780864  Jan 14 20:06  @fredChoulet      RT @wheatgenome: @mcaccamo from @GenomeAnalysis speaking about integrating whole genome assemblies of bread wheat genome with chrms at IWGSC wksp #PAGXXII
+423259808796385280  Jan 14 20:06  @fredChoulet      RT @wheatgenome: Antje Rohde explains wheat genome seq vital for breeding in IWGSC wkshp .. #PAGXXII
+423259830774550528  Jan 14 20:06  @Hairy_Llama      RT @ewanbirney: Thoughts from #PAGXXII : 1. cheap genomic data might have a bigger impact on agriculture than human health in the long term
+423259921442816000  Jan 14 20:06  @yaskaz           RT @illumina: PT: Seamless integration of #NextSeq500 with #BaseSapce- 50 GB and half a day of analysis for a 30x genome #PAGXXII
+423260122194800640  Jan 14 20:07  @BrettTylerOSU    RT @GenomeBiology: Mike Schatz shows near perfect assembly in yeast using long read PacBio data #PAGXXII
+423260163252817920  Jan 14 20:07  @mcaccamo         A Rohde: how much genome do we need? for full power of GWAS we need a complete genome  IWGSC workshop #PAGXXII
+423260181351264256  Jan 14 20:07  @karidoerksen     This machine can sequence human genome in 27h. Mind officially blown. @illumina #NextSeq500 at #PAGXXII http://t.co/UTVAUXeSYE #BackInTheDay
+423260261181452288  Jan 14 20:08  @karidoerksen     RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423260283293806592  Jan 14 20:08  @mcaccamo         RT @cjfields: Seems like illumina basespace apps is aimed more as a Galaxy competitor w/ apps store. #PAGXXII
+423260413011058688  Jan 14 20:08  @chloe46037       Raymond Tecotzky is showing the simplicity of BaseSpace. #PAGXXII http://t.co/uUQCNZbNlk
+423260461153255424  Jan 14 20:08  @stochastic_jedi  RT @cjfields: Seems like illumina basespace apps is aimed more as a Galaxy competitor w/ apps store. #PAGXXII
+423260985550729216  Jan 14 20:10  @CGR_UoL          RT @PacBio: SB @solazyme: Pacbio assembly resolves previously un-sequenceable regions, incl. high GC & highly repetitive regions #PAGXXII
+423261089107673088  Jan 14 20:11  @fluidigm         Miss our workshop? #PAGXXII Poster: #P135 - SNP Genotyping to Accelerate Rice Breeding with @riceresearch Michael Thompson, Ph.D.
+423261102903148544  Jan 14 20:11  @CGR_UoL          RT @PacBio: SG @USDA_ARS: You need long reads to see read-through transcripts - >717 genes within 314 read-through transcripts #PAGXXII
+423261210012692481  Jan 14 20:11  @Hairy_Llama      Illumina workshop: BaseSpace. 12,000+ users, operating system with an App Store. I'm conflicted, makes life easier, but black box? #PAGXXII
+423261579434405888  Jan 14 20:13  @wheatgenome      Just finished great IWGSC wkshp chaired by Jane Rogers. More thann 100 attendees #PAGXXII
+423261634078203904  Jan 14 20:13  @speakman         Premises MT @illumina: PT: #BaseSpace #Onsite: Keep your data on-premesis, if you prefer (or are required)  http://bit.ly/1hozMzl #PAGXXII
+423262137440804865  Jan 14 20:15  @geoffjentry      RT @KTInvasion: .@whitelabs and @illumina sequencing 200 yeast strains with phenotype screens, will be publicly available #pagxxii cool! #homebrew
+423262720188616704  Jan 14 20:17  @illumina         No shortage of interest in getting a close look at #NextSeq500 at #PAGXXII http://t.co/SwCOIxPjMT
+423262748542136320  Jan 14 20:17  @skwsm            RT @fstrozzi: @Illumina HiSeq X able to deliver16 human genomes sequenced in less then 3 days #PAGXXII
+423262804322177024  Jan 14 20:18  @dritoshi         RT @illumina: No shortage of interest in getting a close look at #NextSeq500 at #PAGXXII http://t.co/SwCOIxPjMT
+423263286755201024  Jan 14 20:20  @skwsm            RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://t.co/iLP2Y9M6Zx
+423263597448265728  Jan 14 20:21  @sidsingh78       RT @PacBio: AVD @ucdavis '1GB genome is totally assemble-able using de novo PacBio at 60x coverage' #PAGXXII
+423264406789554176  Jan 14 20:24  @stochastic_jedi  C. Egesi speaking on genomic selection for cassava breeding in Africa #PAGXXII
+423264784855740416  Jan 14 20:26  @stochastic_jedi  C. Egesi: Cassava mainly produced and processed by women! #PAGXXII
+423265283654950912  Jan 14 20:28  @stochastic_jedi  http://Nextgencassava.org @gatesfoundation @Cornell #PAGXXII
+423265435178373120  Jan 14 20:28  @stochastic_jedi  Sooo many objectives for http://nextgencassava.org  #PAGXXII
+423265649712844801  Jan 14 20:29  @stochastic_jedi  Need to improve phentotyping efficiencies in cassava bredding  #PAGXXII
+423265864356356096  Jan 14 20:30  @yggdrasil13751   RT @stochastic_jedi: C. Egesi: Cassava mainly produced and processed by women! #PAGXXII
+423265926188765184  Jan 14 20:30  @yggdrasil13751   RT @stochastic_jedi: Sooo many objectives for http://nextgencassava.org  #PAGXXII
+423266002453790721  Jan 14 20:30  @stochastic_jedi  Cassava Fieldbook App for Android platform to design trials and capture data #PAGXXII
+423266204929634304  Jan 14 20:31  @hyunj_you        RT @illumina: What will you do next? #NextSeq500 http://bit.ly/KhHMWy #PAGXXII
+423266318674968576  Jan 14 20:32  @Genomics_Guy     RT @illumina: No shortage of interest in getting a close look at #NextSeq500 at #PAGXXII http://t.co/SwCOIxPjMT
+423266785580707840  Jan 14 20:34  @kaisakajala      RT @rubenrellan: #PAGXXII @mdelucas80 How PCR2 regulates gene expression in different root cell types and why these genes are important @sudogenes
+423267097385652224  Jan 14 20:35  @AllSeq           RT @ravinpandya: Cool, there's a long tandem repeat in wheat of 850kb=85*10kb, found w/flowsort+BAC+NGS+BioNano #CompleteYourStory #PAGXXII
+423267310850547713  Jan 14 20:36  @Sean4huang       RT @GenomeBiology: Mike Schatz shows near perfect assembly in yeast using long read PacBio data #PAGXXII
+423267425040097280  Jan 14 20:36  @stephcor11       Just finished my talk at #PAGXXII , never been so nervous in all my life.
+423267510595878912  Jan 14 20:36  @Sean4huang       RT @mike_schatz: Let's try that again. Predicting the future of genome assembly. #pagxxii http://schatzlab.cshl.edu/presentations/2014-01-14.PAG.Single%20Molecule%20Assembly.pdf
+423267600265510913  Jan 14 20:37  @stochastic_jedi  Fantastic science going on in the cassava community #PAGXXII
+423267765156585472  Jan 14 20:37  @Sean4huang       RT @lexnederbragt: This free sequencing offer from @pacbio http://www.pacb.com/smrtgrant/ = definitely worth it. 40 SMRTcells, enough for genome up to ~100Mbp #PAGXXII
+423267809817153536  Jan 14 20:38  @KTInvasion       .@jashapiro @whitelabs @illumina they said probably it would be hosted on White Labs website #PAGXXII
+423268223102881792  Jan 14 20:39  @stochastic_jedi  C. Egesi is clearly data driven for cassava. #PAGXXII
+423268737215504384  Jan 14 20:41  @yggdrasil13751   RT @ewanbirney: Thoughts from #PAGXXII : 1. cheap genomic data might have a bigger impact on agriculture than human health in the long term
+423268986126872576  Jan 14 20:42  @Sean4huang       RT @bionanogenomics: Dr. Weiping Wang excites attendees w/genome map de novo assemblies from a variety of plants, insects, & animals #PAGXXII #CompleteYourStory
+423269099980865536  Jan 14 20:43  @stochastic_jedi  solGS: a tool for estimating breeding values at http://cassavabase.org  #PAGXXII
+423269762672508928  Jan 14 20:45  @mdimmic          RT @ewanbirney: Thoughts from #PAGXXII : 1. cheap genomic data might have a bigger impact on agriculture than human health in the long term
+423270421442867200  Jan 14 20:48  @nmatasci         Room full of data specialists. If the roof collapses, lots of people would be in trouble. But we are working to fix that. #bigdata #pagxxii
+423270846547755008  Jan 14 20:50  @stochastic_jedi  Manpreet Katari on Translational systems biology research for cassava  http://Virtualplant.org @gatesfoundation #PAGXXII
+423270959907237888  Jan 14 20:50  @BioMickWatson    Illumina destroy the opposition again - almost.... http://wp.me/p1PnkE-8d #PAGXXII
+423271440968720384  Jan 14 20:52  @stochastic_jedi  Platform for experiments http://virtualplant.bio.nyu.edu/cgi-bin/vpweb/ #PAGXXII
+423272272166522880  Jan 14 20:55  @stochastic_jedi  Crop ontology annotation http://cropontology.org/  #PAGXXII
+423272622013423617  Jan 14 20:57  @stochastic_jedi  BIOMAPS for GO enrichment #PAGXXII
+423273145361911808  Jan 14 20:59  @stephcor11       Best bag ever... #PAGXXII http://t.co/5mWAxo9Q9v
+423273203792752641  Jan 14 20:59  @neekoh           RT @fluidigm: Miss our workshop? #PAGXXII Poster: #P135 - SNP Genotyping to Accelerate Rice Breeding with @riceresearch Michael Thompson, Ph.D.
