@@ -2072,3 +2072,149 @@
 423543470754500608  Jan 15 14:53  @gmodproject      #PAGXXII #GMOD Cloudman logs into Amazon on your behalf, starts machines, etc.
 423543803568345088  Jan 15 14:54  @aphillippy       RT @infoecho: .@mike_schatz  Is (assembly N50)/(chromosome N50) a new  definition for assembly performance? (Any other used it before?) #PAGXXII
 423545089390936065  Jan 15 14:59  @assemblathon     MT @infoecho @mike_schatz  Is (assembly N50)/(chromosome N50) a new definition for assembly performance? Any other used it before? #PAGXXII
+423546204442472448  Jan 15 15:04  @assemblathon     RT @PacBio: Allen Van Deynze @ucdavis: A De Novo Draft Assembly of Spinach Using PacBio - 980 bp, diploid #PAGXXII
+423547042657353729  Jan 15 15:07  @gmodproject      #PAGXXII #GMOD Cloudman checks to make sure that you are using the resources and spins down nodes that aren’t being used. $$$ saver!
+423547064711413760  Jan 15 15:07  @infoecho         RT @assemblathon: RT @Jeylen: #PAGXXII Day four (1.14.2014), total tweets 1105; users: 303. #Assembly became the key word of yesterday. http://cl.ly/3r3F1L2I0G3l
+423549157991653377  Jan 15 15:16  @KTInvasion       Was going to count @quartzy cards leftover from poster, to gage interest in poster, but they've already been cleared away. Oh well. #pagxxii
+423550345034219520  Jan 15 15:20  @GFreemanResist   RT @gmodproject: #PAGXXII #GMOD Next up: It's Big Dave Clements (@tnabtaf) on @galaxyproject ! He's talking Galaxy Cloudman.
+423550346099970048  Jan 15 15:20  @GFreemanResist   RT @gmodproject: #PAGXXII #GMOD We're getting a walkthrough of Galaxy's Cloudman interface, which provides a helper for getting going in the cloud
+423550346993336320  Jan 15 15:20  @GFreemanResist   RT @gmodproject: #PAGXXII #GMOD Cloudman logs into Amazon on your behalf, starts machines, etc.
+423550347677028352  Jan 15 15:20  @GFreemanResist   RT @gmodproject: #PAGXXII #GMOD Cloudman checks to make sure that you are using the resources and spins down nodes that aren’t being used. $$$ saver!
+423550454912409600  Jan 15 15:21  @gmodproject      #PAGXXII @tnabtaf is converting data formats and moving things around using @galaxyproject , but what he really wants to do is visualise.
+423552419151101952  Jan 15 15:29  @gmodproject      #PAGXXII GMOD day - lunch break now; we will be returning at 1:30 with JBrowse and WebApollo. See you then!
+423552531306803200  Jan 15 15:29  @JamesBreeder     TIL Canada is doing a.lot of work on influenza #PAGXXII
+423558647449268224  Jan 15 15:53  @nmatasci         On my way home from #pagxxii. Excellent meetings with great people.
+423559846659903489  Jan 15 15:58  @bbiotech         Marketing Automation in the Life Sciences http://buff.ly/1iWTJgW #marketingautomation #marketo #hubspot #eloqua #PAGXXII
+423561382928207872  Jan 15 16:04  @DrHikov          Got some great plant #genetics #teaching resources last night from Scott Woody from University of Wisconsin #PAGXXII http://t.co/hDf0M7rf7Z
+423561777616408576  Jan 15 16:06  @DrHikov          NEW SNACK FOOD: smoked #barley grain - yum! #PAGXXII http://t.co/6GO0FPGtdY
+423562816701083648  Jan 15 16:10  @LFaino           RT @JamesBreeder: B. cinerea deliver small RNA to suppress host defenses may be the same method that fusarium uses as well. #PAGXXII
+423563881693212672  Jan 15 16:14  @noituloveand     If you’re interested in SE pines and fire adaptation find me at banquet or Charlie’s #pagxxii #lastminutecollab #imthetattooedone
+423567520503971840  Jan 15 16:29  @PacBio           #PAGXXII peeps - on your flight home, consider your #mostinterestinggenome in the world for a chance to win SMRTseq http://j.mp/K3JYBJ
+423567747545436160  Jan 15 16:29  @gmodproject      #PAGXXII JBrowse session will be starting soon. New people, please sit on the near side of the room so you see @rbuels ’s good side.
+423568606803140608  Jan 15 16:33  @gmodproject      #PAGXXII JBrowse! "JBrowse will shift what you think of as a web-based genome browser.” — @rbuels
+423569016599224320  Jan 15 16:34  @gmodproject      #PAGXXII @usejbrowse — http://jbrowse.org
+423569165794803712  Jan 15 16:35  @infoecho         RT @PacBio: #PAGXXII peeps - on your flight home, consider your #mostinterestinggenome in the world for a chance to win SMRTseq http://j.mp/K3JYBJ
+423569579445481472  Jan 15 16:37  @gmodproject      #PAGXXII JBrowse written almost entirely in JavaScript (unlike most other browsers). The work is done in the browser, not on the server.
+423569633761697792  Jan 15 16:37  @infoecho         RT @gmodproject: #PAGXXII @usejbrowse — http://jbrowse.org
+423569852918292480  Jan 15 16:38  @gmodproject      #PAGXXII JBrowse supports many different formats — main omission is GTF, which is coming soon. JBrowse supports VCF natively.
+423570230229471232  Jan 15 16:39  @gmodproject      #PAGXXII JBrowse started in 2006 — struggle to get a JS-only genome browser with the browser technology available then
+423571242419900416  Jan 15 16:43  @gmodproject      #PAGXXII JBrowse’s image feature would allow you to tile images of cats across your genome!
+423571372707561472  Jan 15 16:44  @gmodproject      #PAGXXII JBrowse quantitative tracks - Wiggle / BigWig
+423571536411258881  Jan 15 16:44  @gmodproject      #PAGXXII JBrowse only needs a not-super-old browser - most things except IE will work.
+423574070588743680  Jan 15 16:55  @gmodproject      #PAGXXII #JBrowse strengths: optional faceted track selector - efficiently search thousands of tracks
+423574193821597696  Jan 15 16:55  @gmodproject      #PAGXXII #JBrowse strengths: combination tracks
+423574252483518464  Jan 15 16:55  @kc31958          RT @PacBio: #PAGXXII peeps - on your flight home, consider your #mostinterestinggenome in the world for a chance to win SMRTseq http://j.mp/K3JYBJ
+423574352890564608  Jan 15 16:56  @gmodproject      #PAGXXII #JBrowse open local files directly on the client — don’t need to upload the file.
+423574671854804992  Jan 15 16:57  @gmodproject      #PAGXXII #JBrowse demo of the faceted track selector - can drill down through selection of tracks, filter by species, name, etc.
+423575211347177473  Jan 15 16:59  @gmodproject      #PAGXXII #JBrowse faceted selector is amazingly fast -
+423575750889836545  Jan 15 17:01  @gmodproject      #PAGXXII #JBrowse combination tracks: combine spans with set operations. E.g. mask one track set with spans from another,
+423576499887689728  Jan 15 17:04  @gmodproject      #PAGXXII #JBrowse demo data is coming from Spain + doing a subtraction operation, JBrowse is exceedingly speedy!
+423576791899320320  Jan 15 17:05  @gmodproject      #PAGXXII #JBrowse Opening local files: can select lots of files, paste URLs, drag ’n’ drop, etc. Files are never transferred online.
+423576893078519808  Jan 15 17:06  @gmodproject      #PAGXXII #JBrowse acts more like a desktop app than an online app.
+423577082371645440  Jan 15 17:07  @gmodproject      #PAGXXII #JBrowse vs #GBrowse: bottlenecks: GBrowse: server CPU, memory; JBrowse: client network, client CPU + memory
+423577190949593088  Jan 15 17:07  @gmodproject      #PAGXXII #JBrowse: files: local files are used in place; #GBrowse: files uploaded
+423577426652721152  Jan 15 17:08  @gmodproject      #PAGXXII #JBrowse: browser requirements a little higher than for #GBrowse, but anything from the past four years is fine.
+423577676675153920  Jan 15 17:09  @gmodproject      #PAGXXII #JBrowse is ready for most users to migrate to. #GBrowse development is going to cease. Apparently.
+423577808057536512  Jan 15 17:09  @gmodproject      #PAGXXII (GBrowse support will continue as there are still a lot of users out there)
+423578087742111744  Jan 15 17:11  @gmodproject      #PAGXXII #JBrowse2 plans: even more of a desktop/web hybrid - easy to use for desktop users.
+423578184114638848  Jan 15 17:11  @gmodproject      #PAGXXII #JBrowse2 - tiled independent views of one or many genomes.
+423578251336744960  Jan 15 17:11  @gmodproject      #PAGXXII #JBrowse2 - show only regions of interest and collapse introns
+423578380588433408  Jan 15 17:12  @gmodproject      #PAGXXII #JBrowse2 will be able to authenticate - can already get files from OAuth2, Google, Dropbox, more. AWESOME!
+423578496074391552  Jan 15 17:12  @gmodproject      #PAGXXII #JBrowse2 will have UI for configuring, rather than the JSON config files.
+423579048493588480  Jan 15 17:14  @gmodproject      #PAGXXII #JBrowse more plans: synteny views; circular views; network views (e.g. an iframe to cytoscape to view pathway data)
+423579101350227968  Jan 15 17:15  @APMisLow         RT @PacBio: #PAGXXII peeps - on your flight home, consider your #mostinterestinggenome in the world for a chance to win SMRTseq http://j.mp/K3JYBJ
+423579299023577088  Jan 15 17:15  @gmodproject      #PAGXXII #JBrowse is open source - @rbuels welcomes any help so please get in touch!
+423579388030881792  Jan 15 17:16  @KTInvasion       .@DrHikov yeah it's weirdly satisfying! One does get chaff in ones teeth, however #PAGxxii #homebrew
+423579723533275136  Jan 15 17:17  @gmodproject      #PAGXXII Next up: Carson Holt on MAKER! MAKER is the automated annotation pipeline.
+423580357175160832  Jan 15 17:20  @gmodproject      #PAGXXII What are genome annotations? Descriptions of different genome features, e.g. introns, axons, UTRs, etc.
+423580507608072192  Jan 15 17:20  @gmodproject      #PAGXXII Secondary annotation: protein domains and families, GO terms, etc.
+423580832125571072  Jan 15 17:21  @bugblokenz       Many thanks to everyone live tweeting from #pagxxii. Great stuff!
+423581130713870336  Jan 15 17:23  @gmodproject      #PAGXXII Why does annotation matter? If annotations are incorrect, expmts WILL go wrong. Anything based on those annotations will be wrong.
+423581342371037184  Jan 15 17:23  @gmodproject      #PAGXXII 12K+ genome projects completed, another 12K under way.
+423581389695373312  Jan 15 17:24  @TreeGenes        RT @gmodproject: #PAGXXII #JBrowse more plans: synteny views; circular views; network views (e.g. an iframe to cytoscape to view pathway data)
+423581515843256320  Jan 15 17:24  @gmodproject      #PAGXXII MAKER can be run by anyone on a standard laptop, but is still very configurable and capable. Produces FASTA, GFF3.
+423581797008429057  Jan 15 17:25  @owlmonkey        RT @PacBio: #PAGXXII peeps - on your flight home, consider your #mostinterestinggenome in the world for a chance to win SMRTseq http://j.mp/K3JYBJ
+423581941518970880  Jan 15 17:26  @gmodproject      #PAGXXII How MAKER works: step one: run a repeat masker
+423582047660015616  Jan 15 17:26  @gmodproject      #PAGXXII MAKER step 2: generate ab initio gene predictions from Augustus, etc. - can provide own results. Need to “train” the predictors
+423582412673515520  Jan 15 17:28  @gmodproject      #PAGXXII MAKER step 3: BLAST; 4: run exonerate to polish the BLAST alignments. Generates “hints” as to where genes are;
+423582548506071041  Jan 15 17:28  @gmodproject      #PAGXXII MAKER feeds this back to the gene finding SW
+423583051566698496  Jan 15 17:30  @torstenseemann   RT @gmodproject: #PAGXXII Why does annotation matter? If annotations are incorrect, expmts WILL go wrong. Anything based on those annotations will be wrong.
+423583063344304128  Jan 15 17:30  @xyztal           Another successful #pagxxii conference, now some vacation time @ temecula :D
+423583871750270976  Jan 15 17:33  @gmodproject      #PAGXXII MAKER output can go straight into JBrowse or WebApollo
+423584029602873344  Jan 15 17:34  @gmodproject      #PAGXXII MAKER comes with accessory tools for making output more user-friendly — e.g. change names of genes, etc.
+423584416162533376  Jan 15 17:36  @gmodproject      #PAGXXII MAKER - why specialised for next-gen. genome projects?
+423584555451179009  Jan 15 17:36  @gmodproject      #PAGXXII 1st gen genome projects: Big $$$, big community, big knowledge.
+423584937527083008  Jan 15 17:38  @gmodproject      #PAGXXII MAKER annotation evaluation in 1st gen - with lots of training data, ab initio gene predictors can outperform pipelines like MAKER
+423585119496978433  Jan 15 17:38  @gmodproject      #PAGXXII BUT next gen. organisms are different - small communities, small $$, not much knowledge.
+423585860219441153  Jan 15 17:41  @gmodproject      #PAGXXII MAKER pipeline performs much better on these ‘next gen’ genomes
+423586148720459776  Jan 15 17:43  @gmodproject      #PAGXXII Researchers also want to integrate data from mRNA seq (from top hat, cufflinks)
+423586287816548353  Jan 15 17:43  @gmodproject      #PAGXXII MAKER can integrate this so that the cufflinks and top hat data informs the final models in MAKER
+423586454703337472  Jan 15 17:44  @gmodproject      #PAGXXII Also - MAKER can be used to update/revise legacy genome annotation sets
+423586838154977280  Jan 15 17:45  @gmodproject      #PAGXXII MAKER optimised to perform analyses on high performance computer clusters using MPI message passing
+423587249997889539  Jan 15 17:47  @gmodproject      #PAGXXII MAKER-P : optimised for plant genomes.
+423587481175326720  Jan 15 17:48  @gmodproject      #PAGXXII MAKER-P integrates ncRNA id (tRNA Scan-SE, snoscan).
+423587785228812290  Jan 15 17:49  @gmodproject      #PAGXXII MAKER-P available thru the @iPlantCollab Atmosphere; can also get it through TACC Lonestar - MASSIVE supercomputer! 22,656 CPUs!
+423587988061171712  Jan 15 17:50  @gmodproject      #PAGXXII check out http://xsede.org - XSEDE - extremely generous in giving free compute time on the TACC Lonestar.
+423588517470425088  Jan 15 17:52  @gmodproject      #PAGXXII MAKER recently involved in pine genome annotation (~20GB seq) — used 8640cpus @ TACC, under 15 hours to annotate!!
+423589093298012161  Jan 15 17:54  @gmodproject      #PAGXXII reasons to use MAKER: - integration with GMOD tools; QC metrics + evidence trails; simple to use; scales to HUGE data;
+423589407107473408  Jan 15 17:55  @gmodproject      #PAGXXII Everyone is advised to get an account at iPlant, whether or not they are plant scientists. @iPlantCollab
+423591062838333440  Jan 15 18:02  @gmodproject      #PAGXXII Back to @rbuels for WebApollo...
+423591208410034176  Jan 15 18:03  @gmodproject      #PAGXXII WebApollo is actually a JBrowse plugin!
+423591320687370240  Jan 15 18:03  @gmodproject      #PAGXXII WebApollo - genome curation interface built on JBrowse.
+423591475419443200  Jan 15 18:04  @gmodproject      #PAGXXII WebApollo first real-time collaborative genomics editor ON THE WEB! Can see others’ updates, just like Google Docs.
+423591846061670400  Jan 15 18:05  @bugblokenz       RT @JChrisPires: If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+423592130905251840  Jan 15 18:06  @gmodproject      #PAGXXII WebApollo lets you see the evidence supporting the gene annotation right next to that annotation itself. Can look up references etc
+423592286476173313  Jan 15 18:07  @gmodproject      #PAGXXII WebApollo supports pseudogene annotations, snoRNA, plus more (not just genes)
+423592471876997120  Jan 15 18:08  @gmodproject      #PAGXXII WebApollo’s predecessor was Apollo - Java / JavaWebStart tool.
+423593100892594176  Jan 15 18:10  @gmodproject      #PAGXXII WebApollo needs no installation, unlike standalone tools (like Apollo).
+423593346049662978  Jan 15 18:11  @gmodproject      #PAGXXII @rbuels waxes lyrical on the beauty of @monimunozto’s slides...
+423593776154570752  Jan 15 18:13  @gmodproject      #PAGXXII WebApollo architecture - plugin that adds two new types of track: annotation editing, and sequence alteration editing.
+423594065473466368  Jan 15 18:14  @gmodproject      #PAGXXII WebApollo has two step saves — first save to berkeleyDB, and then approved versions are saved to Chado DB.
+423594898860675072  Jan 15 18:17  @LincolnULibrary  RT @JChrisPires: If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+423595019912478720  Jan 15 18:18  @gmodproject      #PAGXXII WebApollo has lots of logic for dealing with sequence issues, e.g. non canonical splice sites
+423595257733709824  Jan 15 18:19  @gmodproject      #PAGXXII sidenote: CoGe is also a JBrowse plugin
+423596077829201920  Jan 15 18:22  @gmodproject      #PAGXXII WebApollo has annotation information editing window - lots of metadata can be added to each annotation.
+423596317433012225  Jan 15 18:23  @Red_Pill77       RT @GenomeBiology: JB: important to have sufficient overlap between STR loci used in US and Europe forensics to help with international crime #PAGXXII
+423596354842025984  Jan 15 18:23  @gmodproject      #PAGXXII e.g. crossreferences to other databases; PubMed IDs; GO IDs; comments; very flexible.
+423596664394227713  Jan 15 18:24  @gmodproject      #PAGXXII WebApollo has ‘canned comments’ feature - either built-in or user-configurable
+423596819407327232  Jan 15 18:25  @gmodproject      #PAGXXII @rbuels does an uncanny Bob Ross impression!
+423597066057547776  Jan 15 18:26  @gmodproject      #PAGXXII Now getting a live demo of WebApollo. Will not try to live tweet it!
+423597122508713984  Jan 15 18:26  @Awesomics        http://www.gmod.org/wiki/WebApollo MT @gmodproject #PAGXXII WebApollo 1st realtime collab genomics editor ON THE WEB! See others updates ala Google Docs
+423599379107160064  Jan 15 18:35  @danmaclean       RT @JChrisPires: If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+423601463516880896  Jan 15 18:43  @gmodproject      #PAGXXII Last but not least, Lacey-Anne Sanderson and Tripal!
+423601679397687297  Jan 15 18:44  @gmodproject      #PAGXXII Tripal is framework for creating community sites that will display genome project data
+423601798239092737  Jan 15 18:45  @gmodproject      #PAGXXII Tripal facilitates data sharing, easy, fast way to get data up on the web and out to consumers.
+423601908679319552  Jan 15 18:45  @gmodproject      #PAGXXII Tripal based on the CMS Drupal; Tripal links Drupal to Chado, the GMOD database schema
+423601999888670720  Jan 15 18:46  @gmodproject      #PAGXXII Tripal: http://tripal.info or http://gmod.org/wiki/Tripal
+423602253006917632  Jan 15 18:47  @Lisa_Crossman    RT @gmodproject: #PAGXXII WebApollo supports pseudogene annotations, snoRNA, plus more (not just genes)
+423602286678380545  Jan 15 18:47  @gmodproject      #PAGXXII Tripal has Chado under the hood, so can use GMOD tools with Tripal.
+423602318244732928  Jan 15 18:47  @iPlantCollab     RT @gmodproject: #PAGXXII Everyone is advised to get an account at iPlant, whether or not they are plant scientists. @iPlantCollab
+423602418564489217  Jan 15 18:47  @Lisa_Crossman    RT @gmodproject: #PAGXXII WebApollo - genome curation interface built on JBrowse.
+423602460674895872  Jan 15 18:47  @gmodproject      #PAGXXII Diversity of data supported by Chado means that you can store all kinds of data on a tripal site - e.g. publications, spp info, etc
+423602737490571264  Jan 15 18:48  @gmodproject      #PAGXXII Tripal aims: simplify website construction; bio data PLUS other website stuff, such as social media
+423602936829059072  Jan 15 18:49  @gmodproject      #PAGXXII Tripal requirements on same as those for Drupal - server, php5, database on the backend.
+423603054022111232  Jan 15 18:50  @gmodproject      #PAGXXII Tripal includes single-click Chado installer! Very easy to install
+423603322570821632  Jan 15 18:51  @gmodproject      #PAGXXII Tripal automatically creates pages for various things (organisms; stocks; etc.) - can choose which to include
+423603787786244096  Jan 15 18:53  @gmodproject      #PAGXXII Tripal is completely integrated with Drupal Views — can build “data listings” (SQL queries) without having to know any SQL
+423605405814509568  Jan 15 18:59  @gmodproject      #PAGXXII Tripal has a nice bulkloader that allows you to upload tab-delimited files - Tripal automatically knows what to do!
+423606473747210240  Jan 15 19:03  @gmodproject      #PAGXXII Tripal also has a very well-documented developer API - if you don’t like what Tripal is doing, you can change it!
+423607070462443520  Jan 15 19:06  @michaelalaux     RT @wheatgenome: Just finished great IWGSC wkshp chaired by Jane Rogers. More thann 100 attendees #PAGXXII
+423607310007549952  Jan 15 19:07  @gmodproject      #PAGXXII Tripal very customizable - e.g. limit search fields, limit access to pages, change page styles… just about anything can be custom!
+423608057763880960  Jan 15 19:10  @gmodproject      #PAGXXII Tripal extensions: anyone can develop Tripal extensions — please contribute + Tripal devs will post for others to use.
+423608307312369664  Jan 15 19:11  @gmodproject      #PAGXXII Tripal extendability example: GeneNet Engine, which includes network info.
+423608446861049856  Jan 15 19:11  @gmodproject      #PAGXXII Tripal future: Drupal 7-compatible version is VERY close — almost here. Beta due in Feb 2014.
+423608655322181632  Jan 15 19:12  @gmodproject      #PAGXXII Also looking to use web services to share data between tripal sites and with other applications.
+423609013138251776  Jan 15 19:13  @gmodproject      #PAGXXII Go to http://tripal.info to see a list of sites using Tripal. Lots of gorgeous websites!
+423610154450694144  Jan 15 19:18  @qhienle          RT @PacBio: #PAGXXII peeps - on your flight home, consider your #mostinterestinggenome in the world for a chance to … http://buff.ly/1fzDR66
+423610513172336640  Jan 15 19:19  @gmodproject      #PAGXXII And that’s it! Thanks to everyone who came to the GMOD day, both presenters and audience! I’m exhausted...
+423611256277196800  Jan 15 19:22  @gmodproject      #PAGXXII If you want to come to the GMOD meeting tomorrow, please email help@gmod.org — we will try to fit you in!
+423613219945852928  Jan 15 19:30  @qhienle          RT @gmodproject: #PAGXXII WebApollo - genome curation interface built on JBrowse.
+423613489941602304  Jan 15 19:31  @qhienle          RT @illumina: #NextSeq500 is here at #PAGXXII. Speed, simplicity, and convenience for everyday genomics http://buff.ly/1iXW6QE
+423615064722006018  Jan 15 19:37  @noituloveand     @gmodproject truly epic tweeting at #pagxxii
+423615947602030592  Jan 15 19:41  @SamanthaRoehl    After a fun and informative conference, it's great to be heading home! #PAGXXII #culture #homesweethome
+423627236076318720  Jan 15 20:26  @DJ_de_Koning     RT @MaurissaB23: Closing down #PAGXXII #PressRoom. It was as successful week.Looking forward to next year. See ya #planimals
+423630321775427584  Jan 15 20:38  @monimunozto      RT @gmodproject: #PAGXXII WebApollo architecture - plugin that adds two new types of track: annotation editing, and sequence alteration editing.
+423630979681370112  Jan 15 20:41  @Sean4huang       RT @JamesBreeder: B. cinerea deliver small RNA to suppress host defenses may be the same method that fusarium uses as well. #PAGXXII
+423631503205990400  Jan 15 20:43  @monimunozto      Missing out #PAGXXII this year... and thankful for @gmodproject tweets! :) #WishIWereThere I'm having #SanDiego #withdrawals.
+423631579525951488  Jan 15 20:43  @acdarby          RT @gmodproject: #PAGXXII WebApollo architecture - plugin that adds two new types of track: annotation editing, and sequence alteration editing.
+423632035526094848  Jan 15 20:45  @Sean4huang       RT @fstrozzi: Personal take home message from #PAGXXII. Sequencing is becoming a commodity, knowledge management and data integration next big challenges.
