@@ -7439,3 +7439,14 @@
 423856692632104960  Jan 16 11:38  @JessicaMABlair   RT @josebengoechea: RNA seq to reveal differences in the transcriptome of high and low virulent Salmonella http://aem.asm.org/content/80/3/896.abstract?etoc
 423898982457544704  Jan 16 14:26  @BioinformticaGC  Full-length RNA-seq from single cells using Smart-seq2.... http://fb.me/18uMdbkuu
 423907186410917888  Jan 16 14:58  @short2thepoint   Can anyone explain why RNA Seq data is expected to fit a negative binomial distribution? Stats is not my strong point
+423913932315566080  Jan 16 15:25  @short2thepoint   @AMFeinman @Dr24hours The literature says RNA Seq data fits negative binomial
+423916269306261504  Jan 16 15:34  @short2thepoint   This article does not answer all my questions about RNA Seq and distributions, but it's a big help http://gkno2.tumblr.com/post/24629975632/thinking-about-rna-seq-experimental-design-for
+423918811306131456  Jan 16 15:44  @short2thepoint   As I have more insights into RNA Seq, would any of you find it helpful if I shared them? @kristindownie
+423919079062523904  Jan 16 15:45  @kristindownie    @short2thepoint yes! also @aemonten is a good RNA Seq resource
+423929701401640960  Jan 16 16:28  @SEQquestions     RNA-Seq spliced aligners. Exon first vs Seed extend http://ift.tt/1asTwwt
+423929795244617729  Jan 16 16:28  @tcellbiology     Comparison of RNA-Seq and Microarray in Transcriptome Profiling of Activated T Cells http://dlvr.it/4jr33J #plosoneTCB
+423932308865814528  Jan 16 16:38  @short2thepoint   More helpful info on modeling RNA Seq data http://www.biostars.org/p/6028/
+423932314721062912  Jan 16 16:38  @rnomics          Comparison of #RNA-Seq and Microarray in Transcriptome Profiling of Activated T Cells: by Shanrong Zhao,... http://bit.ly/LlfeNe #PLoS
+423932318193942528  Jan 16 16:38  @rnomics          Transciptome Analysis of the Gill and Swimbladder of Takifugu rubripes by #RNA-Seq: by Jun Cui, Shikai Liu,... http://bit.ly/1diVdQv #PLoS
+423941742598311937  Jan 16 17:16  @LeucineRichBio   Technical Variations in Low-Input RNA-seq Methodologies. #RNASeq http://www.ncbi.nlm.nih.gov/pubmed/24419370?dopt=Abstract
+423953279605678080  Jan 16 18:01  @OxbridgeGroup    Oxbridge News: PLOS ONE: Comparison of RNA-Seq and Microarray in Transcriptome Profiling...: Baldi P, Hatfield W (2002) DNA Microarra...
