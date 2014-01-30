@@ -7767,3 +7767,22 @@
 428884462257340416  Jan 30 08:36  @nikhilgopal      RNA-seq QC in GenePattern http://ift.tt/Mz2vY3
 428885307853787136  Jan 30 08:40  @rakugodesi       RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
 428887029833666561  Jan 30 08:46  @EpigenChromatin  A new survey of software for genome-wide discovery of differential splicing in #RNA-Seq data http://tinyurl.com/og6b3oo
+428891262591066112  Jan 30 09:03  @Genomics_Guy     @rnomics: A comparison of #RNA-seq and exon arrays for... http://bit.ly/Mz62FM #RNAseq  nice paper, but only used 34 bp single-end reads!
+428898945499406336  Jan 30 09:34  @EpsenFuller      RNA-seq differential expression studies: more sequence or more replication? #BioNJKickOff http://ift.tt/1mSVifZ
+428901878202503168  Jan 30 09:45  @OAgenetics       New in Human #Genomics! Survey of software for genome-wide discovery of differential splicing in #RNA-Seq data http://tinyurl.com/og6b3oo
+428904784343470080  Jan 30 09:57  @GenomeJoe        Nice pieceon Single-Cell RNA-Seq Reveals Dynamic, Random Monoallelic Gene Expression - http://s.shr.lc/1hRjMpb @Shareaholic @nextgenseek
+428905873688518656  Jan 30 10:01  @genetics_blog    ANOVA-Like Differential (ALDEx) Analysis for Mixed Population RNA-Seq http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067019 #bioinformatics
+428906083898630145  Jan 30 10:02  @nikhilgopal      A comparison of RNA-seq and exon arrays for whole genome transcription profiling http://ift.tt/MkGBHh
+428933508166615040  Jan 30 11:51  @nextgenseek      RT @GenomeJoe: Nice pieceon Single-Cell RNA-Seq Reveals Dynamic, Random Monoallelic Gene Expression - http://s.shr.lc/1hRjMpb @Shareaholic @nextgenseek
+428933623476416512  Jan 30 11:51  @stephaniehicks   Levi Garrison discusses idea of using WESeq + RNA-seq in clinic. Says still not feasible due to extractions accuracy of tools to call events
+428935269417373697  Jan 30 11:58  @olgabot          RT @GenomeJoe: Nice pieceon Single-Cell RNA-Seq Reveals Dynamic, Random Monoallelic Gene Expression - http://s.shr.lc/1hRjMpb @Shareaholic @nextgenseek
+428945860421226496  Jan 30 12:40  @EpsenFuller      RNA-seq differential expression studies: more sequence or more replication? #BioNJKickOff http://ift.tt/1mSVifZ
+428945871078965248  Jan 30 12:40  @TFuller0         RNA-seq differential expression studies: more sequence or more replication? #BioNJKickOff http://ift.tt/1mSVifZ
+428946570105458688  Jan 30 12:43  @Integrium        RNA-seq differential expression studies: more sequence or more replication? #BioNJKickOff http://ift.tt/1mSVifZ
+428964136752394240  Jan 30 13:53  @lpachter         Illumina on RNA-Seq with the NextSeq 500 http://blog.illumina.com/blog/illumina/2014/01/14/the-new-5-tool-player-on-the-illumina-team
+428967627399368704  Jan 30 14:07  @chromatingroup   RT @EpigenChromatin: A new survey of software for genome-wide discovery of differential splicing in #RNA-Seq data http://tinyurl.com/og6b3oo
+428968065582518272  Jan 30 14:08  @BarbourAnalytix  RT @lpachter: Illumina on RNA-Seq with the NextSeq 500 http://blog.illumina.com/blog/illumina/2014/01/14/the-new-5-tool-player-on-the-illumina-team
+428969703818547200  Jan 30 14:15  @lpachter         Useful new RNA-Seq paper from the Gilad lab http://biorxiv.org/content/early/2014/01/30/002261
+428970267399192576  Jan 30 14:17  @aayushraman      RT @lpachter: Useful new RNA-Seq paper from the Gilad lab http://biorxiv.org/content/early/2014/01/30/002261
+428970978254016512  Jan 30 14:20  @biorxivpreprint  RT @lpachter: Useful new RNA-Seq paper from the Gilad lab http://biorxiv.org/content/early/2014/01/30/002261
+428980457892757504  Jan 30 14:58  @4a6a5a           RT @lpachter: Illumina on RNA-Seq with the NextSeq 500 http://blog.illumina.com/blog/illumina/2014/01/14/the-new-5-tool-player-on-the-illumina-team
