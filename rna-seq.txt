@@ -7723,3 +7723,27 @@
 428585260641550336  Jan 29 12:47  @PSazinas         @Gingermicrobe @Nick_Waterfield Here's the dual RNA-Seq paper I mentioned earlier! http://dx.plos.org/10.1371/journal.pone.0080597
 428609635512512512  Jan 29 14:24  @Tucker303        @LauraPiddock @winstanley_c My post Doc is analysing Staph +/- antibiotic RNA-seq data if you get stuck.
 428613252319174656  Jan 29 14:38  @Elijaht87        Singel cell RNA-Seq better than differential display http://lnkd.in/bBWkpJG
+428626588503396352  Jan 29 15:31  @BiolReprod       Ross PJ et al: "RNA-Seq Transcriptome Profiling of Equine Inner Cell Mass and Trophectoderm" http://ow.ly/t5iMS #BORpip
+428630101979578368  Jan 29 15:45  @LeucineRichBio   Comparison of RNA-Seq and Microarray in Transcriptome Profiling. http://www.rna-seqblog.com/comparison-of-rna-seq-and-microarray-in-transcriptome-profiling/
+428643238690697216  Jan 29 16:38  @CofactorGenomic  Ever thought about comparing mass spec and RNA-seq? We take a look at some key similarities and differences: http://buff.ly/1grrQjE
+428673711374229505  Jan 29 18:39  @brent_p          find-of-the-day: simple and fast RNA-Seq read counting http://bioinf.wehi.edu.au/featureCounts/ does a column per BAM for multiple samples
+428674029965565952  Jan 29 18:40  @LeucineRichBio   RNA-seq differential expression studies: more sequence or more replication? http://bioinformatics.oxfordjournals.org/content/30/3/301.short
+428683238203084801  Jan 29 19:17  @n0rr             その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428683516981694464  Jan 29 19:18  @BlhsrwzNrghfzpr  RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428685187711397890  Jan 29 19:24  @T_Hash           RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428697527274070017  Jan 29 20:13  @galaxyproject    In ToolShed: tophat: fast splice junction mapper for RNA-Seq reads. http://bit.ly/1hOzO2T #usegalaxy
+428697604193394688  Jan 29 20:14  @cytometrer       RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428698323110084609  Jan 29 20:16  @notSoJunkDNA     RT @frapaport: Modeling Alternative Splicing Variants from RNA-Seq Data with Isoform Graphs http://online.liebertpub.com/doi/full/10.1089/CMB.2013.0112 #openaccess
+428698408405041154  Jan 29 20:17  @y_tambe          RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428699661176549377  Jan 29 20:22  @_kobashi         RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428699832971063296  Jan 29 20:22  @kaznaKb          RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428700177067569152  Jan 29 20:24  @manta_birostris  RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428700216426889216  Jan 29 20:24  @grtneginf        RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428700356005343232  Jan 29 20:25  @Sara_Linker      RT @frapaport: Modeling Alternative Splicing Variants from RNA-Seq Data with Isoform Graphs http://online.liebertpub.com/doi/full/10.1089/CMB.2013.0112 #openaccess
+428700956788658177  Jan 29 20:27  @IWKRterter       RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428701900834226176  Jan 29 20:31  @yoshikem         RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428702911770542080  Jan 29 20:35  @hmmr03           RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428703334149525504  Jan 29 20:36  @mskoue           RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428706087433281537  Jan 29 20:47  @fussoo_moe       RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428706412240179200  Jan 29 20:49  @asayukikomatsu   RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
+428708163647332352  Jan 29 20:56  @kasena11451      RT @n0rr: その時の議論はどれも培地中で容易に増殖する細胞を使ってたから、「一部の細胞がすごい増えた結果」という主張になったけど、じゃあ増えない細胞だったらどうなの？というのがあって、非増殖性の昆虫細胞とRNA-seq使った研究では、培養して３日以内にはかなり脱分化してるっぽいことになってる
