@@ -7825,3 +7825,6 @@
 429387466064535552  Jan 31 17:55  @LeucineRichBio   A comparison of RNA-seq and exon arrays for whole genome transcription profiling. #RNASeq http://www.rna-seqblog.com/a-comparison-of-rna-seq-and-exon-arrays-for-whole-genome-transcription-profiling/
 429432796101087232  Jan 31 20:55  @shure_geru       @Ko_Mizumo なるほど〜、RNA-seqでだいぶわかるようになったってのもあるんですかね？
 429433698803408897  Jan 31 20:59  @Ko_Mizumo        @shure_geru 線虫の場合は日本のグループがかなり昔に大規模なcDNAクローンライブラリを作っていて、その配列情報がアノテーションに大きく寄与しています。モチロン、最近のRNA-seqの情報も精度を上げるのに寄与していると思いますが。
+429435257373593601  Jan 31 21:05  @WINTERGENOMICS   Realizamos análisis bioinformáticos especializados en RNA-seq de RNAs pequeños (small RNAs). http://ow.ly/sY8dj
+429445104223285248  Jan 31 21:44  @omictools        Parseq: reconstruction of microbial transcription landscape from RNA-Seq read counts using state-space models http://feedly.com/e/staV8TYW #RNAseq
+429505264052494336  Feb  1 01:43  @YiXing77         RT @genetics_blog: (Brief!) Survey of software for differential splicing analysis w/ RNA-Seq data http://www.humgenomics.com/content/8/1/3
