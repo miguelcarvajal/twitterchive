@@ -7817,3 +7817,11 @@
 429294407326904320  Jan 31 11:45  @MyBioTechniques  RNA-seq differential expression studies: more sequence or more replication? http://ow.ly/t20jf
 429313220852322304  Jan 31 13:00  @genetics_blog    (Brief!) Survey of software for differential splicing analysis w/ RNA-Seq data http://www.humgenomics.com/content/8/1/3
 429321508771889152  Jan 31 13:33  @MachaNikolski    Can you recommend a good publicly available RNA-seq time series data for human (eg, cancer but not necessarily)? #NGS #opendata
+429349676563705856  Jan 31 15:25  @bioinfosm        #genomics RT "@genetics_blog: (Brief!) Survey of software for differential splicing analysis w/ RNA-Seq data http://www.humgenomics.com/content/8/1/3"
+429358716320628736  Jan 31 16:01  @thatdnaguy       RT @genetics_blog: (Brief!) Survey of software for differential splicing analysis w/ RNA-Seq data http://www.humgenomics.com/content/8/1/3
+429372328276144128  Jan 31 16:55  @LeucineRichBio   RNA-seq QC in GenePattern. #RNASeq http://www.rna-seqblog.com/rna-seq-qc-in-genepattern/
+429377614952660992  Jan 31 17:16  @jgschraiber      @alteris you better use the package if you have RNA seq data ;-) ;-) ;-)
+429379525286191105  Jan 31 17:23  @ldemare          Impact of RNA degradation on RNA-seq quantification: "mean RPKM increases as sample RIN decreases..." http://biorxiv.org/content/early/2014/01/30/002261 @justincotney
+429387466064535552  Jan 31 17:55  @LeucineRichBio   A comparison of RNA-seq and exon arrays for whole genome transcription profiling. #RNASeq http://www.rna-seqblog.com/a-comparison-of-rna-seq-and-exon-arrays-for-whole-genome-transcription-profiling/
+429432796101087232  Jan 31 20:55  @shure_geru       @Ko_Mizumo なるほど〜、RNA-seqでだいぶわかるようになったってのもあるんですかね？
+429433698803408897  Jan 31 20:59  @Ko_Mizumo        @shure_geru 線虫の場合は日本のグループがかなり昔に大規模なcDNAクローンライブラリを作っていて、その配列情報がアノテーションに大きく寄与しています。モチロン、最近のRNA-seqの情報も精度を上げるのに寄与していると思いますが。
