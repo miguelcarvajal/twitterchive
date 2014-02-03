@@ -7856,3 +7856,28 @@
 430287761267236864  Feb  3 05:32  @jameslz          NGSANE: A Lightweight Production Informatics Framework for High Throughput Data Analysis | RNA-Seq Blog http://www.rna-seqblog.com/ngsane-a-lightweight-production-informatics-framework-for-high-throughput-data-analysis/
 430329521447772161  Feb  3 08:18  @GenePattern      Zebrafish, horse, soybean, phage lambda genomes hosted in GenePattern for RNA-Seq tools http://bit.ly/genepattern #RNAseq #bioinformatics
 430332165860388864  Feb  3 08:29  @mem_somerville   Mm fresh data RT @GenePattern: Zebrafish, horse, soybean, phage lambda genomes hosted in GenePattern for RNA-Seq http://bit.ly/1fop1uF
+430355615819378689  Feb  3 10:02  @BugSongs         This will probably be very useful for anyone doing RNA-seq: http://www.liv.ac.uk/genomic-research/news/physoc-workshop/
+430357135957164032  Feb  3 10:08  @nickschurch      "Parseq – an RNA-Seq read count emission model for transcriptional landscape reconstruction with state-space models" errr... sorry, what?
+430364650497396737  Feb  3 10:38  @frapaport        Voom: precision weights unlock linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #RNAseq
+430367872624652288  Feb  3 10:51  @genetics_blog    From Smyth group: Voom - linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #rstats #bioconductor
+430368995813109760  Feb  3 10:55  @BioMickWatson    RT @genetics_blog: From Smyth group: Voom - linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #rstats #bioconductor
+430369187379568640  Feb  3 10:56  @notSoJunkDNA     RT @frapaport: Voom: precision weights unlock linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #RNAseq
+430369192156889088  Feb  3 10:56  @JVJAI            RT @jameslz: Voom: precision weights unlock linear model analysis tools for RNA-seq read counts http://bit.ly/1gFTGIZ
+430369818156736512  Feb  3 10:58  @daniel2nico      RT @frapaport: Voom: precision weights unlock linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #RNAseq
+430369839304437760  Feb  3 10:59  @daniel2nico      RT @genetics_blog: From Smyth group: Voom - linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #rstats #bioconductor
+430369981319380992  Feb  3 10:59  @razZ0r           RT @frapaport: Voom: precision weights unlock linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #RNAseq
+430371280450097152  Feb  3 11:04  @j3rii            or can I proceed to RNA-seq without a reference genome? I forgot gahd
+430371491289784320  Feb  3 11:05  @Sara_Linker      RT @frapaport: Voom: precision weights unlock linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #RNAseq
+430373621283160064  Feb  3 11:14  @MayoClinicCIM    NIMH to Fund New Browser for Brain Atlas RNA-Seq Data - http://buff.ly/1elYfnJ
+430382226245959680  Feb  3 11:48  @mikaelhuss       RT @genetics_blog: From Smyth group: Voom - linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #rstats #bioconductor
+430389460912443392  Feb  3 12:16  @GenomeBiology    re: last RT, Voom (Gordon Smyth & co's RNA-seq analysis tool) now published in GB, shows power of array-based methods http://bit.ly/1kFfS4q
+430393957999443968  Feb  3 12:34  @proovebio        RT @GenomeBiology: re: last RT, Voom (Gordon Smyth & co's RNA-seq analysis tool) now published in GB, shows power of array-based methods http://bit.ly/1kFfS4q
+430396906636726273  Feb  3 12:46  @albinocoffee     RT @GenomeBiology: re: last RT, Voom (Gordon Smyth & co's RNA-seq analysis tool) now published in GB, shows power of array-based methods http://bit.ly/1kFfS4q
+430397250410676224  Feb  3 12:47  @robin_andersson  RT @genetics_blog: From Smyth group: Voom - linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #rstats #bioconductor
+430400901992710144  Feb  3 13:02  @hquesneville     RT @genetics_blog: From Smyth group: Voom - linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #rstats #bioconductor
+430401634536271872  Feb  3 13:05  @markrobinsonca   RT @genetics_blog: From Smyth group: Voom - linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #rstats #bioconductor
+430407459950559232  Feb  3 13:28  @SEQquestions     Comparing two groups from different RNA-seq datasets http://ift.tt/1bW69Ri
+430408666005929984  Feb  3 13:33  @heathermvincent  RT @frapaport: Voom: precision weights unlock linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #RNAseq
+430408731650953216  Feb  3 13:33  @KelseyAPoorman   RT @GenomeBiology: re: last RT, Voom (Gordon Smyth & co's RNA-seq analysis tool) now published in GB, shows power of array-based methods http://bit.ly/1kFfS4q
+430423897029103616  Feb  3 14:33  @BelindaPhipson   RT @genetics_blog: From Smyth group: Voom - linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #rstats #bioconductor
+430424314526318592  Feb  3 14:35  @sgivan           RNA-seq read depth requirement for optimal transcriptome coverage in H brasiliensis http://ht.ly/teRbE via @biomedcentral
