@@ -8104,3 +8104,13 @@
 433561079311249408  Feb 12 06:19  @Alfons_Valencia  RT @EduEyras: IsoDOT, a new method to detect differential isoform usage from (mapped) RNA-Seq http://arxiv.org/pdf/1402.0136.pdf
 433576311526002689  Feb 12 07:20  @DaleYuzuki       RT @bioinfosm: A rat RNA-Seq transcriptomic BodyMap across 11 organs and 4 dev. stages http://go.nature.com/FwmeNa #NGS #sequencing
 433588123319435264  Feb 12 08:07  @biorxivpreprint  Sashimi plots: Quantitative visualization of alternative isoform expression from RNA-seq data http://biorxiv.org/content/early/2014/02/11/002576
+433608478075006976  Feb 12 09:28  @lpachter         @joe_pickrell I'm not going to concede this point. You say you know the area of RNA-Seq. Have you tried FluxCapacitor yourself? Try it.
+433610641140506625  Feb 12 09:36  @surt_lab         RT @joe_pickrell: In areas I know (RNA-seq, human gen), @lpachter often makes interesting points but is wildly hyperbolic. So keep that as a prior.
+433624117670322176  Feb 12 10:30  @marc_rr          RT @joe_pickrell: In areas I know (RNA-seq, human gen), @lpachter often makes interesting points but is wildly hyperbolic. So keep that as a prior.
+433629136423510016  Feb 12 10:50  @bioinformer      Automation of library preparation for RNA -Seq applications - http://s.shr.lc/1fguO45 via @Shareaholic
+433654710126776320  Feb 12 12:31  @OmicsOmicsBlog   RT @bioinformer: Automation of library preparation for RNA -Seq applications - http://s.shr.lc/1fguO45 via @Shareaholic
+433666168810139648  Feb 12 13:17  @Diane_McKenna_   Planning to organize a cloud storage workshop at RNA-Seq Boston in June.  Who would you recommend? #RNASeq #cloud #genomics
+433670565308948480  Feb 12 13:34  @Diane_McKenna_   Amazon Cloud has been recommended to me but I would like to consider a number of options to see what would work best for  an RNA-Seq meeting
+433674438781853696  Feb 12 13:50  @sciencegurlz0    RNA ?: do I need to get rid of gDNA before sending samples for RNA seq since they will only target polyA RNA before constructing libraries?
+433686505429946368  Feb 12 14:38  @illumina         .@CRIgenomics talking about his personal experience running an RNA-Seq alignment with TopHat in BaseSpace 18 hr #AGBT14
+433687182776483840  Feb 12 14:40  @illumina         .@CRIgenomics talking about new ways of thinking about RNA-Seq experiments, how they perform QC of libraries #agbt14
