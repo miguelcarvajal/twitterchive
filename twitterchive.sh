@@ -17,10 +17,10 @@
 
 ## declare an array variable containing all your search terms. 
 ## prefix any hashtags with a \
-declare -a arr=(bioinformatics metagenomics genomics rna-seq \#rstats \#cville)
+declare -a arr=(\#AGBT14 bioinformatics metagenomics genomics rna-seq \#rstats \#cville)
 
 ## How many results would you like for each query?
-n=300
+n=400
 
 ## cd into where the script is being executed from.
 DIR="$(dirname "$(readlink $0)")"
