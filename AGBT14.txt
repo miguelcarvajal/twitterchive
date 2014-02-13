@@ -1164,3 +1164,403 @@
 433962880896339968  Feb 13 08:56  @nextgenseek      RT @lexnederbragt: Three signatures away from 150 signees! Help make newbler open source: https://docs.google.com/spreadsheet/viewform?usp=drive_web&formkey=dHRvZDFUcldvZXVnWmhvSnlMWDBLQ1E6MA#gid=0 Handing results to Roche in 2.5 hours #agbt14
 433963063541526529  Feb 13 08:57  @lexnederbragt    RT @ISI_TEAMHST: @erlichya @Genohub It's an $ILMN love fest at #AGBT14. Will @nanopore or GenapSys provide a brief distraction? $FLDM has impressive presence
 433963450960977921  Feb 13 08:58  @EpgntxEinstein   RT @notSoJunkDNA: Still #notAGBT14 here... Wanna do a snowball fight, #AGBT14? http://t.co/7aORRWszFM
+434007217209999360  Feb 13 11:52  @StevenNHart      Well that stinks.  No API for MCG since they are licensing to GenomeOnclogy #AGBT14
+434007319064883200  Feb 13 11:53  @DaleYuzuki       Levy: Q: Links to Clinical Trials db? A: Yes, worldwide links avail on the site #AGBT14
+434007333103230976  Feb 13 11:53  @illumina         Thanks to @DaleYuzuki for covering the sessions questions so well! #fasttweets #AGBT14
+434007406385713152  Feb 13 11:53  @will_fitzhugh    Levy: in answer to question about API avail - MyCancerGenome licensed to GenomOncology for commercialization #AGBT14
+434007468021002241  Feb 13 11:53  @kennamshaw       frustrated with myself... could have given this same talk.  wah.  didn't think this would merit a talk #agbt14
+434007607918231552  Feb 13 11:54  @DaleYuzuki       Levy: Q: What about outcomes fed back? A: SNaPshot for melanoma, CR, 40 vars in metastatic mel, 60% went onto a gene-dir therapy #AGBT14
+434007699567558656  Feb 13 11:54  @StevenNHart      @malachigriffith #AGBT14 So how does DGIDB work given the New licensing via GenomOncology
+434007860947607552  Feb 13 11:55  @splon            @DaleYuzuki #AGBT14 - remember the question she answered was focused on genes w/ FDA approved drugs/mut targets. So expect it to be high.
+434007875779051520  Feb 13 11:55  @kennamshaw       @StevenNHart we won't have API at first; you can have use of our content when we go live with our annotations in a couple months #AGBT14
+434007981769101312  Feb 13 11:55  @DaleYuzuki       Morrison: Q: Any germline variants reported as well? A: Not at present, and 'intriguing question'. 24 genes, ave of 1 non-act/gene #AGBT14
+434008011791560704  Feb 13 11:55  @will_fitzhugh    @obigriffith On the other hand, given importance of the results, perhaps a commercial provider is a good thing? #AGBT14
+434008053583998976  Feb 13 11:55  @kennamshaw       @splon @StevenNHart  same with us, even then, reimbursement insufficient for NGS, FISH, CNV test #AGBT14
+434008092259663872  Feb 13 11:56  @genomeresearch   RT @DaleYuzuki: Levy: Collab with MyCancerGenome and Roswell Park - how to design an actionable panel, how to interpret and QC, and how to report. #AGBT14
+434008095841611776  Feb 13 11:56  @DNADigest        RT @DaleYuzuki: Mohlke: Looking at two promoters P1 and P2 - P1 has a significant SNP risk variant, P2 doesn't. #AGBT14 Work in AJHG: http://ow.ly/tACNa
+434008327472021504  Feb 13 11:57  @StevenNHart      @kennamshaw Hopefully ClinVar will give us what we need in an open source environment, but unlikely #AGBT14
+434008502638751744  Feb 13 11:57  @lpachter         On my way to #AGBT14
+434008527254745088  Feb 13 11:57  @brigittegs       M-Levy:  My Cancer Genome site is now licensed to @Genomoncology for commercialisation purpose #AGBT14 http://ow.ly/tAYpN
+434008708755234816  Feb 13 11:58  @geneiam          Carl Morrison when asked about @iontorrent PGM vs @illumina HiSeq wouldn't comment, all he said we put together, they're amazing! #AGBT14
+434008790111776768  Feb 13 11:58  @will_fitzhugh    @kennamshaw @splon @StevenNHart maybe crazy idea - self-fund test and then charge a little more for (more personalized) treatment? #AGBT14
+434008896240222209  Feb 13 11:59  @dnatimes         RT @brigittegs: M-Levy:  My Cancer Genome site is now licensed to @Genomoncology for commercialisation purpose #AGBT14 http://ow.ly/tAYpN
+434008922077548545  Feb 13 11:59  @jlandolin        RT @morgantaschuk: RT @DaleYuzuki: Levy: Q: Is the [MyCancerGenome ]API available publicly? A: No, licensing via GenomeOncology for content #AGBT14
+434010245703409664  Feb 13 12:04  @idtdna           Come stop by Lanai 287 at #AGBT14. Learn about our upcoming #cancer panel and apply for early access!
+434010449328103424  Feb 13 12:05  @will_fitzhugh    @jeffk8900 I think I will make a list of cancer genome interpretation tools. Will take suggestions #AGBT14
+434010504919797760  Feb 13 12:05  @gerlach_d        RT @erlichya: Great summary of #AGBT14 day1 http://blog.genohub.com/agbt-summary-of-day-1/ by @Genohub
+434011073394790401  Feb 13 12:07  @Becky_Kusko      @illumina lunch is packed! #AGBT14
+434011498692628482  Feb 13 12:09  @assemblathon     A rather obvious reminder that the hashtag to be following in the coming hours and days is #AGBT14.
+434011754629455872  Feb 13 12:10  @dnanexus         DNAnexus platform demo tonight 5:15pm at Hilton. Genomic analysis for the clinic. #AGBT14
+434011795884638208  Feb 13 12:10  @lexnederbragt    RT @bffo: I also disagree c comment RT @lexnederbragt: Defending no-tweeting/blogging requests at conferences http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/ #agbt14 @lpachter
+434011852931354624  Feb 13 12:11  @drbachinsky      RT @DaleYuzuki: Levy: 'Actionable' means: large effect size, and strong evidence. Four effects: sensitivity, resistance, prognostic, diagnostic  #AGBT14
+434011858203578368  Feb 13 12:11  @lexnederbragt    RT @assemblathon: A rather obvious reminder that the hashtag to be following in the coming hours and days is #AGBT14.
+434012080031539200  Feb 13 12:11  @lexnederbragt    Packed lunch? RT @Becky_Kusko: @illumina lunch is packed! #AGBT14
+434012140219805696  Feb 13 12:12  @BekahMcLaughlin  RT @infoecho: nice resource about cancer genome http://www.mycancergenome.org #AGBT14
+434012148147453952  Feb 13 12:12  @illumina         Squeeze on in for the illumina workshop, down in Palms ballroom. We hear they're bringing more food #agbt14 http://t.co/55sGf8Y3NR
+434013055492444160  Feb 13 12:15  @GenomeScience    Come visit posters 111 & 304 at #AGBT14 to see what we've been up to! http://bit.ly/1mdn387 fr @genomescience team
+434013081547456512  Feb 13 12:15  @westr            RT @cdbustamante: Latest in USB sequencing technology from #AGBT14 #illumina #seqitall http://t.co/boqBc4u9Wq #pm101
+434013082978091008  Feb 13 12:15  @fluidigm         Establishing sensitivity for mRNA seq on the C1 system in #AGBT14 poster (307) at 1pm today - Dr. Joe Shuga. http://bit.ly/1b4aozC
+434013092654370816  Feb 13 12:15  @BekahMcLaughlin  RT @StevenNHart: Well that stinks.  No API for MCG since they are licensing to GenomeOnclogy #AGBT14
+434013322485440512  Feb 13 12:16  @GenomeScience    RT @malachigriffith: ML, creating a clinical report that links to but does not yet integrate data from MyCancerGenome. http://www.mycancergenome.org/.  #AGBT14
+434013978747228160  Feb 13 12:19  @manuelcorpas     talking to an audience and not allowed to tweet sounds ridiculous @lexnederbragt @bffo #agbt14
+434014061983191040  Feb 13 12:19  @MicroWavesSci    .@lexnederbragt reflects on #AGBT14 social media policy. Good discussion in comments. http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/
+434014354238099456  Feb 13 12:21  @bkmacy           Summary of #AGBT14 Day 1 at Genohub High Throughput Sequencing Blog http://bit.ly/1dKoWPm
+434014388534521857  Feb 13 12:21  @evennemeyer      RT @DaleYuzuki: Levy:  http://MyCancerGenome.org first developed in '10 at Vanderbilt with SNaPshot testing. Now 22 Institutions, 19 cancers #AGBT14
+434014536946180096  Feb 13 12:21  @lexnederbragt    RT @manuelcorpas: talking to an audience and not allowed to tweet sounds ridiculous @lexnederbragt @bffo #agbt14
+434014594970177536  Feb 13 12:21  @lexnederbragt    RT @MicroWavesSci: .@lexnederbragt reflects on #AGBT14 social media policy. Good discussion in comments. http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/
+434015266536960000  Feb 13 12:24  @drchriscole      RT @bffo: I also disagree c comment RT @lexnederbragt: Defending no-tweeting/blogging requests at conferences http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/ #agbt14 @lpachter
+434015705810608128  Feb 13 12:26  @illumina         Sheila Fisher from @broadinstitute up first to show us a first look at  NextSeq and HiSeq X data #AGBT14
+434015726077100032  Feb 13 12:26  @IcahnInstitute   Bobby Sebra goes Viral (MRSA!) at #AGBT14 w/ Poster on Infectious Disease Pipeline using @pacbio at 1-2:30 PM today http://t.co/vx2trEMaHi
+434016042424500224  Feb 13 12:27  @NJL_Broad        RT @illumina: Sheila Fisher from @broadinstitute up first to show us a first look at  NextSeq and HiSeq X data #AGBT14
+434016090541551616  Feb 13 12:27  @dgmacarthur      Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434016222829899776  Feb 13 12:28  @AllSeq           RT @illumina: Sheila Fisher from @broadinstitute up first to show us a first look at  NextSeq and HiSeq X data #AGBT14
+434016239736737792  Feb 13 12:28  @IcahnInstitute   Cool stats from MRSA isolate assemblies on Bobby Sebra's #AGBT14 poster using @pacbio for Infectious Disease Pipeline http://t.co/MkeVUMQJXx
+434016250784915457  Feb 13 12:28  @dkavanagh        RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434016277930467328  Feb 13 12:28  @illumina         SF: 1.5 petabases of data generated in the past 5 years, from exomes, to RNA to arrays to de novo assemblies and more  #AGBT14
+434016304753049600  Feb 13 12:28  @NJL_Broad        RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434016554939080704  Feb 13 12:29  @JokeReumers      Sheila Fisher of Broad discussing daily data generation of 2TB, big data indeed #AGBT14
+434016723520729088  Feb 13 12:30  @illumina         SF: 93% indel sensitivity with Illumina rapid capture exomes and haplotype caller #AGBT14
+434016734324858881  Feb 13 12:30  @lexnederbragt    At the Illumina workshop, listening to Sheila Fisher from @broadinstitute #AGBT14
+434016853099171840  Feb 13 12:30  @lexnederbragt    Fisher: Broad Institute now producing 2.1 Terabse per day, usied 6192 flowcells, on 50 HiSeqs, 10 MiSeqs #AGBT14
+434017042673311744  Feb 13 12:31  @westr            RT @MicroWavesSci: .@lexnederbragt reflects on #AGBT14 social media policy. Good discussion in comments. http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/
+434017097317122048  Feb 13 12:31  @nabsys           At #AGBT14? What are your plans at 1:30 p.m.? Come see @BarrettBready speak to our tech in Everglades Conference Room
+434017132326969344  Feb 13 12:32  @pathogenomenick  RT @aaronquinlan: The Nextseq flow cell really is enormous. Claim is upgrades in optics & flowcell density are coming. #agbt14 http://t.co/WZYP1Rya8x
+434017195379916800  Feb 13 12:32  @epigeneticist    RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434017213901996032  Feb 13 12:32  @druvus           RT @lexnederbragt: Fisher: Broad Institute now producing 2.1 Terabse per day, usied 6192 flowcells, on 50 HiSeqs, 10 MiSeqs #AGBT14
+434017226803646465  Feb 13 12:32  @illumina         SF: Assessing new 2 channel SBS on  NextSeq, good for turnaround and cost, customization #AGBT14
+434017357019631616  Feb 13 12:32  @lexnederbragt    Fisher: Broad has 2 NextSeq 500 instruments #AGBT14
+434017442642542593  Feb 13 12:33  @david_loiret     RT @aaronquinlan: The Nextseq flow cell really is enormous. Claim is upgrades in optics & flowcell density are coming. #agbt14 http://t.co/WZYP1Rya8x
+434017471473803265  Feb 13 12:33  @westr            Genes Gone Wild: RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14 #pm101 #bigdata
+434017516806209536  Feb 13 12:33  @APV2600          RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434017560666058752  Feb 13 12:33  @AllSeq           .@aaronquinlan Enormous indeed! Check out our flow cell pic: http://ngs.is/1kuQTD9 #AGBT14
+434017566437429249  Feb 13 12:33  @JokeReumers      SF error rates and QC metrics on NextSeq comparable with HiSeq 2500 despite diff chemistry. #AGBT14
+434017790492954624  Feb 13 12:34  @illumina         SF: HiSeq 2000 VS NextSeq data comparisons show high quality, even coverage, same variants called #AGBT14
+434017827830263808  Feb 13 12:34  @lexnederbragt    Fisher: NextSeq shows same GC bias as HiSeq2500 on human data #AGBT14
+434017878229401600  Feb 13 12:35  @BioMickWatson    RT @lexnederbragt: Fisher: NextSeq shows same GC bias as HiSeq2500 on human data #AGBT14
+434017913964875776  Feb 13 12:35  @BioMickWatson    RT @illumina: SF: HiSeq 2000 VS NextSeq data comparisons show high quality, even coverage, same variants called #AGBT14
+434017964082610176  Feb 13 12:35  @ING_SYS          RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434018127278780416  Feb 13 12:35  @westr            RT @AllSeq: .@aaronquinlan Enormous indeed! Check out our flow cell pic: http://ngs.is/1kuQTD9 #AGBT14 #pm101
+434018208979640320  Feb 13 12:36  @ISI_TEAMHST      RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434018248380928000  Feb 13 12:36  @illumina         SF: looking at Rapid Capture exome compared on HiSeq and NextSeq show equivalent results, giving them confidence in new chem #AGBT14
+434018478555947009  Feb 13 12:37  @AllSeq           RT @fluidigm: Did you catch our #AGBT14 Day 1 summary? https://www.youtube.com/watch?v=SU7HjAqhpf0 #CouchChat
+434018510705274880  Feb 13 12:37  @illumina         SF: HiSeq X, first question: can we really get a 30x whole genome in one lane? #AGBT14
+434018683720306688  Feb 13 12:38  @cntalavera       RT @lexnederbragt: Fisher: Broad Institute now producing 2.1 Terabse per day, usied 6192 flowcells, on 50 HiSeqs, 10 MiSeqs #AGBT14
+434018775063871488  Feb 13 12:38  @geneiam          Sheila Fisher @broadinstitute talks about @illumina HiSeq X 30x coverage per lane, but still need to ship hard drives. @BaseSpace #AGBT14
+434018820454637568  Feb 13 12:38  @JokeReumers      SF Hiseq X similar error rate and insert size distr but lower (expected) PF. Variant calls similar.#AGBT14
+434018883469860864  Feb 13 12:39  @dgmacarthur      SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434018960225611776  Feb 13 12:39  @geneiam          Sheila Fisher compares @illumina NextSeq500 & HiSeqX to @GenomeInABottle ~99% sensitivity & precision for SNPs & indels. #AGBT14
+434019034062139393  Feb 13 12:39  @NJL_Broad        RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434019200521494528  Feb 13 12:40  @bioitworld       RT @DaleYuzuki: Levy:  http://MyCancerGenome.org first developed in '10 at Vanderbilt w/SNaPshot testing. Now 22 Inst, 19 cancers #AGBT14
+434019260344852480  Feb 13 12:40  @lexnederbragt    RT @geneiam: Sheila Fisher compares @illumina NextSeq500 & HiSeqX to @GenomeInABottle ~99% sensitivity & precision for SNPs & indels. #AGBT14
+434019285149962241  Feb 13 12:40  @lexnederbragt    RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434019378980728832  Feb 13 12:40  @jung_gt          RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434019384336453632  Feb 13 12:40  @thatdnaguy       RT @lexnederbragt: Fisher: Broad Institute now producing 2.1 Terabse per day, usied 6192 flowcells, on 50 HiSeqs, 10 MiSeqs #AGBT14
+434019514972241920  Feb 13 12:41  @ofedrigo         Following and impressed by tweets at #AGBT14. So much quality everywhere. Also distressed to notice genomics at Duke is dangerously lagging.
+434019540364587009  Feb 13 12:41  @BekahMcLaughlin  via @bffo Ppl don’t allow tweets/blogging of their talks b/c don’t appreciate how sci comm is moving forward. #AGBT14 http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/
+434019562787721217  Feb 13 12:41  @illumina         SF: Comparison of all three platforms (HiSeq, HiSeq X and NextSeq) show some minor diffs in GC bias but same coverage #AGBT14
+434019601702465537  Feb 13 12:41  @illumina         RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434019850537938944  Feb 13 12:42  @geneiam          S Fisher @broadinstitute to produce more than 2,000 petabytes of data! #AGBT14
+434019928858193920  Feb 13 12:43  @illumina         SF: addition of new sequencing tech will double the @broadinstitute total output of data in 2014 #bigdata #AGBT14
+434020074786009088  Feb 13 12:43  @IcahnInstitute   RT @salisburymw: Refueled with cookies and Mountain Dew. Ready for morning session part two!  #agbt14
+434020095850209280  Feb 13 12:43  @druvus           RT @illumina: SF: addition of new sequencing tech will double the @broadinstitute total output of data in 2014 #bigdata #AGBT14
+434020228918300672  Feb 13 12:44  @NJL_Broad        Want to get your research genomes on a Broad HiSeqX? Contact us: Genomics[at]http://broadinstitute.org #BroadXGenomes #AGBT14 @broadinstitute
+434020322237378560  Feb 13 12:44  @KevinADavies     MT @dgmacarthur Sheila Fisher @broadinstitute first results from HiSeq X runs: >1 Tb (one deep human genome) from a SINGLE LANE :-0 #AGBT14
+434020333268766720  Feb 13 12:44  @ClinGenSequencr  RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434020359307018240  Feb 13 12:44  @illumina         Gary Schroth @Genomics_Guy up now to give the user's perspective on sequencing workflow; call it an ecosystem  #AGBT14
+434020459160821760  Feb 13 12:45  @fluidigm         How do somatic mutations affect disease? Find out at our #AGBT14 lecture - today, 1-1:30pm in Lanai suite 280. http://bit.ly/1b4aB5U
+434020504673198081  Feb 13 12:45  @ajaniak84        RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434020553582972928  Feb 13 12:45  @GraveleyLab      RT @illumina: Gary Schroth @Genomics_Guy up now to give the user's perspective on sequencing workflow; call it an ecosystem  #AGBT14
+434020598600454145  Feb 13 12:45  @ISI_TEAMHST      RT @illumina: SF: addition of new sequencing tech will double the @broadinstitute total output of data in 2014 #bigdata #AGBT14
+434020704116154369  Feb 13 12:46  @lexnederbragt    Schroth: Starting with sample prep: NeoPrep. Automatic library prep 16 samples at a time #agbt14
+434020793820119040  Feb 13 12:46  @NJL_Broad        RT @illumina: SF: addition of new sequencing tech will double the @broadinstitute total output of data in 2014 #bigdata #AGBT14
+434020802296811521  Feb 13 12:46  @morgantaschuk    RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434020966185074688  Feb 13 12:47  @illumina         GS: #Neoprep to reinvent, standardize, automate library prep. Come check it out at 8:15 A tomorrow in person. #AGBT14
+434021052382187520  Feb 13 12:47  @dgmacarthur      SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434021180337815552  Feb 13 12:48  @morgantaschuk    RT @BekahMcLaughlin: via @bffo Ppl don’t allow tweets/blogging of their talks b/c don’t appreciate how sci comm is moving forward. #AGBT14 http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/
+434021414530981888  Feb 13 12:49  @mohammedmostajo  RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434021497259446272  Feb 13 12:49  @pathogenomenick  RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434021590079385600  Feb 13 12:49  @westr            RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434021595183869952  Feb 13 12:49  @iontorrent       Congrats to Wednesday's Daily Variant Detection Challenge Winners!  Long Le of Mass General Hospital & Xueguang Sun of Zymo Research #AGBT14
+434021754311565312  Feb 13 12:50  @dnanexus         Insights from the genomic analysis of 10,940 exomes & 3,751 whole genomes. Poster 172 Collaboration w/ @awscloud @bcmhouston #AGBT14
+434021764327161856  Feb 13 12:50  @BarbourAnalytix  RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434021797168943104  Feb 13 12:50  @DNesbethUCL      RT @dnanexus: #cloud-based data processing & analysis of >15,000 exomes in a collaborative setting novel gene discovery #AGBT14 http://t.co/XJHmM3oVP1
+434021803644575745  Feb 13 12:50  @lexnederbragt    Schroth: NextSeq 500 flowcell has four lanes but all load the same sample #agbt14
+434021880618430464  Feb 13 12:50  @roelverhaak      @kennamshaw and other #AGBT14 peeps, please check out Hoon Kim's talk on evolving GBMs tonight at 730pm.
+434022075880071169  Feb 13 12:51  @A_Goldman        @innovative_med Broad generates 2TB per day... that's a lot of floppy discs. #AGBT14
+434022123208990720  Feb 13 12:51  @DNADigest        RT @lexnederbragt: Fisher: Broad Institute now producing 2.1 Terabse per day, usied 6192 flowcells, on 50 HiSeqs, 10 MiSeqs #AGBT14
+434022287227248640  Feb 13 12:52  @illumina         GS: NextSeq app flexibility by the (sample) numbers: 1 Hu genome, 6 exomes, 16 Hu RNASeq, 24 RNA profiling #AGBT14
+434022340222267392  Feb 13 12:52  @AllSeq           RT @vbarsan: "sample prep, not sequencing technology, are now the hurdle for developing clinical next-gen sequencing-based tests" - @QuestDX #AGBT14
+434022430240026624  Feb 13 12:53  @innovative_med   RT @A_Goldman: @innovative_med Broad generates 2TB per day... that's a lot of floppy discs. #AGBT14
+434022487605903360  Feb 13 12:53  @bioinformer      RT @genetics_blog: I disagree. See comments RT @lexnederbragt: Defending no-tweeting/blogging requests at conferences http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/ #agbt14 @lpachter
+434022826656296960  Feb 13 12:54  @dgermain21       RT @lexnederbragt: Fisher: Broad Institute now producing 2.1 Terabse per day, usied 6192 flowcells, on 50 HiSeqs, 10 MiSeqs #AGBT14
+434022841202540546  Feb 13 12:54  @brigittegs       RT @geneiam: Sheila Fisher @broadinstitute talks about @illumina HiSeq X 30x coverage per lane, but still need to ship hard drives. @BaseSpace #AGBT14
+434022985943744513  Feb 13 12:55  @enlightenbio     A summary of all @QIAGEN Announcements made re their Next-Generation #Sequencing (#NGS) products at #AGBT14 http://ow.ly/tAJ2Q
+434022999235522560  Feb 13 12:55  @illumina         GS reminding #AGBT14 of many TruSeq RNA sample prep kits to fit a vast number of research needs, ability to see stranded resolution
+434023015626866688  Feb 13 12:55  @brigittegs       RT @lexnederbragt: Fisher: Broad Institute now producing 2.1 Terabse per day, usied 6192 flowcells, on 50 HiSeqs, 10 MiSeqs #AGBT14
+434023082475270144  Feb 13 12:55  @JonathanHirsch   RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434023133272866816  Feb 13 12:55  @PacBio           RT @IcahnInstitute: Bobby Sebra goes Viral (MRSA!) at #AGBT14 w/ Poster on Infectious Disease Pipeline using @pacbio at 1-2:30 PM today http://t.co/vx2trEMaHi
+434023210548334592  Feb 13 12:56  @BiocomInstitute  RT @illumina: GS: #Neoprep to reinvent, standardize, automate library prep. Come check it out at 8:15 A tomorrow in person. #AGBT14
+434023291167453184  Feb 13 12:56  @MelanieFebrer    RT @illumina: GS reminding #AGBT14 of many TruSeq RNA sample prep kits to fit a vast number of research needs, ability to see stranded resolution
+434023368015478784  Feb 13 12:56  @desmethockey     RT @NJL_Broad: Want to get your research genomes on a Broad HiSeqX? Contact us: Genomics[at]http://broadinstitute.org #BroadXGenomes #AGBT14 @broadinstitute
+434023485807935488  Feb 13 12:57  @westr            RT @fluidigm: How do somatic mutations affect disease? Find out at our #AGBT14 lecture - today, 1-1:30pm in Lanai suite 280. http://bit.ly/1b4aB5U
+434023500165427200  Feb 13 12:57  @bioinformer      RT @cdbustamante: Latest in USB sequencing technology from #AGBT14 #illumina #seqitall http://t.co/pbM9ouit9j
+434023725265334272  Feb 13 12:58  @illumina         GS: NextSeq and MiSeq data comparison for counting is remarkably concordant. #AGBT14 See more here in blog post: http://blog.illumina.com/blog/illumina/2014/01/14/the-new-5-tool-player-on-the-illumina-team
+434023726397796352  Feb 13 12:58  @gerlach_d        RT @aaronquinlan: The Nextseq flow cell really is enormous. Claim is upgrades in optics & flowcell density are coming. #agbt14 http://t.co/WZYP1Rya8x
+434023767111892993  Feb 13 12:58  @gerlach_d        RT @malachigriffith: http://www.DGIdb.org is a complimentary resource to MyCancerGenome. More targeted at hypothesis generation and basic research. #AGBT14
+434023790688108544  Feb 13 12:58  @bioinformer      RT @illumina: SF: addition of new sequencing tech will double the @broadinstitute total output of data in 2014 #bigdata #AGBT14
+434023804416057344  Feb 13 12:58  @enlightenbio     RT @brigittegs: M-Levy:  My Cancer Genome site is now licensed to @Genomoncology for commercialisation purpose #AGBT14 http://ow.ly/tAYpN
+434023868236185600  Feb 13 12:58  @JonathanHirsch   @will_fitzhugh @jeffk8900 I’ve got a list going already. Collaborate? :) #agbt14
+434023979385626625  Feb 13 12:59  @benjaminlmoore   RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434024043113885697  Feb 13 12:59  @UCScienceCenter  Sc Port grad, @Bionanogenomics is making history at the #AGBT14 Conf by mapping a human genome in real time! http://ow.ly/tB8gv
+434024243848704003  Feb 13 13:00  @bffo             RT @manuelcorpas: talking to an audience and not allowed to tweet sounds ridiculous @lexnederbragt @bffo #agbt14
+434024304775544832  Feb 13 13:00  @AW_NGS           RT @lexnederbragt: Fisher: Broad Institute now producing 2.1 Terabse per day, usied 6192 flowcells, on 50 HiSeqs, 10 MiSeqs #AGBT14
+434024399407026176  Feb 13 13:00  @eskay8           RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434024419753615360  Feb 13 13:01  @lexnederbragt    Schroth: "BaseSpace: anyone can do bioinformatics now." Even without understanding what they are doing, I guess... #AGBT14
+434024478776242176  Feb 13 13:01  @fluidigm         Be sure to see Dr. Joe Shuga's #AGBT14 poster (307) on single-cell mRNA sequencing - today, 1-2:30pm. http://bit.ly/1b4aB5U
+434024555968217088  Feb 13 13:01  @illumina         GS: BaseSpace core apps: WGS, Exome, RNA-Seq (feat Tophat and Cufflinks), Tumor-normal. #AGBT14 http://www.illumina.com/landing/basespace-core-apps-for-rna-sequencing/?scid=2014019PT1
+434024584019324929  Feb 13 13:01  @bionanogenomics  RT @UCScienceCenter: Sc Port grad, @Bionanogenomics is making history at the #AGBT14 Conf by mapping a human genome in real time! http://ow.ly/tB8gv
+434024596627783680  Feb 13 13:01  @frapaport        Come see me at poster 105 if you like targeted sequencing and ALL #AGBT14
+434024611697917952  Feb 13 13:01  @morgantaschuk    RT @lexnederbragt: Schroth: "BaseSpace: anyone can do bioinformatics now." Even without understanding what they are doing, I guess... #AGBT14
+434024657965293568  Feb 13 13:01  @anavinuela       RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434024806540136448  Feb 13 13:02  @AW_NGS           RT @lexnederbragt: Schroth: Starting with sample prep: NeoPrep. Automatic library prep 16 samples at a time #agbt14
+434024910076542976  Feb 13 13:02  @frapaport        Especially since a discussion will be 1000x more interesting for you than a look at my poster when I’m not around #AGBT14
+434025005115244544  Feb 13 13:03  @AW_NGS           RT @lexnederbragt: Schroth: "BaseSpace: anyone can do bioinformatics now." Even without understanding what they are doing, I guess... #AGBT14
+434025017115172864  Feb 13 13:03  @fluidigm         Head to our single-cell DNA seq #AGBT14 workshop - happening now, 1-1:30pm, Lanai suite 280. http://bit.ly/1b4aB5U
+434025074182856704  Feb 13 13:03  @alexmarshall131  RT @NJL_Broad: Want to get your research genomes on a Broad HiSeqX? Contact us: Genomics[at]http://broadinstitute.org #BroadXGenomes #AGBT14 @broadinstitute
+434025159658598400  Feb 13 13:03  @bioinformer      RT @UCScienceCenter: Sc Port grad, @Bionanogenomics is making history at the #AGBT14 Conf by mapping a human genome in real time! http://ow.ly/tB8gv
+434025255938838528  Feb 13 13:04  @geneiam          @illumina describe new tools (apps) for analysis. Free for now. @BaseSpace #AGBT14
+434025285684432896  Feb 13 13:04  @gtombline        RT @bioitworld: RT @DaleYuzuki: Levy:  http://MyCancerGenome.org first developed in '10 at Vanderbilt w/SNaPshot testing. Now 22 Inst, 19 cancers #AGBT14
+434025560604692480  Feb 13 13:05  @alexmarshall131  RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434025666141376513  Feb 13 13:05  @evennemeyer      RT @iontorrent: Congrats to Wednesday's Daily Variant Detection Challenge Winners!  Long Le of Mass General Hospital & Xueguang Sun of Zymo Research #AGBT14
+434025785528422401  Feb 13 13:06  @ofedrigo         RT @illumina: GS: BaseSpace core apps: WGS, Exome, RNA-Seq (feat Tophat and Cufflinks), Tumor-normal. #AGBT14 http://www.illumina.com/landing/basespace-core-apps-for-rna-sequencing/?scid=2014019PT1
+434025813546377217  Feb 13 13:06  @pjacock          RT @lexnederbragt: Schroth: "BaseSpace: anyone can do bioinformatics now." Even without understanding what they are doing, I guess... #AGBT14
+434025847679623168  Feb 13 13:06  @ING_SYS          Do you smell the popcorn???  Stop by QIAGEN in the Capri Room downstairs & enjoy some #AGBT14
+434025871499091968  Feb 13 13:06  @ofedrigo         RT @lexnederbragt: Schroth: "BaseSpace: anyone can do bioinformatics now." Even without understanding what they are doing, I guess... #AGBT14
+434026012524154880  Feb 13 13:07  @DukeSequencing   RT @illumina: GS: BaseSpace core apps: WGS, Exome, RNA-Seq (feat Tophat and Cufflinks), Tumor-normal. #AGBT14 http://www.illumina.com/landing/basespace-core-apps-for-rna-sequencing/?scid=2014019PT1
+434026201351716864  Feb 13 13:08  @DukeSequencing   RT @illumina: SF: looking at Rapid Capture exome compared on HiSeq and NextSeq show equivalent results, giving them confidence in new chem #AGBT14
+434026259228934144  Feb 13 13:08  @Nikhilwagle      RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434026265813991424  Feb 13 13:08  @DukeSequencing   RT @GenomeScience: Come visit posters 111 & 304 at #AGBT14 to see what we've been up to! http://bit.ly/1mdn387 fr @genomescience team
+434026653082456064  Feb 13 13:09  @DukeSequencing   RT @OmicsOmicsBlog: sprai = single pass read accuracy improver — New @pacbio preprocessor #agbt14 poster http://zombie.cb.k.u-tokyo.ac.jp/sprai/
+434026829977247744  Feb 13 13:10  @DukeSequencing   RT @PacBio: Blog post: Data Release ~54x Long-Read Coverage for PacBio-only De Novo Human Genome Assembly #AGBT14 http://j.mp/1bozIRc
+434026857491865600  Feb 13 13:10  @JonathanHirsch   @kennamshaw excited to hear more! Open API available? #AGBT14
+434026881969823744  Feb 13 13:10  @wateresa         RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434026919999197185  Feb 13 13:10  @StanleyCenter    MT @dgmacarthur Sheila Fisher: @broadinstitute will generate more sequence in 2014 than all previous years combined.  #AGBT14
+434027167203094529  Feb 13 13:11  @westr            RT @brigittegs: M-Levy:  My Cancer Genome site is now licensed to @Genomoncology for commercialisation #AGBT14 http://ow.ly/tAYpN #pm101
+434027243502059521  Feb 13 13:12  @epigeneticist    RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434027270819569664  Feb 13 13:12  @PacBio           RT @GenomeScience: Come visit posters 111 & 304 at #AGBT14 to see what we've been up to! http://bit.ly/1mdn387 fr @genomescience team
+434027943887925248  Feb 13 13:15  @AW_NGS           RT @GenomeScience: Come visit posters 111 & 304 at #AGBT14 to see what we've been up to! http://bit.ly/1mdn387 fr @genomescience team
+434028133374001152  Feb 13 13:15  @MVickySchneider  RT @MicroWavesSci: .@lexnederbragt reflects on #AGBT14 social media policy. Good discussion in comments. http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/
+434028381001482240  Feb 13 13:16  @stephenstang     RT @UCScienceCenter: Sc Port grad, @Bionanogenomics is making history at the #AGBT14 Conf by mapping a human genome in real time! http://ow.ly/tB8gv
+434028540842213376  Feb 13 13:17  @alexmarshall131  RT @lexnederbragt: Fisher: NextSeq shows same GC bias as HiSeq2500 on human data #AGBT14
+434028949102788608  Feb 13 13:18  @Massgenomics     Good talk not at #AGBT14: @tuuliel on functional population genomics: connecting gen. variants to cell phenotypes via txome sequencing.
+434029311138734080  Feb 13 13:20  @AgilentGenomics  Lanai 193 In-Suite Talk at 1:30–2:30pm: Breaking Barriers in Clinical Research #Sequencing with SureSelect, Maria Ramirez #AGBT14
+434029618358915072  Feb 13 13:21  @AgilentGenomics  Lanai 193 - 1:30-2:30pm Breaking Barriers in Clinical Research Sequencing with SureSelect Maria Ramirez, Agilent NGS Product Manager #AGBT14
+434029811581726720  Feb 13 13:22  @BioRadGenomics   At #AGBT14? Join our Bio-Rad scientists in Lanai Suite 288 from 5-6pm today to learn more about digital PCR.
+434029960194293760  Feb 13 13:23  @Massgenomics     RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434030716213805056  Feb 13 13:26  @tamelakim        delicious treats provided by @marcomarriott at the @AGBT meeting #agbt14 @ Marco Island Marriott Beach… http://instagram.com/p/kXcLritidz/
+434030766289600512  Feb 13 13:26  @dom_macski       RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434031406633979904  Feb 13 13:28  @aaronquinlan     RT @illumina: GS: BaseSpace core apps: WGS, Exome, RNA-Seq (feat Tophat and Cufflinks), Tumor-normal. #AGBT14 http://www.illumina.com/landing/basespace-core-apps-for-rna-sequencing/?scid=2014019PT1
+434031715670298624  Feb 13 13:29  @waspsystem       Remember to check out our live software demo this evening 5.15-7.15 at The Hilton if your attending the #AGBT14 meeting.
+434032082302803968  Feb 13 13:31  @malachigriffith  Poster #007. Variant allele frequency increases from 11% in bulk pancreatic tumor to 48% in LCM of the same tumor. #AGBT14
+434032163906785280  Feb 13 13:31  @Partek_Inc       NGS analysis on an iPad. Come see Partek Flow on the Cloud at software demos tonight. 5:15-7:15 Marco Island Hilton #AGBT14
+434032605684842496  Feb 13 13:33  @tamelakim        “@fluidigm: Lots going on! Joe Shuga at poster #307, and join us for our Lanai lecture on single-cell DNA Seq workflow lanai 280 #AGBT14
+434032770772258816  Feb 13 13:34  @SBAmin           Gene Torrent @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14 #bigdata
+434032966277550080  Feb 13 13:34  @fluidigm         RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434032986841808897  Feb 13 13:35  @dwheelerau       RT @manuelcorpas: talking to an audience and not allowed to tweet sounds ridiculous @lexnederbragt @bffo #agbt14
+434033058757750784  Feb 13 13:35  @EpgntxEinstein   RT @waspsystem: Remember to check out our live software demo this evening 5.15-7.15 at The Hilton if your attending the #AGBT14 meeting.
+434033317726650368  Feb 13 13:36  @malachigriffith  Poster 007. With fresh material, flow sort pancreatic tumor cells with EpCAM and normal cells with CD45+. Then check KRAS mutation. #AGBT14
+434033535813705728  Feb 13 13:37  @AgilentGenomics  @ the packed Suite 193 closest to beach:1:30-2:30 Pioneering Clinical Research #Sequencing with SureSelect http://ow.ly/i/4ADax #AGBT14
+434033603300040704  Feb 13 13:37  @Genohub          Poster 280: Continuous flow microfluidic library prep system #AGBT14
+434033633230610434  Feb 13 13:37  @fluidigm         RT @DaleYuzuki: Levy:  http://MyCancerGenome.org first developed in '10 at Vanderbilt with SNaPshot testing. Now 22 Institutions, 19 cancers #AGBT14
+434033668609171456  Feb 13 13:37  @dwheelerau       RT @BekahMcLaughlin: via @bffo Ppl don’t allow tweets/blogging of their talks b/c don’t appreciate how sci comm is moving forward. #AGBT14 http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/
+434033679254704128  Feb 13 13:37  @aphillippy       RT @GenomeScience: Come visit posters 111 & 304 at #AGBT14 to see what we've been up to! http://bit.ly/1mdn387 fr @genomescience team
+434033782702612484  Feb 13 13:38  @ING_SYS          Mutations in PGAP3 Cause ARID ID'd Using Ingenuity, PMID:24439110 http://1.usa.gov/1c26Tb1 Data: http://bit.ly/1fk3Lou #AGBT14
+434034131555868672  Feb 13 13:39  @generoom         RT @vbarsan: "sample prep, not sequencing technology, are now the hurdle for developing clinical next-gen sequencing-based tests" - @QuestDX #AGBT14
+434034186459316224  Feb 13 13:39  @Genohub          Poster 339: Reads beyond 50nt don't significantly improve RNAseq read quantitation #AGBT14
+434034465518923776  Feb 13 13:40  @nabsys           @BarrettBready discussing genome structural analysis at #AGBT14 in Everglades. Come on by! http://t.co/QmvYHRc0BB
+434034536578437120  Feb 13 13:41  @mpirooz          RT @nextgenseek: #AGBT14 Word-cloud from agenda titles http://nextgenseek.com/2014/01/agbt-2014-announces-its-agenda/ http://t.co/3zGWV90GxM
+434035221252435969  Feb 13 13:43  @westr            RT @nextgenseek: #AGBT14 Word-cloud from agenda titles http://nextgenseek.com/2014/01/agbt-2014-announces-its-agenda/ http://t.co/EGApEPequJ #pm101
+434035318296035329  Feb 13 13:44  @CancerFrontline  RT @westr: RT @nextgenseek: #AGBT14 Word-cloud from agenda titles http://nextgenseek.com/2014/01/agbt-2014-announces-its-agenda/ http://t.co/EGApEPequJ #pm101
+434035618247872512  Feb 13 13:45  @AJHGNews         RT @NJL_Broad: Want to get your research genomes on a Broad HiSeqX? Contact us: Genomics[at]http://broadinstitute.org #BroadXGenomes #AGBT14 @broadinstitute
+434035659636895744  Feb 13 13:45  @dwheelerau       @BekahMcLaughlin @thrantastic I'm certainly enjoying the #AGBT14 tweets down here in NZ!
+434036032342745088  Feb 13 13:47  @genetics_blog    I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434036171568844800  Feb 13 13:47  @cathcoste        RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434036491837513728  Feb 13 13:48  @AJH_Broad        RT @StanleyCenter: MT @dgmacarthur Sheila Fisher: @broadinstitute will generate more sequence in 2014 than all previous years combined.  #AGBT14
+434036753700495361  Feb 13 13:50  @GenomeJoe        RT @illumina: GS: BaseSpace core apps: WGS, Exome, RNA-Seq (feat Tophat and Cufflinks), Tumor-normal. #AGBT14 http://www.illumina.com/landing/basespace-core-apps-for-rna-sequencing/?scid=2014019PT1
+434036810314838016  Feb 13 13:50  @homolog_us       RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434037173130522624  Feb 13 13:51  @westr            RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt #pm101 #genomics
+434037229761986561  Feb 13 13:51  @gerlach_d        RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434037398738337793  Feb 13 13:52  @gerlach_d        RT @illumina: SF: HiSeq 2000 VS NextSeq data comparisons show high quality, even coverage, same variants called #AGBT14
+434037588606058496  Feb 13 13:53  @dnanexus         Forgot your sunnies? Stop by suite #284 for some colorful wayfarers. #AGBT14 #agbtselfie http://t.co/XG0AFshVmd
+434037647447973889  Feb 13 13:53  @AgilentGenomics  Anniek DeWitte on the SureCall 2.0 release. come to Lanai 193 to learn more! PR: http://www.agilent.com/about/newsroom/presrel/2014/12feb-ca14011.html #AGBT14 http://ow.ly/i/4ADYZ
+434037819708026880  Feb 13 13:54  @DrFerdowsi       RT @westr: RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt #pm101 #genomics
+434038117629038592  Feb 13 13:55  @dvoordom         Now, time to catch up on #AGBT14.
+434038121601445888  Feb 13 13:55  @moorejh          #genome RT @westr @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt #pm101 #genomics
+434038493816569858  Feb 13 13:56  @druvus           RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434038656924258304  Feb 13 13:57  @OwenWStephens    RT @vbarsan: "sample prep, not sequencing technology, are now the hurdle for developing clinical next-gen sequencing-based tests" - @QuestDX #AGBT14
+434038801866821633  Feb 13 13:58  @evolvability     RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434039068587220992  Feb 13 13:59  @drbachinsky      RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434039536830926849  Feb 13 14:01  @drbachinsky      RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434039730217689088  Feb 13 14:01  @appistry         Stop by @Intel suite during Friday’s coffee break to learn more about #GATK from @broadinstitute cc: @agbt #AGBT14
+434039780838350849  Feb 13 14:02  @erlichya         The state of sequencing #AGBT14 http://www.youtube.com/watch?v=L1uSwy_wF8s (humor, only humor)
+434039996623097856  Feb 13 14:02  @malachigriffith  Poster 028 describes mayo clinic pipeline: GenomeGPS2.0. Uses novoalign, gatk best practices, and snvmix2 for variant calling. #AGBT14
+434040208041213952  Feb 13 14:03  @AW_NGS           RT @Genohub: Poster 339: Reads beyond 50nt don't significantly improve RNAseq read quantitation #AGBT14
+434040357815209985  Feb 13 14:04  @froggleston      Some good posters here at #AGBT14. A *lot* of cancer, long read and RNA-Seq. V little bioinfx, but there is one with cute puppies on it.
+434040451767603200  Feb 13 14:04  @finchtalk        RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434040703006801920  Feb 13 14:05  @malachigriffith  Mayo uses SomaticSniper + SomaticIndel + MuTect + JointSNVMix2 combined into meta caller to improve specificity. #AGBT14
+434040906933481472  Feb 13 14:06  @SuzanneMGraham0  RT @westr: RT @nextgenseek: #AGBT14 Word-cloud from agenda titles http://nextgenseek.com/2014/01/agbt-2014-announces-its-agenda/ http://t.co/EGApEPequJ #pm101
+434040925606924288  Feb 13 14:06  @CLCbio           Swing by @QIAGEN's Capri suite and get some popcorn from Tim :) #AGBT14 http://t.co/STiuRtKiis
+434040951300837376  Feb 13 14:06  @dvoordom         Thank you, Sir! RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434041456576462848  Feb 13 14:08  @NGSperspectives  RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434041516366249984  Feb 13 14:08  @JasmineGruiaGr   RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434042072027258880  Feb 13 14:11  @finchtalk        RT @genetics_blog: I disagree. See comments RT @lexnederbragt: Defending no-tweeting/blogging requests at conferences http://flxlexblog.wordpress.com/2014/02/13/defending-no-tweetingblogging-requests-at-conferences/ #agbt14 @lpachter
+434042096316866561  Feb 13 14:11  @Genomics_Guy     RT @geneiam: @illumina describe new tools (apps) for analysis. Free for now. @BaseSpace #AGBT14
+434042129980346368  Feb 13 14:11  @Genomics_Guy     RT @illumina: GS: BaseSpace core apps: WGS, Exome, RNA-Seq (feat Tophat and Cufflinks), Tumor-normal. #AGBT14 http://www.illumina.com/landing/basespace-core-apps-for-rna-sequencing/?scid=2014019PT1
+434042227627552768  Feb 13 14:11  @troutman_kim     #AGBT14 check out the crowd around AMP poster #286!
+434042230144520192  Feb 13 14:11  @fstrozzi         RT @lexnederbragt: Schroth: "BaseSpace: anyone can do bioinformatics now." Even without understanding what they are doing, I guess... #AGBT14
+434042294887809024  Feb 13 14:12  @PacBio           See Jane: #AGBT14 pstr #95 Using SMRTSeq to Interrogate the Genome, Epigenome, & Transcriptome of Neurospora crassa  http://j.mp/1bsJamF
+434042301388980224  Feb 13 14:12  @AllSeq           RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434042364630679552  Feb 13 14:12  @Genomics_Guy     RT @KevinADavies: MT @dgmacarthur Sheila Fisher @broadinstitute first results from HiSeq X runs: >1 Tb (one deep human genome) from a SINGLE LANE :-0 #AGBT14
+434042552581226496  Feb 13 14:13  @jchadel          RT @aaronquinlan: Rather clever USB freebies from @Illumina at #agbt14 http://t.co/LpN9Pyb962
+434042637965070336  Feb 13 14:13  @HM_Livingston    RT @nabsys: @BarrettBready discussing genome structural analysis at #AGBT14 in Everglades. Come on by! http://t.co/QmvYHRc0BB
+434042699822280704  Feb 13 14:13  @chrisamiller     RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434042938121666560  Feb 13 14:14  @AppliedBio       RT @iontorrent: Congrats to Wednesday's Daily Variant Detection Challenge Winners!  Long Le of Mass General Hospital & Xueguang Sun of Zymo Research #AGBT14
+434042994640293888  Feb 13 14:14  @frank_foerster   RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434043354247340032  Feb 13 14:16  @AW_NGS           RT @PacBio: See Jane: #AGBT14 pstr #95 Using SMRTSeq to Interrogate the Genome, Epigenome, & Transcriptome of Neurospora crassa  http://j.mp/1bsJamF
+434043462443220993  Feb 13 14:16  @newbybrewer      RT @malachigriffith: Poster 028 describes mayo clinic pipeline: GenomeGPS2.0. Uses novoalign, gatk best practices, and snvmix2 for variant calling. #AGBT14
+434043531305316352  Feb 13 14:16  @newbybrewer      RT @malachigriffith: Mayo uses SomaticSniper + SomaticIndel + MuTect + JointSNVMix2 combined into meta caller to improve specificity. #AGBT14
+434043610493767680  Feb 13 14:17  @homolog_us       Quick question - roughly how many people are attending #AGBT14 ?
+434043646510657536  Feb 13 14:17  @PacBio           RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434043770997604352  Feb 13 14:17  @malachigriffith  Poster 30. Somatic mutation detection without matched normals. Use bwa and gatk for calling. Then filter against a pool of normals. #AGBT14
+434044289841393664  Feb 13 14:19  @malachigriffith  Poster 30. Normals identify analysis artifacts. Then filter with 1000g and ESP. Very similar to ingenuity variant analysis approach. #AGBT14
+434044320132636672  Feb 13 14:20  @PacBio           Visit Michael Brown at Poster #169: Sequencing Complete HIV-1 Genomes as Single Molecules With Continuous Long Reads #AGBT14
+434045063677886465  Feb 13 14:23  @ClinGenSequencr  Making clinical more accessible"@illumina: SF: Assessing new 2 channel SBS on  NextSeq, good for turnaround and cost, customization #AGBT14"
+434045691434762242  Feb 13 14:25  @mtroutman_mike   RT @troutman_kim: #AGBT14 check out the crowd around AMP poster #286!
+434045872373243904  Feb 13 14:26  @malachigriffith  Poster 23 describes sequencing of 385 blood malignancies by targeted DNA-seq and RNA-seq. Target hits >300 genes. #AGBT14
+434046233254973440  Feb 13 14:27  @SageSci          See how Bobby Sebra from @IcahnInstitute uses @PacBio with #BluePippin sizing to get crazy long reads. #AGBT14 http://goo.gl/19ac4A
+434046361533952000  Feb 13 14:28  @Ayo_Toye         @ING_SYS: Mutations in PGAP3 Cause Hyperphosphatasia with Mental Retardation,  http://1.usa.gov/1c26Tb1 Data: http://bit.ly/1fk3Lou #AGBT14
+434046610121965569  Feb 13 14:29  @malachigriffith  Poster 023. Somatic alterations found in 94% of samples. Breakdown by type: 59% snvs, 23% indels, 7% cnvs, 8% svs, 3% splice muts. #AGBT14
+434046692841627648  Feb 13 14:29  @PacBio           RT @SageSci: See how Bobby Sebra from @IcahnInstitute uses @PacBio with #BluePippin sizing to get crazy long reads. #AGBT14 http://goo.gl/19ac4A
+434046717185388544  Feb 13 14:29  @BekahMcLaughlin  RT @erlichya: The state of sequencing #AGBT14 http://www.youtube.com/watch?v=L1uSwy_wF8s (humor, only humor)
+434047058073616386  Feb 13 14:30  @AW_NGS           RT @SageSci: See how Bobby Sebra from @IcahnInstitute uses @PacBio with #BluePippin sizing to get crazy long reads. #AGBT14 http://goo.gl/19ac4A
+434047817300987904  Feb 13 14:33  @BekahMcLaughlin  "@bbiotech: 457 scientists, 312 vendors, 22 media & analysts #AGBT2014 #genomics #marcoisland" #AGBT14
+434048045454356480  Feb 13 14:34  @homolog_us       RT @IcahnInstitute: Bobby Sebra goes Viral (MRSA!) at #AGBT14 w/ Poster on Infectious Disease Pipeline using @pacbio at 1-2:30 PM today http://t.co/vx2trEMaHi
+434048087473287168  Feb 13 14:35  @PacBio           Jonas Korlach discusses recent publications using SMRTSeq: Resolving the ‘Dark Matter’ in Genomes Poster #93 #AGBT14 http://j.mp/1me7bSQ
+434048268100976640  Feb 13 14:35  @neilhall_uk      RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434048268923064322  Feb 13 14:35  @lexnederbragt    RT @PacBio: Jonas Korlach discusses recent publications using SMRTSeq: Resolving the ‘Dark Matter’ in Genomes Poster #93 #AGBT14 http://j.mp/1me7bSQ
+434048394596999168  Feb 13 14:36  @AW_NGS           RT @PacBio: Jonas Korlach discusses recent publications using SMRTSeq: Resolving the ‘Dark Matter’ in Genomes Poster #93 #AGBT14 http://j.mp/1me7bSQ
+434048602982600705  Feb 13 14:37  @OmicsOmicsBlog   RT @lexnederbragt: Fisher: Broad Institute now producing 2.1 Terabse per day, usied 6192 flowcells, on 50 HiSeqs, 10 MiSeqs #AGBT14
+434048642690064384  Feb 13 14:37  @NGSperspectives  We almost only talk about NGS, but according to our survey, scientists still use Sanger 38% of the time! http://ngsperspectives.com/results-survey-future-next-generation-sequencing/2/#toc10 #AGBT14
+434048684788301825  Feb 13 14:37  @DaleYuzuki       Up next: Thomas Gilbert (Univ Copenhagen) Next-gen eDNA in biodiversity monitoring - potential and problems #AGBT14
+434048799297011712  Feb 13 14:37  @OmicsOmicsBlog   RT @lexnederbragt: Fisher: NextSeq shows same GC bias as HiSeq2500 on human data #AGBT14
+434048856691470336  Feb 13 14:38  @lexnederbragt    Next speaker at #agbt14 is Thomas Gilbert: "Next-Gen eDNA in Biodiversity Monitoring – Potential and Problems" e for environmental
+434048870734368768  Feb 13 14:38  @OmicsOmicsBlog   RT @illumina: SF: looking at Rapid Capture exome compared on HiSeq and NextSeq show equivalent results, giving them confidence in new chem #AGBT14
+434048872256520192  Feb 13 14:38  @omespeak         Any posters on #nanopores at #AGBT14 from @nanopore  @EBioSci @geniachip or anyone else?
+434048902157721600  Feb 13 14:38  @illumina         Now for something a little different, Tom Gilbert on NGS utility for biodiversity monitoring #AGBT14
+434048938719862784  Feb 13 14:38  @OmicsOmicsBlog   RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434049007439323136  Feb 13 14:38  @OmicsOmicsBlog   RT @geneiam: Sheila Fisher compares @illumina NextSeq500 & HiSeqX to @GenomeInABottle ~99% sensitivity & precision for SNPs & indels. #AGBT14
+434049016947814400  Feb 13 14:38  @DaleYuzuki       Gilbert: About 5.5k species of mammals. 76 spp. extinct in 50y; 29 add'l might be; 40% threatened by habitat loss #AGBT14
+434049027609722880  Feb 13 14:38  @joemellor        RT @erlichya: The state of sequencing #AGBT14 http://www.youtube.com/watch?v=L1uSwy_wF8s (humor, only humor)
+434049077689724928  Feb 13 14:38  @OmicsOmicsBlog   RT @illumina: SF: Comparison of all three platforms (HiSeq, HiSeq X and NextSeq) show some minor diffs in GC bias but same coverage #AGBT14
+434049193729339392  Feb 13 14:39  @DIamartino       RT @vbarsan: "sample prep, not sequencing technology, are now the hurdle for developing clinical next-gen sequencing-based tests" - @QuestDX #AGBT14
+434049197105745920  Feb 13 14:39  @DaleYuzuki       Gilbert: 25% 'assessable' under threat - but what about 'data deficient' and 'not evaluated'? #AGBT14
+434049199433605121  Feb 13 14:39  @NGSperspectives  Thomas Gilbert, Uni of Copenhagen: "25% of assessable mammals are threatened with extinction." #AGBT14
+434049230525972480  Feb 13 14:39  @morgantaschuk    RT @DaleYuzuki: Gilbert: About 5.5k species of mammals. 76 spp. extinct in 50y; 29 add'l might be; 40% threatened by habitat loss #AGBT14
+434049313279578112  Feb 13 14:39  @lexnederbragt    RT @DaleYuzuki: Gilbert: About 5.5k species of mammals. 76 spp. extinct in 50y; 29 add'l might be; 40% threatened by habitat loss #AGBT14
+434049357982498816  Feb 13 14:40  @KMeltzSteinberg  RT @illumina: Now for something a little different, Tom Gilbert on NGS utility for biodiversity monitoring #AGBT14
+434049474886135808  Feb 13 14:40  @OmicsOmicsBlog   RT @lexnederbragt: Schroth: Starting with sample prep: NeoPrep. Automatic library prep 16 samples at a time #agbt14
+434049511733100544  Feb 13 14:40  @OmicsOmicsBlog   RT @illumina: GS: #Neoprep to reinvent, standardize, automate library prep. Come check it out at 8:15 A tomorrow in person. #AGBT14
+434049543408455680  Feb 13 14:40  @OmicsOmicsBlog   RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434049548357742592  Feb 13 14:40  @DaleYuzuki       Gilbert: Pretty photos of tropical forests - not easy to work in and access. Looking at scat, footprints, camera tracks work best  #AGBT14
+434049551327297536  Feb 13 14:40  @NGSperspectives  Gilbert: "Rainforest is not an easy place to work. I almost got trampled by an elephant and didn't realise until I wet myself." #AGBT14
+434049617324687360  Feb 13 14:41  @OmicsOmicsBlog   RT @lexnederbragt: Schroth: NextSeq 500 flowcell has four lanes but all load the same sample #agbt14
+434049667785965568  Feb 13 14:41  @gabeinformatics  RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434049774099378177  Feb 13 14:41  @DaleYuzuki       Gilbert: But cameras also weak. Then markets - discovered 'for dinner' but heretofore undiscovered. #AGBT14
+434049964906647554  Feb 13 14:42  @cdbustamante     Tom Gilbert: hard to see things in the forest. Almost stepped on by an elephant. Didn't know he was there until I nearly wet myself #AGBT14
+434050017641246720  Feb 13 14:42  @T_Lubinski       Great talk from Tom Gilbert, cleverly addressing measuring biodiversity through NGS. #AGBT14
+434050077544685568  Feb 13 14:42  @DaleYuzuki       Gilbert: Leech study in Current Biol 2012 http://ow.ly/tBmQ4 #AGBT14
+434050080656875520  Feb 13 14:42  @illumina         TG: how can DNA help increase the information on accessible animals? Hint: it might involve leeches #AGBT14
+434050087850086401  Feb 13 14:42  @KMeltzSteinberg  Thomas Gilbert: getting DNA from wild animals from leeches. Interesting approach #AGBT14
+434050094045089792  Feb 13 14:43  @nabsys           Thanks to all those who stopped by to see Brendan Galvin discuss our poster in Collier Hall! #AGBT14 http://t.co/L6mt6F1UMo
+434050285938294784  Feb 13 14:43  @fluidigm         Everything Single-Cell is happening at #AGBT14 Lanai #280. Come by to run live cells on our C1 System. https://www.youtube.com/watch?v=3bZiHec8xik …
+434050375260573696  Feb 13 14:44  @salisburymw      It's only day 2, but I think Tom Gilbert wins the prize for funniest presentation of #agbt14.
+434050382386704384  Feb 13 14:44  @DaleYuzuki       Gilbert: Feed the leech, find out how long it is there (>4 mos.) Slowly uses up food supply, a microbiome preservative #AGBT14
+434050414590586880  Feb 13 14:44  @morgantaschuk    RT @salisburymw: It's only day 2, but I think Tom Gilbert wins the prize for funniest presentation of #agbt14.
+434050441739911168  Feb 13 14:44  @californiana     Awesome talk by Thomas Gilbert from the Univ of CPH on "Next-Gen eDNA in Biodiversity Monitoring" #AGBT14
+434050445192220672  Feb 13 14:44  @KMeltzSteinberg  TG: There's money to be made milking leeches #AGBT14
+434050477094109184  Feb 13 14:44  @DaleYuzuki       Gilbert: (He's a great, funny and interesting speaker.) #AGBT14
+434050486715838464  Feb 13 14:44  @illumina         TG: how long does animal DNA persist in the blood of leeches? #AGBT14
+434050508148338688  Feb 13 14:44  @californiana     TG: Using leeches to sample mammalian biodiversity by extracting the blood they have ingested and analyzing the DNA. Genius. #AGBT14
+434050588423487489  Feb 13 14:44  @OmicsOmicsBlog   RT @lexnederbragt: Schroth: "BaseSpace: anyone can do bioinformatics now." Even without understanding what they are doing, I guess... #AGBT14
+434050617708134400  Feb 13 14:45  @DaleYuzuki       Gilbert: 20 leeches: rabbit and deer only discovered in last 10y (from Vietnam) #AGBT14
+434050747185897472  Feb 13 14:45  @lexnederbragt    Tom Gilbert is waking us up with a rapid salvo of jokes, still manages to have a serious talk #agbt14
+434050769877471232  Feb 13 14:45  @DaleYuzuki       Gilbert: Other substrates? (Photo of elephant's urine - 20-50L / day!) #AGBT14
+434050776500289536  Feb 13 14:45  @PowerDNS_Bert    RT @lexnederbragt: Schroth: "BaseSpace: anyone can do bioinformatics now." Even without understanding what they are doing, I guess... #AGBT14
+434050798843330560  Feb 13 14:45  @bert_hubert      RT @lexnederbragt: Schroth: "BaseSpace: anyone can do bioinformatics now." Even without understanding what they are doing, I guess... #AGBT14
+434050822306295808  Feb 13 14:45  @lexnederbragt    RT @salisburymw: It's only day 2, but I think Tom Gilbert wins the prize for funniest presentation of #agbt14.
+434050997145845761  Feb 13 14:46  @NGSperspectives  Gilbert: "More than 4 months later after feeding goat blood to leeches, we still could track the goat DNA." #AGBT14
+434051034692861952  Feb 13 14:46  @iontorrent       thomas gilbert- used leeches to study biodiversity #AGBT14
+434051044478578688  Feb 13 14:46  @neilhall_uk      Gilbert: don’t feed leeches using condoms. You learn new stuff all the time at #AGBT14
+434051088799793152  Feb 13 14:46  @morgantaschuk    RT @neilhall_uk: Gilbert: don’t feed leeches using condoms. You learn new stuff all the time at #AGBT14
+434051105346297856  Feb 13 14:47  @DaleYuzuki       Gilbert: Looking for DNA in old locations - sediment, permafrost. 2003 Science http://ow.ly/tBntG #AGBT14
+434051137977982978  Feb 13 14:47  @cdbustamante     TG: sequence leeches to quantify biodiversity.  Identify mammalian species from blood meal DNA... #AGBT14
+434051175953231874  Feb 13 14:47  @MVickySchneider  RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434051185725964288  Feb 13 14:47  @illumina         TG: DNA persists for a surprisingly long time in environment - not terribly surprising but we don't think of it often #forensics #AGBT14
+434051270060814338  Feb 13 14:47  @Erika_Check      RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434051273361735680  Feb 13 14:47  @LabSpaces        RT @neilhall_uk: Gilbert: don’t feed leeches using condoms. You learn new stuff all the time at #AGBT14
+434051287542693888  Feb 13 14:47  @chfloudas        RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434051399845154816  Feb 13 14:48  @PopperandCo      MT @illumina: TG: #DNA persists for surprisingly long time in environment - not terribly surprising but... #forensics #AGBT14
+434051492975104000  Feb 13 14:48  @RainDanceTech    @salisburymw Looks like you're having a great time at #AGBT14. We're enjoying the snow up here in Boston.
+434051557928480769  Feb 13 14:48  @DaleYuzuki       Gilbert: Willerslev's work Mammoth's from 3K years ago Nature 2014 http://ow.ly/tBnE7 #AGBT14
+434051575267340289  Feb 13 14:48  @peterborak       Interested in running live #singlecells? #AGBT14 Lanai Suite 280 is the place. https://www.youtube.com/watch?v=3bZiHec8xik
+434051630963896320  Feb 13 14:49  @ctitusbrown      RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434051720432615424  Feb 13 14:49  @OmicsOmicsBlog   Thomas Gilbert: mammoth DNA found in environment 3My after date of last bones #AGBT14
+434051721363722241  Feb 13 14:49  @hutchins_e       Agreed! Plus interesting! "@salisburymw: It's only day 2, but I think Tom Gilbert wins the prize for funniest presentation of #agbt14."
+434051836719661057  Feb 13 14:49  @DaleYuzuki       RT @salisburymw: It's only day 2, but I think Tom Gilbert wins the prize for funniest presentation of #agbt14.
+434051931384721408  Feb 13 14:50  @A_Goldman        Thomas Gilbert: Analyzing biodiversity by looking at DNA in leaches! Leaches eat blood from animals humans have trouble finding. #AGBT14
+434052029506670593  Feb 13 14:50  @fluidigm         RT @DaleYuzuki: Gilbert: About 5.5k species of mammals. 76 spp. extinct in 50y; 29 add'l might be; 40% threatened by habitat loss #AGBT14
+434052047420522496  Feb 13 14:50  @Genomics_Guy     “@illumina: TG: DNA persists for a long time in environment - not terribly surprising but..." #AGBT14”  RNA? Not so much!
+434052062788452352  Feb 13 14:50  @DaleYuzuki       Nice to meet @salisburymw, @obahcall, and @topoisomerase at #AGBT14
+434052344485904384  Feb 13 14:51  @illumina         TG: Analyzing eDNA in soil cores from various safari parks (i.e. excrement of lions, tigers, etc) in Denmark? fascinating #AGBT14
+434052358201692160  Feb 13 14:52  @OmicsOmicsBlog   TG: Tigers have very specific latrines; elephants soak the ground deeply and widely with urine; ostriches hardly leave anything #AGBT14
+434052421359108096  Feb 13 14:52  @IcahnInstitute   RT @SageSci: See how Bobby Sebra from @IcahnInstitute uses @PacBio with #BluePippin sizing to get crazy long reads. #AGBT14 http://goo.gl/19ac4A
+434052433166082048  Feb 13 14:52  @iontorrent       Gilbert: Look at safari parks to understand DNA "leaching" #AGBT14
+434052447963598848  Feb 13 14:52  @nabsys           @omespeak @nanopore @EBioSci @geniachip Nanodetector results at posters 273 and 298 at #AGBT14 More information in Everglades Room
+434052456230952960  Feb 13 14:52  @Genomics_Guy     RT @illumina: TG: how long does animal DNA persist in the blood of leeches? #AGBT14
+434052656425091072  Feb 13 14:53  @brigittegs       RT @DaleYuzuki: RT @salisburymw: It's only day 2, but I think Tom Gilbert wins the prize for funniest presentation of #agbt14.
+434052691078443008  Feb 13 14:53  @Genomics_Guy     RT @illumina: Now for something a little different, Tom Gilbert on NGS utility for biodiversity monitoring #AGBT14
+434052910608293888  Feb 13 14:54  @DaleYuzuki       Gilbert: Madagascar example - only 84% of their mammals no reference available for OTU assignment. #AGBT14
+434052943323881472  Feb 13 14:54  @NGSperspectives  Gilbert: "Looked at safari parks to extract DNA from exotic animals from the soil. Elephants, tigers are easy. Not ostriches." #AGBT14
+434052975175012352  Feb 13 14:54  @lexnederbragt    Wasn't it 3k years? RT @OmicsOmicsBlog: Thomas Gilbert: mammoth DNA found in environment 3My after date of last bones #AGBT14
+434052978371481600  Feb 13 14:54  @illumina         TG: doing environmental, metagenomic DNA analysis of this type, challenges with reference db, error rate, others #AGBT14
+434053025586741248  Feb 13 14:54  @OmicsOmicsBlog   RT @omespeak: Any posters on #nanopores at #AGBT14 from @nanopore  @EBioSci @geniachip or anyone else?
+434053070914203648  Feb 13 14:54  @peterborak       What's the situation for a tweet-up at #AGBT14?
+434053096554393601  Feb 13 14:54  @Genomics_Guy     “@homolog_us: Quick question - roughly how many people are attending #AGBT14 ?” About 800 sounds right
+434053183586172929  Feb 13 14:55  @DaleYuzuki       Gilbert: Discussion of tools - Schuster's, QIIME. But the real problem is cost for the conservation folks. #AGBT14
+434053252163051520  Feb 13 14:55  @lexnederbragt    RT @OmicsOmicsBlog: TG: Tigers have very specific latrines; elephants soak the ground deeply and widely with urine; ostriches hardly leave anything #AGBT14
+434053423538110465  Feb 13 14:56  @DaleYuzuki       Gilbert: British folks' humor: Kissing for Conservation, which famous person do you want? #AGBT14
+434053437114679296  Feb 13 14:56  @lexnederbragt    @peterborak 9:30 PM @ Koral (next to Marriott lobby) #AGBT14 tweetup
+434053547546529792  Feb 13 14:56  @californiana     Kissing for Conservation: http://www.elephantfamily.org/how-you-can-help/kissing-for-conservation/. Help raise money for conservation biology! #AGBT14
+434053606669836288  Feb 13 14:56  @AW_NGS           RT @omespeak: Any posters on #nanopores at #AGBT14 from @nanopore  @EBioSci @geniachip or anyone else?
+434053633953767424  Feb 13 14:57  @neilhall_uk      Gilbert: Funding science by auctioning kisses with Zak Goldsmith…thats a new one #AGBT14
+434053639460896768  Feb 13 14:57  @morgantaschuk    RT @DaleYuzuki: Gilbert: Discussion of tools - Schuster's, QIIME. But the real problem is cost for the conservation folks. #AGBT14
+434053765801324544  Feb 13 14:57  @BekahMcLaughlin  RT @neilhall_uk: Gilbert: don’t feed leeches using condoms. You learn new stuff all the time at #AGBT14
+434053807937695744  Feb 13 14:57  @OmicsOmicsBlog   RT @DaleYuzuki: Gilbert: Pretty photos of tropical forests - not easy to work in and access. Looking at scat, footprints, camera tracks work best  #AGBT14
+434053838623227904  Feb 13 14:57  @NGSperspectives  RT @californiana: Kissing for Conservation: http://www.elephantfamily.org/how-you-can-help/kissing-for-conservation/. Help raise money for conservation biology! #AGBT14
+434053850203316224  Feb 13 14:57  @westr            RT @californiana: TG: Using leeches to sample mammalian biodiversity by extracting the blood they have ingested and analyzing the DNA. Genius. #AGBT14
+434053895690530816  Feb 13 14:58  @californiana     TG: Insect health is a good proxy to determine environmental health. #AGBT14
+434053906470285312  Feb 13 14:58  @OmicsOmicsBlog   RT @DaleYuzuki: Gilbert: 20 leeches: rabbit and deer only discovered in last 10y (from Vietnam) #AGBT14
+434053927555072000  Feb 13 14:58  @illumina         TG:  leeches eDNA method good but not particularly scalable, can use insect proxy. Hint: involves bat poo #AGBT14
+434053931086254080  Feb 13 14:58  @BekahMcLaughlin  RT @OmicsOmicsBlog: TG: Tigers have very specific latrines; elephants soak the ground deeply and widely with urine; ostriches hardly leave anything #AGBT14
+434053942709067776  Feb 13 14:58  @Ayo_Toye         "@illumina: SF: Comparison of all three platforms (HiSeq, HiSeq X and NextSeq) show some minor diffs in GC bias but same coverage #AGBT14"
+434054012812673024  Feb 13 14:58  @DaleYuzuki       Gilbert: The dream: portable in-field monitoring. On-site extraction, sequencing and informatics. (MinION 'isn't cool enough')  #AGBT14
+434054021402210304  Feb 13 14:58  @A_Goldman        TG: Monitors change in insect biodiversity by studying bat poop. #AGBT14
+434054036216483840  Feb 13 14:58  @lexnederbragt    Gilbert mentioning Kissing for Conservation: http://www.elephantfamily.org/how-you-can-help/kissing-for-conservation/. Raising money for conservation biology #AGBT14
+434054057141870592  Feb 13 14:58  @BekahMcLaughlin  RT @NGSperspectives: Gilbert: "Looked at safari parks to extract DNA from exotic animals from the soil. Elephants, tigers are easy. Not ostriches." #AGBT14
+434054124879896576  Feb 13 14:59  @jrampeymp        Funny... humans scaring the crap out of bats.#AGBT14
+434054148972376064  Feb 13 14:59  @RainDanceTech    RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434054219675365376  Feb 13 14:59  @hutchins_e       Gilbert: Portable sequencers should have style, like #StarTrek devices. #AGBT14
+434054240927891456  Feb 13 14:59  @BekahMcLaughlin  RT @lexnederbragt: Gilbert mentioning Kissing for Conservation: http://www.elephantfamily.org/how-you-can-help/kissing-for-conservation/. Raising money for conservation biology #AGBT14
+434054265498136576  Feb 13 14:59  @morgantaschuk    RT @hutchins_e: Gilbert: Portable sequencers should have style, like #StarTrek devices. #AGBT14
+434054293810069504  Feb 13 14:59  @NGSperspectives  Gilbert: "I don't want a MinION. I want Star Trek tricorder to take in the field!" #AGBT14
+434054293852028928  Feb 13 14:59  @LAbizar          Fascinating entertaining talk by Tom Gilbert on environ DNA. Pictures of scat and elephant peeing DNA.#AGBT14
