@@ -2297,3 +2297,403 @@
 434325469648150529  Feb 14 08:57  @nextgenseek      RT @OmicsOmicsBlog: Moleculo clearly rebranded as TruSeq Synthetic Long Read - coming soon @illumina #agbt14
 434325839103397888  Feb 14 08:58  @daviddelorenzo   RT @KevinADavies: It may not be a golden ticket, but @nanopore MinION early-access program invitations are dropping now... #AGBT14
 434326014965989377  Feb 14 08:59  @DrFerdowsi       RT @pathogenomenick: Nanopore at #AGBT12 http://pathogenomics.bham.ac.uk/blog/2012/02/oxford-nanopore-megaton-announcement-why-do-you-need-a-machine-exclusive-interview-for-this-blog/ #AGBT13 http://pathogenomics.bham.ac.uk/blog/2013/03/a-chat-with-oxford-nanopores-clive-brown-at-agbt-2013/ #AGBT14 Finally early access to MinION
+434383818787536896  Feb 14 12:49  @assemblathon     RT @jlandolin: Omg!  GM: Assembly times on non-cluster computer using dazzle:  ecoli 10mins; arabidopsis 1 hr; human 5 days!!  #AGBT14
+434384040288718848  Feb 14 12:50  @GarredGarred     RT @StevenNHart: Entire pedigree of California Condor is now known thanks to @illumina  Moleculo and HiSeq #AGBT14
+434384055040487424  Feb 14 12:50  @teaminspire      RT @westr: MT @fluidigm: At 5 pm EST today at #AGBT14 (Marco Il, Fla): Ramesh's poster #114: http://youtu.be/oNgsG0UK6bE #pm101 #bcsm #cancer
+434384068398952448  Feb 14 12:50  @assemblathon     RT @aphillippy: #AGBT14 assembly tweeters, looks like Gene Myers just joined twitter @TheGeneMyers #FF
+434384073734111232  Feb 14 12:50  @illumina         MT@DaleYuzuki Stephan Schuster: Tasmanian devil effort ("informed breeding") now in-place @sandiegozoo condor breeding facility #AGBT14
+434384249807192066  Feb 14 12:50  @JohnMulley       RT @benoitbruneau: Coincident with #AGBT14 @nanopore announcements, we got email telling us we're getting MinIONs!
+434384344376164352  Feb 14 12:51  @infoecho         RT @lexnederbragt: So far, this is the only USB stick with long-read sequencing data available at #AGBT14 http://t.co/wYuaZGCTi2
+434384399048908800  Feb 14 12:51  @infoecho         RT @californiana: Elaine Mardis just congratulated W.R. McCombie for "having the longest read of the meeting" #AGBT14
+434384407328456704  Feb 14 12:51  @kc31958          @TheGeneMyers welcome! Great talk today. #agbt14
+434384722693595136  Feb 14 12:52  @kbradnam         If ONT were able to show today’s data a year ago, it may have been much worse for PacBio. But PacBio has improved so much recently #AGBT14
+434384920010428416  Feb 14 12:53  @finchtalk        RT @westr: Yikes! RT @akislyuk: Another year, another load of @nanopore vaporware at #AGBT14, another amazing scientific performance by @PacBio.
+434385051867156482  Feb 14 12:54  @_maryalfieri     RT @nabsys: To see greater >100kb DNA molecules that are analyzed intact using solid-state electronic nanodectors, visit Nabsys in Everglades #AGBT14
+434385101388910594  Feb 14 12:54  @kbradnam         If ONT really has some sort of systematic error profile as opposed to PacBio’s random errors. then this is good news for PacBio #AGBT14
+434385402007654400  Feb 14 12:55  @lexnederbragt    Also, notice who generated the 50kbp reads shown at #agbt14...
+434385407846141952  Feb 14 12:55  @infoecho         RT @erlichya: Elaine Mardis: your title said assembly with long reads, Jaffe. This was not really assembly with long reads. Agree! #AGBT14
+434385633990443008  Feb 14 12:56  @AW_NGS           RT @akislyuk: Another year, another load of @nanopore vaporware at #AGBT14, another amazing scientific performance by @PacBio.
+434385870427553792  Feb 14 12:57  @infoecho         RT @westr: Yikes! RT @akislyuk: Another year, another load of @nanopore vaporware at #AGBT14, another amazing scientific performance by @PacBio.
+434385888181645312  Feb 14 12:57  @homolog_us       Dazzler Assembler for PacBio Reads - Gene Myers (http://www.homolog.us/blogs/blog/2014/02/14/dazzle-assembler-pacbio-reads-gene-myers/) #AGBT14
+434385985007140864  Feb 14 12:57  @druvus           RT @dgmacarthur: Guys, this looks pretty damn good to me for a launch-stage sequencing tech. Looking forward to trying it out. #AGBT14
+434386189513412608  Feb 14 12:58  @kc31958          RT @lexnederbragt: Also, notice who generated the 50kbp reads shown at #agbt14...
+434386193472835585  Feb 14 12:58  @macbiokari       RT @biosnazz: .@EnzymaticsInc [client] unveils new targeted #NGS technology at #AGBT14. Detect and identify complex gene mutations. http://bit.ly/1gEetbH
+434386249684905984  Feb 14 12:58  @Oli_viajera      RT @AW_NGS: #AGBT14 why the name Dazzler for new de novo PacBio assembler GM?
+434386617395326976  Feb 14 13:00  @AW_NGS           RT @homolog_us: Dazzler Assembler for PacBio Reads - Gene Myers (http://www.homolog.us/blogs/blog/2014/02/14/dazzle-assembler-pacbio-reads-gene-myers/) #AGBT14
+434386754754596864  Feb 14 13:00  @druvus           RT @homolog_us: Dazzler Assembler for PacBio Reads - Gene Myers (http://www.homolog.us/blogs/blog/2014/02/14/dazzle-assembler-pacbio-reads-gene-myers/) #AGBT14
+434386933071245312  Feb 14 13:01  @kc31958          Dresden Assembler @Oli_viajera: #AGBT14 why the name Dazzler for new de novo PacBio assembler GM?
+434387105683619840  Feb 14 13:02  @aphillippy       RT @homolog_us: Dazzler Assembler for PacBio Reads - Gene Myers (http://www.homolog.us/blogs/blog/2014/02/14/dazzle-assembler-pacbio-reads-gene-myers/) #AGBT14
+434387396596334592  Feb 14 13:03  @hutchins_e       RT @assemblathon: RT @erlichya: Jaffe: ONT errors are dominated by indels, mostly deletions #AGBT14
+434387448446345217  Feb 14 13:03  @HowieGoldstein   New kit from #ArcherDx being described at #AGBT14 that is more efficient at identifying cancer variants with NGS without knowledge bias.
+434387713236533249  Feb 14 13:04  @nabsys           @AllSeq Not as hard as you might think. We use standard commercial kits. Stop by to discuss. #AGBT14
+434387751392538624  Feb 14 13:04  @lexnederbragt    Indeed he did. RT @aphillippy: #AGBT14 assembly tweeters, looks like Gene Myers just joined twitter @TheGeneMyers #FF
+434387779926360064  Feb 14 13:04  @Ajwhall          RT @GenomeNathan: McCombie: In yeast, PacBio contig N50 can be limited by, well, chromosome length. #agbt14
+434387803791949824  Feb 14 13:04  @Meeshie222       RT @EnzymaticsInc: Enzymatics Launches Archer™ Targeted Sequencing Technology | Business Wire http://www.businesswire.com/news/home/20140214005299/en/Enzymatics-Launches-Archer%E2%84%A2-Targeted-Sequencing-Technology-Dramatically#.Uv4irYU93AQ.twitter #AGBT14
+434388084591820800  Feb 14 13:06  @AllSeq           @nabsys Would love to! (But it would require a cross country flight as we're observing from San Diego ;-) #AGBT14
+434388459290370048  Feb 14 13:07  @EnzymaticsInc    Great opening from Long Le on very scalable Archer products for multiple mutation type detection #AGBT14
+434388814388555776  Feb 14 13:08  @deannachurch     RT @kc31958: MT coming soon @deannachurch: Did I miss where we can get Dazzler to try it ourselves? #agbt14
+434388997465309184  Feb 14 13:09  @BekahMcLaughlin  @bioitworld @deannachurch I could feel the atmosphere via Twitter stream. #AGBT14 tweet coverage = awesome! Other sci conferences take note.
+434389501914664960  Feb 14 13:11  @Jose_Oliver      Gene Myers: “If you are a bioinformatician without a distributed file system…shame on you” #AGBT14
+434389637566853122  Feb 14 13:12  @biosnazz         RT @EnzymaticsInc: Great opening from Long Le on very scalable Archer products for multiple mutation type detection #AGBT14
+434389788305948672  Feb 14 13:12  @GenapSys         RT @EnzymaticsInc: Great opening from Long Le on very scalable Archer products for multiple mutation type detection #AGBT14
+434389887559553024  Feb 14 13:13  @nabsys           @AllSeq We'll wait. Don' fly through Atlanta. If that doesn't work out, you can check out our posters that will go online next week #AGBT14
+434389949098774528  Feb 14 13:13  @mike_schatz      RT @ngsgene: +1 @jaredtsimpson  I hope @nanopore releases the data that Jaffe is presenting #AGBT14
+434390167919808512  Feb 14 13:14  @druvus           RT @BekahMcLaughlin: @bioitworld @deannachurch I could feel the atmosphere via Twitter stream. #AGBT14 tweet coverage = awesome! Other sci conferences take note.
+434390817403572225  Feb 14 13:16  @GraveleyLab      RT @ngsgene: +1 @jaredtsimpson  I hope @nanopore releases the data that Jaffe is presenting #AGBT14
+434391412596293632  Feb 14 13:19  @pathogenomenick  RT @californiana: Gene Myers: "If you are a bioinformatician without a distributed file system...shame on you" #AGBT14
+434391979422941186  Feb 14 13:21  @davwire          RT @westr: Yikes! RT @akislyuk: Another year, another load of @nanopore vaporware at #AGBT14, another amazing scientific performance by @PacBio.
+434392005251440640  Feb 14 13:21  @GlenGagnon2      RT @EnzymaticsInc: Great opening from Long Le on very scalable Archer products for multiple mutation type detection #AGBT14
+434392318494253056  Feb 14 13:22  @KevinADavies     Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434392569230143489  Feb 14 13:23  @gawbul           RT @homolog_us: Dazzler Assembler for PacBio Reads - Gene Myers (http://www.homolog.us/blogs/blog/2014/02/14/dazzle-assembler-pacbio-reads-gene-myers/) #AGBT14
+434392694128136193  Feb 14 13:24  @westr            RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434393014489067520  Feb 14 13:25  @OmicsOmicsBlog   RT @erlichya: #AGBT14 @nanopore output: 512pores x 6hours x 25bp/s = 276Mb @nanopore seq. cost: $1000 / 276Mb = 3.6$ per Mb. Not so far away from PacBio
+434393052229410816  Feb 14 13:25  @kc31958          RT @GenomeNathan: McCombie: In yeast, PacBio contig N50 can be limited by, well, chromosome length. #agbt14
+434393313878089728  Feb 14 13:26  @davwire          MT $PACB   @akislyuk: Another year, another load of @nanopore vaporware at #AGBT14, another amazing scientific performance by @PacBio.
+434393334639894528  Feb 14 13:26  @BekahMcLaughlin  RT @notSoJunkDNA: It could be because I am not at #AGBT14, but the Nanopore presentation looks disappointing #AGBT14
+434393405570187264  Feb 14 13:27  @notSoJunkDNA     RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434393511132033024  Feb 14 13:27  @mplsgreg         RT @californiana: Gene Myers: "If you are a bioinformatician without a distributed file system...shame on you" #AGBT14
+434393707094106112  Feb 14 13:28  @BekahMcLaughlin  RT @dgmacarthur: Guys, this looks pretty damn good to me for a launch-stage sequencing tech. Looking forward to trying it out. #AGBT14
+434393784814952448  Feb 14 13:28  @notSoJunkDNA     Unfollow! RT @vvacic: #AGBT14 lunch break. http://t.co/JCktRj8SDJ
+434393814715752448  Feb 14 13:28  @BekahMcLaughlin  RT @froggleston: A bit disappointed by lack of juicy details, but what did we expect from a typical short-read+long-read strategy?  #agbt14
+434394022635778048  Feb 14 13:29  @benoitbruneau    RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434394121349136384  Feb 14 13:30  @mkasahara        RT @lexnederbragt: @genetics_blog Myers was behind the Celera Assembler, and is back in the game of de novo genome assembly #AGBT14
+434394261195620352  Feb 14 13:30  @vloux            RT @nextgenseek: David Jaffe's talk on Oxford @nanopore storified.  http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/ #AGBT14
+434394616750948352  Feb 14 13:32  @mkasahara        RT @lexnederbragt: Myers: Trick of PacBio reads are that errors are about perfectly random, and sampling is almost perfectly poisson. #AGBT14
+434394737315819520  Feb 14 13:32  @owlmonkey        RT @neilhall_uk: OK so far we can see that this data is not going to replace PACBIO in the near future.  #AGBT14
+434394796774682624  Feb 14 13:32  @mkasahara        RT @lexnederbragt: Myers: If you can actually produce a multi-alignment, 20x is enough. Need a bit more. Also, very accurate to predict copy numbers #AGBT14
+434394949875163136  Feb 14 13:33  @mkasahara        RT @lexnederbragt: Myers: Will show they solved the efficiency problem for overlapping raw #pacbio reads #agbt14
+434395007924334592  Feb 14 13:33  @mkasahara        RT @lexnederbragt: Myers: Explaining the String Graph approach to assembly. #AGBT14
+434395021618741248  Feb 14 13:33  @mkasahara        RT @OmicsOmicsBlog: Myers: punchline it's we've made 36 times faster than BLASR #agbt14
+434395041507721216  Feb 14 13:33  @kbradnam         RT @ngsgene: +1 @jaredtsimpson  I hope @nanopore releases the data that Jaffe is presenting #AGBT14
+434395059350290432  Feb 14 13:33  @BekahMcLaughlin  RT @lexnederbragt: My summary: @nanopore reads are error-prone, probably systematic, not random. Are useful for assembly improvement, not yet de novo #agbt14
+434395133606653952  Feb 14 13:34  @AW_NGS           RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434395234693578752  Feb 14 13:34  @mkasahara        RT @lexnederbragt: Myers: Scrubbing: use overlaps 'pile-gram' to diagnose these problems and fix/remove them. #AGBT14
+434395261004435456  Feb 14 13:34  @AW_NGS           RT @ngsgene: +1 @jaredtsimpson  I hope @nanopore releases the data that Jaffe is presenting #AGBT14
+434395338112516097  Feb 14 13:34  @mkasahara        RT @OmicsOmicsBlog: Myers consensus correction to 0.5% error with 10X coverage; good enough for string graph. #agbt14
+434395340666458112  Feb 14 13:34  @BekahMcLaughlin  RT @erlichya: Elaine Mardis: your title said assembly with long reads, Jaffe. This was not really assembly with long reads. Agree! #AGBT14
+434395384002007040  Feb 14 13:35  @BekahMcLaughlin  RT @neilhall_uk: #AGBT14 MArdis just kicked Jaffe in the nuts there…..it wasn’t an assembly !
+434395493893165056  Feb 14 13:35  @mkasahara        RT @lexnederbragt: Myers: New assembler Dazzler. Faster and more sensitive alignment. Overlap @ 60% error. Scrub, error. Overlap @ 90% error. Assemble #AGBT14
+434395601397350401  Feb 14 13:35  @mkasahara        RT @lexnederbragt: Myers: 10 minutes E coli on a laptop, Arabidopsis with 512 cores is 1.5 hours, 50x human with 512 cores 5 days, <16 GB RAM #AGBT14
+434395627275825152  Feb 14 13:36  @BekahMcLaughlin  RT @konradjk: Dems fighting words: Q: "talk title was assembling reads, but talk about resolving $ILMN data" A: "focused on a more useful task" #AGBT14
+434395708615974912  Feb 14 13:36  @jung_gt          RT @akislyuk: Another year, another load of @nanopore vaporware at #AGBT14, another amazing scientific performance by @PacBio.
+434395765461372928  Feb 14 13:36  @BekahMcLaughlin  RT @westr: Forget clinical then.. RT @lexnederbragt: Jaffe: envisioning other applications where getting every base right is not an issue #AGBT14
+434395781257527296  Feb 14 13:36  @mkasahara        RT @infoecho: GM, for Dazzler, No job takes more than 16G of memory, mush have a distributed file system #AGBT14
+434395813674905600  Feb 14 13:36  @reidprentice     RT @lexnederbragt: My summary: @nanopore reads are error-prone, probably systematic, not random. Are useful for assembly improvement, not yet de novo #agbt14
+434395826782089216  Feb 14 13:36  @reidprentice     RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434396077585088512  Feb 14 13:37  @mkasahara        RT @DaleYuzuki: Myers: Q: Dazzler release? A: Only when it's ready, extract tool soon, but correction needs some more work (to make it easier). 1mo #AGBT14
+434396198250631169  Feb 14 13:38  @reidprentice     RT @nextgenseek: David Jaffe's talk on Oxford @nanopore storified.  http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/ #AGBT14
+434396206874513409  Feb 14 13:38  @mkasahara        RT @bioinformer: you know you're in too deep when you are watching the #AGBT14 hashtag like a day trader after an IPO…
+434396222628306945  Feb 14 13:38  @linda_damore     RT @apfejes: Needs a summary, but worth reading ♻ @nextgenseek: David Jaffe's talk on Oxford @nanopore storified.  http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/ #AGBT14
+434396471614398465  Feb 14 13:39  @reidprentice     RT @erlichya: #AGBT14 @nanopore output: 512pores x 6hours x 25bp/s = 276Mb @nanopore seq. cost: $1000 / 276Mb = 3.6$ per Mb. Not so far away from PacBio
+434396514669322240  Feb 14 13:39  @Meeshie222       RT @EnzymaticsInc: Great opening from Long Le on very scalable Archer products for multiple mutation type detection #AGBT14
+434396652406059008  Feb 14 13:40  @OmicsOmicsBlog   RT @DaleYuzuki: Myers: After a 10y hiatus, knew short-reads were not 'intellectually satisfying to me' (in the meantime) #AGBT14
+434396760438763521  Feb 14 13:40  @drbachinsky      RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434396935630630913  Feb 14 13:41  @nabsys           Example of >100kb single molecule of tagged DNA, more info in the Everglades Room #AGBT14 http://t.co/1nwMDh6vyS
+434396973584502784  Feb 14 13:41  @assemblathon     RT @fluidigm: Dick McCombie using PacBio reads longer than 10 kb to assemble yeast genomes #AGBT14
+434397038722043905  Feb 14 13:41  @assemblathon     RT @MeekIsaac: Meyers - Human genome assembly in 5 days on a MacBook #agbt14
+434397051196293120  Feb 14 13:41  @lexnederbragt    RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434397059160895488  Feb 14 13:41  @JFWSchlesinger   RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434397074801844224  Feb 14 13:41  @drbachinsky      RT @homolog_us: Dazzler Assembler for PacBio Reads - Gene Myers (http://www.homolog.us/blogs/blog/2014/02/14/dazzle-assembler-pacbio-reads-gene-myers/) #AGBT14
+434397083563741185  Feb 14 13:41  @lexnederbragt    RT @Jose_Oliver: Gene Myers: “If you are a bioinformatician without a distributed file system…shame on you” #AGBT14
+434397105398874113  Feb 14 13:41  @reidprentice     RT @lexnederbragt: So far, this is the only USB stick with long-read sequencing data available at #AGBT14 http://t.co/wYuaZGCTi2
+434397146133962753  Feb 14 13:42  @reidprentice     RT @benoitbruneau: Coincident with #AGBT14 @nanopore announcements, we got email telling us we're getting MinIONs!
+434397208402993152  Feb 14 13:42  @lexnederbragt    RT @kbradnam: If ONT really has some sort of systematic error profile as opposed to PacBio’s random errors. then this is good news for PacBio #AGBT14
+434397233577226240  Feb 14 13:42  @lexnederbragt    RT @kbradnam: If ONT were able to show today’s data a year ago, it may have been much worse for PacBio. But PacBio has improved so much recently #AGBT14
+434397312564342784  Feb 14 13:42  @lexnederbragt    RT @westr: Yikes! RT @akislyuk: Another year, another load of @nanopore vaporware at #AGBT14, another amazing scientific performance by @PacBio.
+434397331887124480  Feb 14 13:42  @reidprentice     RT @KevinADavies: GS: Audience response to Jaffe presentation muted given errors, mostly "indels" and potentially systematic in nature. #AGBT14
+434397373578498048  Feb 14 13:42  @reidprentice     RT @KevinADavies: Goldman Sachs: Views today's #AGBT14 presentation as net positive for $ILMN as @nanopore competitive threat looks less sig in near/med term.
+434397403635265536  Feb 14 13:43  @lexnederbragt    RT @genomicslab: The million dollar sequencer with the $1000 genome or the $1000 sequencer with the million dollar genome #AGBT14
+434397456106004481  Feb 14 13:43  @mkasahara        RT @kbradnam: If ONT really has some sort of systematic error profile as opposed to PacBio’s random errors. then this is good news for PacBio #AGBT14
+434397470064644096  Feb 14 13:43  @druvus           RT @nabsys: Example of >100kb single molecule of tagged DNA, more info in the Everglades Room #AGBT14 http://t.co/1nwMDh6vyS
+434397477630791682  Feb 14 13:43  @Single_Molecule  @dgmacarthur Only (?) problem is that Covaris shearing part of DNA prep process at ONT. Not mentioned during talk but I asked later #AGBT14
+434397489022918656  Feb 14 13:43  @mkasahara        RT @kbradnam: If ONT were able to show today’s data a year ago, it may have been much worse for PacBio. But PacBio has improved so much recently #AGBT14
+434397562414452736  Feb 14 13:43  @evolvability     RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434397611231956992  Feb 14 13:43  @BekahMcLaughlin  RT @bioinformer: you know you're in too deep when you are watching the #AGBT14 hashtag like a day trader after an IPO…
+434397691003404289  Feb 14 13:44  @ProfBootyPhD     RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434397826781810688  Feb 14 13:44  @JokeReumers      RT @aphillippy: #AGBT14 assembly tweeters, looks like Gene Myers just joined twitter @TheGeneMyers #FF
+434397881492340736  Feb 14 13:45  @PacBio           RT @kc31958: @TheGeneMyers welcome! Great talk today. #agbt14
+434397963410894848  Feb 14 13:45  @evolvability     @notSoJunkDNA @vvacic I that @notSoJunkDNA is becoming the Andy Rooney of genomics #AGBT14
+434398071326523392  Feb 14 13:45  @lexnederbragt    RT @kc31958: MT coming soon @deannachurch: Did I miss where we can get Dazzler to try it ourselves? #agbt14
+434398111742455809  Feb 14 13:45  @reidprentice     RT @lexnederbragt: Jaffe: "Oxford nanopore data not yet useful for de novo assembly on their own" #AGBT14
+434398142138564608  Feb 14 13:46  @reidprentice     RT @medlrdotcom: #AGBT14 ONT @ 25% pore yield, 25bp/s, 6hrs = $14.8k/GB, PACB at $560/GB w/ 3-yr instrument amortization, HiSeq/1T $12.15 per GB incl instr.
+434398148568809473  Feb 14 13:46  @IanGoodhead      RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434398176007946240  Feb 14 13:46  @lexnederbragt    RT @MeekIsaac: Maybe Dazzler will be on the apps store :) #agbt14
+434398280873967617  Feb 14 13:46  @BradForScience   RT @apfejes: Needs a summary, but worth reading ♻ @nextgenseek: David Jaffe's talk on Oxford @nanopore storified.  http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/ #AGBT14
+434398456720162816  Feb 14 13:47  @LabSpaces        Sounds juicy RT @westr: Yikes! RT @akislyuk: Another year, another load of @nanopore vaporware at #AGBT14, great performance by @PacBio.
+434398599288725505  Feb 14 13:47  @lexnederbragt    RT @californiana: Gene Myers: "If you are a bioinformatician without a distributed file system...shame on you" #AGBT14
+434398837793640448  Feb 14 13:48  @AW_NGS           RT @MeekIsaac: Maybe Dazzler will be on the apps store :) #agbt14
+434399011060338688  Feb 14 13:49  @drbachinsky      RT @MeekIsaac: Meyers - Human genome assembly in 5 days on a MacBook #agbt14
+434399068907773952  Feb 14 13:49  @lexnederbragt    #agbt14 reunited Jim Knight @knightjimr with his former PhD advisor Gene Myers @TheGeneMyers. And they are now both on twitter!
+434399143667437568  Feb 14 13:50  @DrFerdowsi       RT @MeekIsaac: Meyers - Human genome assembly in 5 days on a MacBook #agbt14
+434399400442736640  Feb 14 13:51  @AllSeq           Couldn’t keep up with the ONT-inspired twitter storm? We’ve summarized what we’ve learned #AGBT14 http://ngs.is/1eXMEfC
+434399405329113088  Feb 14 13:51  @lexnederbragt    RT @ClinGenSequencr: FactCheck.  2012 ONT Promised 1.4GB/Hr 2014 25MB/S= 90KB/Hr #AGBT14
+434399483502530560  Feb 14 13:51  @lexnederbragt    RT @salisburymw: Things you can only say at #agbt14: "Everyone I know has a bigger cluster than I do." - @thegenemyers
+434399556403740672  Feb 14 13:51  @LabSpaces        RT @ClinGenSequencr: FactCheck.  2012 ONT Promised 1.4GB/Hr 2014 25MB/S= 90KB/Hr #AGBT14
+434399731557470210  Feb 14 13:52  @reidprentice     RT @ClinGenSequencr: FactCheck.  2012 ONT Promised 1.4GB/Hr 2014 25MB/S= 90KB/Hr #AGBT14
+434399761592877057  Feb 14 13:52  @reidprentice     RT @AllSeq: Couldn’t keep up with the ONT-inspired twitter storm? We’ve summarized what we’ve learned #AGBT14 http://ngs.is/1eXMEfC
+434399772837834752  Feb 14 13:52  @BekahMcLaughlin  RT @westr: Yikes! RT @akislyuk: Another year, another load of @nanopore vaporware at #AGBT14, another amazing scientific performance by @PacBio.
+434399926030966784  Feb 14 13:53  @DanBratton2010   RT @genomicslab: The million dollar sequencer with the $1000 genome or the $1000 sequencer with the million dollar genome #AGBT14
+434399940916555776  Feb 14 13:53  @lexnederbragt    RT @bioinformer: you know you're in too deep when you are watching the #AGBT14 hashtag like a day trader after an IPO…
+434400064182943744  Feb 14 13:53  @lexnederbragt    RT @deannachurch: @dgmacarthur wonder if we’ll be going back to the old DNA preps we used to do for pulsed-field gels. #agbt14 #whatcomesaroundgoesaround
+434400203178008576  Feb 14 13:54  @lexnederbragt    RT @omespeak: Overall, I sense bit of a let-down  from the #nanopore presentation at #AGBT14.
+434400316562612224  Feb 14 13:54  @lexnederbragt    RT @fluidigm: Loading efficiency of PacBio smartcells seems to be highly variable. #AGBT14
+434400368974626816  Feb 14 13:54  @DeepFriedDNA     RT @edyong209: Condor needs no king RT @Graham_Coop http://en.wikipedia.org/wiki/Parthenogenesis#Birds RT @fluidigm Sequencing uncovered 2 cases of parthenogenesis in condors. #AGBT14
+434400370992087040  Feb 14 13:54  @AllSeq           RT @genomicslab: The million dollar sequencer with the $1000 genome or the $1000 sequencer with the million dollar genome #AGBT14
+434400488373506048  Feb 14 13:55  @NEBiolabs        Don't just sit back and hear about NGS at #AGBT14. Learn and do Mol Bio + RNA-seq this summer at the Summer Workshop https://www.neb.com/student-services/molecular-biology-summer-workshops
+434400528085581824  Feb 14 13:55  @fluidigm         Interested in single-cell analysis of breast cancer? Check out Dr. Ramesh Ramakrishnan's #AGBT14 poster (114) - today, 5-6:25pm.
+434400589007843328  Feb 14 13:55  @GalenWright      RT @nextgenseek: David Jaffe's talk on Oxford @nanopore storified.  http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/ #AGBT14
+434400613762596864  Feb 14 13:55  @jfkelso          RT @homolog_us: Dazzler Assembler for PacBio Reads - Gene Myers (http://www.homolog.us/blogs/blog/2014/02/14/dazzle-assembler-pacbio-reads-gene-myers/) #AGBT14
+434400613862875136  Feb 14 13:55  @markgenome       #AGBT14 tweets are washing over me w/o much effect so far. @nanopore @iontorrent @PacBio @illumina etc. Any excitement in other areas?
+434400732692111362  Feb 14 13:56  @Blackmudpuppy    RT @edyong209: Condor needs no king RT @Graham_Coop http://en.wikipedia.org/wiki/Parthenogenesis#Birds RT @fluidigm Sequencing uncovered 2 cases of parthenogenesis in condors. #AGBT14
+434400746251894784  Feb 14 13:56  @bioinformer      RT @genomicslab: The million dollar sequencer with the $1000 genome or the $1000 sequencer with the million dollar genome #AGBT14
+434400788644114432  Feb 14 13:56  @schelhorn        RT @californiana: Gene Myers: "If you are a bioinformatician without a distributed file system...shame on you" #AGBT14
+434400915408158720  Feb 14 13:57  @bioinformer      RT @aphillippy: #AGBT14 assembly tweeters, looks like Gene Myers just joined twitter @TheGeneMyers #FF
+434400989257687040  Feb 14 13:57  @neilhall_uk      RT @lexnederbragt: So far, this is the only USB stick with long-read sequencing data available at #AGBT14 http://t.co/wYuaZGCTi2
+434401153414344704  Feb 14 13:58  @neilhall_uk      RT @erlichya: #AGBT14 @nanopore output: 512pores x 6hours x 25bp/s = 276Mb @nanopore seq. cost: $1000 / 276Mb = 3.6$ per Mb. Not so far away from PacBio
+434401294623600640  Feb 14 13:58  @Paul_Sonnier     RT @KevinADavies: Goldman Sachs: Views today's #AGBT14 presentation as net positive for $ILMN as @nanopore competitive threat looks less sig in near/med term.
+434401517886799872  Feb 14 13:59  @EnzymaticsInc    "I met someone in the lobby that described the SPARK kit as wonderful" Thanks Mike Quail! #AGBT14
+434401709721669633  Feb 14 14:00  @Jose_Oliver      RT @MeekIsaac: Meyers - Human genome assembly in 5 days on a MacBook #agbt14
+434401715429720065  Feb 14 14:00  @iontorrent       #AGBT14 Join us tonight for a party at the Ion Lounge!  Get your ticket from a Life Tech rep at the Ion Torrent Variant Detection Showcase
+434402320634609664  Feb 14 14:02  @DaleYuzuki       First up: Barrett Bready (Nabsys) Correcting Genome Assemblies Using Semiconductor-Based, Single Molecule Genomic Mapping #AGBT14
+434402362136862720  Feb 14 14:02  @spadesassembler  From what we hear about @nanopore data - good chances that SPAdes 3.0 already can use this data for hybrid assemblies out of the box #AGBT14
+434402376871849984  Feb 14 14:02  @kennamshaw       I'm at the tech/sponsor sessions but not sure I'll have that much to offer on most of these #AGBT14
+434402529632612352  Feb 14 14:03  @lexnederbragt    RT @deannachurch: @konradjk @notSoJunkDNA I agree with Konrad- seems more disappointing because of earlier hype but this is not a bad start. #agbt14
+434402552382504960  Feb 14 14:03  @DaleYuzuki       Bready: Illustrates their mapping ability as knowing the box picture for a puzzle; the 'big picture' that includes structural info #AGBT14
+434402684192706560  Feb 14 14:04  @kennamshaw       Nabsys up first with correcting genome assemblies using semiconductor based single molecule genomic mapping by Barrett Bready #AGBT14
+434402793475280896  Feb 14 14:04  @lexnederbragt    RT @genetisaur: DJ just got called out for hyped title during Q&A. Not a new assembly of bacterial genomes. Amusing oh snap moment #AGBT14
+434402920818544640  Feb 14 14:05  @AW_NGS           RT @DaleYuzuki: First up: Barrett Bready (Nabsys) Correcting Genome Assemblies Using Semiconductor-Based, Single Molecule Genomic Mapping #AGBT14
+434403040758874112  Feb 14 14:05  @geneiam          we ❤️ genomics. well done @AgilentGenomics #AGBT14 http://t.co/OvFaVzFUH3
+434403165107396608  Feb 14 14:06  @DaleYuzuki       Bready: Long-range mapping tech: electronic has no diffraction limit like light has, much higher resolution #AGBT14
+434403212079022080  Feb 14 14:06  @nabsys           Great turnout for Barrett Bready's talk on nanodetector of ultra long DNAs #AGBT14 http://t.co/yKos1pKthb
+434403405298425856  Feb 14 14:06  @DaleYuzuki       Bready: Their readlength - ~100KB - sequence-spec tags, driven through a single detector at high velocity, 1MB/sec #AGBT14
+434403568020647936  Feb 14 14:07  @DaleYuzuki       Bready: Electronic data collection at high resolution, and long lengths. Electron micrograph of the detector #AGBT14
+434403579160702976  Feb 14 14:07  @pathogenomenick  RT @homolog_us: Dazzler Assembler for PacBio Reads - Gene Myers (http://www.homolog.us/blogs/blog/2014/02/14/dazzle-assembler-pacbio-reads-gene-myers/) #AGBT14
+434403717090381824  Feb 14 14:08  @DaleYuzuki       Bready: Looks like a huge funnel at top, pass thru a single point, and then expand outward after the detection point #AGBT14
+434403787034619904  Feb 14 14:08  @pathogenomenick  Anyone comparing PacBio to nanopore is fundamentally missing the point! #agbt14
+434403918853197824  Feb 14 14:08  @OmicsOmicsBlog   Barrett Bready @nabsys DNA labeled with proprietary probes, semiconductor device reads at 1Mb/s. Single detector #agbt14
+434403998045843456  Feb 14 14:09  @DaleYuzuki       Bready: Pressure- and voltage-based control; molecules of all sizes. 150ms traces - 150K bp, ~26 tags detected across the 150kb #AGBT14
+434404146205036544  Feb 14 14:09  @lexnederbragt    Nabsys is like optical mapping, but then electronically, and tags at higher density. I really like this platform (read: I want one) #agbt14
+434404162881982464  Feb 14 14:09  @DaleYuzuki       Bready: Showing deletion, translocation, inversion and how the maps would clearly & easily distinguish them #AGBT14
+434404237641252865  Feb 14 14:10  @OmicsOmicsBlog   RT @DaleYuzuki: Myers: String graphs are the real problem. His paper from 2005  http://ow.ly/tDolz #AGBT14
+434404285506658304  Feb 14 14:10  @OmicsOmicsBlog   RT @salisburymw: Things you can only say at #agbt14: "Everyone I know has a bigger cluster than I do." - @thegenemyers
+434404316183789568  Feb 14 14:10  @OmicsOmicsBlog   RT @frapaport: punchline of the talk : this method allows anyone with a small cluster to do assembly from long reads. #AGBT14
+434404316611219456  Feb 14 14:10  @ngsgene          Nice summary, Day3 a must read! MT @AllSeq ONT-inspired twitter storm summarized #AGBT14 http://ngs.is/1eXMEfC @nanopore #genomics
+434404350627446785  Feb 14 14:10  @OmicsOmicsBlog   RT @lexnederbragt: Myers: as he did with Celera assembler, making the data better is key. Call this 'scrubbing' raw reads #AGBT14
+434404376514678784  Feb 14 14:10  @DaleYuzuki       Bready: Doing de novo assembly, simply lining up the tags. Instrument has 8 modules, independent of each other #AGBT14
+434404440758824960  Feb 14 14:11  @AW_NGS           RT @lexnederbragt: Nabsys is like optical mapping, but then electronically, and tags at higher density. I really like this platform (read: I want one) #agbt14
+434404470357647360  Feb 14 14:11  @BekahMcLaughlin  RT @lexnederbragt: McCombie is congratulated by Elaine Mardis with the longest read of the meeting #AGBT14
+434404504046297089  Feb 14 14:11  @BekahMcLaughlin  RT @notSoJunkDNA: Elaine's on fire!!! RT @lexnederbragt: McCombie is congratulated by Elaine Mardis with the longest read of the meeting #AGBT14
+434404535256502273  Feb 14 14:11  @aphillippy       RT @spadesassembler: From what we hear about @nanopore data - good chances that SPAdes 3.0 already can use this data for hybrid assemblies out of the box #AGBT14
+434404667653914624  Feb 14 14:11  @DaleYuzuki       Bready: Workflow includes DNA extraction, probe attach, incubate with NPS reagent, load, analyze. #AGBT14
+434404816983695361  Feb 14 14:12  @LabSpaces        Thanks for this! Encouraging & Disappointing RT @nextgenseek: Jaffe's talk on Oxford @nanopore storified.  http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/ #AGBT14
+434404910314958848  Feb 14 14:12  @BekahMcLaughlin  RT @salisburymw: Things you can only say at #agbt14: "Everyone I know has a bigger cluster than I do." - @thegenemyers
+434404966477099008  Feb 14 14:13  @TonyForget       RT @lexnederbragt: Nabsys is like optical mapping, but then electronically, and tags at higher density. I really like this platform (read: I want one) #agbt14
+434404980771270656  Feb 14 14:13  @TonyForget       RT @DaleYuzuki: First up: Barrett Bready (Nabsys) Correcting Genome Assemblies Using Semiconductor-Based, Single Molecule Genomic Mapping #AGBT14
+434404983459807232  Feb 14 14:13  @OmicsOmicsBlog   RT @DaleYuzuki: Myers: Only FASTAs needed for input, quality comes in after for consensus for Quiver. Shows E.coli, Arabidopsis, Human assy times #AGBT14
+434404996244078593  Feb 14 14:13  @TonyForget       RT @OmicsOmicsBlog: Barrett Bready @nabsys DNA labeled with proprietary probes, semiconductor device reads at 1Mb/s. Single detector #agbt14
+434405025566441473  Feb 14 14:13  @DaleYuzuki       Bready: Illustrating a E. coli phylogenetic tree, and similarity between different strains (BL21, K-12 etc.) maps are dissimilar #AGBT14
+434405033581756416  Feb 14 14:13  @OmicsOmicsBlog   RT @infoecho: GM, "I don't want to do hybrid assembly" #AGBT14
+434405104243183616  Feb 14 14:13  @OmicsOmicsBlog   RT @DaleYuzuki: Myers: G.bax.h5 'is a moose' of a file; fasta to .dexta down to 1/14th the size. #AGBT14
+434405415678263296  Feb 14 14:14  @homolog_us       Nanopore Talk by David Jaffe - Various Links (http://www.homolog.us/blogs/blog/2014/02/14/nanopore-talk-david-jaffe-various-links/)  #AGBT14
+434405417868075009  Feb 14 14:14  @OmicsOmicsBlog   RT @DaleYuzuki: Myers: Q: Dazzler release? A: Only when it's ready, extract tool soon, but correction needs some more work (to make it easier). 1mo #AGBT14
+434405442765467648  Feb 14 14:15  @OmicsOmicsBlog   RT @jlandolin: Omg!  GM: Assembly times on non-cluster computer using dazzle:  ecoli 10mins; arabidopsis 1 hr; human 5 days!!  #AGBT14
+434405532347420672  Feb 14 14:15  @OmicsOmicsBlog   RT @lexnederbragt: #agbt14 hashtag traffic exploded after the coffee break. http://t.co/154yXaBOxQ
+434405566400954368  Feb 14 14:15  @DaleYuzuki       Bready: Nabsys maps can correct assembly errors, and do de novo, working on 'push-button de novo' combining NGS short-reads #AGBT14
+434405658255831040  Feb 14 14:15  @BekahMcLaughlin  RT @nextgenseek: David Jaffe's talk on Oxford @nanopore storified.  http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/ #AGBT14
+434405727604453376  Feb 14 14:16  @AdvAnalytical    #AGBT14  Make sure to stop by Lanai 184 to get your light-up cup from Advanced Analytical http://t.co/3yXawlTGeB
+434405740972097536  Feb 14 14:16  @nabsys           RT @lexnederbragt: Nabsys is like optical mapping, but then electronically, and tags at higher density. I really like this platform (read: I want one) #agbt14
+434405797179973634  Feb 14 14:16  @DaleYuzuki       Bready:Looking at a cytogenetic application (FISH, karyotyping, aCGH): dense chart shows (?) much better resolution #AGBT14
+434405803131695104  Feb 14 14:16  @OmicsOmicsBlog   Bready showing cases where @nabsys can generate complete maps of BACs, microbes & id short read assembly errors #agbt14
+434405966151688192  Feb 14 14:17  @OmicsOmicsBlog   Bready can run @nabsys of watch batteries; great potential for field applications #agbt14
+434405977723772928  Feb 14 14:17  @EnzymaticsInc    Thanks Long Le, Niall Lennon, @BobDaber, and Mike Quail presenting the hypothesis free fusion detection Archer kits by Enzymatics. #AGBT14
+434406009923448832  Feb 14 14:17  @nabsys           RT @OmicsOmicsBlog: Bready showing cases where @nabsys can generate complete maps of BACs, microbes & id short read assembly errors #agbt14
+434406037031247873  Feb 14 14:17  @OmicsOmicsBlog   RT @AllSeq: .@nabsys Will you talk about how you prepped >100k molecules? Looks to be a hard problem. #AGBT14
+434406217956724736  Feb 14 14:18  @OmicsOmicsBlog   RT @erlichya: PACBIO stock price is -3% since David Jaffe's talk. #AGBT14
+434406244712202241  Feb 14 14:18  @OmicsOmicsBlog   RT @apfejes: Needs a summary, but worth reading ♻ @nextgenseek: David Jaffe's talk on Oxford @nanopore storified.  http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/ #AGBT14
+434406286529429504  Feb 14 14:18  @DaleYuzuki       Bready: Q: Presumably not working on FFPE? A: Primarily focused on long molecules. Liquid tumors, not focus now. #AGBT14
+434406347799420928  Feb 14 14:18  @nabsys           Just saw @BarrettBready's workshop and looking for more info? Come to Everglades to see the modules and chips he mentioned. #AGBT14
+434406372227428352  Feb 14 14:18  @jjmerkin         RT @nabsys: Example of >100kb single molecule of tagged DNA, more info in the Everglades Room #AGBT14 http://t.co/1nwMDh6vyS
+434406443849371648  Feb 14 14:19  @DaleYuzuki       Bready: Q: Any work with PacBio users (for long molecule sample prep)? A: Yes, but can't comment. #AGBT14
+434406536685682689  Feb 14 14:19  @BekahMcLaughlin  RT @froggleston: GM: Not going to release Dazzler until it's better code and people won't complain. Should take ~1 month to get house in order. #agbt14
+434406601634889728  Feb 14 14:19  @DaleYuzuki       Bready: Q: (Grills) Throughput? A: Data is immediate, 8 indep. on-deck; typically about 1h/sample #AGBT14
+434406657108357120  Feb 14 14:19  @michaelhoffman   @lexnederbragt @konradjk @kbradnam Wait, all the data was provided by ONP? Not independent from Broad? I am disappoint #agbt14
+434406800020885505  Feb 14 14:20  @BekahMcLaughlin  RT @lexnederbragt: #agbt14 hashtag traffic exploded after the coffee break. http://t.co/154yXaBOxQ
+434407024131342336  Feb 14 14:21  @DaleYuzuki       Up next: Yong Yi (Agilent Technologies) and Bob Ohgami (Stanford) New Agilent NGS Products – Advances in NGS Clinical Research #AGBT14
+434407155920142336  Feb 14 14:21  @JoeyKaralius     RT @homolog_us: Dazzler Assembler for PacBio Reads - Gene Myers (http://www.homolog.us/blogs/blog/2014/02/14/dazzle-assembler-pacbio-reads-gene-myers/) #AGBT14
+434407157598265345  Feb 14 14:21  @drbachinsky      RT @ngsgene: Nice summary, Day3 a must read! MT @AllSeq ONT-inspired twitter storm summarized #AGBT14 http://ngs.is/1eXMEfC @nanopore #genomics
+434407234995777536  Feb 14 14:22  @obahcall         Yong Yi presenting now for Agilent on new NGS products #AGBT14
+434407237239705600  Feb 14 14:22  @kennamshaw       Agilent up next on Sure Select for clinical research, for any sequencing platform; by Bob Ahgami #AGBT14
+434407448880107520  Feb 14 14:23  @kennamshaw       BA: SureSelect QXT coming soon- same day sample to sequencer; 3x faster, 30% less hands on; performance at 50ng input (CRITICAL!!!) #AGBT14
+434407466148048896  Feb 14 14:23  @DaleYuzuki       Yi: Preview of a new product: SureSelect^QXT - sample-to-seq in 1 day; 3x faster and 50ng input. Exomes & custom #AGBT14
+434407477992755201  Feb 14 14:23  @pathogenomenick  Argument has moved from whether nanopore produces data to how good the data is. Big change. Own goal using short fragments though. #agbt14
+434407519939985408  Feb 14 14:23  @ramblingmuse     RT @pathogenomenick: Amazing story from DeRisi of metagenomic diagnosis, although bit surprised empirical abx not tried earlier in this case? Resistant? #AGBT14
+434407766443048960  Feb 14 14:24  @drricky          RT @OmicsOmicsBlog: Moleculo clearly rebranded as TruSeq Synthetic Long Read - coming soon @illumina #agbt14
+434407775247282176  Feb 14 14:24  @obahcall         Yi (Agilent): SureSelect is coming soon; same day sample to sequencer; 3x faster, 30% less hands on time; exomes & custom targets #AGBT14
+434407785997299712  Feb 14 14:24  @OmicsOmicsBlog   SureSelect QXT transposase library prep, 90min hybridization, on sequencer in under a day #agbt14
+434407788589355008  Feb 14 14:24  @girlscientist    Thanks to all the tweeters of the #AGBT14 @nanopore talk, and to @nextgenseek for compiling: http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/
+434407793886388225  Feb 14 14:24  @BekahMcLaughlin  RT @westr: #AGBT14 analytics so far, via @healthhashtags: 2.8M Impressions - http://bit.ly/1kHxfEd #genomics #pm101
+434407821296549888  Feb 14 14:24  @DaleYuzuki       Yi: Transposase-based, 90min hyb. "<7h, 30m hands-on time, no fragmentation equipment req'd Better performance than 'competitor I' #AGBT14
+434407959914119168  Feb 14 14:25  @OmicsOmicsBlog   RT @californiana: Gene Myers: "If you are a bioinformatician without a distributed file system...shame on you" #AGBT14
+434407992398970880  Feb 14 14:25  @OmicsOmicsBlog   RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434408000393326592  Feb 14 14:25  @TonyForget       RT @OmicsOmicsBlog: Bready showing cases where @nabsys can generate complete maps of BACs, microbes & id short read assembly errors #agbt14
+434408144371191808  Feb 14 14:25  @OmicsOmicsBlog   RT @nabsys: Example of >100kb single molecule of tagged DNA, more info in the Everglades Room #AGBT14 http://t.co/1nwMDh6vyS
+434408170669506560  Feb 14 14:25  @frapaport        Agilent is currently comparing sureselect dx to unnamed “competitor 1”. Not sure that’s really useful. We want names ! #AGBT14
+434408171965526016  Feb 14 14:25  @OmicsOmicsBlog   RT @kbradnam: If ONT really has some sort of systematic error profile as opposed to PacBio’s random errors. then this is good news for PacBio #AGBT14
+434408197034893312  Feb 14 14:25  @OmicsOmicsBlog   RT @kbradnam: If ONT were able to show today’s data a year ago, it may have been much worse for PacBio. But PacBio has improved so much recently #AGBT14
+434408228605423616  Feb 14 14:26  @OmicsOmicsBlog   RT @genomicslab: The million dollar sequencer with the $1000 genome or the $1000 sequencer with the million dollar genome #AGBT14
+434408255037927424  Feb 14 14:26  @DaleYuzuki       Yi: SureCall software, free of charge, both HaloPlex and SureSelect, both exomes and custom.  http://ow.ly/tDKf3 #AGBT14
+434408543861882880  Feb 14 14:27  @kennamshaw       Sorry... all that was not from Bob... bob is up now.  Previous was just Agilent talk.  BA on AML in clinical research and NGS #AGBT14
+434408628003823616  Feb 14 14:27  @AW_NGS           RT @pathogenomenick: Argument has moved from whether nanopore produces data to how good the data is. Big change. Own goal using short fragments though. #agbt14
+434408641060667392  Feb 14 14:27  @obahcall         Yi introduces Agilent’s SureCall Sofware (free) for analysis from alignment to categorization mutations, see http://bit.ly/1ovy3MS #AGBT14
+434408642885218305  Feb 14 14:27  @LabSpaces        This. MT @michaelhoffman: @lexnederbragt @konradjk @kbradnam Wait, data provided by ONT? Not independent from Broad? I am disappoint #agbt14
+434408677852712960  Feb 14 14:27  @surt_lab         RT @nextgenseek: David Jaffe's talk on Oxford @nanopore storified.  http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/ #AGBT14
+434408939095326720  Feb 14 14:28  @OmicsOmicsBlog   RT @deannachurch: @dgmacarthur wonder if we’ll be going back to the old DNA preps we used to do for pulsed-field gels. #agbt14 #whatcomesaroundgoesaround
+434408947072897024  Feb 14 14:28  @drbachinsky      RT @DaleYuzuki: Yi: Preview of a new product: SureSelect^QXT - sample-to-seq in 1 day; 3x faster and 50ng input. Exomes & custom #AGBT14
+434408977632600065  Feb 14 14:29  @thondeboer       Taking a breather after an awesome set of talks at #AGBT14 @ Marco Island Marriott Beach Resort, Golf… http://instagram.com/p/kaIMjQMZJU/
+434409104069894145  Feb 14 14:29  @DaleYuzuki       Ohgami: 'Targeted NGS of AML in Clinical Research'. Speakers background is pathology. Majority of cancers are carcinomas. #AGBT14
+434409208310558722  Feb 14 14:30  @nextgenseek      Oxford @nanopore Data and MinION: Valentines Day’s Gift to Genome Enthusiasts http://nextgenseek.com/2014/02/oxford-nanopore-data-and-minion-valentines-days-gift-to-genome-enthusiasts/ #AGBT14
+434409232734371840  Feb 14 14:30  @obahcall         Bob Ohgami now on targeted NGS of AML in clinical research (presenting as part of Agilent’s slot) #AGBT14
+434409421230592000  Feb 14 14:30  @CRIgenomics      @nanopore MinIon Access Program emails are starting to come out, anyone at #agbt14 got theirs yet?
+434409532018941953  Feb 14 14:31  @DaleYuzuki       Ohgami: But for hematologic neoplasms: classification involves many factors; now molecular data is much more prominent #AGBT14
+434409593482276864  Feb 14 14:31  @lexnederbragt    RT @michaelhoffman: @lexnederbragt @konradjk @kbradnam Wait, all the data was provided by ONP? Not independent from Broad? I am disappoint #agbt14
+434409635702112256  Feb 14 14:31  @OmicsOmicsBlog   RT @pathogenomenick: Anyone comparing PacBio to nanopore is fundamentally missing the point! #agbt14
+434409666861608960  Feb 14 14:31  @OmicsOmicsBlog   RT @lexnederbragt: Nabsys is like optical mapping, but then electronically, and tags at higher density. I really like this platform (read: I want one) #agbt14
+434409724352921600  Feb 14 14:32  @OmicsOmicsBlog   RT @DaleYuzuki: Bready: Doing de novo assembly, simply lining up the tags. Instrument has 8 modules, independent of each other #AGBT14
+434409744347172864  Feb 14 14:32  @StevenNHart      RT @bioinformer: you know you're in too deep when you are watching the #AGBT14 hashtag like a day trader after an IPO…
+434409754140872704  Feb 14 14:32  @OmicsOmicsBlog   RT @spadesassembler: From what we hear about @nanopore data - good chances that SPAdes 3.0 already can use this data for hybrid assemblies out of the box #AGBT14
+434409790983262209  Feb 14 14:32  @srbehera11       RT @californiana: Gene Myers: "If you are a bioinformatician without a distributed file system...shame on you" #AGBT14
+434409811514785793  Feb 14 14:32  @CRIgenomics      MinIon Access Program emails are starting to come out, anyone at #agbt14 got theirs yet?
+434409923431378944  Feb 14 14:32  @MColebrook       RT @MeekIsaac: Meyers - Human genome assembly in 5 days on a MacBook #agbt14
+434409958239928320  Feb 14 14:32  @OmicsOmicsBlog   RT @DaleYuzuki: Bready: Illustrating a E. coli phylogenetic tree, and similarity between different strains (BL21, K-12 etc.) maps are dissimilar #AGBT14
+434409980536848385  Feb 14 14:33  @pathogenomenick  RT @nextgenseek: Oxford @nanopore Data and MinION: Valentines Day’s Gift to Genome Enthusiasts http://nextgenseek.com/2014/02/oxford-nanopore-data-and-minion-valentines-days-gift-to-genome-enthusiasts/ #AGBT14
+434410041144512512  Feb 14 14:33  @DaleYuzuki       Ohgami: A well-defined genomic world for myeloid neoplasms (genes and pathways). Chose ~20 genes + 2000x coverage + HaloPlex #AGBT14
+434410254047412224  Feb 14 14:34  @OmicsOmicsBlog   RT @DaleYuzuki: Bready: Q: Any work with PacBio users (for long molecule sample prep)? A: Yes, but can't comment. #AGBT14
+434410291724836864  Feb 14 14:34  @OmicsOmicsBlog   RT @DaleYuzuki: Bready: Q: (Grills) Throughput? A: Data is immediate, 8 indep. on-deck; typically about 1h/sample #AGBT14
+434410400747356160  Feb 14 14:34  @DaleYuzuki       Ohgami: 77 AML samples, went through HaloPlex Molecular Inversion Probe method, sequenced on MiSeq and used SureCall s/w  #AGBT14
+434410466753138688  Feb 14 14:35  @nabsys           RT @DaleYuzuki: Bready: Q: (Grills) Throughput? A: Data is immediate, 8 indep. on-deck; typically about 1h/sample #AGBT14
+434410545819967488  Feb 14 14:35  @nabsys           Missed @BarrettBready’s 1:30 p.m. talk? We’re having another at 6:30 p.m. in Everglades. #AGBT14 #genome
+434410620767977472  Feb 14 14:35  @mt_ur_mind       RT @assemblathon: “@erlichya: If ONT runs with 25bp per s, than each USB can produce ~250Mbp. Cost per Mb is 3$. More here: http://cl.ly/1c1H0e3n0U32  #AGBT14”
+434410649083715585  Feb 14 14:35  @OmicsOmicsBlog   RT @pathogenomenick: Argument has moved from whether nanopore produces data to how good the data is. Big change. Own goal using short fragments though. #agbt14
+434410664040624131  Feb 14 14:35  @obahcall         Ohgami: developed targeted approach for myeloid neoplasms, selected 20 genes known relevance; 2000x depth, with HaloPlex #AGBT14
+434410671124795392  Feb 14 14:35  @AllSeq           Really great NGS applications poster at #AGBT14 from @illumina (via @CRIgenomics)
+434410757703606272  Feb 14 14:36  @mt_ur_mind       RT @pathogenomenick: Anyone comparing PacBio to nanopore is fundamentally missing the point! #agbt14
+434410852922699776  Feb 14 14:36  @mt_ur_mind       RT @DaleYuzuki: First up: Barrett Bready (Nabsys) Correcting Genome Assemblies Using Semiconductor-Based, Single Molecule Genomic Mapping #AGBT14
+434410880898727936  Feb 14 14:36  @LabSpaces        RT @pathogenomenick: Anyone comparing PacBio to nanopore is fundamentally missing the point! #agbt14
+434411073056567296  Feb 14 14:37  @DaleYuzuki       Ohgami: Looked at mut type against AML subtype (of 4); survival and U2AF1 mutation; retrospective samples several mis-classified #AGBT14
+434411090433540096  Feb 14 14:37  @ENZPREZ          RT @EnzymaticsInc: Thanks Long Le, Niall Lennon, @BobDaber, and Mike Quail presenting the hypothesis free fusion detection Archer kits by Enzymatics. #AGBT14
+434411096892788736  Feb 14 14:37  @OmicsOmicsBlog   RT @nextgenseek: Oxford @nanopore Data and MinION: Valentines Day’s Gift to Genome Enthusiasts http://nextgenseek.com/2014/02/oxford-nanopore-data-and-minion-valentines-days-gift-to-genome-enthusiasts/ #AGBT14
+434411165826170880  Feb 14 14:37  @mt_ur_mind       RT @lexnederbragt: Nabsys is like optical mapping, but then electronically, and tags at higher density. I really like this platform (read: I want one) #agbt14
+434411420214898689  Feb 14 14:38  @nabsys           RT @DaleYuzuki: Bready: Nabsys maps can correct assembly errors, and do de novo, working on 'push-button de novo' combining NGS short-reads #AGBT14
+434411435754790912  Feb 14 14:38  @leilaluheshi     RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434411736259887104  Feb 14 14:40  @obahcall         Ohgami: TP53 and U2AF1 mutations assoc w poor prognosis, survival in AML cases; U2AF1 assoc with subtype AML-MRC #AGBT14
+434411877716987904  Feb 14 14:40  @DaleYuzuki       Next up: Pacific Biosciences, Jonas Korlach: No Assembly Required: Extremely Long Reads for Full-length Transcript Isoform Seq #AGBT14
+434411894993342464  Feb 14 14:40  @danudwary        RT @OmicsOmicsBlog: Anyone recognize these cuties? Found this phone on floor of front row of #agbt14 http://t.co/lEVe9JamEl
+434411914752696320  Feb 14 14:40  @belyndahicks     @CRIgenomics We got ours at NCI with @NGSman #agbt14
+434411930149978112  Feb 14 14:40  @frapaport        Jonas Korlach from @PacBio  is on #AGBT14
+434411949720211457  Feb 14 14:40  @labmonkey_in_KL  RT @AllSeq: Couldn’t keep up with the ONT-inspired twitter storm? We’ve summarized what we’ve learned #AGBT14 http://ngs.is/1eXMEfC
+434411972746960896  Feb 14 14:40  @westr            RT @AllSeq: Couldn’t keep up with the ONT-inspired twitter storm? We’ve summarized what we’ve learned #AGBT14 http://ngs.is/1eXMEfC #pm101
+434412040510537728  Feb 14 14:41  @PacBio           RT @DaleYuzuki: Next up: Pacific Biosciences, Jonas Korlach: No Assembly Required: Extremely Long Reads for Full-length Transcript Isoform Seq #AGBT14
+434412073456783360  Feb 14 14:41  @frapaport        reminds people that PacBio released a 54x long-read human assembly 2 days ago #AGBT14
+434412100447133698  Feb 14 14:41  @obahcall         Jonas Korlach on using long @PacBio reads for full length transcript isoform sequencing;  no assembly required #AGBT14
+434412116595195905  Feb 14 14:41  @kennamshaw       Pac Bio and Jonas Korlach up next: no assembly required: extremely long reads for full length transcript isoform sequencing  #AGBT14
+434412123620642817  Feb 14 14:41  @labmonkey_in_KL  RT @nabsys: Example of >100kb single molecule of tagged DNA, more info in the Everglades Room #AGBT14 http://t.co/1nwMDh6vyS
+434412170382548993  Feb 14 14:41  @lexnederbragt    Next talk is from Jonas Korlach from Pacific Biosciences "Extremely Long Reads for Full-length Transcript Isoform Sequencing" #AGBT14
+434412242680152064  Feb 14 14:42  @DaleYuzuki       Korlach: 2d ago released 54x long-read coverage de novo PacBio assembly Press Release: http://ow.ly/tDMbe #AGBT14
+434412252435714050  Feb 14 14:42  @assemblathon     RT @pathogenomenick: Argument has moved from whether nanopore produces data to how good the data is. Big change. Own goal using short fragments though. #agbt14
+434412267971829760  Feb 14 14:42  @kennamshaw       JK: Recent announcement describes data for platinum genome where 50% came from 10kb reads http://blog.pacificbiosciences.com/2014/02/data-release-54x-long-read-coverage-for.html #AGBT14
+434412277769699328  Feb 14 14:42  @StevenNHart      #AGBT14 Platinum Human Genome now available to public.  Should put it on GCAT to get better tools
+434412292269441024  Feb 14 14:42  @PacBio           RT @frapaport: reminds people that PacBio released a 54x long-read human assembly 2 days ago #AGBT14
+434412344094261248  Feb 14 14:42  @labmonkey_in_KL  RT @KevinADavies: Yes there were errors (shock) and reads are only 5 kb (boo) but Nanopore Sequencing just arrived after 20 years. Congrats @nanopore #AGBT14
+434412420044718081  Feb 14 14:42  @mt_ur_mind       RT @DaleYuzuki: Next up: Pacific Biosciences, Jonas Korlach: No Assembly Required: Extremely Long Reads for Full-length Transcript Isoform Seq #AGBT14
+434412440919760896  Feb 14 14:42  @morgantaschuk    RT @kennamshaw: JK: Recent announcement describes data for platinum genome where 50% came from 10kb reads http://blog.pacificbiosciences.com/2014/02/data-release-54x-long-read-coverage-for.html #AGBT14
+434412499988144128  Feb 14 14:43  @danudwary        RT @CRIgenomics: MinIon Access Program emails are starting to come out, anyone at #agbt14 got theirs yet?
+434412520132976641  Feb 14 14:43  @lexnederbragt    Korlach: staring with plugging their human genome assembly based on 54x raw reads from a single library. N50 contig >4 Mbp #AGBT14
+434412552030654464  Feb 14 14:43  @hutchins_e       Korlach: longest #PacBio reads around 40K - #holycow - also, whole human genome assembly with one(!) ~20 kb shotgun library #AGBT14
+434412636554670080  Feb 14 14:43  @DaleYuzuki       Korlach: Human de novo assemblies - from HuRef and six others - 3.25Gb total assy size for PacBio (since the N50's are ~4.5k) #AGBT14
+434412655949139969  Feb 14 14:43  @morgantaschuk    RT @hutchins_e: Korlach: longest #PacBio reads around 40K - #holycow - also, whole human genome assembly with one(!) ~20 kb shotgun library #AGBT14
+434412772625883136  Feb 14 14:44  @infoecho         JK on sequencing and assembling very complex KIR (Killer Cell) regions with PacBio data #AGBT14
+434412792419221504  Feb 14 14:44  @PacBio           RT @hutchins_e: Korlach: longest #PacBio reads around 40K - #holycow - also, whole human genome assembly with one(!) ~20 kb shotgun library #AGBT14
+434412819002687488  Feb 14 14:44  @DaleYuzuki       Korlach: Whole fosmid sequencing of Killer Cell Ig-Like Receptors (KIR), reads include the entire fosmid. #AGBT14
+434412832747446272  Feb 14 14:44  @PacBio           RT @lexnederbragt: Korlach: staring with plugging their human genome assembly based on 54x raw reads from a single library. N50 contig >4 Mbp #AGBT14
+434412846907416576  Feb 14 14:44  @AW_NGS           RT @DaleYuzuki: Korlach: 2d ago released 54x long-read coverage de novo PacBio assembly Press Release: http://ow.ly/tDMbe #AGBT14
+434412870932385793  Feb 14 14:44  @PacBio           JK: References data release ~54x long-read coverage for PacBio-only de novo human genome assembly #AGBT14 http://j.mp/1nzqmBM
+434412932148232192  Feb 14 14:44  @aphillippy       RT @nextgenseek: Oxford @nanopore Data and MinION: Valentines Day’s Gift to Genome Enthusiasts http://nextgenseek.com/2014/02/oxford-nanopore-data-and-minion-valentines-days-gift-to-genome-enthusiasts/ #AGBT14
+434412946769580032  Feb 14 14:44  @frapaport        The PacBio human assembly was powered by google cloud #AGBT14
+434412971780235264  Feb 14 14:44  @StevenNHart      #AGBT14 Fully resolved difficult KIR region without assembly
+434412976914063360  Feb 14 14:44  @PacBio           RT @DaleYuzuki: Korlach: Whole fosmid sequencing of Killer Cell Ig-Like Receptors (KIR), reads include the entire fosmid. #AGBT14
+434413131918753792  Feb 14 14:45  @DaleYuzuki       Korlach: Illustration of haploid assemblies across 2013 - 1MB, 12MB, 120MB, 170MB, 1GB and 3.2GB (human) #AGBT14
+434413214156087296  Feb 14 14:45  @owlmonkey        @AllSeq the 6mer's could mean pores have 6 sensors & are really outputting 6x consensus of single raw reads; explains error style? #AGBT14
+434413352279080960  Feb 14 14:46  @DaleYuzuki       Korlach: Transcript isoform sequencing - M Snyder quoted as 'kind of crazy' to 'blow things up' and then put them together again #AGBT14
+434413394394091520  Feb 14 14:46  @obahcall         Jonas Korlach showing de novo  human genome (haploid) assembly released this week; ~54x long read covg; @PacBio only; CHM1htert line #AGBT14
+434413405634854912  Feb 14 14:46  @mt_ur_mind       RT @PacBio: JK: References data release ~54x long-read coverage for PacBio-only de novo human genome assembly #AGBT14 http://j.mp/1nzqmBM
+434413410395361281  Feb 14 14:46  @kennamshaw       JK: shows full resolution of KIR region without having to assemble, full length one fosmid. #AGBT14
+434413471623823361  Feb 14 14:46  @PacBio           JK: Shows current state of transcript assembly - likened to shredding a magazine and then trying to reassemble the shreds #AGBT14
+434413510471081986  Feb 14 14:47  @infoecho         KS showing many possible splice variants from single gene #AGBT14
+434413554456723456  Feb 14 14:47  @evodevoconor     Summary of the latest on Oxford Nanopore from #AGBT14: http://nextgenseek.com/2014/02/oxford-nanopore-data-and-minion-valentines-days-gift-to-genome-enthusiasts/
+434413581204209664  Feb 14 14:47  @AndyLarrea       RT @kbradnam: If ONT were able to show today’s data a year ago, it may have been much worse for PacBio. But PacBio has improved so much recently #AGBT14
+434413680315215872  Feb 14 14:47  @AllSeq           @owlmonkey I don't think that's the case, but maybe others in attendance could weigh in? #AGBT14
+434413716570787841  Feb 14 14:47  @assemblathon     “@nextgenseek: Oxford @nanopore Data and MinION: Valentines Day’s Gift to Genome Enthusiasts http://cl.ly/252n2R0n1g3A #AGBT14”
+434413725999960064  Feb 14 14:47  @DaleYuzuki       Korlach: Illus. transcript diversity, limitation of methods; Nature Methods reference highlighted http://ow.ly/tDMVe #AGBT14
+434413745541222400  Feb 14 14:48  @morgantaschuk    RT @PacBio: JK: Shows current state of transcript assembly - likened to shredding a magazine and then trying to reassemble the shreds #AGBT14
+434413755997650944  Feb 14 14:48  @kennamshaw       JK: reminds us about Ian Korf's review of current state of RNAseq http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2735.html #AGBT14
+434413785160617984  Feb 14 14:48  @AndyLarrea       RT @lexnederbragt: Korlach: staring with plugging their human genome assembly based on 54x raw reads from a single library. N50 contig >4 Mbp #AGBT14
+434413821051277312  Feb 14 14:48  @AW_NGS           RT @DaleYuzuki: Korlach: Whole fosmid sequencing of Killer Cell Ig-Like Receptors (KIR), reads include the entire fosmid. #AGBT14
+434413916010323969  Feb 14 14:48  @EPaxinos         RT @akislyuk: Another year, another load of @nanopore vaporware at #AGBT14, another amazing scientific performance by @PacBio.
+434413934352011264  Feb 14 14:48  @DaleYuzuki       Korlach: Now have Iso-Seq protocol for getting full-length cDNA, they have a pipeline for isoform generation #AGBT14
+434414097422368769  Feb 14 14:49  @hutchins_e       RT @nextgenseek: Oxford @nanopore Data and MinION: Valentines Day’s Gift to Genome Enthusiasts http://nextgenseek.com/2014/02/oxford-nanopore-data-and-minion-valentines-days-gift-to-genome-enthusiasts/ #AGBT14
+434414147036803072  Feb 14 14:49  @PacBio           With slide: MT @DaleYuzuki: JK:  Haploid assemblies in 2013 - 1MB, 12MB, 120MB, 170MB, 1GB and 3.2GB (human) #AGBT14 http://ow.ly/i/4BtMS
+434414186568101888  Feb 14 14:49  @DaleYuzuki       Korlach: Also mentions the ABRF NGS RNA-Seq study (still yet to be published), cross-platform limitations (bias) shown clearly #AGBT14
+434414202716188672  Feb 14 14:49  @PacBio           RT @DaleYuzuki: Korlach: Now have Iso-Seq protocol for getting full-length cDNA, they have a pipeline for isoform generation #AGBT14
+434414298107248640  Feb 14 14:50  @kennamshaw       JK: shows picture from @mason_lab poster I think from last ASHG meeting.  Agree with his interpretation? #AGBT14
+434414302825816065  Feb 14 14:50  @AW_NGS           RT @PacBio: JK: Shows current state of transcript assembly - likened to shredding a magazine and then trying to reassemble the shreds #AGBT14
+434414309263691776  Feb 14 14:50  @infoecho         PacBio Iso-seq protocol is available on the web site #AGBT14 some background slides about a public available dataset https://s3.amazonaws.com/files.pacb.com/pdf/Iso-Seq+Bioinformatics+Analysis+of+the+Human+MCF-7+Transcriptome.pdf
+434414464205873152  Feb 14 14:50  @jlandolin        “@DaleYuzuki: Korlach: Now have Iso-Seq protocol for getting full-length cDNA, they have a pipeline for isoform generation #AGBT14” @PacBio
+434414471176417280  Feb 14 14:50  @aaron_mckenna    RT @evodevoconor: Summary of the latest on Oxford Nanopore from #AGBT14: http://nextgenseek.com/2014/02/oxford-nanopore-data-and-minion-valentines-days-gift-to-genome-enthusiasts/
+434414498934706176  Feb 14 14:51  @PacBio           RT @infoecho: PacBio Iso-seq protocol is available on the web site #AGBT14 some background slides about a public available dataset https://s3.amazonaws.com/files.pacb.com/pdf/Iso-Seq+Bioinformatics+Analysis+of+the+Human+MCF-7+Transcriptome.pdf
+434414532195520512  Feb 14 14:51  @obahcall         Korlach also showed progress in resolving the super tricky KIR region; whole fosmid sequencing (contributed to GRCh38)  #AGBT14
+434414544882905089  Feb 14 14:51  @bioinfosm        #pacBio? cost? MT @lexnederbragt Korlach: human genome assembly based on 54x raw reads from a single library. N50 contig >4 Mbp #AGBT14
+434414561073319936  Feb 14 14:51  @notSoJunkDNA     RT @Single_Molecule: @dgmacarthur Only (?) problem is that Covaris shearing part of DNA prep process at ONT. Not mentioned during talk but I asked later #AGBT14
+434414603033137152  Feb 14 14:51  @KMeltzSteinberg  RT @lexnederbragt: So far, this is the only USB stick with long-read sequencing data available at #AGBT14 http://t.co/wYuaZGCTi2
+434414633227530240  Feb 14 14:51  @westr            RT @lexnederbragt: Next talk is from Jonas Korlach from Pacific Biosciences "Extremely Long Reads for Full-length Transcript Isoform Sequencing" #AGBT14
+434414645974028288  Feb 14 14:51  @infoecho         JS "every 7 PacBio read is a new iso-form" http://www.nature.com/nbt/journal/v31/n11/full/nbt.2705.html #AGBT14
+434414791818371072  Feb 14 14:52  @bioinfosm        Nice from @PacBio MT @DaleYuzuki Korlach: Iso-Seq protocol for getting full-length cDNA, they have a pipeline for isoform generation #AGBT14
+434414814199164929  Feb 14 14:52  @westr            RT @DaleYuzuki: Korlach: 2d ago released 54x long-read coverage de novo PacBio assembly Press Release: http://ow.ly/tDMbe #AGBT14 #pm101
+434414824861499392  Feb 14 14:52  @JokeReumers      RT @hutchins_e: Korlach: longest #PacBio reads around 40K - #holycow - also, whole human genome assembly with one(!) ~20 kb shotgun library #AGBT14
+434415015769411584  Feb 14 14:53  @JokeReumers      RT @DaleYuzuki: Korlach: Now have Iso-Seq protocol for getting full-length cDNA, they have a pipeline for isoform generation #AGBT14
+434415020978733056  Feb 14 14:53  @AW_NGS           RT @infoecho: PacBio Iso-seq protocol is available on the web site #AGBT14 some background slides about a public available dataset https://s3.amazonaws.com/files.pacb.com/pdf/Iso-Seq+Bioinformatics+Analysis+of+the+Human+MCF-7+Transcriptome.pdf
+434415087244566528  Feb 14 14:53  @DaleYuzuki       Korlach: PAG presentation by Sean Gordon shows fungal transcriptome, there were 118 isoforms, not 6 with short-reads #AGBT14
+434415207570743296  Feb 14 14:53  @infoecho         RT @DaleYuzuki: Korlach: PAG presentation by Sean Gordon shows fungal transcriptome, there were 118 isoforms, not 6 with short-reads #AGBT14
+434415374235615232  Feb 14 14:54  @PacBio           JK: Fungal transcriptome Sean Gordon at USDA-AR - illumina prediction - 6 isoform transcripts, PacBio resolved 118 observed isoforms #AGBT14
+434415479546195969  Feb 14 14:54  @DaleYuzuki       Korlach: Looks like the PAG 2014 presentation by Gordon is on the PacBio website http://ow.ly/tDNLI #AGBT14
+434415545689989120  Feb 14 14:55  @westr            RT @DaleYuzuki: Korlach: Illus. transcript diversity, limitation of methods; Nature Methods reference highlighted http://ow.ly/tDMVe #AGBT14
+434415546965057536  Feb 14 14:55  @owlmonkey        RT @DaleYuzuki: Korlach: PAG presentation by Sean Gordon shows fungal transcriptome, there were 118 isoforms, not 6 with short-reads #AGBT14
+434415572185382912  Feb 14 14:55  @infoecho         JK switches topic to Metagenomics #AGBT14
+434415599158972418  Feb 14 14:55  @will_fitzhugh    @AllSeq @owlmonkey didn't address this directly, it seems difficult to measure 4,096 different states, one per 6-mer, however. #AGBT14
+434415604259635200  Feb 14 14:55  @pjacock          RT @bioinformer: you know you're in too deep when you are watching the #AGBT14 hashtag like a day trader after an IPO…
+434415641362452480  Feb 14 14:55  @kennamshaw       JK: shows work from S. Gordon abiltiy to use PacBio to resolve 118 un-annotated isoforms; blog too of that http://bit.ly/1iWI5mG #AGBT14
+434415662082306048  Feb 14 14:55  @LabSpaces        Wow! RT @PacBio: JK: Fungal transcriptome Sean Gordon at USDA-AR - ILMN prediction - 6 isoform transcripts, PacBio 118 observed #AGBT14
+434415701101539328  Feb 14 14:55  @westr            RT @kennamshaw: JK: reminds us about Ian Korf's review of current state of RNAseq http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2735.html #AGBT14 #pm101
+434415703853383680  Feb 14 14:55  @PacBio           RT @DaleYuzuki: Korlach: Illus. transcript diversity, limitation of methods; Nature Methods reference highlighted http://ow.ly/tDMVe #AGBT14
+434415720622194688  Feb 14 14:55  @DaleYuzuki       Korlach: Looking at metagenomics using NIAID's HMP Mock Community B, able to assemble 20 fully finished genomes #AGBT14
+434415753656156160  Feb 14 14:56  @hutchins_e       +less "messy" than cufflinks predicted transcripts RT @infoecho "JS "every 7 PacBio read is a new iso-form" http://www.nature.com/nbt/journal/v31/n11/full/nbt.2705.html  #AGBT14
+434415809335947264  Feb 14 14:56  @MPAlonso         RT @lexnederbragt: Next talk is from Jonas Korlach from Pacific Biosciences "Extremely Long Reads for Full-length Transcript Isoform Sequencing" #AGBT14
+434415836971806720  Feb 14 14:56  @infoecho         More than half of the 20 HMP mock community samples are full resolved. #AGBT14
+434415878286098432  Feb 14 14:56  @PacBio           RT @westr: RT @kennamshaw: JK: reminds us about Ian Korf's review of current state of RNAseq http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2735.html #AGBT14 #pm101
+434415893880111104  Feb 14 14:56  @fdmts            @notSoJunkDNA Probably selection bias.  We're only seeing the people who were either excited or upset. #AGBT14 #nanopore
+434415928684843008  Feb 14 14:56  @DaleYuzuki       Korlach: Able to resolve ~25 plasmids, also char. the methylome in that same mock sample #AGBT14
+434416009496502272  Feb 14 14:57  @OmicsOmicsBlog   Jonas Korlach from @PacBio showing multiple complete, closed circle genomes generated from HMP mock microbiome #AGBT14
+434416063359774720  Feb 14 14:57  @MPAlonso         RT @naturemethods: Tweeting or blogging about a presentation at a scientific conference doesn't break journal embargo http://www.nature.com/nmeth/journal/v8/n4/full/nmeth0411-273.html  #AGBT14
+434416084427751425  Feb 14 14:57  @westr            RT @infoecho: PacBio Iso-seq protocol is available on the web site #AGBT14 some background slides about a public available dataset https://s3.amazonaws.com/files.pacb.com/pdf/Iso-Seq+Bioinformatics+Analysis+of+the+Human+MCF-7+Transcriptome.pdf
+434416102710730752  Feb 14 14:57  @MPAlonso         RT @DaleYuzuki: Korlach: Illus. transcript diversity, limitation of methods; Nature Methods reference highlighted http://ow.ly/tDMVe #AGBT14
+434416102954004480  Feb 14 14:57  @DaleYuzuki       Korlach: Human gut Virome doing meta-epigenomics: different base modifications, a unique tool to look at bacteriophage infection #AGBT14
+434416159325425664  Feb 14 14:57  @PacBio           RT @OmicsOmicsBlog: Jonas Korlach from @PacBio showing multiple complete, closed circle genomes generated from HMP mock microbiome #AGBT14
+434416186093473793  Feb 14 14:57  @PacBio           RT @DaleYuzuki: Korlach: Able to resolve ~25 plasmids, also char. the methylome in that same mock sample #AGBT14
+434416277739020288  Feb 14 14:58  @DaleYuzuki       Korlach: Now able to link phage to bacteria by the methyltransferase activity on both virus and host (!) #AGBT14
+434416382977925121  Feb 14 14:58  @MicroWavesSci    RT @OmicsOmicsBlog: Jonas Korlach from @PacBio showing multiple complete, closed circle genomes generated from HMP mock microbiome #AGBT14
+434416413408002048  Feb 14 14:58  @PacBio           RT @DaleYuzuki: Korlach: Now able to link phage to bacteria by the methyltransferase activity on both virus and host (!) #AGBT14
+434416480747528192  Feb 14 14:58  @leilaluheshi     RT @westr: RT @nextgenseek: David Jaffe's talk on Oxford @nanopore storified.  http://nextgenseek.com/2014/02/a-first-look-at-the-use-oxford-nanopore-reads-agbt-2014/ #AGBT14 #pm101
+434416513366642688  Feb 14 14:59  @AW_NGS           RT @DaleYuzuki: Korlach: Now able to link phage to bacteria by the methyltransferase activity on both virus and host (!) #AGBT14
+434416601988083712  Feb 14 14:59  @westr            RT @kennamshaw: JK: shows work from S. Gordon abiltiy to use PacBio to resolve 118 un-annotated isoforms; blog too of that http://bit.ly/1iWI5mG #AGBT14
+434416645189435393  Feb 14 14:59  @kennamshaw       JK asked about how we do expression analysis now that can detect isoforms; 30-60K reads per FC so this might require hybrid approach #agbt14
+434416646640640000  Feb 14 14:59  @jlandolin        “@infoecho: More than half of the 20 HMP mock community samples are full resolved. #AGBT14”@pacbio #metagenome
+434416666253213696  Feb 14 14:59  @AustinKarson1    RT @infoecho: PacBio Iso-seq protocol is available on the web site #AGBT14 some background slides about a public available dataset https://s3.amazonaws.com/files.pacb.com/pdf/Iso-Seq+Bioinformatics+Analysis+of+the+Human+MCF-7+Transcriptome.pdf
