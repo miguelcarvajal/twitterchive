@@ -1964,3 +1964,175 @@
 434144765027033088  Feb 13 20:59  @kennamshaw       RT @topoisomerase: Fodor’s computer keeps advancing slides- either it’s possessed or maybe @EnzymaticsInc is making sure their party starts on time :) #AGBT14
 434144819913719808  Feb 13 20:59  @OmicsOmicsBlog   SF: count given RNA with single gene-specific primer; sensitivity limit around 1/8 of cell! #agbt14
 434144833406775296  Feb 13 20:59  @morgantaschuk    Trinotate - annotate trinity assemblies for transcriptomes with multiple annotation sources - http://trinotate.sf.net #AGBT14
+434145143818817536  Feb 13 21:00  @StevenNHart      ERBB3 mutations are in a lot of tumor types at high frequency #AGBT14
+434145168032530433  Feb 13 21:00  @JokeReumers      RT @morgantaschuk: Trinotate - annotate trinity assemblies for transcriptomes with multiple annotation sources - http://trinotate.sf.net #AGBT14
+434145258914328576  Feb 13 21:01  @lexnederbragt    Fodor: showing he can do single-cell RNA-seq replicates #agbt14
+434145320717783040  Feb 13 21:01  @OmicsOmicsBlog   SF: demo single cell by picking cells to PCR tube. Can do single cell revival replicates (split post tagging) #agbt14
+434145411411218433  Feb 13 21:01  @fluidigm         BH- relatively few transcripts account for most of the expression of detectable homology. #AGBT14
+434145431292219392  Feb 13 21:01  @morgantaschuk    over 1 mill transcripts, lowly expressed. Most expressions and homology from relatively few transcripts, bio replicates cluster tog #AGBT14
+434145511436582914  Feb 13 21:02  @DaleYuzuki       Seshagiri:Now looking at ERBB3 somatic mutations - only one of the ERBB family with a impaired kinase domain. Works w/ ERBB2 #AGBT14
+434145580055789568  Feb 13 21:02  @morgantaschuk    Also, testes are weird (expression doesn't cluster with anything else in transcriptomics) #AGBT14
+434145685462855680  Feb 13 21:02  @OmicsOmicsBlog   SF: equivalent of qPCR Ct 0.1 precision! #agbt14
+434145696871358464  Feb 13 21:02  @fluidigm         RT @morgantaschuk: over 1 mill transcripts, lowly expressed. Most expressions and homology from relatively few transcripts, bio replicates cluster tog #AGBT14
+434145708036591616  Feb 13 21:02  @topoisomerase    RT @OmicsOmicsBlog: SF: equivalent of qPCR Ct 0.1 precision! #agbt14
+434145782242213888  Feb 13 21:03  @DaleYuzuki       Seshagiri:Hotspot mutations' effect on conformation? Also muts on kinase domain, but none regain kinase activity #AGBT14
+434145832917815296  Feb 13 21:03  @gatk_dev         At #AGBT14, got questions about #GATK 3.0? Talk to @mauricinho  Carneiro at Intel BioTeam Suite Friday PM, details http://www.broadinstitute.org/gatk/blog?id=3783
+434145869471182848  Feb 13 21:03  @lexnederbragt    RT @OmicsOmicsBlog: SF: equivalent of qPCR Ct 0.1 precision! #agbt14
+434146032830935041  Feb 13 21:04  @OmicsOmicsBlog   SF: one tag for cell, one for molecule, read out with sequencer #agbt14
+434146071296495616  Feb 13 21:04  @Genohub          Fodor: Molecular indexing gives "true" transcript representation #AGBT14
+434146204231168000  Feb 13 21:04  @kennamshaw       SS; shows ErbB3 mutants in IL3-dependent Baf3 system, shows ligand independence but still require functional ErbB2 #AGBT14
+434146214255525890  Feb 13 21:04  @morgantaschuk    202 genes enriched for GO terms blastema, limb morphology. regulators, signalling, structure and ex cellular matrix genes #AGBT14
+434146219448098816  Feb 13 21:04  @DaleYuzuki       Seshagiri:Used in vitro assay systems to probe ERBB3 mutants; look at cell survival as a proxy for oncogenic signalling #AGBT14
+434146298850447360  Feb 13 21:05  @lexnederbragt    RT @OmicsOmicsBlog: SF: one tag for cell, one for molecule, read out with sequencer #agbt14
+434146318496595968  Feb 13 21:05  @lexnederbragt    RT @Genohub: Fodor: Molecular indexing gives "true" transcript representation #AGBT14
+434146441096073216  Feb 13 21:05  @banoomalik       RT @iontorrent: Moroz: 2 days from samples to initial analysis via satellite link to home-based bifx with Ship-Seq. Realtime genomics at sea! #AGBT14
+434146629571317760  Feb 13 21:06  @morgantaschuk    SIngle cell RNAseq workflow - short reads - 3 mill reads/cell - trinity assembly. 41 blastema cells, moderately correlated express #AGBT14
+434146653591707648  Feb 13 21:06  @Genohub          Fodor: Correct for amplification noise with molecular indices #AGBT14
+434146665008996352  Feb 13 21:06  @OmicsOmicsBlog   SF: great linearity with sequencing counting assay. Get high degree of correction of amplification noise #agbt14
+434146798576222209  Feb 13 21:07  @Genohub          Fodor: Massive parallel single cell sequencing #AGBT14
+434146873520050177  Feb 13 21:07  @lexnederbragt    Fodor: going towards massively parallel single cell sequencing, 10^4 - 10^6 different cells should be possible #AGBT14
+434146928780402688  Feb 13 21:07  @iontorrent       Seshagiri (Genentech): R-spondin fusions found in 10% of colon cancer samples. Fusions increase potentiation of WNT pathway #AGBT14
+434147018962128897  Feb 13 21:08  @fluidigm         BH-examined 41 single blastema cells to examine limb regeneration. Some cells were enriched for immune cells like macrophages. #AGBT14
+434147069146968064  Feb 13 21:08  @morgantaschuk    Found what was most likely several macrophage cells in their single cell analysis of blastema.  macrophages req for limb regen. #AGBT14
+434147086846951424  Feb 13 21:08  @OmicsOmicsBlog   SF: scaling up to individual measurement of 10^4-10^6 cells - lots of tags! Identify and count cell types on mixture #agbt14
+434147192136138753  Feb 13 21:08  @Becky_Kusko      Jianhong Hu: Antibodies for ERBB2/3 is effective in a mouse model #AGBT14
+434147263506812928  Feb 13 21:09  @iontorrent       Fodor: jumping off to massively parallel single cell sequencing. thinks it can extend up to 10^6 cells #AGBT14
+434147554532790272  Feb 13 21:10  @AgilentGenomics  Join Us! 9:30pm – 1:00am #AGBT14 After Party on the Beach | Marriott – Quinn’s on the Beach
+434147639731314688  Feb 13 21:10  @Becky_Kusko      Question to SS from audience: What happens if downstream activators are present? #AGBT14
+434147747449802754  Feb 13 21:11  @morgantaschuk    CIRBP expressed at high level in all blastema cells - not expressed highly in wound epidermis. protects against apoptosis. #AGBT14
+434147752122257408  Feb 13 21:11  @kennamshaw       .@AgilentGenomics the #tweetup is at 9:30 at Korals.  You should sponsor us too.  #AGBT14
+434147819499175937  Feb 13 21:11  @Genohub          Kodira: "Combining Multiplexed Proteins Analysis with NGS for Interrogating Tumor Biology" #AGBT14
+434147851849850882  Feb 13 21:11  @actually_alan    RT @naturemethods: Tweeting or blogging about a presentation at a scientific conference doesn't break journal embargo http://www.nature.com/nmeth/journal/v8/n4/full/nmeth0411-273.html  #AGBT14
+434147873307889664  Feb 13 21:11  @actually_alan    RT @dgmacarthur: SF showing first results from test HiSeq X runs: over a Tb (one deep human genome) from a SINGLE LANE. :-0 #AGBT14
+434148059442733056  Feb 13 21:12  @Becky_Kusko      James Hadfield's pointer saves the day again #AGBT14
+434148071493345280  Feb 13 21:12  @GenCellBio       Gencell's CTO john daly continues to serve Irish whiskey at suite 282 at #AGBT14
+434148112241000448  Feb 13 21:12  @iontorrent       C. Kodira (GE GRC): “Combining multiplexed protein analysis with NGS for Interrogating Tumor Biology” #AGBT14
+434148114820521984  Feb 13 21:12  @iontorrent       Seshagiri: ERBB3 mutations increased in colon cancer result in ligand independent activation requiring ERBB2 - targetable with mAb #AGBT14
+434148179303747584  Feb 13 21:12  @wateresa         RT @Genohub: Kodira: "Combining Multiplexed Proteins Analysis with NGS for Interrogating Tumor Biology" #AGBT14
+434148238204354560  Feb 13 21:13  @topoisomerase    RT @GenCellBio: Gencell's CTO john daly continues to serve Irish whiskey at suite 282 at #AGBT14
+434148331833806848  Feb 13 21:13  @A_Goldman        And the winner for most complicated title and complicated research goes to... #AGBT14 http://t.co/59cm708fJv
+434148362137632768  Feb 13 21:13  @OmicsOmicsBlog   Chinnappa Kodira - my name is insensitive to indel errors; likes homopolymers #agbt14
+434148363093544960  Feb 13 21:13  @hutchins_e       Haas: immune response, macrophage infiltration important for salamander limb regeneration #AGBT14
+434148367044988928  Feb 13 21:13  @kennamshaw       Brendan Keating on HLA imputation and organ transplantation outcomes #AGBT14
+434148518320951296  Feb 13 21:14  @mariak1610       RT @GenCellBio: Gencell's CTO john daly continues to serve Irish whiskey at suite 282 at #AGBT14
+434148556229062656  Feb 13 21:14  @splon            Keating: HLA and transplant. Waiting list continues to grow. Female & male mismatch do worse. #AGBT14
+434148563614846978  Feb 13 21:14  @Becky_Kusko      Brendan Keating: Females have a worse reaction to a gender mismatched organ because of chrY #AGBT14
+434148604178354176  Feb 13 21:14  @morgantaschuk    Anna Kiialainen - Ribosomal profiling for understanding the translational landscape of mTOR signaling in autism #AGBT14
+434148622398423040  Feb 13 21:14  @GenomeNathan     Keating on HLA (& other genes? In transplant response #AGBT14
+434148796810141697  Feb 13 21:15  @kennamshaw       @dgmacarthur hahahahahahahahhahahahahahahahahahahahahaha... all the way to 140 characters.  Not in cancer genomics, baby.  #AGBT14
+434148825142673409  Feb 13 21:15  @JavaJunkie24     RT @OmicsOmicsBlog: Chinnappa Kodira - my name is insensitive to indel errors; likes homopolymers #agbt14
+434148905375105024  Feb 13 21:15  @Genohub          Kodira: MultiOmyx, "It's not a spelling error" #AGBT14
+434148910203166721  Feb 13 21:15  @GenomeNathan     Keating: male transplantees outlive female transplantees [wonder about prior pregnancy history -> immune stress] #agbt14
+434148974283333632  Feb 13 21:15  @isugif           RT @lexnederbragt: Schroth: "BaseSpace: anyone can do bioinformatics now." Even without understanding what they are doing, I guess... #AGBT14
+434148985578995712  Feb 13 21:15  @LAbizar          Brian Haas, Broad Inst., reference transcriptome for Axolotl, 30 GB genome, 71k transcripts, 36k genes, 30k unique proteins. #AGBT14
+434149141640663040  Feb 13 21:16  @morgantaschuk    RiboSeq - isolate the ribosomes, purify and sequence only the fragments. Using induced pluripotent stem cells to form neurons #AGBT14
+434149221105958912  Feb 13 21:16  @OmicsOmicsBlog   CK: today each IHC test requires phone slide; MultiOmics assay can multiplex 60 assays & do DNA copy number #agbt14
+434149233718231040  Feb 13 21:16  @iontorrent       Kodira: “MultiOmyx: it’s not a spelling error” - quantitative analysis of up to 60 proteins on an FFPE slide #AGBT14
+434149235697942529  Feb 13 21:16  @GenomeNathan     Keating: even a key protein that helps new organ work well (e.g. CFTR) may prompt rejection. #AGBT14
+434149525767610368  Feb 13 21:18  @OmicsOmicsBlog   CK: MultiOmyx assay invoices serial probing of slide, with proprietary inactivation of dye between rounds #agbt14
+434149588745072640  Feb 13 21:18  @kennamshaw       BK: reviews the manual work in designing the 71Mb campture they designed to look at candidates for biomarkers of rejection #AGBT14
+434149635763240960  Feb 13 21:18  @morgantaschuk    Protocol: 41 days of differentiation - at the end have neurons with synapses and networks #AGBT14
+434149659368783872  Feb 13 21:18  @kennamshaw       RT @naturemethods: Tweeting or blogging about a presentation at a scientific conference doesn't break journal embargo http://www.nature.com/nmeth/journal/v8/n4/full/nmeth0411-273.html  #AGBT14
+434149734740426752  Feb 13 21:18  @GenomeNathan     Keating: ~71Mb exome, bolstered for graft response-relevant stuff (HLA & more). #agbt14
+434149779313287168  Feb 13 21:19  @OmicsOmicsBlog   CK: use 4 makes to highlight basic cellular architecture& epithelial vs stromal #agbt14
+434150072411226112  Feb 13 21:20  @AgilentGenomics  Agilent #AGBT14 After Party Come for an exciting evening after a day of learning #AGBT14 #genomics
+434150095484108801  Feb 13 21:20  @kennamshaw       BK: showed "genetic distance" score between donor and recipients and how this correlated with time to first rejection; correlation #AGBT14
+434150286689447936  Feb 13 21:21  @splon            Keating looks at genetic distance from donor to recipient. Distance does correlate with organ rejection. #AGBT14
+434150319136997376  Feb 13 21:21  @OmicsOmicsBlog   CK: PNAS pub proof of concept; looked at about 60 snakes in ~700 CRC samples for mTOR/MAPK signaling #agbt14
+434150325885628416  Feb 13 21:21  @iontorrent       Kodira: POC study in PNAS last year - 700 stage I-III colorectal Ca samples & 60 proteins per single tissue section #AGBT14
+434150336727900160  Feb 13 21:21  @morgantaschuk    AK : Bioinformatics tools for mRNA used - fastx, bowtie, tophat, picard, cufflinks, also evaluating new methods #AGBT14
+434150511592235009  Feb 13 21:22  @isugif           RT @lexnederbragt: Catchen: using RAD-seq for population genomics in stickleback #agbt14
+434150560795992065  Feb 13 21:22  @konradjk         @caddymob JJ, are you at #AGBT14?
+434150601497128960  Feb 13 21:22  @actually_alan    Scanning my blots while everyone else is at #AGBT14 but it's alright, I'm learning heaps of cool stuff from twitter FOR FREE!
+434150604546801664  Feb 13 21:22  @OmicsOmicsBlog   RT @kennamshaw: BK: showed "genetic distance" score between donor and recipients and how this correlated with time to first rejection; correlation #AGBT14
+434150650986123264  Feb 13 21:22  @isugif           RT @Genohub: @Catchen: RAD-Seq: 1,057 fish sampled, 26,365 RAD loci gave 110,000 SNPs #AGBT14 @SNPsaurus
+434150764458823680  Feb 13 21:23  @LAbizar          Haas, axolotl blastema 41 Single cell RNA-weak to moderate gene expr correlation. Heterogeneity in top 30 blastema enriched genes. #AGBT14
+434150804598296576  Feb 13 21:23  @genetisaur       BK showed donor recipient pair and find genetic distance correlates w rejection, but relationship looks bimodal. Classify by loci. #AGBT14
+434150844234465281  Feb 13 21:23  @GenomeNathan     Human tissue migration: Keating shows lovely digraph of transplants overlaid on PCs of donor/recipient ancestry. #AGBT14
+434150864308039680  Feb 13 21:23  @isugif           RT @lexnederbragt: Catchen: looking at structural variation signatures in Rad-seq data. Another new plot type: cathedral plots #agbt14
+434150883757391872  Feb 13 21:23  @iontorrent       Keating (U of Penn): Examined if genetic distance increases organ transplant rejection using exome capture with additional content #AGBT14
+434150933313122304  Feb 13 21:23  @OmicsOmicsBlog   CK showing three radically different lung tumor images that conventional grading would call the same #agbt14
+434150937620672512  Feb 13 21:23  @wateresa         RT @iontorrent: Kodira: “MultiOmyx: it’s not a spelling error” - quantitative analysis of up to 60 proteins on an FFPE slide #AGBT14
+434151032940412928  Feb 13 21:24  @konradjk         RT @genetisaur: BK showed donor recipient pair and find genetic distance correlates w rejection, but relationship looks bimodal. Classify by loci. #AGBT14
+434151059393904640  Feb 13 21:24  @konradjk         RT @GenomeNathan: Human tissue migration: Keating shows lovely digraph of transplants overlaid on PCs of donor/recipient ancestry. #AGBT14
+434151083112275968  Feb 13 21:24  @jdmontenegroc    RT @lexnederbragt: Ladner: first strand cDNA directly sequenced on PacBio, works best with targeted primers rather than random #agbt14
+434151480803590146  Feb 13 21:25  @Genohub          Kodira: Don't see a lot of agreement between RNA-Seq and protein measurements, only 1/3 have concordance  #AGBT14
+434151532947185664  Feb 13 21:26  @konradjk         @GenomeNathan, you win for easily one of the most clever things I've heard about a talk #AGBT14
+434151536160038912  Feb 13 21:26  @OmicsOmicsBlog   CK: RNA-Seq on 3 CRC used to identify markets; visualized expression pattern using MultiOmyx; promising for staging #agbt14
+434151546268708865  Feb 13 21:26  @morgantaschuk    AK describing the differences between mRNAseq and RiboSeq... getting lost in the compare/contrast, apologies. #AGBT14
+434151554229481472  Feb 13 21:26  @GenomeNathan     Snp2hla: Extrinsic imputation of HLA. Need big ref panel, even within 1 well studied pop (European). #AGBT14
+434151616967868417  Feb 13 21:26  @iontorrent       Kodira: combining NGS with 12-marker MultiOmyx via RNA-Seq - only 1/3 of markers show concordant expression  #AGBT14
+434151662232813568  Feb 13 21:26  @OmicsOmicsBlog   RT @iontorrent: Kodira: combining NGS with 12-marker MultiOmyx via RNA-Seq - only 1/3 of markers show concordant expression  #AGBT14
+434151896031703040  Feb 13 21:27  @kennamshaw       RT @GenomeNathan: Human tissue migration: Keating shows lovely digraph of transplants overlaid on PCs of donor/recipient ancestry. #AGBT14
+434151908832325632  Feb 13 21:27  @Genohub          Kodira: Suggests using MultiOmyx & NGS for generating biomarker profiles, RNA-Seq to aid in down-selecting  #AGBT14
+434151917674299392  Feb 13 21:27  @morgantaschuk    Link between mTOR and autism - TSC2 associated with small benign tumours, highly correlated with autism. #AGBT14
+434152083798110208  Feb 13 21:28  @mikeconvente     RT @iontorrent: Keating (U of Penn): Examined if genetic distance increases organ transplant rejection using exome capture with additional content #AGBT14
+434152111467954176  Feb 13 21:28  @dgmacarthur      RT @gatk_dev: At #AGBT14, got questions about #GATK 3.0? Talk to @mauricinho  Carneiro at Intel BioTeam Suite Friday PM, details http://www.broadinstitute.org/gatk/blog?id=3783
+434152142061182976  Feb 13 21:28  @kennamshaw       BK announces that Dmitrios Monos at CHOP will be first CLIA lab to do this 50Kb sequencing; CHOP MiSeq protocol.  #AGBT14
+434152192220872705  Feb 13 21:28  @kennamshaw       RT @gatk_dev: At #AGBT14, got questions about #GATK 3.0? Talk to @mauricinho  Carneiro at Intel BioTeam Suite Friday PM, details http://www.broadinstitute.org/gatk/blog?id=3783
+434152286194249728  Feb 13 21:29  @AJHGNews         RT @kennamshaw: BK announces that Dmitrios Monos at CHOP will be first CLIA lab to do this 50Kb sequencing; CHOP MiSeq protocol.  #AGBT14
+434152332591661057  Feb 13 21:29  @morgantaschuk    Edited neuron genome for TCS2 and performed mRNAseq/RiboSeq. Data is brand new so AK can't say anything specific right now. #AGBT14
+434152446588223488  Feb 13 21:29  @Genohub          Kodira (from GE): "Needed to do some sequencing, we bought a seq service provider called Seqwright"  #AGBT14
+434152475638390784  Feb 13 21:29  @morgantaschuk    AK: Ribosome profiling is suitable to investigate plasticity esp in neurons using genome editing. #AGBT14
+434153085234335745  Feb 13 21:32  @LAbizar          Anna Kiialainen, Roche, ribo seq on neuronal dufferentiation #AGBT14
+434153138963353602  Feb 13 21:32  @kennamshaw       end of day... but not end of night.  Off to tweet up #AGBT14
+434153210819792896  Feb 13 21:32  @MichellePinto18  RT @dgmacarthur: Yep. RT @lexnederbragt: Catchen: Asking whether all questions can be answered by just sequencing everything? #agbt14
+434153332295606272  Feb 13 21:33  @iontorrent       Haas: Macrophages seem to reside in amphibian blastema during limb regen as sen with single-cell transcriptome seq #agbt14
+434153339962806273  Feb 13 21:33  @obahcall         Great evening concurrent sessions, food for evening chats. And now TweetUp time! Heading to Korals now... hope to see you there! #AGBT14
+434153495759843328  Feb 13 21:33  @doctorfullerton  RT @iontorrent: Mungall: observed a case of unexpected EBV integration into genome, clue was a fusion transcript in a TCGA stomach cancer dataset #agbt14
+434153885763387392  Feb 13 21:35  @iontorrent       Kiialainen: (Roche) looking at TSC2 mutants (hyperactivation of mTOR kinase) and translational regulation as drug target for autism #agbt14
+434154728440987648  Feb 13 21:38  @gbw42            Tweeting at the tweetup #agbt14
+434155017746907136  Feb 13 21:39  @RyuichiroNakato  RT @erlichya: The state of sequencing #AGBT14 http://www.youtube.com/watch?v=L1uSwy_wF8s (humor, only humor)
+434156737198039040  Feb 13 21:46  @Becky_Kusko      Great talks today! Time to start massively parallel party sampling. #AGBT14
+434157643272159232  Feb 13 21:50  @vigneshnm        RT @illumina: Interest building for @BaseSpace Onsite at the #AGBT14 software demo session http://t.co/qY419gZbwp
+434160389815693313  Feb 13 22:01  @timtriche        RT @kennamshaw: JH: mentions that we have a lot to teach clinicans still... about what the results mean (from me:  and what they don't mean!) #AGBT14
+434160524910030848  Feb 13 22:01  @ckesserwan       RT @splon: Keating looks at genetic distance from donor to recipient. Distance does correlate with organ rejection. #AGBT14
+434161285555818496  Feb 13 22:04  @gbw42            Tweetup moving to pub night party where the drinks are free #AGBT14
+434161969247961088  Feb 13 22:07  @MikeStoneComedy  RT @robincoope: When engineers are confident in a technology, they tend to dwell on the challenges and how they overcame them. Eg: @illumina at #AGBT14
+434162991442186240  Feb 13 22:11  @bkmacy           RT @GenomeNathan: Human tissue migration: Keating shows lovely digraph of transplants overlaid on PCs of donor/recipient ancestry. #AGBT14
+434163966387175424  Feb 13 22:15  @ING_SYS          RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434164178480553984  Feb 13 22:16  @WVCCBirdman      RT @kennamshaw: BK announces that Dmitrios Monos at CHOP will be first CLIA lab to do this 50Kb sequencing; CHOP MiSeq protocol.  #AGBT14
+434165069317160960  Feb 13 22:19  @SeqComplete      buzzz #AGBT14 #agbt2014 #notagbt14 is out! http://paper.li/SeqComplete/1361495830 Stories via @UCScienceCenter
+434165104998092800  Feb 13 22:20  @clesemartin      RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434166415684145152  Feb 13 22:25  @BioInfoBrett     RT @lexnederbragt: Gyllensten: found complete HPV genomes in single #pacbio reads.  allows for finding recombinations between types #AGBT14
+434166598552002560  Feb 13 22:25  @gatk_dev         RT @appistry: We are excited about future updates to the #GATK. Did you attend today’s poster session at #AGBT14? cc: @broadinstitute
+434166665102639104  Feb 13 22:26  @aayushraman      Its @phylogenomics tweets on #PublishPerish14 vs #AGBT14 tweets on my tweet board (in count).. btw jeisen is leading.
+434166913086660610  Feb 13 22:27  @BioInfoBrett     RT @obahcall: Gyllensten: WGS for bacterial infections becoming standard, every patient showing unique sequence #AGBT14
+434167854254927872  Feb 13 22:30  @Invitae          RT @californiana: Bob Ohhami from Stanford University: "5% of total US population has cancer." Yikes! #AGBT14 @Invitae
+434168291603410944  Feb 13 22:32  @MarcellaAtLife   RT @deannachurch: #agbt14 over 250 regions with alternate loci. Winner is KIR locus with 30 alts. #diversity
+434171951586623488  Feb 13 22:47  @gabeinformatics  RT @iontorrent: Moroz: “ncRNAs are keys for neuronal identity” - some of the most abundant transcripts in neurons  #AGBT14
+434171976106516480  Feb 13 22:47  @iamhans          RT @naturemethods: Tweeting or blogging about a presentation at a scientific conference doesn't break journal embargo http://www.nature.com/nmeth/journal/v8/n4/full/nmeth0411-273.html  #AGBT14
+434172184798699520  Feb 13 22:48  @EnzymaticsInc    Living it up at the Enzymatics Pub Night. #wickedpissahpahty #agbt14 http://t.co/1kxlrlZIEW
+434172503179919360  Feb 13 22:49  @Wutbuergerin     RT @naturemethods: Tweeting or blogging about a presentation at a scientific conference doesn't break journal embargo http://www.nature.com/nmeth/journal/v8/n4/full/nmeth0411-273.html  #AGBT14
+434172777810391040  Feb 13 22:50  @bioinformer      RT @iontorrent: Moroz: “ncRNAs are keys for neuronal identity” - some of the most abundant transcripts in neurons  #AGBT14
+434173977536512000  Feb 13 22:55  @bioinformer      RT @Genohub: Gyllensten: Combined effect of viral and bacterial infectious burden is not understood #AGBT14
+434174201633964033  Feb 13 22:56  @bioinformer      RT @OmicsOmicsBlog: Ulf Gyllensten: Feel free to Twitter; I'd be flattered if someone wants to Twitter. #agbt14
+434174361218850816  Feb 13 22:56  @bioinformer      RT @iontorrent: Gilbert: conservationalists need low cost, on-site sample extraction, sequencing, and informatics to study biodiversity #AGBT14
+434175322482020352  Feb 13 23:00  @bioinformer      RT @OmicsOmicsBlog: Chinnappa Kodira - my name is insensitive to indel errors; likes homopolymers #agbt14
+434177092398235648  Feb 13 23:07  @likesky3         RT @dgmacarthur: Sheila Fisher: @broadinstitute is generating 2 Tb of sequence data every day. #AGBT14
+434178025618673664  Feb 13 23:11  @aniket_desh      RT @vvacic: Doron Lipson: gene fusions in 10% of lung cancers tested at Foundation Medicine (e.g. KIF5B-RET, TRIM33-RET), mostly targetable. #AGBT14
+434183259736793088  Feb 13 23:32  @AllSeq           RT @DaleYuzuki: Hadfield: Interesting network plot. Organized around ncRNAs with particular function. "Science is just organized curiosity." #AGBT14
+434192626599067648  Feb 14 00:09  @dnanexus         RT @obigriffith: Great first software demo session. Industry dominated. But cool to see where @dnanexus, @binaTechs, @Omicia, @GenomOncology are at. #AGBT14
+434192792248913920  Feb 14 00:10  @AllSeq           RT @iontorrent: Fodor: jumping off to massively parallel single cell sequencing. thinks it can extend up to 10^6 cells #AGBT14
+434196569152581632  Feb 14 00:25  @evm_evogenetics  RT @lexnederbragt: Ladner: shifting to library-prep free sequencing on the PacBio #agbt14
+434196660080889856  Feb 14 00:25  @jlandolin        @GenomeNathan says:  @PacBio has longer reads than twitter.  #AGBT14 #enzymatics party.
+434199818744119296  Feb 14 00:37  @divacyntst       Game ON! was so much fun. Glad everyone came out for the party #AGBT14 @fluidigm http://t.co/2v7qmF3no0
+434200724054867968  Feb 14 00:41  @neekoh           “@divacyntst: Game ON! was so much fun. Glad everyone came out for the party #AGBT14 @fluidigm http://t.co/rPzCgSwwTa” is that last night?
+434201592212885504  Feb 14 00:45  @iontorrent       Leonid Moroz is at #AGBT14 to talk about his 2-year voyage to collect & preserve DNA for 30k species. Are you going to attend?
+434202307400458240  Feb 14 00:47  @_hemalc          RT @lexnederbragt: Three signatures away from 150 signees! Help make newbler open source: https://docs.google.com/spreadsheet/viewform?usp=drive_web&formkey=dHRvZDFUcldvZXVnWmhvSnlMWDBLQ1E6MA#gid=0 Handing results to Roche in 2.5 hours #agbt14
+434202572245983232  Feb 14 00:48  @jlandolin        RT @OmicsOmicsBlog: JL: @pacbio can be 1 virus=1 read; error rate high, but substitutions rare, especially in circular consensus sequencing #agbt14
+434204409707257856  Feb 14 00:56  @biologypartners  I'm looking for the software (@binatechs @omicia @genomoncology etc) and/or data storage related presentations/slides from #AGBT14. Anybody?
+434206248469155840  Feb 14 01:03  @rasbt            RT @naturemethods: Tweeting or blogging about a presentation at a scientific conference doesn't break journal embargo http://www.nature.com/nmeth/journal/v8/n4/full/nmeth0411-273.html  #AGBT14
+434209151687098368  Feb 14 01:15  @MilesCollier     RT @vbarsan: "sample prep, not sequencing technology, are now the hurdle for developing clinical next-gen sequencing-based tests" - @QuestDX #AGBT14
+434209408957304832  Feb 14 01:16  @MilesCollier     RT @illumina: GS: NextSeq and MiSeq data comparison for counting is remarkably concordant. #AGBT14 See more here in blog post: http://blog.illumina.com/blog/illumina/2014/01/14/the-new-5-tool-player-on-the-illumina-team
+434211107402964992  Feb 14 01:22  @gerlach_d        RT @JokeReumers: Gyllensten: multi resistant bacteria sequenced using PacBio, rapid turnaround time and whole genome assembly in 3 days! #AGBT14
+434213624018509825  Feb 14 01:32  @wcresko          congrats to @jcatchen for giving a great talk at #AGBT14 today. Heard through the twittervine that it went well.
+434213756563095552  Feb 14 01:33  @EnzymaticsInc    Still going strong! #wickedpissahparty #agbt14 http://t.co/Qs3qSsEL64
+434214247833534464  Feb 14 01:35  @artwuster        RT @dgmacarthur: Yep. RT @lexnederbragt: Catchen: Asking whether all questions can be answered by just sequencing everything? #agbt14
+434215349454925824  Feb 14 01:39  @daniel2nico      RT @kennamshaw: SS: comprehensive characterization- exomes, RNAseq, SNP and WGS; focuses on RNAseq fusions #AGBT14
+434215452018212864  Feb 14 01:40  @daniel2nico      RT @notSoJunkDNA: Yeah, one more tool!!! (I know the best one ;-) RT @frapaport: developed tools fo gene fusion detection in RNA-seq #AGBT14
+434220259491332096  Feb 14 01:59  @Mermaidkim       RT @illumina: GS: NextSeq and MiSeq data comparison for counting is remarkably concordant. #AGBT14 See more here in blog post: http://blog.illumina.com/blog/illumina/2014/01/14/the-new-5-tool-player-on-the-illumina-team
+434224822785040384  Feb 14 02:17  @JoyceFaler       RT @lexnederbragt: Moroz: seeing large differences in expression levels beween 'similar' neurons cells. "All neurons are different" #AGBT14
+434231617541111808  Feb 14 02:44  @DocMoschos       RT @iontorrent: Mungall: observed a case of unexpected EBV integration into genome, clue was a fusion transcript in a TCGA stomach cancer dataset #agbt14
+434232712548085760  Feb 14 02:48  @DocMoschos       RT @obahcall: Gyllensten: WGS for bacterial infections becoming standard, every patient showing unique sequence #AGBT14
+434233161388548096  Feb 14 02:50  @ceptional        RT @neilfws: Now following awesome tweets from 3 meetings #agbt14 #lornecancer #publishperish14. Fortunately, not much I need to get done today.
