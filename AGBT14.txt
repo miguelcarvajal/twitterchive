@@ -3174,6 +3174,7 @@
 434512736564027392  Feb 14 21:21  @OmicsOmicsBlog   JN: train machine learning on data sets; 90-98% accuracy #AGBT14
 434512767249567745  Feb 14 21:21  @LabSpaces        RT @lexnederbragt: Appreciated :-) RT @homolog_us: We are preparing a petition to get @lexnederbragt Minion @nanopore access. Any signers? #AGBT14
 434512783149785089  Feb 14 21:21  @actually_alan    Yes dear let's spend time together in the city.  *sits on husband chair* *catches up recent transcriptomics advances #AGBT14 *
+434512810316685313  Feb 14 21:21  @GenCellBio       GenCell is very busy at suite 282 at #AGBT14 http://t.co/bjhGC5AXEf
 434512955552829440  Feb 14 21:22  @DaleYuzuki       Zhu: Higher IRI (intron-retained genes): promiscuous Pol II & H3K36me3 occupancy #AGBT14
 434513092911706112  Feb 14 21:22  @Tierhon          Apropos de Bruijn: http://thegenomefactory.blogspot.sg/2013/08/how-to-pronounce-de-bruijn.html #AGBT14
 434513099677515776  Feb 14 21:22  @froggleston      RT @richardmleggett: Just witnessed a talk on the GENIUS sequencer from Genapsys at #AGBT14. Now I know what it looks like… but not a lot else…
@@ -3268,3 +3269,96 @@
 434596404665671681  Feb 15 02:53  @BekahMcLaughlin  RT @malachigriffith: James Hadfield.  Circulating tumor DNA levels drop more quickly than other biomarkers of treatment response. #AGBT14
 434596551738941440  Feb 15 02:54  @BekahMcLaughlin  RT @kennamshaw: James Hadfield shows that you can use circulating tumor DNA to track drug resistance mutations #AGBT14
 434596583103938561  Feb 15 02:54  @BekahMcLaughlin  RT @vvacic: James Hadfield on circulating tumor DNA sequencing: if you have TP53 muts circulating in your blood, it's probably not a good thing. #AGBT14
+434606318146846720  Feb 15 03:33  @AW_NGS           RT @jlandolin: @assemblathon @TheGeneMyers: ecoli on noncluster. Arabidopsis & human on cluster *WITH* distributed file system!! @PacBio party #AGBT14
+434607365221261312  Feb 15 03:37  @jessstapley      RT @lexnederbragt: So far, this is the only USB stick with long-read sequencing data available at #AGBT14 http://t.co/wYuaZGCTi2
+434612908124028928  Feb 15 03:59  @ElinVidevall     RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434622436840308736  Feb 15 04:37  @jamesemcdonald   RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434630788047732736  Feb 15 05:10  @PharmPhorce      RT @EricTopol: Compact chip sequencing @Genapsys launches at #AGBT14 http://onforb.es/1gI6Yk3 by @matthewherper @Forbes #genomics
+434636222989094912  Feb 15 05:32  @cathcoste        RT @EricTopol: Compact chip sequencing @Genapsys launches at #AGBT14 http://onforb.es/1gI6Yk3 by @matthewherper @Forbes #genomics
+434638557693894656  Feb 15 05:41  @Karina_Banasik   RT @naturemethods: Tweeting or blogging about a presentation at a scientific conference doesn't break journal embargo http://www.nature.com/nmeth/journal/v8/n4/full/nmeth0411-273.html  #AGBT14
+434641833063636992  Feb 15 05:54  @aadhyadi         RT @aaronquinlan: The speedseq pipeline and samblaster tool that @ryanlayer presented can be found on GitHub. #agbt14 https://github.com/cc2qe/speedseq
+434642039658262528  Feb 15 05:55  @cathcoste        RT @westr: RT @kennamshaw: ML- he also describes work done a little more recently in Nature http://www.ncbi.nlm.nih.gov/pubmed/24390350 #AGBT14 #pm101
+434642150874431488  Feb 15 05:55  @cathcoste        RT @westr: RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys #pm101
+434642624637829120  Feb 15 05:57  @cathcoste        RT @PatrikD: Disappointing - still needs Illumina for de novo assembly? RT @lexnederbragt Oxford Nanopore #AGBT14 talk; real data! http://flxlexblog.wordpress.com/2014/02/14/the-one-and-only-oxford-nanopore-talk-at-agbt-2014-with-real-data
+434642685174247424  Feb 15 05:57  @cathcoste        RT @Erika_Check: "kind of a cute device,"but not just a pretty face: @nanopore MinION data unveiled at #AGBT14 http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724
+434642790371586048  Feb 15 05:58  @cathcoste        RT @OmicsOmicsBlog: Genapsys offering early access program http://genapsys.com/genius-club/ #agbt14
+434642845929336832  Feb 15 05:58  @cathcoste        RT @PacBio: Visit Suite 189 tonight to get one! MT@lexnederbragt: So far this is the only USB with long-read seq data at #AGBT14 http://t.co/p7O1pfEww1
+434642891001311232  Feb 15 05:58  @cathcoste        RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434642998862049280  Feb 15 05:59  @cathcoste        RT @lexnederbragt: New blog post: The one and only Oxford Nanopore talk at AGBT 2014 – with real data http://flxlexblog.wordpress.com/2014/02/14/the-one-and-only-oxford-nanopore-talk-at-agbt-2014-with-real-data/ #nanopore #agbt14
+434643030382223360  Feb 15 05:59  @cathcoste        RT @nextgenseek: Oxford @nanopore Data and MinION: Valentines Day’s Gift to Genome Enthusiasts http://nextgenseek.com/2014/02/oxford-nanopore-data-and-minion-valentines-days-gift-to-genome-enthusiasts/ #AGBT14
+434643236632948736  Feb 15 05:59  @cathcoste        RT @lexnederbragt: So far, this is the only USB stick with long-read sequencing data available at #AGBT14 http://t.co/wYuaZGCTi2
+434643490979344384  Feb 15 06:00  @firegenome       Also, very much wishing I was at #AGBT14. Sounds very exciting - will stay glued to Twitter following updates.
+434644087183261696  Feb 15 06:03  @aadhyadi         RT @obahcall: Layer et al. using LUMPY, a probabilistic framework for structural variant discovery  #arxiv http://bit.ly/1fnxtZL  #AGBT14
+434645002720120832  Feb 15 06:06  @cathcoste        RT @CRIgenomics: @nanopore MinIon Access Program emails are starting to come out, anyone at #agbt14 got theirs yet?
+434646195152388096  Feb 15 06:11  @cathcoste        RT @firegenome: Also, very much wishing I was at #AGBT14. Sounds very exciting - will stay glued to Twitter following updates.
+434646259920797696  Feb 15 06:11  @aadhyadi         RT @KMeltzSteinberg: RL: one single machine, open source software, clinical grade SNV + SV calling and interpretation with GEMINI in <24 hours #AGBT14
+434646402720100352  Feb 15 06:12  @cathcoste        RT @PacBio: JM: SMRT sequencing, followed by HGAP/polishing, produces highly accurate genome sequences, incl complement of plasmid sequences #AGBT14
+434646540398108672  Feb 15 06:13  @mhgoldman        RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434646551391375360  Feb 15 06:13  @cathcoste        RT @lexnederbragt: Chin: diploid assembly difficult because hard to distinguish homologous regions from repeats #AGBT14
+434646561499664384  Feb 15 06:13  @markmccarthyoxf  Sorry to be missing #AGBT14 but compensation in the form of a weeks powder in the Canadian Rockies. Precipitation welcome - for a change.
+434646635000659968  Feb 15 06:13  @cathcoste        RT @MeekIsaac: McGrath talking about RNA reads on PacBio #agbt14
+434646687551094785  Feb 15 06:13  @cathcoste        RT @kennamshaw: Sean McGrath: Pac Bio Long read RNA-Seq for gene isoform identification and de novo gene prediction from Wash U #AGBT14
+434646705670483968  Feb 15 06:13  @cathcoste        RT @obahcall: JM: demonstrated highly accurate, timely genome seq including plasmids on @PacBio #AGBT14
+434646763514122240  Feb 15 06:13  @cathcoste        RT @PacBio: JM: Applied PacBio seq to 10 outbreak-related isolates: finished genomes & closed plasmids >99.999% accurate, >20 different plasmids #AGBT14
+434646921509355520  Feb 15 06:14  @cathcoste        RT @premal2000: No thumb drive? “@westr: RT @matthewherper: Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 #pm101”
+434646977071292416  Feb 15 06:14  @cathcoste        RT @moorejh: MT @kennamshaw Broad got lots of new X machines from Illumina-why push for a million genomes #agbt14 not clear to me tail matters clinically
+434647074177843200  Feb 15 06:15  @cathcoste        RT @DaleYuzuki: Zhu: Q: Unique to T-cell activation? A: Proteasome controls cell-cycle; macrophage and other cells but intron ret. different #AGBT14
+434647126120103936  Feb 15 06:15  @cathcoste        RT @westr: RT @kennamshaw: ML: http://Tumorportal.org is now available; can review your favorite gene; and each plot for a gene. #AGBT14 #pm101
+434647178607603712  Feb 15 06:15  @cathcoste        RT @DaleYuzuki: Zhu: Concl: Intron retention coupled w/ RNA degradation may serve as a global mechanism to regulate gene expression #AGBT14
+434648851015008256  Feb 15 06:22  @cathcoste        RT @DaleYuzuki: Zhu: Intronic reads reduce upon activation; from 13.8% to 6.9%. But made more complex by alternative splicing events. #AGBT14
+434648893444612096  Feb 15 06:22  @cathcoste        RT @DaleYuzuki: Zhu: Using 100 ChIP-Seq datasets: looking at strand-spec RNA-Seq, looking at >100M reads; resting T-cell have high intronic reads #AGBT14
+434648948981379072  Feb 15 06:22  @cathcoste        RT @DaleYuzuki: Zhu: Reviewing histone marks for active and repressed genes; H2a.Z, etc. Correlate to gene expression changes. #AGBT14
+434649103268855808  Feb 15 06:23  @cathcoste        RT @will_fitzhugh: Lawrence: downsampling analysis shows that there are lots more cancer genes to find in most tumor types, need more samples #AGBT14
+434649163868168193  Feb 15 06:23  @cathcoste        RT @jcatchen: Lawrence: have we found all the cancer genes? for most tumor types, no. for some tumors the rate we are finding them is slowing down #AGBT14
+434649442629992448  Feb 15 06:24  @cathcoste        RT @kennamshaw: ML: http://Tumorportal.org is now available with all plots; can review your favorite gene; and each plot for a gene. #AGBT14
+434649651179171840  Feb 15 06:25  @cathcoste        RT @DaleYuzuki: Hall: First proof that mature post-mitotic neurons can be reprogrammed and cloned. "It took her 40y to do this" #AGBT14
+434649751829880832  Feb 15 06:25  @cathcoste        RT @DaleYuzuki: Hall: 110 single neuronal genomes: all CNVs found in single neurons no 'hotspots'. Developed later in development. Most zero, 1 CNV #AGBT14
+434649842703695872  Feb 15 06:26  @cathcoste        RT @kennamshaw: ML: reviews more about intricacy of calling mutations; each gene has own background mutation rate #AGBT14
+434649931761324032  Feb 15 06:26  @cathcoste        RT @will_fitzhugh: Michael Lawrence from the Broad Institute on finding patterns of mutation in cancer, focusing on SNPs and small indels #AGBT14
+434650067405119488  Feb 15 06:27  @cathcoste        RT @frapaport: Mike Lawrence from broad is talking about patterns of mutations among cancers #AGBT14
+434650103828447233  Feb 15 06:27  @cathcoste        RT @wateresa: Mike Lawrence from @broadinstitute on using paired T/N samples to examine patterns of somatic mutations across cancer #AGBT14
+434650234162270208  Feb 15 06:27  @concaff          RT @wateresa: Mike Lawrence from @broadinstitute on using paired T/N samples to examine patterns of somatic mutations across cancer #AGBT14
+434650446142394369  Feb 15 06:28  @clopezcorrea     RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434650558553927680  Feb 15 06:29  @cathcoste        RT @obahcall: Mike Lawrence (Broad) on global patterns mutation characterized by looking across cancer types, use MutSig distinguish pass/driver #AGBT14
+434650925853323265  Feb 15 06:30  @concaff          RT @kennamshaw: ML: http://Tumorportal.org is now available with all plots; can review your favorite gene; and each plot for a gene. #AGBT14
+434652830935175168  Feb 15 06:38  @josarc           RT @EricTopol: Compact chip sequencing @Genapsys launches at #AGBT14 http://onforb.es/1gI6Yk3 by @matthewherper @Forbes #genomics
+434653455639384064  Feb 15 06:40  @clopezcorrea     RT @neilhall_uk: news from #AGBT14 apparently ion torrent marketing people think we are 5yrs old. http://t.co/Eo0IiJtYMc
+434656418336350208  Feb 15 06:52  @DrSimon_Goodman  RT @Erika_Check: "kind of a cute device,"but not just a pretty face: @nanopore MinION data unveiled at #AGBT14 http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724
+434656576650371072  Feb 15 06:52  @bioinformer      RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434656730480648192  Feb 15 06:53  @tang_ls          RT @westr: RT @kennamshaw: ML: http://Tumorportal.org is now available; can review your favorite gene; and each plot for a gene. #AGBT14 #pm101
+434658794724139008  Feb 15 07:01  @gtyrelle         RT @neilhall_uk: news from #AGBT14 apparently ion torrent marketing people think we are 5yrs old. http://t.co/Eo0IiJtYMc
+434662131368472576  Feb 15 07:15  @BIOSCI_ERD       RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434664733770547200  Feb 15 07:25  @ArsenaultBenoit  RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434667243461693440  Feb 15 07:35  @daviddelorenzo   RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434667806194683904  Feb 15 07:37  @daviddelorenzo   RT @obahcall: ML: Power depends on sample size & level background mutation freq; calculate your study’s power at  http://bit.ly/Mlb9sA #AGBT14
+434668541413842944  Feb 15 07:40  @NEBiolabs        Challenged by ChIP-Seq? We have some new solutions! Join us at 8am today for a breakfast discussion at #AGBT14 in Lanai Suite 185
+434668911540580353  Feb 15 07:41  @daviddelorenzo   RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434670801762402304  Feb 15 07:49  @QxNews           RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434671490391625728  Feb 15 07:52  @EricvdHelm       RT @erlichya: #AGBT14 @nanopore output: 512pores x 6hours x 25bp/s = 276Mb @nanopore seq. cost: $1000 / 276Mb = 3.6$ per Mb. Not so far away from PacBio
+434671981016133632  Feb 15 07:54  @monchorestrepo   RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434672753958875136  Feb 15 07:57  @NGSperspectives  Survey: Data complexity is the biggest hurdle of NGS meeting regulatory requirements for clinical use: http://ngsperspectives.com/results-survey-future-next-generation-sequencing/3/#toc21 #AGBT14
+434673779890212864  Feb 15 08:01  @CESGEN           RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434673820830793729  Feb 15 08:01  @CESGEN           RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434674240173133825  Feb 15 08:03  @DaleYuzuki       Thanks to @CRIgenomics James generously gave me these QuantStudio 3D digital PCR links he made. http://ow.ly/i/4BNSL #AGBT14
+434674344145739776  Feb 15 08:03  @matthewherper    RT @EricTopol: Compact chip sequencing @Genapsys launches at #AGBT14 http://onforb.es/1gI6Yk3 by @matthewherper @Forbes #genomics
+434674516531630080  Feb 15 08:04  @OmicsOmicsBlog   @Forbes @matthewherper quote of @EricTopol  suggested long @Genapsys reads, but how long?  Graph that ??? had this up too briefly #agbt14
+434674897785462784  Feb 15 08:05  @lezf47           RT @DaleYuzuki: Interesting technology at #AGBT14 was Gen Cell Biosystem's CLiC HTP NGS library system. http://ow.ly/i/4BEgI Lanai #283 Droplet in oil^2
+434675541631709184  Feb 15 08:08  @hubbard_dr16     RT @EricTopol: Compact chip sequencing @Genapsys launches at #AGBT14 http://onforb.es/1gI6Yk3 by @matthewherper @Forbes #genomics
+434676134341795840  Feb 15 08:10  @drbachinsky      RT @DaleYuzuki: Zhu: Concl: Intron retention coupled w/ RNA degradation may serve as a global mechanism to regulate gene expression #AGBT14
+434676271503929344  Feb 15 08:11  @drbachinsky      RT @DaleYuzuki: RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434677882749595648  Feb 15 08:17  @DukeSequencing   RT @OmicsOmicsBlog: Moleculo clearly rebranded as TruSeq Synthetic Long Read - coming soon @illumina #agbt14
+434678254172397570  Feb 15 08:19  @abremges         RT @aaronquinlan: The speedseq pipeline and samblaster tool that @ryanlayer presented can be found on GitHub. #agbt14 https://github.com/cc2qe/speedseq
+434678420254261248  Feb 15 08:19  @dr_m07           RT @morgantaschuk: Broad recommends star for RNAseq aligner; says bwa mem also performs well. #AGBT14
+434678759812513792  Feb 15 08:21  @DukeSequencing   RT @EricTopol: Compact chip sequencing @Genapsys launches at #AGBT14 http://onforb.es/1gI6Yk3 by @matthewherper @Forbes #genomics
+434678968122634240  Feb 15 08:21  @rahman_nazneen   RT @leilaluheshi: Wish I was at Joe DeRisi's #AGBT14 talk. Clin. metagenomics considered as part of @PHGFoundation ID genomics project http://www.phgfoundation.org/pages/infectious_disease_genomics.htm
+434679572152320000  Feb 15 08:24  @Cute_Scientist   "Tweet me" I like getting short bits of info about talks from #pagxxii or #AGBT14 http://www.nature.com/nmeth/journal/v8/n4/full/nmeth0411-273.html
+434679891821621248  Feb 15 08:25  @snboylephd       RT @EricTopol: Compact chip sequencing @Genapsys launches at #AGBT14 http://onforb.es/1gI6Yk3 by @matthewherper @Forbes #genomics
+434680555443998720  Feb 15 08:28  @NGSperspectives  Video interview with Joe Bailey from Intel: Why is Intel at #AGBT14 ? http://ngsperspectives.com/intel-agbt/
+434681280547270656  Feb 15 08:31  @GholsonLyon      RT @lexnederbragt: New blog post: The one and only Oxford Nanopore talk at AGBT 2014 – with real data http://flxlexblog.wordpress.com/2014/02/14/the-one-and-only-oxford-nanopore-talk-at-agbt-2014-with-real-data/ #nanopore #agbt14
+434681290965921792  Feb 15 08:31  @ClinGenSequencr  RT @LabSpaces: @Erika_Check Except there's 0 evidence the "cute device" is actually functional. Jaffe only got data, he didn't generate it himself. #AGBT14
+434681328639172608  Feb 15 08:31  @GholsonLyon      RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434681753853501441  Feb 15 08:33  @bffo             From Nat. Methods | "Tweet me” about +ve trends 2ward tweeting at conferences, very good  #AGBT14 http://www.nature.com/nmeth/journal/v8/n4/full/nmeth0411-273.html via @Cute_Scientist
+434683609526845440  Feb 15 08:40  @fluidigm         Still spaces available for @Fluidigm live cell bar at #AGBT14. http://t.co/ZZjL0kKles Sign up to try the C1 system. http://bit.ly/1g5FtT0
+434684654357315585  Feb 15 08:44  @BertGold4        RT @DaleYuzuki: RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434685482686238720  Feb 15 08:47  @jen_omics        RT @Erika_Check: "kind of a cute device,"but not just a pretty face: @nanopore MinION data unveiled at #AGBT14 http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724
+434687190639988737  Feb 15 08:54  @ramonbcg         RT @EricTopol: Compact chip sequencing @Genapsys launches at #AGBT14 http://onforb.es/1gI6Yk3 by @matthewherper @Forbes #genomics
