@@ -2697,3 +2697,403 @@
 434416645189435393  Feb 14 14:59  @kennamshaw       JK asked about how we do expression analysis now that can detect isoforms; 30-60K reads per FC so this might require hybrid approach #agbt14
 434416646640640000  Feb 14 14:59  @jlandolin        “@infoecho: More than half of the 20 HMP mock community samples are full resolved. #AGBT14”@pacbio #metagenome
 434416666253213696  Feb 14 14:59  @AustinKarson1    RT @infoecho: PacBio Iso-seq protocol is available on the web site #AGBT14 some background slides about a public available dataset https://s3.amazonaws.com/files.pacb.com/pdf/Iso-Seq+Bioinformatics+Analysis+of+the+Human+MCF-7+Transcriptome.pdf
+434490197221572608  Feb 14 19:51  @kennamshaw       Hesaam Esfandyarpour from Genapsys:GENIUS platform, a NGS platform that exceeds quality and cost goals for universal deployment... #AGBT14
+434490251156156416  Feb 14 19:52  @frapaport        Hesaam Esfandyarpour from Genapsys about “The GENIUS™ Platform” #AGBT14
+434490258676514816  Feb 14 19:52  @OmicsOmicsBlog   Hesaam Esfandyarpour on Genapsys platform #agbt14
+434490346182283264  Feb 14 19:52  @DaleYuzuki       Up next: Jim Mullikin (NIH): Sequence analysis of plasmid diversity amongst hospital-assoc'd carbapenem-resistant Enterobactericeae #AGBT14
+434490421449064448  Feb 14 19:52  @kennamshaw       @gbw42 @obahcall But no plugs.  What would people do without me tweeting? I couldn't do that to the people, Graham...all 2 of them. #AGBT14
+434490489195089920  Feb 14 19:52  @GenomeNathan     How silent stutters may silence genes. @erlichya: long STR hinders splice->skips exon->shifts frame->yields nonsense->prompts decay? #agbt14
+434490500830490624  Feb 14 19:53  @DaleYuzuki       Mullikin: With Julie Segre, working on determining an outbreak in the NIH Clinical Center #AGBT14
+434490511273914368  Feb 14 19:53  @lexnederbragt    Erik Garrison (taking over for scheduled speaker) on variant detection using a graph of genomic variation #AGBT14
+434490524897382400  Feb 14 19:53  @KMeltzSteinberg  Erik Garrison pinch hitting for Sven Bilke who was snowed in #AGBT14
+434490571257020416  Feb 14 19:53  @OmicsOmicsBlog   Chain for the rock community talk  #agbt14 http://www.ncbi.nlm.nih.gov/m/pubmed/23949662/?i=4&from=fennoscandian
+434490704942080001  Feb 14 19:53  @kennamshaw       HE: how many have sequenced genome in audience: just a handful; but everyone has a laptop. Genapsys: digitizing the world. #AGBT14
+434490708100382720  Feb 14 19:53  @DaleYuzuki       Mullikin: 2M affected/y in US, 99K deaths/y, at a cost of $30B: all health-care assoc'd infections #AGBT14
+434490743785525251  Feb 14 19:54  @obahcall         Jim Mullikin on sequencing hospital-associated Carbapenem resistant Enterobactericeae #AGBT14
+434490758683701248  Feb 14 19:54  @PacBio           JM: Healthcare-assoc bacterial infections: 1/20 hospital admissions, 2M people affected, ~100K deaths annually, $30B economic toll #AGBT14
+434490786957111296  Feb 14 19:54  @Genohub          Esfandyarpour:  "How many people have had their genomes sequenced?~10 people in audience raise their hands....of course its #AGBT14
+434490835028439040  Feb 14 19:54  @OmicsOmicsBlog   HE: asks how many in room have sequenced their genome. Surprisingly few hands raised, given conference #agbt14
+434490856981020672  Feb 14 19:54  @lexnederbragt    Garrison: current variant calling does not incorporate prior information of variants during alignment  #AGBT14
+434490977156603904  Feb 14 19:54  @DaleYuzuki       Mullikin: 2011 outbreak: K. pneumoniae, carbapenem-res. 18 indiv's colonized, 6 deaths, 5 deaths add'l from underlying disease #AGBT14
+434491097331822592  Feb 14 19:55  @obahcall         Mullikin: 2011 outbreak at NIH of carbapenem-resistant Klebsiella pneumonia #AGBT14
+434491134271062017  Feb 14 19:55  @NGSperspectives  Hesaam, GenapSys, using the personal computer as an example of technology developed by few used by many to revolutionize the world. #AGBT14
+434491173923987456  Feb 14 19:55  @PacBio           RT @DaleYuzuki: Mullikin: 2011 outbreak: K. pneumoniae, carbapenem-res. 18 indiv's colonized, 6 deaths, 5 deaths add'l from underlying disease #AGBT14
+434491251321499648  Feb 14 19:56  @OmicsOmicsBlog   HE: worked on pyrosequencing, wondered why use complex coupled faction rather than measuring direct products #agbt14
+434491257621344256  Feb 14 19:56  @obahcall         Mullikin: 18 patients colonized, 6 died attributed to KPC infection; 5 from underlying disease #AGBT14
+434491277082517505  Feb 14 19:56  @lexnederbragt    Garrison: Most variants now known in the human genome (really?). Proposes to use them in the analysis #AGBT14
+434491297349394432  Feb 14 19:56  @infoecho         Garrison: Genome as graphs, building the variant graph #AGBT14
+434491336755249153  Feb 14 19:56  @DaleYuzuki       Mullikin: K. pneumoniae - normal gut, skin flora; 1/7 bloodstream ICU infections. Carbapenum = last line of defense. 1985 approved #AGBT14
+434491398117945344  Feb 14 19:56  @Erika_Check      Mullikan talking about this outbreak of drug-resistant Klebsiella pneumoniae http://stm.sciencemag.org/content/4/148/148ra116.abstract #AGBT14
+434491442518429697  Feb 14 19:56  @lexnederbragt    Garrison: Genomes as (variant) graphs, locally aligning reads against the graph #AGBT14
+434491451833999360  Feb 14 19:56  @infoecho         Garrison, developing a method to do local alignment against the graph #AGBT14
+434491458301620226  Feb 14 19:56  @Genohub          Esfandyarpour: "Understand the problems....cost, cost, cost, ease of use" #AGBT14
+434491482331160577  Feb 14 19:56  @kennamshaw       HE: giving background starting from pyrosequencing; wanted to get to the direct products (e.g. pH changes) of the reaction; #AGBT14
+434491496885420032  Feb 14 19:56  @OmicsOmicsBlog   HE: main issues for sequencing are cost, cost, cost, ease of use #agbt14
+434491523787685888  Feb 14 19:57  @PacBio           RT @Erika_Check: Mullikan talking about this outbreak of drug-resistant Klebsiella pneumoniae http://stm.sciencemag.org/content/4/148/148ra116.abstract #AGBT14
+434491550186618880  Feb 14 19:57  @gbw42            HE, dude, you don't have to sell us on tiny sequencers. It's AGBT, man, start showing me the data! #AGBT14
+434491616934789120  Feb 14 19:57  @kennamshaw       HE: now focused on cost, ease of use and quality that is keeping sequencing from becoming as widely available as laptops #AGBT14
+434491648589172736  Feb 14 19:57  @kennamshaw       RT @gbw42: HE, dude, you don't have to sell us on tiny sequencers. It's AGBT, man, start showing me the data! #AGBT14
+434491701848473601  Feb 14 19:57  @illumina         JM: reconstructing transmission of KPC based on transmission data; augment with sequencing data #AGBT14
+434491704654049280  Feb 14 19:57  @NatureNews       RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434491737399390208  Feb 14 19:57  @illumina         RT @Erika_Check: Mullikan talking about this outbreak of drug-resistant Klebsiella pneumoniae http://stm.sciencemag.org/content/4/148/148ra116.abstract #AGBT14
+434491777048137728  Feb 14 19:58  @OmicsOmicsBlog   HE: quality important too; #agbt14
+434491834643927040  Feb 14 19:58  @infoecho         Garrison mentioned Christopher Lee Partial Order Alignment paper #AGBT14
+434491846036029440  Feb 14 19:58  @NGSperspectives  Hesaam is taking the long way round, talking about the history of sequencing... he only has 20mins, right? #AGBT14
+434491872510488576  Feb 14 19:58  @kc31958          RT @gbw42: HE, dude, you don't have to sell us on tiny sequencers. It's AGBT, man, start showing me the data! #AGBT14
+434491911370326016  Feb 14 19:58  @Genohub          Esfandyarpour: Genapsys: clonal amplification & electronic sequencing as opposed to single molecule & electronic #AGBT14
+434491918592925696  Feb 14 19:58  @will_fitzhugh    Hesaam Esfandyarpour from Genapsys, apparently on a sequencer using electronic detection and clonal amplification #AGBT14
+434491927128723456  Feb 14 19:58  @AllSeq           RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434491993545535488  Feb 14 19:58  @OmicsOmicsBlog   HE: Genapsys clonal, electronic platform, get Venus of amplification #agbt14
+434492024231059456  Feb 14 19:59  @iontorrent       Mullikin (NHGRI): NGS can assist epidemiological data to reconstruct bacterial transmission in hospital setting #AGBT14
+434492071484076032  Feb 14 19:59  @Becky_Kusko      HE: just pulled a sequencer out of his lunch box! #AGBT14
+434492096150392832  Feb 14 19:59  @Genohub          Esfandyarpour:  Whips out sequencer, "fits in your lunch box" #AGBT14
+434492110180343808  Feb 14 19:59  @_delusionalism   RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434492122319036416  Feb 14 19:59  @kennamshaw       .@gbw42  you have to take a picture... audience can't see! #AGBT14
+434492177092050944  Feb 14 19:59  @PacBio           JM: Applied OpGen, 454 & MiSeq but no closed genomes. de novo assembly of plasmids from draft genomes is difficult #AGBT14
+434492190455107584  Feb 14 19:59  @GenomeNathan     @erlichya reports that tandem repeats' effects on expression replicate across pop's (noisily) and by homoplasy (when alleles recur). #agbt14
+434492243467337728  Feb 14 19:59  @OmicsOmicsBlog   HE: holds lunchbox-sized sequencer with one hand. Simple cartridge pops in. #agbt14
+434492254556651521  Feb 14 20:00  @lexnederbragt    Garrison: Graph bases alignment with 'glia': BAM + VCF known variant in glia, new BAM, freebayes, final VCF  #agbt14
+434492260218978304  Feb 14 20:00  @Genohub          Esfandyarpour: Loads sample cartridge on stage, "that's all you need" #AGBT14
+434492277571190784  Feb 14 20:00  @morgantaschuk    Unfortunately can't really hear Eric Garrison... he's not using the mic. #AGBT14
+434492288660930560  Feb 14 20:00  @DaleYuzuki       Mullikin: KPC (resistant form), problem was with resistance-carrying plasmids De novo assy from 454 #AGBT14
+434492294750695424  Feb 14 20:00  @infoecho         Garrison: "glia" a graph-realigner #AGBT14
+434492312111292416  Feb 14 20:00  @AJHGNews         RT @Erika_Check: "kind of a cute device,"but not just a pretty face: @nanopore MinION data unveiled at #AGBT14 http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724
+434492315064102912  Feb 14 20:00  @illumina         JM: Sequencing resolve transmiss directionality- continued surveillance, next looking for horiz gene transfer of CBM resist plasmid #AGBT14
+434492332285915136  Feb 14 20:00  @mcaccamo         RT @lexnederbragt: Garrison: Genomes as (variant) graphs, locally aligning reads against the graph #AGBT14
+434492349985865728  Feb 14 20:00  @kennamshaw       HE: shows small "lunch box" but half audience can't see so I'm going to google http://genapsys.com/wp-content/uploads/131113-GenapSys-Series-B-Press-Release_vF.pdf #AGBT14
+434492355954356224  Feb 14 20:00  @AllSeq           RT @Becky_Kusko: HE: just pulled a sequencer out of his lunch box! #AGBT14
+434492371284140032  Feb 14 20:00  @will_fitzhugh    Esfandyarpour picks up a GENIUS sequencer, about the size of a lunchbox, and cartridge-based #AGBT14
+434492400183279616  Feb 14 20:00  @natelea2001      RT @iontorrent: Mullikin (NHGRI): NGS can assist epidemiological data to reconstruct bacterial transmission in hospital setting #AGBT14
+434492432047435776  Feb 14 20:00  @NGSperspectives  Heesaam shows lunchbox sized sequencer. He didn't get the MinION memo? #AGBT14 http://t.co/y0nQm4OPzl
+434492449810284544  Feb 14 20:00  @OmicsOmicsBlog   HE: makes comparison to telegraph vs telephone; need to eliminate need for specialized training #agbt14
+434492476544798720  Feb 14 20:00  @AJHGNews         RT @GenomeNathan: @erlichya reports that tandem repeats' effects on expression replicate across pop's (noisily) and by homoplasy (when alleles recur). #agbt14
+434492493359362048  Feb 14 20:00  @Genohub          Esfandyarpour: Genapsys: "sequencer with the footprint of an ipad" #AGBT14
+434492509549776897  Feb 14 20:01  @kennamshaw       HE: Sequencer with footprint of iPad. #AGBT14
+434492539123806208  Feb 14 20:01  @kennamshaw       RT @NGSperspectives: Heesaam shows lunchbox sized sequencer. He didn't get the MinION memo? #AGBT14 http://t.co/y0nQm4OPzl
+434492560804151296  Feb 14 20:01  @OmicsOmicsBlog   HE: sequencer with footprint of an iPad #agbt14
+434492605360267264  Feb 14 20:01  @GenomeNathan     RT @illumina: @erlichya  genome wide survey of STRs in humans: find functional enrichment, curiously high in introns #AGBT14
+434492629003149312  Feb 14 20:01  @californiana     Hesaam Esfandyarpour of @GenapSys - "A sequencer with the footprint of an iPad" that is easy to use #AGBT14
+434492665783410689  Feb 14 20:01  @natelea2001      RT @iontorrent: #AGBT14 Join us tonight for a party at the Ion Lounge!  Get your ticket from a Life Tech rep at the Ion Torrent Variant Detection Showcase
+434492692823687168  Feb 14 20:01  @Genohub          Esfandyarpour: Show me the data #AGBT14
+434492711207731200  Feb 14 20:01  @natelea2001      RT @iontorrent: Are you a Variant Detective? Check your #AGBT14 guide for today's 'Daily Challenge'! Complete it and submit it in the Caxambas room
+434492732107943937  Feb 14 20:01  @kennamshaw       HE: Show. Me. The. Data. #AGBT14
+434492779923013632  Feb 14 20:02  @OmicsOmicsBlog   HE: video of him loading machine. #agbt14
+434492856796192768  Feb 14 20:02  @PacBio           JM: Applied PacBio seq to 10 outbreak-related isolates: finished genomes & closed plasmids >99.999% accurate, >20 different plasmids #AGBT14
+434492868799918080  Feb 14 20:02  @Genohub          Esfandyarpour: Throughput 1Gb, 20 Gb, 100 Gb #AGBT14
+434492882016538624  Feb 14 20:02  @Becky_Kusko      HE's lunchbox and sequencer #AGBT14 http://t.co/1DjlsrWSXi
+434492905747529728  Feb 14 20:02  @will_fitzhugh    Esfandyarpour: three chips - 1Gb/$300, 20Gb/$10, 100Gb/$1 #AGBT14
+434492907870228480  Feb 14 20:02  @DaleYuzuki       Mullikin: PacBio seq; delivered 4 indiv plasmids; 10 isolate with OpGen maps, 454 and MiSeq for QC, all 10 genomes, SND or DID #AGBT14
+434492922172411904  Feb 14 20:02  @MeekIsaac        Genapsys - ion meets Illumina? #agbt14
+434492936231743488  Feb 14 20:02  @lexnederbragt    Garrison: besides SNPs and indels, can also deal with structural variations #AGBT14
+434492942775238657  Feb 14 20:02  @KMeltzSteinberg  EG: glia + freebayes can re-genotype an AluY insertion  #AGBT14
+434492947531182080  Feb 14 20:02  @RIZA0312         RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434492985934610432  Feb 14 20:02  @will_fitzhugh    RT @kennamshaw: HE: Show. Me. The. Data. #AGBT14
+434492996789493760  Feb 14 20:02  @frapaport        the speaker is presenting a sequencr that’s supposed to be dirt-cheap and roughly the size of a shoebox #AGBT14
+434493021208727552  Feb 14 20:03  @AllSeq           RT @californiana: Hesaam Esfandyarpour of @GenapSys - "A sequencer with the footprint of an iPad" that is easy to use #AGBT14
+434493034374656000  Feb 14 20:03  @DaleYuzuki       Mullikin: SND = single nucl difference, DID = deletion insertion differences; very high accuracy #AGBT14
+434493104516005888  Feb 14 20:03  @NGSperspectives  Hesaam shows roadmap graph with chips' output/price #AGBT14 http://t.co/T56PzOmSkx
+434493174086905856  Feb 14 20:03  @frapaport        of course right now, it’s just a nice piece of plastic until someone supposedly finances it #AGBT14
+434493176347656192  Feb 14 20:03  @kc31958          Yeah! MT @kennamshaw: HE: Show. Me. The. Data. #AGBT14
+434493209079996416  Feb 14 20:03  @DaleYuzuki       Mullikin: Looking now for horizontal gene transfer, and tracing it how it traveled in the hosp environment. #AGBT14
+434493213337214976  Feb 14 20:03  @kennamshaw       @MeekIsaac that's quite a leap without a shread of data.... yet.  #AGBT14
+434493238884720640  Feb 14 20:03  @OmicsOmicsBlog   HE: 3 versions of chip,  different throughout, $1 to $300 (1 Gb) [lost other figures] #agbt14
+434493393150803969  Feb 14 20:04  @lexnederbragt    Garrison: glia reduces reference bias #AGBT14
+434493457671782400  Feb 14 20:04  @SCSanderson      RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434493473946091521  Feb 14 20:04  @OmicsOmicsBlog   HE: read length limited by SNR and dephasing; hi SNR gives dephasing tolerance #agbt14
+434493475263119360  Feb 14 20:04  @obahcall         JM: genome sequencing rules out patient to patient plasmid transfer and transmission #AGBT14
+434493481130938369  Feb 14 20:04  @PacBio           JM: Full PacBio genome seq rules out patient 2 patient plasmid transfer & transmission, targeted seq could provide misleading result #AGBT14
+434493481600688129  Feb 14 20:04  @DaleYuzuki       Mullikin: Full genome seq ruled out patient to patient plasmid transfer. Targeted could have given erroneous results #AGBT14
+434493573740781568  Feb 14 20:05  @linda_damore     RT @OmicsOmicsBlog: HE: 3 versions of chip,  different throughout, $1 to $300 (1 Gb) [lost other figures] #agbt14
+434493574475153408  Feb 14 20:05  @lexnederbragt    RT @frapaport: the speaker is presenting a sequencr that’s supposed to be dirt-cheap and roughly the size of a shoebox #AGBT14
+434493598336581632  Feb 14 20:05  @lexnederbragt    RT @MeekIsaac: Genapsys - ion meets Illumina? #agbt14
+434493628267122688  Feb 14 20:05  @linda_damore     RT @californiana: Hesaam Esfandyarpour of @GenapSys - "A sequencer with the footprint of an iPad" that is easy to use #AGBT14
+434493706566377472  Feb 14 20:05  @lexnederbragt    RT @californiana: Hesaam Esfandyarpour of @GenapSys - "A sequencer with the footprint of an iPad" that is easy to use #AGBT14
+434493719505829888  Feb 14 20:05  @kc31958          RT @kennamshaw: @MeekIsaac that's quite a leap without a shread of data.... yet.  #AGBT14
+434493724379578368  Feb 14 20:05  @kennamshaw       @MeekIsaac You are kinder than I am.  I'd go with Genapsys not crap?  wouldn't put in same tweet as illumina. #AGBT14
+434493777781477376  Feb 14 20:06  @lexnederbragt    RT @kennamshaw: HE: shows small "lunch box" but half audience can't see so I'm going to google http://genapsys.com/wp-content/uploads/131113-GenapSys-Series-B-Press-Release_vF.pdf #AGBT14
+434493803203153920  Feb 14 20:06  @DaleYuzuki       Mullikin: But evidence for horiz gene transfer from patient to environment (!) #AGBT14
+434493808915804160  Feb 14 20:06  @NGSperspectives  Hesaam running out of time, while telling about challenges of a well-based system... #AGBT14
+434493814875881472  Feb 14 20:06  @kennamshaw       Dammit.  I can't get this 20 minutes of my life back, can I? #AGBT14
+434493831867027456  Feb 14 20:06  @SirChuckDarwin   Technically he pulled another box out of his lunch box.  #agbt14
+434493871557705728  Feb 14 20:06  @OmicsOmicsBlog   HE: well based systems face problem of low efficiency loading; can't have top of bead and bottom out of sync #agbt14
+434493892273373184  Feb 14 20:06  @obahcall         JM: Co-colonization of same patient w carbapenem-resistant K. pneumonia + E. cloacae: NOT plasmid horizontal transfer #AGBT14
+434493896773881856  Feb 14 20:06  @weisen           RT @Erika_Check: "kind of a cute device,"but not just a pretty face: @nanopore MinION data unveiled at #AGBT14 http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724
+434493921230864384  Feb 14 20:06  @lexnederbragt    RT @Genohub: Esfandyarpour: Genapsys: clonal amplification & electronic sequencing as opposed to single molecule & electronic #AGBT14
+434494004957577217  Feb 14 20:06  @DaleYuzuki       Mullikin: Found in a sink drain - where a biofilm is resistant to even bleach. #AGBT14
+434494015074230272  Feb 14 20:07  @kc31958          HE: where is the data? #agbt14
+434494057168257024  Feb 14 20:07  @PacBio           RT @obahcall: JM: Co-colonization of same patient w carbapenem-resistant K. pneumonia + E. cloacae: NOT plasmid horizontal transfer #AGBT14
+434494057302085632  Feb 14 20:07  @Genohub          GenapSys raised a total of $37 million in its series B round a couple months ago: http://venturebeat.com/2013/11/14/yuri-milner-is-betting-big-on-genetics-pouring-millions-into-genapsys/#test #AGBT14
+434494097341313024  Feb 14 20:07  @PacBio           JM: SMRT sequencing, followed by HGAP/polishing, produces highly accurate genome sequences, incl complement of plasmid sequences #AGBT14
+434494150655111168  Feb 14 20:07  @OmicsOmicsBlog   HE: how to get rid of wells? Video of beads loading on chip by migrating to defined flat positions #agbt14
+434494165641334784  Feb 14 20:07  @KMeltzSteinberg  Looking forward to Ryan Layer's talk coming up next #AGBT14
+434494191335256064  Feb 14 20:07  @lexnederbragt    Garrison: GCSA global mapping against a graph. Can't hear the details as he is not using the microphone #AGBT14
+434494359883374592  Feb 14 20:08  @kennamshaw       HE: oooo. pretty. fluidics in a movie. No more wells, instead beads loading on chip, defined flat positions #agbt14 #SilverLining
+434494375532703744  Feb 14 20:08  @obahcall         JM: demonstrated highly accurate, timely genome seq including plasmids on @PacBio #AGBT14
+434494458965811200  Feb 14 20:08  @iontorrent       Mullikin: sequencing reveals horizontal gene transfer of antibiotic resistance genes via sink drain. Biofilms resist bleach. #AGBT14
+434494482151915523  Feb 14 20:08  @PacBio           RT @obahcall: JM: demonstrated highly accurate, timely genome seq including plasmids on @PacBio #AGBT14
+434494525491265537  Feb 14 20:09  @TheVictorTong    GenapSys meets Illumina!!! #AGBT14
+434494538913447936  Feb 14 20:09  @s_travis_king    RT @iontorrent: Mullikin: sequencing reveals horizontal gene transfer of antibiotic resistance genes via sink drain. Biofilms resist bleach. #AGBT14
+434494572333633536  Feb 14 20:09  @maurya_rahul111  RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434494628466003968  Feb 14 20:09  @frapaport        The speaker is AT LEAST showing some data #AGBT14
+434494628772192256  Feb 14 20:09  @obahcall         JM: showed complex inter-genus plasmid transfer event linking patient to environmental surveillance #AGBT14
+434494631800483840  Feb 14 20:09  @infoecho         RT @OmicsOmicsBlog: HE: well based systems face problem of low efficiency loading; can't have top of bead and bottom out of sync #agbt14
+434494643901054976  Feb 14 20:09  @OmicsOmicsBlog   HE: 95% loading efficiency; video of beads moving during washing; eliminating wells eliminates damping & improves homopolymer perf #agbt14
+434494690574888960  Feb 14 20:09  @mczody           Comp. Bio Concurrent 8:10 – Ryan Layer (UVA) “A 24-Hour Open Source Variant Calling Pipeline for Clinical Genome Interpretation” #AGBT14
+434494696899870721  Feb 14 20:09  @lexnederbragt    Looks like I need to talk to @erikgarrison #agbt14
+434494727032152064  Feb 14 20:09  @anselmonadir     RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434494755427581952  Feb 14 20:09  @kennamshaw       I am starting to get mean.  I will be back for Patrik Stahl... up next. #AGBT14
+434494785286438912  Feb 14 20:10  @Genohub          Esfandyarpour: Displays some basic processed signal data #AGBT14
+434494801556152320  Feb 14 20:10  @will_fitzhugh    Esfandyarpour: bead-based, arranged in a rectangular grid, claims device solves homopolymer problem, but not clear how to me #AGBT14
+434494952765390848  Feb 14 20:10  @OmicsOmicsBlog   HE homopolymer signal linear to over 40 bases #agbt14
+434494957916004352  Feb 14 20:10  @SirChuckDarwin   @kennamshaw.  If you figure out how, please tell me. #agbt14
+434494962135482368  Feb 14 20:10  @frapaport        OK not really. This is supposed to be data, but it’s not really understandable. So this guy just tried to sell us vaporware. #AGBT14
+434495073070231553  Feb 14 20:11  @westr            RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer @Erika_Check  http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434495089172553728  Feb 14 20:11  @DaleYuzuki       Mullikin:Q: Do you get the PacBio reads? Any error artifacts? A: they handed us finished data, v. high quality. Cons. washes errors #AGBT14
+434495090057568256  Feb 14 20:11  @obahcall         Mullikin showed great example of importance, utility of integrating epidemiological and genomic data real time during outbreak #AGBT14
+434495151478943744  Feb 14 20:11  @kennamshaw       RT @frapaport: OK not really. This is supposed to be data, but it’s not really understandable. So this guy just tried to sell us vaporware. #AGBT14
+434495158068203520  Feb 14 20:11  @OmicsOmicsBlog   HE: photo series making fun of HiSeq, PGM, showing Genapsys belted in to car or on armrest #agbt14
+434495161868242944  Feb 14 20:11  @DaleYuzuki       Mullikin:Q: Add'l platforms? A: Had 454 data on top of it #AGBT14
+434495195661742080  Feb 14 20:11  @frapaport        I mean he just showed us a slide of his ‘sequencer’ driving a car. And it was one of the most informative slides #AGBT14
+434495254352244736  Feb 14 20:11  @Genohub          Esfandyarpour: Announces early access open till Feb 12th, $2,500 refundable deposit #AGBT14
+434495287340830720  Feb 14 20:12  @AllSeq           RT @OmicsOmicsBlog: HE homopolymer signal linear to over 40 bases #agbt14
+434495289466970112  Feb 14 20:12  @howardjunca      RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434495318701658112  Feb 14 20:12  @DaleYuzuki       Up next: Shurjo Sen, NHGRI. "Increased TREML4 Expression and rs2803496 Genotypes are Associated with Coronary Artery Calcification" #AGBT14
+434495336636510208  Feb 14 20:12  @kennamshaw       HE: http://www.genapsys.com/geniusclub for your own early access to... uh... not sure  #AGBT14
+434495364108791809  Feb 14 20:12  @will_fitzhugh    Esfandyarpour: early access program, $2,500 refundable deposit, 15 runs worth #AGBT14
+434495369016520705  Feb 14 20:12  @frapaport        RT @kennamshaw: HE: http://www.genapsys.com/geniusclub for your own early access to... uh... not sure  #AGBT14
+434495462432067584  Feb 14 20:12  @Genohub          RT @kennamshaw: HE: http://www.genapsys.com/geniusclub for your own early access to... uh... not sure  #AGBT14
+434495552420855808  Feb 14 20:13  @frapaport        “details would be really useful” according to the chair. You don’t say #AGBT14
+434495552605417472  Feb 14 20:13  @OmicsOmicsBlog   Genapsys offering early access program http://genapsys.com/genius-club/ #agbt14
+434495651422814208  Feb 14 20:13  @Genohub          Stahl: Not Tweetable #AGBT14
+434495668535975936  Feb 14 20:13  @KMeltzSteinberg  RL: speedseq 24 hour open source genome interpretation pipeline #AGBT14
+434495732960477184  Feb 14 20:13  @westr            RT @kennamshaw: @gbw42 @obahcall But no plugs.  What would people do without me tweeting? I couldn't do that to the people, Graham...all 2 of them. #AGBT14
+434495757375528960  Feb 14 20:13  @wateresa         RT @mczody: Comp. Bio Concurrent 8:10 – Ryan Layer (UVA) “A 24-Hour Open Source Variant Calling Pipeline for Clinical Genome Interpretation” #AGBT14
+434495763952201728  Feb 14 20:13  @AllSeq           RT @will_fitzhugh: Esfandyarpour: early access program, $2,500 refundable deposit, 15 runs worth #AGBT14
+434495844000485376  Feb 14 20:14  @frapaport        next one is an un-tweetable talk. Will be back in 20min. #AGBT14
+434495858563117056  Feb 14 20:14  @AllSeq           RT @OmicsOmicsBlog: Genapsys offering early access program http://genapsys.com/genius-club/ #agbt14
+434495865643077632  Feb 14 20:14  @DaleYuzuki       Sen: Part of ClinSeq, Les Biesecker et al at NHLBI looking at coronary artery calcification. ClinSeq ref: http://ow.ly/tEhbL #AGBT14
+434495889017552896  Feb 14 20:14  @lexnederbragt    Now listening to Patrik Ståhl "Digital Pathological Analysis Through Spatially Resolved Gene Panels" #AGBT14
+434495961864609792  Feb 14 20:14  @will_fitzhugh    RT @Genohub: Stahl: Not Tweetable #AGBT14
+434496043666141185  Feb 14 20:15  @JokeReumers      Up now at #AGBT14  from the lab of #bedtools and #gemini: 20h variant interpretation pipeline by Rhan Layer
+434496074452312064  Feb 14 20:15  @Becky_Kusko      HE: bead on a chip technology seems cool. Hopefully they will release the error rate soon. Didn't see it on their website. #AGBT14
+434496080055910400  Feb 14 20:15  @idtdna           What purification do I need for my #NGS library amplification primers? http://idtb.io/tE11Z #AGBT14
+434496089878986752  Feb 14 20:15  @PHook4000        RT @Erika_Check: "kind of a cute device,"but not just a pretty face: @nanopore MinION data unveiled at #AGBT14 http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724
+434496106781605889  Feb 14 20:15  @lrastegar        RT @will_fitzhugh: Esfandyarpour: early access program, $2,500 refundable deposit, 15 runs worth #AGBT14
+434496168970555392  Feb 14 20:15  @lrastegar        RT @californiana: Hesaam Esfandyarpour of @GenapSys - "A sequencer with the footprint of an iPad" that is easy to use #AGBT14
+434496276089274369  Feb 14 20:15  @DaleYuzuki       Sen: CAC was studied via GWAS; ODonnell an example Manhattan plot with 100's of thousands samples Ref. http://ow.ly/tEhhu #AGBT14
+434496385174732800  Feb 14 20:16  @KMeltzSteinberg  RL: one single machine, open source software, clinical grade SNV + SV calling and interpretation with GEMINI in <24 hours #AGBT14
+434496394142187521  Feb 14 20:16  @JokeReumers      Now at #agbt14 from the lab of #bedtools and #gemini, a 24h variant interpretation pipeline by Ryan Layer
+434496428594167808  Feb 14 20:16  @richardmleggett  Just witnessed a talk on the GENIUS sequencer from Genapsys at #AGBT14. Now I know what it looks like… but not a lot else…
+434496493836201984  Feb 14 20:16  @lrastegar        RT @OmicsOmicsBlog: Genapsys offering early access program http://genapsys.com/genius-club/ #agbt14
+434496605920980993  Feb 14 20:17  @druvus           RT @westr: RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer @Erika_Check  http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434496611679735808  Feb 14 20:17  @DaleYuzuki       Sen: ClinSeq to use, using RNA-Seq, genome, proteome, deep clinical phenotyping. 8 cases / 8 controls. #AGBT14
+434496627437748224  Feb 14 20:17  @frapaport        I can see at least three people tweeting an “untweetable” talk in my TL. You guys are rebels. #AGBT14
+434496635637616640  Feb 14 20:17  @lexnederbragt    RT @richardmleggett: Just witnessed a talk on the GENIUS sequencer from Genapsys at #AGBT14. Now I know what it looks like… but not a lot else…
+434496677039583232  Feb 14 20:17  @obahcall         Ryan Layer (Ira Hall's lab): 24 hr open source variant calling pipeline for clinical genome interpretation #AGBT14
+434496698644459520  Feb 14 20:17  @will_fitzhugh    RT @richardmleggett: Just witnessed a talk on the GENIUS sequencer from Genapsys at #AGBT14. Now I know what it looks like… but not a lot else…
+434496755942846464  Feb 14 20:17  @genomeresearch   RT @erlichya: People just don't get @nanopore. It is a SENSOR not a platform. It is like comparing your smart phone to Amazon Cloud. #AGBT14
+434496790583574529  Feb 14 20:18  @AllSeq           Hmm, was really hoping for something more substantial from @GenapSys #AGBT14
+434497034452996096  Feb 14 20:19  @DaleYuzuki       Sen: RNA-Seq of periph. blood; not clear. Went to Framingham heart study (1000 samples) Found increased TREML5 expression in CAC. #AGBT14
+434497082741649408  Feb 14 20:19  @lexnederbragt    Oops, Ståhl talk appears not tweetable (sorry) #AGBT14
+434497157593595904  Feb 14 20:19  @AllSeq           RT @richardmleggett: Just witnessed a talk on the GENIUS sequencer from Genapsys at #AGBT14. Now I know what it looks like… but not a lot else…
+434497187238518784  Feb 14 20:19  @westr            RT @iontorrent: Mullikin: sequencing reveals horizontal gene transfer of antibiotic resistance genes via sink drain. Biofilms resist bleach. #AGBT14
+434497216913219584  Feb 14 20:19  @will_fitzhugh    @frapaport the Genapsys grumbling was still going on when he announced that - I missed it too #AGBT14
+434497276044931072  Feb 14 20:19  @DaleYuzuki       Sen: Then went back and looked for an eQTL using genomic data; found a SNP rs2803496 upstream of TREML4. #AGBT14
+434497345443491840  Feb 14 20:20  @TheVictorTong    Ala Rothberg presentation circa 2010! #AGBT14
+434497634091692032  Feb 14 20:21  @divacyntst       RT @erlichya: #AGBT14 word cloud: the buzz term is Single Cell/s  See more here: http://erlichlab.wi.mit.edu/tweets/ http://t.co/JVoVUCyAPw
+434497668271046656  Feb 14 20:21  @DaleYuzuki       Sen: Looked at relative risk for CAC score for rs2803496, nice correlation. 'RNA-seq made my life more complicated cp to microarray" #AGBT14
+434497834503901184  Feb 14 20:22  @druvus           RT @richardmleggett: Just witnessed a talk on the GENIUS sequencer from Genapsys at #AGBT14. Now I know what it looks like… but not a lot else…
+434497879659790336  Feb 14 20:22  @JokeReumers      RL: SNP/INDEL variant calling parallelised by using FReebayes. GIAB comparison of GATK and Freebayes. 1.4h #AGBT14
+434498028486270976  Feb 14 20:22  @MeekIsaac        RT @richardmleggett: Just witnessed a talk on the GENIUS sequencer from Genapsys at #AGBT14. Now I know what it looks like… but not a lot else…
+434498031078350848  Feb 14 20:22  @OmicsOmicsBlog   RT @richardmleggett: Just witnessed a talk on the GENIUS sequencer from Genapsys at #AGBT14. Now I know what it looks like… but not a lot else…
+434498073704681472  Feb 14 20:23  @BioMath          RT @lexnederbragt: So far, this is the only USB stick with long-read sequencing data available at #AGBT14 http://t.co/wYuaZGCTi2
+434498098652782593  Feb 14 20:23  @obahcall         Layer: compare GATK vs freebayes (allows parallel) on Genome in a Bottle, 14 samples; comparable for SNPs and INDELs  #AGBT14
+434498112888258560  Feb 14 20:23  @OmicsOmicsBlog   RT @AllSeq: Hmm, was really hoping for something more substantial from @GenapSys #AGBT14
+434498134799294464  Feb 14 20:23  @DaleYuzuki       Sen: Needed to go back to northerns for TREML4 transcript validation; not a gene actively studied. #AGBT14
+434498135423848449  Feb 14 20:23  @lexnederbragt    I guess I can tweet that Ståhl is doing a live demo, brave... Works so far. #AGBT14
+434498357248004096  Feb 14 20:24  @GenomeNathan     Want to mark duplicate reads s̶u̶p̶e̶r̶ superduper fast? Layer advises samblaster. #agbt14
+434498407038996481  Feb 14 20:24  @obahcall         RT @GenomeNathan: Want to mark duplicate reads s̶u̶p̶e̶r̶ superduper fast? Layer advises samblaster. #agbt14
+434498413556924416  Feb 14 20:24  @kennamshaw       For things I think I can put on twitter about PS work- the blog from Illumina on same topic from last year's #agbt14 http://blog.illumina.com/blog/illumina/2013/02/27/trends-from-agbt-2013-rna-standouts
+434498576367251456  Feb 14 20:25  @kennamshaw       @frapaport agree but thanks.  I screwed up.  He presented work last year, in Illumina's blog too.  oh well. #AGBT14
+434498597774974976  Feb 14 20:25  @OmicsOmicsBlog   RT @GenomeNathan: Want to mark duplicate reads s̶u̶p̶e̶r̶ superduper fast? Layer advises samblaster. #agbt14
+434498603500204032  Feb 14 20:25  @DaleYuzuki       Sen: Westerns & Flow cytometry: an atypical aa sequence, glycosialated but validated the protein (took 6 mos) #AGBT14
+434498676804030464  Feb 14 20:25  @KMeltzSteinberg  RL: SV/Haplotype co-segregation shows only 0.3% mendelian violation #AGBT14
+434498830961106945  Feb 14 20:26  @noricorino       RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434498852729937920  Feb 14 20:26  @alexmarshall131  RT @richardmleggett: Just witnessed a talk on the GENIUS sequencer from Genapsys at #AGBT14. Now I know what it looks like… but not a lot else…
+434498873453989888  Feb 14 20:26  @DaleYuzuki       Sen: If a disease gene, should be found at site of discovery. Autopsy section of CAC, significant TREML4 expression. Macrophages #AGBT14
+434498967133773824  Feb 14 20:26  @lexnederbragt    RT @kennamshaw: For things I think I can put on twitter about PS work- the blog from Illumina on same topic from last year's #agbt14 http://blog.illumina.com/blog/illumina/2013/02/27/trends-from-agbt-2013-rna-standouts
+434499085068808192  Feb 14 20:27  @homolog_us       We are preparing a petition to get @lexnederbragt Minion @nanopore access. Any signers? #AGBT14
+434499201150382080  Feb 14 20:27  @lexnederbragt    Perhaps better for them that I missed the @GenapSys Genius talk at #agbt14, saved me from writing a blog post :-)
+434499225729400832  Feb 14 20:27  @OmicsOmicsBlog   RT @NGSperspectives: Heesaam shows lunchbox sized sequencer. He didn't get the MinION memo? #AGBT14 http://t.co/y0nQm4OPzl
+434499320490901504  Feb 14 20:28  @lexnederbragt    Appreciated :-) RT @homolog_us: We are preparing a petition to get @lexnederbragt Minion @nanopore access. Any signers? #AGBT14
+434499322978500608  Feb 14 20:28  @KMeltzSteinberg  RL: mutation detection in real tumors with high sensitivity #AGBT14
+434499353588535296  Feb 14 20:28  @AllSeq           RT @homolog_us: We are preparing a petition to get @lexnederbragt Minion @nanopore access. Any signers? #AGBT14
+434499429903900672  Feb 14 20:28  @alexmarshall131  RT @will_fitzhugh: Wheeler: 20K variants detected, only 2K of those found with the Illumina data #AGBT14
+434499476032876545  Feb 14 20:28  @DaleYuzuki       Sen: No TREML4 signal distal to site of disease. Showed TREML4 produced by CD68 macrophage themselves. #AGBT14
+434499515664842752  Feb 14 20:28  @KMeltzSteinberg  RL: integration of GEMINI and DGIdb #AGBT14
+434499516512088064  Feb 14 20:28  @NGSperspectives  Video interview with @StevenNHart from the Mayo Clinic on the challenges and potential of using NGS: http://ngsperspectives.com/steven-hart-shares-challenges-potential-ngs-mayo-clinic/ #AGBT14
+434499566902472704  Feb 14 20:29  @OmicsOmicsBlog   RT @iontorrent: Mullikin: sequencing reveals horizontal gene transfer of antibiotic resistance genes via sink drain. Biofilms resist bleach. #AGBT14
+434499568453951489  Feb 14 20:29  @Genohub          @GenapSys Would you consider listing a beta seq service on http://Genohub.com for users to send in samples for beta data? #AGBT14
+434499711139979264  Feb 14 20:29  @mczody           Comp. Bio Concurrent 8:30 – Jason Chin (PacBio) “String Graph Assembly for Diploid Genomes with Long Reads” #AGBT14
+434499794871267329  Feb 14 20:29  @kennamshaw       Sean McGrath: Pac Bio Long read RNA-Seq for gene isoform identification and de novo gene prediction from Wash U #AGBT14
+434499824915087360  Feb 14 20:30  @obahcall         Layer: SV calling using LUMPY, calls for clinical grade, validate SV, haplotype co-segregation #AGBT14
+434499925326716928  Feb 14 20:30  @illumina         @kennamshaw @frapaport thanks for the check. I'll delete my tweets, sadly. #stillwaycool #AGBT14
+434499938668773376  Feb 14 20:30  @obahcall         Layer et al. using LUMPY, a probabilistic framework for structural variant discovery  #arxiv http://bit.ly/1fnxtZL  #AGBT14
+434499945270607872  Feb 14 20:30  @DaleYuzuki       Sen: Conclude: 'hypothesis generation research' - using phenotyped samples, genomic and transcriptome work #AGBT14
+434499970079920128  Feb 14 20:30  @KMeltzSteinberg  RT @kennamshaw: Sean McGrath: Pac Bio Long read RNA-Seq for gene isoform identification and de novo gene prediction from Wash U #AGBT14
+434500081036066816  Feb 14 20:31  @OmicsOmicsBlog   RT @infoecho: Garrison: "glia" a graph-realigner #AGBT14
+434500100371390465  Feb 14 20:31  @actually_alan    RT @kennamshaw: Sean McGrath: Pac Bio Long read RNA-Seq for gene isoform identification and de novo gene prediction from Wash U #AGBT14
+434500106394800128  Feb 14 20:31  @DaleYuzuki       Sen: Q (Plon): Why not start with the eQTL? A: Exome, RNA-Seq started with. #AGBT14
+434500133510594560  Feb 14 20:31  @lexnederbragt    Going nuts switching between rooms for every talk this evening at #AGBT14
+434500171138084865  Feb 14 20:31  @kennamshaw       @illumina @frapaport agree... looked v. promising and journals say that tweets do not break pub embargo... oh well.  #AGBT14
+434500251899416576  Feb 14 20:31  @OmicsOmicsBlog   RT @lexnederbragt: Garrison: Genomes as (variant) graphs, locally aligning reads against the graph #AGBT14
+434500263517618176  Feb 14 20:31  @DaleYuzuki       Sen: Q: Is the gene also in LD with others? A: Not a causal variant, no xcr binding sites. #AGBT14
+434500263526035456  Feb 14 20:31  @frapaport        Next is Sean McGrath from Wash U for another PacBio talk with gene isoform identification and de novo gene prediction #AGBT14
+434500343763062784  Feb 14 20:32  @PacBio           RT @kennamshaw: Sean McGrath: Pac Bio Long read RNA-Seq for gene isoform identification and de novo gene prediction from Wash U #AGBT14
+434500384133222400  Feb 14 20:32  @OmicsOmicsBlog   RT @DaleYuzuki: Interesting technology at #AGBT14 was Gen Cell Biosystem's CLiC HTP NGS library system. http://ow.ly/i/4BEgI Lanai #283 Droplet in oil^2
+434500426000384001  Feb 14 20:32  @Genohub          Sean McGrath: PacBio Long-Read RNASeq for Gene Isoform ID and de novo Gene prediction #AGBT14
+434500467155300352  Feb 14 20:32  @DaleYuzuki       Up next: Alexander Hoischen, Radboud University. MIP-Based Resequencing Identifies Recurrently Mutated Genes in Intell. Disability #AGBT14
+434500476797603840  Feb 14 20:32  @lexnederbragt    Next talk I am at is Jason Chin from Pacific Biosciences on "String Graph Assembly For Diploid Genomes With Long Reads" #agbt14
+434500477058027520  Feb 14 20:32  @kennamshaw       Love this- here's a genomeweb story of Stahl's work that gives more than I would have tweeting http://www.genomeweb.com/sequencing/patrik-st%C3%A5hl-method-single-cell-resolved-transcriptomics #AGBT14
+434500491285106688  Feb 14 20:32  @PacBio           RT @mczody: Comp. Bio Concurrent 8:30 – Jason Chin (PacBio) “String Graph Assembly for Diploid Genomes with Long Reads” #AGBT14
+434500494484979712  Feb 14 20:32  @obahcall         Layer: speedseq; 18.41 hours, open source, see ALPHA release at https:http://bit.ly/1fnxIEc #AGBT14
+434500531030335488  Feb 14 20:32  @kc31958          Up now Jason Chin @Pacbio developing Diploid Assembler. #AGBT14
+434500589700255744  Feb 14 20:33  @KMeltzSteinberg  Jason Chin: string graph assembly for diploid genomes w long reads #AGBT14
+434500609065369600  Feb 14 20:33  @MeekIsaac        McGrath talking about RNA reads on PacBio #agbt14
+434500618397683712  Feb 14 20:33  @Becky_Kusko      Sean McGrath: "flow chart from hell" showing different sample prep options for illumina RNAseq #AGBT14
+434500623233736704  Feb 14 20:33  @wateresa         RT @lexnederbragt: Next talk I am at is Jason Chin from Pacific Biosciences on "String Graph Assembly For Diploid Genomes With Long Reads" #agbt14
+434500694931144704  Feb 14 20:33  @lexnederbragt    RT @kennamshaw: Love this- here's a genomeweb story of Stahl's work that gives more than I would have tweeting http://www.genomeweb.com/sequencing/patrik-st%C3%A5hl-method-single-cell-resolved-transcriptomics #AGBT14
+434500739214618624  Feb 14 20:33  @DaleYuzuki       Hoischen: De novo mutations - very or extremely rare. 10 or 100 cases: only 1 gene, the target is very small. #AGBT14
+434500813218918400  Feb 14 20:34  @illumina         RT @kennamshaw: Love this- here's a genomeweb story of Stahl's work that gives more than I would have tweeting http://www.genomeweb.com/sequencing/patrik-st%C3%A5hl-method-single-cell-resolved-transcriptomics #AGBT14
+434500835733929984  Feb 14 20:34  @kennamshaw       SM contrinued: why PacBio? get splicing that short reads miss; 5'/3'UTR preservation; single read, single isoform; improve assembly #AGBT14
+434500840083456000  Feb 14 20:34  @PacBio           RT @MeekIsaac: McGrath talking about RNA reads on PacBio #agbt14
+434500847326617600  Feb 14 20:34  @GenomeNathan     Layer et al. pool full sibs' reads to simulate 'somatic' variants (mom's) on 'germline' background (dad's). Hmm. #agbt14
+434500874548035584  Feb 14 20:34  @kennamshaw       RT @obahcall: Layer: speedseq; 18.41 hours, open source, see ALPHA release at https:http://bit.ly/1fnxIEc #AGBT14
+434500915811586048  Feb 14 20:34  @DaleYuzuki       Hoischen: More common disorders, a larger target w/ many genes; de novo disorders may also play a role in common disorders too #AGBT14
+434500938532130817  Feb 14 20:34  @frapaport        Use of clontech SMARTer to do long read RNA-seq through PacBio #AGBT14
+434501021927497728  Feb 14 20:34  @GenomeNathan     RT @obahcall: Layer: speedseq; 18.41 hours, open source, see ALPHA release at https:http://bit.ly/1fnxIEc #AGBT14
+434501263271948288  Feb 14 20:35  @druvus           RT @homolog_us: We are preparing a petition to get @lexnederbragt Minion @nanopore access. Any signers? #AGBT14
+434501266257870849  Feb 14 20:35  @lexnederbragt    Chin: #PacBio data from two Arabidopsis strains, basically haploid. Mix for simulated diploid dataset #AGBT14
+434501293865177089  Feb 14 20:35  @iontorrent       Sen (NGRI): study of coronary artery calcification by RNA-seq identifies TREML4 unregulation with wet lab & histochemistry support #AGBT14
+434501331009937409  Feb 14 20:36  @obahcall         Jason Chin of @PacBio: string graph assembly for diploid genomes; follows on JK's talk this afternoon, moving towards diploid #AGBT14
+434501393526059008  Feb 14 20:36  @DaleYuzuki       Hoischen: 100 patient-parent trios with severe intellectual disability (IQ < 50). Discovered 19 cand. genes #AGBT14
+434501398504681472  Feb 14 20:36  @frapaport        use of Evrogen Trimmer cDNA “Normalization” #AGBT14
+434501419262283776  Feb 14 20:36  @PacBio           RT @lexnederbragt: Chin: #PacBio data from two Arabidopsis strains, basically haploid. Mix for simulated diploid dataset #AGBT14
+434501430138130432  Feb 14 20:36  @JokeReumers      Jasons Chin from PacBio discussing string graph assembly for long reads #AGBT14
+434501441898569729  Feb 14 20:36  @homolog_us       RT @lexnederbragt: Chin: #PacBio data from two Arabidopsis strains, basically haploid. Mix for simulated diploid dataset #AGBT14
+434501482444890112  Feb 14 20:36  @lexnederbragt    Chin: using String Graph Assembly principles (we heard about that earlier today from gene Myers) #AGBT14
+434501540653449218  Feb 14 20:36  @Genohub          McGrath: LNCaP RNA-Seq: Clontech SMARTer, Evrogen Trimmer, PacBio 2kb sample prep #AGBT14
+434501554830196736  Feb 14 20:36  @AllSeq           RT @NGSperspectives: Video interview with @StevenNHart from the Mayo Clinic on the challenges and potential of using NGS: http://ngsperspectives.com/steven-hart-shares-challenges-potential-ngs-mayo-clinic/ #AGBT14
+434501635226992640  Feb 14 20:37  @PacBio           RT @kennamshaw: SM contrinued: why PacBio? get splicing that short reads miss; 5'/3'UTR preservation; single read, single isoform; improve assembly #AGBT14
+434501695633358848  Feb 14 20:37  @JokeReumers      iPhone just corrected #PacBio to Pacino. Hope this has not happened in previous tweets ;-) #AGBT14
+434501705951346688  Feb 14 20:37  @frapaport        Proof of concept through LNCap sample aligned through BLAT, then checking manually. #AGBT14
+434501725136101376  Feb 14 20:37  @DaleYuzuki       Hoischen: Add'l 800 cases: 3 novel ID genes then identified. For the rest of the candidates? Go to the literature #AGBT14
+434501766680698880  Feb 14 20:37  @obahcall         RT @kennamshaw: @obahcall Ha... I'm by the door... people coming and going driving me bonkers... but I needed a plug.Must. Tweet. Til. I. Go. Home. #AGBT14
+434501821089210368  Feb 14 20:38  @obahcall         RT @kennamshaw: @gbw42 @obahcall But no plugs.  What would people do without me tweeting? I couldn't do that to the people, Graham...all 2 of them. #AGBT14
+434501883886333952  Feb 14 20:38  @JokeReumers      RT @Genohub: McGrath: LNCaP RNA-Seq: Clontech SMARTer, Evrogen Trimmer, PacBio 2kb sample prep #AGBT14
+434501957907390464  Feb 14 20:38  @Becky_Kusko      SM: found a 2.5kb cDNA in @PacBio seq data. Is that the longest RNAseq read at #AGBT14 ?
+434502006577700864  Feb 14 20:38  @GenomeNathan     My mind's #agbt14 wordcloud, so far: single-cell, assembly, @PacBio. Take with salt.
+434502037397852160  Feb 14 20:38  @frapaport        Use of this tech to improve genome annotation of A. ceylancium #AGBT14
+434502042581622785  Feb 14 20:38  @lexnederbragt    Chin: diploid assembly difficult because hard to distinguish homologous regions from repeats #AGBT14
+434502064249376768  Feb 14 20:38  @PascualAnaya     RT @kennamshaw: SM contrinued: why PacBio? get splicing that short reads miss; 5'/3'UTR preservation; single read, single isoform; improve assembly #AGBT14
+434502090246074368  Feb 14 20:39  @PacBio           RT @Becky_Kusko: SM: found a 2.5kb cDNA in @PacBio seq data. Is that the longest RNAseq read at #AGBT14 ?
+434502114271035392  Feb 14 20:39  @obahcall         RT @lexnederbragt: Chin: diploid assembly difficult because hard to distinguish homologous regions from repeats #AGBT14
+434502246987218944  Feb 14 20:39  @AJHGNews         Hoischen: implementing MIP workflow to reseq ID candidate genes. #AGBT14
+434502339802566656  Feb 14 20:40  @lexnederbragt    Chin: both variations and error introduce bubbles in string graph. In diploid assembly bubbles indicate heterozygosities #AGBT14
+434502381980884992  Feb 14 20:40  @OmicsOmicsBlog   .@infoecho variations/errors induce assembly graph bubbles; if reads long enough, span bubble #AGBT14
+434502393783648256  Feb 14 20:40  @JokeReumers      RT @lexnederbragt: Chin: diploid assembly difficult because hard to distinguish homologous regions from repeats #AGBT14
+434502425173843968  Feb 14 20:40  @DaleYuzuki       Hoischen: Using MIP probes for their targeted sequencing. O'Roak Science ref http://ow.ly/tEig8 #AGBT14
+434502429074554881  Feb 14 20:40  @PacBio           RT @lexnederbragt: Chin: diploid assembly difficult because hard to distinguish homologous regions from repeats #AGBT14
+434502454701330432  Feb 14 20:40  @Genohub          Sean McGrath: Benefits of P4 enzyme: higher consensus accuracy at lower cov compared to XL, longer read lengths compared to C2 poly #AGBT14
+434502499610136577  Feb 14 20:40  @JokeReumers      RT @OmicsOmicsBlog: .@infoecho variations/errors induce assembly graph bubbles; if reads long enough, span bubble #AGBT14
+434502499685654528  Feb 14 20:40  @jlandolin        SM: RNA SMRTer kit and Evrogen trimmer normalization kit to sequence total RNA on @PacBio #AGBT14
+434502535475232768  Feb 14 20:40  @lexnederbragt    Chin: Set pacbio read cutoff just beyond longest repeat(s) to bridge them #AGBT14
+434502696381722624  Feb 14 20:41  @DukeSequencing   RT @PacBio: JM: SMRT sequencing, followed by HGAP/polishing, produces highly accurate genome sequences, incl complement of plasmid sequences #AGBT14
+434502726786220032  Feb 14 20:41  @JokeReumers      RT @homolog_us: We are preparing a petition to get @lexnederbragt Minion @nanopore access. Any signers? #AGBT14
+434502766145568768  Feb 14 20:41  @OmicsOmicsBlog   .@infoecho with 10kb post-correction reads, most Arabidopsis repeats/variation spanned by read. #AGBT14
+434502805798154240  Feb 14 20:41  @SisnerosNick     RT @Becky_Kusko: SM: found a 2.5kb cDNA in @PacBio seq data. Is that the longest RNAseq read at #AGBT14 ?
+434502903630286848  Feb 14 20:42  @matthewherper    Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434502930067390465  Feb 14 20:42  @PacBio           RT @OmicsOmicsBlog: .@infoecho variations/errors induce assembly graph bubbles; if reads long enough, span bubble #AGBT14
+434502937654874112  Feb 14 20:42  @DukeSequencing   RT @PacBio: JK: Fungal transcriptome Sean Gordon at USDA-AR - illumina prediction - 6 isoform transcripts, PacBio resolved 118 observed isoforms #AGBT14
+434502978951598080  Feb 14 20:42  @lexnederbragt    Chin: showing nice 'unitig' graph for diploid Arabidopsis assembly #AGBT14
+434503016230961152  Feb 14 20:42  @DaleYuzuki       Hoischen: Used 42 new candidate ID genes, 2,501 MIP probes; from their NEJM paper here. http://ow.ly/tEinq #AGBT14
+434503094416990208  Feb 14 20:43  @QxNews           RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434503104474923008  Feb 14 20:43  @aaronquinlan     The speedseq pipeline and samblaster tool that @ryanlayer presented can be found on GitHub. #agbt14 https://github.com/cc2qe/speedseq
+434503130039197696  Feb 14 20:43  @obahcall         RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434503166579965953  Feb 14 20:43  @KMeltzSteinberg  JC: bubbles = SV btwn homologous copies, branches = repeats #AGBT14
+434503178907058176  Feb 14 20:43  @obahcall         RT @aaronquinlan: The speedseq pipeline and samblaster tool that @ryanlayer presented can be found on GitHub. #agbt14 https://github.com/cc2qe/speedseq
+434503199744331776  Feb 14 20:43  @KMeltzSteinberg  RT @aaronquinlan: The speedseq pipeline and samblaster tool that @ryanlayer presented can be found on GitHub. #agbt14 https://github.com/cc2qe/speedseq
+434503233755971584  Feb 14 20:43  @jlandolin        RT @lexnederbragt: Chin: Set pacbio read cutoff just beyond longest repeat(s) to bridge them #AGBT14
+434503282682118145  Feb 14 20:43  @lexnederbragt    Jason Chin (@infoecho) has a plan: from graph to contigs, keeping all the structural variation #AGBT14
+434503287216553984  Feb 14 20:43  @aaronquinlan     RT @obahcall: Layer: speedseq; 18.41 hours, open source, see ALPHA release at https:http://bit.ly/1fnxIEc #AGBT14
+434503304102809600  Feb 14 20:43  @JokeReumers      RT @aaronquinlan: The speedseq pipeline and samblaster tool that @ryanlayer presented can be found on GitHub. #agbt14 https://github.com/cc2qe/speedseq
+434503319349112833  Feb 14 20:43  @Erika_Check      RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434503338693230592  Feb 14 20:44  @aaronquinlan     RT @obahcall: Layer et al. using LUMPY, a probabilistic framework for structural variant discovery  #arxiv http://bit.ly/1fnxtZL  #AGBT14
+434503378883084288  Feb 14 20:44  @GenomeNathan     RT @aaronquinlan: The speedseq pipeline and samblaster tool that @ryanlayer presented can be found on GitHub. #agbt14 https://github.com/cc2qe/speedseq
+434503400810889216  Feb 14 20:44  @OmicsOmicsBlog   .@infoecho finds initial end-to-end contig, identifies alternative routes (associated contigs) #AGBT14
+434503403566538752  Feb 14 20:44  @aaronquinlan     RT @KMeltzSteinberg: RL: integration of GEMINI and DGIdb #AGBT14
+434503416690532353  Feb 14 20:44  @DaleYuzuki       Hoischen: 2x384 samples / week; only 100ng needed, 2x101 PE HiSeq reads; 304x ave coverage #AGBT14
+434503460235796480  Feb 14 20:44  @PacBio           RT @lexnederbragt: Jason Chin (@infoecho) has a plan: from graph to contigs, keeping all the structural variation #AGBT14
+434503462001582080  Feb 14 20:44  @doctorcharlene   RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434503571401633793  Feb 14 20:44  @iontorrent       Hoischen (Nijmegen): MIPs - molecular inversion probes. Rebalance pools before sequencing. 42 genes = 2501 MIPs #AGBT14
+434503608898301953  Feb 14 20:45  @AndrewJesaitis   RT @aaronquinlan: The speedseq pipeline and samblaster tool that @ryanlayer presented can be found on GitHub. #agbt14 https://github.com/cc2qe/speedseq
+434503730067951616  Feb 14 20:45  @lexnederbragt    RT @aaronquinlan: The speedseq pipeline and samblaster tool that @ryanlayer presented can be found on GitHub. #agbt14 https://github.com/cc2qe/speedseq
+434503747046502400  Feb 14 20:45  @swarmIQ          RT @obahcall: Yi introduces Agilent’s SureCall Sofware (free) for analysis from alignment to categorization mutations, see http://bit.ly/1ovy3MS #AGBT14
+434503772719808512  Feb 14 20:45  @lexnederbragt    RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434503795721400320  Feb 14 20:45  @DaleYuzuki       Hoischen: BWA, trimming, Sam-to-Bam, GATK pipeline. 26/42 genes LoF events: 19 >2 LoF; 7 1 LoF. 95% validated via Sanger #AGBT14
+434503808967000064  Feb 14 20:45  @lexnederbragt    RT @OmicsOmicsBlog: .@infoecho with 10kb post-correction reads, most Arabidopsis repeats/variation spanned by read. #AGBT14
+434503847118008322  Feb 14 20:46  @SisnerosNick     RT @MeekIsaac: McGrath talking about RNA reads on PacBio #agbt14
+434503926445252608  Feb 14 20:46  @PacBio           RT @OmicsOmicsBlog: .@infoecho with 10kb post-correction reads, most Arabidopsis repeats/variation spanned by read. #AGBT14
+434503930245283840  Feb 14 20:46  @swarmIQ          RT @obahcall: Yi (Agilent): SureSelect is coming soon; same day sample to sequencer; 3x faster, 30% less hands on time; exomes & custom targets #AGBT14
+434504023396188160  Feb 14 20:46  @Genohub          McGrath: Agilent MHC capture of LNCaP Contech SMARTer cDNA: #AGBT14
+434504080397205504  Feb 14 20:47  @JokeReumers      JC  haploid assembly is just "special case of" diploid assembly #AGBT14
+434504116166201344  Feb 14 20:47  @OmicsOmicsBlog   @matthewherper are you at #AGBT14 ?
+434504201386086400  Feb 14 20:47  @AgilentGenomics  RT @obahcall: Bob Ohgami now on targeted NGS of AML in clinical research (presenting as part of Agilent’s slot) #AGBT14
+434504230964330496  Feb 14 20:47  @AgilentGenomics  RT @obahcall: Yi introduces Agilent’s SureCall Sofware (free) for analysis from alignment to categorization mutations, see http://bit.ly/1ovy3MS #AGBT14
+434504317853110274  Feb 14 20:47  @lexnederbragt    Citing my blog RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://www.forbes.com/sites/matthewherper/2014/02/14/yuri-milner-backed-company-prepares-ipad-size-dna-sequencer/ #AGBT14 <--GenapSys
+434504464977117184  Feb 14 20:48  @JokeReumers      JC resolving bubbles in graph using SNV and SNP phasing #AGBT14
+434504759286853633  Feb 14 20:49  @mczody           Comp. Bio Concurrent 8:50 – Michael Lawrence (Broad) “Patterns of Mutation Across Cancer” #AGBT14
+434504824566988800  Feb 14 20:49  @lexnederbragt    Chin: showing a bunch of twitter handles on his acknowledgement slide. Code is already open source online #AGBT14
+434504826249310208  Feb 14 20:49  @iontorrent       Hoischen: 26/42 genes had loss of function (LoF) variants with >95% Sanger validation. Successful reverse phenotyping method #AGBT14
+434504872017530880  Feb 14 20:50  @kennamshaw       Is it bad that I go to talks sometimes just hoping to hear about what #TCGA has helped ? Mike Lawrence up next from Broad on PanCan #AGBT14
+434505052305489920  Feb 14 20:50  @SirChuckDarwin   I decided I could stay and get more Genapsys info or go looking for free drinks. #agbt14
+434505146182017026  Feb 14 20:51  @lexnederbragt    "Esfandyarpour says he doesn’t ever think sequencing just a single DNA molecule will prove highly accurate" http://www.forbes.com/sites/matthewherper/2014/02/14/yuri-milner-backed-company-prepares-ipad-size-dna-sequencer/ #agbt14
+434505437795606530  Feb 14 20:52  @JokeReumers      IDT molecular inversion probes up next #AGBT14
+434505492686458880  Feb 14 20:52  @kennamshaw       RT @lexnederbragt: "Esfandyarpour says he doesn’t ever think sequencing just a single DNA molecule will prove highly accurate" http://www.forbes.com/sites/matthewherper/2014/02/14/yuri-milner-backed-company-prepares-ipad-size-dna-sequencer/ #agbt14
+434505592514674688  Feb 14 20:53  @wateresa         Mike Lawrence from @broadinstitute on using paired T/N samples to examine patterns of somatic mutations across cancer #AGBT14
+434505633153286144  Feb 14 20:53  @lexnederbragt    Also nice: "Genomics researchers have been victims of hype before." http://www.forbes.com/sites/matthewherper/2014/02/14/yuri-milner-backed-company-prepares-ipad-size-dna-sequencer/ #AGBT14
+434505648995590144  Feb 14 20:53  @kennamshaw       ML:going to focus on muTect and Indelocator #cancer #agbt14
+434505688652734464  Feb 14 20:53  @frapaport        Mike Lawrence from broad is talking about patterns of mutations among cancers #AGBT14
+434505713524936705  Feb 14 20:53  @Jose_Oliver      RT @erlichya: People just don't get @nanopore. It is a SENSOR not a platform. It is like comparing your smart phone to Amazon Cloud. #AGBT14
+434505717601824768  Feb 14 20:53  @JokeReumers      RT @kennamshaw: Is it bad that I go to talks sometimes just hoping to hear about what #TCGA has helped ? Mike Lawrence up next from Broad on PanCan #AGBT14
+434505746089508864  Feb 14 20:53  @Genomics_Guy     RT @dgmacarthur: SF: @broadinstitute will generate more sequence in 2014 than all previous years combined. Exciting times for us analysis types! #AGBT14
+434505748094021632  Feb 14 20:53  @Genohub          Havens: MIPs, single stranded DNA with 5' an 3' target specific regions #AGBT14
+434505815995985920  Feb 14 20:53  @NGSperspectives  RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434505838720729089  Feb 14 20:53  @DaleYuzuki       Up next: Ira Hall, University of Virginia: The Landscape of Somatic Genome Variation in Single Neurons #AGBT14
+434505839202684929  Feb 14 20:53  @wateresa         ML: 99.9% somatic changes detected are passenger, not driver, mutations. #AGBT14
+434505866998718465  Feb 14 20:54  @frapaport        Use of MutSig to focus on driver events #AGBT14
+434505927501152256  Feb 14 20:54  @will_fitzhugh    Michael Lawrence from the Broad Institute on finding patterns of mutation in cancer, focusing on SNPs and small indels #AGBT14
+434506034787647488  Feb 14 20:54  @DaleYuzuki       Hall: Looking at somatic mutation in brain. Why: we know little about it; medical relevance in cancer, mosaic disorders. #AGBT14
+434506093772144640  Feb 14 20:55  @illumina         RT @kennamshaw: Is it bad that I go to talks sometimes just hoping to hear about what #TCGA has helped ? Mike Lawrence up next from Broad on PanCan #AGBT14
+434506115620290560  Feb 14 20:55  @kennamshaw       ML: Shows Nico Stransky's data from Science 2011 paper seen here http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3415217/ #AGBT14
+434506239079632896  Feb 14 20:55  @obahcall         Mike Lawrence (Broad) on global patterns mutation characterized by looking across cancer types, use MutSig distinguish pass/driver #AGBT14
+434506295241363456  Feb 14 20:55  @DaleYuzuki       Hall: Many hypothesize that neurons that have mut.-prone genomes. Aneuploidy, transposons, elevated activity may cause DNA breaks #AGBT14
+434506334260584448  Feb 14 20:55  @wateresa         ML: common theme across cancers - most mutations have intermediate frequency (2-20%) #AGBT14
+434506356499161088  Feb 14 20:56  @kennamshaw       ML: reviews that most genes are in the intermediate frequency- 2-20% recurrently mutated; still others in long tail/dark matter #AGBT14
+434506431803691008  Feb 14 20:56  @frapaport        Trying to flesh out the list of middle-tier genes #AGBT14
+434506452737486848  Feb 14 20:56  @illumina         RT @obahcall: Mike Lawrence (Broad) on global patterns mutation characterized by looking across cancer types, use MutSig distinguish pass/driver #AGBT14
+434506464066306049  Feb 14 20:56  @OmicsOmicsBlog   RT @lexnederbragt: Chin: showing a bunch of twitter handles on his acknowledgement slide. Code is already open source online #AGBT14
+434506468381831168  Feb 14 20:56  @AllSeq           RT @lexnederbragt: "Esfandyarpour says he doesn’t ever think sequencing just a single DNA molecule will prove highly accurate" http://www.forbes.com/sites/matthewherper/2014/02/14/yuri-milner-backed-company-prepares-ipad-size-dna-sequencer/ #agbt14
+434506503585034241  Feb 14 20:56  @topoisomerase    RT @wateresa: ML: 99.9% somatic changes detected are passenger, not driver, mutations. #AGBT14
+434506530894127104  Feb 14 20:56  @fluidigm         Recent studies show normal neural activity causes breaks in double stranded DNA, somatic mutations in neurons is the norm. #AGBT14
+434506639560175616  Feb 14 20:57  @frapaport        In melanoma, BRAF V600E is only in 2% even though it’s an important druggable mutation #AGBT14
+434506667297083392  Feb 14 20:57  @DaleYuzuki       Hall: Developed own protocol, had help: used GenomePlex (Sigma) (only 1-5% of genome - ?) Nextera, 1-5m reads, map CNVs #AGBT14
+434506699299233792  Feb 14 20:57  @wateresa         ML: MutSig algorithm http://www.broadinstitute.org/cancer/cga/mutsig #AGBT14
+434506873682030592  Feb 14 20:58  @Becky_Kusko      RT @wateresa: ML: MutSig algorithm http://www.broadinstitute.org/cancer/cga/mutsig #AGBT14
+434506896880726016  Feb 14 20:58  @kennamshaw       ML: shows the mutational burden across tumor types from Lawrence et al 2013 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3919509/figure/F1/ #AGBT14
+434507074874380288  Feb 14 20:58  @DaleYuzuki       Hall: Find CNVs of 3-6MB long. Published Science 2013 http://ow.ly/tEj7V #AGBT14
+434507142679494656  Feb 14 20:59  @fluidigm         Ira Hall sequenced 110 neurons, 41% of them had at least 1 CNV #AGBT14
+434507193065689088  Feb 14 20:59  @kennamshaw       ML: reviews more about intricacy of calling mutations; each gene has own background mutation rate #AGBT14
+434507234152681472  Feb 14 20:59  @will_fitzhugh    Lawrence: background mutation rate varies across genome, affected by whether copied early or late in replication #AGBT14
+434507244827582464  Feb 14 20:59  @lexnederbragt    This evenings dinner atmosphere at #agbt14 http://t.co/Y3J2wOVIN1
+434507275714445312  Feb 14 20:59  @illumina         Lawrence: Modeling mut rates aided by WGS, plus temporal studies and others to get a landscape #agbt14

@@ -8270,3 +8270,27 @@
 434368092617973760  Feb 14 11:46  @CrowdedHead      RT @lexnederbragt: Moroz: using fluidigm to capture neruon single cells for RNA-seq on Ion Torrent #AGBT14
 434400488373506048  Feb 14 13:55  @NEBiolabs        Don't just sit back and hear about NGS at #AGBT14. Learn and do Mol Bio + RNA-seq this summer at the Summer Workshop https://www.neb.com/student-services/molecular-biology-summer-workshops
 434414186568101888  Feb 14 14:49  @DaleYuzuki       Korlach: Also mentions the ABRF NGS RNA-Seq study (still yet to be published), cross-platform limitations (bias) shown clearly #AGBT14
+434418504511393792  Feb 14 15:06  @iansilverman     Great Article @neilhall_uk . What about RNA-seq on HiSeqX?  It’s only human http://genomebiology.com/2014/15/2/104 #genomebiology
+434419219204042752  Feb 14 15:09  @Partek_Inc       Stream data from Torrent Suite Software to Partek Flow for comprehensive RNA-Seq data. http://info.partek.com/IonTorrent_RNA-Seq.html  #AGBT14
+434425678839431168  Feb 14 15:35  @sferrebenedicto  Massively Parallel Single-Cell RNA-Seq for Marker-Free Decomposition of Tissues into Cell Types http://buff.ly/1dOngnW @sciencemagazine
+434433364104609792  Feb 14 16:06  @DaleYuzuki       Descombes: Tech used is Hi/MiSeq, PacBio, Affy and ILMN arrays, with automation. 30M reads/sample RNA-Seq #AGBT14
+434433561157173248  Feb 14 16:06  @DaleYuzuki       Descombes: Main liquid handling autom. is PE / Caliper and Hamilton. Focus on RNA-Seq lib prep, and QC / pooling #AGBT14
+434437917692657664  Feb 14 16:24  @DaleYuzuki       Beecham: Targeted RNA via Nanostring cp to RNA-seq: primers will locate, capture, and label all at once; optically barcoded #AGBT14
+434443613586456576  Feb 14 16:46  @_mod_p           http://www.sciencemag.org/content/343/6172/776.abstract 昨日のScienceの論文だが、4000細胞のRNA-seqをするという偉業にはひれ伏すしかない。ひれ伏すからおれのサンプルも読んでほしい。
+434447880183894016  Feb 14 17:03  @genefish         [tumblrtxt] rna-seq pipeline http://ift.tt/1bwdI73 rna-seq pipeline  from Recent Commits to qdod:master http://ift.tt/1cFLrFM via IFTTT
+434490747740762112  Feb 14 19:54  @YoshiKawahara    GATK2が出たばかりかと思っていたら、GATK3についての発表あった。HaplotypeCallerの高速化とRNA−Seq使ったSNP検出の機能追加があるらしい。リリースがいつかは不明。
+434491370049261568  Feb 14 19:56  @mishimahryk      RT @YoshiKawahara: GATK2が出たばかりかと思っていたら、GATK3についての発表あった。HaplotypeCallerの高速化とRNA−Seq使ったSNP検出の機能追加があるらしい。リリースがいつかは不明。
+434496368007053312  Feb 14 20:16  @soh__i           GATK3は、RNA-seq basedなRNA/DNA differenceの検出ができるようになるらしい
+434496611679735808  Feb 14 20:17  @DaleYuzuki       Sen: ClinSeq to use, using RNA-Seq, genome, proteome, deep clinical phenotyping. 8 cases / 8 controls. #AGBT14
+434497034452996096  Feb 14 20:19  @DaleYuzuki       Sen: RNA-Seq of periph. blood; not clear. Went to Framingham heart study (1000 samples) Found increased TREML5 expression in CAC. #AGBT14
+434497150429323264  Feb 14 20:19  @soh__i           RT @GalenWright: To come: GATK RNA-seq variant calling “@gatk_dev: Sneak preview: the spirit of #GATK version 3.0 (upcoming release) http://www.broadinstitute.org/gatk/blog?id=3770”
+434497668271046656  Feb 14 20:21  @DaleYuzuki       Sen: Looked at relative risk for CAC score for rs2803496, nice correlation. 'RNA-seq made my life more complicated cp to microarray" #AGBT14
+434499794871267329  Feb 14 20:29  @kennamshaw       Sean McGrath: Pac Bio Long read RNA-Seq for gene isoform identification and de novo gene prediction from Wash U #AGBT14
+434499970079920128  Feb 14 20:30  @KMeltzSteinberg  RT @kennamshaw: Sean McGrath: Pac Bio Long read RNA-Seq for gene isoform identification and de novo gene prediction from Wash U #AGBT14
+434500100371390465  Feb 14 20:31  @actually_alan    RT @kennamshaw: Sean McGrath: Pac Bio Long read RNA-Seq for gene isoform identification and de novo gene prediction from Wash U #AGBT14
+434500106394800128  Feb 14 20:31  @DaleYuzuki       Sen: Q (Plon): Why not start with the eQTL? A: Exome, RNA-Seq started with. #AGBT14
+434500343763062784  Feb 14 20:32  @PacBio           RT @kennamshaw: Sean McGrath: Pac Bio Long read RNA-Seq for gene isoform identification and de novo gene prediction from Wash U #AGBT14
+434500938532130817  Feb 14 20:34  @frapaport        Use of clontech SMARTer to do long read RNA-seq through PacBio #AGBT14
+434501293865177089  Feb 14 20:35  @iontorrent       Sen (NGRI): study of coronary artery calcification by RNA-seq identifies TREML4 unregulation with wet lab & histochemistry support #AGBT14
+434501540653449218  Feb 14 20:36  @Genohub          McGrath: LNCaP RNA-Seq: Clontech SMARTer, Evrogen Trimmer, PacBio 2kb sample prep #AGBT14
+434501883886333952  Feb 14 20:38  @JokeReumers      RT @Genohub: McGrath: LNCaP RNA-Seq: Clontech SMARTer, Evrogen Trimmer, PacBio 2kb sample prep #AGBT14
