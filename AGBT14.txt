@@ -3362,3 +3362,403 @@
 434684654357315585  Feb 15 08:44  @BertGold4        RT @DaleYuzuki: RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
 434685482686238720  Feb 15 08:47  @jen_omics        RT @Erika_Check: "kind of a cute device,"but not just a pretty face: @nanopore MinION data unveiled at #AGBT14 http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724
 434687190639988737  Feb 15 08:54  @ramonbcg         RT @EricTopol: Compact chip sequencing @Genapsys launches at #AGBT14 http://onforb.es/1gI6Yk3 by @matthewherper @Forbes #genomics
+434726600064917504  Feb 15 11:31  @OmicsOmicsBlog   Burton: rhododendron 1k species, 660Mb but nasty repeats (R.williamsianum) telomeres show linkage; good agree with linkage map  #AGBT14
+434726691551072256  Feb 15 11:31  @Becky_Kusko      Burton: rhododendron de novo assembly shows chromosome clusters and matches linkage groups #AGBT14
+434726699243417601  Feb 15 11:31  @lexnederbragt    RT @Tierhon: Joshua Burton: Involved in sequencing the hops genome! #AGBT14
+434726892869275648  Feb 15 11:32  @OmicsOmicsBlog   Burton: <1% discordance Lachesis vs linkage map; centromeres challenging #AGBT14
+434726976369459200  Feb 15 11:32  @KMeltzSteinberg  Happy to see that Lachesis is open source on github #AGBT14
+434727036977180672  Feb 15 11:32  @JokeReumers      Nice to see so many tools on GitHub #AGBT14
+434727093994528768  Feb 15 11:33  @obahcall         Burton showing the pretty Rhododendron project, tackling near perfect 10kb repeats, de novo assembly w Lachesis, Hi-C dataset #AGBT14
+434727161111388160  Feb 15 11:33  @lexnederbragt    Burton: wants the method to become the new standard in de novo genome assembly #AGBT14
+434727385486090240  Feb 15 11:34  @morgantaschuk    Handy link > https://github.com/shendurelab/LACHESIS RT @KMeltzSteinberg: Happy to see that Lachesis is open source on github #AGBT14
+434727485633474561  Feb 15 11:34  @robincoope       Re JB talk, I can't believe there are >1000 rhododendron species. #AGBT14  #ExcessiveEvolution
+434727498103144448  Feb 15 11:34  @Becky_Kusko      Burton: Lachesis from Greek mythology measured the thread of life, thus the name choice #AGBT14
+434727525428637699  Feb 15 11:34  @JShendure        RT @OmicsOmicsBlog: Josh Burton, UWash (Shendure lab) chromosome-scale scaffolding based on chromatin interactions #AGBT14
+434727530399281153  Feb 15 11:34  @OmicsOmicsBlog   Burton(q): name? Lachesis was Fate who measured thread of life. Very apt! #AGBT14
+434727583218147328  Feb 15 11:35  @bioinformer      RT @morgantaschuk: Handy link > https://github.com/shendurelab/LACHESIS RT @KMeltzSteinberg: Happy to see that Lachesis is open source on github #AGBT14
+434727705620545536  Feb 15 11:35  @OmicsOmicsBlog   RT @StevenNHart: Otzi the iceman dies in Alpine ski accident while on vacation.  #AGBT14
+434727726289653760  Feb 15 11:35  @Genohub          Fuchou Tang: Dissecting the Transcriptome and DNA Methylome Landscapes of Human Preimplantation Embryos and Embryonic Stem Cells  #AGBT14
+434727784817369088  Feb 15 11:35  @DaleYuzuki       Up next: Fuchou Tang, Peking Univ.: The Transcriptome and DNA Methylome Landscapes of Human Preimplantation Embryos and ESC's #AGBT14
+434727795013730304  Feb 15 11:35  @OmicsOmicsBlog   RT @DaleYuzuki: Bustamante: Concl: Goal is a WGS of an ancient genome at only 2-3x the cost of a modern human. #AGBT14
+434727806489341952  Feb 15 11:36  @deannachurch     Last up this morning: Fuchou Tang on looking at the transcriptome and methylome of preimplantation embryos and es cells. #agbt14
+434727820284420096  Feb 15 11:36  @OmicsOmicsBlog   RT @DaleYuzuki: Listening to Carlos reminds me of how entertaining and informative an excellent presenter can be. #AGBT14
+434728235197558784  Feb 15 11:37  @obahcall         JB's advisor @JShendure recent well deserved Pioneer Award, for pioneering genome technology & interpretation http://1.usa.gov/1kJxEGh #AGBT14
+434728331414470656  Feb 15 11:38  @hutchins_e       Lachesis - promising for next-gen de novo genome assembly, like us @KusumiLab, with short reads+mate pair only #agbt14 @evilsmaug @jcorn427
+434728515213484032  Feb 15 11:38  @OmicsOmicsBlog   RT @morgantaschuk: Handy link > https://github.com/shendurelab/LACHESIS RT @KMeltzSteinberg: Happy to see that Lachesis is open source on github #AGBT14
+434728628912680960  Feb 15 11:39  @DaleYuzuki       Tang: Major Q is what det. early cell fate? Early embryos in dev. - uses MALBEC for WGS, others. Science PDF: http://ow.ly/tETgf #AGBT14
+434728682872406016  Feb 15 11:39  @StevenNHart      70% of locates are aneuploid by age 45.  Had no idea it was that dramatic.  #AGBT14
+434728812740632576  Feb 15 11:40  @mike_schatz      RT @obahcall: JB's advisor @JShendure recent well deserved Pioneer Award, for pioneering genome technology & interpretation http://1.usa.gov/1kJxEGh #AGBT14
+434728822936973312  Feb 15 11:40  @hutchins_e       RT @OmicsOmicsBlog: Burton(q): name? Lachesis was Fate who measured thread of life. Very apt! #AGBT14
+434728990595887104  Feb 15 11:40  @AllSeq           A view of AGBT from afar: tweets, blogs and news (updated with GenapSys info) http://ngs.is/1eXMEfC #AGBT14
+434729008149053440  Feb 15 11:40  @DaleYuzuki       Tang: Illus. meiosis of human oocytes, 1st polar body (2N); then 2nd polar body (1N). Looking for euploidy from polar bodies #AGBT14
+434729138965217280  Feb 15 11:41  @Becky_Kusko      Fuchou Tang: with micro manipulation, polar bodies can be isolated for sequencing #AGBT14
+434729155293622272  Feb 15 11:41  @morgantaschuk    Interesting, FT says 40% of oocytes aneuploid @ age 35, but the risk of defects only increases by a very small amount. Discrepancy? #AGBT14
+434729281717940226  Feb 15 11:41  @JonathanHirsch   RT @JokeReumers: Nice to see so many tools on GitHub #AGBT14
+434729693020176384  Feb 15 11:43  @Becky_Kusko      Tang: able to predict chr abnormalities without disrupting embryo via polar body seq #AGBT14
+434729986021687296  Feb 15 11:44  @DaleYuzuki       Tang: After micromanipulation, use MALBEC with 8 donors. Cell publication of 8 human embryo's in Cell 2013 http://ow.ly/tETCn #AGBT14
+434730220932063232  Feb 15 11:45  @DaleYuzuki       Tang: Able to deduce maternal SNVs of indiv. zygotes; validated via Sanger 32/33 alleles. 1: amplification via MALBAC allele dropout #AGBT14
+434730386686357504  Feb 15 11:46  @hutchins_e       Tang: sequencing polar bodies to determine chromosome abnormalities, SNVs of female pronucleus #verycool #AGBT14
+434730753503805440  Feb 15 11:47  @DaleYuzuki       Tang: Illus. a method of NIPT for post-fertilized embryos. First MALBAC-based implantation is underway (presum. in China) #AGBT14
+434730825930661888  Feb 15 11:48  @hutchins_e       the flow chart @ Tang with the happy and sad smilies from oocytes for happy and sad babies amuses me... somewhat simplistic #AGBT14
+434730925591900161  Feb 15 11:48  @KMeltzSteinberg  RT @morgantaschuk: Handy link > https://github.com/shendurelab/LACHESIS RT @KMeltzSteinberg: Happy to see that Lachesis is open source on github #AGBT14
+434731014116876288  Feb 15 11:48  @will_fitzhugh    Poster from Ken Dewar et al showing invoice for doing PacBio sequencing of bacterial genome: <$1,000 #AGBT14 http://t.co/yHCeUHQAff
+434731227191730176  Feb 15 11:49  @DaleYuzuki       Tang: PCA of 120 cells for single-cell transcr.: can separate 3 distinct celltypes. Nature Struct Biol ref: http://ow.ly/tEU9T #AGBT14
+434731296229974016  Feb 15 11:49  @lezf47           RT @GenCellBio: Last day @ #AGBT14 all the Irish whiskey has been drank but plenty Irish chocolate to be eaten @ suite 282
+434731505911607297  Feb 15 11:50  @topoisomerase    RT @GenCellBio: Last day @ #AGBT14 all the Irish whiskey has been drank but plenty Irish chocolate to be eaten @ suite 282
+434731864981790720  Feb 15 11:52  @Becky_Kusko      Tang: found circular RNAs with SUPERseq #AGBT14
+434731921881722881  Feb 15 11:52  @SnupSnus         RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434731937005973504  Feb 15 11:52  @GenomeNathan     Seq by deduction: Tang smartly subtracts polar body haplotypes from somatic genotypes to noninvasively guess egg haplotypes. #agbt14
+434731959513010177  Feb 15 11:52  @DaleYuzuki       Tang: Discussion of a method called Super-Seq (alas missed any ref, can't locate) for lncRNA analysis for single-cell #AGBT14
+434732053972922368  Feb 15 11:52  @topoisomerase    RT @NGSman: Party in the main lobby #IonTorrent knows how throw a party #AGBT14 !
+434732172784979968  Feb 15 11:53  @DaleYuzuki       Tang: RRBS development to the single-cell level: remove pur steps, combine to single-tube reaction, only heat #AGBT14
+434732186064142336  Feb 15 11:53  @morgantaschuk    RT @GenomeNathan: Seq by deduction: Tang smartly subtracts polar body haplotypes from somatic genotypes to noninvasively guess egg haplotypes. #agbt14
+434732357707636736  Feb 15 11:54  @DaleYuzuki       Tang: Single-cell RRBS publication in Genome Res here. http://ow.ly/tEUvu #AGBT14
+434732649857306624  Feb 15 11:55  @timtriche        RT @OmicsOmicsBlog: Blainey: going forward sample number will dominate throughput and cost #AGBT14 #hearhear
+434732697404342272  Feb 15 11:55  @DaleYuzuki       Tang: scRRBS of indiv. cells shows considerable var; also looking at haploid cell methylation status (sperm): 92% of sites 100%/0% #AGBT14
+434732813532037120  Feb 15 11:55  @iontorrent       come on down to the Palms ballroom for the Ion Torrent Innovations Update workshop - lunch is now being served! #AGBT14
+434733115479969792  Feb 15 11:57  @DaleYuzuki       Tang: Q: SNP analysis from indiv cells? A: de novo point muts - need 3 cells. Several oocytes each with 2 PB's (same donor) #AGBT14
+434733183318630400  Feb 15 11:57  @obahcall         .@Erika_Check on Oxford Nanopore MinION: a good 1st shot, but not a game-changer—yet http://bit.ly/1kJzK90 @NatureNews #AGBT14
+434733273042796544  Feb 15 11:57  @timtriche        RT @OmicsOmicsBlog: Blainey(q): how might it work with long DNA. Expect to do well, lo Reynolds number(shear). Haven't explored yet #AGBT14
+434733513238409216  Feb 15 11:58  @lexnederbragt    RT @obahcall: .@Erika_Check on Oxford Nanopore MinION: a good 1st shot, but not a game-changer—yet http://bit.ly/1kJzK90 @NatureNews #AGBT14
+434733605919920128  Feb 15 11:59  @genomeresearch   F Tang: Single-cell methylome landscapes of early embryos http://tinyurl.com/p4cdnr4 #AGBT14
+434733670104965121  Feb 15 11:59  @timtriche        RT @robincoope: Note that for "production" NGS prep, QC is coming to dominate cost and time over library construction itself. #AGBT14
+434733714078048258  Feb 15 11:59  @timtriche        RT @OmicsOmicsBlog: Blainey(q): when can we buy one? Not planning to commercialize; has one in his bag, beer suggested by questioner as currency #AGBT14
+434733910191116289  Feb 15 12:00  @obahcall         .@matthewherper on GenapSys. Genomics researchers have been victims of hype before.  http://onforb.es/1kJzcjn #AGBT14
+434734061802618880  Feb 15 12:00  @GenomeNathan     New X(Y) prize?: Find & seq meiotic brethren of a fertile sperm, to guess its haplotypes. Need human version of Arabidopsis quartet. #agbt14
+434734146112331776  Feb 15 12:01  @fgs1410          RT @Genohub: Bustamante: WISC can be used to deplete human DNA, "negative capture" #AGBT14
+434734353000955905  Feb 15 12:02  @AgilentGenomics  RT @erlichya: It is never too early to learn high throughput techniques with @AgilentGenomics #AGBT14  #F1 http://t.co/CNWIIhcW6O
+434734984335982592  Feb 15 12:04  @evennemeyer      #AGBT14 @iontorrent lunch seminar is filling up!! Get in line http://t.co/JYZmXYWcMu
+434735038165692416  Feb 15 12:04  @bioinformer      RT @will_fitzhugh: Poster from Ken Dewar et al showing invoice for doing PacBio sequencing of bacterial genome: <$1,000 #AGBT14 http://t.co/yHCeUHQAff
+434735224534999040  Feb 15 12:05  @surt_lab         RT @will_fitzhugh: Poster from Ken Dewar et al showing invoice for doing PacBio sequencing of bacterial genome: <$1,000 #AGBT14 http://t.co/yHCeUHQAff
+434735282592546816  Feb 15 12:05  @timtriche        RT @OmicsOmicsBlog: Bustamante: up to 139X enrichment; uniform coverage across genome; 77% of on target fragments in pre capture retained #AGBT14
+434735427417698304  Feb 15 12:06  @timtriche        RT @OmicsOmicsBlog: Bustamante: showing plots of read length, sites accessed; Proton beating ILMN - library prep affecting errors at pos 2 #AGBT14
+434735880113520640  Feb 15 12:08  @iontorrent       Andy Felton is kicking things off at the Ion Torrent workshop in the Palms ballroom at #AGBT14
+434736154941063169  Feb 15 12:09  @NuGENInc         And the winner of the #AGBT14 NuGEN iPad Air raffle is...
+434736180610236416  Feb 15 12:09  @iontorrent       first up at the workshop: Joe Boland talking about the Ion Chef System and Hi-Q chemistry #AGBT14
+434736190923624448  Feb 15 12:09  @timtriche        RT @OmicsOmicsBlog: Burton(q): name? Lachesis was Fate who measured thread of life. Very apt! #AGBT14
+434736226503901184  Feb 15 12:09  @lexnederbragt    I'm at the Ion Torrent workshop at #agbt14. Deja vu: same room, same lunch as the Illumina workshop a few days ago...
+434736449377026048  Feb 15 12:10  @nabsys           Don’t miss @BarrettBready’s last presentation for #AGBT14 on our technology--1:00 p.m. in Everglades Conference Room!
+434736530465099780  Feb 15 12:10  @lexnederbragt    Boland: 6 PGM and 4 Proton, AmpliSeq #AGBT14
+434736608311803905  Feb 15 12:10  @iontorrent       Boland has 6 Ion PGM Systems and 4 Ion Proton Systems. He has used 46 different Ion AmpliSeq custom gene panels #AGBT14
+434736787559550978  Feb 15 12:11  @iontorrent       Boland: automated Ion AmpliSeq production in his lab with Beckman platform #AGBT14
+434736907738963968  Feb 15 12:12  @DaleYuzuki       Nice #AGBT14 crowd in the Palms Ballroom to hear about @iontorrent Chef and Proton updates. http://ow.ly/i/4BT2V
+434736978798473217  Feb 15 12:12  @lexnederbragt    Boland: Had Chef since mid-November. 37 runs already. 200 bp chemistry. Challenge: titrating library. Uses 1 Chef for 2 PGMs #AGBT14
+434737101780054016  Feb 15 12:12  @iontorrent       Boland: Early access Ion Chef: running 4-5d / week, 37 runs to date with only one failure. Primarily using for Ion AmpliSeq libs #AGBT14
+434737221854588928  Feb 15 12:13  @NuGENInc         Magali Soumillon! We'll deliver it personally once you're back home. #AGBT14
+434737454562967552  Feb 15 12:14  @iontorrent       Boland: comparable to better results with Ion Chef vs. OneTouch 2 System & manual chip loading. “Nice consistent loading” #AGBT14
+434737596049027072  Feb 15 12:14  @ScienceOfDogs    #AGBT14 the whole purpose of a conference  is to share ideas. No  tweets/photos/blog policy of some is senseless. http://t.co/Z79j7XbZdG
+434737664667828224  Feb 15 12:15  @lexnederbragt    Boland: Ion Chef basically functions as the OneTouch #AGBT14
+434737997628452866  Feb 15 12:16  @lexnederbragt    Boland: successfully tried to store second chip and run it after the first one is done. Nice for labs with only one PGM #AGBT14
+434738091627388928  Feb 15 12:16  @hernanmomel      RT @iontorrent: Boland has 6 Ion PGM Systems and 4 Ion Proton Systems. He has used 46 different Ion AmpliSeq custom gene panels #AGBT14
+434738237764947968  Feb 15 12:17  @timtriche        RT @genomeresearch: F Tang: Single-cell methylome landscapes of early embryos http://tinyurl.com/p4cdnr4 #AGBT14
+434738254576115712  Feb 15 12:17  @iontorrent       Boland now talking about his Hi-Q Chemistry tech access testing using the BRCA1/2 Ion AmpliSeq Community Panel  #AGBT14
+434738591026016256  Feb 15 12:18  @lexnederbragt    Boland: Hi-Q: improved variant calling. Reduced homopolymer error-indel calls #AGBT14
+434738645833367552  Feb 15 12:19  @iontorrent       Boland: “immediately saw improved results” with Hi-Q: >97% coverage uniformity for BRCA panel. >60% reduction in FP indel calls #AGBT14
+434738786094678016  Feb 15 12:19  @dgermain21       This is crazy (if it works reliably). RT @genomeresearch: F Tang: Single-cell methylome landscapes of embryos http://tinyurl.com/p4cdnr4 #AGBT14
+434739108016304128  Feb 15 12:20  @iontorrent       Boland: “Ion Chef has performed quite well in our hands" #AGBT14
+434739712524181504  Feb 15 12:23  @lexnederbragt    Do I/we need to petition @nanopore to release the Oxford Nanopore MinION data that David Jaffe discussed at #agbt14? Should not be necessary
+434739925335158784  Feb 15 12:24  @acdarby          RT @lexnederbragt: Do I/we need to petition @nanopore to release the Oxford Nanopore MinION data that David Jaffe discussed at #agbt14? Should not be necessary
+434740035599224833  Feb 15 12:24  @iontorrent       Boland in Q&A clarifying that Ion Chef System replaces the One Touch 2 template prep and also chip loading.  #AGBT14
+434740142507433985  Feb 15 12:25  @Benji_JP         RT @will_fitzhugh: Poster from Ken Dewar et al showing invoice for doing PacBio sequencing of bacterial genome: <$1,000 #AGBT14 http://t.co/yHCeUHQAff
+434740231343177728  Feb 15 12:25  @iontorrent       next up at the Ion Torrent workshop: Milan Radovich #AGBT14
+434740518132543488  Feb 15 12:26  @homolog_us       RT @lexnederbragt: Do I/we need to petition @nanopore to release the Oxford Nanopore MinION data that David Jaffe discussed at #agbt14? Should not be necessary
+434740673133436928  Feb 15 12:27  @iontorrent       Radovich: research centered around understanding genomic and transcriptomic changes in triple-negative breast cancer #AGBT14
+434741097278238720  Feb 15 12:28  @iontorrent       Radovich: Triple-negative breast cancer has appreciably poorer prognosis; 10-15% of all breast cancer & paucity of effective Tx #AGBT14
+434741413415518208  Feb 15 12:30  @OmicsOmicsBlog   RT @GenomeNathan: Seq by deduction: Tang smartly subtracts polar body haplotypes from somatic genotypes to noninvasively guess egg haplotypes. #agbt14
+434741503995682816  Feb 15 12:30  @iontorrent       Radovich: RNA-Seq shows striking differences b/w normal, triple-neg, and adjacent (not so) normal tissue. 3K genes diff vs normal #AGBT14
+434741597159575553  Feb 15 12:30  @OmicsOmicsBlog   RT @GenomeNathan: New X(Y) prize?: Find & seq meiotic brethren of a fertile sperm, to guess its haplotypes. Need human version of Arabidopsis quartet. #agbt14
+434741670777597952  Feb 15 12:31  @sandiegoscience  RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434741708358975488  Feb 15 12:31  @OmicsOmicsBlog   RT @will_fitzhugh: Poster from Ken Dewar et al showing invoice for doing PacBio sequencing of bacterial genome: <$1,000 #AGBT14 http://t.co/yHCeUHQAff
+434741874587611136  Feb 15 12:31  @OmicsOmicsBlog   RT @lexnederbragt: I'm at the Ion Torrent workshop at #agbt14. Deja vu: same room, same lunch as the Illumina workshop a few days ago...
+434741956225556481  Feb 15 12:32  @DNABARCODE       RT @AllSeq: A view of AGBT from afar: tweets, blogs and news (updated with GenapSys info) http://ngs.is/1eXMEfC #AGBT14
+434741979633967104  Feb 15 12:32  @OmicsOmicsBlog   RT @lexnederbragt: Boland: Had Chef since mid-November. 37 runs already. 200 bp chemistry. Challenge: titrating library. Uses 1 Chef for 2 PGMs #AGBT14
+434741999267483648  Feb 15 12:32  @OmicsOmicsBlog   RT @lexnederbragt: Boland: successfully tried to store second chip and run it after the first one is done. Nice for labs with only one PGM #AGBT14
+434742064056897536  Feb 15 12:32  @OmicsOmicsBlog   RT @lexnederbragt: Do I/we need to petition @nanopore to release the Oxford Nanopore MinION data that David Jaffe discussed at #agbt14? Should not be necessary
+434742491775246336  Feb 15 12:34  @iontorrent       Radovich: “important thing to know with cancer…hitting one target is never truly effective." #AGBT14
+434742950007173120  Feb 15 12:36  @PoleCrosby       RT @Becky_Kusko: ME: ready for zombie apocalypse with diesel generator to back up computational core #AGBT14
+434743016767889408  Feb 15 12:36  @iontorrent       Radovich: uses Ion Proton System for RNA-Seq. Massive over expression of Wnt pathway receptors observed #AGBT14
+434743172355604480  Feb 15 12:37  @AndyLarrea       RT @will_fitzhugh: Poster from Ken Dewar et al showing invoice for doing PacBio sequencing of bacterial genome: <$1,000 #AGBT14 http://t.co/yHCeUHQAff
+434743355608530944  Feb 15 12:37  @kesturidotnet    RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434743471585251328  Feb 15 12:38  @ING_SYS          #AGBT14 @ 1PM, Islands Ballroom: Hakon Hakonarson, UPenn. The Impact of Optimized #Sequencing Analysis Pipeline on Decision Making in Med.
+434743936054493184  Feb 15 12:40  @glyn_dk          RT @bioinformer: you know you're in too deep when you are watching the #AGBT14 hashtag like a day trader after an IPO…
+434743947307802624  Feb 15 12:40  @PoleCrosby       RT @MeekIsaac: Sequenom - Almost 150,000 samples in 2013 - impressive! #agbt14
+434743970833661952  Feb 15 12:40  @iontorrent       Radovich now showing @Partek_Inc Flow software for primary analysis & visualization of his Ion Proton RNA-Seq data. #AGBT14
+434744068556734464  Feb 15 12:40  @topoisomerase    RT @bioinformer: you know you're in too deep when you are watching the #AGBT14 hashtag like a day trader after an IPO…
+434744363777007617  Feb 15 12:41  @iontorrent       Radovich: early access data from newly announced Ion AmpliSeq Exome RDY - dried down primer pools in plates for even easier workflow #AGBT14
+434744708208685057  Feb 15 12:43  @AaronListon      RT @OmicsOmicsBlog: Burton: rhododendron 1k species, 660Mb but nasty repeats (R.williamsianum) telomeres show linkage; good agree with linkage map  #AGBT14
+434744710188793856  Feb 15 12:43  @vasipalli        RT @lexnederbragt: I'm at the Ion Torrent workshop at #agbt14. Deja vu: same room, same lunch as the Illumina workshop a few days ago...
+434744717096800256  Feb 15 12:43  @iontorrent       Radovich: 14Gb & modal RL 227 bp. 95% reads on target and 92% base coverage >20X on normal DNA. great results on FFPE DNA too! #AGBT14
+434744757927948288  Feb 15 12:43  @AaronListon      RT @OmicsOmicsBlog: Burton: <1% discordance Lachesis vs linkage map; centromeres challenging #AGBT14
+434744789305942016  Feb 15 12:43  @evennemeyer      RT @iontorrent: Radovich: early access data from newly announced Ion AmpliSeq Exome RDY - dried down primer pools in plates for even easier workflow #AGBT14
+434744927688589312  Feb 15 12:44  @topoisomerase    RT @iontorrent: Radovich: 14Gb & modal RL 227 bp. 95% reads on target and 92% base coverage >20X on normal DNA. great results on FFPE DNA too! #AGBT14
+434744933522878464  Feb 15 12:44  @CLCbio           RT @ING_SYS: #AGBT14 @ 1PM, Islands Ballroom: Hakon Hakonarson, UPenn. The Impact of Optimized #Sequencing Analysis Pipeline on Decision Making in Med.
+434744935560933376  Feb 15 12:44  @AaronListon      RT @OmicsOmicsBlog: Burton(q): name? Lachesis was Fate who measured thread of life. Very apt! #AGBT14
+434745070596927488  Feb 15 12:44  @lexnederbragt    RT @iontorrent: Radovich: early access data from newly announced Ion AmpliSeq Exome RDY - dried down primer pools in plates for even easier workflow #AGBT14
+434745099885772801  Feb 15 12:44  @lexnederbragt    RT @iontorrent: Radovich: 14Gb & modal RL 227 bp. 95% reads on target and 92% base coverage >20X on normal DNA. great results on FFPE DNA too! #AGBT14
+434745167648931840  Feb 15 12:44  @iontorrent       Radovich: he is using combo of Ion PGM System and Open Array qPCR in CLIA lab for PGx #AGBT14
+434745172514332672  Feb 15 12:45  @DaleYuzuki       RT @OmicsOmicsBlog: Boland: Had Chef since mid-Nov; 37 runs. 200 bp chemistry. Challenge: titrating library. Uses 1 Chef for 2 PGMs #AGBT14
+434745586001391616  Feb 15 12:46  @PenrynPam        RT @iontorrent: Radovich: Triple-negative breast cancer has appreciably poorer prognosis; 10-15% of all breast cancer & paucity of effective Tx #AGBT14
+434745632444915712  Feb 15 12:46  @DaleYuzuki       RT @iontorrent: Radovich: Using combo of Ion PGM System and Open Array qPCR in CLIA lab for PGx #AGBT14
+434745866902331393  Feb 15 12:47  @DaleYuzuki       RT @lexnederbragt: Radovich: early access data by new Ion AmpliSeq Exome RDY - dried down primer pools in plates for easier workflow #AGBT14
+434745896589598720  Feb 15 12:47  @iontorrent       closing out the Ion Torrent workshop is our head of R&D, Alan Williams #AGBT14
+434745956022484992  Feb 15 12:48  @lexnederbragt    Next speaker is from Ion Torrent R&D, Alan Williams #agbt14
+434746031700705280  Feb 15 12:48  @aspartango       The real story from #AGBT14 is better performance on FFPE tissue.
+434746327764041728  Feb 15 12:49  @OmicsOmicsBlog   Surprised at exodus from Ion Torrent session prior to PII talk #agbt14
+434746372793708544  Feb 15 12:49  @lexnederbragt    Williams: PII chip for Proton: first chips in-house for testing. #AGBT14
+434746512300838912  Feb 15 12:50  @iontorrent       Williams: Ion PII Chip has 4x the wells and transistors of Ion PI Chip. Key performance milestones achieved since Ion World meeting #AGBT14
+434746628038467584  Feb 15 12:50  @Clonegene        RT @iontorrent: Radovich: “important thing to know with cancer…hitting one target is never truly effective." #AGBT14
+434746649785958401  Feb 15 12:50  @DaleYuzuki       Williams: Now 3w with new PII design; biggest risk was 5Gb/s data output. #AGBT14
+434746658698833920  Feb 15 12:50  @OmicsOmicsBlog   PII uses 5Gb/s links. But not getting consistent performance across chip. Electronics redesign #agbt14
+434746685273554944  Feb 15 12:51  @lexnederbragt    Williams: need small redesigns to reach 5Gbps transfer speed off the chip #AGBT14
+434746763829063681  Feb 15 12:51  @obigriffith      This looks like a nice spot to work on my #AGBT14 talk. http://t.co/uQDYKAcV6w
+434746995233030144  Feb 15 12:52  @OmicsOmicsBlog   PII currently testing by reading only one quadrant of chip; implies 296M reads from full chip #agbt14
+434747018410356736  Feb 15 12:52  @lexnederbragt    A little Thermo Scientific logo on each slide from Williams... #AGBT14
+434747027671351296  Feb 15 12:52  @CrowdedHead      RT @aspartango: The real story from #AGBT14 is better performance on FFPE tissue.
+434747080213807104  Feb 15 12:52  @iontorrent       Williams: human genome frag library data on Ion PII Chip shown. Two runs shown at >250M and 371M extrapolated read yields #AGBT14
+434747256986558466  Feb 15 12:53  @lexnederbragt    When was the Ion Proton PII promised to be released again? #agbt14
+434747392051535872  Feb 15 12:53  @CrowdedHead      RT @genetics_blog: I'm archiving all #AGBT14 tweets at https://github.com/stephenturner/twitterchive/blob/master/AGBT14.txt
+434747429813252097  Feb 15 12:53  @iontorrent       Williams: now showing RNA-Seq results on Ion PII Chip with 342M extrapolated reads. nice r 0.99 correlation plots with PI:PII data #AGBT14
+434747475208183808  Feb 15 12:54  @OmicsOmicsBlog   PII .991 r (? Not r^2) with PI #agbt14
+434747815273582592  Feb 15 12:55  @lexnederbragt    Williams: early access May/June (so half a year later than last time I heard a timeline), after summer full release #AGBT14
+434747882265382912  Feb 15 12:55  @iontorrent       Williams: Ion PII Chip early access is on track for May/Jun with full launch in 2H this year. Now moving on to Ion Chef System #AGBT14
+434747886417371136  Feb 15 12:55  @CrowdedHead      RT @fluidigm: Where can you catch @Fluidigm at #AGBT14? http://bit.ly/1b4aB5U
+434747949814665216  Feb 15 12:56  @OmicsOmicsBlog   PII chip  initially for counting applications; then try to lengthen reads; early access targeted for May/Jun; launch 14H2 #agbt14
+434748023173021696  Feb 15 12:56  @iontorrent       Williams: 15 min hands on time with Ion Chef System. “library to loaded chips” for Ion PGM and Proton Systems #AGBT14
+434748063211859968  Feb 15 12:56  @OmicsOmicsBlog   RT @iontorrent: Williams: Ion PII Chip has 4x the wells and transistors of Ion PI Chip. Key performance milestones achieved since Ion World meeting #AGBT14
+434748201053061121  Feb 15 12:57  @KristaTernus     RT @PacBio: JM: Healthcare-assoc bacterial infections: 1/20 hospital admissions, 2M people affected, ~100K deaths annually, $30B economic toll #AGBT14
+434748231072096258  Feb 15 12:57  @OmicsOmicsBlog   RT @lexnederbragt: Williams: early access May/June (so half a year later than last time I heard a timeline), after summer full release #AGBT14
+434748246787768320  Feb 15 12:57  @lexnederbragt    Williams: Ion Chef early access ongoing (also said to be released before Christmas in Oct 2013) #AGBT14
+434748318640783360  Feb 15 12:57  @will_fitzhugh    RT @iontorrent: Williams: Ion PII Chip early access is on track for May/Jun with full launch in 2H this year. Now moving on to Ion Chef System #AGBT14
+434748404628197377  Feb 15 12:57  @iontorrent       Williams: Ion Chef EA performing well at 7 customer sites. Showing nice results from customer PGM runs and internal Proton data. #AGBT14
+434748649441345537  Feb 15 12:58  @iontorrent       Williams moving on to Hi-Q. Dataset available on Ion Community. All bases >Q30 with mean Q35 using 400 base chemistry #AGBT14
+434748757742063616  Feb 15 12:59  @lexnederbragt    Williams on Hi-Q: will be universal kit for 200 or 400 bp reads. Demo data available through Ion Community. #AGBT14
+434748884200747008  Feb 15 12:59  @OmicsOmicsBlog   RT @iontorrent: Williams moving on to Hi-Q. Dataset available on Ion Community. All bases >Q30 with mean Q35 using 400 base chemistry #AGBT14
+434748897526054913  Feb 15 12:59  @iontorrent       Williams: Hi-Q tech access going well - customer examples of 64-70% reduction in deletion error rate with Ion AmpliSeq panels #AGBT14
+434749014102507520  Feb 15 13:00  @Eventifier       @agbt #AGBT14 is being captured in real time, have a look: http://buff.ly/1bxvJlq cc @idtdna @PatrikD Ty
+434749085661544448  Feb 15 13:00  @iontorrent       Williams: Rapid isothermal template prep chemistry also in EA - showing 566 bp & 578 bp modal read length Ion PGM runs #AGBT14
+434749134923264000  Feb 15 13:00  @lexnederbragt    Williams: Avalanche: R&D testing. Easier protocols, slightly fewer reads, >500 bp reads #AGBT14
+434749233812746240  Feb 15 13:01  @fluidigm         RT @genomeresearch: F Tang: Single-cell methylome landscapes of early embryos http://tinyurl.com/p4cdnr4 #AGBT14
+434749326045499392  Feb 15 13:01  @OmicsOmicsBlog   Avalanche template prep; 10--15% less yield, but simple manual prep with no $$$ equipment. 500bp libraries #agbt14
+434749367632019457  Feb 15 13:01  @iontorrent       Williams: More on the Ion AmpliSeq Exome RDY kit - 6 hr workflow with 50 min hands on time. 8 exomes / plate or 2 exome / plate #AGBT14
+434749586662379520  Feb 15 13:02  @will_fitzhugh    Alan Williams from @iontorrent - 6 Ion AmlpiSeq panels and 10 community panels, incl. RDY panel for exome w/6hr turnaround time #AGBT14
+434749628484157440  Feb 15 13:02  @iontorrent       AW: AmpliSeq Exome RDY - compat. w/ Ion Library Equalizer Kit for simple normalization. Great for multiple exomes / Ion Proton run #AGBT14
+434749856012566528  Feb 15 13:03  @iontorrent       Williams: new Ion AmpliSeq Community Panels now available for TP53 and CFTR research. #AGBT14
+434749890456207360  Feb 15 13:03  @fluidigm         Tang- can get embryo chromosome #, haplotype , and snv info from only sequencing polar body at the single-cell level. #AGBT14
+434750093468913664  Feb 15 13:04  @dnanexus         Drop into the DNAnexus suite #284 & get some great swag before you go home. #AGBT14
+434750184443351043  Feb 15 13:04  @iontorrent       AW: custom Ion AmpliSeq RNA fusion panels now available. Only 5-10 ng FFPE RNA input. Lung fusion research panel also coming soon #AGBT14
+434750451352109056  Feb 15 13:05  @iontorrent       AW: showing down to 1% detection of EML4-ALK fusion via spike-in to normal RNA background with Ion AmpliSeq RNA. #AGBT14
+434750776909774848  Feb 15 13:07  @iontorrent       AW: New Ion Reporter workflows coming for AmpliSeq RNA fusion panels. Automated analysis for quant and annotation of fusions #AGBT14
+434750954550738944  Feb 15 13:07  @will_fitzhugh    Alan Williams from @iontorrent: v4.2 of Ion Reporter will support gene fusion detection and reporting #AGBT14
+434751713766305792  Feb 15 13:11  @DaleYuzuki       QIAGEN GmbH workshop: illustrating the largest bottlenecks, and the large number of paraffin-embedded sample collections #AGBT14
+434751978476810241  Feb 15 13:12  @westr            #AGBT14 current analytics: 7.5M impressions - http://bit.ly/1b73yZO #pm101 #genomics
+434752093493403648  Feb 15 13:12  @DaleYuzuki       QIAGEN GmbH Workshop: >80% of NGS runs use Q sample-prep; 2.3k inst. using CLCbio; 15K use Ingenuity tools, including IPA (10y old) #AGBT14
+434752478136254464  Feb 15 13:14  @DaleYuzuki       QIAGEN GmbH Workshop:Used the words 'dominant player'; '14 plans include 12 new tech kits; 14 new gene panels; GeneReader  #AGBT14
+434752789018079232  Feb 15 13:15  @DaleYuzuki       QIAGEN: New GeneRead FFPE kit for small-scale purification; REPLI-g single-cell portfolio. #AGBT14
+434752964776169472  Feb 15 13:15  @bioinformer      RT @iontorrent: Williams: Rapid isothermal template prep chemistry also in EA - showing 566 bp & 578 bp modal read length Ion PGM runs #AGBT14
+434753024263999488  Feb 15 13:16  @DaleYuzuki       QIAGEN: 1-20 independent runs on the GeneReader (GR); hotspot panel throughput x 250 samples/day #AGBT14
+434753095990788096  Feb 15 13:16  @KalebShelton     RT @lexnederbragt: Do I/we need to petition @nanopore to release the Oxford Nanopore MinION data that David Jaffe discussed at #agbt14? Should not be necessary
+434753584002244609  Feb 15 13:18  @fluidigm         Our live cell bar is still running until 3pm today. Stop by Lanai 280 to try our C1 (tm) system yourself. #AGBT14 http://t.co/hH86ecHTXq
+434753720669450240  Feb 15 13:18  @DaleYuzuki       Up next at the Q workshop: William Freeman, Univ OK HSC: Metabolic memory and transcriptomic signatures in diabetic retinopathy #AGBT14
+434754162249981953  Feb 15 13:20  @DaleYuzuki       Freeman: Diabetic retinopathy is leading cause of vision loss (12k - 24k in US lose some vision/ year) #AGBT14
+434754465078734848  Feb 15 13:21  @Macroevo         RT @fluidigm: Genome sequencing uncovered 2 cases of parthenogenesis in condors. #AGBT14
+434754545265410048  Feb 15 13:22  @DaleYuzuki       QIAGEN: Poor glycemic control - cause complications years afterward. Large studies over a 10y timeframe. May be epigenetic. #AGBT14
+434754822311780353  Feb 15 13:23  @DaleYuzuki       RT @will_fitzhugh: Alan Williams from @iontorrent: v4.2 of Ion Reporter will support gene fusion detection and reporting #AGBT14
+434754897721188352  Feb 15 13:23  @NGSperspectives  @pathogenomenick Hi Nick! Are you at #AGBT14 - and if so, would you be interested in doing a video, like this one? http://ngsperspectives.com/keith-robison-talks-illumina-potential-ngs-competitors/
+434755015878934528  Feb 15 13:24  @AndyLarrea       #agbt14 may be chilly but it could be worse ... http://t.co/cGcQTy7ZgV
+434755192933064704  Feb 15 13:24  @DaleYuzuki       Freeman: Using rat model (less genome annotation, no capture reagents, limited tissue); small effects, hetergeneous tissue #AGBT14
+434755567106916352  Feb 15 13:26  @geneiam          William Freeman @OUHSC thanks computer scientists but thinks we need push button applications #AGBT14
+434755894099062785  Feb 15 13:27  @DaleYuzuki       Freeman: Co-isolated DNA and RNA (Q); TruSeq/HiSeq; CLCbio; IPA. Needed targeted methylation; 2-20kb, invented Bisulf. amplicon #AGBT14
+434756193324912640  Feb 15 13:28  @DaleYuzuki       Freeman: Bisulf. Amplicon Sequencing (BSAS) analyzed via GUI, in-silico reference conversion. Nice data across several CpC sites #AGBT14
+434756498657275904  Feb 15 13:30  @iontorrent       Are you planning on attending the #AGBT14 presentation by Carlos Bustamante of Stanford University at 10:55?
+434756533592027136  Feb 15 13:30  @DaleYuzuki       Freeman: Correlated to RNA-Seq data; rate-limiting is bisulfite primer design. #AGBT14
+434756581537120256  Feb 15 13:30  @CLCbio           Freeman: "With CLC's GUI we can build our own workflows. Everyone does their own analyses. We don't have the bioinformatics guy. #AGBT14
+434757015416872960  Feb 15 13:32  @PeroMHC          .@AndyLarrea want to chat with you and Bobby when you get back from #AGBT14 I want to try some RNA sequencing.
+434757462856847360  Feb 15 13:33  @mike_schatz      RT @aaronquinlan: The speedseq pipeline and samblaster tool that @ryanlayer presented can be found on GitHub. #agbt14 https://github.com/cc2qe/speedseq
+434757465700569088  Feb 15 13:33  @DaleYuzuki       RT @westr: #AGBT14 current analytics: 7.5M impressions - http://bit.ly/1b73yZO #pm101 #genomics
+434758319543451648  Feb 15 13:37  @DaleYuzuki       Freeman: Seeing democratization, as they've gone from a few genes and up-scaled; great training of 'next gen of scientists' #AGBT14
+434758575710556160  Feb 15 13:38  @swarmIQ          RT @AgilentGenomics: Come by Lanai 193 today, say HaloPlex and get your #AGBT14 tee-shirts, caps, beach mats, and glow glasses -until 3pm
+434758682774343680  Feb 15 13:38  @DaleYuzuki       Up next: Hakon Hakonarson (CHOP): Impact of optimized seq analysis pipeline on decision making in genomic medicine #AGBT14
+434758742110769152  Feb 15 13:38  @GenomeNathan     Hakonarson on genomic medicine at CHOP. #AGBT14
+434758901092065280  Feb 15 13:39  @lucventurini     RT @morgantaschuk: Handy link > https://github.com/shendurelab/LACHESIS RT @KMeltzSteinberg: Happy to see that Lachesis is open source on github #AGBT14
+434759143325708289  Feb 15 13:40  @DaleYuzuki       Hakonarson: Disclosing as a founder of neuroFix Therapeutics. Chronic diseases are growing. 15% of children (10M) US have spec needs #AGBT14
+434759389007081472  Feb 15 13:41  @DaleYuzuki       Hakonarson: Where medicine is headed: stem-cell therapy has major promise, will take time for acceptance. 'Opportunities are huge' #AGBT14
+434759666007298048  Feb 15 13:42  @DaleYuzuki       Hakonarson: CHOP Center for Applied Genomics - 2006 founded; 75 staff; 60K children recruited. Target: 100K. EHR goes 12y back #AGBT14
+434759681178079232  Feb 15 13:42  @NGSperspectives  RT @DaleYuzuki: Freeman: Seeing democratization, as they've gone from a few genes and up-scaled; great training of 'next gen of scientists' #AGBT14
+434759922488999936  Feb 15 13:43  @DaleYuzuki       Hakonarson: Focus on neurodevelopmental studies, other developmental ones. History: Linkage, then GWAS, then WES. #AGBT14
+434760164072513536  Feb 15 13:44  @DaleYuzuki       Hakonarson: Biobank a key asset: EHR has unlimited potential - longitudinal followup, history of medications, track complex pheno's #AGBT14
+434760196347666432  Feb 15 13:44  @GenomeNathan     RT @DaleYuzuki: Hakonarson: Focus on neurodevelopmental studies, other developmental ones. History: Linkage, then GWAS, then WES. #AGBT14
+434760383841460224  Feb 15 13:45  @OmicsOmicsBlog   RT @DaleYuzuki: QIAGEN GmbH Workshop:Used the words 'dominant player'; '14 plans include 12 new tech kits; 14 new gene panels; GeneReader  #AGBT14
+434760385959567360  Feb 15 13:45  @DaleYuzuki       Hakonarson: Power of the biobank - 10K recruited back for add'l phenotyping, assessment, 'computerized neurocognitive battery' #AGBT14
+434760428330041344  Feb 15 13:45  @sminot           RT @obahcall: .@Erika_Check on Oxford Nanopore MinION: a good 1st shot, but not a game-changer—yet http://bit.ly/1kJzK90 @NatureNews #AGBT14
+434760571603656704  Feb 15 13:46  @DaleYuzuki       Hakonarson: And neuroimaging to boot; interview-based dis. class.; top and bottom 15% of the population (extreme phenotypes) #AGBT14
+434760572282761216  Feb 15 13:46  @AaronListon      RT @morgantaschuk: Handy link > https://github.com/shendurelab/LACHESIS RT @KMeltzSteinberg: Happy to see that Lachesis is open source on github #AGBT14
+434760750364495872  Feb 15 13:46  @jen_omics        This is pretty cool! Visualizing complex data via  http://www.tumorportal.org/ by Michael Lawrence from @broadinstitute at #AGBT14
+434760754118819841  Feb 15 13:46  @hudasalim12      📣📣📣 http://m.youtube.com/watch?feature=c4-feed-u&v=w06jbZGYw5g #BritishBand #BeatRussia #TVD #RT #TurkishPotterheadswantsHPStore #RanaSamahaTeam #Turkey #AGBT14
+434761013175390208  Feb 15 13:47  @KatayoonKasaian  RT @DaleYuzuki: Hakonarson: Biobank a key asset: EHR has unlimited potential - longitudinal followup, history of medications, track complex pheno's #AGBT14
+434761023925796864  Feb 15 13:48  @DaleYuzuki       Hakonarson: ADHD - est $76B/y cost in US; most common disease among children; discovered var's Nature Gen '11 http://ow.ly/tF1Px #AGBT14
+434761070918762496  Feb 15 13:48  @seyo56123        📣📣📣 http://m.youtube.com/watch?feature=c4-feed-u&v=w06jbZGYw5g #BritishBand #BeatRussia #TVD #RT #TurkishPotterheadswantsHPStore #RanaSamahaTeam #Turkey #AGBT14"
+434761340839010305  Feb 15 13:49  @DaleYuzuki       Hakonarson: Medication repositioning of a therapy - based on molecular phenotyping. Neuroblastoma ALK #AGBT14
+434761437693890560  Feb 15 13:49  @OmicsOmicsBlog   RT @DaleYuzuki: Hakonarson: ADHD - est $76B/y cost in US; most common disease among children; discovered var's Nature Gen '11 http://ow.ly/tF1Px #AGBT14
+434761520892084224  Feb 15 13:49  @CrapBio          @StevenNHart @GenapSys another company copying our business model. #AGBT14
+434761578181701632  Feb 15 13:50  @Aroca62Roca      📣📣📣 http://m.youtube.com/watch?feature=c4-feed-u&v=w06jbZGYw5g … #BritishBand #BeatRussia #TVD #RT #TurkishPotterheadswantsHPStore #RanaSamahaTeam #Turkey #AGBT14
+434761588311334912  Feb 15 13:50  @DaleYuzuki       Hakonarson: Also rare disease prog; 525 families, 1598 indiv's. 49 disease genes to-date 'just scratching surface' of samples onhand #AGBT14
+434761866246500352  Feb 15 13:51  @DaleYuzuki       Hakonarson: They use AMZN for everything; <14h / exome, laid out their pipeline. 10GB seq, 12GB align, 100MB vars (not bases, bytes) #AGBT14
+434761912337719298  Feb 15 13:51  @kennamshaw       RT @gbw42: Your baby doesn't have Down syndrome but you have cancer. That's some whiplash right there. #AGBT14
+434762120681758720  Feb 15 13:52  @DaleYuzuki       Hakonarson: Everything through IVA, 280 rare dis families, 49 genes so far. List of several new genes. A 20-y diag. odyssey solved #AGBT14
+434762333295235072  Feb 15 13:53  @idjoly           RT @will_fitzhugh: Poster from Ken Dewar et al showing invoice for doing PacBio sequencing of bacterial genome: <$1,000 #AGBT14 http://t.co/yHCeUHQAff
+434762362391134209  Feb 15 13:53  @Jason_Gammack    RT @DaleYuzuki: Hakonarson: Everything through IVA, 280 rare dis families, 49 genes so far. List of several new genes. A 20-y diag. odyssey solved #AGBT14
+434762409937752064  Feb 15 13:53  @DaleYuzuki       Hakonarson: Diagnostic odyssey paper here in Genome Med. http://ow.ly/tF26k #AGBT14
+434762706084962304  Feb 15 13:54  @DaleYuzuki       Hakonarson: 50% of 49 genes found are novel; many of therapeutic interest with repositioning oppy's. NOTCH and many others #AGBT14
+434763073824751616  Feb 15 13:56  @DaleYuzuki       Hakonarson: NOTCH3 inhib. for myofibramatosis, can put together a PGx model in rare disease. Can go from rare disease to fast-track #AGBT14
+434763118062096384  Feb 15 13:56  @drbachinsky      RT @DaleYuzuki: Hakonarson: Diagnostic odyssey paper here in Genome Med. http://ow.ly/tF26k #AGBT14
+434763181089902592  Feb 15 13:56  @Genomics_Guy     RT @obahcall: .@matthewherper on GenapSys. Genomics researchers have been victims of hype before.  http://onforb.es/1kJzcjn #AGBT14
+434763244642000896  Feb 15 13:56  @drbachinsky      RT @DaleYuzuki: Hakonarson: 50% of 49 genes found are novel; many of therapeutic interest with repositioning oppy's. NOTCH and many others #AGBT14
+434763250358841344  Feb 15 13:56  @DaleYuzuki       Hakonarson: 'Oh, and a 100 thousand more things': 100K WGs put through IVA and 12y phenotype data, to understand common disease #AGBT14
+434763338808320000  Feb 15 13:57  @GenomeNathan     RT @DaleYuzuki: Hakonarson: 'Oh, and a 100 thousand more things': 100K WGs put through IVA and 12y phenotype data, to understand common disease #AGBT14
+434763440268525568  Feb 15 13:57  @garyacline       RT @Genohub: 2014 #AGBT Highlights and Must Attend Talks: http://blog.genohub.com/2014-agbt-agenda/ #NGS #AGBT2014 #AGBT14 http://t.co/6UiXKn3OS4
+434763566462562304  Feb 15 13:58  @DaleYuzuki       Boy am I glad I stayed for Hakonarson's great talk. Tired but tremendous work being done at CHOP. Here's to #AGBT15. #AGBT14
+434763819504893952  Feb 15 13:59  @GenomeNathan     RT @DaleYuzuki: Boy am I glad I stayed for Hakonarson's great talk. Tired but tremendous work being done at CHOP. Here's to #AGBT15. #AGBT14
+434763834860240896  Feb 15 13:59  @NGSperspectives  Hakonarson ends his talk in Steve Jobs fashion: Oh, and 100000 more things... to be disclosed at #AGBT15 :) #AGBT14 http://t.co/9brPjcjcq9
+434764022995767296  Feb 15 13:59  @wateresa         RT @aspartango: The real story from #AGBT14 is better performance on FFPE tissue.
+434764025344589824  Feb 15 13:59  @AW_NGS           RT @lexnederbragt: When was the Ion Proton PII promised to be released again? #agbt14
+434764156869550080  Feb 15 14:00  @BartAelterman    RT @JokeReumers: Nice to see so many tools on GitHub #AGBT14
+434764173722263552  Feb 15 14:00  @AllSeq           Ouch, another PII timeline slip! MT @lexnederbragt: Williams: early access May/June, after summer full release #AGBT14
+434764579889876992  Feb 15 14:02  @geringer73       RT @AllSeq: Ouch, another PII timeline slip! MT @lexnederbragt: Williams: early access May/June, after summer full release #AGBT14
+434764584902492160  Feb 15 14:02  @OmicsOmicsBlog   RT @DaleYuzuki: Hakonarson: They use AMZN for everything; <14h / exome, laid out their pipeline. 10GB seq, 12GB align, 100MB vars (not bases, bytes) #AGBT14
+434764624727392256  Feb 15 14:02  @OmicsOmicsBlog   RT @DaleYuzuki: Hakonarson: Everything through IVA, 280 rare dis families, 49 genes so far. List of several new genes. A 20-y diag. odyssey solved #AGBT14
+434764649217949696  Feb 15 14:02  @OmicsOmicsBlog   RT @DaleYuzuki: Hakonarson: Diagnostic odyssey paper here in Genome Med. http://ow.ly/tF26k #AGBT14
+434764677659512832  Feb 15 14:02  @OmicsOmicsBlog   RT @DaleYuzuki: Hakonarson: 50% of 49 genes found are novel; many of therapeutic interest with repositioning oppy's. NOTCH and many others #AGBT14
+434764718008721409  Feb 15 14:02  @OmicsOmicsBlog   RT @DaleYuzuki: Hakonarson: NOTCH3 inhib. for myofibramatosis, can put together a PGx model in rare disease. Can go from rare disease to fast-track #AGBT14
+434764752380645377  Feb 15 14:02  @GenomeNathan     MT @DaleYuzuki Hakonarson: 'Oh, and 100,000 more things': 100K phenotyped WGs, in @ING_SYS Variant Analysis, to crack common disease #AGBT14
+434765050348589056  Feb 15 14:04  @adeslat          RT @lexnederbragt: So far, this is the only USB stick with long-read sequencing data available at #AGBT14 http://t.co/wYuaZGCTi2
+434765161032085504  Feb 15 14:04  @adeslat          RT @lexnederbragt: Back side of the Pacbio valentine USB stick #agbt14 Thanks @kc31958 http://t.co/SP6xzimayX
+434765201389658113  Feb 15 14:04  @adeslat          RT @lexnederbragt: Nice... #AGBT14 http://t.co/UFLHVTtRtd
+434765331878670336  Feb 15 14:05  @Jose_Oliver      RT @genomeresearch: F Tang: Single-cell methylome landscapes of early embryos http://tinyurl.com/p4cdnr4 #AGBT14
+434765771336855552  Feb 15 14:06  @hernanmomel      RT @DaleYuzuki: Tang: Illus. a method of NIPT for post-fertilized embryos. First MALBAC-based implantation is underway (presum. in China) #AGBT14
+434766947264499713  Feb 15 14:11  @hernanmomel      RT @DaleYuzuki: RT @iontorrent: Radovich: Using combo of Ion PGM System and Open Array qPCR in CLIA lab for PGx #AGBT14
+434767404758216704  Feb 15 14:13  @hernanmomel      RT @iontorrent: Williams: human genome frag library data on Ion PII Chip shown. Two runs shown at >250M and 371M extrapolated read yields #AGBT14
+434767865955508225  Feb 15 14:15  @dnanexus         RT @DaleYuzuki: Hakonarson: 50% of 49 genes found are novel; many of therapeutic interest with repositioning oppy's. NOTCH and many others #AGBT14
+434768743349362689  Feb 15 14:18  @NGSperspectives  RT @AllSeq: Ouch, another PII timeline slip! MT @lexnederbragt: Williams: early access May/June, after summer full release #AGBT14
+434769310226350080  Feb 15 14:20  @bffo             Good thing I wasn’t home for Valentines day … http://www.newscientist.com/article/mg22129560.200-cure-for-love-sex-with-a-mantis-ends-in-dinner.html#.Uv-8415sinA #AGBT14
+434770393589907456  Feb 15 14:25  @bkmacy           RT @DaleYuzuki: Hakonarson: Diagnostic odyssey paper here in Genome Med. http://ow.ly/tF26k #AGBT14
+434770526683529216  Feb 15 14:25  @OmicsOmicsBlog   RT @GenomeNathan: MT @DaleYuzuki Hakonarson: 'Oh, and 100,000 more things': 100K phenotyped WGs, in @ING_SYS Variant Analysis, to crack common disease #AGBT14
+434771570607677440  Feb 15 14:29  @will_fitzhugh    From @matthewherper blog, re: Genapsys: 'A commercial launch will not come for another year or more.' #AGBT14
+434771910707007488  Feb 15 14:31  @lexnederbragt    Next speaker is Daniel MacArthur: "Functional Annotation at Scale: Analysis of Genetic Variation From Over 50,000 Human Exomes" #AGBT14
+434771974662148096  Feb 15 14:31  @deannachurch     up first- @dgmacarthur to tell us about doing functional annotation of LOTS of exomes. #agbt14
+434772035978293248  Feb 15 14:31  @illumina         @dgmacarthur kicking off last batch of talks at #AGBT14 on exome seq at scale
+434772175732871170  Feb 15 14:32  @JokeReumers      Daniel McArthur: functional annotation at scale, using >10k genomes/exomes #AGBT14
+434772193289854976  Feb 15 14:32  @lexnederbragt    MacArthur: Interpreting genetic variation in a single human requires 10s of thousands of human genomes #AGBT14
+434772267323912192  Feb 15 14:32  @salisburymw      The #agbt14 home stretch! Dan MacArthur kicks us off.
+434772345753202688  Feb 15 14:32  @frapaport        .@dgmacarthur about functional annotation at scale #AGBT14
+434772439491284992  Feb 15 14:33  @californiana     @dgmacarthur "Interpreting genetic variation in a single human requires tens of thousand genomes" #AGBT14
+434772452951220224  Feb 15 14:33  @lexnederbragt    RT @AllSeq: Ouch, another PII timeline slip! MT @lexnederbragt: Williams: early access May/June, after summer full release #AGBT14
+434772510903918592  Feb 15 14:33  @rforsberg        RT @CLCbio: Freeman: "With CLC's GUI we can build our own workflows. Everyone does their own analyses. We don't have the bioinformatics guy. #AGBT14
+434772513449852928  Feb 15 14:33  @konradjk         RT @californiana: @dgmacarthur "Interpreting genetic variation in a single human requires tens of thousand genomes" #AGBT14
+434772521427013633  Feb 15 14:33  @illumina         DM: challenges of large-scale genomic usability, focus on sample consistency #AGBT14
+434772531736637440  Feb 15 14:33  @will_fitzhugh    @dgmacarthur from MGH on genetic variation assessment from 50K exomes - faces ethical and technical challenges #AGBT14
+434772544122781696  Feb 15 14:33  @obahcall         .@dgmacarthur starts the final session: Functional annotation at scale: analysis genetic variation from over 50,000 human exomes #AGBT14
+434772583234686977  Feb 15 14:33  @frapaport        ethical challenges exist but talk focus on technical challenges #AGBT14
+434772653115965440  Feb 15 14:34  @deannachurch     DM: making point that one big challenge is that data needs to be handled and processed consistently. Uses Joint calling. #agbt14
+434772670820139008  Feb 15 14:34  @DaleYuzuki       MacArthur: 'Technical challenges are substantial' to look at large-scale exome sequencing. Illus. joint calling, FP and FN errors #AGBT14
+434772731985657858  Feb 15 14:34  @drbachinsky      RT @lexnederbragt: MacArthur: Interpreting genetic variation in a single human requires 10s of thousands of human genomes #AGBT14
+434772773219885056  Feb 15 14:34  @konradjk         My new boss @dgmacarthur talking about joint calling across tens of thousands of exomes #AGBT14
+434772962504626177  Feb 15 14:35  @lexnederbragt    RT @deannachurch: DM: making point that one big challenge is that data needs to be handled and processed consistently. Uses Joint calling. #agbt14
+434773005932429313  Feb 15 14:35  @lexnederbragt    RT @DaleYuzuki: MacArthur: 'Technical challenges are substantial' to look at large-scale exome sequencing. Illus. joint calling, FP and FN errors #AGBT14
+434773031517716480  Feb 15 14:35  @frapaport        the speaker is describing the ideas behind UnifiedGenotyper #AGBT14
+434773044557778944  Feb 15 14:35  @OmicsOmicsBlog   DMcA: joint calling of variants; can calculate position-specific error modelsalso identify positions lacking information #AGBT14
+434773064652316672  Feb 15 14:35  @masterlongevity  RT @matthewherper: Yuri Milner-Backed Company Prepares IPad-Size DNA Sequencer  http://onforb.es/1cGvoHx #AGBT14 <--GenapSys
+434773119622868992  Feb 15 14:36  @will_fitzhugh    @dgmacarthur on joint calling, using large #'s of samples to catch false positive and false negative variant calls in single samples #AGBT14
+434773224149508096  Feb 15 14:36  @frapaport        Now, @dgmacarthur is explaining reduced BAMs #AGBT14
+434773263206858752  Feb 15 14:36  @DaleYuzuki       MacArthur: "Can we simultaneously call variants across 10's of thousands of exomes?" 10GB/exome, 'not easily' #AGBT14
+434773288431394816  Feb 15 14:36  @rforsberg        RT @DaleYuzuki: QIAGEN GmbH Workshop: >80% of NGS runs use Q sample-prep; 2.3k inst. using CLCbio; 15K use Ingenuity tools, including IPA (10y old) #AGBT14
+434773380932567040  Feb 15 14:37  @deannachurch     DM: scaling not easy. ~10Gb pe exome and computation had previously been impossible but now use GATK reduced BAMS. #agbt14
+434773382459305984  Feb 15 14:37  @OmicsOmicsBlog   DMcA #AGBT14 10Gb/exome; expensive to store on hi performance disk; impossible to process all samples simultaneously
+434773495604461570  Feb 15 14:37  @illumina         DM: joint calling of var positions and individuals works rel well with large smpls, data storage not so much #AGBT14
+434773569810485248  Feb 15 14:37  @DaleYuzuki       MacArthur: GATK working on reduced BAMs. IGV shot: Homozygotes can collapse down to a single synthetic meta-read; keep the others #AGBT14
+434773631680647168  Feb 15 14:38  @StevenNHart      DM: Can we call variants in 10k individuals?  Not so easy... but reduced representation BAM is feasible #AGBT14
+434773658435731456  Feb 15 14:38  @lexnederbragt    MacArthur: Data storage and compute challenges. Solutions (GATK team), reduced BAM: synthetic meta-reads @ places of high confidence #agbt14
+434773757681750017  Feb 15 14:38  @DaleYuzuki       MacArthur: Het compression can reduce complexity, just a few synthetic reads. 10x-20x BAM compression; GATK UnifiedGenotyper scales #AGBT14
+434773759514259456  Feb 15 14:38  @will_fitzhugh    @dgmacarthur method for compressing data for large-scale analysis, removing data where calls are high-confidence, 10-fold reduction #AGBT14
+434773845925707776  Feb 15 14:38  @illumina         RT @lexnederbragt: MacArthur: Data storage and compute challenges. Solutions (GATK team), reduced BAM: synthetic meta-reads @ places of high confidence #agbt14
+434773848245141504  Feb 15 14:38  @OmicsOmicsBlog   DMcA: #AGBT14 GATK works on reduced BAM; elide regions with high confidence homozygosity; compress common hets by keep few rep reads
+434773905467666434  Feb 15 14:39  @lexnederbragt    MacArthur: achieving 10-fold BAM compression #AGBT14
+434774044324675584  Feb 15 14:39  @OmicsOmicsBlog   DMcA: 26K pilot; 57K production (2 wk old); 40K filtered subset (-cancer, autism, Mendelian disease) #AGBT14
+434774054285742080  Feb 15 14:39  @DaleYuzuki       MacArthur: From 26K pilot to 57K production project finished 2w ago. Of this 40K filtered reported on now (prelim). #AGBT14
+434774165095460864  Feb 15 14:40  @OmicsOmicsBlog   DMcA: sample-level filtering ids monoz twins, parent-child, sibs #AGBT14
+434774208770351105  Feb 15 14:40  @will_fitzhugh    @dgmacarthur current set is 57K exomes with filtering for low coverage/contaminations and flagging of relatives #AGBT14
+434774344125145088  Feb 15 14:40  @OmicsOmicsBlog   DMcA: for historical regions, have excess of European samples, but reasonable sampling of Asia & Africa #AGBT14
+434774366057144320  Feb 15 14:41  @konradjk         DM: now at 57K exomes, filtered down to 40K after sample filtering and removing some. Very filled out PCA plot! #AGBT14
+434774373426561024  Feb 15 14:41  @DaleYuzuki       MacArthur: How 2.6K samples are filtered out. Relatedness of ethnicity plot via geography; strong conc. of European samples. #AGBT14
+434774375506538497  Feb 15 14:41  @lexnederbragt    MacArthur: working with a 40 000 exome set after filtering. #AGBT14
+434774563529170944  Feb 15 14:41  @deannachurch     DM: 74,000 CPU hours for BAM reduction and 84,000 for variant calling. Some regions require 64Gb, but most require under 16Gb. #agbt14
+434774598819651584  Feb 15 14:41  @lexnederbragt    MacArthur: from 1 Pb to 100 Tb raw Bam files, 74 000 CPU hours for BAM reduction, 2.35 Tb final compressed VCF files #AGBT14
+434774627911737346  Feb 15 14:42  @Anna_Webb        RT @lexnederbragt: MacArthur: Interpreting genetic variation in a single human requires 10s of thousands of human genomes #AGBT14
+434774637487341568  Feb 15 14:42  @OmicsOmicsBlog   DMcA: ~1Pbyte raw data; reduced BAM 100Tbytel 74K CPU hrs for reduction & 84K CPU hrs for variant calls #AGBT14
+434774638229741568  Feb 15 14:42  @DaleYuzuki       MacArthur: Raw BAM are ~1PB. Reduced ~1TB, 74K CPU h, 84K h for var calls; some regions req 64GB RAM. VCF's final = 2.35TB. (Whew!) #AGBT14
+434774638586241024  Feb 15 14:42  @konradjk         DM: About 1 Pb of data, Reduced down to 100 Tb. 74K CPU hours for bam reduction, 84K for variant calling #AGBT14
+434774638837514241  Feb 15 14:42  @will_fitzhugh    @dgmacarthur "Joint calling 57,000 samples is hard" - took 150,000+ CPU hours and compressed VCFs took 2.35Tb #AGBT14
+434774663127117824  Feb 15 14:42  @frapaport        Results of a 57.000 samples joint call. 74k CPU hours for BAM reduction, 84k for variant calling. Final compressed VCF of several Tb #AGBT14
+434774721004339201  Feb 15 14:42  @StevenNHart      47k exomes used for allele frequency.  Raw BAMs, 1Pb, RRBAM100Tb, 2.5TB Compressed VCF #AGBT14
+434774724783403008  Feb 15 14:42  @OmicsOmicsBlog   DMcA: some regions needed 64Gb RAM; most 16Gb #AGBT14
+434774816831590401  Feb 15 14:42  @DaleYuzuki       MacArthur: Sort by SNP count by ancestry across 40K - naturally Africans had much higher counts #AGBT14
+434774940462907392  Feb 15 14:43  @KMeltzSteinberg  DM: joint calling smooths batch effects between projects #AGBT14
+434774953209372673  Feb 15 14:43  @frapaport        Joint calling smooths batch effects #AGBT14
+434774974977830912  Feb 15 14:43  @deannachurch     DM: Joint calling smooths out the batch effects you can see when comparing data from different projects. #agbt14
+434775079868977152  Feb 15 14:43  @bioinformer      RT @OmicsOmicsBlog: Avalanche template prep; 10--15% less yield, but simple manual prep with no $$$ equipment. 500bp libraries #agbt14
+434775126249582592  Feb 15 14:44  @OmicsOmicsBlog   DMcA: joint calling smooths batch effects; >2M missense variants; 92% at <1% freq; 100k cand LoF variants; 12K known disease muts #AGBT14
+434775194822262784  Feb 15 14:44  @lexnederbragt    RT @deannachurch: DM: Joint calling smooths out the batch effects you can see when comparing data from different projects. #agbt14
+434775213465952256  Feb 15 14:44  @frapaport        Largest ever collection of human protein-coding genetic variants with 2M missense variants and 100k candidate LOH variants #AGBT14
+434775260861575168  Feb 15 14:44  @NGSperspectives  RT @frapaport: Results of a 57.000 samples joint call. 74k CPU hours for BAM reduction, 84k for variant calling. Final compressed VCF of several Tb #AGBT14
+434775288225222656  Feb 15 14:44  @OmicsOmicsBlog   DMcA: 51% of 2M coding variants seen only once #AGBT14
+434775306302685184  Feb 15 14:44  @deannachurch     DM:: 12,180 variants that were reported as disease causing in HGMD in this control dataset. #agbt14
+434775336207659008  Feb 15 14:44  @illumina         DM: joint calling of 57k samples see nice consistency, get large collection of protein coding vars, 51% of >2m missense vars unique #AGBT14
+434775344692752384  Feb 15 14:44  @hutchins_e       thanks for a nice laugh... still chuckling about SHTseq RT @CrapBio "check out real quantum sequencing at #AGBT14 http://thescienceweb.wordpress.com/2014/02/05/dna-sequencing-takes-a-quantum-leap/"
+434775359289307136  Feb 15 14:44  @StevenNHart      12K variants falsely called as disease causing in HGMD #AGBT14
+434775369871536128  Feb 15 14:45  @konradjk         DM: about half of the 2M missense variants are singletons (so AF ~ 1/80K). #AGBT14
+434775426771464192  Feb 15 14:45  @DaleYuzuki       MacArthur: Joint calling smooths batch-to-batch variation; plots Var count / kb; and minor allele count, across 40K exomes #AGBT14
+434775437466550272  Feb 15 14:45  @IcahnInstitute   RT @obahcall: .@Erika_Check on Oxford Nanopore MinION: a good 1st shot, but not a game-changer—yet http://bit.ly/1kJzK90 @NatureNews #AGBT14
+434775511446081537  Feb 15 14:45  @AW_NGS           RT @lexnederbragt: MacArthur: Data storage and compute challenges. Solutions (GATK team), reduced BAM: synthetic meta-reads @ places of high confidence #agbt14
+434775608204492800  Feb 15 14:45  @cntalavera       RT @deannachurch: DM: Joint calling smooths out the batch effects you can see when comparing data from different projects. #agbt14
+434775636654051329  Feb 15 14:46  @will_fitzhugh    MacArthur: 2M+ missense variants, 92% seen at <1% frequency, 51% seen only once #AGBT14
+434775666866020352  Feb 15 14:46  @OmicsOmicsBlog   DMcA: frequency spectrum curve slope reflects recent rapid expansion of human population; clear selection on non-syn and LoF muts #AGBT14
+434775787301257216  Feb 15 14:46  @CrapBio          RT @hutchins_e: thanks for a nice laugh... still chuckling about SHTseq RT @CrapBio "check out real quantum sequencing at #AGBT14 http://thescienceweb.wordpress.com/2014/02/05/dna-sequencing-takes-a-quantum-leap/"
+434775884802031616  Feb 15 14:47  @OmicsOmicsBlog   DMcA: K.Samocha built model for synonymous, matches observed; see depletion of LoF mutants indicating negative selection #agbt14
+434775897363976192  Feb 15 14:47  @cntalavera       RT @OmicsOmicsBlog: DMcA: #AGBT14 GATK works on reduced BAM; elide regions with high confidence homozygosity; compress common hets by keep few rep reads
+434775928951291904  Feb 15 14:47  @JokeReumers      DM: work of Kaitlin Samocha on depletion of LoF variants, used to search for genes under strong human constraint #AGBT14
+434775958370144257  Feb 15 14:47  @rforsberg        RT @DaleYuzuki: Boy am I glad I stayed for Hakonarson's great talk. Tired but tremendous work being done at CHOP. Here's to #AGBT15. #AGBT14
+434776095268036608  Feb 15 14:47  @illumina         RT @JokeReumers: DM: work of Kaitlin Samocha on depletion of LoF variants, used to search for genes under strong human constraint #AGBT14
+434776127794860033  Feb 15 14:48  @konradjk         DM: Strong depletion for loss of function variants, can now identify genes subject to strong human constraint (w/ and w/o phenotype) #AGBT14
+434776183084179458  Feb 15 14:48  @OmicsOmicsBlog   DMcA: DYNC1H1 gene involved in mental retardation; can see selection against missense, LoF; also see in UBR5 (mouse embryo lethal) #AGBT14
+434776222162493441  Feb 15 14:48  @rforsberg        RT @OmicsOmicsBlog: DMcA: 51% of 2M coding variants seen only once #AGBT14
+434776245474439168  Feb 15 14:48  @DaleYuzuki       MacArthur: Comparing obs vs. predicted syn muts, missense, LoF variants. Genes ID'd subject to human constraints. LoF depletion #AGBT14
+434776251161907200  Feb 15 14:48  @obahcall         DM: largest collection of human protein coding variants, includes ~2.2M missense, 92% at  <1% freq,~100K candidate LoF variants #AGBT14
+434776256073453568  Feb 15 14:48  @frapaport        empirical identification of genes subject to strong human constraint by checking synonymous, missense, LoF frequencies and phenotype #AGBT14
+434776300143017984  Feb 15 14:48  @KMeltzSteinberg  RT @konradjk: DM: Strong depletion for loss of function variants, can now identify genes subject to strong human constraint (w/ and w/o phenotype) #AGBT14
+434776319986266112  Feb 15 14:48  @StevenNHart      WOW, these frequency scores will be incredibly powerful in finding disease genes.  Wonder if they will be made available? #AGBT14
+434776370523406337  Feb 15 14:48  @deannachurch     DM: able to start finding genes subject to constraint- UBR5 no human LOF in controls- found many uncharac. genes with LOF depletion #agbt14
+434776374373789696  Feb 15 14:49  @OmicsOmicsBlog   DMcA: many uncharacterized genes show profound LoF depletion; can prioritize variants in Mendelian patients #agbt14
+434776376491933696  Feb 15 14:49  @frapaport        many currently uncharacterized genes show profound LoF depletion #AGBT14
+434776384507236353  Feb 15 14:49  @DaleYuzuki       MacArthur: No can assign a quantitative score to variants in Mendelian patients. #AGBT14
+434776407089352705  Feb 15 14:49  @iontorrent       MacArthur (MGH): joint calling approach with large exome data sets confirms purifying selection for loss of function variants #AGBT14
+434776630452813824  Feb 15 14:50  @DaleYuzuki       MacArthur: NHLBI ESP samples n=6.8k - cp to ave. Mendelian dis. pt., ave 569 unique SNPs. #AGBT14
+434776741450891264  Feb 15 14:50  @OmicsOmicsBlog   DMcA: Joint calling better than comparing to reference (e.g. Exome Seq Project NHLBI). Eliminates artifacts re different processing #agbt14
+434776815862042624  Feb 15 14:50  @DaleYuzuki       MacArthur: For 26K joint-called ones: ave 67 unique SNPs for Mendelian disease pts. Major factor: consistent var calling #AGBT14
+434776841409163264  Feb 15 14:50  @illumina         DM: About 600 unique SNPs in average mendelian disease case, approx 10 fold fewer on joint called exomes #AGBT14
+434776866395029504  Feb 15 14:50  @bkmacy           RT @GenomeNathan: MT @DaleYuzuki Hakonarson: 'Oh, and 100,000 more things': 100K phenotyped WGs, in @ING_SYS Variant Analysis, to crack common disease #AGBT14
+434776888989741056  Feb 15 14:51  @OmicsOmicsBlog   DMcA: for urgent clinical applications, need to solve N+1 problem #AGBT14
+434777071261200384  Feb 15 14:51  @bionanogenomics  Irys never sleeps at #AGBT14. We finished up the GIAB human sample yesterday, so running a cancer sample now.
+434777237427355648  Feb 15 14:52  @JokeReumers      DM: solving the N+1 group variant calling problem with redoing the N. GATK using a DB of likelihoods  #AGBT14
+434777365714337792  Feb 15 14:52  @lexnederbragt    RT @OmicsOmicsBlog: DMcA: for urgent clinical applications, need to solve N+1 problem #AGBT14
+434777392297816064  Feb 15 14:53  @OmicsOmicsBlog   DMcA: build database of likelihoods; updating as samples accumulate; N+1 analyzed against likelihoods, not all other samples #AGBT14
+434777455648202752  Feb 15 14:53  @rforsberg        MacArthur: Variant freq. condensed into DB of likelihoods for SNP calling in N+1 individual #AGBT14
+434777470869708800  Feb 15 14:53  @frapaport        building up a “database of likelihoods” so that new samples can benefit from the joint calling without having to reprocess everytg #AGBT14
+434777489173270528  Feb 15 14:53  @will_fitzhugh    MacArthur: how to call new sample w/o doing joint calling on all samples? Keep database of likelihoods, and apply to new sample #AGBT14
+434777704052047873  Feb 15 14:54  @vikas0633        RT @rforsberg: MacArthur: Variant freq. condensed into DB of likelihoods for SNP calling in N+1 individual #AGBT14
+434777783667945472  Feb 15 14:54  @illumina         DM: Project enabled by joint calling: custom arrays, shared control cohort, constraints acr genes as mentioned, LOF var effects #AGBT14
+434777822268514304  Feb 15 14:54  @Genformatic      “@deannachurch: DM:: 12,180 variants reported as disease causing in HGMD in this control dataset.#agbt14”: spurious data or gene buffering?
+434777977755144192  Feb 15 14:55  @Kcooke5          RT @Erika_Check: Ehrich: adding microduplications/deletions to @SQNM non-invasive prenatal test; how far will they & other companies take this? #AGBT14
+434778019774070784  Feb 15 14:55  @lexnederbragt    RT @frapaport: building up a “database of likelihoods” so that new samples can benefit from the joint calling without having to reprocess everytg #AGBT14
+434778047787835392  Feb 15 14:55  @lexnederbragt    RT @will_fitzhugh: MacArthur: how to call new sample w/o doing joint calling on all samples? Keep database of likelihoods, and apply to new sample #AGBT14
+434778093597646849  Feb 15 14:55  @rforsberg        MacArthur: Exome aggregation empowers rare disease exome analysis #AGBT14
+434778137625636864  Feb 15 14:56  @OmicsOmicsBlog   DMcA #agbt14 site lists ad frequencies will be made public; xBrowse portal for VCF upload & filtering coming
+434779021088686080  Feb 15 14:59  @JokeReumers      RT @OmicsOmicsBlog: DMcA #agbt14 site lists ad frequencies will be made public; xBrowse portal for VCF upload & filtering coming
