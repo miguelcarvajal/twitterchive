@@ -3762,3 +3762,354 @@
 434778093597646849  Feb 15 14:55  @rforsberg        MacArthur: Exome aggregation empowers rare disease exome analysis #AGBT14
 434778137625636864  Feb 15 14:56  @OmicsOmicsBlog   DMcA #agbt14 site lists ad frequencies will be made public; xBrowse portal for VCF upload & filtering coming
 434779021088686080  Feb 15 14:59  @JokeReumers      RT @OmicsOmicsBlog: DMcA #agbt14 site lists ad frequencies will be made public; xBrowse portal for VCF upload & filtering coming
+434779437826330624  Feb 15 15:01  @obahcall         Greg Porreca: Applying NGS to carrier screening in the clinical lab #AGBT14
+434779443589316608  Feb 15 15:01  @OmicsOmicsBlog   DMcA(my q):seq chemistry, exome capture. Robust to capture, just changes regions called; error mode drift "keeps me up at night" #AGBT14
+434779461918400513  Feb 15 15:01  @leilaluheshi     Gah. Really wish I was at @dgmacarthur talk at #AGBT14. Wish I was at a lot of the talks tbh. How to get them to let me go next year??
+434779643934425088  Feb 15 15:01  @OmicsOmicsBlog   @OmicsOmicsBlog "keeps me up at night" -- @dgmacarthur hasn't seen this, but concerned it could sneak in #AGBT14
+434779694257295361  Feb 15 15:02  @healthhashtags   Top Influencers of #AGBT14: @lexnederbragt @nanopore @daleyuzuki @omicsomicsblog @erlichya Real-time Analytics: http://bit.ly/1ggtAK6
+434779713463414784  Feb 15 15:02  @JokeReumers      RT @OmicsOmicsBlog: DMcA(my q):seq chemistry, exome capture. Robust to capture, just changes regions called; error mode drift "keeps me up at night" #AGBT14
+434779743091970048  Feb 15 15:02  @JokeReumers      RT @obahcall: Greg Porreca: Applying NGS to carrier screening in the clinical lab #AGBT14
+434780064803479552  Feb 15 15:03  @DaleYuzuki       Porreca: Accuracy / sensitivity in carrier screening is sensitive to FN's - both partners need positive result to have risk. #AGBT14
+434780180218122240  Feb 15 15:04  @StevenNHart      Glad I don't have to go home to realign 50k exomes onto Grch38 and recall with UG.  Sorry @dgmacarthur.  #AGBT14
+434780230390005760  Feb 15 15:04  @will_fitzhugh    Greg Porreca from GoodStart Genetics on carrier screening using DNA sequencing, allows detection of rare and novel mutations #AGBT14
+434780273734336513  Feb 15 15:04  @OmicsOmicsBlog   RT @DaleYuzuki: Porreca: Accuracy / sensitivity in carrier screening is sensitive to FN's - both partners need positive result to have risk. #AGBT14
+434780299655127040  Feb 15 15:04  @OmicsOmicsBlog   RT @StevenNHart: Glad I don't have to go home to realign 50k exomes onto Grch38 and recall with UG.  Sorry @dgmacarthur.  #AGBT14
+434780303568437248  Feb 15 15:04  @DaleYuzuki       Porreca: Uses NGS and other complementary tech for Fragile X, Alpha Thalassemia etc. at Good Start Genetics #AGBT14
+434780320253358080  Feb 15 15:04  @JokeReumers      RT @DaleYuzuki: Porreca: Accuracy / sensitivity in carrier screening is sensitive to FN's - both partners need positive result to have risk. #AGBT14
+434780528336965632  Feb 15 15:05  @OmicsOmicsBlog   Greg Porreca, Good Start GEnomics, Genetic Carrier Screening #AGBT14
+434780585069117440  Feb 15 15:05  @DaleYuzuki       Porreca: They use MIP-based target capture for complexity reduction. Tuned to ID different classes of disease-causing muts #AGBT14
+434780836857405440  Feb 15 15:06  @DaleYuzuki       Porreca: Focus is on accuracy, workflow, and integration. 'Completeness': you have to interogate every site. For CF = all ~550 muts. #AGBT14
+434780844696141824  Feb 15 15:06  @hutchins_e       Porreca: "we sequence using Illumina but we're agnostic there." nice. #AGBT14
+434780970685071360  Feb 15 15:07  @DaleYuzuki       Porreca: Can add to cost / complexity if capture technology isn't always consistent #AGBT14
+434781012628111360  Feb 15 15:07  @wateresa         RT @will_fitzhugh: Greg Porreca from GoodStart Genetics on carrier screening using DNA sequencing, allows detection of rare and novel mutations #AGBT14
+434781198515458048  Feb 15 15:08  @OmicsOmicsBlog   RT @DaleYuzuki: Porreca: Focus is on accuracy, workflow, and integration. 'Completeness': you have to interogate every site. For CF = all ~550 muts. #AGBT14
+434781218442588161  Feb 15 15:08  @OmicsOmicsBlog   RT @DaleYuzuki: Porreca: They use MIP-based target capture for complexity reduction. Tuned to ID different classes of disease-causing muts #AGBT14
+434781351787499520  Feb 15 15:08  @californiana     Greg Porreca: Carrier testing complemented with other technologies where NGS not optimal (for Fragile X, they use PCR-based method) #AGBT14
+434781366333739008  Feb 15 15:08  @DaleYuzuki       Porreca: Did Sanger comparison to their calls; ~7M TN, 4K TP, 8 FP, 1 FN. (Sample had an aneuploidy event, clear upon inspection) #AGBT14
+434781455831810048  Feb 15 15:09  @JokeReumers      RT @DaleYuzuki: Porreca: Did Sanger comparison to their calls; ~7M TN, 4K TP, 8 FP, 1 FN. (Sample had an aneuploidy event, clear upon inspection) #AGBT14
+434781461070508032  Feb 15 15:09  @_AndrewJohnHill  RT @lexnederbragt: New blog post: The one and only Oxford Nanopore talk at AGBT 2014 – with real data http://flxlexblog.wordpress.com/2014/02/14/the-one-and-only-oxford-nanopore-talk-at-agbt-2014-with-real-data/ #nanopore #agbt14
+434781567823917056  Feb 15 15:09  @OmicsOmicsBlog   GP: tiled MIPs; overlapping targets - protects against variants fouling up priming sites #AGBT14
+434781593614303232  Feb 15 15:09  @californiana     GP from Good Start Genetics: "Target capture method described yields >= 50x coverage for >=99.8% of bases" #AGBT14
+434781725382561792  Feb 15 15:10  @californiana     GP: Tiled molecular inversion probes provide 1) increase start sites and 2) reduced potential for allele dropout #AGBT14
+434781754629820416  Feb 15 15:10  @DaleYuzuki       Porreca: MIP diagrammed, showing data from 2014 Genet Med ref here. http://ow.ly/tF6ev #AGBT14
+434781907625472000  Feb 15 15:10  @OmicsOmicsBlog   GP #AGBT14 clinical setting, critical barcodes have error redundancy, can detect barcode crossover, pristine barcode primer stocsk #AGBT14
+434781953963737089  Feb 15 15:11  @rforsberg        Porreca: Prudent barcoding protocols essential for clinical use of NGS  #AGBT14
+434782033307381760  Feb 15 15:11  @timtriche        RT @DaleYuzuki: Hakonarson: They use AMZN for everything; <14h / exome, laid out their pipeline. 10GB seq, 12GB align, 100MB vars (not bases, bytes) #AGBT14
+434782081286430721  Feb 15 15:11  @DaleYuzuki       Porreca: Barcoding QC - monitoring stock reagents to insure no contamination effects. Does synthetic target sequencing to det error #AGBT14
+434782264510414849  Feb 15 15:12  @OmicsOmicsBlog   GP #agbt14 QC barcodes by testing on patient DNA; look for wrong pairings; rotated plate lid 180 to induce contamination
+434782570602319872  Feb 15 15:13  @OmicsOmicsBlog   GP #AGBT14 indel detection: assemble raw reads, align to reference, map reads back to contigs, liftover annotations
+434782815591616513  Feb 15 15:14  @tikinomics       This won't end well. #AGBT14
+434782948907581440  Feb 15 15:15  @marietaorea      "@fluidigm: Tang- can get embryo chromosome #, haplotype , and snv info from only sequencing polar body at the single-cell level. #AGBT14"
+434783211164819456  Feb 15 15:16  @OmicsOmicsBlog   GP #AGBT14 spike variant into reads (informatically?); tests algorithm sensitivity
+434783566057439233  Feb 15 15:17  @OmicsOmicsBlog   GP #AGBT14 quality+cost drive workflow simplicity; few hundred dollars reimbursement
+434783641135509504  Feb 15 15:17  @OmicsOmicsBlog   GP #AGBT14 MIPs avoid shearing/adaptors/sizing; single well; no normalization
+434783895884558336  Feb 15 15:18  @glennfarrell_    RT @obahcall: .@Erika_Check on Oxford Nanopore MinION: a good 1st shot, but not a game-changer—yet http://bit.ly/1kJzK90 @NatureNews #AGBT14
+434783967641083904  Feb 15 15:19  @TeresaBelmonte1  RT @DaleYuzuki: Korlach: Illus. transcript diversity, limitation of methods; Nature Methods reference highlighted http://ow.ly/tDMVe #AGBT14
+434784052261183488  Feb 15 15:19  @OmicsOmicsBlog   GP #AGBT14 confirming NGS positives by Sanger
+434784323456499713  Feb 15 15:20  @OmicsOmicsBlog   GP #AGBT14 16.5k fertility center patients screened for 14 disorders by NGS; 39% of disease mutations would be missed by genotyping
+434784349293391872  Feb 15 15:20  @gbw42            I just told you my NGS CLIA test is 99.9999% accurate, so when I get a positive hit of course I Sanger sequence it to confirm... #AGBT14
+434784452544589825  Feb 15 15:21  @OmicsOmicsBlog   GP #AGBT14 identified novel truncating CFTR mutant
+434784468138614784  Feb 15 15:21  @Marko_GHz        RT @fluidigm: Genome sequencing uncovered 2 cases of parthenogenesis in condors. #AGBT14
+434784520647094272  Feb 15 15:21  @californiana     GP: Why use NGS? b/c "39% of distinct disease-causing mutations would be missed using genotyping-based carrier screening" #AGBT14
+434784599252934656  Feb 15 15:21  @iontorrent       Porreca (Good Start Genetics): in Silico introduction of variants to test analysis workflow. Sites not called use alternative method #AGBT14
+434784600913870849  Feb 15 15:21  @LadyGagYa        RT @tikinomics: This won't end well. #AGBT14
+434784615308730370  Feb 15 15:21  @OmicsOmicsBlog   GP #AGBT14 16.5k patients; 771 carriers found; 146 distinct mutations (15 genes, 14 disorders), 57 GSG-only muts
+434784733441298432  Feb 15 15:22  @OmicsOmicsBlog   RT @DaleYuzuki: Porreca: MIP diagrammed, showing data from 2014 Genet Med ref here. http://ow.ly/tF6ev #AGBT14
+434784734757933056  Feb 15 15:22  @californiana     GP: Why use NGS? b/c "8.4% more carriers were detected compared to using genotyping-based technologies" #AGBT14
+434784882779512832  Feb 15 15:22  @OmicsOmicsBlog   RT @iontorrent: Porreca (Good Start Genetics): in Silico introduction of variants to test analysis workflow. Sites not called use alternative method #AGBT14
+434785103483777024  Feb 15 15:23  @OmicsOmicsBlog   GP #AGBT14 common 2 exon deletion in CFTR can't be detected by GSG's NGS; many others; use alternate tests
+434785108193587200  Feb 15 15:23  @illumina         Good talk from Goodstart Genetics on benefits of NGS for carrier screening assay #AGBT14
+434785200745500672  Feb 15 15:24  @StevenNHart      Kudos for showing that NGS will fail for some mutations.  We sometimes need to be reminded of our limitations #AGBT14
+434785218583879680  Feb 15 15:24  @obahcall         Porreca, Good Start Genetics: to date ~16,500 patients from fertility centers across US, screened for up to 14 disorders by NGS #AGBT14
+434785218990317569  Feb 15 15:24  @dvoordom         Crap. #AGBT14 generates all the most detailed sequencers possible and I feel like a kid who brings parents into the battlefield...
+434785248891920384  Feb 15 15:24  @californiana     RT @konradjk: DM: Strong depletion for loss of function variants, can now identify genes subject to strong human constraint (w/ and w/o phenotype) #AGBT14
+434785268101439490  Feb 15 15:24  @glennfarrell_    RT @salisburymw: Things you can only say at #agbt14: "Everyone I know has a bigger cluster than I do." - @thegenemyers
+434785276599468033  Feb 15 15:24  @WvSchaik         For some reason I find this tweet depressing. "@OmicsOmicsBlog: GP #AGBT14 confirming NGS positives by Sanger"
+434785331326377984  Feb 15 15:24  @glennfarrell_    RT @salisburymw: Elaine Mardis congratulates Dick McCombie on having the longest sequence read of the meeting. Nice. #agbt14
+434785336934559744  Feb 15 15:24  @OmicsOmicsBlog   RT @obahcall: Porreca, Good Start Genetics: to date ~16,500 patients from fertility centers across US, screened for up to 14 disorders by NGS #AGBT14
+434785402252447745  Feb 15 15:24  @OmicsOmicsBlog   As did I RT @WvSchaik: For some reason I find this tweet depressing. "@OmicsOmicsBlog: GP #AGBT14 confirming NGS positives by Sanger"
+434785484770783232  Feb 15 15:25  @timtriche        RT @OmicsOmicsBlog: DMcA: ~1Pbyte raw data; reduced BAM 100Tbytel 74K CPU hrs for reduction & 84K CPU hrs for variant calls #AGBT14
+434785540496302080  Feb 15 15:25  @timtriche        RT @OmicsOmicsBlog: DMcA: 51% of 2M coding variants seen only once #AGBT14
+434785657462857729  Feb 15 15:25  @illumina         New post on @basespace blog: Update and answering some questions from #AGBT14 http://bit.ly/1jHl3D5
+434785659929493504  Feb 15 15:25  @obahcall         JP: 16.5K patients screened, 771 carriers detected, 146 distinct mutations across 15 genes, 14 disorders #AGBT14
+434785684009021440  Feb 15 15:25  @obahcall         RT @illumina: New post on @basespace blog: Update and answering some questions from #AGBT14 http://bit.ly/1jHl3D5
+434785807291801600  Feb 15 15:26  @timtriche        RT @OmicsOmicsBlog: DMcA: build database of likelihoods; updating as samples accumulate; N+1 analyzed against likelihoods, not all other samples #AGBT14
+434785892537208832  Feb 15 15:26  @OmicsOmicsBlog   Anthony Griswald, Integrated analysis of genome wide association and targeted sequencing for Autism Spectrum Disorders #AGBT14
+434786100847321088  Feb 15 15:27  @wateresa         RT @OmicsOmicsBlog: Anthony Griswald, Integrated analysis of genome wide association and targeted sequencing for Autism Spectrum Disorders #AGBT14
+434786181453471744  Feb 15 15:27  @bffo             Anthony Griswald, AUT4k  #AGBT14
+434786288156540928  Feb 15 15:28  @obahcall         Anthony Griswold on AUT4k: integrated genomics, includes targeted sequencing, following on GWAS for autism spectrum disorder #AGBT14
+434786431462948866  Feb 15 15:28  @tikinomics       That imagery will never leave me, which is unfortunate. #AGBT14
+434786435221438464  Feb 15 15:28  @wateresa         AG: incidence of ASD in US apprx 1 in 88. #AGBT14
+434786638397714432  Feb 15 15:29  @OmicsOmicsBlog   AG: twin studies suggest up to 90% heritability; 100 genes suggested by linkage, CNV, association; 20% cases rare syndromes #AGBT14
+434786856014983168  Feb 15 15:30  @OmicsOmicsBlog   AG #AGBT14 2 GWAS suggested intergenic 5p14.1; 2 others could not replicate by pinged 2 other genes;
+434787134177050624  Feb 15 15:31  @OmicsOmicsBlog   AG: interested in  not-quite-significant hits; replication problems hint many genetic variants with small pop scale effect size #AGBT14
+434787184730988544  Feb 15 15:31  @NJL_Broad        @dgmacarthur come to tiki bar once you are free. Great #AGBT14 networking. @tikinomics
+434787259230199808  Feb 15 15:32  @LadyGagYa        RT @tikinomics: That imagery will never leave me, which is unfortunate. #AGBT14
+434787318135005185  Feb 15 15:32  @OmicsOmicsBlog   AG #AGBT14 likely disease variants missed by genotyping; 3621 cases and controls
+434787366318772224  Feb 15 15:32  @LabCritics       An  IPad-Size DNA Sequencer backed by Yuri Milner #GenapSys http://onforb.es/1cGvoHx  #AGBT14 #forbeshacked
+434787503774904320  Feb 15 15:33  @OmicsOmicsBlog   AG #agbt14 targeted capture; exomes miss key regions; probes for exons within or near GWAS peaks; 5kb flanks for genes targeted
+434787658637012994  Feb 15 15:33  @NGSperspectives  RT @StevenNHart: Kudos for showing that NGS will fail for some mutations.  We sometimes need to be reminded of our limitations #AGBT14
+434787728686055424  Feb 15 15:34  @OmicsOmicsBlog   AG #AGBT14 process automated on Sciclone G3 +Zepher; 12 plex 2x100 on HiSeq
+434787822332284928  Feb 15 15:34  @OmicsOmicsBlog   AG #AGBT14 80% on target reads; 87% of targeted bases have sufficient depth
+434788086162391040  Feb 15 15:35  @OmicsOmicsBlog   AG #AGBT14 number of variants similar cases vs controls; no single variant associated with ASD
+434788329490743296  Feb 15 15:36  @OmicsOmicsBlog   AG #agbt14 ASD cases enriched for LoF (nonsense/splice) variants in ASD candidate genes (p=0.001); do not see LoF in controls in same genes
+434788522701365248  Feb 15 15:37  @bioinformer      RT @OmicsOmicsBlog: GP #AGBT14 confirming NGS positives by Sanger
+434788578057805824  Feb 15 15:37  @StevenNHart      Do other people see poor mapping in SHANK3? #AGBT14
+434788865153327104  Feb 15 15:38  @dgmacarthur      Anthony Griswald on reseq study of GWAS hit regions in autism. No single variant significant, so went digging. #agbt14
+434789012583112704  Feb 15 15:39  @will_fitzhugh    Griswold: from NGS study, no single variant explains much risk for autism, so looking at aggregate risk from pathways #AGBT14
+434789132179869696  Feb 15 15:39  @bioinformer      RT @OmicsOmicsBlog: DMcA: ~1Pbyte raw data; reduced BAM 100Tbytel 74K CPU hrs for reduction & 84K CPU hrs for variant calls #AGBT14
+434789188597080064  Feb 15 15:39  @LAevolving       RT @fluidigm: Genome sequencing uncovered 2 cases of parthenogenesis in condors. #AGBT14
+434789301927149568  Feb 15 15:40  @dgmacarthur      AG's results fit with other autism seq studies: will need much bigger N to have power to nail down genes. #AGBT14
+434789402217562113  Feb 15 15:40  @OmicsOmicsBlog   RT @dgmacarthur: AG's results fit with other autism seq studies: will need much bigger N to have power to nail down genes. #AGBT14
+434789435511963648  Feb 15 15:40  @lexnederbragt    RT @spadesassembler: From what we hear about @nanopore data - good chances that SPAdes 3.0 already can use this data for hybrid assemblies out of the box #AGBT14
+434789443908935680  Feb 15 15:40  @matthewherper    RT @dgmacarthur: Anthony Griswald on reseq study of GWAS hit regions in autism. No single variant significant, so went digging. #agbt14
+434789456844181506  Feb 15 15:40  @matthewherper    RT @dgmacarthur: AG's results fit with other autism seq studies: will need much bigger N to have power to nail down genes. #AGBT14
+434789510791299072  Feb 15 15:41  @Becky_Kusko      RT @dgmacarthur: AG's results fit with other autism seq studies: will need much bigger N to have power to nail down genes. #AGBT14
+434789520836288512  Feb 15 15:41  @LAevolving       Vindication @Pardirallus? RT @fluidigm Genome sequencing uncovered 2 cases of parthenogenesis in condors #AGBT14
+434789687291424768  Feb 15 15:41  @dgmacarthur      A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434789696787726336  Feb 15 15:41  @wateresa         RT @dgmacarthur: AG's results fit with other autism seq studies: will need much bigger N to have power to nail down genes. #AGBT14
+434789894075191296  Feb 15 15:42  @obahcall         RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434790056487026689  Feb 15 15:43  @tikinomics       Sooo @NJL_Broad is drinking Wateritas, which is apparently a thing. #AGBT14
+434790223495827456  Feb 15 15:44  @ijivanjee        RT @dgmacarthur: AG's results fit with other autism seq studies: will need much bigger N to have power to nail down genes. #AGBT14
+434790226243100673  Feb 15 15:44  @NJL_Broad        RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434790256832151552  Feb 15 15:44  @LadyGagYa        RT @tikinomics: Sooo @NJL_Broad is drinking Wateritas, which is apparently a thing. #AGBT14
+434790325803315200  Feb 15 15:44  @LMSarcoma        RT @DaleYuzuki: Ehrich: Can find 'outside prenatal' - ID 'uterine ploemorphic leiomyosarcoma'; some will have disease DNA in the sample #AGBT14
+434790474155835392  Feb 15 15:45  @will_fitzhugh    RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434790543768305664  Feb 15 15:45  @dgmacarthur      Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434790713776431104  Feb 15 15:45  @StevenNHart      RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434790749532848128  Feb 15 15:46  @psychgenomics    RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434790789257117696  Feb 15 15:46  @idtdna           RT @jrampeymp: #AGBT14 Need a break?  Come get a visor and hang out with us in Suite 287.  We have drinks, good music and good conversation all day today😉
+434790986661634049  Feb 15 15:47  @SahaSurya        Thanks to @OmicsOmicsBlog @lexnederbragt @deannachurch @DaleYuzuki et al. for awesome coverage of #AGBT14
+434791008262311936  Feb 15 15:47  @dgmacarthur      No criticism intended, BTW. AG did an honest job of presenting negative data: complex traits are hard. #AGBT14
+434791084800372736  Feb 15 15:47  @frapaport        .@obigriffith is taking the stage about The Mutational Landscape of Hepatocellular Carcinoma in Non-Cirrhotic Livers #AGBT14
+434791131692662786  Feb 15 15:47  @lexnederbragt    RT @Single_Molecule: @dgmacarthur Only (?) problem is that Covaris shearing part of DNA prep process at ONT. Not mentioned during talk but I asked later #AGBT14
+434791228216205312  Feb 15 15:48  @KMeltzSteinberg  @obigriffith up now #AGBT14
+434791240186736641  Feb 15 15:48  @wateresa         RT @frapaport: .@obigriffith is taking the stage about The Mutational Landscape of Hepatocellular Carcinoma in Non-Cirrhotic Livers #AGBT14
+434791376811593728  Feb 15 15:48  @SHR_ANKUSH       RT @illumina: Good talk from Goodstart Genetics on benefits of NGS for carrier screening assay #AGBT14
+434791404314034176  Feb 15 15:48  @OmicsOmicsBlog   RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434791444663255040  Feb 15 15:48  @OmicsOmicsBlog   RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434791470374326272  Feb 15 15:48  @deannachurch     RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434791480335802368  Feb 15 15:49  @chfloudas        RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434791688309964800  Feb 15 15:49  @D0CT0R_Dave      RT @LAevolving: Vindication @Pardirallus? RT @fluidigm Genome sequencing uncovered 2 cases of parthenogenesis in condors #AGBT14
+434791760800546816  Feb 15 15:50  @OmicsOmicsBlog   OG: Wash U Genome Institute has developed Genome Modeling System (http://github.com/genome/gms), an analysis management system #agbt14
+434791780614438912  Feb 15 15:50  @frapaport        WGS and RNA-seq on a iscovery set of 30 tumor / normal pairs and nimblegen on an extension set of 16 t/n pairs and 73 tumors #AGBT14
+434791816320516096  Feb 15 15:50  @chfloudas        RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434791949384839168  Feb 15 15:50  @OmicsOmicsBlog   OG: GMS integrates wide variety of tools for DNA, RNA, annotations #agbt14
+434791978585587712  Feb 15 15:51  @frapaport        use of composite pipeline w. dbSNP, ensembl and cosmic annotation, BWA, Varscan, strelka, pindel,…#AGBT14
+434791999649366016  Feb 15 15:51  @KMeltzSteinberg  RT @OmicsOmicsBlog: OG: Wash U Genome Institute has developed Genome Modeling System (http://github.com/genome/gms), an analysis management system #agbt14
+434792027541475328  Feb 15 15:51  @frapaport        …  breakdancer, chimerascan, tuxedo suite, HTSeq/edgeR #AGBT14
+434792077033893888  Feb 15 15:51  @Manic_Henry      RT @LAevolving: Vindication @Pardirallus? RT @fluidigm Genome sequencing uncovered 2 cases of parthenogenesis in condors #AGBT14
+434792145913143297  Feb 15 15:51  @SahaSurya        RT @lexnederbragt: I was interviewed by @NGSperspectives at #agbt14. Watch the recording here http://ngsperspectives.com/lex-nederbragt-discussing-software-bottlenecks-lack-flexible-reference-genomes/ #bioinformatics #assembly #reference
+434792192948072448  Feb 15 15:51  @frapaport        pipeline will be open and is currently beta-tested. You can contact the @obigriffith if you want to beta-test #AGBT14
+434792236060913664  Feb 15 15:52  @dgmacarthur      Here's a link that is now working for the Lander paper on rare variants and study design: http://www.pnas.org/content/111/4/E455.abstract #AGBT14
+434792338129313792  Feb 15 15:52  @dgermain21       RT @dgmacarthur: Here's a link that is now working for the Lander paper on rare variants and study design: http://www.pnas.org/content/111/4/E455.abstract #AGBT14
+434792421390422016  Feb 15 15:52  @dgermain21       RT @OmicsOmicsBlog: OG: Wash U Genome Institute has developed Genome Modeling System (http://github.com/genome/gms), an analysis management system #agbt14
+434792489665310720  Feb 15 15:53  @surt_lab         RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434792522410250240  Feb 15 15:53  @DrBrocktagon     RT @dgmacarthur: Anthony Griswald on reseq study of GWAS hit regions in autism. No single variant significant, so went digging. #agbt14
+434792546997243904  Feb 15 15:53  @DrBrocktagon     RT @dgmacarthur: AG's results fit with other autism seq studies: will need much bigger N to have power to nail down genes. #AGBT14
+434792553225809920  Feb 15 15:53  @malachigriffith  @frapaport @obigriffith  GitHub site for the GMS is here: https://github.com/genome/gms #AGBT14
+434792553318453248  Feb 15 15:53  @drbachinsky      RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434792606988767233  Feb 15 15:53  @frapaport        use of Ingenuity for variant analysis and data sharing. #AGBT14
+434792623853674496  Feb 15 15:53  @surt_lab         RT @pathogenomenick: Argument has moved from whether nanopore produces data to how good the data is. Big change. Own goal using short fragments though. #agbt14
+434792626592964608  Feb 15 15:53  @frapaport        RT @malachigriffith: @frapaport @obigriffith  GitHub site for the GMS is here: https://github.com/genome/gms #AGBT14
+434792644833599488  Feb 15 15:53  @DrBrocktagon     RT @dgmacarthur: Here's a link that is now working for the Lander paper on rare variants and study design: http://www.pnas.org/content/111/4/E455.abstract #AGBT14
+434792661648547840  Feb 15 15:53  @GenomeNathan     Griffith: Ingenuity Variant Analysis 'very helpful' & 'easy to use' for shortlisting, 'nice' for sharing. [@ING_SYS-wide blush] #AGBT14
+434792915656015872  Feb 15 15:54  @Becky_Kusko      Obi Griffith: WGS 57.8x coverage of tumor, 35.5x normal  #AGBT14
+434792924866699266  Feb 15 15:54  @frapaport        found >500k SNVs/Indels (3k of which in coding regions) #AGBT14
+434793050855182337  Feb 15 15:55  @OmicsOmicsBlog   OG: discovery of unreported HBV/HCV infections from NGS #AGBT14
+434793225199812609  Feb 15 15:55  @frapaport        looking for unreported HPV contamination #AGBT14
+434793235744313344  Feb 15 15:56  @AbRaR_AlQahtany  RT @DaleYuzuki: Porreca: MIP diagrammed, showing data from 2014 Genet Med ref here. http://ow.ly/tF6ev #AGBT14
+434793269357072384  Feb 15 15:56  @JBYoder          RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434793287367405568  Feb 15 15:56  @scientre         RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434793303075078144  Feb 15 15:56  @malachigriffith  RT @GenomeNathan: Griffith: Ingenuity Variant Analysis 'very helpful' & 'easy to use' for shortlisting, 'nice' for sharing. [@ING_SYS-wide blush] #AGBT14
+434793346314551296  Feb 15 15:56  @wateresa         RT @GenomeNathan: Griffith: Ingenuity Variant Analysis 'very helpful' & 'easy to use' for shortlisting, 'nice' for sharing. [@ING_SYS-wide blush] #AGBT14
+434793403541237760  Feb 15 15:56  @malachigriffith  RT @OmicsOmicsBlog: OG: discovery of unreported HBV/HCV infections from NGS #AGBT14
+434793465444986880  Feb 15 15:56  @CrowdedHead      RT @OmicsOmicsBlog: OG: Wash U Genome Institute has developed Genome Modeling System (http://github.com/genome/gms), an analysis management system #agbt14
+434793540636647424  Feb 15 15:57  @OmicsOmicsBlog   OG: 5/6 HBV cases detected by capture reagents; 1 novel case; variety of integration sites #AGBT14
+434793707737710592  Feb 15 15:57  @frapaport        analysis of recurrent non-coding variants #AGBT14
+434793827292168192  Feb 15 15:58  @OmicsOmicsBlog   OG #AGBT14 few recurrent coding variants; found specific TERT promoter mutation in 4/30 cases
+434793994552639489  Feb 15 15:59  @OmicsOmicsBlog   OG: TERT mutation found by other groups in multiple other cancers #AGBT14
+434794088379195392  Feb 15 15:59  @frapaport        found an unreported non-coding variant in the TERT promoter #AGBT14
+434794183631847424  Feb 15 15:59  @Becky_Kusko      OG: coverage tends to be low in gc rich area in tert promoter, hiding mutations #AGBT14
+434794187792609280  Feb 15 15:59  @OmicsOmicsBlog   OG: TERT promoter mutation in poor coverage, high GC region; capture with IDT probes, PCR-free libraries helps fill in holes #AGBT14
+434794226031673344  Feb 15 15:59  @malachigriffith  RT @OmicsOmicsBlog: OG: TERT promoter mutation in poor coverage, high GC region; capture with IDT probes, PCR-free libraries helps fill in holes #AGBT14
+434794290632355840  Feb 15 16:00  @dgermain21       RT @GenomeNathan: Griffith: Ingenuity Variant Analysis 'very helpful' & 'easy to use' for shortlisting, 'nice' for sharing. [@ING_SYS-wide blush] #AGBT14
+434794349197811712  Feb 15 16:00  @OmicsOmicsBlog   OG: Did Sanger sequencing on holes in all patients; didn't mention any findings from this #AGBT14
+434794373688328192  Feb 15 16:00  @frapaport        capture with IDT probes does an excellent job filling in coverage holes.  #AGBT14
+434794589766316032  Feb 15 16:01  @frapaport        RNA-seq shows consistent up-regulation of TERT but at levels often reported as noise #AGBT14
+434794692811980802  Feb 15 16:01  @bffo             Good people to follow on twitter: @obigriffith and @malachigriffith #AGBT14
+434794707357806593  Feb 15 16:01  @OmicsOmicsBlog   OG: RNA-Seq shows consistent TERT upregulation in HCC, but expression level near noise (FPKM ~1) forget about alternative isoforms #agbt14
+434794734369112064  Feb 15 16:01  @Billare          RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434794804485300224  Feb 15 16:02  @Becky_Kusko      OB: tert is diff exp in tumor v normal but lowly expressed overall #AGBT14
+434794902350991360  Feb 15 16:02  @OmicsOmicsBlog   OG: 57.9% HCC carry 1 of 3 TERT promoter muts, but mutually exclusive #AGBT14
+434795013034504192  Feb 15 16:03  @frapaport        integration of WGS and RNA-seq help reduce the number of false positive in fusion and structural variants #AGBT14
+434795119691460609  Feb 15 16:03  @wateresa         OG: integrate WGS and RNAseq for SV/fusion calling #AGBT14
+434795222749683712  Feb 15 16:03  @OmicsOmicsBlog   OG: removing erroneous fusion/SV calls by combining WGS+RNA-Seq; 2390 fusions ->40; 1 recurrent #AGBT14
+434795490748956672  Feb 15 16:04  @frapaport        manual review : most fusions appear likely to result in Loss-of-function #AGBT14
+434795522675970048  Feb 15 16:05  @OmicsOmicsBlog   OG: recurrent fusion has frameshift at junction; fusion may be dominant negative (lit suggests gene loss can drive HCC) #AGBT14
+434795680717361152  Feb 15 16:05  @Becky_Kusko      I agree with OG, lots of RNAseq is good! #AGBT14
+434795703916056576  Feb 15 16:05  @OmicsOmicsBlog   OG: prioritization schemes can be dangerous (e.g. exclusion of repetitive regions); check for viral integration always #agbt14
+434795899626487808  Feb 15 16:06  @OmicsOmicsBlog   OG: analyzing fusions for biology still tedious, manual; RNA-Seq of low expression genes an issue  #AGBT14
+434795993662758912  Feb 15 16:06  @wateresa         OG: while non-coding regions may not be considered low hanging fruit, they may represent critical missing piece of puzzle #AGBT14
+434796054668517376  Feb 15 16:07  @fluidigm         RT @marietaorea: "@fluidigm: Tang- can get embryo chromosome #, haplotype , and snv info from only sequencing polar body at the single-cell level. #AGBT14"
+434796309430943744  Feb 15 16:08  @OmicsOmicsBlog   William Greenleaf apologizes for "standing between you and debauchery" #AGBT14
+434796315969867776  Feb 15 16:08  @StevenNHart      Looking at @obigriffith slide for his workflow and was impressed.  Then said we need more automation, and I became sad again #AGBT14
+434796379958181888  Feb 15 16:08  @Becky_Kusko      Will Greenleaf: "thank you for staying for my talk, you are the few, the remaining, the survivors" #AGBT14
+434796436044386304  Feb 15 16:08  @OmicsOmicsBlog   WG: likes to hijack sequencers to do non-sequencing (biochemistry); will explain at bar to those interested #AGBT14
+434796610376458240  Feb 15 16:09  @salisburymw      Will Greenleaf wakes up a sleepy #agbt14 crowd. "I'm standing between you and the debauchery." He must've been to the closing party before!
+434796629255024640  Feb 15 16:09  @OmicsOmicsBlog   WG: ATAC-seq: assay of transposase accessible chromatin; think of chromatin as physical object; hum DNA about 2m long #AGBT14
+434796693125480448  Feb 15 16:09  @Genohub          OG: Access to tons of RNA-seq: https://genohub.com/shop-by-next-gen-sequencing-project/#query=f107e5357c01a68cbb496452217c1ae3 #AGBT14
+434796886571384832  Feb 15 16:10  @wateresa         William Greenleaf of @Stanford on bg of ATACseq: Assay of Tranposase Accessible Chromatin #AGBT14
+434796990145523712  Feb 15 16:10  @tikinomics       If your dirty banana ain't dirty enough, we've got this bad boy. #AGBT14 http://t.co/LzTsAdnYWU
+434797045564841984  Feb 15 16:11  @Becky_Kusko      WG: open chromatin is very cell type specific #AGBT14
+434797063885189120  Feb 15 16:11  @dvoordom         ;-) RT @OmicsOmicsBlog: WG: likes to hijack sequencers to do non-sequencing (biochemistry); will explain at bar to those interested #AGBT14
+434797094629826561  Feb 15 16:11  @OmicsOmicsBlog   WG: DNase-seq captures open chromatin information; highly cell-type specific #AGBT14
+434797197629358081  Feb 15 16:11  @OmicsOmicsBlog   WG: transcription factors can interfere with DNase binding; in vivo footprinting #AGBT14
+434797283469967360  Feb 15 16:12  @StevenNHart      Gotta love WG's pace for this talk.  Its like watching a YouTube video at 1.5x speed 😐 #AGBT14
+434797333755092992  Feb 15 16:12  @GenomeNathan     Greenleaf: A human genome is ~2m long. (For us short folks, that's ~1.175 smoots.) #agbt14
+434797547316862977  Feb 15 16:13  @OmicsOmicsBlog   DG: DNase-seq requires huge numbers of cells; Tn5(Nextera) transposase, then PCR; 1 library/person/day, much less material #agbt14
+434797633836957696  Feb 15 16:13  @tikinomics       @dgmacarthur rolls up and gives some legitimacy to this motley crew. #AGBT14
+434797685833748480  Feb 15 16:13  @wateresa         WG: 2 steps of ATACseq- transpose then PCR. More manageable than DNAseq #AGBT14
+434797692435562496  Feb 15 16:13  @Becky_Kusko      WG: ATAC-seq and DNAseSEQ are correlated at .83 #AGBT14
+434797728875687936  Feb 15 16:13  @fluidigm         Closing out #AGBT14, Will Greenleaf is an outstanding final speaker. Dynamic, funny, and enthusiastic!
+434797827290845185  Feb 15 16:14  @OmicsOmicsBlog   WG: ATAC-seq vs DNAase datasets highly correlated; correlates with chromatin mark data #AGBT14
+434797844814249984  Feb 15 16:14  @StefanieButland  RT @bffo: Good people to follow on twitter: @obigriffith and @malachigriffith #AGBT14
+434797952867909632  Feb 15 16:14  @homolog_us       @OmicsOmicsBlog Many thanks for today's #AGBT14 tweets !!
+434797983650312192  Feb 15 16:14  @wateresa         RT @StevenNHart: Gotta love WG's pace for this talk.  Its like watching a YouTube video at 1.5x speed 😐 #AGBT14
+434798068589142016  Feb 15 16:15  @OmicsOmicsBlog   WG: if you know TF motif, can map state of binding genome wide; "quasi-ChIP-Seq data" #AGBT14
+434798291885514752  Feb 15 16:16  @OmicsOmicsBlog   WG: Fragment lengths clearly periodic (nucleosome period ~200bp); partition reads #agbt14
+434798363314503680  Feb 15 16:16  @GenomeNathan     RT @OmicsOmicsBlog: WG: Fragment lengths clearly periodic (nucleosome period ~200bp); partition reads #agbt14
+434798538917425153  Feb 15 16:17  @MelanieFebrer    RT @homolog_us: @OmicsOmicsBlog Many thanks for today's #AGBT14 tweets !!
+434798570659938304  Feb 15 16:17  @drecwalsh        RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434798745675636736  Feb 15 16:17  @OmicsOmicsBlog   WG: ATAC-seq reveals classes of TF binding; nucleosome-avoiding, nucleosome philic #AGBT14
+434798747680518144  Feb 15 16:17  @drecwalsh        RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434798759864983552  Feb 15 16:17  @Evi_Zahne        RT @iontorrent: DeRisi: showing http://ubiome.com taxonomy browser to drill down into the data. Answer: Leptospira borgpetersenii #AGBT14
+434798829213601792  Feb 15 16:18  @drecwalsh        RT @dgmacarthur: No criticism intended, BTW. AG did an honest job of presenting negative data: complex traits are hard. #AGBT14
+434798942526910464  Feb 15 16:18  @OmicsOmicsBlog   WG: Can run ATAC-Seq on FACS material; shows heat map of B-cell vs. CD4+ T-cell #AGBT14
+434799031324516352  Feb 15 16:19  @obigriffith      RT @malachigriffith: @frapaport @obigriffith  GitHub site for the GMS is here: https://github.com/genome/gms #AGBT14
+434799065495511040  Feb 15 16:19  @obigriffith      RT @frapaport: pipeline will be open and is currently beta-tested. You can contact the @obigriffith if you want to beta-test #AGBT14
+434799172316049408  Feb 15 16:19  @OmicsOmicsBlog   WG: timescale compatible with clinical practice; showing enhancers of IL2 responsive to different immunosuppressants #agbt14
+434799214150029312  Feb 15 16:19  @wateresa         Simple breakdown of MNase, DNAse and ChIP [seq]. http://epigenie.com/three-ways-to-get-intimate-with-epigenetic-marks/ #AGBT14
+434799341849837568  Feb 15 16:20  @OmicsOmicsBlog   WG: With H.Chang, looking at changes in chromatin state in T-cell leukemia with HDAC inhibitor treatment #agbt14
+434799438834728960  Feb 15 16:20  @OmicsOmicsBlog   WG: Also validated in S.cerevisiae, C.elegans, mouse #AGBT14
+434799653629214720  Feb 15 16:21  @OmicsOmicsBlog   WG: trying to push to single cell level; 50K cells & 12 single cells (merged) or 1 single cell give roughly similar patterns #agbt14
+434799845292138496  Feb 15 16:22  @illumina         RT @homolog_us: @OmicsOmicsBlog Many thanks for today's #AGBT14 tweets !!
+434799845925478400  Feb 15 16:22  @OmicsOmicsBlog   WG: single cell data shows nucleosome periodicity clearly #AGBT14
+434800621183860736  Feb 15 16:25  @OmicsOmicsBlog   WG: Key bit is no size selection; may be losing information on very long fragments #agbt14
+434800751396016128  Feb 15 16:25  @Becky_Kusko      WG: Might be nice to be able to compare length distribution in gel and in seq result #AGBT14
+434800784510054401  Feb 15 16:25  @OmicsOmicsBlog   WG(q): how many reads do you generate? 200M paired reads in one human cell; for differential open reads, need fewer #AGBT14
+434800972846866433  Feb 15 16:26  @OmicsOmicsBlog   RT @StevenNHart: Gotta love WG's pace for this talk.  Its like watching a YouTube video at 1.5x speed 😐 #AGBT14
+434801076668493824  Feb 15 16:27  @leonidkruglyak   RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434801127469481984  Feb 15 16:27  @lexnederbragt    Wrap up of #agbt14 is coming up. Very smooth meeting, I agree with Eric Green there.
+434801415685681152  Feb 15 16:28  @AW_NGS           RT @SahaSurya: Thanks to @OmicsOmicsBlog @lexnederbragt @deannachurch @DaleYuzuki et al. for awesome coverage of #AGBT14
+434801590403203073  Feb 15 16:29  @ethanjweiss      RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434801699648065536  Feb 15 16:29  @torstenseemann   RT @SahaSurya: Thanks to @OmicsOmicsBlog @lexnederbragt @deannachurch @DaleYuzuki et al. for awesome coverage of #AGBT14
+434801751297118209  Feb 15 16:29  @Billare          RT @GenomeNathan: Greenleaf: A human genome is ~2m long. (For us short folks, that's ~1.175 smoots.) #agbt14
+434801832700182528  Feb 15 16:30  @lucventurini     RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434802548885946369  Feb 15 16:33  @rtraborn         RT @SahaSurya: Thanks to @OmicsOmicsBlog @lexnederbragt @deannachurch @DaleYuzuki et al. for awesome coverage of #AGBT14 //  Agree- thanks!
+434802641143881728  Feb 15 16:33  @PeroMHC          Has anyone tried LSC for @PacBio error correction? http://www.healthcare.uiowa.edu/labs/au/LSC/LSC.html #AGBT14
+434802777961660416  Feb 15 16:33  @jyasuda1         RT @dgmacarthur: Here's a link that is now working for the Lander paper on rare variants and study design: http://www.pnas.org/content/111/4/E455.abstract #AGBT14
+434802867191697408  Feb 15 16:34  @PeroMHC          LSC is developed for RNAseq reads, but wonder if cold be used for genomics reads. Haven’t het looked deeply at code. #AGBT14
+434803460869849088  Feb 15 16:36  @dwheelerau       RT @lexnederbragt: MacArthur: achieving 10-fold BAM compression #AGBT14
+434803665183203329  Feb 15 16:37  @illumina         RT @SahaSurya: Thanks to @OmicsOmicsBlog @lexnederbragt @deannachurch @DaleYuzuki et al. for awesome coverage of #AGBT14
+434803774972903424  Feb 15 16:37  @dwheelerau       RT @lexnederbragt: Next speaker is Daniel MacArthur: "Functional Annotation at Scale: Analysis of Genetic Variation From Over 50,000 Human Exomes" #AGBT14
+434803778622332928  Feb 15 16:37  @Billare          RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434804198366912512  Feb 15 16:39  @obigriffith      http://DGIdb.org One of only two open-access, open-source software demos at #AGBT14
+434804393804713984  Feb 15 16:40  @obigriffith      .@obigriffith was @galaxyproject the other one at #AGBT14?
+434806174442340352  Feb 15 16:47  @GenomeNathan     RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434806586893422593  Feb 15 16:49  @m_swistak        RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434806608237846528  Feb 15 16:49  @lexnederbragt    Annotated tweet timeline of #agbt14 tweets from http://erlichlab.wi.mit.edu/tweets/index.html http://t.co/P6cBs2brPy
+434807097457668096  Feb 15 16:51  @robincoope       RT @lexnederbragt: Annotated tweet timeline of #agbt14 tweets from http://erlichlab.wi.mit.edu/tweets/index.html http://t.co/P6cBs2brPy
+434807164348432384  Feb 15 16:51  @LadyGagYa        RT @tikinomics: @dgmacarthur rolls up and gives some legitimacy to this motley crew. #AGBT14
+434807712560734208  Feb 15 16:53  @robin_andersson  RT @OmicsOmicsBlog: WG: ATAC-seq reveals classes of TF binding; nucleosome-avoiding, nucleosome philic #AGBT14
+434808315198312448  Feb 15 16:55  @robin_andersson  RT @OmicsOmicsBlog: WG: trying to push to single cell level; 50K cells & 12 single cells (merged) or 1 single cell give roughly similar patterns #agbt14
+434809331201368065  Feb 15 16:59  @chfloudas        RT @lexnederbragt: Annotated tweet timeline of #agbt14 tweets from http://erlichlab.wi.mit.edu/tweets/index.html http://t.co/P6cBs2brPy
+434810207634325504  Feb 15 17:03  @homolog_us       RT @lexnederbragt: Annotated tweet timeline of #agbt14 tweets from http://erlichlab.wi.mit.edu/tweets/index.html http://t.co/P6cBs2brPy
+434811641763753985  Feb 15 17:09  @PeroMHC          I think thats something like $46,000 for single @PacBio transcriptome #AGBT14
+434811676278657024  Feb 15 17:09  @LarsPenke        RT @dgmacarthur: Anthony Griswald on reseq study of GWAS hit regions in autism. No single variant significant, so went digging. #agbt14
+434812006030671872  Feb 15 17:10  @neilhall_uk      RT @lexnederbragt: Do I/we need to petition @nanopore to release the Oxford Nanopore MinION data that David Jaffe discussed at #agbt14? Should not be necessary
+434813219497328641  Feb 15 17:15  @idtdna           RT @OmicsOmicsBlog: OG: TERT promoter mutation in poor coverage, high GC region; capture with IDT probes, PCR-free libraries helps fill in holes #AGBT14
+434814250192994305  Feb 15 17:19  @prometheusgreen  RT @dgmacarthur: Here's a link that is now working for the Lander paper on rare variants and study design: http://www.pnas.org/content/111/4/E455.abstract #AGBT14
+434814465390178304  Feb 15 17:20  @drbachinsky      RT @lexnederbragt: Do I/we need to petition @nanopore to release the Oxford Nanopore MinION data that David Jaffe discussed at #agbt14? Should not be necessary
+434815299804614656  Feb 15 17:23  @fluidigm         Our final #AGBT14 daily diary has been uploaded. So many single-cell presentations this year! Can't wait for #AGBT15 https://www.youtube.com/watch?v=3NQDrRrb4ps
+434815331190988800  Feb 15 17:23  @Jason_Gammack    RT @GenomeNathan: Griffith: Ingenuity Variant Analysis 'very helpful' & 'easy to use' for shortlisting, 'nice' for sharing. [@ING_SYS-wide blush] #AGBT14
+434817026155372545  Feb 15 17:30  @bioinformer      RT @lexnederbragt: Annotated tweet timeline of #agbt14 tweets from http://erlichlab.wi.mit.edu/tweets/index.html http://t.co/P6cBs2brPy
+434817673541984256  Feb 15 17:33  @Jason_Gammack    RT @frapaport: use of Ingenuity for variant analysis and data sharing. #AGBT14
+434819431097974784  Feb 15 17:40  @JokeReumers      RT @lexnederbragt: Annotated tweet timeline of #agbt14 tweets from http://erlichlab.wi.mit.edu/tweets/index.html http://t.co/P6cBs2brPy
+434819439591059456  Feb 15 17:40  @noegooo          @owlmonkey great read.  Let's see if the uniform error rate would be enough.  At #AGBT14 just demo oxford can do #pacbio 's niche app
+434819626875097088  Feb 15 17:40  @SahaSurya        .@deannachurch @OmicsOmicsBlog @lexnederbragt @DaleYuzuki Its the whole #AGBT14 *tweam* effort that counts :-)
+434819745838555136  Feb 15 17:41  @PeroMHC          ok, wow.. they started with 7.8M @PacBio reads, but ended up using only 60k for junction analyses.. #AGBT14
+434820069844332544  Feb 15 17:42  @aniket_desh      RT @GenomeNathan: Greenleaf: A human genome is ~2m long. (For us short folks, that's ~1.175 smoots.) #agbt14
+434821405289373696  Feb 15 17:47  @BekahMcLaughlin  Thomas Gilbert's #AGBT14 talk was funny even on Twitter so I made a Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434821453339713536  Feb 15 17:48  @cathcoste        RT @BekahMcLaughlin: Thomas Gilbert's #AGBT14 talk was funny even on Twitter so I made a Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434821503759425538  Feb 15 17:48  @cathcoste        RT @lexnederbragt: Annotated tweet timeline of #agbt14 tweets from http://erlichlab.wi.mit.edu/tweets/index.html http://t.co/P6cBs2brPy
+434821577621110785  Feb 15 17:48  @cathcoste        RT @GenomeNathan: Greenleaf: A human genome is ~2m long. (For us short folks, that's ~1.175 smoots.) #agbt14
+434821672886345728  Feb 15 17:49  @cathcoste        RT @dgmacarthur: Here's a link that is now working for the Lander paper on rare variants and study design: http://www.pnas.org/content/111/4/E455.abstract #AGBT14
+434822303017627648  Feb 15 17:51  @cathcoste        RT @fluidigm: Our final #AGBT14 daily diary has been uploaded. So many single-cell presentations this year! Can't wait for #AGBT15 https://www.youtube.com/watch?v=3NQDrRrb4ps
+434822866119688192  Feb 15 17:53  @GenomeNathan     Post #agbt14 sealife mystery 1: are radial/concentric shell ridges adaptive to diff. flow env's, or what? http://t.co/XYW2ybPRhi
+434823359403397120  Feb 15 17:55  @GenomeNathan     Post #agbt14 sealife mystery 2: whither snail handedness? http://t.co/cEHTMJJ5wG
+434824150591340544  Feb 15 17:58  @actually_alan    RT @OmicsOmicsBlog: Blainey(q): when can we buy one? Not planning to commercialize; has one in his bag, beer suggested by questioner as currency #AGBT14
+434824165770932225  Feb 15 17:58  @GenomeNathan     @GenomeNathan: Post #agbt14 sealife mystery 3: What the hell is this? Leopardskin crab carapace? Turtle shell? http://t.co/lQ6moS48eO
+434824485959507968  Feb 15 18:00  @cathcoste        #AGBT14 "Searching for missing heritability: Designing rare variant association studies" by E. Lander PhD & Co: http://www.pnas.org/content/111/4/E455.abstract
+434824925233172481  Feb 15 18:01  @BioinfoTools     Readers interested in genetics research may wish to follow #AGBT14
+434824925640404992  Feb 15 18:01  @cathcoste        RT @GenomeNathan: Post #agbt14 sealife mystery 1: are radial/concentric shell ridges adaptive to diff. flow env's, or what? http://t.co/XYW2ybPRhi
+434825045417136128  Feb 15 18:02  @cathcoste        RT @PeroMHC: ok, wow.. they started with 7.8M @PacBio reads, but ended up using only 60k for junction analyses.. #AGBT14
+434825184164741121  Feb 15 18:02  @cathcoste        RT @OmicsOmicsBlog: WG: trying to push to single cell level; 50K cells & 12 single cells (merged) or 1 single cell give roughly similar patterns #agbt14
+434825245774467072  Feb 15 18:03  @Graham_Coop      RT @GenomeNathan: Post #agbt14 sealife mystery 2: whither snail handedness? http://t.co/cEHTMJJ5wG
+434825318134972416  Feb 15 18:03  @cathcoste        RT @OmicsOmicsBlog: OG: Wash U Genome Institute has developed Genome Modeling System (http://github.com/genome/gms), an analysis management system #agbt14
+434825383956213760  Feb 15 18:03  @cathcoste        RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434825501946159104  Feb 15 18:04  @cathcoste        RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434825650957189120  Feb 15 18:04  @neilhall_uk      RT @BekahMcLaughlin: Thomas Gilbert's #AGBT14 talk was funny even on Twitter so I made a Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434826024338329600  Feb 15 18:06  @cathcoste        RT @DaleYuzuki: Porreca: MIP diagrammed, showing data from 2014 Genet Med ref here. http://ow.ly/tF6ev #AGBT14
+434826079505629184  Feb 15 18:06  @cathcoste        RT @hutchins_e: thanks for a nice laugh... still chuckling about SHTseq RT @CrapBio "check out real quantum sequencing at #AGBT14 http://thescienceweb.wordpress.com/2014/02/05/dna-sequencing-takes-a-quantum-leap/"
+434826161005535232  Feb 15 18:06  @cathcoste        RT @DaleYuzuki: Hakonarson: ADHD - est $76B/y cost in US; most common disease among children; discovered var's Nature Gen '11 http://ow.ly/tF1Px #AGBT14
+434826379587100672  Feb 15 18:07  @brigittegs       RT @BekahMcLaughlin: Thomas Gilbert's #AGBT14 talk was funny even on Twitter so I made a Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434826684907667457  Feb 15 18:08  @olivierlucas29   RT @AllSeq: Ouch, another PII timeline slip! MT @lexnederbragt: Williams: early access May/June, after summer full release #AGBT14
+434826904777265152  Feb 15 18:09  @olivierlucas29   RT @DaleYuzuki: Hakonarson: Diagnostic odyssey paper here in Genome Med. http://ow.ly/tF26k #AGBT14
+434827238820044800  Feb 15 18:11  @cathcoste        RT @BioinfoTools: Readers interested in genetics research may wish to follow #AGBT14
+434827598120906753  Feb 15 18:12  @cathcoste        RT @obahcall: .@matthewherper on GenapSys. Genomics researchers have been victims of hype before.  http://onforb.es/1kJzcjn #AGBT14
+434827656732094464  Feb 15 18:12  @cathcoste        RT @obahcall: .@Erika_Check on Oxford Nanopore MinION: a good 1st shot, but not a game-changer—yet http://bit.ly/1kJzK90 @NatureNews #AGBT14
+434827732740878336  Feb 15 18:13  @lizbatty         RT @NGSperspectives: Gilbert: "Rainforest is not an easy place to work. I almost got trampled by an elephant and didn't realise until I wet myself." #AGBT14
+434827764089511936  Feb 15 18:13  @cathcoste        RT @obahcall: See Carpenter et al. Whole-genome capture for targeted enrichment of ancient DNA sequencing libraries #AGBT14  http://bit.ly/1kJujqK
+434828297663700992  Feb 15 18:15  @DaleYuzuki       RT @cathcoste: Gilbert's #AGBT14 talk was funny even on Twitter; see Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434828693987274752  Feb 15 18:16  @octotus          RT @lexnederbragt: Do I/we need to petition @nanopore to release the Oxford Nanopore MinION data that David Jaffe discussed at #agbt14? Should not be necessary
+434829889183965185  Feb 15 18:21  @cathcoste        RT @DaleYuzuki: RT @cathcoste: Gilbert's #AGBT14 talk was funny even on Twitter; see Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434830356496138240  Feb 15 18:23  @AJH_Broad        RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434830640387616768  Feb 15 18:24  @SecretThoughtsA  "SOCIAL MEDIA HEALING" Power of #socialmedia in #medicine and #cancer management˙Article and Videos http://goo.gl/jgulwR #AGBT14
+434830702522007552  Feb 15 18:24  @AJH_Broad        RT @lexnederbragt: New blog post: The one and only Oxford Nanopore talk at AGBT 2014 – with real data http://flxlexblog.wordpress.com/2014/02/14/the-one-and-only-oxford-nanopore-talk-at-agbt-2014-with-real-data/ #nanopore #agbt14
+434830705533546497  Feb 15 18:24  @ayannamonte      RT @DaleYuzuki: RT @cathcoste: Gilbert's #AGBT14 talk was funny even on Twitter; see Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434831519669305344  Feb 15 18:28  @GenCellBio       #AGBT14 was such great event for making new friends, thank you for calling our suite, hope you all enjoy our technology and the whiskey!
+434832101050159104  Feb 15 18:30  @GenomeNathan     RT @dgmacarthur: Here's a link that is now working for the Lander paper on rare variants and study design: http://www.pnas.org/content/111/4/E455.abstract #AGBT14
+434832138266238977  Feb 15 18:30  @GenomeJoe        RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434832225235120128  Feb 15 18:30  @GenomeJoe        RT @SahaSurya: Thanks to @OmicsOmicsBlog @lexnederbragt @deannachurch @DaleYuzuki et al. for awesome coverage of #AGBT14
+434832658078908416  Feb 15 18:32  @zephryin         RT @OmicsOmicsBlog: Anthony Griswald, Integrated analysis of genome wide association and targeted sequencing for Autism Spectrum Disorders #AGBT14
+434833000061493249  Feb 15 18:34  @zephryin         “@dgmacarthur: AG's results fit with other autism seq studies: will need much bigger N to have power to nail down genes. #AGBT14”
+434834276014911488  Feb 15 18:39  @drbachinsky      RT @DaleYuzuki: RT @cathcoste: Gilbert's #AGBT14 talk was funny even on Twitter; see Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434834713677926401  Feb 15 18:40  @dnanexus         MinION: A good first shot, but not a game-changer — yet. http://ow.ly/tFg4g @NatureNews #AGBT14
+434835289912397824  Feb 15 18:43  @dnanexus         RT @BekahMcLaughlin: Thomas Gilbert's #AGBT14 talk was funny even on Twitter so I made a Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434836623243874305  Feb 15 18:48  @kam86cu          RT @iontorrent: AW: custom Ion AmpliSeq RNA fusion panels now available. Only 5-10 ng FFPE RNA input. Lung fusion research panel also coming soon #AGBT14
+434838252453785601  Feb 15 18:54  @timtriche        RT @dgmacarthur: A plug for @eric_lander's paper on rare variant association (http://www.pnas.org/content/early/2014/01/16/1322563111): likely need 25,000 cases for many diseases. #AGBT14
+434839044439441408  Feb 15 18:58  @HolliHDilks      RT @DaleYuzuki: RT @cathcoste: Gilbert's #AGBT14 talk was funny even on Twitter; see Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434839099074027520  Feb 15 18:58  @timtriche        RT @OmicsOmicsBlog: WG: With H.Chang, looking at changes in chromatin state in T-cell leukemia with HDAC inhibitor treatment #agbt14
+434839834104823808  Feb 15 19:01  @DNAmlin          RT @dnanexus: MinION: A good first shot, but not a game-changer — yet. http://ow.ly/tFg4g @NatureNews #AGBT14
+434840296166535169  Feb 15 19:03  @Olivier_LG       RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434842741462548481  Feb 15 19:12  @druvus           RT @lexnederbragt: Annotated tweet timeline of #agbt14 tweets from http://erlichlab.wi.mit.edu/tweets/index.html http://t.co/P6cBs2brPy
+434843330518974465  Feb 15 19:15  @Eventifier       @agbt Here is a quick social media summary of #AGBT14 , have a look: http://buff.ly/MVmNKT Ty.
+434848802135347200  Feb 15 19:36  @sczerwas         RT @dgmacarthur: Here's a link that is now working for the Lander paper on rare variants and study design: http://www.pnas.org/content/111/4/E455.abstract #AGBT14
+434849045375643648  Feb 15 19:37  @DEED_SCAN        RT @dgmacarthur: Here's a link that is now working for the Lander paper on rare variants and study design: http://www.pnas.org/content/111/4/E455.abstract #AGBT14
+434851353639145473  Feb 15 19:46  @BekahMcLaughlin  MT @edyong209 Condor needs no king  RT @fluidigm Sequencing uncovered 2 cases of parthenogenesis in condors. #AGBT14 http://t.co/uLQBNVg82x
+434852635968286720  Feb 15 19:52  @hlatim           RT @lexnederbragt: Nature News: Oxford Nanopore unveils data from portable genome sequencer http://www.nature.com/news/oxford-nanopore-unveils-data-from-portable-genome-sequencer-1.14724 #agbt14
+434855246792503296  Feb 15 20:02  @matthewherper    RT @dgmacarthur: Here's a link that is now working for the Lander paper on rare variants and study design: http://www.pnas.org/content/111/4/E455.abstract #AGBT14
+434855366027796480  Feb 15 20:02  @Byrnafyrna       RT @dgmacarthur: AG's results fit with other autism seq studies: will need much bigger N to have power to nail down genes. #AGBT14
+434857309555023872  Feb 15 20:10  @JayMan471        RT @dgmacarthur: Question about epistasis. Worth noting: if you don't have power to detect main effects, you don't have power for interactions. #AGBT14
+434857471627501568  Feb 15 20:11  @OmicsOmicsBlog   RT @DaleYuzuki: RT @cathcoste: Gilbert's #AGBT14 talk was funny even on Twitter; see Storify. http://bit.ly/1gM0fWg @DaleYuzuki @lexnederbragt @neilhall_uk
+434857599180488705  Feb 15 20:11  @OmicsOmicsBlog   RT @GenomeNathan: Post #agbt14 sealife mystery 1: are radial/concentric shell ridges adaptive to diff. flow env's, or what? http://t.co/XYW2ybPRhi
+434858799938416640  Feb 15 20:16  @illumina         Scientists find #funkytown. Thanks #AGBT14! http://t.co/BuW9LZhbHu
+434859456203993088  Feb 15 20:19  @gilbertjacka     RT @illumina: Scientists find #funkytown. Thanks #AGBT14! http://t.co/BuW9LZhbHu
+434859705971011586  Feb 15 20:20  @neilhall_uk      RT @hutchins_e: thanks for a nice laugh... still chuckling about SHTseq RT @CrapBio "check out real quantum sequencing at #AGBT14 http://thescienceweb.wordpress.com/2014/02/05/dna-sequencing-takes-a-quantum-leap/"
+434861193576984576  Feb 15 20:26  @octotus          RT @hutchins_e: thanks for a nice laugh... still chuckling about SHTseq RT @CrapBio "check out real quantum sequencing at #AGBT14 http://thescienceweb.wordpress.com/2014/02/05/dna-sequencing-takes-a-quantum-leap/"
+434862568071770112  Feb 15 20:31  @Limenian         RT @fluidigm: Sequencing over 300 single cells at approx. 200,000 reads is sufficient to differentiate cell types like neurons. #AGBT14
+434863262006771712  Feb 15 20:34  @Limenian         RT @fluidigm: Why do single-cell genomics? The population average is a lie. -Marc Unger #AGBT14
+434865896712978434  Feb 15 20:44  @BekahMcLaughlin  Ken Livak gives a brief summary of 2 single-cell #AGBT14 talks from Day 4. https://www.youtube.com/watch?v=3NQDrRrb4ps via @Fluidigm
+434866316776718336  Feb 15 20:46  @madduri          I should have attended #AGBT14. May be next year
+434867862394929152  Feb 15 20:52  @aphillippy       RT @SahaSurya: Thanks to @OmicsOmicsBlog @lexnederbragt @deannachurch @DaleYuzuki et al. for awesome coverage of #AGBT14

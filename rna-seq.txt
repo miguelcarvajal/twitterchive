@@ -8322,3 +8322,10 @@
 434756547571638272  Feb 15 13:30  @rnomics          Sashimi plots: Quantitative visualization of alternative isoform expression from RNA-seq data | bioRxiv http://bit.ly/1gBn1A0 biorxiv.or...
 434761134575345664  Feb 15 13:48  @DukeSequencing   Paper on the numerous benefits of RNA-Seq over microarray. Pricing is the final fortress but not for long. http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0078644
 434763836759887872  Feb 15 13:59  @EduEyras         Modeling alternative splicing variants from RNA-Seq data with isoform graphs http://online.liebertpub.com/doi/abs/10.1089/cmb.2013.0112
+434791780614438912  Feb 15 15:50  @frapaport        WGS and RNA-seq on a iscovery set of 30 tumor / normal pairs and nimblegen on an extension set of 16 t/n pairs and 73 tumors #AGBT14
+434794589766316032  Feb 15 16:01  @frapaport        RNA-seq shows consistent up-regulation of TERT but at levels often reported as noise #AGBT14
+434794707357806593  Feb 15 16:01  @OmicsOmicsBlog   OG: RNA-Seq shows consistent TERT upregulation in HCC, but expression level near noise (FPKM ~1) forget about alternative isoforms #agbt14
+434795013034504192  Feb 15 16:03  @frapaport        integration of WGS and RNA-seq help reduce the number of false positive in fusion and structural variants #AGBT14
+434795222749683712  Feb 15 16:03  @OmicsOmicsBlog   OG: removing erroneous fusion/SV calls by combining WGS+RNA-Seq; 2390 fusions ->40; 1 recurrent #AGBT14
+434795899626487808  Feb 15 16:06  @OmicsOmicsBlog   OG: analyzing fusions for biology still tedious, manual; RNA-Seq of low expression genes an issue  #AGBT14
+434796693125480448  Feb 15 16:09  @Genohub          OG: Access to tons of RNA-seq: https://genohub.com/shop-by-next-gen-sequencing-project/#query=f107e5357c01a68cbb496452217c1ae3 #AGBT14
