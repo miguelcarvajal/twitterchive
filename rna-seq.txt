@@ -8329,3 +8329,12 @@
 434795222749683712  Feb 15 16:03  @OmicsOmicsBlog   OG: removing erroneous fusion/SV calls by combining WGS+RNA-Seq; 2390 fusions ->40; 1 recurrent #AGBT14
 434795899626487808  Feb 15 16:06  @OmicsOmicsBlog   OG: analyzing fusions for biology still tedious, manual; RNA-Seq of low expression genes an issue  #AGBT14
 434796693125480448  Feb 15 16:09  @Genohub          OG: Access to tons of RNA-seq: https://genohub.com/shop-by-next-gen-sequencing-project/#query=f107e5357c01a68cbb496452217c1ae3 #AGBT14
+434920705843425280  Feb 16 00:22  @AliciaOshlack    #lornegenome mardis - integrated wgs, exome and RNA-seq. finds 40% of mutated genes are expressed
+434921182266003457  Feb 16 00:24  @genomematt       RT @AliciaOshlack: #lornegenome mardis - integrated wgs, exome and RNA-seq. finds 40% of mutated genes are expressed
+434923571966533632  Feb 16 00:33  @AliciaOshlack    #lornegenome mardis - again RNA-seq adds a lot of important information above exome
+434923999290605569  Feb 16 00:35  @markrobinsonca   RT @AliciaOshlack: #lornegenome mardis - again RNA-seq adds a lot of important information above exome
+434925307624054784  Feb 16 00:40  @AliciaOshlack    #lornegenome mardis - no DNA mutation found in ALL patient but RNA-seq showed over expression of flt3 with drug target
+434928822786342912  Feb 16 00:54  @jwbelmon         RT @AliciaOshlack: #lornegenome mardis - again RNA-seq adds a lot of important information above exome
+434931597825945600  Feb 16 01:05  @AliciaOshlack    @timtriche @dgmacarthur what do you miss if you just do RNA-seq in tumour? @genomematt
+434932511836495872  Feb 16 01:09  @dgmacarthur      @genomematt @AliciaOshlack @timtriche I only recommend RNA-seq after exome, and we don’t use it for variant calling. Just ASE + splice.
+434959098560270336  Feb 16 02:55  @CHARANNIKKI      RT @rnomics: CT @rnomics/bioinfo Massively Parallel Single-Cell #RNA-Seq for Marker-Free Decomposition of Tissues into Cell Types http://bit.ly/1c6seQD
