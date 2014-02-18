@@ -8371,3 +8371,11 @@
 435536692951646208  Feb 17 17:10  @LeucineRichBio   TRAP – Time-series RNA-seq Analysis Package. http://www.rna-seqblog.com/trap-time-series-rna-seq-analysis-package/
 435569295188164608  Feb 17 19:19  @razoralign       NGS Market / Platforms / Bioinformatics (RNA-Seq, ChIP-Seq), (Pyrosequencing, SBS, SMRT) Global Forecast to 2017: http://www.rnrmarketresearch.com/next-generation-sequencing-ngs-market-platforms-illumina-hiseq-miseq-life-technologies-ion-protonpgm-454-roche-bioinformatics-rna-seq-chip-seq-pyrosequencing-sbs-smrt-diagnostics-market-report.html
 435571035216179200  Feb 17 19:26  @razoralign       SOAPdenovo-Trans: De novo transcriptome assembly with short RNA-Seq reads  (e.g. 2 × 90 bp paired ends) : http://bioinformatics.oxfordjournals.org/content/early/2014/02/13/bioinformatics.btu077.short
+435613948641947648  Feb 17 22:17  @kaittenage       fancy models developed for RNA-seq gene expression data b/c it violates some parametric assumptions? microarray data did too, right?
+435614418726961152  Feb 17 22:19  @kaittenage       even negative binomial or Poisson dist. methods of diff. expression for RNA-seq may not have assumptions met, like independence of variables
+435626634419253248  Feb 17 23:07  @markrobinsonca   HK: sequence subtraction (from RNA-seq assemblies) to extract male-specific sequence #lornegenome
+435647086944456704  Feb 18 00:28  @markrobinsonca   #lornegenome Jason Wong: RNA-seq data analysis easier compared to proteomics!
+435647196428374016  Feb 18 00:29  @mincle           RT @markrobinsonca: #lornegenome Jason Wong: RNA-seq data analysis easier compared to proteomics!
+435647522652962816  Feb 18 00:30  @markrobinsonca   JW: Very cool, validating RNA-seq variants with MS-based proteomics. #lornegenome
+435647770611810304  Feb 18 00:31  @mincle           RT @markrobinsonca: JW: Very cool, validating RNA-seq variants with MS-based proteomics. #lornegenome
+435652055290884096  Feb 18 00:48  @Elijaht87        TRAP – Time-series RNA-seq Analysis Package http://lnkd.in/d8aMsty
