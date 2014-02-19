@@ -8393,3 +8393,9 @@
 435872138944593921  Feb 18 15:23  @rnomics          http://bit.ly/1hsOqce SeqGSEA: a Bioconductor package for gene set enrichment analysis of RNA-Seq data integrating differential expre...
 435884017532297216  Feb 18 16:10  @LeucineRichBio   TCGA PRAD Integrated Analysis of RNA seq and miRNA seq http://www.rna-seqblog.com/tcga-prad-integrated-analysis-of-rna-seq-and-mirna-seq/
 435946003808538624  Feb 18 20:16  @h_memeo          このあたりの作法に詳しくないんだけど、RNA-seqやCHIP-seqのフルデータを論文投稿前にNCBIのdatabaseに登録するのって常識なん？
+435973122064265216  Feb 18 22:04  @razoralign       SeqGSEA: a Bioconductor package for gene set enrichment analysis of RNA-Seq data integrating DE and splicing: http://bioinformatics.oxfordjournals.org/content/early/2014/02/16/bioinformatics.btu090.short
+435977240615333888  Feb 18 22:20  @SEQquestions     Sequencing depth of TCGA RNA-Seq data http://ift.tt/MbilH5
+435993982800125953  Feb 18 23:27  @galaxyproject    In ToolShed: rsem: RNA SEQ by Expectation Maximization http://bit.ly/1biTdtX #usegalaxy
+436019650506543105  Feb 19 01:09  @jameslz          A rat RNA-Seq transcriptomic BodyMap across 11 organs and 4 developmental stages  http://www.nature.com/ncomms/2014/140210/ncomms4230/full/ncomms4230.html
+436031880363003904  Feb 19 01:57  @animesh1977      Joint estimation of isoform expression and isoform-specific read distribution using multisample RNA-Seq data http://ift.tt/1cozCXO
+436046514301857792  Feb 19 02:56  @rnomics          CT @rnomics/bioinfo #RNA-Seq gene expression estimation with read mapping uncertainty: http://deweylab.biostat.wisc.edu... http://bit.ly/1h4SFpT
