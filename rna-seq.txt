@@ -8389,3 +8389,7 @@
 435787314610970624  Feb 18 09:46  @Bioconductor     Wang & Cairns, SeqGSEA: a Bioconductor package for gene set enrichment analysis of RNA-Seq data... http://bioinformatics.oxfordjournals.org/cgi/content/long/btu090v1
 435806963373719552  Feb 18 11:04  @notSoJunkDNA     ICYMI: Massively Parallel Single-Cell RNA-Seq for Marker-Free Decomposition of Tissues into Cell Types http://www.sciencemag.org/content/343/6172/776.abstract
 435819314940096512  Feb 18 11:53  @BarbourAnalytix  The use of single cell RNA-Seq to map functional profiles of cells, surpassing #FlowCytometry? Jaitin et al Science  http://www.sciencemag.org/content/343/6172/776.abstract
+435868368915013632  Feb 18 15:08  @rnomics          CT @rnomics/bioinfo SeqGSEA: a Bioconductor package for gene set enrichment analysis of #RNA-Seq data integrating... http://bit.ly/1h2usk2
+435872138944593921  Feb 18 15:23  @rnomics          http://bit.ly/1hsOqce SeqGSEA: a Bioconductor package for gene set enrichment analysis of RNA-Seq data integrating differential expre...
+435884017532297216  Feb 18 16:10  @LeucineRichBio   TCGA PRAD Integrated Analysis of RNA seq and miRNA seq http://www.rna-seqblog.com/tcga-prad-integrated-analysis-of-rna-seq-and-mirna-seq/
+435946003808538624  Feb 18 20:16  @h_memeo          このあたりの作法に詳しくないんだけど、RNA-seqやCHIP-seqのフルデータを論文投稿前にNCBIのdatabaseに登録するのって常識なん？
