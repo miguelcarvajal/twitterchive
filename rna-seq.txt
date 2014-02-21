@@ -8463,3 +8463,24 @@
 436628285393752064  Feb 20 17:27  @SarahTannish     Massively Parallel Single-Cell RNA-Seq for Marker-Free Decomposition of Tissues into Cell Types - http://s.shr.lc/1h26O8m via @Shareaholic
 436640466533359616  Feb 20 18:16  @notSoJunkDNA     TL RNA-seq and DNASeq for eQTL and Allele-Specific-Expression (ASE). for instance, Geuvadis project. Data is completely accessible #nygenome
 436681074425729024  Feb 20 20:57  @jameslz          Methods to study splicing from high-throughput RNA sequencing data | RNA-Seq Blog http://www.rna-seqblog.com/methods-to-study-splicing-from-high-throughput-rna-sequencing-data/
+436695506538868738  Feb 20 21:54  @pypi             misopy 0.5.0: Mixture of Isoforms model (MISO) for isoform quantitation using RNA-Seq http://bit.ly/1oYvL8Z
+436703346787745792  Feb 20 22:26  @BioMath          RT @jameslz: Methods to study splicing from high-throughput RNA sequencing data | RNA-Seq Blog http://www.rna-seqblog.com/methods-to-study-splicing-from-high-throughput-rna-sequencing-data/
+436721636830494720  Feb 20 23:38  @kasukawa         RNA-Seq は 標準キットのやつと SMARTer のやつがあるから再解析のときは気をつけてね〜
+436722114511781888  Feb 20 23:40  @nextgenseek      Inferring Geography from GEUVADIS RNA-seq data: video of @lpachter's talk today. http://nextgenseek.com/2014/02/inferring-geography-from-geuvadis-rna-seq-data-lior-pachters-talk/ #RNAseq #popgen #geography
+436723404574842880  Feb 20 23:45  @RosselloFJ       RT @genologos: So true and so common: “inefficient designs of RNA-seq studies can lead to suboptimal power and waste of resources” http://bioinformatics.oxfordjournals.org/content/30/3/301.full
+436729751244271616  Feb 21 00:11  @gaou_ak          STAP Cell論文のシーケンスデータ、確かに登録の仕方は酷いな。BioSample全然Genericじゃないし＾＾；sample typeがRNA-Seqって＾＾；登録日が11月5日だから公開が遅れたのはembargo解除をしてなかったってことかな。
+436733044246851584  Feb 21 00:24  @dritoshi         RT @gaou_ak: STAP Cell論文のシーケンスデータ、確かに登録の仕方は酷いな。BioSample全然Genericじゃないし＾＾；sample typeがRNA-Seqって＾＾；登録日が11月5日だから公開が遅れたのはembargo解除をしてなかったってことかな。
+436733322253697024  Feb 21 00:25  @gaou_ak          HiSeq1000でRNA-Seq読んでるデータが結構無駄にリード数多いな、と思ったら、HiSeq1000のは全部SMARTerなのかな。HiSeq1500のRNA-Seqはだいたい20M readsを目標にして届いていない感じかな。Chi-Seqが40M目標っぽい？
+436733575178629120  Feb 21 00:26  @yuifu            RT @gaou_ak: STAP Cell論文のシーケンスデータ、確かに登録の仕方は酷いな。BioSample全然Genericじゃないし＾＾；sample typeがRNA-Seqって＾＾；登録日が11月5日だから公開が遅れたのはembargo解除をしてなかったってことかな。
+436735867944583169  Feb 21 00:35  @cogas_uasanbon   RT @gaou_ak: STAP Cell論文のシーケンスデータ、確かに登録の仕方は酷いな。BioSample全然Genericじゃないし＾＾；sample typeがRNA-Seqって＾＾；登録日が11月5日だから公開が遅れたのはembargo解除をしてなかったってことかな。
+436737533506887681  Feb 21 00:41  @dritoshi         ちなみに、10^3 cells ぐらいのRNA-Seqを各所のシーケンス施設で無理と断わられて、うちに相談にくるかたが沢山います。普通に TruSeq + LIMprep でいけます。RIKEN GeNAS に技術移転済みなので受託でやれます。そちらに連絡を
+436737767746183171  Feb 21 00:42  @C57BL6nippon     RT @dritoshi: ちなみに、10^3 cells ぐらいのRNA-Seqを各所のシーケンス施設で無理と断わられて、うちに相談にくるかたが沢山います。普通に TruSeq + LIMprep でいけます。RIKEN GeNAS に技術移転済みなので受託でやれます。そちらに連絡を
+436738038626918400  Feb 21 00:43  @n0rr             RT @dritoshi: ちなみに、10^3 cells ぐらいのRNA-Seqを各所のシーケンス施設で無理と断わられて、うちに相談にくるかたが沢山います。普通に TruSeq + LIMprep でいけます。RIKEN GeNAS に技術移転済みなので受託でやれます。そちらに連絡を
+436738348627935232  Feb 21 00:45  @razoralign       RT @dritoshi: ちなみに、10^3 cells ぐらいのRNA-Seqを各所のシーケンス施設で無理と断わられて、うちに相談にくるかたが沢山います。普通に TruSeq + LIMprep でいけます。RIKEN GeNAS に技術移転済みなので受託でやれます。そちらに連絡を
+436739057280765952  Feb 21 00:48  @sherry_photo     RT @dritoshi: ちなみに、10^3 cells ぐらいのRNA-Seqを各所のシーケンス施設で無理と断わられて、うちに相談にくるかたが沢山います。普通に TruSeq + LIMprep でいけます。RIKEN GeNAS に技術移転済みなので受託でやれます。そちらに連絡を
+436740319653003264  Feb 21 00:53  @ma31stm          RT @dritoshi: ちなみに、10^3 cells ぐらいのRNA-Seqを各所のシーケンス施設で無理と断わられて、うちに相談にくるかたが沢山います。普通に TruSeq + LIMprep でいけます。RIKEN GeNAS に技術移転済みなので受託でやれます。そちらに連絡を
+436740859829420032  Feb 21 00:55  @LeucineRichBio   SOAPdenovo-Trans: De novo transcriptome assembly with short RNA-Seq reads. http://www.ncbi.nlm.nih.gov/pubmed/24532719?dopt=Abstract
+436745316604211200  Feb 21 01:12  @gau              Methods to study splicing from high-throughput RNA sequencing data | RNA-Seq Blog: Sounds interesting. via htt... http://tinyurl.com/n2cmt8c
+436752596834222080  Feb 21 01:41  @PsoriasisBio     Transcriptome Analysis of Psoriasis in a Large CaseControl Sample RNASeq Provides Insights into Disease Mechanisms http://ow.ly/2E4vEa
+436758197529882624  Feb 21 02:04  @yuleng_phua      voom: precision weights unlock linear model analysis tools for RNA-seq read counts http://genomebiology.com/2014/15/2/R29/abstract #genomebiology
+436769353841655808  Feb 21 02:48  @FGED             RT @sgivan: Anyone use @FGED MINSEQE chklist for RNA-Seq? Most of that info seems 2 b included in @NCBI SRA submission process http://ht.ly/tIF1z
