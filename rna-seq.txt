@@ -8528,3 +8528,13 @@
 437179961569341440  Feb 22 05:59  @kayo500          RNA seqは今だ公開されていないのかしら？STAP細胞の高発現遺伝子が明らかになれば、iPS細胞方式でその遺伝子群の外部からのウイルスベクターによる高発現で多能性だけでなく全能性の獲得が可能になるのかもしれない。
 437186986739515392  Feb 22 06:27  @animesh1977      Parseq: reconstruction of microbial transcription landscape from RNA-Seq read counts using state-space models http://ift.tt/Ol8nF9
 437222612025221121  Feb 22 08:49  @jtleek           Most read article in journal Biostatistics for January? Single base resolution DE for RNA-seq by @acfrazee et al. http://m.biostatistics.oxfordjournals.org/reports/most-read
+437226546911531008  Feb 22 09:05  @rdpeng           RT @jtleek: Most read article in journal Biostatistics for January? Single base resolution DE for RNA-seq by @acfrazee et al. http://m.biostatistics.oxfordjournals.org/reports/most-read
+437247399451308032  Feb 22 10:27  @gaou_ak          K-merの挙動は結構想像以上。扱うデータに依存して当然変わると思うけど、最近のタグカウントというよりde novoを兼ねたRNA-Seq(100bp以上のpaired-end)の場合、大きめのK-merの影響がかなり良く作用する。
+437248548157915136  Feb 22 10:32  @n0rr             RT @gaou_ak: K-merの挙動は結構想像以上。扱うデータに依存して当然変わると思うけど、最近のタグカウントというよりde novoを兼ねたRNA-Seq(100bp以上のpaired-end)の場合、大きめのK-merの影響がかなり良く作用する。
+437259262444978176  Feb 22 11:15  @WorldNewsEU      Strand-specific RNA-Seq reveals widespread and developmentally regulated transcription of ... - http://bit.ly/1fqgI3K
+437264281638162433  Feb 22 11:35  @charlesdanko     @dermitzakis @joe_pickrell Can be longer in gene bodies.  Looks like they sequenced P/GRO-seq to same 100 bp as RNA-seq.
+437274362841161728  Feb 22 12:15  @MediaTower       Strand-specific RNA-Seq reveals widespread and developmentally regulated transcription of ... - http://bit.ly/1fqgI3K
+437288255428767744  Feb 22 13:10  @ARKgenome        MT @genologos: So true: “inefficient designs of RNA-seq studies can lead to suboptimal power and waste of resources” http://bioinformatics.oxfordjournals.org/content/30/3/301.full
+437289464357208064  Feb 22 13:15  @NewsStories24    Strand-specific RNA-Seq reveals widespread and developmentally regulated transcription of ... - http://bit.ly/1fqgI3K
+437304561314050049  Feb 22 14:15  @NewsReactions    Strand-specific RNA-Seq reveals widespread and developmentally regulated transcription of ... - http://bit.ly/1fqgI3K
+437315290473725952  Feb 22 14:57  @wateresa         RT @jtleek: Most read article in journal Biostatistics for January? Single base resolution DE for RNA-seq by @acfrazee et al. http://m.biostatistics.oxfordjournals.org/reports/most-read
