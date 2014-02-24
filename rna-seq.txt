@@ -8556,3 +8556,8 @@
 437716388682027008  Feb 23 17:31  @pypi             misopy 0.5.1: Mixture of Isoforms model (MISO) for isoform quantitation using RNA-Seq http://bit.ly/1k0OiOu
 437717171922149376  Feb 23 17:34  @artwisanggeni    misopy 0.5.1: Mixture of Isoforms model (MISO) for isoform quantitation using RNA-Seq http://goo.gl/NVmSIv
 437756026905821184  Feb 23 20:09  @Yuhki_Nakatake   RT @dritoshi: ちなみに、10^3 cells ぐらいのRNA-Seqを各所のシーケンス施設で無理と断わられて、うちに相談にくるかたが沢山います。普通に TruSeq + LIMprep でいけます。RIKEN GeNAS に技術移転済みなので受託でやれます。そちらに連絡を
+437770266354413568  Feb 23 21:05  @djjgresham       RT @genetics_blog: HTSeq - what many of us use for RNA-seq counts (sorry @lpachter) and more - now has a preprint on @biorxivpreprint http://biorxiv.org/content/early/2014/02/20/002824
+437785171140820992  Feb 23 22:04  @augsshin         RT @gaou_ak: STAP Cell論文のシーケンスデータ、確かに登録の仕方は酷いな。BioSample全然Genericじゃないし＾＾；sample typeがRNA-Seqって＾＾；登録日が11月5日だから公開が遅れたのはembargo解除をしてなかったってことかな。
+437807799213387777  Feb 23 23:34  @obigriffith      RT @genetics_blog: HTSeq - what many of us use for RNA-seq counts (sorry @lpachter) and more - now has a preprint on @biorxivpreprint http://biorxiv.org/content/early/2014/02/20/002824
+437852039612096512  Feb 24 02:30  @rnomics          CT @rnomics/bioinfo Parseq: reconstruction of microbial transcription landscape from #RNA-Seq read counts using... http://bit.ly/1ho12Nv
+437854049296478209  Feb 24 02:38  @rnomics          http://bit.ly/OstbdT Parseq: reconstruction of microbial transcription landscape from RNA-Seq read counts using state-space models b...
