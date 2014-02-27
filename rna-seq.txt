@@ -8662,3 +8662,7 @@
 438797002059821057  Feb 26 17:05  @amrojasmendoza   RT @mgonzalezporta: Introducing a new tool to analyse changes in splicing identified from RNA-seq data: https://github.com/mgonzalezporta/SwitchSeq
 438821273293324288  Feb 26 18:41  @mcinerneyj       @yannabraham @rvidal Follow-up study found that genes related to vitamin D are prominent in the "north-south" factor http://nextgenseek.com/2014/02/inferring-geography-from-geuvadis-rna-seq-data-lior-pachters-talk/
 438852337776742400  Feb 26 20:45  @LeucineRichBio   Gene Ontology Based Housekeeping Gene Selection for RNA-seq Normalization. http://www.ncbi.nlm.nih.gov/pubmed/24561167?dopt=Abstract
+438893200720150528  Feb 26 23:27  @maskot1977       RNA-seq Analysis With R/Bioconductor http://cat.hackingisbelieving.org/lecture/tohoku-u/NGS-R-Bioconductor-2nd.html
+438899197031362561  Feb 26 23:51  @NormSci          Transcriptomics of salinity tolerance capacity in Arctic charr: http://physiolgenomics.physiology.org/content/46/4/123.full #RNA-Seq
+438919096596303872  Feb 27 01:10  @xiaolicbs        "Molecular barcodes improve RNA-seq : Nature Genetics : Nature Publishing Group" good read http://www.nature.com/ng/journal/v46/n3/full/ng.2909.html
+438941569521971200  Feb 27 02:39  @yuleng_phua      Full-length RNA-seq from single cells using Smart-seq2 http://go.nature.com/2EYByr #bioinformatics #rnaseq
