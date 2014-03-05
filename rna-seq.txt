@@ -8825,3 +8825,14 @@
 440974640282755072  Mar  4 17:18  @jjmerkin         RT @genetics_blog: SeqGSEA: #Rstats/#Bioconductor pkg for gene set enrichment analysis of RNA-Seq diff expression+splicing data http://bioinformatics.oxfordjournals.org/content/early/2014/02/16/bioinformatics.btu090.short?rss=1
 440985934532599808  Mar  4 18:03  @MPAlonso         RT @genetics_blog: Multiplexed Subcellular RNA Sequencing in Situ http://www.sciencemag.org/content/early/2014/02/26/science.1250212 add FIS-seq to your list, @lpachter
 441010234132160513  Mar  4 19:40  @RPubsRecent      Seminar 7: RNA-seq - Differential Expression Analysis http://rpubs.com/chiaradg/13987
+441037854064390144  Mar  4 21:29  @YoshiKawahara    dUTP使ったstranded RNA-Seq protocol。読まれる配列は、リード2が転写の向きと同じで、リード1は逆向きなのか。ずっと反対だと思い込んでた。今回のケースは結果見ればすぐ気づくけど、データ解析する人が実験を理解しておくのってホント大事。
+441039794378788868  Mar  4 21:37  @rnomics          CT @rnomics/bioinfo SeqGSEA: a Bioconductor package for gene set enrichment analysis of #RNA-Seq data integrating... http://bit.ly/1h2usk2
+441041646697082880  Mar  4 21:44  @jameslz          RT @rnomics: CT @rnomics/bioinfo SeqGSEA: a Bioconductor package for gene set enrichment analysis of #RNA-Seq data integrating... http://bit.ly/1h2usk2
+441042090554707969  Mar  4 21:46  @isugif           RT @genetics_blog: RNA-Seq approach for RNA virus genome sequencing from fecal/blood samples http://www.plosone.org/article/info:doi/10.1371/journal.pone.0066129
+441043837327515648  Mar  4 21:53  @rnomics          http://bit.ly/1hsOqce SeqGSEA: a Bioconductor package for gene set enrichment analysis of RNA-Seq data integrating differential expre...
+441050708180467712  Mar  4 22:20  @mem_somerville   Why yes, I did just read the alewife RNA-seq paper for kicks because of a political meeting this evening. http://1.usa.gov/MM988D
+441058102465789952  Mar  4 22:50  @MolecularCell    Online Now: Narry Kim lab develops TAIL-seq that reveals the transcriptome-wide landscape of RNA 3′ ends http://ow.ly/ufneA
+441088314637299713  Mar  5 00:50  @timknut          RT @genetics_blog: SeqGSEA: #Rstats/#Bioconductor pkg for gene set enrichment analysis of RNA-Seq diff expression+splicing data http://bioinformatics.oxfordjournals.org/content/early/2014/02/16/bioinformatics.btu090.short?rss=1
+441107763788529664  Mar  5 02:07  @ggsimpsonrna     RT @MolecularCell: Online Now: Narry Kim lab develops TAIL-seq that reveals the transcriptome-wide landscape of RNA 3′ ends http://ow.ly/ufneA
+441110942592798720  Mar  5 02:20  @LeucineRichBio   RNA CoMPASS: A Dual Approach for Pathogen and Host Transcriptome Analysis of RNA-Seq Datasets. http://www.ncbi.nlm.nih.gov/pubmed/24586784?dopt=Abstract
+441119702883237888  Mar  5 02:55  @LeucineRichBio   Identification of Serum microRNA Biomarkers for Tuberculosis Using RNA-seq. http://www.ncbi.nlm.nih.gov/pubmed/24586438?dopt=Abstract
