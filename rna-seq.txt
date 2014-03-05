@@ -8836,3 +8836,16 @@
 441107763788529664  Mar  5 02:07  @ggsimpsonrna     RT @MolecularCell: Online Now: Narry Kim lab develops TAIL-seq that reveals the transcriptome-wide landscape of RNA 3′ ends http://ow.ly/ufneA
 441110942592798720  Mar  5 02:20  @LeucineRichBio   RNA CoMPASS: A Dual Approach for Pathogen and Host Transcriptome Analysis of RNA-Seq Datasets. http://www.ncbi.nlm.nih.gov/pubmed/24586784?dopt=Abstract
 441119702883237888  Mar  5 02:55  @LeucineRichBio   Identification of Serum microRNA Biomarkers for Tuberculosis Using RNA-seq. http://www.ncbi.nlm.nih.gov/pubmed/24586438?dopt=Abstract
+441131029030793216  Mar  5 03:40  @LeucineRichBio   Integrative Analysis of Many RNA-Seq Datasets to Study Alternative Splicing. http://www.ncbi.nlm.nih.gov/pubmed/24583115?dopt=Abstract
+441150463673507840  Mar  5 04:57  @kamijin_m9       in situ RNA sequencingの論文がJCの題材だったが、一細胞あたりに読めるRNA分子の数が少ないように感じた。single cell RNA seqだとリード的にはもっと出るでしょ。
+441153481949208576  Mar  5 05:09  @biochem_fan      http://slashdot.jp/~kaho/journal/578529  そうか、RNA-seq のリード見て再構成された TCR 探そうとすると大変だし、そもそも TCR 発現してなかったらリードがないけど、ChIP の input 見ればゲノム上にあるか分かるってわけか。
+441154974416764928  Mar  5 05:15  @sherry_photo     RT @biochem_fan: http://slashdot.jp/~kaho/journal/578529  そうか、RNA-seq のリード見て再構成された TCR 探そうとすると大変だし、そもそも TCR 発現してなかったらリードがないけど、ChIP の input 見ればゲノム上にあるか分かるってわけか。
+441156656999964672  Mar  5 05:21  @marta_bleda      #RNA-Seq analysis at @Cambridge_Uni by @david_montaner  @bioinfocipf @CIPFciencia #NGS  http://t.co/AuGjeNovUQ
+441173868951007234  Mar  5 06:30  @rnomics          Massively parallel single-cell #RNA-seq for marker-free decomposition of tissues into cell types. http://1.usa.gov/1i82ow0 #Science #Pubmed
+441195837025050624  Mar  5 07:57  @FrontGenetics    Quality assessment and control of tissue specific RNA-seq libraries of Drosophila transgenic ... http://bit.ly/1q5CGxG #genetics #genes
+441196357538549760  Mar  5 07:59  @BioMickWatson    RT @FrontGenetics: Quality assessment and control of tissue specific RNA-seq libraries of Drosophila transgenic ... http://bit.ly/1q5CGxG #genetics #genes
+441200521656147968  Mar  5 08:16  @tommypia         RT @FrontGenetics: Quality assessment and control of tissue specific RNA-seq libraries of Drosophila transgenic ... http://bit.ly/1q5CGxG #genetics #genes
+441201731788369920  Mar  5 08:21  @rnomics          PLOS ONE: A Modified RNA-Seq Approach for Whole Genome Sequencing of RNA Viruses from Faecal and Blood Samples http://bit.ly/1kKaRar plo...
+441202242205401088  Mar  5 08:23  @UseqMiseq        RT @rnomics: PLOS ONE: A Modified RNA-Seq Approach for Whole Genome Sequencing of RNA Viruses from Faecal and Blood Samples http://bit.ly/1kKaRar plo...
+441206048590819328  Mar  5 08:38  @rnomics          Methods for Analysis of #RNA-Seq Datasets to Study... http://bit.ly/1i8tOlz #ReviewPublications #SplicingandJunctionMapping #RNAseq
+441210039382978561  Mar  5 08:54  @llikdaor123      Methods for Analysis of RNA-Seq Datasets to Study Alternative Splicing http://wp.me/p4fXtR-bT8
