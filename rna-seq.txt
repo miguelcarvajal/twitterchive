@@ -8880,3 +8880,26 @@
 441349043604959232  Mar  5 18:06  @rvaerle          RT @genetics_blog: A Dual Approach for Pathogen and Host Transcriptome Analysis of RNA-Seq Datasets http://www.plosone.org/article/info:doi/10.1371/journal.pone.0089445 on SF: http://rnacompass.sourceforge.net/
 441350073390469121  Mar  5 18:10  @LeucineRichBio   SnapShot-Seq: A Method for Extracting Genome-Wide, In Vivo mRNA Dynamics from a Single Total RNA Sample. http://www.ncbi.nlm.nih.gov/pubmed/24586954?dopt=Abstract
 441369333281722368  Mar  5 19:27  @shure_geru       @druoh Letter見るとSAMN02393426~435までで、NCBI BioSampleではsample type全部RNA-seqでChIP-seqデータは見当たらないですね、、まぁRNA-seqでも変異探すのは出来るかもしれませんが、、
+441397843148812288  Mar  5 21:20  @Adam_in_NYC      @notSoJunkDNA What are your thoughts on reference-free comparative RNA-seq? Any analysis preference? Trinity, Velvet, Oases..
+441398991566426112  Mar  5 21:24  @notSoJunkDNA     RT @Adam_in_NYC: @notSoJunkDNA What are your thoughts on reference-free comparative RNA-seq? Any analysis preference? Trinity, Velvet, Oases..
+441408500892065793  Mar  5 22:02  @EmilyBenesh1     http://cofactorgenomics.com/using-rna-seq-study-conditional-knock-animals/
+441413668756934657  Mar  5 22:23  @windowmoon       @Takashirouzu いずれ、狙いの配列を持った細胞を染めて単離し、1細胞RNA-Seqで培養条件を推定することで、単離培養できなかったものができるようになるでしょう。
+441420865767354368  Mar  5 22:51  @Takashirouzu     RT @windowmoon: @Takashirouzu いずれ、狙いの配列を持った細胞を染めて単離し、1細胞RNA-Seqで培養条件を推定することで、単離培養できなかったものができるようになるでしょう。
+441425819668189184  Mar  5 23:11  @windowmoon       @Takashirouzu 今後の焦点は、生きたまま染めて単離する技術と、RNA-Seqデータから培養条件を推定する方法の開発じゃないですかね。細菌屋さんは活発にやってる印象ですが、真核微生物は細菌に比べるとだいぶ遅れてる気がします。
+441426850313535488  Mar  5 23:15  @iwasakiw         この論文では、時計遺伝子CLOCKが概日リズムを"ポリフォニック"に制御している仕組みをChIP-Seq・RNA-Seqデータをベースに明らかにしています。@HYtane さんほか、東大理生化・深田研との共同研究です。
+441427087769870336  Mar  5 23:16  @HYtane           RT @iwasakiw: この論文では、時計遺伝子CLOCKが概日リズムを"ポリフォニック"に制御している仕組みをChIP-Seq・RNA-Seqデータをベースに明らかにしています。@HYtane さんほか、東大理生化・深田研との共同研究です。
+441438059494928384  Mar  6 00:00  @SAGRudd          "Methods for Analysis of RNA-Seq Datasets to Study Alternative Splicing"  http://buff.ly/1hMxqeJ
+441439560497500160  Mar  6 00:06  @JoyceFaler       RT @SAGRudd: "Methods for Analysis of RNA-Seq Datasets to Study Alternative Splicing"  http://buff.ly/1hMxqeJ
+441445183440551937  Mar  6 00:28  @Alfons_Valencia  RT @SAGRudd: "Methods for Analysis of RNA-Seq Datasets to Study Alternative Splicing"  http://buff.ly/1hMxqeJ
+441452707166310400  Mar  6 00:58  @aallende         RT @SAGRudd: "Methods for Analysis of RNA-Seq Datasets to Study Alternative Splicing"  http://buff.ly/1hMxqeJ
+441459989308116992  Mar  6 01:27  @rnomics          CT @rnomics/RNA Gene Ontology based housekeeping gene selection for #RNA-seq normalization:... http://bit.ly/1hYqklE
+441460033901953024  Mar  6 01:27  @rnomics          CT @rnomics/RNA PLOS ONE: #RNA CoMPASS: A Dual Approach for Pathogen and Host Transcriptome Analysis of #RNA-Seq... http://bit.ly/1iaooq1
+441460556378406912  Mar  6 01:29  @SEQquestions     Finding RNA-Seq datasets across species http://ift.tt/1lAjVSu
+441463802249232384  Mar  6 01:42  @yuifu            RT @iwasakiw: この論文では、時計遺伝子CLOCKが概日リズムを"ポリフォニック"に制御している仕組みをChIP-Seq・RNA-Seqデータをベースに明らかにしています。@HYtane さんほか、東大理生化・深田研との共同研究です。
+441466511069167616  Mar  6 01:53  @shinta_suzuki    RT @iwasakiw: この論文では、時計遺伝子CLOCKが概日リズムを"ポリフォニック"に制御している仕組みをChIP-Seq・RNA-Seqデータをベースに明らかにしています。@HYtane さんほか、東大理生化・深田研との共同研究です。
+441471645295710208  Mar  6 02:13  @rnomics          CT @rnomics/structbio Gene Ontology based housekeeping gene selection for #RNA-seq normalization:... http://bit.ly/1ic7ozQ
+441472286336368640  Mar  6 02:16  @rnomics          CT @rnomics/bioinfo SeqGSEA: a Bioconductor package for gene set enrichment analysis of #RNA-Seq data integrating... http://bit.ly/1h2usk2
+441475798265266176  Mar  6 02:30  @feinaderecerca   Postdoc en biologia de sistemes pel @IRBBarcelona amb exp en anàlisi de RNA-seq i proteòmica http://nubr.co/MQffEn #feina #empleo
+441482812344913920  Mar  6 02:57  @CHARANNIKKI      RT @rnomics: CT @rnomics/bioinfo SeqGSEA: a Bioconductor package for gene set enrichment analysis of #RNA-Seq data integrating... http://bit.ly/1h2usk2
+441482816413376512  Mar  6 02:58  @CHARANNIKKI      RT @rnomics: CT @rnomics/RNA Gene Ontology based housekeeping gene selection for #RNA-seq normalization:... http://bit.ly/1hYqklE
+441483214800969728  Mar  6 02:59  @CHARANNIKKI      RT @rnomics: CT @rnomics/RNA PLOS ONE: #RNA CoMPASS: A Dual Approach for Pathogen and Host Transcriptome Analysis of #RNA-Seq... http://bit.ly/1iaooq1
