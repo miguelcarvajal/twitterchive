@@ -8943,3 +8943,8 @@
 441706138980335616  Mar  6 17:45  @LeucineRichBio   in-situ RNA-seq for digital pathologists. #RNASeq http://core-genomics.blogspot.in/2014/03/in-situ-rna-seq-for-digital-pathologists.html
 441721093712539648  Mar  6 18:44  @4130chromo       Universal Count Correction for High-Throughput Sequencing http://tinyurl.com/q3j2hn2 #FIXSEQ #RNA-seq #DNase-seq #ChIP-seq
 441721938457526273  Mar  6 18:48  @jiglasscock      Can RNA-seq help with your knockout blues? http://lnkd.in/bMEYH3t
+441805136151969792  Mar  7 00:18  @sebboeg          RT @biorxivpreprint: Characterization of directed differentiation by high-throughput single-cell RNA-Seq http://biorxiv.org/content/early/2014/03/05/003236
+441817189255897088  Mar  7 01:06  @YoshiKawahara    毎年恒例となりつつある来週開催のNGSワークショップの準備に追われる。今年はRNA-Seq解析の実習担当。人に教えるとなると、普段はまあいいかと見て見ぬふりしていた細かい点まで理解しないと気持ち悪い。あらためてツールのドキュメントやソースを見ると色々勉強になる。
+441829963935657984  Mar  7 01:57  @anamika13        RT @illumina: Featured publication: Full-length RNA-Seq from single cells using Smart-Seq2 http://1.usa.gov/MZUQC7
+441832539146039296  Mar  7 02:07  @dritoshi         具体的にはRNA-Seqの場合は、リファレンスとなる transcriptome のファイルをトランスジーンに応じて自分で作る必要があります。GeneChip Exon Array の場合は、*.mps を自作します。理想的にはNCBI GEOに *.CEL と一緒に登録すべき
+441833432612483072  Mar  7 02:11  @dritoshi         RNA-Seq で cuffdiff を使う場合は、適切な *.gtf を自作しておきましょう。
