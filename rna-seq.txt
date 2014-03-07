@@ -8961,3 +8961,11 @@
 441926518231826432  Mar  7 08:21  @rnomics          Implication of quality score for de novo transcriptome reconstruction of Illumina reads | RNA-Seq Blog http://bit.ly/1c5PSyP rna-seqblog..…
 441927174216753152  Mar  7 08:23  @rnomics          http://bit.ly/1nmPvBE Characterization of directed differentiation by high-throughput single-cell RNA-Seq | bioRxiv b...
 441934769220100096  Mar  7 08:53  @llikdaor123      Final Agenda Released – RNA-Seq 2014 http://wp.me/p4fXtR-eVR
+441939902691676162  Mar  7 09:14  @rnomics          Final Agenda Released – #RNA-Seq 2014: Master #RNA-Sequencing to... http://bit.ly/1dyWYKU #Conferences #FeaturedEvents #Conference #RNAseq
+441963628200087552  Mar  7 10:48  @anshul           RT @nextgenseek: Multiple Papers on Random Monoallelic Expression by RNA-seq. http://nextgenseek.com/2014/03/multiple-papers-on-random-monoallelic-expression-by-rna-seq/ #RNAseq
+441992113207926784  Mar  7 12:41  @JuuichiJigen     RNA-seq でのCD45+ cellは、C57BL/6 x 129/sv由来 http://www.ncbi.nlm.nih.gov/biosample/2393426 一方、Chip-seqでのCD45+ cellは、Oct3/4::gfp C57BL/6由来 http://www.ncbi.nlm.nih.gov/biosample/2393440
+441999820375732224  Mar  7 13:12  @pizzzzzle        "RNA-seq not truly quantitative."
+442003426726379521  Mar  7 13:26  @JuuichiJigen     Chip-seqのCD45+細胞のOct4-GFPマウス由来は例外として、その他のChip/RNA-seqに使用されたC57BL/6 x 129/svマウスとは、B6GFP(C57BL/6 line with cag-gfp transgene) × 129/Svマウスのこと？
+442009589681098753  Mar  7 13:51  @tangming2005     RT @nextgenseek: Multiple Papers on Random Monoallelic Expression by RNA-seq. http://nextgenseek.com/2014/03/multiple-papers-on-random-monoallelic-expression-by-rna-seq/ #RNAseq
+442016616831000576  Mar  7 14:19  @JuuichiJigen     Nature LetterにはChip/RNA-seqのFigがある。一方、Nature ArtcileにはChip/RNA-seqのFigが無いし本文でも言及されない。それにも関わらずArtcileにもLetterと同様Chip/RNA-seqの方法が記載されている。何だこれ？
+442022449476292608  Mar  7 14:42  @JuuichiJigen     ArticleでのBisulphite sequencingによるDNAメチル化解析(Fig2c)は、Oct4-GFP+のSTAP細胞をFACSで選別して実験している。一方、Chip/RNA-seqにおけるSTAP細胞/幹細胞はOct4-GFPマウス由来ではないので選別されてない
