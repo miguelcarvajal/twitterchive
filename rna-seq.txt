@@ -8948,3 +8948,16 @@
 441829963935657984  Mar  7 01:57  @anamika13        RT @illumina: Featured publication: Full-length RNA-Seq from single cells using Smart-Seq2 http://1.usa.gov/MZUQC7
 441832539146039296  Mar  7 02:07  @dritoshi         具体的にはRNA-Seqの場合は、リファレンスとなる transcriptome のファイルをトランスジーンに応じて自分で作る必要があります。GeneChip Exon Array の場合は、*.mps を自作します。理想的にはNCBI GEOに *.CEL と一緒に登録すべき
 441833432612483072  Mar  7 02:11  @dritoshi         RNA-Seq で cuffdiff を使う場合は、適切な *.gtf を自作しておきましょう。
+441849157863481344  Mar  7 03:13  @RyuichiroNakato  RT @genetics_blog: Reducing bias in RNA-seq with a new method to compute counts http://www.biomedcentral.com/1471-2105/15/S1/S7
+441853956189212672  Mar  7 03:32  @imohorianu       eRNA: a graphic user interface-based tool optimized for large data analysis from high-throughput RNA seq http://www.biomedcentral.com/1471-2164/15/176/abstract #bmcgenomics
+441903739113189376  Mar  7 06:50  @igbbioviz        Method for RNA-Seq differential expression analysis at single-base resolution http://biostatistics.oxfordjournals.org/cgi/content/long/kxt053v1
+441906961916121088  Mar  7 07:03  @aloraine205      RT @igbbioviz: Method for RNA-Seq differential expression analysis at single-base resolution http://biostatistics.oxfordjournals.org/cgi/content/long/kxt053v1
+441910357653610496  Mar  7 07:16  @antiplastics     in-situ RNA-seq? http://core-genomics.blogspot.jp/2014/03/in-situ-rna-seq-for-digital-pathologists.html
+441914002017226752  Mar  7 07:31  @n0rr             RT @antiplastics: in-situ RNA-seq? http://core-genomics.blogspot.jp/2014/03/in-situ-rna-seq-for-digital-pathologists.html
+441922884626153472  Mar  7 08:06  @rnomics          CT @rnomics/bioinfo Characterization of directed differentiation by high-throughput single-cell #RNA-Seq | bioRxiv http://bit.ly/1dyLKWB
+441924225327448065  Mar  7 08:12  @GABiGroup        GABi Group on course: RNA-seq analysis of in vitro dental biofilm models. Collaborative work with R&D company.
+441925506439847936  Mar  7 08:17  @nextgenseek      Multiple Papers on Random Monoallelic Expression by RNA-seq. http://nextgenseek.com/2014/03/multiple-papers-on-random-monoallelic-expression-by-rna-seq/ #RNAseq
+441926478796574720  Mar  7 08:20  @lpachter         RT @nextgenseek: Multiple Papers on Random Monoallelic Expression by RNA-seq. http://nextgenseek.com/2014/03/multiple-papers-on-random-monoallelic-expression-by-rna-seq/ #RNAseq
+441926518231826432  Mar  7 08:21  @rnomics          Implication of quality score for de novo transcriptome reconstruction of Illumina reads | RNA-Seq Blog http://bit.ly/1c5PSyP rna-seqblog..…
+441927174216753152  Mar  7 08:23  @rnomics          http://bit.ly/1nmPvBE Characterization of directed differentiation by high-throughput single-cell RNA-Seq | bioRxiv b...
+441934769220100096  Mar  7 08:53  @llikdaor123      Final Agenda Released – RNA-Seq 2014 http://wp.me/p4fXtR-eVR
