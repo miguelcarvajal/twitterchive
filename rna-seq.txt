@@ -8969,3 +8969,13 @@
 442009589681098753  Mar  7 13:51  @tangming2005     RT @nextgenseek: Multiple Papers on Random Monoallelic Expression by RNA-seq. http://nextgenseek.com/2014/03/multiple-papers-on-random-monoallelic-expression-by-rna-seq/ #RNAseq
 442016616831000576  Mar  7 14:19  @JuuichiJigen     Nature LetterにはChip/RNA-seqのFigがある。一方、Nature ArtcileにはChip/RNA-seqのFigが無いし本文でも言及されない。それにも関わらずArtcileにもLetterと同様Chip/RNA-seqの方法が記載されている。何だこれ？
 442022449476292608  Mar  7 14:42  @JuuichiJigen     ArticleでのBisulphite sequencingによるDNAメチル化解析(Fig2c)は、Oct4-GFP+のSTAP細胞をFACSで選別して実験している。一方、Chip/RNA-seqにおけるSTAP細胞/幹細胞はOct4-GFPマウス由来ではないので選別されてない
+442027089953587200  Mar  7 15:00  @pauldennyuk      RT @LeucineRichBio: Gene Ontology Based Housekeeping Gene Selection for RNA-seq Normalization. http://www.ncbi.nlm.nih.gov/pubmed/24561167?dopt=Abstract
+442028810142113792  Mar  7 15:07  @CompBiolPapers   (network[title] AND (proteins OR genes)) OR (pathway[title] AND(proteins OR genes)) OR sequencing[title] OR... http://dlvr.it/55NpyS
+442031490365685760  Mar  7 15:18  @JuuichiJigen     弱酸誘導CD45+細胞（Day7)でOct4-GFP+細胞の割合はFACS解析によると約３０％である。STAP細胞の性質を他の細胞と比べる場合、Oct4-GFP+で選別すべきあろう。しかし、Chip-seq、RNA-seqにおけるSTAP細胞は、Oct4-GFPマウス由来ではない
+442037895193300992  Mar  7 15:43  @shiraga0516      RT @JuuichiJigen: 弱酸誘導CD45+細胞（Day7)でOct4-GFP+細胞の割合はFACS解析によると約３０％である。STAP細胞の性質を他の細胞と比べる場合、Oct4-GFP+で選別すべきあろう。しかし、Chip-seq、RNA-seqにおけるSTAP細胞は、Oct4-GFPマウス由来ではない
+442038022746697729  Mar  7 15:44  @shiraga0516      RT @JuuichiJigen: ArticleでのBisulphite sequencingによるDNAメチル化解析(Fig2c)は、Oct4-GFP+のSTAP細胞をFACSで選別して実験している。一方、Chip/RNA-seqにおけるSTAP細胞/幹細胞はOct4-GFPマウス由来ではないので選別されてない
+442038110969671680  Mar  7 15:44  @shiraga0516      RT @JuuichiJigen: Nature LetterにはChip/RNA-seqのFigがある。一方、Nature ArtcileにはChip/RNA-seqのFigが無いし本文でも言及されない。それにも関わらずArtcileにもLetterと同様Chip/RNA-seqの方法が記載されている。何だこれ？
+442050204884537344  Mar  7 16:32  @NextGenSequence  Improve directional RNA-seq quantitation with the NEXTflex™ Rapid Directional qRNA-Seq™ Kit #NGS #RNAseq http://tinyurl.com/nvzjty3
+442052885866905601  Mar  7 16:43  @notSoJunkDNA     Haussler really did geeked out! "Symmetric Gelfand spaces", anyone?  Glad he concludes saying RNA-Seq is (still) important! #bdbsimons
+442082627882074112  Mar  7 18:41  @biochem_fan      http://slashdot.jp/journal/578623/STAP%E7%B4%B0%E8%83%9E%E3%81%AE%E9%9D%9E%E5%AE%9F%E5%9C%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%83%EF%BC%94 kaho 氏の解析第4段が来た。今度は RNA-seq のデータのクラスタリング。さすがにこれは、ディスク容量・計算時間ともに私には再現できない。
+442110398519840768  Mar  7 20:31  @xtYaoNYU         RT @notSoJunkDNA: Haussler really did geeked out! "Symmetric Gelfand spaces", anyone?  Glad he concludes saying RNA-Seq is (still) important! #bdbsimons
