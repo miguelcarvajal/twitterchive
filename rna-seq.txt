@@ -8992,3 +8992,20 @@
 442171233530937344  Mar  8 00:33  @tshot            RNA-seq用の前処理を一通り理解したんだけど、あんだけのステップ数を経て定量性があるのって凄い、というか胡散臭い。
 442175260352212992  Mar  8 00:49  @Tanisennzo       RT @JuuichiJigen: 小保方氏のSTAP細胞に関するNature Letter論文のExt Data Fig3のaのTranscriptome解析（RNA-seq）において、TSだけCD1 strain。それ以外は、C57BL/6 x 129/sv  http://www.nature.com/nature/journal/v505/n7485/fig_tab/nature12969_SF3.html
 442187826218549249  Mar  8 01:39  @rnomics          Variation in #RNA-Seq Transcriptome Profiles of Peripheral Whole Blood from Healthy Individuals with and... http://bit.ly/1ijpBvx #PLoS
+442218211745234944  Mar  8 03:40  @LeucineRichBio   Differential Expression Analysis on RNA-Seq Count Data Based on Penalized Matrix Decomposition. http://www.ncbi.nlm.nih.gov/pubmed/24594510?dopt=Abstract
+442230556685004800  Mar  8 04:29  @Bioinfo_RNAseq   RT @sgivan: SeqGSEA: a Bioconductor package for GSE analysis of RNA-Seq data integrating DE and splicing http://ht.ly/umZU7 via @oxfordjournals
+442239445547245569  Mar  8 05:04  @dritoshi         シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442239552309051392  Mar  8 05:05  @kurinoshippo     RT @dritoshi: シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442241271449395200  Mar  8 05:11  @Chochmah256      RT @dritoshi: シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442241888578306048  Mar  8 05:14  @Seseragi716      RT @dritoshi: シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442242843013181441  Mar  8 05:18  @shigeruflowerFi  RT @dritoshi: シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442242889838370816  Mar  8 05:18  @Leaf81Y          「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」面白そうだなぁ。和光てけっこう遠いイメージあったけど横浜から1時間で行けちゃうのか
+442252176325234688  Mar  8 05:55  @piyota0          RT @dritoshi: シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442254293295312896  Mar  8 06:03  @tsubu2an         RT @dritoshi: シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442262121477206016  Mar  8 06:34  @onodekita        RT @JuuichiJigen: 小保方氏のSTAP細胞に関するNature Letter論文のExt Data Fig3のaのTranscriptome解析（RNA-seq）において、TSだけCD1 strain。それ以外は、C57BL/6 x 129/sv  http://www.nature.com/nature/journal/v505/n7485/fig_tab/nature12969_SF3.html
+442277795977502720  Mar  8 07:36  @biochem_fan      RT @dritoshi: シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442277945810231296  Mar  8 07:37  @ganpon714        RT @dritoshi: シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442279424860246017  Mar  8 07:43  @sherry_photo     RT @dritoshi: シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442281898929188864  Mar  8 07:53  @antiplastics     RT @dritoshi: シーケンス解析がブームの予感ですが、理研で解析のチュートリアルやるのでどうぞ。バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」 http://goo.gl/JkzgH8
+442289198964682752  Mar  8 08:22  @robin_andersson  @mincle @LeucineRichBio Indeed! How about "miRNA: a method for integrative RNA-seq analysis" ;) #ambiguousmethodnames
+442289920481427456  Mar  8 08:25  @LeucineRichBio   SeqGSEA: a Bioconductor package for gene set enrichment analysis of RNA-Seq data http://bioinformatics.oxfordjournals.org/content/early/2014/03/06/bioinformatics.btu090.short
