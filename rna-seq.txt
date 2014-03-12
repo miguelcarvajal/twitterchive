@@ -9094,3 +9094,8 @@
 443430433418915840  Mar 11 12:57  @laxvid           LP: RNA Assembly gives very disparate results ; RNA-seq assembly is tough: Con:Intra-transcript repeats,low coverage and diff abundances
 443435901205499905  Mar 11 13:18  @artwisanggeni    misopy 0.5.2: Mixture of Isoforms model (MISO) for isoform quantitation using RNA-Seq http://goo.gl/cI7xF7
 443440064753041408  Mar 11 13:35  @tp_hernandez     RT @NatureBiotech: New data correction algorithm for RNA-seq, ChIP-seq and other read-count-based assays, in @PLOSCompBiol http://bit.ly/1ne5HZl #NBTHighlight
+443481386834755584  Mar 11 16:19  @amrojasmendoza   RT @NatureBiotech: New data correction algorithm for RNA-seq, ChIP-seq and other read-count-based assays, in @PLOSCompBiol http://bit.ly/1ne5HZl #NBTHighlight
+443490571634475008  Mar 11 16:56  @aloraine205      Sign up to attend RNA-Seq conference and workshop May 2014 http://wings.iplantcollaborative.org Registration and travel awards available.
+443503291226660864  Mar 11 17:46  @LeiLi_bioinfo    RT @aloraine205: Sign up to attend RNA-Seq conference and workshop May 2014 http://wings.iplantcollaborative.org Registration and travel awards available.
+443504519536996352  Mar 11 17:51  @biochem_fan      STAP関係のNGSデータ解析、昨日のkaho氏のCNV解析で決着したと思ったが、まだやるべきことは残っている。(1) STAP-SC等の実体がES細胞だったとして、その株は何? (胎盤分化能を高めた株?) (2) RNA-seqではSTAP細胞がES細胞から遠いのはなぜか?
+443510525192728576  Mar 11 18:15  @razoralign       FIXSEQ: Universal Count Correction for High-Throughput Sequencing: New Algorithm for RNA-seq, DNase-seq, and ChIP-seq http://www.ploscompbiol.org/article/info:doi%2F10.1371%2Fjournal.pcbi.1003494
