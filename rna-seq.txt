@@ -9125,3 +9125,16 @@
 444038950022180864  Mar 13 05:15  @kasukawa         RNA-seq の方は biological replicate が n=2 なんだけど，dendrogram描くと n=2 サンプルはそれぞれ有意に同じクラスタになって細胞間の差とは明確に区別される(data now shownですw）んだよね．
 444040770073284608  Mar 13 05:22  @kasukawa         まあ可能性としては，biological replicate じゃなくて実は technical replicate だったというのが1つあるけど，RNA-seq のデータからそれを示す方法ってあるのかな？
 444042051727163393  Mar 13 05:27  @michaelalaux     RT @Inra_urgi: Manages and visualize your RNA-Seq and ChIP-Seq data. Try the new S-MART release 1.1.4 https://urgi.versailles.inra.fr/Tools/S-Mart
+444100230129405952  Mar 13 09:18  @Diane_McKenna_   Statistics for #Genomics: Introduction to RNA-Seq #RNASeq2014 http://www.rna-seqblog.com/statistics-for-genomics-introduction-to-rna-seq/
+444101937491759104  Mar 13 09:25  @kennamshaw       RNAseq, statistics and #genomics http://www.rna-seqblog.com/statistics-for-genomics-introduction-to-rna-seq/
+444109062871851009  Mar 13 09:53  @rnomics          CT @rnomics/bioinfo Vicinal: a method for the determination of #ncRNA ends using chimeric reads from #RNA-seq... http://bit.ly/1dUFtF0
+444112139481923584  Mar 13 10:05  @dritoshi         RNA-Seq のほうも、トランスクリプト内はカバレッジ高くなるので3' UTRにある SNV もみれるかもね。
+444112456378748928  Mar 13 10:07  @rnomics          http://bit.ly/1nmKOeq Vicinal: a method for the determination of ncRNA ends using chimeric reads from RNA-seq experiments ...
+444112583587819521  Mar 13 10:07  @BioficNow        RT @rnomics: http://bit.ly/1nmKOeq Vicinal: a method for the determination of ncRNA ends using chimeric reads from RNA-seq experiments ...
+444116045519794176  Mar 13 10:21  @ma_ko            確かにRNA-Seqの方が有望だろね。4つのinputでdepth20以上のある領域だと、SNV出なかった。
+444120937198526465  Mar 13 10:40  @mgonzalezporta   RT @genestackltd: Looking for an Introduction to #RNASeq analysis? Here is a recent talk from Vincent Plagnol of UCL. From #rnaseqblog http://bit.ly/1nk2uaz
+444122297402949632  Mar 13 10:46  @GABiGroup        @rafalab Hi rafa! Best way to compare RNA-seq data w/o replicates? Normal distrib + fold-change?
+444129550902255616  Mar 13 11:15  @rnomics          RNA-Seq Shows its Sensitive Side | RNA-Seq Blog http://bit.ly/1g2einX http://rna-seqblog.com - RNA-Seq Blog Next generation sequencing has…
+444133289482133504  Mar 13 11:30  @taherial         Statistics for Genomics: Introduction to RNA-Seq http://feedly.com/e/WV4jarzK via @feedly
+444133847882817536  Mar 13 11:32  @chadn737         RT @taherial: Statistics for Genomics: Introduction to RNA-Seq http://feedly.com/e/WV4jarzK via @feedly
+444175457790210048  Mar 13 14:17  @effiken          RT @NatureBiotech: Identification of cell populations using single-cell low-coverage RNA-seq, in Science http://bit.ly/1kbVDLC #NBTHighlight
