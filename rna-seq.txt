@@ -9120,3 +9120,8 @@
 443950948440756224  Mar 12 23:25  @hinaichigo       RT @genetics_blog: Sashimi plots: Quantitative visualization of alternative isoform expression from RNA-seq data http://biorxiv.org/content/early/2014/02/11/002576 http://t.co/H6R9nudv84
 443966952130629632  Mar 13 00:29  @mbgautopost      Multiple Papers on Random Monoallelic Expression by RNA-seq http://wp.me/p25nvp-QA
 443974014382243840  Mar 13 00:57  @wcresko          Ah, workshops in action! RT @ElinVidevall: Am making phylogenetic trees from RNA-seq SNP data using @kpaszkiewicz scripts, thanks!
+444009183688810496  Mar 13 03:16  @guyleonard       RT @ElinVidevall: Am making phylogenetic trees from RNA-seq SNP data using @kpaszkiewicz scripts, thanks!
+444038911728164865  Mar 13 05:15  @kasukawa         CNV絡みで初期化系細胞が同じ細胞じゃないかという話が出ているけど，そうなると RNA-seq で読んだサンプルは何だったんだろという疑問が出てくるんだよなぁ．
+444038950022180864  Mar 13 05:15  @kasukawa         RNA-seq の方は biological replicate が n=2 なんだけど，dendrogram描くと n=2 サンプルはそれぞれ有意に同じクラスタになって細胞間の差とは明確に区別される(data now shownですw）んだよね．
+444040770073284608  Mar 13 05:22  @kasukawa         まあ可能性としては，biological replicate じゃなくて実は technical replicate だったというのが1つあるけど，RNA-seq のデータからそれを示す方法ってあるのかな？
+444042051727163393  Mar 13 05:27  @michaelalaux     RT @Inra_urgi: Manages and visualize your RNA-Seq and ChIP-Seq data. Try the new S-MART release 1.1.4 https://urgi.versailles.inra.fr/Tools/S-Mart
