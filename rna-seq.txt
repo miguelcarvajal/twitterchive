@@ -9144,3 +9144,10 @@
 444416089863094273  Mar 14 06:13  @CompBiolPapers   Investigation of key microRNAs associated with hepatocellular carcinoma using small RNA-seq data. http://dlvr.it/581dTX
 444416093801553920  Mar 14 06:13  @CompBiolPapers   Vicinal: a method for the determination of ncRNA ends using chimeric reads from RNA-seq experiments. http://dlvr.it/581dXw
 444424175676321792  Mar 14 06:45  @Separations1     SMARTer® methods for strand-specific RNA-seq- Watch now! http://fb.me/2iQa56IkR
+444458634089889792  Mar 14 09:02  @KapaBiosystems   Digital and fast biology! KAPA2G Fast used for targeted RNA-Seq using multiplex PCR for quantifying allelic ratios http://ow.ly/uw9bz
+444463921085165568  Mar 14 09:23  @nob_fj           ChIP-seqとRNA-seqの結果をくっつけた大きなタブ区切り結果ファイルをWET研究者向けに作るとして、 どうしても遺伝子に対して、1対多か、多対多になるわけですが、 出力書式はどんなものが良いのかを考えています。既に知られている良い案があったりしますでしょうか？
+444464035170242560  Mar 14 09:24  @nob_fj           案1 Cuffdiffや、DESeqの結果出力などのRNA-seq結果に ChIPpeakAnnoで関連付いたChIPサンプルごとのピークあるなしと およその相対距離だけまとめた列を付加。 列内にカンマ区切り等で、複数のピークが含まれる場合もある。
+444464073816551424  Mar 14 09:24  @nob_fj           案2 それとは別にChIPピーク側にRNA-seq情報をくっつけた表を 正規化せずにマージする。1ピークに対して関連付く 遺伝子の発現量情報が複数行で出力されるイメージ。
+444464290792099841  Mar 14 09:25  @nob_fj           (複数の)RNA-seqの結果に複数サンプルのChIP結果がマージできれば、 大まかなのChIPサンプル間比較にもなるし、 別の結合因子の比較にもなるし、 パラメータ検討にも使えるはず。と、考えています。
+444473780773990401  Mar 14 10:03  @aawitney         Statistics for Genomics: Introduction to RNA-Seq http://feedly.com/e/XpDJahfJ via @feedly
+444474627658887168  Mar 14 10:06  @CyanoNey         RT @aawitney: Statistics for Genomics: Introduction to RNA-Seq http://feedly.com/e/XpDJahfJ via @feedly
