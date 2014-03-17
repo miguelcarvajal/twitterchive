@@ -9089,6 +9089,7 @@
 443366306038177792  Mar 11 08:42  @OlivierInizan    RT @hquesneville: Manages and visualize your RNA-Seq and ChIP-Seq data. Try the new S-MART release 1.1.4 https://urgi.versailles.inra.fr/Tools/S-Mart
 443368023236161536  Mar 11 08:49  @PLOSCompBiol     RT @NatureBiotech: New data correction algorithm for RNA-seq, ChIP-seq and other read-count-based assays, in @PLOSCompBiol http://bit.ly/1ne5HZl #NBTHighlight
 443376078116380672  Mar 11 09:21  @_beep_beep_beep  RT @NatureBiotech: New data correction algorithm for RNA-seq, ChIP-seq and other read-count-based assays, in @PLOSCompBiol http://bit.ly/1ne5HZl #NBTHighlight
+443376078116380672  Mar 11 09:21  @alexalexalex131  RT @NatureBiotech: New data correction algorithm for RNA-seq, ChIP-seq and other read-count-based assays, in @PLOSCompBiol http://bit.ly/1ne5HZl #NBTHighlight
 443376078116380672  Mar 11 09:21  @alexmarshall131  RT @NatureBiotech: New data correction algorithm for RNA-seq, ChIP-seq and other read-count-based assays, in @PLOSCompBiol http://bit.ly/1ne5HZl #NBTHighlight
 443411208331218947  Mar 11 11:40  @caseyjowdy       RNA-seq in Action: Wheat Rust http://createsend.com/t/r-7A182423BC20C1392540EF23F30FEDED
 443411507133415426  Mar 11 11:41  @caseyjowdy       RNA-seq in Action: Wheat Rust http://lnkd.in/b69eQQ2
@@ -9201,3 +9202,14 @@
 445532565840330752  Mar 17 08:10  @genestackltd     Cheaper RNA-seq: but you might have to give up strandedness and splicing via CoreGenomics Blog #NGS #sequencing http://bit.ly/1lHn8wI
 445533174341193729  Mar 17 08:12  @nob_fj           RNA-seqの結果多(例Cuffdiff)にChIP-seq多の結果をくっつけるパイプラインが大分形になったので晒してみます。とりあえずやるやる詐欺にはならなくて済みそう。 頭の中のイメージを形にするのはSE冥利に尽きる。 http://t.co/CwGf0bhJG8
 445533426376925184  Mar 17 08:13  @suimye           RT @nob_fj: RNA-seqの結果多(例Cuffdiff)にChIP-seq多の結果をくっつけるパイプラインが大分形になったので晒してみます。とりあえずやるやる詐欺にはならなくて済みそう。 頭の中のイメージを形にするのはSE冥利に尽きる。 http://t.co/CwGf0bhJG8
+445551522471223296  Mar 17 09:25  @UseqMiseq        CoreGenomics: Cheaper #RNA-seq: but you might have to give up strandeness and splicing #transcriptomics | @scoopit http://sco.lt/7e9JWz
+445564972777869312  Mar 17 10:19  @SBGenomics       Statistics for Genomics: Introduction to RNA-Seq [filmed workshop] http://www.rna-seqblog.com/statistics-for-genomics-introduction-to-rna-seq/
+445565171961196545  Mar 17 10:19  @IndianaDiez      RT @SBGenomics: Statistics for Genomics: Introduction to RNA-Seq [filmed workshop] http://www.rna-seqblog.com/statistics-for-genomics-introduction-to-rna-seq/
+445577601823019008  Mar 17 11:09  @kwbroman         @fellgernon This RNA-Seq #enar2013 session is well attended. I heard at #enar2013 that room size came from the session organizer’s estimate.
+445581898266730496  Mar 17 11:26  @_kghose_         RT @SBGenomics: Statistics for Genomics: Introduction to RNA-Seq [filmed workshop] http://www.rna-seqblog.com/statistics-for-genomics-introduction-to-rna-seq/
+445584214465855488  Mar 17 11:35  @EnzymaticsInc    CoreGenomics: Cheaper RNA-seq: but you might have to give up str... http://core-genomics.blogspot.com/2014/03/cheaper-rna-seq-but-you-might-have-to.html?spref=tw
+445589131557863424  Mar 17 11:55  @fellgernon       @kwbroman Thanks! Seemed to me that Hongkai is normalizing ChIP and RNA seq data. Maybe need min same study in both batches & seq techs
+445605304361705472  Mar 17 12:59  @rtraborn         This was achieved by generating data from not only RNA-seq but also CAGE, ESTs, & cDNAs. Brown et al is an exemplar for future studies [5/n]
+445607042053455872  Mar 17 13:06  @michaelhoffman   RT @rtraborn: This was achieved by generating data from not only RNA-seq but also CAGE, ESTs, & cDNAs. Brown et al is an exemplar for future studies [5/n]
+445617370540032000  Mar 17 13:47  @GraveleyLab      Got a full HiSeq flowcell of juicy new RNA-Seq data today!
+445618500124413952  Mar 17 13:51  @gabepratt        RT @GraveleyLab: Got a full HiSeq flowcell of juicy new RNA-Seq data today!
