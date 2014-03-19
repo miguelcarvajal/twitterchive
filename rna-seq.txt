@@ -9291,3 +9291,15 @@
 446236875464785920  Mar 19 06:48  @GabKrouk         Integrated RNA-seq and sRNA-seq analysis identifies novel nitrate-responsive genes in Arabidopsis http://www.biomedcentral.com/1471-2164/14/701 #bmcgenomics
 446237548923191297  Mar 19 06:51  @fly_papers       Quality assessment and control of tissue specific RNA-seq libraries of Drosophila transgenic RNAi models. http://dlvr.it/5B4QQF
 446239461249003520  Mar 19 06:59  @MegJRutherford   RT @CRIgenomics: CoreGenomics blog: Cheaper RNA-seq: but you might have to give up strandeness and splicing: I'm going to start... http://bit.ly/1d7MYVm
+446282215631364096  Mar 19 09:49  @Sivsigma         Systematic evaluation of spliced alignment programs for RNA-seq data : http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2722.html
+446285149161156608  Mar 19 10:00  @genetics_blog    Good post: Cheaper RNA-seq, but you might have to give up strandeness and splicing http://core-genomics.blogspot.com/2014/03/cheaper-rna-seq-but-you-might-have-to.html
+446290714993758209  Mar 19 10:22  @iamsaumyadip     RT @genetics_blog: Good post: Cheaper RNA-seq, but you might have to give up strandeness and splicing http://core-genomics.blogspot.com/2014/03/cheaper-rna-seq-but-you-might-have-to.html
+446294094680035328  Mar 19 10:36  @hot_braves       RT @mbcnews: 국내연구진 'RNA꼬리' 읽는 기술 세계최초 개발‥국내 연구진이 유전자 조절 원리를 이해하는 데 쓰일 새로운 분석법인 '꼬리서열분석법'(TAIL-seq)을 최초로 개발, 꼬리를 마치 책 읽듯 문자로 해독해 분석 http://t.co/sPjURCd9qN
+446306485803679744  Mar 19 11:25  @heathermvincent  RT @genetics_blog: Good post: Cheaper RNA-seq, but you might have to give up strandeness and splicing http://core-genomics.blogspot.com/2014/03/cheaper-rna-seq-but-you-might-have-to.html
+446312693507436546  Mar 19 11:50  @caseyjowdy       6 Changes That’ll Make a Big Difference With Your RNA-seq; Part 2 http://lnkd.in/b_6VDeB
+446320417972944896  Mar 19 12:20  @Diane_McKenna_   #RNASeq2014 Panel Discussion "Where do we Stand with RNA-Seq Platforms?" With @illumina @LIFECorporation @nimblegen  http://rna-seqsummit.com/agenda/day-one
+446321474664558592  Mar 19 12:25  @ayannamonte      RT @Diane_McKenna_: #RNASeq2014 Panel Discussion "Where do we Stand with RNA-Seq Platforms?" With @illumina @LIFECorporation @nimblegen  http://rna-seqsummit.com/agenda/day-one
+446321502359912448  Mar 19 12:25  @Diane_McKenna_   Interactive Workshop at #RNASeq2014 on "RNA-Seq: A fundamental guide to the field" with @sdcrosby  #rnaseq #genomics http://rna-seqsummit.com/agenda/interactive-workshops
+446346193035988992  Mar 19 14:03  @itteration       While N50 values are reported here, there is significant debate as to the utility of this metric for guiding RNA-seq de novo assembly choice
+446350037912518656  Mar 19 14:18  @yokofakun        my new student will be in charge of installing+testing the RNA-Seq STAR aligner. http://bioinformatics.oxfordjournals.org/content/29/1/15
+446351852041682944  Mar 19 14:25  @frapaport        RNAseqViewer: visualization tool for RNA-Seq data http://bioinformatics.oxfordjournals.org/content/30/6/891.short?rss=1
