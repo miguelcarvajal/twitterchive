@@ -9397,3 +9397,4 @@
 447089649060548608  Mar 21 15:17  @PLadd01          RNA-Seq Tutorial – An Introduction to RNA-Seq Data and Computation http://www.rna-seqblog.com/rna-seq-tutorial-an-introduction-to-rna-seq-data-and-computation/
 447103358831456256  Mar 21 16:12  @PressOfficeEU    Press Alert: From root to fruit: RNA-Seq analysis shows that arbuscular mycorrhizal symbiosis may affect ... http://bit.ly/1piel4P
 447132659245146112  Mar 21 18:08  @scalabrin_iga    RT @fabiomarroni: MT @genetics_blog NuGEN: deplete specific transcripts for exclusion in RNA-seq (InDA-C) http://bit.ly/PXGXG5 @IGATechnology @scalabrin_iga
+447261421970026496  Mar 22 02:40  @tshot            RNA-seqの結果をゲノムにマッピングして、マルチのを除去して、PCR duplicateも除去したら、リード数が驚くほど減った。一応同じ生物で同じ様なことをやっている論文をみたら最終的に~20%になっていたのでこんなもんなのかもしれんが。
