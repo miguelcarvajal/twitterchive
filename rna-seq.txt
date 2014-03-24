@@ -9416,6 +9416,7 @@
 447685695151538176  Mar 23 06:46  @RPubsRecent      GSAT 540 - Seminar 07 - RNA-seq analysis http://rpubs.com/scottdbrown/sem07
 447695292071038976  Mar 23 07:24  @gatapishichan    RNA-Seq Tutorial – An Introduction to RNA-Seq Data and Computation http://www.rna-seqblog.com/rna-seq-tutorial-an-introduction-to-rna-seq-data-and-computation/
 447705331116683264  Mar 23 08:04  @RPubsRecent      GSAT 540 - Seminar 07 - RNA-seq analysis http://rpubs.com/scottdbrown/sem07
+447712024135344128  Mar 23 08:30  @feketerigoremet  なんでrna-seqでsingle endなんだよおおおおおおおお
 447728929982664704  Mar 23 09:37  @razZ0r           [rss] "Methods for Analysis of RNA-Seq Datasets to Study Alternative Splicing" http://ift.tt/1kZScaI
 447750464742756352  Mar 23 11:03  @gatapishichan    RT @gaou_ak: バイオインフォマティシャンは必要か。僕が知る限り、優秀なwetの研究者は、ある程度自分でデータの解析はできる。NGSの解析もソフトウェアが充実していて、RNA-SeqやChIP-Seqなどの解析は「簡単」という人もいる。
 447802628870008832  Mar 23 14:30  @rnomics          6 Changes That'll Make a Big Difference With Your RNA-seq; Part 4 | Cofactor Genomics http://bit.ly/1lXe9rm http://bit.ly/1lXe6fj - Jon A…
@@ -9424,3 +9425,36 @@
 447878732854747137  Mar 23 19:33  @rnomics          CT @rnomics/bioinfo Methods for Analysis of #RNA-Seq Datasets to Study Alternative Splicing | #RNA-Seq Blog:... http://bit.ly/1duRxMN
 447914796361342976  Mar 23 21:56  @Ricardo_Oliva_P  RNA-Seq analysis shows that arbuscular mycorrhizal symbiosis may affect tomato fruit metabolism http://sco.lt/7WBdPl via @scoopit
 447922969445027840  Mar 23 22:28  @RnDPolicy        IBS 연구진 RNA꼬리 측정기술 세계 최초 개발 상세보기|보도자료 | 미래창조과학부 http://www.msip.go.kr/www/brd/m_211/view.do?seq=1494&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=
+448085044825837568  Mar 24 09:12  @caseyjowdy       6 Changes That’ll Make a Big Difference With Your RNA-seq; Part 5 http://lnkd.in/bFD8vJ6
+448087029134667776  Mar 24 09:20  @mcmahanl         RT @genetics_blog: NuGEN has tech to selectively deplete specific transcripts for exclusion in RNA-seq libraries (InDA-C) http://www.nugen.com/nugen/index.cfm/products/tech/
+448087110818750464  Mar 24 09:21  @rnomics          6 Changes That’ll Make a Big Difference With Your RNA-seq | RNA-Seq Blog http://bit.ly/1lXedaE http://bit.ly/1lXedrf - RNA-Seq Blog from …
+448087146281578497  Mar 24 09:21  @mcmahanl         RT @genetics_blog: - @CofactorGenomic is running a very nice blog post series on improving RNA-seq. Here's part 4: http://cofactorgenomics.com/6-changes-thatll-make-big-difference-rna-seq-part-4/
+448088300809887745  Mar 24 09:25  @mcmahanl         RT @genetics_blog: Good post: Cheaper RNA-seq, but you might have to give up strandeness and splicing http://core-genomics.blogspot.com/2014/03/cheaper-rna-seq-but-you-might-have-to.html
+448096504713347072  Mar 24 09:58  @EduEyras         spliceR: an R package for alternative splicing from RNA-seq data http://www.biomedcentral.com/1471-2105/15/81/abstract
+448101773358555137  Mar 24 10:19  @bioinformer      @allseq @genetics_blog Just started RNA-Seq on the Proton - but we're getting ~20M reads/index (4/chip) with degraded RNA (median ~100 nt)
+448104848764854272  Mar 24 10:31  @rnomics          Reliable reference miRNAs for quantitative gene... http://bit.ly/1eF6Fb0 #Controls #Caenorhabditiselegans #geneexpression #RNAseq
+448105346058690560  Mar 24 10:33  @helicobacter1    RT @EduEyras: spliceR: an R package for alternative splicing from RNA-seq data http://www.biomedcentral.com/1471-2105/15/81/abstract
+448107390052106240  Mar 24 10:41  @concaff          RT @rnomics: Reliable reference miRNAs for quantitative gene... http://bit.ly/1eF6Fb0 #Controls #Caenorhabditiselegans #geneexpression #RNAseq
+448108520911540224  Mar 24 10:46  @llikdaor123      Reliable reference miRNAs for quantitative gene expression analysis identified by RNA-Seq http://wp.me/p4fXtR-yXc
+448125311469637632  Mar 24 11:52  @thatdnaguy       Hot off the presses from Cole Trapnell: Monocle. Diff exp and time series from single cell RNA-SEQ. http://bit.ly/1faKoyQ
+448126782513086464  Mar 24 11:58  @nextgenseek      Monocle from Cole Trapnell:  Differential expression and time-series analysis for single-cell RNA-Seq http://monocle-bio.sourceforge.net/index.html #RNAseq
+448128576718897152  Mar 24 12:05  @GraveleyLab      RT @nextgenseek: Monocle from Cole Trapnell:  Differential expression and time-series analysis for single-cell RNA-Seq http://monocle-bio.sourceforge.net/index.html #RNAseq
+448129447171203072  Mar 24 12:09  @lpipes           I'm currently testing Trinity's in silico normalization utility for large RNA-seq datasets. I'll let you know how it goes on my blog.
+448131936805208064  Mar 24 12:19  @genestackltd     Reliable reference miRNAs for quantitative gene expression analysis identified by RNASeq via RNA-Seq Blog #sequencing http://bit.ly/1lgIZhE
+448135803705622528  Mar 24 12:34  @rnomics          spliceR: an R package for classification of alternative... http://bit.ly/1jwrQfj #SplicingandJunctionMapping #alternativesplicing #RNAseq
+448137378625245184  Mar 24 12:40  @JordiEstelle     RT @nextgenseek: Monocle from Cole Trapnell:  Differential expression and time-series analysis for single-cell RNA-Seq http://monocle-bio.sourceforge.net/index.html #RNAseq
+448138079707348992  Mar 24 12:43  @CofactorGenomic  Estimate the number of replicates and reads needed - 6 Changes That'll Make a Big Difference With Your RNA-seq: http://buff.ly/1iuCVys
+448143593354846209  Mar 24 13:05  @alexteapoint     RT @rnomics: Reliable reference miRNAs for quantitative gene... http://bit.ly/1eF6Fb0 #Controls #Caenorhabditiselegans #geneexpression #RNAseq
+448147022411878403  Mar 24 13:19  @llikdaor123      spliceR: an R package for classification of alternative splicing and prediction of coding potential from… http://wp.me/p4fXtR-z6u
+448151837615484929  Mar 24 13:38  @iGenomics        RNA-Seq posters at ABRF http://www.rna-seqblog.com/rna-seq-at-abrf/ #ABRF2014
+448153308742443008  Mar 24 13:44  @Genomics_Guy     RT @iGenomics: RNA-Seq posters at ABRF http://www.rna-seqblog.com/rna-seq-at-abrf/ #ABRF2014
+448153965922762752  Mar 24 13:46  @gatapishichan    spliceR: an R package for classification of alternative splicing and prediction of coding potential from RNA-seq data http://www.rna-seqblog.com/splicer-an-r-package-for-classification-of-alternative-splicing-and-prediction-of-coding-potential-from-rna-seq-data/
+448154045694242816  Mar 24 13:47  @pinmarch_t       RT @gatapishichan: spliceR: an R package for classification of alternative splicing and prediction of coding potential from RNA-seq data http://www.rna-seqblog.com/splicer-an-r-package-for-classification-of-alternative-splicing-and-prediction-of-coding-potential-from-rna-seq-data/
+448154255426215936  Mar 24 13:47  @gatapishichan    Reliable reference miRNAs for quantitative gene expression analysis identified by RNA-Seq http://www.rna-seqblog.com/reliable-reference-mirnas-for-quantitative-gene-expression-analysis-identified-by-rna-seq/
+448154316436545536  Mar 24 13:48  @gatapishichan    RNA-Seq Tutorial – An Introduction to RNA-Seq Data and Computation http://www.rna-seqblog.com/rna-seq-tutorial-an-introduction-to-rna-seq-data-and-computation/
+448154778166493184  Mar 24 13:50  @gatapishichan    lncRScan – Prediction of novel long non-coding RNAs based on RNA-Seq data http://www.rna-seqblog.com/lncrscan-prediction-of-novel-long-non-coding-rnas-based-on-rna-seq-data/
+448154819090714624  Mar 24 13:50  @ElinVidevall     RT @nextgenseek: Monocle from Cole Trapnell:  Differential expression and time-series analysis for single-cell RNA-Seq http://monocle-bio.sourceforge.net/index.html #RNAseq
+448165793956913153  Mar 24 14:33  @KATAphone        RT @iGenomics: RNA-Seq posters at ABRF http://www.rna-seqblog.com/rna-seq-at-abrf/ #ABRF2014
+448167265817489408  Mar 24 14:39  @RPubsRecent      sem07-RNA-seq-diff-expr-analysis.html http://rpubs.com/rljohn/sem07-RNA-seq-diff-expr-analysis
+448171747037417472  Mar 24 14:57  @RNAJournal       AO: Mod-seq: high-throughput sequencing for chemical probing of RNA structure #RNA http://rnajournal.cshlp.org/content/early/2014/03/24/rna.042218.113.abstract
+448171921319153664  Mar 24 14:58  @GraveleyLab      RT @RNAJournal: AO: Mod-seq: high-throughput sequencing for chemical probing of RNA structure #RNA http://rnajournal.cshlp.org/content/early/2014/03/24/rna.042218.113.abstract
