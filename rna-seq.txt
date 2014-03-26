@@ -9539,3 +9539,35 @@
 448770594679832576  Mar 26 06:37  @cathcoste        RT @notSoJunkDNA: Mod-seq: high-throughput sequencing for chemical probing of RNA structure http://rnajournal.cshlp.org/content/early/2014/03/24/rna.042218.113.short Mod-seq: one more for @lpachter?
 448783014563049472  Mar 26 07:26  @STATegra         David Gomez Cabrero @STATegra progress meeting: Updates on RNA-seq data http://t.co/2MVzhUXUpD
 448790436077793280  Mar 26 07:55  @hirooshi007      癌→薬120→IGV→RNA-seqの順に勉強する
+448812849041645568  Mar 26 09:24  @caseyjowdy       6 Changes That’ll Make a Big Difference With Your RNA-seq; Part 6 http://lnkd.in/bjmqmmP
+448819735212224512  Mar 26 09:52  @rnomics          CT @rnomics/bioinfo TSSpredator 1.03 – Comparative TSS Prediction from #RNA-seq data: http://mybiosoftware.com -... http://bit.ly/1jIA1FJ
+448820214709633024  Mar 26 09:54  @rnomics          http://bit.ly/1ePh6cd TSSpredator 1.03 – Comparative TSS Prediction from RNA-seq data http://mybiosoftware.com - admin TSSp...
+448821930012200960  Mar 26 10:01  @genetics_blog    spliceR: #Rstats pkg for analyzing alternative splicing & coding potential w/ RNA-seq data http://www.biomedcentral.com/1471-2105/15/81/abstract #bioinformatics
+448823203885248512  Mar 26 10:06  @asela_1          RT @genetics_blog: spliceR: #Rstats pkg for analyzing alternative splicing & coding potential w/ RNA-seq data http://www.biomedcentral.com/1471-2105/15/81/abstract #bioinformatics
+448824093115420672  Mar 26 10:09  @alexalexalex131  RT @genetics_blog: spliceR: #Rstats pkg for analyzing alternative splicing & coding potential w/ RNA-seq data http://www.biomedcentral.com/1471-2105/15/81/abstract #bioinformatics
+448826646544408576  Mar 26 10:19  @YoshiKawahara    cufflinks 2.2.0、cuffquantやcuffnormなどというツールが増えとる。。monocleと同じく、single-cell RNA-Seqなどの多サンプル解析に向けたものらしい。
+448826967870025729  Mar 26 10:21  @nob_fj           RT @YoshiKawahara: cufflinks 2.2.0、cuffquantやcuffnormなどというツールが増えとる。。monocleと同じく、single-cell RNA-Seqなどの多サンプル解析に向けたものらしい。
+448834088901021696  Mar 26 10:49  @ucielp           "@genetics_blog: spliceR: #Rstats pkg for analyzing alternative splicing & coding potential w/ RNA-seq data http://www.biomedcentral.com/1471-2105/15/81/abstract" @estepi
+448846959898419200  Mar 26 11:40  @llikdaor123      3TC-seq: differential expression from degraded RNA http://wp.me/p4fXtR-C3X
+448850711023845377  Mar 26 11:55  @rnomics          De novo transcriptome analysis of Hevea brasiliensis tissues by #RNA-seq and screening for molecular markers http://bit.ly/1jJnRfL #BMC
+448851410835095553  Mar 26 11:58  @llikdaor123      De novo transcriptome analysis of Hevea brasiliensis tissues by RNA-seq and screening for molecular markers http://wp.me/p4fXtR-C5t
+448851952223272960  Mar 26 12:00  @CRIgenomics      CoreGenomics blog: 3TC-seq: differential expression from degraded RNA: Joakim Lundeberg at the Science for Lif... http://bit.ly/1droWdB
+448861375075332096  Mar 26 12:37  @tangming2005     RNA-seq, variant calling https://bcbio-nextgen.readthedocs.org/en/latest/contents/pipelines.html
+448861510371401729  Mar 26 12:38  @CofactorGenomic  Understand where the noise threshold is - 6 Changes That'll Make a Big Difference With Your RNA-seq; Part 6 | http://buff.ly/1hsoeIX
+448861841565810688  Mar 26 12:39  @tangming2005     RNA-seq, variant calling NESONI http://www.vicbioinformatics.com/nesoni-cookbook/index.html
+448864350343024640  Mar 26 12:49  @asela_1          RT @CRIgenomics: CoreGenomics blog: 3TC-seq: differential expression from degraded RNA: Joakim Lundeberg at the Science for Lif... http://bit.ly/1droWdB
+448867251882827776  Mar 26 13:01  @genetics_blog    Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448867467540979712  Mar 26 13:01  @sherinakamal     RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448868340719960064  Mar 26 13:05  @robin_andersson  RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448868969412567040  Mar 26 13:07  @chadn737         RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448868983727349760  Mar 26 13:07  @srbehera11       RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448872648773083136  Mar 26 13:22  @Han_Fang_        RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448875391084941313  Mar 26 13:33  @GraveleyLab      RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448875413272801280  Mar 26 13:33  @MachaNikolski    RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448876271549054976  Mar 26 13:36  @fmartin1954      Sarah Schmidt: Pop genomics, RNA-seq & mite to identify the avr2 gene of the melon pathogenic fungusFusarium oxysporum f. sp. melonis
+448878222231756800  Mar 26 13:44  @nickschurch      @lpachter recommed: throw out the talks & instead figure out how to use RNA-seq to actually annotate the transcripts from a genome properly
+448880025572753409  Mar 26 13:51  @danielcroll      RT @fmartin1954: Sarah Schmidt: Pop genomics, RNA-seq & mite to identify the avr2 gene of the melon pathogenic fungusFusarium oxysporum f. sp. melonis
+448887723496341505  Mar 26 14:22  @yenyilin         RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448892987536199681  Mar 26 14:43  @DaveMessina      Understand Where the Noise Threshold is in Your RNA-Seq Data http://cofactorgenomics.com/6-changes-thatll-make-big-difference-rna-seq-part-6/
+448896082291212288  Mar 26 14:55  @xypan1232        RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448896323320684544  Mar 26 14:56  @devRpaudel       RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
