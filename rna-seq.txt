@@ -9481,6 +9481,7 @@
 448320862996152320  Mar 25 00:49  @cntalavera       RT @CofactorGenomic: Estimate the number of replicates and reads needed - 6 Changes That'll Make a Big Difference With Your RNA-seq: http://buff.ly/1iuCVys
 448325553402028034  Mar 25 01:08  @pypi             tail-tools 0.24: Analyse PAT-Seq RNA expression data. http://bit.ly/1rrRCXU
 448328971214544896  Mar 25 01:22  @rnomics          CT @rnomics/bioinfo CoreGenomics: Cheaper #RNA-seq: but you might have to give up strandeness and splicing:... http://bit.ly/1iQCc9v
+448339614567104512  Mar 25 02:04  @biosoftcn        TranSEQ – Estimating Expression Levels of Alternatively Spliced Transcripts using mRNA-seq… http://goo.gl/fb/FjLej
 448370027452850176  Mar 25 04:05  @communitymsip    기초과학연구원(IBS) RNA연구단은 3.19일 '꼬리서열분석법(TAIL-seq)'이라고 부르는 새로운 염기서열 분석법을 개발했습니다. <http://www.msip.go.kr/www/brd/m_211/view.do?seq=1494&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=4>
 448376919789027328  Mar 25 04:32  @rnomics          CT @rnomics/RNA Mod-seq: high-throughput sequencing for chemical probing of #RNA structure:... http://bit.ly/1jAleg9
 448376932757798912  Mar 25 04:32  @rnomics          CT @rnomics/RNA Reliable reference #miRNAs for quantitative gene expression analysis identified by #RNA-Seq |... http://bit.ly/1jAlewC
@@ -9571,3 +9572,21 @@
 448892987536199681  Mar 26 14:43  @DaveMessina      Understand Where the Noise Threshold is in Your RNA-Seq Data http://cofactorgenomics.com/6-changes-thatll-make-big-difference-rna-seq-part-6/
 448896082291212288  Mar 26 14:55  @xypan1232        RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
 448896323320684544  Mar 26 14:56  @devRpaudel       RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448902179122728961  Mar 26 15:19  @sunreserve       RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448907278880878592  Mar 26 15:40  @fiamh            Updated our #galaxy #rnaseq tutorial to include htseq-count and edgeR in addition to the TopHat suite http://scriptogr.am/ohofmann/rna-seq
+448907801977712641  Mar 26 15:42  @mincle           RT @fiamh: Updated our #galaxy #rnaseq tutorial to include htseq-count and edgeR in addition to the TopHat suite http://scriptogr.am/ohofmann/rna-seq
+448910023100362752  Mar 26 15:51  @IanDworkin       RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448911743218360320  Mar 26 15:57  @markrobinsonca   RT @fiamh: Updated our #galaxy #rnaseq tutorial to include htseq-count and edgeR in addition to the TopHat suite http://scriptogr.am/ohofmann/rna-seq
+448918771525107712  Mar 26 16:25  @ctitusbrown      RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448919904385634304  Mar 26 16:30  @IanDworkin       RT @fiamh: Updated our #galaxy #rnaseq tutorial to include htseq-count and edgeR in addition to the TopHat suite http://scriptogr.am/ohofmann/rna-seq
+448920040352792576  Mar 26 16:30  @braincode        RT @fiamh: Updated our #galaxy #rnaseq tutorial to include htseq-count and edgeR in addition to the TopHat suite http://scriptogr.am/ohofmann/rna-seq
+448922288969113601  Mar 26 16:39  @ctitusbrown      RT @fiamh: Updated our #galaxy #rnaseq tutorial to include htseq-count and edgeR in addition to the TopHat suite http://scriptogr.am/ohofmann/rna-seq
+448923902845022208  Mar 26 16:46  @Lord_of_Flyz     RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448925153808748544  Mar 26 16:51  @drsarahdoom      RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448934591353479168  Mar 26 17:28  @rnomics          CT @rnomics/RNA Cufflinks - Transcript assembly, differential expression, and differential regulation for #RNA-Seq http://bit.ly/1eR5kOD
+448938128670490625  Mar 26 17:42  @mcmahanl         RT @genetics_blog: Genome-guided transcript assembly by integrative analysis of RNA-seq data http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
+448938167329390593  Mar 26 17:42  @mcmahanl         RT @genetics_blog: spliceR: #Rstats pkg for analyzing alternative splicing & coding potential w/ RNA-seq data http://www.biomedcentral.com/1471-2105/15/81/abstract #bioinformatics
+448947351374155776  Mar 26 18:19  @marcohbello      @ bioinformatics workshop by @iPlantCollab @ucdavis -performing RNA-Seq analysis using #iPlant http://twitter.com/marcohbello/status/448943010156253184/photo/1 http://t.co/JKoXetE2YQ
+448947422492774400  Mar 26 18:19  @marcohbello      @ bioinformatics workshop by @iPlantCollab @ucdavis -performing RNA-Seq analysis using #iPlant http://twitter.com/marcohbello/status/448943010156253184/photo/1 http://t.co/eKx7UC5BGB
+448950218831044609  Mar 26 18:30  @DrMegsW          ECrampin data driven network modeling - make single small change to the system eg siRNA, then measure everything eg RNA-seq #HCBM14
+448977827052802048  Mar 26 20:20  @USCMingHsiehEE   "Optimal RNA-Seq Reconstruction: From Informational Limits to Software" Dr. Sreeram Kannan, University of... http://fb.me/6ML7XyMKM
