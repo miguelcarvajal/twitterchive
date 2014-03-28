@@ -9617,3 +9617,24 @@
 449284325515616256  Mar 27 16:38  @vram142          googles "cufflinks man" expecting to get the manual page for RNA-seq utility cufflinks. #doh
 449293466023903232  Mar 27 17:14  @Al__Forrest      RT @_Morana_: #FANTOM5 comparing CAGE & RNA-Seq RT @genomeresearch: FANTOM5 comparison of CAGE and RNA-seq transcriptome profiling http://ow.ly/v2ZSR
 449318813914648576  Mar 27 18:55  @LeucineRichBio   Mod-seq: high-throughput sequencing for chemical probing of RNA structure. http://www.ncbi.nlm.nih.gov/pubmed/24664469?dopt=Abstract
+449358908180541440  Mar 27 21:34  @genomigence      GenomeResearch: Comparison of CAGE and RNA-seq transcriptome profiling using clonally amplified and single-mol... http://bit.ly/1jUE4Pa
+449374868199321600  Mar 27 22:38  @davetang31       Used ngsplot and @Bioconductor's Gviz to plot some RNA pol II data from #ENCODE http://davetang.org/muse/2014/03/23/encode-rna-polymerase-ii-chip-seq/
+449394726559440896  Mar 27 23:57  @suganthibala     6 Changes That’ll Make a Big Difference With Your RNA-seq; Part 6 http://cofactorgenomics.com/6-changes-thatll-make-big-difference-rna-seq-part-6/
+449398184670818304  Mar 28 00:10  @dritoshi         始まりました。 バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」開催のお知らせ-ゲノム解析ならアメリエフ株式会社 http://amelieff.jp/news/%e3%83%90%e3%82%a4%e3%82%aa%e3%82%a4%e3%83%b3%e3%83%95%e3%82%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%af%e3%82%b9%e5%8b%89%e5%bc%b7%e4%bc%9a%e3%80%8c%e3%83%95%e3%83%aa%e3%83%bc%e3%82%bd%e3%83%95%e3%83%88
+449400023646625793  Mar 28 00:18  @antiplastics     RT @dritoshi: 始まりました。 バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」開催のお知らせ-ゲノム解析ならアメリエフ株式会社 http://amelieff.jp/news/%e3%83%90%e3%82%a4%e3%82%aa%e3%82%a4%e3%83%b3%e3%83%95%e3%82%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%af%e3%82%b9%e5%8b%89%e5%bc%b7%e4%bc%9a%e3%80%8c%e3%83%95%e3%83%aa%e3%83%bc%e3%82%bd%e3%83%95%e3%83%88
+449401946353315840  Mar 28 00:25  @echizen_tm       RT @dritoshi: 始まりました。 バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」開催のお知らせ-ゲノム解析ならアメリエフ株式会社 http://amelieff.jp/news/%e3%83%90%e3%82%a4%e3%82%aa%e3%82%a4%e3%83%b3%e3%83%95%e3%82%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%af%e3%82%b9%e5%8b%89%e5%bc%b7%e4%bc%9a%e3%80%8c%e3%83%95%e3%83%aa%e3%83%bc%e3%82%bd%e3%83%95%e3%83%88
+449403242691051520  Mar 28 00:30  @vinumregum       理研でRNA-Seqの話を聞いている
+449408578734923776  Mar 28 00:52  @rnomics          A Robust Method for Transcript Quantification with #RNA-Seq Data. (English): io-port 10041077 http://bit.ly/1jVsbsh #WWS @MyEN
+449408581738061824  Mar 28 00:52  @rnomics          #RNA-eXpress annotates novel transcript features in #RNA-seq data. (English): io-port 10033664 http://bit.ly/1jVsbIF #WWS @MyEN
+449408584833449984  Mar 28 00:52  @rnomics          Flexible analysis of #RNA-seq data using mixed effects models. (English): io-port 11145358 http://bit.ly/1jVsbIU #WWS @MyEN
+449408587882692608  Mar 28 00:52  @rnomics          Model-based clustering for #RNA-seq data. (English): io-port 10584414 http://bit.ly/1jVsbZg #WWS @MyEN
+449409023020769280  Mar 28 00:53  @tsmz55           RT @dritoshi: 始まりました。 バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」開催のお知らせ-ゲノム解析ならアメリエフ株式会社 http://amelieff.jp/news/%e3%83%90%e3%82%a4%e3%82%aa%e3%82%a4%e3%83%b3%e3%83%95%e3%82%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%af%e3%82%b9%e5%8b%89%e5%bc%b7%e4%bc%9a%e3%80%8c%e3%83%95%e3%83%aa%e3%83%bc%e3%82%bd%e3%83%95%e3%83%88
+449410454587047937  Mar 28 00:59  @YoYosuky         “@dritoshi: 始まりました。 バイオインフォマティクス勉強会「フリーソフトではじめるRNA-seq解析、ChIP-seq解析入門」開催のお知らせ-ゲノム解析ならアメリエフ株式会社 http://amelieff.jp/news/ <--- 本当に行きたかった
+449411743576367105  Mar 28 01:04  @genomepandit     RT @suganthibala: 6 Changes That’ll Make a Big Difference With Your RNA-seq; Part 6 http://cofactorgenomics.com/6-changes-thatll-make-big-difference-rna-seq-part-6/
+449420301072228353  Mar 28 01:38  @galaxyproject    RT @fiamh: Updated our #galaxy #rnaseq tutorial to include htseq-count and edgeR in addition to the TopHat suite http://scriptogr.am/ohofmann/rna-seq
+449421825261318144  Mar 28 01:44  @yoske_moli       @yossan24okayama ここはエクソーム、RNA-seq、メチローム、メタボロームやって網羅的に攻めましょう！
+449424057394405376  Mar 28 01:53  @rnomics          STAR: ultrafast universal #RNA-seq aligner. (English): io-port 10313670 http://bit.ly/1eY33kB #WWS @MyEN
+449424070593888256  Mar 28 01:53  @rnomics          EBSeq: an empirical Bayes hierarchical model for inference in #RNA-seq experiments. (English): io-port... http://bit.ly/1eY33RE #WWS @MyEN
+449424082627330048  Mar 28 01:53  @rnomics          A model based criterion for gene expression calls using #RNA-seq data. (English): io-port 10326399 http://bit.ly/1eY35cb #WWS @MyEN
+449425692870995968  Mar 28 02:00  @ngotogenome      RNA-Seqデータ解析講習の次はChIP-Seqデータ解析講習
+449425851331801088  Mar 28 02:00  @kaittenage       Systematic evaluation of spliced alignment programs for RNA-seq data http://go.nature.com/vkelKf
