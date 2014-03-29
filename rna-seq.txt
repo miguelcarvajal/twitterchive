@@ -9668,3 +9668,8 @@
 449643213763395584  Mar 28 16:24  @shannanhosui     RT @fiamh: Updated our #galaxy #rnaseq tutorial to include htseq-count and edgeR in addition to the TopHat suite http://scriptogr.am/ohofmann/rna-seq
 449649824770818048  Mar 28 16:50  @albin_san        Useful R methods to classify splice forms from RNA-seq from my students http://is.gd/IyLgkO
 449662724872876032  Mar 28 17:42  @BrianRepko       RT @genetics_blog: mirCoX: a database of miRNA-mRNA expression correlations derived from RNA-seq meta-analysis http://www.biomedcentral.com/1471-2105/14/S14/S17
+449742383274807296  Mar 28 22:58  @sowmya__iyer     @lteytelman (2/2) pol2 itself could be a subject of that same bias? any RNA seq support?saw brief mention, no figs.
+449753296626937856  Mar 28 23:41  @lteytelman       @sowmya__iyer The top ten hyper-ChIPable loci are all in the top 50 most highly expressed yeast genes by RNA-Seq.
+449762893135765504  Mar 29 00:20  @rnomics          Differential meta-analysis of #RNA-seq data from multiple studies: Background: High-throughput sequencing is... http://bit.ly/1k2K74n #BMC
+449766002658926592  Mar 29 00:32  @animesh1977      Differential meta-analysis of RNA-seq data from multiple studies http://ift.tt/1o9YeuD
+449772205119774720  Mar 29 00:57  @BioinformaticsP  BMC: Differential meta-analysis of RNA-seq data from multiple studies: Background: High-throughput sequencing ... http://bit.ly/1hHs0OJ
