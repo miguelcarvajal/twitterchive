@@ -9772,3 +9772,13 @@
 450825761742532608  Mar 31 22:43  @Roguescientist1  しかし、膨大な数の画像データやらRNA-seqのデータに対してノートに書くことないなぁ。データの感想でも書いとくか。
 450859432306409472  Apr  1 00:57  @JokeReumers      Ballgown for estimating differential expression of genes, transcripts, or exons from RNA-seq  by @nextgenseek  http://nextgenseek.com/2014/03/ballgown-for-estimating-differential-expression-of-genes-transcripts-or-exons-from-rna-seq/#.UzpFfmMoino.twitter
 450876020200341504  Apr  1 02:03  @hquesneville     RT @nextgenseek: Quick post on @biorxivpreprint paper Flexible isoform-level differential expression analysis with Ballgown.   http://nextgenseek.com/2014/03/ballgown-for-estimating-differential-expression-of-genes-transcripts-or-exons-from-rna-seq/ #RNAseq
+450901441071161344  Apr  1 03:44  @artwisanggeni    READemption 0.2.3: A RNA-Seq Analysis Pipeline http://goo.gl/YrKyzq
+450902180795387904  Apr  1 03:47  @pypi             READemption 0.2.3: A RNA-Seq Analysis Pipeline http://bit.ly/1gJO7ba
+450930154983157760  Apr  1 05:38  @ecSeq            NGS workshop: RNA-seq Bioinformatics: A Practical Introduction, October 16-17, 2014 (http://www.ecseq.com/workshops/workshop_2014-01.html)
+450938550666932224  Apr  1 06:11  @dLangenberger    RT @ecSeq: NGS workshop: RNA-seq Bioinformatics: A Practical Introduction, October 16-17, 2014 (http://www.ecseq.com/workshops/workshop_2014-01.html)
+450939750950514689  Apr  1 06:16  @rnomics          Differential meta-analysis of #RNA-seq data from multiple studies.: Differential... http://1.usa.gov/1fjFq6c #BMCBioinformatics #Pubmed
+450939926335332352  Apr  1 06:17  @whosaysni        RT @pypi: READemption 0.2.3: A RNA-Seq Analysis Pipeline http://bit.ly/1gJO7ba
+450966398001770496  Apr  1 08:02  @selcukorkmaz     RT @Bioconductor: http://bioconductor.org/packages/devel/bioc/html/MLSeq.html MLSeq Machine learning interface for RNA-Seq data
+450974442378645504  Apr  1 08:34  @calicolicali     嘘つきました。TIVAは生きているそのままの状態のmRNAを引っ張ってこれるのに対して、FISSEQは固定してその場でSequenceするのでRNA-seqの3Dデータを構築できるらしい。
+450977150598799361  Apr  1 08:45  @rnomics          Comparison of CAGE and #RNA-seq transcriptome profiling using clonally... http://bit.ly/1fkngkP #ExpressionandQuantification #CAGE #RNAseq
+450978961074319360  Apr  1 08:52  @llikdaor123      Comparison of CAGE and RNA-seq transcriptome profiling using clonally amplified and single-molecule… http://wp.me/p4fXtR-IX0
