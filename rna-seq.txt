@@ -9843,3 +9843,6 @@
 451463163591286784  Apr  2 16:56  @BenScruggs       Is storage an issue for your lab's RNA-seq data? If not, what are your storage solutions?
 451499440399216641  Apr  2 19:20  @DaleYuzuki       MT @lexnederbragt: ABRF study: MiSeq: good for rapid xcr quant and detect Proton: good for read depths and lengths. http://www.genomeweb.com/sequencing/abrf-working-group-reports-rna-seq-study-results-next-steps?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+genomeweb%2Finsequence+%28In+Sequence%29
 451500161198739456  Apr  2 19:23  @HuanleLIU        Counts vs. FPKMs in RNA-seq | @scoopit http://sco.lt/6mxi2D
+451586159613710336  Apr  3 01:05  @LeucineRichBio   ABRF Working Group Reports RNA-seq Study Results, Next Steps http://www.genomeweb.com/sequencing/abrf-working-group-reports-rna-seq-study-results-next-steps
+451600441449525248  Apr  3 02:01  @pieter_mestdagh  @plaza_genomics, few references in this article: http://www.scirp.org/journal/PaperInformation.aspx?paperID=32139#.Uzz33-0azCQ. Why not perform RNA-seq or reanalyse existing RNA-seq data?
+451608484836962305  Apr  3 02:33  @Genialis         6 Changes That’ll Make a Big Difference With Your RNA-seq; Part 4  http://bit.ly/1mBTV73
