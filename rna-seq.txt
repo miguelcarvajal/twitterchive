@@ -9875,3 +9875,18 @@
 451889146194173952  Apr  3 21:09  @YoshiKawahara    GRIT：RNA-Seq、CAGE、poly(A)-site-seqなどのデータを合わせて遺伝子構造を再構築するツール。まあこれだけデータ取るぐらいなら、四の五の言わずにPacBioで転写産物丸々読んじゃうのがいい気がするが・・。http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2850.html
 451905834902384640  Apr  3 22:15  @NJL_Broad        RT @Genomics_Guy: The new RNA Access Kit provides the best RNA-Seq results that we have ever seen when starting from FFPE samples!  http://www.rna-seqblog.com/illumina-adds-products-to-support-rna-seq-on-the-newly-launched-nextseq-500-sequencing-system/
 451959963368173568  Apr  4 01:50  @Genialis         6 Changes That’ll Make a Big Difference With Your RNA-seq; Part 5  http://bit.ly/1hHrfZw
+451991097741705216  Apr  4 03:54  @ApoMorphConsult  RT @NextGenSequence: Improve directional RNA-seq quantitation with the NEXTflex™ Rapid Directional qRNA-Seq™ Kit #NGS #RNAseq http://tinyurl.com/nvzjty3
+451995293593395200  Apr  4 04:10  @_Morana_         spliceR: an R package for classification of alternative splicing and prediction of coding potential from RNA-seq data http://www.biomedcentral.com/1471-2105/15/81
+451996965216063488  Apr  4 04:17  @SystemsResearch  Currently running a script to analyse 144 RNA-seq samples. It takes roughly 15' for each, which is the most frustrating configuration.
+451997480209891328  Apr  4 04:19  @ynancy           RT @_Morana_: spliceR: an R package for classification of alternative splicing and prediction of coding potential from RNA-seq data http://www.biomedcentral.com/1471-2105/15/81
+452005710864203776  Apr  4 04:52  @pitman_mark      RT @_Morana_: spliceR: an R package for classification of alternative splicing and prediction of coding potential from RNA-seq data http://www.biomedcentral.com/1471-2105/15/81
+452006076779859968  Apr  4 04:53  @ecSeq            Upcoming RNA-Seq workshops 2014 (http://www.ecseq.com/training.html  )
+452006167150350336  Apr  4 04:54  @ecSeq            RNA-Seq workshop: Discovering standard and non-standard RNA transcripts, October 23-24, 2014 (http://www.ecseq.com/workshops/workshop_2014-04.html … )
+452006323828568064  Apr  4 04:54  @ecSeq            RNA-Seq workshop: RNA-seq Bioinformatics: A Practical Introduction, October 16-17, 2014 (http://www.ecseq.com/workshops/workshop_2014-01.html)
+452006500265766912  Apr  4 04:55  @ecSeq            RNA-Seq workshop: microRNA Analysis Using High-Throughput Sequencing, October 13-14, 2014 (http://www.ecseq.com/workshops/workshop_2014-02.html)
+452026338266714113  Apr  4 06:14  @CompBiolPapers   RNA-Seq and Microarrays Analyses Reveal Global Differential Transcriptomes of Mesorhizobium huakuii 7653R between... http://dlvr.it/5Jv1LQ
+452039049440550912  Apr  4 07:04  @chapmanb         bcbio-nextgen RNA-seq benchmarks from @RoryKirchner, with AlienTrimmer, STAR, Cufflinks on Lustre filesystem http://j.mp/1gt8vs4
+452040282243366912  Apr  4 07:09  @DevBioInfoGuy    RT @chapmanb: bcbio-nextgen RNA-seq benchmarks from @RoryKirchner, with AlienTrimmer, STAR, Cufflinks on Lustre filesystem http://j.mp/1gt8vs4
+452040360345477120  Apr  4 07:09  @4a6a5a           RT @chapmanb: bcbio-nextgen RNA-seq benchmarks from @RoryKirchner, with AlienTrimmer, STAR, Cufflinks on Lustre filesystem http://j.mp/1gt8vs4
+452042218006933505  Apr  4 07:17  @razZ0r           yet another presentation which shows lots of correlations in various chip/rna/polymerase-pausing seq data ...
+452059435188649984  Apr  4 08:25  @laxvid           RT @chapmanb: bcbio-nextgen RNA-seq benchmarks from @RoryKirchner, with AlienTrimmer, STAR, Cufflinks on Lustre filesystem http://j.mp/1gt8vs4
