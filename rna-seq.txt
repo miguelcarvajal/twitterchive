@@ -9936,3 +9936,19 @@
 452418283619094528  Apr  5 08:11  @artwisanggeni    READemption 0.2.4: A RNA-Seq Analysis Pipeline http://goo.gl/giYNKT
 452420641036455936  Apr  5 08:21  @rnomics          Comparison of CAGE and RNA-seq transcriptome profiling using clonally amplified and single-molecule next-generation sequencing | RNA-Seq ...
 452429020756320256  Apr  5 08:54  @pypi             READemption 0.2.4: A RNA-Seq Analysis Pipeline http://bit.ly/1gZjWwF
+452470619951886336  Apr  5 11:39  @DaleYuzuki       Hatzis: A range of genomic tools for putative biomarker strategies: WGS, WES, PCR amplicon, RNA-Seq #AACR14
+452471882143395841  Apr  5 11:44  @pypi             READemption 0.2.5: A RNA-Seq Analysis Pipeline http://bit.ly/1gZQqqt
+452472685713694720  Apr  5 11:47  @artwisanggeni    READemption 0.2.5: A RNA-Seq Analysis Pipeline http://goo.gl/ubBenS
+452477514334887938  Apr  5 12:07  @DaleYuzuki       Reis-Filho: One types of drivers: oncogenes (detected via hotspot or fusion genes via RNA-Seq); showed TCGA 'lollipop' freq plots #AACR14
+452486740646068224  Apr  5 12:43  @DaleYuzuki       Guo: Mining RNA-Seq data, can look at SNV & Indels; even microsat instability. Can look at RNA editing, allele-spec expression #AACR14
+452488191153803265  Apr  5 12:49  @DaleYuzuki       Guo: Illustrated exponential growth of publications of WES / RNA-Seq, possibilities for data mining #AACR14
+452489984659165184  Apr  5 12:56  @DaleYuzuki       .@teamoncology Looking at RNA-Seq from plasma, ID'd microRNA from corn (from a Western diet !); rice miRNA from an Asian one. Fascinating.
+452490406379286528  Apr  5 12:58  @teamoncology     RT @DaleYuzuki: .@teamoncology Looking at RNA-Seq from plasma, ID'd microRNA from corn (from a Western diet !); rice miRNA from an Asian one. Fascinating.
+452496345551491073  Apr  5 13:21  @JVJAI            DB: low input RNA-Seq & lib complexity, duplication, issues discussed #AACR2014
+452498409782804480  Apr  5 13:30  @rnomics          Comparing Data Across RNA-Seq Studies | RNA-Seq Blog http://bit.ly/1gS8UJx http://bit.ly/1gS8UZZ - RNA-Seq Blog High-throughput sequencin…
+452503333769449473  Apr  5 13:49  @JVJAI            Marcus Breese from Stanford on RNA-Seq pitfalls #AACR14
+452505466296225792  Apr  5 13:58  @scientre         For RNAseq crowd, Shyr has online calculator for RNA seq sample size https://medschool.vanderbilt.edu/cqs/software-tools Related to '13 BMC paper #AACR14
+452510332758818816  Apr  5 14:17  @BioficNow        RT @rnomics: Comparing Data Across RNA-Seq Studies | RNA-Seq Blog http://bit.ly/1gS8UJx http://bit.ly/1gS8UZZ - RNA-Seq Blog High-throughput sequencin…
+452511483809652736  Apr  5 14:21  @JVJAI            Christopher Maher describing genefusion detection using RNA-Seq data #AACR14
+452511854405771264  Apr  5 14:23  @CI4CC            RT @JVJAI: Christopher Maher describing genefusion detection using RNA-Seq data #AACR14
+452518811892072448  Apr  5 14:51  @JVJAI            Olivier Elemento: "Integrative" RNA-Seq data #AACR14, slides  'sprinkled with code'.tophat, cufflinks, hclust, hyperspec, rgl,  in pipeline
