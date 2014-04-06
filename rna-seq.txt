@@ -9952,3 +9952,15 @@
 452511483809652736  Apr  5 14:21  @JVJAI            Christopher Maher describing genefusion detection using RNA-Seq data #AACR14
 452511854405771264  Apr  5 14:23  @CI4CC            RT @JVJAI: Christopher Maher describing genefusion detection using RNA-Seq data #AACR14
 452518811892072448  Apr  5 14:51  @JVJAI            Olivier Elemento: "Integrative" RNA-Seq data #AACR14, slides  'sprinkled with code'.tophat, cufflinks, hclust, hyperspec, rgl,  in pipeline
+452581060870557696  Apr  5 18:58  @illumina         Katherine Hoadley @UNC on RNA-Seq data from #TCGA, Using TruSeq and Ribozero mod kits for smpl prep #AACR14
+452582121932984320  Apr  5 19:02  @LAbizar          #AACR14 TCGA RNA seq analysis, align hiseq data with mapsplice and expression by rsem. Get variants, 5-10gb /sample for fastq. 7768 samples
+452583145221537792  Apr  5 19:06  @LAbizar          #AACR14 CGHub dBASE for TCGA RNA seq data with annotation data. Tumor types, data types agilent hiseq, then data files junctions exons etc
+452584367810826240  Apr  5 19:11  @LAbizar          #AACR14 TCGA RNA seq, gene expression, isoform analysis (eg., diff expressed t63 isoforms), fusion views, hpv16 and other virus detn., cSNP
+452584522396082176  Apr  5 19:12  @illumina         KH showing interesting RNA-Seq expression data from viral (HPV) integration in head and neck cancer #AACR14
+452585115701346304  Apr  5 19:14  @rnomics          CT @leclercfl/science-21 Comparing Data Across RNA-Seq Studies | RNA-Seq Blog: http://rna-seqblog.com - RNA-Seq... http://bit.ly/1pRREo7
+452585187948253184  Apr  5 19:14  @LAbizar          #AACR14 TCGA RNA data from Chuck Perous lab. Ffpe seq much better than microarrays.
+452585885620797440  Apr  5 19:17  @DaleYuzuki       Rosenfeld:GRO-Seq and enhancer RNA; knocked-down eRNA req'd for both enhancer and coding gene transcription  #AACR14
+452586510102315008  Apr  5 19:20  @EduEyras         RT @DaleYuzuki: Rosenfeld:GRO-Seq and enhancer RNA; knocked-down eRNA req'd for both enhancer and coding gene transcription  #AACR14
+452588652502069248  Apr  5 19:28  @ElementoLab      RT @JVJAI: Olivier Elemento: "Integrative" RNA-Seq data #AACR14, slides  'sprinkled with code'.tophat, cufflinks, hclust, hyperspec, rgl,  in pipeline
+452594429044355072  Apr  5 19:51  @Vivekdna         RT @DaleYuzuki: Rosenfeld:GRO-Seq and enhancer RNA; knocked-down eRNA req'd for both enhancer and coding gene transcription  #AACR14
+452610097622319106  Apr  5 20:53  @mcmahanl         RT @genetics_blog: PRADA: Pipeline for RNA-seq Data Analysis http://bioinformatics.oxfordjournals.org/content/early/2014/04/01/bioinformatics.btu169.short?rss=1 #bioinformatics #pipelinitis
