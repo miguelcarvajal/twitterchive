@@ -9998,3 +9998,18 @@
 453228579497603073  Apr  7 13:51  @tangming2005     ChIP-seq, RNA-seq, BS-seq, variant calling! wow, I want to know how to analyze all of them.
 453239407693148161  Apr  7 14:34  @Tabima           It seems to be that my iPad doesn't have the 120TB To do a RNA-Seq analysis... :( #cgrbspring
 453240546861916160  Apr  7 14:39  @taherial         RNA-Seq with EPIC-CoGe in 3 minutes http://feedly.com/e/qZCV0kGv via @feedly
+453247745428422657  Apr  7 15:07  @LAbizar          #AACR14 TF code for glioblastomas by histone marks for CSC or differentiated DGC specific. RNA seq from cells with added TFs such as SOX2
+453249623017410560  Apr  7 15:15  @DaleYuzuki       Bernstein: Primary CD45-depleted single GBM cells - use single-cell RNA-seq; detect ~6K genes, about 80 cells / sample #AACR14
+453249745549406208  Apr  7 15:15  @00livier         BB: Single cell RNA-Seq in 430 cells from 5 GBM tumors. Not passaged in a dish #AACR14
+453250520300285952  Apr  7 15:18  @LAbizar          #AACR14 Single cell RNA seq showed EGFR isoforms and for other genes such as FGFR1, etc with some exclusivity of genexp
+453251775840010240  Apr  7 15:23  @illumina         BB: Looking at "stemness" TF signatures with single cell RNA-Seq #AACR14
+453262999693037568  Apr  7 16:08  @jkgoya           Jeff Leek of @simplystats here @Princeton to talk about Variability in RNA-seq!
+453263356624134145  Apr  7 16:09  @DaleYuzuki       Chinnaiyan: WES of tumor/normal sample; try to comprehensive; include WGS (low-pass) and RNA-Seq. Fusions, CNV, indels, muts, expr. #AACR14
+453264405816696832  Apr  7 16:13  @DNADigest        RT @DaleYuzuki: Chinnaiyan: WES of tumor/normal sample; try to comprehensive; include WGS (low-pass) and RNA-Seq. Fusions, CNV, indels, muts, expr. #AACR14
+453267999395692544  Apr  7 16:28  @jkgoya           .@simplystats: we might try converting rna-seq data to look like array data - but seq variability is actually similar to arrays (or worse!)
+453283221807964160  Apr  7 17:28  @gail_l_rosen     RNA-seq is hemoragging the file servers with information  -- C. Sullivan #CGRBSpring
+453300070125826048  Apr  7 18:35  @JChrisPires      RT @gatapishichan: "Upcoming Presentation – Using RNA-Seq Data from the Cancer Genome Atlas" good read http://feedly.com/e/BggQU8cu
+453300160215252993  Apr  7 18:35  @JChrisPires      RT @gatapishichan: "Comparing Data Across RNA-Seq Studies" good read http://feedly.com/e/zM-4S-18
+453305325475463168  Apr  7 18:56  @daumari          Afternoon keynote- Normalization and Differential Expression in RNA-Seq by Sandrine Dudoit from UC Berkeley #CGRBSpring
+453307882579054592  Apr  7 19:06  @daumari          Normalization- eliminating technical artifacts and bias, an important issue for RNA-Seq #CGRBSpring
+453328409226010624  Apr  7 20:28  @hypusine         New stats tool to estimate differential expression from RNA seq expts. http://haldanessieve.org/2014/03/31/flexible-isoform-level-differential-expression-analysis-with-ballgown/ @pathogenomenick @hyphaltip
