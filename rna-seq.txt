@@ -10279,3 +10279,29 @@
 456608215539544064  Apr 16 21:40  @mcmahanl         RT @genetics_blog: A #bioinformatics core’s perspective transitioning from microarrays to RNA-seq http://rna-seqsummit.com/uploads/ffiles/2014/03/157536.pdf
 456649122263494656  Apr 17 00:23  @abhimans         RT @genetics_blog: A #bioinformatics core’s perspective transitioning from microarrays to RNA-seq http://rna-seqsummit.com/uploads/ffiles/2014/03/157536.pdf
 456662915479650305  Apr 17 01:18  @nonshu           RNA-seq Analysis With R/Bioconductor　http://cat.hackingisbelieving.org/lecture/tohoku-u/NGS-R-Bioconductor-2nd.html
+456692120456151040  Apr 17 03:14  @WindowsKaan      RT @NatureBiotech: Defining lineage markers and developmental pathways in mouse lung using single-cell RNA-seq. http://bit.ly/1eB74xA #NBTHighlight
+456697333749907456  Apr 17 03:35  @gawbul           @BioMickWatson @pathogenomenick Needed for RNA-seq and population resequencing!
+456704118275338240  Apr 17 04:02  @suma_dk          RT @NatureBiotech: Defining lineage markers and developmental pathways in mouse lung using single-cell RNA-seq. http://bit.ly/1eB74xA #NBTHighlight
+456718009873072128  Apr 17 04:57  @marimiya_clc     今まで見たRNA-seqの資料の中ではベストと思われる。さすがRobinson先生。（↓PDFです） http://www.mi.fu-berlin.de/wiki/pub/ABI/GenomicsLecture13Materials/rnaseq2.pdf
+456718410085171200  Apr 17 04:58  @marimiya_clc     私もRNA-seqを使った発現差解析は、この２ｘ２テーブルで説明しよう。
+456719168948412416  Apr 17 05:01  @Gingermicrobe    #sgmliv up next Jorg Vogel - looking forward to being inspired by his dual RNA seq
+456719649351028737  Apr 17 05:03  @ilovechocagar    RT @Gingermicrobe: #sgmliv up next Jorg Vogel - looking forward to being inspired by his dual RNA seq
+456719708172353536  Apr 17 05:03  @PaulHoskisson    RT @Gingermicrobe: #sgmliv up next Jorg Vogel - looking forward to being inspired by his dual RNA seq
+456721454986313728  Apr 17 05:10  @ilovechocagar    in silico separation instead of chem methods for dual RNA seq Vogel  at #sgmliv
+456722128831004672  Apr 17 05:13  @ilovechocagar    2% of RNA reads are Salmonella; 98% human after 4h culture for dual RNA seq. #sgmliv
+456723087082274816  Apr 17 05:17  @wragbags         Jorg Vogel explaining the use of dual RNA-seq and recommends we read this http://www.nature.com/nrmicro/journal/v10/n9/full/nrmicro2852.html #sgmliv subscription required!!!
+456723340338540544  Apr 17 05:18  @MattHutchings10  RT @wragbags: Jorg Vogel explaining the use of dual RNA-seq and recommends we read this http://www.nature.com/nrmicro/journal/v10/n9/full/nrmicro2852.html #sgmliv subscription required!!!
+456723892615532544  Apr 17 05:20  @PaulHoskisson    RT @wragbags: Jorg Vogel explaining the use of dual RNA-seq and recommends we read this http://www.nature.com/nrmicro/journal/v10/n9/full/nrmicro2852.html #sgmliv subscription required!!!
+456724468144930816  Apr 17 05:22  @Gingermicrobe    #sgmliv being blown away by vogels experiment dual RNA seq looking at sRNA mutant in infection each sample needs one lane on a hiseq!!
+456724656431435776  Apr 17 05:23  @PaulHoskisson    RT @Gingermicrobe: #sgmliv being blown away by vogels experiment dual RNA seq looking at sRNA mutant in infection each sample needs one lane on a hiseq!!
+456725534425497602  Apr 17 05:27  @winstanley_c     RT @wragbags: Jorg Vogel explaining the use of dual RNA-seq and recommends we read this http://www.nature.com/nrmicro/journal/v10/n9/full/nrmicro2852.html #sgmliv subscription required!!!
+456725634489024512  Apr 17 05:27  @winstanley_c     RT @Gingermicrobe: #sgmliv being blown away by vogels experiment dual RNA seq looking at sRNA mutant in infection each sample needs one lane on a hiseq!!
+456727092148068352  Apr 17 05:33  @IanGoodhead      RT @wragbags: Jorg Vogel explaining the use of dual RNA-seq and recommends we read this http://www.nature.com/nrmicro/journal/v10/n9/full/nrmicro2852.html #sgmliv subscription required!!!
+456729124589932544  Apr 17 05:41  @dizzy_my_future  RT @marimiya_clc: 今まで見たRNA-seqの資料の中ではベストと思われる。さすがRobinson先生。（↓PDFです） http://www.mi.fu-berlin.de/wiki/pub/ABI/GenomicsLecture13Materials/rnaseq2.pdf
+456733447738765312  Apr 17 05:58  @fertatc1         RT @servingscience: New Product! Life Technologies Oncomine NGS RNA-Seq Gene Expression Browser http://ow.ly/i/5eKMj Click for more: http://ow.ly/vLvaZ
+456737151204335618  Apr 17 06:13  @CompBiolPapers   RNA-seq reveals the downregulated proteins related to photosynthesis in growth-inhibited rice seedlings induced... http://dlvr.it/5QTsVL
+456745412389793792  Apr 17 06:46  @rnomics          CT @rnomics/bioinfo Where can i find some bacterial #RNA-Seq data?: http://biostars.org posted by friends:... http://bit.ly/1jMJjS6
+456745432794681344  Apr 17 06:46  @rnomics          CT @rnomics/bioinfo NGS in Galaxy on scriptogr.am: scriptogr.am 200) && (this.width >= this.height) ? 200: true);... http://bit.ly/1gzdNa0
+456746991612362752  Apr 17 06:52  @rnomics          http://bit.ly/1qO2Rsd Where can i find some bacterial RNA-Seq data? http://biostars.org posted by friends:  (1) BioS...
+456758949866250240  Apr 17 07:39  @cathcoste        RT @Genomics_Guy: The new RNA Access Kit provides the best RNA-Seq results that we have ever seen when starting from FFPE samples!  http://www.rna-seqblog.com/illumina-adds-products-to-support-rna-seq-on-the-newly-launched-nextseq-500-sequencing-system/
+456770009059323904  Apr 17 08:23  @wragbags         @jay_salsa explaining about developing their methods to get more for your pennies by being strategic in designing your RNA-seq runs #sgmliv
