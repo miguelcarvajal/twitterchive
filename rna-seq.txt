@@ -10445,3 +10445,23 @@
 463729865833734145  May  6 13:19  @thinkgenome      Quake Team Publishes Results of Circulating RNA-Seq Experiments in Pregnant Women: ... the team demonstrated t... http://bit.ly/QaVxcB
 463743769926320128  May  6 14:15  @s_jankowski      RT @iontorrent: RNA-seq discovers fusion transcripts at a high frequency can correlates with poor outcome in breast #cancer: http://oak.ctx.ly/r/zu7a
 463745668264128512  May  6 14:22  @rnomics          CT @rnomics/bioinfo The GATK Best Practices for variant calling on #RNAseq | #RNA-Seq Blog:... http://bit.ly/1kTCS0m
+463759517419704320  May  6 15:17  @Affymetrix       Quantifying #miRNA? RNA-Seq is not enough.  Validate with Affymetrix’ miRNA4.0 Arrays. http://bit.ly/1fJWuon http://t.co/PcwOviBjOm
+463779623755853824  May  6 16:37  @daniel2nico      RT @nextgenseek: RNA-seq on Circulating cell-free  blood from Quake group @Stanford http://www.pnas.org/content/early/2014/05/02/1405528111.abstract #RNAseq
+463796205428809728  May  6 17:43  @AlzheimersLink   Quake Team Publishes Results of Circulating RNA-Seq Experiments in Pregnant Women #Alzheimers #mentalhealth http://tinyurl.com/qzctpb9
+463800580415041537  May  6 18:00  @CriticalOutcome  RT @westr: Noninvasive in vivo monitoring of tissue-specific global gene expression in humans. http://bit.ly/1shzQpC & http://bit.ly/RljiQq #PM101
+463816509421125633  May  6 19:04  @etalevich        You've read about exploding whale corpses. How would an equivalent scientific exchange look? @lpachter on ENCODE: http://liorpachter.wordpress.com/2014/04/30/estimating-number-of-transcripts-from-rna-seq-measurements-and-why-i-believe-in-paywall/
+463827986379055104  May  6 19:49  @LAbizar          #BoG14 Gilad. Even when RNA seq shows inter species expression differences, proteins do not. Ribosomal profiling reflected RNA abundance?
+463831159856578560  May  6 20:02  @LAbizar          #BoG14 Engelhardt,Duke U, lincRNA regulation by lincQTLs, GTEx data from arrays, exome and RNA seq.1632 out of 4377 Linc's with cis-lincQTLs
+463859278697091072  May  6 21:54  @SEQquestions     Almost all locations are called by samtools from RNA-seq data http://ift.tt/1siyF9u
+463861034957037569  May  6 22:01  @LAbizar          #BoG14 Selvaraj. Recapitulating imprinting loci by RNA seq and histone methylation with HaploSeq. Find widespread allelic expression
+463861357532557312  May  6 22:02  @robin_andersson  RT @LAbizar: #BoG14 Selvaraj. Recapitulating imprinting loci by RNA seq and histone methylation with HaploSeq. Find widespread allelic expression
+463868110252945409  May  6 22:29  @dgmacarthur      @Dr_dtown If you have good RNA-seq of the underlying isolated cell types it can certainly be done, but I’m not an expert on the methods!
+463884379127693312  May  6 23:33  @UConn_Bioinfo    RT @CompBiolPapers: A Protocol for Visual Analysis of Alternative Splicing in RNA-Seq Data Using Integrated Genome Browser. http://dlvr.it/5b4CNz
+463884725933711361  May  6 23:35  @UConn_Bioinfo    RT @anguebus: Estimating number of transcripts from RNA-Seq measurements (ENCODE)  http://wp.me/pRx4V-Hh vía @lpachter
+463884828132126721  May  6 23:35  @UConn_Bioinfo    RT @animesh1977: Hierarchical clustering of DNA k-mer counts in RNA-seq fastq files reveals batch effects. (arXiv:1405.0114v1 [q-... http://ift.tt/1icYgJq
+463955638737858560  May  7 04:16  @StackOverflowR   Heatmaps of RNA SEQ data http://bit.ly/1kVWSza
+463981150734532608  May  7 05:58  @bicycle1885      @Dassoon RNA-Seqやろう
+464005385003614210  May  7 07:34  @GholsonLyon      Comments thread certainly interesting on @lpachter post. #bog14.  http://liorpachter.wordpress.com/2014/04/30/estimating-number-of-transcripts-from-rna-seq-measurements-and-why-i-believe-in-paywall/#comment-1219
+464005739321622528  May  7 07:36  @rnomics          Quake Team Publishes Results of Circulating #RNA-Seq Experiments... http://bit.ly/1kWAu8X #Headlines #circulating #maternalblood #RNAseq
+464008169346199554  May  7 07:45  @rnomics          Quantitative Transcriptome Analysis Using #RNA-seq: RNA-seq has emerged as... http://bit.ly/1ilY4Mg #Workflow #Bowtie2 #cufflinks #RNAseq
+464010538670751744  May  7 07:55  @rnomics          RNA-Seq Analysis: by Simon Andrews at Babraham Bioinformatics This... http://bit.ly/1im03Al #Presentations #Babraham #deseq #RNAseq
