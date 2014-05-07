@@ -517,3 +517,44 @@
 464039150195200000  May  7 09:48  @genetisaur       SS: narrow sense heritability of methylation marks across the genome on average = 0.18. #BoG14
 464039175097159680  May  7 09:48  @GenomeNathan     RT @KMeltzSteinberg: SS: repeatability estimates highly correlated with heritability #BoG14
 464039260916834304  May  7 09:49  @drbachinsky      RT @cdbustamante: Way to kick off the session! Great talk by @jcbarret at #BoG14 on Deciphering Developmental Delay http://t.co/jOsrm1diP2
+464039977458728961  May  7 09:52  @zevkronenberg    Cis SNPs show very large effects on methylation at some CpGs.  #BoG14
+464040096648671232  May  7 09:52  @juansearch       Shah: SNPs in MYO1G and GF11 influence methylation of CpGs in smokers #BoG14
+464040221290819584  May  7 09:53  @GenomeNathan     Shah finds CpGs differentially methylated in wo/men (e.g., in/near INHBB, DDR1) and non/smokers (MYO1G, GF11) #BoG14
+464040294816944128  May  7 09:53  @Magda_Skipper    SS: single SNPs can have very large effects on methylation variation #BoG14
+464040417345142784  May  7 09:53  @Oli_viajera      RT @Magda_Skipper: SS: single SNPs can have very large effects on methylation variation #BoG14
+464040427415678976  May  7 09:53  @yluo86           Shah: Many CpG sites across the genome  show stable methylation over time with genetic and environmental constrains #BoG14
+464040433887088640  May  7 09:53  @KMeltzSteinberg  Good question by Lander about haplotypes tho RT @Magda_Skipper: SS: single SNPs can have very large effects on methylation variation #BoG14
+464040585284685824  May  7 09:54  @ATJCagan         Shah on methylation and epigenetic drift #BoG14 http://t.co/sgt6o2SPfD
+464040683914145792  May  7 09:54  @GenomeBiology    Sonia Shah:  longitudinal and cross sectional datasets show there are many CpG sites that show stable methylation over time #BoG14
+464040822800138240  May  7 09:55  @GenomeNathan     RT @genetisaur: SS: narrow sense heritability of methylation marks across the genome on average = 0.18. #BoG14
+464040846183395328  May  7 09:55  @Oli_viajera      RT @ATJCagan: Shah on methylation and epigenetic drift #BoG14 http://t.co/sgt6o2SPfD
+464040869340127233  May  7 09:55  @markgerstein     Shah: good question on whether single SNPs explain the methylation or can it be attributed to other linked SNPs on the same block #bog14
+464040983693635584  May  7 09:56  @GenomeBiology    Shah: additive genetic factors explain most variation in DNA methylation #BoG14
+464041082217439232  May  7 09:56  @erlichya         My censored question to Shah: the SNP R^2 were quite high. Where they measured in a fresh dataset to avoid winner's curse? #BoG14
+464041359850995712  May  7 09:57  @GenomeNathan     Natural q on causal arrow in non/smoker differential methylation; Shah notes she's looking into it, via ex-vs.-never-smokers. #BoG14
+464041443141505025  May  7 09:57  @GenomeNathan     RT @erlichya: My censored question to Shah: the SNP R^2 were quite high. Where they measured in a fresh dataset to avoid winner's curse? #BoG14
+464041596330467328  May  7 09:58  @mgymrek          RT @erlichya: My censored question to Shah: the SNP R^2 were quite high. Where they measured in a fresh dataset to avoid winner's curse? #BoG14
+464041630949855237  May  7 09:58  @konradjk         Luke Jostins on epistatic effects using mixed models #BoG14
+464041632598618112  May  7 09:58  @yluo86           Before coffee: @lukejostins talks on inferring genome-wide epistatic effects on major risk loci using linear mixed models #BoG14
+464042088255193088  May  7 10:00  @jcbarret         LJ starts with review of published interaction between HLA-B27 and ERAP1. One of few in complex disease! #BoG14
+464042170354130946  May  7 10:00  @KMeltzSteinberg  On the issue of DNAm in haplotypes ... #BoG14 RT @SvenAT: @KMeltzSteinberg I'm pretty sure Williams et al 2014 plos genetics shows this :)
+464042578841980928  May  7 10:02  @jcbarret         Now @lukejostins is just showing off with 13 yr old mouse paper. I thought he was a statistician! #BoG14
+464042794504310785  May  7 10:03  @GenomeNathan     .@lukejostins on the epistasis example (beyond X/Y-BRCA_...) that we should all know: ERAP1/HLA-B*27 in ankylosing spondylitis. #BoG14
+464042794781532160  May  7 10:03  @yluo86           Jostins: flat signals when testing for epistatsis in multiple sclerosis HLA alleles #BoG14
+464043153679319041  May  7 10:04  @GenomeNathan     RT @yluo86: Jostins: flat signals when testing for epistatsis in multiple sclerosis HLA alleles #BoG14
+464043204266840064  May  7 10:04  @drbachinsky      RT @GenomeNathan: .@lukejostins on the epistasis example (beyond X/Y-BRCA_...) that we should all know: ERAP1/HLA-B*27 in ankylosing spondylitis. #BoG14
+464043303294738433  May  7 10:05  @robin_andersson  Jostins: Statistical simulations to measure the effect of epistasis on major loci. #BoG14
+464043453572063233  May  7 10:05  @casey6r0wn       .@lukejostins: The Visscher model is not complicated enough, let's add epistasis.  #bog14
+464043454197006339  May  7 10:05  @pop_gen_JED      .@lukejostins look for background effects on large effects loci using linear mixed models. Epistasis evidence. #BoG14
+464043613769322496  May  7 10:06  @josarc           RT @GenomeNathan: Good kind of chalk dust-up at #BoG14. Snyder & Lander mull the promise/shortcomings of idiomes. #eastcoast #westcoast http://t.co/qvn51VHvEz
+464043810146623489  May  7 10:07  @GenomeNathan     RT @casey6r0wn: .@lukejostins: The Visscher model is not complicated enough, let's add epistasis.  #bog14
+464044406505365504  May  7 10:09  @EpgntxEinstein   Or, why the EWAS era may be over: @GenomeBiology Shah: additive genetic factors explain most variation in DNA methylation #BoG14
+464044464768446465  May  7 10:09  @tracey_423       RT @cshlmeetings: A live summary of the #bog14 tweets, updated every minute: http://fb.me/3uOvRVtiR
+464044614467334144  May  7 10:10  @yluo86           Jostins tests for epistatic effect on HLA risk alleles on MS immunochip: ~17K cases+ ~20K controls , 10 independent cohorts.  #BoG14
+464044990159925249  May  7 10:12  @jeshoff1         @pop_gen_JED @lukejostins I wonder if we can utilize this effectively in a species where you CAN structure breeding #BoG14
+464045041153880064  May  7 10:12  @GenomeNathan     .@lukejostins: Some HLA alleles (B*38:01, DRB1*13:03), not others, -may- interact w/other loci in shaping immune risk. #BoG14
+464045159014227968  May  7 10:12  @konradjk         .@lukejostins: even with large sample sizes (MS) or plausible candidate variants (IBD), we cannot detect major locus epistasis #BoG14
+464045242208251904  May  7 10:13  @drbachinsky      RT @GenomeBiology: Shah: additive genetic factors explain most variation in DNA methylation #BoG14
+464045400237035520  May  7 10:13  @dgmacarthur      . @lukejostins describes a thoughtful, thorough and fruitless search for epistasis in common autoimmune disease. #BOG14
+464045405190107136  May  7 10:13  @konradjk         .@lukejostins: Possible reasons: simply additive, non-linear effects, method doesn't work (hopefully not the latter) #BoG14
+464045408650412032  May  7 10:13  @joe_pickrell     . @lukejostins is the #overlyhonestpresenter #bog14
