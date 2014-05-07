@@ -20,7 +20,7 @@
 declare -a arr=(\#bog14 bioinformatics metagenomics genomics rna-seq \#rstats \#cville)
 
 ## How many results would you like for each query?
-n=400
+n=500
 
 ## cd into where the script is being executed from.
 DIR="$(dirname "$(readlink $0)")"
