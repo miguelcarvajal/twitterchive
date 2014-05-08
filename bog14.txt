@@ -820,3 +820,103 @@
 464155716086140929  May  7 17:32  @JulienJx         RT @LAbizar: #BoG14 lncRNA low abundance, partly due to trizol, removing protein removes the associated lncRNA
 464161893326671872  May  7 17:56  @socalsysbio      RT @genetics_blog: As usual, archiving all #BoG14 tweets here https://github.com/stephenturner/twitterchive/blob/master/bog14.txt
 464162067444797440  May  7 17:57  @socalsysbio      RT @markgerstein: Wray: Nice summary of http://www.nature.com/ng/journal/v42/n7/abs/ng.608.html : Common SNPs explain a large proportion of the heritability for human height #bog14
+464187447476514816  May  7 19:38  @PhilVelissariou  RT @LAbizar: #BoG14 lncRNA low abundance, partly due to trizol, removing protein removes the associated lncRNA
+464187626803978241  May  7 19:38  @Magda_Skipper    Karachin is trying to turn the Vogelstein 20/20 rule into a machine learning 20/20+ #BoG14
+464188178703060992  May  7 19:41  @LAbizar          #BoG14 Karchin, 20/20+ machine learning based on 20/20 rule, ie, a decision tree based on oncogene score
+464188221778579456  May  7 19:41  @mndoci           RT @juhussin: Following #BoG14 from twitter this year. Thanks to all of you for your tweets!
+464188257946046464  May  7 19:41  @yluo86           Karachin: 20/20+ uses modern machine learning to improve utility of the Vogelstein 20/20 rule. #BoG14
+464188606413045760  May  7 19:42  @LAbizar          #BoG14 walks through the decision tree with scoring for each step to define as oncogene. Plus extensive manual scoring reqd.
+464188711337742336  May  7 19:43  @kevin_c_chen     RT @yluo86: Karachin: 20/20+ uses modern machine learning to improve utility of the Vogelstein 20/20 rule. #BoG14
+464188913582866432  May  7 19:43  @robin_andersson  Karchin explains the 20/20 rule of oncogene score with a decision tree. Basis for a 20/20+ machine learning extension. #bog14
+464189191614898177  May  7 19:45  @notSoJunkDNA     It seems to me that this presentation completely ignores rare cancers, and alternative path to tumorigenesis #BOG14
+464189205875539970  May  7 19:45  @doc2r06          RT @wrmccombie: I has famous!  ;) #BoG14
+464189332027613184  May  7 19:45  @LAbizar          #BoG14 20/20+ eliminates manual curation, uses random forests of decision trees. Trees vote to give oncogene, tumor suppressor scores
+464189383172980736  May  7 19:45  @yluo86           Karachin demonstrates that 20/20+ can statistically learn to discriminate between oncogenes, tumor suppressors, and other genes. #BoG14
+464189403821518848  May  7 19:45  @drbachinsky      RT @Magda_Skipper: Karachin is trying to turn the Vogelstein 20/20 rule into a machine learning 20/20+ #BoG14
+464189437342392320  May  7 19:46  @anavinuela       Time diff is not nice, It's too late here, I need to sleep and will miss @halt81 talk live. Glad I can watch it tomorrow :) #BoG14
+464189687574183936  May  7 19:47  @ShoaClarke       @LAbizar in genomics, nothing beats manual curation ;) #BoG14
+464189981079396353  May  7 19:48  @KMeltzSteinberg  not convinced MT @yluo86: Karachin:20/20+ can statistically learn to discriminate btwn oncogenes, tumor suppressors, and other genes. #BoG14
+464190030140157953  May  7 19:48  @robin_andersson  Karchin: 20/20+ random forrest feature importance top ranks recurrent count for oncogene score #BoG14
+464190141737619458  May  7 19:48  @dgermain21       RT @Magda_Skipper: Karachin is trying to turn the Vogelstein 20/20 rule into a machine learning 20/20+ #BoG14
+464190177993555968  May  7 19:48  @gerlach_d        @notSoJunkDNA Sure, just look at one of the most discriminative features in their random forest classifier is 'recurrent mutations' #BoG14
+464190201896914944  May  7 19:49  @LAbizar          #BoG14 Features used in 20/20+, missense fraction, etc. Foreground and background mutation approaches come up with diff gene lists
+464190985472589824  May  7 19:52  @ATJCagan         Karchin talks about using machine learning to automate classification of cancer genes #BoG14 http://t.co/2mQA8lPUgY
+464191284983648257  May  7 19:53  @gerlach_d        Use http://www.cbioportal.org/public-portal/ to check for mutation rates of specific genes/pathways across different cancer types #BoG14
+464191319586664448  May  7 19:53  @wrmccombie       Can someone from CSHLMeetings turn up the sound volume? #BoG14
+464191553548730369  May  7 19:54  @jxchong          RT @robin_andersson: Karchin: 20/20+ random forrest feature importance top ranks recurrent count for oncogene score #BoG14
+464191749314072576  May  7 19:55  @gerlach_d        Halit Ongen on cis-regulatory drivers in colorectal cancer #BoG14
+464191840733126656  May  7 19:55  @tuuliel          .@halt81, another friend from @dermitzakis lab, on cis-regulatory drivers in colon cancer. RNA-seq rules also in cancer genomics! #BoG14
+464191976980873216  May  7 19:56  @LAbizar          #BoG14 Halit Ongen. Univ Geneva. Colorectal cancer, 1M new cases per yr. 103 matched tumor normals by RNASeq.
+464192165523251200  May  7 19:56  @robin_andersson  Up next: Halit Ongen on cis regulatory drivers in colorectal cancer #BoG14
+464192330606845952  May  7 19:57  @amfoes           RT @GenomeNathan: Browse human STRs at http://strcat.teamerlich.org, nice portal cited by @mgymrek. #BoG14
+464192364723339264  May  7 19:57  @notSoJunkDNA     Is tumour a British English version of tumor? #BOG14
+464192932091019264  May  7 19:59  @tuuliel          .@halt81 : increase in allele-specific expr and reversed direction in tumor vs normal suggests somatic changes in cis-regulation #bog14
+464192983970365440  May  7 20:00  @LAbizar          #BoG14. Ongen, 213 diff spliced genes by PE seq. Allele specific, 10% exhibit ASE, higher in tumor, due to loss of heterozygosity
+464193025804341248  May  7 20:00  @gerlach_d        Halit Ongen: Showing data of 103 matched tumor/normals RNA-seq from colorectal cancer - did he look into gene-fusions? #BoG14
+464193364456644608  May  7 20:01  @evolbrain        RT @tuuliel: .@halt81 : increase in allele-specific expr and reversed direction in tumor vs normal suggests somatic changes in cis-regulation #bog14
+464193730656751616  May  7 20:03  @WendyDoranMD     RT @ShoaClarke: Genomics trending in wrong direction. Over emphasis of fad topics, new technology, big datasets. Not enough deep insight. #BoG14
+464193736508178432  May  7 20:03  @tuuliel          .@halt81 identifying genes with more ASE in tumors, similarly (and partially overlapping) genes with enrichment of coding mutations #BoG14
+464193859367763968  May  7 20:03  @KMeltzSteinberg  Ongen: germline genotypes are main determinants of expression in tumors #BoG14
+464194017681735680  May  7 20:04  @GenomeNathan     Pinwheel plot: Ongen plots clusters of sites showing con- vs. discordant allele-biased expression in matched tumor v. non-tumor cells.#BoG14
+464194191720214528  May  7 20:04  @GenomeNathan     RT @tuuliel: .@halt81 : increase in allele-specific expr and reversed direction in tumor vs normal suggests somatic changes in cis-regulation #bog14
+464194580985159680  May  7 20:06  @robin_andersson  Halit: Germline genotypes are main determinants of gene expression even after tumorigenesis #BoG14
+464195445431205888  May  7 20:09  @tuuliel          .@halt81 : tumor specific eQTLs enriched in somatic cancer mutations. Likely noncoding germline drivers, and overlap CRC GWAS #BoG14
+464195568152363009  May  7 20:10  @LAbizar          #BoG14 Ongen. 71 genes with allelic dysregulation in colorectal cancer.putative cis- regulatory driving mutations
+464195700163883008  May  7 20:10  @KMeltzSteinberg  RT @tuuliel: .@halt81 : tumor specific eQTLs enriched in somatic cancer mutations. Likely noncoding germline drivers, and overlap CRC GWAS #BoG14
+464195950714818560  May  7 20:11  @ATJCagan         Ongen explores expression QTLs and colorectal cancer #BoG14 http://t.co/M0iFnJRxLL
+464196169372286977  May  7 20:12  @tuuliel          RT @ATJCagan: Ongen explores expression QTLs and colorectal cancer #BoG14 http://t.co/M0iFnJRxLL
+464196298082889728  May  7 20:13  @yluo86           Ongen finds hundred of colorectal cancer specific eQTLs enriched for somatic mutations making some of them likely noncoding drivers. #bog14
+464196528870260736  May  7 20:14  @juansearch       RT @yluo86: Karachin demonstrates that 20/20+ can statistically learn to discriminate between oncogenes, tumor suppressors, and other genes. #BoG14
+464196927371116544  May  7 20:15  @KMeltzSteinberg  Navin: applying classic evolutionary theory to explore evolution of breast cancer using single cell sequencing #BoG14
+464197588066267136  May  7 20:18  @gerlach_d        Nicholas Navin: Intratumor heterogeneity targeted with single-cell sequencing #BoG14
+464197779951472640  May  7 20:19  @LAbizar          #BoG14 Nick Navin. MD ANDERSON, intratumor heterogeneity useful to reconstruct cell evolution.
+464198168910241792  May  7 20:20  @gerlach_d        Nicholas Navin about NUC-SEQ - just understood NUKE-SEQ ;-) #BoG14
+464198365660856320  May  7 20:21  @yeastgenome      N.Navin shows breast cancer genomes evolve in classic manner..big changes occur by punctuated equilibrium, little chgs by gradualism #BoG14
+464198659232772096  May  7 20:22  @GenomeNathan     Navin: Traced mutationally, tumor cell genealogies vary greatly in shape, reflecting varied modes of evolution. #BoG14
+464198880956276736  May  7 20:23  @LAbizar          #BoG14 Nuc-Seq, whole genome and exome seq of single nuclei, applied to ER+ breast tumor, clonal by CNV. Exome seq showed heterogeneity.
+464198885158977537  May  7 20:23  @gerlach_d        Nicholas Navin performs single-cell genome and exome sequencing to identify subclonal mutations - nice data #BoG14
+464199386633748481  May  7 20:25  @mucociliary      Navin: single-cell sequencing of tumors. Uses G2/M nuclei to increase coverage, neat trick #BoG14
+464199435501993984  May  7 20:25  @LAbizar          #BoG14 Navin, triple negative breast tumor,single cell CNV and exome showed 2 major sub-popns.
+464199620319789056  May  7 20:26  @notSoJunkDNA     If I did single cell sequencing I would not emphasize so much the mutations that are present in all cells... #BOG14
+464200051259342848  May  7 20:28  @LAbizar          #BoG14 Duplex sequencing with random tags reduces error rate to 10e-9. On bulk ER+ and triple negative, validated the low freqn mutn.
+464200290229829632  May  7 20:29  @M_L_Carpenter    Heat was on during the poster session, and AC now on high in the auditorium. Makes sense. #BoG14
+464200424073863169  May  7 20:29  @mucociliary      Different frequencies of different mutation types hints that he's looking at something real as compared to single-cell artifacts #BoG14
+464200683877859330  May  7 20:30  @LAbizar          #BoG14 CNV data showed punctuated but mutation data showed gradual evolution of tumor. Mutation rates of ER+ normal but 13x higher in TNBC
+464200703964364800  May  7 20:30  @GenomeNathan     Would love to see summary stats (e.g., H_Fay-Wu?...) comparing tumor allele freq spectra to those of other clonal (& sexual) pop's. #BoG14
+464200956893085696  May  7 20:31  @dgermain21       RT @tuuliel: .@halt81, another friend from @dermitzakis lab, on cis-regulatory drivers in colon cancer. RNA-seq rules also in cancer genomics! #BoG14
+464201029786279937  May  7 20:32  @Magda_Skipper    Navin: during tumour evolution CNV follow punctuated dynamic while point mutations accumulate gradually #BoG14
+464201114687389696  May  7 20:32  @KMeltzSteinberg  @GenomeNathan Where pop gen meets cancer genomics...or not #BoG14
+464201145624592384  May  7 20:32  @wildtypeMC       RT @notSoJunkDNA: If I did single cell sequencing I would not emphasize so much the mutations that are present in all cells... #BOG14
+464201337383567361  May  7 20:33  @dgermain21       RT @Magda_Skipper: Sonia Shah now asks how stable DNA methylation is, over time, and if it's mainly due to genetic or environmental factors #BoG14
+464201342358024193  May  7 20:33  @dgermain21       RT @GenomeBiology: Shah: additive genetic factors explain most variation in DNA methylation #BoG14
+464201834484498432  May  7 20:35  @ATJCagan         Navin on different tempos of mutation operating in evolving tumour populations. Tick tock, tock tick #BoG14 http://t.co/5CjYFR1CPW
+464201864394076160  May  7 20:35  @gerlach_d        RT @LAbizar: #BoG14 CNV data showed punctuated but mutation data showed gradual evolution of tumor. Mutation rates of ER+ normal but 13x higher in TNBC
+464201909079781376  May  7 20:35  @sLaMMonites      RT @ATJCagan: Navin on different tempos of mutation operating in evolving tumour populations. Tick tock, tock tick #BoG14 http://t.co/5CjYFR1CPW
+464202063556399104  May  7 20:36  @manoliskellis    RT @ATJCagan: Kellis on understanding the epigenome #BoG14 http://t.co/xxLoaYJc7m
+464202108796157952  May  7 20:36  @ShoaClarke       @Magda_Skipper I don't follow. Punctuated equilibrium and gradualism refer to phenotypic observations... #BoG14
+464202714792984576  May  7 20:38  @alxgoofy         RT @casey6r0wn: Novel approach to the poster. Just print out your paper and pin it to the wall.  #bog14 http://t.co/CSmnISlxme
+464202943735300098  May  7 20:39  @juansearch       Sanjana: 2 kinds of genome engineering, insert a frameshift or replace a specific sequence #BoG14
+464203432631746560  May  7 20:41  @LAbizar          #BoG14 Sanjana, Broad. Genome scale CRISPR screen functional studies. Continuous Cas9:sgRNA expression by lentiviral transduction for KO
+464203435513233409  May  7 20:41  @ribozyme         RT @ATJCagan: Navin on different tempos of mutation operating in evolving tumour populations. Tick tock, tock tick #BoG14 http://t.co/5CjYFR1CPW
+464203640803450881  May  7 20:42  @ribozyme         RT @ATJCagan: Karchin talks about using machine learning to automate classification of cancer genes #BoG14 http://t.co/2mQA8lPUgY
+464203838703296513  May  7 20:43  @juansearch       Sanjara: CAS9 is limited to targeting sites with a NGG sequence #BoG14
+464204119780372482  May  7 20:44  @robin_andersson  RT @mucociliary: Navin: single-cell sequencing of tumors. Uses G2/M nuclei to increase coverage, neat trick #BoG14
+464204239510962177  May  7 20:44  @GenomeNathan     .@psychgenomics Likely just lag as relevant thinking spreads to a field with newly tractable q's. We'll get there! #bog14 #equationdiffusion
+464204327981428737  May  7 20:45  @LAbizar          #BoG14. Illumina body map to pick universally expressed RNAs across tissues, then designed sgRNA into lentivirus
+464205059132112896  May  7 20:48  @jeshoff1         #til there are indeed off target effects for crisper/cas9 #BoG14
+464205430710108160  May  7 20:49  @LAbizar          #BoG14 CRISPR library in cancer cell line, treated with PLX drug, few sgRNA enriched. Genes targeted were NF2, MED12, CUL3, CLDN10, NF1, etc
+464205595995041793  May  7 20:50  @Magda_Skipper    Sanjana: little concordance between CRISPR and RNAi screen results #BoG14
+464205940682948608  May  7 20:51  @kevin_c_chen     RT @Magda_Skipper: Sanjana: little concordance between CRISPR and RNAi screen results #BoG14
+464206193582682113  May  7 20:52  @LAbizar          #BoG14 Sanjana, great presn on using CRISPR to isolate genes responsible for a phenotype (like drug resistance).
+464206652607332352  May  7 20:54  @ATJCagan         Sanjana on functional screening approaches with CRISPRs #BoG14 http://t.co/T5utnuzYWc
+464206853833236480  May  7 20:55  @mucociliary      RT @Magda_Skipper: Sanjana: little concordance between CRISPR and RNAi screen results #BoG14
+464207071375007744  May  7 20:56  @juansearch       I love CRISPR! I bet it will be a Nobel prize in the next decade. Please someone deflate my naivete #CRISPRmania #BoG14
+464207617548484608  May  7 20:58  @GenomeGal        RT @Magda_Skipper: NW: in the genomics era phenotype is rapidly becoming a limiting factor #BoG14
+464207650784165888  May  7 20:58  @JChrisPires      RT @Magda_Skipper: Sanjana: little concordance between CRISPR and RNAi screen results #BoG14
+464207733260955648  May  7 20:58  @JChrisPires      RT @jeshoff1: #til there are indeed off target effects for crisper/cas9 #BoG14
+464207770364178432  May  7 20:58  @JChrisPires      RT @juansearch: I love CRISPR! I bet it will be a Nobel prize in the next decade. Please someone deflate my naivete #CRISPRmania #BoG14
+464207802479964160  May  7 20:58  @JChrisPires      RT @LAbizar: #BoG14 CRISPR library in cancer cell line, treated with PLX drug, few sgRNA enriched. Genes targeted were NF2, MED12, CUL3, CLDN10, NF1, etc
+464207824630075392  May  7 20:59  @JChrisPires      RT @juansearch: Sanjana: 2 kinds of genome engineering, insert a frameshift or replace a specific sequence #BoG14
+464207857534369792  May  7 20:59  @JChrisPires      RT @ATJCagan: Navin on different tempos of mutation operating in evolving tumour populations. Tick tock, tock tick #BoG14 http://t.co/5CjYFR1CPW
+464207859689865216  May  7 20:59  @surt_lab         RT @jeshoff1: #til there are indeed off target effects for crisper/cas9 #BoG14
+464207895861932033  May  7 20:59  @JChrisPires      RT @LAbizar: #BoG14 CNV data showed punctuated but mutation data showed gradual evolution of tumor. Mutation rates of ER+ normal but 13x higher in TNBC
