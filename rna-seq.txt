@@ -10568,3 +10568,6 @@
 464209758762053632  May  7 21:06  @JChrisPires      RT @dgmacarthur: For RNA-seq folks at #bog14 - GTEx community meeting will be held on June 17/18 at @broadinstitute: http://www.broadinstitute.org/events/gtex-project-community-meeting/welcome
 464224539681894400  May  7 22:05  @JVJAI            RT @dgmacarthur: For RNA-seq folks at #bog14 - GTEx community meeting will be held on June 17/18 at @broadinstitute: http://www.broadinstitute.org/events/gtex-project-community-meeting/welcome
 464235065614942208  May  7 22:47  @maskot1977       De novo assembly and analysis of rna-seq data http://www.nature.com/nmeth/journal/v7/n11/abs/nmeth.1517.html
+464304339742232576  May  8 03:22  @maskot1977       EBARDenovo: Highly accurate de novo assembly of RNA-Seq with efficient chimera-detection http://bioinformatics.oxfordjournals.org/content/early/2013/03/01/bioinformatics.btt092
+464306174804779008  May  8 03:29  @maskot1977       Full-length transcriptome assembly from RNA-Seq data without a reference genome http://www.nature.com/nbt/journal/v29/n7/full/nbt.1883.html
+464307234248220672  May  8 03:34  @maskot1977       SOAPdenovo-Trans: De novo transcriptome assembly with short RNA-Seq reads http://bioinformatics.oxfordjournals.org/content/early/2014/02/13/bioinformatics.btu077
