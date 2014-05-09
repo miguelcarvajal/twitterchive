@@ -1777,3 +1777,209 @@
 464569683665240064  May  8 20:56  @BenLangmead      RT @ATJCagan: Battle on QTLs at different levels, some are protein specific. Another great talk in this session #BOG14 http://t.co/gRqhG6tiBg
 464570245056049153  May  8 20:59  @mucociliary      @erlichya Okay so you are totally right. During break, there is no line at the bar #BoG14
 464570285220691968  May  8 20:59  @obahcall         demonstrating value and need for open access GWAS data +1 MT @GenomeNathan @joe_pickrell thoughtfully thanks you, on our behalf. #BoG14
+464570598921080832  May  8 21:00  @artologica       @erlichya @debivort @notSoJunkDNA C'mon guys! For #BoG14! http://t.co/s6Z2ongA8P
+464570828311769090  May  8 21:01  @obahcall         Like Mendelian Randomization on steroids... @cdbustamante comment to @joe_pickrell  #BoG14
+464572506452795393  May  8 21:08  @Graham_Coop      RT @GenomeNathan: The knowledge in acknowledgment: If you freed your GWAS data, @joe_pickrell thoughtfully thanks you, on our behalf. #BoG14
+464572984813162497  May  8 21:10  @joshulux         RT @GenomeNathan: The knowledge in acknowledgment: If you freed your GWAS data, @joe_pickrell thoughtfully thanks you, on our behalf. #BoG14
+464573510481117184  May  8 21:12  @gerlach_d        Matthew Stephens: This talk might be an outlier ;-) #BoG14
+464573667893342210  May  8 21:12  @joe_pickrell     RT @ATJCagan: Pickrell on combining functional annotations and GWAS data to improve our understanding of human biology #BoG14 http://t.co/4bY2NGLeCU
+464573734641479681  May  8 21:13  @RonHause         @mstephens999 Experimental data are distracting. #ohsotrue #BoG14
+464573743424348162  May  8 21:13  @tuuliel          Matthew Stephens: FDR, a new deal. No experimental data, no fancy heatmaps! #BoG14
+464573748927279104  May  8 21:13  @vezzi84          #bog14 false discovery Tate a new deal -- first presentation done in Beamer
+464573756707713024  May  8 21:13  @charlesdanko     RT @leonidkruglyak: Many eQTL-pQTL discrepancies probably explained by statistical power, measurement techs, experimental diffs http://www.nature.com/nature/journal/v506/n7489/full/nature12904.html #BoG14
+464573813871878144  May  8 21:13  @casey6r0wn       .@mstephens999 has better talk jokes than you #BoG14
+464573827348189186  May  8 21:13  @Magda_Skipper    Mathew Stephens - genomics is measuring lots of things, with error #BoG14
+464574014116335616  May  8 21:14  @cdbustamante     Matthew Stephens rocking the crowd with his FDR talk. #BoG14
+464574121113034753  May  8 21:14  @RonHause         @mstephens999 is by far my favorite and most respected statistician from U Chicago. #BoG14
+464574124514607104  May  8 21:14  @tuuliel          RT @casey6r0wn: .@mstephens999 has better talk jokes than you #BoG14
+464574161554538496  May  8 21:14  @TGACVertebrates  RT @cdbustamante: Matthew Stephens rocking the crowd with his FDR talk. #BoG14
+464574166591893504  May  8 21:14  @MarylynRitchie   @mstephens999 - gotta love stats with jokes at 9pm #BoG14 Thanks, Matthew!
+464574211252838401  May  8 21:14  @GosiaTrynka      Stephens: genetic data- a measure of lots of things with error #BoG14
+464574355771768833  May  8 21:15  @mgymrek          Matthew Stephens giving an excellent intuitive explanation of FDR #bog14
+464574551859691522  May  8 21:16  @joshulux         Matthew Stephens on False Discovery Rate (FDR). #BoG14
+464575336441978880  May  8 21:19  @genetisaur       Stephens: rare SNPs and low expressed genes are measured with less precision, poor power to detect associations, affects FDR #BoG14
+464575659445350401  May  8 21:20  @yluo86           Stephens addresses two deficiencies of the traditional FDR approach and propose s FDR via empirical Bayes. #BoG14
+464576197197045760  May  8 21:22  @GenomeNathan     Hyde Park (UK/IL/NY?) redux: Stephens giving the most rollicking data-free talk on FDR since some 1940something. #BoG14
+464576302142742532  May  8 21:23  @genetisaur       . @mstephens999 uses empirical Bayes to incorporate precision of measurement (i.e. Rare SNP) via variance term in normal #BoG14
+464576319494578176  May  8 21:23  @konradjk         Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/EaCIWK3hY8
+464576340818399233  May  8 21:23  @doc2r06          RT @GenomeNathan: Hyde Park (UK/IL/NY?) redux: Stephens giving the most rollicking data-free talk on FDR since some 1940something. #BoG14
+464576656980840449  May  8 21:24  @tuuliel          RT @konradjk: Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/EaCIWK3hY8
+464577028612960257  May  8 21:26  @obahcall         RT @konradjk: Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/EaCIWK3hY8
+464577102961184768  May  8 21:26  @jeshoff1         #BoG14 if everything is associated with diabetes, take up running.
+464577123731390465  May  8 21:26  @cdeboever3       If @mstephens999 halved our FDR, does that mean real data or heatmaps are coming? #BoG14
+464577163745034240  May  8 21:26  @juansearch       M.Stephens: Adaptive shrinkage is a new FDR approach that improves sensitivity for small effects #BoG14
+464577320985321473  May  8 21:27  @ceclindgren      RT @konradjk: Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/EaCIWK3hY8
+464577606911000576  May  8 21:28  @yluo86           Stephens: two probs with current FDR methods: based directly on z-scores and assume that the least significant p values are all null. #BoG14
+464577674846162944  May  8 21:28  @Magda_Skipper    Stephens calls for publishing the code in computational studies #BoG14
+464577751710961664  May  8 21:29  @dnadiver         Matthew Stephens: When publishing figures, publish the underlying code. #BoG14
+464577766042914817  May  8 21:29  @cdeboever3       @mstephens999 plugging for reprod research, bravo! #BoG14
+464577798200635392  May  8 21:29  @vezzi84          RT @konradjk: Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/EaCIWK3hY8
+464577803481260032  May  8 21:29  @ATJCagan         Stephens on false discovery rates and also the importance of reproducibility in genomic research #BoG14 http://t.co/fcHzOCnd2V
+464577807570706432  May  8 21:29  @tuuliel          Stephens : if you publish computational results , you should publish the code. http://githum.com/stephens/ash . #BoG14
+464577896276041728  May  8 21:29  @GholsonLyon      RT @dnadiver: Matthew Stephens: When publishing figures, publish the underlying code. #BoG14
+464577921311858688  May  8 21:29  @MarylynRitchie   Reproducible research is the only way to go.  The rest is just advertising.  Way to go @mstephens999.  Boom! https://github.com/stephens999/ash #BoG14
+464577928119209985  May  8 21:29  @jfkelso          RT @GenomeNathan: Hyde Park (UK/IL/NY?) redux: Stephens giving the most rollicking data-free talk on FDR since some 1940something. #BoG14
+464577961145167872  May  8 21:29  @bioinfosm        great twitter feed from @mstephens999 #BOG14 talk / stats / quotes / jokes!! Should be archived as video/slides #genomics #FDR #stats
+464577974491430913  May  8 21:29  @roy_ronen        RT @cdbustamante: Matthew Stephens rocking the crowd with his FDR talk. #BoG14
+464578000579997697  May  8 21:30  @ceclindgren      RT @ATJCagan: Stephens on false discovery rates and also the importance of reproducibility in genomic research #BoG14 http://t.co/fcHzOCnd2V
+464578022717538306  May  8 21:30  @RonHause         @mstephens999 R package for improved Bayesian FDR and Adaptive Shrinkage is at http://www.github.com/stephens999/ash #BoG14
+464578033526267904  May  8 21:30  @mucociliary      I like the coordinated outfits of the moderators this session #bog14
+464578063813324800  May  8 21:30  @biomonika        result without reproducible code is just an advertisement #bog14
+464578148496343040  May  8 21:30  @joshulux         RT @ATJCagan: Stephens on false discovery rates and also the importance of reproducibility in genomic research #BoG14 http://t.co/fcHzOCnd2V
+464578178431074307  May  8 21:30  @GenomeNathan     Hearing signal, quelling noise: Stephens notes that false-sign rate can sensibly tighten findings under appropriately loosened p. #BoG14
+464578262631710722  May  8 21:31  @sbmontgom        RT @jeshoff1: #BoG14 if everything is associated with diabetes, take up running.
+464578270894518272  May  8 21:31  @yluo86           RT @RonHause: @mstephens999 R package for improved Bayesian FDR and Adaptive Shrinkage is at http://www.github.com/stephens999/ash #BoG14
+464578301798141952  May  8 21:31  @TGACVertebrates  RT @Magda_Skipper: Stephens calls for publishing the code in computational studies #BoG14
+464578312334233600  May  8 21:31  @cwhelan          RT @tuuliel: Stephens : if you publish computational results , you should publish the code. http://githum.com/stephens/ash . #BoG14
+464578319179325440  May  8 21:31  @sbmontgom        RT @Magda_Skipper: Stephens calls for publishing the code in computational studies #BoG14
+464578340033409025  May  8 21:31  @TGACVertebrates  RT @dnadiver: Matthew Stephens: When publishing figures, publish the underlying code. #BoG14
+464578473496162304  May  8 21:31  @trajnp           Bayesian FDR package from  @mstephens999 ashr package: https://github.com/stephens999/ash #BoG14
+464578531255926785  May  8 21:32  @yluo86           quote of the day #BoG14: "result without reproducible code is just an advertisement"
+464578657655468033  May  8 21:32  @GenomeNathan     RT @MarylynRitchie: Reproducible research is the only way to go.  The rest is just advertising.  Way to go @mstephens999.  Boom! https://github.com/stephens999/ash #BoG14
+464578714983202816  May  8 21:32  @joe_pickrell     RT @tuuliel: .@joe_pickrell 's paper about molecular mechanisms underlying GWAS: http://www.cell.com/ajhg/abstract/S0002-9297%2814%2900106-2  #BoG14
+464578717755654144  May  8 21:32  @TGACVertebrates  RT @trajnp: Bayesian FDR package from  @mstephens999 ashr package: https://github.com/stephens999/ash #BoG14
+464578781207068672  May  8 21:33  @joe_pickrell     RT @tuuliel: Stephens : if you publish computational results , you should publish the code. http://githum.com/stephens/ash . #BoG14
+464578809266966529  May  8 21:33  @erlichya         Stephen gave an excellent talk. I wish he had another 45min #BoG14
+464578809854177280  May  8 21:33  @MarylynRitchie   I think @mstephens999  just dropped the mic there at the end.  Well played. #BoG14 http://t.co/M4jJ6x0X2o
+464579007003258881  May  8 21:34  @vezzi84          RT @tuuliel: Stephens : if you publish computational results , you should publish the code. http://githum.com/stephens/ash . #BoG14
+464579078348374016  May  8 21:34  @mgymrek          thanks @mstephens999 for most entertaining and understandable talk on FDR I'll probably ever hear! and +1 for reproducibility push! #BoG14
+464579239753568257  May  8 21:34  @joshuas          RT @erlichya: Stephen gave an excellent talk. I wish he had another 45min #BoG14
+464579263438798848  May  8 21:35  @GosiaTrynka      RT @Magda_Skipper: Stephens calls for publishing the code in computational studies #BoG14
+464579298842935297  May  8 21:35  @robin_andersson  RT @biomonika: result without reproducible code is just an advertisement #bog14
+464579313917231104  May  8 21:35  @ferhatay         RT @trajnp: Bayesian FDR package from  @mstephens999 ashr package: https://github.com/stephens999/ash #BoG14
+464579655543324675  May  8 21:36  @eonsim           RT @mgymrek: thanks @mstephens999 for most entertaining and understandable talk on FDR I'll probably ever hear! and +1 for reproducibility push! #BoG14
+464579749273407488  May  8 21:36  @GenomeNathan     RT @erlichya: Q to #BoG14: If: DNA->RNA->Protein->Phenotype How h2(eQTL)>h2(pQTL) BUT h2(QTL)>h2(pQTL)? What suddenly amplifies the signal?
+464579825546850304  May  8 21:37  @cdbustamante     The best statistics talks simplify a difficult concept, provide new insights, and temper expectations. MS just gave a master class #BoG14
+464579836456239106  May  8 21:37  @notSoJunkDNA     RT @trajnp: Bayesian FDR package from  @mstephens999 ashr package: https://github.com/stephens999/ash #BoG14
+464579882148974593  May  8 21:37  @apfejes          RT @dnadiver: Matthew Stephens: When publishing figures, publish the underlying code. #BoG14
+464579962713178112  May  8 21:37  @tuuliel          RT @cdbustamante: The best statistics talks simplify a difficult concept, provide new insights, and temper expectations. MS just gave a master class #BoG14
+464579998012407808  May  8 21:37  @GenomeNathan     RT @mgymrek: thanks @mstephens999 for most entertaining and understandable talk on FDR I'll probably ever hear! and +1 for reproducibility push! #BoG14
+464580025300574208  May  8 21:38  @eonsim           RT @konradjk: Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/EaCIWK3hY8
+464580132670550016  May  8 21:38  @ajay_bhargava    RT @trajnp: Bayesian FDR package from  @mstephens999 ashr package: https://github.com/stephens999/ash #BoG14
+464580177696419841  May  8 21:38  @mstephens999     Favorite fact I didn't have time for. Original BH paper on FDR been cited on average 3 times per day(!)for last 14 years #BoG14
+464580430608760832  May  8 21:39  @joe_pickrell     RT @mstephens999: Favorite fact I didn't have time for. Original BH paper on FDR been cited on average 3 times per day(!)for last 14 years #BoG14
+464580532651974657  May  8 21:40  @cdeboever3       #BoG14 RT @aaronquinlan: One of the articles about reproducibility cited in the excellent talk by @mstephens999: http://biostatistics.oxfordjournals.org/content/11/3/385.full
+464580600033472512  May  8 21:40  @jcschw02         @ATJCagan upper left @konradjk: Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/iF3ECGMFcm
+464580641708060672  May  8 21:40  @cdbustamante     RT @mstephens999: Favorite fact I didn't have time for. Original BH paper on FDR been cited on average 3 times per day(!)for last 14 years #BoG14
+464580650583216128  May  8 21:40  @trajnp           RT @mstephens999: Favorite fact I didn't have time for. Original BH paper on FDR been cited on average 3 times per day(!)for last 14 years #BoG14
+464580759039524864  May  8 21:40  @GenomeNathan     Reyes looks for same-gene exons with stably tissue-discordant usage among haplorhines. #BoG14
+464581194139836416  May  8 21:42  @aaronquinlan     “an article about a computational result is advertising, not scholarship." [1/2] #bog14
+464581281758846977  May  8 21:43  @aaronquinlan     "The actual scholarship is the full software environment, code and data, that produced the result.” [Claerbout] 2/2 #bog14
+464581397601341440  May  8 21:43  @joshulux         RT @yluo86: quote of the day #BoG14: "result without reproducible code is just an advertisement"
+464581528262291457  May  8 21:44  @JFWSchlesinger   RT @aaronquinlan: “an article about a computational result is advertising, not scholarship." [1/2] #bog14
+464581563607699456  May  8 21:44  @mucociliary      Reyes on differential exon usage in primates. Please please tell me he did motif finding on the splice junctions #BoG14
+464581567810379776  May  8 21:44  @JFWSchlesinger   RT @aaronquinlan: "The actual scholarship is the full software environment, code and data, that produced the result.” [Claerbout] 2/2 #bog14
+464581634948608001  May  8 21:44  @Jeff_et_al       RT @EimearEKenny: @Jeff_et_al presenting fantastic study looking at the genetic of real time response to drugs at #BoG14. Poster 194A. I might be biased :)
+464581951056519168  May  8 21:45  @cdbustamante     RT @yluo86: quote of the day #BoG14: "result without reproducible code is just an advertisement"
+464581997701378048  May  8 21:45  @Jeff_et_al       RT @MarylynRitchie: I think @mstephens999  just dropped the mic there at the end.  Well played. #BoG14 http://t.co/M4jJ6x0X2o
+464581999823699969  May  8 21:45  @VinJLynch        RT @mstephens999: Favorite fact I didn't have time for. Original BH paper on FDR been cited on average 3 times per day(!)for last 14 years #BoG14
+464582057906417664  May  8 21:46  @mucociliary      Hey! There we go #BoG14
+464582080987680768  May  8 21:46  @GholsonLyon      RT @mgymrek: thanks @mstephens999 for most entertaining and understandable talk on FDR I'll probably ever hear! and +1 for reproducibility push! #BoG14
+464582088638087168  May  8 21:46  @Jeff_et_al       RT @tuuliel: Stephens : if you publish computational results , you should publish the code. http://githum.com/stephens/ash . #BoG14
+464582255143583745  May  8 21:46  @Jeff_et_al       RT @konradjk: Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/EaCIWK3hY8
+464582424727683074  May  8 21:47  @Jeff_et_al       RT @casey6r0wn: .@mstephens999 has better talk jokes than you #BoG14
+464582611982368768  May  8 21:48  @GholsonLyon      RT @cdeboever3: #BoG14 RT @aaronquinlan: One of the articles about reproducibility cited in the excellent talk by @mstephens999: http://biostatistics.oxfordjournals.org/content/11/3/385.full
+464582620370976768  May  8 21:48  @PepeClavijoM     RT @yluo86: quote of the day #BoG14: "result without reproducible code is just an advertisement"
+464582648288280577  May  8 21:48  @ATJCagan         RT @cdbustamante: The best statistics talks simplify a difficult concept, provide new insights, and temper expectations. MS just gave a master class #BoG14
+464582727627710465  May  8 21:48  @ferhatay         RT @cdbustamante: The best statistics talks simplify a difficult concept, provide new insights, and temper expectations. MS just gave a master class #BoG14
+464582743524130816  May  8 21:48  @nextgenseek      RT @cdbustamante: The best statistics talks simplify a difficult concept, provide new insights, and temper expectations. MS just gave a master class #BoG14
+464582904694464513  May  8 21:49  @nextgenseek      RT @dnadiver: Matthew Stephens: When publishing figures, publish the underlying code. #BoG14
+464582939490410496  May  8 21:49  @JChrisPires      RT @cdbustamante: The best statistics talks simplify a difficult concept, provide new insights, and temper expectations. MS just gave a master class #BoG14
+464582943474999297  May  8 21:49  @nextgenseek      RT @tuuliel: Stephens : if you publish computational results , you should publish the code. http://githum.com/stephens/ash . #BoG14
+464583025603674112  May  8 21:49  @AKermany         RT @MarylynRitchie: Reproducible research is the only way to go.  The rest is just advertising.  Way to go @mstephens999.  Boom! https://github.com/stephens999/ash #BoG14
+464583151751536641  May  8 21:50  @vsbuffalo        RT @aaronquinlan: “an article about a computational result is advertising, not scholarship." [1/2] #bog14
+464583166926528512  May  8 21:50  @vsbuffalo        RT @aaronquinlan: "The actual scholarship is the full software environment, code and data, that produced the result.” [Claerbout] 2/2 #bog14
+464583205971324930  May  8 21:50  @juansearch       Reyes: Exon usage has more interspecies variability than gene expression #BoG14
+464583441636687872  May  8 21:51  @SahaSurya        RT @aaronquinlan: “an article about a computational result is advertising, not scholarship." [1/2] #bog14
+464583489023930369  May  8 21:51  @Billare          RT @ATJCagan: Pickrell on combining functional annotations and GWAS data to improve our understanding of human biology #BoG14 http://t.co/4bY2NGLeCU
+464583531168301057  May  8 21:52  @joshulux         @mstephens999 I don't see BoG listed as one of the talks with a knitr script at https://github.com/stephens999/ash/tree/master/talks - is it one of the others? #BoG14
+464583623157760002  May  8 21:52  @Billare          RT @ATJCagan: Stephens on false discovery rates and also the importance of reproducibility in genomic research #BoG14 http://t.co/fcHzOCnd2V
+464583749863481345  May  8 21:52  @genomeresearch   For posterity, where it can't be deleted MT @tuuliel: Stephens:if you publish computational results, you should publish the code.#BoG14
+464583856210067458  May  8 21:53  @mucociliary      A pitcher says exon use variation across species has more to do with intron sequence at splice border than anything else #BoG14
+464583868553908225  May  8 21:53  @GenomeNathan     Any exon in a storm: Reyes finds that, among primates, genes are expressed more stably than their individual exons. #BoG14
+464583965270347778  May  8 21:53  @fnothaft         RT @genomeresearch: For posterity, where it can't be deleted MT @tuuliel: Stephens:if you publish computational results, you should publish the code.#BoG14
+464584342921297921  May  8 21:55  @NoahFahlgren     RT @mstephens999: Favorite fact I didn't have time for. Original BH paper on FDR been cited on average 3 times per day(!)for last 14 years #BoG14
+464584413226221568  May  8 21:55  @splon            Sorry I missed this talk!  @Magda_Skipper: Mathew Stephens - genomics is measuring lots of things, with error #BoG14
+464584440090755072  May  8 21:55  @SahaSurya        +1000 RT @dnadiver: Matthew Stephens: When publishing figures, publish the underlying code. #BoG14
+464584474098163712  May  8 21:55  @genomeresearch   RT @konradjk: Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/EaCIWK3hY8
+464584539671920642  May  8 21:56  @tracey_423       RT @cdbustamante: The best statistics talks simplify a difficult concept, provide new insights, and temper expectations. MS just gave a master class #BoG14
+464584545455861761  May  8 21:56  @yluo86           Gusev is up now on how much heritability can be explained by regulatory variants ( much more than coding variants) #BoG14
+464585029579198464  May  8 21:57  @Magda_Skipper    Gusev makes a distinction between missing and hidden heritability #BoG14
+464585265886265347  May  8 21:58  @JChrisPires      RT @aaronquinlan: "The actual scholarship is the full software environment, code and data, that produced the result.” [Claerbout] 2/2 #bog14
+464585414163333121  May  8 21:59  @johnpharmd       RT @GenomeNathan: Any exon in a storm: Reyes finds that, among primates, genes are expressed more stably than their individual exons. #BoG14
+464585540286038016  May  8 21:59  @Graham_Coop      RT @yluo86: quote of the day #BoG14: "result without reproducible code is just an advertisement"
+464585577531457536  May  8 22:00  @JChrisPires      RT @GenomeNathan: Any exon in a storm: Reyes finds that, among primates, genes are expressed more stably than their individual exons. #BoG14
+464585760877080582  May  8 22:00  @JChrisPires      RT @genomeresearch: For posterity, where it can't be deleted MT @tuuliel: Stephens:if you publish computational results, you should publish the code.#BoG14
+464585988237709313  May  8 22:01  @JChrisPires      RT @cdeboever3: #BoG14 RT @aaronquinlan: One of the articles about reproducibility cited in the excellent talk by @mstephens999: http://biostatistics.oxfordjournals.org/content/11/3/385.full
+464586216370081792  May  8 22:02  @JMGIzarzugaza    RT @tuuliel: Stephens : if you publish computational results , you should publish the code. http://githum.com/stephens/ash . #BoG14
+464586458586959872  May  8 22:03  @SahaSurya        Going through #BoG14 tweets about @mstephens999s talk. Epic! Hope @cshlmeetings makes the video public cc @CSHLnews
+464586511351291904  May  8 22:03  @tuuliel          Gusev on h2 explained by different functional classes. Huge enrichment in DHS, also coding, UTRs. Nothing in introns & intergenic #BoG14
+464587077762682882  May  8 22:06  @JChrisPires      RT @yluo86: quote of the day #BoG14: "result without reproducible code is just an advertisement"
+464587121677070336  May  8 22:06  @JChrisPires      RT @mstephens999: Favorite fact I didn't have time for. Original BH paper on FDR been cited on average 3 times per day(!)for last 14 years #BoG14
+464587184818102272  May  8 22:06  @JChrisPires      RT @tuuliel: Battle: 15M genotypes, RNAseq from @joe_pickrell 2010, ribosome profiling, mass spec protein quants. High correlations between all #BoG14
+464587246180765696  May  8 22:06  @evolbrain        RT @tuuliel: Gusev on h2 explained by different functional classes. Huge enrichment in DHS, also coding, UTRs. Nothing in introns & intergenic #BoG14
+464587373066878976  May  8 22:07  @JChrisPires      RT @cdbustamante: Rafati: Rabbits declared "fish" by 14th century pope so you could eat during Lent...#BoG14
+464587590243336192  May  8 22:08  @cjfields         # 4 is by far my favorite.  Posters and Slides from #BoG14  http://www.homolog.us/blogs/blog/2014/05/07/posters-and-slides-from-bog14/
+464587667678978048  May  8 22:08  @Billare          RT @genetisaur: Stephens: rare SNPs and low expressed genes are measured with less precision, poor power to detect associations, affects FDR #BoG14
+464587685127266304  May  8 22:08  @erlichya         Gusev: No contribution of rare coding variants to the heritability in Schizophrenia. Oy Vey. #BoG14
+464587773362839552  May  8 22:08  @frankwalbert     preprint on Gusev’s talk is here: http://biorxiv.org/content/early/2014/04/20/004309.abstract #BoG14
+464587940782686208  May  8 22:09  @tuuliel          Gusev explicitly discusses potential caveats & criticism and how they addressed them. Nice! #bog14
+464588123910184960  May  8 22:10  @tuuliel          RT @frankwalbert: preprint on Gusev’s talk is here: http://biorxiv.org/content/early/2014/04/20/004309.abstract #BoG14
+464588830155501568  May  8 22:13  @yluo86           Gusev investigates rare coding variation on SCZ. replicating the DHS enrichment but observing no sig contribution.#BoG14
+464589468113317888  May  8 22:15  @NeBanovich       RT @jcschw02: @ATJCagan upper left @konradjk: Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/iF3ECGMFcm
+464589577748230144  May  8 22:16  @SahaSurya        RT @konradjk: .@joe_pickrell: not all SNPs are created equal, so weight priors by annotation #BoG14
+464589580390629377  May  8 22:16  @NeBanovich       RT @tuuliel: Stephens : if you publish computational results , you should publish the code. http://githum.com/stephens/ash . #BoG14
+464589661562998784  May  8 22:16  @konradjk         Amy Wilfert finishing the night on the n=1 problem in a sea of genomic data (with the ExAC consortium) #BoG14
+464590109439168512  May  8 22:18  @yluo86           Amy Wilfert: the N-1 problem: how do we put a p-value on a unique case? #BoG14
+464590396744794113  May  8 22:19  @JChrisPires      RT @cdbustamante: Beautiful talk by Peter Andolfatto on predictability and convergence in evolution using plant/herbivore system. #BoG14
+464590434514513920  May  8 22:19  @JChrisPires      RT @GenomeBiology: Peter Andolfatto: parallelism at molecular level associated with ability to sequester cardenolides in Apocyanoceae feeding insects #BoG14
+464590547228037122  May  8 22:19  @GenomeNathan     RT @konradjk: Amy Wilfert finishing the night on the n=1 problem in a sea of genomic data (with the ExAC consortium) #BoG14
+464590636570902528  May  8 22:20  @yluo86           Wilfert proposes a gene level model that incorporate information that captures the genetics of the variant and physiology of the gene #BoG14
+464590691222712321  May  8 22:20  @JChrisPires      RT @aaronquinlan: Well done. http://strcat.teamerlich.org/ is great example of how to make a simple, yet effective for exploring scientific results. #bog14
+464590792448020480  May  8 22:20  @JChrisPires      RT @lukejostins: Peter Andolfatto gives an excellent talk about parallel evolution of cardenolides-resistant ATPase in insects herbivores #BoG14
+464590945703690240  May  8 22:21  @EncodeDCC        .@mstephens999 stressed providing code & underlying data with results. We're also passionate about data provenance & reproducibility! #BoG14
+464591442795839488  May  8 22:23  @dgmacarthur      Amy Wilfert: building a model for predicting variant pathogenicity; large database of reference samples helps enormously. #bog14
+464591444230291456  May  8 22:23  @genetisaur       AW proposes a variant scoring model that improves effect prediction by incorporating variant class (much like shendure's CADD?) #BoG14
+464591620554625025  May  8 22:24  @JChrisPires      RT @genetisaur: AW proposes a variant scoring model that improves effect prediction by incorporating variant class (much like shendure's CADD?) #BoG14
+464591633779290112  May  8 22:24  @JChrisPires      RT @dgmacarthur: Amy Wilfert: building a model for predicting variant pathogenicity; large database of reference samples helps enormously. #bog14
+464591751635021824  May  8 22:24  @JChrisPires      RT @tuuliel: Stephens : if you publish computational results , you should publish the code. http://githum.com/stephens/ash . #BoG14
+464591770345807872  May  8 22:24  @JChrisPires      RT @ATJCagan: Stephens on false discovery rates and also the importance of reproducibility in genomic research #BoG14 http://t.co/fcHzOCnd2V
+464591853627920384  May  8 22:25  @JChrisPires      RT @leonidkruglyak: Many eQTL-pQTL discrepancies probably explained by statistical power, measurement techs, experimental diffs http://www.nature.com/nature/journal/v506/n7489/full/nature12904.html #BoG14
+464591942589116416  May  8 22:25  @JChrisPires      RT @tuuliel: Stegle: 27% of genes just tech variation, 42% of genes >3% of variation from cell cycle. Syncing cell cycle important! #BoG14
+464592233443115008  May  8 22:26  @JChrisPires      RT @erlichya: Q to #BoG14: If: DNA->RNA->Protein->Phenotype How h2(eQTL)>h2(pQTL) BUT h2(QTL)>h2(pQTL)? What suddenly amplifies the signal?
+464592267274371074  May  8 22:26  @JChrisPires      RT @mgymrek: good point by @dermitzakis: how is eQTL->pQTL replication affected by transcript diversity measured by tech. for expr vs. protein #BoG14
+464592294554112000  May  8 22:26  @JChrisPires      RT @psychgenomics: @tuuliel How many specific pQTLs could be driven by miRNA binding site SNP ld or do people eliminate pQTLs in LD with 3'UTR SNPs?  #BoG14
+464592383389487104  May  8 22:27  @yluo86           Wilfert concludes gene physiology and population genetics improve our ability to identify putatively causal mutations in single ind #BoG14
+464592406445584384  May  8 22:27  @JChrisPires      RT @GenomeNathan: If #BoG14 were 1 talk: Cell-specific allele-differential protein expression, in developing rabbit-human-cichlid chimeras.
+464592451756646400  May  8 22:27  @nextgenseek      RT @ATJCagan: Stephens on false discovery rates and also the importance of reproducibility in genomic research #BoG14 http://t.co/fcHzOCnd2V
+464592721697849344  May  8 22:28  @konradjk         @aaronquinlan @tuuliel @dgmacarthur let's have a reproducibility tweetup in the bar! #BoG14
+464592877142945794  May  8 22:29  @dgmacarthur      @konradjk @aaronquinlan @tuuliel We’ll have to do it at least twice. #bog14
+464592992335323136  May  8 22:29  @GenomeNathan     RT @genetisaur: AW proposes a variant scoring model that improves effect prediction by incorporating variant class (much like shendure's CADD?) #BoG14
+464593286775463938  May  8 22:30  @jianhua55        RT @MarylynRitchie: Great to see re-weighting GWAS with annotations. Biofilter is a great BioAnnotator for this type of work. http://www.biodatamining.org/content/6/1/25 #BoG14
+464593807036932096  May  8 22:32  @evolvability     RT @genetisaur: AW proposes a variant scoring model that improves effect prediction by incorporating variant class (much like shendure's CADD?) #BoG14
+464593968475693058  May  8 22:33  @evolvability     RT @dgmacarthur: Amy Wilfert: building a model for predicting variant pathogenicity; large database of reference samples helps enormously. #bog14
+464594420407746560  May  8 22:35  @doc2r06          RT @MarylynRitchie: I think @mstephens999  just dropped the mic there at the end.  Well played. #BoG14 http://t.co/M4jJ6x0X2o
+464595502315896834  May  8 22:39  @JasonWilliamsNY  RT @konradjk: Packed but attentive house in the bar for Matt Stephens talk at #BoG14 http://t.co/EaCIWK3hY8
+464595870508666881  May  8 22:41  @sr320            RT @tuuliel: Stephens : if you publish computational results , you should publish the code. http://githum.com/stephens/ash . #BoG14
+464596802185216000  May  8 22:44  @kevin_c_chen     RT @erlichya: #BoG14 People are tired. See the decline in the Twitter volume as progress of the conference. http://t.co/v3Z9LdTHP6
+464598346712481792  May  8 22:50  @JChrisPires      RT @erlichya: Alexsis* nailed it! (Based on Twitter analysis of #BoG14) *what is her twitter account? http://t.co/I6oBy0lINg
+464598531945537537  May  8 22:51  @JChrisPires      RT @casey6r0wn: The @joe_pickrell: Uses BMI Manhattan plot with largest effect locus labeled 'FTO'. Interpreting GWAS is hard. #BoG14
+464598622085349376  May  8 22:51  @JChrisPires      RT @obahcall: .@joe_pickrell showing increasing scale &  findings assoc loci from GWAS (eg BMI). Now What? Combine w functional genomics #BoG14 @nygenome
+464598673700446209  May  8 22:52  @JChrisPires      RT @obahcall: Like Mendelian Randomization on steroids... @cdbustamante comment to @joe_pickrell  #BoG14
+464598688665722881  May  8 22:52  @JChrisPires      RT @obahcall: demonstrating value and need for open access GWAS data +1 MT @GenomeNathan @joe_pickrell thoughtfully thanks you, on our behalf. #BoG14
+464598757469089792  May  8 22:52  @JChrisPires      RT @wrmccombie: Anything good at BoG tonight?  8 of us at Anthony Bourdains restaurant in NYC.#BoG14
+464598959991033856  May  8 22:53  @JChrisPires      RT @GenomeNathan: Bayes takes Manhattan: @joe_pickrell nests GWAS hits by functional class, to profile genetic bases of particular traits. #BoG14
+464599048365019136  May  8 22:53  @Awesomics        RT @ATJCagan: Wyman uses unique properties of different mutation types to estimate generation time in humans #BoG14 http://t.co/0AOAEVZR4N
+464599063145766913  May  8 22:53  @JChrisPires      RT @MarylynRitchie: Great to see re-weighting GWAS with annotations. Biofilter is a great BioAnnotator for this type of work. http://www.biodatamining.org/content/6/1/25 #BoG14
+464599087422390272  May  8 22:53  @JChrisPires      RT @tuuliel: .@joe_pickrell 's paper about molecular mechanisms underlying GWAS: http://www.cell.com/ajhg/abstract/S0002-9297%2814%2900106-2  #BoG14
+464599288971280386  May  8 22:54  @TimHVines        RT @yluo86: quote of the day #BoG14: "result without reproducible code is just an advertisement"
+464600231540441088  May  8 22:58  @FGED             RT @mgymrek: thanks @mstephens999 for most entertaining and understandable talk on FDR I'll probably ever hear! and +1 for reproducibility push! #BoG14
+464601444281487360  May  8 23:03  @Goodflies        RT @tuuliel: Stegle: 27% of genes just tech variation, 42% of genes >3% of variation from cell cycle. Syncing cell cycle important! #BoG14
+464602979308670977  May  8 23:09  @elhong           RT @yluo86: quote of the day #BoG14: "result without reproducible code is just an advertisement"
+464605346494173185  May  8 23:18  @SharlaEversman   RT @yluo86: Wilfert proposes a gene level model that incorporate information that captures the genetics of the variant and physiology of the gene #BoG14
+464605819531976704  May  8 23:20  @BsweatBrian      RT @cdeboever3: #BoG14 RT @aaronquinlan: One of the articles about reproducibility cited in the excellent talk by @mstephens999: http://biostatistics.oxfordjournals.org/content/11/3/385.full
+464607466349920256  May  8 23:27  @RonHause         Does anyone have a die? #BoG14 #beerdie #howsitgoing
+464609876229246976  May  8 23:36  @manuelrivascruz  RT @mstephens999: Favorite fact I didn't have time for. Original BH paper on FDR been cited on average 3 times per day(!)for last 14 years #BoG14
+464609907569086464  May  8 23:36  @manuelrivascruz  RT @cdbustamante: The best statistics talks simplify a difficult concept, provide new insights, and temper expectations. MS just gave a master class #BoG14
+464610584332623872  May  8 23:39  @sopopper         @RonHause We all got a die sometime. #BoG14
+464611742707089410  May  8 23:44  @sopopper         Hey, that's my poster! Thanks @cjfields!  #BoG14
