@@ -10653,3 +10653,12 @@
 464770038650929152  May  9 10:13  @tangming2005     RT @lpachter: What the FPKM? @hjpimentel's first blog post. http://bit.ly/1m2W6BL
 464773135599140864  May  9 10:25  @CIPFciencia      Dra Ligia Saraiva nos visita por el proyecto “RNA-seq studies of Gram-negative pathogens” dentro del programa TRANSBIO de movilidad
 464784737614434304  May  9 11:11  @lynxoid          RT @yokofakun: [delicious] What the FPKM? A review of RNA-Seq expression units #tweet: via @lpachter http://bit.ly/Rs1kvK
+464798308016607233  May  9 12:05  @tangming2005     please do have replicates in your RNA-seq data, I can not get statistical inference from that without repicates...
+464799877734871040  May  9 12:11  @SEQquestions     RNA-seq sample clustering using NMF package http://ift.tt/1jaddfl
+464800244069593088  May  9 12:13  @JavierHerrero7   RT @lpachter: What the FPKM? @hjpimentel's first blog post. http://bit.ly/1m2W6BL
+464814554879647744  May  9 13:10  @nathanseligson   RNA-seq on Identical Twins Discordant for Down’s Syndrome Reveal Genome-Wide Expression Dysregulation http://bit.ly/1it7ocR
+464815804023078912  May  9 13:14  @emmaggiees       On FPKM, RPKM and copy numbers: http://liorpachter.wordpress.com/2014/04/30/estimating-number-of-transcripts-from-rna-seq-measurements-and-why-i-believe-in-paywall/#comment-1278
+464816395008868352  May  9 13:17  @rnomics          http://bit.ly/1np4qhx RNASeqGUI: A GUI for analysing RNA-Seq data http://bioinformatics.oxfordjournals.org posted by friends:  (1) SAGRudd...
+464817727870607360  May  9 13:22  @rnomics          CT @rnomics/bioinfo #RNASeqGUI: A GUI for analysing #RNA-Seq data: http://bioinformatics.oxfordjournals.org posted by friends:... http://bit.ly/1ixD9WH
+464817920787628032  May  9 13:23  @andrewyatz       RT @lpachter: What the FPKM? @hjpimentel's first blog post. http://bit.ly/1m2W6BL
+464833882177941504  May  9 14:26  @BioStarQuestion  htseq-count for pair-end RNA-seq http://ift.tt/1kYEwe9
