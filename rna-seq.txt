@@ -10675,3 +10675,6 @@
 465046945518477312  May 10 04:33  @JokeReumers      What the FPKM? A review of RNA-Seq expression units http://wp.me/p3PwCC-A via @wordpressdotcom
 465067118715613184  May 10 05:53  @rnomics          Parseq: reconstruction of microbial transcription landscape from #RNA-Seq read counts using... http://bit.ly/1lc1lOl #bioinformaticsj
 465104619426054144  May 10 08:22  @animesh1977      Parseq: reconstruction of microbial transcription landscape from RNA-Seq read counts using state-space models http://ift.tt/1jKQ5Jc
+465128603249049600  May 10 09:57  @juhussin         @davisjmcc fyi :) RT @juansearch Stegle: Single cell RNA-seq requires understanding and controlling for cell cycle variation in expression
+465132904537128960  May 10 10:15  @animesh1977      Efficient RNA Isoform Identification and Quantification from RNA-Seq Data with Network Flows http://ift.tt/1iBe8FQ
+465132907078901760  May 10 10:15  @animesh1977      compcodeR - an R package for benchmarking differential expression methods for RNA-seq data http://ift.tt/RzeAyF
