@@ -10708,3 +10708,7 @@
 465915337070755841  May 12 14:04  @rnomics          CT @rnomics/bioinfo shortran 0.43 – small #RNA-seq data analysis: http://mybiosoftware.com - admin 200) &&... http://bit.ly/1loOFnx
 465915344226234369  May 12 14:04  @rnomics          CT @rnomics/bioinfo Differential expression with CQN normalized #RNA-seq data: http://biostars.org posted by... http://bit.ly/1loOFE8
 465921260074328064  May 12 14:27  @Malarky67        RT @genetics_blog: #Rstats pkg for benchmarking differential expression methods for RNA-seq data http://bioinformatics.oxfordjournals.org/content/early/2014/05/09/bioinformatics.btu324.short?rss=1 #bioinformatics
+465934654185701376  May 12 15:20  @charlesdanko     Head-to-head comparison of methods for detecting differential expression using RNA-seq data http://genomebiology.com/2013/14/9/R95 @SahaSurya
+465950730155618304  May 12 16:24  @zevkronenberg    RT @charlesdanko: Head-to-head comparison of methods for detecting differential expression using RNA-seq data http://genomebiology.com/2013/14/9/R95 @SahaSurya
+465952801513025536  May 12 16:32  @CarmeloFruciano  A Protocol for Visual Analysis of Alternative Splicing in RNA-Seq Data Using Integrated Genome Browser http://bit.ly/1qx1p0L
+465965178073264128  May 12 17:22  @actually_alan    RT @genetics_blog: #Rstats pkg for benchmarking differential expression methods for RNA-seq data http://bioinformatics.oxfordjournals.org/content/early/2014/05/09/bioinformatics.btu324.short?rss=1 #bioinformatics
