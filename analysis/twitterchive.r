@@ -2,7 +2,7 @@
 ## http://nsaunders.wordpress.com/2012/08/16/twitter-coverage-of-the-ismb-2012-meeting-some-statistics/
 
 ## Modify this. This is where I keep this repo.
-repoDir <- ("~/github/twitterchive/")
+repoDir <- ("~/workprojects/twitterchive/")
 
 ## Go to the analysis directory
 setwd(paste(repoDir, "analysis", sep=""))
@@ -111,6 +111,9 @@ twitterchivePlots <- function (filename=NULL) {
     message(paste(searchTerm, ": All done!\n"))
 }
 
-filelist <- as.list(list.files("..", pattern="GI2013.txt", full.names=T))
+filelist <- as.list(list.files("..", pattern="bog14.txt", full.names=T))
 #filelist <- list("../bioinformatics.txt", "../metagenomics.txt", "../rstats.txt", "../rna-seq.txt", "../cville.txt", "../SFAF2013.txt")
 lapply(filelist, twitterchivePlots)
+
+# Using imagemagick:
+# system("montage bog14--barplot-tweets-by-date.png bog14--barplot-tweets-by-hour.png bog14--barplot-top-hashtags.png bog14--barplot-top-users.png  -tile 2x -geometry -0-0 bog14--montage.jpg")
