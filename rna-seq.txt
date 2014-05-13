@@ -10715,3 +10715,6 @@
 466079025233154048  May 13 00:54  @rnomics          http://ift.tt/1nCthi2 compcodeR - an R package for benchmarking differential expression methods for RNA-seq data bioinformatics.oxfor...
 466079161535066112  May 13 00:55  @rnomics          CT @rnomics/bioinfo compcodeR - an R package for benchmarking differential expression methods for #RNA-seq data:... http://bit.ly/1lqUyk9
 466091820091330560  May 13 01:45  @xtYaoNYU         RT @cdbustamante: @konradjk I think you mean, "what the FPKM?" http://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/ @M_L_Carpenter
+466123690975830016  May 13 03:52  @PhilippBayer     Very useful if you work with RNASeq: A short review of expression units http://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/
+466127757294845953  May 13 04:08  @suimye           @n0rr 普通のRNA-Seqするときになじぇに固定するの？
+466129356390006785  May 13 04:14  @suimye           @n0rr ああ。分かってきた。1細胞 RNA-Seqにするときに 固相に固定した状態でsequencingしたいってことかしら。。　ん。違うか。よくわかってない。。
