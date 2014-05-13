@@ -10712,3 +10712,6 @@
 465950730155618304  May 12 16:24  @zevkronenberg    RT @charlesdanko: Head-to-head comparison of methods for detecting differential expression using RNA-seq data http://genomebiology.com/2013/14/9/R95 @SahaSurya
 465952801513025536  May 12 16:32  @CarmeloFruciano  A Protocol for Visual Analysis of Alternative Splicing in RNA-Seq Data Using Integrated Genome Browser http://bit.ly/1qx1p0L
 465965178073264128  May 12 17:22  @actually_alan    RT @genetics_blog: #Rstats pkg for benchmarking differential expression methods for RNA-seq data http://bioinformatics.oxfordjournals.org/content/early/2014/05/09/bioinformatics.btu324.short?rss=1 #bioinformatics
+466079025233154048  May 13 00:54  @rnomics          http://ift.tt/1nCthi2 compcodeR - an R package for benchmarking differential expression methods for RNA-seq data bioinformatics.oxfor...
+466079161535066112  May 13 00:55  @rnomics          CT @rnomics/bioinfo compcodeR - an R package for benchmarking differential expression methods for #RNA-seq data:... http://bit.ly/1lqUyk9
+466091820091330560  May 13 01:45  @xtYaoNYU         RT @cdbustamante: @konradjk I think you mean, "what the FPKM?" http://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/ @M_L_Carpenter
