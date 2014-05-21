@@ -2,7 +2,7 @@
 ## http://nsaunders.wordpress.com/2012/08/16/twitter-coverage-of-the-ismb-2012-meeting-some-statistics/
 
 ## Modify this. This is where I keep this repo.
-repoDir <- ("~/workprojects/twitterchive/")
+repoDir <- ("~/miguelcarvajal/twitterchive/analysis/")
 
 ## Go to the analysis directory
 setwd(paste(repoDir, "analysis", sep=""))
